@@ -7,17 +7,6 @@ meta_description: "Add excitement to your event with shuffleboard hire from Fun 
 permalink: "/products/shuffle-board/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire-9.jpg&cs=1200"
 ---
 
 # Shuffleboard Hire
@@ -34,10 +23,10 @@ Shuffleboard has stood the test of the time as one of the most beloved games fro
   
 We specialise in a large variety of events. Get a shuffleboard hire for:  
   
-✓ [Corporate events](../../../corporate-entertainment.html)  
-✓ [Exhibitions](../../../exhibition-games.html)  
-✓ [Family fun days](../../fun-days.html)  
-✓ [Weddings](../../../pages/hire-outdoor-games-for-weddings.html)  
+✓ [Corporate events](/../../corporate-entertainment/)  
+✓ [Exhibitions](/../../exhibition-games/)  
+✓ [Family fun days](/category/fun-days/)  
+✓ [Weddings](/pages/hire-outdoor-games-for-weddings/)  
 ✓ College and university events  
 ✓ Conferences and trade shows  
 ✓ Fundraisers  
@@ -70,13 +59,13 @@ In-house branding is also available. It is printed, applied, and removed after e
   
 (One time use only)  
   
-[Contact us](../../../pages/contact-fun-pro-uk.html) for custom pricing and availability.
+[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
 ## Why Choose Our Shuffleboard Hire Service?
 
-[Fun Pro UK](../../../pages/christmas-entertainment-game-hire'.html) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
+[Fun Pro UK](/pages/christmas-entertainment-game-hire'/) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
   
 Our shuffleboard table is maintained meticulously, so you receive it in top condition during the event. Aside from being fully functional, they are also visually appealing and guaranteed to be highly entertaining for your guests. No matter what type of event you’re hosting, you can rest assured that our shuffleboard hire meets yours and your guests’ expectations.  
   
@@ -125,7 +114,7 @@ Shuffleboard can be played with either 2 or 4 players. You can do a one-on-one m
 
 ### How do I book a shuffle board table for my event?
 
-Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](../../../pages/contact-fun-pro-uk.html), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
+Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](/pages/contact-fun-pro-uk/), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -165,16 +154,16 @@ Lift required
 
 ## Popular items:
 
-*   [Retro arcade machine](../../interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Batak Pro](../../batak/43/batak-pro.html#BodyContent)
-*   [Dance Machine](../../exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](../../interactive-game-hire/6/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Batak Pro](/products/batak43/batak-pro/#BodyContent)
+*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
 
 **Skirt Branding**
 
-In[\-](../../../admin/products-edit.aspx%3Fid=75.html#specification)house [](../../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=75.html#specification)available [](../../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=75.html#specification)time [](../../../admin/products-edit.aspx%3Fid=75.html#specification)use [](../../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
 
 **£295**\+ vat**

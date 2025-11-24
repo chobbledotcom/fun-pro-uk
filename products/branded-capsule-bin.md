@@ -7,8 +7,6 @@ meta_description: "Branded Capsule Bin is one of the wide range of products avai
 permalink: "/products/branded-capsule-bin/"
 categories: []
 features: []
-gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto/thumbs/aHR0cHM6Ly93d3cuZnVucHJvdWsuY28udWsvdGh1bWJzLmFzaHg_Y3M9MTIwMCZpbWc9RkJfSU1HXzE1MjQwNDEwNjk1MzIuanBnJmhxPTEmdz00ZmYzNDQyNWY1ZjYzMDE0NmM1ODBkOTZmMjZjMTRmMg"
 ---
 
 # Branded Capsule Bin
@@ -45,6 +43,6 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

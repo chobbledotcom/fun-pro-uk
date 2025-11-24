@@ -7,8 +7,6 @@ meta_description: "There&#39;s nothing more traditionally classy than a red carp
 permalink: "/products/red-carpet-and-4-gold-stanchions/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=red-carpet-and-4-gold-stanchions.jpg&cs=1200"
 ---
 
 # RED CARPET & 4 GOLD STANCHIONS
@@ -33,7 +31,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -45,13 +43,13 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 **Popular items:**
 
-*   [Magic Mirror](../13/magic-mirror.html "MAGIC MIRROR")
-*   [Photo Booth](../10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
+*   [Magic Mirror](/magic-mirror.html "MAGIC MIRROR")
+*   [Photo Booth](/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
 *   Selfie Pod
-*   [Green Screen Booth](../10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
+*   [Green Screen Booth](/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

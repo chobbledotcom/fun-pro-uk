@@ -12,5 +12,7 @@
 		"fetch-google-reviews": "node scripts/fetch-google-reviews.js",
 		"clean": "rm -rf .build _site"
 	},
-	"devDependencies": {}
+	"dependencies": {
+		"turndown": "^7.2.2"
+	}
 }

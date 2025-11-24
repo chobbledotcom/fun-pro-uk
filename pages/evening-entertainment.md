@@ -11,15 +11,15 @@ If you're looking to add some extra pizzazz to your night-time party, Fun Pro UK
 
 ## Fun Ideas for Evening Parties
 
-To add a touch of Hollywood glamour to your event, why not roll out the red carpet? Our [red carpets and gold stanchions](../category/photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions.html "RED CARPET & 4 GOLD STANCHIONS") add a touch of elegance and sophistication to any occasion, and make for a great photo opportunity for your guests.  
+To add a touch of Hollywood glamour to your event, why not roll out the red carpet? Our [red carpets and gold stanchions](/category/photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions.html "RED CARPET & 4 GOLD STANCHIONS") add a touch of elegance and sophistication to any occasion, and make for a great photo opportunity for your guests.  
   
-For more snapshots of the big evening, [Photo booths and magic mirrors](../category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ") always make events memorable! [Photo booths](../category/photo-booths-and-magic-mirrors/11/classic-photo-booths.html "CLASSIC PHOTO BOOTHS") are a hit with guests of all ages; everyone from kids to grandparents will want a printout of the big day. Not only do photobooths provide endless entertainment and opportunities for fun photos, but they also come with a range of fun props and personalised branding options to make your evening event truly unique.
+For more snapshots of the big evening, [Photo booths and magic mirrors](/category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ") always make events memorable! [Photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths.html "CLASSIC PHOTO BOOTHS") are a hit with guests of all ages; everyone from kids to grandparents will want a printout of the big day. Not only do photobooths provide endless entertainment and opportunities for fun photos, but they also come with a range of fun props and personalised branding options to make your evening event truly unique.
 
-There is a huge choice of game hire for parties.[Rodeo bulls](../category/fun-days/46/rodeo-bull.html "Rodeo Bull") are more thrilling entertainment that is sure to get hearts racing and pulses pounding. Who can stay on the rodeo bull the longest? Party into the night with this wild bucking bronco.  
+There is a huge choice of game hire for parties.[Rodeo bulls](/category/fun-days/46/rodeo-bull.html "Rodeo Bull") are more thrilling entertainment that is sure to get hearts racing and pulses pounding. Who can stay on the rodeo bull the longest? Party into the night with this wild bucking bronco.  
   
-[Arcade machines](../category/arcade-games/2/lights-out-game.html "Arcade Games ") are perfect for party game rentals and look the part at evening parties, and at Fun Pro UK, we have plenty, including [dance machines](../category/exhibition-games/39/dance-machine.html "Dance Machine") and [racing simulators](../category/interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators"). These will be a hit among gamers and anyone who loves a bit of healthy competition - they always get everyone's adrenaline pumping!  
+[Arcade machines](/category/arcade-games/lights-out-game.html "Arcade Games ") are perfect for party game rentals and look the part at evening parties, and at Fun Pro UK, we have plenty, including [dance machines](/category/exhibition-games/dance-machine.html "Dance Machine") and [racing simulators](/category/interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators"). These will be a hit among gamers and anyone who loves a bit of healthy competition - they always get everyone's adrenaline pumping!  
   
-And for those who like to roll the dice, our [casino tables](../category/christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE") are a sure bet. Whether you're hosting a themed casino night or just want to add a touch of excitement to your event, our professional croupiers and authentic mobile casino equipment will transport your guests to the bright lights of Las Vegas.
+And for those who like to roll the dice, our [casino tables](/category/christmas-game-hire/casino-table-hire.html "CASINO TABLE HIRE") are a sure bet. Whether you're hosting a themed casino night or just want to add a touch of excitement to your event, our professional croupiers and authentic mobile casino equipment will transport your guests to the bright lights of Las Vegas.
 
 ## Hire Evening Party and Event Entertainment Online
 
@@ -33,6 +33,6 @@ So why settle for a boring evening event? Contact Fun Pro UK today to see how we
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

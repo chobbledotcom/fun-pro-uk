@@ -7,67 +7,59 @@ meta_description: "Create unforgettable events with Fun Pro UK’s fun fair stal
 permalink: "/products/fun-fair-stalls/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=coconut-shy-stall-hire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=hook-a-duck-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=play-your-cards-right-stall-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=popcorn-machine-cart-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=target-ring-toss-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-axe-throwing-1.jpg&cs=1200"
 ---
 
 # Best Fun Fair Stalls in the UK!
 
-Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](fun-foods.html) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
+Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](fun-foods/) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
 
 Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
 [Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[More Details](fun-foods/92/candy-floss-cart-hire.html)
+[More Details](fun-foods/92/candy-floss-cart-hire/)
 
 [Coconut Shy Stall Hire](fun-fair-stalls/96/coconut-shy-stall-hire.html "Coconut Shy Stall Hire - Fun Fair Stalls ")
 
-[More Details](fun-fair-stalls/96/coconut-shy-stall-hire.html)
+[More Details](fun-fair-stalls/96/coconut-shy-stall-hire/)
 
 [Hook A Duck](fun-fair-stalls/103/hook-a-duck.html "Hook A Duck - Fun Fair Stalls ")
 
-[More Details](fun-fair-stalls/103/hook-a-duck.html)
+[More Details](fun-fair-stalls/103/hook-a-duck/)
 
 [Play Your Cards Right Stall Hire](fun-fair-stalls/97/play-your-cards-right-stall-hire.html "Play Your Cards Right Stall Hire - Fun Fair Stalls ")
 
-[More Details](fun-fair-stalls/97/play-your-cards-right-stall-hire.html)
+[More Details](fun-fair-stalls/97/play-your-cards-right-stall-hire/)
 
 [Popcorn Machine Cart Hire](fun-fair-stalls/93/popcorn-machine-cart-hire.html "Popcorn Machine Cart Hire - Fun Fair Stalls ")
 
-[More Details](fun-fair-stalls/93/popcorn-machine-cart-hire.html)
+[More Details](fun-fair-stalls/93/popcorn-machine-cart-hire/)
 
 [Target Ring Toss Hire](fun-fair-stalls/95/target-ring-toss-hire.html "Target Ring Toss Hire - Fun Fair Stalls ")
 
-[More Details](fun-fair-stalls/95/target-ring-toss-hire.html)
+[More Details](fun-fair-stalls/95/target-ring-toss-hire/)
 
 [Twin Axe throwing](all-products/98/twin-axe-throwing.html "Twin Axe throwing - All Products")
 
-[More Details](all-products/98/twin-axe-throwing.html)
+[More Details](all-products/98/twin-axe-throwing/)
 
 ## Hire Fun Fair Stalls for Your Next Event!
 
 Remember those fairground games you enjoyed as a child? Now you can recreate that fun at your next event with Fun Pro UK's fair stalls. We take care of setting everything up, making it easy to include them in any type of event. They are perfect for:
 
-*   [Summer Fun Day](../pages/outdoor-garden-game-hire.html)
+*   [Summer Fun Day](/pages/outdoor-garden-game-hire/)
     
 *   Staff Summer Party
     
-*   [School Fun Day](../pages/school-fun-day-entertainment-hire.html)
+*   [School Fun Day](/pages/school-fun-day-entertainment-hire/)
     
-*   [Staff Fun Day](staff-wellbeing-days.html)
+*   [Staff Fun Day](staff-wellbeing-days/)
     
 *   Side Stall Game Hire
 
 ... and more!
 
-Our fun fair stalls can be customised to suit your event’s theme or [company branding](../pages/promotion-event-games.html). Whether you want to display a logo or include personalised branding, we’ll help your stall blend perfectly with your event. These stalls are ideal for community events like village fetes and fun fairs, as well as for adding light-hearted entertainment to corporate functions and school activities.
+Our fun fair stalls can be customised to suit your event’s theme or [company branding](/pages/promotion-event-games/). Whether you want to display a logo or include personalised branding, we’ll help your stall blend perfectly with your event. These stalls are ideal for community events like village fetes and fun fairs, as well as for adding light-hearted entertainment to corporate functions and school activities.
 
 Some of our most popular fair stalls include the:
 
@@ -91,7 +83,7 @@ Contact us for custom pricing and availability.
 
 ## Why Choose Our Fun Fair Stalls?
 
-Fun Pro UK goes beyond simple [game hires](../pages/christmas-entertainment-game-hire'.html). We help you create an immersive experience that delights guests and enhances your event’s atmosphere. Here’s why event organisers trust us:
+Fun Pro UK goes beyond simple [game hires](/pages/christmas-entertainment-game-hire'/). We help you create an immersive experience that delights guests and enhances your event’s atmosphere. Here’s why event organisers trust us:
 
 ### Wide Range of High-quality Stalls and Games
 
@@ -123,7 +115,7 @@ When you’re happy with the fun fair stalls you’ve hired, confirm your bookin
 
 ### Step 3: Delivery and setup
 
-On the day of your event, we’ll handle delivering and setting up the [exhibition games](exhibition-games.html) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
+On the day of your event, we’ll handle delivering and setting up the [exhibition games](exhibition-games/) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
 
 ### Step 4: Event day support
 
@@ -135,7 +127,7 @@ After the event ends, we’ll handle the safe and efficient removal of all the f
 
 ## Ready to take your event to the next level?
 
-Make every event unforgettable and engaging. [Contact us today](../pages/contact-fun-pro-uk.html) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
+Make every event unforgettable and engaging. [Contact us today](/pages/contact-fun-pro-uk/) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
 
 ## Frequently Asked Questions
 
@@ -177,6 +169,6 @@ Yes, our professional staff will manage the stall to provide smooth service thro
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

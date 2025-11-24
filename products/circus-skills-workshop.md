@@ -7,8 +7,6 @@ meta_description: "Our circus skills workshops provide people of all ages with a
 permalink: "/products/circus-skills-workshop/"
 categories: []
 features: []
-gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto/thumbs/aHR0cHM6Ly93d3cuZnVucHJvdWsuY28udWsvdGh1bWJzLmFzaHg_Y3M9MTIwMCZpbWc9RkJfSU1HXzE1MjQwNDEwNjk1MzIuanBnJmhxPTEmdz00ZmYzNDQyNWY1ZjYzMDE0NmM1ODBkOTZmMjZjMTRmMg"
 ---
 
 # **Circus Skills Workshop Hire for Your Next Event**
@@ -17,7 +15,7 @@ gallery:
 
 Are you looking for something a little different for your next event that everyone can enjoy? Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing.
 
-From complete beginners to balance beam pros, these fun workshops are perfect for events like school fetes, corporate [team building days](../pages/team-building-ideas.html), festivals, and more.
+From complete beginners to balance beam pros, these fun workshops are perfect for events like school fetes, corporate [team building days](/pages/team-building-ideas/), festivals, and more.
 
 ### Skills You’ll Learn:
 
@@ -39,7 +37,7 @@ Our circus skills workshop hire makes a great addition to any event and is somet
 
 ### School events and fetes
 
-Circus skills workshops are the perfect activity for children, parents and teachers to all get involved and have fun at a [school event](../pages/school-fun-day-entertainment-hire.html) or fete.
+Circus skills workshops are the perfect activity for children, parents and teachers to all get involved and have fun at a [school event](/pages/school-fun-day-entertainment-hire/) or fete.
 
 ### Company team building days
 
@@ -53,7 +51,7 @@ Bring the local community together with one of our circus skills workshops, help
 
 ### Trained and experienced instructors
 
-Our professional circus instructors are passionate about teaching and helping you to create a memorable and [fun event](../news/2025-01-21/fun-group-activities-for-events-in-2025.html).
+Our professional circus instructors are passionate about teaching and helping you to create a memorable and [fun event](/blog/2025-01-21/fun-group-activities-for-events-in-2025/).
 
 ### All equipment provided
 
@@ -75,7 +73,7 @@ Our workshops are designed to, not only be a fun experience, but to ensure a saf
 
 Ready to bring the magic of the circus to your next event? Whether you’re looking for circus skills workshop hire for a school, party, or corporate event, we’ve got you covered.
 
-[Contact us now to book your unforgettable circus skills workshop experience.](../pages/contact-fun-pro-uk.html)
+[Contact us now to book your unforgettable circus skills workshop experience.](/pages/contact-fun-pro-uk/)
 
 ## Frequently Asked Questions
 
@@ -93,7 +91,7 @@ Your circus skills workshop hire package will include set up at your chosen loca
 
 ### How do I book a workshop?
 
-You can book your workshop directly with us at Fun Pro by getting in touch with our team [here.](../pages/contact-fun-pro-uk.html) We will be happy to discuss the details of your event and provide you with a free, no obligation quote.
+You can book your workshop directly with us at Fun Pro by getting in touch with our team [here.](/pages/contact-fun-pro-uk/) We will be happy to discuss the details of your event and provide you with a free, no obligation quote.
 
 ### What are the prices?
 
@@ -109,6 +107,6 @@ While our circus workshops can accommodate different venue sizes, it’s best to
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

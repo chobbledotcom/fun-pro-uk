@@ -14,8 +14,8 @@ const convertBlogIndex = () => {
   ensureDir(outputDir);
 
   const frontmatter = `---
-meta_title: "Latest Blog Posts | MyAlarm Security"
-meta_description: "All of the latest news from MyAlarm Security about home security, burglar alarms, and CCTV systems."
+meta_title: "News & Updates | Fun Pro UK"
+meta_description: "All of the latest news from Fun Pro UK about interactive game hire, corporate events, exhibitions, and parties."
 permalink: "/blog/"
 layout: news-archive.html
 eleventyNavigation:
@@ -23,9 +23,9 @@ eleventyNavigation:
   order: 5
 ---`;
 
-  const content = `# Latest Blog Posts
+  const content = `# News & Updates
 
-All of the latest news from MyAlarm Security and you can also find more news on our [Facebook Page](https://www.facebook.com/MyAlarm)!`;
+All of the latest news from Fun Pro UK - you can also find more updates on our [Facebook Page](https://www.facebook.com/funprouk/)!`;
 
   const fullContent = `${frontmatter}\n\n${content}`;
   const outputPath = path.join(outputDir, 'blog.md');

@@ -7,10 +7,6 @@ meta_description: "Brand your photobooth and your photo for memorable keepsakes 
 permalink: "/products/bespoke-photo-booth-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=bespoke-photo-booth-designs-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=bespoke-photo-booth-designs.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=bespoke-photo-booth-designs-4.jpg&cs=1200"
 ---
 
 # Bespoke Photo Booth Hire
@@ -35,9 +31,9 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Need a longer hire period?
 
-[Contact us](../../../pages/contact-fun-pro-uk.html) for custom pricing and availability.
+[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -79,10 +75,10 @@ Lift required
 
 ### **Popular Items:**
 
-*   [Leaded Board](../../interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../../interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ### **Branding Prices from:**
 
@@ -126,6 +122,6 @@ Adding a bespoke skin to your photo booth, or branding your social media booth, 
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,16 +7,6 @@ meta_description: "Host a thrilling casino night with our casino party hire. Per
 permalink: "/products/casino-table-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire-8.jpg&cs=1200"
 ---
 
 # CASINO TABLE HIRE
@@ -35,7 +25,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

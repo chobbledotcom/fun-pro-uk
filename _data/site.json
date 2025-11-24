@@ -1,9 +1,11 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "Fun Pro UK Ltd",
+	"url": "https://www.funprouk.co.uk/",
 	"socials": {
-		"Facebook": null,
-		"Instagram": null,
+		"Facebook": "https://www.facebook.com/funprouk/",
+		"Instagram": "https://www.instagram.com/funprouk.co.uk/",
+		"Twitter": "https://twitter.com/funprouk",
+		"LinkedIn": "https://uk.linkedin.com/company/fun-pro-uk",
 		"TikTok": null,
 		"Google": null,
 		"WhatsApp": null,

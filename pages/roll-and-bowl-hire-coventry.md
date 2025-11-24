@@ -9,7 +9,7 @@ layout: page
 
 Hiring the Roll n Bowl horse racing Donkey Derby game from Fun Pro UK for your exhibition stand and conference entertainment in Coventry sounds like a blast! And the best part is, you can even have bespoke branding applied to the game to make it even more personalized and eye-catching.
 
-Imagine having your company logo or event theme beautifully displayed on the [Roll n Bowl Hire Coventr](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html#BodyContent)[y](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html#BodyContent) game. It's a fantastic way to create a memorable experience for your attendees and make your brand stand out. Fun Pro UK offers bespoke branding options, so you can customize the game to match your specific needs and style.
+Imagine having your company logo or event theme beautifully displayed on the [Roll n Bowl Hire Coventr](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/#BodyContent)[y](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/#BodyContent) game. It's a fantastic way to create a memorable experience for your attendees and make your brand stand out. Fun Pro UK offers bespoke branding options, so you can customize the game to match your specific needs and style.
 
 Whether you want to promote your company, showcase a new product, or simply add a touch of fun to your event, the Roll n Bowl horse racing Donkey Derby game is a great choice. It's not only entertaining but also interactive, allowing your guests to participate and engage with your brand in a unique way.
 
@@ -17,7 +17,7 @@ Fun Pro UK is known for their high-quality games and excellent service. They pro
 
 You can trust them to take care of all the details, so you can focus on enjoying your event and creating lasting memories.
 
-Coventry is a vibrant city with a thriving business community, making it an ideal location for exhibitions and conferences. By adding the [Roll n Bowl game Coventry](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html#BodyContent) to your exhibition stand or conference entertainment, you'll create a fun and engaging atmosphere that will leave a lasting impression on your attendees.
+Coventry is a vibrant city with a thriving business community, making it an ideal location for exhibitions and conferences. By adding the [Roll n Bowl game Coventry](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/#BodyContent) to your exhibition stand or conference entertainment, you'll create a fun and engaging atmosphere that will leave a lasting impression on your attendees.
 
 So, if you're looking for a unique and exciting way to entertain your guests and promote your brand, I highly recommend hiring the Roll n Bowl horse racing Donkey Derby game from Fun Pro UK in Coventry. And don't forget to take advantage of their bespoke branding options to make it truly your own.
 
@@ -43,7 +43,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **Equipment size**
 
@@ -75,6 +75,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,21 +7,6 @@ meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, 
 permalink: "/products/vr-race-car-simulator/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator-12.jpg&cs=1200"
 ---
 
 # VR Race Car Simulator
@@ -90,11 +75,11 @@ As the growing crowd at your stand or trade show watches with excitement to see 
 
 **£1645**\+ vat**
 
-Delivered [](vr-race-car-simulator.html#specification)and [](vr-race-car-simulator.html#specification)installed on site by our trained team
+Delivered [](vr-race-car-simulator/#specification)and [](vr-race-car-simulator/#specification)installed on site by our trained team
 
-\*Delivery [](vr-race-car-simulator.html#specification)Charges & Minimum order value may apply
+\*Delivery [](vr-race-car-simulator/#specification)Charges & Minimum order value may apply
 
-[**Email:**](vr-race-car-simulator.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](vr-race-car-simulator/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -134,10 +119,10 @@ Lift required
 
 **Popular items:**
 
-*   [Dance machine](../../exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Batak pro](../../batak/43/batak-pro.html "Batak Pro")
+*   [Dance machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Batak pro](/products/batak43/batak-pro.html "Batak Pro")
 *   Lights out
-*   [Giant buzz wire](../../interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE")
+*   [Giant buzz wire](/products/giant-buzz-wire.html "GIANT BUZZ WIRE")
 
 ## **Virtual Reality Racing Car Simulator Hire**
 

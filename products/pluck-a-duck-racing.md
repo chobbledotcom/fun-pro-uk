@@ -7,15 +7,6 @@ meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties,
 permalink: "/products/pluck-a-duck-racing/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-3.png&cs=1200"
 ---
 
 # PLUCK A DUCK RACING
@@ -52,11 +43,11 @@ With its nostalgic charm and versatile applications, Pluck a Duck Racing is a mu
 
 **£1195**\+ vat**
 
-Delivered [](pluck-a-duck-racing.html#specification)and [](pluck-a-duck-racing.html#specification)installed on site by our trained team
+Delivered [](pluck-a-duck-racing/#specification)and [](pluck-a-duck-racing/#specification)installed on site by our trained team
 
-\*Delivery [](pluck-a-duck-racing.html#specification)Charges & Minimum order value may apply
+\*Delivery [](pluck-a-duck-racing/#specification)Charges & Minimum order value may apply
 
-[**Email:**](pluck-a-duck-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](pluck-a-duck-racing/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -96,10 +87,10 @@ Lift required
 
 **Popular items:**
 
-*   [Top Doc](../7/top-doc-operation-game.html "TOP DOC OPERATION GAME")
-*   [Giant Buzz Wire](../9/giant-buzz-wire.html "GIANT BUZZ WIRE")
+*   [Top Doc](/top-doc-operation-game.html "TOP DOC OPERATION GAME")
+*   [Giant Buzz Wire](/giant-buzz-wire.html "GIANT BUZZ WIRE")
 *   Lights Out
-*   [Batak Pro](../../batak/43/batak-pro.html "Batak Pro")
+*   [Batak Pro](/products/batak43/batak-pro.html "Batak Pro")
 
 ## Pluck a Duck Game Hire
 
@@ -136,6 +127,6 @@ Whether you’re looking for a unique teambuilding opportunity, a new game to he
 
 ### Mobile and versatile
 
-Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](../5/twin-racing-car-simulators.html "Racing Car Simulators"), lights out reaction games and [retro arcade machines](../4/retro-arcade-games.html "RETRO ARCADE GAMES").
+Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/twin-racing-car-simulators.html "Racing Car Simulators"), lights out reaction games and [retro arcade machines](/retro-arcade-games.html "RETRO ARCADE GAMES").
 
-From a single item to a whole [company fun day](../../fun-days.html "Fun Days") carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](../../corporate-entertainment.html "Corporate Entertainment ") package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
+From a single item to a whole [company fun day](/category/fun-days.html "Fun Days") carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/products/corporate-entertainment.html "Corporate Entertainment ") package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.

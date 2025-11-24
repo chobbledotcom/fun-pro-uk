@@ -7,13 +7,6 @@ meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your
 permalink: "/products/strike-a-snow-flake/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-5.jpg&cs=1200"
 ---
 
 # Strike A Snow Flake
@@ -22,7 +15,7 @@ gallery:
 
 ## **Best Strike a Snow Flake Game Hire for Events in the UK!**
 
-Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](../../../news/2024-08-23/christmas-events-and-party-ideas.html) or festive funfairs.  
+Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/blog/2024-08-23/christmas-events-and-party-ideas/) or festive funfairs.  
 
 ## **Hire a Strike a Snow Flake game for your holiday party!**
 
@@ -31,7 +24,7 @@ With its vibrant Christmas theme and engaging gameplay, Strike a Snowflake is id
   
 ✓ Corporate Christmas parties  
 ✓ Holiday themed [team building events  
-](../../../pages/team-building-ideas.html)✓ Christmas funfairs  
+](/pages/team-building-ideas/)✓ Christmas funfairs  
 ✓ [Family gatherings](http://)  
   
 ...and more!
@@ -92,7 +85,7 @@ If you need a longer hire period, get in touch for custom pricing and availabili
 
 \*Please note that delivery charges and minimum order values may apply.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -104,9 +97,9 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## **Why Choose Our Strike a Snow Flake Game Hire Service?**
 
-Fun Pro UK is the leading provider of [Christmas party games for hire](../../../pages/christmas-entertainment-game-hire'.html) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
+Fun Pro UK is the leading provider of [Christmas party games for hire](/pages/christmas-entertainment-game-hire'/) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
 
-Wherever your Christmas party is located, [Fun Pro](../../../pages/christmas-entertainment-game-hire'.html) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
+Wherever your Christmas party is located, [Fun Pro](/pages/christmas-entertainment-game-hire'/) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
 
 Whether your event is indoors or outdoors, our expert team handles delivery, setup, and operation, ensuring everything runs smoothly. With a hassle-free booking process, we’ll make sure the Strike a Snowflake game is ready for your guests to enjoy all day or night.
 
@@ -136,7 +129,7 @@ After the event, we’ll return to dismantle and collect the Strike a Snowflake 
 
 ## **Ready to take your event to the next level?**
 
-Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](../../../pages/contact-fun-pro-uk.html) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
+Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](/pages/contact-fun-pro-uk/) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
 
 ## **Frequently Asked Questions**
 
@@ -160,30 +153,30 @@ These customisation options make the game perfect for brand activations, trade s
 
 **Branding Prices from:**
 
-In[\-](../../../admin/products-edit.aspx%3Fid=75.html#specification)house [](../../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=75.html#specification)available [](../../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=75.html#specification)time [](../../../admin/products-edit.aspx%3Fid=75.html#specification)use [](../../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
 
 Branded Top Panel
 
 £175 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
 
 Branded side panels
 
 £250 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
 
 Fully Branded panels
 
 £420 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

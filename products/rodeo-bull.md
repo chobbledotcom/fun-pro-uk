@@ -7,21 +7,6 @@ meta_description: "Hire Our Rodeo Bull Game For Your Family Fun Days, Parties, E
 permalink: "/products/rodeo-bull/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-15.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-13.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-14.jpg&cs=1200"
 ---
 
 # Rodeo Bull
@@ -51,11 +36,11 @@ Get ready to hold on tight as the Rodeo Bull bucks and spins, challenging your r
 
 **£495**\+ vat**
 
-Delivered [](rodeo-bull.html#specification)and [](rodeo-bull.html#specification)installed on site by our trained team
+Delivered [](rodeo-bull/#specification)and [](rodeo-bull/#specification)installed on site by our trained team
 
-\*Delivery [](rodeo-bull.html#specification)Charges & Minimum order value may apply
+\*Delivery [](rodeo-bull/#specification)Charges & Minimum order value may apply
 
-[**Email:**](rodeo-bull.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](rodeo-bull/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

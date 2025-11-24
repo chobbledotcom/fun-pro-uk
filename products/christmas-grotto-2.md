@@ -7,12 +7,6 @@ meta_description: "Santas Grotto Hire | Christmas Entertainment | Fun Pro UK is 
 permalink: "/products/christmas-grotto-2/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-15x17x123ft-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-15x17x123ft-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2-1.jpg&cs=1200"
 ---
 
 # CHRISTMAS GROTTO 2
@@ -33,7 +27,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -83,6 +77,6 @@ This versatile inflatable comes with a full set of seasonal props to add to the 
 
 Just part of the festive fun
 
-Our choice of inflatable Christmas grottoes are just part of our seasonal selection, which also includes [festive themed photo booths](../../photo-booths-and-magic-mirrors/12/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS"), and even [adult sized bouncy castles](../../corporate-entertainment/23/large-bouncy-castles.html "LARGE BOUNCY CASTLES") to really add bounce to your company party. So whatever you've got planned for your company celebrations, contact us today for the best choice and value for your Christmas fun. Our elves can deliver all over the UK, just like Santa himself, from London to Liverpool, Birmingham to Brighton, but be warned, these items book up fast, so contact us today to reserve your date.
+Our choice of inflatable Christmas grottoes are just part of our seasonal selection, which also includes [festive themed photo booths](/../photo-booths-and-magic-mirrors/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS"), and even [adult sized bouncy castles](/products/corporate-entertainment/23/large-bouncy-castles.html "LARGE BOUNCY CASTLES") to really add bounce to your company party. So whatever you've got planned for your company celebrations, contact us today for the best choice and value for your Christmas fun. Our elves can deliver all over the UK, just like Santa himself, from London to Liverpool, Birmingham to Brighton, but be warned, these items book up fast, so contact us today to reserve your date.
 
 **Christmas Grotto available to hire Through out the UK**

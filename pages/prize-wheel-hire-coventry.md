@@ -7,7 +7,7 @@ layout: page
 
 # Prize Wheel Hire in Coventry from Fun Pro
 
-Whether you're planning a corporate event or setting up an exhibition stand, a [Prize wheel in Coventry](../category/arcade-games/49/prize-wheel.html) is a fantastic way to engage your audience and create a buzz!
+Whether you're planning a corporate event or setting up an exhibition stand, a [Prize wheel in Coventry](/category/arcade-games/49/prize-wheel/) is a fantastic way to engage your audience and create a buzz!
 
 When it comes to corporate events in Coventry, a prize wheel adds an element of excitement and anticipation. It's a fun and interactive game that allows participants to spin the wheel and win prizes. With bespoke branding from Fun Pro UK, you can customize the prize wheel with your company's logo, colours, and messaging. It's a great way to reinforce your brand identity and leave a lasting impression on your guests.
 
@@ -17,7 +17,7 @@ Coventry offers several excellent exhibition venues, including the CBS Arena, NA
 
 Fun Pro UK takes care of all the details when it comes to hiring a prize wheel. They provide delivery, setup, by trained staff. Whether you want to offer small giveaways or larger prizes, Fun Pro UK can help you create a memorable experience for your guests.
 
-So, whether you're planning a corporate event or setting up an exhibition stand in Coventry, hiring a prize wheel with [bespoke branding](../category/arcade-games/49/prize-wheel.html) from Fun Pro UK is a fantastic choice. It's a fun and engaging way to attract attention, reinforce your brand, and create a memorable experience for your guests. Get ready to spin and win!
+So, whether you're planning a corporate event or setting up an exhibition stand in Coventry, hiring a prize wheel with [bespoke branding](/category/arcade-games/49/prize-wheel/) from Fun Pro UK is a fantastic choice. It's a fun and engaging way to attract attention, reinforce your brand, and create a memorable experience for your guests. Get ready to spin and win!
 
 **Hire **Price** From £395** \+ vat
 
@@ -39,7 +39,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **Equipment size**
 
@@ -71,13 +71,13 @@ Please contact us to find out more
 
 **Popular Items:**
 
-*   [Leaded Board](../category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../category/interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/category/interactive-game-hire/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

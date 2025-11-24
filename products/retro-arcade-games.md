@@ -7,23 +7,6 @@ meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days,
 permalink: "/products/retro-arcade-games/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-13.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-14.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-15.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-17.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-18.jpg&cs=1200"
 ---
 
 # RETRO ARCADE GAMES
@@ -62,11 +45,11 @@ Ready to level up your event with RETRO ARCADE GAMES hire? Contact us today to b
 
 **£995**\+ vat**
 
-Delivered [](retro-arcade-games.html#specification)and [](retro-arcade-games.html#specification)installed on site by our trained team
+Delivered [](retro-arcade-games/#specification)and [](retro-arcade-games/#specification)installed on site by our trained team
 
-\*Delivery [](retro-arcade-games.html#specification)Charges & Minimum order value may apply
+\*Delivery [](retro-arcade-games/#specification)Charges & Minimum order value may apply
 
-[**Email:**](retro-arcade-games.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](retro-arcade-games/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -106,10 +89,10 @@ Lift required
 
 Popular items:
 
-*   [Batak Pro](../../batak/43/batak-pro.html "Batak Pro")
-*   [Race Car Simulators](../5/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Gold Cup Horse Racing](../29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Pic N Mix](../../exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire")
+*   [Batak Pro](/products/batak43/batak-pro.html "Batak Pro")
+*   [Race Car Simulators](/twin-racing-car-simulators.html "Racing Car Simulators")
+*   [Gold Cup Horse Racing](/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Pic N Mix](/../exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire")
 
 ## **Retro Arcade** Games Hire
 
@@ -127,7 +110,7 @@ Our classic arcade hire is also a great investment for company fun days too, wit
 
 **Arcade Game Hire Is Addictive Fun**
 
-Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](../../corporate-entertainment.html "Corporate Entertainment "), or for bringing in new clients and customers at an open day.
+Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/products/corporate-entertainment.html "Corporate Entertainment "), or for bringing in new clients and customers at an open day.
 
 **Get Arcade Games Hire for Your Next Special Event**
 
@@ -161,7 +144,7 @@ Please reach out to us now so that we can provide a quote to you. The quote incl
 
 Arcades games are for everyone to play. If you’re uncertain how many arcades you need, please reach out to us and we can offer an estimate based on how many people you have attending your next big event.
 
-Why not create your own amusement arcade by adding our [twin basketball challenge game](../../photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") or our authentic [racing car simulators](../5/twin-racing-car-simulators.html "Racing Car Simulators") for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
+Why not create your own amusement arcade by adding our [twin basketball challenge game](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") or our authentic [racing car simulators](/twin-racing-car-simulators.html "Racing Car Simulators") for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
 
 **Where Do I Get Arcade Games Hire?**
 

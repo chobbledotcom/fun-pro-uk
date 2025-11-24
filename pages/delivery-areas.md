@@ -23,7 +23,7 @@ Coventry, with its rich industrial heritage and vibrant business community, offe
 
 Corporate Events in Coventry
 
-Our games are often hired for [corporate events in Coventry](corporate-event-hire-coventry.html), ranging from team building days, and conferences to brand activation events.
+Our games are often hired for [corporate events in Coventry](corporate-event-hire-coventry/), ranging from team building days, and conferences to brand activation events.
 
 **Event Games for Hire in Coventry**
 
@@ -31,45 +31,45 @@ At Fun Pro, we offer a selection of games for hire when planning an event in Cov
 
 #### Interactive Games
 
-*   [Batak Pro](batak-pro-hire-coventry.html)
+*   [Batak Pro](batak-pro-hire-coventry/)
     
-*   [Batak Lite](batak-lite-coventry.html)
+*   [Batak Lite](batak-lite-coventry/)
     
-*   [High Striker](high-striker-coventry.html)
+*   [High Striker](high-striker-coventry/)
     
-*   [Whack A Mole](whack-a-mole-hire-coventry.html)
+*   [Whack A Mole](whack-a-mole-hire-coventry/)
     
-*   [Table Football](table-football-hire-coventry.html)
+*   [Table Football](table-football-hire-coventry/)
     
-*   [Dance Machine](dance-machine-hire-coventry.html)
+*   [Dance Machine](dance-machine-hire-coventry/)
 
 #### Prize Games
 
-*   [Prize Crane](prize-crane-hire-coventry.html)
+*   [Prize Crane](prize-crane-hire-coventry/)
     
-*   [Cash Grabber](cash-grabber-hire-coventry.html)
+*   [Cash Grabber](cash-grabber-hire-coventry/)
     
-*   [Plinko](plinko-hire-coventry.html)
+*   [Plinko](plinko-hire-coventry/)
     
-*   [Pick N Mix](pick-n-mix-hire-coventry.html)
+*   [Pick N Mix](pick-n-mix-hire-coventry/)
 
 #### Strategy & Challenge Games
 
-*   [Safe Cracker](roll-and-bowl-hire-coventry.html)
+*   [Safe Cracker](roll-and-bowl-hire-coventry/)
     
-*   [Vault Game](vault-game-hire-coventry.html)
+*   [Vault Game](vault-game-hire-coventry/)
 
 #### Simulation Games
 
-*   [Race Car Simulators](race-car-simulators-coventry.html)
+*   [Race Car Simulators](race-car-simulators-coventry/)
     
-*   [Ballando](ballnado-hire-coventry.html)
+*   [Ballando](ballnado-hire-coventry/)
 
 #### Photo & Entertainment Games
 
-*   [Photo Booth](photo-booth-hire-coventry.html)
+*   [Photo Booth](photo-booth-hire-coventry/)
     
-*   [Magic Mirror](magic-mirror-hire-coventry.html)
+*   [Magic Mirror](magic-mirror-hire-coventry/)
 
 ### Popular Venues in Coventry for Corporate Events
 
@@ -89,51 +89,51 @@ As the UK's second-largest city, Birmingham serves as a major hub for business a
 
 #### Corporate Events In Birmingham
 
-Our [event game hire](corporate-event-hire-birmingham.html) services have been featured at numerous prestigious venues throughout the city, bringing excitement and engagement to corporate events, including exhibitions, and networking events.
+Our [event game hire](corporate-event-hire-birmingham/) services have been featured at numerous prestigious venues throughout the city, bringing excitement and engagement to corporate events, including exhibitions, and networking events.
 
 ### **Event Games for Hire in Birmingham**
 
 #### Interactive Games
 
-*   [Batak Pro](batak-pro-hire-birmingham.html)
+*   [Batak Pro](batak-pro-hire-birmingham/)
     
-*   [Batak Lite](batak-lite-hire-birmingham.html)
+*   [Batak Lite](batak-lite-hire-birmingham/)
     
-*   [Strike a Light Danger Zone](strike-a-light-danger-zone-hire-birmingham.html)
+*   [Strike a Light Danger Zone](strike-a-light-danger-zone-hire-birmingham/)
     
-*   [Whack a Mole](whack-a-mole-hire-birmingham.html)
+*   [Whack a Mole](whack-a-mole-hire-birmingham/)
 
 #### Skill & Precision Games
 
-*   [Mega Wire](mega-wire-hire-birmingham.html)
+*   [Mega Wire](mega-wire-hire-birmingham/)
     
-*   [Roll and Bowl](roll-and-bowl-hire-birmingham.html)
+*   [Roll and Bowl](roll-and-bowl-hire-birmingham/)
     
-*   [Ballnado](ballnado-hire-birmingham.html)
+*   [Ballnado](ballnado-hire-birmingham/)
 
 #### Prize Games
 
-*   [Plinko](plinko-hire-birmingham.html)
+*   [Plinko](plinko-hire-birmingham/)
 
 #### Strategy & Challenge Games
 
-*   [Crack the Code](crack-the-code-hire-birmingham.html)
+*   [Crack the Code](crack-the-code-hire-birmingham/)
 
 #### Photo & Entertainment Games
 
-*   [Magic Mirror](magic-mirror-hire-birmingham.html)
+*   [Magic Mirror](magic-mirror-hire-birmingham/)
 
 ### Premier Corporate Event Venues in Birmingham
 
-*   [Hilton Birmingham Metropole](hilton-birmingham-metropole.html)
+*   [Hilton Birmingham Metropole](hilton-birmingham-metropole/)
     
-*   [ICC Birmingham](game-hire-icc-birmingham.html)
+*   [ICC Birmingham](game-hire-icc-birmingham/)
     
-*   [NEC Birmingham](nec-birmingham.html)
+*   [NEC Birmingham](nec-birmingham/)
     
-*   [Aston Villa Football Club](aston-villa.html)
+*   [Aston Villa Football Club](aston-villa/)
     
-*   [Edgbaston Cricket Stadium](edgbaston.html)
+*   [Edgbaston Cricket Stadium](edgbaston/)
     
 *   NIA Birmingham
 
@@ -145,15 +145,15 @@ London, the UK's capital and business epicentre, provides endless opportunities 
 
 #### Conference Events in London
 
-Break the monotony of traditional [conference events](conference-game-hire-london.html) with engaging interactive activities and games that allow people to connect and get to know each other in a fun and easy way.
+Break the monotony of traditional [conference events](conference-game-hire-london/) with engaging interactive activities and games that allow people to connect and get to know each other in a fun and easy way.
 
 ### Games for Hire in London
 
-*   [Photo Booth Hire](photo-booth-hire-london.html)
+*   [Photo Booth Hire](photo-booth-hire-london/)
 
 ### Popular Event Venues in London
 
-*   [ExCeL London](excel-london.html)
+*   [ExCeL London](excel-london/)
 
 ## Additional UK Venues We Service
 
@@ -171,15 +171,15 @@ Beyond our primary locations, FunPro UK has brought interactive entertainment to
     
 *   Midlands Exhibition Centre Nottingham
     
-*   [The International Centre Telford](telford-international-centre.html)
+*   [The International Centre Telford](telford-international-centre/)
     
-*   [Manchester Central Convention Complex](manchester-central-convention-complex.html)
+*   [Manchester Central Convention Complex](manchester-central-convention-complex/)
     
 *   Warwickshire Exhibition Centre
     
-*   [Manufacturing Technology Centre](mtc-events.html)
+*   [Manufacturing Technology Centre](mtc-events/)
     
-*   [Cranmore Park](cranmore-park-conference-venue.html)
+*   [Cranmore Park](cranmore-park-conference-venue/)
 
 ## Why Choose FunPro UK for Your Event Entertainment?
 
@@ -193,7 +193,7 @@ Beyond our primary locations, FunPro UK has brought interactive entertainment to
     
 *   Customisation Options - Branding and personalisation available for corporate clients
 
-[Contact us](contact-fun-pro-uk.html) today to discuss how we can make your next event unforgettable with our interactive game hire services.
+[Contact us](contact-fun-pro-uk/) today to discuss how we can make your next event unforgettable with our interactive game hire services.
 
 ## Popular Locations For Your Next Event
 
@@ -223,6 +223,6 @@ Not in one of our key delivery areas? That’s not a problem. Although we’re b
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

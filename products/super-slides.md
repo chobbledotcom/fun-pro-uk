@@ -7,9 +7,6 @@ meta_description: "Our inflatable slides are fully-customisable - display your l
 permalink: "/products/super-slides/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=super-slides-5.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=super-slides-2.png&cs=1200"
 ---
 
 # SUPER SLIDES
@@ -24,11 +21,11 @@ gallery:
 
 **£295**\+ vat**
 
-Delivered [](super-slides.html#specification)and [](super-slides.html#specification)installed on site by our trained team
+Delivered [](super-slides/#specification)and [](super-slides/#specification)installed on site by our trained team
 
-\*Delivery [](super-slides.html#specification)Charges & Minimum order value may apply
+\*Delivery [](super-slides/#specification)Charges & Minimum order value may apply
 
-[**Email:**](super-slides.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](super-slides/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 If you really want your corporate event to get noticed, then nothing beats inflatable high slide hire. These huge, colourful inflatables stand head and shoulders above anything else, and can be seen from all around, drawing in the crowds.
 
@@ -38,11 +35,11 @@ Hiring a super slide is like putting up a massive advertisement for your event t
 
 ## **A huge fun day hit**
 
-Super slide hire also makes a thrilling centre-piece for your [company fun day](../../fun-days.html "Fun Days"). Everyone will want to have a go, and with our slides, they can, because they are built to take both children and adults, from eight years old to eighty. High slides are a brilliant ice breaker, getting everyone in the party mood as they climb the squishy steps and throw themselves down the slide.
+Super slide hire also makes a thrilling centre-piece for your [company fun day](/category/fun-days.html "Fun Days"). Everyone will want to have a go, and with our slides, they can, because they are built to take both children and adults, from eight years old to eighty. High slides are a brilliant ice breaker, getting everyone in the party mood as they climb the squishy steps and throw themselves down the slide.
 
 ## **Create your own carnival**
 
-Our giant inflatable slide hire will make your fun day really memorable, but why stop there, when you can create a complete carnival by adding other fun day hires. You can combine your slide with some crazy Wipeout games, add an [inflatable assault course](../21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES"), and even recreate your own seaside amusement arcade with [classic video games](../../interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES") and [basketball challenges](../../photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE").
+Our giant inflatable slide hire will make your fun day really memorable, but why stop there, when you can create a complete carnival by adding other fun day hires. You can combine your slide with some crazy Wipeout games, add an [inflatable assault course](/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES"), and even recreate your own seaside amusement arcade with [classic video games](/products/retro-arcade-games.html "RETRO ARCADE GAMES") and [basketball challenges](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE").
 
 Our team will be happy to hep you put together the perfect package, with great savings when you book multiple items. Remember, we deliver nationwide, from Scotland to Surrey, so contact us now and get set for some amazing summer fun.
 
@@ -84,7 +81,7 @@ Lift required
 
 **Popular items**
 
-*   [Bouncy castles](../../corporate-entertainment/23/large-bouncy-castles.html "LARGE BOUNCY CASTLES")
-*   [Assault courses](../21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")
-*   [Giant Jenga](../44/giant-jenga-hire.html "Giant Jenga Hire")
-*   [Giant connect 4](../../corporate-entertainment/45/giant-connect-4-game-hire.html "Giant Connect 4 Game Hire")
+*   [Bouncy castles](/products/corporate-entertainment/23/large-bouncy-castles.html "LARGE BOUNCY CASTLES")
+*   [Assault courses](/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")
+*   [Giant Jenga](/44/giant-jenga-hire.html "Giant Jenga Hire")
+*   [Giant connect 4](/products/corporate-entertainment/45/giant-connect-4-game-hire.html "Giant Connect 4 Game Hire")

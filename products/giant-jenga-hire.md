@@ -7,8 +7,6 @@ meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK
 permalink: "/products/giant-jenga-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-jenga-hire.jpg&cs=1200"
 ---
 
 # Giant Jenga Hire
@@ -55,15 +53,15 @@ Don't miss out on the fun – book our Giant Jenga Hire today and make your even
 
 **£240**\+ vat**
 
-Delivered [](giant-jenga-hire.html#specification)and [](giant-jenga-hire.html#specification)installed on site by our trained team
+Delivered [](giant-jenga-hire/#specification)and [](giant-jenga-hire/#specification)installed on site by our trained team
 
 PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
 
-(One [](giant-jenga-hire.html#specification)time [](giant-jenga-hire.html#specification)use [](giant-jenga-hire.html#specification)only)
+(One [](giant-jenga-hire/#specification)time [](giant-jenga-hire/#specification)use [](giant-jenga-hire/#specification)only)
 
-\*Delivery [](giant-jenga-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](giant-jenga-hire/#specification)Charges & Minimum order value may apply
 
-[**Email:**](giant-jenga-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](giant-jenga-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

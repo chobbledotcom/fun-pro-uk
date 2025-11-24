@@ -7,15 +7,6 @@ meta_description: "The Gold Bar Challenge – an exciting interactive game for c
 permalink: "/products/gold-bar-challenge/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-7.jpg&cs=1200"
 ---
 
 # Gold Bar Challenge
@@ -26,17 +17,17 @@ gallery:
 
 Looking to add excitement and engagement to your next event? The **Gold Bar Challenge** is the ultimate interactive game that combines skill, suspense, and fun. Perfect for exhibitions, brand activations, corporate events, and team-building activities, this game is designed to captivate audiences and create memorable experiences.
 
-#### [![](../../../userfiles/file/FunPro/Images/specification.png)](gold-bar-challenge.html#:~:text=your%20event%20shine.-,Specification,-Equipment%20size)
+#### [![](/../../userfiles/file/FunPro/Images/specification.png)](gold-bar-challenge/#:~:text=your%20event%20shine.-,Specification,-Equipment%20size)
 
-Delivered [](../../../admin/products-edit.aspx%3Fid=37.html#specification)and [](../../../admin/products-edit.aspx%3Fid=37.html#specification)installed on site by our trained team
+Delivered [](/../../admin/products-edit.aspx%3Fid=37/#specification)and [](/../../admin/products-edit.aspx%3Fid=37/#specification)installed on site by our trained team
 
-In[\-](../../../admin/products-edit.aspx%3Fid=37.html#specification)house [](../../../admin/products-edit.aspx%3Fid=37.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=37.html#specification)available [](../../../admin/products-edit.aspx%3Fid=37.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=37.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=37/#specification)house [](/../../admin/products-edit.aspx%3Fid=37/#specification)branding [](/../../admin/products-edit.aspx%3Fid=37/#specification)available [](/../../admin/products-edit.aspx%3Fid=37/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=37/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=37.html#specification)time [](../../../admin/products-edit.aspx%3Fid=37.html#specification)use [](../../../admin/products-edit.aspx%3Fid=37.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=37/#specification)time [](/../../admin/products-edit.aspx%3Fid=37/#specification)use [](/../../admin/products-edit.aspx%3Fid=37/#specification)only)
 
-\*Delivery [](../../../admin/products-edit.aspx%3Fid=37.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/../../admin/products-edit.aspx%3Fid=37/#specification)Charges & Minimum order value may apply
 
-[**Email:**](../../../admin/products-edit.aspx%3Fid=37.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](/../../admin/products-edit.aspx%3Fid=37/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -122,6 +113,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,35 +7,6 @@ meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events
 permalink: "/products/racing-car-simulators/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=racing-car-simulators-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-13.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-14.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-15.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-16.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-17.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-18.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-19.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-20.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-21.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-22.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-23.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-24.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-25.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=racing-car-simulators-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=racing-car-simulators-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=racing-car-simulators-6.jpg&cs=1200"
 ---
 
 # Racing Car Simulators
@@ -137,11 +108,11 @@ Don't miss out on the opportunity to bring the thrill of the racetrack to your e
 
 **£2050**\+ vat**
 
-Delivered [](twin-racing-car-simulators.html#specification)and [](twin-racing-car-simulators.html#specification)installed on site by our trained team
+Delivered [](twin-racing-car-simulators/#specification)and [](twin-racing-car-simulators/#specification)installed on site by our trained team
 
-\*Delivery [](twin-racing-car-simulators.html#specification)Charges & Minimum order value may apply
+\*Delivery [](twin-racing-car-simulators/#specification)Charges & Minimum order value may apply
 
-[**Email:**](twin-racing-car-simulators.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](twin-racing-car-simulators/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -181,9 +152,9 @@ Lift required
 
 **Popular items:**
 
-*   [Retro arcade machine](../4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Dance Machine](../../exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](../../photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE")
+*   [Retro arcade machine](/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE")
 *   Lights Out
 
 ## **Racing Car Simulator Hire**
@@ -240,4 +211,4 @@ Not only is this a fun way to provide entertainment for your guests, but it will
 
 **A huge interactive games range**
 
-Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](../9/giant-buzz-wire.html "GIANT BUZZ WIRE") to test your steady hand, to [retro arcade games](../4/retro-arcade-games.html "RETRO ARCADE GAMES") for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/giant-buzz-wire.html "GIANT BUZZ WIRE") to test your steady hand, to [retro arcade games](/retro-arcade-games.html "RETRO ARCADE GAMES") for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.

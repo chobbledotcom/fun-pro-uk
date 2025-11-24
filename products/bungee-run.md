@@ -7,8 +7,6 @@ meta_description: "Exciting and intense competitive fun! Strap on the bungee rop
 permalink: "/products/bungee-run/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=bungee-run.png&cs=1200"
 ---
 
 # Bungee Run
@@ -29,11 +27,11 @@ It's time to see who has eaten their Weetabix! Our Bungee Run is not for the fai
 
 **£395**\+ vat**
 
-Delivered [](bungee-run.html#specification)and [](bungee-run.html#specification)installed on site by our trained team
+Delivered [](bungee-run/#specification)and [](bungee-run/#specification)installed on site by our trained team
 
-\*Delivery [](bungee-run.html#specification)Charges & Minimum order value may apply
+\*Delivery [](bungee-run/#specification)Charges & Minimum order value may apply
 
-[**Email:**](bungee-run.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](bungee-run/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## LETS GET STARTED!
 
