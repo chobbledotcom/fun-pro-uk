@@ -1,0 +1,23 @@
+{
+  "banner": {
+    "special_offer": {
+      "message": "",
+      "link": ""
+    },
+    "images": []
+  },
+  "hero": {
+    "service_cards": []
+  },
+  "main_content": {
+    "paragraphs": [],
+    "highlight": ""
+  },
+  "why_choose_us": {
+    "heading": "Why Choose Us?",
+    "features": []
+  },
+  "reviews": {
+    "heading": "Our Reviews"
+  }
+}

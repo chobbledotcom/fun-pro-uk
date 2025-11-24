@@ -1,0 +1,119 @@
+---
+title: "CLASSIC PHOTO BOOTHS"
+price: ""
+order: 50
+meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
+meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
+permalink: "/products/classic-photo-booths/"
+categories: []
+features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-booths.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-booths.png&cs=1200"
+---
+
+# CLASSIC PHOTO BOOTHS
+
+"Please Note Leader Boards are not included unless requested"
+
+## Nationwide Photo Booth Hire
+
+Adding a photo booth to your corporate event is a sound investment, because not only does it give your guests something to remember your event and your company by, it also give your PR team loads of great shots to use in future publicity.
+
+**Hire Prices:**
+
+**3 hour hire from**
+
+**£450**\+ vat**
+
+**4 hour hire from**
+
+**£495**\+ vat**
+
+Delivered and installed on site by our trained team
+
+In[\-](classic-photo-booths.html#specification)house branding available Printed[,](classic-photo-booths.html#specification) applied & removed after each event
+
+(One time use only)
+
+\*Delivery Charges & Minimum order value may apply
+
+[**Email:**](classic-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+
+## As a nationwide hire company, we can provide everything you need for your party or event.
+
+We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+
+**We are able to cover the whole of the UK on request.**
+
+Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+
+**Specification**
+
+**Equipment size**
+
+2200mm Width x 1200mm Depth x 2005mm Height
+
+**Space required**
+
+2700mm Width x 2000mm Depth x 2005mm Height
+
+**Electric requirements**
+
+1 UK power socket (Booth wattage usage 110-140 watts)
+
+**Suitability**
+
+Indoor use only/Level surface
+
+**Access**
+
+Minimum door width 0.6m
+
+**Extra information**
+
+Can not be carried up or down flights of stairs.
+
+Lift required
+
+**Branding Prices from:**
+
+In-house branding available. We print, apply, and remove them after each event.
+
+(One time use only)
+
+**Branded full wrap**
+
+**£750**\+ vat**
+
+## A choice of photo booths
+
+Fun Pro UK offer classic photo booths for hire, with a choice of print styles, including the old school photo strip, one large and three small to share with friends and family, or a large 6x4 portrait. We can even brand every picture with your logo and slogan, or details of your event, so everyone goes home with your message as part of their pictures.
+
+As well as branding your pictures, we can [brand the booth](../../branded-exhibition-games/24/bespoke-photo-booth-hire.html "Bespoke Photo Booth Hire") itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](../12/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS") to match your event and venue
+
+## ![](../../../userfiles/classic-photo-booth.jpg)
+
+## A complete service
+
+Your [photo booth](../../../pages/photo-booth-hire-london.html) hire package includes :
+
+*   Unlimited visits and 2 prints per visit in colour or black & white
+*   Optional video messaging from your guests
+*   Fun filled prop box
+*   Direct download link to your photos sent after your event
+*   Your company messages or logos on every print
+
+Most importantly, your photo booth hire comes complete with a polite, professional operator, who will ensure that every guest gets the best from their pictures. It's an important feature that really reflects well on your company, showing how well you look after your customers. Just like the booths, your operator will be happy to sport your company logo while they are representing your brand.
+
+## The event essential
+
+Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](../10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS") for even more fun features.
+
+We offer reputable, reliable delivery right across the UK, so wherever your next event is, book your photo booth today.
+
+## What our customers are saying…
+
+[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+
+Happy customers we have worked along side

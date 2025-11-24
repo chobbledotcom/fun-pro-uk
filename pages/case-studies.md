@@ -1,0 +1,37 @@
+---
+meta_title: "Case Studies | Corporate Event Clients | Fun Pro UK"
+meta_description: "Want to see what happens when you choose Fun Pro UK for your corporate entertainment? Read our case studies - from trade shows to office parties."
+permalink: "/pages/case-studies/"
+layout: page
+---
+
+# **Case Studies**
+
+The Fun Pro team are proud to have worked with some of Britain's biggest companies, including household names like Rolls Royce and KPMG. These companies come back to us year after year, because they know they can rely on Fun Pro UK to provide a dependable, professional service wherever and whenever they need us.
+
+We've helped with everything from annual awards to Christmas celebrations, as well as providing stimulating conference entertainment to keep delegates entertained and engaged in between sessions.
+
+Take a look at our case studies and you'll see the many different ways that we can help your company to take care of your team, thank their families and attract new clients and customers.
+
+*   **[Rolls Royce Christmas Fun](rolls-royce-christmas-fun.html "Rolls Royce Christmas Fun")**
+*   **[KPMG Annual Awards](putting-kpmg-in-the-picture.html "Putting KPMG in the Picture")**
+*   **[NFU Insurance Conference](nfu-insurance-conference-games.html "NFU Insurance Conference Games")**
+*   **[Baylis & Harding Custom-Branded Prize Crane](baylis-and-harding-boosts-launch-with-fun-pro-prize-crane.html "How Baylis & Harding Created a Show-Stopping Product Launch with Fun Pro's Custom-Branded Prize Crane")**
+*   **[Tilda Rice Across Multiple UK Events](tilda-rice-across-multiple-uk-mela-events.html "Mela Events")**
+*   **[Lidl UK Mobile Prize Wheel Success](lidl-uk-case-study-mobile-prize-wheel-success.html "Lidl UK Case Study: Mobile Prize Wheel Success")**
+*   **[Poundland Student Activation Success](poundland-student-activation-success.html "Poundland Student Activation Success")**
+*   **[Zoflora Conference Success with Branded Interactive Games](zoflora-conference-success-with-branded-interactive-games.html "Zoflora Conference Success with Branded Interactive Games")**
+*   **[Kellanova World Health & Safety Week](kellanova-world-health-and-safety-week.html "Kellanova World Health & Safety Week")**
+*   **[Virgin Media O2 Corporate Events](virgin-media-o2-corporate-event.html "Virgin Media O2 Corporate Events Case Study")**
+
+To find out more, contact us today to discuss your next event. Our talented team of event managers are standing by to help, so just let us know what you need and you can leave the rest to us.
+
+*   Tel: 02477220701
+*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   Contact form
+
+## What our customers are saying…
+
+[Load More Reviews](testimonials.html#BodyContent)
+
+Happy customers we have worked along side

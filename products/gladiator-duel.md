@@ -1,0 +1,102 @@
+---
+title: "GLADIATOR DUEL"
+price: ""
+order: 50
+meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"
+meta_description: "Strap on the bungee cords and race to the end! Gladiator duels are as fun to watch as they are to play - laughter guaranteed! Available for hire nationwide."
+permalink: "/products/gladiator-duel/"
+categories: []
+features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gladiator-duel-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gladiator-duel-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gladiator-duel-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gladiator-duel-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gladiator-duel-5.jpg&cs=1200"
+---
+
+# GLADIATOR DUEL
+
+"Please Note Leader Boards are not included unless requested"
+
+## **Gladiator Duel Hire**
+
+**Hire Prices:**
+
+**4 hour hire from**
+
+**£395**\+ vat**
+
+Delivered [](gladiator-duel.html#specification)and [](gladiator-duel.html#specification)installed on site by our trained team
+
+\*Delivery [](gladiator-duel.html#specification)Charges & Minimum order value may apply
+
+[**Email:**](gladiator-duel.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+
+## As a nationwide hire company, we can provide everything you need for your party or event.
+
+We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+
+**We are able to cover the whole of the UK on request.**
+
+Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+
+**Specification**
+
+**Equipment size**
+
+4900mm Width x 5500mm Depth
+
+**Space required**
+
+5200mm Width x 6500mm Depth
+
+**Electric requirements**
+
+1 x 950 watt power source 3 pin mains UK power socket
+
+**Suitability**
+
+Indoor and outdoor use/Level surface
+
+**Access**
+
+Drive on only
+
+**Extra information**
+
+Can not be carried up or down flights of stairs.
+
+Lift required
+
+**Popular Products:**
+
+*   **[Human Football](../19/human-table-football.html "HUMAN TABLE FOOTBALL")**
+*   **[75ft Assault course](../21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")**
+*   **[Hungry Hippos](../32/dash-and-grab-hungry-hippo-inflatable-game.html "Dash & Grab / Hungry Hippo Inflatable Game")**
+*   **[Bungee run](../33/bungee-run.html "Bungee Run")**
+*   **[Total Wipeout](../20/total-wipe-out.html "TOTAL WIPE OUT")**
+
+## **Gladiator Duel Hire**
+
+Whether you are playing for fun or out for revenge on the workmate who stole your sandwiches from the office fridge, our gladiator duel is a great way to release any pent up tension during your office fun day, and have enormous fun doing it.
+
+After all, it's not every day you get to bash the boss or clobber a colleague, so the gladiator duel is your big chance.
+
+### The ultimate challenge
+
+Who will survive the pummelling and stay on their podium while knocking their opponent for six? Who has the best balance and the fastest swing? You'll be surprised at what you find out about your fellow workers when they let their hair down and really go for it, and the quietest secretary often turns out to be a secret Sparticus!
+
+### First class fun
+
+Gladiator duel game hire includes a top quality inflatable battle zone, to guarantee a soft landing when you get knocked down. You'll also get a pair of padded fighting sticks, just like the Gladiators on TV, plus a pair of head protectors to stop you getting hit too hard.
+
+It's always a massive success at any kind of [company fun day](../../fun-days.html "Fun Days"), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
+
+### A fantastic fun day range
+
+The gladiator duel is just part of our company fun day hire range, available for delivery across the UK. Why not add the hilarious mayhem of [human table football](../19/human-table-football.html "HUMAN TABLE FOOTBALL"), or the skill and timing of the [wipeout swinging arm game](../20/total-wipe-out.html "TOTAL WIPE OUT").
+
+Talk to our friendly team and we'll create the perfect package to suit your theme, your venue and your budget, with everything carefully planned to make your whole day hassle free.
+
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**

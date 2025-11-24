@@ -1,0 +1,386 @@
+---
+title: "Arcade Game Hire"
+price: ""
+order: 50
+meta_title: "Arcade Game Hire | Interactive Entertainment | Events UK-Wide"
+meta_description: "Fun Pro UK offers premium arcade game hire nationwide. Based in Coventry, we provide games for events across the UK. Reserve now for your next occasion!"
+permalink: "/products/arcade-games/"
+categories: []
+features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-14.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roller-bowler.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-dart-board.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=8-lane-roll-and-bowl.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=mega-wire-branded-game-hire-stand-alone-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-crane-arcade-grabber-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=whack-a-mole-game-hire-21.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=scalextric-slot-car-racing-15.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-pro-16.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-lite-27.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pix-n-mix-hire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=plinko-game-hire-14.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-35.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=leader-broad.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=football-tables-13.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=air-hockey-table-hire-9.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-19.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=crack-the-code-safe-cracker-35.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=the-vault-16.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=table-tennis-hire-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=crazy-golf.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=virtual-pinball.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=beat-the-buzzer-6.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-connect-4-game-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-jenga-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=green-screen-photo-booths-30.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=magic-mirror-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-game-hire-29.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=cash-grabber-machine-hire-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-basket-ball-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-cup-horse-racing-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=top-doc-operation-game-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.png&cs=1200"
+---
+
+# Trusted Arcade Game Hire in the UK
+
+Thinking of bringing the fun of the arcade to your guests? We have a range of classic arcade machine games available for hire through the UK. Like all of our products, our arcade rentals are securely stored, tested and maintained in our headquarters in the West Midlands, but we're happy to deliver them to events throughout the country.
+
+## Our Arcade Game Collection
+
+No one can resist the nostalgic appeal of winning games to collect tickets in exchange for prizes, so why not bring the atmosphere of the arcade with you? We've got a [retro gaming arcade](interactive-game-hire/4/retro-arcade-games.html), [tabletop games](corporate-entertainment/60/air-hockey-table-hire.html), [gambling games](freshers-fair-games/16/casino-table-hire.html), [games of skill](../crack-the-code-safe-cracker.html), and many more.
+
+Take a look at our variety of arcade game hires to find a price that suits your needs.
+
+[Catch it Reaction Ring Hire](exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
+
+[More Details](exhibition-games/94/catch-it-reaction-ring-hire.html)
+
+[Roller Bowler](arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
+
+[More Details](arcade-games/111/roller-bowler.html)
+
+[Gold Bar Challenge](exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
+
+[More Details](exhibition-games/107/gold-bar-challenge.html)
+
+[Electronic Dart Board](arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
+
+[More Details](arcade-games/106/electronic-dart-board.html)
+
+[8 Lane Roll & Bowl Donkey Derby](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
+
+[More Details](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html)
+
+[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+
+[More Details](all-products/64/mega-wire-branded-game-hire-stand-alone.html)
+
+[Prize Crane Arcade Grabber](../prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+
+[More Details](../prize-crane-arcade-grabber.html)
+
+[Whack A Mole game hire](all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
+
+[More Details](all-products/67/whack-a-mole-game-hire.html)
+
+[Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
+
+[More Details](all-products/88/scalextric-slot-car-racing.html)
+
+[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+
+[More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
+
+[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+
+[More Details](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
+
+[Batak Pro](batak/43/batak-pro.html "Batak Pro - Exhibition Games ")
+
+[More Details](batak/43/batak-pro.html)
+
+[Batak Lite](all-products/61/batak-lite.html "Batak Lite - Exhibition Games ")
+
+[More Details](all-products/61/batak-lite.html)
+
+[Snatch It](exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
+
+[More Details](exhibition-games/82/snatch-it.html)
+
+[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+
+[More Details](exhibition-games/42/pix-n-mix-hire.html)
+
+[Plinko Game Hire](all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
+
+[More Details](all-products/68/plinko-game-hire.html)
+
+[Ballnado Grabber](grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
+
+[More Details](grab-a-grand/36/ballnado-grabber.html)
+
+[LEADER BOARD](interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
+
+[More Details](interactive-game-hire/30/leader-board.html)
+
+[FOOTBALL TABLES](interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+
+[More Details](interactive-game-hire/27/football-tables.html)
+
+[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+
+[More Details](arcade-games/60/air-hockey-table-hire.html)
+
+[Prize Wheel](../prize-wheel.html "Prize Wheel - Prize Games ")
+
+[More Details](../prize-wheel.html)
+
+[Crack The Code safe cracker](../crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
+
+[More Details](../crack-the-code-safe-cracker.html)
+
+[The Vault](interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+
+[More Details](interactive-game-hire/50/the-vault.html)
+
+[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+
+[More Details](fun-foods/92/candy-floss-cart-hire.html)
+
+[Shuffleboard Hire](all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+
+[More Details](all-products/87/shuffle-board-hire.html)
+
+[Table Tennis Hire](corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
+
+[More Details](corporate-entertainment/80/table-tennis-hire.html)
+
+[Crazy Golf](fun-days/81/crazy-golf.html "Crazy Golf - Fun Days")
+
+[More Details](fun-days/81/crazy-golf.html)
+
+[Virtual Pinball](arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
+
+[More Details](arcade-games/77/virtual-pinball.html)
+
+[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+
+[More Details](interactive-game-hire/62/beat-the-buzzer.html)
+
+[GIANT BUZZ WIRE](interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+
+[More Details](interactive-game-hire/9/giant-buzz-wire.html)
+
+[Giant Connect 4 Game Hire](corporate-entertainment/45/giant-connect-4-game-hire.html "Giant Connect 4 Game Hire - Corporate Entertainment ")
+
+[More Details](corporate-entertainment/45/giant-connect-4-game-hire.html)
+
+[Giant Jenga Hire](fun-days/44/giant-jenga-hire.html "Giant Jenga Hire - Corporate Entertainment ")
+
+[More Details](fun-days/44/giant-jenga-hire.html)
+
+[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
+
+[More Details](photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html)
+
+[High Striker](arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+
+[More Details](arcade-games/48/high-striker.html)
+
+[MAGIC MIRROR](photo-booths-and-magic-mirrors/13/magic-mirror.html "MAGIC MIRROR - Photo Booths & Magic Mirrors ")
+
+[More Details](photo-booths-and-magic-mirrors/13/magic-mirror.html)
+
+[Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
+
+[More Details](all-products/51/roll-and-bowl-game-hire.html)
+
+[Racing Car Simulators](interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+
+[More Details](interactive-game-hire/5/twin-racing-car-simulators.html)
+
+[CASINO TABLE HIRE](christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
+
+[More Details](christmas-game-hire/16/casino-table-hire.html)
+
+[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
+
+[More Details](interactive-game-hire/3/grab-a-grand.html)
+
+[Dance Machine](exhibition-games/39/dance-machine.html "Dance Machine - Arcade Games ")
+
+[More Details](exhibition-games/39/dance-machine.html)
+
+[ELECTRONIC BASKET BALL HIRE](photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+
+[More Details](photo-booths/6/ultimate-green-screen-photo-booth.html)
+
+[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
+
+[More Details](interactive-game-hire/29/gold-cup-horse-racing.html)
+
+[PLUCK A DUCK RACING](interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+
+[More Details](interactive-game-hire/8/pluck-a-duck-racing.html)
+
+[RETRO ARCADE GAMES](interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+
+[More Details](interactive-game-hire/4/retro-arcade-games.html)
+
+[TOP DOC OPERATION GAME](interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+
+[More Details](interactive-game-hire/7/top-doc-operation-game.html)
+
+[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
+
+[More Details](corporate-entertainment/38/vr-race-car-simulator.html)
+
+## Hire Arcade Games at Your Next Event!
+
+Compact and stylish, our collection of classic arcade machines come with great visuals through LCD screens, perfectly working buttons and joysticks, complete tools and equipment, and everything else you and your guests need to get the full arcade experience.
+
+We specialise in small and large events such as:
+
+*   [Weddings](weddings.html "Weddings")
+*   [Exhibitions](exhibition-games.html "Exhibition Games ")
+*   [Corporate Entertainment](corporate-entertainment.html "Corporate Entertainment ")
+*   [Company Award Ceremonies](company-award-ceremonies.html "Company Award Ceremonies")
+*   [Fun days](fun-days.html "Fun Days")
+*   And much more!
+
+Whatever you're celebrating, our arcade [game hire services](../pages/christmas-entertainment-game-hire'.html) are here to bring a lively atmosphere and endless fun to any event.
+
+## Why Choose Our Arcade Game Hire Service?
+
+It's not just another set of game rentals to us, Fun Pro is all about helping you build memorable experiences at each event.
+
+### Top-quality Equipment
+
+We pride ourselves in providing only the highest quality arcade machine rentals. All of our equipment comes from leading manufacturers known for their durability and exceptional performance. Every arcade game we have goes thorough testing and maintenance to guarantee flawless operations.
+
+### Full Support and Service
+
+We understand how stressful event-planning can be, but with Fun Pro UK, arcade game hire is one thing you won’t have to worry about. Our hassle-free services cover everything from the initial booking to the final setup. We’ll take care of the logistics, so you can focus on enjoying your event. Whether it's a small gathering or a large-scale event, we’ll make sure your arcade games will be ready to entertain.
+
+### Customisable Options
+
+Every event is unique, and we believe your arcade game hire should reflect that. Mix and match different arcade games and create the perfect arcade experience for your guests. We can tailor our arcade games to match the theme, scale, and budget of your event. Plus, we also offer flexible hire durations and additional features, like personalised setups, to make your event stand out.
+
+### Engagement and Endless Fun
+
+Arcade games are more than just entertainment — they bring people together! Who doesn’t like good old friendly competition and the nostalgia of classic games? Inject buckets of fun into every corporate and private event. Arcade games are the perfect interactive element that captivates your guests, encourages their participation, and boosts enjoyment at any gathering.
+
+## How to Hire Our Arcade Games
+
+Booking the arcade video game machines you want with Fun Pro UK is easy and stress-free:
+
+#### Step 1: Enquiry
+
+Reach out to us via our website, email, or phone to discuss your event needs. Someone from our team will provide a personalised quote based on your requirements.
+
+#### Step 2: Confirmation
+
+When you’re happy with the arcade games for rent, confirm your booking, and we'll take care of the rest.
+
+#### Step 3: Delivery and setup
+
+On the day of the event, we’ll take care of delivering and setting up the arcade games at the venue. We’ll provide professional staffing when required to ensure that everything goes off without a hitch.
+
+#### Step 4: Event day support
+
+If you need any assistance during the event, our team of professionals are only one call away. Call: 0247 7220 701
+
+We’ll make sure everyone gets to enjoy the games you’ve booked.
+
+#### Step 5: Removal
+
+When the event is over, we’ll handle the safe and efficient removal of all the arcade games, leaving your venue exactly as we found it.
+
+Whatever you choose, you know you're with an experienced and professional team when you're with Fun Pro UK. We pride ourselves on our exceptional products and our top-notch customer service, which runs through every aspect of our business. Not only do we only invest in the best possible arcade machines, so you know you're getting some top-of-the line equipment when you're with us, but we also maintain them to the highest standards.
+
+## Ready to Take Your Event to the Next Level?
+
+Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, [Leicester](../pages/leicester-corporate-event-hire.html), [Nottingham](../pages/nottingham-corporate-event-hire.html), or any other location in the UK!
+
+If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](../pages/contact-fun-pro-uk.html "Contact Fun Pro UK")
+
+## Frequently Asked Questions
+
+### What’s included in our arcade machine hire service?
+
+Each arcade machine has the necessary accessories and includes [delivery](../pages/delivery-areas.html), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed.
+
+### How much space is required for setting up retro arcade machines?
+
+To give you a peek at some general guidelines and details, the space required for setting up an arcade video game machine depends primarily on two factors: the number of machines and additional equipment. Our team will work with you to ensure the layout will fit your venue.
+
+### Which arcade machines are the most frequently rented?
+
+Some of our most popular arcade machines are:
+
+*   [Electronic Basketball](photo-booths/6/ultimate-green-screen-photo-booth.html): Transform any space into a basketball court with this portable machine.
+    
+*   Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys.
+    
+*   [Twin Race Car Simulators](interactive-game-hire/5/twin-racing-car-simulators.html): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
+    
+*   [Dance Machine](exhibition-games/39/dance-machine.html): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
+    
+*   [Lights Out](arcade-games/2/lights-out-game.html): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
+
+If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](../pages/christmas-entertainment-game-hire'.html) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
+
+You can always find the perfect video game machine rental for you.
+
+### What types of events are ideal for including arcade games?
+
+There’s no such thing as an event that’s too posh for classic arcade games!
+
+Whatever event you’re hosting, our arcade game hire adds a fun, nostalgic, and interactive element that draws crowds and entertains your guests.
+
+Bust out the beloved arcade game machines at:
+
+*   [Corporate outings](../news/2018-08-22/benefits-of-team-building-days.html)
+    
+*   Product launches
+    
+*   [Trade shows](../news/2023-07-14/make-trade-shows-fun-with-branded-exhibition-games.html) and conferences
+    
+*   Birthday parties
+    
+*   [Weddings](../news/2017-10-17/wedding-fair-at-ettington-park.html) and anniversaries
+    
+*   Family reunions
+    
+*   Festivals and fairs
+    
+*   Grand openings
+    
+*   [Community events](fun-days.html)
+    
+*   Gaming conventions
+
+…and so much more!
+
+Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
+
+## What our customers are saying…
+
+[Load More Reviews](../pages/testimonials.html#BodyContent)
+
+Happy customers we have worked along side
