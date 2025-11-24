@@ -12,19 +12,47 @@ const localTemplate = path.join(root, '..', 'chobble-template');
 const templateExcludes = ['.git', 'node_modules', '*.md', 'test', 'test-*'];
 const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json', 'old_site'];
 
+// Helper function to copy directory recursively, excluding patterns
+function copyDirSync(src, dest, excludes = []) {
+  fs.mkdirSync(dest, { recursive: true });
+  const entries = fs.readdirSync(src, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const srcPath = path.join(src, entry.name);
+    const destPath = path.join(dest, entry.name);
+
+    // Check exclusions
+    const shouldExclude = excludes.some(pattern => {
+      if (pattern.startsWith('*')) {
+        return entry.name.endsWith(pattern.slice(1));
+      }
+      if (pattern.endsWith('*')) {
+        return entry.name.startsWith(pattern.slice(0, -1));
+      }
+      return entry.name === pattern;
+    });
+
+    if (shouldExclude) continue;
+
+    if (entry.isDirectory()) {
+      copyDirSync(srcPath, destPath, excludes);
+    } else {
+      fs.copyFileSync(srcPath, destPath);
+    }
+  }
+}
+
 function prep() {
   console.log('Preparing build...');
   fs.mkdirSync(build, { recursive: true });
-  
+
   if (fs.existsSync(localTemplate)) {
     console.log('Using local template...');
     if (!fs.existsSync(template)) {
       fs.mkdirSync(template, { recursive: true });
     }
-    const templateExcludeArgs = templateExcludes
-      .map(e => `--exclude="${e}"`)
-      .join(' ');
-    execSync(`rsync -r --delete ${templateExcludeArgs} "${localTemplate}/" "${template}/"`);
+    fs.rmSync(template, { recursive: true, force: true });
+    copyDirSync(localTemplate, template, templateExcludes);
   } else if (!fs.existsSync(template)) {
     console.log('Cloning template...');
     execSync(`git clone --depth 1 ${templateRepo} "${template}"`);
@@ -32,52 +60,67 @@ function prep() {
     console.log('Updating template...');
     execSync('git reset --hard && git pull', { cwd: template });
   }
-  
+
   fs.rmSync(path.join(template, 'test'), { recursive: true, force: true });
-  
+
   execSync(`find "${dev}" -type f -name "*.md" -delete 2>/dev/null || true`);
-  
-  const templateExcludeArgs = templateExcludes
-    .map(e => `--exclude="${e}"`)
-    .join(' ');
-  
-  const rootExcludeArgs = rootExcludes
-    .map(e => `--exclude="${e}"`)
-    .join(' ');
-  
-  execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
-  execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
-  
+
+  // Copy template to dev directory (replaces rsync)
+  fs.rmSync(dev, { recursive: true, force: true });
+  copyDirSync(template, dev, templateExcludes);
+
+  // Copy root content to dev/src (replaces rsync)
+  const srcDir = path.join(dev, 'src');
+  fs.mkdirSync(srcDir, { recursive: true });
+  copyDirSync(root, srcDir, rootExcludes);
+
   sync();
-  
+
   if (!fs.existsSync(path.join(dev, 'node_modules'))) {
     console.log('Installing dependencies...');
     execSync('npm install', { cwd: dev });
   }
-  
+
   fs.rmSync(path.join(dev, '_site'), { recursive: true, force: true });
   console.log('Build ready.');
 }
 
 function sync() {
-  const excludes = rootExcludes
-    .map(e => `--exclude="${e}"`)
-    .join(' ');
+  // Copy only specific file types from root to dev/src
+  const srcDir = path.join(dev, 'src');
+  const extensions = ['.md', '.scss', '.woff', '.woff2'];
 
-  const cmd = [
-    'rsync -ru',
-    excludes,
-    '--include="*/"',
-    '--include="**/*.md"',
-    '--include="**/*.scss"',
-    '--include="**/*.woff"',
-    '--include="**/*.woff2"',
-    '--exclude="*"',
-    `"${root}/"`,
-    `"${dev}/src/"`
-  ].join(' ');
+  function syncDir(srcPath, destPath) {
+    if (!fs.existsSync(srcPath)) return;
+    const entries = fs.readdirSync(srcPath, { withFileTypes: true });
 
-  execSync(cmd);
+    for (const entry of entries) {
+      const fullSrc = path.join(srcPath, entry.name);
+      const fullDest = path.join(destPath, entry.name);
+
+      // Check root exclusions
+      const shouldExclude = rootExcludes.some(pattern => {
+        if (pattern.startsWith('*')) {
+          return entry.name.endsWith(pattern.slice(1));
+        }
+        if (pattern.endsWith('*')) {
+          return entry.name.startsWith(pattern.slice(0, -1));
+        }
+        return entry.name === pattern;
+      });
+
+      if (shouldExclude) continue;
+
+      if (entry.isDirectory()) {
+        syncDir(fullSrc, fullDest);
+      } else if (extensions.some(ext => entry.name.endsWith(ext))) {
+        fs.mkdirSync(path.dirname(fullDest), { recursive: true });
+        fs.copyFileSync(fullSrc, fullDest);
+      }
+    }
+  }
+
+  syncDir(root, srcDir);
 }
 
 if (require.main === module) prep();
