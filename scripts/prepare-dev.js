@@ -7,15 +7,25 @@ const root = path.resolve(__dirname, '..');
 const build = path.join(root, buildDir);
 const template = path.join(build, 'template');
 const dev = path.join(build, 'dev');
+const localTemplate = path.join(root, '..', 'chobble-template');
 
 const templateExcludes = ['.git', 'node_modules', '*.md', 'test', 'test-*'];
-const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json'];
+const rootExcludes = ['.git', '*.nix', 'README.md', buildDir, 'scripts', 'node_modules', 'package*.json', 'old_site'];
 
 function prep() {
   console.log('Preparing build...');
   fs.mkdirSync(build, { recursive: true });
   
-  if (!fs.existsSync(template)) {
+  if (fs.existsSync(localTemplate)) {
+    console.log('Using local template...');
+    if (!fs.existsSync(template)) {
+      fs.mkdirSync(template, { recursive: true });
+    }
+    const templateExcludeArgs = templateExcludes
+      .map(e => `--exclude="${e}"`)
+      .join(' ');
+    execSync(`rsync -r --delete ${templateExcludeArgs} "${localTemplate}/" "${template}/"`);
+  } else if (!fs.existsSync(template)) {
     console.log('Cloning template...');
     execSync(`git clone --depth 1 ${templateRepo} "${template}"`);
   } else {
@@ -53,18 +63,20 @@ function sync() {
   const excludes = rootExcludes
     .map(e => `--exclude="${e}"`)
     .join(' ');
-  
+
   const cmd = [
     'rsync -ru',
     excludes,
     '--include="*/"',
     '--include="**/*.md"',
     '--include="**/*.scss"',
+    '--include="**/*.woff"',
+    '--include="**/*.woff2"',
     '--exclude="*"',
     `"${root}/"`,
     `"${dev}/src/"`
   ].join(' ');
-  
+
   execSync(cmd);
 }
 

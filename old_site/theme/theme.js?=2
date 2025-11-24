@@ -1,0 +1,194 @@
+
+
+new WOW({ offset: 70 }).init();
+
+$(document).ready(function () {
+
+
+
+	if ($("#HomepageMarker").length === 0) {
+
+	}
+	else {
+		$(".header__logo").addClass("wow fadeIn").attr({ "data-wow-duration": "1.5s", "data-wow-delay": "0.3s" });
+	};
+
+
+	// ADD SLIDEDOWN ANIMATION TO DROPDOWN //
+    $('.toplinks').on('show.bs.dropdown', function (e) {
+		var ddMenu = $(e.relatedTarget).next();
+        $(ddMenu).stop(true, true).slideDown();
+        $(ddMenu).find("a").addClass("animated");
+        window.scrollBy(0, 1);
+    });
+
+    // ADD SLIDEUP ANIMATION TO DROPDOWN //
+	$('.toplinks').on('hide.bs.dropdown', function (e) {
+		var ddMenu = $(e.relatedTarget).next();
+        ddMenu.slideUp();
+    });
+
+    $(".toplinks .toplinks__ul > li > a").each(function (index, value) {
+        $(this).attr("data-wow-delay", index / 10 + "s");
+        $(this).addClass("wow fadeIn");
+    });
+
+    $(".toplinks .dropdown-menu").each(function (index, value) {
+		$(this).find("a").each(function (index, value) {
+			$(this).attr("data-wow-delay", index / 10 + "s");
+			$(this).addClass("wow fadeIn");
+		});
+    });
+
+    // Prevent dropdown from closing when clicking inside it
+    $('.toplinks__dropdown').on('click', function (e) {
+        e.stopPropagation();
+    });
+	
+	$("img.has-tooltip").tooltip({
+		title: function () {
+			return $(this).attr("alt");
+		},
+		placement: "auto"
+	});
+
+	$("a.has-tooltip").tooltip({
+		placement: "auto"
+	});
+
+
+
+
+
+
+	$(window).on("resize", function () {
+		setTimeout(function () {
+			$('.testimonials__link').sameHeight();
+		}, 300);
+	}).resize();
+
+
+
+	$(window).on("resize", function () {
+		setTimeout(function () {
+
+			$('.featured-categories__title').sameHeight();
+			$('.featured-categories .fancybox').sameHeight();
+
+		}, 300);
+	}).resize();
+
+
+	//$('.photo-gallery__row').slick({
+	//	centerMode: true,
+	//	centerPadding: '0',
+	//	slidesToShow: 6,
+	//	arrows: false,
+	//	autoplay: true,
+	//	autoplaySpeed: 1500,
+	//	responsive: [
+	//		{
+	//			breakpoint: 768,
+	//			settings: {
+	//				arrows: false,
+	//				centerMode: true,
+	//				centerPadding: '40px',
+	//				slidesToShow: 2
+	//			}
+	//		},
+	//		{
+	//			breakpoint: 480,
+	//			settings: {
+	//				arrows: false,
+	//				centerMode: true,
+	//				centerPadding: '40px',
+	//				slidesToShow: 1
+	//			}
+	//		}
+	//	]
+	//});
+
+
+	$('.photo-gallery__row').slick({
+		speed: 5000,
+		autoplay: true,
+		autoplaySpeed: 0,
+		cssEase: 'linear',
+		slidesToShow: 1,
+		slidesToScroll: 1,
+		variableWidth: true,
+		arrows:false
+		/*,
+		responsive: [
+			{
+				breakpoint: 768,
+				settings: {
+					arrows: false,
+					centerMode: true,
+					centerPadding: '40px',
+					slidesToShow: 2
+				}
+			},
+			{
+				breakpoint: 480,
+				settings: {
+					arrows: false,
+					centerMode: true,
+					centerPadding: '40px',
+					slidesToShow: 1
+				}
+			}
+		]*/
+	});
+
+
+	//$('.featured-categories__category-panel').on('click',
+	//    function(e) {
+
+	//        var x = $(this).find('a').attr('href');
+	//        console.log(x);
+	//    }, true);
+
+
+	// var homeAssets = document.querySelector('.home-assets');
+	// var castlePanels = document.querySelectorAll('.castlePanel');
+
+	// castlePanels.forEach(function (panel) {
+	//     var quoteLink = document.createElement('a');
+	//     quoteLink.innerText = 'add to quote';
+	//     quoteLink.classList.add('asset-quote-link');
+	//     panel.appendChild(quoteLink);
+	// });
+
+	// if (homeAssets) {
+	//     homeAssets.addEventListener('click', function (e) {
+	//         e.preventDefault();
+
+
+	//         if (e.target.classList.contains('asset-quote-link')) {
+	//             sessionStorage.setItem("quote-asset", "");
+	//             sessionStorage.setItem("quote-asset", e.target.parentNode.getElementsByClassName('castleLink')[0].textContent);
+	//             window.location = '/pages/test#BodyContent';
+
+	//         }
+
+	//     });
+	// }
+
+	//var quotePageName = '/test#BodyContent';
+
+	// console.log(sessionStorage.getItem("quote-asset"));
+	// if (window.location.href.indexOf(quotePageName) > -1) {
+
+	//     var contactForm = document.querySelector('[id*="CustomContactForm_FormControlsPanel"]');
+	//     var labels = Array.from(contactForm.getElementsByTagName('label'));
+
+	//     labels.forEach(function(label) {
+	//         if (label.textContent === sessionStorage.getItem("quote-asset")) {
+	//             console.log('matched!');
+	//             label.previousElementSibling.checked = true;
+	//         }
+	//     });
+	// }
+
+});
