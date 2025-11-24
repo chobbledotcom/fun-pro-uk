@@ -121,6 +121,21 @@ const cleanContent = (content, contentType) => {
     .replace(/\[ \]/g, '') // Remove empty checkbox markers
     // Remove broken cloudinary image links
     .replace(/^!\[.*?\]\(https:\/\/res\.cloudinary\.com\/kbs\/image\/upload\/\)\s*$/gm, '')
+    // Remove empty markdown links (gallery images)
+    .replace(/^\[\]\([^)]+\)\s*$/gm, '')
+    // Remove links with only whitespace or image title text
+    .replace(/^\[!?\[.*?\]\([^)]*\)\]\([^)]*\)\s*$/gm, '')
+    // Remove social share buttons
+    .replace(/^\[!?\[Share.*?\]\([^)]*\)\]\([^)]*\)\s*$/gm, '')
+    .replace(/^\*\*Share This Product:?\*\*.*$/gm, '')
+    // Remove horizontal rules that are artifacts
+    .replace(/^\* \* \*\s*$/gm, '')
+    // Remove form-related content
+    .replace(/^\*\*Please [Ss]elect.*$/gm, '')
+    .replace(/^\*\*Product Enquiry.*$/gm, '')
+    .replace(/^\*\*Your Event Date.*$/gm, '')
+    .replace(/^\*\*Event Type.*$/gm, '')
+    .replace(/^\*\*Additional Info.*$/gm, '')
     // Fix multiple asterisks
     .replace(/\*{3,}/g, '**')
     .replace(/\*\*[ \t\u00A0]+\*\*/g, '**')

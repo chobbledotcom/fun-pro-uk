@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { listHtmlFiles, prepDir, writeMarkdownFile } = require('../utils/filesystem');
+const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
 const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
@@ -73,12 +73,17 @@ const convertProducts = async () => {
   const reviewsDir = path.join(config.OUTPUT_BASE, 'reviews');
   const productsSourcePath = config.paths.productsSource !== undefined ? config.paths.productsSource : config.paths.products;
   const productsDir = path.join(config.OLD_SITE_PATH, productsSourcePath);
-  const files = listHtmlFiles(productsDir);
 
-  if (files.length === 0) {
-    console.log('  No products directory found, skipping...');
+  // For Fun Pro UK, products are in category subdirectories, so use recursive search
+  const categoryDir = path.join(config.OLD_SITE_PATH, 'category');
+  const fileInfos = listHtmlFilesRecursive(categoryDir);
+
+  if (fileInfos.length === 0) {
+    console.log('  No products found, skipping...');
     return { successful: 0, failed: 0, total: 0 };
   }
+
+  console.log(`  Found ${fileInfos.length} product files`);
 
   // Products directory only contains imported products, safe to clean all
   prepDir(outputDir);
@@ -87,7 +92,25 @@ const convertProducts = async () => {
   const productCategoriesMap = scanProductCategories();
 
   const reviewsMap = new Map();
-  const result = await convertBatch(files, productsDir, outputDir, { reviewsMap, productCategoriesMap });
+
+  // Convert each product file
+  let successful = 0;
+  let failed = 0;
+
+  for (const fileInfo of fileInfos) {
+    try {
+      const fileContext = { reviewsMap, productCategoriesMap, categoryIndex: 0 };
+      // Pass the file name and its directory to convertSingle
+      if (await convertSingle(fileInfo.file, fileInfo.dir, outputDir, fileContext)) {
+        successful++;
+      } else {
+        failed++;
+      }
+    } catch (error) {
+      console.error(`  Error converting ${fileInfo.relativePath}:`, error.message);
+      failed++;
+    }
+  }
 
   if (reviewsMap.size > 0) {
     const { ensureDir } = require('../utils/filesystem');
@@ -119,7 +142,7 @@ const convertProducts = async () => {
     console.log(`  Created ${reviewsMap.size} unique review file(s)`);
   }
 
-  return result;
+  return { successful, failed, total: fileInfos.length };
 };
 
 module.exports = {

@@ -43,6 +43,41 @@ const listHtmlFiles = (dir) => {
 };
 
 /**
+ * Recursively list all HTML files in a directory and its subdirectories
+ * @param {string} dir - Directory to search
+ * @param {string} baseDir - Base directory for relative paths (optional)
+ * @returns {Array<{file: string, fullPath: string, relativePath: string, dir: string}>} Array of file info objects
+ */
+const listHtmlFilesRecursive = (dir, baseDir = dir) => {
+  if (!fs.existsSync(dir)) {
+    return [];
+  }
+
+  let results = [];
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const fullPath = path.join(dir, entry.name);
+
+    if (entry.isDirectory()) {
+      // Recursively search subdirectories
+      results = results.concat(listHtmlFilesRecursive(fullPath, baseDir));
+    } else if (entry.isFile() && entry.name.endsWith('.html')) {
+      // Calculate relative path from baseDir
+      const relativePath = path.relative(baseDir, fullPath);
+      results.push({
+        file: entry.name,
+        fullPath: fullPath,
+        relativePath: relativePath,
+        dir: path.dirname(fullPath)
+      });
+    }
+  }
+
+  return results;
+};
+
+/**
  * Clean files from a directory, optionally filtering which files to delete
  * @param {string} dir - Directory to clean
  * @param {Function} shouldDelete - Optional function(filename) that returns true if file should be deleted
@@ -116,6 +151,7 @@ module.exports = {
   readHtmlFile,
   writeMarkdownFile,
   listHtmlFiles,
+  listHtmlFilesRecursive,
   cleanDirectory,
   prepDir,
   downloadFile,

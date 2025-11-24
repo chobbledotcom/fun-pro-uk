@@ -61,187 +61,185 @@ gallery:
 
 # **Trusted Interactive Game Hire in the UK**
 
-Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](category/grab-a-grand.html). Fun Pro offers entertainment that suits any audience and any occasion.
+Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](grab-a-grand.html). Fun Pro offers entertainment that suits any audience and any occasion.
 
 ## **Our Interactive Game Collection**
 
-Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](category/interactive-game-hire/4/retro-arcade-games.html). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it’s over, everyone can walk away with exciting memories and fun experiences they won’t forget.
+Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](interactive-game-hire/4/retro-arcade-games.html). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it’s over, everyone can walk away with exciting memories and fun experiences they won’t forget.
 
 Look through our collection of interactive game hires to find a price that suits your needs.
 
-var orderId = ''; var orderTotal = 0;
+[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
 
-[Air Hockey Table Hire](category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+[More Details](arcade-games/60/air-hockey-table-hire.html)
 
-[More Details](category/arcade-games/60/air-hockey-table-hire.html)
+[Gold Bar Challenge](exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
 
-[Gold Bar Challenge](category/exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
+[More Details](exhibition-games/107/gold-bar-challenge.html)
 
-[More Details](category/exhibition-games/107/gold-bar-challenge.html)
+[Roller Bowler](arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
 
-[Roller Bowler](category/arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
+[More Details](arcade-games/111/roller-bowler.html)
 
-[More Details](category/arcade-games/111/roller-bowler.html)
+[Catch it Reaction Ring Hire](exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
 
-[Catch it Reaction Ring Hire](category/exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
+[More Details](exhibition-games/94/catch-it-reaction-ring-hire.html)
 
-[More Details](category/exhibition-games/94/catch-it-reaction-ring-hire.html)
+[Corn Hole](exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
 
-[Corn Hole](category/exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
+[More Details](exhibition-games/99/corn-hole.html)
 
-[More Details](category/exhibition-games/99/corn-hole.html)
+[Electronic Dart Board](arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
 
-[Electronic Dart Board](category/arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
+[More Details](arcade-games/106/electronic-dart-board.html)
 
-[More Details](category/arcade-games/106/electronic-dart-board.html)
+[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[Candy Floss Cart Hire](category/fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[More Details](fun-foods/92/candy-floss-cart-hire.html)
 
-[More Details](category/fun-foods/92/candy-floss-cart-hire.html)
+[Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
 
-[Scalextric Slot Car Racing](category/all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
+[More Details](all-products/88/scalextric-slot-car-racing.html)
 
-[More Details](category/all-products/88/scalextric-slot-car-racing.html)
+[Shuffleboard Hire](all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
 
-[Shuffleboard Hire](category/all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+[More Details](all-products/87/shuffle-board-hire.html)
 
-[More Details](category/all-products/87/shuffle-board-hire.html)
+[Bungee Run](fun-days/33/bungee-run.html "Bungee Run - Fun Days")
 
-[Bungee Run](category/fun-days/33/bungee-run.html "Bungee Run - Fun Days")
+[More Details](fun-days/33/bungee-run.html)
 
-[More Details](category/fun-days/33/bungee-run.html)
+[Crazy Golf](fun-days/81/crazy-golf.html "Crazy Golf - Fun Days")
 
-[Crazy Golf](category/fun-days/81/crazy-golf.html "Crazy Golf - Fun Days")
+[More Details](fun-days/81/crazy-golf.html)
 
-[More Details](category/fun-days/81/crazy-golf.html)
+[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
 
-[Mega Wire - Branded Game Hire (stand alone)](category/all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+[More Details](all-products/64/mega-wire-branded-game-hire-stand-alone.html)
 
-[More Details](category/all-products/64/mega-wire-branded-game-hire-stand-alone.html)
+[Snatch It](exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
 
-[Snatch It](category/exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
+[More Details](exhibition-games/82/snatch-it.html)
 
-[More Details](category/exhibition-games/82/snatch-it.html)
+[Table Tennis Hire](corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
 
-[Table Tennis Hire](category/corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
+[More Details](corporate-entertainment/80/table-tennis-hire.html)
 
-[More Details](category/corporate-entertainment/80/table-tennis-hire.html)
+[Virtual Pinball](arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
 
-[Virtual Pinball](category/arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
+[More Details](arcade-games/77/virtual-pinball.html)
 
-[More Details](category/arcade-games/77/virtual-pinball.html)
+[Plinko Game Hire](all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
 
-[Plinko Game Hire](category/all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
+[More Details](all-products/68/plinko-game-hire.html)
 
-[More Details](category/all-products/68/plinko-game-hire.html)
+[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
 
-[Roll & Bowl Donkey Derby](category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+[More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
 
-[More Details](category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
+[Whack A Mole game hire](all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
 
-[Whack A Mole game hire](category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
+[More Details](all-products/67/whack-a-mole-game-hire.html)
 
-[More Details](category/all-products/67/whack-a-mole-game-hire.html)
+[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
 
-[Danger-zone-strike-a-light-game-hire](category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+[More Details](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
 
-[More Details](category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
+[Batak Lite](all-products/61/batak-lite.html "Batak Lite - Exhibition Games ")
 
-[Batak Lite](category/all-products/61/batak-lite.html "Batak Lite - Exhibition Games ")
+[More Details](all-products/61/batak-lite.html)
 
-[More Details](category/all-products/61/batak-lite.html)
+[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
 
-[Beat The Buzzer](category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+[More Details](interactive-game-hire/62/beat-the-buzzer.html)
 
-[More Details](category/interactive-game-hire/62/beat-the-buzzer.html)
+[High Striker](arcade-games/48/high-striker.html "High Striker - Arcade Games ")
 
-[High Striker](category/arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+[More Details](arcade-games/48/high-striker.html)
 
-[More Details](category/arcade-games/48/high-striker.html)
+[Prize Crane Arcade Grabber](../prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
 
-[Prize Crane Arcade Grabber](prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+[More Details](../prize-crane-arcade-grabber.html)
 
-[More Details](prize-crane-arcade-grabber.html)
+[Prize Wheel](../prize-wheel.html "Prize Wheel - Prize Games ")
 
-[Prize Wheel](prize-wheel.html "Prize Wheel - Prize Games ")
+[More Details](../prize-wheel.html)
 
-[More Details](prize-wheel.html)
+[Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
 
-[Roll And Bowl Game Hire](category/all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
+[More Details](all-products/51/roll-and-bowl-game-hire.html)
 
-[More Details](category/all-products/51/roll-and-bowl-game-hire.html)
+[The Vault](interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
 
-[The Vault](category/interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+[More Details](interactive-game-hire/50/the-vault.html)
 
-[More Details](category/interactive-game-hire/50/the-vault.html)
+[Racing Car Simulators](interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
 
-[Racing Car Simulators](category/interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[More Details](interactive-game-hire/5/twin-racing-car-simulators.html)
 
-[More Details](category/interactive-game-hire/5/twin-racing-car-simulators.html)
+[Ballnado Grabber](grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
 
-[Ballnado Grabber](category/grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
+[More Details](grab-a-grand/36/ballnado-grabber.html)
 
-[More Details](category/grab-a-grand/36/ballnado-grabber.html)
+[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
 
-[VR Race Car Simulator](category/corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
+[More Details](corporate-entertainment/38/vr-race-car-simulator.html)
 
-[More Details](category/corporate-entertainment/38/vr-race-car-simulator.html)
+[Batak Pro](batak/43/batak-pro.html "Batak Pro - Exhibition Games ")
 
-[Batak Pro](category/batak/43/batak-pro.html "Batak Pro - Exhibition Games ")
+[More Details](batak/43/batak-pro.html)
 
-[More Details](category/batak/43/batak-pro.html)
+[GIANT BUZZ WIRE](interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
 
-[GIANT BUZZ WIRE](category/interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[More Details](interactive-game-hire/9/giant-buzz-wire.html)
 
-[More Details](category/interactive-game-hire/9/giant-buzz-wire.html)
+[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
 
-[Pix N Mix Hire](category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[More Details](exhibition-games/42/pix-n-mix-hire.html)
 
-[More Details](category/exhibition-games/42/pix-n-mix-hire.html)
+[Crack The Code safe cracker](../crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
 
-[Crack The Code safe cracker](crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
+[More Details](../crack-the-code-safe-cracker.html)
 
-[More Details](crack-the-code-safe-cracker.html)
+[Dance Machine](exhibition-games/39/dance-machine.html "Dance Machine - Arcade Games ")
 
-[Dance Machine](category/exhibition-games/39/dance-machine.html "Dance Machine - Arcade Games ")
+[More Details](exhibition-games/39/dance-machine.html)
 
-[More Details](category/exhibition-games/39/dance-machine.html)
+[ELECTRONIC BASKET BALL HIRE](photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
 
-[ELECTRONIC BASKET BALL HIRE](category/photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[More Details](photo-booths/6/ultimate-green-screen-photo-booth.html)
 
-[More Details](category/photo-booths/6/ultimate-green-screen-photo-booth.html)
+[LEADER BOARD](interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
 
-[LEADER BOARD](category/interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
+[More Details](interactive-game-hire/30/leader-board.html)
 
-[More Details](category/interactive-game-hire/30/leader-board.html)
+[RETRO ARCADE GAMES](interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
 
-[RETRO ARCADE GAMES](category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[More Details](interactive-game-hire/4/retro-arcade-games.html)
 
-[More Details](category/interactive-game-hire/4/retro-arcade-games.html)
+[FOOTBALL TABLES](interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
 
-[FOOTBALL TABLES](category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+[More Details](interactive-game-hire/27/football-tables.html)
 
-[More Details](category/interactive-game-hire/27/football-tables.html)
+[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
 
-[GOLD CUP HORSE RACING](category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
+[More Details](interactive-game-hire/29/gold-cup-horse-racing.html)
 
-[More Details](category/interactive-game-hire/29/gold-cup-horse-racing.html)
+[TOP DOC OPERATION GAME](interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
 
-[TOP DOC OPERATION GAME](category/interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+[More Details](interactive-game-hire/7/top-doc-operation-game.html)
 
-[More Details](category/interactive-game-hire/7/top-doc-operation-game.html)
+[PLUCK A DUCK RACING](interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
 
-[PLUCK A DUCK RACING](category/interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+[More Details](interactive-game-hire/8/pluck-a-duck-racing.html)
 
-[More Details](category/interactive-game-hire/8/pluck-a-duck-racing.html)
+[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
 
-[CASH GRABBER MACHINE HIRE](category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
+[More Details](interactive-game-hire/3/grab-a-grand.html)
 
-[More Details](category/interactive-game-hire/3/grab-a-grand.html)
+[CASINO TABLE HIRE](christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
 
-[CASINO TABLE HIRE](category/christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
-
-[More Details](category/christmas-game-hire/16/casino-table-hire.html)
+[More Details](christmas-game-hire/16/casino-table-hire.html)
 
 \*Please note that delivery charges and minimum order values may apply.
 
@@ -250,8 +248,6 @@ Our service includes delivery, setup, and removal by our professional team.
 In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
-
-[![](userfiles/file/FunPro/Images/request-a-free-quote.png)](interactive-game-hire.html#:~:text=CONTACT%20FUN%20PRO%20UK%20TODAY)
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -266,11 +262,11 @@ We specialise in small and large events such as:
 
 ✓ Weddings
 
-✓ [Exhibitions](exhibition-games.html)
+✓ [Exhibitions](../exhibition-games.html)
 
 ✓ Corporate entertainment
 
-✓ [Corporate events](category/corporate-entertainment.html)
+✓ [Corporate events](corporate-entertainment.html)
 
 ✓ Fun days
 
@@ -280,7 +276,7 @@ We specialise in small and large events such as:
 
 ... and so much more!
 
-[Fun Pro](pages/christmas-entertainment-game-hire'.html) is here to bring a lively atmosphere and endless fun to all your parties and events.
+[Fun Pro](../pages/christmas-entertainment-game-hire'.html) is here to bring a lively atmosphere and endless fun to all your parties and events.
 
 ## **Why Choose Our Interactive Game Hire Service?**
 
@@ -324,13 +320,11 @@ We’ll make sure everyone gets to enjoy the rental games you’ve booked.
 
 When the event is over, we’ll handle the safe and efficient removal of all the interactive games, leaving your venue exactly as we found it.
 
-Whatever interactive game hire you choose, you can rest assured that you’re with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](category/fun-days.html) and company games, so you know you're getting some top notch equipment that’s also maintained to the highest standards.
+Whatever interactive game hire you choose, you can rest assured that you’re with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](fun-days.html) and company games, so you know you're getting some top notch equipment that’s also maintained to the highest standards.
 
 ## **Ready to take your event to the next level?**
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-
-[![](userfiles/file/FunPro/Images/request-a-free-quote.png)](interactive-game-hire.html#:~:text=CONTACT%20FUN%20PRO%20UK%20TODAY)
 
 ## **Frequently Asked Questions**
 
@@ -344,7 +338,7 @@ Yes! Our team of professionals will take care of the entire logistics process fo
 
 ### How much space is required for interactive games?
 
-The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](category/corporate-entertainment/60/air-hockey-table-hire.html) may be more compact.
+The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](corporate-entertainment/60/air-hockey-table-hire.html) may be more compact.
 
 When you’re planning your event, consider the dimensions of the games and the available space at your venue. Talk to us if you need help, and we’ll be happy to assist.
 
@@ -354,18 +348,18 @@ Yes! Our interactive games cater to a wide range of age groups. We have indoor p
 
 ### Can the games be customised with branding or themes?
 
-Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that’s a [wedding](pages/hire-outdoor-games-for-weddings.html), a team building, or a corporate event.
+Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that’s a [wedding](../pages/hire-outdoor-games-for-weddings.html), a team building, or a corporate event.
 
 ### Can I hire the games for corporate events or team-building activities?
 
-Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](pages/team-building-ideas.html). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they’re perfect for corporate settings.
+Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](../pages/team-building-ideas.html). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they’re perfect for corporate settings.
 
 ## **Guaranteed to draw a crowd  
 **
 
 Interactive game hire is a great way to draw a crowd to your product launch or exhibition stand, especially in a busy venue where everyone is competing for attention. People will not only flock to have a go, they'll stay to watch other players too, giving you plenty of time to talk to them.
 
-You can [hire retro arcade games](category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES"), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](category/photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") that really get the crowd involved.
+You can [hire retro arcade games](interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES"), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") that really get the crowd involved.
 
 **Take a break  
 **Electronic games hire is ideal for conferences, presentations and training days, giving delegates a chance to relax and unwind during breakout times. Hiring interactive games for the office is also a great way of balancing work and play when your team are under pressure.
@@ -384,106 +378,6 @@ Compact and easy to play, our interactive games take up little space and as litt
 
 ## What our customers are saying…
 
-[Load More Reviews](pages/testimonials.html#BodyContent)
+[Load More Reviews](../pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a8140ec85e9778ddf2970bc3cf693332 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/1fd3d9c9f6f100c6bac8b7cd391cae8a "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/8b0baecdc9a8778eaf6fc276fd00bedc "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/c696ae30af0f7b0309b72799a30cd4b0 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/54913528ee2e574dc0de811b5258720a "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/4bf1ec20344995a1eeec8cadf8cd0ed2 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/4829559324062a7b47074df60aa18622 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/c0f8972f08b87fdcc2a4270201dd0ce3 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/5573459d880b73f2624618ac6433a1eb "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/e33648cf17f0cdcbc14c30f61dbe2b7f "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/9fe46f73ccde3b055888451dcc98fc37 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/70b6031061fff6465ab4318b2baeaeef "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/767b8e85f2d712f0d0c7de1ac3b43c36 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/5d683a087999901fab345baa2665e033 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/90f407c9c90f2d0c1c84265d446ec4e5 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/65f0342d259fb752c37a1feff2ce617f "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/db89d2817425e4f3530c8eebb6e87793 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/eea4c3ba72231505e522cd2d9ee94181 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/72f3745a30e9eedd3d09449428a55ce5 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/7ae8947736244762022063f86f77d457 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/258423a1bbd023ad6bba43053e0b6423 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/648c1cc4faabed73aadd6c73f648b2dc "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/74a94e468a80b6e668e26030f7f83e46 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a94d1fb69a87aa99a475e30d278c4665 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/9989e26fe0f2fd616ae887d5623b67c8 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/087c5fa382d495ade8259862bf0e2069 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/1f4e91ce1a2361f92dc923e22ab85110 "View larger image")
-
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/62d21c80812f4cbf3e07ec1a6c9f6ab8 "View larger image")
-
-## contact fun pro uk today
-
-### ENQUIRY FORM
-
-Homepage Contact
-
-Name\* required
-
-Email\* required\* invalid
-
-Phone Number\* required
-
-Event start date\* required
-
-Event Start Time\* required
-
-Please Select 00:00 00:30 01:00 01:30 02:00 02:30 03:00 03:30 04:00 04:30 05:00 05:30 06:00 06:30 07:00 07:30 08:00 08:30 09:00 09:30 10:00 10:30 11:00 11:30 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00 18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00 23:30
-
-Event End Time\* required
-
-Please Select 00:00 00:30 01:00 01:30 02:00 02:30 03:00 03:30 04:00 04:30 05:00 05:30 06:00 06:30 07:00 07:30 08:00 08:30 09:00 09:30 10:00 10:30 11:00 11:30 12:00 12:30 13:00 13:30 14:00 14:30 15:00 15:30 16:00 16:30 17:00 17:30 18:00 18:30 19:00 19:30 20:00 20:30 21:00 21:30 22:00 22:30 23:00 23:30
-
-How many days is your Event?\* required
-
-Please Select 1 days 2 days 3 days 4 days 5 days 6 days 7 days or more
-
-Event Location and postcode\* required
-
-Your enquiry (Please state which items you are looking to hire)\* required
-
-Leave this field empty URL: 
-
-function recaptchaCallback\_ctl00\_ContactForm\_ContactFormSubmit(res)  } document.addEventListener('DOMContentLoaded', function () ); });
-
-© Fun Pro UK Ltd 2025 - Registered in England No. 09559294 - VAT no: 256 3179 91
-
-Unit 7 Heath Business Park, Wolston Coventry CV83GB
-
-[Powered by BCN](https://www.bouncycastlenetwork.com "Event Hire Websites & Booking Systems")
-
-[Home](pages/christmas-entertainment-game-hire'.html "Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide")[Brand Activation Game Hire For Corporate Events](pages/promotion-event-games.html "Brand Activation & Promotional Game Hire |Corporate Events")[Company Award Ceremonies](category/company-award-ceremonies.html "Award Ceremonies Game Hire | Fun Pro UK")[Corporate Wellbeing Days](category/staff-wellbeing-days.html "Hire Corporate Wellbeing Activities | Corporate Wellbeing Days")[Exhibition Game Hire](exhibition-games.html "Exhibition Game Hire | Trade Show Stand Entertainment | UK")[Freshers Week For Universities](category/freshers-fair-games.html "Freshers Entertainment Hire | University Games & Activities")[Insurance](pages/insurance.html "Insurance | Fun Pro UK | Corporate Responsibility")[Privacy Policy](pages/privacy-policy.html "Privacy Policy – Exhibition And Game Hire Services")[Team Building Activities](pages/team-building-ideas.html "Team Building Activities For Hire | Team Building Equipment Hire")[Terms & Conditions](pages/terms-and-condition.html "Terms and Conditions of Hire | Fun Pro UK | Event Rentals")[Wedding Entertainment for Guests](pages/hire-outdoor-games-for-weddings.html "Wedding Entertainment For Guests – Fun Games | Fun Pro UK")[Event Type](pages/event-type.html "Event Type – Tailored Game Hire Services | Fun Pro UK")[About Us](pages/about-corporate-entertainment-hire.html "About Fun Pro UK | The Corporate Event Specialists")[FAQs](pages/frequently-asked-questions.html "FAQs | Corporate Entertainment Hire | Fun Pro UK")[Delivery Areas](pages/delivery-areas.html "Our Delivery Areas | Fun Pro UK")[News](news/2024-02-25/elevate-your-brand.html "News & Blogs | Corporate Entertainment Ideas | Fun Pro UK")[Testimonials](pages/testimonials.html "Testimonials | Corporate Entertainment Reviews | Fun Pro UK")[Case Studies](pages/case-studies.html "Case Studies | Corporate Event Clients | Fun Pro UK")[Branded Game Hire](category/branded-exhibition-games.html "Branded Game Hire | Corporate Events | Exhibition | Promotional")[Contact Fun Pro UK](pages/contact-fun-pro-uk.html "Contact Us | Fun Pro UK | Speak With Our Experts")
-
-var $buoop = ; $buoop.ol = window.onload; window.onload = function ()  catch (e)  var e = document.createElement("script"); e.setAttribute("type", "text/javascript"); e.setAttribute("src", "https://bouncycastlenetwork-res.cloudinary.com/raw/upload/browser/update.js"); document.body.appendChild(e); }; window.gDataLayer = window.gDataLayer || \[\]; function boAnalytics()  boAnalytics('js', new Date()); boAnalytics('config', 'G-92NPP47Y3T'); //<!\[CDATA\[ var Page\_Validators = new Array(document.getElementById("ctl00\_ContactForm\_ctl05"), document.getElementById("ctl00\_ContactForm\_ctl10"), document.getElementById("ctl00\_ContactForm\_ctl11"), document.getElementById("ctl00\_ContactForm\_ctl16"), document.getElementById("ctl00\_ContactForm\_ctl21"), document.getElementById("ctl00\_ContactForm\_ctl27"), document.getElementById("ctl00\_ContactForm\_ctl32"), document.getElementById("ctl00\_ContactForm\_ctl37"), document.getElementById("ctl00\_ContactForm\_ctl42"), document.getElementById("ctl00\_ContactForm\_ctl47")); //\]\]> //<!\[CDATA\[ var ctl00\_ContactForm\_ctl05 = document.all ? document.all\["ctl00\_ContactForm\_ctl05"\] : document.getElementById("ctl00\_ContactForm\_ctl05"); ctl00\_ContactForm\_ctl05.controltovalidate = "ctl00\_ContactForm\_Field\_1"; ctl00\_ContactForm\_ctl05.display = "Dynamic"; ctl00\_ContactForm\_ctl05.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl05.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl05.initialvalue = ""; var ctl00\_ContactForm\_ctl10 = document.all ? document.all\["ctl00\_ContactForm\_ctl10"\] : document.getElementById("ctl00\_ContactForm\_ctl10"); ctl00\_ContactForm\_ctl10.controltovalidate = "ctl00\_ContactForm\_Field\_2"; ctl00\_ContactForm\_ctl10.display = "Dynamic"; ctl00\_ContactForm\_ctl10.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl10.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl10.initialvalue = ""; var ctl00\_ContactForm\_ctl11 = document.all ? document.all\["ctl00\_ContactForm\_ctl11"\] : document.getElementById("ctl00\_ContactForm\_ctl11"); ctl00\_ContactForm\_ctl11.controltovalidate = "ctl00\_ContactForm\_Field\_2"; ctl00\_ContactForm\_ctl11.display = "Dynamic"; ctl00\_ContactForm\_ctl11.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl11.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl11.validationexpression = "\\\\w+(\[-+.\]\\\\w+)\*@\\\\w+(\[-.\]\\\\w+)\*\\\\.\\\\w+(\[-.\]\\\\w+)\*"; var ctl00\_ContactForm\_ctl16 = document.all ? document.all\["ctl00\_ContactForm\_ctl16"\] : document.getElementById("ctl00\_ContactForm\_ctl16"); ctl00\_ContactForm\_ctl16.controltovalidate = "ctl00\_ContactForm\_Field\_3"; ctl00\_ContactForm\_ctl16.display = "Dynamic"; ctl00\_ContactForm\_ctl16.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl16.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl16.initialvalue = ""; var ctl00\_ContactForm\_ctl21 = document.all ? document.all\["ctl00\_ContactForm\_ctl21"\] : document.getElementById("ctl00\_ContactForm\_ctl21"); ctl00\_ContactForm\_ctl21.controltovalidate = "ctl00\_ContactForm\_Field\_12"; ctl00\_ContactForm\_ctl21.display = "Dynamic"; ctl00\_ContactForm\_ctl21.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl21.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl21.initialvalue = ""; var ctl00\_ContactForm\_ctl27 = document.all ? document.all\["ctl00\_ContactForm\_ctl27"\] : document.getElementById("ctl00\_ContactForm\_ctl27"); ctl00\_ContactForm\_ctl27.controltovalidate = "ctl00\_ContactForm\_Field\_26"; ctl00\_ContactForm\_ctl27.display = "Dynamic"; ctl00\_ContactForm\_ctl27.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl27.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl27.initialvalue = "0"; var ctl00\_ContactForm\_ctl32 = document.all ? document.all\["ctl00\_ContactForm\_ctl32"\] : document.getElementById("ctl00\_ContactForm\_ctl32"); ctl00\_ContactForm\_ctl32.controltovalidate = "ctl00\_ContactForm\_Field\_27"; ctl00\_ContactForm\_ctl32.display = "Dynamic"; ctl00\_ContactForm\_ctl32.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl32.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl32.initialvalue = "0"; var ctl00\_ContactForm\_ctl37 = document.all ? document.all\["ctl00\_ContactForm\_ctl37"\] : document.getElementById("ctl00\_ContactForm\_ctl37"); ctl00\_ContactForm\_ctl37.controltovalidate = "ctl00\_ContactForm\_Field\_21"; ctl00\_ContactForm\_ctl37.display = "Dynamic"; ctl00\_ContactForm\_ctl37.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl37.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl37.initialvalue = ""; var ctl00\_ContactForm\_ctl42 = document.all ? document.all\["ctl00\_ContactForm\_ctl42"\] : document.getElementById("ctl00\_ContactForm\_ctl42"); ctl00\_ContactForm\_ctl42.controltovalidate = "ctl00\_ContactForm\_Field\_22"; ctl00\_ContactForm\_ctl42.display = "Dynamic"; ctl00\_ContactForm\_ctl42.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl42.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl42.initialvalue = ""; var ctl00\_ContactForm\_ctl47 = document.all ? document.all\["ctl00\_ContactForm\_ctl47"\] : document.getElementById("ctl00\_ContactForm\_ctl47"); ctl00\_ContactForm\_ctl47.controltovalidate = "ctl00\_ContactForm\_Field\_4"; ctl00\_ContactForm\_ctl47.display = "Dynamic"; ctl00\_ContactForm\_ctl47.validationGroup = "ContactForm\_B3K8H"; ctl00\_ContactForm\_ctl47.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid"; ctl00\_ContactForm\_ctl47.initialvalue = ""; //\]\]> //<!\[CDATA\[ window.\_\_TsmHiddenField = $get('ctl00\_ScriptManager\_RadScripts\_TSM'); var Page\_ValidationActive = false; if (typeof(ValidatorOnLoad) == "function")  function ValidatorOnSubmit()  else  } theForm.oldSubmit = theForm.submit; theForm.submit = WebForm\_SaveScrollPositionSubmit; theForm.oldOnSubmit = theForm.onsubmit; theForm.onsubmit = WebForm\_SaveScrollPositionOnSubmit; document.getElementById('ctl00\_ContactForm\_ctl05').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl10').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl11').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl16').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl21').dispose = function()  Sys.Application.add\_init(function() , null, null, $get("ctl00\_ContactForm\_Field\_12")); }); document.getElementById('ctl00\_ContactForm\_ctl27').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl32').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl37').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl42').dispose = function()  document.getElementById('ctl00\_ContactForm\_ctl47').dispose = function()  //\]\]>
