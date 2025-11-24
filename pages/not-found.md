@@ -1,11 +1,12 @@
 ---
-header_text: Not Found
 meta_description:
 meta_title: Not Found
 no_index: true
 
 permalink: /not_found.html
 ---
+
+# Not Found
 
 ## Page Not Found
 

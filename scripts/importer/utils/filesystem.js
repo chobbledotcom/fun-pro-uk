@@ -101,7 +101,7 @@ const downloadFile = (url, filepath) => {
  * @returns {string} Slug without extension
  */
 const slugFromFilename = (filename) =>
-  filename.replace('.php.html', '').replace('.md', '');
+  filename.replace('.php.html', '').replace(/\.html$/, '').replace(/\.md$/, '');
 
 /**
  * Convert HTML filename to markdown filename
@@ -109,7 +109,7 @@ const slugFromFilename = (filename) =>
  * @returns {string} Markdown filename
  */
 const markdownFilename = (htmlFilename) =>
-  htmlFilename.replace('.php.html', '.md');
+  htmlFilename.replace('.php.html', '.md').replace(/\.html$/, '.md');
 
 module.exports = {
   ensureDir,

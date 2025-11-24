@@ -98,6 +98,13 @@ const extractPrice = (htmlContent) => {
  * @returns {string} Extracted category
  */
 const extractCategory = (htmlContent) => {
+  // Try Fun Pro UK format - itemprop="category" meta tag
+  const categoryMatch = htmlContent.match(/<meta\s+content=["']([^"']+)["']\s+itemprop=["']category["']/i);
+  if (categoryMatch) {
+    return categoryMatch[1].trim().toLowerCase().replace(/\s+/g, '-');
+  }
+
+  // Try breadcrumb format
   const breadcrumbMatch = htmlContent.match(/<li class="breadcrumb-item"><a href="\.\.\/categories\/([^"]+)\.php\.html">/i);
   return breadcrumbMatch ? breadcrumbMatch[1] : '';
 };
@@ -117,7 +124,19 @@ const extractCategoryName = (htmlContent) => {
  * @returns {string} Extracted product name
  */
 const extractProductName = (htmlContent) => {
-  // Try JSON-LD schema first
+  // Try DetailsTitle div (Fun Pro UK format)
+  const detailsMatch = htmlContent.match(/<div class="DetailsTitle"[^>]*>\s*<h1>([^<]+)<\/h1>/i);
+  if (detailsMatch) {
+    return detailsMatch[1].trim();
+  }
+
+  // Try og:title meta tag
+  const ogTitleMatch = htmlContent.match(/<meta\s+property=["']og:title["']\s+content=["']([^"']+)["']/i);
+  if (ogTitleMatch) {
+    return ogTitleMatch[1].trim().replace(/\s*\|.*$/, ''); // Remove anything after |
+  }
+
+  // Try JSON-LD schema
   const schemaMatch = htmlContent.match(/"@type":"Product","name":"([^"]+)"/i);
   if (schemaMatch) {
     return schemaMatch[1].replace(/&pound;/g, '£');
@@ -202,12 +221,32 @@ const extractProductImages = (htmlContent) => {
     gallery: []
   };
 
-  // Extract og:image for header image
-  const ogImageMatch = htmlContent.match(/<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/i);
-  if (ogImageMatch) {
-    images.header_image = ogImageMatch[1];
-    // Use header image as the single gallery image
-    images.gallery.push(ogImageMatch[1]);
+  // Extract ALL og:image tags for gallery (Fun Pro UK format)
+  const ogImageRegex = /<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/gi;
+  let match;
+  let imageIndex = 0;
+  while ((match = ogImageRegex.exec(htmlContent)) !== null) {
+    const imageUrl = match[1];
+    // Skip the first generic/preview image that doesn't have a product-specific name
+    if (imageIndex === 0 && !imageUrl.includes('thumbs.ashx')) {
+      imageIndex++;
+      continue;
+    }
+
+    if (imageIndex === 0 || !images.header_image) {
+      images.header_image = imageUrl;
+    }
+    images.gallery.push(imageUrl);
+    imageIndex++;
+  }
+
+  // If no og:image tags found, try the old method
+  if (images.gallery.length === 0) {
+    const ogImageMatch = htmlContent.match(/<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/i);
+    if (ogImageMatch) {
+      images.header_image = ogImageMatch[1];
+      images.gallery.push(ogImageMatch[1]);
+    }
   }
 
   return images;

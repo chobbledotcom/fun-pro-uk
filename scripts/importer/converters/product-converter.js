@@ -18,7 +18,10 @@ const { convertSingle, convertBatch } = createConverter({
   },
   frontmatterGenerator: (metadata, slug, extracted) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
-    const localImages = { header_image: extracted.localImagePath };
+    const localImages = {
+      header_image: extracted.localImagePath || extracted.images?.header_image,
+      gallery: extracted.images?.gallery || []
+    };
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -68,7 +71,8 @@ const convertProducts = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
   const reviewsDir = path.join(config.OUTPUT_BASE, 'reviews');
-  const productsDir = path.join(config.OLD_SITE_PATH, config.paths.products);
+  const productsSourcePath = config.paths.productsSource !== undefined ? config.paths.productsSource : config.paths.products;
+  const productsDir = path.join(config.OLD_SITE_PATH, productsSourcePath);
   const files = listHtmlFiles(productsDir);
 
   if (files.length === 0) {

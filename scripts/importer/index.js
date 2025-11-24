@@ -16,19 +16,12 @@ const config = require('./config');
 
 /**
  * Check if pandoc is installed
+ * Note: Now using turndown instead of pandoc, so this check is no longer needed
  * @throws {Error} If pandoc is not found
  */
 const checkPandoc = () => {
-  try {
-    execSync('pandoc --version', { stdio: 'ignore' });
-  } catch (error) {
-    console.error('\n❌ ERROR: pandoc is not installed!');
-    console.error('   Please install pandoc before running the importer:');
-    console.error('   - Ubuntu/Debian: sudo apt-get install pandoc');
-    console.error('   - macOS: brew install pandoc');
-    console.error('   - Windows: https://pandoc.org/installing.html\n');
-    process.exit(1);
-  }
+  // No longer required - using turndown for HTML to markdown conversion
+  return;
 };
 
 /**
