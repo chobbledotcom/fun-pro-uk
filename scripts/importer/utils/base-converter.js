@@ -32,12 +32,19 @@ const createConverter = ({
   const convertSingle = async (file, inputDir, outputDir, context = {}) => {
     try {
       const htmlPath = path.join(inputDir, file);
+      const slug = slugFromFilename(file);
+
+      // Show progress if we have index info
+      const progressPrefix = context.progressIndex !== undefined && context.progressTotal !== undefined
+        ? `  [${context.progressIndex + 1}/${context.progressTotal}]`
+        : ' ';
+
+      process.stdout.write(`${progressPrefix} Converting: ${slug}...`);
+
       const htmlContent = readHtmlFile(htmlPath);
       const metadata = extractMetadata(htmlContent);
       const markdown = convertToMarkdown(htmlPath);
       let content = processContent(markdown, contentType, htmlContent);
-
-      const slug = slugFromFilename(file);
       let filename = markdownFilename(file);
 
       // Run custom extractors
@@ -71,7 +78,7 @@ const createConverter = ({
       const fullContent = `${frontmatter}\n\n${content}`;
 
       writeMarkdownFile(path.join(outputDir, filename), fullContent);
-      console.log(`  Converted: ${filename}`);
+      console.log(' done');
 
       // Hook after conversion (e.g., track reviews)
       if (afterConvert) {
@@ -80,7 +87,8 @@ const createConverter = ({
 
       return true;
     } catch (error) {
-      console.error(`  Error converting ${file}:`, error.message);
+      console.log(' FAILED');
+      console.error(`    Error: ${error.message}`);
       return false;
     }
   };
@@ -99,7 +107,7 @@ const createConverter = ({
 
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
-      const fileContext = { ...context, categoryIndex: i };
+      const fileContext = { ...context, categoryIndex: i, progressIndex: i, progressTotal: files.length };
       if (await convertSingle(file, inputDir, outputDir, fileContext)) {
         successful++;
       } else {

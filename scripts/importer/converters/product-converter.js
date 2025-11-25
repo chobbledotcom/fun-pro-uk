@@ -100,9 +100,16 @@ const convertProducts = async () => {
   let successful = 0;
   let failed = 0;
 
-  for (const fileInfo of fileInfos) {
+  for (let i = 0; i < fileInfos.length; i++) {
+    const fileInfo = fileInfos[i];
     try {
-      const fileContext = { reviewsMap, productCategoriesMap, categoryIndex: 0 };
+      const fileContext = {
+        reviewsMap,
+        productCategoriesMap,
+        categoryIndex: 0,
+        progressIndex: i,
+        progressTotal: fileInfos.length
+      };
       // Pass the file name and its directory to convertSingle
       if (await convertSingle(fileInfo.file, fileInfo.dir, outputDir, fileContext)) {
         successful++;
