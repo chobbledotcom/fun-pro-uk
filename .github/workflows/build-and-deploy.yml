@@ -116,10 +116,12 @@ jobs:
             echo "storage_zone_name=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
             echo "storage_zone_password=${{ secrets.BUNNY_PRODUCTION_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
             echo "pull_zone_id_deploy=${{ secrets.BUNNY_PRODUCTION_PULL_ZONE_ID }}" >> $GITHUB_OUTPUT
+            echo "storage_endpoint=https://storage.bunnycdn.com" >> $GITHUB_OUTPUT
           else
             echo "storage_zone_name=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_NAME }}" >> $GITHUB_OUTPUT
             echo "storage_zone_password=${{ secrets.BUNNY_STAGING_STORAGE_ZONE_PASSWORD }}" >> $GITHUB_OUTPUT
             echo "pull_zone_id_deploy=${{ secrets.BUNNY_STAGING_PULL_ZONE_ID }}" >> $GITHUB_OUTPUT
+            echo "storage_endpoint=https://uk.storage.bunnycdn.com" >> $GITHUB_OUTPUT
           fi
 
       - name: Deploy to Bunny
@@ -127,7 +129,7 @@ jobs:
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
-          storage-endpoint: "https://storage.bunnycdn.com"
+          storage-endpoint: ${{ steps.deployment_env.outputs.storage_endpoint }}
           storage-zone-name: ${{ steps.deployment_env.outputs.storage_zone_name }}
           storage-zone-password: ${{ steps.deployment_env.outputs.storage_zone_password }}
           concurrency: "5"
