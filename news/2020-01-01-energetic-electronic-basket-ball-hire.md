@@ -1,0 +1,31 @@
+---
+title: "Electronic Basketball Hire – Fun Interactive Game"
+date: 2020-01-01
+meta_title: "Electronic Basketball Hire – Fun Interactive Game"
+meta_description: "Electronic Basketball Hire – Fun Interactive Game - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+permalink: "/blog/energetic-electronic-basket-ball-hire/"
+gallery:
+  - "https://secure.cavy9soho.com/187947.png"
+---
+
+# [11 October 18 - Energetic Electronic Basket Ball Hire!](energetic-electronic-basket-ball-hire/)
+
+Looking for something different to entertain your guests at your upcoming event?
+
+Why not consider our heart pounding [Basketball Game Hire](/category/photo-booths/ultimate-green-screen-photo-booth/) to put your attendees head to head and a chance to show off their skills.
+
+With two hoops you can challenge each other head to head or organise a knockout competition. Perfect for a staff party or delegates on a break in conference. Or why not incorporate it within a team building day or family fun day. Ideal for both adults and children, everyone is able to get involved.
+
+Being a self-contained game, it can be popped-up almost anywhere from the reception area of a conference to the back of an annual awards ceremony. Having side netting and a printed canvas ball catcher, allows all the entertainment to be captured!
+
+[Check out our 5 star reviews on this product!](/category/interactive-game-hire/electronic-basket-ball-hire.html#BodyContent)
+
+No matter the event or no matter where it is, Fun Pro UK will do their absolute best to ensure your guests are fully entertained! So give us a call today on 02476 629197.
+
+[<< Return to news](/2024-02-25/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/pages/testimonials.html#BodyContent)
+
+Happy customers we have worked along side
