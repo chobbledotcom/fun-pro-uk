@@ -9,7 +9,7 @@ layout: page
 
 Welcome to the Fun Pro UK website, we are a family business and have worked in the entertainment industry providing Interactive Game Hire since 2009 and take pride in delivering amazing memorable fun in a professional way to our clients across the UK. Based in Coventry the heart of the Midlands within easy access to motorway links we are well situated to cover the whole of the UK.
 
-![Team Fun Pro UK](../userfiles/file/FunPro/20180613-200321.jpg)
+![Team Fun Pro UK](/userfiles/file/FunPro/20180613-200321.jpg)
 
 ## **The Team to Trust**
 
@@ -23,7 +23,7 @@ We believe that your event should be enjoyable, but your safety is of paramount 
 
 ## **Unique industry understanding**
 
-We have been working in the entertainment industry for many years, and we know what works and how to make sure that everyone has fun. Our friendly team are happy to share that experience with you, to help you plan the best possible event for your venue, your audience and your budget. Look around our website for some great [corporate entertainment](../category/corporate-entertainment.html "Corporate Entertainment ") ideas or if you're not sure where to start, then talk to our friendly Fun Pro team today to start planning your next event.
+We have been working in the entertainment industry for many years, and we know what works and how to make sure that everyone has fun. Our friendly team are happy to share that experience with you, to help you plan the best possible event for your venue, your audience and your budget. Look around our website for some great [corporate entertainment](/category/corporate-entertainment.html "Corporate Entertainment ") ideas or if you're not sure where to start, then talk to our friendly Fun Pro team today to start planning your next event.
 
 **⭐⭐⭐⭐⭐**
 
@@ -31,6 +31,6 @@ We would be happy to share our experience with you and find out how we can bring
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

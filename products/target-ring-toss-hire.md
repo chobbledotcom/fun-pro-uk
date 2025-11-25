@@ -7,8 +7,6 @@ meta_description: "Hire a Target Ring Toss game for your next event! Perfect for
 permalink: "/products/target-ring-toss-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=target-ring-toss-hire-3.jpg&cs=1200"
 ---
 
 # Target Ring Toss Hire
@@ -19,9 +17,9 @@ gallery:
 
 ## The Best Target Ring Toss Hire for All UK Events
 
-Are you looking for some fun, [interactive games](../../../interactive-game-hire.html) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
+Are you looking for some fun, [interactive games](/products/) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
 
-Perfect for [corporate events](../../corporate-entertainment.html), school fairs, [staff parties](../../../news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team.html), and more, this classic game brings friendly competition and laughter to any gathering.
+Perfect for [corporate events](/products/corporate-entertainment/), school fairs, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more, this classic game brings friendly competition and laughter to any gathering.
 
 ## Hire a Target Ring Toss Game For Your Next Event
 
@@ -101,7 +99,7 @@ Once the event is over, we’ll return to collect the Target Ring Toss game, lea
 
 ## Ready to Book Our Target Ring Toss Hire?
 
-Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](../../../pages/contact-fun-pro-uk.html) to book for your next event anywhere in the UK.
+Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](/pages/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
 
 ## Frequently Asked Questions
 
@@ -137,6 +135,6 @@ Brand the rear half wall of the inside of the stall with your brand from:
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

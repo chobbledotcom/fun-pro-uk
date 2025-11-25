@@ -7,9 +7,9 @@ layout: page
 
 # Crack The Code Game Hire - Perfect for All Birmingham Events
 
-Are you looking to add an exciting and engaging activity to your [corporate event](corporate-event-hire-birmingham.html) in Birmingham? Look no further than hiring a Crack the Code game! This thrilling game has become a popular choice for events and exhibitions in Birmingham, and with the convenience of delivery to various venues, including the [NEC](nec-birmingham.html), ICC, NCC, and all other areas of the city, it's easier than ever to incorporate this interactive experience into your event.
+Are you looking to add an exciting and engaging activity to your [corporate event](corporate-event-hire-birmingham/) in Birmingham? Look no further than hiring a Crack the Code game! This thrilling game has become a popular choice for events and exhibitions in Birmingham, and with the convenience of delivery to various venues, including the [NEC](nec-birmingham/), ICC, NCC, and all other areas of the city, it's easier than ever to incorporate this interactive experience into your event.
 
-When you hire a [Crack the Code game in Birmingham](../crack-the-code-safe-cracker.html#BodyContent), you can expect a seamless and hassle-free experience. We specialize in providing high-quality games and activities for events, ensuring that your guests have a memorable and enjoyable time. The convenience of delivery to popular venues in Birmingham, such as the NEC, ICC, and NCC, is a major advantage of hiring a Crack the Code game. These venues are known for hosting a wide range of events, from conferences and exhibitions to trade shows and concerts. By having the game delivered directly to these venues, you can save time and effort in organizing logistics, allowing you to focus on other aspects of your event planning.
+When you hire a [Crack the Code game in Birmingham](/crack-the-code-safe-cracker/#BodyContent), you can expect a seamless and hassle-free experience. We specialize in providing high-quality games and activities for events, ensuring that your guests have a memorable and enjoyable time. The convenience of delivery to popular venues in Birmingham, such as the NEC, ICC, and NCC, is a major advantage of hiring a Crack the Code game. These venues are known for hosting a wide range of events, from conferences and exhibitions to trade shows and concerts. By having the game delivered directly to these venues, you can save time and effort in organizing logistics, allowing you to focus on other aspects of your event planning.
 
 The NEC, located in the heart of Birmingham, is one of the largest exhibition centres in the UK. It hosts a multitude of events throughout the year, attracting visitors from various industries. Whether you're organizing a trade show, a corporate event, or a product launch, hiring a Crack the Code game can add an extra layer of excitement and engagement to your exhibition booth or event space at the NEC.
 
@@ -17,7 +17,7 @@ The ICC (International Convention Centre) is another prominent venue in Birmingh
 
 The NCC (National Conference Centre) is a unique venue located just outside Birmingham city centre. It offers versatile event spaces and caters to a wide range of events, including conferences, exhibitions, and weddings. Hiring a Crack the Code game for your event at the NCC can provide a fun and interactive activity for attendees, enhancing their overall experience and leaving a lasting impression.
 
-In addition to these popular venues, hiring a [Crack the Code game in Birmingham](../crack-the-code-safe-cracker.html#BodyContent) allows you to bring the excitement to any area of the city. Whether you're hosting an event in the bustling city centre, the vibrant Digbeth district, or the picturesque Canalside venues, the game can be delivered to your desired location, ensuring that your guests have a memorable and enjoyable experience. In conclusion, hiring a Crack the Code game in Birmingham offers a thrilling and engaging activity for your event or exhibition. With the convenience of delivery to popular venues such as the NEC, ICC, NCC, and all other areas of the city, you can easily incorporate this interactive experience into your event planning. Visit www.funprouk.co.uk to find out more information and make your event in Birmingham an unforgettable success.
+In addition to these popular venues, hiring a [Crack the Code game in Birmingham](/crack-the-code-safe-cracker/#BodyContent) allows you to bring the excitement to any area of the city. Whether you're hosting an event in the bustling city centre, the vibrant Digbeth district, or the picturesque Canalside venues, the game can be delivered to your desired location, ensuring that your guests have a memorable and enjoyable experience. In conclusion, hiring a Crack the Code game in Birmingham offers a thrilling and engaging activity for your event or exhibition. With the convenience of delivery to popular venues such as the NEC, ICC, NCC, and all other areas of the city, you can easily incorporate this interactive experience into your event planning. Visit www.funprouk.co.uk to find out more information and make your event in Birmingham an unforgettable success.
 
 **Hire **Price** From £395** \+ vat
 
@@ -39,9 +39,9 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
-![](../userfiles/file/FunPro/contactus2.jpg)
+![](/userfiles/file/FunPro/contactus2.jpg)
 
 **Equipment size**
 
@@ -71,6 +71,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

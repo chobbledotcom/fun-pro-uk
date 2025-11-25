@@ -7,11 +7,6 @@ meta_description: "Hire Our Spin The Wheel Game For Your Family Fun Days, Partie
 permalink: "/products/prize-wheel/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-19.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-20.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-21.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-4.png&cs=1200"
 ---
 
 # Prize Wheel
@@ -64,7 +59,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -104,10 +99,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](../../interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../../interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ## Prize Wheel
 
@@ -115,7 +110,7 @@ Guaranteed to be a crowd pleaser, this amazing branded prize wheel game will ent
 
 The Wheel of Fortune is an easy game to play, each user spins the wheel to see where it stops and lands - will it be a prize, reward or a forfeit? Each panel can be customised to fit your theme and design detailing your chosen slogan, prize or logo. Whether you require 10, 15 or 30 sections to the prize wheel hire then this can be designed to meet your specification.
 
-The Exhibition Prize Wheel also known as the [Spinng Wheel](../../arcade-games/49/prize-wheel.html#BodyContent), works exceedingly well at any corporate event where you wish to increase footfall for your company thus enabling you to interact with potential new clients through a heap of competitive fun. Promotional branded game hire is a real win win for everyone with your brand being seen far and wide throughout your exhibition event or instore promotion. We can guarantee to have a queue out of your door!
+The Exhibition Prize Wheel also known as the [Spinng Wheel](/category/arcade-games/49/prize-wheel/#BodyContent), works exceedingly well at any corporate event where you wish to increase footfall for your company thus enabling you to interact with potential new clients through a heap of competitive fun. Promotional branded game hire is a real win win for everyone with your brand being seen far and wide throughout your exhibition event or instore promotion. We can guarantee to have a queue out of your door!
 
 Are you planning a family-friendly event but don’t think that everyone will be excited to jump on the bouncy castle?
 
@@ -163,9 +158,9 @@ Searching for popular branded prize game hire for your next corporate exhibition
 
 **Branding Prices from:**
 
-In[\-](../../../admin/products-edit.aspx%3Fid=64.html#specification)house [](../../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=64.html#specification)available [](../../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=64/#specification)house [](/../../admin/products-edit.aspx%3Fid=64/#specification)branding [](/../../admin/products-edit.aspx%3Fid=64/#specification)available [](/../../admin/products-edit.aspx%3Fid=64/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=64.html#specification)time [](../../../admin/products-edit.aspx%3Fid=64.html#specification)use [](../../../admin/products-edit.aspx%3Fid=64.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=64/#specification)time [](/../../admin/products-edit.aspx%3Fid=64/#specification)use [](/../../admin/products-edit.aspx%3Fid=64/#specification)only)
 
 **Branded Wheel**
 

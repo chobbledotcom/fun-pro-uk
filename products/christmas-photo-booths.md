@@ -7,10 +7,6 @@ meta_description: "For your office Christmas party, discos, festive product laun
 permalink: "/products/christmas-photo-booths/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-christmas-photo-booth-styles-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-and-video-booths.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-photo-booth-styles-1.jpg&cs=1200"
 ---
 
 # CHRISTMAS PHOTO BOOTHS
@@ -23,7 +19,7 @@ Book this interactive photo booth complete with Christmas photo props for your u
 
 ## Hire a Christmas photo booth for your event!
 
-[Christmas is in the air](../../../news/2023-11-26/christmas-is-coming-arrange-party-hire.html)! Make your Christmas party truly unforgettable with our [green screen Christmas photo booth hire](../10/green-screen-photo-booths.html). Your guests have over 1,000 different backdrops to choose from, plus a large variety of festive themes to keep it interesting and fun.
+[Christmas is in the air](/blog/2023-11-26/christmas-is-coming-arrange-party-hire/)! Make your Christmas party truly unforgettable with our [green screen Christmas photo booth hire](/green-screen-photo-booths/). Your guests have over 1,000 different backdrops to choose from, plus a large variety of festive themes to keep it interesting and fun.
 
 ### Our Christmas party photo booth hire includes:
 
@@ -93,7 +89,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.  
 
-[**Email:**](christmas-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](christmas-photo-booths/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,9 +101,9 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 Why Choose Our Christmas Photo Booth Hire Service?
 
-Fun Pro is the leading provider of high-quality [Christmas entertainment for hire in the UK](../../../theme/category/christmas-game-hire.html). Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
+Fun Pro is the leading provider of high-quality [Christmas entertainment for hire in the UK](/../../theme/category/christmas-game-hire/). Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
 
-Our [photo booths](../../photo-booths-and-magic-mirrors.html) provide high resolution prints in seconds. Aside from capturing every festive detail, guests can also instantly share their photos on social media. Spread the holiday cheer and show off the fun event you're hosting at the same time.
+Our [photo booths](/../photo-booths-and-magic-mirrors/) provide high resolution prints in seconds. Aside from capturing every festive detail, guests can also instantly share their photos on social media. Spread the holiday cheer and show off the fun event you're hosting at the same time.
 
 Fun Pro’s events team will take care of the logistics for you as well. Booking and delivery is easy and stress free, and our event staff will remain on site to help with the Christmas photo booth during the event.
 
@@ -137,7 +133,7 @@ After the event, we’ll return to collect the Christmas photo booth, and leave 
 
 ## Ready to take your holiday event to the next level?
 
-Don't miss out on the opportunity to upgrade your event with our Christmas photo booth hire service. [Contact us today](../../../pages/contact-fun-pro-uk.html) to book our equipment for your next event in Coventry, Birmingham, Manchester, London, Leicester, Northampton, Milton Keynes, or any other location in the UK!
+Don't miss out on the opportunity to upgrade your event with our Christmas photo booth hire service. [Contact us today](/pages/contact-fun-pro-uk/) to book our equipment for your next event in Coventry, Birmingham, Manchester, London, Leicester, Northampton, Milton Keynes, or any other location in the UK!
 
 ## Frequently Asked Questions
 
@@ -151,7 +147,7 @@ Yes, our Christmas photo booth hire includes a wide selection of holiday themed 
 
 ### Can the photo booth prints be branded with our logo or holiday message?
 
-Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our [branded exhibition game hire](../../branded-exhibition-games.html).
+Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our [branded exhibition game hire](/../branded-exhibition-games/).
 
 For corporate holiday events, this personal touch ensures your brand or event details are front and centre in every photo. It makes them memorable keepsakes for guests and a fantastic branding opportunity for your company.
 
@@ -185,14 +181,14 @@ It’s the best way to spread the holiday cheer and share the fun of your event 
 
 ### How long can we hire the Christmas photo booth for our event?
 
-We offer flexible [game hire options](../../../pages/christmas-entertainment-game-hire'.html) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. .
+We offer flexible [game hire options](/pages/christmas-entertainment-game-hire'/) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. .
 
 **Popular items:**
 
-*   [Race car simulators](../../interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Dance machine](../../exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Retro arcade machine](../../interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Giant buzz wire](../../interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE")
+*   [Race car simulators](/products/twin-racing-car-simulators.html "Racing Car Simulators")
+*   [Dance machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Giant buzz wire](/products/giant-buzz-wire.html "GIANT BUZZ WIRE")
 
 **Branding Prices from:**
 
@@ -206,6 +202,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

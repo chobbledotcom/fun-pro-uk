@@ -41,10 +41,10 @@ eleventyNavigation:
  * Create default home page if no source data available
  */
 const createDefaultHomePage = () => {
-  const title = 'MyAlarm Security | Burglar Alarms & CCTV Systems';
+  const title = 'Fun Pro UK | Interactive Game Hire for Corporate Events & Parties';
   return `---
 meta_title: "${title}"
-meta_description: "Professional burglar alarm and CCTV installation across South East London and Kent."
+meta_description: "Interactive game hire for corporate events, exhibitions, and parties across the UK. Book now for guaranteed fun!"
 permalink: "/"
 layout: "home.html"
 eleventyNavigation:
@@ -63,10 +63,10 @@ const generateProductsPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
-meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
+meta_title: "Interactive Game Hire | Corporate Events & Parties | Fun Pro UK"
+meta_description: "Browse our complete range of interactive games, arcade machines, and entertainment hire for corporate events, exhibitions, and parties across the UK."
 permalink: "/products/"
-layout: products`;
+layout: products.html`;
 
   if (!config.options.categoriesInNavigation) {
     frontmatter += `
@@ -78,9 +78,9 @@ eleventyNavigation:
   frontmatter += `
 ---
 
-# Our Security Packages
+# Interactive Game Hire
 
-We offer a comprehensive range of security packages designed to protect your home or business.
+We offer a comprehensive range of interactive games and entertainment hire for corporate events, exhibitions, and parties.
 `;
 
   return frontmatter;
@@ -93,10 +93,10 @@ const generateServiceAreasPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-meta_title: "Service Areas | Security Installation Across South East London & Kent"
-meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent including Bexley, Dartford, Bromley, Orpington, Greenwich and surrounding areas."
+meta_title: "Delivery Areas | Game Hire Across the UK | Fun Pro UK"
+meta_description: "Fun Pro UK provides interactive game hire and entertainment delivery across the UK including Birmingham, London, Manchester, Coventry, Nottingham, Leicester and more."
 permalink: "/service-areas/"
-layout: service-areas.html`;
+layout: page.html`;
 
   if (!config.options.categoriesInNavigation) {
     frontmatter += `
@@ -108,9 +108,9 @@ eleventyNavigation:
   frontmatter += `
 ---
 
-# Service Areas
+# Delivery Areas
 
-We provide professional security installation and maintenance services across South East London and Kent.
+We provide nationwide delivery of interactive games and entertainment hire across the UK.
 `;
 
   return frontmatter;
@@ -158,10 +158,10 @@ const generateBlogPage = () => {
   const config = require('../config');
 
   let frontmatter = `---
-meta_description:
-meta_title: News
+meta_description: "Latest news and updates from Fun Pro UK about interactive game hire, corporate events, and entertainment."
+meta_title: "News & Updates | Fun Pro UK"
 permalink: /blog/
-layout: blog`;
+layout: news-archive.html`;
 
   if (!config.options.categoriesInNavigation) {
     frontmatter += `
@@ -173,7 +173,7 @@ eleventyNavigation:
   frontmatter += `
 ---
 
-# News
+# News & Updates
 `;
 
   return frontmatter;
@@ -183,13 +183,13 @@ eleventyNavigation:
  * Generate reviews index page
  */
 const generateReviewsPage = () => `---
-meta_description:
-meta_title: Reviews
+meta_description: "Read reviews and testimonials from our satisfied customers about Fun Pro UK's interactive game hire services."
+meta_title: "Customer Reviews | Fun Pro UK"
 permalink: /reviews/
-layout: reviews
+layout: reviews.html
 ---
 
-# Reviews
+# Customer Reviews
 `;
 
 /**

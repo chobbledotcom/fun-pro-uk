@@ -7,7 +7,7 @@ layout: page
 
 # College & University Entertainment
 
-If you're planning a college or university campus event, from a [fresher's fair](../category/freshers-fair-games.html "Fresher's Fair Games") to a graduation ball, Fun Pro UK have plenty of options available for hire that students just love.
+If you're planning a college or university campus event, from a [fresher's fair](/category/freshers-fair-games.html "Fresher's Fair Games") to a graduation ball, Fun Pro UK have plenty of options available for hire that students just love.
 
 We've got so many party rental products that will provide plenty of entertainment and create a fun atmosphere, you're certain to be able to find what you want with us. Whether it's a graduation, end-of-term event or anything else, our versatile range of games will fit in perfectly.
 
@@ -17,19 +17,19 @@ Let's have a look at just a few of the options we have that always go down a sto
 
 ## Air Hockey
 
-Who can resist the temptation to do battle at the [air hockey table](../category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire")? This is an all-time party classic that is so simple, yet extremely fun. Two players face off as they attempt to get the puck into their opponent's goal.
+Who can resist the temptation to do battle at the [air hockey table](/category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire")? This is an all-time party classic that is so simple, yet extremely fun. Two players face off as they attempt to get the puck into their opponent's goal.
 
 It's so easy to keep track of the score using the built-in counters. Once a player reaches ten goals, they are the winner!
 
 ## Table Football
 
-[Table football](../category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES"), also known as foosball, has exploded and become a worldwide competitive sport with organised competitions in recent years. However, like the larger version of this game, it's also entertaining to have a fun kickaround with pals and this makes it a perfect addition to university events.
+[Table football](/category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES"), also known as foosball, has exploded and become a worldwide competitive sport with organised competitions in recent years. However, like the larger version of this game, it's also entertaining to have a fun kickaround with pals and this makes it a perfect addition to university events.
 
 Up to four players at once can show off their skills on our football table, and while this game is easy to pick up it's difficult to master. Your competitors will have to demonstrate expert timing and wrist action to score the most goals. Who at your party will have what it takes?
 
 ## Dance Machine
 
-Who at the university has the best moves? This debate will be settled once and for all when you hire our fantastic [Dance Machine](../category/exhibition-games/39/dance-machine.html "Dance Machine"). This is an [arcade game](../category/arcade-games/2/lights-out-game.html "Arcade Games ") that comes complete with dance mats which track the feet of your players. Simply tap those toes on the correct pad at the right time to collect points. Easy, right? Wrong! This game is really high-energy and requires expert coordination to conquer it. It's sure to get everyone in attendance in the mood to groove, so don't plan your next university party without it!
+Who at the university has the best moves? This debate will be settled once and for all when you hire our fantastic [Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine"). This is an [arcade game](/category/arcade-games/lights-out-game.html "Arcade Games ") that comes complete with dance mats which track the feet of your players. Simply tap those toes on the correct pad at the right time to collect points. Easy, right? Wrong! This game is really high-energy and requires expert coordination to conquer it. It's sure to get everyone in attendance in the mood to groove, so don't plan your next university party without it!
 
 These are just a few examples of the entertainment we have on offer for college and university events at Fun Pro UK. All of our products are tried and tested by students of all varieties, and they are always hugely popular. What's more, because they are commercial grade there's no need to worry about them not being able to handle a day of energetic students using them. These amusements are really built to last.
 
@@ -39,6 +39,6 @@ These are just a few examples of the entertainment we have on offer for college 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

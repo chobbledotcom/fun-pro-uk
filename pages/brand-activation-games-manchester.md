@@ -7,9 +7,9 @@ layout: page
 
 # Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions
 
-When you're planning a [brand activation](promotion-event-games.html) event in Manchester, standing out from the competition requires more than just a well-designed stand. With over 15 years of experience as corporate event specialists, we understand the pressure you face to generate quality leads, create memorable brand experiences, and demonstrate clear ROI from your marketing investment.
+When you're planning a [brand activation](promotion-event-games/) event in Manchester, standing out from the competition requires more than just a well-designed stand. With over 15 years of experience as corporate event specialists, we understand the pressure you face to generate quality leads, create memorable brand experiences, and demonstrate clear ROI from your marketing investment.
 
-[Interactive games](../interactive-game-hire.html) can be the difference between visitors walking past your stand and actively engaging with your brand. But choosing the right games for your specific objectives requires careful consideration of your audience, venue constraints, and campaign goals.
+[Interactive games](/interactive-game-hire/) can be the difference between visitors walking past your stand and actively engaging with your brand. But choosing the right games for your specific objectives requires careful consideration of your audience, venue constraints, and campaign goals.
 
 ## Why Interactive Games Transform Brand Activation Events
 
@@ -17,7 +17,7 @@ Event marketing in Manchester's competitive landscape means every interaction co
 
 Games create natural conversation starters between your prospects and your team. Instead of interrupting busy attendees with a sales pitch, interactive challenges invite people to participate voluntarily. This shift in dynamic means visitors approach your stand with a positive mindset, already engaged and ready to interact.
 
-From a data perspective, games provide measurable engagement metrics that help you calculate genuine ROI. When someone spends five minutes playing a [racing simulator](../category/interactive-game-hire/5/twin-racing-car-simulators.html) or competing in a reaction challenge, you're capturing far more valuable data than a brief conversation or business card exchange.
+From a data perspective, games provide measurable engagement metrics that help you calculate genuine ROI. When someone spends five minutes playing a [racing simulator](/category/interactive-game-hire/twin-racing-car-simulators/) or competing in a reaction challenge, you're capturing far more valuable data than a brief conversation or business card exchange.
 
 Interactive experiences also break down social barriers in crowded exhibition environments. Many attendees feel overwhelmed by aggressive sales approaches, but games offer a relaxed way to interact with your brand without immediate pressure.
 
@@ -25,7 +25,7 @@ The social media potential cannot be overlooked either. Well-chosen games create
 
 ## Choosing the Right Games for Your Brand Activation Goals
 
-Not every game suits every [brand activation](promotion-event-games.html) objective. The key is matching your entertainment choice to your specific marketing goals and audience expectations.
+Not every game suits every [brand activation](promotion-event-games/) objective. The key is matching your entertainment choice to your specific marketing goals and audience expectations.
 
 ### Lead Generation & Data Capture Games
 
@@ -33,7 +33,7 @@ If your primary objective is collecting quality contact information, consider ga
 
 Racing simulators work particularly well because they create competitive leaderboards. Participants willingly provide contact details to see how they compare against other players throughout the event. The extended engagement time also gives your team valuable minutes to discuss your products or services.
 
-Reaction time challenges like [Batak Lite](../category/all-products/61/batak-lite.html) and [Batak Pro](../category/batak/43/batak-pro.html) offer another approach. These quick, addictive games can be tied to prize draws or competitions that require contact information for entry. The immediate results and competitive element encourage multiple attempts, increasing the time visitors spend at your stand.
+Reaction time challenges like [Batak Lite](/category/all-products/batak-lite/) and [Batak Pro](/category/batak/batak-pro/) offer another approach. These quick, addictive games can be tied to prize draws or competitions that require contact information for entry. The immediate results and competitive element encourage multiple attempts, increasing the time visitors spend at your stand.
 
 Virtual reality experiences provide the most immersive option for lead capture. Participants often queue for these premium experiences, creating natural opportunities for your team to gather information and qualify leads whilst people wait.
 
@@ -41,7 +41,7 @@ Virtual reality experiences provide the most immersive option for lead capture. 
 
 When building brand recognition is your priority, focus on games that reinforce your messaging whilst encouraging social sharing.
 
-[Custom-branded games](../category/branded-exhibition-games.html) allow you to incorporate your visual identity and key messages directly into the gaming experience. These work particularly well for technology companies or brands targeting younger demographics.
+[Custom-branded games](/category/branded-exhibition-games/) allow you to incorporate your visual identity and key messages directly into the gaming experience. These work particularly well for technology companies or brands targeting younger demographics.
 
 Interactive challenges can be designed to reinforce specific brand attributes. For example, a precision-based game might suit an engineering company, whilst team-based challenges work well for collaborative service providers.
 
@@ -53,7 +53,7 @@ The most effective brand activation games subtly incorporate your products or se
 
 Consider how your offering could become part of the challenge itself. A software company might create a game that demonstrates their product's capabilities, whilst a training provider could design challenges that showcase different skill sets.
 
-[Interactive experiences](../interactive-game-hire.html) work best when they educate whilst entertaining. Participants should understand more about your company's expertise after playing, but without feeling like they've received a sales presentation.
+[Interactive experiences](/interactive-game-hire/) work best when they educate whilst entertaining. Participants should understand more about your company's expertise after playing, but without feeling like they've received a sales presentation.
 
 ## Manchester Venue Considerations for Brand Activation Games
 
@@ -81,15 +81,15 @@ We've worked with companies who've seen 300% increases in stand visitor engageme
 
 ## Our Manchester Brand Activation Game Hire Service
 
-As corporate event specialists with [nationwide coverage](delivery-areas.html), we provide comprehensive support for your Manchester brand activation events.
+As corporate event specialists with [nationwide coverage](delivery-areas/), we provide comprehensive support for your Manchester brand activation events.
 
-Our [consultation process](contact-fun-pro-uk.html) begins with understanding your specific objectives, target audience, and venue constraints. We'll recommend games that align with your campaign goals rather than simply showcasing our most popular equipment.
+Our [consultation process](contact-fun-pro-uk/) begins with understanding your specific objectives, target audience, and venue constraints. We'll recommend games that align with your campaign goals rather than simply showcasing our most popular equipment.
 
 Professional delivery, setup, and collection services cover Manchester and the wider North West region. Our team handles all technical requirements, risk assessments, and insurance documentation, so you can focus on your core marketing activities.
 
 On-site support staff can manage game operations during your event if requested, ensuring everything runs smoothly whilst your team concentrates on engaging with participants and qualifying leads. Our staff understand their role as part of your marketing team, not separate entertainers.
 
-[Custom branding options](../category/branded-exhibition-games.html) allow you to integrate games seamlessly into your overall visual identity. From simple logo applications to comprehensive wraps that reinforce your key messages, we'll ensure games feel like natural extensions of your brand.
+[Custom branding options](/category/branded-exhibition-games/) allow you to integrate games seamlessly into your overall visual identity. From simple logo applications to comprehensive wraps that reinforce your key messages, we'll ensure games feel like natural extensions of your brand.
 
 ## Planning Your Manchester Brand Activation Event
 
@@ -109,7 +109,7 @@ With over 15 years of experience supporting corporate marketing teams, we unders
 
 Whether you're launching a new product at EventCity, building brand awareness at Manchester Central, or running a targeted activation at a smaller city centre venue, we'll provide expert guidance to ensure your interactive elements deliver measurable results.
 
-[Contact](contact-fun-pro-uk.html) our friendly team today to discuss how interactive games can support your Manchester brand activation objectives. We're here to help you create memorable experiences that deliver measurable business results.
+[Contact](contact-fun-pro-uk/) our friendly team today to discuss how interactive games can support your Manchester brand activation objectives. We're here to help you create memorable experiences that deliver measurable business results.
 
 ## Frequently Asked Questions
 
@@ -127,7 +127,7 @@ Yes, we offer various branding options from simple logo applications to full wra
 
 ### How much space do different promotional games require at Manchester venues?
 
-Space requirements vary significantly. Compact [arcade games](../category/arcade-games/2/lights-out-game.html) need less space than something like racing car simulators that require a little more. We'll assess your stand layout and recommend suitable options.
+Space requirements vary significantly. Compact [arcade games](/category/arcade-games/lights-out-game/) need less space than something like racing car simulators that require a little more. We'll assess your stand layout and recommend suitable options.
 
 ### What happens if technical issues occur during our brand activation event?
 
@@ -145,180 +145,180 @@ Games can capture contact details, engagement duration, performance scores, and 
 
 Yes, we can provide trained operators who understand their role as part of your marketing team. They'll manage the technical aspects whilst encouraging participation and directing qualified leads to your sales team. If you require staff to help with games during your event, please let us know so that we can provide an accurate quote.
 
-[Catch it Reaction Ring Hire](../category/exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
+[Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
 
-[More Details](../category/exhibition-games/94/catch-it-reaction-ring-hire.html)
+[More Details](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
-[Gold Bar Challenge](../category/exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
+[Gold Bar Challenge](/category/exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
 
-[More Details](../category/exhibition-games/107/gold-bar-challenge.html)
+[More Details](/category/exhibition-games/107/gold-bar-challenge/)
 
-[Roller Bowler](../category/arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
+[Roller Bowler](/category/arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
 
-[More Details](../category/arcade-games/111/roller-bowler.html)
+[More Details](/category/arcade-games/111/roller-bowler/)
 
-[Electronic Dart Board](../category/arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
+[Electronic Dart Board](/category/arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
 
-[More Details](../category/arcade-games/106/electronic-dart-board.html)
+[More Details](/category/arcade-games/106/electronic-dart-board/)
 
-[8 Lane Roll & Bowl Donkey Derby](../category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
+[8 Lane Roll & Bowl Donkey Derby](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
 
-[More Details](../category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html)
+[More Details](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
-[Candy Floss Cart Hire](../category/fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[Candy Floss Cart Hire](/category/fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[More Details](../category/fun-foods/92/candy-floss-cart-hire.html)
+[More Details](/category/fun-foods/92/candy-floss-cart-hire/)
 
-[Corn Hole](../category/exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
+[Corn Hole](/category/exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
 
-[More Details](../category/exhibition-games/99/corn-hole.html)
+[More Details](/category/exhibition-games/99/corn-hole/)
 
-[Whack A Mole game hire](../category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
+[Whack A Mole game hire](/category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
 
-[More Details](../category/all-products/67/whack-a-mole-game-hire.html)
+[More Details](/category/all-products/67/whack-a-mole-game-hire/)
 
-[Batak Lite](../category/all-products/61/batak-lite.html "Batak Lite - Exhibition Games ")
+[Batak Lite](/category/all-products/batak-lite.html "Batak Lite - Exhibition Games ")
 
-[More Details](../category/all-products/61/batak-lite.html)
+[More Details](/category/all-products/batak-lite/)
 
-[Scalextric Slot Car Racing](../category/all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
+[Scalextric Slot Car Racing](/category/all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
 
-[More Details](../category/all-products/88/scalextric-slot-car-racing.html)
+[More Details](/category/all-products/88/scalextric-slot-car-racing/)
 
-[Snatch It](../category/exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
+[Snatch It](/category/exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
 
-[More Details](../category/exhibition-games/82/snatch-it.html)
+[More Details](/category/exhibition-games/82/snatch-it/)
 
-[Danger-zone-strike-a-light-game-hire](../category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+[Danger-zone-strike-a-light-game-hire](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
+[More Details](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[Mega Wire - Branded Game Hire (stand alone)](../category/all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+[Mega Wire - Branded Game Hire (stand alone)](/category/all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
 
-[More Details](../category/all-products/64/mega-wire-branded-game-hire-stand-alone.html)
+[More Details](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
-[Ballnado Grabber](../category/grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
+[Ballnado Grabber](/category/grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
 
-[More Details](../category/grab-a-grand/36/ballnado-grabber.html)
+[More Details](/category/grab-a-grand/36/ballnado-grabber/)
 
-[The Vault](../category/interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+[The Vault](/category/interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/50/the-vault.html)
+[More Details](/category/interactive-game-hire/50/the-vault/)
 
-[Crack The Code safe cracker](../crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
+[Crack The Code safe cracker](/crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
 
-[More Details](../crack-the-code-safe-cracker.html)
+[More Details](/crack-the-code-safe-cracker/)
 
-[Prize Crane Arcade Grabber](../prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
 
-[More Details](../prize-crane-arcade-grabber.html)
+[More Details](/prize-crane-arcade-grabber/)
 
-[Batak Pro](../category/batak/43/batak-pro.html "Batak Pro - Exhibition Games ")
+[Batak Pro](/category/batak/batak-pro.html "Batak Pro - Exhibition Games ")
 
-[More Details](../category/batak/43/batak-pro.html)
+[More Details](/category/batak/batak-pro/)
 
-[Prize Wheel](../prize-wheel.html "Prize Wheel - Prize Games ")
+[Prize Wheel](/prize-wheel.html "Prize Wheel - Prize Games ")
 
-[More Details](../prize-wheel.html)
+[More Details](/prize-wheel/)
 
-[Roll & Bowl Donkey Derby](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+[Roll & Bowl Donkey Derby](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
 
-[More Details](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
+[More Details](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[Plinko Game Hire](../category/all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
+[Plinko Game Hire](/category/all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
 
-[More Details](../category/all-products/68/plinko-game-hire.html)
+[More Details](/category/all-products/68/plinko-game-hire/)
 
-[Virtual Pinball](../category/arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
+[Virtual Pinball](/category/arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
 
-[More Details](../category/arcade-games/77/virtual-pinball.html)
+[More Details](/category/arcade-games/77/virtual-pinball/)
 
-[LEADER BOARD](../category/interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
+[LEADER BOARD](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
 
-[More Details](../category/interactive-game-hire/30/leader-board.html)
+[More Details](/category/interactive-game-hire/30/leader-board/)
 
-[GIANT BUZZ WIRE](../category/interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[GIANT BUZZ WIRE](/category/interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
 
-[More Details](../category/interactive-game-hire/9/giant-buzz-wire.html)
+[More Details](/category/interactive-game-hire/giant-buzz-wire/)
 
-[CASH GRABBER MACHINE HIRE](../category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
+[CASH GRABBER MACHINE HIRE](/category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
 
-[More Details](../category/interactive-game-hire/3/grab-a-grand.html)
+[More Details](/category/interactive-game-hire/3/grab-a-grand/)
 
-[High Striker](../category/arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+[High Striker](/category/arcade-games/48/high-striker.html "High Striker - Arcade Games ")
 
-[More Details](../category/arcade-games/48/high-striker.html)
+[More Details](/category/arcade-games/48/high-striker/)
 
-[Pix N Mix Hire](../category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[Pix N Mix Hire](/category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
 
-[More Details](../category/exhibition-games/42/pix-n-mix-hire.html)
+[More Details](/category/exhibition-games/42/pix-n-mix-hire/)
 
-[Racing Car Simulators](../category/interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[Racing Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/5/twin-racing-car-simulators.html)
+[More Details](/category/interactive-game-hire/twin-racing-car-simulators/)
 
-[VR Race Car Simulator](../category/corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
+[VR Race Car Simulator](/category/corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
 
-[More Details](../category/corporate-entertainment/38/vr-race-car-simulator.html)
+[More Details](/category/corporate-entertainment/38/vr-race-car-simulator/)
 
-[Roll And Bowl Game Hire](../category/all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
+[Roll And Bowl Game Hire](/category/all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
 
-[More Details](../category/all-products/51/roll-and-bowl-game-hire.html)
+[More Details](/category/all-products/51/roll-and-bowl-game-hire/)
 
-[RETRO ARCADE GAMES](../category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](/category/interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/4/retro-arcade-games.html)
+[More Details](/category/interactive-game-hire/retro-arcade-games/)
 
-[Beat The Buzzer](../category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+[Beat The Buzzer](/category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
 
-[More Details](../category/interactive-game-hire/62/beat-the-buzzer.html)
+[More Details](/category/interactive-game-hire/62/beat-the-buzzer/)
 
-[Dance Machine](../category/exhibition-games/39/dance-machine.html "Dance Machine - Arcade Games ")
+[Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine - Arcade Games ")
 
-[More Details](../category/exhibition-games/39/dance-machine.html)
+[More Details](/category/exhibition-games/dance-machine/)
 
-[Shuffleboard Hire](../category/all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+[Shuffleboard Hire](/category/all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
 
-[More Details](../category/all-products/87/shuffle-board-hire.html)
+[More Details](/category/all-products/87/shuffle-board-hire/)
 
-[PLUCK A DUCK RACING](../category/interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+[PLUCK A DUCK RACING](/category/interactive-game-hire/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/8/pluck-a-duck-racing.html)
+[More Details](/category/interactive-game-hire/pluck-a-duck-racing/)
 
-[TOP DOC OPERATION GAME](../category/interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+[TOP DOC OPERATION GAME](/category/interactive-game-hire/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/7/top-doc-operation-game.html)
+[More Details](/category/interactive-game-hire/top-doc-operation-game/)
 
-[ELECTRONIC BASKET BALL HIRE](../category/photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[ELECTRONIC BASKET BALL HIRE](/category/photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
 
-[More Details](../category/photo-booths/6/ultimate-green-screen-photo-booth.html)
+[More Details](/category/photo-booths/ultimate-green-screen-photo-booth/)
 
-[GOLD CUP HORSE RACING](../category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
+[GOLD CUP HORSE RACING](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/29/gold-cup-horse-racing.html)
+[More Details](/category/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[FOOTBALL TABLES](../category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+[FOOTBALL TABLES](/category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
 
-[More Details](../category/interactive-game-hire/27/football-tables.html)
+[More Details](/category/interactive-game-hire/27/football-tables/)
 
-[GREEN SCREEN PHOTO BOOTHS](../category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
+[GREEN SCREEN PHOTO BOOTHS](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
 
-[More Details](../category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html)
+[More Details](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[Air Hockey Table Hire](../category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+[Air Hockey Table Hire](/category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
 
-[More Details](../category/arcade-games/60/air-hockey-table-hire.html)
+[More Details](/category/arcade-games/60/air-hockey-table-hire/)
 
-[Table Tennis Hire](../category/corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
+[Table Tennis Hire](/category/corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
 
-[More Details](../category/corporate-entertainment/80/table-tennis-hire.html)
+[More Details](/category/corporate-entertainment/80/table-tennis-hire/)
 
-[Giant Deck Chair Hire](../category/weddings/74/giant-deck-chair-hire.html "Giant Deck Chair Hire - Corporate Entertainment ")
+[Giant Deck Chair Hire](/category/weddings/74/giant-deck-chair-hire.html "Giant Deck Chair Hire - Corporate Entertainment ")
 
-[More Details](../category/weddings/74/giant-deck-chair-hire.html)
+[More Details](/category/weddings/74/giant-deck-chair-hire/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

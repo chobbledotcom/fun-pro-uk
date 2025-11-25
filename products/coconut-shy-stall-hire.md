@@ -7,8 +7,6 @@ meta_description: "Hire a Coconut Shy stall for your next event. A fun and inter
 permalink: "/products/coconut-shy-stall-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=coconut-shy-stall-hire-5.jpg&cs=1200"
 ---
 
 # Coconut Shy Stall Hire
@@ -19,9 +17,9 @@ gallery:
 
 ## The Best Coconut Shy Stall Hire for All UK Events
 
-Looking to bring a touch of classic fairground fun to your next [corporate event](../../corporate-entertainment.html)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
+Looking to bring a touch of classic fairground fun to your next [corporate event](/products/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
 
-A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](../../../news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team.html), [family fun days](../../fun-days.html), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/category/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
 
 ## Hire a Coconut Shy Stall for Your Next Event
 
@@ -91,7 +89,7 @@ Once the event is over, we’ll return to collect the stall, leaving your venue 
 
 ## Ready to Book Our Coconut Shy Stall Hire?
 
-Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](../../../pages/contact-fun-pro-uk.html) to book for your next event anywhere in the UK.
+Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/pages/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
 
 ## Frequently Asked Questions
 
@@ -127,6 +125,6 @@ Brand the rear half wall of the inside of the stall with your brand from:
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

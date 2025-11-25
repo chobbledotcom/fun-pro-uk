@@ -7,8 +7,6 @@ meta_description: "Hire our corporate wellbeing activities and equipment for you
 permalink: "/products/staff-wellbeing-days/"
 categories: []
 features: []
-gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto/thumbs/aHR0cHM6Ly93d3cuZnVucHJvdWsuY28udWsvdGh1bWJzLmFzaHg_Y3M9MTIwMCZpbWc9RkJfSU1HXzE1MjQwNDEwNjk1MzIuanBnJmhxPTEmdz00ZmYzNDQyNWY1ZjYzMDE0NmM1ODBkOTZmMjZjMTRmMg"
 ---
 
 # Wellbeing Days and Breakout Room Areas
@@ -55,6 +53,6 @@ To learn more about how Fun Pro UK can help you plan and execute an unforgettabl
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

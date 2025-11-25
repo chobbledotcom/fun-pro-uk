@@ -7,8 +7,6 @@ meta_description: "We have all the experience, expertise, and equipment you need
 permalink: "/products/company-award-ceremonies/"
 categories: []
 features: []
-gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto/thumbs/aHR0cHM6Ly93d3cuZnVucHJvdWsuY28udWsvdGh1bWJzLmFzaHg_Y3M9MTIwMCZpbWc9RkJfSU1HXzE1MjQwNDEwNjk1MzIuanBnJmhxPTEmdz00ZmYzNDQyNWY1ZjYzMDE0NmM1ODBkOTZmMjZjMTRmMg"
 ---
 
 # **UK Company Awards Presentation Hire**
@@ -20,6 +18,6 @@ Your annual awards presentation is a very special night for all concerned, wheth
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,8 +7,6 @@ meta_description: "Add fun to your event with our candy floss cart hire. Bespoke
 permalink: "/products/candy-floss-cart-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
 ---
 
 # Candy Floss Cart Hire
@@ -17,7 +15,7 @@ gallery:
 
 ## Best Candy Floss Cart Hire for Fun Events in the UK!
 
-If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](../../fun-days.html), school fetes, and more.  
+If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/category/fun-days/), school fetes, and more.  
   
 The bright colours and spinning sugar draw in guests of all ages, making it a simple yet eye-catching addition to your gathering. It’s an easy way to make your event stand out and create sweet, lasting memories for everyone who attends.
 
@@ -25,7 +23,7 @@ The bright colours and spinning sugar draw in guests of all ages, making it a si
 
 The candy floss cart is a great addition to any event, whether indoors or outdoors.
 
-Its red and white design brings a classic funfair feel, adding character to [staff summer parties](../../../pages/outdoor-garden-game-hire.html), [school fun days](../../../pages/school-fun-day-entertainment-hire.html), [promotional fairs](../../../pages/promotion-event-games.html), [corporate gatherings](../../../corporate-entertainment.html), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/pages/outdoor-garden-game-hire/), [school fun days](/pages/school-fun-day-entertainment-hire/), [promotional fairs](/pages/promotion-event-games/), [corporate gatherings](/../../corporate-entertainment/), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
 
 Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
 
@@ -55,7 +53,7 @@ The candy floss cart hire service includes:
 
 **CONTACT US FOR PRICE**
 
-![](../../../userfiles/file/FunPro/Images/specification.png)
+![](/../../userfiles/file/FunPro/Images/specification.png)
 
 Our services cover full setup and removal by our professional team, ensuring everything runs smoothly from start to finish. Delivery is not included in the price and will be charged separately.
 
@@ -65,7 +63,7 @@ If you need to extend the hire period, just let us know, and we’ll do our best
 
 Get in touch for custom pricing and availability.  
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -77,16 +75,16 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ### **Popular Items:**
 
-*   [Leaded Board](../../interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../../interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ## Why Choose Our Candy Floss Cart Hire Service?
 
 Fun Pro UK's candy floss cart hire adds entertainment and creates a space for guests to gather, chat, and enjoy a nostalgic treat. The cart is a simple way to bring people together and keeps guests coming back for more throughout the event.
 
-Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](../../../news/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates.html), and we handle each detail with care and professionalism to ensure everything runs smoothly.
+Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/blog/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/), and we handle each detail with care and professionalism to ensure everything runs smoothly.
 
 From setup to service, our team is committed to making the entire process easy and enjoyable. We manage the logistics, so you can focus on organising your event and making sure your guests have a great time.
 
@@ -116,7 +114,7 @@ When the event ends, we’ll return to collect the candy floss cart, and leave y
 
 ## Ready to take your corporate event to the next level?
 
-Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](../../../pages/contact-fun-pro-uk.html) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
+Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/pages/contact-fun-pro-uk/) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
 
 ## Frequently Asked Questions
 
@@ -142,7 +140,7 @@ Our hassle free service ensures that you don’t need to worry about sourcing in
 
 ### Can I hire multiple carts for larger events or different locations?
 
-Talk to us through [our website](../../../pages/christmas-entertainment-game-hire'.html), email, or phone number so we can understand your event requirements and tailor our service to fit your needs.
+Talk to us through [our website](/pages/christmas-entertainment-game-hire'/), email, or phone number so we can understand your event requirements and tailor our service to fit your needs.
 
 ### Are there any customisation options for flavours or colours?
 
@@ -164,6 +162,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

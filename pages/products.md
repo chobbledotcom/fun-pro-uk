@@ -1,13 +1,13 @@
 ---
-meta_title: "Security Packages | Burglar Alarms & CCTV | MyAlarm Security"
-meta_description: "Browse our complete range of security packages: burglar alarms, CCTV systems, and combined packages. Professional installation across South East London and Kent."
-permalink: "/all-products/"
-layout: products
+meta_title: "Interactive Game Hire | Corporate Events & Parties | Fun Pro UK"
+meta_description: "Browse our complete range of interactive games, arcade machines, and entertainment hire for corporate events, exhibitions, and parties across the UK."
+permalink: "/products/"
+layout: products.html
 eleventyNavigation:
   key: Products
   order: 3
 ---
 
-# Our Security Packages
+# Interactive Game Hire
 
-We offer a comprehensive range of security packages designed to protect your home or business.
+We offer a comprehensive range of interactive games and entertainment hire for corporate events, exhibitions, and parties.

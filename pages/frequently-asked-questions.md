@@ -83,6 +83,6 @@ A. To book the games, once your quote has been received and you wish to go ahead
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

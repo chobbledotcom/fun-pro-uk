@@ -107,13 +107,20 @@ const prepDir = (dir, shouldDelete = null) => {
 };
 
 /**
- * Download a file from URL
+ * Download a file from URL (skips if file already exists)
  * @param {string} url - URL to download from
  * @param {string} filepath - Local path to save file
+ * @param {boolean} force - Force re-download even if file exists
  * @returns {Promise<void>}
  */
-const downloadFile = (url, filepath) => {
+const downloadFile = (url, filepath, force = false) => {
   return new Promise((resolve, reject) => {
+    // Skip download if file already exists (caching)
+    if (!force && fs.existsSync(filepath)) {
+      resolve();
+      return;
+    }
+
     https.get(url, (response) => {
       if (response.statusCode === 200) {
         const writeStream = fs.createWriteStream(filepath);

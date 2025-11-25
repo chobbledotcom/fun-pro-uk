@@ -7,20 +7,6 @@ meta_description: "Hire Catch It Reaction games for corporate events &amp; exhib
 permalink: "/products/catch-it-reaction-ring-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-14.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-13.jpg&cs=1200"
 ---
 
 # Catch it Reaction Ring Hire
@@ -45,7 +31,7 @@ gallery:
 
 **£1495**\+ vat**
 
-Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](../../../pages/promotion-event-games.html).
+Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/pages/promotion-event-games/).
 
 ## What Is Catch It Reaction?
 
@@ -53,7 +39,7 @@ Catch It Reaction is an engaging interactive game that tests players' reflexes, 
 
 The fast-paced nature of the game creates an exciting atmosphere for both participants and spectators, making it perfect for drawing crowds and creating memorable experiences at corporate events and exhibitions.
 
-Popular at trade shows, conferences, and [team building events](../../../news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team.html), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
+Popular at trade shows, conferences, and [team building events](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
 
 ## Why Choose Catch It Reaction Game Hire for Your Next Event?
 
@@ -161,17 +147,17 @@ We're proud to have provided entertainment solutions for leading UK brands inclu
 
 Enhance your event with our complete range of interactive entertainment:
 
-*   [Batak Pro](../../batak/43/batak-pro.html) - Reaction speed challenge
+*   [Batak Pro](/products/batak43/batak-pro/) - Reaction speed challenge
     
-*   [Strike-A-Light](../../interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html) - Test your strength game
+*   [Strike-A-Light](/products/63/danger-zone-strike-a-light-game-hire/) - Test your strength game
     
-*   [Arcade Games](../../arcade-games/2/lights-out-game.html) - Classic gaming entertainment
+*   [Arcade Games](/category/arcade-games/lights-out-game/) - Classic gaming entertainment
     
-*   [Prize Games](../../prize-games.html) - Win exciting rewards
+*   [Prize Games](/category/prize-games/) - Win exciting rewards
 
 ## **Hire Catch It Reaction Game for Your Event**
 
-Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](../../../pages/contact-fun-pro-uk.html) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
+Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/pages/contact-fun-pro-uk/) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
 
 **Frequently Asked Questions**
 
@@ -217,9 +203,9 @@ You can rest assured that the Catch it and other equipment will arrive in top co
 
 Need a longer hire period?
 
-[Contact us](../../../pages/contact-fun-pro-uk.html) for custom pricing and availability.
+[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ### **Branding Prices from:**
 
@@ -233,6 +219,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

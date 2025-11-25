@@ -7,10 +7,6 @@ meta_description: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK i
 permalink: "/products/pig-roast/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast-2.jpg&cs=1200"
 ---
 
 # Pig Roast
@@ -29,7 +25,7 @@ Drop us an email with your requirements and we will do the rest!
 
 Available through out the UK.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -41,6 +37,6 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

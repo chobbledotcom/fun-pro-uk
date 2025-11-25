@@ -7,8 +7,6 @@ meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of
 permalink: "/products/climbing-wall/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=climbing-wall.png&cs=1200"
 ---
 
 # Climbing Wall
@@ -31,7 +29,7 @@ No matter where you're located in the UK, our Mobile Climbing Wall can come to y
 
 Booking our 4 player Mobile Climbing Wall is simple and hassle-free. Just get in touch with our friendly team, provide us with your event details, including the desired location and date, and we'll take care of the rest. Our experienced staff will handle the delivery, setup, and supervision of the wall, allowing you to focus on enjoying your event.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

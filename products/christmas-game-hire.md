@@ -7,57 +7,55 @@ meta_description: "Professional Christmas game hire across the UK. Branded festi
 permalink: "/products/christmas-game-hire/"
 categories: []
 features: []
-gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto/thumbs/aHR0cHM6Ly93d3cuZnVucHJvdWsuY28udWsvdGh1bWJzLmFzaHg_Y3M9MTIwMCZpbWc9RkJfSU1HXzE1MjQwNDEwNjk1MzIuanBnJmhxPTEmdz00ZmYzNDQyNWY1ZjYzMDE0NmM1ODBkOTZmMjZjMTRmMg"
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
-Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](christmas-games.html) create unforgettable experiences that boost engagement and bring teams together during the festive season.
+Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](christmas-games/) create unforgettable experiences that boost engagement and bring teams together during the festive season.
 
 ## Nationwide Christmas Game Hire & Locations
 
-As the UK's leading provider of interactive entertainment, Fun Pro UK [delivers](../pages/delivery-areas.html) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
+As the UK's leading provider of interactive entertainment, Fun Pro UK [delivers](/pages/delivery-areas/) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
 
 Our experienced team ensures seamless delivery and professional setup, making your festive event planning effortless.
 
-Whether you're hosting a Christmas party at the [NEC Birmingham](../pages/nec-birmingham.html), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment.
+Whether you're hosting a Christmas party at the [NEC Birmingham](/pages/nec-birmingham/), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment.
 
 ## Christmas Game Hire Options
 
 ### Interactive Games:
 
-*   [Batak Lite](all-products/61/batak-lite.html) & [Batak Pro](batak/43/batak-pro.html)
+*   [Batak Lite](all-products/batak-lite/) & [Batak Pro](batak/batak-pro/)
     
-*   [Strike a Snowflake](christmas-game-hire/91/strike-a-snow-flake.html)
+*   [Strike a Snowflake](christmas-game-hire/91/strike-a-snow-flake/)
     
-*   [Candy Cane Snatch It](christmas-game-hire/89/candy-cane-snatch-it.html)
+*   [Candy Cane Snatch It](christmas-game-hire/89/candy-cane-snatch-it/)
     
-*   [Candy Cane Megawire](christmas-game-hire/90/candy-cane-megawire.html)
+*   [Candy Cane Megawire](christmas-game-hire/90/candy-cane-megawire/)
 
 ### Prize Games:
 
-*   [Reindeer Ballando](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire.html)
+*   [Reindeer Ballando](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
     
-*   [Christmas Prize Crane](christmas-game-hire/100/christmas-prize-crane.html)
+*   [Christmas Prize Crane](christmas-game-hire/100/christmas-prize-crane/)
     
-*   [Casino Table](christmas-game-hire/16/casino-table-hire.html)
+*   [Casino Table](christmas-game-hire/casino-table-hire/)
 
 ### Strategy Games
 
-*   [Retro Arcade Games](interactive-game-hire/4/retro-arcade-games.html)
+*   [Retro Arcade Games](interactive-game-hire/retro-arcade-games/)
 
 ### Simulation Games
 
-*   [Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing.html)
+*   [Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing/)
     
-*   [Roll & Bowl Reindeer Racing Game](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire.html)
+*   [Roll & Bowl Reindeer Racing Game](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/)
     
-*   [8 Lane Reindeer Racing](christmas-games/102/8-lane-reindeer-racing.html)
+*   [8 Lane Reindeer Racing](christmas-games/102/8-lane-reindeer-racing/)
 
 ### Photo & Entertainment Games
 
-*   [Christmas Photo Booths](photo-booths-and-magic-mirrors/12/christmas-photo-booths.html)
+*   [Christmas Photo Booths](photo-booths-and-magic-mirrors/christmas-photo-booths/)
 
 ## What's Included in Christmas Game Hire?
 
@@ -79,7 +77,7 @@ When you hire Christmas games from Fun Pro UK, you receive:
 
 ## Branding Options & Pricing
 
-Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](branded-exhibition-games.html) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](branded-exhibition-games/) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
 
 Christmas Branding Options:
 
@@ -109,7 +107,7 @@ Christmas is our busiest season, so we recommend booking at least 6-8 weeks in a
 
 ### Can you provide multiple games for larger Christmas events?
 
-Absolutely. We specialise in large corporate [Christmas parties](../news/2024-09-04/best-office-christmas-party-games.html) and can provide multiple games, creating festive entertainment zones throughout your venue.
+Absolutely. We specialise in large corporate [Christmas parties](/blog/2024-09-04/best-office-christmas-party-games/) and can provide multiple games, creating festive entertainment zones throughout your venue.
 
 ### What power requirements do Christmas games need?
 
@@ -139,64 +137,64 @@ Join hundreds of satisfied corporate clients who trust us to deliver exceptional
 
 ## Hire Christmas Games for Your Event
 
-Ready to make this Christmas unforgettable? [Contact](../pages/contact-fun-pro-uk.html) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
+Ready to make this Christmas unforgettable? [Contact](/pages/contact-fun-pro-uk/) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
 
 [8 Lane Reindeer Racing](christmas-games/102/8-lane-reindeer-racing.html "8 Lane Reindeer Racing - Christmas Games ")
 
-[More Details](christmas-games/102/8-lane-reindeer-racing.html)
+[More Details](christmas-games/102/8-lane-reindeer-racing/)
 
 [Christmas Roller Bowler](christmas-games/112/christmas-roller-bowler.html "Christmas Roller Bowler - Christmas Games ")
 
-[More Details](christmas-games/112/christmas-roller-bowler.html)
+[More Details](christmas-games/112/christmas-roller-bowler/)
 
 [Candy Cane Megawire](christmas-game-hire/90/candy-cane-megawire.html "Candy Cane Megawire - Link Products")
 
-[More Details](christmas-game-hire/90/candy-cane-megawire.html)
+[More Details](christmas-game-hire/90/candy-cane-megawire/)
 
-[CASINO TABLE HIRE](christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
+[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
 
-[More Details](christmas-game-hire/16/casino-table-hire.html)
+[More Details](christmas-game-hire/casino-table-hire/)
 
 [Christmas Batak Pro](christmas-games/108/christmas-batak-pro.html "Christmas Batak Pro - Christmas Games ")
 
-[More Details](christmas-games/108/christmas-batak-pro.html)
+[More Details](christmas-games/108/christmas-batak-pro/)
 
 [Whack an Elf](christmas-game-hire/79/whack-an-elf.html "Whack an Elf - Link Products")
 
-[More Details](christmas-game-hire/79/whack-an-elf.html)
+[More Details](christmas-game-hire/79/whack-an-elf/)
 
 [Christmas Prize Crane](christmas-game-hire/100/christmas-prize-crane.html "Christmas Prize Crane - Christmas Game Hire ")
 
-[More Details](christmas-game-hire/100/christmas-prize-crane.html)
+[More Details](christmas-game-hire/100/christmas-prize-crane/)
 
 [Strike A Snow Flake](christmas-game-hire/91/strike-a-snow-flake.html "Strike A Snow Flake - Christmas Game Hire ")
 
-[More Details](christmas-game-hire/91/strike-a-snow-flake.html)
+[More Details](christmas-game-hire/91/strike-a-snow-flake/)
 
 [Candy Cane Snatch it](christmas-game-hire/89/candy-cane-snatch-it.html "Candy Cane Snatch it - Link Products")
 
-[More Details](christmas-game-hire/89/candy-cane-snatch-it.html)
+[More Details](christmas-game-hire/89/candy-cane-snatch-it/)
 
 [Reindeer Nosenado (Christmas Ballnado Hire )](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire.html "Reindeer Nosenado (Christmas Ballnado Hire ) - Link Products")
 
-[More Details](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire.html)
+[More Details](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
 
-[More Details](interactive-game-hire/4/retro-arcade-games.html)
+[More Details](interactive-game-hire/retro-arcade-games/)
 
 [Roll And Bowl Reindeer Racing Game Hire](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire.html "Roll And Bowl Reindeer Racing Game Hire - Link Products")
 
-[More Details](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire.html)
+[More Details](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/)
 
 [Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
 
-[More Details](all-products/88/scalextric-slot-car-racing.html)
+[More Details](all-products/88/scalextric-slot-car-racing/)
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

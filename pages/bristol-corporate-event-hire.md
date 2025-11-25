@@ -27,9 +27,9 @@ It majorly depends upon the audience of your event, but it isn't something to ig
 
 But don't panic as the team at Fun Pro UK can take your corporate event idea and give creative suggestions of unusual corporate entertainment that will capture the imaginations of your guests. Or put a smile on everyone's face with traditional board games, but in giant size!
 
-If you're planning a sales conference but want your entertainment to be a bit out there. We have a variety of retro games including [arcade machines](../category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES") and [electric basketball](../category/photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") to get your delegates interacting.
+If you're planning a sales conference but want your entertainment to be a bit out there. We have a variety of retro games including [arcade machines](/category/interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES") and [electric basketball](/category/photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") to get your delegates interacting.
 
-Or if you are thinking of a quirky corporate event in the Bristol area, we have a huge variety of unusual corporate entertainment including creative, giant inflatables and interesting [photo booths](../category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ").
+Or if you are thinking of a quirky corporate event in the Bristol area, we have a huge variety of unusual corporate entertainment including creative, giant inflatables and interesting [photo booths](/category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ").
 
 **Corporate entertainment brought to you professionally, on time and within budget**
 
@@ -45,10 +45,10 @@ Tel: 02477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](../userfiles/file/FunPro/contactus2.jpg)
+![](/userfiles/file/FunPro/contactus2.jpg)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,21 +7,21 @@ layout: page
 
 # Trusted Corporate Event Entertainment, London
 
-Looking for the perfect main attraction to include at your conference? Our London Conference and Event Game Hire is what you’re looking for. From [giant outdoor games](../category/corporate-entertainment/45/giant-connect-4-game-hire.html) to classic favourites like retro arcade machines, racing simulators, photo booths and more. We guarantee that our party game hire is reliable and easy to use but most of all, fun!
+Looking for the perfect main attraction to include at your conference? Our London Conference and Event Game Hire is what you’re looking for. From [giant outdoor games](/category/corporate-entertainment/45/giant-connect-4-game-hire/) to classic favourites like retro arcade machines, racing simulators, photo booths and more. We guarantee that our party game hire is reliable and easy to use but most of all, fun!
 
-![Lights Out Game Hire](../userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
+![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
 
 ## Explore Our Popular Game Hire Services in London
 
-Fun Pro has a large collection of [fun games](../category/fun-days.html) in London. We have all sorts of event hire games to entertain your corporate guests — from the classic photo booth to driving simulators to retro video games, fair games, and even huge outdoor games.
+Fun Pro has a large collection of [fun games](/category/fun-days/) in London. We have all sorts of event hire games to entertain your corporate guests — from the classic photo booth to driving simulators to retro video games, fair games, and even huge outdoor games.
 
-Take a look at our entertainment games for hire to see which one works for your event. Whether you're hosting a conference or promotional event at the [Excel London](excel-london.html), or are planning a smaller staff party, Fun Pro can work with all venue sizes and ensure that your event is remembered for all the right reasons.
+Take a look at our entertainment games for hire to see which one works for your event. Whether you're hosting a conference or promotional event at the [Excel London](excel-london/), or are planning a smaller staff party, Fun Pro can work with all venue sizes and ensure that your event is remembered for all the right reasons.
 
 ### Arcade Games for Hire
 
-Fun Pro has arcade machines with great LCD screens, perfectly working buttons and joysticks, complete tools and equipment, and everything else you and your guests need. Get the full arcade experience with games like [driving simulators](../category/interactive-game-hire/5/twin-racing-car-simulators.html), [retro video games](../category/interactive-game-hire/4/retro-arcade-games.html), [electric basketball machines](../category/photo-booths/6/ultimate-green-screen-photo-booth.html), and more.
+Fun Pro has arcade machines with great LCD screens, perfectly working buttons and joysticks, complete tools and equipment, and everything else you and your guests need. Get the full arcade experience with games like [driving simulators](/category/interactive-game-hire/twin-racing-car-simulators/), [retro video games](/category/interactive-game-hire/retro-arcade-games/), [electric basketball machines](/category/photo-booths/ultimate-green-screen-photo-booth/), and more.
 
-Browse our catalogue to find the perfect [arcade game](../category/arcade-games/2/lights-out-game.html) for your guests.
+Browse our catalogue to find the perfect [arcade game](/category/arcade-games/lights-out-game/) for your guests.
 
 ### Outdoor Games for Hire
 
@@ -31,51 +31,51 @@ Have a look at more of our garden games for hire and find what works for you.
 
 ### Photobooth for Hire
 
-Make fun events in London truly memorable with this tried-and-true classic. Capture unforgettable moments with our popular [photo booth hire](photo-booth-hire-london.html) in London. Let your guests bring home fun, branded photo prints as keepsakes. It's perfect for corporate parties, award ceremonies, brand conferences, and other corporate events.
+Make fun events in London truly memorable with this tried-and-true classic. Capture unforgettable moments with our popular [photo booth hire](photo-booth-hire-london/) in London. Let your guests bring home fun, branded photo prints as keepsakes. It's perfect for corporate parties, award ceremonies, brand conferences, and other corporate events.
 
 ### Exhibition Stand for Hire
 
-Take your presence at expos, exhibitions, and trade shows up a notch with fun exhibition game hires in London. Increase brand retention, boost your bottom line, and entertain your guests with exciting games, like [Batak Pro](../category/batak/43/batak-pro.html), [Prize Crane](../prize-crane-arcade-grabber.html), [High Striker](../category/arcade-games/48/high-striker.html), and more, at the same time.
+Take your presence at expos, exhibitions, and trade shows up a notch with fun exhibition game hires in London. Increase brand retention, boost your bottom line, and entertain your guests with exciting games, like [Batak Pro](/category/batak/batak-pro/), [Prize Crane](/prize-crane-arcade-grabber/), [High Striker](/category/arcade-games/48/high-striker/), and more, at the same time.
 
 Look through our catalogue to find the right games that your events need.
 
 ### Interactive Games for Hire
 
-Whether it's themed corporate events, presentations, conferences, or training days, Fun Pro has the right [interactive games](../interactive-game-hire.html) in London to keep you and your guests engaged and entertained. Draw crowds and encourage participation with fun games like a [Casino Table](../category/christmas-game-hire/16/casino-table-hire.html), [Crazy Golf](../category/fun-days/81/crazy-golf.html), [Batak Lite](../category/batak/61/batak-lite.html), [Shuffle Boards](../category/all-products/87/shuffle-board-hire.html), [Giant Buzz Wires](../category/interactive-game-hire/9/giant-buzz-wire.html), High Striker, and more.
+Whether it's themed corporate events, presentations, conferences, or training days, Fun Pro has the right [interactive games](/interactive-game-hire/) in London to keep you and your guests engaged and entertained. Draw crowds and encourage participation with fun games like a [Casino Table](/category/christmas-game-hire/casino-table-hire/), [Crazy Golf](/category/fun-days/crazy-golf/), [Batak Lite](/category/batak/batak-lite/), [Shuffle Boards](/category/all-products/87/shuffle-board-hire/), [Giant Buzz Wires](/category/interactive-game-hire/giant-buzz-wire/), High Striker, and more.
 
 Check out more of our interactive games from the catalogue.
 
 ### Company Fun Day Ideas in London
 
-[Corporate fun days](team-building-ideas.html) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
+[Corporate fun days](team-building-ideas/) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
 
 Fun Pro will help you plan your day and decide on the types of games to hire based on what your employees need.
 
 Our most popular corporate fun day games are:
 
-✓ [Human Football](../category/fun-days/19/human-table-football.html)
+✓ [Human Football](/category/fun-days/human-table-football/)
 
-✓ [Total Wipe Out](../category/fun-days/20/total-wipe-out.html)
+✓ [Total Wipe Out](/category/fun-days/total-wipe-out/)
 
-✓ [Whack A Mole](../category/all-products/67/whack-a-mole-game-hire.html)
+✓ [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/)
 
-✓ [Giant Buzz Wire](../category/interactive-game-hire/9/giant-buzz-wire.html)
+✓ [Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/)
 
-✓ [Inflatables Assault Course](../category/fun-days/21/inflatable-assault-courses.html)
+✓ [Inflatables Assault Course](/category/fun-days/21/inflatable-assault-courses/)
 
 ### Corporate Entertainment in London
 
-Organise a fun office event that breaks the routine and energises your team. Fun Pro has tons of [corporate entertainment](../category/corporate-entertainment.html) and games that you can hire to transform standard gatherings into memorable events.
+Organise a fun office event that breaks the routine and energises your team. Fun Pro has tons of [corporate entertainment](/category/corporate-entertainment/) and games that you can hire to transform standard gatherings into memorable events.
 
-✓ [Table Football](../category/interactive-game-hire/27/football-tables.html)
+✓ [Table Football](/category/interactive-game-hire/27/football-tables/)
 
-✓ [Prize Wheel](../prize-wheel.html)
+✓ [Prize Wheel](/prize-wheel/)
 
-✓ [Danger Zone! Strike a Light!](../category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
+✓ [Danger Zone! Strike a Light!](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
 ✓ Giant Buzz Wire
 
-✓ [Giant Jenga](../category/fun-days/44/giant-jenga-hire.html)
+✓ [Giant Jenga](/category/fun-days/44/giant-jenga-hire/)
 
 Our service includes delivery, setup, and removal by our professional team.
 
@@ -83,7 +83,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](conference-game-hire-london.html#FooterContact)**
+**[Request a Free Quote](conference-game-hire-london/#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -97,7 +97,7 @@ We do a lot of fun events in London throughout the year, so Fun Pro has a big se
 
 ### Custom Branding
 
-Fun Pro offers [branded exhibition games](../category/exhibition-games.html) and fair games in London. We understand that games are powerful tools for increasing brand retention. Each game can come with custom graphics, including your company logos and colours.
+Fun Pro offers [branded exhibition games](/category/exhibition-games/) and fair games in London. We understand that games are powerful tools for increasing brand retention. Each game can come with custom graphics, including your company logos and colours.
 
 ### Full Support and Service
 
@@ -133,7 +133,7 @@ When the event ends, our team will take care of the safe and efficient removal o
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in London or any other location in the UK!
 
-**[TALK TO US](conference-game-hire-london.html#FooterContact)**
+**[TALK TO US](conference-game-hire-london/#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -147,7 +147,7 @@ We have games that can be hired for as long as 7 days. Fun Pro has flexible hire
 
 ### Is there a minimum or maximum number of games we can hire?
 
-You can hire as few or as many games as your event needs. [Contact us](contact-fun-pro-uk.html) and we would be happy to help you plan it out, including how many games would suit the size of your event.
+You can hire as few or as many games as your event needs. [Contact us](contact-fun-pro-uk/) and we would be happy to help you plan it out, including how many games would suit the size of your event.
 
 ### What safety measures are in place for the games?
 
@@ -195,6 +195,6 @@ Please refer to your contract for full terms and conditions regarding cancellati
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

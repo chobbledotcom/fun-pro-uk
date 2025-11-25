@@ -1,21 +1,89 @@
 {
   "banner": {
     "special_offer": {
-      "message": "",
-      "link": ""
+      "message": "Book your next event today with the number one game provider in the UK info@funprouk.co.uk",
+      "link": "/contact/"
     },
     "images": []
   },
   "hero": {
-    "service_cards": []
+    "service_cards": [
+      {
+        "title": "Games For Exhibitions",
+        "description": "Games For Exhibitions for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/exhibition-games/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/83c0c47135d5e174af51d3acc4e79487"
+      },
+      {
+        "title": "Awards Ceremonies",
+        "description": "Awards Ceremonies for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/company-award-ceremonies/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/e5dfc2db19770738bded1935dff7718c"
+      },
+      {
+        "title": "Family Fun Day Entertainment Hire",
+        "description": "Family Fun Day Entertainment Hire for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/fun-days/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/e98fb1efbfc13c5499b5d2f85f3a60d6"
+      },
+      {
+        "title": "Wedding Entertainment",
+        "description": "Wedding Entertainment for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/weddings/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/21d7ff67dd3176ffc68677a3ae93410f"
+      },
+      {
+        "title": "Christmas Entertainment Game Hire",
+        "description": "Christmas Entertainment Game Hire for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/christmas-game-hire/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/9f79589aef314c37fdbb72dc90946444"
+      },
+      {
+        "title": "Interactive Game Hire",
+        "description": "Interactive Game Hire for corporate events, exhibitions, and parties across the UK.",
+        "link": "/interactive-game-hire/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/c88290c2baf10fe120f4a1671093b188"
+      },
+      {
+        "title": "Team Building Fun",
+        "description": "Team Building Fun for corporate events, exhibitions, and parties across the UK.",
+        "link": "/category/fun-days/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/b2b8e18dc4f01fe84bd516b786979a45"
+      },
+      {
+        "title": "Freshers Game Hire",
+        "description": "Freshers Game Hire for corporate events, exhibitions, and parties across the UK.",
+        "link": "/interactive-game-hire/",
+        "image": "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/02ce890e84b0e438e182b64d0402dafd"
+      }
+    ]
   },
   "main_content": {
-    "paragraphs": [],
-    "highlight": ""
+    "paragraphs": [
+      "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK. Book now for guaranteed fun!"
+    ],
+    "highlight": "EVENTS GAME HIRE THROUGHOUT THE UK"
   },
   "why_choose_us": {
     "heading": "Why Choose Us?",
-    "features": []
+    "features": [
+      {
+        "title": "Nationwide Delivery",
+        "icon": "/assets/icons/delivery.svg"
+      },
+      {
+        "title": "Professional Setup",
+        "icon": "/assets/icons/tools.svg"
+      },
+      {
+        "title": "Branded Games Available",
+        "icon": "/assets/icons/branding.svg"
+      },
+      {
+        "title": "Expert Event Support",
+        "icon": "/assets/icons/support.svg"
+      }
+    ]
   },
   "reviews": {
     "heading": "Our Reviews"

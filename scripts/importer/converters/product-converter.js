@@ -3,7 +3,7 @@ const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
 const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
-const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
+const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { scanProductCategories } = require('../utils/category-scanner');
 const { createConverter } = require('../utils/base-converter');
 
@@ -19,8 +19,8 @@ const { convertSingle, convertBatch } = createConverter({
   frontmatterGenerator: (metadata, slug, extracted) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
     const localImages = {
-      header_image: extracted.localImagePath || extracted.images?.header_image,
-      gallery: extracted.images?.gallery || []
+      header_image: extracted.localGalleryPaths?.[0] || extracted.localImagePath || '',
+      gallery: extracted.localGalleryPaths || []
     };
     return generateProductFrontmatter(
       metadata,
@@ -33,7 +33,10 @@ const { convertSingle, convertBatch } = createConverter({
     );
   },
   beforeWrite: async (content, extracted, slug) => {
-    extracted.localImagePath = await downloadProductImage(extracted.images.header_image, slug);
+    // Download all gallery images
+    extracted.localGalleryPaths = await downloadProductGallery(extracted.images?.gallery || [], slug);
+    // Set header image to first gallery image for backward compatibility
+    extracted.localImagePath = extracted.localGalleryPaths[0] || '';
     return await downloadEmbeddedImages(content, 'products', slug);
   },
   afterConvert: async (extracted, slug, context) => {

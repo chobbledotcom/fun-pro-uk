@@ -7,10 +7,6 @@ meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Da
 permalink: "/products/total-wipe-out/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=total-wipe-out.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=total-wipe-out-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=total-wipe-out-2.jpg&cs=1200"
 ---
 
 # TOTAL WIPE OUT
@@ -29,11 +25,11 @@ gallery:
 
 **£550**\+ vat**
 
-Delivered [](total-wipe-out.html#specification)and [](total-wipe-out.html#specification)installed on site by our trained team
+Delivered [](total-wipe-out/#specification)and [](total-wipe-out/#specification)installed on site by our trained team
 
-\*Delivery [](total-wipe-out.html#specification)Charges & Minimum order value may apply
+\*Delivery [](total-wipe-out/#specification)Charges & Minimum order value may apply
 
-[**Email:**](total-wipe-out.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](total-wipe-out/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -73,10 +69,10 @@ Lift required
 
 **Popular items**
 
-*   [Hungry hippo/ Dash and Grab](../32/dash-and-grab-hungry-hippo-inflatable-game.html "Dash & Grab / Hungry Hippo Inflatable Game")
-*   [Human football](../19/human-table-football.html "HUMAN TABLE FOOTBALL")
-*   [75ft Assault](../21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")
-*   [Bungee run](../33/bungee-run.html "Bungee Run")
+*   [Hungry hippo/ Dash and Grab](/32/dash-and-grab-hungry-hippo-inflatable-game.html "Dash & Grab / Hungry Hippo Inflatable Game")
+*   [Human football](/human-table-football.html "HUMAN TABLE FOOTBALL")
+*   [75ft Assault](/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")
+*   [Bungee run](/33/bungee-run.html "Bungee Run")
 
 ## **Total Wipeout**
 
@@ -136,6 +132,6 @@ Soon everyone will be looking forward to your next company or family event. It w
 
 **Hilarious fun**
 
-Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](../21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES") and our crazy [human table football](../19/human-table-football.html "HUMAN TABLE FOOTBALL").
+Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES") and our crazy [human table football](/human-table-football.html "HUMAN TABLE FOOTBALL").
 
-If you're planning a event, talk to our team today for the best [company fun day ideas](../../fun-days.html "Fun Days") and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
+If you're planning a event, talk to our team today for the best [company fun day ideas](/category/fun-days.html "Fun Days") and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.

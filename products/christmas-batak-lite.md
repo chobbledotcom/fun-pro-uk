@@ -7,20 +7,6 @@ meta_description: "Christmas Batak Lite is one of the wide range of products ava
 permalink: "/products/christmas-batak-lite/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-lite-13.jpg&cs=1200"
 ---
 
 # Christmas Batak Lite
@@ -49,7 +35,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](christmas-batak-lite.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](christmas-batak-lite/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## 🎄 **What Is Batak Lite?**
 
@@ -152,11 +138,11 @@ Want to make your event even more magical? Pair Batak Lite with one of our other
 
 ## Popular items:
 
-*   [Retro arcade machine](../../interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Batak Pro](../../batak/43/batak-pro.html#BodyContent)
-*   [Dance Machine](../../exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](../../interactive-game-hire/6/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Batak Pro](/products/batak43/batak-pro/#BodyContent)
+*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
 
 ## Batak Lite Branding and Customisation Options
 
@@ -178,6 +164,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

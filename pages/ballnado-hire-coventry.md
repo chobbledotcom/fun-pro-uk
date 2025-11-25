@@ -7,7 +7,7 @@ layout: page
 
 # Fun Pro Ballnado Hire for Your Next Event in Coventry
 
-![Ballnado hire in Coventry](../userfiles/file/FunPro/Grab%20a%20Grand/ballnadov2.jpg)
+![Ballnado hire in Coventry](/userfiles/file/FunPro/Grab%20a%20Grand/ballnadov2.jpg)
 
 Fun Pro UK is the perfect choice for hiring the Ballnado game for exhibitions, promotions, and corporate events in Coventry. The game hire specialists are also actually based right here in Coventry, so you're supporting a local business too!
 
@@ -45,7 +45,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **Equipment size**
 
@@ -77,13 +77,13 @@ Please contact us to find out more
 
 **Popular Items:**
 
-*   [Leaded Board](../category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../category/interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/category/interactive-game-hire/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

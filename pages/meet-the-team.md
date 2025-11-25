@@ -9,10 +9,10 @@ layout: page
 
 Welcome to our little corner of the neighbourhood! Meet The Team is where we introduce the faces behind the service, the hands that set up every event, and the hearts that care for our community. At the centre of it all is Colin — Colin is our MD and is the one where all the Fun begins. 🎉😊
 
-![](../userfiles/file/FunPro/Me/me.jpg)
+![](/userfiles/file/FunPro/Me/me.jpg)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

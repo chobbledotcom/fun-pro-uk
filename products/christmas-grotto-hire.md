@@ -7,22 +7,6 @@ meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Da
 permalink: "/products/christmas-grotto-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=green-screen-photo-booths-30.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=magic-mirror-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-basket-ball-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-cup-horse-racing-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=football-tables-13.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=top-doc-operation-game-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=cash-grabber-machine-hire-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
 ---
 
 # **UK wide Christmas grotto hire**
@@ -34,65 +18,65 @@ Nothing says fun like the festive season, whether it's your company Christmas pa
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.
 
-[CHRISTMAS GROTTO 1](christmas-grotto-hire/17/christmas-grotto-1.html "CHRISTMAS GROTTO 1 - Christmas Grotto Hire ")
+[CHRISTMAS GROTTO 1](christmas-grotto-hire/christmas-grotto-1.html "CHRISTMAS GROTTO 1 - Christmas Grotto Hire ")
 
-[More Details](christmas-grotto-hire/17/christmas-grotto-1.html)
+[More Details](christmas-grotto-hire/christmas-grotto-1/)
 
-[CHRISTMAS GROTTO 2](christmas-grotto-hire/18/christmas-grotto-2.html "CHRISTMAS GROTTO 2 - Christmas Grotto Hire ")
+[CHRISTMAS GROTTO 2](christmas-grotto-hire/christmas-grotto-2.html "CHRISTMAS GROTTO 2 - Christmas Grotto Hire ")
 
-[More Details](christmas-grotto-hire/18/christmas-grotto-2.html)
+[More Details](christmas-grotto-hire/christmas-grotto-2/)
 
 [VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
 
-[More Details](corporate-entertainment/38/vr-race-car-simulator.html)
+[More Details](corporate-entertainment/38/vr-race-car-simulator/)
 
-[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
+[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
 
-[More Details](photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html)
+[More Details](photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[MAGIC MIRROR](photo-booths-and-magic-mirrors/13/magic-mirror.html "MAGIC MIRROR - Photo Booths & Magic Mirrors ")
+[MAGIC MIRROR](photo-booths-and-magic-mirrors/magic-mirror.html "MAGIC MIRROR - Photo Booths & Magic Mirrors ")
 
-[More Details](photo-booths-and-magic-mirrors/13/magic-mirror.html)
+[More Details](photo-booths-and-magic-mirrors/magic-mirror/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
 
-[More Details](interactive-game-hire/4/retro-arcade-games.html)
+[More Details](interactive-game-hire/retro-arcade-games/)
 
-[ELECTRONIC BASKET BALL HIRE](photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
 
-[More Details](photo-booths/6/ultimate-green-screen-photo-booth.html)
+[More Details](photo-booths/ultimate-green-screen-photo-booth/)
 
-[GIANT BUZZ WIRE](interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
 
-[More Details](interactive-game-hire/9/giant-buzz-wire.html)
+[More Details](interactive-game-hire/giant-buzz-wire/)
 
-[PLUCK A DUCK RACING](interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+[PLUCK A DUCK RACING](interactive-game-hire/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
 
-[More Details](interactive-game-hire/8/pluck-a-duck-racing.html)
+[More Details](interactive-game-hire/pluck-a-duck-racing/)
 
-[Racing Car Simulators](interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
 
-[More Details](interactive-game-hire/5/twin-racing-car-simulators.html)
+[More Details](interactive-game-hire/twin-racing-car-simulators/)
 
 [GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
 
-[More Details](interactive-game-hire/29/gold-cup-horse-racing.html)
+[More Details](interactive-game-hire/29/gold-cup-horse-racing/)
 
 [FOOTBALL TABLES](interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
 
-[More Details](interactive-game-hire/27/football-tables.html)
+[More Details](interactive-game-hire/27/football-tables/)
 
-[TOP DOC OPERATION GAME](interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+[TOP DOC OPERATION GAME](interactive-game-hire/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
 
-[More Details](interactive-game-hire/7/top-doc-operation-game.html)
+[More Details](interactive-game-hire/top-doc-operation-game/)
 
 [CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
 
-[More Details](interactive-game-hire/3/grab-a-grand.html)
+[More Details](interactive-game-hire/3/grab-a-grand/)
 
-[CASINO TABLE HIRE](christmas-game-hire/16/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
+[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
 
-[More Details](christmas-game-hire/16/casino-table-hire.html)
+[More Details](christmas-game-hire/casino-table-hire/)
 
 **Classic Christmas snaps  
 **No staff Christmas party is complete without the snap happy fun of a [photo booth](photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors "). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
@@ -144,6 +128,6 @@ At Fun Pro UK, we love the festive season, and our elves have got lots of great 
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

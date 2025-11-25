@@ -7,13 +7,6 @@ meta_description: "The Roll and Bowl donkey derby game is great fun for exhibiti
 permalink: "/products/roll-and-bowl-donkey-derby/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-7.jpg&cs=1200"
 ---
 
 # Roll & Bowl Donkey Derby
@@ -52,15 +45,15 @@ Don't miss the opportunity to engage and bond with your colleagues, clients, or 
 
 **£2695**\+ vat**
 
-Delivered [](roll-and-bowl-donkey-derby.html#specification)and [](roll-and-bowl-donkey-derby.html#specification)installed on site by our trained team
+Delivered [](roll-and-bowl-donkey-derby/#specification)and [](roll-and-bowl-donkey-derby/#specification)installed on site by our trained team
 
-In[\-](roll-and-bowl-donkey-derby.html#specification)house [](roll-and-bowl-donkey-derby.html#specification)branding [](roll-and-bowl-donkey-derby.html#specification)available [](roll-and-bowl-donkey-derby.html#specification)Printed[,](roll-and-bowl-donkey-derby.html#specification) applied & removed after each event
+In[\-](roll-and-bowl-donkey-derby/#specification)house [](roll-and-bowl-donkey-derby/#specification)branding [](roll-and-bowl-donkey-derby/#specification)available [](roll-and-bowl-donkey-derby/#specification)Printed[,](roll-and-bowl-donkey-derby/#specification) applied & removed after each event
 
-(One [](roll-and-bowl-donkey-derby.html#specification)time [](roll-and-bowl-donkey-derby.html#specification)use [](roll-and-bowl-donkey-derby.html#specification)only)
+(One [](roll-and-bowl-donkey-derby/#specification)time [](roll-and-bowl-donkey-derby/#specification)use [](roll-and-bowl-donkey-derby/#specification)only)
 
-\*Delivery [](roll-and-bowl-donkey-derby.html#specification)Charges & Minimum order value may apply
+\*Delivery [](roll-and-bowl-donkey-derby/#specification)Charges & Minimum order value may apply
 
-[**Email:**](roll-and-bowl-donkey-derby.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](roll-and-bowl-donkey-derby/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -102,13 +95,13 @@ Lift required
 
 Roll up and take the reins as you play to win in our fun and interactive Roll and Bowl Donkey Derby game. Can you guide your trusty donkey to the finish line and claim victory?
 
-This incredible 4-player, 4-lane [interactive game](../../../interactive-game-hire.html "Interactive Game Hire ") may seem like an easy win, but hold your horses! Whether it's a party, promotional event, Christmas gathering, [corporate event](../../corporate-entertainment.html "Corporate Entertainment "), or team-building day, this game is guaranteed to have everyone cheering on their jockeys and racing to win!
+This incredible 4-player, 4-lane [interactive game](/../../interactive-game-hire.html "Interactive Game Hire ") may seem like an easy win, but hold your horses! Whether it's a party, promotional event, Christmas gathering, [corporate event](/products/corporate-entertainment.html "Corporate Entertainment "), or team-building day, this game is guaranteed to have everyone cheering on their jockeys and racing to win!
 
 So, how does the Roll and Bowl Donkey Derby work? Each player selects their favourite donkey, takes their stand, and waits for the race to begin. At the starter's order, you'll roll and bowl your ball down the course, trying to pot your balls into the various holes to propel your donkey forwards. The more points you score by landing your ball in the holes, the faster your donkey will gallop towards victory.
 
 You could reward a small prize to the winner or the highest-scoring participant at the end of your event, or just play for fun! People will love showing off their skills in this Roll and Bowl game.
 
-With its built-in PA system, complete with full running commentary and sound effects, along with enchanting LED lighting, this [exhibition game](../../exhibition-games.html "Exhibition Games ") creates an atmosphere that's perfect for horseplay. Your event will be an immersive and realistic experience that everyone will be talking about!
+With its built-in PA system, complete with full running commentary and sound effects, along with enchanting LED lighting, this [exhibition game](/../exhibition-games.html "Exhibition Games ") creates an atmosphere that's perfect for horseplay. Your event will be an immersive and realistic experience that everyone will be talking about!
 
 Why not make your next in-store promotion, trade show stand, party, or brand activation fun by hiring the Roll and Bowl Donkey Derby? You'll be a real winner when you're drawing people to your stand with us. The Roll and Bowl Donkey Derby offers a fantastic opportunity to play and bond with your colleagues, clients and friends, helping you get the most out of your event, no matter the occasion.
 
@@ -118,9 +111,9 @@ For a no-obligation quote or to make your order, simply contact Fun Pro UK today
 
 **Branding Prices from:**
 
-In[\-](../../../admin/products-edit.aspx%3Fid=75.html#specification)house [](../../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=75.html#specification)available [](../../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=75.html#specification)time [](../../../admin/products-edit.aspx%3Fid=75.html#specification)use [](../../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
 
 **Playing Field x 4**
 

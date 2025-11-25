@@ -7,8 +7,6 @@ meta_description: "Hook A Duck is one of the wide range of products available fr
 permalink: "/products/hook-a-duck/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=hook-a-duck-2.jpg&cs=1200"
 ---
 
 # Hook A Duck
@@ -21,7 +19,7 @@ gallery:
 
 **Looking to bring a touch of classic fairground fun to your next corporate event?** Our **Hook A Duck** game hire is the perfect way to engage and entertain guests while adding a nostalgic vibe to any occasion.
 
-A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](../../fun-fair-stalls.html), fairs [staff parties](../../../pages/outdoor-garden-game-hire.html), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
+A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/../fun-fair-stalls/), fairs [staff parties](/pages/outdoor-garden-game-hire/), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
 
 ## Hire a Hook A Duck Stall for Your Next Event
 
@@ -67,6 +65,6 @@ Brand the rear half wall of the inside of the stall with your brand from:
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

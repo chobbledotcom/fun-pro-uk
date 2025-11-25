@@ -7,18 +7,6 @@ meta_description: "Hire Our Danger Zone Strike A Light Game For Your Family Fun 
 permalink: "/products/danger-zone-strike-a-light-game-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-11.jpg&cs=1200"
 ---
 
 # Danger-zone-strike-a-light-game-hire
@@ -65,7 +53,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,10 +93,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](../30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 **What Is the Strike A Light Game?**
 
@@ -154,16 +142,16 @@ Branded Top Panel
 
 £175 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
 
 Branded side panels
 
 £250 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
 
 Fully Branded panels
 
 £420 + vat
 
-![](../../../userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+![](/../../userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)

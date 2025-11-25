@@ -7,9 +7,6 @@ meta_description: "Hire a Play Your Cards Right stall for your next event. Perfe
 permalink: "/products/play-your-cards-right-stall-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=play-your-cards-right-stall-hire-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=play-your-cards-right-stall-hire-5.jpg&cs=1200"
 ---
 
 # Play Your Cards Right Stall Hire
@@ -20,7 +17,7 @@ gallery:
 
 ## The Best Play Your Cards Right Stall Hire for All UK Events
 
-Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](../../../interactive-game-hire.html) creates a thrilling atmosphere, making it an ideal addition to [corporate events](../../corporate-entertainment.html), fairs, [staff parties](../../../news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team.html), and more.
+Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/products/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/products/corporate-entertainment/), fairs, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
 
 ## Hire a Play Your Cards Right Stall for Your Next Event
 
@@ -106,7 +103,7 @@ Once the event is over, we’ll return to collect the Target Ring Toss game, lea
 
 ## Ready to Book Our Play Your Cards Right Stall Hire?
 
-Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](../../../pages/contact-fun-pro-uk.html) to book for your next event anywhere in the UK.
+Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/pages/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
 
 ## Frequently Asked Questions
 
@@ -142,6 +139,6 @@ Brand the rear half wall of the side stall with your brand from
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

@@ -7,10 +7,6 @@ meta_description: "Ice Cream Van Hire – Sweet Treats For Every Occasion is one
 permalink: "/products/ice-cream-van-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-2.jpg&cs=1200"
 ---
 
 # Ice Cream van Hire
@@ -27,7 +23,7 @@ Whether you are catering for 50 or 500 then just drop us an email with your requ
 
 Available through the UK.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -39,6 +35,6 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## What our customers are saying…
 
-[Load More Reviews](../../../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side
