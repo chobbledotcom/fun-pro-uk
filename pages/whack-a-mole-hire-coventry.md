@@ -7,7 +7,7 @@ layout: page
 
 # Whack A Mole Hire Coventry
 
-[Whack-a-Mole game hire Coventry](/category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire") for exhibitions and conference events is an absolute blast! It's a super fun and interactive game that can really liven up your event. And the best part? Fun Pro UK offers exhibition game hire in Coventry with bespoke branding options, so you can increase your brand awareness while having a great time!
+[Whack-a-Mole game hire Coventry](/category/all-products/67/whack-a-mole-game-hire/) for exhibitions and conference events is an absolute blast! It's a super fun and interactive game that can really liven up your event. And the best part? Fun Pro UK offers exhibition game hire in Coventry with bespoke branding options, so you can increase your brand awareness while having a great time!
 
 Now, let's talk about the advantages of hiring a Whack-a-Mole game for your exhibition or conference. First and foremost, it's a highly interactive and engaging game that appeals to people of all ages. Participants have a blast trying to whack those pesky moles as they pop up, and it creates a lively and energetic atmosphere at your event.
 
@@ -17,7 +17,7 @@ Another advantage of hiring a Whack-a-Mole game is that it's a great way to attr
 
 Lastly, let's not forget about the potential for social media exposure. People love sharing their experiences on platforms like Snapchat, and Whack-a-Mole provides a visually appealing and shareable moment. When attendees post about
 
-When it comes to venues for [exhibitions and conferences in Coventry](/category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire"), there are a few awesome options. The CBS Arena Coventry is a fantastic venue that can accommodate large-scale events. It has ample space for setting up games like Whack-a-Mole and provides a vibrant atmosphere for attendees.
+When it comes to venues for [exhibitions and conferences in Coventry](/category/all-products/67/whack-a-mole-game-hire/), there are a few awesome options. The CBS Arena Coventry is a fantastic venue that can accommodate large-scale events. It has ample space for setting up games like Whack-a-Mole and provides a vibrant atmosphere for attendees.
 
 Another great venue for exhibitions and conferences in Coventry is Warwick Conferences. They offer a range of versatile spaces that can be customized to suit your event's needs. With their state-of-the-art facilities, you can create an engaging and interactive environment for your attendees.
 
@@ -77,13 +77,13 @@ Please contact us to find out more
 
 **Popular Items:**
 
-*   [Leaded Board](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/category/interactive-game-hire/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/category/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/category/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

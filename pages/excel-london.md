@@ -11,7 +11,7 @@ The Excel London, is conveniently situated only ten minutes away from Canary Wha
 
 This venue offers such a dynamic space, it is extremely popular for hosting a variety of events including corporate Conferences, Trade Shows and **Exhibitions** along with indoor and outdoor sporting events.
 
-Fun Pro Uk are conveniently located to deliver directly to your stand at the London Excel and surrounding area. Our reliable experienced delivery team supply a large variety of fun interactive game hire for Excel London. We are a popular choice for corporate events such as Trade Shows, Conferences and [Exhibition Stands](/category/exhibition-games/#BodyContent). With our knowledge and expertise we can supply game hire for the smallest of stands to the larger booths.
+Fun Pro Uk are conveniently located to deliver directly to your stand at the London Excel and surrounding area. Our reliable experienced delivery team supply a large variety of fun interactive game hire for Excel London. We are a popular choice for corporate events such as Trade Shows, Conferences and [Exhibition Stands](/category/exhibition-games.html#BodyContent). With our knowledge and expertise we can supply game hire for the smallest of stands to the larger booths.
 
 ## Which game hire for your event?
 
@@ -31,6 +31,6 @@ Here are some events that are coming up at the London Excel: [Click here to find
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

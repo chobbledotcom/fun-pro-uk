@@ -55,15 +55,15 @@ Don't miss out on the opportunity to elevate your event with the Gold Cup Horse 
 
 **£1195**\+ vat**
 
-Delivered [](gold-cup-horse-racing/#specification)and [](gold-cup-horse-racing/#specification)installed on site by our trained team
+Delivered [](gold-cup-horse-racing.html#specification)and [](gold-cup-horse-racing.html#specification)installed on site by our trained team
 
-In[\-](gold-cup-horse-racing/#specification)house [](gold-cup-horse-racing/#specification)branding [](gold-cup-horse-racing/#specification)available [](gold-cup-horse-racing/#specification)Printed[,](gold-cup-horse-racing/#specification) applied & removed after each event
+In[\-](gold-cup-horse-racing.html#specification)house [](gold-cup-horse-racing.html#specification)branding [](gold-cup-horse-racing.html#specification)available [](gold-cup-horse-racing.html#specification)Printed[,](gold-cup-horse-racing.html#specification) applied & removed after each event
 
-(One [](gold-cup-horse-racing/#specification)time [](gold-cup-horse-racing/#specification)use [](gold-cup-horse-racing/#specification)only)
+(One [](gold-cup-horse-racing.html#specification)time [](gold-cup-horse-racing.html#specification)use [](gold-cup-horse-racing.html#specification)only)
 
-\*Delivery [](gold-cup-horse-racing/#specification)Charges & Minimum order value may apply
+\*Delivery [](gold-cup-horse-racing.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](gold-cup-horse-racing/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](gold-cup-horse-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -103,10 +103,10 @@ Lift required
 
 Popular items:
 
-*   [Race Car Simulators](/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Top Doc](/top-doc-operation-game.html "TOP DOC OPERATION GAME")
-*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
-*   [Pick N Mix](/../exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire")
+*   [Race Car Simulators](/twin-racing-car-simulators/)
+*   [Top Doc](/top-doc-operation-game/)
+*   [Dance Machine](/../exhibition-games/dance-machine/)
+*   [Pick N Mix](/../exhibition-games/42/pix-n-mix-hire/)
 
 ## **Gold Cup Horse Racing Hire**
 

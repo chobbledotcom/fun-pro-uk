@@ -65,11 +65,11 @@ Need a longer hire period?
   
 [Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.  
 
-Delivered [](table-tennis-hire/#specification)and [](table-tennis-hire/#specification)installed on site by our trained team
+Delivered [](table-tennis-hire.html#specification)and [](table-tennis-hire.html#specification)installed on site by our trained team
 
-\*Delivery [](table-tennis-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](table-tennis-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](table-tennis-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](table-tennis-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 Please note that delivery charges and minimum order values may apply.
 
@@ -166,7 +166,7 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board/)
+*   [Lights Out](/products/lights-out-game/)
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)

@@ -55,15 +55,15 @@ Don't miss out on the fun – book our Giant Plinko Game for your next event in 
 
 **£1195**\+ vat**
 
-Delivered [](/all-products/68/plinko-game-hire/#specification)and [](/all-products/68/plinko-game-hire/#specification)installed on site by our trained team
+Delivered [](/all-products/68/plinko-game-hire.html#specification)and [](/all-products/68/plinko-game-hire.html#specification)installed on site by our trained team
 
-In[\-](/all-products/68/plinko-game-hire/#specification)house [](/all-products/68/plinko-game-hire/#specification)branding [](/all-products/68/plinko-game-hire/#specification)available [](/all-products/68/plinko-game-hire/#specification)Printed[,](/all-products/68/plinko-game-hire/#specification) applied & removed after each event
+In[\-](/all-products/68/plinko-game-hire.html#specification)house [](/all-products/68/plinko-game-hire.html#specification)branding [](/all-products/68/plinko-game-hire.html#specification)available [](/all-products/68/plinko-game-hire.html#specification)Printed[,](/all-products/68/plinko-game-hire.html#specification) applied & removed after each event
 
-(One [](/all-products/68/plinko-game-hire/#specification)time [](/all-products/68/plinko-game-hire/#specification)use [](/all-products/68/plinko-game-hire/#specification)only)
+(One [](/all-products/68/plinko-game-hire.html#specification)time [](/all-products/68/plinko-game-hire.html#specification)use [](/all-products/68/plinko-game-hire.html#specification)only)
 
-\*Delivery [](/all-products/68/plinko-game-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](/all-products/68/plinko-game-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/68/plinko-game-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/68/plinko-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -115,9 +115,9 @@ The Plinko Game is available in the standard red and white design alternatively,
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64/#specification)house [](/../../admin/products-edit.aspx%3Fid=64/#specification)branding [](/../../admin/products-edit.aspx%3Fid=64/#specification)available [](/../../admin/products-edit.aspx%3Fid=64/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64/#specification)time [](/../../admin/products-edit.aspx%3Fid=64/#specification)use [](/../../admin/products-edit.aspx%3Fid=64/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
 
 **Branded back panels**
 

@@ -69,7 +69,7 @@ Please contact us to find out more
 
 **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
-**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](contact-fun-pro-uk/#BodyContent)**
+**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](contact-fun-pro-uk.html#BodyContent)**
 
 **Equipment size**
 
@@ -165,6 +165,6 @@ Looking to enhance your event further? We offer a variety of interactive games f
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

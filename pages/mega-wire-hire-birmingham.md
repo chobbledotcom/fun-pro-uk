@@ -7,7 +7,7 @@ layout: page
 
 # Mega wire Hire Birmingham
 
-[Mega Wire hire Birmingham](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/#BodyContent), also known as Buzz Wire hire, is a thrilling game that tests your hand-eye coordination and steady nerves. The objective is simple: guide a metal loop along a twisted wire without touching it. Sounds easy, right? Well, it's trickier than it looks!  
+[Mega Wire hire Birmingham](/category/all-products/64/mega-wire-branded-game-hire-stand-alone.html#BodyContent), also known as Buzz Wire hire, is a thrilling game that tests your hand-eye coordination and steady nerves. The objective is simple: guide a metal loop along a twisted wire without touching it. Sounds easy, right? Well, it's trickier than it looks!  
   
 Now, let's talk about the logistics. Mega Wire (Buzz Wire) Hire Birmingham offers delivery services to popular venues like the NEC, ICC, and NCC. This means you can easily bring the excitement of Mega Wire to your event without any hassle.  
   
@@ -17,7 +17,7 @@ Imagine the thrill as your guests take turns attempting to navigate the wire wit
   
 Whether you're hosting a corporate event, a trade show, or a birthday party, Mega Wire is guaranteed to be a hit. It's suitable for all ages and can be enjoyed by both kids and adults alike.  
   
-So, go ahead and make your event unforgettable with [Mega Wire (Buzz Wire) Hire Birmingham](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/#BodyContent). Reach out to them, get all the details, and let the electrifying fun begin!  
+So, go ahead and make your event unforgettable with [Mega Wire (Buzz Wire) Hire Birmingham](/category/all-products/64/mega-wire-branded-game-hire-stand-alone.html#BodyContent). Reach out to them, get all the details, and let the electrifying fun begin!  
   
 I hope this gives you a better idea of what Mega Wire (Buzz Wire) Hire Birmingham has to offer. If you have any more questions or need further assistance, feel free to ask. I'm here to help you out and make sure your event is a buzzing success!
 
@@ -47,6 +47,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

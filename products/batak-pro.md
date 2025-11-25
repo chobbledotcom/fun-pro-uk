@@ -82,7 +82,7 @@ Custom branding options to showcase your company identity
 
 \*Delivery fees may apply.
 
-[**Email:**](/products/batak43/batak-pro/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/products/batak43/batak-pro.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -122,10 +122,10 @@ Lift required 1600mm deep 1500mm high
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Dance Machine](/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Dance Machine](/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game/)
 
 ## Batak Pro Branding and Customisation Options
 

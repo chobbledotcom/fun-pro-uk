@@ -27,11 +27,11 @@ gallery:
 
 **£395**\+ vat**
 
-Delivered [](gladiator-duel/#specification)and [](gladiator-duel/#specification)installed on site by our trained team
+Delivered [](gladiator-duel.html#specification)and [](gladiator-duel.html#specification)installed on site by our trained team
 
-\*Delivery [](gladiator-duel/#specification)Charges & Minimum order value may apply
+\*Delivery [](gladiator-duel.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](gladiator-duel/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](gladiator-duel.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -71,11 +71,11 @@ Lift required
 
 **Popular Products:**
 
-*   **[Human Football](/human-table-football.html "HUMAN TABLE FOOTBALL")**
-*   **[75ft Assault course](/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES")**
-*   **[Hungry Hippos](/32/dash-and-grab-hungry-hippo-inflatable-game.html "Dash & Grab / Hungry Hippo Inflatable Game")**
-*   **[Bungee run](/33/bungee-run.html "Bungee Run")**
-*   **[Total Wipeout](/total-wipe-out.html "TOTAL WIPE OUT")**
+*   **[Human Football](/human-table-football/)**
+*   **[75ft Assault course](/21/inflatable-assault-courses/)**
+*   **[Hungry Hippos](/32/dash-and-grab-hungry-hippo-inflatable-game/)**
+*   **[Bungee run](/33/bungee-run/)**
+*   **[Total Wipeout](/total-wipe-out/)**
 
 ## **Gladiator Duel Hire**
 
@@ -91,11 +91,11 @@ Who will survive the pummelling and stay on their podium while knocking their op
 
 Gladiator duel game hire includes a top quality inflatable battle zone, to guarantee a soft landing when you get knocked down. You'll also get a pair of padded fighting sticks, just like the Gladiators on TV, plus a pair of head protectors to stop you getting hit too hard.
 
-It's always a massive success at any kind of [company fun day](/category/fun-days.html "Fun Days"), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
+It's always a massive success at any kind of [company fun day](/category/fun-days/), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
 
 ### A fantastic fun day range
 
-The gladiator duel is just part of our company fun day hire range, available for delivery across the UK. Why not add the hilarious mayhem of [human table football](/human-table-football.html "HUMAN TABLE FOOTBALL"), or the skill and timing of the [wipeout swinging arm game](/total-wipe-out.html "TOTAL WIPE OUT").
+The gladiator duel is just part of our company fun day hire range, available for delivery across the UK. Why not add the hilarious mayhem of [human table football](/human-table-football/), or the skill and timing of the [wipeout swinging arm game](/total-wipe-out/).
 
 Talk to our friendly team and we'll create the perfect package to suit your theme, your venue and your budget, with everything carefully planned to make your whole day hassle free.
 

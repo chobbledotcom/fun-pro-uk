@@ -77,10 +77,10 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ### **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board/)
+*   [Lights Out](/products/lights-out-game/)
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)
 
 ## Why Choose Our Candy Floss Cart Hire Service?
 
@@ -164,6 +164,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

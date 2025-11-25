@@ -63,15 +63,15 @@ Take your event to the next level by branding our football tables with your logo
 
 **£995**\+ vat**
 
-Delivered [](football-tables/#specification)and [](football-tables/#specification)installed on site by our trained team
+Delivered [](football-tables.html#specification)and [](football-tables.html#specification)installed on site by our trained team
 
-In[\-](football-tables/#specification)house [](football-tables/#specification)branding [](football-tables/#specification)available [](football-tables/#specification)Printed[,](football-tables/#specification) applied & removed after each event
+In[\-](football-tables.html#specification)house [](football-tables.html#specification)branding [](football-tables.html#specification)available [](football-tables.html#specification)Printed[,](football-tables.html#specification) applied & removed after each event
 
-(One [](football-tables/#specification)time [](football-tables/#specification)use [](football-tables/#specification)only)
+(One [](football-tables.html#specification)time [](football-tables.html#specification)use [](football-tables.html#specification)only)
 
-\*Delivery [](football-tables/#specification)Charges & Minimum order value may apply
+\*Delivery [](football-tables.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](football-tables/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](football-tables.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -111,10 +111,10 @@ Lift required
 
 **Popular items Hire along side**
 
-*   **[Race cars simulators](/twin-racing-car-simulators.html "Racing Car Simulators")**
-*   **[Batak Pro](/products/batak43/batak-pro.html "Batak Pro")**
-*   **[Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")**
-*   **[Pix N Mix](/../exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire")**
+*   **[Race cars simulators](/twin-racing-car-simulators/)**
+*   **[Batak Pro](/products/batak43/batak-pro/)**
+*   **[Dance Machine](/../exhibition-games/dance-machine/)**
+*   **[Pix N Mix](/../exhibition-games/42/pix-n-mix-hire/)**
 
 ## Nationwide Football Table Hire
 

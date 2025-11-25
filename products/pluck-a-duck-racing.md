@@ -52,11 +52,11 @@ With its nostalgic charm and versatile applications, Pluck a Duck Racing is a mu
 
 **£1195**\+ vat**
 
-Delivered [](pluck-a-duck-racing/#specification)and [](pluck-a-duck-racing/#specification)installed on site by our trained team
+Delivered [](pluck-a-duck-racing.html#specification)and [](pluck-a-duck-racing.html#specification)installed on site by our trained team
 
-\*Delivery [](pluck-a-duck-racing/#specification)Charges & Minimum order value may apply
+\*Delivery [](pluck-a-duck-racing.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](pluck-a-duck-racing/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](pluck-a-duck-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -96,10 +96,10 @@ Lift required
 
 **Popular items:**
 
-*   [Top Doc](/top-doc-operation-game.html "TOP DOC OPERATION GAME")
-*   [Giant Buzz Wire](/giant-buzz-wire.html "GIANT BUZZ WIRE")
+*   [Top Doc](/top-doc-operation-game/)
+*   [Giant Buzz Wire](/giant-buzz-wire/)
 *   Lights Out
-*   [Batak Pro](/products/batak43/batak-pro.html "Batak Pro")
+*   [Batak Pro](/products/batak43/batak-pro/)
 
 ## Pluck a Duck Game Hire
 
@@ -136,6 +136,6 @@ Whether you’re looking for a unique teambuilding opportunity, a new game to he
 
 ### Mobile and versatile
 
-Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/twin-racing-car-simulators.html "Racing Car Simulators"), lights out reaction games and [retro arcade machines](/retro-arcade-games.html "RETRO ARCADE GAMES").
+Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/twin-racing-car-simulators/), lights out reaction games and [retro arcade machines](/retro-arcade-games/).
 
-From a single item to a whole [company fun day](/category/fun-days.html "Fun Days") carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/products/corporate-entertainment.html "Corporate Entertainment ") package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
+From a single item to a whole [company fun day](/category/fun-days/) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/products/corporate-entertainment/) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.

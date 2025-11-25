@@ -45,13 +45,13 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 **Popular items:**
 
-*   [Magic Mirror](/magic-mirror.html "MAGIC MIRROR")
-*   [Photo Booth](/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
+*   [Magic Mirror](/magic-mirror/)
+*   [Photo Booth](/green-screen-photo-booths/)
 *   Selfie Pod
-*   [Green Screen Booth](/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS")
+*   [Green Screen Booth](/green-screen-photo-booths/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

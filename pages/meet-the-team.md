@@ -17,6 +17,6 @@ Welcome to our little corner of the neighbourhood! Meet The Team is where we int
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

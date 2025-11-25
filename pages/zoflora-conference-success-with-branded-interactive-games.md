@@ -91,6 +91,6 @@ If you're planning a conference, exhibition stand, or buyer event where you need
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

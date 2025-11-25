@@ -59,7 +59,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](manchester-corporate-event-hire/#FooterContact)**
+**[Request a Free Quote](manchester-corporate-event-hire.html#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -109,7 +109,7 @@ After the event ends, our team will take care of the safe and efficient removal 
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Manchester or any other location in the UK!
 
-**[Talk To Us](manchester-corporate-event-hire/#FooterContact)**
+**[Talk To Us](manchester-corporate-event-hire.html#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -147,6 +147,6 @@ Please refer to your contract for full terms and conditions regarding cancellati
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

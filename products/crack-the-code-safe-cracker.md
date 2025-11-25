@@ -65,15 +65,15 @@ Make your event memorable with the Crack The Code Safe Cracker for hire in Birmi
 
 **£1195**\+ vat**
 
-Delivered [](/../../crack-the-code-safe-cracker/#specification)and [](/../../crack-the-code-safe-cracker/#specification)installed on site by our trained team
+Delivered [](/../../crack-the-code-safe-cracker.html#specification)and [](/../../crack-the-code-safe-cracker.html#specification)installed on site by our trained team
 
-In[\-](/../../crack-the-code-safe-cracker/#specification)house [](/../../crack-the-code-safe-cracker/#specification)branding [](/../../crack-the-code-safe-cracker/#specification)available [](/../../crack-the-code-safe-cracker/#specification)Printed[,](/../../crack-the-code-safe-cracker/#specification) applied & removed after each event
+In[\-](/../../crack-the-code-safe-cracker.html#specification)house [](/../../crack-the-code-safe-cracker.html#specification)branding [](/../../crack-the-code-safe-cracker.html#specification)available [](/../../crack-the-code-safe-cracker.html#specification)Printed[,](/../../crack-the-code-safe-cracker.html#specification) applied & removed after each event
 
-(One [](/../../crack-the-code-safe-cracker/#specification)time [](/../../crack-the-code-safe-cracker/#specification)use [](/../../crack-the-code-safe-cracker/#specification)only)
+(One [](/../../crack-the-code-safe-cracker.html#specification)time [](/../../crack-the-code-safe-cracker.html#specification)use [](/../../crack-the-code-safe-cracker.html#specification)only)
 
-\*Delivery [](/../../crack-the-code-safe-cracker/#specification)Charges & Minimum order value may apply
+\*Delivery [](/../../crack-the-code-safe-cracker.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/../../crack-the-code-safe-cracker/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/../../crack-the-code-safe-cracker.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

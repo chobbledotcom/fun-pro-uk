@@ -71,13 +71,13 @@ Please contact us to find out more
 
 ## **Popular items:**
 
-*   [Grab A Grand](/category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE")
-*   [Batak Pro](/category/batak/batak-pro.html "Batak Pro")
+*   [Grab A Grand](/category/interactive-game-hire/3/grab-a-grand/)
+*   [Batak Pro](/category/batak/batak-pro/)
 *   Lights Out
-*   [Crack the Code](/crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

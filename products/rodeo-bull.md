@@ -50,11 +50,11 @@ Get ready to hold on tight as the Rodeo Bull bucks and spins, challenging your r
 
 **£495**\+ vat**
 
-Delivered [](rodeo-bull/#specification)and [](rodeo-bull/#specification)installed on site by our trained team
+Delivered [](rodeo-bull.html#specification)and [](rodeo-bull.html#specification)installed on site by our trained team
 
-\*Delivery [](rodeo-bull/#specification)Charges & Minimum order value may apply
+\*Delivery [](rodeo-bull.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](rodeo-bull/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](rodeo-bull.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

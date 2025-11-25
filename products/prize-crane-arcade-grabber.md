@@ -62,15 +62,15 @@ Available for hire in Birmingham, Nottingham, Milton Keynes, London, Manchester,
 
 **£1495**\+ vat**
 
-Delivered [](/../../prize-crane-arcade-grabber/#specification)and [](/../../prize-crane-arcade-grabber/#specification)installed on site by our trained team
+Delivered [](/../../prize-crane-arcade-grabber.html#specification)and [](/../../prize-crane-arcade-grabber.html#specification)installed on site by our trained team
 
-In[\-](/../../prize-crane-arcade-grabber/#specification)house [](/../../prize-crane-arcade-grabber/#specification)branding [](/../../prize-crane-arcade-grabber/#specification)available [](/../../prize-crane-arcade-grabber/#specification)Printed[,](/../../prize-crane-arcade-grabber/#specification) applied & removed after each event
+In[\-](/../../prize-crane-arcade-grabber.html#specification)house [](/../../prize-crane-arcade-grabber.html#specification)branding [](/../../prize-crane-arcade-grabber.html#specification)available [](/../../prize-crane-arcade-grabber.html#specification)Printed[,](/../../prize-crane-arcade-grabber.html#specification) applied & removed after each event
 
-(One [](/../../prize-crane-arcade-grabber/#specification)time [](/../../prize-crane-arcade-grabber/#specification)use [](/../../prize-crane-arcade-grabber/#specification)only)
+(One [](/../../prize-crane-arcade-grabber.html#specification)time [](/../../prize-crane-arcade-grabber.html#specification)use [](/../../prize-crane-arcade-grabber.html#specification)only)
 
-\*Delivery [](/../../prize-crane-arcade-grabber/#specification)Charges & Minimum order value may apply
+\*Delivery [](/../../prize-crane-arcade-grabber.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/../../prize-crane-arcade-grabber/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/../../prize-crane-arcade-grabber.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -148,9 +148,9 @@ Our dependable delivery stretches the length and breadth of the country, includi
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64/#specification)house [](/../../admin/products-edit.aspx%3Fid=64/#specification)branding [](/../../admin/products-edit.aspx%3Fid=64/#specification)available [](/../../admin/products-edit.aspx%3Fid=64/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64/#specification)time [](/../../admin/products-edit.aspx%3Fid=64/#specification)use [](/../../admin/products-edit.aspx%3Fid=64/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
 
 **Internal back wall**
 

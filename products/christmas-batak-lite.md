@@ -48,7 +48,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](christmas-batak-lite/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](christmas-batak-lite.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## 🎄 **What Is Batak Lite?**
 
@@ -151,11 +151,11 @@ Want to make your event even more magical? Pair Batak Lite with one of our other
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Batak Pro](/products/batak43/batak-pro/#BodyContent)
-*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Batak Pro](/products/batak43/batak-pro.html#BodyContent)
+*   [Dance Machine](/../exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game/)
 
 ## Batak Lite Branding and Customisation Options
 
@@ -177,6 +177,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

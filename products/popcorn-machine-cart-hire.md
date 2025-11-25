@@ -135,6 +135,6 @@ Yes, the popcorn machine cart hire can operate at both indoor and outdoor venues
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

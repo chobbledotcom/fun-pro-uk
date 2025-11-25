@@ -41,11 +41,11 @@ It's perfect for any medical themed event or conference, but you don't need doct
 
 **£1195**\+ vat**
 
-Delivered [](top-doc-operation-game/#specification)and [](top-doc-operation-game/#specification)installed on site by our trained team
+Delivered [](top-doc-operation-game.html#specification)and [](top-doc-operation-game.html#specification)installed on site by our trained team
 
-\*Delivery [](top-doc-operation-game/#specification)Charges & Minimum order value may apply
+\*Delivery [](top-doc-operation-game.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](top-doc-operation-game/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](top-doc-operation-game.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -85,10 +85,10 @@ Lift required
 
 **Popular items**
 
-*   [Pluck A duck](/pluck-a-duck-racing.html "PLUCK A DUCK RACING")
-*   [Gold cup horse racing](/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Retro arcade game](/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Pick N mix hire](/../exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire")
+*   [Pluck A duck](/pluck-a-duck-racing/)
+*   [Gold cup horse racing](/29/gold-cup-horse-racing/)
+*   [Retro arcade game](/retro-arcade-games/)
+*   [Pick N mix hire](/../exhibition-games/42/pix-n-mix-hire/)
 
 **A familiar favourite**
 
@@ -140,7 +140,7 @@ This will give adults a chance to have fun with an old childhood favourite, with
 
 **Original fun and games**
 
-Top doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood, including [retro arcade machines](/retro-arcade-games.html "RETRO ARCADE GAMES"), electronic basketball hire and even simple fun like a [giant buzz wire](/giant-buzz-wire.html "GIANT BUZZ WIRE"). We can deliver any item anywhere in the UK, including London, Liverpool, Manchester and Birmingham and we offer great savings with package hires. Just ask for details when you book.
+Top doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood, including [retro arcade machines](/retro-arcade-games/), electronic basketball hire and even simple fun like a [giant buzz wire](/giant-buzz-wire/). We can deliver any item anywhere in the UK, including London, Liverpool, Manchester and Birmingham and we offer great savings with package hires. Just ask for details when you book.
 
 TOP DOC BRANDING PRICE
 

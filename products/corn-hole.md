@@ -32,17 +32,17 @@ gallery:
 
 **£**295**
 
-[![](/../../userfiles/file/FunPro/Images/branding-prices.png)](corn-hole/#:~:text=but%20staff%20available\)-,Branding%20prices,-Front%20panel%20branding)
+[![](/../../userfiles/file/FunPro/Images/branding-prices.png)](corn-hole.html#:~:text=but%20staff%20available\)-,Branding%20prices,-Front%20panel%20branding)
 
-Delivered [](corn-hole/#specification)and [](corn-hole/#specification)installed on site by our trained team
+Delivered [](corn-hole.html#specification)and [](corn-hole.html#specification)installed on site by our trained team
 
-In[\-](corn-hole/#specification)house [](corn-hole/#specification)branding [](corn-hole/#specification)available [](corn-hole/#specification)Printed[,](corn-hole/#specification) applied & removed after each event
+In[\-](corn-hole.html#specification)house [](corn-hole.html#specification)branding [](corn-hole.html#specification)available [](corn-hole.html#specification)Printed[,](corn-hole.html#specification) applied & removed after each event
 
-(One [](corn-hole/#specification)time [](corn-hole/#specification)use [](corn-hole/#specification)only)
+(One [](corn-hole.html#specification)time [](corn-hole.html#specification)use [](corn-hole.html#specification)only)
 
-\*Delivery [](corn-hole/#specification)Charges & Minimum order value may apply
+\*Delivery [](corn-hole.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](corn-hole/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](corn-hole.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **![](/../../userfiles/fun-pro-corn-hole-hire.jpg)**
 
@@ -210,6 +210,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

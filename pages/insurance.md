@@ -35,6 +35,6 @@ So, we hope you feel that our insurance and safety procedures are both extensive
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

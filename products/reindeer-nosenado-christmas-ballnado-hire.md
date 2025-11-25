@@ -58,15 +58,15 @@ Make your holiday celebrations unforgettable with the Reindeer Nosenado in Birmi
 
 **£1495**\+ vat**
 
-Delivered [](reindeer-nosenado-christmas-ballnado-hire/#specification)and [](reindeer-nosenado-christmas-ballnado-hire/#specification)installed on site by our trained team
+Delivered [](reindeer-nosenado-christmas-ballnado-hire.html#specification)and [](reindeer-nosenado-christmas-ballnado-hire.html#specification)installed on site by our trained team
 
-In[\-](reindeer-nosenado-christmas-ballnado-hire/#specification)house [](reindeer-nosenado-christmas-ballnado-hire/#specification)branding [](reindeer-nosenado-christmas-ballnado-hire/#specification)available [](reindeer-nosenado-christmas-ballnado-hire/#specification)Printed[,](reindeer-nosenado-christmas-ballnado-hire/#specification) applied & removed after each event
+In[\-](reindeer-nosenado-christmas-ballnado-hire.html#specification)house [](reindeer-nosenado-christmas-ballnado-hire.html#specification)branding [](reindeer-nosenado-christmas-ballnado-hire.html#specification)available [](reindeer-nosenado-christmas-ballnado-hire.html#specification)Printed[,](reindeer-nosenado-christmas-ballnado-hire.html#specification) applied & removed after each event
 
-(One [](reindeer-nosenado-christmas-ballnado-hire/#specification)time [](reindeer-nosenado-christmas-ballnado-hire/#specification)use [](reindeer-nosenado-christmas-ballnado-hire/#specification)only)
+(One [](reindeer-nosenado-christmas-ballnado-hire.html#specification)time [](reindeer-nosenado-christmas-ballnado-hire.html#specification)use [](reindeer-nosenado-christmas-ballnado-hire.html#specification)only)
 
-\*Delivery [](reindeer-nosenado-christmas-ballnado-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](reindeer-nosenado-christmas-ballnado-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](reindeer-nosenado-christmas-ballnado-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](reindeer-nosenado-christmas-ballnado-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -106,10 +106,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board/)
+*   [Lights Out](/products/lights-out-game/)
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)
 
 ## **Reindeer Nosenado Christmas Ballnado Game Hire**
 
@@ -127,9 +127,9 @@ Check out our other popular Christmas party game hire products for your forthcom
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64/#specification)house [](/../../admin/products-edit.aspx%3Fid=64/#specification)branding [](/../../admin/products-edit.aspx%3Fid=64/#specification)available [](/../../admin/products-edit.aspx%3Fid=64/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64/#specification)time [](/../../admin/products-edit.aspx%3Fid=64/#specification)use [](/../../admin/products-edit.aspx%3Fid=64/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
 
 **Front panel branding**
 

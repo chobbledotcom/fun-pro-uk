@@ -33,11 +33,11 @@ gallery:
 
 **£1445**\+ vat**
 
-Delivered [](/category/arcade-games/77/virtual-pinball/#specification)and [](/category/arcade-games/77/virtual-pinball/#specification)installed on site by our trained team
+Delivered [](/category/arcade-games/77/virtual-pinball.html#specification)and [](/category/arcade-games/77/virtual-pinball.html#specification)installed on site by our trained team
 
-\*Delivery [](/category/arcade-games/77/virtual-pinball/#specification)Charges & Minimum order value may apply
+\*Delivery [](/category/arcade-games/77/virtual-pinball.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/category/arcade-games/77/virtual-pinball/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/category/arcade-games/77/virtual-pinball.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

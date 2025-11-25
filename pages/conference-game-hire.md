@@ -29,6 +29,6 @@ Call: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

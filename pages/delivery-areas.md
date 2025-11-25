@@ -227,6 +227,6 @@ Not in one of our key delivery areas? That’s not a problem. Although we’re b
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

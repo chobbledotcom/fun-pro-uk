@@ -77,7 +77,7 @@ Custom branding options to showcase your company identity
 
 \*Delivery fees may apply.
 
-[**Email:**](christmas-batak-pro/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](christmas-batak-pro.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -177,6 +177,6 @@ Contact us today to check availability, discuss customisation options, and get a
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

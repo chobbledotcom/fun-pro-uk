@@ -27,6 +27,6 @@ Here are events being held at the ICC, Birmingham: [Click here to find out more.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

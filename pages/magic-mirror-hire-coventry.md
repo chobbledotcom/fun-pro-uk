@@ -34,7 +34,7 @@ Let us help you attract the crowds you want at your product launch, or add a hea
   
 At Fun Pro UK, we work with PR and HR teams around the clock and across the country, offering free, friendly advice alongside a speedy and highly personalised service.  
   
-Our top-quality [magic selfie mirror](/category/photo-booths-and-magic-mirrors/magic-mirror.html "MAGIC MIRROR") will have been fully PAT tested for safety before being hired out, so you can book with us with confidence.  
+Our top-quality [magic selfie mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) will have been fully PAT tested for safety before being hired out, so you can book with us with confidence.  
   
 Talk to us about your Coventry event today and how we can help transform it from a run-of-the-mill occasion into something special and different.  
   
@@ -42,6 +42,6 @@ Call or email us, or complete the online enquiry form.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

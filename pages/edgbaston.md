@@ -15,7 +15,7 @@ Found in the heart of Birmingham and a well known Cricket Ground, [Edgbaston is 
 
 But don't just settle for a plain stand at this extraordinary events venue, push the boat out and hire exciting unique corporate entertainment to present your business in the right way. Fun Pro UK are on hand, providing a huge array of interactive games ready to hire to this venue. It is well known that first impressions count for a lot, well don't let this opportunity slip away from you. Hire interactive games to draw in the crowds for the masses to discover what your business has to offer.
 
-Fun Pro UK's [Cash Grabber Machine](/category/interactive-game-hire/3/cash-grabber-machine-hire/#BodyContent) is the ideal hire to draw in a huge crowd as everyone gathers round to watch others jump, duck and spin while grabbing as many tokens or actual hard cash as possible. The thrill to those outside is just as exciting and heart pounding as the individual outside. Why not make it a personal affair by customising this corporate entertainment with your business' logo, name and slogan. Our in-house team will work with you to design the best branding, to show your business off to all those within Edgbaston.
+Fun Pro UK's [Cash Grabber Machine](/category/interactive-game-hire/3/cash-grabber-machine-hire.html#BodyContent) is the ideal hire to draw in a huge crowd as everyone gathers round to watch others jump, duck and spin while grabbing as many tokens or actual hard cash as possible. The thrill to those outside is just as exciting and heart pounding as the individual outside. Why not make it a personal affair by customising this corporate entertainment with your business' logo, name and slogan. Our in-house team will work with you to design the best branding, to show your business off to all those within Edgbaston.
 
 The options that [Fun Pro UK](christmas-entertainment-game-hire'/) has to offer, will give you the chance to find the ideal interactive game to meet your business' needs and bring in those all important clients. Contact our team today to find out more about what we have to offer to make your exhibition stand stand out amongst the rest!
 
@@ -27,6 +27,6 @@ Contact Edgbaston to hire their venue space by emailing [events@edgbaston.com](m
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

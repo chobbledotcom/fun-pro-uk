@@ -19,13 +19,8 @@ const PRODUCT_ORDER = {
  * These patterns fix old ASP.NET links to new static site paths
  */
 const FIND_REPLACES = {
-  // Fix .php.html extensions in markdown links
-  ".php.html)": "/)",
-  // Fix .html extensions in markdown links (only at end of link, not in frontmatter)
-  // Note: We only fix .html) for markdown links and .html# for anchors
-  // We don't fix .html" as it would corrupt frontmatter layout values
-  ".html)": "/)",
-  ".html#": "/#",
+  // Note: .html extensions in markdown links are now handled by fixHtmlLinks() in find-replace.js
+  // which uses regex to properly handle [text](path.html "title") patterns
 
   // Fix category paths
   "](../../batak/": "](/products/batak",

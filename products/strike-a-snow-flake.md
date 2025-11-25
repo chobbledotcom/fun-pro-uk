@@ -160,9 +160,9 @@ These customisation options make the game perfect for brand activations, trade s
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 Branded Top Panel
 
@@ -184,6 +184,6 @@ Fully Branded panels
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

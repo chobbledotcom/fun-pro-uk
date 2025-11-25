@@ -11,13 +11,13 @@ The Roll and Bowl game is an awesome electronic game that brings loads of fun an
   
 What makes the Roll and Bowl game so great is that it's suitable for all ages. Whether you're hosting a birthday party, a family reunion, or a [corporate event](corporate-event-hire-birmingham/), this game is sure to entertain everyone. It's a fantastic way to break the ice, get people engaged, and create lasting memories.  
   
-Now, let's talk about the logistics. If you're in the Birmingham area, you'll be happy to know that [Roll and Bowl (Donkey Derby) Hire Birmingham](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/#BodyContent) offers delivery services to popular venues like the [NEC](nec-birmingham/), ICC, and NCC. This means you can easily bring the Roll and Bowl game to your event without any hassle.  
+Now, let's talk about the logistics. If you're in the Birmingham area, you'll be happy to know that [Roll and Bowl (Donkey Derby) Hire Birmingham](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html#BodyContent) offers delivery services to popular venues like the [NEC](nec-birmingham/), ICC, and NCC. This means you can easily bring the Roll and Bowl game to your event without any hassle.  
   
 To get all the nitty-gritty details, including pricing, availability, and delivery options, I recommend reaching out to Roll and Bowl (Donkey Derby) Hire Birmingham directly. They're the experts and can provide you with all the information you need to plan your event.  
   
 Imagine the excitement as your guests gather around the Roll and Bowl game, cheering each other on, and trying to score big points. It's a fantastic way to create a lively and engaging atmosphere that will have everyone talking about your event for days to come.  
   
-So, go ahead and make your event one to remember with the Roll and Bowl game. Reach out to [Roll and Bowl (Donkey Derby) Hire Birmingham](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/#BodyContent), get all the details, and let the fun begin!
+So, go ahead and make your event one to remember with the Roll and Bowl game. Reach out to [Roll and Bowl (Donkey Derby) Hire Birmingham](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html#BodyContent), get all the details, and let the fun begin!
 
 **Hire **Price** From £895** \+ vat
 
@@ -43,6 +43,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

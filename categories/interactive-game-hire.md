@@ -16,175 +16,175 @@ Let your guests simulate a career on the race track, play a crazy game of golf, 
 
 Look through our collection of interactive game hires to find a price that suits your needs.
 
-[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire/)
 
 [More Details](arcade-games/60/air-hockey-table-hire/)
 
-[Gold Bar Challenge](exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
+[Gold Bar Challenge](exhibition-games/107/gold-bar-challenge/)
 
 [More Details](exhibition-games/107/gold-bar-challenge/)
 
-[Roller Bowler](arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
+[Roller Bowler](arcade-games/111/roller-bowler/)
 
 [More Details](arcade-games/111/roller-bowler/)
 
-[Catch it Reaction Ring Hire](exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
+[Catch it Reaction Ring Hire](exhibition-games/94/catch-it-reaction-ring-hire/)
 
 [More Details](exhibition-games/94/catch-it-reaction-ring-hire/)
 
-[Corn Hole](exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
+[Corn Hole](exhibition-games/99/corn-hole/)
 
 [More Details](exhibition-games/99/corn-hole/)
 
-[Electronic Dart Board](arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
+[Electronic Dart Board](arcade-games/106/electronic-dart-board/)
 
 [More Details](arcade-games/106/electronic-dart-board/)
 
-[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire/)
 
 [More Details](fun-foods/92/candy-floss-cart-hire/)
 
-[Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
+[Scalextric Slot Car Racing](all-products/88/scalextric-slot-car-racing/)
 
 [More Details](all-products/88/scalextric-slot-car-racing/)
 
-[Shuffleboard Hire](all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+[Shuffleboard Hire](all-products/87/shuffle-board-hire/)
 
 [More Details](all-products/87/shuffle-board-hire/)
 
-[Bungee Run](fun-days/33/bungee-run.html "Bungee Run - Fun Days")
+[Bungee Run](fun-days/33/bungee-run/)
 
 [More Details](fun-days/33/bungee-run/)
 
-[Crazy Golf](fun-days/crazy-golf.html "Crazy Golf - Fun Days")
+[Crazy Golf](fun-days/crazy-golf/)
 
 [More Details](fun-days/crazy-golf/)
 
-[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
 [More Details](all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
-[Snatch It](exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
+[Snatch It](exhibition-games/82/snatch-it/)
 
 [More Details](exhibition-games/82/snatch-it/)
 
-[Table Tennis Hire](corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
+[Table Tennis Hire](corporate-entertainment/80/table-tennis-hire/)
 
 [More Details](corporate-entertainment/80/table-tennis-hire/)
 
-[Virtual Pinball](arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
+[Virtual Pinball](arcade-games/77/virtual-pinball/)
 
 [More Details](arcade-games/77/virtual-pinball/)
 
-[Plinko Game Hire](all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
+[Plinko Game Hire](all-products/68/plinko-game-hire/)
 
 [More Details](all-products/68/plinko-game-hire/)
 
-[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
 [More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[Whack A Mole game hire](all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
+[Whack A Mole game hire](all-products/67/whack-a-mole-game-hire/)
 
 [More Details](all-products/67/whack-a-mole-game-hire/)
 
-[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
 [More Details](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[Batak Lite](all-products/batak-lite.html "Batak Lite - Exhibition Games ")
+[Batak Lite](all-products/batak-lite/)
 
 [More Details](all-products/batak-lite/)
 
-[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer/)
 
 [More Details](interactive-game-hire/62/beat-the-buzzer/)
 
-[High Striker](arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+[High Striker](arcade-games/48/high-striker/)
 
 [More Details](arcade-games/48/high-striker/)
 
-[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/)
 
 [More Details](/prize-crane-arcade-grabber/)
 
-[Prize Wheel](/prize-wheel.html "Prize Wheel - Prize Games ")
+[Prize Wheel](/prize-wheel/)
 
 [More Details](/prize-wheel/)
 
-[Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
+[Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire/)
 
 [More Details](all-products/51/roll-and-bowl-game-hire/)
 
-[The Vault](interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+[The Vault](interactive-game-hire/50/the-vault/)
 
 [More Details](interactive-game-hire/50/the-vault/)
 
-[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators/)
 
 [More Details](interactive-game-hire/twin-racing-car-simulators/)
 
-[Ballnado Grabber](grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
+[Ballnado Grabber](grab-a-grand/36/ballnado-grabber/)
 
 [More Details](grab-a-grand/36/ballnado-grabber/)
 
-[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
+[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator/)
 
 [More Details](corporate-entertainment/38/vr-race-car-simulator/)
 
-[Batak Pro](batak/batak-pro.html "Batak Pro - Exhibition Games ")
+[Batak Pro](batak/batak-pro/)
 
 [More Details](batak/batak-pro/)
 
-[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire/)
 
 [More Details](interactive-game-hire/giant-buzz-wire/)
 
-[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire/)
 
 [More Details](exhibition-games/42/pix-n-mix-hire/)
 
-[Crack The Code safe cracker](/crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
+[Crack The Code safe cracker](/crack-the-code-safe-cracker/)
 
 [More Details](/crack-the-code-safe-cracker/)
 
-[Dance Machine](exhibition-games/dance-machine.html "Dance Machine - Arcade Games ")
+[Dance Machine](exhibition-games/dance-machine/)
 
 [More Details](exhibition-games/dance-machine/)
 
-[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth/)
 
 [More Details](photo-booths/ultimate-green-screen-photo-booth/)
 
-[LEADER BOARD](interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
+[LEADER BOARD](interactive-game-hire/30/leader-board/)
 
 [More Details](interactive-game-hire/30/leader-board/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games/)
 
 [More Details](interactive-game-hire/retro-arcade-games/)
 
-[FOOTBALL TABLES](interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+[FOOTBALL TABLES](interactive-game-hire/27/football-tables/)
 
 [More Details](interactive-game-hire/27/football-tables/)
 
-[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
+[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing/)
 
 [More Details](interactive-game-hire/29/gold-cup-horse-racing/)
 
-[TOP DOC OPERATION GAME](interactive-game-hire/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+[TOP DOC OPERATION GAME](interactive-game-hire/top-doc-operation-game/)
 
 [More Details](interactive-game-hire/top-doc-operation-game/)
 
-[PLUCK A DUCK RACING](interactive-game-hire/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+[PLUCK A DUCK RACING](interactive-game-hire/pluck-a-duck-racing/)
 
 [More Details](interactive-game-hire/pluck-a-duck-racing/)
 
-[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
+[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand/)
 
 [More Details](interactive-game-hire/3/grab-a-grand/)
 
-[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
+[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire/)
 
 [More Details](christmas-game-hire/casino-table-hire/)
 
@@ -306,7 +306,7 @@ Yes, absolutely! Interactive games are an excellent choice for corporate events 
 
 Interactive game hire is a great way to draw a crowd to your product launch or exhibition stand, especially in a busy venue where everyone is competing for attention. People will not only flock to have a go, they'll stay to watch other players too, giving you plenty of time to talk to them.
 
-You can [hire retro arcade games](interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES"), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE") that really get the crowd involved.
+You can [hire retro arcade games](interactive-game-hire/retro-arcade-games/), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](photo-booths/ultimate-green-screen-photo-booth/) that really get the crowd involved.
 
 **Take a break  
 **Electronic games hire is ideal for conferences, presentations and training days, giving delegates a chance to relax and unwind during breakout times. Hiring interactive games for the office is also a great way of balancing work and play when your team are under pressure.
@@ -325,6 +325,6 @@ Compact and easy to play, our interactive games take up little space and as litt
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

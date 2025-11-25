@@ -19,6 +19,6 @@ We've been working with Rolls Royce for several years, and are proud to say that
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -9,20 +9,41 @@ const root = path.resolve(__dirname, '..');
 const oldSite = path.join(root, 'old_site');
 const newSite = path.join(root, '_site');
 
-// Clean and build the site
-console.log('Building site...\n');
+// Directories/files to ignore in old site (non-content)
+const IGNORE_PATHS = new Set([
+  '/theme',
+  '/Controls',
+  '/userfiles',
+  '/images',
+  '/login',
+  '/robots',
+]);
 
-// Remove _site if it exists
-if (fs.existsSync(newSite)) {
-  fs.rmSync(newSite, { recursive: true, force: true });
-}
+// Patterns to ignore
+const IGNORE_PATTERNS = [
+  /^\/news\/\d+$/, // Pagination pages like /news/2, /news/4
+];
 
-try {
-  execSync('npm run build', { cwd: root, stdio: 'inherit' });
-  console.log('\n');
-} catch (error) {
-  console.error('Build failed!');
-  process.exit(1);
+// Build the site if needed
+const skipBuild = process.argv.includes('--skip-build');
+
+if (!skipBuild) {
+  console.log('Building site...\n');
+
+  // Remove _site if it exists
+  if (fs.existsSync(newSite)) {
+    fs.rmSync(newSite, { recursive: true, force: true });
+  }
+
+  try {
+    execSync('npm run build', { cwd: root, stdio: 'inherit' });
+    console.log('\n');
+  } catch (error) {
+    console.error('Build failed!');
+    process.exit(1);
+  }
+} else {
+  console.log('Skipping build (--skip-build flag)\n');
 }
 
 // Check if _site exists
@@ -31,7 +52,8 @@ if (!fs.existsSync(newSite)) {
   process.exit(1);
 }
 
-// Extract path from old site .php.html files
+// Extract paths from old site .html files
+// The old site was wget'd - original URLs had trailing slashes, files are now .html
 function getOldSitePaths() {
   const paths = [];
 
@@ -40,14 +62,36 @@ function getOldSitePaths() {
 
     for (const entry of entries) {
       const fullPath = path.join(dir, entry.name);
+      const relativePath = path.join(prefix, entry.name);
 
       if (entry.isDirectory()) {
-        walkDir(fullPath, path.join(prefix, entry.name));
-      } else if (entry.name.endsWith('.php.html')) {
-        // Convert blog.php.html -> /blog
-        // Convert blog/some-post.php.html -> /blog/some-post
-        const pathName = entry.name.replace('.php.html', '');
-        const urlPath = '/' + path.join(prefix, pathName).replace(/\\/g, '/');
+        // Skip ignored directories
+        const dirPath = '/' + prefix.replace(/\\/g, '/');
+        if (IGNORE_PATHS.has(dirPath) || IGNORE_PATHS.has('/' + entry.name)) {
+          continue;
+        }
+        walkDir(fullPath, relativePath);
+      } else if (entry.name.endsWith('.html')) {
+        // Convert path/to/page.html -> /path/to/page
+        const pathName = entry.name.replace('.html', '');
+        let urlPath;
+        
+        if (prefix) {
+          urlPath = '/' + path.join(prefix, pathName).replace(/\\/g, '/');
+        } else {
+          urlPath = '/' + pathName;
+        }
+        
+        // Skip ignored paths
+        if (IGNORE_PATHS.has(urlPath)) {
+          continue;
+        }
+        
+        // Skip pagination and other patterns
+        if (IGNORE_PATTERNS.some(pattern => pattern.test(urlPath))) {
+          continue;
+        }
+        
         paths.push(urlPath);
       }
     }
@@ -98,21 +142,85 @@ function normalizePath(p) {
   return p.replace(/\/$/, '') || '/';
 }
 
-// Map old paths to new paths (for paths that moved)
+// Map old paths to new paths (for paths that moved/restructured)
 function mapOldToNew(oldPath) {
-  // Blog posts moved to news
-  if (oldPath.startsWith('/blog/')) {
-    return oldPath.replace('/blog/', '/news/');
+  // Homepage
+  if (oldPath === '/index') {
+    return '/';
   }
-
-  // Contact moved to pages/contact
-  if (oldPath === '/contact') {
-    return '/pages/contact';
+  
+  // Category pages -> /category/ (singular in new site)
+  // e.g., /category/arcade-games -> /category/arcade-games (stays same)
+  // Products have numeric IDs in path like /category/arcade-games/47/prize-crane
+  if (oldPath.startsWith('/category/')) {
+    const rest = oldPath.replace('/category/', '');
+    const parts = rest.split('/');
+    if (parts.length >= 3 && /^\d+$/.test(parts[1])) {
+      // This is a product: /category/arcade-games/47/prize-crane -> /products/prize-crane
+      return '/products/' + parts[parts.length - 1];
+    }
+    // Category index stays at /category/
+    return oldPath;
   }
-
-  // Reviews moved to pages/reviews
-  if (oldPath === '/reviews') {
-    return '/pages/reviews';
+  
+  // News posts -> /blog/slug (blog in new site)
+  // e.g., /news/2024-09-04/best-office-christmas-party-games -> /blog/best-office-christmas-party-games
+  if (oldPath.startsWith('/news/')) {
+    const parts = oldPath.split('/');
+    if (parts.length >= 4) {
+      // Has date folder: /news/YYYY-MM-DD/slug -> /blog/slug
+      return '/blog/' + parts[parts.length - 1];
+    }
+    // News index -> /blog
+    if (oldPath === '/news') {
+      return '/blog';
+    }
+    return oldPath;
+  }
+  
+  // Pages stay at /pages/ in new site
+  // e.g., /pages/about-corporate-entertainment-hire -> /pages/about-corporate-entertainment-hire
+  if (oldPath.startsWith('/pages/')) {
+    return oldPath; // No change needed
+  }
+  
+  // Old site top-level pages that are now categories
+  // /corporate-entertainment -> /category/corporate-entertainment
+  // /exhibition-games -> /category/exhibition-games
+  // /interactive-game-hire -> /category/interactive-game-hire
+  // /fun-days -> /category/fun-days
+  const categoryPages = [
+    'corporate-entertainment',
+    'exhibition-games', 
+    'interactive-game-hire',
+    'fun-days',
+  ];
+  
+  const pageName = oldPath.substring(1); // Remove leading /
+  if (categoryPages.includes(pageName)) {
+    return '/category/' + pageName;
+  }
+  
+  // Products at root level -> /products/
+  // e.g., /batak-lite -> /products/batak-lite
+  const rootProducts = [
+    'batak-lite',
+    'batak-pro',
+    'prize-crane-arcade-grabber',
+    'whack-a-mole-game-hire',
+    'crack-the-code-safe-cracker',
+    'ballnado-grabber',
+    'prize-wheel',
+  ];
+  
+  if (rootProducts.includes(pageName)) {
+    return '/products/' + pageName;
+  }
+  
+  // 43/batak-pro (old product URL format at root)
+  if (/^\/\d+\//.test(oldPath)) {
+    const parts = oldPath.split('/');
+    return '/products/' + parts[parts.length - 1];
   }
 
   return oldPath;
@@ -169,15 +277,31 @@ function extractHeadings(htmlContent, isBlogPost = false) {
   return headings;
 }
 
+// Get the file path for an old site URL
+function getOldSiteFilePath(urlPath) {
+  // Handle various path formats
+  if (urlPath === '/') {
+    return path.join(oldSite, 'index.html');
+  }
+  
+  // Try direct path first: /fun-days -> old_site/fun-days.html
+  const directPath = path.join(oldSite, urlPath.substring(1) + '.html');
+  if (fs.existsSync(directPath)) {
+    return directPath;
+  }
+  
+  // Try as directory with index: would need index.html but wget doesn't save that way
+  return directPath;
+}
+
 // Extract metadata from old site HTML file
 function getOldSiteMetadata(urlPath) {
-  const phpFileName = urlPath === '/' ? 'index.php.html' : urlPath.substring(1) + '.php.html';
-  const filePath = path.join(oldSite, phpFileName);
+  const filePath = getOldSiteFilePath(urlPath);
 
   try {
     const htmlContent = fs.readFileSync(filePath, 'utf-8');
     const metadata = extractMetadata(htmlContent);
-    const isBlogPost = urlPath.startsWith('/blog/') && urlPath !== '/blog';
+    const isBlogPost = urlPath.startsWith('/news/') && urlPath !== '/news';
     metadata.headings = extractHeadings(htmlContent, isBlogPost);
     return metadata;
   } catch (error) {
@@ -321,7 +445,7 @@ console.log();
 const oldPaths = getOldSitePaths();
 const newPaths = getNewSitePaths();
 
-console.log(`Old site paths (*.php.html): ${oldPaths.length}`);
+console.log(`Old site paths (*.html): ${oldPaths.length}`);
 console.log(`New site paths (directories with index.html): ${newPaths.length}`);
 console.log();
 
@@ -362,7 +486,7 @@ for (const oldPath of oldPaths) {
       });
     }
   } else {
-    missing.push(oldPath);
+    missing.push({ old: oldPath, mapped: mapped !== oldPath ? mapped : null });
   }
 }
 
@@ -409,7 +533,13 @@ if (moved.length > 0) {
 if (missing.length > 0) {
   console.log('MISSING PATHS (in old site but not new site)');
   console.log('-'.repeat(80));
-  missing.forEach(p => console.log(`  ✗ ${p}`));
+  missing.forEach(item => {
+    if (item.mapped) {
+      console.log(`  ✗ ${item.old} (tried mapping to: ${item.mapped})`);
+    } else {
+      console.log(`  ✗ ${item.old}`);
+    }
+  });
   console.log();
 }
 

@@ -17,7 +17,7 @@ MTC's modern exhibition space is a bright open environment ideal for you to adap
 
 ![](/userfiles/file/FunPro/Race%20Cars/20190926-144105.jpg)
 
-Fun Pro UK's [VR Race Car Simulators](/category/corporate-entertainment/38/vr-race-car-simulator/#BodyContent) are a perfect fit for an automotive exhibition or product launch in Coventry, the manufacturing city of the UK. These race simulators are guaranteed to bring in a crowd as people watch others racing round the circuit and building excitement of who might win! You could pair it with Fun Pro UK's Leader Board to get your audience competition against each other. You could even make it serious by giving a prize for the fastest lap!
+Fun Pro UK's [VR Race Car Simulators](/category/corporate-entertainment/38/vr-race-car-simulator.html#BodyContent) are a perfect fit for an automotive exhibition or product launch in Coventry, the manufacturing city of the UK. These race simulators are guaranteed to bring in a crowd as people watch others racing round the circuit and building excitement of who might win! You could pair it with Fun Pro UK's Leader Board to get your audience competition against each other. You could even make it serious by giving a prize for the fastest lap!
 
 Getting your clients. customers and colleagues to feel relaxed in the presence of your business is essential to make a good working relationship where communication can take place. Having interactive game hire will give easy conversation starters and keep everyone excitement and calm during the event.
 
@@ -27,6 +27,6 @@ If you would like to get on board with Fun Pro UK for the team to help build you
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

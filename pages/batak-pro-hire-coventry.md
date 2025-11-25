@@ -182,6 +182,6 @@ To book or find out more about our Batak Pro Hire Coventry, [get in touch](conta
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -108,6 +108,6 @@ While our circus workshops can accommodate different venue sizes, it’s best to
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

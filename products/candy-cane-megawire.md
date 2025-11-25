@@ -93,9 +93,9 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Need a longer hire period? Contact us for custom pricing and availability.
 
-\*Delivery [](candy-cane-megawire/#specification)Charges & Minimum order value may apply
+\*Delivery [](candy-cane-megawire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](candy-cane-megawire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
+[**Email:**](candy-cane-megawire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
 ](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
@@ -172,6 +172,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

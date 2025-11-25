@@ -52,7 +52,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](christmas-roller-bowler/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](christmas-roller-bowler.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## What Is Roller Bowler?
 
@@ -274,6 +274,6 @@ Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

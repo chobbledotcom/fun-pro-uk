@@ -33,15 +33,15 @@ gallery:
 
 **£1495**\+ vat**
 
-Delivered [](christmas-prize-crane/#specification)and [](christmas-prize-crane/#specification)installed on site by our trained team
+Delivered [](christmas-prize-crane.html#specification)and [](christmas-prize-crane.html#specification)installed on site by our trained team
 
-In[\-](christmas-prize-crane/#specification)house [](christmas-prize-crane/#specification)branding [](christmas-prize-crane/#specification)available [](christmas-prize-crane/#specification)Printed[,](christmas-prize-crane/#specification) applied & removed after each event
+In[\-](christmas-prize-crane.html#specification)house [](christmas-prize-crane.html#specification)branding [](christmas-prize-crane.html#specification)available [](christmas-prize-crane.html#specification)Printed[,](christmas-prize-crane.html#specification) applied & removed after each event
 
-(One [](christmas-prize-crane/#specification)time [](christmas-prize-crane/#specification)use [](christmas-prize-crane/#specification)only)
+(One [](christmas-prize-crane.html#specification)time [](christmas-prize-crane.html#specification)use [](christmas-prize-crane.html#specification)only)
 
-\*Delivery [](christmas-prize-crane/#specification)Charges & Minimum order value may apply
+\*Delivery [](christmas-prize-crane.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](christmas-prize-crane/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](christmas-prize-crane.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -103,6 +103,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

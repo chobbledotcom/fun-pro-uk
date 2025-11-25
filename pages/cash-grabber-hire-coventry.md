@@ -85,16 +85,16 @@ Please contact us to find out more
 
 **Popular Items:**
 
-[Leaded Board](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD")
+[Leaded Board](/category/interactive-game-hire/30/leader-board/)
 
 Lights Out
 
-[Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+[Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[Crack the Code](/crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+[Crack the Code](/crack-the-code-safe-cracker/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

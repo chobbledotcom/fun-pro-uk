@@ -11,27 +11,27 @@ Are you searching for fresh ideas for office events that will break the routine 
 
 **Game for Office Party: Table Football** - Kick off your next office party with our Table Football game. It's a perfect game for office party setups, fostering friendly competition and team bonding. Easy to set up and endlessly entertaining, it's sure to be a hit among your employees.
 
-**Ideas for Office Events: Retro Arcade Machines** - Inject some nostalgia into your office events with our [Retro Arcade Machines](/category/arcade-games/lights-out-game.html "Arcade Games "). From classic games to new challenges, these machines are fantastic ideas for office events, offering everyone a chance to engage and relive cherished memories together.
+**Ideas for Office Events: Retro Arcade Machines** - Inject some nostalgia into your office events with our [Retro Arcade Machines](/category/arcade-games/lights-out-game/). From classic games to new challenges, these machines are fantastic ideas for office events, offering everyone a chance to engage and relive cherished memories together.
 
-**Fun Corporate Activities: Prize Wheel** \- Add excitement to your fun corporate activities with a [Prize Wheel](/prize-wheel.html "Prize Wheel"). This interactive game is perfect for office parties or corporate gatherings, providing a spin of fun and the chance to win office perks or prizes.
+**Fun Corporate Activities: Prize Wheel** \- Add excitement to your fun corporate activities with a [Prize Wheel](/prize-wheel/). This interactive game is perfect for office parties or corporate gatherings, providing a spin of fun and the chance to win office perks or prizes.
 
-When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/category/corporate-entertainment.html "Corporate Entertainment "); we've taken part in all kinds of events, from [exhibitions](/category/exhibition-games.html "Exhibition Games ") to [award ceremonies](/category/company-award-ceremonies.html "Company Award Ceremonies"), [conferences](conference-idea.html "Conference ideas") and [Christmas parties](/category/christmas-game-hire.html "Christmas Game Hire "), so you can rest assured we're some of the UK's top party rental professionals.
+When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/category/corporate-entertainment/); we've taken part in all kinds of events, from [exhibitions](/category/exhibition-games/) to [award ceremonies](/category/company-award-ceremonies/), [conferences](conference-idea/) and [Christmas parties](/category/christmas-game-hire/), so you can rest assured we're some of the UK's top party rental professionals.
 
-We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](contact-fun-pro-uk.html "Contact Fun Pro UK") if you'd like any more information!
+We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](contact-fun-pro-uk/) if you'd like any more information!
 
 ## Corporate Office Party Hire Ideas
 
-Get the competitive juices flowing with our [Beat the Buzzer](/category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer") or our [Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE"), and see if you can reach the end before the buzzer goes off. Anyone who wins gets the next morning off! Or test your reflexes with [Danger Zone Strike a Light](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire"), a fast-paced two-player game where you have to hit as many lights as possible before they disappear. Can you get a higher score than your colleagues?  
+Get the competitive juices flowing with our [Beat the Buzzer](/category/interactive-game-hire/62/beat-the-buzzer/) or our [Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/), and see if you can reach the end before the buzzer goes off. Anyone who wins gets the next morning off! Or test your reflexes with [Danger Zone Strike a Light](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/), a fast-paced two-player game where you have to hit as many lights as possible before they disappear. Can you get a higher score than your colleagues?  
   
-You could really get your staff up and active with our [Batak Lite](/category/all-products/batak-lite.html "Batak Lite") or [Batak Pro](/category/batak/batak-pro.html "Batak Pro") games! These high energy games also see players hitting lights in a set amount of time, but there's a lot more ducking and diving involved.
+You could really get your staff up and active with our [Batak Lite](/category/all-products/batak-lite/) or [Batak Pro](/category/batak/batak-pro/) games! These high energy games also see players hitting lights in a set amount of time, but there's a lot more ducking and diving involved.
 
-If you're looking for something more classic, we have a range of [arcade games](/category/arcade-games/lights-out-game.html "Arcade Games ") like the [Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine"), [Racing Simulators](/category/interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators") and the [Gold Cup Horse Racing game](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING").
+If you're looking for something more classic, we have a range of [arcade games](/category/arcade-games/lights-out-game/) like the [Dance Machine](/category/exhibition-games/dance-machine/), [Racing Simulators](/category/interactive-game-hire/twin-racing-car-simulators/) and the [Gold Cup Horse Racing game](/category/interactive-game-hire/29/gold-cup-horse-racing/).
 
-Or bring some traditional fun to your office party with [table football](/category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES") and [air hockey](/category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire")! You could use these for settling old scores and encouraging comradery and teambuilding among your colleagues - or just use them for office entertainment!  
+Or bring some traditional fun to your office party with [table football](/category/interactive-game-hire/27/football-tables/) and [air hockey](/category/arcade-games/60/air-hockey-table-hire/)! You could use these for settling old scores and encouraging comradery and teambuilding among your colleagues - or just use them for office entertainment!  
   
-Want to add a touch of sweetness to your event? Our [pick and mix stands](/category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire") are perfect for satisfying those sugar cravings. And don't forget to capture the moment with our [photo booths and magic mirrors](/category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ") - perfect for creating memories and promoting your brand with customized prints.
+Want to add a touch of sweetness to your event? Our [pick and mix stands](/category/exhibition-games/42/pix-n-mix-hire/) are perfect for satisfying those sugar cravings. And don't forget to capture the moment with our [photo booths and magic mirrors](/category/photo-booths-and-magic-mirrors/) - perfect for creating memories and promoting your brand with customized prints.
 
-You can also supersize some childhood favourites with our [giant Jenga](/category/fun-days/44/giant-jenga-hire.html "Giant Jenga Hire") or [giant Connect 4](/category/corporate-entertainment/45/giant-connect-4-game-hire.html "Giant Connect 4 Game Hire") games. These garden games can be used outdoors as well as inside, making them ideal for summertime office parties.
+You can also supersize some childhood favourites with our [giant Jenga](/category/fun-days/44/giant-jenga-hire/) or [giant Connect 4](/category/corporate-entertainment/45/giant-connect-4-game-hire/) games. These garden games can be used outdoors as well as inside, making them ideal for summertime office parties.
 
 ## Corporate Event and Office Party Entertainment Experts
 
@@ -45,6 +45,6 @@ So why settle for a boring corporate event? Let us help you create an unforgetta
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

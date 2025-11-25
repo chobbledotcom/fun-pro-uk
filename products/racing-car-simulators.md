@@ -137,11 +137,11 @@ Don't miss out on the opportunity to bring the thrill of the racetrack to your e
 
 **£2050**\+ vat**
 
-Delivered [](twin-racing-car-simulators/#specification)and [](twin-racing-car-simulators/#specification)installed on site by our trained team
+Delivered [](twin-racing-car-simulators.html#specification)and [](twin-racing-car-simulators.html#specification)installed on site by our trained team
 
-\*Delivery [](twin-racing-car-simulators/#specification)Charges & Minimum order value may apply
+\*Delivery [](twin-racing-car-simulators.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](twin-racing-car-simulators/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](twin-racing-car-simulators.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -181,9 +181,9 @@ Lift required
 
 **Popular items:**
 
-*   [Retro arcade machine](/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE")
+*   [Retro arcade machine](/retro-arcade-games/)
+*   [Dance Machine](/../exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth/)
 *   Lights Out
 
 ## **Racing Car Simulator Hire**
@@ -240,4 +240,4 @@ Not only is this a fun way to provide entertainment for your guests, but it will
 
 **A huge interactive games range**
 
-Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/giant-buzz-wire.html "GIANT BUZZ WIRE") to test your steady hand, to [retro arcade games](/retro-arcade-games.html "RETRO ARCADE GAMES") for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/giant-buzz-wire/) to test your steady hand, to [retro arcade games](/retro-arcade-games/) for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
