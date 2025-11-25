@@ -5,6 +5,7 @@
 	"scripts": {
 		"serve": "node scripts/serve.js",
 		"build": "node scripts/build.js",
+		"compare-paths": "node scripts/quick-compare.js",
 		"prepare-dev": "node scripts/prepare-dev.js",
 		"sync-files": "node scripts/sync-files.js",
 		"watch": "node scripts/watch.js",

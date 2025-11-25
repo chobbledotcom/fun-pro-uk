@@ -17,7 +17,7 @@ const config = {
     productsSource: '', // Fun Pro UK: product HTML files are in the root of old_site
     categories: 'categories', // Output directory for categories
     categoriesSource: 'category', // Source directory in old site (singular)
-    blog: 'blog', // Source directory in old site
+    blog: 'news', // Source directory in old site (Fun Pro UK uses 'news')
     favicon: 'assets/favicon'
   }
 };

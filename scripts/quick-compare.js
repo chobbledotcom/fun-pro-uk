@@ -8,7 +8,9 @@ const oldSite = path.join(root, 'old_site');
 const newSite = path.join(root, '_site');
 
 const IGNORE_PATHS = new Set(['/theme', '/Controls', '/userfiles', '/images', '/login', '/robots']);
-const IGNORE_PATTERNS = [/^\/news\/\d+$/];
+const IGNORE_PATTERNS = [
+  /^\/news\/\d+$/,  // Old news pagination pages like /news/2, /news/4
+];
 
 function getOldSitePaths() {
   const paths = [];
@@ -70,11 +72,13 @@ function mapOldToNew(oldPath) {
     return oldPath;
   }
   
+  // News index: /news -> /blog
+  if (oldPath === '/news') return '/blog';
+  
   // News posts: /news/2024-09-04/slug -> /blog/slug
   if (oldPath.startsWith('/news/')) {
     const parts = oldPath.split('/');
     if (parts.length >= 4) return '/blog/' + parts[parts.length - 1];
-    if (oldPath === '/news') return '/blog';
     return oldPath;
   }
   
@@ -94,6 +98,13 @@ function mapOldToNew(oldPath) {
   if (/^\/\d+\//.test(oldPath)) {
     const parts = oldPath.split('/');
     return '/products/' + parts[parts.length - 1];
+  }
+  
+  // Root-level product URLs with numeric ID: /exhibition-games/36/ballnado-grabber -> /products/ballnado-grabber
+  // These are like category products but without the /category/ prefix
+  const rootProductMatch = oldPath.match(/^\/[^\/]+\/\d+\/([^\/]+)$/);
+  if (rootProductMatch) {
+    return '/products/' + rootProductMatch[1];
   }
   
   return oldPath;
