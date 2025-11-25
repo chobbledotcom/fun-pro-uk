@@ -4,6 +4,10 @@ meta_title: "Photo Booths Hire, Corporate Photo Booth Rental Birmingham"
 meta_description: "Searching for a photo booth hire near you for parties, exhibitions, or corporate events? We offer UK-wide delivery. Call now to book your booth today!"
 permalink: "/categories/photo-booths-and-magic-mirrors/"
 featured: false
+eleventyNavigation:
+  key: "Photo Booths & Magic Mirrors"
+  parent: "Products"
+  order: 11
 ---
 
 # **Nationwide Photo Booth Hire**

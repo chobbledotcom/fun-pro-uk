@@ -3,6 +3,10 @@ meta_title: "Corporate Event Hire London | Interactive Entertainment"
 meta_description: "London corporate event hire specialists. Interactive games, team building activities &amp; branded entertainment for conferences, parties &amp; corporate celebrations."
 permalink: "/pages/corporate-event-hire-london-interactive-games-and-entertainment/"
 layout: page
+eleventyNavigation:
+  key: "Corporate Event Hire London: Interactive Games & Entertainment"
+  parent: "Event Type"
+  order: 10
 ---
 
 # Corporate Event Hire London: Interactive Games & Entertainment

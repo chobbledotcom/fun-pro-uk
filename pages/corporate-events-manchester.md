@@ -3,6 +3,10 @@ meta_title: "Corporate Event Hire Manchester | Professional Entertainment"
 meta_description: "Professional corporate event hire in Manchester. 15+ years experience providing interactive entertainment, team building activities &amp; branded solutions."
 permalink: "/pages/corporate-events-manchester/"
 layout: page
+eleventyNavigation:
+  key: "Corporate Events Manchester"
+  parent: "Event Type"
+  order: 11
 ---
 
 # Corporate Event Hire in Manchester: Professional Entertainment Solutions

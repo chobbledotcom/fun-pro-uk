@@ -5,6 +5,7 @@ const { extractCategoryName, extractContentHeading } = require('../utils/metadat
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
+const { getNavigation, getNavigationForSlug } = require('../utils/navigation-extractor');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'category',
@@ -16,7 +17,9 @@ const { convertSingle, convertBatch } = createConverter({
     if (extracted.categoryName) {
       metadata.title = extracted.categoryName;
     }
-    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex);
+    // Get navigation info for this category from the extracted navigation structure
+    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo);
   },
   beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now
 });
@@ -40,7 +43,12 @@ const convertCategories = async () => {
     return { successful: 0, failed: 0, total: 0 };
   }
 
-  return await convertBatch(files, categoriesDir, outputDir);
+  // Extract navigation structure from old site
+  const navigation = getNavigation(config.OLD_SITE_PATH);
+
+  // Pass navigation context to converters
+  const context = { navigation };
+  return await convertBatch(files, categoriesDir, outputDir, context);
 };
 
 const convertCategory = (file, inputDir, outputDir) =>
