@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"
 meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/snatch-it/"
+permalink: "/snatch-it/"
 categories: []
 features: []
 gallery:

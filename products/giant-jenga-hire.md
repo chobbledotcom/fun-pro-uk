@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK"
 meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/giant-jenga-hire/"
+permalink: "/giant-jenga-hire/"
 categories: []
 features: []
 gallery:

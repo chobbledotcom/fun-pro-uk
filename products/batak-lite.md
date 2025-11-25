@@ -4,7 +4,7 @@ price: ""
 order: 1
 meta_title: "Batak Lite Game Hire | Interactive Game | Corporate Engagement"
 meta_description: "Hire Batak Lite for exhibitions, corporate events &amp; parties. Engage guests with this fast-paced reaction game. Book now for a fun, competitive experience!"
-permalink: "/products/batak-lite/"
+permalink: "/batak-lite/"
 categories: []
 features: []
 gallery:

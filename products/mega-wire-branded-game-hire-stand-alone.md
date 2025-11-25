@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
-permalink: "/products/mega-wire-branded-game-hire-stand-alone/"
+permalink: "/mega-wire-branded-game-hire-stand-alone/"
 categories: []
 features: []
 gallery:

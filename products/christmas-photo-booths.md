@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Christmas Photo Booths | Photobooth Hire | Pro Fun UK"
 meta_description: "For your office Christmas party, discos, festive product launches and much more, the unique Christmas photo booth is sure to keep your guests entertained."
-permalink: "/products/christmas-photo-booths/"
+permalink: "/christmas-photo-booths/"
 categories: []
 features: []
 gallery:

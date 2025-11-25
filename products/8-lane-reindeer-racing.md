@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Reindeer Racing is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/8-lane-reindeer-racing/"
+permalink: "/8-lane-reindeer-racing/"
 categories: []
 features: []
 gallery:

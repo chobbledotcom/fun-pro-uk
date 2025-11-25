@@ -116,7 +116,7 @@ price: "${price}"
 order: ${productOrder}
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/products/${slug}/"
+permalink: "/${slug}/"
 categories: ${categoriesYaml}
 features: []`;
 
@@ -146,7 +146,7 @@ const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, cat
 title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/categories/${slug}/"
+permalink: "/category/${slug}/"
 featured: false`;
 
   // Add navigation if extracted from old site navigation

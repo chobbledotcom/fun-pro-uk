@@ -2,7 +2,7 @@
 title: "Fun Foods Hire – Delicious Event Catering Solutions"
 meta_title: "Fun Foods Hire – Delicious Event Catering Solutions"
 meta_description: "Fun Foods Hire – Delicious Event Catering Solutions equipment experts from Fun Pro UK will help organise your event in Nationwide. Contact us today!"
-permalink: "/categories/fun-foods/"
+permalink: "/category/fun-foods/"
 featured: false
 eleventyNavigation:
   key: "Fun Foods"
@@ -18,31 +18,31 @@ Whether you are seeking hot dogs and burgers, hog roasts, delicious fresh pizzas
 
 [BBQ](fun-foods/71/bbq.html "BBQ - Sub- Contactors Only")
 
-[More Details](fun-foods/71/bbq.html)
+[More Details](fun-foods/71/bbq/)
 
 [Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[More Details](fun-foods/92/candy-floss-cart-hire.html)
+[More Details](fun-foods/92/candy-floss-cart-hire/)
 
 [Ice Cream van Hire](fun-foods/73/ice-cream-van-hire.html "Ice Cream van Hire - Sub- Contactors Only")
 
-[More Details](fun-foods/73/ice-cream-van-hire.html)
+[More Details](fun-foods/73/ice-cream-van-hire/)
 
 [PAELLA](fun-foods/72/paella.html "PAELLA - Sub- Contactors Only")
 
-[More Details](fun-foods/72/paella.html)
+[More Details](fun-foods/72/paella/)
 
 [Pig Roast](fun-foods/69/pig-roast.html "Pig Roast - Sub- Contactors Only")
 
-[More Details](fun-foods/69/pig-roast.html)
+[More Details](fun-foods/69/pig-roast/)
 
 [Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
 
-[More Details](exhibition-games/42/pix-n-mix-hire.html)
+[More Details](exhibition-games/42/pix-n-mix-hire/)
 
 [Pizza](fun-foods/70/pizza.html "Pizza - Sub- Contactors Only")
 
-[More Details](fun-foods/70/pizza.html)
+[More Details](fun-foods/70/pizza/)
 
 ## PIZZERIA
 
@@ -95,6 +95,6 @@ To find Out more Contact Fun Pro UK by Emailing [info@funprouk.co.uk](mailto:inf
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

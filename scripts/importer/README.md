@@ -151,7 +151,7 @@ Edit `utils/content-processor.js`
 Converted files are placed in:
 - `/pages/` - Static pages
 - `/news/` - Blog posts
-- `/products/` - Product pages
-- `/categories/` - Category pages
+- `/products/` - Product pages (permalink: `/{slug}/` to match old site)
+- `/categories/` - Category pages (permalink: `/category/{slug}/` to match old site)
 
-Each file includes appropriate Jekyll frontmatter.
+Each file includes appropriate Eleventy frontmatter.

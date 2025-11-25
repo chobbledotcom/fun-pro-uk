@@ -4,7 +4,7 @@ price: ""
 order: 10
 meta_title: "Roll And Bowl Hire, Rent Roll A Ball Kentucky Derby, UK"
 meta_description: "Hire Our Roll And Bowl Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/roll-and-bowl-game-hire/"
+permalink: "/roll-and-bowl-game-hire/"
 categories: []
 features: []
 gallery:

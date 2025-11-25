@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Hook A Duck is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/hook-a-duck/"
+permalink: "/hook-a-duck/"
 categories: []
 features: []
 gallery:

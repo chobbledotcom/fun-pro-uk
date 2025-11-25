@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Scalextric Slot Car Racing - Arcade Games Hire UK"
 meta_description: "Experience the thrill of Scalextric Slot Car Racing! Perfect for UK corporate events, parties, and more. Hire this exciting arcade game for your next event."
-permalink: "/products/scalextric-slot-car-racing/"
+permalink: "/scalextric-slot-car-racing/"
 categories: []
 features: []
 gallery:

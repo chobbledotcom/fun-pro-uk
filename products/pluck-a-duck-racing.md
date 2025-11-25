@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/pluck-a-duck-racing/"
+permalink: "/pluck-a-duck-racing/"
 categories: []
 features: []
 gallery:

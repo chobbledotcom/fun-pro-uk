@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Pizza - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Pizza is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/pizza/"
+permalink: "/pizza/"
 categories: []
 features: []
 gallery:

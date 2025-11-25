@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Branded Capsule Bin - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Branded Capsule Bin is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/branded-capsule-bin/"
+permalink: "/branded-capsule-bin/"
 categories: []
 features: []
 ---

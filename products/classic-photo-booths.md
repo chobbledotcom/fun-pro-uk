@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
 meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
-permalink: "/products/classic-photo-booths/"
+permalink: "/classic-photo-booths/"
 categories: []
 features: []
 gallery:

@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"
 meta_description: "Strap on the bungee cords and race to the end! Gladiator duels are as fun to watch as they are to play - laughter guaranteed! Available for hire nationwide."
-permalink: "/products/gladiator-duel/"
+permalink: "/gladiator-duel/"
 categories: []
 features: []
 gallery:

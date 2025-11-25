@@ -9,7 +9,7 @@ const config = require('../config');
 const scanProductCategories = () => {
   const productCategoriesMap = new Map();
 
-  const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categories);
+  const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
   const categoryFiles = listHtmlFiles(categoriesDir);
 
   if (categoryFiles.length === 0) {

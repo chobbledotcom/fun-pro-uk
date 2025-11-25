@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK"
 meta_description: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/whack-a-mole-game-hire/"
+permalink: "/whack-a-mole-game-hire/"
 categories: []
 features: []
 gallery:

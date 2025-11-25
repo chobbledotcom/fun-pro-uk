@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-permalink: "/products/retro-arcade-games/"
+permalink: "/retro-arcade-games/"
 categories: []
 features: []
 gallery:

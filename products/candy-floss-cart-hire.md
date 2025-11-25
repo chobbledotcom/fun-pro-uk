@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
-permalink: "/products/candy-floss-cart-hire/"
+permalink: "/candy-floss-cart-hire/"
 categories: []
 features: []
 gallery:
