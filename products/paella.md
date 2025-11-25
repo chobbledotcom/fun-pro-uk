@@ -8,9 +8,9 @@ permalink: "/products/paella/"
 categories: []
 features: []
 gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella-2.jpg&cs=1200"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5a51633f9a9f57669498b870ffc69f41"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/582963d4ce14c598e749cccc85e59c60"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0d2d06a0030987eeaeeda2e8b324f96"
 ---
 
 # PAELLA

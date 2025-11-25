@@ -212,7 +212,7 @@ const extractReviews = (htmlContent) => {
 
 /**
  * Extract product images from HTML content
- * Extracts Cloudinary image IDs from the .DetailsLeft div
+ * Extracts Cloudinary image IDs from product gallery areas (DetailsLeft or ThumbnailsRow)
  * @param {string} htmlContent - HTML content to extract images from
  * @returns {Object} Object with header_image and gallery array
  */
@@ -224,48 +224,49 @@ const extractProductImages = (htmlContent) => {
 
   const CLOUDINARY_BASE = 'https://bouncycastlenetwork-res.cloudinary.com/image/upload';
 
-  // Extract the DetailsLeft div content
-  const detailsLeftMatch = htmlContent.match(/<div class="DetailsLeft">([\s\S]*?)<\/div>\s*<div class="margin-top/i);
+  // First, try to isolate the main product content area
+  // Look for the product div that contains the actual product images
+  // Products are in <div class="product ..."> which contains DetailsLeft or ThumbnailsRow
+  let productContent = htmlContent;
   
-  if (detailsLeftMatch) {
-    const detailsLeftContent = detailsLeftMatch[1];
+  // Try to extract just the product div to avoid sidebar/footer images
+  const productDivMatch = htmlContent.match(/<div class="product [^"]*"[^>]*itemscope[^>]*>([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>\s*<\/div>\s*<\/div>\s*<div class="columns__homepage-aside/i);
+  if (productDivMatch) {
+    productContent = productDivMatch[1];
+  } else {
+    // Fallback: try to find DetailsLeft or ThumbnailsRow specifically
+    const detailsLeftMatch = htmlContent.match(/<div class="DetailsLeft">([\s\S]*?)<\/div>\s*<div class="margin-top/i);
+    const thumbnailsRowMatch = htmlContent.match(/<div class="ThumbnailsRow">([\s\S]*?)<\/div><div itemprop="description">/i);
     
-    // Extract unique Cloudinary image IDs from data-public-image attributes or href URLs
-    const imageIds = new Set();
-    
-    // Method 1: Extract from data-public-image attributes
-    const dataPublicImageRegex = /data-public-image="([a-f0-9]{32})"/gi;
-    let match;
-    while ((match = dataPublicImageRegex.exec(detailsLeftContent)) !== null) {
-      imageIds.add(match[1]);
+    if (detailsLeftMatch) {
+      productContent = detailsLeftMatch[1];
+    } else if (thumbnailsRowMatch) {
+      productContent = thumbnailsRowMatch[1];
     }
-    
-    // Method 2: Extract from Cloudinary URLs in href attributes (backup)
-    if (imageIds.size === 0) {
-      const cloudinaryUrlRegex = /bouncycastlenetwork-res\.cloudinary\.com\/image\/upload\/[^"]*\/([a-f0-9]{32})/gi;
-      while ((match = cloudinaryUrlRegex.exec(detailsLeftContent)) !== null) {
-        imageIds.add(match[1]);
-      }
-    }
-    
-    // Convert to array and build URLs
-    const imageIdArray = Array.from(imageIds);
-    images.gallery = imageIdArray.map(id => `${CLOUDINARY_BASE}/${id}`);
-    images.header_image = images.gallery[0] || '';
   }
 
-  // Fallback: if no images found in DetailsLeft, try og:image tags
-  if (images.gallery.length === 0) {
-    const ogImageRegex = /<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/gi;
-    let match;
-    while ((match = ogImageRegex.exec(htmlContent)) !== null) {
-      const imageUrl = match[1];
-      if (imageUrl.includes('thumbs.ashx')) {
-        images.gallery.push(imageUrl);
-      }
-    }
-    images.header_image = images.gallery[0] || '';
+  // Extract unique Cloudinary image IDs from data-public-image attributes
+  const imageIds = new Set();
+  
+  // Method 1: Extract from data-public-image attributes in product content
+  const dataPublicImageRegex = /data-public-image="([a-f0-9]{32})"/gi;
+  let match;
+  while ((match = dataPublicImageRegex.exec(productContent)) !== null) {
+    imageIds.add(match[1]);
   }
+  
+  // Method 2: Extract from Cloudinary URLs in href attributes (backup)
+  if (imageIds.size === 0) {
+    const cloudinaryUrlRegex = /bouncycastlenetwork-res\.cloudinary\.com\/image\/upload\/[^"]*\/([a-f0-9]{32})/gi;
+    while ((match = cloudinaryUrlRegex.exec(productContent)) !== null) {
+      imageIds.add(match[1]);
+    }
+  }
+  
+  // Convert to array and build URLs
+  const imageIdArray = Array.from(imageIds);
+  images.gallery = imageIdArray.map(id => `${CLOUDINARY_BASE}/${id}`);
+  images.header_image = images.gallery[0] || '';
 
   return images;
 };

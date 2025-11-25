@@ -84,15 +84,20 @@ const convertProducts = async () => {
   const productsDir = path.join(config.OLD_SITE_PATH, productsSourcePath);
 
   // For Fun Pro UK, products are in category subdirectories, so use recursive search
+  // Top-level HTML files in /category/ are category pages, not products
+  // Products are in subdirectories like /category/roll-and-bowl/101/product.html
   const categoryDir = path.join(config.OLD_SITE_PATH, 'category');
-  const fileInfos = listHtmlFilesRecursive(categoryDir);
+  const allFileInfos = listHtmlFilesRecursive(categoryDir);
+  
+  // Filter out top-level category HTML files - only keep files in subdirectories
+  const fileInfos = allFileInfos.filter(f => f.relativePath.includes(path.sep));
 
   if (fileInfos.length === 0) {
     console.log('  No products found, skipping...');
     return { successful: 0, failed: 0, total: 0 };
   }
 
-  console.log(`  Found ${fileInfos.length} product files`);
+  console.log(`  Found ${fileInfos.length} product files (excluded ${allFileInfos.length - fileInfos.length} category pages)`);
 
   // Products directory only contains imported products, safe to clean all
   prepDir(outputDir);
