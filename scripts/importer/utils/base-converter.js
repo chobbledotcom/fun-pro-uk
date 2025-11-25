@@ -68,7 +68,14 @@ const createConverter = ({
 
       // Hook before writing (e.g., download images)
       if (beforeWrite) {
-        content = await beforeWrite(content, extracted, slug, context);
+        const imageStats = await beforeWrite(content, extracted, slug, context);
+        // If beforeWrite returns an object with content and stats, use them
+        if (imageStats && typeof imageStats === 'object' && imageStats.content) {
+          content = imageStats.content;
+          extracted.imageStats = imageStats.stats;
+        } else {
+          content = imageStats;
+        }
       }
 
       const result = frontmatterGenerator(metadata, slug, extracted, context);
@@ -78,7 +85,10 @@ const createConverter = ({
       const fullContent = `${frontmatter}\n\n${content}`;
 
       writeMarkdownFile(path.join(outputDir, filename), fullContent);
-      console.log(' done');
+      
+      // Simple status - detailed progress shown inline during image downloads
+      // Legend: . = cached, + = downloaded, x = failed
+      console.log(' ✓');
 
       // Hook after conversion (e.g., track reviews)
       if (afterConvert) {
@@ -87,7 +97,7 @@ const createConverter = ({
 
       return true;
     } catch (error) {
-      console.log(' FAILED');
+      console.log(' ✗ FAILED');
       console.error(`    Error: ${error.message}`);
       return false;
     }

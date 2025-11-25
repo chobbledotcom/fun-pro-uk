@@ -7,6 +7,9 @@ meta_description: "Hire a Batak game for your event. Fun Pro UK offers Batak Gam
 permalink: "/products/batak/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-lite-27.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-pro-16.jpg&cs=1200"
 ---
 
 # Batak Game Hire - Interactive Games to Make Your Next Event Unforgettable

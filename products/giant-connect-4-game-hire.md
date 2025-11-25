@@ -7,6 +7,8 @@ meta_description: "Hire Our Giant Connect 4 Game For Your Family Fun Days, Parti
 permalink: "/products/giant-connect-4-game-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c0f74c5ec4fed95f13b3922a158c902"
 ---
 
 # Giant Connect 4 Game Hire

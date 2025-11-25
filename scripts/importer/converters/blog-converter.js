@@ -14,10 +14,11 @@ const { convertSingle, convertBatch } = createConverter({
     blogImage: (htmlContent, markdown) => extractBlogImage(markdown)
   },
   beforeWrite: async (content, extracted, slug) => {
+    // Use original URL directly (skip downloading for now)
     if (extracted.blogImage) {
-      extracted.localImagePath = await downloadProductImage(extracted.blogImage, slug);
+      extracted.localImagePath = extracted.blogImage;
     }
-    return await downloadEmbeddedImages(content, 'news', slug);
+    return content;
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({
     frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath),

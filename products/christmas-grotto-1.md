@@ -7,6 +7,13 @@ meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places 
 permalink: "/products/christmas-grotto-1/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto17x23x14ft-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto17x23x14ft-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1-2.jpg&cs=1200"
 ---
 
 # CHRISTMAS GROTTO 1

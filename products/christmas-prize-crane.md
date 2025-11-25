@@ -7,6 +7,8 @@ meta_description: "Christmas Prize Crane is one of the wide range of products av
 permalink: "/products/christmas-prize-crane/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
 ---
 
 # Christmas Prize Crane

@@ -7,6 +7,10 @@ meta_description: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK i
 permalink: "/products/pig-roast/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast-2.jpg&cs=1200"
 ---
 
 # Pig Roast

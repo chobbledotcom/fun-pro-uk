@@ -7,6 +7,8 @@ meta_description: "Hire the classic Roller Bowler carnival game for UK corporate
 permalink: "/products/roller-bowler/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
 ---
 
 # Roller Bowler

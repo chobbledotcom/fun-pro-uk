@@ -7,6 +7,10 @@ meta_description: "PAELLA is one of the wide range of products available from Fu
 permalink: "/products/paella/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella-2.jpg&cs=1200"
 ---
 
 # PAELLA

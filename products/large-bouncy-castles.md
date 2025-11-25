@@ -7,6 +7,9 @@ meta_description: "Adult bouncy castles let your inner child free! These inflata
 permalink: "/products/large-bouncy-castles/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4c2c41a53dd394815511ac12dc3a3d15"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/839e7cf60d154d27c83b2be6dc991796"
 ---
 
 # LARGE BOUNCY CASTLES

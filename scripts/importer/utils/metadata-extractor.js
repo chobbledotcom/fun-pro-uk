@@ -212,6 +212,7 @@ const extractReviews = (htmlContent) => {
 
 /**
  * Extract product images from HTML content
+ * Extracts Cloudinary image IDs from the .DetailsLeft div
  * @param {string} htmlContent - HTML content to extract images from
  * @returns {Object} Object with header_image and gallery array
  */
@@ -221,32 +222,49 @@ const extractProductImages = (htmlContent) => {
     gallery: []
   };
 
-  // Extract ALL og:image tags for gallery (Fun Pro UK format)
-  const ogImageRegex = /<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/gi;
-  let match;
-  let imageIndex = 0;
-  while ((match = ogImageRegex.exec(htmlContent)) !== null) {
-    const imageUrl = match[1];
-    // Skip the first generic/preview image that doesn't have a product-specific name
-    if (imageIndex === 0 && !imageUrl.includes('thumbs.ashx')) {
-      imageIndex++;
-      continue;
-    }
+  const CLOUDINARY_BASE = 'https://bouncycastlenetwork-res.cloudinary.com/image/upload';
 
-    if (imageIndex === 0 || !images.header_image) {
-      images.header_image = imageUrl;
+  // Extract the DetailsLeft div content
+  const detailsLeftMatch = htmlContent.match(/<div class="DetailsLeft">([\s\S]*?)<\/div>\s*<div class="margin-top/i);
+  
+  if (detailsLeftMatch) {
+    const detailsLeftContent = detailsLeftMatch[1];
+    
+    // Extract unique Cloudinary image IDs from data-public-image attributes or href URLs
+    const imageIds = new Set();
+    
+    // Method 1: Extract from data-public-image attributes
+    const dataPublicImageRegex = /data-public-image="([a-f0-9]{32})"/gi;
+    let match;
+    while ((match = dataPublicImageRegex.exec(detailsLeftContent)) !== null) {
+      imageIds.add(match[1]);
     }
-    images.gallery.push(imageUrl);
-    imageIndex++;
+    
+    // Method 2: Extract from Cloudinary URLs in href attributes (backup)
+    if (imageIds.size === 0) {
+      const cloudinaryUrlRegex = /bouncycastlenetwork-res\.cloudinary\.com\/image\/upload\/[^"]*\/([a-f0-9]{32})/gi;
+      while ((match = cloudinaryUrlRegex.exec(detailsLeftContent)) !== null) {
+        imageIds.add(match[1]);
+      }
+    }
+    
+    // Convert to array and build URLs
+    const imageIdArray = Array.from(imageIds);
+    images.gallery = imageIdArray.map(id => `${CLOUDINARY_BASE}/${id}`);
+    images.header_image = images.gallery[0] || '';
   }
 
-  // If no og:image tags found, try the old method
+  // Fallback: if no images found in DetailsLeft, try og:image tags
   if (images.gallery.length === 0) {
-    const ogImageMatch = htmlContent.match(/<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/i);
-    if (ogImageMatch) {
-      images.header_image = ogImageMatch[1];
-      images.gallery.push(ogImageMatch[1]);
+    const ogImageRegex = /<meta\s+property=["']og:image["']\s+content=["'](.*?)["']/gi;
+    let match;
+    while ((match = ogImageRegex.exec(htmlContent)) !== null) {
+      const imageUrl = match[1];
+      if (imageUrl.includes('thumbs.ashx')) {
+        images.gallery.push(imageUrl);
+      }
     }
+    images.header_image = images.gallery[0] || '';
   }
 
   return images;

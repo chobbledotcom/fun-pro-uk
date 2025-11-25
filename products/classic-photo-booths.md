@@ -7,6 +7,9 @@ meta_description: "Customisable corporate photo booth hire for events, perfect f
 permalink: "/products/classic-photo-booths/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
 ---
 
 # CLASSIC PHOTO BOOTHS

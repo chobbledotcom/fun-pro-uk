@@ -7,6 +7,8 @@ meta_description: "There&#39;s nothing more traditionally classy than a red carp
 permalink: "/products/red-carpet-and-4-gold-stanchions/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=red-carpet-and-4-gold-stanchions.jpg&cs=1200"
 ---
 
 # RED CARPET & 4 GOLD STANCHIONS

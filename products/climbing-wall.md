@@ -7,6 +7,8 @@ meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of
 permalink: "/products/climbing-wall/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ac18774e78ba1b9a2734a669acec0244"
 ---
 
 # Climbing Wall

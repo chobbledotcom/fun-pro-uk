@@ -7,6 +7,8 @@ meta_description: "For The Best Christmas Game Hire, Contact Us Today."
 permalink: "/products/whack-an-elf/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
 ---
 
 # Whack an Elf

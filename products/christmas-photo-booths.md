@@ -7,6 +7,10 @@ meta_description: "For your office Christmas party, discos, festive product laun
 permalink: "/products/christmas-photo-booths/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-christmas-photo-booth-styles-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-and-video-booths.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-photo-booth-styles-1.jpg&cs=1200"
 ---
 
 # CHRISTMAS PHOTO BOOTHS

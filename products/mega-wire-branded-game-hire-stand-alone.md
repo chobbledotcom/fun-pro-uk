@@ -7,6 +7,18 @@ meta_description: "Contact fun pro UK today to book your next event."
 permalink: "/products/mega-wire-branded-game-hire-stand-alone/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a469f562b203f9ef31dcdc5034dcb813"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e170cc395367152d4b9b2d71710995a7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b08b72cfaea1fe00344307fb476f0a7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8f677cd6574cd6b3325e00d7b708325f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6ce917d7491be05a36202ba80c8d2fca"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/862edddcf2b8390e5758ebfbae67ca1b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/733e1596f36c8181f36547d1de5051e3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ba8576653bad14bf4bab94555c2b907"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba184cd9c00a1bafd743c7ae4dbc08c5"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ce4cf8b82b69e9b638784c17496e4f5"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9e354f2397c4ff3191e9b73b395f10b"
 ---
 
 # Mega Wire - Branded Game Hire (stand alone)

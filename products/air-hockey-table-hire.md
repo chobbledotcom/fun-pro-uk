@@ -7,6 +7,16 @@ meta_description: "Check out all our games that available to hire through out Th
 permalink: "/products/air-hockey-table-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/978d979ee7d3bde8a6d1396b85525bdf"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0beac914a9f9d59fdc05a634466fbb94"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f16349d4fc31a4e40c5736a14efccd0a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4a2e75f3461e2a856a4f563ed91c8f40"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e9228bd6fdf06c44594787e5f3c6f5c4"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21635a96850030f3d790e7f062210851"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180c197ab2df6df453b18683e8250e6"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae8ccde974a8b3d7efec6e29fb60cbbb"
 ---
 
 # Air Hockey Table Hire

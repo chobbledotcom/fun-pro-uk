@@ -7,6 +7,11 @@ meta_description: "BBQ is one of the wide range of products available from Fun P
 permalink: "/products/bbq/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq-3.jpg&cs=1200"
 ---
 
 # BBQ

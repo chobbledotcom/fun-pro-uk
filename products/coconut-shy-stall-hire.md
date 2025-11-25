@@ -7,6 +7,8 @@ meta_description: "Hire a Coconut Shy stall for your next event. A fun and inter
 permalink: "/products/coconut-shy-stall-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
 ---
 
 # Coconut Shy Stall Hire

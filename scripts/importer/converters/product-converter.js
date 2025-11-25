@@ -33,11 +33,17 @@ const { convertSingle, convertBatch } = createConverter({
     );
   },
   beforeWrite: async (content, extracted, slug) => {
-    // Download all gallery images
-    extracted.localGalleryPaths = await downloadProductGallery(extracted.images?.gallery || [], slug);
-    // Set header image to first gallery image for backward compatibility
-    extracted.localImagePath = extracted.localGalleryPaths[0] || '';
-    return await downloadEmbeddedImages(content, 'products', slug);
+    // Use original URLs directly (skip downloading for now)
+    const galleryUrls = extracted.images?.gallery || [];
+    extracted.localGalleryPaths = galleryUrls;
+    extracted.localImagePath = galleryUrls[0] || '';
+    
+    if (galleryUrls.length > 0) {
+      process.stdout.write(` (${galleryUrls.length} imgs)`);
+    }
+    
+    // Skip embedded image downloads too for now
+    return content;
   },
   afterConvert: async (extracted, slug, context) => {
     const { reviewsMap } = context;

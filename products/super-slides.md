@@ -7,6 +7,9 @@ meta_description: "Our inflatable slides are fully-customisable - display your l
 permalink: "/products/super-slides/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dafd96b7b3da46cf7b34a7612978bc8a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1bdc2a629293e20f8a972449aff24c9f"
 ---
 
 # SUPER SLIDES
