@@ -75,10 +75,15 @@ function mapOldToNew(oldPath) {
   // News index: /news -> /blog
   if (oldPath === '/news') return '/blog';
   
-  // News posts: /news/2024-09-04/slug -> /blog/slug
+  // News posts: /news/2024-09-04/slug -> /blog/2024-09-04/slug (keep date in path)
   if (oldPath.startsWith('/news/')) {
     const parts = oldPath.split('/');
-    if (parts.length >= 4) return '/blog/' + parts[parts.length - 1];
+    if (parts.length >= 4) {
+      // parts = ['', 'news', '2024-09-04', 'slug']
+      const date = parts[2];
+      const slug = parts[3];
+      return `/blog/${date}/${slug}`;
+    }
     return oldPath;
   }
   

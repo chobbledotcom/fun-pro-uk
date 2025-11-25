@@ -72,12 +72,14 @@ const escapeYamlString = (str) => {
 const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, localImagePath = null) => {
   const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
 
+  // Include date in permalink to match old site structure and avoid duplicate slugs
+  // Old: /news/2017-11-19/christmas-parties-are-go -> New: /blog/2017-11-19/christmas-parties-are-go
   let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/blog/${slug}/"`;
+permalink: "/blog/${date}/${slug}/"`;
 
   // Add gallery with the downloaded image
   if (localImagePath) {

@@ -6,9 +6,6 @@ const config = {
   OLD_SITE_PATH: path.join(__dirname, '../../old_site'),
   OUTPUT_BASE: path.join(__dirname, '../..'),
 
-  // Default values for content
-  DEFAULT_DATE: '2020-01-01',
-
   // Paths for different content types
   paths: {
     pages: 'pages',

@@ -50,7 +50,7 @@ const createConverter = ({
       // Run custom extractors
       const extracted = { ...context };
       for (const [key, extractor] of Object.entries(extractors)) {
-        extracted[key] = await extractor(htmlContent, markdown, slug);
+        extracted[key] = await extractor(htmlContent, markdown, slug, context);
       }
 
       // Ensure content starts with H1

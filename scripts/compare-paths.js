@@ -35,13 +35,8 @@ if (!skipBuild) {
     fs.rmSync(newSite, { recursive: true, force: true });
   }
 
-  try {
-    execSync('npm run build', { cwd: root, stdio: 'inherit' });
-    console.log('\n');
-  } catch (error) {
-    console.error('Build failed!');
-    process.exit(1);
-  }
+  execSync('npm run build', { cwd: root, stdio: 'inherit' });
+  console.log('\n');
 } else {
   console.log('Skipping build (--skip-build flag)\n');
 }
@@ -298,40 +293,40 @@ function getOldSiteFilePath(urlPath) {
 function getOldSiteMetadata(urlPath) {
   const filePath = getOldSiteFilePath(urlPath);
 
-  try {
-    const htmlContent = fs.readFileSync(filePath, 'utf-8');
-    const metadata = extractMetadata(htmlContent);
-    const isBlogPost = urlPath.startsWith('/news/') && urlPath !== '/news';
-    metadata.headings = extractHeadings(htmlContent, isBlogPost);
-    return metadata;
-  } catch (error) {
+  if (!fs.existsSync(filePath)) {
     return null;
   }
+
+  const htmlContent = fs.readFileSync(filePath, 'utf-8');
+  const metadata = extractMetadata(htmlContent);
+  const isBlogPost = urlPath.startsWith('/news/') && urlPath !== '/news';
+  metadata.headings = extractHeadings(htmlContent, isBlogPost);
+  return metadata;
 }
 
 // Extract metadata from new site HTML file
 function getNewSiteMetadata(urlPath) {
   const htmlPath = urlPath === '/' ? path.join(newSite, 'index.html') : path.join(newSite, urlPath.substring(1), 'index.html');
 
-  try {
-    const htmlContent = fs.readFileSync(htmlPath, 'utf-8');
-
-    // Extract title
-    const titleMatch = htmlContent.match(/<title>([^<]+)<\/title>/);
-    const title = titleMatch ? titleMatch[1].trim() : null;
-
-    // Extract meta description
-    const descMatch = htmlContent.match(/<meta\s+name=["']description["']\s+content=["']([^"']+)["']/i);
-    const description = descMatch ? descMatch[1].trim() : null;
-
-    return {
-      title: title,
-      meta_description: description,
-      headings: extractHeadings(htmlContent)
-    };
-  } catch (error) {
+  if (!fs.existsSync(htmlPath)) {
     return null;
   }
+
+  const htmlContent = fs.readFileSync(htmlPath, 'utf-8');
+
+  // Extract title
+  const titleMatch = htmlContent.match(/<title>([^<]+)<\/title>/);
+  const title = titleMatch ? titleMatch[1].trim() : null;
+
+  // Extract meta description
+  const descMatch = htmlContent.match(/<meta\s+name=["']description["']\s+content=["']([^"']+)["']/i);
+  const description = descMatch ? descMatch[1].trim() : null;
+
+  return {
+    title: title,
+    meta_description: description,
+    headings: extractHeadings(htmlContent)
+  };
 }
 
 // Normalize metadata value for comparison
