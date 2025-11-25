@@ -45,11 +45,11 @@ Book our Crazy Golf hire services today in Birmingham, Nottingham, Milton Keynes
 
 **£1495**\+ vat**
 
-Delivered [](crazy-golf/#specification)and [](crazy-golf/#specification)installed on site by our trained team
+Delivered [](crazy-golf.html#specification)and [](crazy-golf.html#specification)installed on site by our trained team
 
-\*Delivery [](crazy-golf/#specification)Charges & Minimum order value may apply
+\*Delivery [](crazy-golf.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](crazy-golf/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](crazy-golf.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

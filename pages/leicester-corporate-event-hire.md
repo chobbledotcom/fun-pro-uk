@@ -27,9 +27,9 @@ Here at Fun Pro UK we pride ourselves in the diversity of products that we offer
 
 **You've now got the agency, but what event entertainment do you hire?**
 
-There is a such a range of [interactive games](/interactive-game-hire.html "Interactive Game Hire "), inflatables and photo booths available to hire but what you pick completely depends on the type of corporate event that you are organising. But don't panic, the team at Fun Pro UK are always on hand to put together a package to match your audience and company aims.
+There is a such a range of [interactive games](/interactive-game-hire/), inflatables and photo booths available to hire but what you pick completely depends on the type of corporate event that you are organising. But don't panic, the team at Fun Pro UK are always on hand to put together a package to match your audience and company aims.
 
-For instance, if you were organising a fun, quirky event you can check out our range of unusual corporate entertainment, including our rodeo, [Magic Mirrors](/category/photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ") and range of inflatables.
+For instance, if you were organising a fun, quirky event you can check out our range of unusual corporate entertainment, including our rodeo, [Magic Mirrors](/category/photo-booths-and-magic-mirrors/) and range of inflatables.
 
 Alternatively, if you wanted to treat your delegates to a break within your conference, check out our range of conference entertainment including Race Car Simulators and giant table top games such as Top Doc.
 
@@ -49,6 +49,6 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

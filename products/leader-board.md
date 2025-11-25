@@ -37,15 +37,15 @@ Looking to add a fun and interactive element to your event? Our LEADER BOARD is 
 
 **£75**\+ vat**
 
-Delivered [](leader-board/#specification)and [](leader-board/#specification)installed on site by our trained team
+Delivered [](leader-board.html#specification)and [](leader-board.html#specification)installed on site by our trained team
 
-In[\-](leader-board/#specification)house [](leader-board/#specification)branding [](leader-board/#specification)available [](leader-board/#specification)Printed[,](leader-board/#specification) applied & removed after each event
+In[\-](leader-board.html#specification)house [](leader-board.html#specification)branding [](leader-board.html#specification)available [](leader-board.html#specification)Printed[,](leader-board.html#specification) applied & removed after each event
 
-(One [](leader-board/#specification)time [](leader-board/#specification)use [](leader-board/#specification)only)
+(One [](leader-board.html#specification)time [](leader-board.html#specification)use [](leader-board.html#specification)only)
 
-\*Delivery [](leader-board/#specification)Charges & Minimum order value may apply
+\*Delivery [](leader-board.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](leader-board/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](leader-board.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -95,10 +95,10 @@ Our LEADER BOARD is not just a fun addition to your event—it's a tool to incre
 
 Popular items:
 
-*   [Race car Simulators](/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Grab a Grand](/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE")
+*   [Race car Simulators](/twin-racing-car-simulators/)
+*   [Grab a Grand](/3/grab-a-grand/)
 *   Lights Out
-*   [Pluck A Duck Racing](/pluck-a-duck-racing.html "PLUCK A DUCK RACING")
+*   [Pluck A Duck Racing](/pluck-a-duck-racing/)
 
 Want to add a leader board to make your hire more competitive, then look no further!  
   

@@ -58,15 +58,15 @@ Let our trained staff handle the delivery, setup, and installation of the game a
 
 **£2695**\+ vat**
 
-Delivered [](roll-and-bowl-reindeer-racing-game-hire/#specification)and [](roll-and-bowl-reindeer-racing-game-hire/#specification)installed on site by our trained team
+Delivered [](roll-and-bowl-reindeer-racing-game-hire.html#specification)and [](roll-and-bowl-reindeer-racing-game-hire.html#specification)installed on site by our trained team
 
-In[\-](roll-and-bowl-reindeer-racing-game-hire/#specification)house [](roll-and-bowl-reindeer-racing-game-hire/#specification)branding [](roll-and-bowl-reindeer-racing-game-hire/#specification)available [](roll-and-bowl-reindeer-racing-game-hire/#specification)Printed[,](roll-and-bowl-reindeer-racing-game-hire/#specification) applied & removed after each event
+In[\-](roll-and-bowl-reindeer-racing-game-hire.html#specification)house [](roll-and-bowl-reindeer-racing-game-hire.html#specification)branding [](roll-and-bowl-reindeer-racing-game-hire.html#specification)available [](roll-and-bowl-reindeer-racing-game-hire.html#specification)Printed[,](roll-and-bowl-reindeer-racing-game-hire.html#specification) applied & removed after each event
 
-(One [](roll-and-bowl-reindeer-racing-game-hire/#specification)time [](roll-and-bowl-reindeer-racing-game-hire/#specification)use [](roll-and-bowl-reindeer-racing-game-hire/#specification)only)
+(One [](roll-and-bowl-reindeer-racing-game-hire.html#specification)time [](roll-and-bowl-reindeer-racing-game-hire.html#specification)use [](roll-and-bowl-reindeer-racing-game-hire.html#specification)only)
 
-\*Delivery [](roll-and-bowl-reindeer-racing-game-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](roll-and-bowl-reindeer-racing-game-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](roll-and-bowl-reindeer-racing-game-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](roll-and-bowl-reindeer-racing-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **Discounted rates** available for **Multiple Days &**Additional items**
 
@@ -112,17 +112,17 @@ Lift required
 
 **Popular Items:**
 
-[Leaded Board](/products/30/leader-board.html "LEADER BOARD")
+[Leaded Board](/products/30/leader-board/)
 
 Lights Out
 
-[Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+[Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
 
-[Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+[Crack the Code](/../../crack-the-code-safe-cracker/)
 
 ## Roll And Bowl Reindeer Racing
 
-The [Roll And Bowl](/all-products/51/roll-and-bowl-game-hire/#BodyContent) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/all-products/51/roll-and-bowl-game-hire/#BodyContent) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
+The [Roll And Bowl](/all-products/51/roll-and-bowl-game-hire.html#BodyContent) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/all-products/51/roll-and-bowl-game-hire.html#BodyContent) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
 
 Roll and Bowl Reindeer Racing game is a fun and exciting challenge for four players. Race the red, green, yellow and blue reindeer around the track to see who can get their reindeer across the finish line first.
 
@@ -134,9 +134,9 @@ Reindeer racing is available in Manchester, Coventry, Nottingham, Leicester, Lon
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **Playing Field x 4**
 

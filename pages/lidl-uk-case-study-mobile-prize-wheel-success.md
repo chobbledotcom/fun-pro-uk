@@ -111,6 +111,6 @@ If you're a retailer or established brand looking to create memorable customer e
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -83,7 +83,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](conference-game-hire-london/#FooterContact)**
+**[Request a Free Quote](conference-game-hire-london.html#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -133,7 +133,7 @@ When the event ends, our team will take care of the safe and efficient removal o
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in London or any other location in the UK!
 
-**[TALK TO US](conference-game-hire-london/#FooterContact)**
+**[TALK TO US](conference-game-hire-london.html#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -195,6 +195,6 @@ Please refer to your contract for full terms and conditions regarding cancellati
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

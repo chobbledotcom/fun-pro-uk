@@ -93,7 +93,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.  
 
-[**Email:**](christmas-photo-booths/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](christmas-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -189,10 +189,10 @@ We offer flexible [game hire options](/pages/christmas-entertainment-game-hire'/
 
 **Popular items:**
 
-*   [Race car simulators](/products/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Dance machine](/../exhibition-games/dance-machine.html "Dance Machine")
-*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Giant buzz wire](/products/giant-buzz-wire.html "GIANT BUZZ WIRE")
+*   [Race car simulators](/products/twin-racing-car-simulators/)
+*   [Dance machine](/../exhibition-games/dance-machine/)
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Giant buzz wire](/products/giant-buzz-wire/)
 
 **Branding Prices from:**
 
@@ -206,6 +206,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

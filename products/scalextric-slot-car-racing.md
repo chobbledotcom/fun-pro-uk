@@ -76,7 +76,7 @@ Need a longer hire period?
 
 [Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
 
-[**Email:**](/all-products/88/scalextric-slot-car-racing/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/88/scalextric-slot-car-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -118,10 +118,10 @@ Lift required 1300mm deep
 
 ### **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board/)
+*   [Lights Out](/products/lights-out-game/)
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)
 
 ## Hire Scalextric Slot Cars for your next event!
 
@@ -201,9 +201,9 @@ We recommend booking the Scalextric slot car racing setup well in advance, espec
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **Branded Skirt - Crash Barriers**
 
@@ -211,6 +211,6 @@ In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../ad
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

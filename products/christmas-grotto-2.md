@@ -83,6 +83,6 @@ This versatile inflatable comes with a full set of seasonal props to add to the 
 
 Just part of the festive fun
 
-Our choice of inflatable Christmas grottoes are just part of our seasonal selection, which also includes [festive themed photo booths](/../photo-booths-and-magic-mirrors/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS"), and even [adult sized bouncy castles](/products/corporate-entertainment/23/large-bouncy-castles.html "LARGE BOUNCY CASTLES") to really add bounce to your company party. So whatever you've got planned for your company celebrations, contact us today for the best choice and value for your Christmas fun. Our elves can deliver all over the UK, just like Santa himself, from London to Liverpool, Birmingham to Brighton, but be warned, these items book up fast, so contact us today to reserve your date.
+Our choice of inflatable Christmas grottoes are just part of our seasonal selection, which also includes [festive themed photo booths](/../photo-booths-and-magic-mirrors/christmas-photo-booths/), and even [adult sized bouncy castles](/products/corporate-entertainment/23/large-bouncy-castles/) to really add bounce to your company party. So whatever you've got planned for your company celebrations, contact us today for the best choice and value for your Christmas fun. Our elves can deliver all over the UK, just like Santa himself, from London to Liverpool, Birmingham to Brighton, but be warned, these items book up fast, so contact us today to reserve your date.
 
 **Christmas Grotto available to hire Through out the UK**

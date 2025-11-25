@@ -15,6 +15,6 @@ Your annual awards presentation is a very special night for all concerned, wheth
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

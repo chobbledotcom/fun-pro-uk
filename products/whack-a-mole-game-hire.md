@@ -63,15 +63,15 @@ Get ready to take your event to the next level with our exciting Branded Whack-a
 
 **£1345**\+ vat**
 
-Delivered [](/all-products/67/whack-a-mole-game-hire/#specification)and [](/all-products/67/whack-a-mole-game-hire/#specification)installed on site by our trained team
+Delivered [](/all-products/67/whack-a-mole-game-hire.html#specification)and [](/all-products/67/whack-a-mole-game-hire.html#specification)installed on site by our trained team
 
-In[\-](/all-products/67/whack-a-mole-game-hire/#specification)house [](/all-products/67/whack-a-mole-game-hire/#specification)branding [](/all-products/67/whack-a-mole-game-hire/#specification)available [](/all-products/67/whack-a-mole-game-hire/#specification)Printed[,](/all-products/67/whack-a-mole-game-hire/#specification) applied & removed after each event
+In[\-](/all-products/67/whack-a-mole-game-hire.html#specification)house [](/all-products/67/whack-a-mole-game-hire.html#specification)branding [](/all-products/67/whack-a-mole-game-hire.html#specification)available [](/all-products/67/whack-a-mole-game-hire.html#specification)Printed[,](/all-products/67/whack-a-mole-game-hire.html#specification) applied & removed after each event
 
-(One [](/all-products/67/whack-a-mole-game-hire/#specification)time [](/all-products/67/whack-a-mole-game-hire/#specification)use [](/all-products/67/whack-a-mole-game-hire/#specification)only)
+(One [](/all-products/67/whack-a-mole-game-hire.html#specification)time [](/all-products/67/whack-a-mole-game-hire.html#specification)use [](/all-products/67/whack-a-mole-game-hire.html#specification)only)
 
-\*Delivery [](/all-products/67/whack-a-mole-game-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](/all-products/67/whack-a-mole-game-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/67/whack-a-mole-game-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/67/whack-a-mole-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -111,10 +111,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board/)
+*   [Lights Out](/products/lights-out-game/)
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)
 
 **Whack A Mole Game Hire**
 
@@ -132,9 +132,9 @@ So, why wait? Contact us today to book our Branded Whack-a-Mole game for your up
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **Game Playing Panel**
 

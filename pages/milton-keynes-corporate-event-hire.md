@@ -25,7 +25,7 @@ So how are your meant to know who to trust?
 
 Some companies just broker entertainment and put a mark-up fee for not doing a lot more than setting up the equipment, meaning you get left with a larger, unnecessary bill.
 
-But here at Fun Pro UK, we don't work like that. We provide high-quality [corporate entertainment](/category/corporate-entertainment.html "Corporate Entertainment ") hire appropriate for your company, event and venue. We take the brief you give us to tailor the corporate entertainment necessary for your event, whether it's a sales conference, Christmas party, exhibition or award ceremony in and around Milton Keynes.
+But here at Fun Pro UK, we don't work like that. We provide high-quality [corporate entertainment](/category/corporate-entertainment/) hire appropriate for your company, event and venue. We take the brief you give us to tailor the corporate entertainment necessary for your event, whether it's a sales conference, Christmas party, exhibition or award ceremony in and around Milton Keynes.
 
 ## **You've got the company, but now what corporate entertainment to hire?**
 
@@ -41,7 +41,7 @@ We also have an authentic casino table which comes complete with a professional 
 
 Here at Fun Pro UK, we pride ourselves in delivering high quality corporate entertainment to all our clients, at a fair price for all our packages and single items.
 
-Booking your next event's entertainment hire with Fun Pro UK means you are guaranteed great service. From the initial phone call discussing your corporate party idea through to the delivery of your specified [interactive games](/interactive-game-hire.html "Interactive Game Hire ") or Photo Booths. You can sleep peacefully knowing that everything is being handled with your company's best interest at heart.
+Booking your next event's entertainment hire with Fun Pro UK means you are guaranteed great service. From the initial phone call discussing your corporate party idea through to the delivery of your specified [interactive games](/interactive-game-hire/) or Photo Booths. You can sleep peacefully knowing that everything is being handled with your company's best interest at heart.
 
 So why not push your next corporate event to the next level with our entertainment, making it fun and memorable for all!
 
@@ -51,6 +51,6 @@ For more information or to order games for your company event, get in touch with
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

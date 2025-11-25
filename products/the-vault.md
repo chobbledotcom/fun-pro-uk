@@ -50,15 +50,15 @@ Starting from the easiest level and working your way up to the hardest level wil
 
 **£1195**\+ vat**
 
-Delivered [](the-vault/#specification)and [](the-vault/#specification)installed on site by our trained team
+Delivered [](the-vault.html#specification)and [](the-vault.html#specification)installed on site by our trained team
 
-In[\-](the-vault/#specification)house [](the-vault/#specification)branding [](the-vault/#specification)available [](the-vault/#specification)Printed[,](the-vault/#specification) applied & removed after each event
+In[\-](the-vault.html#specification)house [](the-vault.html#specification)branding [](the-vault.html#specification)available [](the-vault.html#specification)Printed[,](the-vault.html#specification) applied & removed after each event
 
-(One [](the-vault/#specification)time [](the-vault/#specification)use [](the-vault/#specification)only)
+(One [](the-vault.html#specification)time [](the-vault.html#specification)use [](the-vault.html#specification)only)
 
-\*Delivery [](the-vault/#specification)Charges & Minimum order value may apply
+\*Delivery [](the-vault.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](the-vault/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](the-vault.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -142,9 +142,9 @@ Why not hire our scoreboard and keep a record of times from your contestants and
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **Branded Plinth**
 

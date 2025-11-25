@@ -55,6 +55,6 @@ Third parties might also set cookies on your browser. We use Google Analytics to
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

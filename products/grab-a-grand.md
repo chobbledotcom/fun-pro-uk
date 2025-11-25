@@ -116,13 +116,13 @@ Lift required
 
 **Popular Items:**
 
-[Leaded Board](/30/leader-board.html "LEADER BOARD")
+[Leaded Board](/30/leader-board/)
 
 Lights Out
 
-[Gold Cup Horse racing](/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+[Gold Cup Horse racing](/29/gold-cup-horse-racing/)
 
-[Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+[Crack the Code](/../../crack-the-code-safe-cracker/)
 
 **Grab A Grand Hire For Corporate Events:**
 
@@ -180,7 +180,7 @@ We suggest that you add some extra fun to this game, such as a name draw for who
 
 ### **Endless options**
 
-We've got so many options when it comes to [interactive game hire](/../../interactive-game-hire.html "Interactive Game Hire "), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
+We've got so many options when it comes to [interactive game hire](/products/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
 
 **Branding Prices from:**
 

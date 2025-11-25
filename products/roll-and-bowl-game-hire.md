@@ -78,15 +78,15 @@ Don't settle for the ordinary – elevate your event with the Roll And Bowl Game
 
 **£2695**\+ vat**
 
-Delivered [](/all-products/51/roll-and-bowl-game-hire/#specification)and [](/all-products/51/roll-and-bowl-game-hire/#specification)installed on site by our trained team
+Delivered [](/all-products/51/roll-and-bowl-game-hire.html#specification)and [](/all-products/51/roll-and-bowl-game-hire.html#specification)installed on site by our trained team
 
-In[\-](/all-products/51/roll-and-bowl-game-hire/#specification)house [](/all-products/51/roll-and-bowl-game-hire/#specification)branding [](/all-products/51/roll-and-bowl-game-hire/#specification)available [](/all-products/51/roll-and-bowl-game-hire/#specification)Printed[,](/all-products/51/roll-and-bowl-game-hire/#specification) applied & removed after each event
+In[\-](/all-products/51/roll-and-bowl-game-hire.html#specification)house [](/all-products/51/roll-and-bowl-game-hire.html#specification)branding [](/all-products/51/roll-and-bowl-game-hire.html#specification)available [](/all-products/51/roll-and-bowl-game-hire.html#specification)Printed[,](/all-products/51/roll-and-bowl-game-hire.html#specification) applied & removed after each event
 
-(One [](/all-products/51/roll-and-bowl-game-hire/#specification)time [](/all-products/51/roll-and-bowl-game-hire/#specification)use [](/all-products/51/roll-and-bowl-game-hire/#specification)only)
+(One [](/all-products/51/roll-and-bowl-game-hire.html#specification)time [](/all-products/51/roll-and-bowl-game-hire.html#specification)use [](/all-products/51/roll-and-bowl-game-hire.html#specification)only)
 
-\*Delivery [](/all-products/51/roll-and-bowl-game-hire/#specification)Charges & Minimum order value may apply
+\*Delivery [](/all-products/51/roll-and-bowl-game-hire.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/51/roll-and-bowl-game-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/51/roll-and-bowl-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -174,9 +174,9 @@ Here at Fun Pro we have the ability to brand your game hire with your company lo
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **Playing Field x 4**
 

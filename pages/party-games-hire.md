@@ -154,6 +154,6 @@ And if you don’t see your area in our list below give us a call to find out if
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

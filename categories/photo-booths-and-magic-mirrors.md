@@ -14,134 +14,134 @@ eleventyNavigation:
 
 Whatever your event, make sure you make it truly memorable by adding corporate photo booth hire, so everyone can put themselves in the picture, both in print and online. We're a West Midlands photo booth and magic mirror hire company based in Birmingham and Coventry, but we operate all over the UK!
 
-[CLASSIC PHOTO BOOTHS](photo-booths-and-magic-mirrors/classic-photo-booths.html "CLASSIC PHOTO BOOTHS - Link Products")
+[CLASSIC PHOTO BOOTHS](photo-booths-and-magic-mirrors/classic-photo-booths/)
 
 [More Details](photo-booths-and-magic-mirrors/classic-photo-booths/)
 
-[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
+[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
 [More Details](photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[Bespoke Photo Booth Hire](branded-exhibition-games/24/bespoke-photo-booth-hire.html "Bespoke Photo Booth Hire - Link Products")
+[Bespoke Photo Booth Hire](branded-exhibition-games/24/bespoke-photo-booth-hire/)
 
 [More Details](branded-exhibition-games/24/bespoke-photo-booth-hire/)
 
-[CHRISTMAS PHOTO BOOTHS](photo-booths-and-magic-mirrors/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS - Link Products")
+[CHRISTMAS PHOTO BOOTHS](photo-booths-and-magic-mirrors/christmas-photo-booths/)
 
 [More Details](photo-booths-and-magic-mirrors/christmas-photo-booths/)
 
-[Shuffleboard Hire](all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+[Shuffleboard Hire](all-products/87/shuffle-board-hire/)
 
 [More Details](all-products/87/shuffle-board-hire/)
 
-[Crazy Golf](fun-days/crazy-golf.html "Crazy Golf - Fun Days")
+[Crazy Golf](fun-days/crazy-golf/)
 
 [More Details](fun-days/crazy-golf/)
 
-[MAGIC MIRROR](photo-booths-and-magic-mirrors/magic-mirror.html "MAGIC MIRROR - Photo Booths & Magic Mirrors ")
+[MAGIC MIRROR](photo-booths-and-magic-mirrors/magic-mirror/)
 
 [More Details](photo-booths-and-magic-mirrors/magic-mirror/)
 
-[RED CARPET & 4 GOLD STANCHIONS](photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions.html "RED CARPET & 4 GOLD STANCHIONS - Photo Booths & Magic Mirrors ")
+[RED CARPET & 4 GOLD STANCHIONS](photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions/)
 
 [More Details](photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions/)
 
-[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
 [More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/)
 
 [More Details](/prize-crane-arcade-grabber/)
 
-[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire/)
 
 [More Details](exhibition-games/42/pix-n-mix-hire/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games/)
 
 [More Details](interactive-game-hire/retro-arcade-games/)
 
-[Batak Lite](all-products/batak-lite.html "Batak Lite - Exhibition Games ")
+[Batak Lite](all-products/batak-lite/)
 
 [More Details](all-products/batak-lite/)
 
-[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+[Mega Wire - Branded Game Hire (stand alone)](all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
 [More Details](all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
-[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
 [More Details](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[Batak Pro](batak/batak-pro.html "Batak Pro - Exhibition Games ")
+[Batak Pro](batak/batak-pro/)
 
 [More Details](batak/batak-pro/)
 
-[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators/)
 
 [More Details](interactive-game-hire/twin-racing-car-simulators/)
 
-[The Vault](interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+[The Vault](interactive-game-hire/50/the-vault/)
 
 [More Details](interactive-game-hire/50/the-vault/)
 
-[Rodeo Bull](fun-days/46/rodeo-bull.html "Rodeo Bull - Corporate Entertainment ")
+[Rodeo Bull](fun-days/46/rodeo-bull/)
 
 [More Details](fun-days/46/rodeo-bull/)
 
-[Dance Machine](exhibition-games/dance-machine.html "Dance Machine - Arcade Games ")
+[Dance Machine](exhibition-games/dance-machine/)
 
 [More Details](exhibition-games/dance-machine/)
 
-[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth/)
 
 [More Details](photo-booths/ultimate-green-screen-photo-booth/)
 
-[FOOTBALL TABLES](interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+[FOOTBALL TABLES](interactive-game-hire/27/football-tables/)
 
 [More Details](interactive-game-hire/27/football-tables/)
 
-[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire.html "CASINO TABLE HIRE - Pub Games ")
+[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire/)
 
 [More Details](christmas-game-hire/casino-table-hire/)
 
-[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire/)
 
 [More Details](arcade-games/60/air-hockey-table-hire/)
 
-[High Striker](arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+[High Striker](arcade-games/48/high-striker/)
 
 [More Details](arcade-games/48/high-striker/)
 
-[Giant Connect 4 Game Hire](corporate-entertainment/45/giant-connect-4-game-hire.html "Giant Connect 4 Game Hire - Corporate Entertainment ")
+[Giant Connect 4 Game Hire](corporate-entertainment/45/giant-connect-4-game-hire/)
 
 [More Details](corporate-entertainment/45/giant-connect-4-game-hire/)
 
-[Giant Jenga Hire](fun-days/44/giant-jenga-hire.html "Giant Jenga Hire - Corporate Entertainment ")
+[Giant Jenga Hire](fun-days/44/giant-jenga-hire/)
 
 [More Details](fun-days/44/giant-jenga-hire/)
 
-[Prize Wheel](/prize-wheel.html "Prize Wheel - Prize Games ")
+[Prize Wheel](/prize-wheel/)
 
 [More Details](/prize-wheel/)
 
-[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire/)
 
 [More Details](interactive-game-hire/giant-buzz-wire/)
 
-[Giant Deck Chair Hire](weddings/74/giant-deck-chair-hire.html "Giant Deck Chair Hire - Corporate Entertainment ")
+[Giant Deck Chair Hire](weddings/74/giant-deck-chair-hire/)
 
 [More Details](weddings/74/giant-deck-chair-hire/)
 
-[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer/)
 
 [More Details](interactive-game-hire/62/beat-the-buzzer/)
 
 **Picture perfect photo booths  
 **Booth hire is always a huge hit, giving your guests the chance to save and share their fun, and giving you a unique record of every picture taken. We offer a huge choice, from the classic 'passport-style' photo booths and green screen machines, to the very latest social media booths and hash tag print stations that offer an instant upload to the internet.
 
-For even more fun, check out our cheeky [magic selfie mirror](photo-booths-and-magic-mirrors/magic-mirror.html "MAGIC MIRROR") for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
+For even more fun, check out our cheeky [magic selfie mirror](photo-booths-and-magic-mirrors/magic-mirror/) for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
 
 **Unlimited visits, unlimited fun  
 **All our photo booths for hire across the UK come complete with unlimited visits for your guests, with prints of their pictures to take home. You'll also get a link to download of all the images for your marketing team to use on social media, to publicise your event and show how much fun your company can be. Choose hash tag print station hire and you can create an instant social media buzz from the very first photo, making it ideal for exhibitions and sales promotions.
@@ -219,10 +219,10 @@ For advice on the best corporate photo booth hire for your event, your audience 
 
 *   Tel: 02477220701
 *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-*   [Contact form](/pages/contact-fun-pro-uk.html "Contact Fun Pro UK")
+*   [Contact form](/pages/contact-fun-pro-uk/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -67,7 +67,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](nec-birmingham/#FooterContact)**
+**[Request a Free Quote](nec-birmingham.html#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -119,7 +119,7 @@ After the event ends, our team will take care of the safe and efficient removal 
 
 Don't miss out on the opportunity to make every event unforgettable. [Contact us](contact-fun-pro-uk/) today to book our equipment for your next event in Birmingham or any other location in the UK!
 
-**[Talk To Us](nec-birmingham/#FooterContact)**
+**[Talk To Us](nec-birmingham.html#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -161,6 +161,6 @@ All our games and booths are maintained so they stay in excellent condition. We 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

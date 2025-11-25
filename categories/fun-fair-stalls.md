@@ -16,31 +16,31 @@ Create the atmosphere of a traditional fairground at your event with a selection
 
 Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
-[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire/)
 
 [More Details](fun-foods/92/candy-floss-cart-hire/)
 
-[Coconut Shy Stall Hire](fun-fair-stalls/96/coconut-shy-stall-hire.html "Coconut Shy Stall Hire - Fun Fair Stalls ")
+[Coconut Shy Stall Hire](fun-fair-stalls/96/coconut-shy-stall-hire/)
 
 [More Details](fun-fair-stalls/96/coconut-shy-stall-hire/)
 
-[Hook A Duck](fun-fair-stalls/103/hook-a-duck.html "Hook A Duck - Fun Fair Stalls ")
+[Hook A Duck](fun-fair-stalls/103/hook-a-duck/)
 
 [More Details](fun-fair-stalls/103/hook-a-duck/)
 
-[Play Your Cards Right Stall Hire](fun-fair-stalls/97/play-your-cards-right-stall-hire.html "Play Your Cards Right Stall Hire - Fun Fair Stalls ")
+[Play Your Cards Right Stall Hire](fun-fair-stalls/97/play-your-cards-right-stall-hire/)
 
 [More Details](fun-fair-stalls/97/play-your-cards-right-stall-hire/)
 
-[Popcorn Machine Cart Hire](fun-fair-stalls/93/popcorn-machine-cart-hire.html "Popcorn Machine Cart Hire - Fun Fair Stalls ")
+[Popcorn Machine Cart Hire](fun-fair-stalls/93/popcorn-machine-cart-hire/)
 
 [More Details](fun-fair-stalls/93/popcorn-machine-cart-hire/)
 
-[Target Ring Toss Hire](fun-fair-stalls/95/target-ring-toss-hire.html "Target Ring Toss Hire - Fun Fair Stalls ")
+[Target Ring Toss Hire](fun-fair-stalls/95/target-ring-toss-hire/)
 
 [More Details](fun-fair-stalls/95/target-ring-toss-hire/)
 
-[Twin Axe throwing](all-products/98/twin-axe-throwing.html "Twin Axe throwing - All Products")
+[Twin Axe throwing](all-products/98/twin-axe-throwing/)
 
 [More Details](all-products/98/twin-axe-throwing/)
 
@@ -170,6 +170,6 @@ Yes, our professional staff will manage the stall to provide smooth service thro
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

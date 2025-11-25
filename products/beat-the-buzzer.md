@@ -54,15 +54,15 @@ Ready to amp up the excitement at your next event? Hire Beat The Buzzer today an
 
 **£1095**\+ vat**
 
-Delivered [](beat-the-buzzer/#specification)and [](beat-the-buzzer/#specification)installed on site by our trained team
+Delivered [](beat-the-buzzer.html#specification)and [](beat-the-buzzer.html#specification)installed on site by our trained team
 
-In[\-](beat-the-buzzer/#specification)house [](beat-the-buzzer/#specification)branding [](beat-the-buzzer/#specification)available [](beat-the-buzzer/#specification)Printed[,](beat-the-buzzer/#specification) applied & removed after each event
+In[\-](beat-the-buzzer.html#specification)house [](beat-the-buzzer.html#specification)branding [](beat-the-buzzer.html#specification)available [](beat-the-buzzer.html#specification)Printed[,](beat-the-buzzer.html#specification) applied & removed after each event
 
-(One [](beat-the-buzzer/#specification)time [](beat-the-buzzer/#specification)use [](beat-the-buzzer/#specification)only)
+(One [](beat-the-buzzer.html#specification)time [](beat-the-buzzer.html#specification)use [](beat-the-buzzer.html#specification)only)
 
-\*Delivery [](beat-the-buzzer/#specification)Charges & Minimum order value may apply
+\*Delivery [](beat-the-buzzer.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](beat-the-buzzer/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](beat-the-buzzer.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -102,10 +102,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/30/leader-board/)
+*   [Lights Out](/lights-out-game/)
+*   [Gold Cup Horse racing](/29/gold-cup-horse-racing/)
+*   [Crack the Code](/../../crack-the-code-safe-cracker/)
 
 ## Beat The Buzzer
 

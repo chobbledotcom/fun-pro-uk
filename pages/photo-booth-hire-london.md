@@ -28,6 +28,6 @@ To hire your photo booth for an event in London and the surrounding areas then y
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -52,11 +52,11 @@ Whether you're looking to boost team morale at a corporate event or add a fun ac
 
 **£995**\+ vat**
 
-Delivered [](/../photo-booths/ultimate-green-screen-photo-booth/#specification)and [](/../photo-booths/ultimate-green-screen-photo-booth/#specification)installed on site by our trained team
+Delivered [](/../photo-booths/ultimate-green-screen-photo-booth.html#specification)and [](/../photo-booths/ultimate-green-screen-photo-booth.html#specification)installed on site by our trained team
 
-\*Delivery [](/../photo-booths/ultimate-green-screen-photo-booth/#specification)Charges & Minimum order value may apply
+\*Delivery [](/../photo-booths/ultimate-green-screen-photo-booth.html#specification)Charges & Minimum order value may apply
 
-[**Email:**](/../photo-booths/ultimate-green-screen-photo-booth/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/../photo-booths/ultimate-green-screen-photo-booth.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -96,9 +96,9 @@ Lift required
 
 **Popular items to order along side our Electronic Basket Ball are**
 
-*   [Retro arcade machine](/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Twin race car simulators](/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
+*   [Retro arcade machine](/retro-arcade-games/)
+*   [Twin race car simulators](/twin-racing-car-simulators/)
+*   [Dance Machine](/../exhibition-games/dance-machine/)
 *   Lights Out
 
 ## **Basketball Game Hire**
@@ -165,7 +165,7 @@ West midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamingt
 
 ## **Basketball Arcade Game For Exhibitions**
 
-The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/twin-racing-car-simulators.html "Racing Car Simulators") or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/category/fun-days/21/inflatable-assault-courses.html "INFLATABLE ASSAULT COURSES") to add to the excitement.
+The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/twin-racing-car-simulators/) or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/category/fun-days/21/inflatable-assault-courses/) to add to the excitement.
 
 ## **Rise to the challenge**
 

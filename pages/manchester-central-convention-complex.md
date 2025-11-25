@@ -7,7 +7,7 @@ layout: page
 
 # Manchester Central Convention Complex
 
-If you are hosting an Event, Conference or Trade Show our **[Interactive Game Hire](/category/exhibition-games/#BodyContent)** at **Manchester G-Mex** Complex will ensure to increase footfall and marketing potential to your clients.
+If you are hosting an Event, Conference or Trade Show our **[Interactive Game Hire](/category/exhibition-games.html#BodyContent)** at **Manchester G-Mex** Complex will ensure to increase footfall and marketing potential to your clients.
 
 Our **Exhibition Stand games** are able to be hired for one day or multiple days depending on your requirements. As we are based on the outskirts of The Midlands we are conveniently placed to deliver directly to your chosen Manchester venue.
 
@@ -17,7 +17,7 @@ The delivery team will arrive at a time to suite you and set up your chosen Trad
 
 ## **Game Hire**
 
-Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central. Whether you are searching for a [Cash Grabber - Grab a grand/ Ball Nado game](/category/grab-a-grand/36/ballnado-grabber/#BodyContent) as seen on the Crystal Maze television show. Or maybe you are thinking of increasing your footfall by hiring one of our Giant Buzz Wire games, our games are heaps of fun and guarantee to engage the crowd who will be well and truly flocking to your stand.
+Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central. Whether you are searching for a [Cash Grabber - Grab a grand/ Ball Nado game](/category/grab-a-grand/36/ballnado-grabber.html#BodyContent) as seen on the Crystal Maze television show. Or maybe you are thinking of increasing your footfall by hiring one of our Giant Buzz Wire games, our games are heaps of fun and guarantee to engage the crowd who will be well and truly flocking to your stand.
 
 ![Giant Buzz wire](/userfiles/file/FunPro/Buzz%20wire/1.png)
 
@@ -31,6 +31,6 @@ Here are some events that are coming up at the **Manchester** G-Mex: [Click here
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

@@ -32,13 +32,13 @@ Adding a photo booth to your corporate event is a sound investment, because not 
 
 Delivered and installed on site by our trained team
 
-In[\-](classic-photo-booths/#specification)house branding available Printed[,](classic-photo-booths/#specification) applied & removed after each event
+In[\-](classic-photo-booths.html#specification)house branding available Printed[,](classic-photo-booths.html#specification) applied & removed after each event
 
 (One time use only)
 
 \*Delivery Charges & Minimum order value may apply
 
-[**Email:**](classic-photo-booths/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](classic-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -90,7 +90,7 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Fun Pro UK offer classic photo booths for hire, with a choice of print styles, including the old school photo strip, one large and three small to share with friends and family, or a large 6x4 portrait. We can even brand every picture with your logo and slogan, or details of your event, so everyone goes home with your message as part of their pictures.
 
-As well as branding your pictures, we can [brand the booth](/../branded-exhibition-games/24/bespoke-photo-booth-hire.html "Bespoke Photo Booth Hire") itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/christmas-photo-booths.html "CHRISTMAS PHOTO BOOTHS") to match your event and venue
+As well as branding your pictures, we can [brand the booth](/../branded-exhibition-games/24/bespoke-photo-booth-hire/) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/christmas-photo-booths/) to match your event and venue
 
 ## ![](/../../userfiles/classic-photo-booth.jpg)
 
@@ -108,12 +108,12 @@ Most importantly, your photo booth hire comes complete with a polite, profession
 
 ## The event essential
 
-Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS") for even more fun features.
+Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/green-screen-photo-booths/) for even more fun features.
 
 We offer reputable, reliable delivery right across the UK, so wherever your next event is, book your photo booth today.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

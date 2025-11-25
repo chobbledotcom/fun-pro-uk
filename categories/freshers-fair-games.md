@@ -50,11 +50,11 @@ Outdoor events give you more flexibility with larger, more physically active ent
 
 ### Inflatable Challenges
 
-Activities like [obstacle courses](fun-days/21/inflatable-assault-courses/#BodyContent) or [gladiator duels](fun-days/22/gladiator-duel/) encourage teamwork and create memorable shared experiences. Students often form impromptu teams with people they've just met, which naturally builds friendships. These games also work well for different fitness levels – it's about fun and participation rather than athletic ability.
+Activities like [obstacle courses](fun-days/21/inflatable-assault-courses.html#BodyContent) or [gladiator duels](fun-days/22/gladiator-duel/) encourage teamwork and create memorable shared experiences. Students often form impromptu teams with people they've just met, which naturally builds friendships. These games also work well for different fitness levels – it's about fun and participation rather than athletic ability.
 
 ### Human Table Football
 
-[Human football](fun-days/human-table-football/#BodyContent) is always popular because it requires cooperation and communication between players. It's particularly good for breaking down social barriers because students need to work together regardless of whether they knew each other beforehand.
+[Human football](fun-days/human-table-football.html#BodyContent) is always popular because it requires cooperation and communication between players. It's particularly good for breaking down social barriers because students need to work together regardless of whether they knew each other beforehand.
 
 ### Giant Garden Games
 
@@ -156,6 +156,6 @@ Start promoting specific games and activities rather than just announcing "enter
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

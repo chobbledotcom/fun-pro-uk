@@ -16,31 +16,31 @@ There is nothing better than the smell of a sizzling BBQ, the taste of a hog roa
 
 Whether you are seeking hot dogs and burgers, hog roasts, delicious fresh pizzas or an ice cream van for your event, then let us know and we can supply tasty offerings which will happily fill all those hungry tummies at your do! Click on the photos below for more information.
 
-[BBQ](fun-foods/71/bbq.html "BBQ - Sub- Contactors Only")
+[BBQ](fun-foods/71/bbq/)
 
 [More Details](fun-foods/71/bbq/)
 
-[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire/)
 
 [More Details](fun-foods/92/candy-floss-cart-hire/)
 
-[Ice Cream van Hire](fun-foods/73/ice-cream-van-hire.html "Ice Cream van Hire - Sub- Contactors Only")
+[Ice Cream van Hire](fun-foods/73/ice-cream-van-hire/)
 
 [More Details](fun-foods/73/ice-cream-van-hire/)
 
-[PAELLA](fun-foods/72/paella.html "PAELLA - Sub- Contactors Only")
+[PAELLA](fun-foods/72/paella/)
 
 [More Details](fun-foods/72/paella/)
 
-[Pig Roast](fun-foods/69/pig-roast.html "Pig Roast - Sub- Contactors Only")
+[Pig Roast](fun-foods/69/pig-roast/)
 
 [More Details](fun-foods/69/pig-roast/)
 
-[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire/)
 
 [More Details](exhibition-games/42/pix-n-mix-hire/)
 
-[Pizza](fun-foods/70/pizza.html "Pizza - Sub- Contactors Only")
+[Pizza](fun-foods/70/pizza/)
 
 [More Details](fun-foods/70/pizza/)
 
@@ -95,6 +95,6 @@ To find Out more Contact Fun Pro UK by Emailing [info@funprouk.co.uk](mailto:inf
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

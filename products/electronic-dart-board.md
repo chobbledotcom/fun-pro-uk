@@ -83,7 +83,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](electronic-dart-board/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](electronic-dart-board.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## Electronic vs Traditional Dartboards
 
@@ -175,6 +175,6 @@ We provide [nationwide coverage](/pages/delivery-areas/) from our Coventry base,
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side

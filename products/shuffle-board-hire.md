@@ -164,16 +164,16 @@ Lift required
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Batak Pro](/products/batak43/batak-pro/#BodyContent)
-*   [Dance Machine](/../exhibition-games/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Batak Pro](/products/batak43/batak-pro.html#BodyContent)
+*   [Dance Machine](/../exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game/)
 
 **Skirt Branding**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
 
 **£295**\+ vat**

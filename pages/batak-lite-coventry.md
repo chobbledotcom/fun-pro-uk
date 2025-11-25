@@ -69,7 +69,7 @@ Please contact us to find out more
 
 **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
-**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](contact-fun-pro-uk/#BodyContent)**
+**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](contact-fun-pro-uk.html#BodyContent)**
 
 **Equipment size**
 
@@ -165,14 +165,14 @@ If you’re looking to expand the activity options you have at your event, we of
 
 Popular items:
 
-*   [Retro arcade machine](/category/interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Batak Pro](/category/batak/batak-pro/#BodyContent)
-*   [Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](/category/interactive-game-hire/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](/category/interactive-game-hire/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/category/interactive-game-hire/retro-arcade-games/)
+*   [Batak Pro](/category/batak/batak-pro.html#BodyContent)
+*   [Dance Machine](/category/exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/category/interactive-game-hire/electronic-basket-ball-hire/)
+*   [Lights Out](/category/interactive-game-hire/lights-out-game/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials/#BodyContent)
+[Load More Reviews](testimonials.html#BodyContent)
 
 Happy customers we have worked along side

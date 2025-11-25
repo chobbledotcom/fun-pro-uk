@@ -45,7 +45,7 @@ Need to extend your hire period? Simply let us know, and we’ll do our best to 
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](/all-products/98/twin-axe-throwing/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/98/twin-axe-throwing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -137,6 +137,6 @@ Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact F
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials/#BodyContent)
+[Load More Reviews](/pages/testimonials.html#BodyContent)
 
 Happy customers we have worked along side
