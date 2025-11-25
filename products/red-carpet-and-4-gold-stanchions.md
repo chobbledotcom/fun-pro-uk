@@ -8,7 +8,7 @@ permalink: "/products/red-carpet-and-4-gold-stanchions/"
 categories: []
 features: []
 gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=red-carpet-and-4-gold-stanchions.jpg&cs=1200"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2e6a583cceb091b9dfbf4cd2133f3d1"
 ---
 
 # RED CARPET & 4 GOLD STANCHIONS

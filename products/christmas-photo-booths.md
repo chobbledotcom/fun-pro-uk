@@ -8,9 +8,9 @@ permalink: "/products/christmas-photo-booths/"
 categories: []
 features: []
 gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-christmas-photo-booth-styles-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-and-video-booths.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-photo-booth-styles-1.jpg&cs=1200"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9c30c9c167d629d2d54266052239a67"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d50c886298f4ec06f0531c8726285a9"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
 ---
 
 # CHRISTMAS PHOTO BOOTHS

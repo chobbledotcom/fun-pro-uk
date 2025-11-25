@@ -8,9 +8,9 @@ permalink: "/products/ice-cream-van-hire/"
 categories: []
 features: []
 gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-2.jpg&cs=1200"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8bb413d86591341d61699ae1fe7d5e02"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86c68a33d98c009c669327dd8f6ecaf7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90b4b5513e5607d3ffbd949904c3bb60"
 ---
 
 # Ice Cream van Hire
