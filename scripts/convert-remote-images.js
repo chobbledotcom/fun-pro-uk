@@ -69,22 +69,18 @@ const downloadFile = (url, filepath) => {
  * Generate a local filename from a URL
  */
 const generateFilename = (url, contentType, slug) => {
-  try {
-    const urlObj = new URL(url);
-    const pathParts = urlObj.pathname.split('/');
-    const originalName = pathParts[pathParts.length - 1];
-    
-    // If it has a reasonable filename, use it
-    if (originalName && /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(originalName)) {
-      return originalName;
-    }
-    
-    // Generate one based on slug
-    const extension = originalName.split('.').pop() || 'jpg';
-    return `${slug}-${Date.now()}.${extension}`;
-  } catch (e) {
-    return `${slug}-${Date.now()}.jpg`;
+  const urlObj = new URL(url);
+  const pathParts = urlObj.pathname.split('/');
+  const originalName = pathParts[pathParts.length - 1];
+  
+  // If it has a reasonable filename, use it
+  if (originalName && /\.(jpg|jpeg|png|gif|webp|svg)$/i.test(originalName)) {
+    return originalName;
   }
+  
+  // Generate one based on slug
+  const extension = originalName.split('.').pop() || 'jpg';
+  return `${slug}-${Date.now()}.${extension}`;
 };
 
 /**
@@ -170,22 +166,17 @@ const processFile = async (filePath, contentType, dryRun) => {
       continue;
     }
     
-    try {
-      await downloadFile(image.url, localPath);
-      process.stdout.write('+');
-      downloaded++;
-      
-      // Update content with local path
-      if (image.field) {
-        updatedContent = updatedContent.replace(image.fullMatch, `${image.field}: "${webPath}"`);
-      } else if (image.gallery) {
-        updatedContent = updatedContent.replace(image.url, webPath);
-      } else {
-        updatedContent = updatedContent.replace(image.fullMatch, `![${image.alt}](${webPath})`);
-      }
-    } catch (error) {
-      process.stdout.write('x');
-      failed++;
+    await downloadFile(image.url, localPath);
+    process.stdout.write('+');
+    downloaded++;
+    
+    // Update content with local path
+    if (image.field) {
+      updatedContent = updatedContent.replace(image.fullMatch, `${image.field}: "${webPath}"`);
+    } else if (image.gallery) {
+      updatedContent = updatedContent.replace(image.url, webPath);
+    } else {
+      updatedContent = updatedContent.replace(image.fullMatch, `![${image.alt}](${webPath})`);
     }
   }
   

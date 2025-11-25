@@ -20,16 +20,7 @@ const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
  * @throws {Error} If wget is not found
  */
 const checkWget = () => {
-  try {
-    execSync('wget --version', { stdio: 'ignore' });
-  } catch (error) {
-    console.error('\n ERROR: wget is not installed!');
-    console.error('   Please install wget before running the importer:');
-    console.error('   - Ubuntu/Debian: sudo apt-get install wget');
-    console.error('   - macOS: brew install wget');
-    console.error('   - Windows: https://www.gnu.org/software/wget/\n');
-    process.exit(1);
-  }
+  execSync('wget --version', { stdio: 'ignore' });
 };
 
 /**
@@ -139,15 +130,11 @@ const downloadFromSitemap = async (baseUrl, outputPath) => {
   for (const sitemapPath of sitemapPaths) {
     const tryUrl = baseUrl.replace(/\/$/, '') + sitemapPath;
     console.log(`Trying sitemap at: ${tryUrl}`);
-    try {
-      sitemapContent = await fetchUrl(tryUrl);
-      if (sitemapContent && sitemapContent.includes('<urlset')) {
-        sitemapUrl = tryUrl;
-        console.log(`Found sitemap at: ${sitemapUrl}`);
-        break;
-      }
-    } catch (error) {
-      console.log(`  Not found or error: ${error.message}`);
+    sitemapContent = await fetchUrl(tryUrl);
+    if (sitemapContent && sitemapContent.includes('<urlset')) {
+      sitemapUrl = tryUrl;
+      console.log(`Found sitemap at: ${sitemapUrl}`);
+      break;
     }
   }
 
@@ -238,40 +225,35 @@ const downloadSiteRecursive = (url, outputPath) => {
   // Create output directory
   fs.mkdirSync(outputPath, { recursive: true });
 
-  try {
-    // wget options:
-    // -r: recursive
-    // -l 10: max recursion depth of 10
-    // -k: convert links for local viewing
-    // -p: download all page requisites (images, css, js)
-    // -E: adjust extension (save .html)
-    // -np: don't ascend to parent directory
-    // --restrict-file-names=windows: sanitize filenames
-    // -P: output directory
-    // -U: user agent
-    const wgetCommand = `wget -r -l 10 -k -p -E -np --restrict-file-names=windows -U "${USER_AGENT}" -P "${outputPath}" "${url}"`;
+  // wget options:
+  // -r: recursive
+  // -l 10: max recursion depth of 10
+  // -k: convert links for local viewing
+  // -p: download all page requisites (images, css, js)
+  // -E: adjust extension (save .html)
+  // -np: don't ascend to parent directory
+  // --restrict-file-names=windows: sanitize filenames
+  // -P: output directory
+  // -U: user agent
+  const wgetCommand = `wget -r -l 10 -k -p -E -np --restrict-file-names=windows -U "${USER_AGENT}" -P "${outputPath}" "${url}"`;
 
-    console.log('Running wget (this may take a few minutes)...');
-    execSync(wgetCommand, {
-      stdio: 'inherit',
-      cwd: process.cwd()
-    });
+  console.log('Running wget (this may take a few minutes)...');
+  execSync(wgetCommand, {
+    stdio: 'inherit',
+    cwd: process.cwd()
+  });
 
-    console.log('\n Site downloaded successfully\n');
+  console.log('\n Site downloaded successfully\n');
 
-    // Find the domain directory created by wget
-    const files = fs.readdirSync(outputPath);
-    if (files.length > 0) {
-      const domainDir = path.join(outputPath, files[0]);
-      console.log(`Site saved to: ${domainDir}\n`);
-      return domainDir;
-    }
-
-    return outputPath;
-  } catch (error) {
-    console.error('\n Error downloading site:', error.message);
-    throw error;
+  // Find the domain directory created by wget
+  const files = fs.readdirSync(outputPath);
+  if (files.length > 0) {
+    const domainDir = path.join(outputPath, files[0]);
+    console.log(`Site saved to: ${domainDir}\n`);
+    return domainDir;
   }
+
+  return outputPath;
 };
 
 /**

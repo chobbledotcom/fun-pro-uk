@@ -185,32 +185,27 @@ const convertReviews = async () => {
     return { successful: 0, failed: 1, total: 1 };
   }
   
-  try {
-    const htmlContent = readHtmlFile(inputPath);
-    const reviews = extractReviews(htmlContent);
-    
-    console.log(`  Found ${reviews.length} reviews with content`);
-    
-    let saved = 0;
-    let skipped = 0;
-    
-    for (const review of reviews) {
-      const result = saveReview(review, outputDir);
-      if (result.saved) {
-        saved++;
-        console.log(`  ✓ ${result.filename}`);
-      } else if (result.skipped) {
-        skipped++;
-      }
+  const htmlContent = readHtmlFile(inputPath);
+  const reviews = extractReviews(htmlContent);
+  
+  console.log(`  Found ${reviews.length} reviews with content`);
+  
+  let saved = 0;
+  let skipped = 0;
+  
+  for (const review of reviews) {
+    const result = saveReview(review, outputDir);
+    if (result.saved) {
+      saved++;
+      console.log(`  ✓ ${result.filename}`);
+    } else if (result.skipped) {
+      skipped++;
     }
-    
-    console.log(`\n  Saved ${saved} new reviews (${skipped} already existed)`);
-    
-    return { successful: saved + skipped, failed: 0, total: reviews.length };
-  } catch (error) {
-    console.error('  Error converting reviews:', error.message);
-    return { successful: 0, failed: 1, total: 1 };
   }
+  
+  console.log(`\n  Saved ${saved} new reviews (${skipped} already existed)`);
+  
+  return { successful: saved + skipped, failed: 0, total: reviews.length };
 };
 
 module.exports = {

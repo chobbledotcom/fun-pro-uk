@@ -28,17 +28,12 @@ const convertReviewsIndex = async () => {
   const outputDir = path.join(config.OUTPUT_BASE, 'pages');
   ensureDir(outputDir);
 
-  try {
-    const success = await convertSingle(
-      'testimonials.html',
-      path.join(config.OLD_SITE_PATH, 'pages'),
-      outputDir
-    );
-    return { successful: success ? 1 : 0, failed: success ? 0 : 1, total: 1 };
-  } catch (error) {
-    console.error('  Error converting reviews page:', error.message);
-    return { successful: 0, failed: 1, total: 1 };
-  }
+  const success = await convertSingle(
+    'testimonials.html',
+    path.join(config.OLD_SITE_PATH, 'pages'),
+    outputDir
+  );
+  return { successful: success ? 1 : 0, failed: success ? 0 : 1, total: 1 };
 };
 
 module.exports = {
