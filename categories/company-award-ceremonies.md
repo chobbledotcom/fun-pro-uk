@@ -2,7 +2,7 @@
 title: "Award Ceremonies Game Hire | Fun Pro UK"
 meta_title: "Award Ceremonies Game Hire | Fun Pro UK"
 meta_description: "We have all the experience, expertise, and equipment you need for any kind of company awards night hire. Trust us to make your award ceremonies memorable."
-permalink: "/categories/company-award-ceremonies/"
+permalink: "/category/company-award-ceremonies/"
 featured: false
 ---
 
@@ -15,6 +15,6 @@ Your annual awards presentation is a very special night for all concerned, wheth
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

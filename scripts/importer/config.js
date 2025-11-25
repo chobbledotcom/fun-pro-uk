@@ -15,7 +15,8 @@ const config = {
     news: 'news', // Output directory for blog posts
     products: 'products', // Output directory for products
     productsSource: '', // Fun Pro UK: product HTML files are in the root of old_site
-    categories: 'category',
+    categories: 'categories', // Output directory for categories
+    categoriesSource: 'category', // Source directory in old site (singular)
     blog: 'blog', // Source directory in old site
     favicon: 'assets/favicon'
   }

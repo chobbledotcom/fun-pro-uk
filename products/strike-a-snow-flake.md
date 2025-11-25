@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
-permalink: "/products/strike-a-snow-flake/"
+permalink: "/strike-a-snow-flake/"
 categories: []
 features: []
 gallery:

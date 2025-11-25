@@ -32,8 +32,8 @@ const convertCategories = async () => {
   console.log('Converting categories...');
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.categories);
-  const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categories);
-  const files = listHtmlFiles(categoriesDir);
+  const categoriesSourceDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
+  const files = listHtmlFiles(categoriesSourceDir);
 
   // Categories directory only contains imported categories, safe to clean all
   prepDir(outputDir);
@@ -48,7 +48,7 @@ const convertCategories = async () => {
 
   // Pass navigation context to converters
   const context = { navigation };
-  return await convertBatch(files, categoriesDir, outputDir, context);
+  return await convertBatch(files, categoriesSourceDir, outputDir, context);
 };
 
 const convertCategory = (file, inputDir, outputDir) =>

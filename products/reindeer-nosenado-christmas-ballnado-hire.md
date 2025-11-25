@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"
 meta_description: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/products/reindeer-nosenado-christmas-ballnado-hire/"
+permalink: "/reindeer-nosenado-christmas-ballnado-hire/"
 categories: []
 features: []
 gallery:

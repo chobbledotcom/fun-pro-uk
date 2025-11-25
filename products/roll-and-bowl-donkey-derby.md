@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Roll & Bowl Donkey Derby Hire | Exhibition Games | UK"
 meta_description: "The Roll and Bowl donkey derby game is great fun for exhibitions, trade shows, arcade events and much more. Hire amazing entertainment with Fun Pro UK!"
-permalink: "/products/roll-and-bowl-donkey-derby/"
+permalink: "/roll-and-bowl-donkey-derby/"
 categories: []
 features: []
 gallery:

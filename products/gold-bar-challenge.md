@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Gold bar challenge"
 meta_description: "The Gold Bar Challenge – an exciting interactive game for corporate events &amp; exhibitions. Reach in, grab the gold, and beat the challenge!"
-permalink: "/products/gold-bar-challenge/"
+permalink: "/gold-bar-challenge/"
 categories: []
 features: []
 gallery:

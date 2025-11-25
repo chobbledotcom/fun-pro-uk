@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Spin the wheel Hire, Prize Wheel of Fortune Game Hire, UK"
 meta_description: "Hire Our Spin The Wheel Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/prize-wheel/"
+permalink: "/prize-wheel/"
 categories: []
 features: []
 gallery:

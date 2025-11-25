@@ -4,7 +4,7 @@ price: ""
 order: 2
 meta_title: "Batak Pro Game Hire | Corporate Engagement | Interactive Game"
 meta_description: "Hire Batak Pro for Corporate events, conferences &amp; parties. Engage guests with this high-energy reaction game. Book now for a fun, competitive experience!"
-permalink: "/products/batak-pro/"
+permalink: "/batak-pro/"
 categories: []
 features: []
 gallery:

@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"
 meta_description: "Hire Catch It Reaction games for corporate events &amp; exhibitions. Nationwide delivery, custom branding, professional setup. Get your quote today."
-permalink: "/products/catch-it-reaction-ring-hire/"
+permalink: "/catch-it-reaction-ring-hire/"
 categories: []
 features: []
 gallery:

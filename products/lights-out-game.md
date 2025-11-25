@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
-permalink: "/products/lights-out-game/"
+permalink: "/lights-out-game/"
 categories: []
 features: []
 gallery:

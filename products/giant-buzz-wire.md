@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent"
 meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/giant-buzz-wire/"
+permalink: "/giant-buzz-wire/"
 categories: []
 features: []
 gallery:

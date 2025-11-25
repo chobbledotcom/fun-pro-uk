@@ -2,7 +2,7 @@
 title: "Branded Game Hire | Corporate Events | Exhibition | Promotional"
 meta_title: "Branded Game Hire | Corporate Events | Exhibition | Promotional"
 meta_description: "We have a wonderful selection of branded games to hire for all kinds of corporate events. Brand activations, exhibitions, trade shows &amp; much more. UK-wide."
-permalink: "/categories/branded-exhibition-games/"
+permalink: "/category/branded-exhibition-games/"
 featured: false
 ---
 
@@ -12,14 +12,14 @@ Looking for branded games to showcase your company at large events? Fun Pro UK i
 
 We deliver branded exhibition entertainment to all kinds of occasions. Trade shows, conferences, job fairs, product launches, brand activations and more; whatever you're appearing at, we're ready to help.
 
-Our range of corporate event equipment for hire is endless. Just some of our most popular [interactive games](../interactive-game-hire.html "Interactive Game Hire ") with branding options include:
+Our range of corporate event equipment for hire is endless. Just some of our most popular [interactive games](/interactive-game-hire.html "Interactive Game Hire ") with branding options include:
 
-*   [Batak Pro](batak/43/batak-pro.html "Batak Pro"): This high-octane game sees participants lunging towards the buttons as they light up. Originally designed to train sports stars and athletes, the Batak game has become a staple of exhibitions and trade shows in the UK. People relish the opportunity for some energetic entertainment at these events!
+*   [Batak Pro](batak/batak-pro.html "Batak Pro"): This high-octane game sees participants lunging towards the buttons as they light up. Originally designed to train sports stars and athletes, the Batak game has become a staple of exhibitions and trade shows in the UK. People relish the opportunity for some energetic entertainment at these events!
 *   [Pick and Mix Sweet Stands](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire"): Who can walk past a Pick n' Mix and not feel at least a pang of temptation? Guests will fill up a bag with their favourite sweets and associate your brand with the good feeling you only receive when eating tasty treats.
 *   [Ballnado Grabber](grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber") and [Cash Grabber](interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE"): These are frequently seen at contests, competitions and giveaways. They're reminiscent of the final stage of the Crystal Maze - contestants stand in the Grab a Grand cube and try to snatch as many snowballs or pieces of paper as they can. Collect a certain number or beat the competition to win a prize.
-*   [Prize Crane](../prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber"): Also known as the Claw Machine, the Prize Crane is a classic [arcade game](arcade-games/2/lights-out-game.html "Arcade Games "). Use the joystick to manoeuvre the claw around, press the button to collect when you're ready, and successfully transport a toy to the prize zone to win it immediately.
+*   [Prize Crane](/prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber"): Also known as the Claw Machine, the Prize Crane is a classic [arcade game](arcade-games/lights-out-game.html "Arcade Games "). Use the joystick to manoeuvre the claw around, press the button to collect when you're ready, and successfully transport a toy to the prize zone to win it immediately.
 *   [High Striker](arcade-games/48/high-striker.html "High Striker"): Also known as the Strongman or Test Your Strength machine, the High Striker is a traditional fairground game that everyone can participate in. Simply whack the mallet with the hammer as hard as you can, and ring the bell to win a prize!
-*   [Safe Cracker](../crack-the-code-safe-cracker.html "Crack The Code safe cracker"): This is a very tempting game that is sure to get plenty of participants. Choose a four-digit code to attempt to unlock the safe. Put a high-value prize in there and charge people for entry - it's a gamble for you, too, as someone could potentially win it in one!
+*   [Safe Cracker](/crack-the-code-safe-cracker.html "Crack The Code safe cracker"): This is a very tempting game that is sure to get plenty of participants. Choose a four-digit code to attempt to unlock the safe. Put a high-value prize in there and charge people for entry - it's a gamble for you, too, as someone could potentially win it in one!
 
 All this and much more can be provided for events across the UK, and can be branded with your logo, motto, colours and images through our in-house branding service. Just tell us about your requirements and let us deal with the rest.
 
@@ -55,10 +55,10 @@ Branded games aren't just for corporate events, either! You could print off acad
 
 *Fun Pro UK are the UK event and party hire experts. With everything from [photo booths](photo-booths-and-magic-mirrors.html "Photo Booths & Magic Mirrors ") to [air hockey tables](arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire"), we have a range of products suited for almost all purposes. Choose us for your next corporate event and you can be confident you're with a specialist team with an exceptional reputation.*
 
-You can make a booking by email and letting us know about your branding requirements, or speak with us directly to discuss further. Call us on [02477220701](tel:02477220701), or visit our [contact page](../pages/contact-fun-pro-uk.html "Contact Fun Pro UK") to see some other ways to get in touch.
+You can make a booking by email and letting us know about your branding requirements, or speak with us directly to discuss further. Call us on [02477220701](tel:02477220701), or visit our [contact page](/pages/contact-fun-pro-uk.html "Contact Fun Pro UK") to see some other ways to get in touch.
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

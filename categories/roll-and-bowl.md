@@ -2,7 +2,7 @@
 title: "Roll & Bowl Hire | Arcade Bowling Derby Horse Race Game | UK"
 meta_title: "Roll & Bowl Hire | Arcade Bowling Derby Horse Race Game | UK"
 meta_description: "Roll and Bowl sees participants attempting to propel their horse forward by bowling balls into scored holes. Hire this competitive arcade classic today!"
-permalink: "/categories/roll-and-bowl/"
+permalink: "/category/roll-and-bowl/"
 featured: false
 eleventyNavigation:
   key: "Roll & Bowl"
@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # Roll & Bowl Arcade Game Hire
 
-Blend skill, fun, and competition with our amazing collection of Roll and Bowl Games for hire! Perfect for those who love the nostalgia of [arcade games](arcade-games/2/lights-out-game.html "Arcade Games ") and the engagement of [Interactive games](../interactive-game-hire.html "Interactive Game Hire "), these horse racing experiences offers a unique twist on traditional bowling games.
+Blend skill, fun, and competition with our amazing collection of Roll and Bowl Games for hire! Perfect for those who love the nostalgia of [arcade games](arcade-games/lights-out-game.html "Arcade Games ") and the engagement of [Interactive games](/interactive-game-hire.html "Interactive Game Hire "), these horse racing experiences offers a unique twist on traditional bowling games.
 
 *   [Roll and Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby"): Experience the thrill of the race with our Donkey Derby. Players roll balls into holes to propel their chosen donkey forward, racing against opponents in a lively contest of speed and precision.
     
@@ -22,19 +22,19 @@ Blend skill, fun, and competition with our amazing collection of Roll and Bowl G
 
 [8 Lane Roll & Bowl Donkey Derby](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
 
-[More Details](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html)
+[More Details](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
 [Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
 
-[More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
+[More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
 [Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
 
-[More Details](all-products/51/roll-and-bowl-game-hire.html)
+[More Details](all-products/51/roll-and-bowl-game-hire/)
 
 [Roll And Bowl Reindeer Racing Game Hire](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire.html "Roll And Bowl Reindeer Racing Game Hire - Link Products")
 
-[More Details](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire.html)
+[More Details](christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/)
 
 ## Hire Roll & Bowl Arcade Games Manchester, London, Birmingham & Beyond
 
@@ -46,12 +46,12 @@ Enhance your next event with a touch of competitive fun that’s sure to engage 
 
 As is always the case, all items are available to hire in London, Manchester, Leeds, Glasgow, Birmingham, Newcastle, Cardiff and nationwide. Just let us know where you need us!
 
-Ready to roll? [Contact us today](../pages/contact-fun-pro-uk.html "Contact Fun Pro UK") to discover how our Roll and Bowl Games can make your next event a resounding success. Let the good times roll with Fun Pro UK!
+Ready to roll? [Contact us today](/pages/contact-fun-pro-uk.html "Contact Fun Pro UK") to discover how our Roll and Bowl Games can make your next event a resounding success. Let the good times roll with Fun Pro UK!
 
 Call [0247 7220 701](tel:02477220701) to speak with us directly.
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

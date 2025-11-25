@@ -2,7 +2,7 @@
 title: "Hire Corporate Wellbeing Activities | Corporate Wellbeing Days"
 meta_title: "Hire Corporate Wellbeing Activities | Corporate Wellbeing Days"
 meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
-permalink: "/categories/staff-wellbeing-days/"
+permalink: "/category/staff-wellbeing-days/"
 featured: false
 ---
 
@@ -50,6 +50,6 @@ To learn more about how Fun Pro UK can help you plan and execute an unforgettabl
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

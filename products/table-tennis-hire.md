@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Best Table Tennis Hire in the UK | Fun Pro UK"
 meta_description: "Table tennis hire for events in Birmingham, London, Manchester, and beyond. Fun Pro UK offers delivery across the UK for your next event. Contact us today!"
-permalink: "/products/table-tennis-hire/"
+permalink: "/table-tennis-hire/"
 categories: []
 features: []
 gallery:

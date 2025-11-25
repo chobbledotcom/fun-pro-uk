@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
-permalink: "/products/air-hockey-table-hire/"
+permalink: "/air-hockey-table-hire/"
 categories: []
 features: []
 gallery:

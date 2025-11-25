@@ -4,7 +4,7 @@ price: ""
 order: 5
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/cash-grabber-machine-hire/"
+permalink: "/cash-grabber-machine-hire/"
 categories: []
 features: []
 gallery:

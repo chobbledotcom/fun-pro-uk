@@ -4,7 +4,7 @@ price: ""
 order: 50
 meta_title: "Hire Basketball Arcade Game, Rent Electronic Basketball Game"
 meta_description: "Hire Basketball Arcade Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/products/electronic-basket-ball-hire/"
+permalink: "/electronic-basket-ball-hire/"
 categories: []
 features: []
 gallery:
