@@ -3,6 +3,9 @@ meta_title: "Contact Us | Fun Pro UK | Speak With Our Experts"
 meta_description: "Get in touch with the team at Fun Pro UK to discuss how we can help you host the best corporate event, whether it&#39;s a product launch, a promo or a party!"
 permalink: "/pages/contact-fun-pro-uk/"
 layout: page
+eleventyNavigation:
+  key: "Contact Fun Pro UK"
+  order: 6
 ---
 
 # Contact Us
