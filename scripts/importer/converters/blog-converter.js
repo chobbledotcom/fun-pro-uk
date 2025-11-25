@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractBlogDate, extractBlogHeading, extractBlogImage } = require('../utils/metadata-extractor');
+const { extractBlogDate, extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -10,7 +10,7 @@ const { convertSingle, convertBatch } = createConverter({
   contentType: 'blog',
   extractors: {
     date: (htmlContent, markdown) => extractBlogDate(markdown, config.DEFAULT_DATE),
-    blogHeading: (htmlContent) => extractBlogHeading(htmlContent),
+    blogHeading: (htmlContent) => extractContentHeading(htmlContent),
     blogImage: (htmlContent, markdown) => extractBlogImage(markdown)
   },
   beforeWrite: async (content, extracted, slug) => {
