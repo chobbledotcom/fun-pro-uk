@@ -48,12 +48,15 @@ const generateImageFilename = (url, contentType, slug) => {
   try {
     const urlObj = new URL(url);
     const pathParts = urlObj.pathname.split('/');
-    const cloudinaryId = pathParts[pathParts.length - 1].split('.')[0];
-    const extension = pathParts[pathParts.length - 1].split('.').pop() || 'webp';
-    return `${contentType}-${slug}-${cloudinaryId}.${extension}`;
+    const lastPart = pathParts[pathParts.length - 1];
+    const cloudinaryId = lastPart.split('.')[0];
+    // Use first 5 chars of cloudinary ID for uniqueness
+    const shortId = cloudinaryId.slice(0, 5);
+    const extension = lastPart.includes('.') ? lastPart.split('.').pop() : 'webp';
+    return `${slug}-${shortId}.${extension}`;
   } catch (e) {
     // Fallback for invalid URLs
-    return `${contentType}-${slug}-image.webp`;
+    return `${slug}-image.webp`;
   }
 };
 
