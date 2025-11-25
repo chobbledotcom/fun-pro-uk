@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [11 October 18 - Energetic Electronic Basket Ball Hire!](energetic-electronic-basket-ball-hire/)
+# [11 October 18 - Energetic Electronic Basket Ball Hire!](/energetic-electronic-basket-ball-hire/)
 
 Looking for something different to entertain your guests at your upcoming event?
 
@@ -18,7 +18,7 @@ With two hoops you can challenge each other head to head or organise a knockout 
 
 Being a self-contained game, it can be popped-up almost anywhere from the reception area of a conference to the back of an annual awards ceremony. Having side netting and a printed canvas ball catcher, allows all the entertainment to be captured!
 
-[Check out our 5 star reviews on this product!](/category/interactive-game-hire/electronic-basket-ball-hire.html#BodyContent)
+[Check out our 5 star reviews on this product!](/category/interactive-game-hire/electronic-basket-ball-hire/#content)
 
 No matter the event or no matter where it is, Fun Pro UK will do their absolute best to ensure your guests are fully entertained! So give us a call today on 02476 629197.
 
@@ -26,6 +26,6 @@ No matter the event or no matter where it is, Fun Pro UK will do their absolute 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

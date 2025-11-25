@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [31 July 17 - Weekend of 29th July 2017](weekend-of-29th-july-2017/)
+# [31 July 17 - Weekend of 29th July 2017](/weekend-of-29th-july-2017/)
 
 Wow! I can't tell you what a busy weekend we have had here at Perfect Snap. We seem to have been all over the place! On Friday we were at a beautiful wedding with a [green screen photo booth](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) and our spectacular LOVE letters at Ardencote Manor, Warwickshire. This was a gorgeous venue where the guests were really in the mood to party! Our LOVE letters made a fabulous back drop shining brightly in the background. A 'lovely' effect!  
   
@@ -27,6 +27,6 @@ We would like to take this opportunity to say a massive 'Congratulations' to all
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Roll &amp; Bowl Donkey Derby is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/8-lane-roll-and-bowl-donkey-derby/"
-categories: []
+categories: ["categories/roll-and-bowl.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
@@ -23,15 +23,15 @@ gallery:
 
 **£1695**\+ vat**
 
-Delivered [](8-lane-roll-and-bowl-donkey-derby.html#specification)and [](8-lane-roll-and-bowl-donkey-derby.html#specification)installed on site by our trained team
+Delivered [](/8-lane-roll-and-bowl-donkey-derby/)and [](/8-lane-roll-and-bowl-donkey-derby/)installed on site by our trained team
 
-In[\-](8-lane-roll-and-bowl-donkey-derby.html#specification)house [](8-lane-roll-and-bowl-donkey-derby.html#specification)branding [](8-lane-roll-and-bowl-donkey-derby.html#specification)available [](8-lane-roll-and-bowl-donkey-derby.html#specification)Printed[,](8-lane-roll-and-bowl-donkey-derby.html#specification) applied & removed after each event
+In[\-](/8-lane-roll-and-bowl-donkey-derby/)house [](/8-lane-roll-and-bowl-donkey-derby/)branding [](/8-lane-roll-and-bowl-donkey-derby/)available [](/8-lane-roll-and-bowl-donkey-derby/)Printed[,](/8-lane-roll-and-bowl-donkey-derby/) applied & removed after each event
 
-(One [](8-lane-roll-and-bowl-donkey-derby.html#specification)time [](8-lane-roll-and-bowl-donkey-derby.html#specification)use [](8-lane-roll-and-bowl-donkey-derby.html#specification)only)
+(One [](/8-lane-roll-and-bowl-donkey-derby/)time [](/8-lane-roll-and-bowl-donkey-derby/)use [](/8-lane-roll-and-bowl-donkey-derby/)only)
 
-\*Delivery [](8-lane-roll-and-bowl-donkey-derby.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/8-lane-roll-and-bowl-donkey-derby/)Charges & Minimum order value may apply
 
-[**Email:**](8-lane-roll-and-bowl-donkey-derby.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/8-lane-roll-and-bowl-donkey-derby/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -97,6 +97,6 @@ Lift required
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [07 November 18 - Ho Ho Ho it's Christmas!](ho-ho-ho-its-christmas/)
+# [07 November 18 - Ho Ho Ho it's Christmas!](/ho-ho-ho-its-christmas/)
 
 There's nothing like the festive season to boost everyone's spirits and have a reason to get a bit merry. But why not make this year extra special for your clients and employees with one or other of our two fabulously designed [inflatable Christmas Grotto!](/category/christmas-grotto-hire/)
 
@@ -20,12 +20,12 @@ Why not make it the full package? Combine one of our gorgeous grottoes with a [s
 
 There are still a few spaces available to hire out our Christmas Grottoes this festive season. So, give us a call today to check availability and bring the party to life at your Christmas event!
 
-![](/../userfiles/elves.jpg)![](/../userfiles/grotto-1.jpg)![](/../userfiles/grotto-inside.jpg)
+![](/userfiles/elves.jpg)![](/userfiles/grotto-1.jpg)![](/userfiles/grotto-inside.jpg)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

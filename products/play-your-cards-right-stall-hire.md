@@ -5,7 +5,7 @@ order: 50
 meta_title: "Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Event"
 meta_description: "Hire a Play Your Cards Right stall for your next event. Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today."
 permalink: "/play-your-cards-right-stall-hire/"
-categories: []
+categories: ["categories/fun-fair-stalls.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
@@ -20,7 +20,7 @@ gallery:
 
 ## The Best Play Your Cards Right Stall Hire for All UK Events
 
-Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/products/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/products/corporate-entertainment/), fairs, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
+Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/interactive-game-hire/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/corporate-entertainment/), fairs, [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
 
 ## Hire a Play Your Cards Right Stall for Your Next Event
 
@@ -142,6 +142,6 @@ Brand the rear half wall of the side stall with your brand from
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

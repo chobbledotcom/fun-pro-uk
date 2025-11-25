@@ -35,7 +35,7 @@ London universities often host freshers events in substantial venues – univers
 
 Our [racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) create natural talking points and friendly competition, perfect for breaking down social barriers between new students. The games work equally well for students who've never seen a Formula 1 race and those who follow motorsport religiously – the intuitive controls and immediate feedback make participation accessible to everyone.
 
-Electronic reaction games like our [Batak](category/batak/) generate excitement and crowds, ideal for freshers fairs where you need to draw students to specific areas. These games work particularly well in London's diverse student environment because they rely on quick reflexes rather than cultural knowledge or language skills.
+Electronic reaction games like our [Batak](/Controls/category/batak/) generate excitement and crowds, ideal for freshers fairs where you need to draw students to specific areas. These games work particularly well in London's diverse student environment because they rely on quick reflexes rather than cultural knowledge or language skills.
 
 ### Compact Solutions for Historic London University Buildings
 
@@ -121,7 +121,7 @@ As a family-run business with over 15 years of experience in corporate entertain
 
 Our work with major corporate clients like Rolls-Royce and KPMG demonstrates our ability to deliver professional results under pressure. University freshers weeks present similar challenges – tight timelines, high expectations, and the need for flawless execution – and we apply the same attention to detail that has earned us repeat business from blue-chip companies.
 
-We provide comprehensive service that includes [delivery](delivery-areas/), professional setup, and complete breakdown, removing logistical concerns from your planning process. Our team arrives when promised, sets up efficiently, and ensures everything operates smoothly throughout your events.
+We provide comprehensive service that includes [delivery](/delivery-areas/), professional setup, and complete breakdown, removing logistical concerns from your planning process. Our team arrives when promised, sets up efficiently, and ensures everything operates smoothly throughout your events.
 
 London's busy event calendar means equipment suppliers often face competing demands during peak periods like freshers week. Our established business relationships and advance planning ensure your booking receives priority treatment, providing confidence that your entertainment will be available when needed.
 
@@ -155,7 +155,7 @@ Costs vary based on the specific games selected, event duration, and venue requi
 
 Yes, we can provide experienced staff to operate games throughout your events. This option is particularly popular with universities that prefer their own team to focus on student interaction and event coordination rather than technical equipment management. Our staff understand university environments and work seamlessly with your student union teams.
 
-Ready to start planning your London freshers week entertainment? [Contact](contact-fun-pro-uk/) our friendly team for a free quote tailored to your university's specific requirements. We'll work with you to create engaging, inclusive entertainment that helps your new students feel welcomed and excited about their university journey.
+Ready to start planning your London freshers week entertainment? [Contact](/contact-fun-pro-uk/) our friendly team for a free quote tailored to your university's specific requirements. We'll work with you to create engaging, inclusive entertainment that helps your new students feel welcomed and excited about their university journey.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -331,6 +331,6 @@ Ready to start planning your London freshers week entertainment? [Contact](conta
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

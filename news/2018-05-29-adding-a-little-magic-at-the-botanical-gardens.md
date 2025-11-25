@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [29 May 18 - Adding A Little Magic At The Botanical Gardens](adding-a-little-magic-at-the-botanical-gardens/)
+# [29 May 18 - Adding A Little Magic At The Botanical Gardens](/adding-a-little-magic-at-the-botanical-gardens/)
 
 Last week we were approached by an agency from London to supply entertainment for a corporate conference. The conference was being held at the beautiful Birmingham Botanical Gardens for the management of a well-known train operator.
 
@@ -20,12 +20,12 @@ The Magic mirror has the option of adding a company logo or message to every pri
 
 The attendees had a wonderful time dressing up and interacting with the mirror and now have a lasting memento of the conference and what their company is trying to achieve.
 
-As well as magic selfie mirrors, Fun Pro UK also hire [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) and [interactive games](/products/) for all manner of corporate events including expos, company parties and [award nights](/category/company-award-ceremonies/).
+As well as magic selfie mirrors, Fun Pro UK also hire [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) and [interactive games](/interactive-game-hire/) for all manner of corporate events including expos, company parties and [award nights](/category/company-award-ceremonies/).
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

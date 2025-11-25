@@ -5,7 +5,7 @@ order: 50
 meta_title: "Best Table Tennis Hire in the UK | Fun Pro UK"
 meta_description: "Table tennis hire for events in Birmingham, London, Manchester, and beyond. Fun Pro UK offers delivery across the UK for your next event. Contact us today!"
 permalink: "/table-tennis-hire/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
@@ -17,23 +17,23 @@ gallery:
 
 ## Best Table Tennis Hire in the UK for Fun-filled Events in Birmingham, Leicester, Nottingham, and More!
 
-Looking for a “tennis table near me”? Do you want to add a touch of excitement and competitiveness to your upcoming conference, well-being day, [exhibition](/../exhibition-games/), or fun day? Our table tennis hire service is the perfect solution for events in [Birmingham](/pages/corporate-event-hire-birmingham/), [Leicester](/pages/leicester-corporate-event-hire/), [Nottingham](/pages/nottingham-corporate-event-hire/), [Milton Keynes](/pages/milton-keynes-corporate-event-hire/), [London](/pages/conference-game-hire-london/), [Manchester](/pages/manchester-corporate-event-hire/), [Coventry](/pages/corporate-event-hire-coventry/), and across the UK.
+Looking for a “tennis table near me”? Do you want to add a touch of excitement and competitiveness to your upcoming conference, well-being day, [exhibition](/exhibition-games/), or fun day? Our table tennis hire service is the perfect solution for events in [Birmingham](/pages/corporate-event-hire-birmingham/), [Leicester](/pages/leicester-corporate-event-hire/), [Nottingham](/pages/nottingham-corporate-event-hire/), [Milton Keynes](/pages/milton-keynes-corporate-event-hire/), [London](/pages/conference-game-hire-london/), [Manchester](/pages/manchester-corporate-event-hire/), [Coventry](/pages/corporate-event-hire-coventry/), and across the UK.
 
 ## Hire a ping pong table for your next event!
 
 Who doesn’t love a good back and forth run on the classic ping pong table where the stakes are always high and the fun never ends? Set up a gripping table tennis match for your corporate guests and host a gathering that no one is forgetting anytime soon.  
   
-We specialise in large scale [corporate events](/products/corporate-entertainment/). Get a table tennis hire for:
+We specialise in large scale [corporate events](/corporate-entertainment/). Get a table tennis hire for:
 
-✓ [Conferences](/pages/conference-game-hire/) and [trade shows](/blog/2023-05-22/not-just-birmingham-trade-show-entertainment-hire-uk-wide/)  
+✓ [Conferences](/pages/conference-game-hire/) and [trade shows](/news/2023-05-22/not-just-birmingham-trade-show-entertainment-hire-uk-wide/)  
 ✓ Product launch parties  
 ✓ Company-wide retreats  
 ✓ Awards ceremonies  
-✓ [Corporate anniversary celebrations](/blog/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/)  
+✓ [Corporate anniversary celebrations](/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/)  
 ✓ Client and partner events  
 ✓ Corporate social responsibility (CSR) events  
 ✓ Town hall meetings  
-✓ [Leadership conferences](/blog/2023-10-17/keep-conferences-fun-with-fun-pro-uk/)  
+✓ [Leadership conferences](/news/2023-10-17/keep-conferences-fun-with-fun-pro-uk/)  
   
 …and more!  
 
@@ -65,11 +65,11 @@ Need a longer hire period?
   
 [Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.  
 
-Delivered [](table-tennis-hire.html#specification)and [](table-tennis-hire.html#specification)installed on site by our trained team
+Delivered [](/table-tennis-hire/)and [](/table-tennis-hire/)installed on site by our trained team
 
-\*Delivery [](table-tennis-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/table-tennis-hire/)Charges & Minimum order value may apply
 
-[**Email:**](table-tennis-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/table-tennis-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 Please note that delivery charges and minimum order values may apply.
 
@@ -166,7 +166,7 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)

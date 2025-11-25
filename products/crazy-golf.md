@@ -5,7 +5,7 @@ order: 50
 meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"
 meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/crazy-golf/"
-categories: []
+categories: ["categories/fun-days.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
@@ -45,11 +45,11 @@ Book our Crazy Golf hire services today in Birmingham, Nottingham, Milton Keynes
 
 **£1495**\+ vat**
 
-Delivered [](crazy-golf.html#specification)and [](crazy-golf.html#specification)installed on site by our trained team
+Delivered [](/crazy-golf/)and [](/crazy-golf/)installed on site by our trained team
 
-\*Delivery [](crazy-golf.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/crazy-golf/)Charges & Minimum order value may apply
 
-[**Email:**](crazy-golf.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/crazy-golf/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

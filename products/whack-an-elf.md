@@ -5,7 +5,7 @@ order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
 permalink: "/whack-an-elf/"
-categories: []
+categories: ["categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
@@ -33,15 +33,15 @@ gallery:
 
 **£1345**\+ vat**
 
-Delivered [](whack-an-elf.html#specification)and [](whack-an-elf.html#specification)installed on site by our trained team
+Delivered [](/whack-an-elf/)and [](/whack-an-elf/)installed on site by our trained team
 
-In[\-](whack-an-elf.html#specification)house [](whack-an-elf.html#specification)branding [](whack-an-elf.html#specification)available [](whack-an-elf.html#specification)Printed[,](whack-an-elf.html#specification) applied & removed after each event
+In[\-](/whack-an-elf/)house [](/whack-an-elf/)branding [](/whack-an-elf/)available [](/whack-an-elf/)Printed[,](/whack-an-elf/) applied & removed after each event
 
-(One [](whack-an-elf.html#specification)time [](whack-an-elf.html#specification)use [](whack-an-elf.html#specification)only)
+(One [](/whack-an-elf/)time [](/whack-an-elf/)use [](/whack-an-elf/)only)
 
-\*Delivery [](whack-an-elf.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/whack-an-elf/)Charges & Minimum order value may apply
 
-[**Email:**](whack-an-elf.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/whack-an-elf/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -81,10 +81,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Reindeer Roll an Bowl](/66/roll-and-bowl-reindeer-racing-game-hire.html#BodyContent)
-*   [Raindeer Nosenado](/65/reindeer-nosenado-christmas-ballnado-hire.html#BodyContent)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Reindeer Roll an Bowl](/66/roll-and-bowl-reindeer-racing-game-hire/#content)
+*   [Raindeer Nosenado](/65/reindeer-nosenado-christmas-ballnado-hire/#content)
 
 **Whack An Elf Christmas Game Hire**
 
@@ -104,9 +104,9 @@ So, what are you waiting for? Bring the excitement of Whack An Elf to your next 
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
 
 **Game Playing Panel**
 

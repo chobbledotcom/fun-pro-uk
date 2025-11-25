@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Crack The Code, Safecracker Code Game For Hire, UK"
 meta_description: "Hire our crack the code game and win a prize! This safe cracking game is perfect for product launches, trade shows, promos, parties, fetes and more"
 permalink: "/crack-the-code-safe-cracker/"
-categories: []
+categories: ["categories/exhibition-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4542e8532d60775cd7a9739ed418501"
@@ -65,15 +65,15 @@ Make your event memorable with the Crack The Code Safe Cracker for hire in Birmi
 
 **£1195**\+ vat**
 
-Delivered [](/../../crack-the-code-safe-cracker.html#specification)and [](/../../crack-the-code-safe-cracker.html#specification)installed on site by our trained team
+Delivered [](/crack-the-code-safe-cracker/)and [](/crack-the-code-safe-cracker/)installed on site by our trained team
 
-In[\-](/../../crack-the-code-safe-cracker.html#specification)house [](/../../crack-the-code-safe-cracker.html#specification)branding [](/../../crack-the-code-safe-cracker.html#specification)available [](/../../crack-the-code-safe-cracker.html#specification)Printed[,](/../../crack-the-code-safe-cracker.html#specification) applied & removed after each event
+In[\-](/crack-the-code-safe-cracker/)house [](/crack-the-code-safe-cracker/)branding [](/crack-the-code-safe-cracker/)available [](/crack-the-code-safe-cracker/)Printed[,](/crack-the-code-safe-cracker/) applied & removed after each event
 
-(One [](/../../crack-the-code-safe-cracker.html#specification)time [](/../../crack-the-code-safe-cracker.html#specification)use [](/../../crack-the-code-safe-cracker.html#specification)only)
+(One [](/crack-the-code-safe-cracker/)time [](/crack-the-code-safe-cracker/)use [](/crack-the-code-safe-cracker/)only)
 
-\*Delivery [](/../../crack-the-code-safe-cracker.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/crack-the-code-safe-cracker/)Charges & Minimum order value may apply
 
-[**Email:**](/../../crack-the-code-safe-cracker.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/crack-the-code-safe-cracker/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Christmas Batak Lite - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Lite is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-batak-lite/"
-categories: []
+categories: ["categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5f47186d92dc25f1c56eeb5a20f46a83"
@@ -48,7 +48,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](christmas-batak-lite.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-batak-lite/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## 🎄 **What Is Batak Lite?**
 
@@ -151,11 +151,11 @@ Want to make your event even more magical? Pair Batak Lite with one of our other
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Batak Pro](/products/batak43/batak-pro.html#BodyContent)
-*   [Dance Machine](/../exhibition-games/dance-machine/)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game/)
+*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
+*   [Batak Pro](/batak/batak-pro/#content)
+*   [Dance Machine](/exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
 
 ## Batak Lite Branding and Customisation Options
 
@@ -177,6 +177,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

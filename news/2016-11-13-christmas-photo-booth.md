@@ -8,12 +8,12 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [13 November 16 - CHRISTMAS PHOTO BOOTH](christmas-photo-booth/)
+# [13 November 16 - CHRISTMAS PHOTO BOOTH](/christmas-photo-booth/)
 
 Yeah!! Look what Perfect Snap has for Christmas!  
 We are super excited to introduce our brand new [Christmas Photo Booth](/pages/christmas-photo-booth-corporate-event-hire/) for the party season.
 
-![](/../userfiles/gimp5.png)  
+![](/userfiles/gimp5.png)  
 Let us add the finishing touch to your party night with our fabulous [Green Screen Dream Machine Photo Booth](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/).  
   
 Everyone adores a [selfie](/category/photo-booths-and-magic-mirrors/magic-mirror/) to take home after an awesome night out. With our Green Screen booth your guests will have a real night to remember.  
@@ -26,6 +26,6 @@ We still have a few dates left for December but we are booking up fast.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

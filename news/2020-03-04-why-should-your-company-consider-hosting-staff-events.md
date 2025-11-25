@@ -8,13 +8,13 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 March 20 - Why Should Your Company Consider Hosting Staff Events?](why-should-your-company-consider-hosting-staff-events/)
+# [04 March 20 - Why Should Your Company Consider Hosting Staff Events?](/why-should-your-company-consider-hosting-staff-events/)
 
 ## **Why Should Your Company Consider Hosting Staff Events?**
 
 Whether you are considering an annual award ceremony, a dinner or a summer party, there are far greater benefits than just getting your team to let their hair down**.**Everyone loves a good party, right? Well hosting events for your business could be bringing your company benefits that you may not be aware of, including validating your employees, promoting creativity and boosting productivity.
 
-**Validating your Employees**![Human football](/../userfiles/file/FunPro/Hungry%20Hippos/20190607-142841.jpg)**
+**Validating your Employees**![Human football](/userfiles/file/FunPro/Hungry%20Hippos/20190607-142841.jpg)**
 
 Having an [award ceremony](/category/company-award-ceremonies/) is a great way of showing your appreciation to staff,by rewarding performance or company culture and values. These awards will make an employee feel valued, important and like they are having an impact on the business. Which overall will do wonders for the productivity when they are back in the office.
 
@@ -28,7 +28,7 @@ Taking your staff out of their usual environment can often help them think diffe
 
 Having a company event will give your team the chance to step away from the daily drive for results allow their creative side to shine. Without the daily pressure you might discover the hidden creative potential of some of your team resulting in huge benefits to your business.
 
-**![Team Work](/../userfiles/file/FunPro/teamwork-transparent-background-8.png)Boosting Company Morale**
+**![Team Work](/userfiles/file/FunPro/teamwork-transparent-background-8.png)Boosting Company Morale**
 
 Celebrating successes has proven to be beneficial in creating happy and engaged employees who feel part of the organisation rather than a cog in the corporate machine.
 
@@ -40,6 +40,6 @@ When morale is high, teams are naturally more motivated and productivity goes th
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

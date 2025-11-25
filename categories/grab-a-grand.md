@@ -14,21 +14,21 @@ eleventyNavigation:
 
 Prepare for a whirlwind of excitement at your next event - hire our Cash Cubes and Grab a Grand games, and give participants have the chance to catch flying notes, balls or tokens in a timed challenge.
 
-These [interactive games](/interactive-game-hire/) are perfect for [corporate events](corporate-entertainment/), and can even be used to add a spark to [weddings](weddings/). With a special [Christmas event](christmas-game-hire/) version available, you can bring Cash Grabber cheer to your holiday events too, and with custom-branding available, you could even use this as a [branded exhibition game](branded-exhibition-games/) to drum up interest at your stand!
+These [interactive games](/interactive-game-hire/) are perfect for [corporate events](/corporate-entertainment/), and can even be used to add a spark to [weddings](/weddings/). With a special [Christmas event](/christmas-game-hire/) version available, you can bring Cash Grabber cheer to your holiday events too, and with custom-branding available, you could even use this as a [branded exhibition game](/branded-exhibition-games/) to drum up interest at your stand!
 
-Step into the booth and experience the rush of grabbing as many notes as possible. It’s an exhilarating game that’s sure to draw a crowd and provide loads of fun! Our [Christmas Grab a Grand](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/) is a seasonal twist on the classic, with reindeer noses rather than the standard balls, and a full festive theme.
+Step into the booth and experience the rush of grabbing as many notes as possible. It’s an exhilarating game that’s sure to draw a crowd and provide loads of fun! Our [Christmas Grab a Grand](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/) is a seasonal twist on the classic, with reindeer noses rather than the standard balls, and a full festive theme.
 
-[Ballnado Grabber](grab-a-grand/36/ballnado-grabber/)
+[Ballnado Grabber](/grab-a-grand/36/ballnado-grabber/)
 
-[More Details](grab-a-grand/36/ballnado-grabber/)
+[More Details](/grab-a-grand/36/ballnado-grabber/)
 
-[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand/)
+[CASH GRABBER MACHINE HIRE](/interactive-game-hire/3/grab-a-grand/)
 
-[More Details](interactive-game-hire/3/grab-a-grand/)
+[More Details](/interactive-game-hire/3/grab-a-grand/)
 
-[Reindeer Nosenado (Christmas Ballnado Hire )](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
+[Reindeer Nosenado (Christmas Ballnado Hire )](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
 
-[More Details](christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
+[More Details](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
 
 ## Cash Cube Grabber Rentals
 
@@ -40,6 +40,6 @@ Whether you're planning a corporate function, a festive celebration, or looking 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [20 September 23 - Make Award Ceremonies Extra-Special: Event Entertainment Experts](make-award-ceremonies-extra-special-event-entertainment-experts/)
+# [20 September 23 - Make Award Ceremonies Extra-Special: Event Entertainment Experts](/make-award-ceremonies-extra-special-event-entertainment-experts/)
 
 In the bustling world of corporate achievements, recognising milestones is not just essential—it's a cause for celebration. Every award and acknowledgement is a testament to hard work, innovation, and the pursuit of excellence. But how do we ensure that these celebrations leave a lasting impression?
 
@@ -35,6 +35,6 @@ Make a booking online today, or if you need more information or advice, please f
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

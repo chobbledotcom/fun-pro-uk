@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [29 August 18 - SAS guests head for the chequered flag!](sas-guests-head-for-the-chequered-flag/)
+# [29 August 18 - SAS guests head for the chequered flag!](/sas-guests-head-for-the-chequered-flag/)
 
 Fun Pro UK were recently hired to provide [Race Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/) to an event close to our base in Coventry. This was for a large car parts company that wanted to put on a promotional event to thank all their customers for their continual support.
 
@@ -20,12 +20,12 @@ It was a great experience for Fun Pro UK to be involved with such an original ev
 
 If you are interested in hiring out Race Car Simulators, please call one of our team on 07769 979 676 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](/../userfiles/race-car-simulator-3.jpg)![](/../userfiles/race-car-simulator-4.jpg)  
+![](/userfiles/race-car-simulator-3.jpg)![](/userfiles/race-car-simulator-4.jpg)  
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

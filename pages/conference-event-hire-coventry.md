@@ -11,9 +11,9 @@ eleventyNavigation:
 
 # Conference Event Hire in Coventry
 
-Planning a [conference](conference-idea/) means juggling countless details whilst ensuring your people stay engaged throughout the day. Long presentations, back-to-back sessions, and networking expectations can leave attendees feeling overwhelmed rather than energised. That's where thoughtfully chosen entertainment makes a real difference.
+Planning a [conference](/conference-idea/) means juggling countless details whilst ensuring your people stay engaged throughout the day. Long presentations, back-to-back sessions, and networking expectations can leave attendees feeling overwhelmed rather than energised. That's where thoughtfully chosen entertainment makes a real difference.
 
-At [Fun Pro UK](about-corporate-entertainment-hire/), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/corporate-entertainment/) training days and trade shows to [award ceremonies](/category/company-award-ceremonies/) and multi-day conferences, we provide [interactive games](/interactive-game-hire/) and entertainment that bring people together and keep people talking long after your event ends.
+At [Fun Pro UK](/about-corporate-entertainment-hire/), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/corporate-entertainment/) training days and trade shows to [award ceremonies](/category/company-award-ceremonies/) and multi-day conferences, we provide [interactive games](/interactive-game-hire/) and entertainment that bring people together and keep people talking long after your event ends.
 
 ## Why Conference Entertainment Matters
 
@@ -27,7 +27,7 @@ We understand that every conference has different needs, which is why we take a 
 
 ### Interactive Reaction Games
 
-Games like [Batak Lite](batak-lite-coventry/) and [Batak Pro](batak-pro-hire-coventry/) create friendly competition with quick 30-60 second plays. They're ideal for exhibition stands and breakout zones where people can challenge each other and watch the leaderboard throughout the day. These games work for all fitness levels and can be [branded](brand-promotional-event-hire-coventry/) with your conference theme or company logo.
+Games like [Batak Lite](/batak-lite-coventry/) and [Batak Pro](/batak-pro-hire-coventry/) create friendly competition with quick 30-60 second plays. They're ideal for exhibition stands and breakout zones where people can challenge each other and watch the leaderboard throughout the day. These games work for all fitness levels and can be [branded](/brand-promotional-event-hire-coventry/) with your conference theme or company logo.
 
 ### Racing Simulators and VR Experiences
 
@@ -65,19 +65,19 @@ Timing matters as well. Entertainment works best during registration periods, lu
 
 ## Why Choose Fun Pro for Conference Hire in Coventry
 
-Based in Coventry with over 15 years of experience, we know the local conference venues and understand their specific requirements. Our professional-grade, safety-tested equipment comes with [delivery](delivery-areas/), setup, and collection included\*, taking the stress out of your planning.
+Based in Coventry with over 15 years of experience, we know the local conference venues and understand their specific requirements. Our professional-grade, safety-tested equipment comes with [delivery](/delivery-areas/), setup, and collection included\*, taking the stress out of your planning.
 
 \*Delivery, set up and collection may be charged at an additional fee.
 
 We don't offer one-size-fits-all packages. Instead, we listen to your conference objectives, venue constraints, and attendee profile before recommending games that genuinely suit your needs. [Custom branding](/category/branded-exhibition-games/) is available for exhibitions and brand activations, and our trained staff can operate games throughout your event if needed.
 
-Whilst we're based in Coventry and serve venues including CoventryConferences, Coombe Abbey Hotel, Coventry Building Society Arena, and the Heart of England Conference Centre, we provide [nationwide coverage](delivery-areas/) with competitive pricing thanks to our local presence.
+Whilst we're based in Coventry and serve venues including CoventryConferences, Coombe Abbey Hotel, Coventry Building Society Arena, and the Heart of England Conference Centre, we provide [nationwide coverage](/delivery-areas/) with competitive pricing thanks to our local presence.
 
 ## Get Started With Conference Hire in Coventry
 
 Ready to discuss your conference entertainment needs?
 
-[Contact our friendly team](contact-fun-pro-uk/) for a free, no-obligation quote. We'll recommend games suited to your conference format, objectives, and budget. Early booking is recommended, particularly for peak seasons, but we'll always help where we can.
+[Contact our friendly team](/contact-fun-pro-uk/) for a free, no-obligation quote. We'll recommend games suited to your conference format, objectives, and budget. Early booking is recommended, particularly for peak seasons, but we'll always help where we can.
 
 Contact us today to start planning memorable conference entertainment in Coventry.
 
@@ -255,6 +255,6 @@ Contact us today to start planning memorable conference entertainment in Coventr
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

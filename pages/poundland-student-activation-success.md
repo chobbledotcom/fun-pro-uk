@@ -23,11 +23,11 @@ Poundland is the UK's leading variety discount retailer, operating over 800 stor
 
 ## Key Metrics
 
-*   Event Duration: 1 day intensive [brand activation](promotion-event-games/)
+*   Event Duration: 1 day intensive [brand activation](/promotion-event-games/)
     
 *   Location: High-footfall Manchester store
     
-*   Target Audience: [University](college-and-university-entertainment/) freshers and new students
+*   Target Audience: [University](/college-and-university-entertainment/) freshers and new students
     
 *   Solution Delivered: [Custom branded](/category/branded-exhibition-games/) prize wheel
     
@@ -73,7 +73,7 @@ The solution needed to work on multiple levels. Visually, it had to be striking 
 
 The custom branding extended beyond aesthetics to functionality. The wheel segments were designed to align with Poundland's product ranges and promotional offers, creating natural connections between the game experience and actual shopping opportunities. This approach meant the activation wasn't just entertainment - it was a genuine marketing tool that could drive both immediate sales and longer-term customer relationships.
 
-[FunPro's team](about-corporate-entertainment-hire/) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
+[FunPro's team](/about-corporate-entertainment-hire/) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
 
 ## Implementation and Immediate Impact
 
@@ -83,7 +83,7 @@ As told to FunPro by the Poundland Manchester Store Management Team.
 
 "On the day itself, everything went exactly as planned. FunPro arrived early, set everything up professionally, and briefed our team on how to operate the wheel and engage with participants. What surprised us was how quickly word spread - students were texting their friends about it, and we had queues forming within the first hour."
 
-The Saturday [activation](promotion-event-games/) transformed the store atmosphere completely. What began as routine weekend shopping became an [interactive experience](/interactive-game-hire/) that students actively sought out. The gamification element tapped into the competitive nature and social dynamics that make student experiences memorable.
+The Saturday [activation](/promotion-event-games/) transformed the store atmosphere completely. What began as routine weekend shopping became an [interactive experience](/interactive-game-hire/) that students actively sought out. The gamification element tapped into the competitive nature and social dynamics that make student experiences memorable.
 
 "The wheel created natural conversation starters between students who didn't know each other, and it gave our staff a brilliant way to engage with customers beyond just processing transactions. Students were genuinely excited about spinning the wheel, regardless of what they won. It was the experience itself that created the value."
 
@@ -103,7 +103,7 @@ Looking ahead, Poundland sees interactive retail experiences as an increasingly 
 
 ## The FunPro Team Behind the Success
 
-The Poundland activation showcased FunPro's ability to deliver professional solutions under tight timelines whilst maintaining their signature attention to detail and client service. [Colin Parker](meet-the-team/), FunPro's Managing Director, personally oversaw the project coordination to ensure seamless execution despite the short notice requirements.
+The Poundland activation showcased FunPro's ability to deliver professional solutions under tight timelines whilst maintaining their signature attention to detail and client service. [Colin Parker](/meet-the-team/), FunPro's Managing Director, personally oversaw the project coordination to ensure seamless execution despite the short notice requirements.
 
 The team's expertise in [corporate entertainment](/corporate-entertainment/) proved invaluable in translating retail objectives into engaging interactive experiences. Their understanding of student audiences, combined with technical knowledge of space-efficient interactive solutions, enabled them to recommend and deliver exactly the right solution for Poundland's specific needs.
 
@@ -113,10 +113,10 @@ FunPro's custom branding capabilities meant the prize wheel wasn't just function
 
 ![](/userfiles/poundland-manchester-fun-pro.jpg)
 
-If you're planning student activations, retail promotions, or any event where engagement matters, [contact our friendly team](contact-fun-pro-uk/) to discuss how FunPro's interactive solutions can help you achieve your objectives, even with short notice requirements.
+If you're planning student activations, retail promotions, or any event where engagement matters, [contact our friendly team](/contact-fun-pro-uk/) to discuss how FunPro's interactive solutions can help you achieve your objectives, even with short notice requirements.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

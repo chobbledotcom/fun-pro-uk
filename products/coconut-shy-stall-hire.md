@@ -5,7 +5,7 @@ order: 50
 meta_title: "Coconut Shy Stall Hire | Classic Fairground Game for UK Events"
 meta_description: "Hire a Coconut Shy stall for your next event. A fun and interactive game perfect for fairs, corporate events, and parties. Nationwide delivery &amp; setup available. Book today."
 permalink: "/coconut-shy-stall-hire/"
-categories: []
+categories: ["categories/fun-fair-stalls.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
@@ -19,9 +19,9 @@ gallery:
 
 ## The Best Coconut Shy Stall Hire for All UK Events
 
-Looking to bring a touch of classic fairground fun to your next [corporate event](/products/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
+Looking to bring a touch of classic fairground fun to your next [corporate event](/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
 
-A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/category/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
 
 ## Hire a Coconut Shy Stall for Your Next Event
 
@@ -127,6 +127,6 @@ Brand the rear half wall of the inside of the stall with your brand from:
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK"
 meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events, Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today. 07769 979 676"
 permalink: "/twin-racing-car-simulators/"
-categories: []
+categories: ["categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/32b3f7757007e556e69bc8aebd5cc7a8"
@@ -137,11 +137,11 @@ Don't miss out on the opportunity to bring the thrill of the racetrack to your e
 
 **£2050**\+ vat**
 
-Delivered [](twin-racing-car-simulators.html#specification)and [](twin-racing-car-simulators.html#specification)installed on site by our trained team
+Delivered [](/twin-racing-car-simulators/)and [](/twin-racing-car-simulators/)installed on site by our trained team
 
-\*Delivery [](twin-racing-car-simulators.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/twin-racing-car-simulators/)Charges & Minimum order value may apply
 
-[**Email:**](twin-racing-car-simulators.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/twin-racing-car-simulators/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -182,8 +182,8 @@ Lift required
 **Popular items:**
 
 *   [Retro arcade machine](/retro-arcade-games/)
-*   [Dance Machine](/../exhibition-games/dance-machine/)
-*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth/)
+*   [Dance Machine](/exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/photo-booths/ultimate-green-screen-photo-booth/)
 *   Lights Out
 
 ## **Racing Car Simulator Hire**

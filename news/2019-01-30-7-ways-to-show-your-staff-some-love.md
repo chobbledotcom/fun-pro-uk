@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 January 19 - 7 ways to show your staff some love!](7-ways-to-show-your-staff-some-love/)
+# [30 January 19 - 7 ways to show your staff some love!](/7-ways-to-show-your-staff-some-love/)
 
 February is known as the month of love, with February 14th, Valentine's day, seen as a chance to show your partner how much you love them. The greeting card companies do a roaring trade, the florists sell huge numbers of flowers, and restaurants are all booked up by couples celebrating their relationship.
 
@@ -28,6 +28,6 @@ Contact us today to arrange your next event. Email: [info@funprouk.co.uk](mailto
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

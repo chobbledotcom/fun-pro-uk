@@ -11,13 +11,13 @@ eleventyNavigation:
 
 # Christmas Game Hire – Birmingham's Premier Festive Entertainment Specialists
 
-Transform your Birmingham festive celebrations into extraordinary experiences with Fun Pro UK's trusted and professional [Christmas game hire](/theme/category/christmas-game-hire/) services. From exclusive corporate [Christmas parties](/blog/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) to expansive holiday trade shows, our festive-themed interactive entertainment creates unforgettable moments that captivate audiences and build lasting team connections during the Christmas season.
+Transform your Birmingham festive celebrations into extraordinary experiences with Fun Pro UK's trusted and professional [Christmas game hire](/theme/category/christmas-game-hire/) services. From exclusive corporate [Christmas parties](/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) to expansive holiday trade shows, our festive-themed interactive entertainment creates unforgettable moments that captivate audiences and build lasting team connections during the Christmas season.
 
 ## Birmingham & West Midlands Christmas Game Hire & Locations
 
-While Birmingham is one of our key [delivery areas](delivery-areas/), we provide Christmas entertainment throughout the West Midlands and across the entire UK.
+While Birmingham is one of our key [delivery areas](/delivery-areas/), we provide Christmas entertainment throughout the West Midlands and across the entire UK.
 
-Our experienced team possesses a deep understanding of Birmingham's diverse event environment, from iconic venues like the [NEC Birmingham](nec-birmingham/) to exclusive corporate facilities and academic institutions.
+Our experienced team possesses a deep understanding of Birmingham's diverse event environment, from iconic venues like the [NEC Birmingham](/nec-birmingham/) to exclusive corporate facilities and academic institutions.
 
 Whether you're arranging a festive celebration at the University of Birmingham, coordinating Christmas team activities in Wolverhampton's commercial center, or presenting a holiday brand activation in Solihull, we bring the festive spirit directly to your selected location with our professionally maintained, top-tier equipment.
 
@@ -93,7 +93,7 @@ Space requirements vary by game. Our Birmingham game hire specialists provide co
 
 ### Are Christmas games suitable for outdoor winter events?
 
-Most Christmas games require indoor setup for equipment safety. However, we offer weather-resistant options for sheltered outdoor areas. [Contact our team](contact-fun-pro-uk/) to discuss your specific needs.
+Most Christmas games require indoor setup for equipment safety. However, we offer weather-resistant options for sheltered outdoor areas. [Contact our team](/contact-fun-pro-uk/) to discuss your specific needs.
 
 ### How far in advance should I book Christmas games?
 
@@ -117,7 +117,7 @@ And many more.
 
 ## Hire Christmas Games for Your Birmingham Event
 
-Ready to create unforgettable Christmas memories in Birmingham? [Contact Fun Pro UK](contact-fun-pro-uk/) today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
+Ready to create unforgettable Christmas memories in Birmingham? [Contact Fun Pro UK](/contact-fun-pro-uk/) today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable celebration that guests will discuss throughout the year.
 
@@ -295,6 +295,6 @@ Transform your Christmas event into an engaging, memorable celebration that gues
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

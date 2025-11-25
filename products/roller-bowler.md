@@ -5,7 +5,7 @@ order: 50
 meta_title: "Roller Bowler Hire UK | Corporate Events & Exhibitions"
 meta_description: "Hire the classic Roller Bowler carnival game for UK corporate events and exhibitions. No power required, fully brandable. Nationwide delivery available."
 permalink: "/roller-bowler/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
@@ -17,7 +17,7 @@ gallery:
 
 ## Roller Bowler – The Classic Carnival Skill Game for Corporate & Private Events
 
-Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/../fun-fair-stalls/) to corporate events, [exhibitions](/../../exhibition-games/), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
+Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/fun-fair-stalls/) to corporate events, [exhibitions](/exhibition-games/), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
 
 **1 day Hire from**
 
@@ -29,7 +29,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](roller-bowler.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/roller-bowler/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## What Is Roller Bowler?
 
@@ -49,7 +49,7 @@ At [Fun Pro UK](/pages/about-corporate-entertainment-hire/), our Roller Bowler h
     
 *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
     
-*   Fully Brandable: [Custom graphics](/../branded-exhibition-games/) and panels available to match your corporate colours and messaging
+*   Fully Brandable: [Custom graphics](/branded-exhibition-games/) and panels available to match your corporate colours and messaging
     
 *   No Power Required: Completely mechanical game means no electrical setup or running costs
     
@@ -83,7 +83,7 @@ When you hire Roller Bowler from Fun Pro UK, you receive a complete service pack
     
 *   Professional installation and setup by trained technicians if requested
     
-*   [Custom branding](/../branded-exhibition-games/) options available
+*   [Custom branding](/branded-exhibition-games/) options available
     
 *   Full operational support throughout your event if needed
     
@@ -155,13 +155,13 @@ We're proud to have provided entertainment solutions for leading UK brands inclu
 
 Complete your event with our range of interactive entertainment:
 
-*   [Batak Pro](category/batak/) - Fast-paced light reaction challenge for competitive play
+*   [Batak Pro](/Controls/category/batak/) - Fast-paced light reaction challenge for competitive play
     
 *   [Roll and Bowl](/all-products/51/roll-and-bowl-game-hire/) \- Horse racing carnival game with multiplayer excitement
     
 *   [Whack-a-Mole](/all-products/67/whack-a-mole-game-hire/) - Classic arcade game testing speed and reactions
     
-*   [Prize Crane](/../../prize-crane-arcade-grabber/) - Skill-based grabber game with branded prize options
+*   [Prize Crane](/prize-crane-arcade-grabber/) - Skill-based grabber game with branded prize options
     
 *   [Plinko](/all-products/68/plinko-game-hire/) - Exciting drop-and-win game creating suspense for every player
 
@@ -205,6 +205,6 @@ Yes, comprehensive branding options are available, including header panels, side
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

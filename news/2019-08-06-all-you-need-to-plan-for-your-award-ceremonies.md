@@ -8,17 +8,17 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [06 August 19 - All You Need to Plan For Your Award Ceremonies](all-you-need-to-plan-for-your-award-ceremonies/)
+# [06 August 19 - All You Need to Plan For Your Award Ceremonies](/all-you-need-to-plan-for-your-award-ceremonies/)
 
 ## Getting your employees engaged at award ceremonies!
 
 Why wait until the year draws to a close to award your staff? Why not host your annual employee award ceremony during summer to show your continued appreciation for their hard work.
 
-A great way of entertaining your staff and guests is with a range of [interactive games](/products/). But I hear you say that there are so many options. Not to worry, as here at Fun Pro UK we have put together a comprehensive guide to the best [award ceremony entertainment.](/category/company-award-ceremonies/)
+A great way of entertaining your staff and guests is with a range of [interactive games](/interactive-game-hire/). But I hear you say that there are so many options. Not to worry, as here at Fun Pro UK we have put together a comprehensive guide to the best [award ceremony entertainment.](/category/company-award-ceremonies/)
 
-## Memories to last a lifetime!![](/../userfiles/file/FunPro/Photo%20Booth/img-20190709-wa0000.jpg)
+## Memories to last a lifetime!![](/userfiles/file/FunPro/Photo%20Booth/img-20190709-wa0000.jpg)
 
-You could employ a photographer, right? Why not get your staff involved using a variety of fun and seasonal props within a [](/category/photo-booths-and-magic-mirrors.html#BodyContent)[photo booth](/category/photo-booths-and-magic-mirrors/)? Your attendees can couple up or go in a group and take photos inside a range of high-quality photo booths.
+You could employ a photographer, right? Why not get your staff involved using a variety of fun and seasonal props within a [](/category/photo-booths-and-magic-mirrors/#content)[photo booth](/category/photo-booths-and-magic-mirrors/)? Your attendees can couple up or go in a group and take photos inside a range of high-quality photo booths.
 
 With unlimited visits, your guests can take as many photos as they want with 2 prints from each visit to have a fun memory from your event. Whether you are looking for a traditional Green Screen Photo Booth or a Bespoke booth, Fun Pro UK can ensure it fits perfectly into your event.
 
@@ -32,13 +32,13 @@ Hire a table that is exactly like those you would find in the finest casinos in 
 
 If you have ever wanted to be a jockey or to find out who is the most competitive employees within your business! This is the perfect entertainment game for your event!
 
-Our amazing [](/category/interactive-game-hire/29/gold-cup-horse-racing.html#BodyContent)[Gold Cup Horse Racing Game](/category/interactive-game-hire/29/gold-cup-horse-racing/) is brilliant for getting your employees engaged, along with entertaining those who watch and flock around as each short race takes place! Four players can race at each time by selecting their racer and galloping to victory.
+Our amazing [](/category/interactive-game-hire/29/gold-cup-horse-racing/#content)[Gold Cup Horse Racing Game](/category/interactive-game-hire/29/gold-cup-horse-racing/) is brilliant for getting your employees engaged, along with entertaining those who watch and flock around as each short race takes place! Four players can race at each time by selecting their racer and galloping to victory.
 
 Award nights are about celebrating your company's and employees' achievements. So why not pair this product with our [leader board](/category/interactive-game-hire/30/leader-board/) to find the fastest jockey at your event or keep it to the winner of each race!
 
-## Drive to victory!![](/../userfiles/file/FunPro/Race%20Cars/20190702-115236.jpg)
+## Drive to victory!![](/userfiles/file/FunPro/Race%20Cars/20190702-115236.jpg)
 
-Are your employees' still competitive but far greater petrol heads? Then let them put the pedal to the medal and tear up the track with Fun Pro UK's awesome [](/category/interactive-game-hire/twin-racing-car-simulators.html#BodyContent)[Race Car Simulators.](/category/interactive-game-hire/twin-racing-car-simulators/)
+Are your employees' still competitive but far greater petrol heads? Then let them put the pedal to the medal and tear up the track with Fun Pro UK's awesome [](/category/interactive-game-hire/twin-racing-car-simulators/#content)[Race Car Simulators.](/category/interactive-game-hire/twin-racing-car-simulators/)
 
 We have two realistic racing simulators which come complete with contoured racing seats, smart steering wheel and authentic pedals and have LED screens to give the best display of the circuit or track you are racing on!
 
@@ -50,7 +50,7 @@ As the modern world keeps developing, many employees spend their spare time on t
 
 Fun Pro UK's Hashtag Printer is perfect for your company and employees to capture all the best moments! The idea is simple, instead of phones being passed around to take photos, we create a dedicated event hashtag! The print station will then search the internet for all the images using this hashtag, allowing your guests to then print off any photos taken instantly at your event!
 
-This [interactive event entertainment](/products/) is perfect for any business to harness the power of user-generated content on social media. It's free publicity as your employees will need to post their photos of the night using your bespoke hashtag before they can print, creating a digital buzz for your business, great fun for your guests.
+This [interactive event entertainment](/interactive-game-hire/) is perfect for any business to harness the power of user-generated content on social media. It's free publicity as your employees will need to post their photos of the night using your bespoke hashtag before they can print, creating a digital buzz for your business, great fun for your guests.
 
 If you would like to know more about how the team at Fun Pro UK can help you with your award ceremonies, then call us on 0247 7220 701.
 
@@ -58,6 +58,6 @@ If you would like to know more about how the team at Fun Pro UK can help you wit
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
 meta_description: "Looking to hire a dance machine for exhibitions, parties, events, or fun days? We deliver dance machine hire nationwide. Contact us today to book yours!"
 permalink: "/dance-machine/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164"
@@ -54,15 +54,15 @@ Don't miss out on the opportunity to bring arcade action to your event with our 
 
 **£1695**\+ vat**
 
-Delivered [](dance-machine.html#specification)and [](dance-machine.html#specification)installed on site by our trained team
+Delivered [](/dance-machine/)and [](/dance-machine/)installed on site by our trained team
 
-In[\-](dance-machine.html#specification)house [](dance-machine.html#specification)branding [](dance-machine.html#specification)available [](dance-machine.html#specification)Printed[,](dance-machine.html#specification) applied & removed after each event
+In[\-](/dance-machine/)house [](/dance-machine/)branding [](/dance-machine/)available [](/dance-machine/)Printed[,](/dance-machine/) applied & removed after each event
 
-(One [](dance-machine.html#specification)time [](dance-machine.html#specification)use [](dance-machine.html#specification)only)
+(One [](/dance-machine/)time [](/dance-machine/)use [](/dance-machine/)only)
 
-\*Delivery [](dance-machine.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/dance-machine/)Charges & Minimum order value may apply
 
-[**Email:**](dance-machine.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/dance-machine/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -102,9 +102,9 @@ Lift required
 
 **Popular items order along side our Dance Machines are**
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Twin race car simulators](/products/twin-racing-car-simulators/)
-*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth/)
+*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
+*   [Twin race car simulators](/interactive-game-hire/twin-racing-car-simulators/)
+*   [Electronic Basketball hoop](/photo-booths/ultimate-green-screen-photo-booth/)
 *   Lights Out
 
 ## Arcade Dance Machine Hire - Twin Player

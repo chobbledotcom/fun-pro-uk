@@ -5,7 +5,7 @@ order: 50
 meta_title: "Christmas Roller Bowler - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Roller Bowler is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-roller-bowler/"
-categories: []
+categories: ["categories/christmas-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ded846a01430b2a0bdd108cdac5c8a0d"
@@ -40,7 +40,7 @@ As participants take their turn, colleagues gather to cheer, share tips, and enj
 
 Engaging, compact, and universally appealing, the **Christmas Roller Bowler** delivers a touch of nostalgia and plenty of festive fun, while helping create an inviting, energetic atmosphere around your event space.
 
-Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/../fun-fair-stalls/) to corporate events, [exhibitions](/../../exhibition-games/), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
+Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/fun-fair-stalls/) to corporate events, [exhibitions](/exhibition-games/), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
 
 **1 day Hire from**
 
@@ -52,7 +52,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](christmas-roller-bowler.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-roller-bowler/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## What Is Roller Bowler?
 
@@ -72,7 +72,7 @@ At [Fun Pro UK](/pages/about-corporate-entertainment-hire/), our Roller Bowler h
     
 *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
     
-*   Fully Brandable: [Custom graphics](/../branded-exhibition-games/) and panels available to match your corporate colours and messaging
+*   Fully Brandable: [Custom graphics](/branded-exhibition-games/) and panels available to match your corporate colours and messaging
     
 *   No Power Required: Completely mechanical game means no electrical setup or running costs
     
@@ -106,7 +106,7 @@ When you hire Roller Bowler from Fun Pro UK, you receive a complete service pack
     
 *   Professional installation and setup by trained technicians if requested
     
-*   [Custom branding](/../branded-exhibition-games/) options available
+*   [Custom branding](/branded-exhibition-games/) options available
     
 *   Full operational support throughout your event if needed
     
@@ -274,6 +274,6 @@ Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

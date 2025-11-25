@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [15 May 19 - AWARDS DESERVE SELFIES!](awards-deserve-selfies/)
+# [15 May 19 - AWARDS DESERVE SELFIES!](/awards-deserve-selfies/)
 
 **AWARDS DESERVE SELFIES!**
 
@@ -38,6 +38,6 @@ Are you arranging a conference or awards ceremony and aren't sure what you could
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

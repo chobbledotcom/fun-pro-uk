@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [20 October 16 - Leicester City Rooms](leicester-city-rooms/)
+# [20 October 16 - Leicester City Rooms](/leicester-city-rooms/)
 
 We had a wonderful time at The City Rooms in Leicester on Saturday. This was our first time at this gorgeous venue set in Leicester.  
 The [Magic Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) was as popular as ever with all of the guests that attended the wedding of Joanne and Peter.  
@@ -20,6 +20,6 @@ We would like to take this opportunity to congratulate the happy couple and than
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

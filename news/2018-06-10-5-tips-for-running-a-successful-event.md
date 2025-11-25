@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 June 18 - 5 tips for running a successful event!](5-tips-for-running-a-successful-event/)
+# [10 June 18 - 5 tips for running a successful event!](/5-tips-for-running-a-successful-event/)
 
 Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips to help you create a successful event that not only runs smoothly but is also stress free.  
   
@@ -28,6 +28,6 @@ We hope you've found these tips useful and that your event is a huge success!
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

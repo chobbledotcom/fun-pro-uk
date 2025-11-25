@@ -61,6 +61,6 @@ Fun Pro's team recommended a custom-branded [prize crane](/prize-crane-arcade-gr
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

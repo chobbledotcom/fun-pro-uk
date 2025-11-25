@@ -11,11 +11,11 @@ The Excel London, is conveniently situated only ten minutes away from Canary Wha
 
 This venue offers such a dynamic space, it is extremely popular for hosting a variety of events including corporate Conferences, Trade Shows and **Exhibitions** along with indoor and outdoor sporting events.
 
-Fun Pro Uk are conveniently located to deliver directly to your stand at the London Excel and surrounding area. Our reliable experienced delivery team supply a large variety of fun interactive game hire for Excel London. We are a popular choice for corporate events such as Trade Shows, Conferences and [Exhibition Stands](/category/exhibition-games.html#BodyContent). With our knowledge and expertise we can supply game hire for the smallest of stands to the larger booths.
+Fun Pro Uk are conveniently located to deliver directly to your stand at the London Excel and surrounding area. Our reliable experienced delivery team supply a large variety of fun interactive game hire for Excel London. We are a popular choice for corporate events such as Trade Shows, Conferences and [Exhibition Stands](/category/exhibition-games/#content). With our knowledge and expertise we can supply game hire for the smallest of stands to the larger booths.
 
 ## Which game hire for your event?
 
-With such a huge range of [interactive game hire](christmas-entertainment-game-hire'/) for London and the surrounding areas it can be a task to choose which would be best for your event. This is where the fun experts at Fun Pro Uk can help. Our choice of game hire is designed to help increase footfall to your stand, maximising your potential and increasing opportunities for you to engage with new clients.
+With such a huge range of [interactive game hire](/christmas-entertainment-game-hire'/) for London and the surrounding areas it can be a task to choose which would be best for your event. This is where the fun experts at Fun Pro Uk can help. Our choice of game hire is designed to help increase footfall to your stand, maximising your potential and increasing opportunities for you to engage with new clients.
 
 Our most popular exhibition stand games to hire are Batax Pro, Strike a light, Crack the Code along with many others. Many games are 1 player games whereby a prize can be given for the winner at the end of your event.
 
@@ -31,6 +31,6 @@ Here are some events that are coming up at the London Excel: [Click here to find
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

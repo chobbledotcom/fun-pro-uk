@@ -11,11 +11,11 @@ eleventyNavigation:
 
 # Christmas Game Hire – London's Leading Festive Entertainment Providers
 
-Transform your London Christmas celebrations into extraordinary experiences with Fun Pro UK's [Christmas game hire](/theme/category/christmas-game-hire/) services. From exclusive corporate [Christmas parties](/blog/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) to expansive seasonal exhibitions, our festive interactive entertainment creates unforgettable moments that captivate attendees and build lasting connections during the most wonderful time of the year.
+Transform your London Christmas celebrations into extraordinary experiences with Fun Pro UK's [Christmas game hire](/theme/category/christmas-game-hire/) services. From exclusive corporate [Christmas parties](/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) to expansive seasonal exhibitions, our festive interactive entertainment creates unforgettable moments that captivate attendees and build lasting connections during the most wonderful time of the year.
 
 ## Comprehensive Christmas Game Hire & Coverage Areas
 
-Although we [deliver](delivery-areas/) anywhere in the UK, our experienced team has a deep understanding of London's diverse event environment, from iconic venues like the [ExCeL London](excel-london/) to boutique corporate locations and prestigious university spaces.
+Although we [deliver](/delivery-areas/) anywhere in the UK, our experienced team has a deep understanding of London's diverse event environment, from iconic venues like the [ExCeL London](/excel-london/) to boutique corporate locations and prestigious university spaces.
 
 Whether you're arranging a company Christmas celebration at Imperial College London, coordinating festive team activities in Canary Wharf's financial district, or presenting a holiday brand activation in Windsor, we bring Christmas enchantment directly to your selected location with our professionally maintained, high-quality equipment.
 
@@ -93,7 +93,7 @@ Space needs vary according to game choices. Our London game hire specialists pro
 
 ### Can Christmas games work for outdoor winter celebrations?
 
-Most Christmas games require an indoor setup for equipment safety. Nevertheless, we offer weather-resistant options for sheltered outdoor areas. [Contact our team](contact-fun-pro-uk/) to discuss your particular venue needs.
+Most Christmas games require an indoor setup for equipment safety. Nevertheless, we offer weather-resistant options for sheltered outdoor areas. [Contact our team](/contact-fun-pro-uk/) to discuss your particular venue needs.
 
 ### When should I reserve Christmas games?
 
@@ -121,7 +121,7 @@ Join our growing community of satisfied London clients who rely on our expertise
 
 ## Book Christmas Games for Your London Event
 
-Ready to create exceptional Christmas memories in London? [Contact Fun Pro UK](contact-fun-pro-uk/) today to check availability, explore your requirements, and receive a quote for [Christmas game hire](/theme/category/christmas-game-hire/).
+Ready to create exceptional Christmas memories in London? [Contact Fun Pro UK](/contact-fun-pro-uk/) today to check availability, explore your requirements, and receive a quote for [Christmas game hire](/theme/category/christmas-game-hire/).
 
 Transform your Christmas event into a captivating, unforgettable celebration that attendees will remember long into the new year.
 
@@ -299,6 +299,6 @@ Transform your Christmas event into a captivating, unforgettable celebration tha
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 November 23 - Celebrate Christmas and the New Year in Style!](celebrate-christmas-and-the-new-year-in-style/)
+# [30 November 23 - Celebrate Christmas and the New Year in Style!](/celebrate-christmas-and-the-new-year-in-style/)
 
 As the festive season twinkles on the horizon, it's time to think about how to bid a grand farewell to this year and usher in the new one with pomp and splendor. Whether you're planning an office Christmas party or a dazzling New Year's Eve bash, Fun Pro UK is here to take your celebrations to an extraordinary level with [Christmas games](/category/christmas-game-hire/) and event supplies that you'll love.
 
@@ -18,7 +18,7 @@ Imagine the excitement of Las Vegas at your festive event with our [Mobile Casin
 
 ### Lights Out Game: An Electrifying Countdown
 
-As the clock ticks down to the New Year, what better way to celebrate than with our interactive Lights Out game? This [interactive game](/products/) symbolises bidding adieu to the old year and welcoming the new with a burst of energy and fun. It's an engaging, playful way to count down those final moments of the year.
+As the clock ticks down to the New Year, what better way to celebrate than with our interactive Lights Out game? This [interactive game](/interactive-game-hire/) symbolises bidding adieu to the old year and welcoming the new with a burst of energy and fun. It's an engaging, playful way to count down those final moments of the year.
 
 ### Climbing Wall: Scaling New Heights
 
@@ -42,6 +42,6 @@ Our unique entertainment options are designed not just to amuse but to add meani
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

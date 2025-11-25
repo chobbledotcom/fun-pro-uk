@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [06 February 18 - Beat the Bleep!](beat-the-bleep/)
+# [06 February 18 - Beat the Bleep!](/beat-the-bleep/)
 
-One of our [interactive games](/products/) which is all set up ready for a [corporate event in Coventry](/pages/corporate-event-hire-coventry/) tomorrow .
+One of our [interactive games](/interactive-game-hire/) which is all set up ready for a [corporate event in Coventry](/pages/corporate-event-hire-coventry/) tomorrow .
 
 The [Mega Buzz Wire game](/category/interactive-game-hire/giant-buzz-wire/) is a real popular choice of entertainment for corporate events.
 
@@ -24,6 +24,6 @@ We can't wait to see the staff at their team building and conference enjoying th
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

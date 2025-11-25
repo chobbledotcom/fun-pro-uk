@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 November 19 - Christmas Fun!](christmas-fun/)
+# [05 November 19 - Christmas Fun!](/christmas-fun/)
 
 ## It's that time of year again!
 
@@ -16,7 +16,7 @@ The elves are busy making presents. The reindeers are in training. And the team 
 
 Who doesn't love Christmas? Here at Fun Pro UK, it is our favourite time of year! And we are all in full swing with our fluffy jumpers and bobbly hats. But most importantly we are delivering exceptional Christmas spirit to many events up and down the country as we countdown to the special day.
 
-## Are you looking for some extra Christmas cheer for your event?![Christmas photo booth](/../userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)
+## Are you looking for some extra Christmas cheer for your event?![Christmas photo booth](/userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)
 
 We all know a photo booth is a must have at an employee event. So why not hire one of our [Christmas photo booths](/pages/christmas-photo-booth-corporate-event-hire/) for your Christmas party or seasonal sales promotion? Whether it is our snowy forest scene or our rustic Santa's cabin. These festive booths are just what any seasonal event needs to bring the setting to life.
 
@@ -30,7 +30,7 @@ Fun Pro UK's [Christmas grottos](/category/christmas-grotto-hire/) are absolutel
 
 ### Want something unique for your event?
 
-![Dance Machine](/../userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)
+![Dance Machine](/userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)
 
 Our all singing and dancing [dance machine](/category/exhibition-games/dance-machine/) is the perfect entertainment item to get your guests active at your Christmas party! Why not put your dancing shoes on and get down on the floor showing off your moves! Your guests will be intrigued when they see those shapes being thrown around and will not be able to stop themselves joining in the fun!
 
@@ -38,6 +38,6 @@ Our all singing and dancing [dance machine](/category/exhibition-games/dance-mac
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

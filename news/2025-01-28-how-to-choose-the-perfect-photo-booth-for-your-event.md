@@ -8,11 +8,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [28 January 25 - How to Choose the Perfect Photo Booth for Your Event](how-to-choose-the-perfect-photo-booth-for-your-event/)
+# [28 January 25 - How to Choose the Perfect Photo Booth for Your Event](/how-to-choose-the-perfect-photo-booth-for-your-event/)
 
 When you're hosting a fun and unique event, there needs to be a fine balance between meticulous planning and delivering an experience that guests would find memorable. Attendees should be able to cherish memories of the event for years and years to come.
 
-No wonder photo booths have become a staple at events. These beloved booths offer an exciting way to capture memories while keeping guests entertained. Whether it’s a [wedding](/pages/hire-outdoor-games-for-weddings/), [corporate event](/products/corporate-entertainment/), birthday party, or community gathering, a [photo booth hire](/category/photo-booths-and-magic-mirrors/) adds an extra layer of fun.
+No wonder photo booths have become a staple at events. These beloved booths offer an exciting way to capture memories while keeping guests entertained. Whether it’s a [wedding](/pages/hire-outdoor-games-for-weddings/), [corporate event](/corporate-entertainment/), birthday party, or community gathering, a [photo booth hire](/category/photo-booths-and-magic-mirrors/) adds an extra layer of fun.
 
 If you’re considering a photo booth for your event, knowing how to choose the perfect one can make all the difference. Let’s explore the best options and essential tips for finding the ideal booth for your needs.
 
@@ -150,6 +150,6 @@ Let us help you create unforgettable memories with our high quality photo booths
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

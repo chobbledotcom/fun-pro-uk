@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 July 19 - Where's Colin??](wheres-colin/)
+# [10 July 19 - Where's Colin??](/wheres-colin/)
 
 ## Summer Event Fun
 
@@ -16,7 +16,7 @@ gallery:
 
 Over the last two weeks the Fun Pro team and Colin have been busy travelling from one end of the country to the other (and back again!) there was some serious mileage recorded!
 
-## **Heading for London ![Lights Out](/../userfiles/file/FunPro/Stike%20a%20light/20190619-160019.jpg)** 
+## **Heading for London ![Lights Out](/userfiles/file/FunPro/Stike%20a%20light/20190619-160019.jpg)** 
 
 Last Monday saw the Fun Pro team travel to the Excel Centre in London to deliver our Strike a Light - Lights Out game for a corporate client. The game was set up on their exhibition stand for visitors to play as they were passing by. The game was a real winner - everyone loves to compete against a friend or colleague and the Strike a Light' does exactly that! Our electronic game attracted great footfall for our client, helping gain potential new customers for their business.
 
@@ -28,7 +28,7 @@ Just so the team didn't think the heat was off, last Friday Colin and the crew s
 
 The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/category/interactive-game-hire/3/grab-a-grand/) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
 
-## **Why Branding is important ![Grab a Grand ](/../userfiles/file/FunPro/blog.jpg)** 
+## **Why Branding is important ![Grab a Grand ](/userfiles/file/FunPro/blog.jpg)** 
 
 Branding a game with your company name and logo is an effective way to showcase your company and ensure it is recognised by your target market. Brand activation ensures that your name stands out, everyone sees a name and is more likely to remember the visual graphics of an item.
 
@@ -42,6 +42,6 @@ Once the Fun Pro team were all set up, the game was good to go. It was fun to se
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

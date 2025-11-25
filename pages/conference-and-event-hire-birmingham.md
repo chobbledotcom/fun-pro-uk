@@ -11,9 +11,9 @@ eleventyNavigation:
 
 # Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success
 
-Birmingham's position as a major business hub means [conference](conference-idea/) organisers face considerable pressure to create events that genuinely engage crowds. Between managing venue logistics, coordinating speakers, and keeping attendees focused throughout long days, entertainment often becomes an afterthought, yet it's frequently the element that determines whether your conference creates lasting connections or simply ticks boxes.
+Birmingham's position as a major business hub means [conference](/conference-idea/) organisers face considerable pressure to create events that genuinely engage crowds. Between managing venue logistics, coordinating speakers, and keeping attendees focused throughout long days, entertainment often becomes an afterthought, yet it's frequently the element that determines whether your conference creates lasting connections or simply ticks boxes.
 
-If you're planning a conference or corporate event at venues like the [NEC Birmingham](nec-birmingham/), [ICC](game-hire-icc-birmingham/), or any of the city's hotel conference centres, you'll know the challenges. Large attendee numbers, varying levels of engagement, networking that doesn't quite happen naturally, and the constant competition for attention all make event planning more complex than it first appears.
+If you're planning a conference or corporate event at venues like the [NEC Birmingham](/nec-birmingham/), [ICC](/game-hire-icc-birmingham/), or any of the city's hotel conference centres, you'll know the challenges. Large attendee numbers, varying levels of engagement, networking that doesn't quite happen naturally, and the constant competition for attention all make event planning more complex than it first appears.
 
 That's where thoughtfully chosen [interactive entertainment](/interactive-game-hire/) makes a real difference. Not as a distraction from your conference content, but as a tool that helps achieve your actual goals, whether that's facilitating networking, reinforcing your brand message, or simply ensuring attendees leave with positive memories of your event.
 
@@ -39,13 +39,13 @@ It's worth discussing your venue with us early in the planning process. We know 
 
 Different [corporate events](/corporate-entertainment/) have different entertainment needs:
 
-[Large conferences](conference-idea/) - (500+ attendees) benefit from multiple game stations that can handle high throughput during breaks, ensuring queues don't become frustrating.
+[Large conferences](/conference-idea/) - (500+ attendees) benefit from multiple game stations that can handle high throughput during breaks, ensuring queues don't become frustrating.
 
 [Trade shows and exhibitions](/exhibition-games/) - need entertainment that stops attendees in their tracks and creates opportunities for your team to start conversations whilst they're engaged with the activity.
 
 [Corporate award ceremonies](/category/company-award-ceremonies/) - call for entertainment that complements the formality of the occasion; perhaps positioned for pre-dinner drinks rather than during the main programme.
 
-[Team-building days](team-building-ideas/) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
+[Team-building days](/team-building-ideas/) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
 
 Many types of corporate events often benefit from [branded entertainment](/category/branded-exhibition-games/) that reinforces your messaging whilst creating shareable moments for social media.
 
@@ -83,11 +83,11 @@ Planning early typically gives you more options and better availability, particu
 
 ## Why Choose Fun Pro for Birmingham Conference Hire
 
-As [corporate event specialists](about-corporate-entertainment-hire/) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
+As [corporate event specialists](/about-corporate-entertainment-hire/) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
 
 Our approach focuses on helping you make informed decisions rather than simply pushing equipment. We ask about your venue, your attendees, your goals, and your concerns, because a game that works brilliantly in one context might be entirely wrong for yours.
 
-All our equipment is professional-grade and safety-tested, with proper [insurance](insurance/) and maintenance records. This matters when you're working with corporate clients or at major venues that require documentation. We handle [delivery](delivery-areas/), setup, and collection throughout Birmingham and the wider West Midlands, taking that logistical burden off your shoulders.
+All our equipment is professional-grade and safety-tested, with proper [insurance](/insurance/) and maintenance records. This matters when you're working with corporate clients or at major venues that require documentation. We handle [delivery](/delivery-areas/), setup, and collection throughout Birmingham and the wider West Midlands, taking that logistical burden off your shoulders.
 
 Being based in Coventry means we know Birmingham venues well and can reach any location in the city efficiently. Whether you're planning an event at the NEC, a city-centre hotel, or an office venue in the suburbs, we've worked in similar spaces and understand the practical considerations involved.
 
@@ -95,7 +95,7 @@ Being based in Coventry means we know Birmingham venues well and can reach any l
 
 For major Birmingham venues, particularly the NEC and ICC, it's worth starting your planning at least 6-8 weeks before your event. These venues often have multiple events running simultaneously, so confirming your entertainment early ensures everything aligns with venue access times and your other suppliers.
 
-When you [contact us](contact-fun-pro-uk/) for a quote, it's helpful to know your venue, event date, approximate attendee numbers, and what you're hoping to achieve with the entertainment. We'll then discuss options that fit your space, budget, and goals; this consultation is about finding the right solution, not about selling you the most equipment.
+When you [contact us](/contact-fun-pro-uk/) for a quote, it's helpful to know your venue, event date, approximate attendee numbers, and what you're hoping to achieve with the entertainment. We'll then discuss options that fit your space, budget, and goals; this consultation is about finding the right solution, not about selling you the most equipment.
 
 We work alongside your venue coordinators to ensure smooth delivery and setup, managing the logistics so you can focus on other aspects of your event. On the day itself, if you've opted for our staffing service, our team operates the games professionally, representing your event well whilst keeping things running smoothly.
 
@@ -107,7 +107,7 @@ For major venues like the NEC or ICC, 6-8 weeks advance booking is sensible, par
 
 ### Do you deliver to all Birmingham conference venues including the NEC and ICC?
 
-Yes, we provide [nationwide coverage](delivery-areas/) with particular experience in Birmingham venues. Based in Coventry, we're ideally positioned to serve all Birmingham locations efficiently. Delivery, setup, and collection\* are included in our service, and we work with venue requirements for loading times and access.
+Yes, we provide [nationwide coverage](/delivery-areas/) with particular experience in Birmingham venues. Based in Coventry, we're ideally positioned to serve all Birmingham locations efficiently. Delivery, setup, and collection\* are included in our service, and we work with venue requirements for loading times and access.
 
 ### What's the best entertainment for large conferences with 500+ attendees?
 
@@ -127,7 +127,7 @@ Yes, we can provide experienced staff to operate the games professionally throug
 
 ### What happens if we need to change our booking?
 
-We understand that conference plans change; speakers cancel, attendee numbers shift, or venue details get finalised later than expected. [Contact us](contact-fun-pro-uk/) as soon as you're aware of any changes, and we'll work with you to adjust your booking accordingly. Early communication helps us accommodate changes more easily.
+We understand that conference plans change; speakers cancel, attendee numbers shift, or venue details get finalised later than expected. [Contact us](/contact-fun-pro-uk/) as soon as you're aware of any changes, and we'll work with you to adjust your booking accordingly. Early communication helps us accommodate changes more easily.
 
 ### How do interactive games help with conference networking?
 
@@ -135,9 +135,9 @@ Interactive games create natural icebreakers, giving attendees something to do a
 
 ## Ready to Plan Your Birmingham Conference Entertainment?
 
-Whether you're organising a large-scale conference at the [NEC](nec-birmingham/), an intimate team event, or an exhibition stand that needs to stand out, we're here to help you make informed decisions about your entertainment. Our [friendly team](meet-the-team/) brings 15 years of corporate event experience to every consultation, ensuring you choose options that genuinely support your event goals.
+Whether you're organising a large-scale conference at the [NEC](/nec-birmingham/), an intimate team event, or an exhibition stand that needs to stand out, we're here to help you make informed decisions about your entertainment. Our [friendly team](/meet-the-team/) brings 15 years of corporate event experience to every consultation, ensuring you choose options that genuinely support your event goals.
 
-[Get in touch](contact-fun-pro-uk/) to discuss your Birmingham conference or corporate event, and we'll provide a free quote based on your specific requirements.
+[Get in touch](/contact-fun-pro-uk/) to discuss your Birmingham conference or corporate event, and we'll provide a free quote based on your specific requirements.
 
 \*Delivery, setup, and collection may incur additional charges depending on your location.
 
@@ -315,6 +315,6 @@ Whether you're organising a large-scale conference at the [NEC](nec-birmingham/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

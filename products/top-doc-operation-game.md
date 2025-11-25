@@ -5,7 +5,7 @@ order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"
 meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 permalink: "/top-doc-operation-game/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/christmas-grotto-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e"
@@ -41,11 +41,11 @@ It's perfect for any medical themed event or conference, but you don't need doct
 
 **£1195**\+ vat**
 
-Delivered [](top-doc-operation-game.html#specification)and [](top-doc-operation-game.html#specification)installed on site by our trained team
+Delivered [](/top-doc-operation-game/)and [](/top-doc-operation-game/)installed on site by our trained team
 
-\*Delivery [](top-doc-operation-game.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/top-doc-operation-game/)Charges & Minimum order value may apply
 
-[**Email:**](top-doc-operation-game.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/top-doc-operation-game/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -88,7 +88,7 @@ Lift required
 *   [Pluck A duck](/pluck-a-duck-racing/)
 *   [Gold cup horse racing](/29/gold-cup-horse-racing/)
 *   [Retro arcade game](/retro-arcade-games/)
-*   [Pick N mix hire](/../exhibition-games/42/pix-n-mix-hire/)
+*   [Pick N mix hire](/exhibition-games/42/pix-n-mix-hire/)
 
 **A familiar favourite**
 

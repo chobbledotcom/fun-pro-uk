@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [01 December 17 - Christmas Parties with the NEC](christmas-parties-with-the-nec/)
+# [01 December 17 - Christmas Parties with the NEC](/christmas-parties-with-the-nec/)
 
 Last night saw Team Perfect Snap returning to the NEC in [Birmingham](/pages/corporate-event-hire-birmingham/) to help celebrate Christmas with them just as we did last year!
 
@@ -18,7 +18,7 @@ Our designers had already made a framed overlay with the companies chosen wordin
 
 Our team were happy to assist by setting up earlier in the day, way ahead of the start of the function to allow the finishing touches at the venue to be completed.
 
-![](/../userfiles/nec1.png)Once the guests had arrived for a drinks reception, the entertainment began. Our talking [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) sprang to life and the Christmas party was in full swing. Everyone grabbed their friends and gathered around the props deciding which hat would look best for their photo.
+![](/userfiles/nec1.png)Once the guests had arrived for a drinks reception, the entertainment began. Our talking [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) sprang to life and the Christmas party was in full swing. Everyone grabbed their friends and gathered around the props deciding which hat would look best for their photo.
 
 The Selfie Mirror proved very popular as always and everyone loved their instant photos that are printed as a souvenir of their evening . We had a great time meeting guests that had remembered us from last year too. Perfect Snap can't wait til next year!
 
@@ -26,6 +26,6 @@ The Selfie Mirror proved very popular as always and everyone loved their instant
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

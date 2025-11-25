@@ -5,7 +5,7 @@ order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"
 meta_description: "Looking for green screen photo booth hire near you? Ideal for parties, corporate events, and more. UK-wide delivery available. Call today to reserve!"
 permalink: "/green-screen-photo-booths/"
-categories: []
+categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105"
@@ -64,15 +64,15 @@ Each hire includes a friendly operator to guide your guests through the features
 
 **£495**\+ vat**
 
-Delivered [](green-screen-photo-booths.html#specification)and [](green-screen-photo-booths.html#specification)installed on site by our trained team
+Delivered [](/green-screen-photo-booths/)and [](/green-screen-photo-booths/)installed on site by our trained team
 
-In[\-](green-screen-photo-booths.html#specification)house [](green-screen-photo-booths.html#specification)branding [](green-screen-photo-booths.html#specification)available [](green-screen-photo-booths.html#specification)Printed[,](green-screen-photo-booths.html#specification) applied & removed after each event
+In[\-](/green-screen-photo-booths/)house [](/green-screen-photo-booths/)branding [](/green-screen-photo-booths/)available [](/green-screen-photo-booths/)Printed[,](/green-screen-photo-booths/) applied & removed after each event
 
-(One [](green-screen-photo-booths.html#specification)time [](green-screen-photo-booths.html#specification)use [](green-screen-photo-booths.html#specification)only)
+(One [](/green-screen-photo-booths/)time [](/green-screen-photo-booths/)use [](/green-screen-photo-booths/)only)
 
-\*Delivery [](green-screen-photo-booths.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/green-screen-photo-booths/)Charges & Minimum order value may apply
 
-[**Email:**](green-screen-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/green-screen-photo-booths/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -121,7 +121,7 @@ Green screen photo booth hire gives your guests the chance to create amazing, un
 
 ### A choice of photo booths
 
-![Green screen booths](/../../userfiles/file/FunPro/img-20180708-wa0037.jpg) Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/classic-photo-booths/), we can [brand the outside](/../branded-exhibition-games/24/bespoke-photo-booth-hire/) too, creating a real draw at an exhibition or trade show
+![Green screen booths](/userfiles/file/FunPro/img-20180708-wa0037.jpg) Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/classic-photo-booths/), we can [brand the outside](/branded-exhibition-games/24/bespoke-photo-booth-hire/) too, creating a real draw at an exhibition or trade show
 
 ### A complete service
 

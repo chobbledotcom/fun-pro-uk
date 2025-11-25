@@ -8,19 +8,19 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [01 March 23 - Party Hire Experts: Looking forwards to March Events](party-hire-experts-looking-forwards-to-march-events/)
+# [01 March 23 - Party Hire Experts: Looking forwards to March Events](/party-hire-experts-looking-forwards-to-march-events/)
 
 We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off the month of March.
 
 At Fun Pro UK, we specialise in providing game hire services for a variety of events, such as exhibitions, trade shows, and conferences. With our bespoke [branded game hire](/category/branded-exhibition-games/) options, we can personalise the games to include branding and enhance brand activation, footfall, engagement, attraction, and sales.
 
-Our games are a huge success at events, and we've received many compliments on our diverse range of options. Our selection includes [Batak Pro](/category/batak/batak-pro/), [Batak Lite](/category/all-products/batak-lite/), [Crack the Code](/../crack-the-code-safe-cracker/), [Prize Crane/Claw Machine](/../prize-crane-arcade-grabber/), and more. We've also included some photos of these games in action at recent exhibitions for you to see.
+Our games are a huge success at events, and we've received many compliments on our diverse range of options. Our selection includes [Batak Pro](/category/batak/batak-pro/), [Batak Lite](/category/all-products/batak-lite/), [Crack the Code](/crack-the-code-safe-cracker/), [Prize Crane/Claw Machine](/prize-crane-arcade-grabber/), and more. We've also included some photos of these games in action at recent exhibitions for you to see.
 
-![Batak Hire](/../userfiles/batak23.jpg)
+![Batak Hire](/userfiles/batak23.jpg)
 
 We're proud to offer our services throughout the UK, ensuring that every event we're a part of is a success. Whether you're planning a small event or a large-scale exhibition, we've got you covered!
 
-![Crack the Code Hire](/../userfiles/crackcode.jpg "Crack the Code Game")
+![Crack the Code Hire](/userfiles/crackcode.jpg)
 
 Here are some upcoming events to look forward to:
 
@@ -32,7 +32,7 @@ Here are some upcoming events to look forward to:
     
 *   First Day of Spring - March 20th marks the first day of Spring. Put your winter coats away and come out to play with Fun Pro UK!
 
-![Air Hockey Table Hire](/../userfiles/20211128-122518.jpg "Event Hire - Air Hockey Table")
+![Air Hockey Table Hire](/userfiles/20211128-122518.jpg)
 
 ## Your Event Hire Experts
 
@@ -50,6 +50,6 @@ Book online today! Just look through our website to see more.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

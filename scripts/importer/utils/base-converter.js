@@ -3,6 +3,7 @@ const { readHtmlFile, writeMarkdownFile, slugFromFilename, markdownFilename } = 
 const { extractMetadata } = require('./metadata-extractor');
 const { convertToMarkdown } = require('./pandoc-converter');
 const { processContent } = require('./content-processor');
+const { fixHtmlLinks, stripLinkTitles, fixRelativePaths } = require('./find-replace');
 
 /**
  * Create a converter for a specific content type
@@ -82,7 +83,42 @@ const createConverter = ({
       const frontmatter = result.frontmatter || result;
       filename = result.filename || filename;
 
+      // Fix .html links, relative paths, and strip title attributes before final output
+      content = fixHtmlLinks(content);
+      content = fixRelativePaths(content);
+      content = stripLinkTitles(content);
+
       const fullContent = `${frontmatter}\n\n${content}`;
+
+      // Check for .html in content body (not frontmatter) - this shouldn't exist in output
+      if (content.includes('.html')) {
+        console.log(' ✗ FAILED');
+        console.error(`    Error: Output contains ".html" - links not fully converted`);
+        // Find and show the problematic lines
+        const lines = content.split('\n');
+        lines.forEach((line, idx) => {
+          if (line.includes('.html')) {
+            console.error(`    Line ${idx + 1}: ${line.substring(0, 200)}${line.length > 200 ? '...' : ''}`);
+          }
+        });
+        throw new Error(`Output for "${slug}" contains ".html" references that should have been converted`);
+      }
+
+      // Check for relative links - all links should be absolute (start with / or http)
+      // Match ](foo where foo doesn't start with /, http, #, or mailto:
+      const relativeLinks = content.match(/\]\((?![/#]|http|mailto:|tel:)[^)]+\)/g);
+      if (relativeLinks && relativeLinks.length > 0) {
+        console.log(' ✗ FAILED');
+        console.error(`    Error: Output contains relative links - should be absolute`);
+        // Find and show the problematic lines
+        const lines = content.split('\n');
+        lines.forEach((line, idx) => {
+          if (/\]\((?![/#]|http|mailto:|tel:)[^)]+\)/.test(line)) {
+            console.error(`    Line ${idx + 1}: ${line.substring(0, 200)}${line.length > 200 ? '...' : ''}`);
+          }
+        });
+        throw new Error(`Output for "${slug}" contains relative links that should be absolute`);
+      }
 
       writeMarkdownFile(path.join(outputDir, filename), fullContent);
       

@@ -15,7 +15,7 @@ If you're looking to bring excitement and engagement to your next [corporate eve
 
 Batak Lite is a portable, fast-paced reaction game designed to challenge reflexes and coordination. Featuring a panel of illuminated targets, players must strike the lights as quickly as possible, making it an engaging and thrilling activity for guests of all ages.
 
-This [interactive game](/search.aspx%3Fq=interactive/) is a fantastic addition to events such as trade shows, [team-building days](team-building-ideas/), [promotional brand events](promotion-event-games/), and networking events. It provides a fun and competitive atmosphere, ensuring active participation.
+This [interactive game](/search.aspx%3Fq=interactive/) is a fantastic addition to events such as trade shows, [team-building days](/team-building-ideas/), [promotional brand events](/promotion-event-games/), and networking events. It provides a fun and competitive atmosphere, ensuring active participation.
 
 ## Why Choose Batak Lite For Your Event in Birmingham?
 
@@ -69,7 +69,7 @@ Please contact us to find out more
 
 **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
-**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](contact-fun-pro-uk.html#BodyContent)**
+**[![Contact us](/userfiles/file/FunPro/contactus2.jpg)](/contact-fun-pro-uk/#content)**
 
 **Equipment size**
 
@@ -161,10 +161,10 @@ Looking to enhance your event further? We offer a variety of interactive games f
 
 ## Hire Batak Lite for Your Next Event in Birmingham
 
-[Get in touch today](contact-fun-pro-uk/) to check availability, discuss customisation options, and receive a competitive quote for Batak Lite hire in Birmingham
+[Get in touch today](/contact-fun-pro-uk/) to check availability, discuss customisation options, and receive a competitive quote for Batak Lite hire in Birmingham
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

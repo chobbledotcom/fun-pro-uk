@@ -8,11 +8,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [03 October 18 - Importance of Photo Booths!](importance-of-photo-booths/)
+# [03 October 18 - Importance of Photo Booths!](/importance-of-photo-booths/)
 
 Recently we joined many of [KPMG's staff in Birmingham for their annual awards night](/pages/putting-kpmg-in-the-picture/). We attended with two of our most popular [Green Screen Photo Booths.](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-For a company hosting an awards night is incredibly important in showing your staff that you value their continual hard work throughout the year. But as we all know there are lulls in these types of events when acts are changing over on stage or between courses. So why not put some [interactive games](/products/) or a few [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) into your next event to keep your staff entertained.
+For a company hosting an awards night is incredibly important in showing your staff that you value their continual hard work throughout the year. But as we all know there are lulls in these types of events when acts are changing over on stage or between courses. So why not put some [interactive games](/interactive-game-hire/) or a few [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) into your next event to keep your staff entertained.
 
 Our Photo Booths at KPMG's [award night](/category/company-award-ceremonies/) went down a storm with continual queues through the whole time we attended. The massive benefit of photo booths are that your guests get a tangible item from your event. Meaning they are able to take away the memories of the night.
 
@@ -24,6 +24,6 @@ Why not contact one of our friendly team on 02476629197 or Email [info@funprouk.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

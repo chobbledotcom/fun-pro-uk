@@ -5,7 +5,7 @@ order: 50
 meta_title: "Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK"
 meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places with a lot of children&#39;s footfall - suitable for fundraisers, shopping centres, schools &amp; more."
 permalink: "/christmas-grotto-1/"
-categories: []
+categories: ["categories/christmas-grotto-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/781f6198c50c1e8a388b4c4f73e2d54b"
@@ -86,4 +86,4 @@ What's more, just like your Christmas turkey, our Christmas grotto for hire come
 
 The perfect party piece
 
-Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/../photo-booths-and-magic-mirrors/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
+Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/photo-booths-and-magic-mirrors/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!

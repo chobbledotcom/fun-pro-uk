@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 November 16 - Dunchurch Park](dunchurch-park/)
+# [12 November 16 - Dunchurch Park](/dunchurch-park/)
 
 So excited, on the way to Dunchurch Park Hotel in the beautiful town of Rugby, Warwickshire.
 
@@ -19,6 +19,6 @@ Tonight, we are here to bring fun entertainment for a wedding reception with our
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

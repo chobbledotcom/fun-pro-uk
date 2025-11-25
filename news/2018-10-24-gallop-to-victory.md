@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [24 October 18 - Gallop to victory!](gallop-to-victory/)
+# [24 October 18 - Gallop to victory!](/gallop-to-victory/)
 
 Looking for something different to entertain your guests with? Or planning a Race Night event?
 
@@ -28,6 +28,6 @@ So call us today on 02476 629197 to discuss how we can add a buzz to your next e
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

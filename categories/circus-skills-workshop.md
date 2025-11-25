@@ -52,7 +52,7 @@ Bring the local community together with one of our circus skills workshops, help
 
 ### Trained and experienced instructors
 
-Our professional circus instructors are passionate about teaching and helping you to create a memorable and [fun event](/blog/2025-01-21/fun-group-activities-for-events-in-2025/).
+Our professional circus instructors are passionate about teaching and helping you to create a memorable and [fun event](/news/2025-01-21/fun-group-activities-for-events-in-2025/).
 
 ### All equipment provided
 
@@ -108,6 +108,6 @@ While our circus workshops can accommodate different venue sizes, it’s best to
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 February 25 - Use Fun Staff Party Games to Help Build a Happier, More Productive Team](use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/)
+# [10 February 25 - Use Fun Staff Party Games to Help Build a Happier, More Productive Team](/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/)
 
 Staff parties are a great way to encourage [team bonding](/2024-12-05/the-best-ideas-for-team-bonding-activities-in-the-workplace/) and make everyone feel included, and build stronger relationships at work. The type of parties you throw at your company say a lot about the culture you’ve created or are trying to create, so it’s important to think about this when planning the activities you’d like to include.
 
@@ -60,7 +60,7 @@ Here are some of the staff party games available to hire from Fun Pro:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc97BGF5hyiVSErKIYApaJvohLmOPLldUssmdpbAZhgxTHermNaUUSHnFX52aAHIQSs4QfOL61JSdyGxj7pWfuTKqSQgdmMuLo0lSo_4WWrQaOWFOhqtwttSxFb36BEXSddqAwXHQ?key=KExXpscMQ0sVnSHnZPw7R9RA)
 
-[Prize Crane games](/../prize-crane-arcade-grabber/) make a great addition to staff parties of all sizes and a great way to break the ice and get everyone involved. If you remember going to an arcade as a child, the thrill of wondering whether you’d win that teddy was half the fun. With our Prize Crane arcade games, your team can have hours of fun just with these alone.
+[Prize Crane games](/prize-crane-arcade-grabber/) make a great addition to staff parties of all sizes and a great way to break the ice and get everyone involved. If you remember going to an arcade as a child, the thrill of wondering whether you’d win that teddy was half the fun. With our Prize Crane arcade games, your team can have hours of fun just with these alone.
 
 The machines themselves come in a range of themes and colours and they don’t require any coins; simply fill them with your chosen prizes and see who’s lucky enough to win.
 
@@ -96,7 +96,7 @@ Our [crazy golf](/category/fun-days/crazy-golf/) hire starts at £495 +VAT.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcC9AEk16l2797BBtrlCkW5lAV_ki9ouPjVdnQiEutYgaaFUFYYjp24Dd1HBQCjqKMa6d93-HrRZgQpsn15uX-YxGJwS1876Zq4HjjQzbQ0SO2ulV1znhAPb-Up7tQavVwkrE3aQ?key=KExXpscMQ0sVnSHnZPw7R9RA)
 
-[Batak reaction games](/../search.aspx%3Fq=batak/) are always a hit at staff parties and events, especially when people are playing in groups. These high-energy games involve pressing illuminated buttons as quickly as possible, making them ideal for those in your team who enjoy a fast-paced challenge.
+[Batak reaction games](/search.aspx%3Fq=batak/) are always a hit at staff parties and events, especially when people are playing in groups. These high-energy games involve pressing illuminated buttons as quickly as possible, making them ideal for those in your team who enjoy a fast-paced challenge.
 
 The prices for our [Batak Lite](/category/all-products/batak-lite/) games start at £445 + VAT and £495 + VAT for [Batak Pro.](/category/batak/batak-pro/)
 
@@ -152,7 +152,7 @@ At Fun Pro UK, we understand the importance of creating memorable and fun events
 
 **Reliability**: Our top-notch equipment and seamless service mean you can focus on enjoying the party while we handle the logistics.
 
-Take a look through our [range of staff party games](/category/all-products/) or [get in touch with us](/pages/contact-fun-pro-uk.html#FooterContact) for a free quote.
+Take a look through our [range of staff party games](/category/all-products/) or [get in touch with us](/pages/contact-fun-pro-uk/#FooterContact) for a free quote.
 
 ## Frequently Asked Questions
 
@@ -192,6 +192,6 @@ The best way to measure the success of any party or event where you’re includi
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

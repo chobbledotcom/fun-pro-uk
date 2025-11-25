@@ -5,7 +5,7 @@ order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"
 meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/snatch-it/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
@@ -44,15 +44,15 @@ SNATCH IT is new to the interactive game hire world, and FUN PRO UK have one tha
 
 **£1195**\+ vat**
 
-Delivered [](snatch-it.html#specification)and [](snatch-it.html#specification)installed on site by our trained team
+Delivered [](/snatch-it/)and [](/snatch-it/)installed on site by our trained team
 
-In[\-](snatch-it.html#specification)house [](snatch-it.html#specification)branding [](snatch-it.html#specification)available [](snatch-it.html#specification)Printed[,](snatch-it.html#specification) applied & removed after each event
+In[\-](/snatch-it/)house [](/snatch-it/)branding [](/snatch-it/)available [](/snatch-it/)Printed[,](/snatch-it/) applied & removed after each event
 
-(One [](snatch-it.html#specification)time [](snatch-it.html#specification)use [](snatch-it.html#specification)only)
+(One [](/snatch-it/)time [](/snatch-it/)use [](/snatch-it/)only)
 
-\*Delivery [](snatch-it.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/snatch-it/)Charges & Minimum order value may apply
 
-[**Email:**](snatch-it.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/snatch-it/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -92,9 +92,9 @@ Lift required
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
 
 **Branded top Panel**
 

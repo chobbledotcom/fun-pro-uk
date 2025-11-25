@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 September 17 - Sunday's Wedding Fair](sundays-wedding-fair/)
+# [12 September 17 - Sunday's Wedding Fair](/sundays-wedding-fair/)
 
 It was lovely to see so many people at the wedding fair on Sunday which was held at Ansty Hall Hotel in [Coventry](/pages/corporate-event-hire-coventry/) by Perfect Brides.
 
@@ -26,6 +26,6 @@ To book one of our perfect Booths please call 02476629197 or Email: [info@funpro
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

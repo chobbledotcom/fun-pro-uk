@@ -5,7 +5,7 @@ order: 50
 meta_title: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK"
 meta_description: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/plinko-game-hire/"
-categories: []
+categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291"
@@ -55,15 +55,15 @@ Don't miss out on the fun – book our Giant Plinko Game for your next event in 
 
 **£1195**\+ vat**
 
-Delivered [](/all-products/68/plinko-game-hire.html#specification)and [](/all-products/68/plinko-game-hire.html#specification)installed on site by our trained team
+Delivered [](/all-products/68/plinko-game-hire/)and [](/all-products/68/plinko-game-hire/)installed on site by our trained team
 
-In[\-](/all-products/68/plinko-game-hire.html#specification)house [](/all-products/68/plinko-game-hire.html#specification)branding [](/all-products/68/plinko-game-hire.html#specification)available [](/all-products/68/plinko-game-hire.html#specification)Printed[,](/all-products/68/plinko-game-hire.html#specification) applied & removed after each event
+In[\-](/all-products/68/plinko-game-hire/)house [](/all-products/68/plinko-game-hire/)branding [](/all-products/68/plinko-game-hire/)available [](/all-products/68/plinko-game-hire/)Printed[,](/all-products/68/plinko-game-hire/) applied & removed after each event
 
-(One [](/all-products/68/plinko-game-hire.html#specification)time [](/all-products/68/plinko-game-hire.html#specification)use [](/all-products/68/plinko-game-hire.html#specification)only)
+(One [](/all-products/68/plinko-game-hire/)time [](/all-products/68/plinko-game-hire/)use [](/all-products/68/plinko-game-hire/)only)
 
-\*Delivery [](/all-products/68/plinko-game-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/all-products/68/plinko-game-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/68/plinko-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/68/plinko-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -115,9 +115,9 @@ The Plinko Game is available in the standard red and white design alternatively,
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
 
 **Branded back panels**
 

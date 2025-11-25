@@ -15,9 +15,9 @@ Are you searching for fresh ideas for office events that will break the routine 
 
 **Fun Corporate Activities: Prize Wheel** \- Add excitement to your fun corporate activities with a [Prize Wheel](/prize-wheel/). This interactive game is perfect for office parties or corporate gatherings, providing a spin of fun and the chance to win office perks or prizes.
 
-When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/category/corporate-entertainment/); we've taken part in all kinds of events, from [exhibitions](/category/exhibition-games/) to [award ceremonies](/category/company-award-ceremonies/), [conferences](conference-idea/) and [Christmas parties](/category/christmas-game-hire/), so you can rest assured we're some of the UK's top party rental professionals.
+When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/category/corporate-entertainment/); we've taken part in all kinds of events, from [exhibitions](/category/exhibition-games/) to [award ceremonies](/category/company-award-ceremonies/), [conferences](/conference-idea/) and [Christmas parties](/category/christmas-game-hire/), so you can rest assured we're some of the UK's top party rental professionals.
 
-We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](contact-fun-pro-uk/) if you'd like any more information!
+We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](/contact-fun-pro-uk/) if you'd like any more information!
 
 ## Corporate Office Party Hire Ideas
 
@@ -45,6 +45,6 @@ So why settle for a boring corporate event? Let us help you create an unforgetta
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

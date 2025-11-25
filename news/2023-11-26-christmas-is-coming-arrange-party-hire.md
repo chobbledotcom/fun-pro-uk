@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [26 November 23 - Christmas is Coming - Arrange Party Hire!](christmas-is-coming-arrange-party-hire/)
+# [26 November 23 - Christmas is Coming - Arrange Party Hire!](/christmas-is-coming-arrange-party-hire/)
 
-As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming [Christmas parties](/../theme/category/christmas-game-hire/). At Fun Pro UK, we specialise in turning holiday celebrations into magical, memorable events with our unique range of [Christmas games](/category/christmas-game-hire/) and attractions. Here’s how you can add that extra sparkle to your festivities this year.
+As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming [Christmas parties](/theme/category/christmas-game-hire/). At Fun Pro UK, we specialise in turning holiday celebrations into magical, memorable events with our unique range of [Christmas games](/category/christmas-game-hire/) and attractions. Here’s how you can add that extra sparkle to your festivities this year.
 
 ### Christmas Magic Mirror
 
@@ -42,6 +42,6 @@ At Fun Pro UK, we’re about more than just providing games. We create immersive
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

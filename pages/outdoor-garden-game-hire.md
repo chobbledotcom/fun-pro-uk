@@ -27,7 +27,7 @@ Whatever you choose for your summer party, you'll be receiving a premium quality
   
 *If you're ready to place your order for your next summer party, then why wait? Our website is accepting reservations right now. We can't wait to receive yours!*
 
-*Don't hesitate to [contact us](contact-fun-pro-uk/) if you need any assistance.*
+*Don't hesitate to [contact us](/contact-fun-pro-uk/) if you need any assistance.*
 
 [8 Lane Roll & Bowl Donkey Derby](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
@@ -227,6 +227,6 @@ Whatever you choose for your summer party, you'll be receiving a premium quality
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

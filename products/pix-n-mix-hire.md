@@ -5,7 +5,7 @@ order: 50
 meta_title: "Pick A Mix hire UK"
 meta_description: "Pick A Mix hire UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/pix-n-mix-hire/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/fun-foods.md", "categories/all-products.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/292a6c2967046a82790fb2cf452b6365"
@@ -52,15 +52,15 @@ Make your event a memorable one with Pix N Mix Hire – the ultimate sweet sensa
 
 **£1445**\+ vat**
 
-Delivered [](/../exhibition-games/42/pix-n-mix-hire.html#specification)and [](/../exhibition-games/42/pix-n-mix-hire.html#specification)installed on site by our trained team
+Delivered [](/exhibition-games/42/pix-n-mix-hire/)and [](/exhibition-games/42/pix-n-mix-hire/)installed on site by our trained team
 
-In[\-](/../exhibition-games/42/pix-n-mix-hire.html#specification)house [](/../exhibition-games/42/pix-n-mix-hire.html#specification)branding [](/../exhibition-games/42/pix-n-mix-hire.html#specification)available [](/../exhibition-games/42/pix-n-mix-hire.html#specification)Printed[,](/../exhibition-games/42/pix-n-mix-hire.html#specification) applied & removed after each event
+In[\-](/exhibition-games/42/pix-n-mix-hire/)house [](/exhibition-games/42/pix-n-mix-hire/)branding [](/exhibition-games/42/pix-n-mix-hire/)available [](/exhibition-games/42/pix-n-mix-hire/)Printed[,](/exhibition-games/42/pix-n-mix-hire/) applied & removed after each event
 
-(One [](/../exhibition-games/42/pix-n-mix-hire.html#specification)time [](/../exhibition-games/42/pix-n-mix-hire.html#specification)use [](/../exhibition-games/42/pix-n-mix-hire.html#specification)only)
+(One [](/exhibition-games/42/pix-n-mix-hire/)time [](/exhibition-games/42/pix-n-mix-hire/)use [](/exhibition-games/42/pix-n-mix-hire/)only)
 
-\*Delivery [](/../exhibition-games/42/pix-n-mix-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/exhibition-games/42/pix-n-mix-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/../exhibition-games/42/pix-n-mix-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/exhibition-games/42/pix-n-mix-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -100,14 +100,14 @@ Lift required
 
 ## **Popular items:**
 
-*   [Grab A Grand](/products/3/grab-a-grand/)
-*   [Batak Pro](/products/batak43/batak-pro/)
+*   [Grab A Grand](/interactive-game-hire/3/grab-a-grand/)
+*   [Batak Pro](/batak/batak-pro/)
 *   Lights Out
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## Pick N Mix Hire Throughout The UK
 
-Our [Pick N Mix](/../exhibition-games/42/pix-n-mix-hire/) stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
+Our [Pick N Mix](/exhibition-games/42/pix-n-mix-hire/) stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
 
 Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
 
@@ -129,9 +129,9 @@ Pick N Mix sweet stand hire is very popular with both children and adults. Wheth
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
 
 **Fully Branded**
 

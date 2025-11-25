@@ -7,9 +7,9 @@ layout: page
 
 # Batak Pro Hire Manchester
 
-Are you looking to hire a [Batak Pro game](/category/batak/batak-pro/) in Manchester for your exhibition stands, [corporate events](manchester-corporate-event-hire/), or trade shows? Fun Pro UK has got you covered! The Batak Pro game is an exciting speed reaction game that will add a fun and competitive element to your events.
+Are you looking to hire a [Batak Pro game](/category/batak/batak-pro/) in Manchester for your exhibition stands, [corporate events](/manchester-corporate-event-hire/), or trade shows? Fun Pro UK has got you covered! The Batak Pro game is an exciting speed reaction game that will add a fun and competitive element to your events.
 
-Manchester is a vibrant city known for its thriving business community and bustling trade shows. By incorporating a [Batak game](category/batak/) into your exhibition stand or corporate event in Manchester, you'll create an interactive and engaging experience that will attract attention and leave a lasting impression on potential new clients.
+Manchester is a vibrant city known for its thriving business community and bustling trade shows. By incorporating a [Batak game](/Controls/category/batak/) into your exhibition stand or corporate event in Manchester, you'll create an interactive and engaging experience that will attract attention and leave a lasting impression on potential new clients.
 
 Fun Pro UK offers Batak Pro game hire in Manchester, allowing you to bring this thrilling game to your events. The Batak Pro game is all about testing your speed, agility, and reaction time. With a wall of illuminated targets that light up randomly, players have to quickly hit the targets to earn points. It's a fast-paced and adrenaline-pumping game that will keep your guests entertained and engaged.
 
@@ -86,6 +86,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

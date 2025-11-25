@@ -5,7 +5,7 @@ order: 50
 meta_title: "Bungee Run | Corporate Entertainment | Fun Pro UK"
 meta_description: "Exciting and intense competitive fun! Strap on the bungee rope and see who can reach the other side of the inflatable first. Hilarious for spectators too!"
 permalink: "/bungee-run/"
-categories: []
+categories: ["categories/fun-days.md", "categories/interactive-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9026b3b054043ba3d2a8e851df214bc3"
@@ -29,11 +29,11 @@ It's time to see who has eaten their Weetabix! Our Bungee Run is not for the fai
 
 **£395**\+ vat**
 
-Delivered [](bungee-run.html#specification)and [](bungee-run.html#specification)installed on site by our trained team
+Delivered [](/bungee-run/)and [](/bungee-run/)installed on site by our trained team
 
-\*Delivery [](bungee-run.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/bungee-run/)Charges & Minimum order value may apply
 
-[**Email:**](bungee-run.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/bungee-run/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## LETS GET STARTED!
 

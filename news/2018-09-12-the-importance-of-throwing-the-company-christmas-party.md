@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 September 18 - The importance of throwing the company Christmas party](the-importance-of-throwing-the-company-christmas-party/)
+# [12 September 18 - The importance of throwing the company Christmas party](/the-importance-of-throwing-the-company-christmas-party/)
 
 We know it is only September and you don't really want to be thinking about the company Christmas party yet. But you need to get to it early to secure yourselves the best corporate entertainment available.
 
@@ -28,6 +28,6 @@ Check out our blog next week for more ideas for your Christmas party and [produc
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -15,72 +15,72 @@ eleventyNavigation:
 Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
 
 **Christmas grotto hire  
-**From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming [Christmas grotto](christmas-grotto-hire/) will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
+**From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming [Christmas grotto](/christmas-grotto-hire/) will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.
 
-[CHRISTMAS GROTTO 1](christmas-grotto-hire/christmas-grotto-1/)
+[CHRISTMAS GROTTO 1](/christmas-grotto-hire/christmas-grotto-1/)
 
-[More Details](christmas-grotto-hire/christmas-grotto-1/)
+[More Details](/christmas-grotto-hire/christmas-grotto-1/)
 
-[CHRISTMAS GROTTO 2](christmas-grotto-hire/christmas-grotto-2/)
+[CHRISTMAS GROTTO 2](/christmas-grotto-hire/christmas-grotto-2/)
 
-[More Details](christmas-grotto-hire/christmas-grotto-2/)
+[More Details](/christmas-grotto-hire/christmas-grotto-2/)
 
-[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator/)
+[VR Race Car Simulator](/corporate-entertainment/38/vr-race-car-simulator/)
 
-[More Details](corporate-entertainment/38/vr-race-car-simulator/)
+[More Details](/corporate-entertainment/38/vr-race-car-simulator/)
 
-[GREEN SCREEN PHOTO BOOTHS](photo-booths-and-magic-mirrors/green-screen-photo-booths/)
+[GREEN SCREEN PHOTO BOOTHS](/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[More Details](photo-booths-and-magic-mirrors/green-screen-photo-booths/)
+[More Details](/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[MAGIC MIRROR](photo-booths-and-magic-mirrors/magic-mirror/)
+[MAGIC MIRROR](/photo-booths-and-magic-mirrors/magic-mirror/)
 
-[More Details](photo-booths-and-magic-mirrors/magic-mirror/)
+[More Details](/photo-booths-and-magic-mirrors/magic-mirror/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games/)
+[RETRO ARCADE GAMES](/interactive-game-hire/retro-arcade-games/)
 
-[More Details](interactive-game-hire/retro-arcade-games/)
+[More Details](/interactive-game-hire/retro-arcade-games/)
 
-[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth/)
+[ELECTRONIC BASKET BALL HIRE](/photo-booths/ultimate-green-screen-photo-booth/)
 
-[More Details](photo-booths/ultimate-green-screen-photo-booth/)
+[More Details](/photo-booths/ultimate-green-screen-photo-booth/)
 
-[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire/)
+[GIANT BUZZ WIRE](/interactive-game-hire/giant-buzz-wire/)
 
-[More Details](interactive-game-hire/giant-buzz-wire/)
+[More Details](/interactive-game-hire/giant-buzz-wire/)
 
-[PLUCK A DUCK RACING](interactive-game-hire/pluck-a-duck-racing/)
+[PLUCK A DUCK RACING](/interactive-game-hire/pluck-a-duck-racing/)
 
-[More Details](interactive-game-hire/pluck-a-duck-racing/)
+[More Details](/interactive-game-hire/pluck-a-duck-racing/)
 
-[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators/)
+[Racing Car Simulators](/interactive-game-hire/twin-racing-car-simulators/)
 
-[More Details](interactive-game-hire/twin-racing-car-simulators/)
+[More Details](/interactive-game-hire/twin-racing-car-simulators/)
 
-[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing/)
+[GOLD CUP HORSE RACING](/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[More Details](interactive-game-hire/29/gold-cup-horse-racing/)
+[More Details](/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[FOOTBALL TABLES](interactive-game-hire/27/football-tables/)
+[FOOTBALL TABLES](/interactive-game-hire/27/football-tables/)
 
-[More Details](interactive-game-hire/27/football-tables/)
+[More Details](/interactive-game-hire/27/football-tables/)
 
-[TOP DOC OPERATION GAME](interactive-game-hire/top-doc-operation-game/)
+[TOP DOC OPERATION GAME](/interactive-game-hire/top-doc-operation-game/)
 
-[More Details](interactive-game-hire/top-doc-operation-game/)
+[More Details](/interactive-game-hire/top-doc-operation-game/)
 
-[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand/)
+[CASH GRABBER MACHINE HIRE](/interactive-game-hire/3/grab-a-grand/)
 
-[More Details](interactive-game-hire/3/grab-a-grand/)
+[More Details](/interactive-game-hire/3/grab-a-grand/)
 
-[CASINO TABLE HIRE](christmas-game-hire/casino-table-hire/)
+[CASINO TABLE HIRE](/christmas-game-hire/casino-table-hire/)
 
-[More Details](christmas-game-hire/casino-table-hire/)
+[More Details](/christmas-game-hire/casino-table-hire/)
 
 **Classic Christmas snaps  
-**No staff Christmas party is complete without the snap happy fun of a [photo booth](photo-booths-and-magic-mirrors/). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
+**No staff Christmas party is complete without the snap happy fun of a [photo booth](/photo-booths-and-magic-mirrors/). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
 
 Combine photo booth hire with Christmas grotto hire and you can get some very special shots with Santa himself &ndash' perfect for Christmas cards and festive emails to family and friends.
 
@@ -129,6 +129,6 @@ At Fun Pro UK, we love the festive season, and our elves have got lots of great 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

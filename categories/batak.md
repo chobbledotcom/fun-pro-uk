@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # Batak Game Hire - Interactive Games to Make Your Next Event Unforgettable
 
-Are you planning an event and looking for some fun activities that everyone can enjoy? Batak games are a high-energy, interactive and fun way to bring people together and get everyone involved at events like [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), conferences, trade shows, and more.
+Are you planning an event and looking for some fun activities that everyone can enjoy? Batak games are a high-energy, interactive and fun way to bring people together and get everyone involved at events like [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), conferences, trade shows, and more.
 
 ## Why Choose Batak Games for Your Event?
 
@@ -20,9 +20,9 @@ Batak is a fast-paced reaction game that keeps players on their toes. It works b
 
 At Fun Pro, people use our Batak game hire for:
 
-*   [Corporate events](corporate-entertainment/) and [team-building](/pages/team-building-ideas/) activities
+*   [Corporate events](/corporate-entertainment/) and [team-building](/pages/team-building-ideas/) activities
     
-*   Trade shows and [exhibitions](exhibition-games/)
+*   Trade shows and [exhibitions](/exhibition-games/)
     
 *   [Conferences](/pages/conference-game-hire/)
     
@@ -30,13 +30,13 @@ At Fun Pro, people use our Batak game hire for:
 
 Batak is a crowd-pleaser that adds excitement and engagement to any occasion. We can fully customise your Batak games to include your branding and make it fit the theme of your event.
 
-[Batak Lite](all-products/batak-lite/)
+[Batak Lite](/all-products/batak-lite/)
 
-[More Details](all-products/batak-lite/)
+[More Details](/all-products/batak-lite/)
 
-[Batak Pro](batak/batak-pro/)
+[Batak Pro](/batak/batak-pro/)
 
-[More Details](batak/batak-pro/)
+[More Details](/batak/batak-pro/)
 
 ## We Provide Batak Game Hire Nationwide
 
@@ -58,9 +58,9 @@ Here are just a few of the reasons why people choose Batak hire from Fun Pro:
 
 We offer Batak game hire that works for your event location, and depending on the space you have available and the type of event you’re having, here the options we offer:
 
-*   **[Batak Lite](all-products/batak-lite/)**: A compact version with essential reaction-based gameplay, perfect for smaller spaces
+*   **[Batak Lite](/all-products/batak-lite/)**: A compact version with essential reaction-based gameplay, perfect for smaller spaces
     
-*   **[Batak Pro](batak/batak-pro/)**: A full-scale model with advanced settings and features for high-energy challenges
+*   **[Batak Pro](/batak/batak-pro/)**: A full-scale model with advanced settings and features for high-energy challenges
 
 Both versions come with adjustable difficulty levels to cater to different skill sets and age groups, making it a truly fun experience that everyone can enjoy.
 
@@ -158,17 +158,17 @@ Plus more.
 
 Looking for more interactive games or something a bit different for your event? Take a look at the options we have here:
 
-*   [Arcade Games](arcade-games/lights-out-game/)
+*   [Arcade Games](/arcade-games/lights-out-game/)
     
-*   [Prize Games](prize-games/)
+*   [Prize Games](/prize-games/)
     
-*   [Pub Games](pub-games/)
+*   [Pub Games](/pub-games/)
     
-*   [Roll and Bowl](roll-and-bowl/)
+*   [Roll and Bowl](/roll-and-bowl/)
     
-*   [Crazy Golf](fun-days/crazy-golf/)
+*   [Crazy Golf](/fun-days/crazy-golf/)
 
-[View all our event hire products and games here](all-products/)
+[View all our event hire products and games here](/all-products/)
 
 ## Hire Batak Games From Fun Pro
 
@@ -176,6 +176,6 @@ Looking for more interactive games or something a bit different for your event? 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

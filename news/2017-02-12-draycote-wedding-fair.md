@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 February 17 - Draycote wedding fair](draycote-wedding-fair/)
+# [12 February 17 - Draycote wedding fair](/draycote-wedding-fair/)
 
 Team Perfect Snap are getting excited for the Wedding Inspo Evening which we are attending this a Thursday 16th February 2027 at the [Draycote Hotel in Rugby, Warwickshire.](/pages/delivery-areas/)
 
@@ -22,6 +22,6 @@ We look forward to seeing you there!
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

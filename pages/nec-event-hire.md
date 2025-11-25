@@ -7,9 +7,9 @@ layout: page
 
 # NEC Event Hire
 
-![NEC Birmingham event hire](/userfiles/nec-birmingham.png "Event and exhibition stand entertainment at the NEC Birmimgham")
+![NEC Birmingham event hire](/userfiles/nec-birmingham.png)
 
-Hosting an event at the NEC, Birmingham’s premier exhibition centre, offers a unique opportunity to showcase your brand, product, or service on a grand stage. At Fun Pro UK, we specialise in providing an extensive range of event hire services tailored specifically for the diverse and dynamic spaces within the NEC. From engaging [Batak](category/batak/) challenges in the Concourse to [Grab A Grand](/category/grab-a-grand/) excitement in the Pavilion, our interactive entertainment options are designed to captivate and enthral your audience, ensuring your event stands out.
+Hosting an event at the NEC, Birmingham’s premier exhibition centre, offers a unique opportunity to showcase your brand, product, or service on a grand stage. At Fun Pro UK, we specialise in providing an extensive range of event hire services tailored specifically for the diverse and dynamic spaces within the NEC. From engaging [Batak](/Controls/category/batak/) challenges in the Concourse to [Grab A Grand](/category/grab-a-grand/) excitement in the Pavilion, our interactive entertainment options are designed to captivate and enthral your audience, ensuring your event stands out.
 
 The NEC hosts a variety of events, from major trade shows to corporate functions and public exhibitions. Fun Pro UK’s versatile entertainment solutions can enhance any event type:
 
@@ -25,10 +25,10 @@ Leveraging the NEC’s strategic location in the heart of the UK, Fun Pro UK off
 
 Whether you’re planning an exhibition, a corporate event, or a special celebration, incorporating Fun Pro UK’s entertainment options can significantly enhance the attendee experience. Our commitment to quality, innovation, and customer satisfaction makes us the ideal partner for event hire at the NEC, Birmingham.
 
-Explore how Fun Pro UK can transform your next NEC event by [contacting us today](contact-fun-pro-uk/).
+Explore how Fun Pro UK can transform your next NEC event by [contacting us today](/contact-fun-pro-uk/).
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

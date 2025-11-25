@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [22 October 17 - Christmas in October!](christmas-in-october/)
+# [22 October 17 - Christmas in October!](/christmas-in-october/)
 
 Christmas in October!
 
@@ -34,6 +34,6 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

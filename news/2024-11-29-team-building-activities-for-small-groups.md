@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [29 November 24 - Team Building Activities for Small Groups](team-building-activities-for-small-groups/)
+# [29 November 24 - Team Building Activities for Small Groups](/team-building-activities-for-small-groups/)
 
 You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. [Team building games](/pages/team-building-ideas/) are a way for businesses to build relationships and collaboration within the workplace. They encourage trust and communication, but they can also be lots of fun too.
 
@@ -16,7 +16,7 @@ However, there is the matter of finding the right team building games on top of 
 
 Fortunately, team building activities for small groups do not require resorting to outdated and awkward ice breakers from primary school. Additionally, organizing these gatherings can be much less stressful than anticipated.
 
-In this brief guide, we’ll walk you through the types of fun activities to have in team building, why team building is important for company success, a few planning tips for team building activities for small groups, and some [interactive games](/products/) to try during the event.
+In this brief guide, we’ll walk you through the types of fun activities to have in team building, why team building is important for company success, a few planning tips for team building activities for small groups, and some [interactive games](/interactive-game-hire/) to try during the event.
 
 ## Why Team Building is Important for Small Groups
 
@@ -136,6 +136,6 @@ If you’re looking to take your team -building event to the next level, conside
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

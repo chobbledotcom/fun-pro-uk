@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, UK"
 meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 permalink: "/total-wipe-out/"
-categories: []
+categories: ["categories/fun-days.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6cbf153fb90680edbf111d80fe31294f"
@@ -29,11 +29,11 @@ gallery:
 
 **£550**\+ vat**
 
-Delivered [](total-wipe-out.html#specification)and [](total-wipe-out.html#specification)installed on site by our trained team
+Delivered [](/total-wipe-out/)and [](/total-wipe-out/)installed on site by our trained team
 
-\*Delivery [](total-wipe-out.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/total-wipe-out/)Charges & Minimum order value may apply
 
-[**Email:**](total-wipe-out.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/total-wipe-out/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -138,4 +138,4 @@ Soon everyone will be looking forward to your next company or family event. It w
 
 Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](/21/inflatable-assault-courses/) and our crazy [human table football](/human-table-football/).
 
-If you're planning a event, talk to our team today for the best [company fun day ideas](/category/fun-days/) and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
+If you're planning a event, talk to our team today for the best [company fun day ideas](/fun-days/) and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.

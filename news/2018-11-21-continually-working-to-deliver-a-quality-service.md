@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [21 November 18 - Continually Working to Deliver a Quality Service!](continually-working-to-deliver-a-quality-service/)
+# [21 November 18 - Continually Working to Deliver a Quality Service!](/continually-working-to-deliver-a-quality-service/)
 
 It has been a busy week within the Fun Pro UK office with brainstorming sessions on how to continue to deliver our top-quality service to our new and long-standing customers. Even Demi (the Fun Pro UK dog) has been getting involved with our meetings!
 
@@ -20,6 +20,6 @@ So the next time you [hire corporate entertainment](/category/corporate-entertai
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

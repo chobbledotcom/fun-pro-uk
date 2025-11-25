@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 May 25 - How to Increase Engagement at Your Brand Activation Event](how-to-increase-engagement-at-your-brand-activation-event/)
+# [30 May 25 - How to Increase Engagement at Your Brand Activation Event](/how-to-increase-engagement-at-your-brand-activation-event/)
 
-![](/../userfiles/fun-pro-uvex.jpg)
+![](/userfiles/fun-pro-uvex.jpg)
 
 If you're planning a [brand activation event](/pages/promotion-event-games/), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
 
@@ -26,7 +26,7 @@ Engaged visitors are also more likely to stick around, share their experience on
 
 ### Use Games for Your Brand Activation Event
 
-![](/../userfiles/baylis-and-harding-game.jpg)
+![](/userfiles/baylis-and-harding-game.jpg)
 
 One of the most effective ways to boost engagement is by using interactive games. Games create energy, spark conversations, and give people a reason to spend more time at your stand or space.
 
@@ -34,9 +34,9 @@ Popular options include:
 
 *   [Cash Grabbers](/category/interactive-game-hire/3/grab-a-grand/) – quick, fun and perfect for competitions or giveaways
     
-*   [Batak Reaction Games](category/batak/) – great for testing speed and reflexes
+*   [Batak Reaction Games](/Controls/category/batak/) – great for testing speed and reflexes
     
-*   [Prize Wheels](/../prize-wheel/) – simple to set up and always a crowd-puller
+*   [Prize Wheels](/prize-wheel/) – simple to set up and always a crowd-puller
 
 These games don’t just fill space, they turn your stand into an attraction. People passing by will want to know what’s going on, which naturally increases footfall. And once people are there, you’ve got the perfect opportunity to tell your brand story and get them involved in a more meaningful way.
 
@@ -90,6 +90,6 @@ If you want your brand to stand out and connect with your audience in a fun and 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

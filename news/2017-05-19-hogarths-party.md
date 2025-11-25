@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [19 May 17 - Hogarth's party](hogarths-party/)
+# [19 May 17 - Hogarth's party](/hogarths-party/)
 
 On Friday we were in attendance at the marvellous venue Hogarths Hotel, [Solihull](/pages/delivery-areas/). We are becoming part of the furniture here! It really is a fantastic place in a wonderful location. This time we were helping to celebrate a private party with our Magnificent [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/).
 
@@ -22,6 +22,6 @@ Thank you for letting us attend your party, we look forward to seeing you all ag
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

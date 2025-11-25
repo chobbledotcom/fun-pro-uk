@@ -22,19 +22,19 @@ Some of our popular Family Fun Day games are :-
 
 **Outdoors :-**
 
-[Human Football](fun-days/human-table-football.html#BodyContent)
+[Human Football](/fun-days/human-table-football/#content)
 
-[Total Wipe Out](fun-days/total-wipe-out.html#BodyContent)
+[Total Wipe Out](/fun-days/total-wipe-out/#content)
 
-[Inflatables Assault Course](fun-days/21/inflatable-assault-courses.html#BodyContent)
+[Inflatables Assault Course](/fun-days/21/inflatable-assault-courses/#content)
 
 **Indoors :-**
 
-[Strike A Light](interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html#BodyContent)
+[Strike A Light](/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/#content)
 
-[Whack A Mole](all-products/67/whack-a-mole-game-hire.html#BodyContent)
+[Whack A Mole](/all-products/67/whack-a-mole-game-hire/#content)
 
-[Giant Buzz Wire](interactive-game-hire/giant-buzz-wire.html#BodyContent)
+[Giant Buzz Wire](/interactive-game-hire/giant-buzz-wire/#content)
 
 It’s a team effort for the planning phases, and Fun Pro UK team will support you on your planning journey.
 
@@ -48,129 +48,129 @@ It’s a team effort for the planning phases, and Fun Pro UK team will support y
 
 Let [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) interactive games help your staff get to know each other better and forge stronger teams. Your family fun day is sure to be a fantastic way to celebrate your business successes, anniversaries, awards, brand activation or any reason to come together and have FUN.
 
-[8 Lane Roll & Bowl Donkey Derby](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
+[8 Lane Roll & Bowl Donkey Derby](/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
-[More Details](roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
+[More Details](/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
-[Gold Bar Challenge](exhibition-games/107/gold-bar-challenge/)
+[Gold Bar Challenge](/exhibition-games/107/gold-bar-challenge/)
 
-[More Details](exhibition-games/107/gold-bar-challenge/)
+[More Details](/exhibition-games/107/gold-bar-challenge/)
 
-[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire/)
+[Candy Floss Cart Hire](/fun-foods/92/candy-floss-cart-hire/)
 
-[More Details](fun-foods/92/candy-floss-cart-hire/)
+[More Details](/fun-foods/92/candy-floss-cart-hire/)
 
-[Corn Hole](exhibition-games/99/corn-hole/)
+[Corn Hole](/exhibition-games/99/corn-hole/)
 
-[More Details](exhibition-games/99/corn-hole/)
+[More Details](/exhibition-games/99/corn-hole/)
 
-[Twin Axe throwing](all-products/98/twin-axe-throwing/)
+[Twin Axe throwing](/all-products/98/twin-axe-throwing/)
 
-[More Details](all-products/98/twin-axe-throwing/)
+[More Details](/all-products/98/twin-axe-throwing/)
 
-[Climbing Wall](corporate-entertainment/76/climbing-wall/)
+[Climbing Wall](/corporate-entertainment/76/climbing-wall/)
 
-[More Details](corporate-entertainment/76/climbing-wall/)
+[More Details](/corporate-entertainment/76/climbing-wall/)
 
-[Football Darts](fun-days/83/football-darts/)
+[Football Darts](/fun-days/83/football-darts/)
 
-[More Details](fun-days/83/football-darts/)
+[More Details](/fun-days/83/football-darts/)
 
-[Crazy Golf](fun-days/crazy-golf/)
+[Crazy Golf](/fun-days/crazy-golf/)
 
-[More Details](fun-days/crazy-golf/)
+[More Details](/fun-days/crazy-golf/)
 
-[Rodeo Bull](fun-days/46/rodeo-bull/)
+[Rodeo Bull](/fun-days/46/rodeo-bull/)
 
-[More Details](fun-days/46/rodeo-bull/)
+[More Details](/fun-days/46/rodeo-bull/)
 
-[HUMAN TABLE FOOTBALL](fun-days/human-table-football/)
+[HUMAN TABLE FOOTBALL](/fun-days/human-table-football/)
 
-[More Details](fun-days/human-table-football/)
+[More Details](/fun-days/human-table-football/)
 
-[TOTAL WIPE OUT](fun-days/total-wipe-out/)
+[TOTAL WIPE OUT](/fun-days/total-wipe-out/)
 
-[More Details](fun-days/total-wipe-out/)
+[More Details](/fun-days/total-wipe-out/)
 
-[High Striker](arcade-games/48/high-striker/)
+[High Striker](/arcade-games/48/high-striker/)
 
-[More Details](arcade-games/48/high-striker/)
+[More Details](/arcade-games/48/high-striker/)
 
-[Giant Deck Chair Hire](weddings/74/giant-deck-chair-hire/)
+[Giant Deck Chair Hire](/weddings/74/giant-deck-chair-hire/)
 
-[More Details](weddings/74/giant-deck-chair-hire/)
+[More Details](/weddings/74/giant-deck-chair-hire/)
 
-[Dash & Grab / Hungry Hippo Inflatable Game](fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/)
+[Dash & Grab / Hungry Hippo Inflatable Game](/fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/)
 
-[More Details](fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/)
+[More Details](/fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/)
 
-[INFLATABLE ASSAULT COURSES](fun-days/21/inflatable-assault-courses/)
+[INFLATABLE ASSAULT COURSES](/fun-days/21/inflatable-assault-courses/)
 
-[More Details](fun-days/21/inflatable-assault-courses/)
+[More Details](/fun-days/21/inflatable-assault-courses/)
 
-[Bungee Run](fun-days/33/bungee-run/)
+[Bungee Run](/fun-days/33/bungee-run/)
 
-[More Details](fun-days/33/bungee-run/)
+[More Details](/fun-days/33/bungee-run/)
 
-[GLADIATOR DUEL](fun-days/22/gladiator-duel/)
+[GLADIATOR DUEL](/fun-days/22/gladiator-duel/)
 
-[More Details](fun-days/22/gladiator-duel/)
+[More Details](/fun-days/22/gladiator-duel/)
 
-[LARGE BOUNCY CASTLES](corporate-entertainment/23/large-bouncy-castles/)
+[LARGE BOUNCY CASTLES](/corporate-entertainment/23/large-bouncy-castles/)
 
-[More Details](corporate-entertainment/23/large-bouncy-castles/)
+[More Details](/corporate-entertainment/23/large-bouncy-castles/)
 
-[SUPER SLIDES](fun-days/26/super-slides/)
+[SUPER SLIDES](/fun-days/26/super-slides/)
 
-[More Details](fun-days/26/super-slides/)
+[More Details](/fun-days/26/super-slides/)
 
-[Giant Connect 4 Game Hire](corporate-entertainment/45/giant-connect-4-game-hire/)
+[Giant Connect 4 Game Hire](/corporate-entertainment/45/giant-connect-4-game-hire/)
 
-[More Details](corporate-entertainment/45/giant-connect-4-game-hire/)
+[More Details](/corporate-entertainment/45/giant-connect-4-game-hire/)
 
-[Giant Jenga Hire](fun-days/44/giant-jenga-hire/)
+[Giant Jenga Hire](/fun-days/44/giant-jenga-hire/)
 
-[More Details](fun-days/44/giant-jenga-hire/)
+[More Details](/fun-days/44/giant-jenga-hire/)
 
-[Snatch It](exhibition-games/82/snatch-it/)
+[Snatch It](/exhibition-games/82/snatch-it/)
 
-[More Details](exhibition-games/82/snatch-it/)
+[More Details](/exhibition-games/82/snatch-it/)
 
-[Table Tennis Hire](corporate-entertainment/80/table-tennis-hire/)
+[Table Tennis Hire](/corporate-entertainment/80/table-tennis-hire/)
 
-[More Details](corporate-entertainment/80/table-tennis-hire/)
+[More Details](/corporate-entertainment/80/table-tennis-hire/)
 
-[Virtual Pinball](arcade-games/77/virtual-pinball/)
+[Virtual Pinball](/arcade-games/77/virtual-pinball/)
 
-[More Details](arcade-games/77/virtual-pinball/)
+[More Details](/arcade-games/77/virtual-pinball/)
 
-[Plinko Game Hire](all-products/68/plinko-game-hire/)
+[Plinko Game Hire](/all-products/68/plinko-game-hire/)
 
-[More Details](all-products/68/plinko-game-hire/)
+[More Details](/all-products/68/plinko-game-hire/)
 
-[Roll & Bowl Donkey Derby](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
+[Roll & Bowl Donkey Derby](/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[More Details](interactive-game-hire/75/roll-and-bowl-donkey-derby/)
+[More Details](/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[Shuffleboard Hire](all-products/87/shuffle-board-hire/)
+[Shuffleboard Hire](/all-products/87/shuffle-board-hire/)
 
-[More Details](all-products/87/shuffle-board-hire/)
+[More Details](/all-products/87/shuffle-board-hire/)
 
-[Air Hockey Table Hire](arcade-games/60/air-hockey-table-hire/)
+[Air Hockey Table Hire](/arcade-games/60/air-hockey-table-hire/)
 
-[More Details](arcade-games/60/air-hockey-table-hire/)
+[More Details](/arcade-games/60/air-hockey-table-hire/)
 
-[Danger-zone-strike-a-light-game-hire](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
+[Danger-zone-strike-a-light-game-hire](/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[More Details](interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
+[More Details](/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[Batak Lite](all-products/batak-lite/)
+[Batak Lite](/all-products/batak-lite/)
 
-[More Details](all-products/batak-lite/)
+[More Details](/all-products/batak-lite/)
 
-[Beat The Buzzer](interactive-game-hire/62/beat-the-buzzer/)
+[Beat The Buzzer](/interactive-game-hire/62/beat-the-buzzer/)
 
-[More Details](interactive-game-hire/62/beat-the-buzzer/)
+[More Details](/interactive-game-hire/62/beat-the-buzzer/)
 
 [Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/)
 
@@ -180,65 +180,65 @@ Let [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) interactive games h
 
 [More Details](/prize-wheel/)
 
-[Roll And Bowl Game Hire](all-products/51/roll-and-bowl-game-hire/)
+[Roll And Bowl Game Hire](/all-products/51/roll-and-bowl-game-hire/)
 
-[More Details](all-products/51/roll-and-bowl-game-hire/)
+[More Details](/all-products/51/roll-and-bowl-game-hire/)
 
-[The Vault](interactive-game-hire/50/the-vault/)
+[The Vault](/interactive-game-hire/50/the-vault/)
 
-[More Details](interactive-game-hire/50/the-vault/)
+[More Details](/interactive-game-hire/50/the-vault/)
 
-[PLUCK A DUCK RACING](interactive-game-hire/pluck-a-duck-racing/)
+[PLUCK A DUCK RACING](/interactive-game-hire/pluck-a-duck-racing/)
 
-[More Details](interactive-game-hire/pluck-a-duck-racing/)
+[More Details](/interactive-game-hire/pluck-a-duck-racing/)
 
-[TOP DOC OPERATION GAME](interactive-game-hire/top-doc-operation-game/)
+[TOP DOC OPERATION GAME](/interactive-game-hire/top-doc-operation-game/)
 
-[More Details](interactive-game-hire/top-doc-operation-game/)
+[More Details](/interactive-game-hire/top-doc-operation-game/)
 
-[Racing Car Simulators](interactive-game-hire/twin-racing-car-simulators/)
+[Racing Car Simulators](/interactive-game-hire/twin-racing-car-simulators/)
 
-[More Details](interactive-game-hire/twin-racing-car-simulators/)
+[More Details](/interactive-game-hire/twin-racing-car-simulators/)
 
-[VR Race Car Simulator](corporate-entertainment/38/vr-race-car-simulator/)
+[VR Race Car Simulator](/corporate-entertainment/38/vr-race-car-simulator/)
 
-[More Details](corporate-entertainment/38/vr-race-car-simulator/)
+[More Details](/corporate-entertainment/38/vr-race-car-simulator/)
 
-[RETRO ARCADE GAMES](interactive-game-hire/retro-arcade-games/)
+[RETRO ARCADE GAMES](/interactive-game-hire/retro-arcade-games/)
 
-[More Details](interactive-game-hire/retro-arcade-games/)
+[More Details](/interactive-game-hire/retro-arcade-games/)
 
-[ELECTRONIC BASKET BALL HIRE](photo-booths/ultimate-green-screen-photo-booth/)
+[ELECTRONIC BASKET BALL HIRE](/photo-booths/ultimate-green-screen-photo-booth/)
 
-[More Details](photo-booths/ultimate-green-screen-photo-booth/)
+[More Details](/photo-booths/ultimate-green-screen-photo-booth/)
 
-[FOOTBALL TABLES](interactive-game-hire/27/football-tables/)
+[FOOTBALL TABLES](/interactive-game-hire/27/football-tables/)
 
-[More Details](interactive-game-hire/27/football-tables/)
+[More Details](/interactive-game-hire/27/football-tables/)
 
-[GIANT BUZZ WIRE](interactive-game-hire/giant-buzz-wire/)
+[GIANT BUZZ WIRE](/interactive-game-hire/giant-buzz-wire/)
 
-[More Details](interactive-game-hire/giant-buzz-wire/)
+[More Details](/interactive-game-hire/giant-buzz-wire/)
 
-[Batak Pro](batak/batak-pro/)
+[Batak Pro](/batak/batak-pro/)
 
-[More Details](batak/batak-pro/)
+[More Details](/batak/batak-pro/)
 
-[GOLD CUP HORSE RACING](interactive-game-hire/29/gold-cup-horse-racing/)
+[GOLD CUP HORSE RACING](/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[More Details](interactive-game-hire/29/gold-cup-horse-racing/)
+[More Details](/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[Ballnado Grabber](grab-a-grand/36/ballnado-grabber/)
+[Ballnado Grabber](/grab-a-grand/36/ballnado-grabber/)
 
-[More Details](grab-a-grand/36/ballnado-grabber/)
+[More Details](/grab-a-grand/36/ballnado-grabber/)
 
-[CASH GRABBER MACHINE HIRE](interactive-game-hire/3/grab-a-grand/)
+[CASH GRABBER MACHINE HIRE](/interactive-game-hire/3/grab-a-grand/)
 
-[More Details](interactive-game-hire/3/grab-a-grand/)
+[More Details](/interactive-game-hire/3/grab-a-grand/)
 
-[Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire/)
+[Pix N Mix Hire](/exhibition-games/42/pix-n-mix-hire/)
 
-[More Details](exhibition-games/42/pix-n-mix-hire/)
+[More Details](/exhibition-games/42/pix-n-mix-hire/)
 
 [Crack The Code safe cracker](/crack-the-code-safe-cracker/)
 
@@ -246,6 +246,6 @@ Let [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) interactive games h
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

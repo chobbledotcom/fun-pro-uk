@@ -5,7 +5,7 @@ order: 50
 meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
 meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
 permalink: "/classic-photo-booths/"
-categories: []
+categories: ["categories/company-award-ceremonies.md", "categories/photo-booths-and-magic-mirrors.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
@@ -32,13 +32,13 @@ Adding a photo booth to your corporate event is a sound investment, because not 
 
 Delivered and installed on site by our trained team
 
-In[\-](classic-photo-booths.html#specification)house branding available Printed[,](classic-photo-booths.html#specification) applied & removed after each event
+In[\-](/classic-photo-booths/)house branding available Printed[,](/classic-photo-booths/) applied & removed after each event
 
 (One time use only)
 
 \*Delivery Charges & Minimum order value may apply
 
-[**Email:**](classic-photo-booths.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/classic-photo-booths/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -90,9 +90,9 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Fun Pro UK offer classic photo booths for hire, with a choice of print styles, including the old school photo strip, one large and three small to share with friends and family, or a large 6x4 portrait. We can even brand every picture with your logo and slogan, or details of your event, so everyone goes home with your message as part of their pictures.
 
-As well as branding your pictures, we can [brand the booth](/../branded-exhibition-games/24/bespoke-photo-booth-hire/) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/christmas-photo-booths/) to match your event and venue
+As well as branding your pictures, we can [brand the booth](/branded-exhibition-games/24/bespoke-photo-booth-hire/) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/christmas-photo-booths/) to match your event and venue
 
-## ![](/../../userfiles/classic-photo-booth.jpg)
+## ![](/userfiles/classic-photo-booth.jpg)
 
 ## A complete service
 
@@ -114,6 +114,6 @@ We offer reputable, reliable delivery right across the UK, so wherever your next
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

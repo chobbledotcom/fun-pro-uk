@@ -5,7 +5,7 @@ order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"
 meta_description: "Hire Catch It Reaction games for corporate events &amp; exhibitions. Nationwide delivery, custom branding, professional setup. Get your quote today."
 permalink: "/catch-it-reaction-ring-hire/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/155317938fed6cb2f070f2cc18b7a451"
@@ -50,7 +50,7 @@ Catch It Reaction is an engaging interactive game that tests players' reflexes, 
 
 The fast-paced nature of the game creates an exciting atmosphere for both participants and spectators, making it perfect for drawing crowds and creating memorable experiences at corporate events and exhibitions.
 
-Popular at trade shows, conferences, and [team building events](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
+Popular at trade shows, conferences, and [team building events](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
 
 ## Why Choose Catch It Reaction Game Hire for Your Next Event?
 
@@ -158,13 +158,13 @@ We're proud to have provided entertainment solutions for leading UK brands inclu
 
 Enhance your event with our complete range of interactive entertainment:
 
-*   [Batak Pro](/products/batak43/batak-pro/) - Reaction speed challenge
+*   [Batak Pro](/batak/batak-pro/) - Reaction speed challenge
     
-*   [Strike-A-Light](/products/63/danger-zone-strike-a-light-game-hire/) - Test your strength game
+*   [Strike-A-Light](/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/) - Test your strength game
     
-*   [Arcade Games](/category/arcade-games/lights-out-game/) - Classic gaming entertainment
+*   [Arcade Games](/arcade-games/lights-out-game/) - Classic gaming entertainment
     
-*   [Prize Games](/category/prize-games/) - Win exciting rewards
+*   [Prize Games](/prize-games/) - Win exciting rewards
 
 ## **Hire Catch It Reaction Game for Your Event**
 
@@ -230,6 +230,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

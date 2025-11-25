@@ -8,13 +8,13 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [17 October 23 - Keep Conferences Fun with Fun Pro UK](keep-conferences-fun-with-fun-pro-uk/)
+# [17 October 23 - Keep Conferences Fun with Fun Pro UK](/keep-conferences-fun-with-fun-pro-uk/)
 
 When planning a conference, you're creating an experience—a blend of knowledge exchange, networking, and brand projection. But in today's competitive landscape, how can you ensure your conference stands out, offering attendees something genuinely memorable and fun?
 
 With Fun Pro UK, we have a wide range of [corporate event ideas](/category/corporate-entertainment/) that are ideal for conferences. [Conference game hire](/pages/conference-game-hire/) brings a lot of advantages, ensuring that people can enjoy themselves in breaks and take advantage of everything these events have to offer. Check out some of the most popular reasons for conference entertainment hire and find out how Fun Pro UK can keep spirits high during these occasions.
 
-*   **A Blend of Business and Fun:** Conferences needn't be a monotonous stream of lectures and panels. With our range of [interactive games](/products/) and activities, we introduce a dynamic element, ensuring attendees stay energised and engaged throughout.
+*   **A Blend of Business and Fun:** Conferences needn't be a monotonous stream of lectures and panels. With our range of [interactive games](/interactive-game-hire/) and activities, we introduce a dynamic element, ensuring attendees stay energised and engaged throughout.
 *   **Networking Made Easy:** Networking can sometimes be a tad awkward. Our games, from [arcade games](/category/arcade-games/lights-out-game/) to [casino tables](/category/christmas-game-hire/casino-table-hire/), foster natural interactions and collaborations. This means more genuine connections and fewer forced conversations.
 *   **Tailored Experiences:** Every conference has its unique theme and audience. Fun Pro UK understands this, offering a bespoke range of games and activities tailored to your event's needs.
 *   **Enhancing Brand Recall:** Conferences are as much about the brand as they are about the content. Our games and activities can be customised to reflect your branding, ensuring a consistent and memorable brand experience for all attendees.
@@ -30,6 +30,6 @@ Thinking of giving your conference the Fun Pro UK touch? Reach out to us through
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Vault Cracker Game, Vault Safe Cracker Game Rent, UK"
 meta_description: "Hire Our Vault Cracker Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/the-vault/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e"
@@ -50,15 +50,15 @@ Starting from the easiest level and working your way up to the hardest level wil
 
 **£1195**\+ vat**
 
-Delivered [](the-vault.html#specification)and [](the-vault.html#specification)installed on site by our trained team
+Delivered [](/the-vault/)and [](/the-vault/)installed on site by our trained team
 
-In[\-](the-vault.html#specification)house [](the-vault.html#specification)branding [](the-vault.html#specification)available [](the-vault.html#specification)Printed[,](the-vault.html#specification) applied & removed after each event
+In[\-](/the-vault/)house [](/the-vault/)branding [](/the-vault/)available [](/the-vault/)Printed[,](/the-vault/) applied & removed after each event
 
-(One [](the-vault.html#specification)time [](the-vault.html#specification)use [](the-vault.html#specification)only)
+(One [](/the-vault/)time [](/the-vault/)use [](/the-vault/)only)
 
-\*Delivery [](the-vault.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/the-vault/)Charges & Minimum order value may apply
 
-[**Email:**](the-vault.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/the-vault/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -142,9 +142,9 @@ Why not hire our scoreboard and keep a record of times from your contestants and
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
 
 **Branded Plinth**
 

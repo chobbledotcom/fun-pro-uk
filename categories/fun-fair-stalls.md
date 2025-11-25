@@ -12,37 +12,37 @@ eleventyNavigation:
 
 # Best Fun Fair Stalls in the UK!
 
-Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](fun-foods/) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
+Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](/fun-foods/) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
 
 Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
-[Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire/)
+[Candy Floss Cart Hire](/fun-foods/92/candy-floss-cart-hire/)
 
-[More Details](fun-foods/92/candy-floss-cart-hire/)
+[More Details](/fun-foods/92/candy-floss-cart-hire/)
 
-[Coconut Shy Stall Hire](fun-fair-stalls/96/coconut-shy-stall-hire/)
+[Coconut Shy Stall Hire](/fun-fair-stalls/96/coconut-shy-stall-hire/)
 
-[More Details](fun-fair-stalls/96/coconut-shy-stall-hire/)
+[More Details](/fun-fair-stalls/96/coconut-shy-stall-hire/)
 
-[Hook A Duck](fun-fair-stalls/103/hook-a-duck/)
+[Hook A Duck](/fun-fair-stalls/103/hook-a-duck/)
 
-[More Details](fun-fair-stalls/103/hook-a-duck/)
+[More Details](/fun-fair-stalls/103/hook-a-duck/)
 
-[Play Your Cards Right Stall Hire](fun-fair-stalls/97/play-your-cards-right-stall-hire/)
+[Play Your Cards Right Stall Hire](/fun-fair-stalls/97/play-your-cards-right-stall-hire/)
 
-[More Details](fun-fair-stalls/97/play-your-cards-right-stall-hire/)
+[More Details](/fun-fair-stalls/97/play-your-cards-right-stall-hire/)
 
-[Popcorn Machine Cart Hire](fun-fair-stalls/93/popcorn-machine-cart-hire/)
+[Popcorn Machine Cart Hire](/fun-fair-stalls/93/popcorn-machine-cart-hire/)
 
-[More Details](fun-fair-stalls/93/popcorn-machine-cart-hire/)
+[More Details](/fun-fair-stalls/93/popcorn-machine-cart-hire/)
 
-[Target Ring Toss Hire](fun-fair-stalls/95/target-ring-toss-hire/)
+[Target Ring Toss Hire](/fun-fair-stalls/95/target-ring-toss-hire/)
 
-[More Details](fun-fair-stalls/95/target-ring-toss-hire/)
+[More Details](/fun-fair-stalls/95/target-ring-toss-hire/)
 
-[Twin Axe throwing](all-products/98/twin-axe-throwing/)
+[Twin Axe throwing](/all-products/98/twin-axe-throwing/)
 
-[More Details](all-products/98/twin-axe-throwing/)
+[More Details](/all-products/98/twin-axe-throwing/)
 
 ## Hire Fun Fair Stalls for Your Next Event!
 
@@ -54,7 +54,7 @@ Remember those fairground games you enjoyed as a child? Now you can recreate tha
     
 *   [School Fun Day](/pages/school-fun-day-entertainment-hire/)
     
-*   [Staff Fun Day](staff-wellbeing-days/)
+*   [Staff Fun Day](/staff-wellbeing-days/)
     
 *   Side Stall Game Hire
 
@@ -116,7 +116,7 @@ When you’re happy with the fun fair stalls you’ve hired, confirm your bookin
 
 ### Step 3: Delivery and setup
 
-On the day of your event, we’ll handle delivering and setting up the [exhibition games](exhibition-games/) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
+On the day of your event, we’ll handle delivering and setting up the [exhibition games](/exhibition-games/) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
 
 ### Step 4: Event day support
 
@@ -170,6 +170,6 @@ Yes, our professional staff will manage the stall to provide smooth service thro
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

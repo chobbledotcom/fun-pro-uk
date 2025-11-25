@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [31 March 17 - Woodside Wedding Fair 2nd April 2017!!](woodside-wedding-fair-2nd-april-2017/)
+# [31 March 17 - Woodside Wedding Fair 2nd April 2017!!](/woodside-wedding-fair-2nd-april-2017/)
 
 Woodside Wedding Fair - Sunday 2nd April 2017  
   
@@ -26,6 +26,6 @@ Of course, there will be special offers to be had for bookings placed on the day
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

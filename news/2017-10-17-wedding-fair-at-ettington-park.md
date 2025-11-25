@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [17 October 17 - Wedding Fair at Ettington Park](wedding-fair-at-ettington-park/)
+# [17 October 17 - Wedding Fair at Ettington Park](/wedding-fair-at-ettington-park/)
 
 On Sunday we attended a very busy [wedding](/category/weddings/) fair at Ettington Park Hotel in Stratford Upon Avon. The hotel is on the far side of Stratford, approximately 6 miles from the town and is situated in stunning countryside with the River Stour running through the estate.
 
@@ -29,6 +29,6 @@ If you missed our stand on Sunday there is no need to worry - you can catch Donk
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

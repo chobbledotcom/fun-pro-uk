@@ -31,10 +31,10 @@ We have been working in the entertainment industry for many years, and we know w
 
 **⭐⭐⭐⭐⭐**
 
-We would be happy to share our experience with you and find out how we can bring the fun to your events. Call 02476 629197 or use our [contact form](contact-fun-pro-uk/) to send us an email and we will contact you back.
+We would be happy to share our experience with you and find out how we can bring the fun to your events. Call 02476 629197 or use our [contact form](/contact-fun-pro-uk/) to send us an email and we will contact you back.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

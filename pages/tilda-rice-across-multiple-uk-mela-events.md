@@ -37,7 +37,7 @@ The challenge facing Tilda was how to meaningfully connect with the vibrant mult
 
 However, standing out at these bustling community festivals presented its own challenges. With numerous food vendors, cultural displays, and entertainment options competing for attention, Tilda needed something that would draw people to their stand and create lasting positive associations with their brand. The company had previous experience working with FunPro UK several years earlier and remembered the professional service and creative solutions they provided.
 
-When planning their return to community event marketing, Tilda knew they needed an [activation event](promotion-event-games/) that would reflect their brand values whilst creating genuine excitement. The rice and grain sector isn't traditionally associated with high-energy entertainment, but Tilda understood that connecting with families meant creating moments of joy and shared experience that would resonate long after the festival ended.
+When planning their return to community event marketing, Tilda knew they needed an [activation event](/promotion-event-games/) that would reflect their brand values whilst creating genuine excitement. The rice and grain sector isn't traditionally associated with high-energy entertainment, but Tilda understood that connecting with families meant creating moments of joy and shared experience that would resonate long after the festival ended.
 
 ## The Community Engagement Challenge
 
@@ -61,7 +61,7 @@ FunPro UK's in-house print team worked closely with Tilda to create a completely
 
 The technical execution required careful consideration of outdoor conditions. FunPro UK's team addressed the uneven ground challenges by providing professional levelling solutions and ensuring the game remained stable and safe throughout each event. "They understood that our reputation was on the line," noted the marketing team. "If the game didn't work properly or looked unprofessional, it would reflect poorly on our brand."
 
-The logistics of moving this customised setup across four different cities also required careful planning. Each location presented its own access challenges, from narrow park gates to restricted vehicle access times. FunPro UK's experience with [nationwide event coverage](delivery-areas/) proved invaluable, with their team coordinating delivery and setup to ensure each event opened with the game fully operational and looking perfect.
+The logistics of moving this customised setup across four different cities also required careful planning. Each location presented its own access challenges, from narrow park gates to restricted vehicle access times. FunPro UK's experience with [nationwide event coverage](/delivery-areas/) proved invaluable, with their team coordinating delivery and setup to ensure each event opened with the game fully operational and looking perfect.
 
 ## Results and Future Community Engagement
 
@@ -69,7 +69,7 @@ The logistics of moving this customised setup across four different cities also 
 
 The success of Tilda's [branded Roll and Bowl](/category/all-products/51/roll-and-bowl-game-hire/) activation exceeded all expectations. At each Mela event, the game became a focal point that drew families to the Tilda stand throughout the day. "The queues were constant," reported the events team. "Children would play, then bring their parents back to play again. It created exactly the kind of positive family associations we were hoping for."
 
-The immediate impact was measurable through both engagement levels and subsequent business development. More community events have been booked since the initial successes at Cardiff and Glasgow, with Tilda expanding their Mela presence to include Leicester (extended to two days due to demand) and London. The company has recognised that experiential marketing through properly executed [brand activations](promotion-event-games/) creates deeper connections than traditional advertising approaches.
+The immediate impact was measurable through both engagement levels and subsequent business development. More community events have been booked since the initial successes at Cardiff and Glasgow, with Tilda expanding their Mela presence to include Leicester (extended to two days due to demand) and London. The company has recognised that experiential marketing through properly executed [brand activations](/promotion-event-games/) creates deeper connections than traditional advertising approaches.
 
 "Working with FunPro UK has given us confidence to think bigger about community engagement," explained the marketing team. "They've shown us that our household name status can translate into genuinely entertaining experiences that people remember." The partnership has opened conversations about expanding into other community events and festivals throughout the year.
 
@@ -91,10 +91,10 @@ This project demonstrates FunPro UK's ability to combine creative customisation 
 
 If you're looking to connect with your audience through memorable branded experiences, FunPro UK's team of community engagement specialists can help you create entertainment solutions that draw crowds and build lasting positive associations with your brand.
 
-[Contact our friendly team](contact-fun-pro-uk/) today to discuss how we can bring your brand to life through [interactive entertainment](/interactive-game-hire/).
+[Contact our friendly team](/contact-fun-pro-uk/) today to discuss how we can bring your brand to life through [interactive entertainment](/interactive-game-hire/).
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

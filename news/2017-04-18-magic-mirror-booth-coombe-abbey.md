@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [18 April 17 - Magic mirror booth, Coombe Abbey](magic-mirror-booth-coombe-abbey/)
+# [18 April 17 - Magic mirror booth, Coombe Abbey](/magic-mirror-booth-coombe-abbey/)
 
 On Saturday evening we attended the exclusive venue of Coombe Abbey Hotel in [Coventry](/pages/corporate-event-hire-coventry/) with our marvellous Magic Mirror Selfie Booth.  
   
@@ -23,6 +23,6 @@ We would like to thank the newly weds for booking with Perfect Snap and would li
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

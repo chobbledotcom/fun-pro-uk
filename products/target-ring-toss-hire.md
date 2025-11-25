@@ -5,7 +5,7 @@ order: 50
 meta_title: "Target Ring Toss Hire | Fun & Interactive Game for UK Events"
 meta_description: "Hire a Target Ring Toss game for your next event! Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today"
 permalink: "/target-ring-toss-hire/"
-categories: []
+categories: ["categories/fun-fair-stalls.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
@@ -19,9 +19,9 @@ gallery:
 
 ## The Best Target Ring Toss Hire for All UK Events
 
-Are you looking for some fun, [interactive games](/products/) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
+Are you looking for some fun, [interactive games](/interactive-game-hire/) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
 
-Perfect for [corporate events](/products/corporate-entertainment/), school fairs, [staff parties](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more, this classic game brings friendly competition and laughter to any gathering.
+Perfect for [corporate events](/corporate-entertainment/), school fairs, [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more, this classic game brings friendly competition and laughter to any gathering.
 
 ## Hire a Target Ring Toss Game For Your Next Event
 
@@ -137,6 +137,6 @@ Brand the rear half wall of the inside of the stall with your brand from:
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

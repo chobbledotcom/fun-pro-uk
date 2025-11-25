@@ -76,6 +76,6 @@ If you're planning a brand activation event, your biggest goal is to grab attent
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [17 December 24 - Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement](exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/)
+# [17 December 24 - Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement](/exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/)
 
 Have you ever visited an exhibition stand? If yes, think about what attracted you to the stand. Was it the products or services? Was it the level of engagement and entertainment they offered? Was it the unique design?
 
@@ -82,7 +82,7 @@ Use clever lighting to highlight specific features or products, use QR codes to 
 
 ### 6\. Interactive Game Entertainment
 
-If there’s one trick that draws crowds every single time and sparks excitement at the same time, it’s [interactive games](/products/).
+If there’s one trick that draws crowds every single time and sparks excitement at the same time, it’s [interactive games](/interactive-game-hire/).
 
 An interactive exhibition and the right games can create a lively atmosphere and give attendees a reason to stay longer at your stand. Anything from a simple challenge or a high tech setup can provide fun and memorable interactions.
 
@@ -96,11 +96,11 @@ Some interactive game hires to consider include:
 
 *   [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/) is a nostalgic and engaging crowd favourite. You can set up a friendly competition to see who can hit the most moles the fastest.
 
-*   [Prize Claw Grabbing Machines](/../prize-crane-arcade-grabber/) offer exciting rewards and are great crowd pleasers. Let attendees try their luck at grabbing branded prizes from the machine. It's a fun and interactive way to engage with potential customers.
+*   [Prize Claw Grabbing Machines](/prize-crane-arcade-grabber/) offer exciting rewards and are great crowd pleasers. Let attendees try their luck at grabbing branded prizes from the machine. It's a fun and interactive way to engage with potential customers.
 
 *   [Cash Grabbers](/category/grab-a-grand/3/cash-grabber-machine-hire/) or [Ballnado Grabbers](/category/grab-a-grand/36/ballnado-grabber/) literally create a whirlwind of fun. It's a game that challenges players to grab as much as possible while inside a wind vortex.
 
-*   [Prize Wheels](/../prize-wheel/) are a great option for exhibitions and trade shows. Players can spin the wheel to win prizes or discounts on your products or services. Prize wheel can also be customised to fit your specific requirements.
+*   [Prize Wheels](/prize-wheel/) are a great option for exhibitions and trade shows. Players can spin the wheel to win prizes or discounts on your products or services. Prize wheel can also be customised to fit your specific requirements.
 
 ### 7\. Deliver a VR/AR Experience
 
@@ -176,6 +176,6 @@ We have a range of [interactive games and custom branding options](/category/bra
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

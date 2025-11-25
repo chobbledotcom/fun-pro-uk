@@ -4,7 +4,7 @@ const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = re
 const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
-const { scanProductCategories } = require('../utils/category-scanner');
+const { getProductCategoriesMap } = require('../utils/category-scanner');
 const { createConverter } = require('../utils/base-converter');
 
 const { convertSingle, convertBatch } = createConverter({
@@ -103,7 +103,7 @@ const convertProducts = async () => {
   prepDir(outputDir);
 
   console.log('  Scanning categories for product relationships...');
-  const productCategoriesMap = scanProductCategories();
+  const productCategoriesMap = getProductCategoriesMap();
 
   const reviewsMap = new Map();
 

@@ -5,7 +5,7 @@ order: 5
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/cash-grabber-machine-hire/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "categories/interactive-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
@@ -122,7 +122,7 @@ Lights Out
 
 [Gold Cup Horse racing](/29/gold-cup-horse-racing/)
 
-[Crack the Code](/../../crack-the-code-safe-cracker/)
+[Crack the Code](/crack-the-code-safe-cracker/)
 
 **Grab A Grand Hire For Corporate Events:**
 
@@ -180,7 +180,7 @@ We suggest that you add some extra fun to this game, such as a name draw for who
 
 ### **Endless options**
 
-We've got so many options when it comes to [interactive game hire](/products/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
+We've got so many options when it comes to [interactive game hire](/interactive-game-hire/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
 
 **Branding Prices from:**
 

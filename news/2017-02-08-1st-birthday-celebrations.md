@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [08 February 17 - 1st Birthday Celebrations!](1st-birthday-celebrations/)
+# [08 February 17 - 1st Birthday Celebrations!](/1st-birthday-celebrations/)
 
 Everyone had a fantastic time at the 1st birthday party of a little girl in [Birmingham](/pages/magic-mirror-hire-birmingham/) on Sunday! There were some great memories captured! The Jewels Banqueting Suite venue looked amazing with all the table decorations and lighting. We set up our famous [magic mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) and laid out our awesome prop box ready for the party to begin. On each photograph the prints had a birthday message as a memorable keepsake.
 
@@ -22,6 +22,6 @@ Thank you for inviting Perfect Snap and Bounceroos Events to help you celebrate 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

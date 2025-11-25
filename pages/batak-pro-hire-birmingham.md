@@ -19,7 +19,7 @@ Batak Pro is the gold standard in reaction testing games, beloved by people of a
 
 This addictively simple concept creates natural and healthy competition as participants try to beat their colleagues' scores or claim the top spot on the leaderboard. The sleek, professional design makes it a perfect centrepiece for:
 
-*   Corporate events and [team-building](team-building-ideas/) exercises
+*   Corporate events and [team-building](/team-building-ideas/) exercises
     
 *   Exhibition stands to increase footfall
     
@@ -85,7 +85,7 @@ Every Batak Pro hire package from Fun Pro UK includes:
 
 ![](/userfiles/fun-pro-batak-pro-game.jpg)
 
-Transform the Batak Pro into a powerful brand ambassador with our custom branding options, making it perfect for [brand activation](promotion-event-games/) events, [conferences](conference-game-hire/), trade shows, and exhibitions.
+Transform the Batak Pro into a powerful brand ambassador with our custom branding options, making it perfect for [brand activation](/promotion-event-games/) events, [conferences](/conference-game-hire/), trade shows, and exhibitions.
 
 You can choose to have your Batak Pro machine customised with your company branding or even product-specific branding with the colours of your choice.
 
@@ -173,10 +173,10 @@ Plus much more. Take a look at our full [range of products](/category/all-produc
 
 ## Hire Batak Pro for Your Birmingham Event
 
-Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](contact-fun-pro-uk/) today for a personalised quote and to check availability for your event date.
+Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](/contact-fun-pro-uk/) today for a personalised quote and to check availability for your event date.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

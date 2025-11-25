@@ -5,7 +5,7 @@ order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
 permalink: "/air-hockey-table-hire/"
-categories: []
+categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
@@ -25,7 +25,7 @@ gallery:
 
 ## **Best Air Hockey Table Hire in the UK for Fun Filled Events!**
 
-Searching for a game that will keep your guests entertained? Our air hockey table hire offers a fast-paced, [interactive experience](/products/) that keeps everyone entertained for hours. Its competitive gameplay brings energy, fun, and engagement to any occasion. For complete peace of mind, we provide hassle-free, professional delivery, setup, and collection across the UK.
+Searching for a game that will keep your guests entertained? Our air hockey table hire offers a fast-paced, [interactive experience](/interactive-game-hire/) that keeps everyone entertained for hours. Its competitive gameplay brings energy, fun, and engagement to any occasion. For complete peace of mind, we provide hassle-free, professional delivery, setup, and collection across the UK.
 
 ## **Hiring Periods & Pricing  
 **
@@ -58,7 +58,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](/category/arcade-games/60/air-hockey-table-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/arcade-games/60/air-hockey-table-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -79,10 +79,10 @@ We specialise in different kinds of events. Get an air hockey table hire for:
 [Conferences and trade shows](/pages/conference-idea/)  
 [Product launch parties](/pages/promotion-event-games/)  
 [Company wide retreats](/pages/team-building-ideas/)  
-[Awards ceremonies](/../company-award-ceremonies/)  
+[Awards ceremonies](/company-award-ceremonies/)  
 Corporate anniversary celebrations  
 Client and partner events  
-[Christmas events](/../../theme/category/christmas-game-hire/)  
+[Christmas events](/theme/category/christmas-game-hire/)  
   
 …and more!  
 
@@ -116,10 +116,10 @@ Lift required 2200mm deep
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## **Why Choose Our Air Hockey Table Hire Service?**
 
