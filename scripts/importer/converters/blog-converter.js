@@ -1,15 +1,26 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFilesRecursive, prepDir } = require('../utils/filesystem');
-const { extractBlogDate, extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
+const { extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
 
+/**
+ * Extract date from directory path (e.g., /news/2016-10-14/ -> 2016-10-14)
+ * @param {string} dirPath - Directory path
+ * @returns {string|null} Date in YYYY-MM-DD format or null
+ */
+const extractDateFromPath = (dirPath) => {
+  const match = dirPath.match(/(\d{4}-\d{2}-\d{2})/);
+  return match ? match[1] : null;
+};
+
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'blog',
   extractors: {
-    date: (htmlContent, markdown) => extractBlogDate(markdown, config.DEFAULT_DATE),
+    // Date comes from context (set from folder path), not from content
+    date: (htmlContent, markdown, slug, context) => context.dateFromPath || null,
     blogHeading: (htmlContent) => extractContentHeading(htmlContent),
     blogImage: (htmlContent, markdown) => extractBlogImage(markdown)
   },
@@ -56,7 +67,13 @@ const convertBlogPosts = async () => {
 
   for (let i = 0; i < fileInfos.length; i++) {
     const fileInfo = fileInfos[i];
-    const context = { progressIndex: i, progressTotal: fileInfos.length };
+    // Extract date from folder path (e.g., /news/2016-10-14/)
+    const dateFromPath = extractDateFromPath(fileInfo.dir);
+    const context = { 
+      progressIndex: i, 
+      progressTotal: fileInfos.length,
+      dateFromPath
+    };
     if (await convertSingle(fileInfo.file, fileInfo.dir, outputDir, context)) {
       successful++;
     } else {

@@ -45,19 +45,14 @@ const generateImageFilename = (url, contentType, slug) => {
     return funProResult.filename;
   }
 
-  try {
-    const urlObj = new URL(url);
-    const pathParts = urlObj.pathname.split('/');
-    const lastPart = pathParts[pathParts.length - 1];
-    const cloudinaryId = lastPart.split('.')[0];
-    // Use first 5 chars of cloudinary ID for uniqueness
-    const shortId = cloudinaryId.slice(0, 5);
-    const extension = lastPart.includes('.') ? lastPart.split('.').pop() : 'webp';
-    return `${slug}-${shortId}.${extension}`;
-  } catch (e) {
-    // Fallback for invalid URLs
-    return `${slug}-image.webp`;
-  }
+  const urlObj = new URL(url);
+  const pathParts = urlObj.pathname.split('/');
+  const lastPart = pathParts[pathParts.length - 1];
+  const cloudinaryId = lastPart.split('.')[0];
+  // Use first 5 chars of cloudinary ID for uniqueness
+  const shortId = cloudinaryId.slice(0, 5);
+  const extension = lastPart.includes('.') ? lastPart.split('.').pop() : 'webp';
+  return `${slug}-${shortId}.${extension}`;
 };
 
 /**
