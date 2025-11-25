@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [22 February 17 - Magic Mirror 18th Feb](magic-mirror-18th-feb/)
+# [22 February 17 - Magic Mirror 18th Feb](/magic-mirror-18th-feb/)
 
 On Saturday 18th February, the Perfect Snap team attended a new venue. We spent the evening at Blackwell Grange. A beautiful venue in Shipston On Stour which is located on the outskirts of [Stratford Upon Avon, Warwickshire.](/pages/delivery-areas/)  
 Our ever popular [Magic Mirror Booth](/category/photo-booths-and-magic-mirrors/magic-mirror/) had been hired to entertain the wonderful guests. Alistair, the mirror attendant for the evening set our talking stand alone mirror up in no time! The never ending prop box was opened and as soon as Donkey's voice began wowing the guests those selfies really began to flow!  
@@ -21,6 +21,6 @@ We would like to wish the happy couple a wonderful future together and thank you
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

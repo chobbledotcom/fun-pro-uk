@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 April 24 - End of the Financial Year! Now is an ideal time to have a wellbeing event.](end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/)
+# [04 April 24 - End of the Financial Year! Now is an ideal time to have a wellbeing event.](/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/)
 
 **End of the Financial Year! Now is an ideal time to have a wellbeing event.**
 
@@ -16,11 +16,11 @@ The end of the Financial Year **5 April,**t**he financial year comes to an end, 
 
 With budget constraints, the offsite wellbeing events can become cost prohibitive, but why not bring interactive games and activities to the office. Interactive games are a way to bring teams together and enhance the **team building** and **strategic thinking**, it is very much all about fun and games, with experiences that will make your team laugh and smile for unforgettable memories. And we all know that laughter is good for helping reduce stress and promote team interaction.
 
-The weekly project update meeting could turn into a driving sensation with [Racing Car Simulator](/category/interactive-game-hire/racing-car-simulators.html#BodyContent). It’s not just about speed and positioning, interactive games encourages innovative thinking and creativity.
+The weekly project update meeting could turn into a driving sensation with [Racing Car Simulator](/category/interactive-game-hire/racing-car-simulators/#content). It’s not just about speed and positioning, interactive games encourages innovative thinking and creativity.
 
-A [Prize Wheel](/category/arcade-games/49/prize-wheel.html#BodyContent), also known as Wheel of Fortune can give everyone the opportunity to be a winner. All segments having a wellbeing themed reward, from a piece of fruit to a months free gym membership, the choice of prizes is yours.  
+A [Prize Wheel](/category/arcade-games/49/prize-wheel/#content), also known as Wheel of Fortune can give everyone the opportunity to be a winner. All segments having a wellbeing themed reward, from a piece of fruit to a months free gym membership, the choice of prizes is yours.  
 
-Introduce a competitive edge, with hand and eye coordination being key with the [BATAK](/../search.aspx%3Fq=batak.html#BodyContent) reaction game. Set up an internal competition, the person who strikes the most lights in 30 seconds wins.  
+Introduce a competitive edge, with hand and eye coordination being key with the [BATAK](/search.aspx%3Fq=batak/#content) reaction game. Set up an internal competition, the person who strikes the most lights in 30 seconds wins.  
 
 The in-office games on a Wellbeing Day (or any Corporate Event) certainly bring a break from the norm, it’s a superb way to encourage camaraderie, promote team building, keep the morale high and focus for the next financial year.
 
@@ -40,6 +40,6 @@ Telephone : 0247 7220 701
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

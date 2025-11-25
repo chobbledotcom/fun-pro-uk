@@ -8,17 +8,17 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [03 November 25 - Small Conference vs. Large Conference](small-conference-vs-large-conference/)
+# [03 November 25 - Small Conference vs. Large Conference](/small-conference-vs-large-conference/)
 
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment
 
-![](/../userfiles/group-of-professional-people-celebrating.png)
+![](/userfiles/group-of-professional-people-celebrating.png)
 
 Are you planning a [conference](/pages/conference-idea/)? One of the most important decisions you'll make is selecting the right entertainment to keep your attendees engaged, energised, and talking long after the event ends. However, what works brilliantly for an intimate gathering of 30 colleagues might fall flat at a large-scale conference with 300 attendees, and vice versa.
 
 Interactive games and entertainment aren't one-size-fits-all. The size of your conference fundamentally changes how you approach entertainment hire, from the types of games you select to how many you need, where you place them, and how your attendees will interact with them.
 
-With over 15 years of experience as [corporate event specialists](/pages/about-corporate-entertainment-hire/), we've helped event planners [across the UK](/pages/delivery-areas/) navigate these decisions for conferences of every size. In this guide, we'll walk you through the key considerations for choosing [interactive entertainment](/products/) based on your conference size, so you can create an engaging experience that achieves your event goals whilst staying within budget.
+With over 15 years of experience as [corporate event specialists](/pages/about-corporate-entertainment-hire/), we've helped event planners [across the UK](/pages/delivery-areas/) navigate these decisions for conferences of every size. In this guide, we'll walk you through the key considerations for choosing [interactive entertainment](/interactive-game-hire/) based on your conference size, so you can create an engaging experience that achieves your event goals whilst staying within budget.
 
 ## Understanding the Key Differences Between Small and Large Conferences
 
@@ -28,17 +28,17 @@ For the purposes of interactive entertainment planning, we typically consider a 
 
 A large conference, on the other hand, typically involves 100 to 500+ attendees. These events take place in convention centres, large hotels, or purpose-built conference venues. They often feature multiple sessions, keynote speakers, and attendees from different departments, companies, or even industries who may be meeting for the first time.
 
-Why does this distinction matter for [interactive entertainment](/products/)? Because conference size affects everything: the space you have available, how attendees engage with activities, the logistics of [delivery](/pages/delivery-areas/) and setup, and ultimately which games will create the most impact.
+Why does this distinction matter for [interactive entertainment](/interactive-game-hire/)? Because conference size affects everything: the space you have available, how attendees engage with activities, the logistics of [delivery](/pages/delivery-areas/) and setup, and ultimately which games will create the most impact.
 
 ## Space and Venue Considerations for Conference Game Hire
 
-One of the first practical considerations when hiring [interactive games](/products/) for your conference is space. It's not just about whether games will physically fit; it's about creating an environment where entertainment enhances the flow of your event.
+One of the first practical considerations when hiring [interactive games](/interactive-game-hire/) for your conference is space. It's not just about whether games will physically fit; it's about creating an environment where entertainment enhances the flow of your event.
 
 ### Space Requirements for Small Conferences
 
 Small conference venues present unique space challenges. You're often working with breakout rooms, smaller conference halls, or sectioned areas within larger spaces. Every square metre counts, and you need to be thoughtful about how interactive games fit into the overall layout.
 
-Most compact interactive games require approximately 2 to 3 square metres of floor space. Reaction-based games like [Strike a Light](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/) or [Batak](category/batak/) walls tend to have smaller footprints, making them ideal for tighter spaces. You'll also need to consider the "playing radius" which refers to the space around the game where people stand to play, wait their turn, or watch others compete.
+Most compact interactive games require approximately 2 to 3 square metres of floor space. Reaction-based games like [Strike a Light](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/) or [Batak](/Controls/category/batak/) walls tend to have smaller footprints, making them ideal for tighter spaces. You'll also need to consider the "playing radius" which refers to the space around the game where people stand to play, wait their turn, or watch others compete.
 
 In smaller venues, we typically recommend positioning 2 to 4 games maximum. This provides variety without overwhelming the space or making the room feel cluttered. Think about room flow: you don't want games blocking natural walkways or preventing attendees from accessing refreshments, presentations, or other key areas.
 
@@ -52,7 +52,7 @@ Larger equipment like racing simulators requires approximately 3 to 4 square met
 
 ## Attendee Engagement: How Conference Size Changes the Game
 
-![](/../userfiles/team-building.png)
+![](/userfiles/team-building.png)
 
 Understanding how conference size affects attendee behaviour is crucial when selecting interactive entertainment. The dynamics of participation shift dramatically based on group size.
 
@@ -78,7 +78,7 @@ Large conferences benefit from what we call "permission through observation." Wh
 
 ## Selecting the Right Interactive Games for Your Conference Size
 
-![](/../userfiles/speed-test-competition-interactive-games.jpg)
+![](/userfiles/speed-test-competition-interactive-games.jpg)
 
 Now we come to the practical question: which games should you actually hire? The answer depends heavily on your conference size, as different games excel in different settings.
 
@@ -188,7 +188,7 @@ Yes, inclusive entertainment is one of our core values. We consider diverse need
 
 ## Ready to Plan Your Conference Entertainment?
 
-Choosing the right [interactive entertainment](/products/) for your conference doesn't need to be complicated. Whether you're planning an intimate gathering of 30 colleagues or a large-scale conference with 300+ attendees, the key is understanding how size affects every aspect of your entertainment strategy.
+Choosing the right [interactive entertainment](/interactive-game-hire/) for your conference doesn't need to be complicated. Whether you're planning an intimate gathering of 30 colleagues or a large-scale conference with 300+ attendees, the key is understanding how size affects every aspect of your entertainment strategy.
 
 With over 15 years of experience as corporate event specialists, we've helped event planners across the UK create engaging conference experiences that achieve their goals. From intimate team-building sessions to large-scale conferences at major venues, we understand the unique considerations each type of event presents.
 
@@ -200,6 +200,6 @@ Our consultative approach means we take the time to understand your specific req
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

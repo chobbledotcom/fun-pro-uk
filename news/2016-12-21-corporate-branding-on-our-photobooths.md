@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [21 December 16 - Corporate Branding on our Photobooths](corporate-branding-on-our-photobooths/)
+# [21 December 16 - Corporate Branding on our Photobooths](/corporate-branding-on-our-photobooths/)
 
 Arranging your Corporate Event? Let Perfect Snap help with organising the function. Perfect Snap really will bring the FUN to your event.
 
@@ -48,6 +48,6 @@ For further information of how we can help you arrange your corporate event drop
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
 permalink: "/candy-cane-snatch-it/"
-categories: []
+categories: ["categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
@@ -77,7 +77,7 @@ Check our hire packages and choose one that suits your event needs and budgets.
 
 **£1195**\+ vat**
 
-Delivered [](candy-cane-snatch-it.html#specification)and [](candy-cane-snatch-it.html#specification)installed on site by our trained team
+Delivered [](/candy-cane-snatch-it/)and [](/candy-cane-snatch-it/)installed on site by our trained team
 
 You can rest assured that the Candy Cane Snatch It and other equipment will arrive in top condition, and ready for use at your event.  
   
@@ -87,9 +87,9 @@ In-house branding available. We print, apply, and remove them after each event.
   
 Need a longer hire period? Contact us for custom pricing and availability.  
 
-\*Delivery [](candy-cane-snatch-it.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/candy-cane-snatch-it/)Charges & Minimum order value may apply
 
-[**Email:**](candy-cane-snatch-it.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/candy-cane-snatch-it/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
 **
@@ -198,6 +198,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

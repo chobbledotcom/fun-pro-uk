@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [31 October 18 - Mirror, Mirror out at Wasps, where will I go next?](mirror-mirror-out-at-wasps-where-will-i-go-next/)
+# [31 October 18 - Mirror, Mirror out at Wasps, where will I go next?](/mirror-mirror-out-at-wasps-where-will-i-go-next/)
 
 We recently visited a long-standing client of ours to deliver our [Magic Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) to their hospitality area, pre-Wasps match.
 
@@ -28,6 +28,6 @@ So give one of our team a call today to check the availability of our Magic Mirr
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

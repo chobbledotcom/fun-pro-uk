@@ -5,7 +5,7 @@ order: 2
 meta_title: "Batak Pro Game Hire | Corporate Engagement | Interactive Game"
 meta_description: "Hire Batak Pro for Corporate events, conferences &amp; parties. Engage guests with this high-energy reaction game. Book now for a fun, competitive experience!"
 permalink: "/batak-pro/"
-categories: []
+categories: ["categories/batak.md", "categories/exhibition-games.md", "categories/all-products.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce"
@@ -28,13 +28,13 @@ gallery:
 
 "Please Note Leader Boards are not included unless requested"
 
-[Batak Pro](/pages/batak-pro-hire-manchester/) is the perfect high-energy activity to help create a buzz and bring people together at your next corporate event, [staff party](/blog/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or product launch.
+[Batak Pro](/pages/batak-pro-hire-manchester/) is the perfect high-energy activity to help create a buzz and bring people together at your next corporate event, [staff party](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or product launch.
 
 ## What Is Batak Pro?
 
 Batak Pro is the full-scale version of the popular reaction speed game, [Batak Lite](/all-products/batak-lite/), designed to test and improve hand-eye coordination, reflexes, and stamina. With its dynamic illuminated targets, players are challenged to hit as many of the targets as possible within a set time, making it a thrilling game for participants and spectators alike.
 
-Highly popular at many types of [corporate events](/products/corporate-entertainment/) like [team building](/pages/team-building-ideas/) days, exhibitions, trade shows, and [brand activations](/pages/promotion-event-games/), Batak Pro draws crowds and creates a buzz around your brand.
+Highly popular at many types of [corporate events](/corporate-entertainment/) like [team building](/pages/team-building-ideas/) days, exhibitions, trade shows, and [brand activations](/pages/promotion-event-games/), Batak Pro draws crowds and creates a buzz around your brand.
 
 ## Why Choose Batak Pro for Your Next Event?
 
@@ -52,7 +52,7 @@ At Fun Pro, our Batak Pro game hire is suitable for many types of events. Here a
 
 ## What’s Included in Batak Pro Hire from Fun Pro?
 
-We make [interactive game hire](/products/) as seamless as possible, providing everything you need for an unforgettable experience.
+We make [interactive game hire](/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
 
 **Hire Prices:**
 
@@ -82,7 +82,7 @@ Custom branding options to showcase your company identity
 
 \*Delivery fees may apply.
 
-[**Email:**](/products/batak43/batak-pro.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/batak/batak-pro/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -122,10 +122,10 @@ Lift required 1600mm deep 1500mm high
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
 *   [Dance Machine](/dance-machine/)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game/)
+*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
 
 ## Batak Pro Branding and Customisation Options
 
@@ -195,15 +195,15 @@ Fun Pro is a leading provider of interactive event games, and we’re proud to h
 
 If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
 
-[Arcade Games](/category/arcade-games/lights-out-game/)
+[Arcade Games](/arcade-games/lights-out-game/)
 
-[Prize Games](/category/prize-games/)
+[Prize Games](/prize-games/)
 
-[Pub Games](/category/pub-games/)
+[Pub Games](/pub-games/)
 
-[Roll and Bowl](/products/roll-and-bowl/)
+[Roll and Bowl](/roll-and-bowl/)
 
-[Crazy Golf](/category/fun-days/crazy-golf/)
+[Crazy Golf](/fun-days/crazy-golf/)
 
 [View all our event hire products and games here](/all-products/)
 

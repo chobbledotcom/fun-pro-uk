@@ -23,6 +23,6 @@ We're proud to have KPMG as a customer, because if the number-crunchers of one o
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
 permalink: "/bespoke-photo-booth-hire/"
-categories: []
+categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-and-magic-mirrors.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/24c0c248921be81d95b0e363d4fd6ca0"
@@ -79,10 +79,10 @@ Lift required
 
 ### **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ### **Branding Prices from:**
 
@@ -126,6 +126,6 @@ Adding a bespoke skin to your photo booth, or branding your social media booth, 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

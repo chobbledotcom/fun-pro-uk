@@ -5,7 +5,7 @@ order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
 permalink: "/leader-board/"
-categories: []
+categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3cd165509b7a1705c1dbf729a097616e"
@@ -37,15 +37,15 @@ Looking to add a fun and interactive element to your event? Our LEADER BOARD is 
 
 **£75**\+ vat**
 
-Delivered [](leader-board.html#specification)and [](leader-board.html#specification)installed on site by our trained team
+Delivered [](/leader-board/)and [](/leader-board/)installed on site by our trained team
 
-In[\-](leader-board.html#specification)house [](leader-board.html#specification)branding [](leader-board.html#specification)available [](leader-board.html#specification)Printed[,](leader-board.html#specification) applied & removed after each event
+In[\-](/leader-board/)house [](/leader-board/)branding [](/leader-board/)available [](/leader-board/)Printed[,](/leader-board/) applied & removed after each event
 
-(One [](leader-board.html#specification)time [](leader-board.html#specification)use [](leader-board.html#specification)only)
+(One [](/leader-board/)time [](/leader-board/)use [](/leader-board/)only)
 
-\*Delivery [](leader-board.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/leader-board/)Charges & Minimum order value may apply
 
-[**Email:**](leader-board.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/leader-board/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [14 October 16 - Dunchurch Park Wedding Show](dunchurch-park-wedding-show/)
+# [14 October 16 - Dunchurch Park Wedding Show](/dunchurch-park-wedding-show/)
 
 It was lovely to see so many prospective brides and their grooms at the Dunchurch Park Hotel wedding show on Sunday 9th October October 2016. It really is a stunning venue, a very popular location for that special day.  
   
@@ -27,6 +27,6 @@ We were very busy taking bookings for 2017 and 2018 and wish to thank everyone t
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

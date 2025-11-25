@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK"
 meta_description: "This inflatable dash &amp; grab game is great competitive fun! Hungry Hippos with humans instead - grab the balls on a bungee rope. Fun for spectators too!"
 permalink: "/dash-and-grab-hungry-hippo-inflatable-game/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f"
@@ -25,11 +25,11 @@ gallery:
 
 **£495**\+ vat**
 
-Delivered [](dash-and-grab-hungry-hippo-inflatable-game.html#specification)and [](dash-and-grab-hungry-hippo-inflatable-game.html#specification)installed on site by our trained team
+Delivered [](/dash-and-grab-hungry-hippo-inflatable-game/)and [](/dash-and-grab-hungry-hippo-inflatable-game/)installed on site by our trained team
 
-\*Delivery [](dash-and-grab-hungry-hippo-inflatable-game.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/dash-and-grab-hungry-hippo-inflatable-game/)Charges & Minimum order value may apply
 
-[**Email:**](dash-and-grab-hungry-hippo-inflatable-game.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/dash-and-grab-hungry-hippo-inflatable-game/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -69,7 +69,7 @@ Lift required
 
 **CHECK OUT OUR OTHER GAMES**
 
-Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/category/fun-days/) making your event fabulous fun for everyone
+Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/fun-days/) making your event fabulous fun for everyone
 
 To hire the Bungee Run to make your event complete with action and fun call our team today.
 

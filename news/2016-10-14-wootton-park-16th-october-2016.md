@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [14 October 16 - Wootton Park 16th October 2016](wootton-park-16th-october-2016/)
+# [14 October 16 - Wootton Park 16th October 2016](/wootton-park-16th-october-2016/)
 
 We are all getting excited at Perfect Snap HQ for this Sunday! Why I hear you ask?.... Well, we are attending the magnificent venue of Wootton in Henley in Arden for their wedding fair. Perfect snap will be there showcasing the Magic Mirror.
 
@@ -28,6 +28,6 @@ Address: Wootten Park, Wootten Wawen, Henley in Arden B956HH (sat nav use B956HH
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

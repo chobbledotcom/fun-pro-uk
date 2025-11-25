@@ -5,7 +5,7 @@ order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
 permalink: "/candy-floss-cart-hire/"
-categories: []
+categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-fair-stalls.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
@@ -17,7 +17,7 @@ gallery:
 
 ## Best Candy Floss Cart Hire for Fun Events in the UK!
 
-If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/category/fun-days/), school fetes, and more.  
+If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/fun-days/), school fetes, and more.  
   
 The bright colours and spinning sugar draw in guests of all ages, making it a simple yet eye-catching addition to your gathering. It’s an easy way to make your event stand out and create sweet, lasting memories for everyone who attends.
 
@@ -25,7 +25,7 @@ The bright colours and spinning sugar draw in guests of all ages, making it a si
 
 The candy floss cart is a great addition to any event, whether indoors or outdoors.
 
-Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/pages/outdoor-garden-game-hire/), [school fun days](/pages/school-fun-day-entertainment-hire/), [promotional fairs](/pages/promotion-event-games/), [corporate gatherings](/../../corporate-entertainment/), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/pages/outdoor-garden-game-hire/), [school fun days](/pages/school-fun-day-entertainment-hire/), [promotional fairs](/pages/promotion-event-games/), [corporate gatherings](/corporate-entertainment/), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
 
 Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
 
@@ -55,7 +55,7 @@ The candy floss cart hire service includes:
 
 **CONTACT US FOR PRICE**
 
-![](/../../userfiles/file/FunPro/Images/specification.png)
+![](/userfiles/file/FunPro/Images/specification.png)
 
 Our services cover full setup and removal by our professional team, ensuring everything runs smoothly from start to finish. Delivery is not included in the price and will be charged separately.
 
@@ -77,16 +77,16 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ### **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## Why Choose Our Candy Floss Cart Hire Service?
 
 Fun Pro UK's candy floss cart hire adds entertainment and creates a space for guests to gather, chat, and enjoy a nostalgic treat. The cart is a simple way to bring people together and keeps guests coming back for more throughout the event.
 
-Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/blog/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/), and we handle each detail with care and professionalism to ensure everything runs smoothly.
+Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/news/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/), and we handle each detail with care and professionalism to ensure everything runs smoothly.
 
 From setup to service, our team is committed to making the entire process easy and enjoyable. We manage the logistics, so you can focus on organising your event and making sure your guests have a great time.
 
@@ -164,6 +164,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

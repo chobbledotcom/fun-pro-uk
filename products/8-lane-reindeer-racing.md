@@ -5,7 +5,7 @@ order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Reindeer Racing is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/8-lane-reindeer-racing/"
-categories: []
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
@@ -23,15 +23,15 @@ gallery:
 
 **£1695**\+ vat**
 
-Delivered [](8-lane-reindeer-racing.html#specification)and [](8-lane-reindeer-racing.html#specification)installed on site by our trained team
+Delivered [](/8-lane-reindeer-racing/)and [](/8-lane-reindeer-racing/)installed on site by our trained team
 
-In[\-](8-lane-reindeer-racing.html#specification)house [](8-lane-reindeer-racing.html#specification)branding [](8-lane-reindeer-racing.html#specification)available [](8-lane-reindeer-racing.html#specification)Printed[,](8-lane-reindeer-racing.html#specification) applied & removed after each event
+In[\-](/8-lane-reindeer-racing/)house [](/8-lane-reindeer-racing/)branding [](/8-lane-reindeer-racing/)available [](/8-lane-reindeer-racing/)Printed[,](/8-lane-reindeer-racing/) applied & removed after each event
 
-(One [](8-lane-reindeer-racing.html#specification)time [](8-lane-reindeer-racing.html#specification)use [](8-lane-reindeer-racing.html#specification)only)
+(One [](/8-lane-reindeer-racing/)time [](/8-lane-reindeer-racing/)use [](/8-lane-reindeer-racing/)only)
 
-\*Delivery [](8-lane-reindeer-racing.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/8-lane-reindeer-racing/)Charges & Minimum order value may apply
 
-[**Email:**](8-lane-reindeer-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/8-lane-reindeer-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -101,6 +101,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

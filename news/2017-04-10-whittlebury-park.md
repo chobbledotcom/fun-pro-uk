@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 April 17 - Whittlebury Park](whittlebury-park/)
+# [10 April 17 - Whittlebury Park](/whittlebury-park/)
 
 On Saturday evening we were in attendance at the [wedding reception](/category/weddings/) of William and Jaimie. The bride looked stunning as did her maids.  
 It was the first time we had attended the venue of Whittlebury Park in [Northamptonshire](/pages/nottingham-corporate-event-hire/) and I really must say it was stunning!  
@@ -23,6 +23,6 @@ From the Perfect Snap Team.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

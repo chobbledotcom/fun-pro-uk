@@ -35,7 +35,7 @@ Our promotional game hire allows you to get maximum visibility for your brand, w
     
 *   [Crack the Code Safe Game](/crack-the-code-safe-cracker/) - Challenge participants to unlock prizes with a digital code-breaking experience
     
-*   [Batak Games](category/batak/) - Professional standard reaction games that create healthy competition
+*   [Batak Games](/Controls/category/batak/) - Professional standard reaction games that create healthy competition
 
 ### Arcade & Prize Games
 
@@ -127,10 +127,10 @@ No matter where you are in the country, we’ll deliver to you\*. Our experience
 
 With over 20 years of experience in providing promotional games for businesses, brand activations, and many other types of corporate and private events, we’re here to help your event have as much impact as possible.
 
-We'll work with you to find tailored solutions that perfectly align with your brand values and event goals. [Contact us](contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
+We'll work with you to find tailored solutions that perfectly align with your brand values and event goals. [Contact us](/contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

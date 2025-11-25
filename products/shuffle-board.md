@@ -5,7 +5,7 @@ order: 50
 meta_title: "Shuffleboard Hire | Fun Pro UK"
 meta_description: "Add excitement to your event with shuffleboard hire from Fun Pro UK. Ideal for parties, corporate events, and more. Available across the UK. Book us today!"
 permalink: "/shuffle-board/"
-categories: []
+categories: ["categories/all-products.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/25bd4f8dba23c188523ba1ee9b50cf8b"
@@ -33,9 +33,9 @@ Shuffleboard has stood the test of the time as one of the most beloved games fro
   
 We specialise in a large variety of events. Get a shuffleboard hire for:  
   
-✓ [Corporate events](/../../corporate-entertainment/)  
-✓ [Exhibitions](/../../exhibition-games/)  
-✓ [Family fun days](/category/fun-days/)  
+✓ [Corporate events](/corporate-entertainment/)  
+✓ [Exhibitions](/exhibition-games/)  
+✓ [Family fun days](/fun-days/)  
 ✓ [Weddings](/pages/hire-outdoor-games-for-weddings/)  
 ✓ College and university events  
 ✓ Conferences and trade shows  
@@ -164,16 +164,16 @@ Lift required
 
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Batak Pro](/products/batak43/batak-pro.html#BodyContent)
-*   [Dance Machine](/../exhibition-games/dance-machine/)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game/)
+*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
+*   [Batak Pro](/batak/batak-pro/#content)
+*   [Dance Machine](/exhibition-games/dance-machine/)
+*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
 
 **Skirt Branding**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
 
 **£295**\+ vat**

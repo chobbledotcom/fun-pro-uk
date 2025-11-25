@@ -15,7 +15,7 @@ Want to add some excitement to a conference or similar [corporate event](/catego
 
 Entertainment is a great way to enable guests and delegates to have a bit of fun during breaks and at the end of the day at conferences in the UK. What's more, it provides an excellent opportunity for people to break the ice and socialise.
 
-We deliver nationwide, so no matter where your conference is located in the UK, we can bring our high-quality games and other products to you. We've provided numerous corporate clients with our amusements at venues such as the [NEC in Birmingham](nec-birmingham/), the [ExCeL in London](excel-london/) and the [Manchester Central Convention Complex](manchester-central-convention-complex/), so we know the exact level of professionalism people hosting conferences expect from our service.
+We deliver nationwide, so no matter where your conference is located in the UK, we can bring our high-quality games and other products to you. We've provided numerous corporate clients with our amusements at venues such as the [NEC in Birmingham](/nec-birmingham/), the [ExCeL in London](/excel-london/) and the [Manchester Central Convention Complex](/manchester-central-convention-complex/), so we know the exact level of professionalism people hosting conferences expect from our service.
 
 So, what kind of fun can we deliver to you? Here's a few examples:
 
@@ -213,6 +213,6 @@ This versatile game is great because it takes up so little space, despite being 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

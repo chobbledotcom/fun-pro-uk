@@ -13,7 +13,7 @@ Our [Christmas photo booths](/category/photo-booths-and-magic-mirrors/christmas-
 
 The Santa Cabin themed photo booth brings the spirit of Christmas alive. It also offers a variety of green screen backgrounds for your guests to choose from. Why not have a selfie with Santa Claus or a cheeky elf! You could even have a selfie taken as though you were visiting the North Pole when you are actually in the comfort of your venue.  
 
-Fun Pro UK's green screen photo booths can be set up in your party venue or even at the office for that fun filled Christmas Selfie all across the UK inc [Coventry](photo-booth-hire-coventry/), Birmingham, Oxford, [Leicestershire](photo-booth-hire-leicester/) and Milton Keynes.
+Fun Pro UK's green screen photo booths can be set up in your party venue or even at the office for that fun filled Christmas Selfie all across the UK inc [Coventry](/photo-booth-hire-coventry/), Birmingham, Oxford, [Leicestershire](/photo-booth-hire-leicester/) and Milton Keynes.
 
 We're a photo booth hire company you can rely on! Check out our wonderful range of [photo booths and magic mirrors](/category/photo-booths-and-magic-mirrors/).
 
@@ -21,10 +21,10 @@ So, give us a call or drop us a line with your party dates and we can get you bo
 
 Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![Christmas photo booth hire](/userfiles/nec1.png "Our photo booth out on a Christmas hire")
+![Christmas photo booth hire](/userfiles/nec1.png)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

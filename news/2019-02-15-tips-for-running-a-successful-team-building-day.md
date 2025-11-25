@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [15 February 19 - Tips for running a Successful Team Building Day](tips-for-running-a-successful-team-building-day/)
+# [15 February 19 - Tips for running a Successful Team Building Day](/tips-for-running-a-successful-team-building-day/)
 
 Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But organising and running a successful team building day is no easy task.
 
@@ -21,12 +21,12 @@ To ensure your day achieves all the goals you've set, we've put together our tip
 5.  Have some fun. When planning activities for your team building day, remember to make it fun. This can be done through the activities themselves or in the breaks. For your day to be successful and for people to take the lessons onboard, people need to have enjoyed themselves.
 6.  Schedule time for follow-up after the team building day. To ensure your event has the biggest impact make sure you schedule in time to follow-up when you're back in the office.This can often be done in a team meeting and ensures you are implementing the learnings you gained from the day.
 
-Team building days can be a lot of fun and a fabulous way to build cohesive teams. At Fun Pro UK we can help to make your day a success with our large range of [interactive games](/products/) and inflatables. Contact us at email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197.
+Team building days can be a lot of fun and a fabulous way to build cohesive teams. At Fun Pro UK we can help to make your day a success with our large range of [interactive games](/interactive-game-hire/) and inflatables. Contact us at email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197.
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

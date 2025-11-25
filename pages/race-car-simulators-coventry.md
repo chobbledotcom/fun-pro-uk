@@ -13,13 +13,13 @@ Imagine having a realistic racing experience right at your event. The racing car
 
 Not only are these simulators incredibly fun, but they also provide a great opportunity for team building and friendly competition. You can organize races and challenges among your colleagues or clients, fostering a sense of camaraderie and excitement. It's a fantastic way to engage your attendees and create a memorable experience.
 
-Fun Pro UK offers a wide range of Formula 1 [racing car simulators Coventry](/category/interactive-game-hire/racing-car-simulators.html#BodyContent) to choose from, so you can find the perfect fit for your event.
+Fun Pro UK offers a wide range of Formula 1 [racing car simulators Coventry](/category/interactive-game-hire/racing-car-simulators/#content) to choose from, so you can find the perfect fit for your event.
 
 Coventry is a vibrant city with a thriving business community, making it an ideal location for corporate events. By incorporating racing car simulators into your exhibition stand, conference stand, or trade show, you'll attract attention and stand out from the crowd. People are naturally drawn to the excitement of racing, and these simulators will definitely create a buzz around your booth.
 
 Fun Pro UK takes care of everything and will ensure that the simulators are ready to go and provide any assistance you may need throughout the event. Their team is professional and experienced, guaranteeing a smooth and hassle-free experience for you and your guests.
 
-So, if you're looking to add a thrilling and interactive element to your corporate events in Coventry, I highly recommend hiring racing [car simulators Coventry](/category/interactive-game-hire/racing-car-simulators.html#BodyContent) from Fun Pro UK. Your attendees will have a blast, and your event will be the talk of the town. Get ready to rev up the excitement and create an unforgettable experience!
+So, if you're looking to add a thrilling and interactive element to your corporate events in Coventry, I highly recommend hiring racing [car simulators Coventry](/category/interactive-game-hire/racing-car-simulators/#content) from Fun Pro UK. Your attendees will have a blast, and your event will be the talk of the town. Get ready to rev up the excitement and create an unforgettable experience!
 
 ## **RACE CAR SIMULATORS HIRE UK**
 
@@ -77,6 +77,6 @@ Please contact us to find out more
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,13 +8,13 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [21 January 25 - Fun Group Activities for Events in 2025](fun-group-activities-for-events-in-2025/)
+# [21 January 25 - Fun Group Activities for Events in 2025](/fun-group-activities-for-events-in-2025/)
 
 Finding fun group activities that everyone will enjoy is challenging. How do you keep a large group of guests (sometimes of different ages) with different interests entertained? No one wants to attend a boring event!
 
 It's true that only a few group activities will satisfy everyone, but finding the right group bonding activities can transform boring gatherings into memorable experiences.
 
-Fun group activities encourage social interaction, build team spirit, and keep everyone entertained in community gatherings, [corporate events](/products/corporate-entertainment/), festivals, and more.
+Fun group activities encourage social interaction, build team spirit, and keep everyone entertained in community gatherings, [corporate events](/corporate-entertainment/), festivals, and more.
 
 Fun Pro UK offers a wide variety of [group party games for hire](/pages/party-games-hire/), suitable for any occasion. Our collection includes speed reaction games, interactive challenges, classic arcade games, and activities designed to encourage friendly competition and ensure everyone has an enjoyable experience.
 
@@ -130,6 +130,6 @@ We invite you to explore our full range of activities and discover our corporate
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 December 18 - Why hire corporate entertainment with Fun Pro UK?](why-hire-corporate-entertainment-with-fun-pro-uk/)
+# [05 December 18 - Why hire corporate entertainment with Fun Pro UK?](/why-hire-corporate-entertainment-with-fun-pro-uk/)
 
 ## **What are the benefits of incorporating interactive games and entertainment into your company's events and work place?**
 
@@ -18,7 +18,7 @@ Ensuring the well-being and mental health of all employees is a relatively new c
 
 When employees are happy and satisfied within their teams, a study found that they are 20% more productive. When multiplied up for all employees within a business, that's a lot more productiveness! Have you considered placing entertainment in your office over a lunch break? Why not [hire our electric basketball hoops](/category/photo-booths/ultimate-green-screen-photo-booth/) to let your staff take a decent break away from their desks and have fun getting competitive?
 
-Have you heard of your employees not wanting to be sent to another boring sales conference where you end up sitting in the same room all day? When incorporating [interactive games](/products/) into the schedule, delegates get the chance to move about, helping to keep them stay alert and motivated to listen to each talk. Not only does it help to build new connections with those they interact with, it also inspires them to continue learning about their industry and those working within it.
+Have you heard of your employees not wanting to be sent to another boring sales conference where you end up sitting in the same room all day? When incorporating [interactive games](/interactive-game-hire/) into the schedule, delegates get the chance to move about, helping to keep them stay alert and motivated to listen to each talk. Not only does it help to build new connections with those they interact with, it also inspires them to continue learning about their industry and those working within it.
 
 Company training can be extremely useful, but if your employees are disengaged, they are unlikely to take away any benefits. If you think back to being at school, if the teacher incorporated games into a lesson, you paid far more attention than if you just had to complete a worksheet. It can work the same way with corporate training. Staff feel rewarded, pleased, surprised and a sense of accomplishment when they play games. So why not consider hiring our range of giant board games to place within your training, to get your staff more involved. When they are paying more attention to their learning, they will take more away, even if they aren't realising it, and this can improve both their own work, as well as those around them.
 
@@ -38,6 +38,6 @@ To find out more Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or Call
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

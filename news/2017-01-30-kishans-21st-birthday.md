@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 January 17 - Kishan's 21st Birthday](kishans-21st-birthday/)
+# [30 January 17 - Kishan's 21st Birthday](/kishans-21st-birthday/)
 
 On Saturday night we were invited to attend the 21st birthday celebrations for Kishan! He and his family had booked one of our talking [Magic Selfie Mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) for his big party. Everyone loves a selfie, it brings the best fun and entertainment to any event.  
   
@@ -24,6 +24,6 @@ Thank you for booking with Perfect Snap photo booth hire Kishan, we hope you enj
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

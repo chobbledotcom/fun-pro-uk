@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [11 May 23 - Showcasing at the NEC? We're local branded exhibition stand game experts!](showcasing-at-the-nec-were-local-branded-exhibition-stand-game-experts/)
+# [11 May 23 - Showcasing at the NEC? We're local branded exhibition stand game experts!](/showcasing-at-the-nec-were-local-branded-exhibition-stand-game-experts/)
 
 Are you ready to take your exhibition presence to the next level? Based in Birmingham and the West Midlands, we at Fun Pro UK are your go-to destination for [exhibition stand game hire at the NEC Birmingham](/pages/nec-birmingham/)! With our range of branded games and top-notch services, we're here to inject a dose of excitement and make your exhibition stand truly unforgettable.
 
@@ -18,7 +18,7 @@ Brace yourself for an immersive and entertaining experience as we introduce you 
 
 ## Branded Wheel of Fortune
 
-Step right up and give our branded [Prize Wheel](/../prize-wheel/) a spin! We recently had the pleasure of showcasing this game at the NEC Birmingham, with bespoke branding and prizes tailored specifically to the event, the Prize Wheel became an instant hit. It's not just about winning prizes; it's about creating a buzz, generating excitement, and getting visitors flocking to your exhibition stand.
+Step right up and give our branded [Prize Wheel](/prize-wheel/) a spin! We recently had the pleasure of showcasing this game at the NEC Birmingham, with bespoke branding and prizes tailored specifically to the event, the Prize Wheel became an instant hit. It's not just about winning prizes; it's about creating a buzz, generating excitement, and getting visitors flocking to your exhibition stand.
 
 ## Ballnado
 
@@ -26,7 +26,7 @@ Prepare for a whirlwind of fun with our [Ballnado game](/category/grab-a-grand/3
 
 ## Prize Crane Claw Machine
 
-Remember the thrill of trying to grab a prize from a claw machine? Well, imagine that thrill with your own branding! Our branded [Prize Crane](/../prize-crane-arcade-grabber/) is a guaranteed crowd-pleaser. As participants try their luck, your brand takes centre stage, amplifying your visibility and leaving a lasting impression on attendees. This [arcade game](/category/arcade-games/lights-out-game/) is an opportunity to create a playful connection with your target audience while promoting your products or services.
+Remember the thrill of trying to grab a prize from a claw machine? Well, imagine that thrill with your own branding! Our branded [Prize Crane](/prize-crane-arcade-grabber/) is a guaranteed crowd-pleaser. As participants try their luck, your brand takes centre stage, amplifying your visibility and leaving a lasting impression on attendees. This [arcade game](/category/arcade-games/lights-out-game/) is an opportunity to create a playful connection with your target audience while promoting your products or services.
 
 ## Batak Lite Speed Reaction Game
 
@@ -44,6 +44,6 @@ So, if you're ready to elevate your exhibition experience to new heights, let Fu
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

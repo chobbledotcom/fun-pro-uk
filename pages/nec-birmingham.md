@@ -7,13 +7,13 @@ layout: page
 
 # Trusted Birmingham Event Game Hire
 
-Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](christmas-entertainment-game-hire'/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/category/arcade-games/lights-out-game/) for any event at the NEC.
+Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/christmas-entertainment-game-hire'/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/category/arcade-games/lights-out-game/) for any event at the NEC.
 
 ![NEC Birmingham](/userfiles/file/FunPro/nec.jpg)
 
 ## Explore Our Popular Game Hire Services in Birmingham
 
-No one wants to stick around in an event or gathering where there’s nothing fun to do. That’s why Fun Pro’s [Birmingham corporate event game hire](corporate-event-hire-birmingham/) offers a wide selection of interactive indoor games. We’ll keep your guests engaged and entertained, while you take care of running your event smoothly.  
+No one wants to stick around in an event or gathering where there’s nothing fun to do. That’s why Fun Pro’s [Birmingham corporate event game hire](/corporate-event-hire-birmingham/) offers a wide selection of interactive indoor games. We’ll keep your guests engaged and entertained, while you take care of running your event smoothly.  
   
 Have a look at the different types of games we have for hire to see which one works best for your event.
 
@@ -67,7 +67,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](nec-birmingham.html#FooterContact)**
+**[Request a Free Quote](/nec-birmingham/#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -117,9 +117,9 @@ After the event ends, our team will take care of the safe and efficient removal 
 
 ## Ready to take your event to the next level?
 
-Don't miss out on the opportunity to make every event unforgettable. [Contact us](contact-fun-pro-uk/) today to book our equipment for your next event in Birmingham or any other location in the UK!
+Don't miss out on the opportunity to make every event unforgettable. [Contact us](/contact-fun-pro-uk/) today to book our equipment for your next event in Birmingham or any other location in the UK!
 
-**[Talk To Us](nec-birmingham.html#FooterContact)**
+**[Talk To Us](/nec-birmingham/#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -149,7 +149,7 @@ We recommend booking at least a few weeks in advance to ensure the availability 
 
 ### Is there a delivery and setup fee?
 
-We will provide you with a personalised quote that fits your needs. We also deliver nationwide, with free delivery within the [Coventry](corporate-event-hire-coventry/), Warwickshire, West Midlands plus East Midlands area, and competitive delivery rates for the rest of the UK.
+We will provide you with a personalised quote that fits your needs. We also deliver nationwide, with free delivery within the [Coventry](/corporate-event-hire-coventry/), Warwickshire, West Midlands plus East Midlands area, and competitive delivery rates for the rest of the UK.
 
 ### Do you provide instructions or demonstrations on how to use the games?
 
@@ -161,6 +161,6 @@ All our games and booths are maintained so they stay in excellent condition. We 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

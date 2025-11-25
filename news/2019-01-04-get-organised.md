@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 January 19 - Get organised!](get-organised/)
+# [04 January 19 - Get organised!](/get-organised/)
 
 ## New Year's resolution: Time to get organised!
 
@@ -32,6 +32,6 @@ Don't forget to check in regularly to see how you're going. If you need to make 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

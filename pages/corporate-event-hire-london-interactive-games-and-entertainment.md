@@ -13,7 +13,7 @@ eleventyNavigation:
 
 Planning a corporate event in London comes with its own set of challenges – from navigating venue restrictions to ensuring your entertainment reflects your company's professional standards. At Fun Pro, we understand these pressures and provide [corporate event hire](/corporate-entertainment/) services that take the stress out of planning whilst creating genuinely memorable experiences for your colleagues, clients, or partners.
 
-As corporate event specialists with over 15 years of experience, we've helped companies across London – from intimate boardroom celebrations to large-scale [conferences](conference-game-hire-london/) – create events that people will be talking about long after they've returned to their desks.
+As corporate event specialists with over 15 years of experience, we've helped companies across London – from intimate boardroom celebrations to large-scale [conferences](/conference-game-hire-london/) – create events that people will be talking about long after they've returned to their desks.
 
 ## Why Choose Professional Corporate Event Hire in London?
 
@@ -33,15 +33,15 @@ London venues often come with unique constraints – limited loading access, str
 
 ### Understanding Your Investment
 
-Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](team-building-ideas/), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
+Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](/team-building-ideas/), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
 
 ## Types of Corporate Events We Support Across London
 
 ### Conference and Exhibition Entertainment
 
-London hosts thousands of [conferences](conference-idea/) and [exhibitions](/exhibition-games/) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
+London hosts thousands of [conferences](/conference-idea/) and [exhibitions](/exhibition-games/) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
 
-We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/category/branded-exhibition-games/) with your company logos or marketing messages, turning entertainment into effective [brand activation](promotion-event-games/).
+We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/category/branded-exhibition-games/) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotion-event-games/).
 
 ### Team Building and Away Days
 
@@ -71,7 +71,7 @@ We also consider practical factors like your venue's access restrictions, setup 
 
 ### Venue Assessment and Logistics
 
-[London venues](excel-london/) each have their own personality and requirements. We assess your chosen location to confirm space requirements, access arrangements, and any special considerations that might affect setup or operation. This includes understanding [delivery](delivery-areas/) restrictions, lift access, and timing constraints that are common in central London.
+[London venues](/excel-london/) each have their own personality and requirements. We assess your chosen location to confirm space requirements, access arrangements, and any special considerations that might affect setup or operation. This includes understanding [delivery](/delivery-areas/) restrictions, lift access, and timing constraints that are common in central London.
 
 ### Professional Delivery and Setup
 
@@ -83,7 +83,7 @@ During your event, our experienced staff can operate games, assist participants,
 
 ### London Delivery Areas We Cover
 
-From our central UK location, we provide comprehensive [delivery coverage](delivery-areas/) across London and the surrounding areas. We regularly deliver to [venues](excel-london/) throughout Central London, Canary Wharf, and the major hotel and conference districts. Our team understands London's traffic patterns and venue access requirements, ensuring reliable delivery times even in challenging locations.
+From our central UK location, we provide comprehensive [delivery coverage](/delivery-areas/) across London and the surrounding areas. We regularly deliver to [venues](/excel-london/) throughout Central London, Canary Wharf, and the major hotel and conference districts. Our team understands London's traffic patterns and venue access requirements, ensuring reliable delivery times even in challenging locations.
 
 We work with venues across all London boroughs and have experience with the capital's most prestigious conference centres, hotels, and corporate headquarters. Whether your event is in the City, West End, or further out in Greater London, we provide the same professional service and attention to detail.
 
@@ -119,7 +119,7 @@ Competition can be a powerful motivator, but it needs to be handled thoughtfully
 
 ### Professional vs Casual Event Atmosphere
 
-The formality level of your event affects entertainment choices significantly. A client hospitality event requires different considerations than an internal [team building](/blog/2024-12-05/the-best-ideas-for-team-bonding-activities-in-the-workplace/) day. We help you select activities that match your event's tone whilst still achieving your engagement objectives.
+The formality level of your event affects entertainment choices significantly. A client hospitality event requires different considerations than an internal [team building](/news/2024-12-05/the-best-ideas-for-team-bonding-activities-in-the-workplace/) day. We help you select activities that match your event's tone whilst still achieving your engagement objectives.
 
 ### Venue and Space Requirements
 
@@ -131,7 +131,7 @@ London's corporate venues often have beautiful but challenging characteristics �
 
 ### Access and Setup Requirements
 
-Central London access can be complex, with restricted delivery times, limited parking, and challenging lift or stair access. [Our team](contact-fun-pro-uk/) understands these logistics and plans accordingly, ensuring smooth setup without disrupting your venue or other event preparations.
+Central London access can be complex, with restricted delivery times, limited parking, and challenging lift or stair access. [Our team](/contact-fun-pro-uk/) understands these logistics and plans accordingly, ensuring smooth setup without disrupting your venue or other event preparations.
 
 ### Budget and Package Options
 
@@ -149,7 +149,7 @@ Depending on your event size and requirements, we can provide comprehensive ente
 
 ### Proven Corporate Experience
 
-Our 15+ years in corporate entertainment have taught us what works in professional settings and what doesn't. We've provided entertainment for major UK companies, including [Rolls-Royce](rolls-royce-christmas-fun/) and Zoflora, building relationships that span multiple years and events. This experience means we understand corporate priorities and can navigate the planning process smoothly.
+Our 15+ years in corporate entertainment have taught us what works in professional settings and what doesn't. We've provided entertainment for major UK companies, including [Rolls-Royce](/rolls-royce-christmas-fun/) and Zoflora, building relationships that span multiple years and events. This experience means we understand corporate priorities and can navigate the planning process smoothly.
 
 ### Professional Standards and Safety Compliance
 
@@ -163,17 +163,17 @@ We handle every aspect of your [entertainment hire](/corporate-entertainment/), 
 
 We recognise that corporate events serve specific business purposes beyond just entertainment. Whether you're looking to improve team dynamics, generate leads, strengthen client relationships, or celebrate company achievements, we recommend entertainment options that support your broader objectives.
 
-Our central location allows us to serve London efficiently whilst our [nationwide coverage](delivery-areas/) means we can support your events wherever your company operates. We've built our reputation on understanding corporate needs and delivering reliable, professional service that reflects well on your company.
+Our central location allows us to serve London efficiently whilst our [nationwide coverage](/delivery-areas/) means we can support your events wherever your company operates. We've built our reputation on understanding corporate needs and delivering reliable, professional service that reflects well on your company.
 
 ## Ready to start planning your London corporate event entertainment?
 
-Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](contact-fun-pro-uk/) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/corporate-entertainment/) truly memorable.
+Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](/contact-fun-pro-uk/) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/corporate-entertainment/) truly memorable.
 
 ## Frequently Asked Questions
 
 ### How far in advance should I book corporate event entertainment in London?
 
-For London events, we recommend booking 4-6 weeks in advance, particularly for popular dates like December when companies start planning [Christmas parties](/blog/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/) or during peak conference seasons. This ensures availability and allows proper time for venue coordination and any customisation requirements. However, we often accommodate shorter notice bookings depending on availability.
+For London events, we recommend booking 4-6 weeks in advance, particularly for popular dates like December when companies start planning [Christmas parties](/news/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/) or during peak conference seasons. This ensures availability and allows proper time for venue coordination and any customisation requirements. However, we often accommodate shorter notice bookings depending on availability.
 
 What insurance and safety certifications do you provide for corporate events? We carry comprehensive public liability insurance and provide all necessary safety documentation, including equipment testing certificates and risk assessments. All our equipment is regularly inspected and meets current safety standards. We can provide copies of all documentation for your venue and corporate requirements.
 
@@ -199,7 +199,7 @@ We understand London's access challenges and coordinate closely with venue manag
 
 ### Can you recommend the best games for different types of corporate audiences?
 
-Absolutely – this is where our 15+ years of corporate event experience proves invaluable. We consider factors like your audience mix, event objectives, venue constraints, and company culture when making recommendations. We're happy to [discuss different options](contact-fun-pro-uk/) and explain why certain activities work well for specific situations.
+Absolutely – this is where our 15+ years of corporate event experience proves invaluable. We consider factors like your audience mix, event objectives, venue constraints, and company culture when making recommendations. We're happy to [discuss different options](/contact-fun-pro-uk/) and explain why certain activities work well for specific situations.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -375,6 +375,6 @@ Absolutely – this is where our 15+ years of corporate event experience proves 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

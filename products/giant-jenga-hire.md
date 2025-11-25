@@ -5,7 +5,7 @@ order: 50
 meta_title: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK"
 meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/giant-jenga-hire/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3"
@@ -55,15 +55,15 @@ Don't miss out on the fun – book our Giant Jenga Hire today and make your even
 
 **£240**\+ vat**
 
-Delivered [](giant-jenga-hire.html#specification)and [](giant-jenga-hire.html#specification)installed on site by our trained team
+Delivered [](/giant-jenga-hire/)and [](/giant-jenga-hire/)installed on site by our trained team
 
 PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
 
-(One [](giant-jenga-hire.html#specification)time [](giant-jenga-hire.html#specification)use [](giant-jenga-hire.html#specification)only)
+(One [](/giant-jenga-hire/)time [](/giant-jenga-hire/)use [](/giant-jenga-hire/)only)
 
-\*Delivery [](giant-jenga-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/giant-jenga-hire/)Charges & Minimum order value may apply
 
-[**Email:**](giant-jenga-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/giant-jenga-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/virtual-pinball/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "categories/interactive-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
@@ -33,11 +33,11 @@ gallery:
 
 **£1445**\+ vat**
 
-Delivered [](/category/arcade-games/77/virtual-pinball.html#specification)and [](/category/arcade-games/77/virtual-pinball.html#specification)installed on site by our trained team
+Delivered [](/arcade-games/77/virtual-pinball/)and [](/arcade-games/77/virtual-pinball/)installed on site by our trained team
 
-\*Delivery [](/category/arcade-games/77/virtual-pinball.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/arcade-games/77/virtual-pinball/)Charges & Minimum order value may apply
 
-[**Email:**](/category/arcade-games/77/virtual-pinball.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/arcade-games/77/virtual-pinball/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

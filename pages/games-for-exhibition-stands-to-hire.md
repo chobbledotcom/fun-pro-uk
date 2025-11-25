@@ -99,6 +99,6 @@ Please browse through our exhibition games rental page. Soon you’ll have fun a
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

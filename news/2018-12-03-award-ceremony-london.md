@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [03 December 18 - Award ceremony London](award-ceremony-london/)
+# [03 December 18 - Award ceremony London](/award-ceremony-london/)
 
 Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near London.
 
@@ -30,6 +30,6 @@ It was an amazing night with our photo booth capturing fabulous memories of the 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

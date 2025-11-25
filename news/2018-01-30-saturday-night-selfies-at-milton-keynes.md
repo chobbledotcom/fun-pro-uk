@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 January 18 - Saturday night Selfies at Milton Keynes!](saturday-night-selfies-at-milton-keynes/)
+# [30 January 18 - Saturday night Selfies at Milton Keynes!](/saturday-night-selfies-at-milton-keynes/)
 
 Our all singing and dancing Magic Selfie Mirror was out at a great corporate event on Saturday night with our friends in [Milton Keynes.](/pages/milton-keynes-corporate-event-hire/)
 
@@ -26,6 +26,6 @@ If you are arranging an event and you want the entertainment to be fun with grea
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

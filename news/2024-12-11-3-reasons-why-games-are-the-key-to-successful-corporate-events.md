@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [11 December 24 - 3 Reasons Why Games are the Key to Successful Corporate Events](3-reasons-why-games-are-the-key-to-successful-corporate-events/)
+# [11 December 24 - 3 Reasons Why Games are the Key to Successful Corporate Events](/3-reasons-why-games-are-the-key-to-successful-corporate-events/)
 
 Back in the day, corporate events were known for being uneventful; just a room with hosts, speakers, and uninterested listeners.
 
@@ -26,7 +26,7 @@ This article will explore some reasons why games for corporate events are a must
 
 ## The Appeal of Games for Corporate Events
 
-From [prize wheels](/../prize-wheel/) to air hockey tables and [racing car simulators](/category/interactive-game-hire/twin-racing-car-simulators/), it’s clear that games are quite popular at any type of event, and it’s easy to see why. Games are appealing to adults just as they are to children.
+From [prize wheels](/prize-wheel/) to air hockey tables and [racing car simulators](/category/interactive-game-hire/twin-racing-car-simulators/), it’s clear that games are quite popular at any type of event, and it’s easy to see why. Games are appealing to adults just as they are to children.
 
 Plus, who doesn’t love a bit of nostalgic joy that playing games can spark?
 
@@ -58,7 +58,7 @@ It keeps your guests from being bored, and it creates opportunities for positive
 
 One of the main reasons why games are the popular entertainment choice for event planners and companies is their ability to create memorable experiences. Plus, people always want unique outside-of-the-box experiences, and the right games for corporate events can certainly do that.
 
-[Hired games for corporate events](/products/corporate-entertainment/) are more than just diversions. They’re a great way to get people excited and leave lasting positive impressions on event attendees.
+[Hired games for corporate events](/corporate-entertainment/) are more than just diversions. They’re a great way to get people excited and leave lasting positive impressions on event attendees.
 
 Guests can walk away from the event with the thrill of winning at shuffleboard, the skill it took to conquer the Giant Buzz Wire, the pure fun of playing on the [Dance Machine](/category/exhibition-games/dance-machine/), or the Race Car Simulators they enjoyed as kids.
 
@@ -98,6 +98,6 @@ If you’re ready to take your event to the next level, talk to us and our team 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

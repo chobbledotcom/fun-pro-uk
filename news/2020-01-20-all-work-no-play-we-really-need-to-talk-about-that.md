@@ -8,11 +8,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [20 January 20 - All work, no play? We really need to talk about that!!](all-work-no-play-we-really-need-to-talk-about-that/)
+# [20 January 20 - All work, no play? We really need to talk about that!!](/all-work-no-play-we-really-need-to-talk-about-that/)
 
 ## All work, no play? We really need to talk about that!!
 
-### ![Fun days](/../userfiles/file/FunPro/Fundays/20180616-152805.jpg)Show your staff how to party this summer with inflatables and interactive games for all ages.
+### ![Fun days](/userfiles/file/FunPro/Fundays/20180616-152805.jpg)Show your staff how to party this summer with inflatables and interactive games for all ages.
 
 Why host a family [fun day](/category/fun-days/) with a single bouncy castle and a small BBQ, when Fun Pro UK can work with you to make the best use of your space and show your team and their families what a real summer party is! With a wide range of inflatables from both adults and children’s bouncy castles to inflatable assault course and tv classics such as Total Wipe Out, we have everything you need this summer!
 
@@ -24,7 +24,7 @@ These huge, colourful inflatables stand head and shoulders above everything else
 
 ## [Pluck that Duck](/category/interactive-game-hire/pluck-a-duck-racing/)!
 
-![Pluck the duck hire](/../userfiles/file/FunPro/duck%20game/unadjustednonraw-thumb-9d21-768x1024.jpg)Have you got what it takes? The concentration and nerves of steel to go head to head to free all five ducks, or race against the clock to be the fastest duck-freer at your company! This very silly but highly addictive interactive game really puts your skills to the test, as an adaption of the classic operation, as you use an electromagnet on the pole to free all the ducks.
+![Pluck the duck hire](/userfiles/file/FunPro/duck%20game/unadjustednonraw-thumb-9d21-768x1024.jpg)Have you got what it takes? The concentration and nerves of steel to go head to head to free all five ducks, or race against the clock to be the fastest duck-freer at your company! This very silly but highly addictive interactive game really puts your skills to the test, as an adaption of the classic operation, as you use an electromagnet on the pole to free all the ducks.
 
 All getting a bit warm, well cool down with some ice cream delivered by tricycle!
 
@@ -48,6 +48,6 @@ Tel: 02476 629 197
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [08 May 17 - Woodside Weddings](woodside-weddings/)
+# [08 May 17 - Woodside Weddings](/woodside-weddings/)
 
 Once again the guests who were in attendance at David & Michael's [wedding](/category/weddings/) made full use of our ever popular [green screen dream machine photo booth](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/).  
 The booth was used to the max as you can see by some of the great photos that were taken for the evening reception at one of our favourite venues, Woodside Hotel in Warwickshire.  
@@ -19,6 +19,6 @@ We would like to say a big congratulations to the happy couple and thank you for
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

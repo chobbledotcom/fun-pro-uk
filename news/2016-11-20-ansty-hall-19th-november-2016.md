@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [20 November 16 - Ansty Hall 19th November 2016](ansty-hall-19th-november-2016/)
+# [20 November 16 - Ansty Hall 19th November 2016](/ansty-hall-19th-november-2016/)
 
 Wow! What a fabulously busy night we had for Jason & Sophie's [wedding](/category/weddings/) yesterday at The Ansty Hall Hotel.  
 We met this special couple at the famous wedding fair which was also at Ansty Hall this year where they saw our booth and Magic Mirror.  
@@ -22,6 +22,6 @@ Thank You for booking with Perfect Snap and best wishes to you both for a happy 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
 permalink: "/mega-wire-branded-game-hire-stand-alone/"
-categories: []
+categories: ["categories/all-products.md", "categories/branded-exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a469f562b203f9ef31dcdc5034dcb813"
@@ -23,29 +23,29 @@ gallery:
 
 # Mega Wire - Branded Game Hire (stand alone)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a469f562b203f9ef31dcdc5034dcb813 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a469f562b203f9ef31dcdc5034dcb813)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/e170cc395367152d4b9b2d71710995a7 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/e170cc395367152d4b9b2d71710995a7)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/8b08b72cfaea1fe00344307fb476f0a7 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/8b08b72cfaea1fe00344307fb476f0a7)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/8f677cd6574cd6b3325e00d7b708325f "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/8f677cd6574cd6b3325e00d7b708325f)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/6ce917d7491be05a36202ba80c8d2fca "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/6ce917d7491be05a36202ba80c8d2fca)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/862edddcf2b8390e5758ebfbae67ca1b "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/862edddcf2b8390e5758ebfbae67ca1b)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/733e1596f36c8181f36547d1de5051e3 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/733e1596f36c8181f36547d1de5051e3)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/2ba8576653bad14bf4bab94555c2b907 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/2ba8576653bad14bf4bab94555c2b907)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/ba184cd9c00a1bafd743c7ae4dbc08c5 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/ba184cd9c00a1bafd743c7ae4dbc08c5)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/0ce4cf8b82b69e9b638784c17496e4f5 "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/0ce4cf8b82b69e9b638784c17496e4f5)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a9e354f2397c4ff3191e9b73b395f10b "Mega Wire - Branded Game Hire (stand alone)")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/a9e354f2397c4ff3191e9b73b395f10b)
 
-[![Share on Facebook Button](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,w_150/share-on-facebook.png "Share Mega Wire - Branded Game Hire (stand alone) on Facebook")](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.funprouk.co.uk%2fcategory%2fbranded-exhibition-games%2f64%2fmega-wire-branded-game-hire-stand-alone&quote=Mega+Wire+-+Branded+Game+Hire+\(stand+alone\) "Share Mega Wire - Branded Game Hire (stand alone) on Facebook")
+[![Share on Facebook Button](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,w_150/share-on-facebook.png)](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.funprouk.co.uk%2fcategory%2fbranded-exhibition-games%2f64%2fmega-wire-branded-game-hire-stand-alone&quote=Mega+Wire+-+Branded+Game+Hire+\(stand+alone\) "Share Mega Wire - Branded Game Hire (stand alone) on Facebook")
 
 "Please Note Leader Boards are not included unless requested"
 
@@ -83,15 +83,15 @@ Don't miss out on the opportunity to add a fun and memorable element to your nex
 
 **£1195**\+ vat**
 
-Delivered [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)and [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)installed on site by our trained team
+Delivered [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)and [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)installed on site by our trained team
 
-In[\-](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)house [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)branding [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)available [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)Printed[,](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification) applied & removed after each event
+In[\-](/all-products/64/mega-wire-branded-game-hire-stand-alone/)house [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)branding [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)available [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)Printed[,](/all-products/64/mega-wire-branded-game-hire-stand-alone/) applied & removed after each event
 
-(One [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)time [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)use [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)only)
+(One [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)time [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)use [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)only)
 
-\*Delivery [](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/64/mega-wire-branded-game-hire-stand-alone.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/64/mega-wire-branded-game-hire-stand-alone/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -143,9 +143,9 @@ Our team are able to brand the rectangular base with your company image, logo or
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
 
 **Branded panel front and Back**
 

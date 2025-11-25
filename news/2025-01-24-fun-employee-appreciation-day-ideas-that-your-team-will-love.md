@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [24 January 25 - Fun Employee Appreciation Day Ideas that Your Team Will Love](fun-employee-appreciation-day-ideas-that-your-team-will-love/)
+# [24 January 25 - Fun Employee Appreciation Day Ideas that Your Team Will Love](/fun-employee-appreciation-day-ideas-that-your-team-will-love/)
 
 The world celebrates Employee Appreciation Day in March every year! Your team works hard, and they deserve a day that's dedicated to celebrating their efforts. Taking time to show appreciation creates a moment for connection and celebration; it’s a reminder that every contribution matters.
 
@@ -144,6 +144,6 @@ Let us help you host an unforgettable Employee Appreciation Day. [Contact us tod
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

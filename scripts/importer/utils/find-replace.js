@@ -3,18 +3,79 @@ const path = require('path');
 const { FIND_REPLACES } = require('../constants');
 
 /**
- * Fix .html extensions in markdown links, replacing with trailing slash URLs
+ * Strip title attributes from all markdown links and images
+ * Converts [text](url "title") to [text](url)
  * @param {string} content - Markdown content
- * @returns {string} Content with .html links converted to trailing slash URLs
+ * @returns {string} Content with titles stripped
+ */
+const stripLinkTitles = (content) => {
+  // Match markdown links/images with title: [text](url "title") or ![alt](url "title")
+  // The title is the quoted text after a space
+  return content.replace(
+    /(\]\([^)"]+)\s+"[^"]*"\)/g,
+    '$1)'
+  );
+};
+
+/**
+ * Convert relative paths to absolute in markdown links and images
+ * Handles paths starting with ../ or ./
+ * @param {string} content - Markdown content
+ * @returns {string} Content with absolute paths
+ */
+const fixRelativePaths = (content) => {
+  // Match markdown links/images with relative paths: [text](../path) or ![alt](./path)
+  return content.replace(
+    /\]\((?:\.\.\/|\.\/)+([^)]+)\)/g,
+    (match, pathPart) => {
+      // Ensure path starts with /
+      const absolutePath = pathPart.startsWith('/') ? pathPart : '/' + pathPart;
+      return `](${absolutePath})`;
+    }
+  );
+};
+
+/**
+ * Fix .html extensions in markdown links, replacing with trailing slash URLs
+ * Also converts relative paths to absolute, normalizes anchors, and strips titles
+ * @param {string} content - Markdown content
+ * @returns {string} Content with fixed links
  */
 const fixHtmlLinks = (content) => {
-  // Match markdown links with .html extension: [text](path.html) or [text](path.html "title")
-  // Strip the .html (and any title) and add trailing slash
+  // Match markdown links with .html extension, optionally with #anchor and/or "title"
+  // Patterns handled:
+  //   [text](path.html)
+  //   [text](path.html#anchor)
+  //   [text](path.html "title")
+  //   [text](path.html#anchor "title")
   return content.replace(
-    /\]\(([^)"]+)\.html(?:\s+"[^"]*")?\)/g,
-    (match, urlPath) => {
-      const cleanPath = urlPath.endsWith('/') ? urlPath : urlPath + '/';
-      return `](${cleanPath})`;
+    /\]\(([^)#"\s]+)\.html(?:#([^)"\s]*))?\s*(?:"[^"]*")?\)/g,
+    (match, urlPath, anchor) => {
+      // Convert relative paths to absolute
+      let cleanPath = urlPath;
+      if (cleanPath.startsWith('../') || cleanPath.startsWith('./')) {
+        // Strip all leading ../ and ./
+        cleanPath = cleanPath.replace(/^(?:\.\.\/|\.\/)+/, '/');
+      }
+      // Ensure path starts with /
+      if (!cleanPath.startsWith('/') && !cleanPath.startsWith('http')) {
+        cleanPath = '/' + cleanPath;
+      }
+      // Ensure trailing slash
+      if (!cleanPath.endsWith('/')) {
+        cleanPath = cleanPath + '/';
+      }
+      // Handle anchor - convert BodyContent to content, preserve others
+      let anchorPart = '';
+      if (anchor) {
+        if (anchor.toLowerCase() === 'bodycontent') {
+          anchorPart = '#content';
+        } else if (anchor.toLowerCase() !== 'specification') {
+          // Skip #specification anchors as they don't exist in new site
+          anchorPart = '#' + anchor;
+        }
+      }
+      return `](${cleanPath}${anchorPart})`;
     }
   );
 };
@@ -33,6 +94,9 @@ const applyFindReplaces = (filePath) => {
 
   // First, fix .html links with regex (handles titles)
   content = fixHtmlLinks(content);
+
+  // Strip title attributes from all remaining links/images
+  content = stripLinkTitles(content);
 
   // Apply each find/replace pattern
   for (const [search, replace] of Object.entries(FIND_REPLACES)) {
@@ -71,6 +135,8 @@ const applyFindReplacesRecursive = (dirPath) => {
 
 module.exports = {
   fixHtmlLinks,
+  stripLinkTitles,
+  fixRelativePaths,
   applyFindReplaces,
   applyFindReplacesRecursive
 };

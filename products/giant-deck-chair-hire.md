@@ -5,7 +5,7 @@ order: 50
 meta_title: "Giant Deck Chair Hire – Fun Props For Outdoor Events"
 meta_description: "Giant Deck Chair Hire – Fun Props For Outdoor Events is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/giant-deck-chair-hire/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/weddings.md", "categories/photo-booths-and-magic-mirrors.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
@@ -51,11 +51,11 @@ Book Giant Deck Chair Hire from Fun Pro UK today and make your event stand out w
 
 **£795**\+ vat**
 
-Delivered [](giant-deck-chair-hire.html#specification)and [](giant-deck-chair-hire.html#specification)installed on site by our trained team
+Delivered [](/giant-deck-chair-hire/)and [](/giant-deck-chair-hire/)installed on site by our trained team
 
-\*Delivery [](giant-deck-chair-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/giant-deck-chair-hire/)Charges & Minimum order value may apply
 
-[**Email:**](giant-deck-chair-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/giant-deck-chair-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -95,10 +95,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 Deck chair hire is a fantastic addition to any event, whether it's a family fun day, corporate event, or summer fete. Fun Pro UK offers deck chair hire nationwide, making it convenient for all kinds of gatherings. The colourful and stylish deck chairs create a vibrant and inviting atmosphere, perfect for outdoor events. They provide a comfortable seating option for guests to relax and enjoy the festivities.
 

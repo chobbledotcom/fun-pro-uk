@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 December 16 - Party Party Party](party-party-party/)
+# [12 December 16 - Party Party Party](/party-party-party/)
 
 Wow! What a busy weekend we have had. It certainly was the weekend for partying!
 
@@ -22,6 +22,6 @@ The Perfect Snap Team had a busy weekend bringing fun to everyone's event. We wo
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

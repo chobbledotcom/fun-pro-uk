@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [07 January 20 - Conference Entertainment - Keep your guests entertained this year!](conference-entertainment-keep-your-guests-entertained-this-year/)
+# [07 January 20 - Conference Entertainment - Keep your guests entertained this year!](/conference-entertainment-keep-your-guests-entertained-this-year/)
 
 ## Conference Entertainment
 
@@ -24,7 +24,7 @@ Well, let us help you change that! Fun Pro UK offer an amazing range of corporat
 
 Compact and highly portable
 
-![Lights out reaction game hire](/../userfiles/file/FunPro/Stike%20a%20light/20190619-160019.jpg)Our strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
+![Lights out reaction game hire](/userfiles/file/FunPro/Stike%20a%20light/20190619-160019.jpg)Our strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
 
 Being only 1.5m by 1m this game is perfect for all venues and can be set up almost anywhere from your break room, the side of the canteen or in the reception once your conference has started.
 
@@ -50,6 +50,6 @@ Tel: 02476 629 197
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

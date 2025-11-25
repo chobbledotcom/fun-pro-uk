@@ -5,7 +5,7 @@ order: 50
 meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"
 meta_description: "Beat The Buzzer Hire – Test Your Skills Event Game is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/beat-the-buzzer/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
@@ -54,15 +54,15 @@ Ready to amp up the excitement at your next event? Hire Beat The Buzzer today an
 
 **£1095**\+ vat**
 
-Delivered [](beat-the-buzzer.html#specification)and [](beat-the-buzzer.html#specification)installed on site by our trained team
+Delivered [](/beat-the-buzzer/)and [](/beat-the-buzzer/)installed on site by our trained team
 
-In[\-](beat-the-buzzer.html#specification)house [](beat-the-buzzer.html#specification)branding [](beat-the-buzzer.html#specification)available [](beat-the-buzzer.html#specification)Printed[,](beat-the-buzzer.html#specification) applied & removed after each event
+In[\-](/beat-the-buzzer/)house [](/beat-the-buzzer/)branding [](/beat-the-buzzer/)available [](/beat-the-buzzer/)Printed[,](/beat-the-buzzer/) applied & removed after each event
 
-(One [](beat-the-buzzer.html#specification)time [](beat-the-buzzer.html#specification)use [](beat-the-buzzer.html#specification)only)
+(One [](/beat-the-buzzer/)time [](/beat-the-buzzer/)use [](/beat-the-buzzer/)only)
 
-\*Delivery [](beat-the-buzzer.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/beat-the-buzzer/)Charges & Minimum order value may apply
 
-[**Email:**](beat-the-buzzer.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/beat-the-buzzer/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,7 +105,7 @@ Lift required
 *   [Leaded Board](/30/leader-board/)
 *   [Lights Out](/lights-out-game/)
 *   [Gold Cup Horse racing](/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## Beat The Buzzer
 

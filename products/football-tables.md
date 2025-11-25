@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"
 meta_description: "Table Football For Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/football-tables/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a43b62af3d98c68f48c9fc65d853332"
@@ -63,15 +63,15 @@ Take your event to the next level by branding our football tables with your logo
 
 **£995**\+ vat**
 
-Delivered [](football-tables.html#specification)and [](football-tables.html#specification)installed on site by our trained team
+Delivered [](/football-tables/)and [](/football-tables/)installed on site by our trained team
 
-In[\-](football-tables.html#specification)house [](football-tables.html#specification)branding [](football-tables.html#specification)available [](football-tables.html#specification)Printed[,](football-tables.html#specification) applied & removed after each event
+In[\-](/football-tables/)house [](/football-tables/)branding [](/football-tables/)available [](/football-tables/)Printed[,](/football-tables/) applied & removed after each event
 
-(One [](football-tables.html#specification)time [](football-tables.html#specification)use [](football-tables.html#specification)only)
+(One [](/football-tables/)time [](/football-tables/)use [](/football-tables/)only)
 
-\*Delivery [](football-tables.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/football-tables/)Charges & Minimum order value may apply
 
-[**Email:**](football-tables.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/football-tables/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -112,9 +112,9 @@ Lift required
 **Popular items Hire along side**
 
 *   **[Race cars simulators](/twin-racing-car-simulators/)**
-*   **[Batak Pro](/products/batak43/batak-pro/)**
-*   **[Dance Machine](/../exhibition-games/dance-machine/)**
-*   **[Pix N Mix](/../exhibition-games/42/pix-n-mix-hire/)**
+*   **[Batak Pro](/batak/batak-pro/)**
+*   **[Dance Machine](/exhibition-games/dance-machine/)**
+*   **[Pix N Mix](/exhibition-games/42/pix-n-mix-hire/)**
 
 ## Nationwide Football Table Hire
 

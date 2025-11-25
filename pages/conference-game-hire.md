@@ -9,7 +9,7 @@ layout: page
 
 Are you attending a conference on behalf of your company? Are you wondering how you can ensure your stand will be one that captures your required foot fall? Here at Fun Pro Uk our team of experts can help you. We can supply all of your Conference Entertainment requirements in the way of fun interactive game hire.
 
-We have many **[Conference Entertainment ideas](christmas-entertainment-game-hire'/)** which are fabulous for Networking Events, Trade Stands and Break Out sessions. Conferences do not have to be boring, they can be filled full of fun by hiring Conference Entertainment Games. By having bright attractions on your stand you will instantly increase interest from your ideal clients offering you the unique opportunity to communicate your business effectively leaving positive lasting impressions whether you are in London, Birmingham and throughout the UK.
+We have many **[Conference Entertainment ideas](/christmas-entertainment-game-hire'/)** which are fabulous for Networking Events, Trade Stands and Break Out sessions. Conferences do not have to be boring, they can be filled full of fun by hiring Conference Entertainment Games. By having bright attractions on your stand you will instantly increase interest from your ideal clients offering you the unique opportunity to communicate your business effectively leaving positive lasting impressions whether you are in London, Birmingham and throughout the UK.
 
 Our interactive games consist of Crack the Code, Batak Pro, Lights Outs 2 player game, Ballnado, Giant Buzz Wire Hire, Twin Basketball Hoops and many more. Our specialist team will deliver and set up before your Conference and then will return to de rig after the event.Our games do not require our team to remain on stand however if this is something that you require than this can be arranged.
 
@@ -17,7 +17,7 @@ Why not include a prize - remember points make prizes! Everyone loves to be a wi
 
 Our Ballnado game hire is another fun **interactive game for your Conference stand**, each contestant has to try and gather as many balls as they can within a selected time frame as they fly around the sealed unit The contestant who has gathered the most balls by the end of your event wins a prize! Our score board hire is a great way of keeping record who has collected the highest amount of balls. You can then announce the winner and congratulate them with your chosen prize.
 
-Our **[Conference Entertainment](christmas-entertainment-game-hire'/)** can also be hired for evening events. Whether you have an awards evening following the day time event or holding a party for your team, we can set up a variety of games along with photobooths, selfie mirrors and table top games to keep your guests entertained during the night.
+Our **[Conference Entertainment](/christmas-entertainment-game-hire'/)** can also be hired for evening events. Whether you have an awards evening following the day time event or holding a party for your team, we can set up a variety of games along with photobooths, selfie mirrors and table top games to keep your guests entertained during the night.
 
 Fun Pro Uk also has the ability to arrange **Branding for any of our games**. Our in house team of printers can transform our games by adding your company Logo and company colours to help with your Brand Activation. All you need to do is send us your requirements and art work and we will do the rest. Branded Conference Game Hire really does look the part and will set you way above your competition.
 
@@ -29,6 +29,6 @@ Call: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

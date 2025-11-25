@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [01 March 19 - The benefits of exhibiting at trade shows & exhibitions](the-benefits-of-exhibiting-at-trade-shows-and-exhibitions/)
+# [01 March 19 - The benefits of exhibiting at trade shows & exhibitions](/the-benefits-of-exhibiting-at-trade-shows-and-exhibitions/)
 
 Have you been thinking about exhibiting at a trade show or exhibition but are not sure if it's worth your while? We've had a stand at numerous different expos over the years, from business exhibitions to wedding shows and have found they have many benefits.
 
@@ -32,6 +32,6 @@ For more information or to chat to us about how we can make your exhibition or t
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -5,7 +5,7 @@ order: 50
 meta_title: "Christmas Prize Crane - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Prize Crane is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-prize-crane/"
-categories: []
+categories: ["categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
@@ -33,15 +33,15 @@ gallery:
 
 **£1495**\+ vat**
 
-Delivered [](christmas-prize-crane.html#specification)and [](christmas-prize-crane.html#specification)installed on site by our trained team
+Delivered [](/christmas-prize-crane/)and [](/christmas-prize-crane/)installed on site by our trained team
 
-In[\-](christmas-prize-crane.html#specification)house [](christmas-prize-crane.html#specification)branding [](christmas-prize-crane.html#specification)available [](christmas-prize-crane.html#specification)Printed[,](christmas-prize-crane.html#specification) applied & removed after each event
+In[\-](/christmas-prize-crane/)house [](/christmas-prize-crane/)branding [](/christmas-prize-crane/)available [](/christmas-prize-crane/)Printed[,](/christmas-prize-crane/) applied & removed after each event
 
-(One [](christmas-prize-crane.html#specification)time [](christmas-prize-crane.html#specification)use [](christmas-prize-crane.html#specification)only)
+(One [](/christmas-prize-crane/)time [](/christmas-prize-crane/)use [](/christmas-prize-crane/)only)
 
-\*Delivery [](christmas-prize-crane.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/christmas-prize-crane/)Charges & Minimum order value may apply
 
-[**Email:**](christmas-prize-crane.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-prize-crane/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -103,6 +103,6 @@ In-house branding available. We print, apply, and remove them after each event.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

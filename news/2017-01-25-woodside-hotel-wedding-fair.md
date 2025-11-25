@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [25 January 17 - Woodside Hotel Wedding fair](woodside-hotel-wedding-fair/)
+# [25 January 17 - Woodside Hotel Wedding fair](/woodside-hotel-wedding-fair/)
 
 We are starting to feel excited at TeamPerfectSnap! On Sunday 29th January we will be attending the Woodside Hotel Wedding Fair in the lovely town of Kenilworth.  
   
@@ -26,6 +26,6 @@ There is nothing better than taking your own selfie on a Sunday!
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

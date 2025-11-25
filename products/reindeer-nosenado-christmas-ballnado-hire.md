@@ -5,7 +5,7 @@ order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"
 meta_description: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/reindeer-nosenado-christmas-ballnado-hire/"
-categories: []
+categories: ["categories/christmas-game-hire.md", "categories/grab-a-grand.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cbd6a9c894462a778e8e31ea7203c602"
@@ -16,15 +16,15 @@ gallery:
 
 # Reindeer Nosenado (Christmas Ballnado Hire )
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/cbd6a9c894462a778e8e31ea7203c602 "Reindeer Nosenado (Christmas Ballnado Hire )")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/cbd6a9c894462a778e8e31ea7203c602)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/fe6d7d6cc66710102e63af66df0639d1 "Reindeer Nosenado (Christmas Ballnado Hire )")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/fe6d7d6cc66710102e63af66df0639d1)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/dd71299eb71e6110c5f31856fefa1325 "Reindeer Nosenado (Christmas Ballnado Hire )")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/dd71299eb71e6110c5f31856fefa1325)
 
-[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/380c932e88e1d86366d0c8481137025b "Reindeer Nosenado (Christmas Ballnado Hire )")
+[](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/380c932e88e1d86366d0c8481137025b)
 
-[![Share on Facebook Button](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,w_150/share-on-facebook.png "Share Reindeer Nosenado (Christmas Ballnado Hire ) on Facebook")](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.funprouk.co.uk%2fcategory%2fchristmas-game-hire%2f65%2freindeer-nosenado-christmas-ballnado-hire&quote=Reindeer+Nosenado+\(Christmas+Ballnado+Hire+\) "Share Reindeer Nosenado (Christmas Ballnado Hire ) on Facebook")
+[![Share on Facebook Button](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,w_150/share-on-facebook.png)](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.funprouk.co.uk%2fcategory%2fchristmas-game-hire%2f65%2freindeer-nosenado-christmas-ballnado-hire&quote=Reindeer+Nosenado+\(Christmas+Ballnado+Hire+\) "Share Reindeer Nosenado (Christmas Ballnado Hire ) on Facebook")
 
 "Please Note Leader Boards are not included unless requested"
 
@@ -58,15 +58,15 @@ Make your holiday celebrations unforgettable with the Reindeer Nosenado in Birmi
 
 **£1495**\+ vat**
 
-Delivered [](reindeer-nosenado-christmas-ballnado-hire.html#specification)and [](reindeer-nosenado-christmas-ballnado-hire.html#specification)installed on site by our trained team
+Delivered [](/reindeer-nosenado-christmas-ballnado-hire/)and [](/reindeer-nosenado-christmas-ballnado-hire/)installed on site by our trained team
 
-In[\-](reindeer-nosenado-christmas-ballnado-hire.html#specification)house [](reindeer-nosenado-christmas-ballnado-hire.html#specification)branding [](reindeer-nosenado-christmas-ballnado-hire.html#specification)available [](reindeer-nosenado-christmas-ballnado-hire.html#specification)Printed[,](reindeer-nosenado-christmas-ballnado-hire.html#specification) applied & removed after each event
+In[\-](/reindeer-nosenado-christmas-ballnado-hire/)house [](/reindeer-nosenado-christmas-ballnado-hire/)branding [](/reindeer-nosenado-christmas-ballnado-hire/)available [](/reindeer-nosenado-christmas-ballnado-hire/)Printed[,](/reindeer-nosenado-christmas-ballnado-hire/) applied & removed after each event
 
-(One [](reindeer-nosenado-christmas-ballnado-hire.html#specification)time [](reindeer-nosenado-christmas-ballnado-hire.html#specification)use [](reindeer-nosenado-christmas-ballnado-hire.html#specification)only)
+(One [](/reindeer-nosenado-christmas-ballnado-hire/)time [](/reindeer-nosenado-christmas-ballnado-hire/)use [](/reindeer-nosenado-christmas-ballnado-hire/)only)
 
-\*Delivery [](reindeer-nosenado-christmas-ballnado-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/reindeer-nosenado-christmas-ballnado-hire/)Charges & Minimum order value may apply
 
-[**Email:**](reindeer-nosenado-christmas-ballnado-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/reindeer-nosenado-christmas-ballnado-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -106,10 +106,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## **Reindeer Nosenado Christmas Ballnado Game Hire**
 
@@ -127,9 +127,9 @@ Check out our other popular Christmas party game hire products for your forthcom
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=64.html#specification)house [](/../../admin/products-edit.aspx%3Fid=64.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=64.html#specification)available [](/../../admin/products-edit.aspx%3Fid=64.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=64.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=64.html#specification)time [](/../../admin/products-edit.aspx%3Fid=64.html#specification)use [](/../../admin/products-edit.aspx%3Fid=64.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
 
 **Front panel branding**
 

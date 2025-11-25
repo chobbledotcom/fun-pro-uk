@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Basketball Arcade Game, Rent Electronic Basketball Game"
 meta_description: "Hire Basketball Arcade Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/ultimate-green-screen-photo-booth/"
-categories: []
+categories: ["categories/photo-booths.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b6ea9006cfb0c32bb85ac3fce503307"
@@ -52,11 +52,11 @@ Whether you're looking to boost team morale at a corporate event or add a fun ac
 
 **£995**\+ vat**
 
-Delivered [](ultimate-green-screen-photo-booth.html#specification)and [](ultimate-green-screen-photo-booth.html#specification)installed on site by our trained team
+Delivered [](/ultimate-green-screen-photo-booth/)and [](/ultimate-green-screen-photo-booth/)installed on site by our trained team
 
-\*Delivery [](ultimate-green-screen-photo-booth.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/ultimate-green-screen-photo-booth/)Charges & Minimum order value may apply
 
-[**Email:**](ultimate-green-screen-photo-booth.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/ultimate-green-screen-photo-booth/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -96,9 +96,9 @@ Lift required
 
 **Popular items to order along side our Electronic Basket Ball are**
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Twin race car simulators](/products/twin-racing-car-simulators/)
-*   [Dance Machine](/../exhibition-games/dance-machine/)
+*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
+*   [Twin race car simulators](/interactive-game-hire/twin-racing-car-simulators/)
+*   [Dance Machine](/exhibition-games/dance-machine/)
 *   Lights Out
 
 ## **Basketball Game Hire**
@@ -165,7 +165,7 @@ West midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamingt
 
 ## **Basketball Arcade Game For Exhibitions**
 
-The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/products/twin-racing-car-simulators/) or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/category/fun-days/21/inflatable-assault-courses/) to add to the excitement.
+The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/interactive-game-hire/twin-racing-car-simulators/) or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/fun-days/21/inflatable-assault-courses/) to add to the excitement.
 
 ## **Rise to the challenge**
 

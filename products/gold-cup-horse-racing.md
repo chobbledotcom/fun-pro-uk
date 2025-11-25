@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"
 meta_description: "Book the Gold Cup horse race simulator for your events, parties, and fun days. We deliver across the UK. Contact us today to reserve your spot and get started!"
 permalink: "/gold-cup-horse-racing/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/debd64a55340ff13e44c7b1d479b348b"
@@ -55,15 +55,15 @@ Don't miss out on the opportunity to elevate your event with the Gold Cup Horse 
 
 **£1195**\+ vat**
 
-Delivered [](gold-cup-horse-racing.html#specification)and [](gold-cup-horse-racing.html#specification)installed on site by our trained team
+Delivered [](/gold-cup-horse-racing/)and [](/gold-cup-horse-racing/)installed on site by our trained team
 
-In[\-](gold-cup-horse-racing.html#specification)house [](gold-cup-horse-racing.html#specification)branding [](gold-cup-horse-racing.html#specification)available [](gold-cup-horse-racing.html#specification)Printed[,](gold-cup-horse-racing.html#specification) applied & removed after each event
+In[\-](/gold-cup-horse-racing/)house [](/gold-cup-horse-racing/)branding [](/gold-cup-horse-racing/)available [](/gold-cup-horse-racing/)Printed[,](/gold-cup-horse-racing/) applied & removed after each event
 
-(One [](gold-cup-horse-racing.html#specification)time [](gold-cup-horse-racing.html#specification)use [](gold-cup-horse-racing.html#specification)only)
+(One [](/gold-cup-horse-racing/)time [](/gold-cup-horse-racing/)use [](/gold-cup-horse-racing/)only)
 
-\*Delivery [](gold-cup-horse-racing.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/gold-cup-horse-racing/)Charges & Minimum order value may apply
 
-[**Email:**](gold-cup-horse-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/gold-cup-horse-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,8 +105,8 @@ Popular items:
 
 *   [Race Car Simulators](/twin-racing-car-simulators/)
 *   [Top Doc](/top-doc-operation-game/)
-*   [Dance Machine](/../exhibition-games/dance-machine/)
-*   [Pick N Mix](/../exhibition-games/42/pix-n-mix-hire/)
+*   [Dance Machine](/exhibition-games/dance-machine/)
+*   [Pick N Mix](/exhibition-games/42/pix-n-mix-hire/)
 
 ## **Gold Cup Horse Racing Hire**
 

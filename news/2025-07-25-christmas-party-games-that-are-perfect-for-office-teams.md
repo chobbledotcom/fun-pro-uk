@@ -8,13 +8,13 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [25 July 25 - Christmas Party Games That Are Perfect for Office Teams](christmas-party-games-that-are-perfect-for-office-teams/)
+# [25 July 25 - Christmas Party Games That Are Perfect for Office Teams](/christmas-party-games-that-are-perfect-for-office-teams/)
 
-![](/../userfiles/christmas-party-game-hire.jpg)
+![](/userfiles/christmas-party-game-hire.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/category/christmas-games/) can transform your gathering from polite small talk into genuine fun and connection.
 
-[Christmas game hire](/../theme/category/christmas-game-hire/) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
+[Christmas game hire](/theme/category/christmas-game-hire/) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
 
 ## Why Christmas Party Games Are Essential for Office Teams
 
@@ -34,7 +34,7 @@ Don't forget about partners and children if they're invited. Family-friendly opt
 
 ## Top Christmas Party Games for Office Teams
 
-![](/../userfiles/fun-pro-uk-candy-cane-snatch.jpg)
+![](/userfiles/fun-pro-uk-candy-cane-snatch.jpg)
 
 ### Interactive Christmas Games
 
@@ -114,7 +114,7 @@ Games provide natural conversation starters, shared experiences, and opportuniti
 
 Christmas party planning doesn't have to be stressful. With the [right games](/category/christmas-games/) and activities, you can create an event that brings your team together and gives everyone something to enjoy.
 
-Professional [Christmas party game hire](/../theme/category/christmas-game-hire/) takes the guesswork out of entertainment planning, ensuring you have quality equipment and support when you need it most. From interactive high-tech games to classic fairground activities, there are options to suit every group and budget.
+Professional [Christmas party game hire](/theme/category/christmas-game-hire/) takes the guesswork out of entertainment planning, ensuring you have quality equipment and support when you need it most. From interactive high-tech games to classic fairground activities, there are options to suit every group and budget.
 
 [Contact our friendly team](/pages/contact-fun-pro-uk/) at Fun Pro UK to discuss your Christmas party requirements. With years of experience in corporate events and a wide range of game options, we'll help you create a Christmas celebration that your colleagues will remember for all the right reasons.
 
@@ -152,6 +152,6 @@ Yes, we offer nationwide coverage [throughout the UK](/pages/delivery-areas/). D
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

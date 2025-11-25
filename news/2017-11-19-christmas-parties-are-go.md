@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [19 November 17 - Christmas Parties are Go!](christmas-parties-are-go/)
+# [19 November 17 - Christmas Parties are Go!](/christmas-parties-are-go/)
 
 Last night saw our friends from Gefco celebrate in style with a Perfect Snap [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) at their company [Christmas Party](/category/christmas-game-hire/). We had been asked to customise the prints with their company slogan which was designed by our in house team.These looked fab on the instant selfies.
 
@@ -26,6 +26,6 @@ Everyone had an instant print to take home as a fab souvenir. A great night was 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

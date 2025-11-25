@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [27 June 18 - Tis’ the season to organise your Christmas party!](tis-the-season-to-organise-your-christmas-party/)
+# [27 June 18 - Tis’ the season to organise your Christmas party!](/tis-the-season-to-organise-your-christmas-party/)
 
 With all this lovely Summer weather it's hard to start thinking about organising the work Christmas do. We get it, you're thinking about relaxing on your summer holiday and will sort it out when you get back. There's only one problem with this strategy, other companies are organising theirs now and if you don't get started, you'll find you've missed the boat when it comes to venue and entertainment.
 
@@ -28,6 +28,6 @@ So, if you've been given the task of organising this year's Christmas party, set
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

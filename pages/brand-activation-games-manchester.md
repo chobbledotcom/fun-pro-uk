@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions
 
-When you're planning a [brand activation](promotion-event-games/) event in Manchester, standing out from the competition requires more than just a well-designed stand. With over 15 years of experience as corporate event specialists, we understand the pressure you face to generate quality leads, create memorable brand experiences, and demonstrate clear ROI from your marketing investment.
+When you're planning a [brand activation](/promotion-event-games/) event in Manchester, standing out from the competition requires more than just a well-designed stand. With over 15 years of experience as corporate event specialists, we understand the pressure you face to generate quality leads, create memorable brand experiences, and demonstrate clear ROI from your marketing investment.
 
 [Interactive games](/interactive-game-hire/) can be the difference between visitors walking past your stand and actively engaging with your brand. But choosing the right games for your specific objectives requires careful consideration of your audience, venue constraints, and campaign goals.
 
@@ -29,7 +29,7 @@ The social media potential cannot be overlooked either. Well-chosen games create
 
 ## Choosing the Right Games for Your Brand Activation Goals
 
-Not every game suits every [brand activation](promotion-event-games/) objective. The key is matching your entertainment choice to your specific marketing goals and audience expectations.
+Not every game suits every [brand activation](/promotion-event-games/) objective. The key is matching your entertainment choice to your specific marketing goals and audience expectations.
 
 ### Lead Generation & Data Capture Games
 
@@ -85,9 +85,9 @@ We've worked with companies who've seen 300% increases in stand visitor engageme
 
 ## Our Manchester Brand Activation Game Hire Service
 
-As corporate event specialists with [nationwide coverage](delivery-areas/), we provide comprehensive support for your Manchester brand activation events.
+As corporate event specialists with [nationwide coverage](/delivery-areas/), we provide comprehensive support for your Manchester brand activation events.
 
-Our [consultation process](contact-fun-pro-uk/) begins with understanding your specific objectives, target audience, and venue constraints. We'll recommend games that align with your campaign goals rather than simply showcasing our most popular equipment.
+Our [consultation process](/contact-fun-pro-uk/) begins with understanding your specific objectives, target audience, and venue constraints. We'll recommend games that align with your campaign goals rather than simply showcasing our most popular equipment.
 
 Professional delivery, setup, and collection services cover Manchester and the wider North West region. Our team handles all technical requirements, risk assessments, and insurance documentation, so you can focus on your core marketing activities.
 
@@ -113,7 +113,7 @@ With over 15 years of experience supporting corporate marketing teams, we unders
 
 Whether you're launching a new product at EventCity, building brand awareness at Manchester Central, or running a targeted activation at a smaller city centre venue, we'll provide expert guidance to ensure your interactive elements deliver measurable results.
 
-[Contact](contact-fun-pro-uk/) our friendly team today to discuss how interactive games can support your Manchester brand activation objectives. We're here to help you create memorable experiences that deliver measurable business results.
+[Contact](/contact-fun-pro-uk/) our friendly team today to discuss how interactive games can support your Manchester brand activation objectives. We're here to help you create memorable experiences that deliver measurable business results.
 
 ## Frequently Asked Questions
 
@@ -323,6 +323,6 @@ Yes, we can provide trained operators who understand their role as part of your 
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

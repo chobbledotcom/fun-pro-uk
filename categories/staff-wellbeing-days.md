@@ -10,7 +10,7 @@ featured: false
 
 Are you searching for fresh ideas for office events that will break the routine and energise your team? Fun Pro UK specialises in fun corporate activities that transform standard gatherings into memorable celebrations.
 
-In today’s fast-paced corporate environment, fostering a positive workplace culture is crucial. [Corporate Wellbeing Days](corporate-entertainment/) are becoming increasingly recognized for their role in boosting happiness both inside and outside of work. Fun Pro UK is at the forefront of this initiative, offering a wide range of [employee wellbeing activities for hire](corporate-entertainment/) that not only promote relaxation but also enhance team dynamics, creativity, and overall employee satisfaction.
+In today’s fast-paced corporate environment, fostering a positive workplace culture is crucial. [Corporate Wellbeing Days](/corporate-entertainment/) are becoming increasingly recognized for their role in boosting happiness both inside and outside of work. Fun Pro UK is at the forefront of this initiative, offering a wide range of [employee wellbeing activities for hire](/corporate-entertainment/) that not only promote relaxation but also enhance team dynamics, creativity, and overall employee satisfaction.
 
 The introduction of dedicated breakout rooms and areas in the workplace is more than just a trend; it’s a strategic approach to enhance employee wellbeing. These spaces provide a crucial outlet for relaxation and social interaction, which is essential for mental refocus and increased productivity. Incorporating fun and interactive elements into these areas can significantly reduce stress, boost friendships, encourage creativity, and improve communication among team members.
 
@@ -36,13 +36,13 @@ To ensure your corporate wellbeing day is successful, consider the following ste
     
 4.  Engage Your Staff: Seek ideas and feedback from your staff, and consider extending invitations to their families if appropriate.
     
-5.  Select Activities: Decide on [hire corporate wellbeing activities](corporate-entertainment/) that cater to various interests and promote inclusivity.
+5.  Select Activities: Decide on [hire corporate wellbeing activities](/corporate-entertainment/) that cater to various interests and promote inclusivity.
     
 6.  Schedule the Day: Plan out the timing and locations of activities to ensure a smooth flow throughout the day.
     
 7.  Promote Internally: Build anticipation and excitement by promoting the event through internal communication channels.
 
-Incorporate Fun Pro UK’s interactive games to enhance your [Corporate Wellbeing Days](corporate-entertainment/). Our games not only serve as a fun distraction but are instrumental in improving morale and boosting both physical and mental wellbeing while fostering a sense of community within your team.
+Incorporate Fun Pro UK’s interactive games to enhance your [Corporate Wellbeing Days](/corporate-entertainment/). Our games not only serve as a fun distraction but are instrumental in improving morale and boosting both physical and mental wellbeing while fostering a sense of community within your team.
 
 With Fun Pro UK, planning your next office event is a breeze. Our engaging activities are designed to suit any office environment, ensuring your next event is as fun as it is unforgettable.
 
@@ -50,6 +50,6 @@ To learn more about how Fun Pro UK can help you plan and execute an unforgettabl
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

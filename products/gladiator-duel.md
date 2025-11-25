@@ -5,7 +5,7 @@ order: 50
 meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"
 meta_description: "Strap on the bungee cords and race to the end! Gladiator duels are as fun to watch as they are to play - laughter guaranteed! Available for hire nationwide."
 permalink: "/gladiator-duel/"
-categories: []
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b636354db1859abfd5da690b9ae6393a"
@@ -27,11 +27,11 @@ gallery:
 
 **£395**\+ vat**
 
-Delivered [](gladiator-duel.html#specification)and [](gladiator-duel.html#specification)installed on site by our trained team
+Delivered [](/gladiator-duel/)and [](/gladiator-duel/)installed on site by our trained team
 
-\*Delivery [](gladiator-duel.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/gladiator-duel/)Charges & Minimum order value may apply
 
-[**Email:**](gladiator-duel.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/gladiator-duel/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -91,7 +91,7 @@ Who will survive the pummelling and stay on their podium while knocking their op
 
 Gladiator duel game hire includes a top quality inflatable battle zone, to guarantee a soft landing when you get knocked down. You'll also get a pair of padded fighting sticks, just like the Gladiators on TV, plus a pair of head protectors to stop you getting hit too hard.
 
-It's always a massive success at any kind of [company fun day](/category/fun-days/), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
+It's always a massive success at any kind of [company fun day](/fun-days/), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
 
 ### A fantastic fun day range
 

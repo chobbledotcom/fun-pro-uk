@@ -8,17 +8,17 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 June 19 - Top 5 Most Popular Interactive Outdoor Games For Corporates](top-5-most-popular-interactive-outdoor-games-for-corporates/)
+# [05 June 19 - Top 5 Most Popular Interactive Outdoor Games For Corporates](/top-5-most-popular-interactive-outdoor-games-for-corporates/)
 
 ## **Top 5 Most Popular Interactive Outdoor Games for Corporates**
 
-**![Team work](/../userfiles/team-work.png)**
+**![Team work](/userfiles/team-work.png)**
 
 Are you sat there wondering how to keep your employees motivated and increase employee retention? Well, look no further, as this guide will go through the top 5 most popular team building games for [corporate entertainment hire](/category/corporate-entertainment/), just the thing to engage your staff and say thank you.
 
 **1\. Human Table Football**
 
-![Human Football](/../userfiles/file/human-football.jpg)
+![Human Football](/userfiles/file/human-football.jpg)
 
 This giant inflatable version of the popular pub game is perfect to stimulate and engage employees to work as part of a team in a hilarious game of football. The players are enclosed in an inflatable pitch and must work in teams of 5 to kick the ball across into the opposite goal.
 
@@ -26,7 +26,7 @@ However, it is not as easy as it sounds as players can only move side by side as
 
 To find out more about this fun game click here: [Human table football](/category/fun-days/human-table-football/)
 
-**2\. Hungry Hippos ![Hungry Hippo](/../userfiles/file/20190525-144446-023.jpg)** 
+**2\. Hungry Hippos ![Hungry Hippo](/userfiles/file/20190525-144446-023.jpg)** 
 
 Hungry Hippos is one of our best sellers in outdoor games and has evolved from the classic Hungry Hippos board game we all know and love. It's ideal for your staff to challenge themselves both as individuals and to show how they work in a team.
 
@@ -36,7 +36,7 @@ Don't miss out on the chance to book our latest game by clicking here: [Hungry H
 
 **3\. Bungee Run**
 
-![Bungee Run](/../userfiles/file/bungee-run.jpg)
+![Bungee Run](/userfiles/file/bungee-run.jpg)
 
 Test your strength and stamina with the Bungee Run! In this fast and furious game, two players are attached to the bungee cord and position themselves on the inflatable brightly coloured lanes, where they run as fast as possible to the other end and place their Velcro marker before their opponent does. But be aware as soon as you relax the bungee cord will then drag you back to the start.
 
@@ -47,7 +47,7 @@ Do you want to be the next ultimate Bungee run champion? Click here for more inf
 **  
 4\. Total Wipe Out**
 
-![Total Wipeout](/../userfiles/file/total-wipe-out.jpg)
+![Total Wipeout](/userfiles/file/total-wipe-out.jpg)
 
 Looking for a team activity game that will test the nerve, strength and timing of your employees working as part of a team? Well, this is the game for you! As seen on popular TV programmes such as Total Wipeout. In this game everyone will need to communicate effectively and concentrate on the challenge ahead.
 
@@ -61,7 +61,7 @@ This game will keep your employees on their feet or not! as they bounce and slid
 
 Employees can be split into teams, for example, one department against another to see which team can last and lead their team to victory. This is a popular assault course that will bring entertainment and a sense of togetherness for the employees, also a way to build confidence and morale amongst colleagues.
 
-![Assault Courses](/../userfiles/file/assault-course.jpg)
+![Assault Courses](/userfiles/file/assault-course.jpg)
 
 What are you waiting for! Find out more by clicking here: [Assault course game](/category/fun-days/21/inflatable-assault-courses/)
 
@@ -82,6 +82,6 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

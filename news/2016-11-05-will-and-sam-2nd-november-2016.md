@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 November 16 - Will & Sam 2nd November 2016](will-and-sam-2nd-november-2016/)
+# [05 November 16 - Will & Sam 2nd November 2016](/will-and-sam-2nd-november-2016/)
 
 It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) for the wedding of Will and Sam.
 
@@ -24,6 +24,6 @@ Perfect Snap had a very busy night here, all the guests had a ball and came back
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

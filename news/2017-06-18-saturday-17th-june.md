@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [18 June 17 - Saturday 17th June](saturday-17th-june/)
+# [18 June 17 - Saturday 17th June](/saturday-17th-june/)
 
 Team Perfect Snap had a really busy evening yesterday, as did the people of Coventry City! There were lots of events happening in Coventry and we were invited to bring our [Photobooths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) and [Magic Mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) to a few!  
   
@@ -26,6 +26,6 @@ Perfect Snap also helped entertain the guests at a Birthday Party at a pub in Ke
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

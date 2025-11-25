@@ -35,31 +35,31 @@ Whether you're introducing your company to new prospects or trying to build on r
 
 ### Interactive Reaction Games
 
-*   Batak Games, including [Batak Pro](batak-pro-hire-coventry/) and [Batak Lite](batak-lite-coventry/)
+*   Batak Games, including [Batak Pro](/batak-pro-hire-coventry/) and [Batak Lite](/batak-lite-coventry/)
     
-*   [High Striker](high-striker-coventry/)
+*   [High Striker](/high-striker-coventry/)
     
-*   [Crack The Code](safe-cracker-hire-coventry/)
+*   [Crack The Code](/safe-cracker-hire-coventry/)
 
 ### Prize and Arcade Games
 
-*   [Cash Grabber](cash-grabber-hire-coventry/)
+*   [Cash Grabber](/cash-grabber-hire-coventry/)
     
-*   [Prize Wheel](prize-wheel-hire-coventry/)
+*   [Prize Wheel](/prize-wheel-hire-coventry/)
     
-*   [Prize Crane Machines](prize-crane-hire-coventry/)
+*   [Prize Crane Machines](/prize-crane-hire-coventry/)
 
 ### Entertainment & Simulation Games
 
-*   [Dance Machines](dance-machine-hire-coventry/)
+*   [Dance Machines](/dance-machine-hire-coventry/)
     
-*   [Photo Booths](photo-booth-hire-coventry/)
+*   [Photo Booths](/photo-booth-hire-coventry/)
 
 ### Carnival & Festival Games
 
-*   [Whack a Mole](whack-a-mole-hire-coventry/)
+*   [Whack a Mole](/whack-a-mole-hire-coventry/)
     
-*   [Giant Plinko](plinko-hire-coventry/)
+*   [Giant Plinko](/plinko-hire-coventry/)
 
 ## Custom Branding For Brand Activation Game Hire in Coventry
 
@@ -67,7 +67,7 @@ Our custom branding for promotional games transforms standard games into powerfu
 
 *   Visual branding- Custom graphics and professional vinyl wraps are used to showcase your brand in a visually appealing way. This can be your brand logo or even specific to the event itself
     
-*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](corporate-event-hire-coventry/) by giving away your products, gift cards, or branded merchandise as prizes.
+*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](/corporate-event-hire-coventry/) by giving away your products, gift cards, or branded merchandise as prizes.
 
 ## Brand Activation Game Hire in Coventry for Many Different Events
 
@@ -87,7 +87,7 @@ Our games are often hired for corporate events across Coventry, such as:
 
 As a proud Coventry business, we're committed to supporting local companies with premium entertainment solutions. Our location offers customers several advantages, including:
 
-*   Faster deployment - Quick [delivery](delivery-areas/) and setup options are available for most Coventry bookings
+*   Faster deployment - Quick [delivery](/delivery-areas/) and setup options are available for most Coventry bookings
     
 *   Regional expertise -We have an in-depth knowledge of Coventry venues
     
@@ -141,9 +141,9 @@ Wherever your event takes place, our professional team can manage the delivery, 
 
 ## Contact Fun Pro For Brand Activation Game Hire in Coventry
 
-We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](team-building-ideas/) days, product launches, and many more.
+We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/team-building-ideas/) days, product launches, and many more.
 
-No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
+No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -319,6 +319,6 @@ No matter what your budget or the type of event you’re planning, we'll work wi
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

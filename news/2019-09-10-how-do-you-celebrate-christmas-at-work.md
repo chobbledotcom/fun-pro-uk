@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 September 19 - How Do You Celebrate Christmas At Work?](how-do-you-celebrate-christmas-at-work/)
+# [10 September 19 - How Do You Celebrate Christmas At Work?](/how-do-you-celebrate-christmas-at-work/)
 
 ## How Do You Celebrate Christmas at Work?
 
@@ -22,7 +22,7 @@ Christmas is a superb time to get out the fluffy jumpers, drink mulled wine and 
 
 Did you know 11 million employees will attend their company's Christmas party this year! That's a lot of venues, entertainment and catering needed and being booked up fast.
 
-## It's snow joke, we have Christmas Photo Booths too! ![Christmas Booth](/../userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)
+## It's snow joke, we have Christmas Photo Booths too! ![Christmas Booth](/userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)
 
 We all know how entertaining taking funny photos with friends is and with our [Christmas Photo Booths](/pages/christmas-photo-booth-corporate-event-hire/), we have made it especially easy with the addition of our amazing exclusive & Festive Prop Box. This box contains all you need to have a joyful laugh from our funtastic glasses to Christmas Tree hats and reindeer ears.
 
@@ -40,13 +40,13 @@ Back to serve another season, our fabulously designed inflatable [Christmas Grot
 
 Each of our grottos is beautifully designed with snow on the roof and can bring your venue to life with elves, Christmas trees, snowmen and even reindeer. Obviously, not forgetting the real Father Christmas who sits inside the delicately lit grotto.
 
-## ![Dance Machine](/../userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)Dream big, sparkle more, shine bright
+## ![Dance Machine](/userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)Dream big, sparkle more, shine bright
 
 Keep your guests entertained all night with a full range of interactive entertainment.
 
 Why not consider having a social media pod or photo booth alongside hiring our gorgeous grotto, allowing all your guests to capture their Christmas memories to help them remember this special time of the year.
 
-Alternatively, make your event into a Christmas games night and consider hiring a variety of interactive games to let your guests let their hair down. Why not try our [Race Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/), [Electronic Basketball hire](/category/photo-booths/ultimate-green-screen-photo-booth/), [Retro Arcade games](/category/interactive-game-hire/retro-arcade-games/) or our brand new [Crack the Safe](/../crack-the-code-safe-cracker/)!
+Alternatively, make your event into a Christmas games night and consider hiring a variety of interactive games to let your guests let their hair down. Why not try our [Race Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/), [Electronic Basketball hire](/category/photo-booths/ultimate-green-screen-photo-booth/), [Retro Arcade games](/category/interactive-game-hire/retro-arcade-games/) or our brand new [Crack the Safe](/crack-the-code-safe-cracker/)!
 
 Don't get your tinsel in a tangle whilst dancing on our all new [Dance Machine](/category/exhibition-games/dance-machine/).
 
@@ -56,6 +56,6 @@ We have a whole team of event experts who are on hand to help you with every sta
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

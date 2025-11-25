@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [03 October 19 - Our Top 4 Games for your Christmas Party](our-top-4-games-for-your-christmas-party/)
+# [03 October 19 - Our Top 4 Games for your Christmas Party](/our-top-4-games-for-your-christmas-party/)
 
 ## **Christmas Fun & Games**
 
@@ -28,13 +28,13 @@ Christmas is all about making memories, let's hope you've been good throughout t
 
 Why not try our [Christmas Grotto](/category/christmas-grotto-hire/), you can get the boss to dress up as Santa and handout the secret Santa gifts inside the grotto! The Christmas Grotto can also come with Santa's throne to add that extra bit of excitement, as you can take pictures on the throne with Santa.
 
-### **Escape to the North pole & dash inside the Photo Booth Cabin!![Christmas Photo Booth](/../userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)**
+### **Escape to the North pole & dash inside the Photo Booth Cabin!![Christmas Photo Booth](/userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)**
 
 What better way to start the festive season than to escape to the North Pole with our unique winter themed [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)! Dig into the festive props box and find your favourite fancy dress for a group photo with your colleagues, as you laugh, smile, and create Christmas memories.
 
 ### **Who will be Santa's fastest reindeer? Virtual Reality Racing Car Simulator**
 
-![Race car sims](/../userfiles/file/FunPro/Race%20Cars/2-3.jpg)Experience this incredible all new [Virtual Reality Racing Car Simulator](/category/corporate-entertainment/38/vr-race-car-simulator/)[](/category/corporate-entertainment/38/vr-race-car-simulator/) like no other! Put your driving skills to the test with a choice of tracks whilst sitting in a specially formulated racing seat. If you feel the need for speed, why not step it up a gear with our all new VR game. You will have your fans cheering you to the finish line as they watch your moves on the monitor!
+![Race car sims](/userfiles/file/FunPro/Race%20Cars/2-3.jpg)Experience this incredible all new [Virtual Reality Racing Car Simulator](/category/corporate-entertainment/38/vr-race-car-simulator/)[](/category/corporate-entertainment/38/vr-race-car-simulator/) like no other! Put your driving skills to the test with a choice of tracks whilst sitting in a specially formulated racing seat. If you feel the need for speed, why not step it up a gear with our all new VR game. You will have your fans cheering you to the finish line as they watch your moves on the monitor!
 
 ### **Get Your Christmas Groove on!**
 
@@ -54,6 +54,6 @@ Mob: 07769979676
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

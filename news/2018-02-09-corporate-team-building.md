@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [09 February 18 - Corporate team building!](corporate-team-building/)
+# [09 February 18 - Corporate team building!](/corporate-team-building/)
 
 Our team have had a busy week. One of our events was a team building conference day at a new venue for us in the centre of [Coventry](/pages/corporate-event-hire-coventry/).  
   
@@ -30,6 +30,6 @@ The staff had a wonderful time at their conference and Fun Pro UK once again pro
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

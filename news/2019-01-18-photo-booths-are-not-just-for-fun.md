@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [18 January 19 - Photo booths are not just for fun!](photo-booths-are-not-just-for-fun/)
+# [18 January 19 - Photo booths are not just for fun!](/photo-booths-are-not-just-for-fun/)
 
 [Photo booths and Magic Mirrors](/category/photo-booths-and-magic-mirrors/) add a lot of fun to an event. From Christmas parties to awards ceremonies, and from birthday parties to weddings, party guests love hopping into a photo booth to capture a happy group shot or seeing who can put on the funniest face. When it comes to [magic mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/), attendees love donning the array of crazy hats, goofy glasses and holding up silly signs to get fun photos.
 
@@ -30,6 +30,6 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

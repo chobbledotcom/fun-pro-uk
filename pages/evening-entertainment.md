@@ -29,10 +29,10 @@ We can work closely with you to understand your needs and create a bespoke enter
 
 All our products conform with UK health and standards; we have up-to-date PAT certificates for our electronics, public liability insurance, risk assessments and everything else. You can trust you're with a professional team when you choose us for your evening event.  
   
-So why settle for a boring evening event? Contact Fun Pro UK today to see how we can help you create a night of entertainment that your guests will be talking about for years to come! Make a booking through our website today, or visit our [contact page](contact-fun-pro-uk/) if you'd like to speak with our team directly.
+So why settle for a boring evening event? Contact Fun Pro UK today to see how we can help you create a night of entertainment that your guests will be talking about for years to come! Make a booking through our website today, or visit our [contact page](/contact-fun-pro-uk/) if you'd like to speak with our team directly.
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

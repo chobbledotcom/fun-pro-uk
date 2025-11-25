@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [06 February 17 - Woodside wedding show](woodside-wedding-show/)
+# [06 February 17 - Woodside wedding show](/woodside-wedding-show/)
 
 Perfect Snap attended the Wedding Fair held at the beautiful Wood house Hotel in Kenilworth.  
 We have been to this location many times, however it was our first Wedding Fair of 2017!  
@@ -32,6 +32,6 @@ Due to popular demand we have extended our January offer 4 hours for the price o
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

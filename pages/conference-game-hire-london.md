@@ -15,7 +15,7 @@ Looking for the perfect main attraction to include at your conference? Our Londo
 
 Fun Pro has a large collection of [fun games](/category/fun-days/) in London. We have all sorts of event hire games to entertain your corporate guests — from the classic photo booth to driving simulators to retro video games, fair games, and even huge outdoor games.
 
-Take a look at our entertainment games for hire to see which one works for your event. Whether you're hosting a conference or promotional event at the [Excel London](excel-london/), or are planning a smaller staff party, Fun Pro can work with all venue sizes and ensure that your event is remembered for all the right reasons.
+Take a look at our entertainment games for hire to see which one works for your event. Whether you're hosting a conference or promotional event at the [Excel London](/excel-london/), or are planning a smaller staff party, Fun Pro can work with all venue sizes and ensure that your event is remembered for all the right reasons.
 
 ### Arcade Games for Hire
 
@@ -31,7 +31,7 @@ Have a look at more of our garden games for hire and find what works for you.
 
 ### Photobooth for Hire
 
-Make fun events in London truly memorable with this tried-and-true classic. Capture unforgettable moments with our popular [photo booth hire](photo-booth-hire-london/) in London. Let your guests bring home fun, branded photo prints as keepsakes. It's perfect for corporate parties, award ceremonies, brand conferences, and other corporate events.
+Make fun events in London truly memorable with this tried-and-true classic. Capture unforgettable moments with our popular [photo booth hire](/photo-booth-hire-london/) in London. Let your guests bring home fun, branded photo prints as keepsakes. It's perfect for corporate parties, award ceremonies, brand conferences, and other corporate events.
 
 ### Exhibition Stand for Hire
 
@@ -47,7 +47,7 @@ Check out more of our interactive games from the catalogue.
 
 ### Company Fun Day Ideas in London
 
-[Corporate fun days](team-building-ideas/) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
+[Corporate fun days](/team-building-ideas/) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
 
 Fun Pro will help you plan your day and decide on the types of games to hire based on what your employees need.
 
@@ -83,7 +83,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](conference-game-hire-london.html#FooterContact)**
+**[Request a Free Quote](/conference-game-hire-london/#FooterContact)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -133,7 +133,7 @@ When the event ends, our team will take care of the safe and efficient removal o
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in London or any other location in the UK!
 
-**[TALK TO US](conference-game-hire-london.html#FooterContact)**
+**[TALK TO US](/conference-game-hire-london/#FooterContact)**
 
 ## Frequently Asked Questions
 
@@ -147,7 +147,7 @@ We have games that can be hired for as long as 7 days. Fun Pro has flexible hire
 
 ### Is there a minimum or maximum number of games we can hire?
 
-You can hire as few or as many games as your event needs. [Contact us](contact-fun-pro-uk/) and we would be happy to help you plan it out, including how many games would suit the size of your event.
+You can hire as few or as many games as your event needs. [Contact us](/contact-fun-pro-uk/) and we would be happy to help you plan it out, including how many games would suit the size of your event.
 
 ### What safety measures are in place for the games?
 
@@ -195,6 +195,6 @@ Please refer to your contract for full terms and conditions regarding cancellati
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

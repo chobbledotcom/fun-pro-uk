@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [02 January 18 - Ansty Hall this Sunday!](ansty-hall-this-sunday/)
+# [02 January 18 - Ansty Hall this Sunday!](/ansty-hall-this-sunday/)
 
 We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/category/weddings/) fayre of 2018!
 
@@ -26,6 +26,6 @@ Fun Pro UK are regular guests at this hotel and can't wait to be back on Sunday.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

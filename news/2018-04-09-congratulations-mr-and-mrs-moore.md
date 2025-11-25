@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [09 April 18 - Congratulations Mr and Mrs Moore](congratulations-mr-and-mrs-moore/)
+# [09 April 18 - Congratulations Mr and Mrs Moore](/congratulations-mr-and-mrs-moore/)
 
 On Saturday we spent a fabulous evening at the Citrus Hotel near [Coventry](/pages/corporate-event-hire-coventry/) helping this wonderful couple to celebrate their wedding day .
 
@@ -18,12 +18,12 @@ It wasn't long until the booth became very busy and a crowd formed to see what a
 
 Congratulations to Mrs and Mrs Moore, we wish you a long and happy future together. Perfect Snap would also like to say thanks for hiring one of our [photo booths](/category/photo-booths-and-magic-mirrors/).
 
-![](/../userfiles/file/img-20180408-wa0005-resized-20180409-112103658.jpg)
+![](/userfiles/file/img-20180408-wa0005-resized-20180409-112103658.jpg)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

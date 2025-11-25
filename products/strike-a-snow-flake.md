@@ -5,7 +5,7 @@ order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
 permalink: "/strike-a-snow-flake/"
-categories: []
+categories: ["categories/christmas-game-hire.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d328d990319f3b988c4335923f3facc8"
@@ -22,7 +22,7 @@ gallery:
 
 ## **Best Strike a Snow Flake Game Hire for Events in the UK!**
 
-Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/blog/2024-08-23/christmas-events-and-party-ideas/) or festive funfairs.  
+Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/news/2024-08-23/christmas-events-and-party-ideas/) or festive funfairs.  
 
 ## **Hire a Strike a Snow Flake game for your holiday party!**
 
@@ -160,30 +160,30 @@ These customisation options make the game perfect for brand activations, trade s
 
 **Branding Prices from:**
 
-In[\-](/../../admin/products-edit.aspx%3Fid=75.html#specification)house [](/../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](/../../admin/products-edit.aspx%3Fid=75.html#specification)available [](/../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
 
-(One [](/../../admin/products-edit.aspx%3Fid=75.html#specification)time [](/../../admin/products-edit.aspx%3Fid=75.html#specification)use [](/../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
 
 Branded Top Panel
 
 £175 + vat
 
-![](/../../userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
+![](/userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
 
 Branded side panels
 
 £250 + vat
 
-![](/../../userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
+![](/userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
 
 Fully Branded panels
 
 £420 + vat
 
-![](/../../userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

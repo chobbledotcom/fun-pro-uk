@@ -37,29 +37,29 @@ Whether you're launching a new venture or looking for interesting ways to streng
 
 ### Interactive Reaction Games
 
-*   Batak Games, including [Batak Pro](batak-pro-hire-birmingham/) and [Batak Lite](batak-lite-hire-birmingham/)
+*   Batak Games, including [Batak Pro](/batak-pro-hire-birmingham/) and [Batak Lite](/batak-lite-hire-birmingham/)
     
-*   [Strike a Light - Danger Zone](strike-a-light-danger-zone-hire-birmingham/)
+*   [Strike a Light - Danger Zone](/strike-a-light-danger-zone-hire-birmingham/)
     
-*   [Whack a Mole](whack-a-mole-hire-birmingham/)
+*   [Whack a Mole](/whack-a-mole-hire-birmingham/)
 
 ### Skill & Precision Games
 
-*   [Mega Wire](mega-wire-hire-birmingham/)
+*   [Mega Wire](/mega-wire-hire-birmingham/)
     
-*   [Roll and Bowl](roll-and-bowl-hire-birmingham/)
+*   [Roll and Bowl](/roll-and-bowl-hire-birmingham/)
     
-*   [Ballando](ballnado-hire-birmingham/)
+*   [Ballando](/ballnado-hire-birmingham/)
 
 ### Entertainment Games
 
-*   [Magic Mirror](magic-mirror-hire-birmingham/)
+*   [Magic Mirror](/magic-mirror-hire-birmingham/)
 
 ### Prize Games
 
-*   [Prize Crane](prize-crane-hire-birmingham/)
+*   [Prize Crane](/prize-crane-hire-birmingham/)
     
-*   [Plinko](plinko-hire-birmingham/)
+*   [Plinko](/plinko-hire-birmingham/)
 
 ## Custom Branding For Brand Activation Game Hire in Birmingham
 
@@ -79,7 +79,7 @@ Trade Shows & Exhibitions - Stand out from the crowd at Birmingham's major exhib
 
 Product Launches & Brand Activation Events - Generate excitement and create memorable launch moments for new products and services across Birmingham
 
-Shopping Centre Promotions - Connect with Birmingham shoppers, [increase engagement](/blog/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/) time, and drive foot traffic to retail locations
+Shopping Centre Promotions - Connect with Birmingham shoppers, [increase engagement](/news/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/) time, and drive foot traffic to retail locations
 
 Experiential Marketing Campaigns - Create immersive brand experiences in Birmingham's public spaces that people actually want to participate in
 
@@ -87,13 +87,13 @@ Experiential Marketing Campaigns - Create immersive brand experiences in Birming
 
 As a trusted partner to Birmingham businesses, we understand the unique requirements of the local market. Our Birmingham-focused approach delivers tangible benefits:
 
-*   Rapid response - Quick turnaround times and flexible setup options for most Birmingham venues like the [NEC](nec-birmingham/), [ICC](game-hire-icc-birmingham/), and more.
+*   Rapid response - Quick turnaround times and flexible setup options for most Birmingham venues like the [NEC](/nec-birmingham/), [ICC](/game-hire-icc-birmingham/), and more.
     
 *   Local insights - Extensive knowledge of Birmingham's event spaces, logistics, and requirements
     
 *   Competitive rates - Our regional presence allows us to offer value-driven pricing for Birmingham clients
 
-While Birmingham remains one of our core focus areas, our nationwide [delivery network](delivery-areas/)\* extends to major cities including:
+While Birmingham remains one of our core focus areas, our nationwide [delivery network](/delivery-areas/)\* extends to major cities including:
 
 *   London
     
@@ -141,9 +141,9 @@ Local Knowledge - Deep understanding of Birmingham's venue landscape, logistics 
 
 With over two decades of experience delivering exceptional promotional entertainment solutions, we've helped countless Birmingham businesses transform their events from forgettable to unforgettable.
 
-Our collaborative approach ensures every solution perfectly aligns with your brand identity, event objectives, and audience expectations. Whether you're planning an intimate [corporate event in Birmingham](corporate-event-hire-birmingham/) or a large-scale activation campaign, we'll develop a customised package that delivers measurable results within your budget.
+Our collaborative approach ensures every solution perfectly aligns with your brand identity, event objectives, and audience expectations. Whether you're planning an intimate [corporate event in Birmingham](/corporate-event-hire-birmingham/) or a large-scale activation campaign, we'll develop a customised package that delivers measurable results within your budget.
 
-[Contact us today](contact-fun-pro-uk/) for your free consultation and no-obligation quote.
+[Contact us today](/contact-fun-pro-uk/) for your free consultation and no-obligation quote.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -319,6 +319,6 @@ Our collaborative approach ensures every solution perfectly aligns with your bra
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

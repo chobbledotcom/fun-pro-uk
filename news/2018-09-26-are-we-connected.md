@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [26 September 18 - Are we connected?](are-we-connected/)
+# [26 September 18 - Are we connected?](/are-we-connected/)
 
 Are we connected? Have you seen all our social media?
 
@@ -22,6 +22,6 @@ Why not follow, like and connect with us now to find out more about Fun Pro UK.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

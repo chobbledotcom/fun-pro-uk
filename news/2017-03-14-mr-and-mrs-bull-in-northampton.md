@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [14 March 17 - Mr & Mrs Bull in Northampton](mr-and-mrs-bull-in-northampton/)
+# [14 March 17 - Mr & Mrs Bull in Northampton](/mr-and-mrs-bull-in-northampton/)
 
 On Saturday night we helped celebrate the wonderful wedding of Mr and Mrs Bull at the [Northamptonshire Marriott Hotel.](/pages/northampton-corporate-event-hire/)  
 The special couple had booked us last minute and we at Perfect Snap were only to happy to help out!  
@@ -24,6 +24,6 @@ Perfect Snap would like to take this opportunity in wishing every happiness to t
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

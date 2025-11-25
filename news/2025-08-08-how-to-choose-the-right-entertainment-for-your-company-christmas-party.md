@@ -8,25 +8,25 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [08 August 25 - How to Choose The Right Entertainment for Your Company Christmas Party](how-to-choose-the-right-entertainment-for-your-company-christmas-party/)
+# [08 August 25 - How to Choose The Right Entertainment for Your Company Christmas Party](/how-to-choose-the-right-entertainment-for-your-company-christmas-party/)
 
-![](/../userfiles/whack-an-elf.jpg)
+![](/userfiles/whack-an-elf.jpg)
 
 Planning your company Christmas party can feel overwhelming, especially when it comes to selecting the right entertainment. With so many options available, how do you choose activities that will engage everyone from the newest intern to the managing director? The key is understanding your team, your venue, and your objectives to create a celebration that brings people together.
 
-[Christmas game hire](/../theme/category/christmas-game-hire/) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/category/christmas-games/) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
+[Christmas game hire](/theme/category/christmas-game-hire/) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/category/christmas-games/) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
 
 ## The Role of Entertainment in Corporate Christmas Celebrations
 
 A successful company Christmas party does more than just mark the end of another year. It's an opportunity to strengthen relationships, boost morale, and show appreciation for your team's hard work. However, without proper entertainment, even the best-intentioned celebrations can fall flat.
 
-Entertainment serves as a social catalyst, breaking down the invisible barriers that exist in workplace hierarchies. When the finance director is laughing alongside a junior assistant whilst playing [interactive games](/products/), it creates connections that extend far beyond the party itself. These shared experiences help build stronger working relationships and improve team dynamics throughout the year.
+Entertainment serves as a social catalyst, breaking down the invisible barriers that exist in workplace hierarchies. When the finance director is laughing alongside a junior assistant whilst playing [interactive games](/interactive-game-hire/), it creates connections that extend far beyond the party itself. These shared experiences help build stronger working relationships and improve team dynamics throughout the year.
 
 The right entertainment also ensures your party has energy and momentum from start to finish. Rather than relying solely on conversation and background music, interactive games and activities give people something to do, somewhere to go, and reasons to mingle with colleagues they might not usually spend time with.
 
 ## Assessing Your Company's Entertainment Needs
 
-Before selecting any [Christmas entertainment](/../theme/category/christmas-game-hire/), take time to consider who'll be attending your party. A tech startup with predominantly young employees will have different preferences compared to a traditional firm with a broad age range and diverse backgrounds.
+Before selecting any [Christmas entertainment](/theme/category/christmas-game-hire/), take time to consider who'll be attending your party. A tech startup with predominantly young employees will have different preferences compared to a traditional firm with a broad age range and diverse backgrounds.
 
 Think about your company culture. Is your workplace formal and traditional, or relaxed and innovative? Are your employees naturally outgoing, or do they tend to be more reserved? These characteristics should influence your entertainment choices significantly.
 
@@ -36,7 +36,7 @@ Don't forget about accessibility requirements. Ensure your chosen entertainment 
 
 ## Popular Christmas Entertainment Options for Corporate Events
 
-![](/../userfiles/popular-christmas-game.jpg)
+![](/userfiles/popular-christmas-game.jpg)
 
 ### High-Tech Interactive Experiences
 
@@ -126,7 +126,7 @@ Have backup entertainment ready in case popular activities become too busy or if
 
 ### Timing Your Booking
 
-[Christmas entertainment](/../theme/category/christmas-game-hire/) gets booked quickly, especially for popular December dates. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
+[Christmas entertainment](/theme/category/christmas-game-hire/) gets booked quickly, especially for popular December dates. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
 
 Weekend dates in December are particularly popular, so book these well in advance. Consider whether mid-week celebrations might offer better availability and pricing whilst still providing excellent entertainment value.
 
@@ -186,6 +186,6 @@ We offer nationwide coverage throughout the UK, including London, Manchester, Bi
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

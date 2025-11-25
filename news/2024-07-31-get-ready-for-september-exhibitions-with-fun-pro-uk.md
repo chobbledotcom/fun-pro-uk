@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [31 July 24 - Get Ready for September Exhibitions with Fun Pro UK](get-ready-for-september-exhibitions-with-fun-pro-uk/)
+# [31 July 24 - Get Ready for September Exhibitions with Fun Pro UK](/get-ready-for-september-exhibitions-with-fun-pro-uk/)
 
 As we approach the end of July, businesses across sectors are gearing up for a bustling exhibition season. Wherever you are in the country, Fun Pro UK is here to ensure your exhibition stand is the highlight of any event. With our extensive range of quality exhibition hire products, we are dedicated to enhancing your event presence throughout September 2024 and beyond.
 
@@ -18,7 +18,7 @@ Make a lasting impression with our [Branded Exhibition Games](/category/branded-
 
 Enhance your company’s visibility and attendee engagement with our [Corporate Entertainment](/category/corporate-entertainment/) options. From high-energy [Batak Pro](/category/batak/batak-pro/) to the competitive Roll & Bowl, these activities are perfect for creating a dynamic environment that promotes networking and interaction.
 
-No matter the size of your stand or the nature of your exhibit, our [Exhibition Games](/category/exhibition-games/) are designed to fit seamlessly into your space. Whether it’s the compact [Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/) for sports enthusiasts or the ever-popular [Prize Wheel](/../prize-wheel/), which offers visitors a chance to win instant prizes, our games cater to diverse audiences.
+No matter the size of your stand or the nature of your exhibit, our [Exhibition Games](/category/exhibition-games/) are designed to fit seamlessly into your space. Whether it’s the compact [Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/) for sports enthusiasts or the ever-popular [Prize Wheel](/prize-wheel/), which offers visitors a chance to win instant prizes, our games cater to diverse audiences.
 
 ## For Exhibition Game Hire UK-Wide
 
@@ -37,6 +37,6 @@ Are you ready to make your exhibition stand the most visited and talked about? [
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

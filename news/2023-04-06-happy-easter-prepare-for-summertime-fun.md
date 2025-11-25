@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [06 April 23 - Happy Easter! Prepare for Summertime Fun!](happy-easter-prepare-for-summertime-fun/)
+# [06 April 23 - Happy Easter! Prepare for Summertime Fun!](/happy-easter-prepare-for-summertime-fun/)
 
 At Fun Pro UK, we want to wish everyone a very happy Easter! Whether you're celebrating with family, friends, or just enjoying some time off work, we hope you have a fun and festive holiday.
 
@@ -18,7 +18,7 @@ So let's all hop into the summer with joy and positivity, and celebrate the seas
 
 ## Summertime Party Fun
 
-![](/../userfiles/file/FunPro/img-20220617-wa0004.jpg)Summer is fast approaching and with it comes the promise of warm days, long evenings and fun in the sun at all kinds of [summer events](/pages/outdoor-garden-game-hire/). Whether you're planning a family BBQ, a birthday party, a garden soiree, a [wedding](/category/weddings/), a [corporate event](/category/corporate-entertainment/) or any other special summertime celebration, Fun Pro UK has everything you need to make it a summer to remember. We are the go-to place for all your entertainment needs, with a wide range of fun products available for hire that will get everyone in the party mood.  
+![](/userfiles/file/FunPro/img-20220617-wa0004.jpg)Summer is fast approaching and with it comes the promise of warm days, long evenings and fun in the sun at all kinds of [summer events](/pages/outdoor-garden-game-hire/). Whether you're planning a family BBQ, a birthday party, a garden soiree, a [wedding](/category/weddings/), a [corporate event](/category/corporate-entertainment/) or any other special summertime celebration, Fun Pro UK has everything you need to make it a summer to remember. We are the go-to place for all your entertainment needs, with a wide range of fun products available for hire that will get everyone in the party mood.  
   
 Some of of our most popular products during the summertime are our inflatable slides. Our [Super Slides](/category/fun-days/26/super-slides/) are a huge hit with both kids and adults alike, with some featuring double alleys for some friendly competition. You could raise the heat even further with our [Gladiator Duel!](/category/fun-days/22/gladiator-duel/), or get everyone involved with our [Human Table Football](/category/fun-days/human-table-football/)!
 
@@ -26,7 +26,7 @@ If you're not looking for high-octane fun and would prefer something a little mo
 
 And what better time to enjoy a drink from our slush machine than while outdoors at a summertime event? People will be queuing for their turn!
 
-![](/../userfiles/file/FunPro/20220609-174158.jpg)
+![](/userfiles/file/FunPro/20220609-174158.jpg)
 
 But it's not just our products that are fantastic - our service is too. We pride ourselves on our punctuality and reliability, delivering our premium quality products right to your doorstep no matter where you are in the UK. And with our commercial grade equipment, you can be sure that everything we stock is built to last, making it perfect for those warm summer afternoons of fun and games.  
   
@@ -36,6 +36,6 @@ But it's not just our products that are fantastic - our service is too. We pride
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

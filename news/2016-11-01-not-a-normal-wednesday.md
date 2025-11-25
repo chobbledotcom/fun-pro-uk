@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [01 November 16 - Not a normal Wednesday!](not-a-normal-wednesday/)
+# [01 November 16 - Not a normal Wednesday!](/not-a-normal-wednesday/)
 
 ## Not a normal Wednesday!!
 
@@ -24,6 +24,6 @@ Perfect Snap adores attending weddings! It is such a wonderful occasion . Our fa
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

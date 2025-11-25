@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [16 March 20 - FUN PRO UK AND COVID-19](fun-pro-uk-and-covid-19/)
+# [16 March 20 - FUN PRO UK AND COVID-19](/fun-pro-uk-and-covid-19/)
 
 Fun Pro Uk and COVID-19
 
@@ -30,12 +30,12 @@ Call our team on : 02476 629197
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![Fun Pro UK](/../userfiles/file/FunPro/clear-back-ground-logo.png)
+![Fun Pro UK](/userfiles/file/FunPro/clear-back-ground-logo.png)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

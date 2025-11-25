@@ -30,6 +30,6 @@ Whichever of our great selection of products you decide to hire for your fundrai
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

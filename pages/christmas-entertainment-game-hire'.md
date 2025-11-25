@@ -23,11 +23,11 @@ Team Building Fun
 
 Freshers Game Hire
 
-[Exhibition Games](/category/exhibition-games/) [Christmas Game Hire](/category/christmas-game-hire/) [Corporate Entertainment](/category/corporate-entertainment/) [Fresher's Fair Games](/category/freshers-fair-games/)[Staff WellBeing Days](/category/staff-wellbeing-days/)[Grab A Grand](/category/grab-a-grand/) [Interactive Game Hire](/interactive-game-hire/) [Batak](category/batak/) [Branded Exhibition Games](/category/branded-exhibition-games/) [Fun Days](/category/fun-days/)[Company Award Ceremonies](/category/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/category/photo-booths-and-magic-mirrors/) [Weddings](/category/weddings/)[Christmas Grotto Hire](/category/christmas-grotto-hire/) [Arcade Games](/category/arcade-games/lights-out-game/) [Prize Games](/category/prize-games/) [Pub Games](/category/pub-games/) [Roll & Bowl](/category/roll-and-bowl/) [Fun Foods](/category/fun-foods/) [Fun Fair Stalls](/category/fun-fair-stalls/) [Circus Skills Workshop](/category/circus-skills-workshop/) [Christmas Games](/category/christmas-games/)
+[Exhibition Games](/category/exhibition-games/) [Christmas Game Hire](/category/christmas-game-hire/) [Corporate Entertainment](/category/corporate-entertainment/) [Fresher's Fair Games](/category/freshers-fair-games/)[Staff WellBeing Days](/category/staff-wellbeing-days/)[Grab A Grand](/category/grab-a-grand/) [Interactive Game Hire](/interactive-game-hire/) [Batak](/Controls/category/batak/) [Branded Exhibition Games](/category/branded-exhibition-games/) [Fun Days](/category/fun-days/)[Company Award Ceremonies](/category/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/category/photo-booths-and-magic-mirrors/) [Weddings](/category/weddings/)[Christmas Grotto Hire](/category/christmas-grotto-hire/) [Arcade Games](/category/arcade-games/lights-out-game/) [Prize Games](/category/prize-games/) [Pub Games](/category/pub-games/) [Roll & Bowl](/category/roll-and-bowl/) [Fun Foods](/category/fun-foods/) [Fun Fair Stalls](/category/fun-fair-stalls/) [Circus Skills Workshop](/category/circus-skills-workshop/) [Christmas Games](/category/christmas-games/)
 
 ## Cool Games To Hire For UK Events
 
-Fun Pro UK are specialists in corporate [Event game hire packages](christmas-entertainment-game-hire'/) and are here to bring the fun to all your events, delivering top quality games and a first-class service to all our clients.
+Fun Pro UK are specialists in corporate [Event game hire packages](/christmas-entertainment-game-hire'/) and are here to bring the fun to all your events, delivering top quality games and a first-class service to all our clients.
 
 Our huge range of corporate event games hire equipment and team building activities plus party entertainment will ensure that everyone has a great time and comes away with a positive feeling about your business and your brand. Choose from a selection of interactive games for events, arcade machine game hire, racing car simulators and fun day inflatables.
 
@@ -128,7 +128,7 @@ See some of the key areas we cover below and other delivery locations.
 ## CORPORATE GAME HIRE THROUGHOUT THE UK
 
 Whether you are rewarding staff with a [**Corporate Fun Day**](/category/fun-days/), a Team Building event, hosting  
-an Award Ceremony or recruiting customers at an [exhibition](/category/exhibition-games.html#BodyContent) [games](/category/exhibition-games.html#BodyContent), building relationships and  
+an Award Ceremony or recruiting customers at an [exhibition](/category/exhibition-games/#content) [games](/category/exhibition-games/#content), building relationships and  
 generating goodwill is one of the most important things your company can do.  
 We can supply everything you need, from indoor interactive team building activities for an  
 office fun day, to our spectacular outdoor [inflatable assault courses](/category/fun-days/21/inflatable-assault-courses/) to hire for your big summer party. We know what  
@@ -139,7 +139,7 @@ corporate brand.
 
 All Fun Pro UK's [**Interactive games**](/interactive-game-hire/) can be branded with custom graphics, wraps and  
 branding to match your company requirements and are ideal for brand activation, [exhibition  
-stand games](games-for-exhibition-stands-to-hire/) and [corporate event hire](/category/corporate-entertainment.html#BodyContent).
+stand games](/games-for-exhibition-stands-to-hire/) and [corporate event hire](/category/corporate-entertainment/#content).
 
 Read more
 
@@ -153,11 +153,11 @@ This is the perfect solution for when you prefer to keep your parties and events
 
 #### **Where Can Event Game Hire Be Celebrated?**
 
-Event game hire can be as simple as having it in your [back garden](outdoor-garden-game-hire/), whether for a children’s birthday party, or to celebrate an anniversary.
+Event game hire can be as simple as having it in your [back garden](/outdoor-garden-game-hire/), whether for a children’s birthday party, or to celebrate an anniversary.
 
 Wedding Games Hire
 
-You can also hire activities for parties that are held at local banquet hall rentals. [Games hire can be for weddings](hire-outdoor-games-for-weddings/) too.
+You can also hire activities for parties that are held at local banquet hall rentals. [Games hire can be for weddings](/hire-outdoor-games-for-weddings/) too.
 
 If you’re the manager of a local business, you can have a corporate fun day event at the office, or at a conference hall, or even a local park. Any location where people can gather can be the perfect spot to order your fun games.
 
@@ -171,29 +171,29 @@ Perhaps you’re hanging out with people you aren’t fond of. Either way, you�
 
 Or, you’ve booked an event but people don’t seem too interested in attending. This can be especially disappointing for young children. But having games hire for events adds some livelihood to your party. Instead of people being bored, they’ll be eager to try what games are available.
 
-If you’re running a [corporate event](/category/corporate-entertainment.html#BodyContent), you could even offer small prizes for the games winners. You’ll also get a lot more “yeses” on your RSVPs!
+If you’re running a [corporate event](/category/corporate-entertainment/#content), you could even offer small prizes for the games winners. You’ll also get a lot more “yeses” on your RSVPs!
 
 **What Cool Things to Hire for Parties UK Are Available?**
 
-Here at Fun Pro UK we offer a wide range of games to rent for children, teens, or adults. We have the games you’re eager to play, such as the [f](/category/interactive-game-hire/27/football-tables.html#BodyContent)[ootball tables for hire](/category/interactive-game-hire/27/football-tables.html#BodyContent), pluck a duck racing, or [gold cup horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing.html#BodyContent).
+Here at Fun Pro UK we offer a wide range of games to rent for children, teens, or adults. We have the games you’re eager to play, such as the [f](/category/interactive-game-hire/27/football-tables/#content)[ootball tables for hire](/category/interactive-game-hire/27/football-tables/#content), pluck a duck racing, or [gold cup horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing/#content).
 
-But we have some fun games you can’t get easily get anywhere else too. Have you ever played [Batak Pro?](/category/batak/batak-pro.html#BodyContent)
+But we have some fun games you can’t get easily get anywhere else too. Have you ever played [Batak Pro?](/category/batak/batak-pro/#content)
 
 This is a game that lights up while you try to quickly hit before the light moves elsewhere. It can measure your reaction times and help improve your coordination.
 
-Have you ever seen the [cash grabber machines](/category/grab-a-grand/36/ballnado-grabber.html#BodyContent) at carnivals? Well, now you can have the chance to hop inside the booth to grab as many bills as you can! Perhaps you can even toss a larger bill in there for an additional gift.
+Have you ever seen the [cash grabber machines](/category/grab-a-grand/36/ballnado-grabber/#content) at carnivals? Well, now you can have the chance to hop inside the booth to grab as many bills as you can! Perhaps you can even toss a larger bill in there for an additional gift.
 
 The [dance machine](/category/exhibition-games/dance-machine/) is a fun way to teach people to dance to the music. You follow the lit up squares on the floor mat to have lots of fun. There are also the familiar inflatables that your children enjoying playing on.
 
 **Can I Hire a Photo Booth?**
 
-Many people aren’t into games but you still want them to have fun too. A [photo booth](/category/photo-booths-and-magic-mirrors/magic-mirror.html#BodyContent) is just that, there’s no coordination involved.
+Many people aren’t into games but you still want them to have fun too. A [photo booth](/category/photo-booths-and-magic-mirrors/magic-mirror/#content) is just that, there’s no coordination involved.
 
 Your friends, family, or colleagues can hop into the booth to take fun photos with each other. When they’re done, they’ll get a small strip of photographs to take home as a reminder of the fun day they had.
 
 **What About Arcade Games?**
 
-[Arcade games for hire](/category/arcade-games/lights-out-game.html#BodyContent) are still popular, but there’s no need to bring the group to a local arcade when the arcade games can come to you. This is a fun way for people to try their favourites, or to try new games too.
+[Arcade games for hire](/category/arcade-games/lights-out-game/#content) are still popular, but there’s no need to bring the group to a local arcade when the arcade games can come to you. This is a fun way for people to try their favourites, or to try new games too.
 
 Our games focus on the [retro arcade games](/category/interactive-game-hire/retro-arcade-games/), because we know that people have their favourites. These games also offer the opportunity for two people to play, so your friend can also participate, and so you can have an additional competition. These games are suitable for ages six and up to adults and even seniors.
 
@@ -244,7 +244,7 @@ You’re certain to discover some old favourites, and even be inspired to rent s
 
 .
 
-Book your [branded games hire](/category/branded-exhibition-games.html#BodyContent) for events right now, so your next small or big party event will be a great success.
+Book your [branded games hire](/category/branded-exhibition-games/#content) for events right now, so your next small or big party event will be a great success.
 
 It’s time to celebrate!
 
@@ -253,13 +253,13 @@ Hire Games For Parties!
 Please, look around the website to see what we offer to find the perfect solution for your
 
 next event. We can support you with single hire items or create bespoke packages, any  
-questions just call the Fun Pro team on 0247 7220 701 or use the [contact form](contact-fun-pro-uk/) to send us an  
+questions just call the Fun Pro team on 0247 7220 701 or use the [contact form](/contact-fun-pro-uk/) to send us an  
 email and we will call you back.
 
 **CHECK OUT WHAT OUR CUSTOMERS ARE SAYING😊**
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

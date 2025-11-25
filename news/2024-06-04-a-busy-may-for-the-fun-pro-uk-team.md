@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 June 24 - A Busy May for the Fun Pro UK Team](a-busy-may-for-the-fun-pro-uk-team/)
+# [04 June 24 - A Busy May for the Fun Pro UK Team](/a-busy-may-for-the-fun-pro-uk-team/)
 
-May 2024 has been a bustling month for Fun Pro UK, filled with thrilling installations, vibrant branding, and unforgettable events. Our team has been all over the map, from the [NEC in Birmingham](/pages/nec-birmingham/) to the heart of London, bringing fun and engagement through our uniquely branded [interactive games](/products/). Here’s a roundup of what we’ve been up to this month!
+May 2024 has been a bustling month for Fun Pro UK, filled with thrilling installations, vibrant branding, and unforgettable events. Our team has been all over the map, from the [NEC in Birmingham](/pages/nec-birmingham/) to the heart of London, bringing fun and engagement through our uniquely branded [interactive games](/interactive-game-hire/). Here’s a roundup of what we’ve been up to this month!
 
 One of the highlights of the month was our participation in the Dentistry Shows at the NEC, Birmingham. Our [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/) game, cleverly rebranded as ‘Whack A Molar’ for our client Humm Group, was a standout attraction. The game’s vibrant custom branding, matching the distinctive colours of Humm Group, drew visitors and sparked conversations among present, past, and potential customers. This event was a fantastic showcase of how tailored branding on interactive games like Whack A Mole and the [Leaderboard](/category/interactive-game-hire/30/leader-board/) can enhance corporate presence at industry events.
 
@@ -20,7 +20,7 @@ Our team had a whirlwind day with multiple installs across the UK. At the Utilit
 
 Further, we brought fun to the ICC Wales for the ISBA2024 event with a Whack a Mole game and a Leaderboard, both featuring bespoke branding that beautifully represented the event’s theme. In London, we installed a branded [Pick n Mix sweet stand](/category/exhibition-games/42/pix-n-mix-hire/) and a [Ballnado game](/category/grab-a-grand/36/ballnado-grabber/), enhancing a showroom activation with a playful and engaging setup.
 
-Lastly, the [Crack the Code safe cracker game](/../crack-the-code-safe-cracker/) installation at the CWS Summit featured customised branding, making it a powerful promotional tool for our client.
+Lastly, the [Crack the Code safe cracker game](/crack-the-code-safe-cracker/) installation at the CWS Summit featured customised branding, making it a powerful promotional tool for our client.
 
 *If you like what you see and want to add uniquely engaging and branded games to your next event, don’t hesitate to speak with our team. Whether it's installing interactive games that reflect your brand or designing a fun space that captivates your audience, we are here to make your event a resounding success.*
 
@@ -30,6 +30,6 @@ Lastly, the [Crack the Code safe cracker game](/../crack-the-code-safe-cracker/)
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

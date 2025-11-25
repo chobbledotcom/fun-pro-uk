@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 May 25 - How to Find The Best Games for Your College Or School Summer Party](how-to-find-the-best-games-for-your-college-or-school-summer-party/)
+# [12 May 25 - How to Find The Best Games for Your College Or School Summer Party](/how-to-find-the-best-games-for-your-college-or-school-summer-party/)
 
-![](/../userfiles/mega-wire-game.jpg)
+![](/userfiles/mega-wire-game.jpg)
 
 With summer fast approaching, many schools and colleges are starting to think about different ways to mark the occasion, especially for those who are in their final year.  
   
@@ -74,9 +74,9 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 ### Outdoor game options:
 
-![](/../userfiles/twin-axe-throwing.jpg)
+![](/userfiles/twin-axe-throwing.jpg)
 
-*   [Inflatable obstacle courses](/category/fun-days/21/inflatable-assault-courses.html#BodyContent) and [bouncy castles](/category/corporate-entertainment/23/large-bouncy-castles/)
+*   [Inflatable obstacle courses](/category/fun-days/21/inflatable-assault-courses/#content) and [bouncy castles](/category/corporate-entertainment/23/large-bouncy-castles/)
     
 *   [Twin Axe Throwing](/category/all-products/98/twin-axe-throwing/)
     
@@ -88,7 +88,7 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 *   [Arcade Games](/category/arcade-games/lights-out-game/)
     
-*   [Reaction Games](category/batak/)
+*   [Reaction Games](/Controls/category/batak/)
     
 *   Table-based challenges ([football tables](/category/interactive-game-hire/27/football-tables/) and [air hockey](/category/arcade-games/60/air-hockey-table-hire/))
 
@@ -118,13 +118,13 @@ Digital natives respond brilliantly to technology-enhanced games:
     
 *   [Dance machines](/category/exhibition-games/dance-machine/) that get everyone moving to popular tunes
     
-*   [Batak](category/batak/) reaction games that test speed and coordination
+*   [Batak](/Controls/category/batak/) reaction games that test speed and coordination
 
 These modern options are particularly effective for secondary school leavers' events, where pupils expect something more challenging and energetic than traditional party games.
 
 ### Classic Inflatables and Obstacle Courses
 
-![](/../userfiles/inflatable-game.jpg)
+![](/userfiles/inflatable-game.jpg)
 
 Nothing says 'summer party' quite like bouncy castles and inflatable challenges:
 
@@ -230,6 +230,6 @@ Ready to start planning your school summer celebration? [Contact our friendly te
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [28 July 23 - It's never too early to think about Christmas parties!](its-never-too-early-to-think-about-christmas-parties/)
+# [28 July 23 - It's never too early to think about Christmas parties!](/its-never-too-early-to-think-about-christmas-parties/)
 
 The warmth of summer may still surround us, but at Fun Pro UK, we're already preparing for the most magical time of the year - Christmas! While it may seem early to talk about the holiday season, we believe in getting a head start to ensure that your Christmas party is nothing short of spectacular. With our wide range of exciting [Christmas party games for hire](/category/christmas-game-hire/), you can beat the December rush and secure the best entertainment for a celebration that will be talked about for years to come!
 
@@ -31,6 +31,6 @@ Unleash the festive fun with Fun Pro UK, and let's make this Christmas the most 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

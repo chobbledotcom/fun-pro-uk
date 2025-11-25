@@ -5,7 +5,7 @@ order: 50
 meta_title: "Best Popcorn Machine Cart Hire for All UK Events"
 meta_description: "Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Book today!"
 permalink: "/popcorn-machine-cart-hire/"
-categories: []
+categories: ["categories/fun-fair-stalls.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e"
@@ -17,7 +17,7 @@ gallery:
 
 ## Best Popcorn Machine Cart Hire for All UK Events!
 
-Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Perfect for [school fairs](/pages/school-fun-day-entertainment-hire/), [corporate events](/../../corporate-entertainment/), or [family fun days](/category/fun-days/), the cart adds a classic and crowd-pleasing feature to your event. The sight and aroma of fresh popcorn bring a nostalgic charm that’s hard to resist.
+Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Perfect for [school fairs](/pages/school-fun-day-entertainment-hire/), [corporate events](/corporate-entertainment/), or [family fun days](/fun-days/), the cart adds a classic and crowd-pleasing feature to your event. The sight and aroma of fresh popcorn bring a nostalgic charm that’s hard to resist.
 
 ## Hire a popcorn machine cart for your next event!
 
@@ -123,7 +123,7 @@ Yes! A professional and friendly team member will manage the popcorn cart for up
 
 ### Can the popcorn cart be branded with my company’s logo or event theme?
 
-Absolutely! We offer [bespoke branding options](/../branded-exhibition-games/) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees.
+Absolutely! We offer [bespoke branding options](/branded-exhibition-games/) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees.
 
 ### How long can the popcorn cart be hired for?
 
@@ -135,6 +135,6 @@ Yes, the popcorn machine cart hire can operate at both indoor and outdoor venues
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

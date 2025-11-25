@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 January 22 - January doesn't have to be Blue!!](january-doesnt-have-to-be-blue/)
+# [04 January 22 - January doesn't have to be Blue!!](/january-doesnt-have-to-be-blue/)
 
 **January doesn't have to be Blue!!**
 
@@ -30,7 +30,7 @@ January is a great time to gather your team together and ensure they feel valued
 
 Diaries and calendars won't be quite so manic during January. Take this opportunity to save the date and arrange when to have your staff office party. The turn out should be high as you will not be competing with other festive events such as School Plays, Christmas Shopping, Carol singing etc that your guests have already committed to attend.
 
-**NO TINSEL OR TURKEY ![](/../userfiles/img-20211217-wa0004.jpg)** 
+**NO TINSEL OR TURKEY ![](/userfiles/img-20211217-wa0004.jpg)** 
 
 Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/category/photo-booths-and-magic-mirrors/)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/category/arcade-games/lights-out-game/)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
 
@@ -40,6 +40,6 @@ So, go on - what are you waiting for? Get that date in the diary and arrange you
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

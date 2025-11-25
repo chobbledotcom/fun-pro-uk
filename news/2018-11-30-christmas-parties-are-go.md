@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 November 18 - Christmas parties are go!](christmas-parties-are-go/)
+# [30 November 18 - Christmas parties are go!](/christmas-parties-are-go/)
 
 Are you in the Christmas spirit yet? The Christmas party season has well and truly begun for Fun Pro UK. Our photo booth and selfie mirror prop boxes have been fully replenished and are overflowing with Christmas spirit, ready for the dozens of corporate and private events booked from Coventry to London.
 
@@ -24,6 +24,6 @@ What are you waiting for? book your Christmas party photo booth or selfie mirror
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

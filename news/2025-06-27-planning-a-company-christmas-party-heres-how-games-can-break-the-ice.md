@@ -8,13 +8,13 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [27 June 25 - Planning a Company Christmas Party? Here's How Games Can Break the Ice](planning-a-company-christmas-party-heres-how-games-can-break-the-ice/)
+# [27 June 25 - Planning a Company Christmas Party? Here's How Games Can Break the Ice](/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/)
 
-![](/../userfiles/catch-us-if-you-can-games.jpg)
+![](/userfiles/catch-us-if-you-can-games.jpg)
 
-The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/../theme/category/christmas-game-hire/) can transform your gathering from polite small talk into genuine fun and connection.
+The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/theme/category/christmas-game-hire/) can transform your gathering from polite small talk into genuine fun and connection.
 
-[Christmas game hire](/../theme/category/christmas-game-hire/) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
+[Christmas game hire](/theme/category/christmas-game-hire/) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
 
 ## Why Games Work So Well at Christmas Parties
 
@@ -36,7 +36,7 @@ Don't forget about partners and children if they're invited. Family-friendly opt
 
 ### Interactive Games
 
-![](/../userfiles/reindeer-roll-n-bowl.jpg)
+![](/userfiles/reindeer-roll-n-bowl.jpg)
 
 Modern interactive games are particularly popular at Christmas parties because they feel fresh and exciting. Racing simulators let colleagues compete in virtual motorsport, whilst dance machines get people moving and laughing together. These high-tech options often become the talking point of the entire evening.
 
@@ -134,6 +134,6 @@ Start planning your perfect Christmas party today; your team will thank you for 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

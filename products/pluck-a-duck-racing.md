@@ -5,7 +5,7 @@ order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/pluck-a-duck-racing/"
-categories: []
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/christmas-grotto-hire.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51c24e2eec324fae22c11f1eb8524720"
@@ -52,11 +52,11 @@ With its nostalgic charm and versatile applications, Pluck a Duck Racing is a mu
 
 **£1195**\+ vat**
 
-Delivered [](pluck-a-duck-racing.html#specification)and [](pluck-a-duck-racing.html#specification)installed on site by our trained team
+Delivered [](/pluck-a-duck-racing/)and [](/pluck-a-duck-racing/)installed on site by our trained team
 
-\*Delivery [](pluck-a-duck-racing.html#specification)Charges & Minimum order value may apply
+\*Delivery [](/pluck-a-duck-racing/)Charges & Minimum order value may apply
 
-[**Email:**](pluck-a-duck-racing.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/pluck-a-duck-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -99,7 +99,7 @@ Lift required
 *   [Top Doc](/top-doc-operation-game/)
 *   [Giant Buzz Wire](/giant-buzz-wire/)
 *   Lights Out
-*   [Batak Pro](/products/batak43/batak-pro/)
+*   [Batak Pro](/batak/batak-pro/)
 
 ## Pluck a Duck Game Hire
 
@@ -138,4 +138,4 @@ Whether you’re looking for a unique teambuilding opportunity, a new game to he
 
 Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/twin-racing-car-simulators/), lights out reaction games and [retro arcade machines](/retro-arcade-games/).
 
-From a single item to a whole [company fun day](/category/fun-days/) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/products/corporate-entertainment/) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
+From a single item to a whole [company fun day](/fun-days/) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/corporate-entertainment/) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.

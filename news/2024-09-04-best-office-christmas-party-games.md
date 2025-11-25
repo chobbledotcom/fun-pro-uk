@@ -8,11 +8,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 September 24 - Best Office Christmas Party Games](best-office-christmas-party-games/)
+# [04 September 24 - Best Office Christmas Party Games](/best-office-christmas-party-games/)
 
 Planning an event and want to ensure your guests have an amazing experience? Game rentals are a fantastic way to add fun and interactive elements to any gathering, whether it’s a corporate event, birthday party, convention, or community gathering.
 
-But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/products/corporate-entertainment/)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
+But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/corporate-entertainment/)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 
@@ -69,7 +69,7 @@ If your office has a larger team, consider setting up game stations with differe
     
 *   **Medium Teams (20-50 people):** For medium-sized teams, consider games that allow multiple participants, such as **Photo Booths** or **Trivia Competitions**.
     
-*   **Large Teams (50+ people):** For larger teams, it’s best to set up multiple game stations so that everyone can participate. Consider hiring a mix of physical activities like **[Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/)** and interactive options like **[Prize Wheels](/../prize-wheel/)** to keep your event lively and engaging.
+*   **Large Teams (50+ people):** For larger teams, it’s best to set up multiple game stations so that everyone can participate. Consider hiring a mix of physical activities like **[Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/)** and interactive options like **[Prize Wheels](/prize-wheel/)** to keep your event lively and engaging.
 
 ### How Far in Advance Should We Plan and Organise the Games?
 
@@ -95,7 +95,7 @@ Get in touch with Fun Pro UK today to start planning your perfect Christmas even
 The size of your team plays a crucial role in determining the right games for your office party. For smaller teams, consider games where everyone can participate together. Options like **[Prize Games](/category/prize-games/)** or a Christmas quiz for adults are great for encouraging everyone to join in. If your team is larger, create multiple game stations with choices as seen with **[Exhibition Games](/category/exhibition-games/)**, where small groups can take turns. This ensures everyone stays entertained and engaged throughout the event.
 
 **2\. Available Space**  
-The space available at your office or venue is another important factor. For smaller spaces, compact games like **[Prize Crane Arcade Grabber](/../prize-crane-arcade-grabber/), [retro arcade games](/category/interactive-game-hire/retro-arcade-games/)** or **[Corporate Entertainment](/category/corporate-entertainment/)** setups are ideal because they offer a lot of fun without taking up much room. Larger spaces allow for more active games, such as **[Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/)** or **[Roll And Bowl Donkey Derby](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)**, which encourage movement and energy.
+The space available at your office or venue is another important factor. For smaller spaces, compact games like **[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/), [retro arcade games](/category/interactive-game-hire/retro-arcade-games/)** or **[Corporate Entertainment](/category/corporate-entertainment/)** setups are ideal because they offer a lot of fun without taking up much room. Larger spaces allow for more active games, such as **[Electronic Basketball Hire](/category/photo-booths/ultimate-green-screen-photo-booth/)** or **[Roll And Bowl Donkey Derby](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)**, which encourage movement and energy.
 
 **3\. Company Culture**  
 The type of games you choose should reflect your company’s culture. A laid-back and creative workplace might appreciate more relaxed and communal games to bring out everyone’s fun side. More competitive teams might enjoy interactive challenges like **[Danger Zone Strike a Light Game Hire](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)** or **[Batak Pro](/category/batak/batak-pro/)**, where they can put their skills to the test.
@@ -125,6 +125,6 @@ Assign a few team members or event staff to act as facilitators for the games. T
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

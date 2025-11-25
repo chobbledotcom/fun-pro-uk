@@ -5,7 +5,7 @@ order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"
 meta_description: "Hire Our Ball Grabber Machine For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/ballnado-grabber/"
-categories: []
+categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "categories/all-products.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
@@ -123,10 +123,10 @@ Lift required
 
 ### **Popular Items:**
 
-*   [Leaded Board](/products/30/leader-board/)
-*   [Lights Out](/products/lights-out-game/)
-*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing/)
-*   [Crack the Code](/../../crack-the-code-safe-cracker/)
+*   [Leaded Board](/interactive-game-hire/30/leader-board/)
+*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+*   [Crack the Code](/crack-the-code-safe-cracker/)
 
 ## Hire a Ballnado Grabber Game for your next event!
 
@@ -134,9 +134,9 @@ The Ballnado grabber is a great way to draw crowds and create some buzz. Contest
 
 We attend a wide variety of events around the UK. You can get a Ballnado grabber hire for:
 
-[Corporate events](/products/corporate-entertainment/)
+[Corporate events](/corporate-entertainment/)
 
-[Exhibitions](/../../exhibition-games/)
+[Exhibitions](/exhibition-games/)
 
 Family fun days
 

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 December 24 - The Best Ideas For Team Bonding Activities In The Workplace](the-best-ideas-for-team-bonding-activities-in-the-workplace/)
+# [05 December 24 - The Best Ideas For Team Bonding Activities In The Workplace](/the-best-ideas-for-team-bonding-activities-in-the-workplace/)
 
 When you think about how stressful daily work can get, it's not difficult to understand why a team bonding activity is more essential than ever in the modern workplace.
 
@@ -122,7 +122,7 @@ Giant Connect 4 is a simple yet entertaining way to spark friendly competition a
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfBsLJFjRFEifApM4-CR__pWAJVQ-BAAu_qFzmRiulfgRUpTe-cBP1QZ0xwz6uPzm6J1z4c61hSqC4rIEzl77N9fHAXPuf86ZkS-4A2sW8NeoIvLJhbn7Fv0DN1In2hJjwzP5gTGQ?key=_SWbeNN363WhiAq53iB4LARQ)
 
-The [Prize Crane Arcade Grabber](/../prize-crane-arcade-grabber/) adds a touch of nostalgia and excitement in the office. This classic arcade game lets team members test their precision and patience as they try to snag prizes using the grabber claw.
+The [Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/) adds a touch of nostalgia and excitement in the office. This classic arcade game lets team members test their precision and patience as they try to snag prizes using the grabber claw.
 
 It’s a [fun, interactive way to engage employees](/2024-05-03/the-secret-to-team-building-interactive-games/) and create lighthearted moments. You can fill the machine with small prizes, branded goodies, or even snacks. Drop a few intriguing prizes into the box and let your team test their skill at picking up objects with the mechanical claw arm. Anything they can successfully take is theirs of course.
 
@@ -178,6 +178,6 @@ Fun Pro UK specialises in providing high-quality games and activities that bring
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [17 October 18 - Top things to think about when planning a corporate event](top-things-to-think-about-when-planning-a-corporate-event/)
+# [17 October 18 - Top things to think about when planning a corporate event](/top-things-to-think-about-when-planning-a-corporate-event/)
 
 When it comes to planning a [corporate event](/category/corporate-entertainment/) there is lots to think about from the venue to the theme, sending out invitations to staffing. But don't worry as we have put together a list of the important things to remember when planning an event.
 
@@ -48,6 +48,6 @@ However you organise your event, Fun Pro UK are specialists in event planning an
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

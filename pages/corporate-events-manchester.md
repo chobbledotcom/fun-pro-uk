@@ -21,15 +21,15 @@ The difference between working with corporate event specialists and general part
 
 We've worked with companies throughout Manchester and understand the local business culture. Manchester's workforce is diverse, spanning different industries, age groups, and backgrounds. This means your entertainment needs to work for everyone - from graduate trainees to senior executives, from tech startups to established manufacturing firms.
 
-Our [nationwide coverage](delivery-areas/) means we serve Manchester events with the same professional standards that have earned us repeat bookings from major companies like Rolls-Royce and KPMG. When you choose Fun Pro UK, you're choosing a family-run business that takes personal pride in every event's success.
+Our [nationwide coverage](/delivery-areas/) means we serve Manchester events with the same professional standards that have earned us repeat bookings from major companies like Rolls-Royce and KPMG. When you choose Fun Pro UK, you're choosing a family-run business that takes personal pride in every event's success.
 
 ## Types of Corporate Events We Support in Manchester
 
 ### Team Building Days and Staff Parties
 
-[Team building events](team-building-ideas/) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/interactive-game-hire/) create natural conversation starters that help colleagues see each other in a completely different light.
+[Team building events](/team-building-ideas/) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/interactive-game-hire/) create natural conversation starters that help colleagues see each other in a completely different light.
 
-Our professional-grade equipment includes reaction games like [Batak](category/batak/) units that test reflexes and coordination, encouraging friendly competition without putting anyone on the spot. [Racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) appeal to competitive spirits whilst remaining accessible to different skill levels. For teams that prefer collaborative activities, our [human table football](/category/fun-days/human-table-football/) creates an environment where success depends on working together.
+Our professional-grade equipment includes reaction games like [Batak](/Controls/category/batak/) units that test reflexes and coordination, encouraging friendly competition without putting anyone on the spot. [Racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) appeal to competitive spirits whilst remaining accessible to different skill levels. For teams that prefer collaborative activities, our [human table football](/category/fun-days/human-table-football/) creates an environment where success depends on working together.
 
 Weather considerations are particularly important for Manchester events. Our extensive range of indoor entertainment options means your team building day can proceed regardless of what the Manchester weather brings. From our [magic mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) stations and [photo booths](/search.aspx%3Fq=photo-booth/) that capture team moments to interactive [arcade games](/category/arcade-games/lights-out-game/) that spark conversations, we provide solutions that work in any venue.
 
@@ -39,7 +39,7 @@ Manchester hosts numerous conferences and trade shows throughout the year, from 
 
 Our [branded interactive games](/category/branded-exhibition-games/) can be customised with your company logos and messaging, turning entertainment into a powerful marketing tool. A racing simulator branded with your colours becomes more than just a game - it becomes a memorable brand experience that people associate with innovation and forward thinking.
 
-For [conferences](conference-idea/), consider how entertainment can energise delegates between sessions. Our reaction games and skill-based challenges provide mental breaks that actually help people return to presentations refreshed and more engaged. We've found that companies using interactive entertainment at conferences report higher attendee satisfaction and better networking outcomes.
+For [conferences](/conference-idea/), consider how entertainment can energise delegates between sessions. Our reaction games and skill-based challenges provide mental breaks that actually help people return to presentations refreshed and more engaged. We've found that companies using interactive entertainment at conferences report higher attendee satisfaction and better networking outcomes.
 
 Professional installation is crucial for conference and exhibition environments. Our team understands the tight timelines and specific requirements of Manchester's major venues. We coordinate with venue management to ensure smooth delivery and setup that doesn't disrupt your event schedule.
 
@@ -87,7 +87,7 @@ Weather contingency planning remains important even for indoor events, as it aff
 
 Our 15 years of experience as corporate event specialists means we understand the specific challenges Manchester businesses face. From coordinating with venue management teams to ensuring entertainment appeals to diverse professional audiences, our expertise helps your event succeed.
 
-[Nationwide coverage](delivery-areas/) from our central Coventry location provides Manchester businesses with reliable service backed by extensive experience. We've worked with companies throughout the UK and understand how Manchester's business culture compares to other major cities. This perspective helps us recommend entertainment solutions that resonate with your specific audience.
+[Nationwide coverage](/delivery-areas/) from our central Coventry location provides Manchester businesses with reliable service backed by extensive experience. We've worked with companies throughout the UK and understand how Manchester's business culture compares to other major cities. This perspective helps us recommend entertainment solutions that resonate with your specific audience.
 
 Professional-grade equipment and comprehensive service distinguish us from general entertainment hire companies. Our games undergo regular safety testing, our staff receive professional training, and our insurance coverage meets corporate requirements. When you choose Fun Pro UK, you're choosing a partner who takes responsibility for your event's success.
 
@@ -123,7 +123,7 @@ Space requirements vary by entertainment type. We provide detailed space require
 
 Our experience with Manchester venues extends beyond the obvious choices. We can suggest alternatives that might better suit your requirements or budget whilst maintaining professional standards. Our venue knowledge helps you make informed decisions about location and entertainment compatibility.
 
-Ready to start planning your Manchester corporate event? [Contact our friendly team](contact-fun-pro-uk/) to discuss your requirements and receive a tailored quote. We'll help you create memorable experiences that achieve your event objectives whilst taking the stress out of entertainment planning.
+Ready to start planning your Manchester corporate event? [Contact our friendly team](/contact-fun-pro-uk/) to discuss your requirements and receive a tailored quote. We'll help you create memorable experiences that achieve your event objectives whilst taking the stress out of entertainment planning.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -299,6 +299,6 @@ Ready to start planning your Manchester corporate event? [Contact our friendly t
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

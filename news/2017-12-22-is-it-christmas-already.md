@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [22 December 17 - Is it Christmas already](is-it-christmas-already/)
+# [22 December 17 - Is it Christmas already](/is-it-christmas-already/)
 
 Is It [Christmas](/category/christmas-game-hire/) already?
 
@@ -40,6 +40,6 @@ Merry Christmas and a happy New Year!
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

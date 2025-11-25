@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Indoor Game Hire for Corporate Events Across the UK
 
-Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](conference-idea/), [office celebration](/corporate-entertainment/), or [exhibition](/exhibition-games/) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](delivery-areas/) from our Coventry base.
+Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/conference-idea/), [office celebration](/corporate-entertainment/), or [exhibition](/exhibition-games/) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/) from our Coventry base.
 
 ## Why Choose Indoor Games for Your Event
 
@@ -31,7 +31,7 @@ Games like [Batak Lite](/category/all-products/batak-lite/) and [Batak Pro](/cat
 
 ### Racing simulators
 
-Our range of [racing car simulators](/category/interactive-game-hire/twin-racing-car-simulators/) create high visual impact, particularly effective for [brand activations](promotion-event-games/) and trade show stands where you need to attract attention.
+Our range of [racing car simulators](/category/interactive-game-hire/twin-racing-car-simulators/) create high visual impact, particularly effective for [brand activations](/promotion-event-games/) and trade show stands where you need to attract attention.
 
 ### Arcade and retro games
 
@@ -69,7 +69,7 @@ These events need games that get people mingling, especially when some team memb
 
 ### Wedding receptions
 
-These benefit from games that suit all ages if you've got families attending. Entertainment during natural lulls (between courses, whilst photos are being taken) keeps guests engaged. Photo opportunities are particularly valued at [weddings](hire-outdoor-games-for-weddings/) as people want to take memories home. [Photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) are a perfect addition to events like weddings to add some fun to photos.
+These benefit from games that suit all ages if you've got families attending. Entertainment during natural lulls (between courses, whilst photos are being taken) keeps guests engaged. Photo opportunities are particularly valued at [weddings](/hire-outdoor-games-for-weddings/) as people want to take memories home. [Photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) are a perfect addition to events like weddings to add some fun to photos.
 
 ## Important Planning Considerations
 
@@ -91,9 +91,9 @@ We work with venues of all types and can usually find suitable options regardles
 
 ## Our Professional Indoor Game Hire Service
 
-We [deliver across the UK](delivery-areas/) from our Coventry base, with all games regularly maintained and safety tested. Our service includes delivery, professional setup, operation where needed, and collection, so you won't be left figuring things out yourself. We carry full public liability insurance and provide risk assessments for venues that require them.
+We [deliver across the UK](/delivery-areas/) from our Coventry base, with all games regularly maintained and safety tested. Our service includes delivery, professional setup, operation where needed, and collection, so you won't be left figuring things out yourself. We carry full public liability insurance and provide risk assessments for venues that require them.
 
-For corporate events, [branding](/category/branded-exhibition-games/) is available on most of our games. [Contact us](contact-fun-pro-uk/) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](rolls-royce-christmas-fun/) and [KPMG](putting-kpmg-in-the-picture/), supporting events from small office gatherings to large-scale [conferences](putting-kpmg-in-the-picture/).
+For corporate events, [branding](/category/branded-exhibition-games/) is available on most of our games. [Contact us](/contact-fun-pro-uk/) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](/rolls-royce-christmas-fun/) and [KPMG](/putting-kpmg-in-the-picture/), supporting events from small office gatherings to large-scale [conferences](/putting-kpmg-in-the-picture/).
 
 Our approach is consultative rather than just taking orders. We ask questions about your venue, audience and objectives so we can recommend games that will actually achieve what you're hoping for.
 
@@ -119,7 +119,7 @@ Our service includes delivery, professional setup, operation if needed, and coll
 
 ## Ready to discuss your indoor game hire?
 
-[Get in touch](contact-fun-pro-uk/) with our friendly team for a free quote. We'll ask about your venue, guest numbers and event goals, then recommend options that work for your specific needs.
+[Get in touch](/contact-fun-pro-uk/) with our friendly team for a free quote. We'll ask about your venue, guest numbers and event goals, then recommend options that work for your specific needs.
 
 [Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
@@ -295,6 +295,6 @@ Our service includes delivery, professional setup, operation if needed, and coll
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

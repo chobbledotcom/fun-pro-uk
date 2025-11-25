@@ -8,7 +8,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [19 December 16 - Another great review!](another-great-review/)
+# [19 December 16 - Another great review!](/another-great-review/)
 
 Another fantastic review received from one of our many happy Perfectsnap  
 customers. Check out our other reviews by visiting our [testimonial page](/pages/testimonials/).
@@ -25,6 +25,6 @@ Have a great Christmas and New Year.
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

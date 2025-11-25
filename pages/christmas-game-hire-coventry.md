@@ -15,17 +15,17 @@ Make your Coventry festive celebrations memorable for all the right reasons with
 
 ## Nationwide Christmas Game Hire & Locations
 
-Based in the heart of Coventry, Fun Pro UK [delivers](delivery-areas/) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
+Based in the heart of Coventry, Fun Pro UK [delivers](/delivery-areas/) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
 
 Our dedicated team understands Coventry's unique event landscape perfectly, from prestigious venues like the CBS Arena to intimate corporate spaces and university facilities.
 
-Whether you're planning a company [Christmas party](/blog/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
+Whether you're planning a company [Christmas party](/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
 
 ## Coventry Christmas Game Hire Options
 
 Interactive Games:
 
-*   [Batak Lite](batak-lite-coventry/) & [Batak Pro](batak-pro-hire-coventry/)
+*   [Batak Lite](/batak-lite-coventry/) & [Batak Pro](/batak-pro-hire-coventry/)
     
 *   [Strike a Snowflake](/category/christmas-game-hire/91/strike-a-snow-flake/)
     
@@ -121,7 +121,7 @@ Join our extensive network of satisfied Midlands clients who depend on our exper
 
 ## Hire Christmas Games for Your Coventry Event
 
-Ready to create unforgettable Christmas memories in Coventry? [Contact](contact-fun-pro-uk/) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
+Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk/) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable celebration that guests will talk about throughout the year.
 
@@ -299,6 +299,6 @@ Transform your Christmas event into an engaging, memorable celebration that gues
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](/testimonials/#content)
 
 Happy customers we have worked along side

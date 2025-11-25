@@ -8,9 +8,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [25 April 23 - Boost Your Staff's Wellbeing with Fun Pro UK's Entertainment Hire](boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/)
+# [25 April 23 - Boost Your Staff's Wellbeing with Fun Pro UK's Entertainment Hire](/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/)
 
-As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/products/corporate-entertainment/) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
+As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/corporate-entertainment/) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
   
 Employee wellbeing is essential for the smooth running of any organisation. Happy employees mean lower staff turnover, higher productivity, and more motivated workers. We have plenty of cool ideas that could help you boost worker satisfaction and keep your business flowing as it should.
 
@@ -34,6 +34,6 @@ By hiring equipment from Fun Pro UK, companies from London, Manchester, Birmingh
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side

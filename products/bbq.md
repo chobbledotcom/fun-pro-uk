@@ -5,7 +5,7 @@ order: 50
 meta_title: "BBQ - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "BBQ is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/bbq/"
-categories: []
+categories: ["categories/fun-foods.md"]
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b3c4f60dec6dadee3115d6876bdd49a2"
@@ -38,6 +38,6 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## What our customers are saying…
 
-[Load More Reviews](/pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#content)
 
 Happy customers we have worked along side
