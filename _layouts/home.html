@@ -1,0 +1,124 @@
+---
+layout: base
+---
+
+{%- comment -%}
+  Fun Pro UK Homepage Layout
+  Uses data from _data/home_content.json
+{%- endcomment -%}
+
+{%- if home_content.banner.special_offer.message -%}
+  <div class="ticker">
+    <div class="ticker-content">
+      <strong>Latest FP News:</strong>
+      {{ home_content.banner.special_offer.message }}
+    </div>
+  </div>
+{%- endif -%}
+
+{%- if home_content.hero.service_cards.size > 0 -%}
+  <section class="service-cards">
+    {%- if home_content.main_content.highlight -%}
+      <h1 class="section-title">{{ home_content.main_content.highlight }}</h1>
+    {%- endif -%}
+    {%- if home_content.main_content.paragraphs.size > 0 -%}
+      <p class="section-intro">{{ home_content.main_content.paragraphs | first }}</p>
+    {%- endif -%}
+    <ul class="items service-cards-grid">
+      {%- for card in home_content.hero.service_cards -%}
+        <li class="item service-card">
+          <a href="{{ card.link }}" class="service-card-link">
+            {%- if card.image.webPath -%}
+              <img src="{{ card.image.webPath }}" alt="{{ card.title }}" loading="lazy" />
+            {%- elsif card.image -%}
+              <img src="{{ card.image }}" alt="{{ card.title }}" loading="lazy" />
+            {%- endif -%}
+            <span class="service-card-title">{{ card.title }}</span>
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+{%- endif -%}
+
+{{ content }}
+
+{%- comment -%} Popular Products Section {%- endcomment -%}
+{%- if home_content.popular_products.size > 0 -%}
+  <hr>
+  <section class="popular-products">
+    <h2>Some of our popular products</h2>
+    <ul class="items">
+      {%- for item in home_content.popular_products -%}
+        <li class="item">
+          <a href="{{ item.link }}">
+            {%- if item.image -%}
+              <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
+            {%- endif -%}
+            <span>{{ item.title }}</span>
+          </a>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+{%- endif -%}
+
+{%- comment -%} Why Choose Us Section {%- endcomment -%}
+{%- if home_content.why_choose_us.features.size > 0 -%}
+  <hr>
+  <section class="why-choose-us">
+    <h2>{{ home_content.why_choose_us.heading }}</h2>
+    <ul class="features-list">
+      {%- for feature in home_content.why_choose_us.features -%}
+        <li class="feature">
+          {%- if feature.icon -%}
+            <img src="{{ feature.icon }}" alt="" class="feature-icon" />
+          {%- endif -%}
+          <span>{{ feature.title }}</span>
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+{%- endif -%}
+
+{%- comment -%} Reviews Section {%- endcomment -%}
+{%- assign reviews = collections.reviews | sort: "data.date" | reverse -%}
+{%- if reviews.size > 0 -%}
+  <hr>
+  <section class="reviews-section">
+    <h2>{{ home_content.reviews.heading | default: "What our customers are saying..." }}</h2>
+    {%- assign featured_reviews = reviews | slice: 0, 6 -%}
+    {%- include "reviews-list.html", reviews: featured_reviews -%}
+    <p><a href="/reviews/">Load More Reviews</a></p>
+  </section>
+{%- endif -%}
+
+{%- comment -%} Client Logos Section {%- endcomment -%}
+{%- if home_content.client_logos.size > 0 -%}
+  <hr>
+  <section class="client-logos">
+    <h2>Happy customers we have worked alongside</h2>
+    <ul class="logo-gallery">
+      {%- for logo in home_content.client_logos -%}
+        <li>
+          <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Client logo' }}" loading="lazy" />
+        </li>
+      {%- endfor -%}
+    </ul>
+  </section>
+{%- endif -%}
+
+{%- comment -%} Contact Form Section {%- endcomment -%}
+<hr>
+<section class="contact-section" id="contact">
+  <h2>Contact Fun Pro UK Today</h2>
+  {%- include "contact-form.html" -%}
+</section>
+
+{%- comment -%} Categories List (fallback to template default if needed) {%- endcomment -%}
+{%- assign categories = collections.categories | getFeaturedCategories -%}
+{%- if homepage.show_products and categories.size > 0 -%}
+  <hr>
+  {%- render_snippet "homepage-categories-header", "<h3>Browse by Category</h3>" -%}
+  {%- include "categories-list.html" -%}
+{%- endif -%}

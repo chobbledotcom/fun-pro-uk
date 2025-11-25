@@ -29,15 +29,20 @@ const convertHomeContent = async () => {
       },
       main_content: {
         paragraphs: [],
-        highlight: ""
+        highlight: "",
+        body_content: "",
+        lower_content: ""
       },
+      popular_products: [],
       why_choose_us: {
         heading: "Why Choose Us?",
         features: []
       },
       reviews: {
-        heading: "Our Reviews"
-      }
+        heading: "What our customers are saying..."
+      },
+      client_logos: [],
+      delivery_areas: []
     };
 
     // Extract ticker/news banner message
@@ -49,16 +54,25 @@ const convertHomeContent = async () => {
     }
 
     // Extract banner carousel images (Fun Pro UK uses data-lazy-load attributes)
-    const bannerPattern = /<div class="item[^"]*">\s*<a[^>]*href="([^"]+)"[^>]*><img[^>]*data-lazy-load="([^"]+)"[^>]*alt="([^"]*)"[^>]*>/g;
+    const bannerPattern = /<div class="item[^"]*">\s*<a[^>]*href="([^"]+)"[^>]*><img[^>]*data-lazy-load="([^"]+)"[^>]*alt="([^"]*)"[^>]*data-public-image="([^"]+)"/g;
     let bannerMatch;
     let bannerIndex = 0;
     while ((bannerMatch = bannerPattern.exec(html)) !== null) {
-      const imageFilename = bannerMatch[2];
-      // Try to download from old site's userfiles/banners directory
-      const imageUrl = `https://www.funprouk.co.uk/userfiles/banners/${imageFilename}`;
+      const link = bannerMatch[1];
+      const filename = bannerMatch[2];
+      const alt = bannerMatch[3];
+      const publicImage = bannerMatch[4];
+      
+      // Download from Cloudinary using public image ID
+      const imageUrl = `https://bouncycastlenetwork-res.cloudinary.com/image/upload/${publicImage}`;
       const localImagePath = await downloadImage(imageUrl, 'home', `banner-${bannerIndex}`);
-      if (localImagePath) {
-        homeContent.banner.images.push(localImagePath);
+      
+      if (localImagePath && localImagePath.webPath) {
+        homeContent.banner.images.push({
+          image: localImagePath.webPath,
+          link: link.replace('.html', '/').replace('#BodyContent', ''),
+          alt: alt
+        });
       }
       bannerIndex++;
     }
@@ -88,7 +102,7 @@ const convertHomeContent = async () => {
         title,
         description: `${title} for corporate events, exhibitions, and parties across the UK.`,
         link: newLink + '/',
-        image: localImagePath || imageUrl
+        image: localImagePath || { webPath: imageUrl }
       });
       cardIndex++;
     }
@@ -109,6 +123,111 @@ const convertHomeContent = async () => {
       homeContent.main_content.paragraphs.push(descMatch[1]);
     }
 
+    // Extract main body content (BodyContent div)
+    const bodyContentMatch = html.match(/<div id="BodyContent"[^>]*>([\s\S]*?)<\/div>\s*<script>/);
+    if (bodyContentMatch) {
+      let bodyHtml = bodyContentMatch[1];
+      // Clean up the HTML - extract just the text content
+      const bodyText = bodyHtml
+        .replace(/<script[\s\S]*?<\/script>/g, '')
+        .replace(/<style[\s\S]*?<\/style>/g, '')
+        .replace(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/g, '\n\n## $1\n\n')
+        .replace(/<p[^>]*>([\s\S]*?)<\/p>/g, '\n$1\n')
+        .replace(/<br\s*\/?>/g, '\n')
+        .replace(/<[^>]+>/g, '')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&rsquo;/g, "'")
+        .replace(/&ldquo;/g, '"')
+        .replace(/&rdquo;/g, '"')
+        .replace(/&amp;/g, '&')
+        .replace(/\n\s*\n\s*\n/g, '\n\n')
+        .trim();
+      homeContent.main_content.body_content = bodyText;
+    }
+
+    // Extract lower content section (HomeLowerContentPanel)
+    const lowerContentMatch = html.match(/<div id="ctl00_HomeLowerContentPanel"[^>]*>([\s\S]*?)<\/div>\s*<div id="ctl00_PhotoGallery"/);
+    if (lowerContentMatch) {
+      let lowerHtml = lowerContentMatch[1];
+      // Clean up the HTML
+      const lowerText = lowerHtml
+        .replace(/<details>[\s\S]*?<\/details>/g, '') // Remove details sections for now
+        .replace(/<script[\s\S]*?<\/script>/g, '')
+        .replace(/<style[\s\S]*?<\/style>/g, '')
+        .replace(/<iframe[\s\S]*?<\/iframe>/g, '') // Remove video embeds
+        .replace(/<h[23][^>]*>([\s\S]*?)<\/h[23]>/g, '\n\n## $1\n\n')
+        .replace(/<p[^>]*>([\s\S]*?)<\/p>/g, '\n$1\n')
+        .replace(/<br\s*\/?>/g, '\n')
+        .replace(/<a[^>]*href="([^"]*)"[^>]*>([^<]*)<\/a>/g, '[$2]($1)')
+        .replace(/<[^>]+>/g, '')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&rsquo;/g, "'")
+        .replace(/&ldquo;/g, '"')
+        .replace(/&rdquo;/g, '"')
+        .replace(/&amp;/g, '&')
+        .replace(/\n\s*\n\s*\n/g, '\n\n')
+        .trim();
+      homeContent.main_content.lower_content = lowerText;
+    }
+
+    // Extract popular products (HomeAssets section)
+    const productsPattern = /<div class="castlePanel">[\s\S]*?<img[^>]*alt="([^"]*)"[^>]*data-public-image="([^"]+)"[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*class="castleLink">([^<]+)<\/a>/g;
+    let productMatch;
+    let productIndex = 0;
+    while ((productMatch = productsPattern.exec(html)) !== null && productIndex < 8) {
+      const alt = productMatch[1];
+      const publicImage = productMatch[2];
+      const link = productMatch[3];
+      const title = productMatch[4].trim();
+      
+      // Download product image
+      const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      const imageUrl = `https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_300/${publicImage}`;
+      const localImagePath = await downloadImage(imageUrl, 'home', `popular-${slug}`);
+      
+      // Convert link
+      let newLink = link
+        .replace('.html', '/')
+        .replace('#BodyContent', '')
+        .replace(/^category\/[^/]+\/\d+\//, '/products/');
+      
+      homeContent.popular_products.push({
+        title,
+        image: localImagePath ? localImagePath.webPath : '',
+        link: newLink
+      });
+      productIndex++;
+    }
+
+    // Extract client logos from photo gallery
+    const photoGalleryPattern = /<div class="photo-gallery__slide">[\s\S]*?<img[^>]*data-public-image="([^"]+)"[^>]*>/g;
+    let logoMatch;
+    let logoIndex = 0;
+    while ((logoMatch = photoGalleryPattern.exec(html)) !== null && logoIndex < 20) {
+      const publicImage = logoMatch[1];
+      const imageUrl = `https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_200/${publicImage}`;
+      const localImagePath = await downloadImage(imageUrl, 'home', `client-logo-${logoIndex}`);
+      
+      if (localImagePath && localImagePath.webPath) {
+        homeContent.client_logos.push({
+          image: localImagePath.webPath,
+          alt: 'Client logo'
+        });
+      }
+      logoIndex++;
+    }
+
+    // Extract delivery areas from the content
+    const areasMatch = html.match(/Areas we cover near you![\s\S]*?<\/p>([\s\S]*?)<p[^>]*>.*?You will find/i);
+    if (areasMatch) {
+      const areasText = areasMatch[1]
+        .replace(/<[^>]+>/g, '\n')
+        .split('\n')
+        .map(s => s.trim())
+        .filter(s => s.length > 0 && s !== '&nbsp;');
+      homeContent.delivery_areas = areasText;
+    }
+
     // Add Why Choose Us features based on common Fun Pro UK services
     homeContent.why_choose_us.features = [
       { title: "Nationwide Delivery", icon: "/assets/icons/delivery.svg" },
@@ -120,11 +239,15 @@ const convertHomeContent = async () => {
     // Write the JSON file
     fs.writeFileSync(outputPath, JSON.stringify(homeContent, null, 2));
 
-    console.log('✅ Homepage content extracted successfully');
+    console.log('');
+    console.log('Homepage content extracted successfully');
     console.log(`   - ${homeContent.banner.images.length} banner images`);
     console.log(`   - Ticker message: ${homeContent.banner.special_offer.message ? 'Yes' : 'No'}`);
     console.log(`   - ${homeContent.hero.service_cards.length} service cards`);
     console.log(`   - ${homeContent.main_content.paragraphs.length} content paragraphs`);
+    console.log(`   - ${homeContent.popular_products.length} popular products`);
+    console.log(`   - ${homeContent.client_logos.length} client logos`);
+    console.log(`   - ${homeContent.delivery_areas.length} delivery areas`);
     console.log(`   - ${homeContent.why_choose_us.features.length} features`);
 
     return {
@@ -133,7 +256,7 @@ const convertHomeContent = async () => {
       total: 1
     };
   } catch (error) {
-    console.error('❌ Error converting homepage content:', error.message);
+    console.error('Error converting homepage content:', error.message);
     return {
       successful: 0,
       failed: 1,
