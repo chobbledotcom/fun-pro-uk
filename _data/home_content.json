@@ -13,7 +13,7 @@
         "description": "Games For Exhibitions for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/exhibition-games/",
         "image": {
-          "webPath": "/images/home/home-service-games-for-exhibitions-83c0c47135d5e174af51d3acc4e79487.83c0c47135d5e174af51d3acc4e79487",
+          "webPath": "/images/home/service-games-for-exhibitions-83c0c.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -24,7 +24,7 @@
         "description": "Awards Ceremonies for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/company-award-ceremonies/",
         "image": {
-          "webPath": "/images/home/home-service-awards-ceremonies-e5dfc2db19770738bded1935dff7718c.e5dfc2db19770738bded1935dff7718c",
+          "webPath": "/images/home/service-awards-ceremonies-e5dfc.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -35,7 +35,7 @@
         "description": "Family Fun Day Entertainment Hire for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/fun-days/",
         "image": {
-          "webPath": "/images/home/home-service-family-fun-day-entertainment-hire-e98fb1efbfc13c5499b5d2f85f3a60d6.e98fb1efbfc13c5499b5d2f85f3a60d6",
+          "webPath": "/images/home/service-family-fun-day-entertainment-hire-e98fb.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -46,7 +46,7 @@
         "description": "Wedding Entertainment for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/weddings/",
         "image": {
-          "webPath": "/images/home/home-service-wedding-entertainment-21d7ff67dd3176ffc68677a3ae93410f.21d7ff67dd3176ffc68677a3ae93410f",
+          "webPath": "/images/home/service-wedding-entertainment-21d7f.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -57,7 +57,7 @@
         "description": "Christmas Entertainment Game Hire for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/christmas-game-hire/",
         "image": {
-          "webPath": "/images/home/home-service-christmas-entertainment-game-hire-9f79589aef314c37fdbb72dc90946444.9f79589aef314c37fdbb72dc90946444",
+          "webPath": "/images/home/service-christmas-entertainment-game-hire-9f795.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -68,7 +68,7 @@
         "description": "Interactive Game Hire for corporate events, exhibitions, and parties across the UK.",
         "link": "/interactive-game-hire/",
         "image": {
-          "webPath": "/images/home/home-service-interactive-game-hire-c88290c2baf10fe120f4a1671093b188.c88290c2baf10fe120f4a1671093b188",
+          "webPath": "/images/home/service-interactive-game-hire-c8829.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -79,7 +79,7 @@
         "description": "Team Building Fun for corporate events, exhibitions, and parties across the UK.",
         "link": "/category/fun-days/",
         "image": {
-          "webPath": "/images/home/home-service-team-building-fun-b2b8e18dc4f01fe84bd516b786979a45.b2b8e18dc4f01fe84bd516b786979a45",
+          "webPath": "/images/home/service-team-building-fun-b2b8e.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -90,7 +90,7 @@
         "description": "Freshers Game Hire for corporate events, exhibitions, and parties across the UK.",
         "link": "/interactive-game-hire/",
         "image": {
-          "webPath": "/images/home/home-service-freshers-game-hire-02ce890e84b0e438e182b64d0402dafd.02ce890e84b0e438e182b64d0402dafd",
+          "webPath": "/images/home/service-freshers-game-hire-02ce8.webp",
           "wasCached": true,
           "failed": false,
           "skipped": false
@@ -109,42 +109,42 @@
   "popular_products": [
     {
       "title": "Ballnado Grabber",
-      "image": "/images/home/home-popular-ballnado-grabber-e716f128981563935e04f83f2545361a.e716f128981563935e04f83f2545361a",
+      "image": "/images/home/popular-ballnado-grabber-e716f.webp",
       "link": "/products/ballnado-grabber/"
     },
     {
       "title": "Batak Lite",
-      "image": "/images/home/home-popular-batak-lite-6d72377ab784f1e8d39aff60f0d7535b.6d72377ab784f1e8d39aff60f0d7535b",
+      "image": "/images/home/popular-batak-lite-6d723.webp",
       "link": "/products/batak-lite/"
     },
     {
       "title": "Batak Pro",
-      "image": "/images/home/home-popular-batak-pro-392c6fd198e3a7ab4ec2f9335e7e63ce.392c6fd198e3a7ab4ec2f9335e7e63ce",
+      "image": "/images/home/popular-batak-pro-392c6.webp",
       "link": "/products/batak-pro/"
     },
     {
       "title": "CASH GRABBER MACHINE HIRE",
-      "image": "/images/home/home-popular-cash-grabber-machine-hire-34086f96f18ea22e3773cdb7395e477b.34086f96f18ea22e3773cdb7395e477b",
+      "image": "/images/home/popular-cash-grabber-machine-hire-34086.webp",
       "link": "/products/grab-a-grand/"
     },
     {
       "title": "Crack The Code safe cracker",
-      "image": "/images/home/home-popular-crack-the-code-safe-cracker-b4542e8532d60775cd7a9739ed418501.b4542e8532d60775cd7a9739ed418501",
+      "image": "/images/home/popular-crack-the-code-safe-cracker-b4542.webp",
       "link": "crack-the-code-safe-cracker/"
     },
     {
       "title": "Danger-zone-strike-a-light-game-hire",
-      "image": "/images/home/home-popular-danger-zone-strike-a-light-game-hire-41ec2fd815fbfa8e94c3999aa06b10e8.41ec2fd815fbfa8e94c3999aa06b10e8",
+      "image": "/images/home/popular-danger-zone-strike-a-light-game-hire-41ec2.webp",
       "link": "/products/danger-zone-strike-a-light-game-hire/"
     },
     {
       "title": "FOOTBALL TABLES",
-      "image": "/images/home/home-popular-football-tables-7a43b62af3d98c68f48c9fc65d853332.7a43b62af3d98c68f48c9fc65d853332",
+      "image": "/images/home/popular-football-tables-7a43b.webp",
       "link": "/products/football-tables/"
     },
     {
       "title": "GOLD CUP HORSE RACING",
-      "image": "/images/home/home-popular-gold-cup-horse-racing-debd64a55340ff13e44c7b1d479b348b.debd64a55340ff13e44c7b1d479b348b",
+      "image": "/images/home/popular-gold-cup-horse-racing-debd6.webp",
       "link": "/products/gold-cup-horse-racing/"
     }
   ],
@@ -174,83 +174,83 @@
   },
   "client_logos": [
     {
-      "image": "/images/home/home-client-logo-0-54913528ee2e574dc0de811b5258720a.54913528ee2e574dc0de811b5258720a",
+      "image": "/images/home/client-logo-0-54913.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-1-767b8e85f2d712f0d0c7de1ac3b43c36.767b8e85f2d712f0d0c7de1ac3b43c36",
+      "image": "/images/home/client-logo-1-767b8.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-2-5573459d880b73f2624618ac6433a1eb.5573459d880b73f2624618ac6433a1eb",
+      "image": "/images/home/client-logo-2-55734.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-3-eea4c3ba72231505e522cd2d9ee94181.eea4c3ba72231505e522cd2d9ee94181",
+      "image": "/images/home/client-logo-3-eea4c.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-4-648c1cc4faabed73aadd6c73f648b2dc.648c1cc4faabed73aadd6c73f648b2dc",
+      "image": "/images/home/client-logo-4-648c1.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-5-a94d1fb69a87aa99a475e30d278c4665.a94d1fb69a87aa99a475e30d278c4665",
+      "image": "/images/home/client-logo-5-a94d1.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-6-90f407c9c90f2d0c1c84265d446ec4e5.90f407c9c90f2d0c1c84265d446ec4e5",
+      "image": "/images/home/client-logo-6-90f40.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-7-65f0342d259fb752c37a1feff2ce617f.65f0342d259fb752c37a1feff2ce617f",
+      "image": "/images/home/client-logo-7-65f03.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-8-4bf1ec20344995a1eeec8cadf8cd0ed2.4bf1ec20344995a1eeec8cadf8cd0ed2",
+      "image": "/images/home/client-logo-8-4bf1e.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-9-62d21c80812f4cbf3e07ec1a6c9f6ab8.62d21c80812f4cbf3e07ec1a6c9f6ab8",
+      "image": "/images/home/client-logo-9-62d21.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-10-5d683a087999901fab345baa2665e033.5d683a087999901fab345baa2665e033",
+      "image": "/images/home/client-logo-10-5d683.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-11-c696ae30af0f7b0309b72799a30cd4b0.c696ae30af0f7b0309b72799a30cd4b0",
+      "image": "/images/home/client-logo-11-c696a.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-12-087c5fa382d495ade8259862bf0e2069.087c5fa382d495ade8259862bf0e2069",
+      "image": "/images/home/client-logo-12-087c5.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-13-c0f8972f08b87fdcc2a4270201dd0ce3.c0f8972f08b87fdcc2a4270201dd0ce3",
+      "image": "/images/home/client-logo-13-c0f89.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-14-e33648cf17f0cdcbc14c30f61dbe2b7f.e33648cf17f0cdcbc14c30f61dbe2b7f",
+      "image": "/images/home/client-logo-14-e3364.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-15-8b0baecdc9a8778eaf6fc276fd00bedc.8b0baecdc9a8778eaf6fc276fd00bedc",
+      "image": "/images/home/client-logo-15-8b0ba.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-16-72f3745a30e9eedd3d09449428a55ce5.72f3745a30e9eedd3d09449428a55ce5",
+      "image": "/images/home/client-logo-16-72f37.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-17-1fd3d9c9f6f100c6bac8b7cd391cae8a.1fd3d9c9f6f100c6bac8b7cd391cae8a",
+      "image": "/images/home/client-logo-17-1fd3d.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-18-74a94e468a80b6e668e26030f7f83e46.74a94e468a80b6e668e26030f7f83e46",
+      "image": "/images/home/client-logo-18-74a94.webp",
       "alt": "Client logo"
     },
     {
-      "image": "/images/home/home-client-logo-19-9989e26fe0f2fd616ae887d5623b67c8.9989e26fe0f2fd616ae887d5623b67c8",
+      "image": "/images/home/client-logo-19-9989e.webp",
       "alt": "Client logo"
     }
   ],
