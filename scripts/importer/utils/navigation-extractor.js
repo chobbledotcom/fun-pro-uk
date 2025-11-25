@@ -238,6 +238,22 @@ const getNavigationForSlug = (navigation, slug) => {
   const parentItem = navigation.items.find(item => item.key === parentKey);
   const parentOrder = parentItem ? parentItem.order : 1;
 
+  // Check if this child's text matches the parent key (case-insensitive)
+  // If so, this item should BE the dropdown parent, not a child of itself
+  const isDropdownParent = child.text.toLowerCase().trim() === parentKey.toLowerCase().trim();
+
+  if (isDropdownParent) {
+    return {
+      parent: null, // No parent - this IS the dropdown parent
+      parentOrder: null,
+      order: parentOrder, // Use the parent's order in the top-level nav
+      text: child.text,
+      type: child.type,
+      isTopLevel: true,
+      isDropdownParent: true,
+    };
+  }
+
   return {
     parent: parentKey,
     parentOrder,

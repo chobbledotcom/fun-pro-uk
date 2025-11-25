@@ -87,6 +87,29 @@ We offer a comprehensive range of interactive games and entertainment hire for c
 };
 
 /**
+ * Generate event-type.md - dropdown parent for Event Type navigation
+ * This page serves as the parent for all event-type related pages
+ */
+const generateEventTypePage = () => {
+  return `---
+meta_title: "Event Type | Corporate Entertainment & Game Hire | Fun Pro UK"
+meta_description: "Browse our event-specific game hire services for conferences, brand activations, Christmas parties, corporate events, and more across the UK."
+permalink: "/pages/event-type/"
+layout: page
+eleventyNavigation:
+  key: "Event Type"
+  order: 3
+---
+
+# Event Type
+
+We provide specialist game hire and entertainment services tailored to your specific event type. Whether you're planning a conference, brand activation, Christmas party, or corporate event, we have the perfect entertainment solutions.
+
+Browse our event-specific services below to find the perfect entertainment for your occasion.
+`;
+};
+
+/**
  * Generate service-areas.md with short intro (areas listed by template)
  */
 const generateServiceAreasPage = () => {
@@ -204,6 +227,7 @@ const convertSpecialPages = async () => {
   const pages = [
     { name: 'home.md', generator: generateHomePage },
     { name: 'products.md', generator: generateProductsPage },
+    { name: 'event-type.md', generator: generateEventTypePage },
     { name: 'service-areas.md', generator: generateServiceAreasPage },
     { name: 'not-found.md', generator: generateNotFoundPage },
     { name: 'thank-you.md', generator: generateThankYouPage },
@@ -238,6 +262,7 @@ module.exports = {
   convertSpecialPages,
   generateHomePage,
   generateProductsPage,
+  generateEventTypePage,
   generateServiceAreasPage,
   generateNotFoundPage,
   generateThankYouPage,
