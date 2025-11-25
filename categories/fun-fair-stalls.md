@@ -16,34 +16,6 @@ Create the atmosphere of a traditional fairground at your event with a selection
 
 Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
-[Candy Floss Cart Hire](/fun-foods/92/candy-floss-cart-hire/)
-
-[More Details](/fun-foods/92/candy-floss-cart-hire/)
-
-[Coconut Shy Stall Hire](/fun-fair-stalls/96/coconut-shy-stall-hire/)
-
-[More Details](/fun-fair-stalls/96/coconut-shy-stall-hire/)
-
-[Hook A Duck](/fun-fair-stalls/103/hook-a-duck/)
-
-[More Details](/fun-fair-stalls/103/hook-a-duck/)
-
-[Play Your Cards Right Stall Hire](/fun-fair-stalls/97/play-your-cards-right-stall-hire/)
-
-[More Details](/fun-fair-stalls/97/play-your-cards-right-stall-hire/)
-
-[Popcorn Machine Cart Hire](/fun-fair-stalls/93/popcorn-machine-cart-hire/)
-
-[More Details](/fun-fair-stalls/93/popcorn-machine-cart-hire/)
-
-[Target Ring Toss Hire](/fun-fair-stalls/95/target-ring-toss-hire/)
-
-[More Details](/fun-fair-stalls/95/target-ring-toss-hire/)
-
-[Twin Axe throwing](/all-products/98/twin-axe-throwing/)
-
-[More Details](/all-products/98/twin-axe-throwing/)
-
 ## Hire Fun Fair Stalls for Your Next Event!
 
 Remember those fairground games you enjoyed as a child? Now you can recreate that fun at your next event with Fun Pro UK's fair stalls. We take care of setting everything up, making it easy to include them in any type of event. They are perfect for:

@@ -19,66 +19,6 @@ Nothing says fun like the festive season, whether it's your company Christmas pa
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.
 
-[CHRISTMAS GROTTO 1](/christmas-grotto-hire/christmas-grotto-1/)
-
-[More Details](/christmas-grotto-hire/christmas-grotto-1/)
-
-[CHRISTMAS GROTTO 2](/christmas-grotto-hire/christmas-grotto-2/)
-
-[More Details](/christmas-grotto-hire/christmas-grotto-2/)
-
-[VR Race Car Simulator](/corporate-entertainment/38/vr-race-car-simulator/)
-
-[More Details](/corporate-entertainment/38/vr-race-car-simulator/)
-
-[GREEN SCREEN PHOTO BOOTHS](/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
-
-[More Details](/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
-
-[MAGIC MIRROR](/photo-booths-and-magic-mirrors/magic-mirror/)
-
-[More Details](/photo-booths-and-magic-mirrors/magic-mirror/)
-
-[RETRO ARCADE GAMES](/interactive-game-hire/retro-arcade-games/)
-
-[More Details](/interactive-game-hire/retro-arcade-games/)
-
-[ELECTRONIC BASKET BALL HIRE](/photo-booths/ultimate-green-screen-photo-booth/)
-
-[More Details](/photo-booths/ultimate-green-screen-photo-booth/)
-
-[GIANT BUZZ WIRE](/interactive-game-hire/giant-buzz-wire/)
-
-[More Details](/interactive-game-hire/giant-buzz-wire/)
-
-[PLUCK A DUCK RACING](/interactive-game-hire/pluck-a-duck-racing/)
-
-[More Details](/interactive-game-hire/pluck-a-duck-racing/)
-
-[Racing Car Simulators](/interactive-game-hire/twin-racing-car-simulators/)
-
-[More Details](/interactive-game-hire/twin-racing-car-simulators/)
-
-[GOLD CUP HORSE RACING](/interactive-game-hire/29/gold-cup-horse-racing/)
-
-[More Details](/interactive-game-hire/29/gold-cup-horse-racing/)
-
-[FOOTBALL TABLES](/interactive-game-hire/27/football-tables/)
-
-[More Details](/interactive-game-hire/27/football-tables/)
-
-[TOP DOC OPERATION GAME](/interactive-game-hire/top-doc-operation-game/)
-
-[More Details](/interactive-game-hire/top-doc-operation-game/)
-
-[CASH GRABBER MACHINE HIRE](/interactive-game-hire/3/grab-a-grand/)
-
-[More Details](/interactive-game-hire/3/grab-a-grand/)
-
-[CASINO TABLE HIRE](/christmas-game-hire/casino-table-hire/)
-
-[More Details](/christmas-game-hire/casino-table-hire/)
-
 **Classic Christmas snaps  
 **No staff Christmas party is complete without the snap happy fun of a [photo booth](/photo-booths-and-magic-mirrors/). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
 
