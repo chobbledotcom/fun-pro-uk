@@ -3,6 +3,10 @@ meta_title: "Case Studies | Corporate Event Clients | Fun Pro UK"
 meta_description: "Want to see what happens when you choose Fun Pro UK for your corporate entertainment? Read our case studies - from trade shows to office parties."
 permalink: "/pages/case-studies/"
 layout: page
+eleventyNavigation:
+  key: "Case Studies"
+  parent: "About Us"
+  order: 10
 ---
 
 # **Case Studies**

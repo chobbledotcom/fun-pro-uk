@@ -4,6 +4,10 @@ meta_title: "Arcade Game Hire | Interactive Entertainment | Events UK-Wide"
 meta_description: "Fun Pro UK offers premium arcade game hire nationwide. Based in Coventry, we provide games for events across the UK. Reserve now for your next occasion!"
 permalink: "/categories/arcade-games/"
 featured: false
+eleventyNavigation:
+  key: "Arcade Games"
+  parent: "Products"
+  order: 1
 ---
 
 # Trusted Arcade Game Hire in the UK

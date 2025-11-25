@@ -3,6 +3,10 @@ meta_title: "Brand Activation & Promotional Game Hire in London"
 meta_description: "Host engaging London corporate events with premium promotional game rentals to boost engagement, capture leads, and create unforgettable experiences."
 permalink: "/pages/brand-promotional-event-hire-coventry/"
 layout: page
+eleventyNavigation:
+  key: "Brand Activation & Promotional Game Hire in Coventry"
+  parent: "Event Type"
+  order: 3
 ---
 
 # Create Buzz At Your Next Event With Our Brand Activation Game Hire in Coventry

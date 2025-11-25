@@ -4,6 +4,10 @@ meta_title: "Grab a Grand Hire | Grabber Game | Ballnado | Cash Cube | UK"
 meta_description: "The Grab a Grand machine, also called the Cash Grabber Cube, is a high-octane exhibition game that will grab attention at any event! Book online today."
 permalink: "/categories/grab-a-grand/"
 featured: false
+eleventyNavigation:
+  key: "Grab A Grand"
+  parent: "Products"
+  order: 4
 ---
 
 # Grab A Grand Machines & Cash Grabbers

@@ -3,6 +3,10 @@ meta_title: "About Fun Pro UK | The Corporate Event Specialists"
 meta_description: "Find out why to choose Fun Pro UK for the entertainment and equipment at your corporate event. Reliable, affordable, dependable - top-quality all round!"
 permalink: "/pages/about-corporate-entertainment-hire/"
 layout: page
+eleventyNavigation:
+  key: "About Us"
+  parent: "About Us"
+  order: 1
 ---
 
 # **The team to trust for nationwide**corporate fun hire**

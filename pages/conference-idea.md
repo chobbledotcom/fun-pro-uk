@@ -3,6 +3,10 @@ meta_title: "Conference Idea | Party & Event Game & Entertainment Hire UK"
 meta_description: "Keep spirits up during conferences and similar events with Fun Pro UK! We have a stunning array of quality party supplies and products available. Book now!"
 permalink: "/pages/conference-idea/"
 layout: page
+eleventyNavigation:
+  key: "Conference ideas"
+  parent: "Event Type"
+  order: 1
 ---
 
 # Conference Entertainment Ideas

@@ -3,6 +3,10 @@ meta_title: "Freshers Game Hire London | Interactive Entertainment"
 meta_description: "Expert freshers entertainment hire London. Interactive games for university welcome weeks. Professional setup across all London boroughs. Get a quote."
 permalink: "/pages/freshers-entertainment-london/"
 layout: page
+eleventyNavigation:
+  key: "Freshers Entertainment London"
+  parent: "Event Type"
+  order: 12
 ---
 
 # Freshers Game Hire London: Interactive Entertainment for University Welcome Week

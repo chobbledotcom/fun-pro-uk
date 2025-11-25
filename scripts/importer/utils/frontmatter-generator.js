@@ -1,19 +1,15 @@
 const { PRODUCT_ORDER } = require('../constants');
 
 /**
- * Configuration for page-specific layouts, navigation, and metadata
+ * Configuration for page-specific layouts and overrides
+ * Navigation is now dynamically extracted from the old site
  */
 const PAGE_CONFIG = {
-  'about-us': {
-    nav: {key: 'About', order: 2}
-  },
   'contact': {
     layout: 'contact.html',
-    nav: {key: 'Contact', order: 99}
   },
   'reviews': {
     layout: 'reviews.html',
-    nav: {key: 'Reviews', order: 98}
   }
 };
 
@@ -22,9 +18,10 @@ const PAGE_CONFIG = {
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Page slug
  * @param {string} pageHeading - The H1 heading from page content
+ * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
  * @returns {string} Frontmatter YAML
  */
-const generatePageFrontmatter = (metadata, slug, pageHeading = null) => {
+const generatePageFrontmatter = (metadata, slug, pageHeading = null, navInfo = null) => {
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || 'page';
 
@@ -38,16 +35,29 @@ meta_description: "${metadata.meta_description || ''}"
 permalink: "${permalink}"
 layout: ${layout}`;
 
-  // Add navigation if configured
-  if (pageConfig.nav) {
+  // Add navigation if extracted from old site
+  if (navInfo) {
+    // Use the link text from navigation as the key if available, otherwise use title or slug
+    const navKey = navInfo.text || metadata.title || slug.replace(/-/g, ' ');
     frontmatter += `
 eleventyNavigation:
-  key: ${pageConfig.nav.key}
-  order: ${pageConfig.nav.order}`;
+  key: "${escapeYamlString(navKey)}"
+  parent: "${escapeYamlString(navInfo.parent)}"
+  order: ${navInfo.order}`;
   }
 
   frontmatter += '\n---';
   return frontmatter;
+};
+
+/**
+ * Escape special characters for YAML strings
+ * @param {string} str - String to escape
+ * @returns {string} Escaped string
+ */
+const escapeYamlString = (str) => {
+  if (!str) return '';
+  return str.replace(/"/g, '\\"');
 };
 
 /**
@@ -128,9 +138,10 @@ features: []`;
  * @param {string} slug - Category slug
  * @param {string} categoryHeading - The H1 heading from category content
  * @param {number} categoryIndex - Zero-based index of this category
+ * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
  * @returns {string} Frontmatter YAML
  */
-const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0) => {
+const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null) => {
   const config = require('../config');
 
   let frontmatter = `---
@@ -140,12 +151,20 @@ meta_description: "${metadata.meta_description || ''}"
 permalink: "/categories/${slug}/"
 featured: false`;
 
-  // Add navigation if categoriesInNavigation option is enabled
-  if (config.options.categoriesInNavigation) {
+  // Add navigation if extracted from old site navigation
+  if (navInfo) {
+    const navKey = navInfo.text || metadata.title || categoryHeading || '';
+    frontmatter += `
+eleventyNavigation:
+  key: "${escapeYamlString(navKey)}"
+  parent: "${escapeYamlString(navInfo.parent)}"
+  order: ${navInfo.order}`;
+  } else if (config.options.categoriesInNavigation) {
+    // Fallback: Add navigation if categoriesInNavigation option is enabled (legacy behavior)
     const navOrder = 20 + categoryIndex;
     frontmatter += `
 eleventyNavigation:
-  key: ${metadata.title || categoryHeading || ''}
+  key: "${escapeYamlString(metadata.title || categoryHeading || '')}"
   order: ${navOrder}`;
   }
 

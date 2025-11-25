@@ -3,6 +3,10 @@ meta_title: "Team Building Activities For Hire | Team Building Equipment Hire"
 meta_description: "Hire our team building activities and equipment for your corporate events! UK Wide-delivery. Call us today at 07769979676 to book your spot now!"
 permalink: "/pages/team-building-ideas/"
 layout: page
+eleventyNavigation:
+  key: "Team Building Activities"
+  parent: "How We Help"
+  order: 4
 ---
 
 # Team Building Ideas and Equipment Hire

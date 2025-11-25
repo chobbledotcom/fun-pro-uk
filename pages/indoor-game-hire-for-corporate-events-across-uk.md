@@ -3,6 +3,10 @@ meta_title: "Indoor Game Hire | Corporate Events & Parties | Fun Pro UK"
 meta_description: "Professional indoor game hire for corporate events and exhibitions across the UK. Weather-proof entertainment with delivery, setup and expert guidance included."
 permalink: "/pages/indoor-game-hire-for-corporate-events-across-uk/"
 layout: page
+eleventyNavigation:
+  key: "Indoor Game Hire for Corporate Events Across the UK"
+  parent: "Event Type"
+  order: 13
 ---
 
 # Indoor Game Hire for Corporate Events Across the UK
