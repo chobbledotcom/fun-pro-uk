@@ -7,6 +7,34 @@ meta_description: "Hire your own pub games for your next big event with Fun Pro 
 permalink: "/products/pub-games/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=catch-it-reaction-ring-hire-14.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roller-bowler.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-dart-board.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=air-hockey-table-hire-9.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=crazy-golf.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pix-n-mix-hire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=scalextric-slot-car-racing-15.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=the-vault-16.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=whack-a-mole-game-hire-21.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-basket-ball-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=football-tables-13.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-cup-horse-racing-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=plinko-game-hire-14.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-crane-arcade-grabber-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-19.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=table-tennis-hire-1.png&cs=1200"
 ---
 
 # Pub Games Hire in Birmingham, London, Manchester, Leeds & the UK

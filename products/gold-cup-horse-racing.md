@@ -7,6 +7,13 @@ meta_description: "Book the Gold Cup horse race simulator for your events, parti
 permalink: "/products/gold-cup-horse-racing/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/debd64a55340ff13e44c7b1d479b348b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e5036794bdca95bdf417053a72b20510"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f61d5745ebf0c10e2141e6a27ba5bb08"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cdd262461c6e7b56cb37aa2c1f7c0f25"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1db4db97c843cec3cb5bb4dc11195a1a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f0f13d02b59bf579c6ed081c4d9416f6"
 ---
 
 # GOLD CUP HORSE RACING

@@ -7,6 +7,10 @@ meta_description: "This inflatable dash &amp; grab game is great competitive fun
 permalink: "/products/dash-and-grab-hungry-hippo-inflatable-game/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d7d7b90edd8e1ff5ad004bde669eee2"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2e22b07d204cc194cd9dd3cdfa4129f"
 ---
 
 # Dash & Grab / Hungry Hippo Inflatable Game

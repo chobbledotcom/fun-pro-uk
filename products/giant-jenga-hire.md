@@ -7,6 +7,8 @@ meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK
 permalink: "/products/giant-jenga-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3"
 ---
 
 # Giant Jenga Hire

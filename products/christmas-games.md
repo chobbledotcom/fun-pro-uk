@@ -7,6 +7,20 @@ meta_description: "Christmas Games equipment experts from Fun Pro UK will help o
 permalink: "/products/christmas-games/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=8-lane-reindeer-racing.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-roller-bowler.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-cane-megawire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-batak-pro.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=whack-an-elf-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-prize-crane.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=strike-a-snow-flake-7.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-cane-snatch-it-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=reindeer-nosenado-christmas-ballnado-hire-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-reindeer-racing-game-hire-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=scalextric-slot-car-racing-15.jpg&cs=1200"
 ---
 
 # Christmas Games

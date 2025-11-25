@@ -7,6 +7,16 @@ meta_description: "Add excitement to your event with shuffleboard hire from Fun 
 permalink: "/products/shuffle-board/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/25bd4f8dba23c188523ba1ee9b50cf8b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/909ad0c948225cd713d67c14eb0ef9e1"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647a3396fda9507d6e78b0c355434476"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1ed1ff742b7e88a53d0839f3e665e67"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6694967a855d82596976743598ac8425"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/177704f4c5ca847df82e658b82ffc926"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e3e3c12e459b9d22ac7551efaf6bbe70"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26339feadbd714699309beea753efe57"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026e38cde243bde47c078e8f3ebd99fc"
 ---
 
 # Shuffleboard Hire

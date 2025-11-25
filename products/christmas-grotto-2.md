@@ -7,6 +7,12 @@ meta_description: "Santas Grotto Hire | Christmas Entertainment | Fun Pro UK is 
 permalink: "/products/christmas-grotto-2/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-15x17x123ft-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-15x17x123ft-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2-1.jpg&cs=1200"
 ---
 
 # CHRISTMAS GROTTO 2

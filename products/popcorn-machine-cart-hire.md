@@ -7,6 +7,8 @@ meta_description: "Looking to make your event unforgettable? Our popcorn machine
 permalink: "/products/popcorn-machine-cart-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e"
 ---
 
 # Popcorn Machine Cart Hire

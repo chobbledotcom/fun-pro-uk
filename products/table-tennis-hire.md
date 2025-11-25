@@ -7,6 +7,8 @@ meta_description: "Table tennis hire for events in Birmingham, London, Mancheste
 permalink: "/products/table-tennis-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
 ---
 
 # Table Tennis Hire

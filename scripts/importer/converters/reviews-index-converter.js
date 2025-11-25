@@ -30,8 +30,8 @@ const convertReviewsIndex = async () => {
 
   try {
     const success = await convertSingle(
-      'reviews.php.html',
-      config.OLD_SITE_PATH,
+      'testimonials.html',
+      path.join(config.OLD_SITE_PATH, 'pages'),
       outputDir
     );
     return { successful: success ? 1 : 0, failed: success ? 0 : 1, total: 1 };

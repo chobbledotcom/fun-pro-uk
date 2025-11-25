@@ -7,6 +7,22 @@ meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhi
 permalink: "/products/giant-buzz-wire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b2d52254f3bc09f9f47b72fd57f8a05"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/189ced519053bba3e532a684277872aa"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/610f3ff9aa440a995029be231cc86001"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a2f7f15725093e594b995b1eafa3ab3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c119043a93dacd2f80d8fefca07f5208"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1cc940d989d65659e1c995d220112492"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff72025f69ce63d1969c2eaf6a28acb4"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/592f8323e876e1e043807eea7329c645"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6596f8653f664026a8bbabd603ec29f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6232b4f6b29e80ae3c30922dc84e42c2"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/aa2f97bf51f6797b1d062fb3e08173dc"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e65360344ee1adf5bfe5dca37a3e890a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/22d11eb25db64d7786724efeff6147a3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8cc4bae778ba19a7414fcd30b95be4aa"
 ---
 
 # GIANT BUZZ WIRE

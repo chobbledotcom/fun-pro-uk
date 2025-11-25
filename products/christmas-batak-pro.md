@@ -7,6 +7,16 @@ meta_description: "Christmas Batak Pro is one of the wide range of products avai
 permalink: "/products/christmas-batak-pro/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86b188d5d7a0f05ec94d4e1792e60fc5"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d0f445bce6b6ede276a907c961b364fd"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff7753451eb4226d58e3ca64a88eda09"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cea4af4bbcbe90ddacf2b025637cb4b4"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3978c14a7970d3d483f8fdc14b1c5644"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5f4acf3ac5fcb9e16da7657cbbb6f80a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cf15caa4c0fcebf4a7bfddc886041ed9"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c1874ccd55999ce3c98f6e844459f7d7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ad94d78d0415483d74811f294d4c6ab"
 ---
 
 # Christmas Batak Pro

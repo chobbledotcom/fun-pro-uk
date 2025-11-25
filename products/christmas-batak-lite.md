@@ -7,6 +7,19 @@ meta_description: "Christmas Batak Lite is one of the wide range of products ava
 permalink: "/products/christmas-batak-lite/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5f47186d92dc25f1c56eeb5a20f46a83"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a014a817b2dc5dfd07fb7751a537128a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a898ca3f8f9e2ae0f0e8d4a15fea108"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c81ee25ca7aed85732b10ca7fa0afe83"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/769de188b4d90d7d241985db61aab3df"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/01784563ac5950a46d86e57406da6bf8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b75d2bd6abee4151fc1067e519c284ab"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b5972ee60c4fa364b5aeba83e744a666"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/55e170942bc150d1496ab73ea1125e38"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b620a0cc734f97acbc338378a3d5f580"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f89666d5ba3ab8f73f619f0942417051"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a15ae37dadccb9acea9726796a6f403"
 ---
 
 # Christmas Batak Lite

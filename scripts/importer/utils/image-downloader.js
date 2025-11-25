@@ -1,4 +1,5 @@
 const path = require('path');
+const fs = require('fs');
 const { ensureDir, downloadFile } = require('./filesystem');
 
 /**
@@ -57,35 +58,50 @@ const generateImageFilename = (url, contentType, slug) => {
 };
 
 /**
+ * Resolve the local file path for an image URL
+ * @param {string} imageUrl - Image URL
+ * @param {string} contentType - Type of content (products, pages, categories)
+ * @param {string} slug - Content slug
+ * @param {string} filename - Optional custom filename
+ * @returns {{localPath: string, webPath: string, sourceUrl: string}} Resolved paths
+ */
+const resolveImagePath = (imageUrl, contentType, slug, filename = null) => {
+  const funProResult = convertFunProImageUrl(imageUrl);
+  const sourceUrl = removeCloudinaryTransformations(funProResult.sourceUrl || imageUrl);
+  const finalFilename = filename || funProResult.filename || generateImageFilename(sourceUrl, contentType, slug);
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
+  const localPath = path.join(imagesDir, finalFilename);
+  const webPath = `/images/${contentType}/${finalFilename}`;
+  
+  return { localPath, webPath, sourceUrl, imagesDir };
+};
+
+/**
  * Download a single image and return local path
  * @param {string} imageUrl - Image URL
  * @param {string} contentType - Type of content (products, pages, categories)
  * @param {string} slug - Content slug
  * @param {string} filename - Optional custom filename
- * @returns {Promise<string>} Local image path
+ * @returns {Promise<{webPath: string, wasCached: boolean, failed: boolean}>} Result with path and status
  */
 const downloadImage = async (imageUrl, contentType, slug, filename = null) => {
-  if (!imageUrl) return '';
+  if (!imageUrl) {
+    return { webPath: '', wasCached: false, failed: false, skipped: true };
+  }
 
-  // Convert Fun Pro UK URLs to direct image URLs
-  const funProResult = convertFunProImageUrl(imageUrl);
-  const sourceUrl = removeCloudinaryTransformations(funProResult.sourceUrl || imageUrl);
-
-  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
+  const { localPath, webPath, sourceUrl, imagesDir } = resolveImagePath(imageUrl, contentType, slug, filename);
   ensureDir(imagesDir);
 
-  const finalFilename = filename || funProResult.filename || generateImageFilename(sourceUrl, contentType, slug);
-  const localPath = path.join(imagesDir, finalFilename);
+  // Check if file already exists (cached)
+  if (fs.existsSync(localPath)) {
+    return { webPath, wasCached: true, failed: false, skipped: false };
+  }
 
   try {
     await downloadFile(sourceUrl, localPath);
-    return `/images/${contentType}/${finalFilename}`;
+    return { webPath, wasCached: false, failed: false, skipped: false };
   } catch (error) {
-    // Don't log warning for expected failures (like old ASP.NET dynamic URLs)
-    if (!imageUrl.includes('thumbs.ashx')) {
-      console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
-    }
-    return '';
+    return { webPath: '', wasCached: false, failed: true, skipped: false };
   }
 };
 
@@ -98,11 +114,12 @@ const downloadImage = async (imageUrl, contentType, slug, filename = null) => {
 const downloadProductImage = async (imageUrl, slug) => {
   const funProResult = convertFunProImageUrl(imageUrl);
   const filename = funProResult.filename || `${slug}.webp`;
-  return downloadImage(imageUrl, 'products', slug, filename);
+  const result = await downloadImage(imageUrl, 'products', slug, filename);
+  return result.webPath;
 };
 
 /**
- * Download all product gallery images
+ * Download all product gallery images with live progress
  * @param {string[]} imageUrls - Array of image URLs
  * @param {string} slug - Product slug
  * @returns {Promise<string[]>} Array of local image paths
@@ -110,20 +127,31 @@ const downloadProductImage = async (imageUrl, slug) => {
 const downloadProductGallery = async (imageUrls, slug) => {
   if (!imageUrls || imageUrls.length === 0) return [];
 
-  if (imageUrls.length > 0) {
-    process.stdout.write(` (${imageUrls.length} images)`);
-  }
-
+  const total = imageUrls.length;
+  
+  // Show initial count
+  process.stdout.write(` (${total} imgs:`);
+  
   const localPaths = [];
+  
   for (let i = 0; i < imageUrls.length; i++) {
     const imageUrl = imageUrls[i];
     const funProResult = convertFunProImageUrl(imageUrl);
     const filename = funProResult.filename || `${slug}-${i}.webp`;
-    const localPath = await downloadImage(imageUrl, 'products', slug, filename);
-    if (localPath) {
-      localPaths.push(localPath);
+    
+    const result = await downloadImage(imageUrl, 'products', slug, filename);
+    
+    // Show progress indicator: . for cached, + for downloaded, x for failed
+    if (result.webPath) {
+      process.stdout.write(result.wasCached ? '.' : '+');
+      localPaths.push(result.webPath);
+    } else {
+      process.stdout.write('x');
     }
   }
+  
+  process.stdout.write(')');
+  
   return localPaths;
 };
 
@@ -139,25 +167,39 @@ const downloadEmbeddedImages = async (content, contentType, slug) => {
   const imageRegex = /!\[([^\]]*)\]\((https?:\/\/[^)]+?)(?:\s+"[^"]*")?\)/g;
   const matches = [...content.matchAll(imageRegex)];
 
+  // Filter out images without alt text upfront
+  const validMatches = matches.filter(match => match[1] && match[1].trim() !== '');
+  
   let updatedContent = content;
-
+  
+  // Remove images without alt text
   for (const match of matches) {
+    if (!match[1] || match[1].trim() === '') {
+      updatedContent = updatedContent.replace(match[0], '');
+    }
+  }
+
+  if (validMatches.length === 0) return updatedContent;
+  
+  // Show progress for embedded images
+  process.stdout.write(` [embed:`);
+
+  for (const match of validMatches) {
     const fullMatch = match[0];
     const altText = match[1];
     const imageUrl = match[2];
 
-    // Skip images without alt text (e.g., decorative icons)
-    if (!altText || altText.trim() === '') {
-      updatedContent = updatedContent.replace(fullMatch, '');
-      continue;
-    }
+    const result = await downloadImage(imageUrl, contentType, slug);
 
-    const webPath = await downloadImage(imageUrl, contentType, slug);
-
-    if (webPath) {
-      updatedContent = updatedContent.replace(fullMatch, `![${altText}](${webPath})`);
+    if (result.webPath) {
+      process.stdout.write(result.wasCached ? '.' : '+');
+      updatedContent = updatedContent.replace(fullMatch, `![${altText}](${result.webPath})`);
+    } else {
+      process.stdout.write('x');
     }
   }
+  
+  process.stdout.write(']');
 
   return updatedContent;
 };

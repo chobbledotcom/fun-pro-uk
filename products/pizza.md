@@ -7,6 +7,10 @@ meta_description: "Pizza is one of the wide range of products available from Fun
 permalink: "/products/pizza/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pizza.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pizza-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pizza-2.png&cs=1200"
 ---
 
 # Pizza

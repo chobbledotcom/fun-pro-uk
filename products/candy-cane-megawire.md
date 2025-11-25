@@ -7,6 +7,10 @@ meta_description: "Bring excitement to your Christmas event with the Candy Cane 
 permalink: "/products/candy-cane-megawire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f096c93ee28d41efc8924054b509e132"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ff47108f9f6cba1761245a88adb80f9"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60907d36ad461e2a97cd01452cb74c91"
 ---
 
 # Candy Cane Megawire

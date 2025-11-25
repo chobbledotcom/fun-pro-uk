@@ -9,6 +9,7 @@ const { convertCategories } = require('./category-converter');
 const { convertHomeContent } = require('./home-converter');
 const { convertBlogIndex } = require('./blog-index-converter');
 const { convertReviewsIndex } = require('./reviews-index-converter');
+const { convertReviews } = require('./reviews-converter');
 const { convertSpecialPages } = require('./special-pages-converter');
 const { convertSiteConfig } = require('./config-converter');
 
@@ -20,6 +21,7 @@ module.exports = {
   convertHomeContent,
   convertBlogIndex,
   convertReviewsIndex,
+  convertReviews,
   convertSpecialPages,
   convertSiteConfig
 };

@@ -7,6 +7,30 @@ meta_description: "Roll up and win a prize! From spin the wheel to grab a grand 
 permalink: "/products/prize-games/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=8-lane-roll-and-bowl.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-35.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=beat-the-buzzer-6.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=cash-grabber-machine-hire-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=corn-hole.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=crack-the-code-safe-cracker-35.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-bar-challenge-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-cup-horse-racing-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=leader-broad.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=mega-wire-branded-game-hire-stand-alone-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=plinko-game-hire-14.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-crane-arcade-grabber-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-19.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-game-hire-29.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=the-vault-16.jpg&cs=1200"
 ---
 
 # Prize Games Hire UK

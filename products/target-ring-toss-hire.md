@@ -7,6 +7,8 @@ meta_description: "Hire a Target Ring Toss game for your next event! Perfect for
 permalink: "/products/target-ring-toss-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
 ---
 
 # Target Ring Toss Hire

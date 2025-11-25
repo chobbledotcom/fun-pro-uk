@@ -7,6 +7,8 @@ meta_description: "Bring festive fun to your Christmas party with the Candy Cane
 permalink: "/products/candy-cane-snatch-it/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
 ---
 
 # Candy Cane Snatch it

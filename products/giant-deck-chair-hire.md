@@ -7,6 +7,8 @@ meta_description: "Giant Deck Chair Hire – Fun Props For Outdoor Events is one
 permalink: "/products/giant-deck-chair-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
 ---
 
 # Giant Deck Chair Hire

@@ -7,6 +7,8 @@ meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK 
 permalink: "/products/virtual-pinball/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
 ---
 
 # Virtual Pinball

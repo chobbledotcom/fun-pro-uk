@@ -7,6 +7,8 @@ meta_description: "Hook A Duck is one of the wide range of products available fr
 permalink: "/products/hook-a-duck/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a"
 ---
 
 # Hook A Duck

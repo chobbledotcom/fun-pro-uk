@@ -7,6 +7,10 @@ meta_description: "Ice Cream Van Hire – Sweet Treats For Every Occasion is one
 permalink: "/products/ice-cream-van-hire/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire-2.jpg&cs=1200"
 ---
 
 # Ice Cream van Hire

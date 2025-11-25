@@ -18,8 +18,7 @@ const { convertSingle, convertBatch } = createConverter({
     }
     return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex);
   },
-  beforeWrite: async (content, extracted, slug) =>
-    await downloadEmbeddedImages(content, 'categories', slug)
+  beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now
 });
 
 /**

@@ -7,6 +7,14 @@ meta_description: "Create unforgettable events with Fun Pro UK’s fun fair stal
 permalink: "/products/fun-fair-stalls/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=coconut-shy-stall-hire-5.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=hook-a-duck-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=play-your-cards-right-stall-hire-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=popcorn-machine-cart-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=target-ring-toss-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-axe-throwing-1.jpg&cs=1200"
 ---
 
 # Best Fun Fair Stalls in the UK!

@@ -7,6 +7,22 @@ meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Da
 permalink: "/products/christmas-grotto-hire/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=vr-race-car-simulator.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=green-screen-photo-booths-30.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=magic-mirror-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-basket-ball-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pluck-a-duck-racing-8.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=gold-cup-horse-racing-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=football-tables-13.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=top-doc-operation-game-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=cash-grabber-machine-hire-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
 ---
 
 # **UK wide Christmas grotto hire**

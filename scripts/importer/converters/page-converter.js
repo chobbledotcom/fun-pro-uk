@@ -14,8 +14,7 @@ const { convertSingle, convertBatch } = createConverter({
   },
   frontmatterGenerator: (metadata, slug, extracted) =>
     generatePageFrontmatter(metadata, slug, extracted.pageHeading),
-  beforeWrite: async (content, extracted, slug) =>
-    await downloadEmbeddedImages(content, 'pages', slug)
+  beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now
 });
 
 /**

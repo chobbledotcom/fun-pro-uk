@@ -7,6 +7,38 @@ meta_description: "Searching for a photo booth hire near you for parties, exhibi
 permalink: "/products/photo-booths-and-magic-mirrors/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=classic-booths.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=green-screen-photo-booths-30.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bespoke-photo-booth-designs-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=unique-christmas-photo-booth-styles-1.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=shuffleboard-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=crazy-golf.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=magic-mirror-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=red-carpet-and-4-gold-stanchions.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=roll-and-bowl-donkey-derby-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-crane-arcade-grabber-11.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pix-n-mix-hire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=retro-arcade-games-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-lite-27.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=mega-wire-branded-game-hire-stand-alone-4.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=danger-zone-strike-a-light-game-hire-12.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=batak-pro-16.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=twin-racing-car-simulators-2.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=the-vault-16.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=rodeo-bull-15.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=electronic-basket-ball-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=football-tables-13.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=casino-table-hire.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=air-hockey-table-hire-9.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-connect-4-game-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-jenga-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=prize-wheel-19.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-deck-chair-hire-1.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=beat-the-buzzer-6.jpg&cs=1200"
 ---
 
 # **Nationwide Photo Booth Hire**

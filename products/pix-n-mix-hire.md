@@ -7,6 +7,15 @@ meta_description: "Pick A Mix hire UK is one of the wide range of products avail
 permalink: "/products/pix-n-mix-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/292a6c2967046a82790fb2cf452b6365"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/846863ecc0d05dbe062a71cf26e608a3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91ce36542c0fe3f7ae9012612b1c7aa7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/19588edb15c6a3ecbd419cfb255e8164"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb45c5e1d9af25b6192963dd42c7fe2d"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb3fbb8fc719828d9ef3eb6bb6056b63"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
 ---
 
 # Pix N Mix Hire

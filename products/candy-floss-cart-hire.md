@@ -7,6 +7,8 @@ meta_description: "Add fun to your event with our candy floss cart hire. Bespoke
 permalink: "/products/candy-floss-cart-hire/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
 ---
 
 # Candy Floss Cart Hire

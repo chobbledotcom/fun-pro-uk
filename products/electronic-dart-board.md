@@ -7,6 +7,10 @@ meta_description: "Professional electronic dart boards with automatic scoring fo
 permalink: "/products/electronic-dart-board/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e589094ec1216137052188f2fade887"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7583188346656eeb69819340c82d7c95"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c7fc643c4a7c8f49a59224a9bf7e3f64"
 ---
 
 # Electronic Dart Board

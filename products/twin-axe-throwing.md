@@ -7,6 +7,8 @@ meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro U
 permalink: "/products/twin-axe-throwing/"
 categories: []
 features: []
+gallery:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
 ---
 
 # Twin Axe throwing

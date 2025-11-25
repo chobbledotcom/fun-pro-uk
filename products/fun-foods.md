@@ -7,6 +7,14 @@ meta_description: "Fun Foods Hire – Delicious Event Catering Solutions equipme
 permalink: "/products/fun-foods/"
 categories: []
 features: []
+gallery:
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast.jpg&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pix-n-mix-hire-2.png&cs=1200"
+  - "https://www.funprouk.co.uk/thumbs.ashx?img=pizza.png&cs=1200"
 ---
 
 # Fun Food Hire

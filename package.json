@@ -10,6 +10,8 @@
 		"watch": "node scripts/watch.js",
 		"update-pages": "node scripts/update-pages.js",
 		"fetch-google-reviews": "node scripts/fetch-google-reviews.js",
+		"convert-images": "node scripts/convert-remote-images.js",
+		"import": "node scripts/importer",
 		"clean": "rm -rf .build _site"
 	},
 	"dependencies": {
