@@ -29,8 +29,7 @@ const extractContentHeading = (htmlContent) => {
   return null;
 };
 
-// Alias for backward compatibility
-const extractBlogHeading = extractContentHeading;
+
 
 /**
  * Extract metadata from HTML content using regex patterns
@@ -327,7 +326,6 @@ const extractFaviconLinks = (htmlContent) => {
 module.exports = {
   extractBreadcrumbText,
   extractContentHeading,
-  extractBlogHeading,
   extractMetadata,
   extractPrice,
   extractCategory,

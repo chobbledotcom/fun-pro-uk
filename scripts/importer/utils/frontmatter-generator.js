@@ -142,8 +142,6 @@ features: []`;
  * @returns {string} Frontmatter YAML
  */
 const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null) => {
-  const config = require('../config');
-
   let frontmatter = `---
 title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
@@ -159,13 +157,6 @@ eleventyNavigation:
   key: "${escapeYamlString(navKey)}"
   parent: "${escapeYamlString(navInfo.parent)}"
   order: ${navInfo.order}`;
-  } else if (config.options.categoriesInNavigation) {
-    // Fallback: Add navigation if categoriesInNavigation option is enabled (legacy behavior)
-    const navOrder = 20 + categoryIndex;
-    frontmatter += `
-eleventyNavigation:
-  key: "${escapeYamlString(metadata.title || categoryHeading || '')}"
-  order: ${navOrder}`;
   }
 
   frontmatter += '\n---';
