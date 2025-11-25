@@ -9,6 +9,28 @@ const { ensureDir, downloadFile } = require('./filesystem');
 const removeCloudinaryTransformations = (url) => url.replace(/\/f_auto,q_auto\//g, '/');
 
 /**
+ * Convert Fun Pro UK thumbs.ashx URL to direct image URL
+ * @param {string} url - URL that might be a thumbs.ashx URL
+ * @returns {Object} Object with sourceUrl and filename
+ */
+const convertFunProImageUrl = (url) => {
+  if (!url) return { sourceUrl: url, filename: null };
+
+  // Handle thumbs.ashx URLs like https://www.funprouk.co.uk/thumbs.ashx?img=batak-lite-27.jpg&cs=1200
+  const thumbsMatch = url.match(/thumbs\.ashx\?(?:.*&)?img=([^&]+)/i);
+  if (thumbsMatch) {
+    const filename = decodeURIComponent(thumbsMatch[1]);
+    // Try to download from userfiles/images directory
+    return {
+      sourceUrl: `https://www.funprouk.co.uk/userfiles/images/${filename}`,
+      filename
+    };
+  }
+
+  return { sourceUrl: url, filename: null };
+};
+
+/**
  * Generate a unique filename from URL
  * @param {string} url - Image URL
  * @param {string} contentType - Type of content (page, category, product)
@@ -16,11 +38,22 @@ const removeCloudinaryTransformations = (url) => url.replace(/\/f_auto,q_auto\//
  * @returns {string} Unique filename
  */
 const generateImageFilename = (url, contentType, slug) => {
-  const urlObj = new URL(url);
-  const pathParts = urlObj.pathname.split('/');
-  const cloudinaryId = pathParts[pathParts.length - 1].split('.')[0];
-  const extension = pathParts[pathParts.length - 1].split('.').pop() || 'webp';
-  return `${contentType}-${slug}-${cloudinaryId}.${extension}`;
+  // First check if it's a Fun Pro UK URL
+  const funProResult = convertFunProImageUrl(url);
+  if (funProResult.filename) {
+    return funProResult.filename;
+  }
+
+  try {
+    const urlObj = new URL(url);
+    const pathParts = urlObj.pathname.split('/');
+    const cloudinaryId = pathParts[pathParts.length - 1].split('.')[0];
+    const extension = pathParts[pathParts.length - 1].split('.').pop() || 'webp';
+    return `${contentType}-${slug}-${cloudinaryId}.${extension}`;
+  } catch (e) {
+    // Fallback for invalid URLs
+    return `${contentType}-${slug}-image.webp`;
+  }
 };
 
 /**
@@ -34,30 +67,61 @@ const generateImageFilename = (url, contentType, slug) => {
 const downloadImage = async (imageUrl, contentType, slug, filename = null) => {
   if (!imageUrl) return '';
 
-  const sourceUrl = removeCloudinaryTransformations(imageUrl);
+  // Convert Fun Pro UK URLs to direct image URLs
+  const funProResult = convertFunProImageUrl(imageUrl);
+  const sourceUrl = removeCloudinaryTransformations(funProResult.sourceUrl || imageUrl);
+
   const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
   ensureDir(imagesDir);
 
-  const finalFilename = filename || generateImageFilename(sourceUrl, contentType, slug);
+  const finalFilename = filename || funProResult.filename || generateImageFilename(sourceUrl, contentType, slug);
   const localPath = path.join(imagesDir, finalFilename);
 
   try {
     await downloadFile(sourceUrl, localPath);
     return `/images/${contentType}/${finalFilename}`;
   } catch (error) {
-    console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
+    // Don't log warning for expected failures (like old ASP.NET dynamic URLs)
+    if (!imageUrl.includes('thumbs.ashx')) {
+      console.error(`    Warning: Failed to download image for ${slug}:`, error.message);
+    }
     return '';
   }
 };
 
 /**
  * Download product header image
- * @param {string} imageUrl - Cloudinary URL
+ * @param {string} imageUrl - Image URL
  * @param {string} slug - Product slug
  * @returns {Promise<string>} Local image path
  */
-const downloadProductImage = async (imageUrl, slug) =>
-  downloadImage(imageUrl, 'products', slug, `${slug}.webp`);
+const downloadProductImage = async (imageUrl, slug) => {
+  const funProResult = convertFunProImageUrl(imageUrl);
+  const filename = funProResult.filename || `${slug}.webp`;
+  return downloadImage(imageUrl, 'products', slug, filename);
+};
+
+/**
+ * Download all product gallery images
+ * @param {string[]} imageUrls - Array of image URLs
+ * @param {string} slug - Product slug
+ * @returns {Promise<string[]>} Array of local image paths
+ */
+const downloadProductGallery = async (imageUrls, slug) => {
+  if (!imageUrls || imageUrls.length === 0) return [];
+
+  const localPaths = [];
+  for (let i = 0; i < imageUrls.length; i++) {
+    const imageUrl = imageUrls[i];
+    const funProResult = convertFunProImageUrl(imageUrl);
+    const filename = funProResult.filename || `${slug}-${i}.webp`;
+    const localPath = await downloadImage(imageUrl, 'products', slug, filename);
+    if (localPath) {
+      localPaths.push(localPath);
+    }
+  }
+  return localPaths;
+};
 
 /**
  * Download embedded images from content and update URLs
@@ -67,7 +131,8 @@ const downloadProductImage = async (imageUrl, slug) =>
  * @returns {Promise<string>} Content with updated local image paths
  */
 const downloadEmbeddedImages = async (content, contentType, slug) => {
-  const imageRegex = /!\[([^\]]*)\]\((https:\/\/res\.cloudinary\.com\/[^)]+?)(?:\s+"[^"]*")?\)/g;
+  // Match both Cloudinary URLs and Fun Pro UK URLs
+  const imageRegex = /!\[([^\]]*)\]\((https?:\/\/[^)]+?)(?:\s+"[^"]*")?\)/g;
   const matches = [...content.matchAll(imageRegex)];
 
   let updatedContent = content;
@@ -95,7 +160,9 @@ const downloadEmbeddedImages = async (content, contentType, slug) => {
 
 module.exports = {
   removeCloudinaryTransformations,
+  convertFunProImageUrl,
   downloadImage,
   downloadProductImage,
+  downloadProductGallery,
   downloadEmbeddedImages
 };

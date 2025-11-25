@@ -8,7 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertSpecialPages } = require('./converters');
+const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertSpecialPages, convertSiteConfig } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const { applyFindReplacesRecursive } = require('./utils/find-replace');
 const ResultsTracker = require('./utils/results-tracker');
@@ -25,26 +25,25 @@ const checkPandoc = () => {
 };
 
 /**
- * Clean the images directory before importing
+ * Ensure the images directory exists (preserves existing images for caching)
  */
-const cleanImagesDirectory = () => {
+const ensureImagesDirectory = () => {
   const imagesDir = path.join(__dirname, '..', '..', 'images');
 
-  if (fs.existsSync(imagesDir)) {
-    console.log('Cleaning images directory...');
-    fs.rmSync(imagesDir, { recursive: true, force: true });
-    console.log('✓ Images directory cleaned\n');
+  if (!fs.existsSync(imagesDir)) {
+    console.log('Creating images directory...');
+    fs.mkdirSync(imagesDir, { recursive: true });
+    console.log('✓ Images directory created\n');
+  } else {
+    console.log('✓ Images directory exists (using cached images)\n');
   }
-
-  // Recreate empty directory
-  fs.mkdirSync(imagesDir, { recursive: true });
 };
 
 /**
  * Main execution function
  */
 const main = async () => {
-  console.log('Starting conversion of old MyAlarm Security site...\n');
+  console.log('Starting conversion of old Fun Pro UK site...\n');
 
   // Check for required dependencies
   checkPandoc();
@@ -53,11 +52,14 @@ const main = async () => {
   const tracker = new ResultsTracker();
 
   try {
-    cleanImagesDirectory();
+    ensureImagesDirectory();
 
     const oldSitePath = config.OLD_SITE_PATH;
     const faviconOutputPath = path.join(config.OUTPUT_BASE, config.paths.favicon);
     tracker.add('Favicons', extractFavicons(oldSitePath, faviconOutputPath));
+    console.log('');
+
+    tracker.add('Site Config', await convertSiteConfig());
     console.log('');
 
     tracker.add('Homepage Content', await convertHomeContent());

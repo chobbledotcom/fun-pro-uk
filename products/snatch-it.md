@@ -7,13 +7,6 @@ meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one
 permalink: "/products/snatch-it/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=snatch-it-6.jpg&cs=1200"
 ---
 
 # Snatch It
@@ -44,15 +37,15 @@ SNATCH IT is new to the interactive game hire world, and FUN PRO UK have one tha
 
 **£1195**\+ vat**
 
-Delivered [](snatch-it.html#specification)and [](snatch-it.html#specification)installed on site by our trained team
+Delivered [](snatch-it/#specification)and [](snatch-it/#specification)installed on site by our trained team
 
-In[\-](snatch-it.html#specification)house [](snatch-it.html#specification)branding [](snatch-it.html#specification)available [](snatch-it.html#specification)Printed[,](snatch-it.html#specification) applied & removed after each event
+In[\-](snatch-it/#specification)house [](snatch-it/#specification)branding [](snatch-it/#specification)available [](snatch-it/#specification)Printed[,](snatch-it/#specification) applied & removed after each event
 
-(One [](snatch-it.html#specification)time [](snatch-it.html#specification)use [](snatch-it.html#specification)only)
+(One [](snatch-it/#specification)time [](snatch-it/#specification)use [](snatch-it/#specification)only)
 
-\*Delivery [](snatch-it.html#specification)Charges & Minimum order value may apply
+\*Delivery [](snatch-it/#specification)Charges & Minimum order value may apply
 
-[**Email:**](snatch-it.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](snatch-it/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -92,9 +85,9 @@ Lift required
 
 **Branding Prices from:**
 
-In[\-](../../../admin/products-edit.aspx%3Fid=75.html#specification)house [](../../../admin/products-edit.aspx%3Fid=75.html#specification)branding [](../../../admin/products-edit.aspx%3Fid=75.html#specification)available [](../../../admin/products-edit.aspx%3Fid=75.html#specification)Printed[,](../../../admin/products-edit.aspx%3Fid=75.html#specification) applied & removed after each event
+In[\-](/../../admin/products-edit.aspx%3Fid=75/#specification)house [](/../../admin/products-edit.aspx%3Fid=75/#specification)branding [](/../../admin/products-edit.aspx%3Fid=75/#specification)available [](/../../admin/products-edit.aspx%3Fid=75/#specification)Printed[,](/../../admin/products-edit.aspx%3Fid=75/#specification) applied & removed after each event
 
-(One [](../../../admin/products-edit.aspx%3Fid=75.html#specification)time [](../../../admin/products-edit.aspx%3Fid=75.html#specification)use [](../../../admin/products-edit.aspx%3Fid=75.html#specification)only)
+(One [](/../../admin/products-edit.aspx%3Fid=75/#specification)time [](/../../admin/products-edit.aspx%3Fid=75/#specification)use [](/../../admin/products-edit.aspx%3Fid=75/#specification)only)
 
 **Branded top Panel**
 
@@ -134,6 +127,6 @@ Contact us today for more information:
   
 [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
 Tel: 0247 7220 701  
-[www.funprouk.co.uk](../../../pages/christmas-entertainment-game-hire'.html)
+[www.funprouk.co.uk](/pages/christmas-entertainment-game-hire'/)
 
 Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!

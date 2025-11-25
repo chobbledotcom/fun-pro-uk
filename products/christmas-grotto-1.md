@@ -7,13 +7,6 @@ meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places 
 permalink: "/products/christmas-grotto-1/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto17x23x14ft-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto17x23x14ft-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=christmas-grotto-1-2.jpg&cs=1200"
 ---
 
 # CHRISTMAS GROTTO 1
@@ -34,7 +27,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -86,4 +79,4 @@ What's more, just like your Christmas turkey, our Christmas grotto for hire come
 
 The perfect party piece
 
-Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](../../photo-booths-and-magic-mirrors/11/classic-photo-booths.html "CLASSIC PHOTO BOOTHS") or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
+Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/../photo-booths-and-magic-mirrors/classic-photo-booths.html "CLASSIC PHOTO BOOTHS") or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!

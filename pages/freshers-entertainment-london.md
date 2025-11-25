@@ -7,9 +7,9 @@ layout: page
 
 # Freshers Game Hire London: Interactive Entertainment for University Welcome Week
 
-Freshers week can feel overwhelming for university event organisers – you're tasked with creating memorable experiences that help thousands of new students feel welcome whilst managing tight budgets and complex logistics. If you're planning [freshers entertainment](../category/freshers-fair-games.html) in London, you'll also need to navigate the capital's unique challenges, from venue access restrictions to the diverse needs of international student communities.
+Freshers week can feel overwhelming for university event organisers – you're tasked with creating memorable experiences that help thousands of new students feel welcome whilst managing tight budgets and complex logistics. If you're planning [freshers entertainment](/category/freshers-fair-games/) in London, you'll also need to navigate the capital's unique challenges, from venue access restrictions to the diverse needs of international student communities.
 
-At Fun Pro UK, we understand these pressures. As corporate event specialists with over 15 years of experience, we've helped London universities create engaging freshers weeks that bring students together and set the tone for a positive university experience. Our [interactive game hire](../interactive-game-hire.html) services take the stress out of entertainment planning, allowing you to focus on what matters most – helping new students feel at home.
+At Fun Pro UK, we understand these pressures. As corporate event specialists with over 15 years of experience, we've helped London universities create engaging freshers weeks that bring students together and set the tone for a positive university experience. Our [interactive game hire](/interactive-game-hire/) services take the stress out of entertainment planning, allowing you to focus on what matters most – helping new students feel at home.
 
 ## London's Premier Freshers Entertainment Specialists
 
@@ -29,17 +29,17 @@ Choosing the right entertainment for London freshers events requires balancing s
 
 London universities often host freshers events in substantial venues – university sports centres, hired spaces like the Royal Festival Hall, or purpose-built student unions. These larger spaces allow for our most engaging interactive games.
 
-Our [racing simulators](../category/interactive-game-hire/5/twin-racing-car-simulators.html) create natural talking points and friendly competition, perfect for breaking down social barriers between new students. The games work equally well for students who've never seen a Formula 1 race and those who follow motorsport religiously – the intuitive controls and immediate feedback make participation accessible to everyone.
+Our [racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) create natural talking points and friendly competition, perfect for breaking down social barriers between new students. The games work equally well for students who've never seen a Formula 1 race and those who follow motorsport religiously – the intuitive controls and immediate feedback make participation accessible to everyone.
 
-Electronic reaction games like our [Batak](../Controls/category/batak.html) generate excitement and crowds, ideal for freshers fairs where you need to draw students to specific areas. These games work particularly well in London's diverse student environment because they rely on quick reflexes rather than cultural knowledge or language skills.
+Electronic reaction games like our [Batak](category/batak/) generate excitement and crowds, ideal for freshers fairs where you need to draw students to specific areas. These games work particularly well in London's diverse student environment because they rely on quick reflexes rather than cultural knowledge or language skills.
 
 ### Compact Solutions for Historic London University Buildings
 
 Many of London's most prestigious universities operate from historic buildings that present unique challenges for event organisers. Limited doorway widths, restricted vehicle access, and heritage building constraints require carefully selected entertainment options.
 
-Our smaller interactive games work brilliantly in these environments. Table-top [arcade games](../category/arcade-games/2/lights-out-game.html) and compact gaming systems can be positioned in corridors, common rooms, or traditional courtyards without requiring major setup infrastructure.
+Our smaller interactive games work brilliantly in these environments. Table-top [arcade games](/category/arcade-games/lights-out-game/) and compact gaming systems can be positioned in corridors, common rooms, or traditional courtyards without requiring major setup infrastructure.
 
-We also provide [photo booth](../category/photo-booths-and-magic-mirrors/11/classic-photo-booths.html) solutions specifically designed for period buildings – our [magic mirror](../category/photo-booths-and-magic-mirrors/13/magic-mirror.html) systems require minimal space whilst creating shareable content that helps students document their freshers week experience. These work particularly well for London students who want to share their university journey with family and friends around the world.
+We also provide [photo booth](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) solutions specifically designed for period buildings – our [magic mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) systems require minimal space whilst creating shareable content that helps students document their freshers week experience. These work particularly well for London students who want to share their university journey with family and friends around the world.
 
 For outdoor spaces in central London, we recommend games that can be quickly moved indoors if weather conditions change. London's unpredictable climate means having flexible options isn't just helpful – it's essential for successful events.
 
@@ -77,11 +77,11 @@ London's universities attract students from around the world, creating exciting 
 
 London universities typically welcome students from dozens of countries, speaking multiple languages and bringing varied cultural expectations about social interaction. Creating entertainment that works for this diverse audience requires thoughtful selection.
 
-[Interactive games](../interactive-game-hire.html) that rely on universal concepts – competition, coordination, and quick thinking – work brilliantly for bringing together students from different backgrounds. Racing simulators, reaction games, and skill-based challenges create common ground where international students, home students, mature learners, and school leavers can interact naturally.
+[Interactive games](/interactive-game-hire/) that rely on universal concepts – competition, coordination, and quick thinking – work brilliantly for bringing together students from different backgrounds. Racing simulators, reaction games, and skill-based challenges create common ground where international students, home students, mature learners, and school leavers can interact naturally.
 
 We often recommend including games that work well for spectators as well as participants. Many students initially prefer watching rather than jumping straight into activities, particularly if they're adjusting to a new culture or feeling overwhelmed by the freshers week experience. Games that create entertaining viewing opportunities allow these students to engage gradually whilst still feeling included.
 
-For commuter students – a significant portion of London's university population – [freshers week](../category/freshers-fair-games.html) events might be their primary opportunity to connect with university life. Entertainment that encourages natural conversation and collaboration helps these students build the connections that might otherwise develop through campus accommodation.
+For commuter students – a significant portion of London's university population – [freshers week](/category/freshers-fair-games/) events might be their primary opportunity to connect with university life. Entertainment that encourages natural conversation and collaboration helps these students build the connections that might otherwise develop through campus accommodation.
 
 ### Integration with London Freshers Week Programmes
 
@@ -97,7 +97,7 @@ London's extensive nightlife means many students will participate in evening soc
 
 Social media documentation plays a significant role in modern freshers week experiences. Students want to share their university journey with family and friends, particularly international students whose families may be thousands of miles away.
 
-Our photo booth systems and interactive games create natural opportunities for memorable photos. We can provide London-themed backdrops or university-specific [branding](../category/branded-exhibition-games.html) that helps students create shareable content whilst promoting your institution.
+Our photo booth systems and interactive games create natural opportunities for memorable photos. We can provide London-themed backdrops or university-specific [branding](/category/branded-exhibition-games/) that helps students create shareable content whilst promoting your institution.
 
 Interactive games naturally generate celebratory moments – successful virtual reality experiences, competitive racing simulator results, or collaborative team challenges. These authentic reactions create the kind of candid photos that effectively capture the excitement of starting university life.
 
@@ -117,7 +117,7 @@ As a family-run business with over 15 years of experience in corporate entertain
 
 Our work with major corporate clients like Rolls-Royce and KPMG demonstrates our ability to deliver professional results under pressure. University freshers weeks present similar challenges – tight timelines, high expectations, and the need for flawless execution – and we apply the same attention to detail that has earned us repeat business from blue-chip companies.
 
-We provide comprehensive service that includes [delivery](delivery-areas.html), professional setup, and complete breakdown, removing logistical concerns from your planning process. Our team arrives when promised, sets up efficiently, and ensures everything operates smoothly throughout your events.
+We provide comprehensive service that includes [delivery](delivery-areas/), professional setup, and complete breakdown, removing logistical concerns from your planning process. Our team arrives when promised, sets up efficiently, and ensures everything operates smoothly throughout your events.
 
 London's busy event calendar means equipment suppliers often face competing demands during peak periods like freshers week. Our established business relationships and advance planning ensure your booking receives priority treatment, providing confidence that your entertainment will be available when needed.
 
@@ -151,182 +151,182 @@ Costs vary based on the specific games selected, event duration, and venue requi
 
 Yes, we can provide experienced staff to operate games throughout your events. This option is particularly popular with universities that prefer their own team to focus on student interaction and event coordination rather than technical equipment management. Our staff understand university environments and work seamlessly with your student union teams.
 
-Ready to start planning your London freshers week entertainment? [Contact](contact-fun-pro-uk.html) our friendly team for a free quote tailored to your university's specific requirements. We'll work with you to create engaging, inclusive entertainment that helps your new students feel welcomed and excited about their university journey.
+Ready to start planning your London freshers week entertainment? [Contact](contact-fun-pro-uk/) our friendly team for a free quote tailored to your university's specific requirements. We'll work with you to create engaging, inclusive entertainment that helps your new students feel welcomed and excited about their university journey.
 
-[Catch it Reaction Ring Hire](../category/exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
+[Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire.html "Catch it Reaction Ring Hire - All Products")
 
-[More Details](../category/exhibition-games/94/catch-it-reaction-ring-hire.html)
+[More Details](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
 
-[Gold Bar Challenge](../category/exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
+[Gold Bar Challenge](/category/exhibition-games/107/gold-bar-challenge.html "Gold Bar Challenge - Exhibition Games ")
 
-[More Details](../category/exhibition-games/107/gold-bar-challenge.html)
+[More Details](/category/exhibition-games/107/gold-bar-challenge/)
 
-[Roller Bowler](../category/arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
+[Roller Bowler](/category/arcade-games/111/roller-bowler.html "Roller Bowler - Arcade Games ")
 
-[More Details](../category/arcade-games/111/roller-bowler.html)
+[More Details](/category/arcade-games/111/roller-bowler/)
 
-[Electronic Dart Board](../category/arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
+[Electronic Dart Board](/category/arcade-games/106/electronic-dart-board.html "Electronic Dart Board - Arcade Games ")
 
-[More Details](../category/arcade-games/106/electronic-dart-board.html)
+[More Details](/category/arcade-games/106/electronic-dart-board/)
 
-[8 Lane Roll & Bowl Donkey Derby](../category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
+[8 Lane Roll & Bowl Donkey Derby](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html "8 Lane Roll & Bowl Donkey Derby - Roll & Bowl ")
 
-[More Details](../category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby.html)
+[More Details](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
 
-[Candy Floss Cart Hire](../category/fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
+[Candy Floss Cart Hire](/category/fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[More Details](../category/fun-foods/92/candy-floss-cart-hire.html)
+[More Details](/category/fun-foods/92/candy-floss-cart-hire/)
 
-[Corn Hole](../category/exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
+[Corn Hole](/category/exhibition-games/99/corn-hole.html "Corn Hole - Exhibition Games ")
 
-[More Details](../category/exhibition-games/99/corn-hole.html)
+[More Details](/category/exhibition-games/99/corn-hole/)
 
-[Whack A Mole game hire](../category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
+[Whack A Mole game hire](/category/all-products/67/whack-a-mole-game-hire.html "Whack A Mole game hire - Arcade Games ")
 
-[More Details](../category/all-products/67/whack-a-mole-game-hire.html)
+[More Details](/category/all-products/67/whack-a-mole-game-hire/)
 
-[Batak Lite](../category/all-products/61/batak-lite.html "Batak Lite - Exhibition Games ")
+[Batak Lite](/category/all-products/batak-lite.html "Batak Lite - Exhibition Games ")
 
-[More Details](../category/all-products/61/batak-lite.html)
+[More Details](/category/all-products/batak-lite/)
 
-[Scalextric Slot Car Racing](../category/all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
+[Scalextric Slot Car Racing](/category/all-products/88/scalextric-slot-car-racing.html "Scalextric Slot Car Racing - All Products")
 
-[More Details](../category/all-products/88/scalextric-slot-car-racing.html)
+[More Details](/category/all-products/88/scalextric-slot-car-racing/)
 
-[Snatch It](../category/exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
+[Snatch It](/category/exhibition-games/82/snatch-it.html "Snatch It - Arcade Games ")
 
-[More Details](../category/exhibition-games/82/snatch-it.html)
+[More Details](/category/exhibition-games/82/snatch-it/)
 
-[Danger-zone-strike-a-light-game-hire](../category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
+[Danger-zone-strike-a-light-game-hire](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html "Danger-zone-strike-a-light-game-hire - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire.html)
+[More Details](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
 
-[Mega Wire - Branded Game Hire (stand alone)](../category/all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
+[Mega Wire - Branded Game Hire (stand alone)](/category/all-products/64/mega-wire-branded-game-hire-stand-alone.html "Mega Wire - Branded Game Hire (stand alone) - Branded Exhibition Games ")
 
-[More Details](../category/all-products/64/mega-wire-branded-game-hire-stand-alone.html)
+[More Details](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/)
 
-[Ballnado Grabber](../category/grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
+[Ballnado Grabber](/category/grab-a-grand/36/ballnado-grabber.html "Ballnado Grabber - Link Products")
 
-[More Details](../category/grab-a-grand/36/ballnado-grabber.html)
+[More Details](/category/grab-a-grand/36/ballnado-grabber/)
 
-[The Vault](../category/interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
+[The Vault](/category/interactive-game-hire/50/the-vault.html "The Vault - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/50/the-vault.html)
+[More Details](/category/interactive-game-hire/50/the-vault/)
 
-[Crack The Code safe cracker](../crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
+[Crack The Code safe cracker](/crack-the-code-safe-cracker.html "Crack The Code safe cracker - Exhibition Games ")
 
-[More Details](../crack-the-code-safe-cracker.html)
+[More Details](/crack-the-code-safe-cracker/)
 
-[Prize Crane Arcade Grabber](../prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
+[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber.html "Prize Crane Arcade Grabber - Arcade Games ")
 
-[More Details](../prize-crane-arcade-grabber.html)
+[More Details](/prize-crane-arcade-grabber/)
 
-[Batak Pro](../category/batak/43/batak-pro.html "Batak Pro - Exhibition Games ")
+[Batak Pro](/category/batak/batak-pro.html "Batak Pro - Exhibition Games ")
 
-[More Details](../category/batak/43/batak-pro.html)
+[More Details](/category/batak/batak-pro/)
 
-[Prize Wheel](../prize-wheel.html "Prize Wheel - Prize Games ")
+[Prize Wheel](/prize-wheel.html "Prize Wheel - Prize Games ")
 
-[More Details](../prize-wheel.html)
+[More Details](/prize-wheel/)
 
-[Roll & Bowl Donkey Derby](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
+[Roll & Bowl Donkey Derby](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html "Roll & Bowl Donkey Derby - Link Products")
 
-[More Details](../category/interactive-game-hire/75/roll-and-bowl-donkey-derby.html)
+[More Details](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
 
-[Plinko Game Hire](../category/all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
+[Plinko Game Hire](/category/all-products/68/plinko-game-hire.html "Plinko Game Hire - Arcade Games ")
 
-[More Details](../category/all-products/68/plinko-game-hire.html)
+[More Details](/category/all-products/68/plinko-game-hire/)
 
-[Virtual Pinball](../category/arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
+[Virtual Pinball](/category/arcade-games/77/virtual-pinball.html "Virtual Pinball - Sub- Contactors Only")
 
-[More Details](../category/arcade-games/77/virtual-pinball.html)
+[More Details](/category/arcade-games/77/virtual-pinball/)
 
-[LEADER BOARD](../category/interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
+[LEADER BOARD](/category/interactive-game-hire/30/leader-board.html "LEADER BOARD - Interactive Game Hire ")
 
-[More Details](../category/interactive-game-hire/30/leader-board.html)
+[More Details](/category/interactive-game-hire/30/leader-board/)
 
-[GIANT BUZZ WIRE](../category/interactive-game-hire/9/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
+[GIANT BUZZ WIRE](/category/interactive-game-hire/giant-buzz-wire.html "GIANT BUZZ WIRE - Interactive Game Hire ")
 
-[More Details](../category/interactive-game-hire/9/giant-buzz-wire.html)
+[More Details](/category/interactive-game-hire/giant-buzz-wire/)
 
-[CASH GRABBER MACHINE HIRE](../category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
+[CASH GRABBER MACHINE HIRE](/category/interactive-game-hire/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE - Exhibition Games ")
 
-[More Details](../category/interactive-game-hire/3/grab-a-grand.html)
+[More Details](/category/interactive-game-hire/3/grab-a-grand/)
 
-[High Striker](../category/arcade-games/48/high-striker.html "High Striker - Arcade Games ")
+[High Striker](/category/arcade-games/48/high-striker.html "High Striker - Arcade Games ")
 
-[More Details](../category/arcade-games/48/high-striker.html)
+[More Details](/category/arcade-games/48/high-striker/)
 
-[Pix N Mix Hire](../category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
+[Pix N Mix Hire](/category/exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
 
-[More Details](../category/exhibition-games/42/pix-n-mix-hire.html)
+[More Details](/category/exhibition-games/42/pix-n-mix-hire/)
 
-[Racing Car Simulators](../category/interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
+[Racing Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators.html "Racing Car Simulators - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/5/twin-racing-car-simulators.html)
+[More Details](/category/interactive-game-hire/twin-racing-car-simulators/)
 
-[VR Race Car Simulator](../category/corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
+[VR Race Car Simulator](/category/corporate-entertainment/38/vr-race-car-simulator.html "VR Race Car Simulator - Arcade Games ")
 
-[More Details](../category/corporate-entertainment/38/vr-race-car-simulator.html)
+[More Details](/category/corporate-entertainment/38/vr-race-car-simulator/)
 
-[Roll And Bowl Game Hire](../category/all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
+[Roll And Bowl Game Hire](/category/all-products/51/roll-and-bowl-game-hire.html "Roll And Bowl Game Hire - Arcade Games ")
 
-[More Details](../category/all-products/51/roll-and-bowl-game-hire.html)
+[More Details](/category/all-products/51/roll-and-bowl-game-hire/)
 
-[RETRO ARCADE GAMES](../category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
+[RETRO ARCADE GAMES](/category/interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/4/retro-arcade-games.html)
+[More Details](/category/interactive-game-hire/retro-arcade-games/)
 
-[Beat The Buzzer](../category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
+[Beat The Buzzer](/category/interactive-game-hire/62/beat-the-buzzer.html "Beat The Buzzer - Exhibition Games ")
 
-[More Details](../category/interactive-game-hire/62/beat-the-buzzer.html)
+[More Details](/category/interactive-game-hire/62/beat-the-buzzer/)
 
-[Dance Machine](../category/exhibition-games/39/dance-machine.html "Dance Machine - Arcade Games ")
+[Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine - Arcade Games ")
 
-[More Details](../category/exhibition-games/39/dance-machine.html)
+[More Details](/category/exhibition-games/dance-machine/)
 
-[Shuffleboard Hire](../category/all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
+[Shuffleboard Hire](/category/all-products/87/shuffle-board-hire.html "Shuffleboard Hire - All Products")
 
-[More Details](../category/all-products/87/shuffle-board-hire.html)
+[More Details](/category/all-products/87/shuffle-board-hire/)
 
-[PLUCK A DUCK RACING](../category/interactive-game-hire/8/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
+[PLUCK A DUCK RACING](/category/interactive-game-hire/pluck-a-duck-racing.html "PLUCK A DUCK RACING - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/8/pluck-a-duck-racing.html)
+[More Details](/category/interactive-game-hire/pluck-a-duck-racing/)
 
-[TOP DOC OPERATION GAME](../category/interactive-game-hire/7/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
+[TOP DOC OPERATION GAME](/category/interactive-game-hire/top-doc-operation-game.html "TOP DOC OPERATION GAME - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/7/top-doc-operation-game.html)
+[More Details](/category/interactive-game-hire/top-doc-operation-game/)
 
-[ELECTRONIC BASKET BALL HIRE](../category/photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
+[ELECTRONIC BASKET BALL HIRE](/category/photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE - Arcade Games ")
 
-[More Details](../category/photo-booths/6/ultimate-green-screen-photo-booth.html)
+[More Details](/category/photo-booths/ultimate-green-screen-photo-booth/)
 
-[GOLD CUP HORSE RACING](../category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
+[GOLD CUP HORSE RACING](/category/interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING - Arcade Games ")
 
-[More Details](../category/interactive-game-hire/29/gold-cup-horse-racing.html)
+[More Details](/category/interactive-game-hire/29/gold-cup-horse-racing/)
 
-[FOOTBALL TABLES](../category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
+[FOOTBALL TABLES](/category/interactive-game-hire/27/football-tables.html "FOOTBALL TABLES - Corporate Entertainment ")
 
-[More Details](../category/interactive-game-hire/27/football-tables.html)
+[More Details](/category/interactive-game-hire/27/football-tables/)
 
-[GREEN SCREEN PHOTO BOOTHS](../category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
+[GREEN SCREEN PHOTO BOOTHS](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths.html "GREEN SCREEN PHOTO BOOTHS - Photo Booths & Magic Mirrors ")
 
-[More Details](../category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths.html)
+[More Details](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
 
-[Air Hockey Table Hire](../category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
+[Air Hockey Table Hire](/category/arcade-games/60/air-hockey-table-hire.html "Air Hockey Table Hire - Exhibition Games ")
 
-[More Details](../category/arcade-games/60/air-hockey-table-hire.html)
+[More Details](/category/arcade-games/60/air-hockey-table-hire/)
 
-[Table Tennis Hire](../category/corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
+[Table Tennis Hire](/category/corporate-entertainment/80/table-tennis-hire.html "Table Tennis Hire - Corporate Entertainment ")
 
-[More Details](../category/corporate-entertainment/80/table-tennis-hire.html)
+[More Details](/category/corporate-entertainment/80/table-tennis-hire/)
 
-[Giant Deck Chair Hire](../category/weddings/74/giant-deck-chair-hire.html "Giant Deck Chair Hire - Corporate Entertainment ")
+[Giant Deck Chair Hire](/category/weddings/74/giant-deck-chair-hire.html "Giant Deck Chair Hire - Corporate Entertainment ")
 
-[More Details](../category/weddings/74/giant-deck-chair-hire.html)
+[More Details](/category/weddings/74/giant-deck-chair-hire/)
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

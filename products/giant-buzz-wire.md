@@ -7,22 +7,6 @@ meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhi
 permalink: "/products/giant-buzz-wire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-13.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-14.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-15.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-16.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-17.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-buzz-wire-18.jpg&cs=1200"
 ---
 
 # GIANT BUZZ WIRE
@@ -59,15 +43,15 @@ Don't miss out on the opportunity to elevate your event with our engaging GIANT 
 
 **£1195**\+ vat**
 
-Delivered [](giant-buzz-wire.html#specification)and [](giant-buzz-wire.html#specification)installed on site by our trained team
+Delivered [](giant-buzz-wire/#specification)and [](giant-buzz-wire/#specification)installed on site by our trained team
 
-In[\-](giant-buzz-wire.html#specification)house [](giant-buzz-wire.html#specification)branding [](giant-buzz-wire.html#specification)available [](giant-buzz-wire.html#specification)Printed[,](giant-buzz-wire.html#specification) applied & removed after each event
+In[\-](giant-buzz-wire/#specification)house [](giant-buzz-wire/#specification)branding [](giant-buzz-wire/#specification)available [](giant-buzz-wire/#specification)Printed[,](giant-buzz-wire/#specification) applied & removed after each event
 
-(One [](giant-buzz-wire.html#specification)time [](giant-buzz-wire.html#specification)use [](giant-buzz-wire.html#specification)only)
+(One [](giant-buzz-wire/#specification)time [](giant-buzz-wire/#specification)use [](giant-buzz-wire/#specification)only)
 
-\*Delivery [](giant-buzz-wire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](giant-buzz-wire/#specification)Charges & Minimum order value may apply
 
-[**Email:**](giant-buzz-wire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](giant-buzz-wire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -107,10 +91,10 @@ Lift required
 
 Popular items:
 
-*   [Batak Pro](../../batak/43/batak-pro.html "Batak Pro")
-*   [Pluck a Duck Racing](../8/pluck-a-duck-racing.html "PLUCK A DUCK RACING")
-*   [Top Doc](../7/top-doc-operation-game.html "TOP DOC OPERATION GAME")
-*   [Grab Grand](../3/grab-a-grand.html "CASH GRABBER MACHINE HIRE")
+*   [Batak Pro](/products/batak43/batak-pro.html "Batak Pro")
+*   [Pluck a Duck Racing](/pluck-a-duck-racing.html "PLUCK A DUCK RACING")
+*   [Top Doc](/top-doc-operation-game.html "TOP DOC OPERATION GAME")
+*   [Grab Grand](/3/grab-a-grand.html "CASH GRABBER MACHINE HIRE")
 
 ## **UK-Wide Mega Buzz Wire Hire**
 
@@ -170,4 +154,4 @@ West Midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamingt
 
 ## **Your own company carnival**
 
-You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](../../photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE"), a twist on the classic [pluck a duck](../8/pluck-a-duck-racing.html "PLUCK A DUCK RACING") or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
+You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE"), a twist on the classic [pluck a duck](/pluck-a-duck-racing.html "PLUCK A DUCK RACING") or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.

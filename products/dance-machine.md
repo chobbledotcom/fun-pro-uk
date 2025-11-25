@@ -7,13 +7,6 @@ meta_description: "Looking to hire a dance machine for exhibitions, parties, eve
 permalink: "/products/dance-machine/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine-2.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine-4.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=dance-machine-5.jpg&cs=1200"
 ---
 
 # Dance Machine
@@ -54,15 +47,15 @@ Don't miss out on the opportunity to bring arcade action to your event with our 
 
 **£1695**\+ vat**
 
-Delivered [](dance-machine.html#specification)and [](dance-machine.html#specification)installed on site by our trained team
+Delivered [](dance-machine/#specification)and [](dance-machine/#specification)installed on site by our trained team
 
-In[\-](dance-machine.html#specification)house [](dance-machine.html#specification)branding [](dance-machine.html#specification)available [](dance-machine.html#specification)Printed[,](dance-machine.html#specification) applied & removed after each event
+In[\-](dance-machine/#specification)house [](dance-machine/#specification)branding [](dance-machine/#specification)available [](dance-machine/#specification)Printed[,](dance-machine/#specification) applied & removed after each event
 
-(One [](dance-machine.html#specification)time [](dance-machine.html#specification)use [](dance-machine.html#specification)only)
+(One [](dance-machine/#specification)time [](dance-machine/#specification)use [](dance-machine/#specification)only)
 
-\*Delivery [](dance-machine.html#specification)Charges & Minimum order value may apply
+\*Delivery [](dance-machine/#specification)Charges & Minimum order value may apply
 
-[**Email:**](dance-machine.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](dance-machine/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -102,9 +95,9 @@ Lift required
 
 **Popular items order along side our Dance Machines are**
 
-*   [Retro arcade machine](../../interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Twin race car simulators](../../interactive-game-hire/5/twin-racing-car-simulators.html "Racing Car Simulators")
-*   [Electronic Basketball hoop](../../photo-booths/6/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE")
+*   [Retro arcade machine](/products/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Twin race car simulators](/products/twin-racing-car-simulators.html "Racing Car Simulators")
+*   [Electronic Basketball hoop](/../photo-booths/ultimate-green-screen-photo-booth.html "ELECTRONIC BASKET BALL HIRE")
 *   Lights Out
 
 ## Arcade Dance Machine Hire - Twin Player

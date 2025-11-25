@@ -32,6 +32,6 @@ To find out more, contact us today to discuss your next event. Our talented team
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

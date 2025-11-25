@@ -3,7 +3,8 @@ const path = require('path');
 const { downloadImage } = require('../utils/image-downloader');
 
 /**
- * Extract homepage content from the old site index.html using regex
+ * Extract homepage content from the old site index.html
+ * Updated for Fun Pro UK HTML structure
  * @returns {Object} Conversion results
  */
 const convertHomeContent = async () => {
@@ -39,96 +40,89 @@ const convertHomeContent = async () => {
       }
     };
 
-    // Extract special offer banner message
-    const specialOfferMatch = html.match(/<div class="col-12 col-md-9[^>]*>\s*<p class="m-0[^>]*>([^<]+)<\/p>\s*<\/div>\s*<div class="col-12 col-md-3[^>]*>\s*<a href="([^"]+)"/);
-    if (specialOfferMatch) {
-      homeContent.banner.special_offer.message = specialOfferMatch[1].trim();
-      homeContent.banner.special_offer.link = `/${specialOfferMatch[2].replace('.php.html', '')}/#content`;
+    // Extract ticker/news banner message
+    const tickerMatch = html.match(/<div class="ticker__text-inner">\s*([\s\S]*?)\s*<\/div>/);
+    if (tickerMatch) {
+      const tickerText = tickerMatch[1].replace(/<[^>]+>/g, '').trim();
+      homeContent.banner.special_offer.message = tickerText;
+      homeContent.banner.special_offer.link = "/contact/";
     }
 
-    // Extract banner carousel images
-    const carouselPattern = /<div class="carousel-item[^>]*>\s*<img src="([^"]+)"/g;
-    let carouselMatch;
+    // Extract banner carousel images (Fun Pro UK uses data-lazy-load attributes)
+    const bannerPattern = /<div class="item[^"]*">\s*<a[^>]*href="([^"]+)"[^>]*><img[^>]*data-lazy-load="([^"]+)"[^>]*alt="([^"]*)"[^>]*>/g;
+    let bannerMatch;
     let bannerIndex = 0;
-    while ((carouselMatch = carouselPattern.exec(html)) !== null) {
-      const imageUrl = carouselMatch[1].trim();
+    while ((bannerMatch = bannerPattern.exec(html)) !== null) {
+      const imageFilename = bannerMatch[2];
+      // Try to download from old site's userfiles/banners directory
+      const imageUrl = `https://www.funprouk.co.uk/userfiles/banners/${imageFilename}`;
       const localImagePath = await downloadImage(imageUrl, 'home', `banner-${bannerIndex}`);
       if (localImagePath) {
         homeContent.banner.images.push(localImagePath);
-        bannerIndex++;
       }
+      bannerIndex++;
     }
 
-    // Extract service cards section with images
-    const serviceCardPattern = /<div class="col-xl-4[^>]*>[\s\S]*?<img src="([^"]+)"[^>]*>[\s\S]*?<h3[^>]*style="color:[^"]*">([^<]+)<\/h3>[\s\S]*?<p class="card-text py-2">([^<]+)<\/p>[\s\S]*?<a href="([^"]+)"[^>]*>More Info<\/a>/g;
+    // Extract featured categories (service cards)
+    const categoryPattern = /<div class="featured-categories__category-panel[^"]*"[^>]*>[\s\S]*?<a[^>]*href="([^"]+)"[^>]*>[\s\S]*?<img[^>]*src="([^"]+)"[^>]*>[\s\S]*?<\/a>[\s\S]*?<div class="featured-categories__title">([^<]+)<\/div>/g;
     let cardMatch;
-    while ((cardMatch = serviceCardPattern.exec(html)) !== null) {
-      const title = cardMatch[2].trim();
-      const imageUrl = cardMatch[1].trim();
-      const slug = title.toLowerCase().replace(/\s+/g, '-');
-      const localImagePath = await downloadImage(imageUrl, 'home', slug);
+    let cardIndex = 0;
+    while ((cardMatch = categoryPattern.exec(html)) !== null) {
+      const link = cardMatch[1].trim();
+      const imageUrl = cardMatch[2].trim();
+      const title = cardMatch[3].trim();
+
+      // Convert link to new format
+      let newLink = link
+        .replace('.html', '')
+        .replace('#BodyContent', '')
+        .replace(/^(category|Controls\/category)\//, '/category/')
+        .replace(/^theme\/category\//, '/category/')
+        .replace(/^([^/])/, '/$1');
+
+      // Download the image
+      const slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+      const localImagePath = await downloadImage(imageUrl, 'home', `service-${slug}`);
 
       homeContent.hero.service_cards.push({
         title,
-        description: cardMatch[3].trim(),
-        link: `/${cardMatch[4].replace('.php.html', '')}/#content`,
+        description: `${title} for corporate events, exhibitions, and parties across the UK.`,
+        link: newLink + '/',
         image: localImagePath || imageUrl
       });
+      cardIndex++;
     }
 
-    // Extract main content paragraphs
-    const homePageSection = html.match(/<section class="home-page">([\s\S]*?)<\/section>/);
-    if (homePageSection) {
-      const sectionContent = homePageSection[1];
-      const firstColumn = sectionContent.match(/<div id="column_NQZ91"[^>]*>([\s\S]*?)<\/div>\s*<div id="column_EOJ8N"/);
-
-      if (firstColumn) {
-        const paragraphPattern = /<p class="ql-align-justify">([^<]+(?:<[^>]+>[^<]*<\/[^>]+>[^<]*)*?)<\/p>/g;
-        let pMatch;
-        while ((pMatch = paragraphPattern.exec(firstColumn[1])) !== null) {
-          const text = pMatch[1].replace(/<[^>]+>/g, '').replace(/&apos;/g, "'").trim();
-          if (!text.includes('DBS checked')) {
-            homeContent.main_content.paragraphs.push(text);
-          }
-        }
-
-        // Extract DBS highlight
-        const highlightMatch = firstColumn[1].match(/<strong[^>]*style="color:[^"]*">([^<]+)<\/strong>/);
-        if (highlightMatch) {
-          homeContent.main_content.highlight = highlightMatch[1].trim();
-        }
-      }
+    // Extract main content heading
+    const headingMatch = html.match(/<div class="text-center margin-bottom-40">\s*<h1[^>]*>([\s\S]*?)<\/h1>/);
+    if (headingMatch) {
+      const headingText = headingMatch[1]
+        .replace(/<[^>]+>/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+      homeContent.main_content.highlight = headingText;
     }
 
-    // Extract "Why Choose Us" features with icon mapping
-    const featurePattern = /<div class="text-center[^>]*><strong>([^<]+)<\/strong><\/div>/g;
-    let featureMatch;
-    let featureIndex = 0;
-    const iconMap = [
-      "/assets/icons/fully-certified-engineers.svg",
-      "/assets/icons/24-7-service.svg",
-      "/assets/icons/shield.svg",
-      "/assets/icons/tools.svg"
+    // Extract meta description for main content
+    const descMatch = html.match(/<meta\s+name="description"\s+content="([^"]+)"/i);
+    if (descMatch) {
+      homeContent.main_content.paragraphs.push(descMatch[1]);
+    }
+
+    // Add Why Choose Us features based on common Fun Pro UK services
+    homeContent.why_choose_us.features = [
+      { title: "Nationwide Delivery", icon: "/assets/icons/delivery.svg" },
+      { title: "Professional Setup", icon: "/assets/icons/tools.svg" },
+      { title: "Branded Games Available", icon: "/assets/icons/branding.svg" },
+      { title: "Expert Event Support", icon: "/assets/icons/support.svg" }
     ];
-    while ((featureMatch = featurePattern.exec(html)) !== null) {
-      const title = featureMatch[1].trim();
-      if (title && !title.includes('Our Service Areas')) {
-        const feature = { title };
-        if (featureIndex < iconMap.length) {
-          feature.icon = iconMap[featureIndex];
-        }
-        homeContent.why_choose_us.features.push(feature);
-        featureIndex++;
-      }
-    }
-
 
     // Write the JSON file
     fs.writeFileSync(outputPath, JSON.stringify(homeContent, null, 2));
 
     console.log('✅ Homepage content extracted successfully');
     console.log(`   - ${homeContent.banner.images.length} banner images`);
-    console.log(`   - Special offer: ${homeContent.banner.special_offer.message ? 'Yes' : 'No'}`);
+    console.log(`   - Ticker message: ${homeContent.banner.special_offer.message ? 'Yes' : 'No'}`);
     console.log(`   - ${homeContent.hero.service_cards.length} service cards`);
     console.log(`   - ${homeContent.main_content.paragraphs.length} content paragraphs`);
     console.log(`   - ${homeContent.why_choose_us.features.length} features`);

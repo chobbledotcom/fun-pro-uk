@@ -7,14 +7,6 @@ meta_description: "Fun Foods Hire – Delicious Event Catering Solutions equipme
 permalink: "/products/fun-foods/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=bbq.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=candy-floss-cart-hire-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ice-van-hire.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=paella.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pig-roast.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pix-n-mix-hire-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=pizza.png&cs=1200"
 ---
 
 # Fun Food Hire
@@ -25,31 +17,31 @@ Whether you are seeking hot dogs and burgers, hog roasts, delicious fresh pizzas
 
 [BBQ](fun-foods/71/bbq.html "BBQ - Sub- Contactors Only")
 
-[More Details](fun-foods/71/bbq.html)
+[More Details](fun-foods/71/bbq/)
 
 [Candy Floss Cart Hire](fun-foods/92/candy-floss-cart-hire.html "Candy Floss Cart Hire - Fun Foods ")
 
-[More Details](fun-foods/92/candy-floss-cart-hire.html)
+[More Details](fun-foods/92/candy-floss-cart-hire/)
 
 [Ice Cream van Hire](fun-foods/73/ice-cream-van-hire.html "Ice Cream van Hire - Sub- Contactors Only")
 
-[More Details](fun-foods/73/ice-cream-van-hire.html)
+[More Details](fun-foods/73/ice-cream-van-hire/)
 
 [PAELLA](fun-foods/72/paella.html "PAELLA - Sub- Contactors Only")
 
-[More Details](fun-foods/72/paella.html)
+[More Details](fun-foods/72/paella/)
 
 [Pig Roast](fun-foods/69/pig-roast.html "Pig Roast - Sub- Contactors Only")
 
-[More Details](fun-foods/69/pig-roast.html)
+[More Details](fun-foods/69/pig-roast/)
 
 [Pix N Mix Hire](exhibition-games/42/pix-n-mix-hire.html "Pix N Mix Hire - Fun Foods ")
 
-[More Details](exhibition-games/42/pix-n-mix-hire.html)
+[More Details](exhibition-games/42/pix-n-mix-hire/)
 
 [Pizza](fun-foods/70/pizza.html "Pizza - Sub- Contactors Only")
 
-[More Details](fun-foods/70/pizza.html)
+[More Details](fun-foods/70/pizza/)
 
 ## PIZZERIA
 
@@ -102,6 +94,6 @@ To find Out more Contact Fun Pro UK by Emailing [info@funprouk.co.uk](mailto:inf
 
 ## What our customers are saying…
 
-[Load More Reviews](../pages/testimonials.html#BodyContent)
+[Load More Reviews](/pages/testimonials/#BodyContent)
 
 Happy customers we have worked along side

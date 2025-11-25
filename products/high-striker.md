@@ -7,14 +7,6 @@ meta_description: "Hire Our High Striker Game For Your Family Fun Days, Parties,
 permalink: "/products/high-striker/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-3.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-5.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-6.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=high-striker-9.jpg&cs=1200"
 ---
 
 # High Striker
@@ -47,11 +39,11 @@ Corporate events can be tedious, but just imagine the surprise on their faces wh
 
 **£1195**\+ vat**
 
-Delivered [](high-striker.html#specification)and [](high-striker.html#specification)installed on site by our trained team
+Delivered [](high-striker/#specification)and [](high-striker/#specification)installed on site by our trained team
 
-\*Delivery [](high-striker.html#specification)Charges & Minimum order value may apply
+\*Delivery [](high-striker/#specification)Charges & Minimum order value may apply
 
-[**Email:**](high-striker.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](high-striker/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

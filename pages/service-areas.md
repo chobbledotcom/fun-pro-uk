@@ -1,6 +1,6 @@
 ---
-meta_title: "Service Areas | Security Installation Across South East London & Kent"
-meta_description: "We provide professional burglar alarm and CCTV installation across South East London and Kent including Bexley, Dartford, Bromley, Orpington, Greenwich and surrounding areas."
+meta_title: "Delivery Areas | Game Hire Across the UK | Fun Pro UK"
+meta_description: "Fun Pro UK provides interactive game hire and entertainment delivery across the UK including Birmingham, London, Manchester, Coventry, Nottingham, Leicester and more."
 permalink: "/service-areas/"
 layout: page.html
 eleventyNavigation:
@@ -8,6 +8,6 @@ eleventyNavigation:
   order: 4
 ---
 
-# Service Areas
+# Delivery Areas
 
-We provide professional security installation and maintenance services across South East London and Kent.
+We provide nationwide delivery of interactive games and entertainment hire across the UK.

@@ -7,8 +7,6 @@ meta_description: "Hire Our Giant Connect 4 Game For Your Family Fun Days, Parti
 permalink: "/products/giant-connect-4-game-hire/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=giant-connect-4-game-hire.jpg&cs=1200"
 ---
 
 # Giant Connect 4 Game Hire
@@ -62,15 +60,15 @@ Contact us today to book your Giant Connect 4 game rental in Birmingham, Notting
 
 **£240**\+ vat**
 
-Delivered [](giant-connect-4-game-hire.html#specification)and [](giant-connect-4-game-hire.html#specification)installed on site by our trained team
+Delivered [](giant-connect-4-game-hire/#specification)and [](giant-connect-4-game-hire/#specification)installed on site by our trained team
 
 PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
 
-(One [](giant-connect-4-game-hire.html#specification)time [](giant-connect-4-game-hire.html#specification)use [](giant-connect-4-game-hire.html#specification)only)
+(One [](giant-connect-4-game-hire/#specification)time [](giant-connect-4-game-hire/#specification)use [](giant-connect-4-game-hire/#specification)only)
 
-\*Delivery [](giant-connect-4-game-hire.html#specification)Charges & Minimum order value may apply
+\*Delivery [](giant-connect-4-game-hire/#specification)Charges & Minimum order value may apply
 
-[**Email:**](giant-connect-4-game-hire.html#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+[**Email:**](giant-connect-4-game-hire/#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

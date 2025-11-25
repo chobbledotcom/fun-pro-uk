@@ -1,34 +1,12 @@
 ---
 title: "Ballnado Grabber"
 price: ""
-order: 50
+order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"
 meta_description: "Hire Our Ball Grabber Machine For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/products/ballnado-grabber/"
 categories: []
 features: []
-gallery:
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-35.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-1.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-7.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-8.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-9.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-10.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-1.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-2.png&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-11.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-12.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-14.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-15.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-16.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-19.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-20.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-21.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-22.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-23.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-24.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-28.jpg&cs=1200"
-  - "https://www.funprouk.co.uk/thumbs.ashx?img=ballnado-grabber-31.jpg&cs=1200"
 ---
 
 # Ballnado Grabber
@@ -37,13 +15,13 @@ gallery:
 
 ## Best Ballnado Grabber Hire for All Your Events in the UK!
 
-Looking for a fun and competitive game that will excite your guests? Our Ballnado grabber for hire would be the perfect attraction for your [next event in Birmingham](../../../pages/game-hire-icc-birmingham.html), Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK.
+Looking for a fun and competitive game that will excite your guests? Our Ballnado grabber for hire would be the perfect attraction for your [next event in Birmingham](/pages/game-hire-icc-birmingham/), Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK.
 
 Set up friendly competitions for your guests, offer up some prizes, and keep everyone entertained with this popular exhibition stand game.
 
 ## Why Choose the Ballnado Grabber?
 
-[Fun Pro](../../../pages/christmas-entertainment-game-hire'.html) is the leading provider of high-quality event games for hire. Our Ballnado grabbers are more than just games at a party; it’s a complete, interactive experience.
+[Fun Pro](/pages/christmas-entertainment-game-hire'/) is the leading provider of high-quality event games for hire. Our Ballnado grabbers are more than just games at a party; it’s a complete, interactive experience.
 
 The Ballnado grabber’s fun and engaging gameplay is perfect for boosting footfall at your exhibition stand or trade show booth. Capture your guests’ attention, increase brand activation, and enhance the overall experience for all your attendees.
 
@@ -79,9 +57,9 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Need a longer hire period?
 
-[Contact us](../../../pages/contact-fun-pro-uk.html) for custom pricing and availability.
+[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -123,10 +101,10 @@ Lift required
 
 ### **Popular Items:**
 
-*   [Leaded Board](../../interactive-game-hire/30/leader-board.html "LEADER BOARD")
-*   [Lights Out](../../interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
-*   [Gold Cup Horse racing](../../interactive-game-hire/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
-*   [Crack the Code](../../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
+*   [Leaded Board](/products/30/leader-board.html "LEADER BOARD")
+*   [Lights Out](/products/lights-out-game.html "LIGHTS OUT GAME")
+*   [Gold Cup Horse racing](/products/29/gold-cup-horse-racing.html "GOLD CUP HORSE RACING")
+*   [Crack the Code](/../../crack-the-code-safe-cracker.html "Crack The Code safe cracker")
 
 ## Hire a Ballnado Grabber Game for your next event!
 
@@ -134,17 +112,17 @@ The Ballnado grabber is a great way to draw crowds and create some buzz. Contest
 
 We attend a wide variety of events around the UK. You can get a Ballnado grabber hire for:
 
-[Corporate events](../../corporate-entertainment.html)
+[Corporate events](/products/corporate-entertainment/)
 
-[Exhibitions](../../../exhibition-games.html)
+[Exhibitions](/../../exhibition-games/)
 
 Family fun days
 
-[Weddings](../../../pages/hire-outdoor-games-for-weddings.html)
+[Weddings](/pages/hire-outdoor-games-for-weddings/)
 
 College and university events
 
-[Conferences and trade shows](../../../pages/conference-game-hire.html)
+[Conferences and trade shows](/pages/conference-game-hire/)
 
 Fundraisers
 

@@ -7,9 +7,9 @@ layout: page
 
 # Batak Pro Hire Manchester
 
-Are you looking to hire a [Batak Pro game](../category/batak/43/batak-pro.html) in Manchester for your exhibition stands, [corporate events](manchester-corporate-event-hire.html), or trade shows? Fun Pro UK has got you covered! The Batak Pro game is an exciting speed reaction game that will add a fun and competitive element to your events.
+Are you looking to hire a [Batak Pro game](/category/batak/batak-pro/) in Manchester for your exhibition stands, [corporate events](manchester-corporate-event-hire/), or trade shows? Fun Pro UK has got you covered! The Batak Pro game is an exciting speed reaction game that will add a fun and competitive element to your events.
 
-Manchester is a vibrant city known for its thriving business community and bustling trade shows. By incorporating a [Batak game](../Controls/category/batak.html "Batak ") into your exhibition stand or corporate event in Manchester, you'll create an interactive and engaging experience that will attract attention and leave a lasting impression on potential new clients.
+Manchester is a vibrant city known for its thriving business community and bustling trade shows. By incorporating a [Batak game](category/batak.html "Batak ") into your exhibition stand or corporate event in Manchester, you'll create an interactive and engaging experience that will attract attention and leave a lasting impression on potential new clients.
 
 Fun Pro UK offers Batak Pro game hire in Manchester, allowing you to bring this thrilling game to your events. The Batak Pro game is all about testing your speed, agility, and reaction time. With a wall of illuminated targets that light up randomly, players have to quickly hit the targets to earn points. It's a fast-paced and adrenaline-pumping game that will keep your guests entertained and engaged.
 
@@ -17,7 +17,7 @@ Not only does Fun Pro UK provide Batak Pro game hire, but they also offer bespok
 
 Whether you're participating in a trade show, hosting a corporate event, or setting up an exhibition stand in Manchester Grand Central, the Batak Pro game is a versatile addition that will attract attention and create a buzz. It's a great icebreaker and team-building activity that encourages friendly competition and interaction among your guests.
 
-Fun Pro UK takes care of the delivery, setup, and breakdown of the [Batak Pro game in Manchester,](../category/batak/43/batak-pro.html) ensuring a hassle-free experience for you. Their team is professional and experienced, making sure everything runs smoothly and that your guests have a great time. You can focus on networking and building new relationships.
+Fun Pro UK takes care of the delivery, setup, and breakdown of the [Batak Pro game in Manchester,](/category/batak/batak-pro/) ensuring a hassle-free experience for you. Their team is professional and experienced, making sure everything runs smoothly and that your guests have a great time. You can focus on networking and building new relationships.
 
 By incorporating a Batak Pro game into your exhibition stand or corporate event in Manchester, you'll create an engaging and memorable experience for all attendees. The game will draw people in, increasing foot traffic to your booth and generating interest in your products or services.
 
@@ -47,7 +47,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
 
 **Equipment size**
 
@@ -79,13 +79,13 @@ Please contact us to find out more
 
 ## Popular items:
 
-*   [Retro arcade machine](../category/interactive-game-hire/4/retro-arcade-games.html "RETRO ARCADE GAMES")
-*   [Dance Machine](../category/exhibition-games/39/dance-machine.html "Dance Machine")
-*   [Electronic Basketball hoop](../category/interactive-game-hire/6/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
-*   [Lights Out](../category/interactive-game-hire/2/lights-out-game.html "LIGHTS OUT GAME")
+*   [Retro arcade machine](/category/interactive-game-hire/retro-arcade-games.html "RETRO ARCADE GAMES")
+*   [Dance Machine](/category/exhibition-games/dance-machine.html "Dance Machine")
+*   [Electronic Basketball hoop](/category/interactive-game-hire/electronic-basket-ball-hire.html "ELECTRONIC BASKET BALL HIRE")
+*   [Lights Out](/category/interactive-game-hire/lights-out-game.html "LIGHTS OUT GAME")
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side

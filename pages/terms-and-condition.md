@@ -95,6 +95,6 @@ Please sign, date and return this contract back to [info@funprouk.co.uk](mailto:
 
 ## What our customers are saying…
 
-[Load More Reviews](testimonials.html#BodyContent)
+[Load More Reviews](testimonials/#BodyContent)
 
 Happy customers we have worked along side
