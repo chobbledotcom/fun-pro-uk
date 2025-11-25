@@ -41,8 +41,13 @@ layout: ${layout}`;
     const navKey = navInfo.text || metadata.title || slug.replace(/-/g, ' ');
     frontmatter += `
 eleventyNavigation:
-  key: "${escapeYamlString(navKey)}"
-  parent: "${escapeYamlString(navInfo.parent)}"
+  key: "${escapeYamlString(navKey)}"`;
+    // Only add parent if this is NOT a top-level item
+    if (navInfo.parent) {
+      frontmatter += `
+  parent: "${escapeYamlString(navInfo.parent)}"`;
+    }
+    frontmatter += `
   order: ${navInfo.order}`;
   }
 
@@ -156,8 +161,13 @@ featured: false`;
     const navKey = navInfo.text || metadata.title || categoryHeading || '';
     frontmatter += `
 eleventyNavigation:
-  key: "${escapeYamlString(navKey)}"
-  parent: "${escapeYamlString(navInfo.parent)}"
+  key: "${escapeYamlString(navKey)}"`;
+    // Only add parent if this is NOT a top-level item
+    if (navInfo.parent) {
+      frontmatter += `
+  parent: "${escapeYamlString(navInfo.parent)}"`;
+    }
+    frontmatter += `
   order: ${navInfo.order}`;
   }
 

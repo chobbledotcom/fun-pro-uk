@@ -43,6 +43,7 @@ const extractNavigationFromHtml = (htmlPath) => {
     items: [],        // Top-level nav items in order
     dropdowns: {},    // Map of parent key -> array of child slugs
     slugToParent: {}, // Reverse map: slug -> parent key (for quick lookup)
+    topLevelLinks: {}, // Map of slug -> { key, order } for non-dropdown top-level items
   };
 
   // Find the main navigation list - look for toplinks__ul class
@@ -65,14 +66,19 @@ const extractNavigationFromHtml = (htmlPath) => {
   
   while ((liMatch = topLevelLiRegex.exec(navListHtml)) !== null) {
     const liContent = liMatch[1];
-    
+
     // Get the first anchor tag (the main nav link)
-    const anchorMatch = liContent.match(/<a\s+[^>]*?(?:class=["'][^"']*toplinks__link[^"']*["'][^>]*)?[^>]*>([\s\S]*?)<\/a>/i);
+    const anchorMatch = liContent.match(/<a\s+([^>]*?)>([\s\S]*?)<\/a>/i);
     if (!anchorMatch) continue;
 
+    const anchorAttrs = anchorMatch[1];
     // Extract link text (remove caret tags)
-    const linkText = stripHtmlTags(anchorMatch[1]).replace(/\s+/g, ' ').trim();
+    const linkText = stripHtmlTags(anchorMatch[2]).replace(/\s+/g, ' ').trim();
     if (!linkText || linkText === 'Home') continue; // Skip Home
+
+    // Extract href from anchor attributes
+    const hrefMatch = anchorAttrs.match(/href=["']([^"'#]+)/i);
+    const href = hrefMatch ? hrefMatch[1] : null;
 
     // Check if this LI contains a nested dropdown-menu UL
     const dropdownMatch = liContent.match(/<ul\s+class=["'][^"']*dropdown-menu[^"']*["'][^>]*>([\s\S]*?)<\/ul>/i);
@@ -82,9 +88,22 @@ const extractNavigationFromHtml = (htmlPath) => {
       key: linkText,
       order: navIndex + 1,
       isDropdown,
+      href,
     };
 
     navigation.items.push(navItem);
+
+    // For non-dropdown items, extract the slug and store in topLevelLinks
+    if (!isDropdown && href) {
+      const slug = extractSlugFromHref(href);
+      if (slug) {
+        navigation.topLevelLinks[slug] = {
+          key: linkText,
+          order: navIndex + 1,
+          href,
+        };
+      }
+    }
 
     // If this is a dropdown, extract all children
     if (isDropdown && dropdownMatch) {
@@ -192,6 +211,20 @@ const detectContentType = (href) => {
  * @returns {Object|null} Navigation info with parent and order, or null
  */
 const getNavigationForSlug = (navigation, slug) => {
+  // First check if it's a top-level link (non-dropdown)
+  const topLevelInfo = navigation.topLevelLinks[slug];
+  if (topLevelInfo) {
+    return {
+      parent: null, // No parent for top-level items
+      parentOrder: null,
+      order: topLevelInfo.order,
+      text: topLevelInfo.key,
+      type: 'page',
+      isTopLevel: true,
+    };
+  }
+
+  // Then check if it's a dropdown child
   const parentKey = navigation.slugToParent[slug];
   if (!parentKey) return null;
 
@@ -211,6 +244,7 @@ const getNavigationForSlug = (navigation, slug) => {
     order: child.order,
     text: child.text,
     type: child.type,
+    isTopLevel: false,
   };
 };
 
@@ -230,7 +264,8 @@ const getNavigation = (oldSitePath) => {
   // Log extracted navigation for debugging
   const dropdownCount = Object.keys(cachedNavigation.dropdowns).length;
   const itemCount = Object.keys(cachedNavigation.slugToParent).length;
-  console.log(`  Extracted navigation: ${dropdownCount} dropdowns, ${itemCount} items`);
+  const topLevelCount = Object.keys(cachedNavigation.topLevelLinks).length;
+  console.log(`  Extracted navigation: ${dropdownCount} dropdowns, ${itemCount} dropdown items, ${topLevelCount} top-level links`);
 
   return cachedNavigation;
 };
