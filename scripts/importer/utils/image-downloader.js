@@ -110,6 +110,10 @@ const downloadProductImage = async (imageUrl, slug) => {
 const downloadProductGallery = async (imageUrls, slug) => {
   if (!imageUrls || imageUrls.length === 0) return [];
 
+  if (imageUrls.length > 0) {
+    process.stdout.write(` (${imageUrls.length} images)`);
+  }
+
   const localPaths = [];
   for (let i = 0; i < imageUrls.length; i++) {
     const imageUrl = imageUrls[i];
