@@ -95,12 +95,8 @@ const downloadImage = async (imageUrl, contentType, slug, filename = null) => {
     return { webPath, wasCached: true, failed: false, skipped: false };
   }
 
-  try {
-    await downloadFile(sourceUrl, localPath);
-    return { webPath, wasCached: false, failed: false, skipped: false };
-  } catch (error) {
-    return { webPath: '', wasCached: false, failed: true, skipped: false };
-  }
+  await downloadFile(sourceUrl, localPath);
+  return { webPath, wasCached: false, failed: false, skipped: false };
 };
 
 /**

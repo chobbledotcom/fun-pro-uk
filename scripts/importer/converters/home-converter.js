@@ -13,8 +13,7 @@ const convertHomeContent = async () => {
   const oldSitePath = path.join(__dirname, '../../../old_site/index.html');
   const outputPath = path.join(__dirname, '../../../_data/home_content.json');
 
-  try {
-    const html = fs.readFileSync(oldSitePath, 'utf-8');
+  const html = fs.readFileSync(oldSitePath, 'utf-8');
 
     const homeContent = {
       banner: {
@@ -250,19 +249,11 @@ const convertHomeContent = async () => {
     console.log(`   - ${homeContent.delivery_areas.length} delivery areas`);
     console.log(`   - ${homeContent.why_choose_us.features.length} features`);
 
-    return {
-      successful: 1,
-      failed: 0,
-      total: 1
-    };
-  } catch (error) {
-    console.error('Error converting homepage content:', error.message);
-    return {
-      successful: 0,
-      failed: 1,
-      total: 1
-    };
-  }
+  return {
+    successful: 1,
+    failed: 0,
+    total: 1
+  };
 };
 
 module.exports = { convertHomeContent };
