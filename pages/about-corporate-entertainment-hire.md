@@ -5,8 +5,7 @@ permalink: "/pages/about-corporate-entertainment-hire/"
 layout: page
 eleventyNavigation:
   key: "About Us"
-  parent: "About Us"
-  order: 1
+  order: 4
 ---
 
 # **The team to trust for nationwide**corporate fun hire**
