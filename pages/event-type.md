@@ -3,6 +3,9 @@ meta_title: "Event Type – Tailored Game Hire Services | Fun Pro UK"
 meta_description: "Event Type – Tailored Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 permalink: "/pages/event-type/"
 layout: page
+eleventyNavigation:
+  key: "Event Type"
+  order: 3
 ---
 
 # Event Type

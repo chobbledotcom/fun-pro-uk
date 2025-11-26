@@ -205,6 +205,18 @@ const detectContentType = (href) => {
 };
 
 /**
+ * Convert a navigation key to a slug format for comparison
+ * @param {string} key - Navigation key (e.g., "Event Type", "How We Help")
+ * @returns {string} Slugified version (e.g., "event-type", "how-we-help")
+ */
+const slugifyKey = (key) => {
+  return key
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+};
+
+/**
  * Get navigation info for a specific slug
  * @param {Object} navigation - Navigation structure from extractNavigationFromHtml
  * @param {string} slug - The content slug
@@ -224,6 +236,23 @@ const getNavigationForSlug = (navigation, slug) => {
     };
   }
 
+  // Check if the slug matches a dropdown parent key (e.g., "event-type" matches "Event Type")
+  // This handles cases where a page exists for the dropdown parent but isn't listed as a child
+  const matchingDropdownParent = navigation.items.find(item =>
+    item.isDropdown && slugifyKey(item.key) === slug
+  );
+  if (matchingDropdownParent) {
+    return {
+      parent: null, // No parent - this IS the dropdown parent
+      parentOrder: null,
+      order: matchingDropdownParent.order,
+      text: matchingDropdownParent.key,
+      type: 'page',
+      isTopLevel: true,
+      isDropdownParent: true,
+    };
+  }
+
   // Then check if it's a dropdown child
   const parentKey = navigation.slugToParent[slug];
   if (!parentKey) return null;
@@ -237,6 +266,22 @@ const getNavigationForSlug = (navigation, slug) => {
   // Find the parent's order in the top-level navigation
   const parentItem = navigation.items.find(item => item.key === parentKey);
   const parentOrder = parentItem ? parentItem.order : 1;
+
+  // Check if this child's text matches the parent key (case-insensitive)
+  // If so, this item should BE the dropdown parent, not a child of itself
+  const isDropdownParent = child.text.toLowerCase().trim() === parentKey.toLowerCase().trim();
+
+  if (isDropdownParent) {
+    return {
+      parent: null, // No parent - this IS the dropdown parent
+      parentOrder: null,
+      order: parentOrder, // Use the parent's order in the top-level nav
+      text: child.text,
+      type: child.type,
+      isTopLevel: true,
+      isDropdownParent: true,
+    };
+  }
 
   return {
     parent: parentKey,

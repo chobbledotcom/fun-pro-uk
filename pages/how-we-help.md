@@ -5,8 +5,7 @@ permalink: "/pages/how-we-help/"
 layout: page
 eleventyNavigation:
   key: "How We Help"
-  parent: "How We Help"
-  order: 1
+  order: 2
 ---
 
 # How We Help
