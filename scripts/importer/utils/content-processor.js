@@ -73,23 +73,48 @@ const extractMainContent = (markdown, contentType) => {
 
 /**
  * Remove product listings from category content
- * Product listings appear as:
- * #### Showing N results
- * Sort Products By: ...
- * [](../products/slug.php.html "View More")
- * ### Product Name
- * ...
- * [More Details](/products/slug.php)
+ * Product listings appear as pairs of links:
+ * [Product Name](/path/to/product/)
+ *
+ * [More Details](/path/to/product/)
+ *
+ * These can appear anywhere in the content and should be removed
  * @param {string} content - Content to clean
  * @returns {string} Content with product listings removed
  */
 const removeProductListings = (content) => {
-  // Remove everything from "#### Showing" to the end of the content
-  // This section contains the product grid
-  content = content.replace(/####\s+Showing\s+\d+\s+results[\s\S]*$/i, '');
+  // First, strip title attributes from all links to simplify pattern matching
+  // Markdown links can be [text](url) or [text](url "title") or [text](url 'title')
+  // Title attributes can contain parentheses which break our patterns
+  content = content.replace(/(\[[^\]]+\]\([^)\s]+)\s+["'][^"']*["']\)/g, '$1)');
 
-  // Also remove any remaining product link patterns
-  content = content.replace(/\[]\([^)]*\/products\/[^)]+\.php\.html[^)]*\)[\s\S]*?\[More Details]\([^)]+\)/g, '');
+  // Remove all "More Details" standalone links first
+  content = content.replace(/^\[More Details\]\([^)]+\)\s*$/gm, '');
+
+  // Clean up extra blank lines to normalize the content
+  content = content.replace(/\n{3,}/g, '\n\n');
+
+  // Now remove blocks of consecutive standalone links
+  // A standalone link is a line containing ONLY a markdown link (trimmed)
+  // We need at least 2 consecutive links (separated by single blank lines) to form a block
+
+  // Pattern to match 2+ standalone links separated by blank lines
+  // This regex matches: [text](url) followed by blank line(s) followed by another [text](url)
+  const linkBlockPattern = /^(\[[^\]]+\]\([^)]+\))\s*\n\n(\[[^\]]+\]\([^)]+\)\s*\n\n)+/gm;
+
+  // Keep removing blocks until no more are found
+  let prevContent;
+  do {
+    prevContent = content;
+    content = content.replace(linkBlockPattern, '');
+  } while (content !== prevContent);
+
+  // Also remove any remaining single standalone links that were at the end of a block
+  // These appear as a link on its own followed by a ## heading
+  content = content.replace(/^(\[[^\]]+\]\([^)]+\))\s*\n\n(##)/gm, '$2');
+
+  // Clean up extra blank lines left behind
+  content = content.replace(/\n{3,}/g, '\n\n');
 
   return content;
 };

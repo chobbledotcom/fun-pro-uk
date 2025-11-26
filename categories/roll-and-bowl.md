@@ -20,22 +20,6 @@ Blend skill, fun, and competition with our amazing collection of Roll and Bowl G
     
 *   [Roll and Bowl Christmas Reindeer Racing](/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/): Adding a festive twist to the classic format, our Christmas Reindeer Racing is a seasonal favourite that's ideal for [Christmas events](/christmas-game-hire/). Compete in a snowy dash to the finish line, where strategy and a steady hand reign supreme.
 
-[8 Lane Roll & Bowl Donkey Derby](/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
-
-[More Details](/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
-
-[Roll & Bowl Donkey Derby](/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
-
-[More Details](/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
-
-[Roll And Bowl Game Hire](/all-products/51/roll-and-bowl-game-hire/)
-
-[More Details](/all-products/51/roll-and-bowl-game-hire/)
-
-[Roll And Bowl Reindeer Racing Game Hire](/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/)
-
-[More Details](/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/)
-
 ## Hire Roll & Bowl Arcade Games Manchester, London, Birmingham & Beyond
 
 Roll and Bowl Games offer an irresistible mix of competitiveness and fun. They're a way to bring people together, challenge one another, and share in the joy of play. Ideal for any gathering looking to add an interactive element, these games appeal to both the young and the young at heart.
