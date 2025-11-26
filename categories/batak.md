@@ -30,14 +30,6 @@ At Fun Pro, people use our Batak game hire for:
 
 Batak is a crowd-pleaser that adds excitement and engagement to any occasion. We can fully customise your Batak games to include your branding and make it fit the theme of your event.
 
-[Batak Lite](/all-products/batak-lite/)
-
-[More Details](/all-products/batak-lite/)
-
-[Batak Pro](/batak/batak-pro/)
-
-[More Details](/batak/batak-pro/)
-
 ## We Provide Batak Game Hire Nationwide
 
 Fun Pro UK provides hassle-free Batak game hire across the UK, including key locations such as London, Coventry, and Birmingham. Our team ensures seamless delivery, setup, and collection, so you can focus on enjoying your event.
@@ -167,8 +159,6 @@ Looking for more interactive games or something a bit different for your event? 
 *   [Roll and Bowl](/roll-and-bowl/)
     
 *   [Crazy Golf](/fun-days/crazy-golf/)
-
-[View all our event hire products and games here](/all-products/)
 
 ## Hire Batak Games From Fun Pro
 

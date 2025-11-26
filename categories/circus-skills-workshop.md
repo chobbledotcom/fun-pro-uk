@@ -74,8 +74,6 @@ Our workshops are designed to, not only be a fun experience, but to ensure a saf
 
 Ready to bring the magic of the circus to your next event? Whether you’re looking for circus skills workshop hire for a school, party, or corporate event, we’ve got you covered.
 
-[Contact us now to book your unforgettable circus skills workshop experience.](/pages/contact-fun-pro-uk/)
-
 ## Frequently Asked Questions
 
 ### What circus skills can we learn?

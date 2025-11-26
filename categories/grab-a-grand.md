@@ -18,18 +18,6 @@ These [interactive games](/interactive-game-hire/) are perfect for [corporate ev
 
 Step into the booth and experience the rush of grabbing as many notes as possible. It’s an exhilarating game that’s sure to draw a crowd and provide loads of fun! Our [Christmas Grab a Grand](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/) is a seasonal twist on the classic, with reindeer noses rather than the standard balls, and a full festive theme.
 
-[Ballnado Grabber](/grab-a-grand/36/ballnado-grabber/)
-
-[More Details](/grab-a-grand/36/ballnado-grabber/)
-
-[CASH GRABBER MACHINE HIRE](/interactive-game-hire/3/grab-a-grand/)
-
-[More Details](/interactive-game-hire/3/grab-a-grand/)
-
-[Reindeer Nosenado (Christmas Ballnado Hire )](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
-
-[More Details](/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/)
-
 ## Cash Cube Grabber Rentals
 
 Grab a Grand games and Cash Cubes are not just about the thrill of the catch; they're powerful tools for engagement, perfect for promoting your brand, team building, or simply adding an exciting element to your party. Customisable with your branding, these games serve as a dynamic advertising medium that participants will remember long after the event.
