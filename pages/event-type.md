@@ -1,6 +1,6 @@
 ---
-meta_title: "Event Type | Corporate Entertainment & Game Hire | Fun Pro UK"
-meta_description: "Browse our event-specific game hire services for conferences, brand activations, Christmas parties, corporate events, and more across the UK."
+meta_title: "Event Type – Tailored Game Hire Services | Fun Pro UK"
+meta_description: "Event Type – Tailored Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 permalink: "/pages/event-type/"
 layout: page
 eleventyNavigation:
@@ -10,6 +10,10 @@ eleventyNavigation:
 
 # Event Type
 
-We provide specialist game hire and entertainment services tailored to your specific event type. Whether you're planning a conference, brand activation, Christmas party, or corporate event, we have the perfect entertainment solutions.
+[Exhibition Game Hire](/exhibition-games/#content) [School Fun Day Entertainment Hire](/school-fun-day-entertainment-hire/#content) [Evening Entertainment Ideas](/evening-entertainment/#content) [Fundraising Event ideas](/fundraising-event-ideas/#content) [Christmas Entertainment Game Ideas](/theme/category/christmas-game-hire/#content) [Conference Entertainment Ideas](/conference-idea/#content) [Promotion Event Games](/promotion-event-games/#content) [Office & Corporate Entertainment Ideas](/corporate-entertainment/#content) [Summer Entertainment Ideas](/outdoor-garden-game-hire/#content) [College & University](/college-and-university-entertainment/#content)
 
-Browse our event-specific services below to find the perfect entertainment for your occasion.
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side
