@@ -35,7 +35,7 @@ if (!skipBuild) {
     fs.rmSync(newSite, { recursive: true, force: true });
   }
 
-  execSync('npm run build', { cwd: root, stdio: 'inherit' });
+  execSync('pnpm run build', { cwd: root, stdio: 'inherit' });
   console.log('\n');
 } else {
   console.log('Skipping build (--skip-build flag)\n');

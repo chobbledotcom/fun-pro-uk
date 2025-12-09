@@ -35,7 +35,7 @@ scripts/importer/
 Run the conversion:
 ```bash
 # From project root
-npm run import
+pnpm run import
 
 # Or directly
 node scripts/importer/index.js
