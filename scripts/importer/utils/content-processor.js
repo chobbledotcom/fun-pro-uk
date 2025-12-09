@@ -57,7 +57,7 @@ const extractMainContent = (markdown, contentType) => {
     // Look for main content indicators based on content type
     if (contentType === 'blog' && (line.includes('# ') || line.includes('Posted By:'))) {
       inMainContent = true;
-    } else if ((contentType === 'page' || contentType === 'product' || contentType === 'category') && line.includes('# ')) {
+    } else if ((contentType === 'page' || contentType === 'product' || contentType === 'category' || contentType === 'location') && line.includes('# ')) {
       inMainContent = true;
     }
 

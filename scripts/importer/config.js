@@ -9,6 +9,7 @@ const config = {
   // Paths for different content types
   paths: {
     pages: 'pages',
+    locations: 'locations', // Output directory for location-based pages
     news: 'news', // Output directory for blog posts
     products: 'products', // Output directory for products
     productsSource: '', // Fun Pro UK: product HTML files are in the root of old_site
