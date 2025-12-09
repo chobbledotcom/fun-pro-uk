@@ -188,10 +188,46 @@ products: ["products/${productSlug}.md"]
 ---`;
 };
 
+/**
+ * Generate frontmatter for location content
+ * @param {Object} metadata - Extracted metadata
+ * @param {string} slug - Location page slug (original, e.g., 'corporate-event-hire-birmingham')
+ * @param {string} locationHeading - The H1 heading from page content
+ * @param {string} town - The matched town name
+ * @param {string} strippedSlug - Slug with town name removed (e.g., 'corporate-event-hire')
+ * @returns {Object} Object with frontmatter and filename
+ */
+const generateLocationFrontmatter = (metadata, slug, locationHeading = null, town = null, strippedSlug = null) => {
+  // Use the heading or title for the location title
+  const title = locationHeading || metadata.header_text || metadata.title || '';
+
+  // Keep the original permalink to maintain URL structure
+  const permalink = `/pages/${slug}/`;
+
+  let frontmatter = `---
+title: "${escapeYamlString(title)}"
+meta_title: "${escapeYamlString(metadata.title || '')}"
+meta_description: "${escapeYamlString(metadata.meta_description || '')}"
+permalink: "${permalink}"`;
+
+  frontmatter += '\n---';
+
+  // If town info provided, return object with custom filename in subfolder
+  if (town && strippedSlug) {
+    return {
+      frontmatter,
+      filename: `${town}/${strippedSlug}.md`
+    };
+  }
+
+  return frontmatter;
+};
+
 module.exports = {
   generatePageFrontmatter,
   generateBlogFrontmatter,
   generateProductFrontmatter,
   generateCategoryFrontmatter,
-  generateReviewFrontmatter
+  generateReviewFrontmatter,
+  generateLocationFrontmatter
 };

@@ -14,7 +14,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig } = require('./converters');
+const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const { applyFindReplacesRecursive } = require('./utils/find-replace');
 const ResultsTracker = require('./utils/results-tracker');
@@ -26,6 +26,7 @@ const CONVERTERS = {
   config: { name: 'Site Config', run: () => convertSiteConfig() },
   home: { name: 'Homepage Content', run: () => convertHomeContent() },
   pages: { name: 'Pages', run: () => convertPages() },
+  locations: { name: 'Locations', run: () => convertLocations() },
   special: { name: 'Special Pages', run: () => convertSpecialPages() },
   blog: { name: 'Blog Posts', run: () => convertBlogPosts() },
   products: { name: 'Products', run: () => convertProducts() },
@@ -114,12 +115,12 @@ const main = async () => {
   }
 
   // Only apply find/replace if running all or specific content converters
-  const contentConverters = ['pages', 'products', 'categories', 'blog'];
+  const contentConverters = ['pages', 'locations', 'products', 'categories', 'blog'];
   const shouldApplyReplacements = !args.only || args.only.some(k => contentConverters.includes(k));
 
   if (shouldApplyReplacements) {
     console.log('Applying find/replace patterns to markdown files...');
-    const targetDirs = ['pages', 'products', 'categories', 'news'];
+    const targetDirs = ['pages', 'locations', 'products', 'categories', 'news'];
     targetDirs.forEach(dir => {
       const dirPath = path.join(config.OUTPUT_BASE, dir);
       applyFindReplacesRecursive(dirPath);

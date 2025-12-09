@@ -1,11 +1,12 @@
 const path = require('path');
 const config = require('../config');
-const { listHtmlFiles, prepDir } = require('../utils/filesystem');
+const { listHtmlFiles, prepDir, slugFromFilename } = require('../utils/filesystem');
 const { extractContentHeading } = require('../utils/metadata-extractor');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
 const { getNavigation, getNavigationForSlug } = require('../utils/navigation-extractor');
+const { isLocationPage } = require('../constants');
 const fs = require('fs');
 
 const { convertSingle, convertBatch } = createConverter({
@@ -30,7 +31,15 @@ const convertPages = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
-  const pageFiles = listHtmlFiles(pagesDir);
+  const allPageFiles = listHtmlFiles(pagesDir);
+
+  // Filter out location pages - they are handled by location-converter
+  const pageFiles = allPageFiles.filter(file => {
+    const slug = slugFromFilename(file);
+    return !isLocationPage(slug);
+  });
+
+  console.log(`  Found ${pageFiles.length} regular pages (${allPageFiles.length - pageFiles.length} location pages excluded)`);
 
   // Convert root-level pages (contact only - reviews handled by reviews-index-converter)
   const rootPages = ['contact.php.html'].filter(file =>

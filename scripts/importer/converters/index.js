@@ -3,6 +3,7 @@
  */
 
 const { convertPages } = require('./page-converter');
+const { convertLocations } = require('./location-converter');
 const { convertBlogPosts } = require('./blog-converter');
 const { convertProducts } = require('./product-converter');
 const { convertCategories } = require('./category-converter');
@@ -15,6 +16,7 @@ const { convertSiteConfig } = require('./config-converter');
 
 module.exports = {
   convertPages,
+  convertLocations,
   convertBlogPosts,
   convertProducts,
   convertCategories,

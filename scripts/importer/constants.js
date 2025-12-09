@@ -1,4 +1,63 @@
 /**
+ * Town/city names used to identify location-based pages
+ * If a page filename contains one of these towns, it goes to the locations collection
+ */
+const LOCATION_TOWNS = [
+  'birmingham',
+  'bristol',
+  'coventry',
+  'leicester',
+  'london',
+  'manchester',
+  'milton-keynes',
+  'northampton',
+  'nottingham',
+];
+
+/**
+ * Check if a slug/filename represents a location page
+ * @param {string} slug - The page slug to check
+ * @returns {boolean} True if this is a location page
+ */
+const isLocationPage = (slug) => {
+  return LOCATION_TOWNS.some(town => slug.includes(town));
+};
+
+/**
+ * Extract town name from a location page slug
+ * @param {string} slug - The page slug
+ * @returns {string|null} The matched town name or null
+ */
+const extractTownFromSlug = (slug) => {
+  // Sort by length descending to match longer names first (e.g., 'milton-keynes' before 'keynes')
+  const sortedTowns = [...LOCATION_TOWNS].sort((a, b) => b.length - a.length);
+  return sortedTowns.find(town => slug.includes(town)) || null;
+};
+
+/**
+ * Strip town name and common words from slug to get the base filename
+ * @param {string} slug - The original slug (e.g., 'corporate-event-hire-birmingham')
+ * @param {string} town - The town to remove
+ * @returns {string} The cleaned slug (e.g., 'corporate-event-hire')
+ */
+const stripTownFromSlug = (slug, town) => {
+  // Remove the town name
+  let cleaned = slug.replace(town, '');
+  
+  // Remove common connector words and clean up dashes
+  // Handle patterns like "-in-", "-hire-in-", etc.
+  cleaned = cleaned
+    .replace(/-in-/g, '-')      // "hire-in-" -> "hire-"
+    .replace(/-in$/g, '')       // trailing "-in"
+    .replace(/^in-/g, '')       // leading "in-"
+    .replace(/--+/g, '-')       // multiple dashes to single
+    .replace(/^-+/, '')         // leading dashes
+    .replace(/-+$/, '');        // trailing dashes
+  
+  return cleaned;
+};
+
+/**
  * Product display order mapping
  * For Fun Pro UK products
  */
@@ -93,5 +152,9 @@ const FIND_REPLACES = {
 
 module.exports = {
   PRODUCT_ORDER,
-  FIND_REPLACES
+  FIND_REPLACES,
+  LOCATION_TOWNS,
+  isLocationPage,
+  extractTownFromSlug,
+  stripTownFromSlug
 };
