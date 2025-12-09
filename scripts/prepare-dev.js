@@ -48,11 +48,19 @@ function prep() {
   execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
   execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
   
+  // Debug: Check if package.json exists in dev directory
+  if (!fs.existsSync(path.join(dev, 'package.json'))) {
+    console.error('Error: package.json not found in dev directory after template copy!');
+    console.error('Template contents:', fs.readdirSync(template));
+    console.error('Dev contents:', fs.readdirSync(dev));
+    process.exit(1);
+  }
+  
   sync();
   
   if (!fs.existsSync(path.join(dev, 'node_modules'))) {
     console.log('Installing dependencies...');
-    execSync('npm install', { cwd: dev });
+    execSync('pnpm install', { cwd: dev });
   }
   
   fs.rmSync(path.join(dev, '_site'), { recursive: true, force: true });
