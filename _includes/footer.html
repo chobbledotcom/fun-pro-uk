@@ -1,0 +1,33 @@
+<div id="footer">
+  <div id="footer-inner">
+    <div id="footer-contact">
+      <a href="/" id="footer-logo">
+        <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
+      </a>
+      {%- include "email-link.html", id: "footer-email" -%}
+      {%- include "phone-link.html", id: "footer-phone" -%}
+      {%- include "opening-times.html", id: "footer-times" -%}
+      <div id="footer-socials">
+        Follow us:
+        {%- include "footer-socials.html" -%}
+      </div>
+    </div>
+    {%- include "footer-links.html" -%}
+    
+    {%- if config.chobble_link and layout == "home.html" -%}
+      <p>
+        <a
+          href="https://github.com/chobbledotcom/chobble-template"
+          rel="nofollow"
+          target="_blank"
+        >template</a>
+        by
+        <a
+          href="{{ config.chobble_link }}"
+          rel="nofollow"
+          target="_blank"
+        >chobble</a>
+      </p>
+    {%- endif -%}
+  </div>
+</div>
