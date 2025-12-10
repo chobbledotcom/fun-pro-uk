@@ -3,7 +3,7 @@ const fs = require('fs');
 const config = require('../config');
 const { listHtmlFiles, ensureDir, slugFromFilename } = require('../utils/filesystem');
 const { extractContentHeading } = require('../utils/metadata-extractor');
-const { generateLocationFrontmatter } = require('../utils/frontmatter-generator');
+const { generateLocationFrontmatter, generateLocationRootFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 const { isLocationPage, extractTownFromSlug, stripTownFromSlug, LOCATION_TOWNS } = require('../constants');
 
@@ -61,9 +61,15 @@ const convertLocations = async () => {
   removeDir(outputDir);
   ensureDir(outputDir);
 
-  // Create town subdirectories
+  // Create town subdirectories and root location pages
   LOCATION_TOWNS.forEach(town => {
     ensureDir(path.join(outputDir, town));
+    
+    // Create root location page (e.g., locations/birmingham.md)
+    const rootPageContent = generateLocationRootFrontmatter(town);
+    const rootPagePath = path.join(outputDir, `${town}.md`);
+    fs.writeFileSync(rootPagePath, rootPageContent);
+    console.log(`  Created root page: ${town}.md`);
   });
 
   // Convert each file with town context

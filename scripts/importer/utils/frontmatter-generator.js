@@ -223,11 +223,39 @@ permalink: "${permalink}"`;
   return frontmatter;
 };
 
+/**
+ * Generate frontmatter and content for root location pages (e.g., locations/birmingham.md)
+ * @param {string} town - The town slug (e.g., 'birmingham', 'milton-keynes')
+ * @returns {string} Complete page content with frontmatter
+ */
+const generateLocationRootFrontmatter = (town) => {
+  // Convert slug to display name (e.g., 'milton-keynes' -> 'Milton Keynes')
+  const townName = town
+    .split('-')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
+
+  return `---
+title: "${townName}"
+meta_title: "Event Hire ${townName} | Fun Pro UK"
+meta_description: "Professional event hire and entertainment services in ${townName}. Interactive games, photo booths and more for corporate events, weddings and parties."
+permalink: "/locations/${town}/"
+layout: location
+location: "${town}"
+---
+
+# Event Hire ${townName}
+
+Browse our event hire services available in ${townName} and the surrounding area.
+`;
+};
+
 module.exports = {
   generatePageFrontmatter,
   generateBlogFrontmatter,
   generateProductFrontmatter,
   generateCategoryFrontmatter,
   generateReviewFrontmatter,
-  generateLocationFrontmatter
+  generateLocationFrontmatter,
+  generateLocationRootFrontmatter
 };
