@@ -14,7 +14,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig } = require('./converters');
+const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig, convertTeam } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const { applyFindReplacesRecursive } = require('./utils/find-replace');
 const ResultsTracker = require('./utils/results-tracker');
@@ -35,6 +35,7 @@ const CONVERTERS = {
   blogindex: { name: 'Blog Index', run: () => convertBlogIndex() },
   reviewsindex: { name: 'Reviews Index', run: () => convertReviewsIndex() },
   reviews: { name: 'Reviews', run: () => convertReviews() },
+  team: { name: 'Team', run: () => convertTeam() },
 };
 
 /**
@@ -116,12 +117,12 @@ const main = async () => {
   }
 
   // Only apply find/replace if running all or specific content converters
-  const contentConverters = ['pages', 'locations', 'products', 'categories', 'events', 'blog'];
+  const contentConverters = ['pages', 'locations', 'products', 'categories', 'events', 'blog', 'team'];
   const shouldApplyReplacements = !args.only || args.only.some(k => contentConverters.includes(k));
 
   if (shouldApplyReplacements) {
     console.log('Applying find/replace patterns to markdown files...');
-    const targetDirs = ['pages', 'locations', 'products', 'categories', 'events', 'news'];
+    const targetDirs = ['pages', 'locations', 'products', 'categories', 'events', 'news', 'team'];
     targetDirs.forEach(dir => {
       const dirPath = path.join(config.OUTPUT_BASE, dir);
       applyFindReplacesRecursive(dirPath);
