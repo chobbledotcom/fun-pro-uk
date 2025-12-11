@@ -37,43 +37,49 @@ layout: base
 </section>
 
 <section id="homepage-how-it-works">
-  <h2>How it Works</h2>
-  <ol>
-    <li>
-      <h3>Browse our Games</h3>
-      <p>
-        Explore our full range of interactive games, photo experiences, and
-        entertainment options. Filter by event type or guest numbers to find
-        your perfect fit.
-      </p>
-    </li>
-    <li>
-      <h3>Build Your Quote Request</h3>
-      <p>
-        Add your favourite games to your quote basket. Include your event date,
-        venue details, and any special requirements you have in mind.
-      </p>
-    </li>
-    <li>
-      <h3>Receive Your Quote</h3>
-      <p>
-        We'll send you a detailed quote within 24 hours. No obligation, no
-        pressure, just straightforward pricing for your event.
-      </p>
-    </li>
-  </ol>
-  <p>
-    <a href="/contact/">Get in Touch</a>
-  </p>
+  <div>
+    <h2>How it Works</h2>
+    <ol>
+      <li>
+        <h3>Browse our Games</h3>
+        <p>
+          Explore our full range of interactive games, photo experiences, and
+          entertainment options. Filter by event type or guest numbers to find
+          your perfect fit.
+        </p>
+      </li>
+      <li>
+        <h3>Build Your Quote Request</h3>
+        <p>
+          Add your favourite games to your quote basket. Include your event date,
+          venue details, and any special requirements you have in mind.
+        </p>
+      </li>
+      <li>
+        <h3>Receive Your Quote</h3>
+        <p>
+          We'll send you a detailed quote within 24 hours. No obligation, no
+          pressure, just straightforward pricing for your event.
+        </p>
+      </li>
+    </ol>
+    <p>
+      <a href="/contact/" class="button white">
+        Get in Touch
+        {{ "icons/up-right-arrow.svg" | inline_asset }}
+      </a>
+    </p>
+  </div>
+  <img src="/images/placeholders/homepage-machines.png" alt="">
 </section>
 
 <section id="homepage-products">
-  <header>
-    <h2>Popular Games</h2>
+  <h2>
+    Popular Games
     <a href="/products/">View All Games</a>
-  </header>
+  </h2>
   {%- assign products = collections.products | getFeaturedProducts -%}
-  {%- include "slider.html", key: "homepage_products", items: products -%}
+  {%- include "items.html", items: products, horizontal: true -%}
 </section>
 
 <section id="homepage-events">
@@ -81,7 +87,7 @@ layout: base
     <h2>What Kind of Event Are You Planning?</h2>
   </header>
   {%- assign events = collections.events | getFeaturedEvents -%}
-  {%- include "slider.html", key: "homepage_events", items: events -%}
+  {%- include "items.html", items: events, horizontal: true -%}
 </section>
 
 <section id="homepage-contact">
