@@ -125,6 +125,7 @@ meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/${slug}/"
 categories: ${categoriesYaml}
+featured: true
 features: []`;
 
   // Add gallery with all images
@@ -154,7 +155,7 @@ title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/category/${slug}/"
-featured: false`;
+featured: true`;
 
   // Add navigation if extracted from old site navigation
   if (navInfo) {
@@ -186,6 +187,43 @@ const generateReviewFrontmatter = (name, productSlug) => {
 name: "${name}"
 products: ["products/${productSlug}.md"]
 ---`;
+};
+
+/**
+ * Generate frontmatter for event content
+ * Events are similar to categories but don't need dates
+ * @param {Object} metadata - Extracted metadata
+ * @param {string} slug - Event slug
+ * @param {string} eventHeading - The H1 heading from event content
+ * @param {number} eventIndex - Zero-based index of this event
+ * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
+ * @returns {string} Frontmatter YAML
+ */
+const generateEventFrontmatter = (metadata, slug, eventHeading = null, eventIndex = 0, navInfo = null) => {
+  let frontmatter = `---
+title: "${metadata.title || ''}"
+meta_title: "${metadata.title || ''}"
+meta_description: "${metadata.meta_description || ''}"
+permalink: "/events/${slug}/"
+featured: true`;
+
+  // Add navigation if extracted from old site navigation
+  if (navInfo) {
+    const navKey = navInfo.text || metadata.title || eventHeading || '';
+    frontmatter += `
+eleventyNavigation:
+  key: "${escapeYamlString(navKey)}"`;
+    // Only add parent if this is NOT a top-level item
+    if (navInfo.parent) {
+      frontmatter += `
+  parent: "${escapeYamlString(navInfo.parent)}"`;
+    }
+    frontmatter += `
+  order: ${navInfo.order}`;
+  }
+
+  frontmatter += '\n---';
+  return frontmatter;
 };
 
 /**
@@ -255,6 +293,7 @@ module.exports = {
   generateBlogFrontmatter,
   generateProductFrontmatter,
   generateCategoryFrontmatter,
+  generateEventFrontmatter,
   generateReviewFrontmatter,
   generateLocationFrontmatter,
   generateLocationRootFrontmatter

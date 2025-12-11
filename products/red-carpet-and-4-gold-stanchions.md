@@ -6,6 +6,7 @@ meta_title: "Red Carpet & Gold Stanchions | Red Carpet Events | Fun Pro UK"
 meta_description: "There&#39;s nothing more traditionally classy than a red carpet! This is perfect alongside photobooth hire or as a party extra. Bring Hollywood to your event!"
 permalink: "/red-carpet-and-4-gold-stanchions/"
 categories: ["categories/photo-booths-and-magic-mirrors.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2e6a583cceb091b9dfbf4cd2133f3d1"

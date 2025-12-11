@@ -3,7 +3,7 @@ title: "Exhibition Game Hire | Trade Show Stand Entertainment | UK"
 meta_title: "Exhibition Game Hire | Trade Show Stand Entertainment | UK"
 meta_description: "Find entertainment and games for exhibition stands with Fun Pro UK! We&#39;re operating all over the UK for trade shows, expos and all other events. Order now!"
 permalink: "/category/exhibition-games/"
-featured: false
+featured: true
 ---
 
 # Exhibition Game Hire

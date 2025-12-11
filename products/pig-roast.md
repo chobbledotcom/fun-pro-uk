@@ -6,6 +6,7 @@ meta_title: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK"
 meta_description: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/pig-roast/"
 categories: ["categories/fun-foods.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e082264c707417542b393179590d35c2"

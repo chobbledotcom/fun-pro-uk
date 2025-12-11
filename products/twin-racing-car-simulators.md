@@ -6,6 +6,7 @@ meta_title: "Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK"
 meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events, Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today. 07769 979 676"
 permalink: "/twin-racing-car-simulators/"
 categories: ["categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/32b3f7757007e556e69bc8aebd5cc7a8"

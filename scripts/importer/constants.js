@@ -15,6 +15,16 @@ const LOCATION_TOWNS = [
 ];
 
 /**
+ * Categories that should be imported as "events" instead of "categories"
+ * These are event types rather than product categories
+ */
+const EVENT_CATEGORIES = [
+  'staff-wellbeing-days',
+  'company-award-ceremonies',
+  'circus-skills-workshop',
+];
+
+/**
  * Check if a slug/filename represents a location page
  * @param {string} slug - The page slug to check
  * @returns {boolean} True if this is a location page
@@ -150,11 +160,22 @@ const FIND_REPLACES = {
   "tel:+02477220701": "tel:+442477220701"
 };
 
+/**
+ * Check if a category slug should be imported as an event
+ * @param {string} slug - The category slug to check
+ * @returns {boolean} True if this should be an event
+ */
+const isEventCategory = (slug) => {
+  return EVENT_CATEGORIES.includes(slug);
+};
+
 module.exports = {
   PRODUCT_ORDER,
   FIND_REPLACES,
   LOCATION_TOWNS,
+  EVENT_CATEGORIES,
   isLocationPage,
   extractTownFromSlug,
-  stripTownFromSlug
+  stripTownFromSlug,
+  isEventCategory
 };

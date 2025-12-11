@@ -6,6 +6,7 @@ const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator'
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
 const { getNavigation, getNavigationForSlug } = require('../utils/navigation-extractor');
+const { isEventCategory } = require('../constants');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'category',
@@ -33,7 +34,18 @@ const convertCategories = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.categories);
   const categoriesSourceDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
-  const files = listHtmlFiles(categoriesSourceDir);
+  const allFiles = listHtmlFiles(categoriesSourceDir);
+
+  // Filter out files that should be imported as events instead
+  const files = allFiles.filter(file => {
+    const slug = path.basename(file, '.html');
+    return !isEventCategory(slug);
+  });
+
+  const skippedCount = allFiles.length - files.length;
+  if (skippedCount > 0) {
+    console.log(`  Skipping ${skippedCount} categories that will be imported as events`);
+  }
 
   // Categories directory only contains imported categories, safe to clean all
   prepDir(outputDir);

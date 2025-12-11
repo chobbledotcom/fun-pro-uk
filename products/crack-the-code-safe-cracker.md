@@ -6,6 +6,7 @@ meta_title: "Hire Crack The Code, Safecracker Code Game For Hire, UK"
 meta_description: "Hire our crack the code game and win a prize! This safe cracking game is perfect for product launches, trade shows, promos, parties, fetes and more"
 permalink: "/crack-the-code-safe-cracker/"
 categories: ["categories/exhibition-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4542e8532d60775cd7a9739ed418501"

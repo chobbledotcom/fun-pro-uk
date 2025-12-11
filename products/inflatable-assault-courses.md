@@ -6,6 +6,7 @@ meta_title: "Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent"
 meta_description: "Hire Inflatable Obstacle Courses For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 permalink: "/inflatable-assault-courses/"
 categories: ["categories/fun-days.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/304e713bbdbff9a010b598a6e4985c1a"

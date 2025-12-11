@@ -6,6 +6,7 @@ meta_title: "Christmas Roller Bowler - Exhibition and Game Hire in Nationwide | 
 meta_description: "Christmas Roller Bowler is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-roller-bowler/"
 categories: ["categories/christmas-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ded846a01430b2a0bdd108cdac5c8a0d"

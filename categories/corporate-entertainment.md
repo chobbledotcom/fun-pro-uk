@@ -3,7 +3,7 @@ title: "Office & Corporate Game Entertainment Ideas | Party Hire | UK"
 meta_title: "Office & Corporate Game Entertainment Ideas | Party Hire | UK"
 meta_description: "Looking for fun entertainment for office parties &amp; corporate events? Check out some of the ideas our experts have: photo booths to arcade games &amp; more."
 permalink: "/category/corporate-entertainment/"
-featured: false
+featured: true
 eleventyNavigation:
   key: "Office & Corporate Game Entertainment"
   parent: "How We Help"

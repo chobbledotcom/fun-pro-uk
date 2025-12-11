@@ -6,6 +6,7 @@ meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"
 meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/crazy-golf/"
 categories: ["categories/fun-days.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"

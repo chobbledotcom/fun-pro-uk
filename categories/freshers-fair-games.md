@@ -3,7 +3,7 @@ title: "Freshers Entertainment Hire | University Games & Activities"
 meta_title: "Freshers Entertainment Hire | University Games & Activities"
 meta_description: "Professional freshers week entertainment hire for universities across the UK. Interactive games, activities and expert planning support."
 permalink: "/category/freshers-fair-games/"
-featured: false
+featured: true
 ---
 
 # Freshers Week Entertainment Hire: Interactive Games for Universities

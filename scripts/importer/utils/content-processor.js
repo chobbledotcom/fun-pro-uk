@@ -57,7 +57,7 @@ const extractMainContent = (markdown, contentType) => {
     // Look for main content indicators based on content type
     if (contentType === 'blog' && (line.includes('# ') || line.includes('Posted By:'))) {
       inMainContent = true;
-    } else if ((contentType === 'page' || contentType === 'product' || contentType === 'category' || contentType === 'location') && line.includes('# ')) {
+    } else if ((contentType === 'page' || contentType === 'product' || contentType === 'category' || contentType === 'event' || contentType === 'location') && line.includes('# ')) {
       inMainContent = true;
     }
 
@@ -126,8 +126,8 @@ const removeProductListings = (content) => {
  * @returns {string} Cleaned content
  */
 const cleanContent = (content, contentType) => {
-  // Remove product listings from category pages
-  if (contentType === 'category') {
+  // Remove product listings from category and event pages
+  if (contentType === 'category' || contentType === 'event') {
     content = removeProductListings(content);
   }
 

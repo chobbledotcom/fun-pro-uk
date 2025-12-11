@@ -6,6 +6,7 @@ meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"
 meta_description: "Beat The Buzzer Hire – Test Your Skills Event Game is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/beat-the-buzzer/"
 categories: ["categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"

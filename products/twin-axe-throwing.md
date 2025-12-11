@@ -6,6 +6,7 @@ meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"
 meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for a quote today."
 permalink: "/twin-axe-throwing/"
 categories: ["categories/all-products.md", "categories/freshers-fair-games.md", "categories/fun-fair-stalls.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"

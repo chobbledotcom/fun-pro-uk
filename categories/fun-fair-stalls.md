@@ -3,7 +3,7 @@ title: "Fun Fair Stalls Hire Near You | Fun Pro UK"
 meta_title: "Fun Fair Stalls Hire Near You | Fun Pro UK"
 meta_description: "Create unforgettable events with Fun Pro UK’s fun fair stalls. From candy floss to popcorn, we provide everything for a memorable experience. Book now!"
 permalink: "/category/fun-fair-stalls/"
-featured: false
+featured: true
 eleventyNavigation:
   key: "Fun Fair Stalls"
   parent: "Products"
