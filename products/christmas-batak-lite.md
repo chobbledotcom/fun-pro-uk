@@ -49,7 +49,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](/christmas-batak-lite/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-batak-lite/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## 🎄 **What Is Batak Lite?**
 

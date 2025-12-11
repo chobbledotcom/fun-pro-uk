@@ -36,7 +36,7 @@ In[\-](/admin/products-edit.aspx%3Fid=37/)house [](/admin/products-edit.aspx%3Fi
 
 \*Delivery [](/admin/products-edit.aspx%3Fid=37/)Charges & Minimum order value may apply
 
-[**Email:**](/admin/products-edit.aspx%3Fid=37/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/admin/products-edit.aspx%3Fid=37/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

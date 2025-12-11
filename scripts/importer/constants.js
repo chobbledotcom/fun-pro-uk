@@ -154,8 +154,8 @@ const FIND_REPLACES = {
   // Clean up double slashes (but not in https://)
   "](//)": "](/)",
 
-  // Fix mailto and tel links that got corrupted
-  "mailto:info@funprouk.co.uk": "mailto:info@funprouk.co.uk",
+  // Convert mailto links to contact page
+  "[info@funprouk.co.uk](mailto:info@funprouk.co.uk)": "[contact us](/contact/)",
   "tel:02477220701": "tel:02477220701",
   "tel:+02477220701": "tel:+442477220701"
 };

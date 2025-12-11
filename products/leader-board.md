@@ -46,7 +46,7 @@ In[\-](/leader-board/)house [](/leader-board/)branding [](/leader-board/)availab
 
 \*Delivery [](/leader-board/)Charges & Minimum order value may apply
 
-[**Email:**](/leader-board/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/leader-board/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

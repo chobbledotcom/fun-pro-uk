@@ -43,7 +43,7 @@ We want to make the entertainment at your next corporate event memorable and str
 
 Tel: 02477220701
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ![](/userfiles/file/FunPro/contactus2.jpg)
 

@@ -32,7 +32,7 @@ In[\-](/8-lane-roll-and-bowl-donkey-derby/)house [](/8-lane-roll-and-bowl-donkey
 
 \*Delivery [](/8-lane-roll-and-bowl-donkey-derby/)Charges & Minimum order value may apply
 
-[**Email:**](/8-lane-roll-and-bowl-donkey-derby/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/8-lane-roll-and-bowl-donkey-derby/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

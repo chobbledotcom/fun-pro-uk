@@ -64,7 +64,7 @@ In[\-](/gold-cup-horse-racing/)house [](/gold-cup-horse-racing/)branding [](/gol
 
 \*Delivery [](/gold-cup-horse-racing/)Charges & Minimum order value may apply
 
-[**Email:**](/gold-cup-horse-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/gold-cup-horse-racing/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

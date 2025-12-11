@@ -59,7 +59,7 @@ In[\-](/the-vault/)house [](/the-vault/)branding [](/the-vault/)available [](/th
 
 \*Delivery [](/the-vault/)Charges & Minimum order value may apply
 
-[**Email:**](/the-vault/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/the-vault/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

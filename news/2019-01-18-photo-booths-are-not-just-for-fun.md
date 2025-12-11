@@ -24,7 +24,7 @@ So, as you can see photo booths and magic mirrors are more than just fun. They a
 
 Call: 02476 629197
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 

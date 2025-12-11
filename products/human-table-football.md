@@ -49,7 +49,7 @@ Delivered [](/human-table-football/)and [](/human-table-football/)installed on s
 
 \*Delivery [](/human-table-football/)Charges & Minimum order value may apply
 
-[**Email:**](/human-table-football/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/human-table-football/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -52,7 +52,7 @@ Delivered [](/high-striker/)and [](/high-striker/)installed on site by our train
 
 \*Delivery [](/high-striker/)Charges & Minimum order value may apply
 
-[**Email:**](/high-striker/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/high-striker/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

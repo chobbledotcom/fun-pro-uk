@@ -29,7 +29,7 @@ Delivered [](/super-slides/)and [](/super-slides/)installed on site by our train
 
 \*Delivery [](/super-slides/)Charges & Minimum order value may apply
 
-[**Email:**](/super-slides/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/super-slides/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 If you really want your corporate event to get noticed, then nothing beats inflatable high slide hire. These huge, colourful inflatables stand head and shoulders above anything else, and can be seen from all around, drawing in the crowds.
 

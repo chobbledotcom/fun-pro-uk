@@ -71,7 +71,7 @@ PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
 
 \*Delivery [](/giant-connect-4-game-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/giant-connect-4-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/giant-connect-4-game-hire/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

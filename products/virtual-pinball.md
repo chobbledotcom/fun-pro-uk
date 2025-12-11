@@ -38,7 +38,7 @@ Delivered [](/arcade-games/77/virtual-pinball/)and [](/arcade-games/77/virtual-p
 
 \*Delivery [](/arcade-games/77/virtual-pinball/)Charges & Minimum order value may apply
 
-[**Email:**](/arcade-games/77/virtual-pinball/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/arcade-games/77/virtual-pinball/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -66,7 +66,7 @@ If you need to extend the hire period, just let us know, and we’ll do our best
 
 Get in touch for custom pricing and availability.  
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

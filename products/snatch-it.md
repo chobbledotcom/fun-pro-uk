@@ -53,7 +53,7 @@ In[\-](/snatch-it/)house [](/snatch-it/)branding [](/snatch-it/)available [](/sn
 
 \*Delivery [](/snatch-it/)Charges & Minimum order value may apply
 
-[**Email:**](/snatch-it/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/snatch-it/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -133,7 +133,7 @@ Be quick to hire our game, as it gets SNATCHED quickly!! If you like playing spe
 
 Contact us today for more information:  
   
-[info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
+[contact us](/contact/)  
 Tel: 0247 7220 701  
 [www.funprouk.co.uk](/pages/christmas-entertainment-game-hire'/)
 

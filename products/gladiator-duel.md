@@ -32,7 +32,7 @@ Delivered [](/gladiator-duel/)and [](/gladiator-duel/)installed on site by our t
 
 \*Delivery [](/gladiator-duel/)Charges & Minimum order value may apply
 
-[**Email:**](/gladiator-duel/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/gladiator-duel/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -100,4 +100,4 @@ The gladiator duel is just part of our company fun day hire range, available for
 
 Talk to our friendly team and we'll create the perfect package to suit your theme, your venue and your budget, with everything carefully planned to make your whole day hassle free.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**

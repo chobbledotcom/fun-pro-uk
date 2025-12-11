@@ -64,7 +64,7 @@ At Fun Pro UK, we love the festive season, and our elves have got lots of great 
 
 *   Tel: 02476 629197
 *   Mob: 07769 979676
-*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   Email: [contact us](/contact/)
 *   Contact form
 
 ## What our customers are saying…

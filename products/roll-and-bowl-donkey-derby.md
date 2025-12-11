@@ -61,7 +61,7 @@ In[\-](/roll-and-bowl-donkey-derby/)house [](/roll-and-bowl-donkey-derby/)brandi
 
 \*Delivery [](/roll-and-bowl-donkey-derby/)Charges & Minimum order value may apply
 
-[**Email:**](/roll-and-bowl-donkey-derby/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/roll-and-bowl-donkey-derby/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

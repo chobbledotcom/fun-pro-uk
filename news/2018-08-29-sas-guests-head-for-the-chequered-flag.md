@@ -18,7 +18,7 @@ Comments received on the night included how realistic the graphics were and how 
 
 It was a great experience for Fun Pro UK to be involved with such an original event idea. However, our Race Car Simulators are perfect for car dealerships, car parts companies and manufacturers, and would fit into a range of events from car launches to fun days, trade shows to car related sales promotions.
 
-If you are interested in hiring out Race Car Simulators, please call one of our team on 07769 979 676 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+If you are interested in hiring out Race Car Simulators, please call one of our team on 07769 979 676 or email us at [contact us](/contact/)
 
 ![](/userfiles/race-car-simulator-3.jpg)![](/userfiles/race-car-simulator-4.jpg)  
 

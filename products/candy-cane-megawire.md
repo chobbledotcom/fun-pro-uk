@@ -96,7 +96,7 @@ Need a longer hire period? Contact us for custom pricing and availability.
 
 \*Delivery [](/candy-cane-megawire/)Charges & Minimum order value may apply
 
-[**Email:**](/candy-cane-megawire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
+[**Email:**](/candy-cane-megawire/) **[contact us](/contact/)**or Call: [02477220701  
 ](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.

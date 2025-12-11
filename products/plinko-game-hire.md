@@ -64,7 +64,7 @@ In[\-](/all-products/68/plinko-game-hire/)house [](/all-products/68/plinko-game-
 
 \*Delivery [](/all-products/68/plinko-game-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/68/plinko-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/68/plinko-game-hire/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

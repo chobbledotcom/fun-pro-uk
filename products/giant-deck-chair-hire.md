@@ -56,7 +56,7 @@ Delivered [](/giant-deck-chair-hire/)and [](/giant-deck-chair-hire/)installed on
 
 \*Delivery [](/giant-deck-chair-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/giant-deck-chair-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/giant-deck-chair-hire/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

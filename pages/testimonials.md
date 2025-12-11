@@ -9,7 +9,7 @@ layout: page
 
 Our customers think we're **amazing**! Check out their testimonials below!
 
-If you wish to leave a review please email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or call 02477220701
+If you wish to leave a review please email [contact us](/contact/) or call 02477220701
 
 If you want to leave us a review on [Google, click here](https://search.google.com/local/writereview?placeid=ChIJ2_s44PJLd0gRbC3eilgrwng)!
 

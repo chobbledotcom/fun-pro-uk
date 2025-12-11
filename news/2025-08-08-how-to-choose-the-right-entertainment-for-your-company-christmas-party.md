@@ -172,7 +172,7 @@ We recommend booking 6-8 weeks in advance, especially for December dates. Popula
 
 ### What happens if entertainment equipment breaks down during our party?
 
-Professional hire companies provide backup equipment and rapid response support. Our experienced team can quickly resolve technical issues to ensure your celebration continues smoothly. You can contact us on 024 7 -722 -0701 or email [info@funprouk.com](mailto:info@funprouk.com).
+Professional hire companies provide backup equipment and rapid response support. Our experienced team can quickly resolve technical issues to ensure your celebration continues smoothly. You can contact us on 024 7 -722 -0701 or email [contact us](/contact/).
 
 ### Is Christmas entertainment suitable for mixed-age groups?
 

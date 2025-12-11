@@ -67,13 +67,13 @@ In[\-](/roll-and-bowl-reindeer-racing-game-hire/)house [](/roll-and-bowl-reindee
 
 \*Delivery [](/roll-and-bowl-reindeer-racing-game-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/roll-and-bowl-reindeer-racing-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/roll-and-bowl-reindeer-racing-game-hire/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 **Discounted rates** available for **Multiple Days &**Additional items**
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

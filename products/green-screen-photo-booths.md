@@ -73,7 +73,7 @@ In[\-](/green-screen-photo-booths/)house [](/green-screen-photo-booths/)branding
 
 \*Delivery [](/green-screen-photo-booths/)Charges & Minimum order value may apply
 
-[**Email:**](/green-screen-photo-booths/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/green-screen-photo-booths/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

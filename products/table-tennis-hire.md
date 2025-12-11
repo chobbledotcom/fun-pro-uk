@@ -70,7 +70,7 @@ Delivered [](/table-tennis-hire/)and [](/table-tennis-hire/)installed on site by
 
 \*Delivery [](/table-tennis-hire/)Charges & Minimum order value may apply
 
-[**Email:**](/table-tennis-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/table-tennis-hire/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 Please note that delivery charges and minimum order values may apply.
 

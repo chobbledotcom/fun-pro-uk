@@ -16,7 +16,7 @@ Sales team hours
 
 **Monday to Friday: 10am - 5pm**
 
-Email address: **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**
+Email address: **[contact us](/contact/)**
 
 Phone number: [**02477220701**](tel:02477220701)
 

@@ -93,7 +93,7 @@ Hinckley
 Solihull  
 Stratford up on Avon
 
-We cover the whole if the UK, so get in touch today on +442477220701 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+We cover the whole if the UK, so get in touch today on +442477220701 or email us at [contact us](/contact/)
 
 Please browse through our exhibition games rental page. Soon you’ll have fun at your next exhibition event and also have plenty of hot leads to future business!
 

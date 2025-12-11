@@ -57,7 +57,7 @@ Delivered [](/pluck-a-duck-racing/)and [](/pluck-a-duck-racing/)installed on sit
 
 \*Delivery [](/pluck-a-duck-racing/)Charges & Minimum order value may apply
 
-[**Email:**](/pluck-a-duck-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/pluck-a-duck-racing/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -40,7 +40,7 @@ Whether you are just looking for a single inflatable or want to push the boat ou
 
 Contact us on
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 Tel: 02476 629 197
 

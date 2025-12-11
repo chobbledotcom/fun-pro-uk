@@ -43,7 +43,7 @@ If you want all your guests to have a memorable, fun experience at your event. P
 
 Tel: +442477220701
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ![](/userfiles/file/FunPro/contactus2.jpg)
 

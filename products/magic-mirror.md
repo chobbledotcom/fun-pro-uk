@@ -67,7 +67,7 @@ Delivered [](/magic-mirror/)and [](/magic-mirror/)installed on site by our train
 
 \*Delivery [](/magic-mirror/)Charges & Minimum order value may apply
 
-[**Email:**](/magic-mirror/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/magic-mirror/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

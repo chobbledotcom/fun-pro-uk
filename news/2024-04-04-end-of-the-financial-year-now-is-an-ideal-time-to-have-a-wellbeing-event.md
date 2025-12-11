@@ -32,7 +32,7 @@ Give the Fun Pro UK events team a call to help your plan and deliver the best we
 
 Free quotes
 
-Email : [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email : [contact us](/contact/)
 
 Telephone : 0247 7220 701
 

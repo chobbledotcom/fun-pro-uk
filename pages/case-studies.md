@@ -31,7 +31,7 @@ Take a look at our case studies and you'll see the many different ways that we c
 To find out more, contact us today to discuss your next event. Our talented team of event managers are standing by to help, so just let us know what you need and you can leave the rest to us.
 
 *   Tel: 02477220701
-*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   Email: [contact us](/contact/)
 *   Contact form
 
 ## What our customers are saying…

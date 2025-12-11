@@ -15,7 +15,7 @@ At Fun Pro UK, we want your event to be loads of fun for everyone involved, but 
 
 Our expert events management team are here to work with you to create memorable event, raising your company profile, boosting your social media presence and rewarding and inspiring your staff.
 
-Below, you'll find a selection of our most frequently asked questions. If you need to know anything else, please feel free to contact us on 02476 629197 / 07769 979676 or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Below, you'll find a selection of our most frequently asked questions. If you need to know anything else, please feel free to contact us on 02476 629197 / 07769 979676 or email [contact us](/contact/)
 
 ## Q. What areas does Fun Pro UK deliver to?
 

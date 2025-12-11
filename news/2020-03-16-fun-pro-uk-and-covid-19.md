@@ -28,7 +28,7 @@ Stay in touch
 
 Call our team on : 02476 629197
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ![Fun Pro UK](/userfiles/file/FunPro/clear-back-ground-logo.png)
 

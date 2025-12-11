@@ -139,7 +139,7 @@ Don't miss out on the opportunity to make every event unforgettable. Contact us 
 
 ### Can the games be branded with our company logo?
 
-Yes! We have a wide range of exhibition games for hire that you can brand with your company logo and colours. Some of our popular options include the Batak Lite and Batak Pro, Photo Booths, High Striker, Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to know more about the process.
+Yes! We have a wide range of exhibition games for hire that you can brand with your company logo and colours. Some of our popular options include the Batak Lite and Batak Pro, Photo Booths, High Striker, Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [contact us](/contact/) to know more about the process.
 
 ### How long can we hire the games for?
 

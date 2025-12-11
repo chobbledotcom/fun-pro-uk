@@ -74,7 +74,7 @@ In[\-](/crack-the-code-safe-cracker/)house [](/crack-the-code-safe-cracker/)bran
 
 \*Delivery [](/crack-the-code-safe-cracker/)Charges & Minimum order value may apply
 
-[**Email:**](/crack-the-code-safe-cracker/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/crack-the-code-safe-cracker/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

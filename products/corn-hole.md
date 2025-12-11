@@ -43,7 +43,7 @@ In[\-](/corn-hole/)house [](/corn-hole/)branding [](/corn-hole/)available [](/co
 
 \*Delivery [](/corn-hole/)Charges & Minimum order value may apply
 
-[**Email:**](/corn-hole/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/corn-hole/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 **![](/userfiles/fun-pro-corn-hole-hire.jpg)**
 

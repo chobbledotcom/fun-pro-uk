@@ -46,7 +46,7 @@ Delivered [](/top-doc-operation-game/)and [](/top-doc-operation-game/)installed 
 
 \*Delivery [](/top-doc-operation-game/)Charges & Minimum order value may apply
 
-[**Email:**](/top-doc-operation-game/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/top-doc-operation-game/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

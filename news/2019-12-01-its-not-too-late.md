@@ -31,7 +31,7 @@ If you're looking for something a little more active for your Christmas party, t
 Make your Christmas party one to remember by adding some fun activities to help your guests get in the festive spirit and make magical Christmas memories.
 
 GET IN TOUCH NOW:  
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
+Email: [contact us](/contact/)  
 Tel: 02476 629197  
 Mob: 07769979676
 

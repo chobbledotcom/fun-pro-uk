@@ -21,7 +21,7 @@ Fun Pro Uk have an array of games to hire for your stand at the ICC, Birmingham.
 
 Arranging an exhibition stand, trade show stall or [event at the ICC](/christmas-entertainment-game-hire'/)? Then contact our team today and we will recommend a game that will bring interaction to your stand.
 
-Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Contact us today to find out how we can help you. Tel: 02477220701 or Email: [contact us](/contact/)
 
 Here are events being held at the ICC, Birmingham: [Click here to find out more.](http://www.theicc.co.uk/content-hub/)
 

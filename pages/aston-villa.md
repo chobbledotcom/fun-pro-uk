@@ -23,7 +23,7 @@ Why not contact us [today](/contact-fun-pro-uk/#content) about your next event y
 
 Tel:02477220701
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ## What our customers are saying…
 

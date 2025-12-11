@@ -44,7 +44,7 @@ We want to make your Christmas as magical as possible, and even though we can't 
 
 ### GET IN TOUCH NOW:
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 Tel: 02476 629197
 

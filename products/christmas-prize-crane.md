@@ -42,7 +42,7 @@ In[\-](/christmas-prize-crane/)house [](/christmas-prize-crane/)branding [](/chr
 
 \*Delivery [](/christmas-prize-crane/)Charges & Minimum order value may apply
 
-[**Email:**](/christmas-prize-crane/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-prize-crane/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

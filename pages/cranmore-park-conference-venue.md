@@ -25,7 +25,7 @@ Once you have your venue, booked give our team a call to prepare the perfect ent
 
 Call: 02477220701
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ## What our customers are saying…
 

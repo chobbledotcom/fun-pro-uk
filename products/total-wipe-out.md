@@ -34,7 +34,7 @@ Delivered [](/total-wipe-out/)and [](/total-wipe-out/)installed on site by our t
 
 \*Delivery [](/total-wipe-out/)Charges & Minimum order value may apply
 
-[**Email:**](/total-wipe-out/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/total-wipe-out/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

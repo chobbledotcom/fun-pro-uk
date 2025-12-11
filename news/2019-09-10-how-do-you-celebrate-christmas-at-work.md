@@ -50,7 +50,7 @@ Alternatively, make your event into a Christmas games night and consider hiring 
 
 Don't get your tinsel in a tangle whilst dancing on our all new [Dance Machine](/category/exhibition-games/dance-machine/).
 
-We have a whole team of event experts who are on hand to help you with every stage of planning your festive corporate event. Just give our team a call on 02476 629 197 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to find out how we can bring that extra bit of Christmas magic to your event this year!
+We have a whole team of event experts who are on hand to help you with every stage of planning your festive corporate event. Just give our team a call on 02476 629 197 or email us at [contact us](/contact/) to find out how we can bring that extra bit of Christmas magic to your event this year!
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 

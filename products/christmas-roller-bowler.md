@@ -53,7 +53,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
-[**Email:**](/christmas-roller-bowler/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/christmas-roller-bowler/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## What Is Roller Bowler?
 

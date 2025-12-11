@@ -57,7 +57,7 @@ Delivered [](/photo-booths/ultimate-green-screen-photo-booth/)and [](/photo-boot
 
 \*Delivery [](/photo-booths/ultimate-green-screen-photo-booth/)Charges & Minimum order value may apply
 
-[**Email:**](/photo-booths/ultimate-green-screen-photo-booth/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/photo-booths/ultimate-green-screen-photo-booth/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

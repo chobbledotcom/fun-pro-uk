@@ -29,7 +29,7 @@ Delivered [](/large-bouncy-castles/)and [](/large-bouncy-castles/)installed on s
 
 \*Delivery [](/large-bouncy-castles/)Charges & Minimum order value may apply
 
-[**Email:**](/large-bouncy-castles/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/large-bouncy-castles/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 If you've ever watched your kids having the time of their lives on a bouncy castle, and longed to have a go, then this is the perfect hire for you. Our adult bouncy castles for hire are specially designed for grown-ups, so everyone from the managing director to the intern can bounce their way back to that wonderful free feeling of childhood.
 

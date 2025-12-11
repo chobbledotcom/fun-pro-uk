@@ -19,7 +19,7 @@ We're a photo booth hire company you can rely on! Check out our wonderful range 
 
 So, give us a call or drop us a line with your party dates and we can get you booked in.
 
-Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Tel: 02477220701 or Email: [contact us](/contact/)
 
 ![Christmas photo booth hire](/userfiles/nec1.png)
 

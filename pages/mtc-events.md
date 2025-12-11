@@ -23,7 +23,7 @@ Getting your clients. customers and colleagues to feel relaxed in the presence o
 
 If you are interested in the amazing spaces at MTC Events, visit their website here.
 
-If you would like to get on board with Fun Pro UK for the team to help build you the perfect set up for an entertaining exhibition or product launch call our team today on 02477220701 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+If you would like to get on board with Fun Pro UK for the team to help build you the perfect set up for an entertaining exhibition or product launch call our team today on 02477220701 or email us at [contact us](/contact/)
 
 ## What our customers are saying…
 

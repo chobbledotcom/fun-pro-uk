@@ -76,7 +76,7 @@ To find out more please contact the team at FUN PRO UK
 Tel: 02476 629 197  
 07769 979 676
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 

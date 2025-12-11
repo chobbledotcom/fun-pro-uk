@@ -90,7 +90,7 @@ Need a longer hire period? Contact us for custom pricing and availability.
 
 \*Delivery [](/candy-cane-snatch-it/)Charges & Minimum order value may apply
 
-[**Email:**](/candy-cane-snatch-it/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/candy-cane-snatch-it/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
 **

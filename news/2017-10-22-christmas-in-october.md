@@ -28,7 +28,7 @@ The guests looked so cool dressed in their costumes and really got into the part
 
 If you haven't booked your Photo booth or Selfie Mirror for your Christmas Party yet- don't panic we do have a few more dates in the diary! There is still time, so drop us a line!
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 

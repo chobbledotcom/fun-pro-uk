@@ -42,7 +42,7 @@ Why not get your delegates to battle throughout the conference, with the top sco
 
 Inspired to bring entertainment into your next conference? Contact our expert team at
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 Tel: 02476 629 197
 

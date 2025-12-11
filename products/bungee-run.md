@@ -34,7 +34,7 @@ Delivered [](/bungee-run/)and [](/bungee-run/)installed on site by our trained t
 
 \*Delivery [](/bungee-run/)Charges & Minimum order value may apply
 
-[**Email:**](/bungee-run/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/bungee-run/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## LETS GET STARTED!
 

@@ -87,7 +87,7 @@ Whatever you choose, you know you're with an experienced and professional team w
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, [Leicester](/pages/leicester-corporate-event-hire/), [Nottingham](/pages/nottingham-corporate-event-hire/), or any other location in the UK!
 
-If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/pages/contact-fun-pro-uk/)
+If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [contact us](/contact/) and check out our [contact us page.](/pages/contact-fun-pro-uk/)
 
 ## Frequently Asked Questions
 

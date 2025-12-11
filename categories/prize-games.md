@@ -20,7 +20,7 @@ Look through our huge range below, and when you're ready, make a booking online,
 
 Boost your brand visibility with customisable games, featuring your logo and colours. [Branded exhibition games](/branded-exhibition-games/) are a great way to ensure that people keep your business in mind long after the event is over - just contact us with your ideas!
 
-*Our Prize Games travel across the UK, including to Manchester, Birmingham, London, Leeds, Cardiff and beyond. Just tell us where you need us and we'll handle the rest. [Contact us](/pages/contact-fun-pro-uk/), ring [02477220701](tel:02477220701), or shoot an email to [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to begin your order!*
+*Our Prize Games travel across the UK, including to Manchester, Birmingham, London, Leeds, Cardiff and beyond. Just tell us where you need us and we'll handle the rest. [Contact us](/pages/contact-fun-pro-uk/), ring [02477220701](tel:02477220701), or shoot an email to [contact us](/contact/) to begin your order!*
 
 ## Roll up and Win a Prize!
 

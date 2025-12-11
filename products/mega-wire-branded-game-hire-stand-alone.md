@@ -92,7 +92,7 @@ In[\-](/all-products/64/mega-wire-branded-game-hire-stand-alone/)house [](/all-p
 
 \*Delivery [](/all-products/64/mega-wire-branded-game-hire-stand-alone/)Charges & Minimum order value may apply
 
-[**Email:**](/all-products/64/mega-wire-branded-game-hire-stand-alone/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/all-products/64/mega-wire-branded-game-hire-stand-alone/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

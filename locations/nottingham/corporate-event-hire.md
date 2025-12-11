@@ -57,7 +57,7 @@ So why not give us a call today for a no obligation quote and see how we can add
 
 Tel: +442477220701
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Email: [contact us](/contact/)
 
 ![](/userfiles/file/FunPro/contactus2.jpg)
 

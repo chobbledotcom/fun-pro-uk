@@ -51,7 +51,7 @@ It is all well and good having a stand at an expo with your products but you wan
 
 Everyone is so busy these days and has so much information thrown at them within such a short space of time it is all too easy to visualise a product but within minutes become side tracked and forget all about it. By branding a game on your stand this will guarantee you will be remembered and your new clients will know exactly who caught their eye at the expo they attended making it easier for them to contact you for future business.
 
-Whether it is trade stand entertainment, exhibition games to hire or items for a product launch to ensure you are noticed at your event' we can help. Why not drop our team a line today at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) with your brief and we will put together a few ideas to make your pitch profitable?
+Whether it is trade stand entertainment, exhibition games to hire or items for a product launch to ensure you are noticed at your event' we can help. Why not drop our team a line today at [contact us](/contact/) with your brief and we will put together a few ideas to make your pitch profitable?
 
 [<< Return to news](/2024-02-25/elevate-your-brand/)
 

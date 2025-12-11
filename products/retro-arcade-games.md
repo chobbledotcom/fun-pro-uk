@@ -67,7 +67,7 @@ Delivered [](/retro-arcade-games/)and [](/retro-arcade-games/)installed on site 
 
 \*Delivery [](/retro-arcade-games/)Charges & Minimum order value may apply
 
-[**Email:**](/retro-arcade-games/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/retro-arcade-games/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

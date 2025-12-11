@@ -18,7 +18,7 @@ To ensure that everything is covered for your safety, we have taken the followin
 ## **Testing our equipment**
 
 *   All our electrical equipment is annually PAT tested, ensuring all equipment is safe for use.
-*   To ensure your event runs smoothly, we provide full risk assessments, so all potential hazards are thought through. For more details on our risk assessment Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   To ensure your event runs smoothly, we provide full risk assessments, so all potential hazards are thought through. For more details on our risk assessment Email [contact us](/contact/)
 *   As much as possible, all our entertainment items are stored and transported in flight cases to ensure they arrive at your event in the best condition.
 
 ## **Our insurance**  

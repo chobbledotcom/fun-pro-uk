@@ -55,7 +55,7 @@ Delivered [](/rodeo-bull/)and [](/rodeo-bull/)installed on site by our trained t
 
 \*Delivery [](/rodeo-bull/)Charges & Minimum order value may apply
 
-[**Email:**](/rodeo-bull/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+[**Email:**](/rodeo-bull/) **[contact us](/contact/)**or Call: [02477220701](tel:+442477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

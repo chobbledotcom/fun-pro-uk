@@ -16,7 +16,7 @@ eleventyNavigation:
 **Long Version:** In this document, 'we' refers to Fun Pro UK and its representatives. 'You' refers to visitors to our website and our customers.
 
 **Who is responsible for your data?**  
-Our data protection officer and company owner is Colin Parker. The data protection officer is responsible for making sure that your data is stored and processed safely. You can contact them on [0247 7220 701](tel:02477220701) or emailing [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Our data protection officer and company owner is Colin Parker. The data protection officer is responsible for making sure that your data is stored and processed safely. You can contact them on [0247 7220 701](tel:02477220701) or emailing [contact us](/contact/)
 
 **Why do we process and store your data?**  
 We need to store and process your data if you make an enquiry or place an order with us, to allow us to provide our services as a Events company. This includes your name, contact details, and IP address. We also need to store your details for tax and insurance reasons.

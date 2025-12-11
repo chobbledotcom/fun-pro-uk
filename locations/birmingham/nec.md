@@ -137,7 +137,7 @@ We have games that can be hired for as long as 7 days. We pride ourselves in hav
 
 ### Can games be branded for corporate events?
 
-Yes! We have a wide selection of exhibition games for hire that can be branded with your company logo and colours. Our most popular games are the [Batak Lite](/category/batak/batak-lite/) and [Batak Pro](/category/batak/batak-pro/), [High Striker](/category/arcade-games/48/high-striker/), Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to know more about the process.
+Yes! We have a wide selection of exhibition games for hire that can be branded with your company logo and colours. Our most popular games are the [Batak Lite](/category/batak/batak-lite/) and [Batak Pro](/category/batak/batak-pro/), [High Striker](/category/arcade-games/48/high-striker/), Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [contact us](/contact/) to know more about the process.
 
 ### Can I hire multiple types of games for my event?
 
