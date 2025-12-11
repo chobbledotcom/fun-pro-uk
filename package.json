@@ -1,0 +1,19 @@
+{
+  "name": "fun-pro-uk",
+  "version": "1.0.0",
+  "description": "Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:38984/git/chobbledotcom/fun-pro-uk"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "turndown": "^7.2.2"
+  }
+}
