@@ -6,6 +6,7 @@ meta_title: "Racing Simulator Hire, VR Car Driving Simulator Rental, UK"
 meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/vr-race-car-simulator/"
 categories: ["categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c699e5c57a273a000e769b5a04572c1d"

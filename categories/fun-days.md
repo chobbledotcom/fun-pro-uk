@@ -3,7 +3,7 @@ title: "Family Fun Days | Benefits | Planning | Guides and FAQs | UK"
 meta_title: "Family Fun Days | Benefits | Planning | Guides and FAQs | UK"
 meta_description: "Read our guide to the benefit and planning of family fun days and avoid any common pitfalls as you prepare for the big event! Contact us for more info."
 permalink: "/category/fun-days/"
-featured: false
+featured: true
 ---
 
 # Family Fun Days - Benefits and Planning

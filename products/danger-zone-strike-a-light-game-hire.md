@@ -6,6 +6,7 @@ meta_title: "Hire Strike A Light Game, Light Reaction Game Rental, Strike UK"
 meta_description: "Hire Our Danger Zone Strike A Light Game For Your Family Fun Days, Parties, Exhibitions Corporate Events ? UK Wide Delivery. Call Us Today. 02477 220701"
 permalink: "/danger-zone-strike-a-light-game-hire/"
 categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/41ec2fd815fbfa8e94c3999aa06b10e8"

@@ -6,6 +6,7 @@ meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
 permalink: "/leader-board/"
 categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/prize-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3cd165509b7a1705c1dbf729a097616e"

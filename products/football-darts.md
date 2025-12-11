@@ -6,6 +6,7 @@ meta_title: "Velcro Football Dartboard Hire | Exhibition Stand Games | UK"
 meta_description: "Hire a Velcro Football Dartboard for your next event! Perfect for exhibitions, parties, and corporate fun days across the UK. Discover our quality services."
 permalink: "/football-darts/"
 categories: ["categories/fun-days.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1f876faf83c7c2c00283f055ccd0655"

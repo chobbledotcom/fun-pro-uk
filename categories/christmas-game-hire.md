@@ -3,7 +3,7 @@ title: "Christmas Game Hire UK | Festive Corporate Entertainment"
 meta_title: "Christmas Game Hire UK | Festive Corporate Entertainment"
 meta_description: "Professional Christmas game hire across the UK. Branded festive entertainment for corporate events, parties &amp; exhibitions. Get a no-obligation quote today."
 permalink: "/category/christmas-game-hire/"
-featured: false
+featured: true
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties

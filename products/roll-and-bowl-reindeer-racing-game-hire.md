@@ -6,6 +6,7 @@ meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
 permalink: "/roll-and-bowl-reindeer-racing-game-hire/"
 categories: ["categories/christmas-game-hire.md", "categories/all-products.md", "categories/roll-and-bowl.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6c8b1fc73f7f7f87f2aef2abb2f7ef30"

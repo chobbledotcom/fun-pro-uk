@@ -6,6 +6,7 @@ meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
 permalink: "/candy-floss-cart-hire/"
 categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-fair-stalls.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"

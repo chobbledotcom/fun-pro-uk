@@ -6,6 +6,7 @@ meta_title: "Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, U
 meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 permalink: "/total-wipe-out/"
 categories: ["categories/fun-days.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6cbf153fb90680edbf111d80fe31294f"

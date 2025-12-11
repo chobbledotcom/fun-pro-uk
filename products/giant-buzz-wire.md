@@ -6,6 +6,7 @@ meta_title: "Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent"
 meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/giant-buzz-wire/"
 categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md", "categories/pub-games.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"

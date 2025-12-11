@@ -2,123 +2,115 @@
 layout: base
 ---
 
-{%- comment -%}
-  Fun Pro UK Homepage Layout
-  Uses data from _data/home_content.json
-{%- endcomment -%}
-
-{%- if home_content.banner.special_offer.message -%}
-  <div class="ticker">
-    <div class="ticker-content">
-      <strong>Latest FP News:</strong>
-      {{ home_content.banner.special_offer.message }}
-    </div>
-  </div>
-{%- endif -%}
-
-{%- if home_content.hero.service_cards.size > 0 -%}
-  <section class="service-cards">
-    {%- if home_content.main_content.highlight -%}
-      <h1 class="section-title">{{ home_content.main_content.highlight }}</h1>
-    {%- endif -%}
-    {%- if home_content.main_content.paragraphs.size > 0 -%}
-      <p class="section-intro">{{ home_content.main_content.paragraphs | first }}</p>
-    {%- endif -%}
-    <ul class="items service-cards-grid">
-      {%- for card in home_content.hero.service_cards -%}
-        <li class="item service-card">
-          <a href="{{ card.link }}" class="service-card-link">
-            {%- if card.image.webPath -%}
-              <img src="{{ card.image.webPath }}" alt="{{ card.title }}" loading="lazy" />
-            {%- elsif card.image -%}
-              <img src="{{ card.image }}" alt="{{ card.title }}" loading="lazy" />
-            {%- endif -%}
-            <span class="service-card-title">{{ card.title }}</span>
-          </a>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </section>
-{%- endif -%}
-
-{{ content }}
-
-{%- comment -%} Popular Products Section {%- endcomment -%}
-{%- if home_content.popular_products.size > 0 -%}
-  <hr>
-  <section class="popular-products">
-    <h2>Some of our popular products</h2>
-    <ul class="items">
-      {%- for item in home_content.popular_products -%}
-        <li class="item">
-          <a href="{{ item.link }}">
-            {%- if item.image -%}
-              <img src="{{ item.image }}" alt="{{ item.title }}" loading="lazy" />
-            {%- endif -%}
-            <span>{{ item.title }}</span>
-          </a>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </section>
-{%- endif -%}
-
-{%- comment -%} Why Choose Us Section {%- endcomment -%}
-{%- if home_content.why_choose_us.features.size > 0 -%}
-  <hr>
-  <section class="why-choose-us">
-    <h2>{{ home_content.why_choose_us.heading }}</h2>
-    <ul class="features-list">
-      {%- for feature in home_content.why_choose_us.features -%}
-        <li class="feature">
-          {%- if feature.icon -%}
-            <img src="{{ feature.icon }}" alt="" class="feature-icon" />
-          {%- endif -%}
-          <span>{{ feature.title }}</span>
-        </li>
-      {%- endfor -%}
-    </ul>
-  </section>
-{%- endif -%}
-
-{%- comment -%} Reviews Section {%- endcomment -%}
-{%- assign reviews = collections.reviews | sort: "data.date" | reverse -%}
-{%- if reviews.size > 0 -%}
-  <hr>
-  <section class="reviews-section">
-    <h2>{{ home_content.reviews.heading | default: "What our customers are saying..." }}</h2>
-    {%- assign featured_reviews = reviews | slice: 0, 6 -%}
-    {%- include "reviews-list.html", reviews: featured_reviews -%}
-    <p><a href="/reviews/">Load More Reviews</a></p>
-  </section>
-{%- endif -%}
-
-{%- comment -%} Client Logos Section {%- endcomment -%}
-{%- if home_content.client_logos.size > 0 -%}
-  <hr>
-  <section class="client-logos">
-    <h2>Happy customers we have worked alongside</h2>
-    <ul class="logo-gallery">
-      {%- for logo in home_content.client_logos -%}
-        <li>
-          <img src="{{ logo.image }}" alt="{{ logo.alt | default: 'Client logo' }}" loading="lazy" />
-        </li>
-      {%- endfor -%}
-    </ul>
-  </section>
-{%- endif -%}
-
-{%- comment -%} Contact Form Section {%- endcomment -%}
-<hr>
-<section class="contact-section" id="contact">
-  <h2>Contact Fun Pro UK Today</h2>
-  {%- include "contact-form.html" -%}
+<section id="homepage-intro">
+  <h1>Get in Touch</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat.
+  </p>
+  <p>
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+  <p>
+    <a href="/products/">View Games</a>
+  </p>
 </section>
 
-{%- comment -%} Categories List (fallback to template default if needed) {%- endcomment -%}
-{%- assign categories = collections.categories | getFeaturedCategories -%}
-{%- if homepage.show_products and categories.size > 0 -%}
-  <hr>
-  {%- render_snippet "homepage-categories-header", "<h3>Browse by Category</h3>" -%}
-  {%- include "categories-list.html" -%}
-{%- endif -%}
+<section id="homepage-testimonials">
+  <h2>Hear What Our Customers Have To Say</h2>
+  {%- include "homepage-testimonials.html" -%}
+</section>
+
+<section id="homepage-brands">
+  <h2>Trusted by leading brands across the UK</h2>
+  <ul>
+    <li><img src="/assets/partners/boots.png" alt="Boots" /></li>
+    <li><img src="/assets/partners/kpmg.png" alt="KPMG" /></li>
+    <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual" /></li>
+    <li><img src="/assets/partners/jlr.png" alt="JLR" /></li>
+    <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce" /></li>
+  </ul>
+</section>
+
+<section id="homepage-how-it-works">
+  <h2>How it Works</h2>
+  <ol>
+    <li>
+      <h3>Browse our Games</h3>
+      <p>
+        Explore our full range of interactive games, photo experiences, and
+        entertainment options. Filter by event type or guest numbers to find
+        your perfect fit.
+      </p>
+    </li>
+    <li>
+      <h3>Build Your Quote Request</h3>
+      <p>
+        Add your favourite games to your quote basket. Include your event date,
+        venue details, and any special requirements you have in mind.
+      </p>
+    </li>
+    <li>
+      <h3>Receive Your Quote</h3>
+      <p>
+        We'll send you a detailed quote within 24 hours. No obligation, no
+        pressure, just straightforward pricing for your event.
+      </p>
+    </li>
+  </ol>
+  <p>
+    <a href="/contact/">Get in Touch</a>
+  </p>
+</section>
+
+<section id="homepage-products">
+  <header>
+    <h2>Popular Games</h2>
+    <a href="/products/">View All Games</a>
+  </header>
+  {%- assign products = collections.products | getFeaturedProducts -%}
+  {%- include "slider.html", key: "homepage_products", items: products -%}
+</section>
+
+<section id="homepage-events">
+  <header>
+    <h2>What Kind of Event Are You Planning?</h2>
+  </header>
+  {%- assign events = collections.events | getFeaturedEvents -%}
+  {%- include "slider.html", key: "homepage_events", items: events -%}
+</section>
+
+<section id="homepage-contact">
+  <h2>Get in Touch</h2>
+  <p>Planning a corporate event is stressful enough without worrying about the entertainment. That's where we come in. At FunPro, we handle everything from interactive games to photo booths, delivery to setup. You tell us what you need, we make it happen.</p>
+  <ol>
+    <li>
+      {{ "icons/calendar.svg" | inline_asset }}
+      <h3>Share your event details</h3>
+      <p>Tell us about your upcoming event. We're a family-run team who love talking through ideas and answering any questions you might have.</p>
+    </li>
+    <li>
+      {{ "icons/doc.svg" | inline_asset }}
+      <h3>Get your FunPro quote</h3>
+      <p>We'll put together a quote based on your venue, guest numbers, and goals. No pressure, no obligation, just options that work for you.</p>
+    </li>
+    <li>
+      {{ "icons/happy.svg" | inline_asset }}
+      <h3>Enjoy your event</h3>
+      <p>Sit back and relax while we handle delivery, setup, and staffing. You get to be a guest at your own event.</p>
+    </li>
+  </ol>
+  <p>
+    <a href="/products/" class="button red">
+      View Our Games
+      {{ "icons/up-right-arrow.svg" | inline_asset }}
+    </a>
+    <a href="tel:+442477220701" class="button white">
+      {{ "icons/phone.svg" | inline_asset }}
+      <span>Call us: 0247 7220 701</span>
+    </a>
+</section>

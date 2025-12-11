@@ -61,6 +61,7 @@ const createConverter = ({
         // Find the heading from extracted data (try different heading types)
         const heading = extracted.pageHeading || extracted.blogHeading ||
                        extracted.productHeading || extracted.categoryHeading ||
+                       extracted.eventHeading ||
                        metadata.header_text || metadata.title;
         if (heading) {
           content = `# ${heading}\n\n${content}`;

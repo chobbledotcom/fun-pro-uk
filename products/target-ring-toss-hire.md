@@ -6,6 +6,7 @@ meta_title: "Target Ring Toss Hire | Fun & Interactive Game for UK Events"
 meta_description: "Hire a Target Ring Toss game for your next event! Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today"
 permalink: "/target-ring-toss-hire/"
 categories: ["categories/fun-fair-stalls.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"

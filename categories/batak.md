@@ -3,7 +3,7 @@ title: "Batak Game Hire | Interactive Games for Events - Fun Pro UK"
 meta_title: "Batak Game Hire | Interactive Games for Events - Fun Pro UK"
 meta_description: "Hire a Batak game for your event. Fun Pro UK offers Batak Games for corporate events, exhibitions &amp; team-building nationwide. Get a quote today."
 permalink: "/category/batak/"
-featured: false
+featured: true
 eleventyNavigation:
   key: "Batak"
   parent: "Products"

@@ -2,8 +2,8 @@
 title: "Hire Corporate Wellbeing Activities | Corporate Wellbeing Days"
 meta_title: "Hire Corporate Wellbeing Activities | Corporate Wellbeing Days"
 meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
-permalink: "/category/staff-wellbeing-days/"
-featured: false
+permalink: "/events/staff-wellbeing-days/"
+featured: true
 ---
 
 # Wellbeing Days and Breakout Room Areas

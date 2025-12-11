@@ -6,6 +6,7 @@ meta_title: "Hire Giant Connect 4,Rent Giant Connect 4 Garden Game, UK"
 meta_description: "Hire Our Giant Connect 4 Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
 permalink: "/giant-connect-4-game-hire/"
 categories: ["categories/corporate-entertainment.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md"]
+featured: true
 features: []
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c0f74c5ec4fed95f13b3922a158c902"
