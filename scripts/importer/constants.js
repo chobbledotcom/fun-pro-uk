@@ -156,6 +156,7 @@ const FIND_REPLACES = {
 
   // Convert mailto links to contact page
   "[info@funprouk.co.uk](mailto:info@funprouk.co.uk)": "[contact us](/contact/)",
+  "[info@funprouk.com](mailto:info@funprouk.com)": "[contact us](/contact/)",
   "tel:02477220701": "tel:02477220701",
   "tel:+02477220701": "tel:+442477220701"
 };
