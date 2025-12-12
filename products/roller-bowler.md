@@ -6,6 +6,7 @@ meta_title: "Roller Bowler Hire UK | Corporate Events & Exhibitions"
 meta_description: "Hire the classic Roller Bowler carnival game for UK corporate events and exhibitions. No power required, fully brandable. Nationwide delivery available."
 permalink: "/roller-bowler/"
 categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

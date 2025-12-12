@@ -5,7 +5,8 @@ order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 permalink: "/retro-arcade-games/"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

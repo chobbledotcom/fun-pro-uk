@@ -104,13 +104,20 @@ permalink: "/blog/${date}/${slug}/"`;
  * @param {string} productName - Product name
  * @param {Object} images - Product images with local paths
  * @param {string} productHeading - The H1 heading from product content
+ * @param {string[]} events - Product events (array of event paths)
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null) => {
+const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = []) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
   const categoriesYaml = categoryArray.length > 0
     ? `[${categoryArray.map(c => `"${c}"`).join(', ')}]`
+    : '[]';
+
+  // Ensure events is an array
+  const eventsArray = Array.isArray(events) ? events : (events ? [events] : []);
+  const eventsYaml = eventsArray.length > 0
+    ? `[${eventsArray.map(e => `"${e}"`).join(', ')}]`
     : '[]';
 
   // Get product order, default to 50 if not in mapping
@@ -125,6 +132,7 @@ meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
 permalink: "/${slug}/"
 categories: ${categoriesYaml}
+events: ${eventsYaml}
 featured: true
 features: []`;
 
@@ -192,6 +200,7 @@ products: ["products/${productSlug}.md"]
 /**
  * Generate frontmatter for event content
  * Events are similar to categories but don't need dates
+ * Products are linked via the product's categories field, not stored on the event
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Event slug
  * @param {string} eventHeading - The H1 heading from event content

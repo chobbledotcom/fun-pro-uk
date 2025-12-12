@@ -25,6 +25,14 @@ const EVENT_CATEGORIES = [
 ];
 
 /**
+ * Pages (from /pages/ directory) that should be imported as "events" instead of regular pages
+ * These pages have product listings and represent event types
+ */
+const EVENT_PAGES = [
+  'conference-idea',
+];
+
+/**
  * Check if a slug/filename represents a location page
  * @param {string} slug - The page slug to check
  * @returns {boolean} True if this is a location page
@@ -169,13 +177,24 @@ const isEventCategory = (slug) => {
   return EVENT_CATEGORIES.includes(slug);
 };
 
+/**
+ * Check if a page slug should be imported as an event
+ * @param {string} slug - The page slug to check
+ * @returns {boolean} True if this should be an event
+ */
+const isEventPage = (slug) => {
+  return EVENT_PAGES.includes(slug);
+};
+
 module.exports = {
   PRODUCT_ORDER,
   FIND_REPLACES,
   LOCATION_TOWNS,
   EVENT_CATEGORIES,
+  EVENT_PAGES,
   isLocationPage,
   extractTownFromSlug,
   stripTownFromSlug,
-  isEventCategory
+  isEventCategory,
+  isEventPage
 };

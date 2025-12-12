@@ -6,6 +6,7 @@ meta_title: "Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK"
 meta_description: "This inflatable dash &amp; grab game is great competitive fun! Hungry Hippos with humans instead - grab the balls on a bungee rope. Fun for spectators too!"
 permalink: "/dash-and-grab-hungry-hippo-inflatable-game/"
 categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
+events: []
 featured: true
 features: []
 gallery:

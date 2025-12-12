@@ -6,6 +6,7 @@ meta_title: "Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Ev
 meta_description: "Hire a Play Your Cards Right stall for your next event. Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today."
 permalink: "/play-your-cards-right-stall-hire/"
 categories: ["categories/fun-fair-stalls.md"]
+events: []
 featured: true
 features: []
 gallery:

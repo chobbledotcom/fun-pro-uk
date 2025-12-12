@@ -6,6 +6,7 @@ meta_title: "Santas Grotto Hire | Christmas Entertainment | Fun Pro UK"
 meta_description: "Santas Grotto Hire | Christmas Entertainment | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-grotto-2/"
 categories: ["categories/christmas-grotto-hire.md"]
+events: []
 featured: true
 features: []
 gallery:

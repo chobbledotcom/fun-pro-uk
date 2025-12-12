@@ -5,7 +5,8 @@ order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
 permalink: "/air-hockey-table-hire/"
-categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

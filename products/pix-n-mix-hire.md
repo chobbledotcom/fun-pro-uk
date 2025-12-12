@@ -5,7 +5,8 @@ order: 50
 meta_title: "Pick A Mix hire UK"
 meta_description: "Pick A Mix hire UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/pix-n-mix-hire/"
-categories: ["categories/exhibition-games.md", "categories/fun-foods.md", "categories/all-products.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories: ["categories/exhibition-games.md", "categories/fun-foods.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

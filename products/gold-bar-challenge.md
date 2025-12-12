@@ -5,7 +5,8 @@ order: 50
 meta_title: "Gold bar challenge"
 meta_description: "The Gold Bar Challenge – an exciting interactive game for corporate events &amp; exhibitions. Reach in, grab the gold, and beat the challenge!"
 permalink: "/gold-bar-challenge/"
-categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

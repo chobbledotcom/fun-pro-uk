@@ -5,7 +5,8 @@ order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
 permalink: "/candy-cane-snatch-it/"
-categories: ["categories/christmas-game-hire.md"]
+categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
+events: []
 featured: true
 features: []
 gallery:
