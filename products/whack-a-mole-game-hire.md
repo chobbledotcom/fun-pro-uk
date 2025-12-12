@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/all-products/67/whack-a-mole-game-hire/"
   - "/category/arcade-games/67/whack-a-mole-game-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/833c0cfcbec5cdc77623cec696b68f88"
@@ -66,15 +67,15 @@ Get ready to take your event to the next level with our exciting Branded Whack-a
 
 **£1345**\+ vat**
 
-Delivered [](/all-products/67/whack-a-mole-game-hire/)and [](/all-products/67/whack-a-mole-game-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/all-products/67/whack-a-mole-game-hire/)house [](/all-products/67/whack-a-mole-game-hire/)branding [](/all-products/67/whack-a-mole-game-hire/)available [](/all-products/67/whack-a-mole-game-hire/)Printed[,](/all-products/67/whack-a-mole-game-hire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/all-products/67/whack-a-mole-game-hire/)time [](/all-products/67/whack-a-mole-game-hire/)use [](/all-products/67/whack-a-mole-game-hire/)only)
+(One time use only)
 
-\*Delivery [](/all-products/67/whack-a-mole-game-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/all-products/67/whack-a-mole-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -114,10 +115,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 **Whack A Mole Game Hire**
 
@@ -135,9 +136,9 @@ So, why wait? Contact us today to book our Branded Whack-a-Mole game for your up
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Game Playing Panel**
 

@@ -8,7 +8,7 @@ redirect_from:
 
 # Safe Cracker Game Hire for Coventry Events
 
-Corporate and promotional events in Coventry just got a whole lot more exciting with the [crack the code safe cracker game](/crack-the-code-safe-cracker/) hire from Fun Pro UK. Located right here in Coventry, they've got the perfect game to add some thrill and fun to your event.
+Corporate and promotional events in Coventry just got a whole lot more exciting with the [crack the code safe cracker game](/products/crack-the-code-safe-cracker/) hire from Fun Pro UK. Located right here in Coventry, they've got the perfect game to add some thrill and fun to your event.
 
 The crack the code safe cracker game is a fantastic addition to any corporate or promotional event. Not only does it provide entertainment, but it also gives you the opportunity to showcase your company merchandise or offer exciting prizes like a bottle of champagne or even a PS5. Imagine the excitement on the faces of eager contestants as they try to crack the code and win big!
 
@@ -16,7 +16,7 @@ One of the great things about Fun Pro UK is their ability to customize the safe 
 
 Having the crack the code safe cracker game Coventry at your exhibition stand or promotional event in Coventry is a surefire way to attract attention and engage your audience. People love a challenge, and the opportunity to win exciting prizes will keep them entertained and coming back for more. It's a great way to create a buzz and generate interest in your products or services.
 
-Not only will the [safe cracker game in Coventry](/crack-the-code-safe-cracker/) provide entertainment and engagement, but it also offers the potential for social media exposure. Attendees will be eager to share their experiences on platforms like Snapchat, showcasing their attempts to crack the code and win amazing prizes. This can help spread the word about your event and reach a wider audience, increasing your brand's visibility.
+Not only will the [safe cracker game in Coventry](/products/crack-the-code-safe-cracker/) provide entertainment and engagement, but it also offers the potential for social media exposure. Attendees will be eager to share their experiences on platforms like Snapchat, showcasing their attempts to crack the code and win amazing prizes. This can help spread the word about your event and reach a wider audience, increasing your brand's visibility.
 
 If you're planning a corporate or promotional event in Coventry, the crack the code safe cracker game hire from Fun Pro UK is a must-have. With the ability to fill it with your company merchandise or exciting prizes, and the option to add bespoke branding, it's a surefire way to make your event a success. Get ready for a fun-filled and memorable event in Coventry, with Fun Pro UK by your side!
 
@@ -42,9 +42,9 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
-![](/userfiles/file/FunPro/contactus2.jpg)
+!
 
 **Equipment size**
 
@@ -71,3 +71,9 @@ Please contact us to find out more
 ## **Specification**
 
 ## **Product requirements**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

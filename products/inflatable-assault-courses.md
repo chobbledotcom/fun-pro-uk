@@ -27,9 +27,9 @@ gallery:
 
 "Please Note Leader Boards are not included unless requested"
 
-*   [Details](/inflatable-assault-courses/)
-*   [Size](/inflatable-assault-courses/)
-*   [Suitability](/inflatable-assault-courses/)
+*   Details
+*   Size
+*   Suitability
 
 ## Bring Excitement to Your Fun Days with Inflatable Assault Course Hire
 
@@ -53,11 +53,11 @@ Ready to bring a touch of adventure to your next fun day? Contact us today to bo
 
 **£450**\+ vat**
 
-Delivered [](/inflatable-assault-courses/)and [](/inflatable-assault-courses/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/inflatable-assault-courses/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/inflatable-assault-courses/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 Floor Space
 
@@ -141,16 +141,16 @@ Lift required
 
 **Popular:**
 
-*   [Total Wipeout](/total-wipe-out/)
-*   [Hungry Hippos](/32/dash-and-grab-hungry-hippo-inflatable-game/)
-*   [Super Slide](/26/super-slides/)
-*   [Giant Connect 4](/corporate-entertainment/45/giant-connect-4-game-hire/)
+*   [Total Wipeout](/products/total-wipe-out/)
+*   [Hungry Hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/)
+*   [Super Slide](/products/super-slides/)
+*   [Giant Connect 4](/products/giant-connect-4-game-hire/)
 
 ## **Inflatable assault**course**hire**
 
 Your company fun day is all about getting your team out of the office and off the factory floor to let their hair down and try something new. And there's no better way to bring out the big kid in the most serious staff member, than one of our incredible inflatable assault courses.
 
-Packed with obstacles from end to end, either one of these big, bright and colourful inflatables will really stand out at any [company fun day](/fun-days/), drawing crowds and laying down the challenge to your colleagues. There are two to choose from, either the extreme assault course or the dazzling dragon run.
+Packed with obstacles from end to end, either one of these big, bright and colourful inflatables will really stand out at any [company fun day](/categories/fun-days/), drawing crowds and laying down the challenge to your colleagues. There are two to choose from, either the extreme assault course or the dazzling dragon run.
 
 ### The champion challenge
 
@@ -218,6 +218,6 @@ Chances are that most of your employees and work colleagues have never attempted
 
 ### Nationwide company fun
 
-Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/corporate-entertainment/23/large-bouncy-castles/) to [gladiator duels](/22/gladiator-duel/).
+Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/) to [gladiator duels](/products/gladiator-duel/).
 
 Our team will be happy to help organise a memorable company fun day for you. Just tell us your venue and budget and we'll take care of everything you need.

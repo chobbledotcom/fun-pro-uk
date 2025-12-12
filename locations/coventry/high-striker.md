@@ -12,7 +12,7 @@ Whether you're planning a fun day event, a university open day, or need an atten
 
 Corporate Events:
 
-When it comes to [corporate events in Coventry](/category/arcade-games/48/high-striker/), the High Striker game is a fantastic choice. It's a classic carnival-style game that tests your strength and accuracy. Participants use a mallet to strike a lever, trying to send a puck up a tower and ring the bell at the top. It's a fun and competitive activity that brings out the inner child in everyone.
+When it comes to corporate events in Coventry, the High Striker game is a fantastic choice. It's a classic carnival-style game that tests your strength and accuracy. Participants use a mallet to strike a lever, trying to send a puck up a tower and ring the bell at the top. It's a fun and competitive activity that brings out the inner child in everyone.
 
 Funday Events:
 
@@ -24,7 +24,7 @@ For university open days, the High Striker game is a perfect addition to attract
 
 Exhibition Stand Hire:
 
-If you're looking to make a big impact at an exhibition in Coventry, the [High Striker game in Coventry](/category/arcade-games/48/high-striker/) is an excellent choice. It's a visually appealing game that will draw attention to your booth and create a buzz among attendees. People will be intrigued by the challenge of ringing the bell and will naturally be drawn to your exhibition stand. It's a fantastic opportunity to showcase your products or services and generate leads.
+If you're looking to make a big impact at an exhibition in Coventry, the High Striker game in Coventry is an excellent choice. It's a visually appealing game that will draw attention to your booth and create a buzz among attendees. People will be intrigued by the challenge of ringing the bell and will naturally be drawn to your exhibition stand. It's a fantastic opportunity to showcase your products or services and generate leads.
 
 When you hire the High Striker game from Fun Pro UK, you can expect a seamless experience. They take care of all the logistics, including delivery, setup by trained staff. They can also provide branding options to customize the game with your company's logo or any other design you desire. It's a great way to reinforce your brand identity and make a lasting impression on your guests.
 
@@ -44,7 +44,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 **Equipment size**
 
@@ -73,3 +73,9 @@ Please contact us to find out more
 ## **Specification**
 
 ## **Product requirements**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -8,11 +8,11 @@ redirect_from:
 
 # Pick n Mix Sweet Cart Hire in Coventry
 
-Based in Coventry, Fun Pro UK offers a fantastic option to add some sweetness to your event with their [Pix n mix sweet stand hire](/category/exhibition-games/42/pix-n-mix-hire/).
+Based in Coventry, Fun Pro UK offers a fantastic option to add some sweetness to your event with their [Pix n mix sweet stand hire](/products/pix-n-mix-hire/).
 
 When it comes to exhibition stands, you want to attract as many visitors as possible. A Pix n mix sweet stand is an amazing way to draw people in and keep them engaged. Fun Pro UK provides a delightful pick n mix sweet stand that can be customized with bespoke branding. You can showcase your company's logo and colours, creating a visually appealing and enticing display. It's a great opportunity to create a memorable experience for attendees and leave a lasting impression.
 
-Conference breakouts are a perfect time to offer a sweet treat to your attendees. Fun Pro UK's [Pix n mix sweet stand](/category/exhibition-games/42/pix-n-mix-hire/) is a fantastic addition to your conference space. It provides a fun and interactive element where participants can choose their favourite candies and create their own personalized mix. With the option of bespoke branding, you can incorporate your conference theme or company logo, adding a touch of personalization to the experience. It's a great way to keep attendees energized and engaged during the breaks.
+Conference breakouts are a perfect time to offer a sweet treat to your attendees. Fun Pro UK's [Pix n mix sweet stand](/products/pix-n-mix-hire/) is a fantastic addition to your conference space. It provides a fun and interactive element where participants can choose their favourite candies and create their own personalized mix. With the option of bespoke branding, you can incorporate your conference theme or company logo, adding a touch of personalization to the experience. It's a great way to keep attendees energized and engaged during the breaks.
 
 Planning a corporate event in Coventry? The pick n mix sweet stand from Fun Pro UK is a crowd-pleaser. It adds a touch of nostalgia and excitement to any event. Whether it's a company party, team-building event, or product launch, the pick n mix sweet stand is a hit with guests of all ages. With bespoke branding, you can customize the stand to reflect your company's identity and create a cohesive look. It's a sweet way to create a memorable experience and show appreciation to your guests.
 
@@ -40,7 +40,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 **Equipment size**
 
@@ -72,7 +72,13 @@ Please contact us to find out more
 
 ## **Popular items:**
 
-*   [Grab A Grand](/category/interactive-game-hire/3/grab-a-grand/)
-*   [Batak Pro](/category/batak/batak-pro/)
+*   [Grab A Grand](/products/grab-a-grand/)
+*   [Batak Pro](/products/batak-pro/)
 *   Lights Out
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -36,15 +36,15 @@ gallery:
 
 **£1345**\+ vat**
 
-Delivered [](/whack-an-elf/)and [](/whack-an-elf/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/whack-an-elf/)house [](/whack-an-elf/)branding [](/whack-an-elf/)available [](/whack-an-elf/)Printed[,](/whack-an-elf/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/whack-an-elf/)time [](/whack-an-elf/)use [](/whack-an-elf/)only)
+(One time use only)
 
-\*Delivery [](/whack-an-elf/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/whack-an-elf/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -84,10 +84,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Reindeer Roll an Bowl](/66/roll-and-bowl-reindeer-racing-game-hire/#content)
-*   [Raindeer Nosenado](/65/reindeer-nosenado-christmas-ballnado-hire/#content)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Reindeer Roll an Bowl](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
+*   [Raindeer Nosenado](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
 
 **Whack An Elf Christmas Game Hire**
 
@@ -107,9 +107,9 @@ So, what are you waiting for? Bring the excitement of Whack An Elf to your next 
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Game Playing Panel**
 

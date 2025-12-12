@@ -9,11 +9,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 May 25 - How to Increase Engagement at Your Brand Activation Event](/how-to-increase-engagement-at-your-brand-activation-event/)
+# 30 May 25 - How to Increase Engagement at Your Brand Activation Event
 
-![](/userfiles/fun-pro-uvex.jpg)
+!
 
-If you're planning a [brand activation event](/pages/promotion-event-games/), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
+If you're planning a [brand activation event](/promotion-event-games/), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
 
 From eye-catching visuals to interactive experiences, here are some simple, proven ways to increase engagement at your next brand activation.
 
@@ -27,17 +27,17 @@ Engaged visitors are also more likely to stick around, share their experience on
 
 ### Use Games for Your Brand Activation Event
 
-![](/userfiles/baylis-and-harding-game.jpg)
+!
 
 One of the most effective ways to boost engagement is by using interactive games. Games create energy, spark conversations, and give people a reason to spend more time at your stand or space.
 
 Popular options include:
 
-*   [Cash Grabbers](/category/interactive-game-hire/3/grab-a-grand/) – quick, fun and perfect for competitions or giveaways
+*   [Cash Grabbers](/products/grab-a-grand/) – quick, fun and perfect for competitions or giveaways
     
-*   [Batak Reaction Games](/Controls/category/batak/) – great for testing speed and reflexes
+*   Batak Reaction Games – great for testing speed and reflexes
     
-*   [Prize Wheels](/prize-wheel/) – simple to set up and always a crowd-puller
+*   [Prize Wheels](/products/prize-wheel/) – simple to set up and always a crowd-puller
 
 These games don’t just fill space, they turn your stand into an attraction. People passing by will want to know what’s going on, which naturally increases footfall. And once people are there, you’ve got the perfect opportunity to tell your brand story and get them involved in a more meaningful way.
 
@@ -85,4 +85,12 @@ We also handle delivery throughout the UK\*, setup and breakdown – so you can 
 
 ### Ready to Plan Your Brand Activation?
 
-If you want your brand to stand out and connect with your audience in a fun and memorable way, our team at Fun Pro UK is here to help. [Get in touch today](/pages/contact-fun-pro-uk/) to hire games for a brand activation that gets people talking.
+If you want your brand to stand out and connect with your audience in a fun and memorable way, our team at Fun Pro UK is here to help. [Get in touch today](/contact-fun-pro-uk/) to hire games for a brand activation that gets people talking.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

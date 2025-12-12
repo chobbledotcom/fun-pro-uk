@@ -8,9 +8,9 @@ redirect_from:
 
 # Batak Pro – The Ultimate Interactive Game for Corporate & Private Events in Birmingham
 
-Are you planning a [corporate event](/corporate-entertainment/), [exhibition](/exhibition-games/), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
+Are you planning a [corporate event](/categories/corporate-entertainment/), [exhibition](/categories/exhibition-games/), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
 
-At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/category/all-products/batak-lite/), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
+At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/products/batak-lite/), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
 
 As a premier provider of interactive entertainment and game hire in Birmingham, Fun Pro UK brings this world-class reaction game directly to your venue – complete with professional setup, branded customisation options, and expert support.
 
@@ -84,7 +84,7 @@ Every Batak Pro hire package from Fun Pro UK includes:
 
 ## Branding Options & Pricing
 
-![](/userfiles/fun-pro-batak-pro-game.jpg)
+!
 
 Transform the Batak Pro into a powerful brand ambassador with our custom branding options, making it perfect for [brand activation](/promotion-event-games/) events, [conferences](/conference-game-hire/), trade shows, and exhibitions.
 
@@ -114,7 +114,7 @@ may apply
 
 #### Please contact us to find out more
 
-#### **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+#### **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## Frequently Asked Questions
 
@@ -162,16 +162,22 @@ Our Batak Pro has been featured at events for prestigious brands including:
 
 Enhance your event with these complementary interactive games:
 
-*   [Strike-A-Light](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
+*   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/)
     
-*   [Dance Machines](/category/exhibition-games/dance-machine/)
+*   [Dance Machines](/products/dance-machine/)
     
-*   [Racing Car Simulators](/category/exhibition-games/dance-machine/)
+*   [Racing Car Simulators](/products/dance-machine/)
     
-*   [Retro Arcade Games](/category/interactive-game-hire/retro-arcade-games/)
+*   [Retro Arcade Games](/products/retro-arcade-games/)
 
-Plus much more. Take a look at our full [range of products](/category/all-products/) for corporate and private events here.
+Plus much more. Take a look at our full [range of products](/categories/all-products/) for corporate and private events here.
 
 ## Hire Batak Pro for Your Birmingham Event
 
 Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](/contact-fun-pro-uk/) today for a personalised quote and to check availability for your event date.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

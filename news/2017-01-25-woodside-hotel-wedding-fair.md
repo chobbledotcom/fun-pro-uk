@@ -9,16 +9,24 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [25 January 17 - Woodside Hotel Wedding fair](/woodside-hotel-wedding-fair/)
+# 25 January 17 - Woodside Hotel Wedding fair
 
 We are starting to feel excited at TeamPerfectSnap! On Sunday 29th January we will be attending the Woodside Hotel Wedding Fair in the lovely town of Kenilworth.  
   
-We have been guests at Woodside Hotel many times with our outstanding [Photobooths and Magic Mirrors](/category/photo-booths-and-magic-mirrors/) as has our sister company Bounceroos Events with [inflatable bouncy castles](http://www.bounceroosevents.co.uk) for Wedding receptions.  
+We have been guests at Woodside Hotel many times with our outstanding [Photobooths and Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) as has our sister company Bounceroos Events with [inflatable bouncy castles](http://www.bounceroosevents.co.uk) for Wedding receptions.  
   
 Perfect Snap adore attending wedding fairs at this venue, the grounds are stunning as is the building itself.  
 On Sunday we will be situated in the Redwood Suite which is located at the rear of the hotel.  
   
-You will find us with our famous [Green Screen Dream Machine Photo Booth](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) and our award winning Magic Selfie Mirror. We are yet to decide whether our mirror will be talking donkey language or Austin Powers!  
+You will find us with our famous [Green Screen Dream Machine Photo Booth](/products/green-screen-photo-booths/) and our award winning Magic Selfie Mirror. We are yet to decide whether our mirror will be talking donkey language or Austin Powers!  
   
-Come down and see us - we love to get to know our clients! The [wedding](/category/weddings/) fair begins at 11.30am-3pm at Woodside Hotel, Glasshouse Lane, Kenilworth cv8 2al.  
+Come down and see us - we love to get to know our clients! The [wedding](/categories/weddings/) fair begins at 11.30am-3pm at Woodside Hotel, Glasshouse Lane, Kenilworth cv8 2al.  
 There is nothing better than taking your own selfie on a Sunday!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

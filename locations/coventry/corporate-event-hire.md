@@ -8,7 +8,7 @@ redirect_from:
 
 # Fun Pro UK Corporate Entertainment Coventry
 
-![](/userfiles/file/FunPro/coventry.jpg)
+!
 
 How can you keep customers loyal, while attracting new ones? How can you build stronger relationships with suppliers and other important contacts? Is there a high impact way to reward, incentivise and update staff?  
   
@@ -36,9 +36,9 @@ What's the best corporate event entertainment?
   
 That depends on your audience. This is a vital communications, sales and marketing function. Fun Pro UK will help to put together suggestions and information to exactly match your audience and your company's aims.  
   
-For example, if the emphasis is on a quirky corporate event, we have some creative equipment such as inflatable games. Or, you could impress your corporate guests with twin [racing car simulators](/race-car-simulators-coventry/) (a great way to add a crowd to your [brand activation event](/brand-promotional-event-hire-coventry/), or exhibition stand, too).  
+For example, if the emphasis is on a quirky corporate event, we have some creative equipment such as inflatable games. Or, you could impress your corporate guests with twin [racing car simulators](/locations/coventry/race-car-simulators/) (a great way to add a crowd to your [brand activation event](/locations/coventry/brand-promotional-event-hire/), or exhibition stand, too).  
   
-Would your corporate guests love some retro fun at your sales conference? We can provide classic games and fun - such as traditional board games on a grand scale and table football! Grab a Grand always goes down well, too - as do reaction games like [Batak Pro](/batak-pro-hire-coventry/) (more details of this fun kiosk are available here: [https://www.funprouk.co.uk/category/interactive-game-hire/3/grab-a-grand#BodyContent](/category/interactive-game-hire/3/grab-a-grand/#content).  
+Would your corporate guests love some retro fun at your sales conference? We can provide classic games and fun - such as traditional board games on a grand scale and table football! Grab a Grand always goes down well, too - as do reaction games like [Batak Pro](/locations/coventry/batak-pro-hire/) (more details of this fun kiosk are available here: [https://www.funprouk.co.uk/category/interactive-game-hire/3/grab-a-grand#BodyContent](/products/grab-a-grand/#content).  
   
 Do you need a corporate entertainer that keeps guests fully occupied all evening? Our authentic casino equipment comes with a professional croupier to show guests how to use your selected games.  
 Entertainment hire on target and in budget  
@@ -50,3 +50,9 @@ When you book corporate entertainment equipment from Fun Pro UK, we also provide
 It's about making your corporate event or exhibition stand memorable and fun, but also as stress-free as possible.  
   
 Call us for a chat and a no obligation quote today.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

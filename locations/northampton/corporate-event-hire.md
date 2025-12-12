@@ -28,7 +28,7 @@ Fun Pro UK want to ensure that everything we do, fits into your event, from corp
 
 ## **But what corporate entertainment would work best?**
 
-It completely depends on your event, but don't worry, as the team at Fun Pro UK are always available to assist in suggest what [interactive games](/interactive-game-hire/) or [photo booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) would work well.
+It completely depends on your event, but don't worry, as the team at Fun Pro UK are always available to assist in suggest what [interactive games](/categories/interactive-game-hire/) or [photo booths](/products/green-screen-photo-booths/) would work well.
 
 For instance, if you are planning a conference in Northampton, why not give your delegates an enjoyable break with a range of conference entertainment available to hire. From a Retro Arcade Machine to Giant Buzz Wire and Strike a Light Challenge.
 
@@ -46,4 +46,10 @@ Tel: +442477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](/userfiles/file/FunPro/contactus2.jpg)
+!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

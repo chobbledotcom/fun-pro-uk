@@ -8,7 +8,7 @@ redirect_from:
 
 # Trusted Corporate Event Game Hire In Manchester
 
-Are you planning a company event in Manchester? Fun Pro’s Manchester corporate event game hire service can help you create an unforgettable and fun experience for you and all your guests. Entertain everyone with our wide range of reliable, exciting games for hire. Partnering with some of the most prestigious venues the city has to offer, such as the [Manchester Central Convention Complex](/manchester-central-convention-complex/), Fun Pro will help you find the perfect location for your next corporate event.
+Are you planning a company event in Manchester? Fun Pro’s Manchester corporate event game hire service can help you create an unforgettable and fun experience for you and all your guests. Entertain everyone with our wide range of reliable, exciting games for hire. Partnering with some of the most prestigious venues the city has to offer, such as the [Manchester Central Convention Complex](/locations/manchester/central-convention-complex/), Fun Pro will help you find the perfect location for your next corporate event.
 
 ## Explore Our Popular Game Hire Services In Manchester
 
@@ -30,15 +30,15 @@ We’re experts at helping you plan your company fun day and we can recommend th
 
 Check out some of our most popular corporate fun day games to start:
 
-✓ [Racing Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/)
+✓ [Racing Car Simulators](/products/twin-racing-car-simulators/)
 
-✓ [Prize Cranes](/prize-crane-arcade-grabber/)
+✓ [Prize Cranes](/products/prize-crane-arcade-grabber/)
 
-✓ [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/)
+✓ [Whack A Mole](/products/whack-a-mole-game-hire/)
 
-✓ [Prize Wheel](/prize-wheel/)
+✓ [Prize Wheel](/products/prize-wheel/)
 
-✓ [Retro Arcade Machines](/category/interactive-game-hire/retro-arcade-games/)
+✓ [Retro Arcade Machines](/products/retro-arcade-games/)
 
 ### Team Building Ideas In Manchester
 
@@ -46,13 +46,13 @@ Boost morale, improve workplace relationships, and fire up your colleagues' team
 
 Some of our most popular choices for team building events are:
 
-✓ [Batak Pro](/category/batak/batak-pro/) and [Batak Lite](/category/batak/batak-lite/)
+✓ [Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/)
 
-✓ [Ballnado Grabber](/category/grab-a-grand/36/ballnado-grabber/)
+✓ [Ballnado Grabber](/products/ballnado-grabber/)
 
-✓ [Crack the Code Safe Cracker](/crack-the-code-safe-cracker/)
+✓ [Crack the Code Safe Cracker](/products/crack-the-code-safe-cracker/)
 
-✓ [Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/)
+✓ [Giant Buzz Wire](/products/giant-buzz-wire/)
 
 Our service includes delivery, setup, and removal by our professional team.
 
@@ -60,7 +60,7 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](/manchester-corporate-event-hire/#FooterContact)**
+**[Request a Free Quote](/locations/manchester/corporate-event-hire/)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
@@ -110,7 +110,7 @@ After the event ends, our team will take care of the safe and efficient removal 
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Manchester or any other location in the UK!
 
-**[Talk To Us](/manchester-corporate-event-hire/#FooterContact)**
+**[Talk To Us](/locations/manchester/corporate-event-hire/)**
 
 ## Frequently Asked Questions
 
@@ -145,3 +145,9 @@ Bookings can be cancelled but are subject to the following cancellation charges:
 *   Cancellation within 4 weeks - 100% of order
 
 Please refer to your contract for full terms and conditions regarding cancellations and rescheduling.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

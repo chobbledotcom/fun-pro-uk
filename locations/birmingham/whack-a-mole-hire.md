@@ -8,9 +8,9 @@ redirect_from:
 
 # Whack a Mole Hire Birmingham
 
-Are you looking to add a fun and interactive game to your [corporate event](/corporate-event-hire-birmingham/) in Birmingham? Look no further than hiring a Whack a Mole game! This classic arcade game has been entertaining people of all ages for decades, and with the convenience of delivery to various venues, including the [NEC](/nec-birmingham/), ICC, NCC, and all other areas of Birmingham city, it's easier than ever to incorporate this exciting experience into your event.
+Are you looking to add a fun and interactive game to your [corporate event](/locations/birmingham/corporate-event-hire/) in Birmingham? Look no further than hiring a Whack a Mole game! This classic arcade game has been entertaining people of all ages for decades, and with the convenience of delivery to various venues, including the [NEC](/locations/birmingham/nec/), ICC, NCC, and all other areas of Birmingham city, it's easier than ever to incorporate this exciting experience into your event.
 
-When you hire a [Whack a Mole game in Birmingham](/category/all-products/67/whack-a-mole-game-hire/#content), you can expect a seamless and hassle-free experience. There are reputable providers that offer this service, ensuring that your guests have a memorable and enjoyable time. With the game delivered directly to your chosen venue, you can save time and effort in organizing logistics, allowing you to focus on other aspects of your event planning.
+When you hire a [Whack a Mole game in Birmingham](/products/whack-a-mole-game-hire/#content), you can expect a seamless and hassle-free experience. There are reputable providers that offer this service, ensuring that your guests have a memorable and enjoyable time. With the game delivered directly to your chosen venue, you can save time and effort in organizing logistics, allowing you to focus on other aspects of your event planning.
 
 The NEC, located in the heart of Birmingham, is one of the largest exhibition centres in the UK. It hosts a wide range of events throughout the year, attracting visitors from various industries. Whether you're organizing a trade show, a corporate event, or a product launch, hiring a Whack a Mole game can add an extra element of fun and entertainment to your exhibition booth or event space at the NEC.
 
@@ -18,7 +18,7 @@ The ICC (International Convention Centre) is another prominent venue in Birmingh
 
 The NCC (National Conference Centre) is a unique venue located just outside Birmingham city centre. It offers versatile event spaces and caters to a wide range of events, including conferences, exhibitions, and weddings. Hiring a Whack a Mole game for your event at the NCC can provide a nostalgic and entertaining activity for attendees, adding a touch of excitement and enjoyment to their experience.
 
-In addition to these popular venues, hiring a [Whack a Mole game in Birmingham](/category/all-products/67/whack-a-mole-game-hire/#content) allows you to bring the fun to any area of the city. Whether you're hosting an event in the vibrant city centre, the trendy Digbeth district, or the picturesque Canalside venues, the game can be delivered to your desired location, ensuring that your guests have a memorable and enjoyable experience.
+In addition to these popular venues, hiring a [Whack a Mole game in Birmingham](/products/whack-a-mole-game-hire/#content) allows you to bring the fun to any area of the city. Whether you're hosting an event in the vibrant city centre, the trendy Digbeth district, or the picturesque Canalside venues, the game can be delivered to your desired location, ensuring that your guests have a memorable and enjoyable experience.
 
 Whack a Mole is a game that appeals to people of all ages, making it a versatile choice for various types of events. From family-friendly festivals and community gatherings to corporate team-building activities and trade shows, the game can be customized to suit the theme and objectives of your event. It provides a nostalgic and interactive experience that brings people together and creates lasting memories.
 
@@ -46,7 +46,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 **Whack A Mole Game Hire**
 
@@ -80,7 +80,13 @@ Please contact us to find out more
 
 **Popular Items:**
 
-*   [Leaded Board](/category/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/category/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/category/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

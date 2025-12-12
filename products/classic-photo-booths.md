@@ -9,7 +9,8 @@ events: []
 featured: true
 features: []
 redirect_from:
-  - "/category/photo-booths-and-magic-mirrors/classic-photo-booths/"
+  - "/category/company-award-ceremonies/11/classic-photo-booths/"
+  - "/category/photo-booths-and-magic-mirrors/11/classic-photo-booths/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
@@ -35,13 +36,13 @@ Adding a photo booth to your corporate event is a sound investment, because not 
 
 Delivered and installed on site by our trained team
 
-In[\-](/classic-photo-booths/)house branding available Printed[,](/classic-photo-booths/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
 (One time use only)
 
 \*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/classic-photo-booths/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -93,13 +94,13 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Fun Pro UK offer classic photo booths for hire, with a choice of print styles, including the old school photo strip, one large and three small to share with friends and family, or a large 6x4 portrait. We can even brand every picture with your logo and slogan, or details of your event, so everyone goes home with your message as part of their pictures.
 
-As well as branding your pictures, we can [brand the booth](/branded-exhibition-games/24/bespoke-photo-booth-hire/) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/christmas-photo-booths/) to match your event and venue
+As well as branding your pictures, we can [brand the booth](/products/bespoke-photo-booth-hire/) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/products/christmas-photo-booths/) to match your event and venue
 
-## ![](/userfiles/classic-photo-booth.jpg)
+## !
 
 ## A complete service
 
-Your [photo booth](/pages/photo-booth-hire-london/) hire package includes :
+Your [photo booth](/locations/london/photo-booth-hire/) hire package includes :
 
 *   Unlimited visits and 2 prints per visit in colour or black & white
 *   Optional video messaging from your guests
@@ -111,6 +112,12 @@ Most importantly, your photo booth hire comes complete with a polite, profession
 
 ## The event essential
 
-Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/green-screen-photo-booths/) for even more fun features.
+Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/products/green-screen-photo-booths/) for even more fun features.
 
 We offer reputable, reliable delivery right across the UK, so wherever your next event is, book your photo booth today.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

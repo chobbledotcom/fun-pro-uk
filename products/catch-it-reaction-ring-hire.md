@@ -45,7 +45,7 @@ gallery:
 
 **£1495**\+ vat**
 
-Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/pages/promotion-event-games/).
+Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotion-event-games/).
 
 ## What Is Catch It Reaction?
 
@@ -53,7 +53,7 @@ Catch It Reaction is an engaging interactive game that tests players' reflexes, 
 
 The fast-paced nature of the game creates an exciting atmosphere for both participants and spectators, making it perfect for drawing crowds and creating memorable experiences at corporate events and exhibitions.
 
-Popular at trade shows, conferences, and [team building events](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
+Popular at trade shows, conferences, and [team building events](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
 
 ## Why Choose Catch It Reaction Game Hire for Your Next Event?
 
@@ -161,17 +161,17 @@ We're proud to have provided entertainment solutions for leading UK brands inclu
 
 Enhance your event with our complete range of interactive entertainment:
 
-*   [Batak Pro](/batak/batak-pro/) - Reaction speed challenge
+*   [Batak Pro](/products/batak-pro/) - Reaction speed challenge
     
-*   [Strike-A-Light](/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/) - Test your strength game
+*   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/) - Test your strength game
     
-*   [Arcade Games](/arcade-games/lights-out-game/) - Classic gaming entertainment
+*   [Arcade Games](/products/lights-out-game/) - Classic gaming entertainment
     
-*   [Prize Games](/prize-games/) - Win exciting rewards
+*   [Prize Games](/categories/prize-games/) - Win exciting rewards
 
 ## **Hire Catch It Reaction Game for Your Event**
 
-Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/pages/contact-fun-pro-uk/) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
+Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/contact-fun-pro-uk/) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
 
 **Frequently Asked Questions**
 
@@ -217,9 +217,9 @@ You can rest assured that the Catch it and other equipment will arrive in top co
 
 Need a longer hire period?
 
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ### **Branding Prices from:**
 
@@ -230,3 +230,9 @@ In-house branding available. We print, apply, and remove them after each event.
 **Front and side **panel** branding**
 
 **£195**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

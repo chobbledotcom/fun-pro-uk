@@ -27,19 +27,19 @@ When planning indoor entertainment, you'll want to consider your venue's specifi
 
 ### Interactive Digital Games
 
-These work particularly well indoors because they're weather-independent and create exciting visual displays that draw crowds. [Batak Pro](/batak/batak-pro/) and [Batak Lite](/all-products/batak-lite/) reaction games are brilliant for this – students love testing their reflexes against friends, and the LED lights create an engaging atmosphere that's perfect for photos and social media content.
+These work particularly well indoors because they're weather-independent and create exciting visual displays that draw crowds. [Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/) reaction games are brilliant for this – students love testing their reflexes against friends, and the LED lights create an engaging atmosphere that's perfect for photos and social media content.
 
 ### Racing Simulators
 
-These appeal to students across different interests and gaming experience levels. Even students who don't typically play video games find themselves drawn to the realistic motorbike or [car simulators](/interactive-game-hire/twin-racing-car-simulators/), and they naturally encourage friendly competition between course mates.
+These appeal to students across different interests and gaming experience levels. Even students who don't typically play video games find themselves drawn to the realistic motorbike or [car simulators](/products/twin-racing-car-simulators/), and they naturally encourage friendly competition between course mates.
 
 ### Photo Booths and Magic Mirrors
 
-These serve a dual purpose – they're entertaining on their own, but they also create shareable content that helps promote your university on social platforms. Students love having instant photos to commemorate their first week, and the digital sharing options offered by most [photo booths](/photo-booths-and-magic-mirrors/classic-photo-booths/) mean your freshers week reaches beyond just the people attending.
+These serve a dual purpose – they're entertaining on their own, but they also create shareable content that helps promote your university on social platforms. Students love having instant photos to commemorate their first week, and the digital sharing options offered by most [photo booths](/products/classic-photo-booths/) mean your freshers week reaches beyond just the people attending.
 
 ### Retro Arcade Games
 
-These bridge generational gaps beautifully. While younger students might be discovering these classic [arcade games](/arcade-games/lights-out-game/) for the first time, mature students often have nostalgic connections that create great conversation starters between different age groups.
+These bridge generational gaps beautifully. While younger students might be discovering these classic [arcade games](/products/lights-out-game/) for the first time, mature students often have nostalgic connections that create great conversation starters between different age groups.
 
 When planning your indoor layout, think about noise levels and sight lines. Games that generate excitement and laughter will naturally draw more participants, so position them where they won't interfere with any quieter activities you might have planned.
 
@@ -49,19 +49,19 @@ Outdoor events give you more flexibility with larger, more physically active ent
 
 ### Inflatable Challenges
 
-Activities like [obstacle courses](/fun-days/21/inflatable-assault-courses/#content) or [gladiator duels](/fun-days/22/gladiator-duel/) encourage teamwork and create memorable shared experiences. Students often form impromptu teams with people they've just met, which naturally builds friendships. These games also work well for different fitness levels – it's about fun and participation rather than athletic ability.
+Activities like [obstacle courses](/products/inflatable-assault-courses/#content) or [gladiator duels](/products/gladiator-duel/) encourage teamwork and create memorable shared experiences. Students often form impromptu teams with people they've just met, which naturally builds friendships. These games also work well for different fitness levels – it's about fun and participation rather than athletic ability.
 
 ### Human Table Football
 
-[Human football](/fun-days/human-table-football/#content) is always popular because it requires cooperation and communication between players. It's particularly good for breaking down social barriers because students need to work together regardless of whether they knew each other beforehand.
+[Human football](/products/human-table-football/#content) is always popular because it requires cooperation and communication between players. It's particularly good for breaking down social barriers because students need to work together regardless of whether they knew each other beforehand.
 
 ### Giant Garden Games
 
-Games like [oversized Jenga](/fun-days/44/giant-jenga-hire/), [Connect 4](/corporate-entertainment/45/giant-connect-4-game-hire/), or [Corn Hole](/exhibition-games/99/corn-hole/) provide calmer alternatives for students who prefer less physically demanding activities. These games naturally encourage conversation and strategic thinking, making them ideal for students who might feel intimidated by more active options.
+Games like [oversized Jenga](/products/giant-jenga-hire/), [Connect 4](/products/giant-connect-4-game-hire/), or [Corn Hole](/products/corn-hole/) provide calmer alternatives for students who prefer less physically demanding activities. These games naturally encourage conversation and strategic thinking, making them ideal for students who might feel intimidated by more active options.
 
 ### Traditional Fairground Games
 
-These games add a nostalgic element that many students find comforting during what can be an overwhelming time. [hook-a-duck](/fun-fair-stalls/103/hook-a-duck/), [coconut shy](/fun-fair-stalls/96/coconut-shy-stall-hire/), and [ring toss games](/fun-fair-stalls/95/target-ring-toss-hire/) are familiar and accessible to everyone, regardless of their gaming experience or physical abilities.
+These games add a nostalgic element that many students find comforting during what can be an overwhelming time. [hook-a-duck](/products/hook-a-duck/), [coconut shy](/products/coconut-shy-stall-hire/), and [ring toss games](/products/target-ring-toss-hire/) are familiar and accessible to everyone, regardless of their gaming experience or physical abilities.
 
 Weather considerations are crucial for outdoor events. Even with good weather forecasts, it's worth having indoor backup options or covered areas where games can continue if conditions change unexpectedly.
 
@@ -69,11 +69,11 @@ Weather considerations are crucial for outdoor events. Even with good weather fo
 
 Food stations create natural social gathering points and provide energy for students participating in activities throughout the day. They're also excellent for accommodating students who might feel more comfortable starting with food-focused interactions before joining games.
 
-[Candy floss](/fun-foods/92/candy-floss-cart-hire/) and [popcorn machines](/fun-fair-stalls/93/popcorn-machine-cart-hire/) are crowd favourites that create a fun, carnival atmosphere. The visual and sensory appeal draws people in, and sharing sweet treats naturally encourages conversation between students who might not otherwise interact.
+[Candy floss](/products/candy-floss-cart-hire/) and [popcorn machines](/products/popcorn-machine-cart-hire/) are crowd favourites that create a fun, carnival atmosphere. The visual and sensory appeal draws people in, and sharing sweet treats naturally encourages conversation between students who might not otherwise interact.
 
-[Pick 'n' Mix](/exhibition-games/42/pix-n-mix-hire/) sweet stations allow for personalisation and choice, which students appreciate. They also create natural opportunities for interaction as people discuss their favourite sweets or discover new options together.
+[Pick 'n' Mix](/products/pix-n-mix-hire/) sweet stations allow for personalisation and choice, which students appreciate. They also create natural opportunities for interaction as people discuss their favourite sweets or discover new options together.
 
-[Ice cream stations](/fun-foods/73/ice-cream-van-hire/) work particularly well for September events when the weather is often still warm. Mobile ice cream services can move around your event space, bringing the fun directly to different areas rather than requiring students to queue in one location.
+[Ice cream stations](/products/ice-cream-van-hire/) work particularly well for September events when the weather is often still warm. Mobile ice cream services can move around your event space, bringing the fun directly to different areas rather than requiring students to queue in one location.
 
 When planning food stations, consider dietary requirements and allergies that are increasingly common among student populations. Having some options that accommodate different dietary needs ensures all students can participate in the food aspects of your event.
 
@@ -113,17 +113,17 @@ Careers fairs and recruitment events benefit from entertainment that draws stude
 
 Open days and prospective student events use entertainment to showcase the social aspects of university life to potential applicants and their families. These events often influence university choice decisions, so creating a welcoming, fun atmosphere can be valuable for recruitment.
 
-Graduation celebrations provide opportunities to create positive final memories for students and their families. Many universities host [family-fun events](/fun-days/) where interactive games help different generations interact and celebrate together.
+Graduation celebrations provide opportunities to create positive final memories for students and their families. Many universities host [family-fun events](/categories/fun-days/) where interactive games help different generations interact and celebrate together.
 
 ## Our University Entertainment Experience
 
-We've been working with universities across the UK for over 15 years, which means we understand the specific requirements and challenges of higher education events. Our central Coventry location allows us to provide [nationwide coverage](/pages/delivery-areas/) whilst keeping logistics manageable and costs reasonable.
+We've been working with universities across the UK for over 15 years, which means we understand the specific requirements and challenges of higher education events. Our central Coventry location allows us to provide [nationwide coverage](/delivery-areas/) whilst keeping logistics manageable and costs reasonable.
 
 Our approach focuses on understanding your specific requirements rather than offering one-size-fits-all solutions. Every university has different venues, student demographics, and event objectives, so we take time to discuss what will work best for your particular situation.
 
 Professional setup and safety standards are non-negotiable in university environments. All our equipment undergoes regular safety inspections, and our team handles delivery, installation, and collection to ensure everything runs smoothly on the day.
 
-When you're ready to start planning your freshers entertainment, [contact our friendly team](/pages/contact-fun-pro-uk/) for a consultation. We'll discuss your requirements, venue considerations, and student demographics to recommend the perfect mix of interactive games for your event.
+When you're ready to start planning your freshers entertainment, [contact our friendly team](/contact-fun-pro-uk/) for a consultation. We'll discuss your requirements, venue considerations, and student demographics to recommend the perfect mix of interactive games for your event.
 
 ## Frequently Asked Questions
 
@@ -151,4 +151,10 @@ Absolutely. Today's university cohorts include traditional students, mature lear
 
 Start promoting specific games and activities rather than just announcing "entertainment." Students respond well to knowing exactly what to expect. Use social media platforms where your students are active, create shareable content about the games, and consider having student ambassadors help spread the word through their networks.
 
-*Ready to create memorable freshers week experiences that help your students connect and thrive? [Contact](/pages/contact-fun-pro-uk/) our team to discuss your requirements and get expert recommendations for your university's entertainment programme.*
+*Ready to create memorable freshers week experiences that help your students connect and thrive? [Contact](/contact-fun-pro-uk/) our team to discuss your requirements and get expert recommendations for your university's entertainment programme.*
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/all-products/51/roll-and-bowl-game-hire/"
   - "/category/arcade-games/51/roll-and-bowl-game-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51"
@@ -81,15 +82,15 @@ Don't settle for the ordinary – elevate your event with the Roll And Bowl Game
 
 **£2695**\+ vat**
 
-Delivered [](/all-products/51/roll-and-bowl-game-hire/)and [](/all-products/51/roll-and-bowl-game-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/all-products/51/roll-and-bowl-game-hire/)house [](/all-products/51/roll-and-bowl-game-hire/)branding [](/all-products/51/roll-and-bowl-game-hire/)available [](/all-products/51/roll-and-bowl-game-hire/)Printed[,](/all-products/51/roll-and-bowl-game-hire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/all-products/51/roll-and-bowl-game-hire/)time [](/all-products/51/roll-and-bowl-game-hire/)use [](/all-products/51/roll-and-bowl-game-hire/)only)
+(One time use only)
 
-\*Delivery [](/all-products/51/roll-and-bowl-game-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/all-products/51/roll-and-bowl-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -177,9 +178,9 @@ Here at Fun Pro we have the ability to brand your game hire with your company lo
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Playing Field x 4**
 

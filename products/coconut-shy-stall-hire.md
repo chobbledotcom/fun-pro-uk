@@ -22,9 +22,9 @@ gallery:
 
 ## The Best Coconut Shy Stall Hire for All UK Events
 
-Looking to bring a touch of classic fairground fun to your next [corporate event](/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
+Looking to bring a touch of classic fairground fun to your next [corporate event](/categories/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
 
-A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/categories/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
 
 ## Hire a Coconut Shy Stall for Your Next Event
 
@@ -94,7 +94,7 @@ Once the event is over, we’ll return to collect the stall, leaving your venue 
 
 ## Ready to Book Our Coconut Shy Stall Hire?
 
-Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/pages/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
+Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
 
 ## Frequently Asked Questions
 
@@ -127,3 +127,9 @@ In-house branding available. We print, apply, and remove them after each event.
 Brand the rear half wall of the inside of the stall with your brand from:
 
 **£195**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

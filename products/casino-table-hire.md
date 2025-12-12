@@ -9,7 +9,8 @@ events: []
 featured: true
 features: []
 redirect_from:
-  - "/category/freshers-fair-games/casino-table-hire/"
+  - "/category/christmas-game-hire/16/casino-table-hire/"
+  - "/category/freshers-fair-games/16/casino-table-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026ca80ff710a869d51817df100feb35"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/44937a68b0e320103317dd055967efd0"
@@ -38,7 +39,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

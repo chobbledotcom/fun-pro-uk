@@ -26,15 +26,15 @@ gallery:
 
 **£1695**\+ vat**
 
-Delivered [](/8-lane-reindeer-racing/)and [](/8-lane-reindeer-racing/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/8-lane-reindeer-racing/)house [](/8-lane-reindeer-racing/)branding [](/8-lane-reindeer-racing/)available [](/8-lane-reindeer-racing/)Printed[,](/8-lane-reindeer-racing/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/8-lane-reindeer-racing/)time [](/8-lane-reindeer-racing/)use [](/8-lane-reindeer-racing/)only)
+(One time use only)
 
-\*Delivery [](/8-lane-reindeer-racing/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/8-lane-reindeer-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -101,3 +101,9 @@ In-house branding available. We print, apply, and remove them after each event.
 **Fully branded**
 
 **£2000**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

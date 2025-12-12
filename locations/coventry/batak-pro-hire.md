@@ -8,7 +8,7 @@ redirect_from:
 
 # Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry
 
-![Batak Pro Hire Coventry](/userfiles/file/FunPro/Batak%20Pro/img-20221207-wa0005.jpg)
+!Batak Pro Hire Coventry
 
 Are you looking to provide your guests with an exciting, fast-paced activity at your upcoming event? Our Batak Pro Hire Coventry is the perfect way to engage guests, test reaction speeds, and create a competitive atmosphere that everyone will love.
 
@@ -16,7 +16,7 @@ Are you looking to provide your guests with an exciting, fast-paced activity at 
 
 The Batak Pro is a high-energy reaction game that challenges players to hit illuminated targets as quickly as possible within a set time limit.
 
-This thrilling test of agility, hand-eye coordination, and reflexes makes it a favourite for [corporate events](/corporate-event-hire-coventry/), [exhibitions](/exhibition-games/), trade shows, and [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/). The game is designed to be fun yet competitive, making it ideal for attracting crowds and keeping participants engaged.  
+This thrilling test of agility, hand-eye coordination, and reflexes makes it a favourite for [corporate events](/locations/coventry/corporate-event-hire/), [exhibitions](/categories/exhibition-games/), trade shows, and [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/). The game is designed to be fun yet competitive, making it ideal for attracting crowds and keeping participants engaged.  
 
 ## **Why Hire Batak Pro in Coventry?**
 
@@ -32,7 +32,7 @@ Whether you're planning a business event, product launch, or [team-building day]
 
 ## **What’s Included In Batak Pro Hire Coventry?**
 
-At Fun Pro, we aim to make hiring our [interactive games](/search.aspx%3Fq=interactive/) a seamless process. Our service includes everything required to ensure your event runs smoothly and your guests have an unforgettable time.
+At Fun Pro, we aim to make hiring our interactive games a seamless process. Our service includes everything required to ensure your event runs smoothly and your guests have an unforgettable time.
 
 **When you hire Batak Pro from Fun Pro, you get:**
 
@@ -62,7 +62,7 @@ Printed, applied & removed after each event (One time use only)
 
 may apply
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## **Batak Pro Branding and Customisation Options**
 
@@ -159,19 +159,19 @@ Fun Pro has built a strong reputation for providing high-quality interactive gam
 
 If you’re looking to expand the activity options you have at your event, we offer a variety of interactive games for hire in Coventry. Here are just a few of our popular choices:
 
-**[Batak Lite](/batak-lite-coventry/)**
+**[Batak Lite](/locations/coventry/batak-lite/)**
 
-[**Arcade Games**](/category/arcade-games/lights-out-game/)
+[**Arcade Games**](/products/lights-out-game/)
 
-**[](/category/arcade-games/lights-out-game/)[Prize Games](/category/prize-games/)**
+**[](/products/lights-out-game/)[Prize Games](/categories/prize-games/)**
 
-**[](/category/prize-games/)[Pub Games](/category/pub-games/)**
+**[](/categories/prize-games/)[Pub Games](/categories/pub-games/)**
 
-**[](/category/pub-games/)[Roll and Bowl](/category/roll-and-bowl/)**
+**[](/categories/pub-games/)[Roll and Bowl](/categories/roll-and-bowl/)**
 
-**[](/category/roll-and-bowl/)[Crazy Golf](/category/fun-days/crazy-golf/)**
+**[](/categories/roll-and-bowl/)[Crazy Golf](/products/crazy-golf/)**
 
-[**View all our event hire products and games here**](/category/all-products/)
+[**View all our event hire products and games here**](/categories/all-products/)
 
 ## **Hire Batak Pro for Your Event in Coventry**
 
@@ -180,3 +180,9 @@ At Fun Pro UK, we make the process of hiring the Batak Pro simple and hassle-fre
 To book or find out more about our Batak Pro Hire Coventry, [get in touch](/contact-fun-pro-uk/) today.
 
 **Batak Pro Game Hire UK**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

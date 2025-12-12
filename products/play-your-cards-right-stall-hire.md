@@ -23,7 +23,7 @@ gallery:
 
 ## The Best Play Your Cards Right Stall Hire for All UK Events
 
-Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/interactive-game-hire/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/corporate-entertainment/), fairs, [staff parties](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
+Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/categories/interactive-game-hire/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/categories/corporate-entertainment/), fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
 
 ## Hire a Play Your Cards Right Stall for Your Next Event
 
@@ -109,7 +109,7 @@ Once the event is over, we’ll return to collect the Target Ring Toss game, lea
 
 ## Ready to Book Our Play Your Cards Right Stall Hire?
 
-Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/pages/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
+Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
 
 ## Frequently Asked Questions
 
@@ -142,3 +142,9 @@ In-house branding available. We print, apply, and remove them after each event.
 Brand the rear half wall of the side stall with your brand from
 
 **£195**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -16,7 +16,7 @@ Whatever your event, make sure you make it truly memorable by adding corporate p
 **Picture perfect photo booths  
 **Booth hire is always a huge hit, giving your guests the chance to save and share their fun, and giving you a unique record of every picture taken. We offer a huge choice, from the classic 'passport-style' photo booths and green screen machines, to the very latest social media booths and hash tag print stations that offer an instant upload to the internet.
 
-For even more fun, check out our cheeky [magic selfie mirror](/photo-booths-and-magic-mirrors/magic-mirror/) for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
+For even more fun, check out our cheeky [magic selfie mirror](/products/magic-mirror/) for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
 
 **Unlimited visits, unlimited fun  
 **All our photo booths for hire across the UK come complete with unlimited visits for your guests, with prints of their pictures to take home. You'll also get a link to download of all the images for your marketing team to use on social media, to publicise your event and show how much fun your company can be. Choose hash tag print station hire and you can create an instant social media buzz from the very first photo, making it ideal for exhibitions and sales promotions.
@@ -94,4 +94,10 @@ For advice on the best corporate photo booth hire for your event, your audience 
 
 *   Tel: 02477220701
 *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-*   [Contact form](/pages/contact-fun-pro-uk/)
+*   [Contact form](/contact-fun-pro-uk/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

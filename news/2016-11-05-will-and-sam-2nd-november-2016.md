@@ -9,9 +9,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [05 November 16 - Will & Sam 2nd November 2016](/will-and-sam-2nd-november-2016/)
+# 05 November 16 - Will & Sam 2nd November 2016
 
-It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) for the wedding of Will and Sam.
+It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/products/magic-mirror/) for the wedding of Will and Sam.
 
 The happy couple and all of their wonderful guests had travelled the long distance from Liverpool to the beautiful venue of Shustoke Farm Barns for their wedding.
 
@@ -20,3 +20,11 @@ We arrived at the barn in the evening to set up and were ready to let the fun co
 Sam and Will chose to have their name and date of their wedding printed on the pictures, which i am sure you will agree looks amazing.
 
 Perfect Snap had a very busy night here, all the guests had a ball and came back for more photos which we love to see. We were looked after at the venue to and were fed stone bake pizza - mm mmm!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

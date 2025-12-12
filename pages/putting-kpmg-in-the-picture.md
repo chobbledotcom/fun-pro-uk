@@ -19,4 +19,10 @@ Following the huge success of our first collaboration, we have been supplying a 
 
 We're proud to have KPMG as a customer, because if the number-crunchers of one of the world's biggest accountancy firms think that our prices are right, then we must be offering a good deal!
 
-![](/userfiles/businesspeople.png)
+!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

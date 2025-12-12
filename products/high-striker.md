@@ -50,11 +50,11 @@ Corporate events can be tedious, but just imagine the surprise on their faces wh
 
 **£1195**\+ vat**
 
-Delivered [](/high-striker/)and [](/high-striker/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/high-striker/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/high-striker/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

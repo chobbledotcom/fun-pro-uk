@@ -9,7 +9,8 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
-  - "/category/interactive-game-hire/retro-arcade-games/"
+  - "/category/arcade-games/4/retro-arcade-games/"
+  - "/category/interactive-game-hire/4/retro-arcade-games/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3ecfc5ae722862476566d15a172358cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d0f4a1f69596ec2968a469d2bae7429"
@@ -65,11 +66,11 @@ Ready to level up your event with RETRO ARCADE GAMES hire? Contact us today to b
 
 **£995**\+ vat**
 
-Delivered [](/retro-arcade-games/)and [](/retro-arcade-games/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/retro-arcade-games/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/retro-arcade-games/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -109,10 +110,10 @@ Lift required
 
 Popular items:
 
-*   [Batak Pro](/batak/batak-pro/)
-*   [Race Car Simulators](/twin-racing-car-simulators/)
-*   [Gold Cup Horse Racing](/29/gold-cup-horse-racing/)
-*   [Pic N Mix](/exhibition-games/42/pix-n-mix-hire/)
+*   [Batak Pro](/products/batak-pro/)
+*   [Race Car Simulators](/products/twin-racing-car-simulators/)
+*   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/)
+*   [Pic N Mix](/products/pix-n-mix-hire/)
 
 ## **Retro Arcade** Games Hire
 
@@ -130,7 +131,7 @@ Our classic arcade hire is also a great investment for company fun days too, wit
 
 **Arcade Game Hire Is Addictive Fun**
 
-Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/corporate-entertainment/), or for bringing in new clients and customers at an open day.
+Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/categories/corporate-entertainment/), or for bringing in new clients and customers at an open day.
 
 **Get Arcade Games Hire for Your Next Special Event**
 
@@ -164,7 +165,7 @@ Please reach out to us now so that we can provide a quote to you. The quote incl
 
 Arcades games are for everyone to play. If you’re uncertain how many arcades you need, please reach out to us and we can offer an estimate based on how many people you have attending your next big event.
 
-Why not create your own amusement arcade by adding our [twin basketball challenge game](/photo-booths/ultimate-green-screen-photo-booth/) or our authentic [racing car simulators](/twin-racing-car-simulators/) for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
+Why not create your own amusement arcade by adding our [twin basketball challenge game](/products/ultimate-green-screen-photo-booth/) or our authentic [racing car simulators](/products/twin-racing-car-simulators/) for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
 
 **Where Do I Get Arcade Games Hire?**
 

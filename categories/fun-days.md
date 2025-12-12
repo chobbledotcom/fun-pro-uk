@@ -15,7 +15,7 @@ A family fun day is a great way to provide families a day of entertainment and e
 4.  Expresses appreciation
 5.  Strengthens relationships
 
-Here at [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) we will help you with planning your day, helping you decide the types of games to hire based on your staff and their families, as well as your business needs. You may already know what your staff like, but if unsure, we can recommend interactive and FUN games for you.
+Here at [Fun Pro UK](/christmas-entertainment-game-hire/) we will help you with planning your day, helping you decide the types of games to hire based on your staff and their families, as well as your business needs. You may already know what your staff like, but if unsure, we can recommend interactive and FUN games for you.
 
 Some of our popular Family Fun Day games are :-
 
@@ -33,4 +33,10 @@ It’s a team effort for the planning phases, and Fun Pro UK team will support y
 6.  Plan the day out with times and locations of the activities.
 7.  Promote the day on your internal platforms to build up the excitement of the day
 
-Let [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) interactive games help your staff get to know each other better and forge stronger teams. Your family fun day is sure to be a fantastic way to celebrate your business successes, anniversaries, awards, brand activation or any reason to come together and have FUN.
+Let [Fun Pro UK](/christmas-entertainment-game-hire/) interactive games help your staff get to know each other better and forge stronger teams. Your family fun day is sure to be a fantastic way to celebrate your business successes, anniversaries, awards, brand activation or any reason to come together and have FUN.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

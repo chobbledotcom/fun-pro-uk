@@ -9,6 +9,7 @@ events: []
 featured: true
 features: []
 redirect_from:
+  - "/category/arcade-games/49/prize-wheel/"
   - "/category/prize-games/49/prize-wheel/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb"
@@ -67,7 +68,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -107,10 +108,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ## Prize Wheel
 
@@ -118,7 +119,7 @@ Guaranteed to be a crowd pleaser, this amazing branded prize wheel game will ent
 
 The Wheel of Fortune is an easy game to play, each user spins the wheel to see where it stops and lands - will it be a prize, reward or a forfeit? Each panel can be customised to fit your theme and design detailing your chosen slogan, prize or logo. Whether you require 10, 15 or 30 sections to the prize wheel hire then this can be designed to meet your specification.
 
-The Exhibition Prize Wheel also known as the [Spinng Wheel](/arcade-games/49/prize-wheel/#content), works exceedingly well at any corporate event where you wish to increase footfall for your company thus enabling you to interact with potential new clients through a heap of competitive fun. Promotional branded game hire is a real win win for everyone with your brand being seen far and wide throughout your exhibition event or instore promotion. We can guarantee to have a queue out of your door!
+The Exhibition Prize Wheel also known as the [Spinng Wheel](#content), works exceedingly well at any corporate event where you wish to increase footfall for your company thus enabling you to interact with potential new clients through a heap of competitive fun. Promotional branded game hire is a real win win for everyone with your brand being seen far and wide throughout your exhibition event or instore promotion. We can guarantee to have a queue out of your door!
 
 Are you planning a family-friendly event but don’t think that everyone will be excited to jump on the bouncy castle?
 
@@ -166,9 +167,9 @@ Searching for popular branded prize game hire for your next corporate exhibition
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
+(One time use only)
 
 **Branded Wheel**
 

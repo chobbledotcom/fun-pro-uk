@@ -1,58 +1,61 @@
 ---
-title: "Interactive Games"
+title: "Arcade Game Hire"
 price: ""
 order: 50
-meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
-meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
+meta_title: "Arcade Game Hire | Interactive Entertainment | Events UK-Wide"
+meta_description: "Fun Pro UK offers premium arcade game hire nationwide. Based in Coventry, we provide games for events across the UK. Reserve now for your next occasion!"
 categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features: []
 redirect_from:
-  - "/category/interactive-game-hire/lights-out-game/"
+  - "/category/arcade-games/2/lights-out-game/"
 gallery:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a7e86d84e96e7bcb0dea24fa2a14a0f9"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/155317938fed6cb2f070f2cc18b7a451"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9981daa9ff9a39a4c2d4fdf14e1fe02"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a7e86d84e96e7bcb0dea24fa2a14a0f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e589094ec1216137052188f2fade887"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3a9973cbf3a599b937762ce108d339de"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/25bd4f8dba23c188523ba1ee9b50cf8b"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9026b3b054043ba3d2a8e851df214bc3"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a469f562b203f9ef31dcdc5034dcb813"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/833c0cfcbec5cdc77623cec696b68f88"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/41ec2fd815fbfa8e94c3999aa06b10e8"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6d72377ab784f1e8d39aff60f0d7535b"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e302e6319fcb03ddfc99aefe2b5fb9cf"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0eab500e698c86785f5d0b3c44e606a8"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/32b3f7757007e556e69bc8aebd5cc7a8"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c699e5c57a273a000e769b5a04572c1d"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/833c0cfcbec5cdc77623cec696b68f88"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3a9973cbf3a599b937762ce108d339de"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/41ec2fd815fbfa8e94c3999aa06b10e8"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6d72377ab784f1e8d39aff60f0d7535b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/292a6c2967046a82790fb2cf452b6365"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3cd165509b7a1705c1dbf729a097616e"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a43b62af3d98c68f48c9fc65d853332"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4542e8532d60775cd7a9739ed418501"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/25bd4f8dba23c188523ba1ee9b50cf8b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c0f74c5ec4fed95f13b3922a158c902"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e302e6319fcb03ddfc99aefe2b5fb9cf"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c24809f7ff1da43826a90ff481a49249"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/32b3f7757007e556e69bc8aebd5cc7a8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026ca80ff710a869d51817df100feb35"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b6ea9006cfb0c32bb85ac3fce503307"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3cd165509b7a1705c1dbf729a097616e"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3ecfc5ae722862476566d15a172358cc"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a43b62af3d98c68f48c9fc65d853332"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/debd64a55340ff13e44c7b1d479b348b"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51c24e2eec324fae22c11f1eb8524720"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026ca80ff710a869d51817df100feb35"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3ecfc5ae722862476566d15a172358cc"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c699e5c57a273a000e769b5a04572c1d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e2bba5ab2d54b2899e1fa4bda15cc514"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ee9d6a7d92d65f57270c79c3e8dc0e5e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/71010155674095bb4bc246ed136533bc"
@@ -154,348 +157,360 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/76f7e76583eef53d6005ac8ef17c1f98"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a5a196c5976e03b83f7fe1a89475fa5a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a8140ec85e9778ddf2970bc3cf693332"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fd3d9c9f6f100c6bac8b7cd391cae8a"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b0baecdc9a8778eaf6fc276fd00bedc"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c696ae30af0f7b0309b72799a30cd4b0"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/54913528ee2e574dc0de811b5258720a"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4bf1ec20344995a1eeec8cadf8cd0ed2"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4829559324062a7b47074df60aa18622"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f8972f08b87fdcc2a4270201dd0ce3"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5573459d880b73f2624618ac6433a1eb"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e33648cf17f0cdcbc14c30f61dbe2b7f"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9fe46f73ccde3b055888451dcc98fc37"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/70b6031061fff6465ab4318b2baeaeef"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/767b8e85f2d712f0d0c7de1ac3b43c36"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5d683a087999901fab345baa2665e033"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90f407c9c90f2d0c1c84265d446ec4e5"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65f0342d259fb752c37a1feff2ce617f"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/db89d2817425e4f3530c8eebb6e87793"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/eea4c3ba72231505e522cd2d9ee94181"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/72f3745a30e9eedd3d09449428a55ce5"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7ae8947736244762022063f86f77d457"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/258423a1bbd023ad6bba43053e0b6423"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/648c1cc4faabed73aadd6c73f648b2dc"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/74a94e468a80b6e668e26030f7f83e46"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a94d1fb69a87aa99a475e30d278c4665"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9989e26fe0f2fd616ae887d5623b67c8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65f0342d259fb752c37a1feff2ce617f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/087c5fa382d495ade8259862bf0e2069"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9fe46f73ccde3b055888451dcc98fc37"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9989e26fe0f2fd616ae887d5623b67c8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c696ae30af0f7b0309b72799a30cd4b0"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fd3d9c9f6f100c6bac8b7cd391cae8a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/767b8e85f2d712f0d0c7de1ac3b43c36"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f4e91ce1a2361f92dc923e22ab85110"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b0baecdc9a8778eaf6fc276fd00bedc"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5d683a087999901fab345baa2665e033"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4bf1ec20344995a1eeec8cadf8cd0ed2"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/eea4c3ba72231505e522cd2d9ee94181"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/62d21c80812f4cbf3e07ec1a6c9f6ab8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e33648cf17f0cdcbc14c30f61dbe2b7f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5573459d880b73f2624618ac6433a1eb"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/db89d2817425e4f3530c8eebb6e87793"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7ae8947736244762022063f86f77d457"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f8972f08b87fdcc2a4270201dd0ce3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a94d1fb69a87aa99a475e30d278c4665"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/648c1cc4faabed73aadd6c73f648b2dc"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/70b6031061fff6465ab4318b2baeaeef"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/54913528ee2e574dc0de811b5258720a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/74a94e468a80b6e668e26030f7f83e46"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90f407c9c90f2d0c1c84265d446ec4e5"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/72f3745a30e9eedd3d09449428a55ce5"
 ---
 
-# **Trusted Interactive Game Hire in the UK**
+# Trusted Arcade Game Hire in the UK
 
-Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/grab-a-grand/). Fun Pro offers entertainment that suits any audience and any occasion.
+Thinking of bringing the fun of the arcade to your guests? We have a range of classic arcade machine games available for hire through the UK. Like all of our products, our arcade rentals are securely stored, tested and maintained in our headquarters in the West Midlands, but we're happy to deliver them to events throughout the country.
 
-## **Our Interactive Game Collection**
+## Our Arcade Game Collection
 
-Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](/retro-arcade-games/). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it’s over, everyone can walk away with exciting memories and fun experiences they won’t forget.
+No one can resist the nostalgic appeal of winning games to collect tickets in exchange for prizes, so why not bring the atmosphere of the arcade with you? We've got a [retro gaming arcade](/products/retro-arcade-games/), [tabletop games](/products/air-hockey-table-hire/), [gambling games](/products/casino-table-hire/), [games of skill](/products/crack-the-code-safe-cracker/), and many more.
 
-Look through our collection of interactive game hires to find a price that suits your needs.
+Take a look at our variety of arcade game hires to find a price that suits your needs.
 
-[Air Hockey Table Hire](/arcade-games/60/air-hockey-table-hire/)
+[Catch it Reaction Ring Hire](/products/catch-it-reaction-ring-hire/)
 
-[More Details](/arcade-games/60/air-hockey-table-hire/)
+[More Details](/products/catch-it-reaction-ring-hire/)
 
-[Gold Bar Challenge](/exhibition-games/107/gold-bar-challenge/)
+[Roller Bowler](/products/roller-bowler/)
 
-[More Details](/exhibition-games/107/gold-bar-challenge/)
+[More Details](/products/roller-bowler/)
 
-[Roller Bowler](/arcade-games/111/roller-bowler/)
+[Gold Bar Challenge](/products/gold-bar-challenge/)
 
-[More Details](/arcade-games/111/roller-bowler/)
+[More Details](/products/gold-bar-challenge/)
 
-[Catch it Reaction Ring Hire](/exhibition-games/94/catch-it-reaction-ring-hire/)
+[Electronic Dart Board](/products/electronic-dart-board/)
 
-[More Details](/exhibition-games/94/catch-it-reaction-ring-hire/)
+[More Details](/products/electronic-dart-board/)
 
-[Corn Hole](/exhibition-games/99/corn-hole/)
+[8 Lane Roll & Bowl Donkey Derby](/products/8-lane-roll-and-bowl-donkey-derby/)
 
-[More Details](/exhibition-games/99/corn-hole/)
+[More Details](/products/8-lane-roll-and-bowl-donkey-derby/)
 
-[Electronic Dart Board](/arcade-games/106/electronic-dart-board/)
+[Mega Wire - Branded Game Hire (stand alone)](/products/mega-wire-branded-game-hire-stand-alone/)
 
-[More Details](/arcade-games/106/electronic-dart-board/)
+[More Details](/products/mega-wire-branded-game-hire-stand-alone/)
 
-[Candy Floss Cart Hire](/fun-foods/92/candy-floss-cart-hire/)
+[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/)
 
-[More Details](/fun-foods/92/candy-floss-cart-hire/)
+[More Details](/products/prize-crane-arcade-grabber/)
 
-[Scalextric Slot Car Racing](/all-products/88/scalextric-slot-car-racing/)
+[Whack A Mole game hire](/products/whack-a-mole-game-hire/)
 
-[More Details](/all-products/88/scalextric-slot-car-racing/)
+[More Details](/products/whack-a-mole-game-hire/)
 
-[Shuffleboard Hire](/all-products/87/shuffle-board-hire/)
+[Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
 
-[More Details](/all-products/87/shuffle-board-hire/)
+[More Details](/products/scalextric-slot-car-racing/)
 
-[Bungee Run](/fun-days/33/bungee-run/)
+[Roll & Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/)
 
-[More Details](/fun-days/33/bungee-run/)
+[More Details](/products/roll-and-bowl-donkey-derby/)
 
-[Crazy Golf](/fun-days/crazy-golf/)
+[Danger-zone-strike-a-light-game-hire](/products/danger-zone-strike-a-light-game-hire/)
 
-[More Details](/fun-days/crazy-golf/)
+[More Details](/products/danger-zone-strike-a-light-game-hire/)
 
-[Mega Wire - Branded Game Hire (stand alone)](/all-products/64/mega-wire-branded-game-hire-stand-alone/)
+[Batak Pro](/products/batak-pro/)
 
-[More Details](/all-products/64/mega-wire-branded-game-hire-stand-alone/)
+[More Details](/products/batak-pro/)
 
-[Snatch It](/exhibition-games/82/snatch-it/)
+[Batak Lite](/products/batak-lite/)
 
-[More Details](/exhibition-games/82/snatch-it/)
+[More Details](/products/batak-lite/)
 
-[Table Tennis Hire](/corporate-entertainment/80/table-tennis-hire/)
+[Snatch It](/products/snatch-it/)
 
-[More Details](/corporate-entertainment/80/table-tennis-hire/)
+[More Details](/products/snatch-it/)
 
-[Virtual Pinball](/arcade-games/77/virtual-pinball/)
+[Pix N Mix Hire](/products/pix-n-mix-hire/)
 
-[More Details](/arcade-games/77/virtual-pinball/)
+[More Details](/products/pix-n-mix-hire/)
 
-[Plinko Game Hire](/all-products/68/plinko-game-hire/)
+[Plinko Game Hire](/products/plinko-game-hire/)
 
-[More Details](/all-products/68/plinko-game-hire/)
+[More Details](/products/plinko-game-hire/)
 
-[Roll & Bowl Donkey Derby](/75/roll-and-bowl-donkey-derby/)
+[Ballnado Grabber](/products/ballnado-grabber/)
 
-[More Details](/75/roll-and-bowl-donkey-derby/)
+[More Details](/products/ballnado-grabber/)
 
-[Whack A Mole game hire](/all-products/67/whack-a-mole-game-hire/)
+[LEADER BOARD](/products/leader-board/)
 
-[More Details](/all-products/67/whack-a-mole-game-hire/)
+[More Details](/products/leader-board/)
 
-[Danger-zone-strike-a-light-game-hire](/63/danger-zone-strike-a-light-game-hire/)
+[FOOTBALL TABLES](/products/football-tables/)
 
-[More Details](/63/danger-zone-strike-a-light-game-hire/)
+[More Details](/products/football-tables/)
 
-[Batak Lite](/all-products/batak-lite/)
+[Air Hockey Table Hire](/products/air-hockey-table-hire/)
 
-[More Details](/all-products/batak-lite/)
+[More Details](/products/air-hockey-table-hire/)
 
-[Beat The Buzzer](/62/beat-the-buzzer/)
+[Prize Wheel](/products/prize-wheel/)
 
-[More Details](/62/beat-the-buzzer/)
+[More Details](/products/prize-wheel/)
 
-[High Striker](/arcade-games/48/high-striker/)
+[Crack The Code safe cracker](/products/crack-the-code-safe-cracker/)
 
-[More Details](/arcade-games/48/high-striker/)
+[More Details](/products/crack-the-code-safe-cracker/)
 
-[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/)
+[The Vault](/products/the-vault/)
 
-[More Details](/prize-crane-arcade-grabber/)
+[More Details](/products/the-vault/)
 
-[Prize Wheel](/prize-wheel/)
+[Candy Floss Cart Hire](/products/candy-floss-cart-hire/)
 
-[More Details](/prize-wheel/)
+[More Details](/products/candy-floss-cart-hire/)
 
-[Roll And Bowl Game Hire](/all-products/51/roll-and-bowl-game-hire/)
+[Shuffleboard Hire](/products/shuffle-board-hire/)
 
-[More Details](/all-products/51/roll-and-bowl-game-hire/)
+[More Details](/products/shuffle-board-hire/)
 
-[The Vault](/50/the-vault/)
+[Table Tennis Hire](/products/table-tennis-hire/)
 
-[More Details](/50/the-vault/)
+[More Details](/products/table-tennis-hire/)
 
-[Racing Car Simulators](/twin-racing-car-simulators/)
+[Crazy Golf](/products/crazy-golf/)
 
-[More Details](/twin-racing-car-simulators/)
+[More Details](/products/crazy-golf/)
 
-[Ballnado Grabber](/grab-a-grand/36/ballnado-grabber/)
+[Virtual Pinball](/products/virtual-pinball/)
 
-[More Details](/grab-a-grand/36/ballnado-grabber/)
+[More Details](/products/virtual-pinball/)
 
-[VR Race Car Simulator](/corporate-entertainment/38/vr-race-car-simulator/)
+[Beat The Buzzer](/products/beat-the-buzzer/)
 
-[More Details](/corporate-entertainment/38/vr-race-car-simulator/)
+[More Details](/products/beat-the-buzzer/)
 
-[Batak Pro](/batak/batak-pro/)
+[GIANT BUZZ WIRE](/products/giant-buzz-wire/)
 
-[More Details](/batak/batak-pro/)
+[More Details](/products/giant-buzz-wire/)
 
-[GIANT BUZZ WIRE](/giant-buzz-wire/)
+[Giant Connect 4 Game Hire](/products/giant-connect-4-game-hire/)
 
-[More Details](/giant-buzz-wire/)
+[More Details](/products/giant-connect-4-game-hire/)
 
-[Pix N Mix Hire](/exhibition-games/42/pix-n-mix-hire/)
+[Giant Jenga Hire](/products/giant-jenga-hire/)
 
-[More Details](/exhibition-games/42/pix-n-mix-hire/)
+[More Details](/products/giant-jenga-hire/)
 
-[Crack The Code safe cracker](/crack-the-code-safe-cracker/)
+[GREEN SCREEN PHOTO BOOTHS](/products/green-screen-photo-booths/)
 
-[More Details](/crack-the-code-safe-cracker/)
+[More Details](/products/green-screen-photo-booths/)
 
-[Dance Machine](/exhibition-games/dance-machine/)
+[High Striker](/products/high-striker/)
 
-[More Details](/exhibition-games/dance-machine/)
+[More Details](/products/high-striker/)
 
-[ELECTRONIC BASKET BALL HIRE](/photo-booths/ultimate-green-screen-photo-booth/)
+[MAGIC MIRROR](/products/magic-mirror/)
 
-[More Details](/photo-booths/ultimate-green-screen-photo-booth/)
+[More Details](/products/magic-mirror/)
 
-[LEADER BOARD](/30/leader-board/)
+[Roll And Bowl Game Hire](/products/roll-and-bowl-game-hire/)
 
-[More Details](/30/leader-board/)
+[More Details](/products/roll-and-bowl-game-hire/)
 
-[RETRO ARCADE GAMES](/retro-arcade-games/)
+[Racing Car Simulators](/products/twin-racing-car-simulators/)
 
-[More Details](/retro-arcade-games/)
+[More Details](/products/twin-racing-car-simulators/)
 
-[FOOTBALL TABLES](/27/football-tables/)
+[CASINO TABLE HIRE](/products/casino-table-hire/)
 
-[More Details](/27/football-tables/)
+[More Details](/products/casino-table-hire/)
 
-[GOLD CUP HORSE RACING](/29/gold-cup-horse-racing/)
+[CASH GRABBER MACHINE HIRE](/products/grab-a-grand/)
 
-[More Details](/29/gold-cup-horse-racing/)
+[More Details](/products/grab-a-grand/)
 
-[TOP DOC OPERATION GAME](/top-doc-operation-game/)
+[Dance Machine](/products/dance-machine/)
 
-[More Details](/top-doc-operation-game/)
+[More Details](/products/dance-machine/)
 
-[PLUCK A DUCK RACING](/pluck-a-duck-racing/)
+[ELECTRONIC BASKET BALL HIRE](/products/ultimate-green-screen-photo-booth/)
 
-[More Details](/pluck-a-duck-racing/)
+[More Details](/products/ultimate-green-screen-photo-booth/)
 
-[CASH GRABBER MACHINE HIRE](/3/grab-a-grand/)
+[GOLD CUP HORSE RACING](/products/gold-cup-horse-racing/)
 
-[More Details](/3/grab-a-grand/)
+[More Details](/products/gold-cup-horse-racing/)
 
-[CASINO TABLE HIRE](/christmas-game-hire/casino-table-hire/)
+[PLUCK A DUCK RACING](/products/pluck-a-duck-racing/)
 
-[More Details](/christmas-game-hire/casino-table-hire/)
+[More Details](/products/pluck-a-duck-racing/)
 
-\*Please note that delivery charges and minimum order values may apply.
+[RETRO ARCADE GAMES](/products/retro-arcade-games/)
 
-Our service includes delivery, setup, and removal by our professional team.
+[More Details](/products/retro-arcade-games/)
 
-In need of a longer hire period or for some of our staff to stay onsite?
+[TOP DOC OPERATION GAME](/products/top-doc-operation-game/)
 
-Contact us for custom pricing and availability.
+[More Details](/products/top-doc-operation-game/)
 
-\*Please note that delivery charges and minimum order values may apply.\*
+[VR Race Car Simulator](/products/vr-race-car-simulator/)
 
-## **Hire interactive games for your next event!  
-**
+[More Details](/products/vr-race-car-simulator/)
 
-Our interactive game hire is more than just fun; they are the key to creating unforgettable experiences. Break the ice, build connections among guests, and host fun and friendly competitions.
+## Hire Arcade Games at Your Next Event!
 
-Compact and customisable, our interactive games are maintained to the highest standards and they come with every piece of equipment necessary to provide the full experience.
+Compact and stylish, our collection of classic arcade machines come with great visuals through LCD screens, perfectly working buttons and joysticks, complete tools and equipment, and everything else you and your guests need to get the full arcade experience.
 
 We specialise in small and large events such as:
 
-✓ Weddings
+*   [Weddings](/categories/weddings/)
+*   [Exhibitions](/categories/exhibition-games/)
+*   [Corporate Entertainment](/categories/corporate-entertainment/)
+*   [Company Award Ceremonies](/events/company-award-ceremonies/)
+*   [Fun days](/categories/fun-days/)
+*   And much more!
 
-✓ [Exhibitions](/exhibition-games/)
+Whatever you're celebrating, our arcade [game hire services](/christmas-entertainment-game-hire/) are here to bring a lively atmosphere and endless fun to any event.
 
-✓ Corporate entertainment
+## Why Choose Our Arcade Game Hire Service?
 
-✓ [Corporate events](/corporate-entertainment/)
+It's not just another set of game rentals to us, Fun Pro is all about helping you build memorable experiences at each event.
 
-✓ Fun days
+### Top-quality Equipment
 
-✓ University days and school days
+We pride ourselves in providing only the highest quality arcade machine rentals. All of our equipment comes from leading manufacturers known for their durability and exceptional performance. Every arcade game we have goes thorough testing and maintenance to guarantee flawless operations.
 
-✓ Team buildings
+### Full Support and Service
 
-... and so much more!
+We understand how stressful event-planning can be, but with Fun Pro UK, arcade game hire is one thing you won’t have to worry about. Our hassle-free services cover everything from the initial booking to the final setup. We’ll take care of the logistics, so you can focus on enjoying your event. Whether it's a small gathering or a large-scale event, we’ll make sure your arcade games will be ready to entertain.
 
-[Fun Pro](/pages/christmas-entertainment-game-hire'/) is here to bring a lively atmosphere and endless fun to all your parties and events.
+### Customisable Options
 
-## **Why Choose Our Interactive Game Hire Service?**
+Every event is unique, and we believe your arcade game hire should reflect that. Mix and match different arcade games and create the perfect arcade experience for your guests. We can tailor our arcade games to match the theme, scale, and budget of your event. Plus, we also offer flexible hire durations and additional features, like personalised setups, to make your event stand out.
 
-More than just a set of game rentals to use, Fun Pro is here to help you build lasting memories at every event.
+### Engagement and Endless Fun
 
-### Quality Equipment and Games
+Arcade games are more than just entertainment — they bring people together! Who doesn’t like good old friendly competition and the nostalgia of classic games? Inject buckets of fun into every corporate and private event. Arcade games are the perfect interactive element that captivates your guests, encourages their participation, and boosts enjoyment at any gathering.
 
-We are proud to provide only the best interactive game hire services. All of our games and our equipment come from leading manufacturers known for their durability and exceptional performance. We test each and every interactive game and do regular maintenance to ensure a flawless operation on the day of your event.
+## How to Hire Our Arcade Games
 
-### All-Around Support and Service
+Booking the arcade video game machines you want with Fun Pro UK is easy and stress-free:
 
-Planning any kind of event is a stressful affair, but with Fun Pro, an interactive game hire is something you don’t need to be concerned about. We offer full support and quality customer service that covers the initial booking up to the final setup. You can focus on enjoying your event while we take care of the logistics.
+#### Step 1: Enquiry
 
-### Customisable Games
+Reach out to us via our website, email, or phone to discuss your event needs. Someone from our team will provide a personalised quote based on your requirements.
 
-Fun Pro understands that every event is unique, and we believe your interactive games should reflect that. Our interactive games can be tailored to match the theme, scale, and budget of your event. We also offer flexible hire durations and personalised setups to make your event stand out.
+#### Step 2: Confirmation
 
-## **How to Hire Our Interactive Games**
+When you’re happy with the arcade games for rent, confirm your booking, and we'll take care of the rest.
 
-Booking the game rentals you want with Fun Pro UK is fast and hassle-free.
+#### Step 3: Delivery and setup
 
-### Step 1: Enquiry
+On the day of the event, we’ll take care of delivering and setting up the arcade games at the venue. We’ll provide professional staffing when required to ensure that everything goes off without a hitch.
 
-Speak to us via our website, email, or phone to talk about your event needs. Our team will provide a personalised quote based on your requirements.
+#### Step 4: Event day support
 
-### Step 2: Confirmation
+If you need any assistance during the event, our team of professionals are only one call away. Call: 0247 7220 701
 
-When you’re happy with the interactive event games for rent, confirm your booking, and we'll take care of the rest.
+We’ll make sure everyone gets to enjoy the games you’ve booked.
 
-### Step 3: Delivery and setup
+#### Step 5: Removal
 
-On the day of your event, we’ll handle delivering and setting up the interactive entertainment games at the venue. We can also provide professional staffing if you require it to ensure that everything goes smoothly.
+When the event is over, we’ll handle the safe and efficient removal of all the arcade games, leaving your venue exactly as we found it.
 
-### Step 4: Event day support
+Whatever you choose, you know you're with an experienced and professional team when you're with Fun Pro UK. We pride ourselves on our exceptional products and our top-notch customer service, which runs through every aspect of our business. Not only do we only invest in the best possible arcade machines, so you know you're getting some top-of-the line equipment when you're with us, but we also maintain them to the highest standards.
 
-If you require any assistance during the event, our team of professionals are only one call away. Call: 0247 7220 701
+## Ready to Take Your Event to the Next Level?
 
-We’ll make sure everyone gets to enjoy the rental games you’ve booked.
+Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, [Leicester](/locations/leicester/corporate-event-hire/), [Nottingham](/locations/nottingham/corporate-event-hire/), or any other location in the UK!
 
-### Step 5: Removal
+If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk/)
 
-When the event is over, we’ll handle the safe and efficient removal of all the interactive games, leaving your venue exactly as we found it.
+## Frequently Asked Questions
 
-Whatever interactive game hire you choose, you can rest assured that you’re with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](/fun-days/) and company games, so you know you're getting some top notch equipment that’s also maintained to the highest standards.
+### What’s included in our arcade machine hire service?
 
-## **Ready to take your event to the next level?**
+Each arcade machine has the necessary accessories and includes [delivery](/delivery-areas/), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed.
 
-Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
+### How much space is required for setting up retro arcade machines?
 
-## **Frequently Asked Questions**
+To give you a peek at some general guidelines and details, the space required for setting up an arcade video game machine depends primarily on two factors: the number of machines and additional equipment. Our team will work with you to ensure the layout will fit your venue.
 
-### Are the games suitable for both indoor and outdoor events?
+### Which arcade machines are the most frequently rented?
 
-We have plenty of versatile interactive games that can be adapted for both indoor and outdoor settings. We have games that can be played on both lawns and floors. Some games require a specific environment, like large indoor spaces or a controlled outdoor area for obstacle courses.
+Some of our most popular arcade machines are:
 
-### Do you provide setup and takedown services for the games?
+*   [Electronic Basketball](/products/ultimate-green-screen-photo-booth/): Transform any space into a basketball court with this portable machine.
+    
+*   Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys.
+    
+*   [Twin Race Car Simulators](/products/twin-racing-car-simulators/): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
+    
+*   [Dance Machine](/products/dance-machine/): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
+    
+*   Lights Out: Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
 
-Yes! Our team of professionals will take care of the entire logistics process for you. We’ll handle delivery, set-up, and retrieval for each game you hire. We can also provide onsite support if you need it.
+If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/christmas-entertainment-game-hire/) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
 
-### How much space is required for interactive games?
+You can always find the perfect video game machine rental for you.
 
-The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](/corporate-entertainment/60/air-hockey-table-hire/) may be more compact.
+### What types of events are ideal for including arcade games?
 
-When you’re planning your event, consider the dimensions of the games and the available space at your venue. Talk to us if you need help, and we’ll be happy to assist.
+There’s no such thing as an event that’s too posh for classic arcade games!
 
-### Are the games suitable for all age groups?
+Whatever event you’re hosting, our arcade game hire adds a fun, nostalgic, and interactive element that draws crowds and entertains your guests.
 
-Yes! Our interactive games cater to a wide range of age groups. We have indoor party games for adults and entertaining party games for the kids.
+Bust out the beloved arcade game machines at:
 
-### Can the games be customised with branding or themes?
+*   [Corporate outings](/news/benefits-of-team-building-days/)
+    
+*   Product launches
+    
+*   [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/) and conferences
+    
+*   Birthday parties
+    
+*   [Weddings](/news/wedding-fair-at-ettington-park/) and anniversaries
+    
+*   Family reunions
+    
+*   Festivals and fairs
+    
+*   Grand openings
+    
+*   [Community events](/categories/fun-days/)
+    
+*   Gaming conventions
 
-Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that’s a [wedding](/pages/hire-outdoor-games-for-weddings/), a team building, or a corporate event.
+…and so much more!
 
-### Can I hire the games for corporate events or team-building activities?
+Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
 
-Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/pages/team-building-ideas/). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they’re perfect for corporate settings.
+## What our customers are saying…
 
-## **Guaranteed to draw a crowd  
-**
+[Load More Reviews](/testimonials/#content)
 
-Interactive game hire is a great way to draw a crowd to your product launch or exhibition stand, especially in a busy venue where everyone is competing for attention. People will not only flock to have a go, they'll stay to watch other players too, giving you plenty of time to talk to them.
-
-You can [hire retro arcade games](/retro-arcade-games/), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](/photo-booths/ultimate-green-screen-photo-booth/) that really get the crowd involved.
-
-**Take a break  
-**Electronic games hire is ideal for conferences, presentations and training days, giving delegates a chance to relax and unwind during breakout times. Hiring interactive games for the office is also a great way of balancing work and play when your team are under pressure.
-
-Compact and easy to play, our interactive games take up little space and as little time as you have available, while delivering big fun for everyone involved.
-
-**Classic casino nights  
-**Our interactive games are ideal for themed corporate event hire too, with something to match almost any occasion from a new car launch to a film premier. Why not add a touch of James Bond sophistication with casino quality gaming tables including roulette table hire and blackjack table hire, complete with professional uniformed croupiers and dealers.
-
-**Nationwide delivery  
-**While we specialise in West Midlands corporate entertainment hire, we also deliver event packages across the UK. Ask for details when you make your booking. Call or email now, or complete the contact form below and we'll call you.
-
-*   Tel: 02477220701
-*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-*   Contact form
+Happy customers we have worked along side

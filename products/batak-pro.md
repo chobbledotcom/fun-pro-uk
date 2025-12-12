@@ -9,7 +9,8 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
-  - "/category/exhibition-games/batak-pro/"
+  - "/category/batak/43/batak-pro/"
+  - "/category/exhibition-games/43/batak-pro/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/63439c31d53b3532d47827d4a7cc0a89"
@@ -31,13 +32,13 @@ gallery:
 
 "Please Note Leader Boards are not included unless requested"
 
-[Batak Pro](/pages/batak-pro-hire-manchester/) is the perfect high-energy activity to help create a buzz and bring people together at your next corporate event, [staff party](/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or product launch.
+[Batak Pro](/locations/manchester/batak-pro-hire/) is the perfect high-energy activity to help create a buzz and bring people together at your next corporate event, [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or product launch.
 
 ## What Is Batak Pro?
 
-Batak Pro is the full-scale version of the popular reaction speed game, [Batak Lite](/all-products/batak-lite/), designed to test and improve hand-eye coordination, reflexes, and stamina. With its dynamic illuminated targets, players are challenged to hit as many of the targets as possible within a set time, making it a thrilling game for participants and spectators alike.
+Batak Pro is the full-scale version of the popular reaction speed game, [Batak Lite](/products/batak-lite/), designed to test and improve hand-eye coordination, reflexes, and stamina. With its dynamic illuminated targets, players are challenged to hit as many of the targets as possible within a set time, making it a thrilling game for participants and spectators alike.
 
-Highly popular at many types of [corporate events](/corporate-entertainment/) like [team building](/pages/team-building-ideas/) days, exhibitions, trade shows, and [brand activations](/pages/promotion-event-games/), Batak Pro draws crowds and creates a buzz around your brand.
+Highly popular at many types of [corporate events](/categories/corporate-entertainment/) like [team building](/team-building-ideas/) days, exhibitions, trade shows, and [brand activations](/promotion-event-games/), Batak Pro draws crowds and creates a buzz around your brand.
 
 ## Why Choose Batak Pro for Your Next Event?
 
@@ -51,11 +52,11 @@ At Fun Pro, our Batak Pro game hire is suitable for many types of events. Here a
     
 *   Nationwide Delivery & Setup: We handle everything from start to finish.
     
-*   Suitable for Various Events: Great for [conferences](/pages/conference-game-hire/), exhibitions, product launches, and more.
+*   Suitable for Various Events: Great for [conferences](/conference-game-hire/), exhibitions, product launches, and more.
 
 ## What’s Included in Batak Pro Hire from Fun Pro?
 
-We make [interactive game hire](/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
+We make [interactive game hire](/categories/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
 
 **Hire Prices:**
 
@@ -85,7 +86,7 @@ Custom branding options to showcase your company identity
 
 \*Delivery fees may apply.
 
-[**Email:**](/batak/batak-pro/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -125,10 +126,10 @@ Lift required 1600mm deep 1500mm high
 
 ## Popular items:
 
-*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
-*   [Dance Machine](/dance-machine/)
-*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Dance Machine](/products/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game-2/)
 
 ## Batak Pro Branding and Customisation Options
 
@@ -164,7 +165,7 @@ No. For safety reasons, Batak Pro can only be used indoors.
 
 ### How long does the hire period last?
 
-Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please [get in touch with us](/pages/contact-fun-pro-uk/) for a free quote.
+Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please [get in touch with us](/contact-fun-pro-uk/) for a free quote.
 
 ### What power source is required for Batak Pro?
 
@@ -198,17 +199,17 @@ Fun Pro is a leading provider of interactive event games, and we’re proud to h
 
 If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
 
-[Arcade Games](/arcade-games/lights-out-game/)
+[Arcade Games](/products/lights-out-game/)
 
-[Prize Games](/prize-games/)
+[Prize Games](/categories/prize-games/)
 
-[Pub Games](/pub-games/)
+[Pub Games](/categories/pub-games/)
 
-[Roll and Bowl](/roll-and-bowl/)
+[Roll and Bowl](/categories/roll-and-bowl/)
 
-[Crazy Golf](/fun-days/crazy-golf/)
+[Crazy Golf](/products/crazy-golf/)
 
-[View all our event hire products and games here](/all-products/)
+[View all our event hire products and games here](/categories/all-products/)
 
 ## Hire Batak Pro for Your Next Event
 

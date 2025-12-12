@@ -9,6 +9,7 @@ events: []
 featured: true
 features: []
 redirect_from:
+  - "/category/corporate-entertainment/46/rodeo-bull/"
   - "/category/fun-days/46/rodeo-bull/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bfa6c6b94e110ee89a3d1b1807588a2a"
@@ -53,11 +54,11 @@ Get ready to hold on tight as the Rodeo Bull bucks and spins, challenging your r
 
 **£495**\+ vat**
 
-Delivered [](/rodeo-bull/)and [](/rodeo-bull/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/rodeo-bull/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/rodeo-bull/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

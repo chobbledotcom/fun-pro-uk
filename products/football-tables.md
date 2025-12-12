@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/corporate-entertainment/27/football-tables/"
   - "/category/interactive-game-hire/27/football-tables/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a43b62af3d98c68f48c9fc65d853332"
@@ -66,15 +67,15 @@ Take your event to the next level by branding our football tables with your logo
 
 **£995**\+ vat**
 
-Delivered [](/football-tables/)and [](/football-tables/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/football-tables/)house [](/football-tables/)branding [](/football-tables/)available [](/football-tables/)Printed[,](/football-tables/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/football-tables/)time [](/football-tables/)use [](/football-tables/)only)
+(One time use only)
 
-\*Delivery [](/football-tables/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/football-tables/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -114,10 +115,10 @@ Lift required
 
 **Popular items Hire along side**
 
-*   **[Race cars simulators](/twin-racing-car-simulators/)**
-*   **[Batak Pro](/batak/batak-pro/)**
-*   **[Dance Machine](/exhibition-games/dance-machine/)**
-*   **[Pix N Mix](/exhibition-games/42/pix-n-mix-hire/)**
+*   **[Race cars simulators](/products/twin-racing-car-simulators/)**
+*   **[Batak Pro](/products/batak-pro/)**
+*   **[Dance Machine](/products/dance-machine/)**
+*   **[Pix N Mix](/products/pix-n-mix-hire/)**
 
 ## Nationwide Football Table Hire
 

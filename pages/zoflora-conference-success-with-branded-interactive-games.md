@@ -7,9 +7,9 @@ layout: page
 
 # How Zoflora Captured Buyer Attention at Home Bargains Conference with Custom-Branded Interactive Games
 
-![](/userfiles/zoflora-interactive-games.jpg)
+!
 
-Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/category/all-products/batak-lite/) speed reaction game. The [branded](/category/branded-exhibition-games/) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
+Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/) speed reaction game. The [branded](/categories/branded-exhibition-games/) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
 
 ## Client Testimonial
 
@@ -37,23 +37,23 @@ Zoflora is a leading name in the UK household cleaning and disinfectants industr
 
 ## About Zoflora
 
-![](/userfiles/fun-pro-zoflora.jpg)
+!
 
 Zoflora has built a reputation as one of Britain's most trusted household cleaning brands, with their distinctive concentrated disinfectants becoming a staple in homes throughout the UK. The brand's success lies in their ability to combine effective cleaning power with pleasant fragrances, transforming routine household tasks into more enjoyable experiences. As consumer preferences evolve and competition intensifies within the household cleaning sector, Zoflora understands the importance of maintaining strong relationships with major retailers.
 
 The Home Bargains Conference represents a crucial event in Zoflora's annual calendar. This conference brings together suppliers and Home Bargains' buying teams, creating a unique environment where brands can showcase new products, negotiate placement opportunities, and build lasting partnerships with one of the UK's fastest-growing discount retailers. For Zoflora, success at this event means more than simply attending; it requires creating memorable experiences that help buyers remember their brand when making crucial stocking decisions.
 
-However, Zoflora faced a common challenge at trade [conferences](/conference-idea/): how to attract and engage busy retail buyers who are approached by numerous suppliers throughout the day. Traditional exhibition stands with static displays often fail to capture attention in crowded conference halls filled with competing brands. Zoflora needed an [interactive solution](/interactive-game-hire/) that would draw buyers to their stand, create genuine engagement opportunities, and reinforce their brand identity in a way that felt natural and enjoyable rather than forced or overly commercial.
+However, Zoflora faced a common challenge at trade [conferences](/events/conference-idea/): how to attract and engage busy retail buyers who are approached by numerous suppliers throughout the day. Traditional exhibition stands with static displays often fail to capture attention in crowded conference halls filled with competing brands. Zoflora needed an [interactive solution](/categories/interactive-game-hire/) that would draw buyers to their stand, create genuine engagement opportunities, and reinforce their brand identity in a way that felt natural and enjoyable rather than forced or overly commercial.
 
-After their initial enquiry about interactive games, including consideration of both [Batak](/Controls/category/batak/) and [Whack a Mole](/category/all-products/67/whack-a-mole-game-hire/) options, Zoflora recognised that FunPro's expertise in [branded game hire](/category/branded-exhibition-games/) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
+After their initial enquiry about interactive games, including consideration of both Batak and [Whack a Mole](/products/whack-a-mole-game-hire/) options, Zoflora recognised that FunPro's expertise in [branded game hire](/categories/branded-exhibition-games/) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
 
 ## Creating a Fully Branded Interactive Experience
 
-![](/userfiles/zoflora-interactive-game-fun-pro.jpg)
+!
 
 As told to FunPro by the Zoflora events team.
 
-"When we started planning our presence at the Home Bargains Conference, we knew we needed something that would make buyers want to visit our stand. These conferences are filled with major household brands, all competing for the attention of the same key decision-makers. We'd seen [interactive games](/interactive-game-hire/) work well at other events, so we reached out to FunPro with an [initial enquiry](/contact-fun-pro-uk/) about either a Batak or Whack a Mole game for our stand.
+"When we started planning our presence at the Home Bargains Conference, we knew we needed something that would make buyers want to visit our stand. These conferences are filled with major household brands, all competing for the attention of the same key decision-makers. We'd seen [interactive games](/categories/interactive-game-hire/) work well at other events, so we reached out to FunPro with an [initial enquiry](/contact-fun-pro-uk/) about either a Batak or Whack a Mole game for our stand.
 
 What impressed us immediately was FunPro's understanding of what we were trying to achieve. They didn't just offer us a game; they asked about our brand, our objectives for the conference, and what kind of impression we wanted to create with Home Bargains buyers. They explained how the Batak Lite speed reaction game could work particularly well for our needs because it's quick to play, creates natural competition, and generates buzz around the stand as people gather to watch and participate.
 
@@ -63,15 +63,15 @@ The branded leaderboard was another thoughtful touch. As conference attendees co
 
 FunPro handled all the logistics for us, which took considerable stress out of our conference preparation. They [delivered](/delivery-areas/) the game to Liverpool Exhibition Centre, managed the setup, and ensured everything was working properly before the conference began. The setup process was straightforward, with easy access to our stand location. Their team understood the time pressures of conference preparation and worked efficiently to get everything in place without disrupting our other setup activities.
 
-Throughout the event, the [Batak game](/category/all-products/batak-lite/) performed flawlessly. We had a steady stream of buyers visiting our stand, drawn by the activity and energy the game created. The visual impact of the fully branded game meant that even buyers passing by could immediately identify our stand and understand that we'd invested in creating an engaging experience. This attention to detail didn't go unnoticed; several buyers commented on the professional presentation and how the interactive element made our stand more memorable than traditional static displays.
+Throughout the event, the [Batak game](/products/batak-lite/) performed flawlessly. We had a steady stream of buyers visiting our stand, drawn by the activity and energy the game created. The visual impact of the fully branded game meant that even buyers passing by could immediately identify our stand and understand that we'd invested in creating an engaging experience. This attention to detail didn't go unnoticed; several buyers commented on the professional presentation and how the interactive element made our stand more memorable than traditional static displays.
 
 What we particularly valued was FunPro's reliability. In the events industry, there are always concerns about suppliers failing to deliver as promised or equipment not working properly at crucial moments. With FunPro, everything worked exactly as discussed. The game arrived on time, the branding was perfect, and the equipment performed without any technical issues throughout the day. This reliability gave us confidence to focus on our core objective: building relationships with Home Bargains buyers rather than worrying about logistics.
 
-The feedback we received during and after the event reinforced our decision to work with FunPro. Buyers told us they enjoyed the interactive element, and several mentioned that it made our stand more approachable and memorable. In an environment where every brand is trying to make an impression, having something that creates genuine enjoyment and engagement makes a real difference. The Home Bargains buying team appreciated that we'd invested in creating an experience rather than just setting up another standard [exhibition](/exhibition-games/) stand."
+The feedback we received during and after the event reinforced our decision to work with FunPro. Buyers told us they enjoyed the interactive element, and several mentioned that it made our stand more approachable and memorable. In an environment where every brand is trying to make an impression, having something that creates genuine enjoyment and engagement makes a real difference. The Home Bargains buying team appreciated that we'd invested in creating an experience rather than just setting up another standard [exhibition](/categories/exhibition-games/) stand."
 
 ## Results and Future Partnership
 
-The success of Zoflora's Home Bargains Conference experience with FunPro's branded Batak game has led to a continued partnership that demonstrates the value of getting [interactive entertainment](/interactive-game-hire/) right. Following the 2024 event, Zoflora immediately booked FunPro's services for their September 2025 conference appearance, recognising that the investment in branded interactive entertainment delivered measurable results in terms of buyer engagement and brand visibility.
+The success of Zoflora's Home Bargains Conference experience with FunPro's branded Batak game has led to a continued partnership that demonstrates the value of getting [interactive entertainment](/categories/interactive-game-hire/) right. Following the 2024 event, Zoflora immediately booked FunPro's services for their September 2025 conference appearance, recognising that the investment in branded interactive entertainment delivered measurable results in terms of buyer engagement and brand visibility.
 
 The five-star review Zoflora provided after their 2024 event reflects their satisfaction with both the service delivery and the outcomes achieved. Their willingness to recommend FunPro demonstrates confidence in the partnership, whilst their repeat booking shows that the results justified the investment. For Zoflora, the branded Batak game has become an integral part of their conference strategy rather than a one-off experiment.
 
@@ -88,3 +88,9 @@ FunPro's in-house branding specialists worked on the custom graphics for the bac
 ## Ready to Stand Out at Your Next Trade Show or Conference?
 
 If you're planning a conference, exhibition stand, or buyer event where you need to capture attention and create meaningful engagement with key decision-makers, FunPro's branded interactive games could be the solution you need. [Contact our friendly team](/contact-fun-pro-uk/) to discuss how we can customise entertainment solutions that reflect your brand identity whilst delivering genuine engagement and memorable experiences for your target audience.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

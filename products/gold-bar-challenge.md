@@ -28,17 +28,17 @@ gallery:
 
 Looking to add excitement and engagement to your next event? The **Gold Bar Challenge** is the ultimate interactive game that combines skill, suspense, and fun. Perfect for exhibitions, brand activations, corporate events, and team-building activities, this game is designed to captivate audiences and create memorable experiences.
 
-#### [![](/userfiles/file/FunPro/Images/specification.png)](/gold-bar-challenge/#:~:text=your%20event%20shine.-,Specification,-Equipment%20size)
+#### ![](gold-bar-challenge.html#:~:text=your%20event%20shine.-,Specification,-Equipment%20size)
 
-Delivered [](/admin/products-edit.aspx%3Fid=37/)and [](/admin/products-edit.aspx%3Fid=37/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/admin/products-edit.aspx%3Fid=37/)house [](/admin/products-edit.aspx%3Fid=37/)branding [](/admin/products-edit.aspx%3Fid=37/)available [](/admin/products-edit.aspx%3Fid=37/)Printed[,](/admin/products-edit.aspx%3Fid=37/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=37/)time [](/admin/products-edit.aspx%3Fid=37/)use [](/admin/products-edit.aspx%3Fid=37/)only)
+(One time use only)
 
-\*Delivery [](/admin/products-edit.aspx%3Fid=37/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/admin/products-edit.aspx%3Fid=37/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -121,3 +121,9 @@ In-house branding available. We print, apply, and remove them after each event.
 **Branded all sides**
 
 **£195**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

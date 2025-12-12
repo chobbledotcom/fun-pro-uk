@@ -9,6 +9,11 @@ const { getNavigation, getNavigationForSlug } = require('../utils/navigation-ext
 const { isLocationPage, isEventPage } = require('../constants');
 const fs = require('fs');
 
+// Pages that are handled by other converters and should be skipped
+const EXCLUDED_PAGES = [
+  'testimonials', // handled by reviews-index-converter
+];
+
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'page',
   extractors: {
@@ -33,10 +38,10 @@ const convertPages = async () => {
   const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
   const allPageFiles = listHtmlFiles(pagesDir);
 
-  // Filter out location pages and event pages - they are handled by their own converters
+  // Filter out location pages, event pages, and excluded pages - they are handled by their own converters
   const pageFiles = allPageFiles.filter(file => {
     const slug = slugFromFilename(file);
-    return !isLocationPage(slug) && !isEventPage(slug);
+    return !isLocationPage(slug) && !isEventPage(slug) && !EXCLUDED_PAGES.includes(slug);
   });
 
   const excludedCount = allPageFiles.length - pageFiles.length;

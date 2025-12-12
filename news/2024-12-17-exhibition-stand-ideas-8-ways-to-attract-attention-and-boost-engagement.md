@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [17 December 24 - Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement](/exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/)
+# 17 December 24 - Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement
 
 Have you ever visited an exhibition stand? If yes, think about what attracted you to the stand. Was it the products or services? Was it the level of engagement and entertainment they offered? Was it the unique design?
 
@@ -83,25 +83,25 @@ Use clever lighting to highlight specific features or products, use QR codes to 
 
 ### 6\. Interactive Game Entertainment
 
-If there’s one trick that draws crowds every single time and sparks excitement at the same time, it’s [interactive games](/interactive-game-hire/).
+If there’s one trick that draws crowds every single time and sparks excitement at the same time, it’s [interactive games](/categories/interactive-game-hire/).
 
 An interactive exhibition and the right games can create a lively atmosphere and give attendees a reason to stay longer at your stand. Anything from a simple challenge or a high tech setup can provide fun and memorable interactions.
 
 Some interactive game hires to consider include:
 
-*   [Mega Wire](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/) and [Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/) tests attendees’ precision and patience. It challenges players by requiring a steady hand to navigate a wire loop without touching it.
+*   [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/) and [Buzz Wire](/products/giant-buzz-wire/) tests attendees’ precision and patience. It challenges players by requiring a steady hand to navigate a wire loop without touching it.
 
-*   [Batak Pro](/category/batak/batak-pro/) and [Batak Lite](/category/batak/batak-lite/) are perfect for competitive visitors. Batak has multiple levels that are suitable for players of all skill levels. They're reflex games that test players' reaction times.
+*   [Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/) are perfect for competitive visitors. Batak has multiple levels that are suitable for players of all skill levels. They're reflex games that test players' reaction times.
 
 *   [Strike A Light](https://funprouk.co.uk/category/arcade-games/63/danger-zone-strike-a-light-game-hire) adds a fast paced, thrilling element to your stand design. It’s a reaction based game that sees how fast you can hit the button as they light up.
 
-*   [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/) is a nostalgic and engaging crowd favourite. You can set up a friendly competition to see who can hit the most moles the fastest.
+*   [Whack A Mole](/products/whack-a-mole-game-hire/) is a nostalgic and engaging crowd favourite. You can set up a friendly competition to see who can hit the most moles the fastest.
 
-*   [Prize Claw Grabbing Machines](/prize-crane-arcade-grabber/) offer exciting rewards and are great crowd pleasers. Let attendees try their luck at grabbing branded prizes from the machine. It's a fun and interactive way to engage with potential customers.
+*   [Prize Claw Grabbing Machines](/products/prize-crane-arcade-grabber/) offer exciting rewards and are great crowd pleasers. Let attendees try their luck at grabbing branded prizes from the machine. It's a fun and interactive way to engage with potential customers.
 
-*   [Cash Grabbers](/category/grab-a-grand/3/cash-grabber-machine-hire/) or [Ballnado Grabbers](/category/grab-a-grand/36/ballnado-grabber/) literally create a whirlwind of fun. It's a game that challenges players to grab as much as possible while inside a wind vortex.
+*   [Cash Grabbers](/products/cash-grabber-machine-hire/) or [Ballnado Grabbers](/products/ballnado-grabber/) literally create a whirlwind of fun. It's a game that challenges players to grab as much as possible while inside a wind vortex.
 
-*   [Prize Wheels](/prize-wheel/) are a great option for exhibitions and trade shows. Players can spin the wheel to win prizes or discounts on your products or services. Prize wheel can also be customised to fit your specific requirements.
+*   [Prize Wheels](/products/prize-wheel/) are a great option for exhibitions and trade shows. Players can spin the wheel to win prizes or discounts on your products or services. Prize wheel can also be customised to fit your specific requirements.
 
 ### 7\. Deliver a VR/AR Experience
 
@@ -119,9 +119,9 @@ Some additional tips to consider:
 
 ### 8\. Host a Photo Booth
 
-Who doesn't want a memorable photo of any event? [Photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) can be customised to have branded backdrops and decor. You can also put your business' name on photo booth printouts and provide props and accessories that represent your brand.
+Who doesn't want a memorable photo of any event? [Photo booths](/products/classic-photo-booths/) can be customised to have branded backdrops and decor. You can also put your business' name on photo booth printouts and provide props and accessories that represent your brand.
 
-It engages attendees, [spreads brand awareness](/2024-02-25/elevate-your-brand/), and offers digital sharing options that amplify your reach beyond the exhibition floor.
+It engages attendees, [spreads brand awareness](/news/elevate-your-brand/), and offers digital sharing options that amplify your reach beyond the exhibition floor.
 
 ## Advantages of an Engaging Exhibition Stand Design
 
@@ -153,7 +153,7 @@ Plan a layout that maximises space and incorporates interactive zones. The layou
 
 ### How do I choose an exhibition stand?
 
-Consider your budget, goals, and audience when thinking of expo stand ideas and exhibition stand games. Prioritise functionality, and make sure the design accommodates your planned activities. It's worth working with experienced designers and expert event planners like [Fun Pro](/pages/christmas-entertainment-game-hire'/) to balance creativity and practicality.
+Consider your budget, goals, and audience when thinking of expo stand ideas and exhibition stand games. Prioritise functionality, and make sure the design accommodates your planned activities. It's worth working with experienced designers and expert event planners like [Fun Pro](/christmas-entertainment-game-hire/) to balance creativity and practicality.
 
 ### How do I set up a small exhibition?
 
@@ -171,4 +171,12 @@ Focus on impactful visuals, strategic planning, and targeted activities. Do the 
 
 To create a unique exhibition stand design, you need the right tools to captivate, connect, and convert. If you’re unsure of how to go about it, Fun Pro can take the stress out of designing an engaging exhibition stand.
 
-We have a range of [interactive games and custom branding options](/category/branded-exhibition-games/) that will help your stand attract attention in any venue.
+We have a range of [interactive games and custom branding options](/categories/branded-exhibition-games/) that will help your stand attract attention in any venue.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

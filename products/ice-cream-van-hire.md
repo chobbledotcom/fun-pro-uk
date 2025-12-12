@@ -30,7 +30,7 @@ Whether you are catering for 50 or 500 then just drop us an email with your requ
 
 Available through the UK.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -39,3 +39,9 @@ We offer delivery throughout the UK on request, including Exeter, Cardiff, Brist
 **We are able to cover the whole of the UK on request.**
 
 Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

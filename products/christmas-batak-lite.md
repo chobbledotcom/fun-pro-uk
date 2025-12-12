@@ -51,7 +51,7 @@ Customisation to match your brand
 
 \*Delivery fees may apply
 
-[**Email:**](/christmas-batak-lite/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## 🎄 **What Is Batak Lite?**
 
@@ -154,11 +154,11 @@ Want to make your event even more magical? Pair Batak Lite with one of our other
 
 ## Popular items:
 
-*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
-*   [Batak Pro](/batak/batak-pro/#content)
-*   [Dance Machine](/exhibition-games/dance-machine/)
-*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Batak Pro](/products/batak-pro/#content)
+*   [Dance Machine](/products/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game-2/)
 
 ## Batak Lite Branding and Customisation Options
 
@@ -177,3 +177,9 @@ In-house branding available. We print, apply, and remove them after each event.
 **8 x Branded Button Surrounds**
 
 **£**125** + vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

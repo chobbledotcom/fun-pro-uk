@@ -24,7 +24,7 @@ gallery:
 
 **Looking to bring a touch of classic fairground fun to your next corporate event?** Our **Hook A Duck** game hire is the perfect way to engage and entertain guests while adding a nostalgic vibe to any occasion.
 
-A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/fun-fair-stalls/), fairs [staff parties](/pages/outdoor-garden-game-hire/), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
+A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/categories/fun-fair-stalls/), fairs [staff parties](/outdoor-garden-game-hire/), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
 
 ## Hire a Hook A Duck Stall for Your Next Event
 
@@ -67,3 +67,9 @@ In-house branding available. We print, apply, and remove them after each event.
 Brand the rear half wall of the inside of the stall with your brand from:
 
 **£195**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

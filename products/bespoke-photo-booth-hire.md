@@ -38,9 +38,9 @@ In-house branding available. We print, apply, and remove them after each event.
 
 Need a longer hire period?
 
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -82,10 +82,10 @@ Lift required
 
 ### **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ### **Branding Prices from:**
 
@@ -126,3 +126,9 @@ As well as branding your photo booth, we can also brand each individual photo, s
 ## **Worth the extra**
 
 Adding a bespoke skin to your photo booth, or branding your social media booth, may cost a little more, but it brings a big return in terms of brand awareness and getting your sales message seen. Talk to our team about how to make the most of your photo booth hire and you'll soon see how cost effective our branding options can be.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/exhibition-games/62/beat-the-buzzer/"
   - "/category/interactive-game-hire/62/beat-the-buzzer/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
@@ -57,15 +58,15 @@ Ready to amp up the excitement at your next event? Hire Beat The Buzzer today an
 
 **£1095**\+ vat**
 
-Delivered [](/beat-the-buzzer/)and [](/beat-the-buzzer/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/beat-the-buzzer/)house [](/beat-the-buzzer/)branding [](/beat-the-buzzer/)available [](/beat-the-buzzer/)Printed[,](/beat-the-buzzer/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/beat-the-buzzer/)time [](/beat-the-buzzer/)use [](/beat-the-buzzer/)only)
+(One time use only)
 
-\*Delivery [](/beat-the-buzzer/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/beat-the-buzzer/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,10 +106,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/30/leader-board/)
-*   [Lights Out](/lights-out-game/)
-*   [Gold Cup Horse racing](/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ## Beat The Buzzer
 

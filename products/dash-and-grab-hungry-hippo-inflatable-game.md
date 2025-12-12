@@ -9,6 +9,7 @@ events: []
 featured: true
 features: []
 redirect_from:
+  - "/category/corporate-entertainment/32/dash-and-grab-hungry-hippo-inflatable-game/"
   - "/category/fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f"
@@ -28,11 +29,11 @@ gallery:
 
 **£495**\+ vat**
 
-Delivered [](/dash-and-grab-hungry-hippo-inflatable-game/)and [](/dash-and-grab-hungry-hippo-inflatable-game/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/dash-and-grab-hungry-hippo-inflatable-game/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/dash-and-grab-hungry-hippo-inflatable-game/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -72,16 +73,16 @@ Lift required
 
 **CHECK OUT OUR OTHER GAMES**
 
-Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/fun-days/) making your event fabulous fun for everyone
+Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/categories/fun-days/) making your event fabulous fun for everyone
 
 To hire the Bungee Run to make your event complete with action and fun call our team today.
 
 ## **Popular Games**
 
-*   [Total Wipeout](/total-wipe-out/)
-*   [Human Football](/human-table-football/)
-*   [75ft Assault Course](/21/inflatable-assault-courses/)
-*   [Bungee Run](/33/bungee-run/)
+*   [Total Wipeout](/products/total-wipe-out/)
+*   [Human Football](/products/human-table-football/)
+*   [75ft Assault Course](/products/inflatable-assault-courses/)
+*   [Bungee Run](/products/bungee-run/)
 
 ## THE HIPPOS ARE HUNGRY!
 

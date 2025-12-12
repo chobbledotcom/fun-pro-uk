@@ -9,7 +9,7 @@ events: []
 featured: true
 features: []
 redirect_from:
-  - "/category/christmas-grotto-hire/christmas-grotto-1/"
+  - "/category/christmas-grotto-hire/17/christmas-grotto-1/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/781f6198c50c1e8a388b4c4f73e2d54b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d3ec54691f1371b70f71ea5cf633032a"
@@ -37,7 +37,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -89,4 +89,4 @@ What's more, just like your Christmas turkey, our Christmas grotto for hire come
 
 The perfect party piece
 
-Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/photo-booths-and-magic-mirrors/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
+Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!

@@ -8,9 +8,9 @@ redirect_from:
 
 # Photo Booth Hire Coventry
 
-Thinking or hiring a Photo booth for your event? Our [Photo booth hire in Coventry](/category/photo-booths-and-magic-mirrors/) provides fabulous instant selfies that create memories to keep forever.
+Thinking or hiring a Photo booth for your event? Our [Photo booth hire in Coventry](/categories/photo-booths-and-magic-mirrors/) provides fabulous instant selfies that create memories to keep forever.
 
-![Photo booth hire](/userfiles/file/FunPro/Photo%20Booth/20181129-211810.jpg)Our Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
+!Photo booth hireOur Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
 
 We know at Fun Pro UK how special your occasion is and how important it is that you have the correct equipment for your party. This is why Fun Pro UK only stock the most up to date technology on the market to ensure our clients receive the best experience possible.
 
@@ -25,8 +25,14 @@ Photo booth hire in Coventry is popular with weddings, parties and corporate eve
 
 Fun Pro UK are a reliable and reputable company that have been in business for 12 years. We have many clients that come back to us year after year as they know our customer service is 100% from start to finish. Why not check out our [reviews](/testimonials/)?
 
-![Photo booth reviews](/userfiles/file/FunPro/Reviews/pair-2.png)
+!Photo booth reviews
 
 For more information or to book your Photo booth Hire Coventry then contact us via
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or call us on: 02477220701. One of our team will be on hand to help you!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side
