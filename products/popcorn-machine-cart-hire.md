@@ -6,6 +6,7 @@ meta_title: "Best Popcorn Machine Cart Hire for All UK Events"
 meta_description: "Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Book today!"
 permalink: "/popcorn-machine-cart-hire/"
 categories: ["categories/fun-fair-stalls.md"]
+events: []
 featured: true
 features: []
 gallery:

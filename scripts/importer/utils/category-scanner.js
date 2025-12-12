@@ -1,6 +1,7 @@
 const path = require('path');
-const { readHtmlFile, listHtmlFiles } = require('./filesystem');
+const { readHtmlFile, listHtmlFiles, slugFromFilename } = require('./filesystem');
 const config = require('../config');
+const { EVENT_PAGES, EVENT_CATEGORIES } = require('../constants');
 
 /**
  * Extract product slug from a product link href
@@ -72,8 +73,9 @@ const extractPageListings = (htmlContent) => {
     return pageListingsMatch[1];
   }
 
-  // Alternative: look for PageListings div by ID
-  const altMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)<\/div>\s*<\/div>/);
+  // Alternative: look for PageListings div by ID - capture until photo-gallery section
+  // The section ends at the next major div (photo-gallery, footer-contact, etc.)
+  const altMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)(?:<\/div>\s*<\/div>\s*<\/div>\s*<div id="ctl00_PhotoGallery|<\/div>\s*<\/div>\s*<\/div>\s*<div class="photo-gallery)/i);
   if (altMatch) {
     return altMatch[1];
   }
@@ -223,7 +225,100 @@ const mergeCategoryMaps = (map1, map2) => {
 };
 
 /**
- * Get the complete product-to-categories mapping
+ * Scan event pages (from EVENT_PAGES and EVENT_CATEGORIES) for product links
+ * Returns a map of product slugs to event paths
+ * @returns {Map<string, string[]>} Map of product slug to array of event paths
+ */
+const scanEventProducts = () => {
+  const productEventsMap = new Map();
+  const fs = require('fs');
+
+  // Scan EVENT_PAGES (pages that are events)
+  const pagesDir = path.join(config.OLD_SITE_PATH, 'pages');
+  EVENT_PAGES.forEach(eventSlug => {
+    // Try both naming patterns: slug.html and slug.php.html
+    let htmlPath = path.join(pagesDir, `${eventSlug}.html`);
+    if (!fs.existsSync(htmlPath)) {
+      htmlPath = path.join(pagesDir, `${eventSlug}.php.html`);
+    }
+    
+    try {
+      const htmlContent = readHtmlFile(htmlPath);
+      const pageListings = extractPageListings(htmlContent);
+      const contentToScan = pageListings || htmlContent;
+
+      const foundSlugs = new Set();
+      const castleLinkRegex = /href="([^"]+\.html)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
+      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+\.html)"/g;
+
+      let match;
+      while ((match = castleLinkRegex.exec(contentToScan)) !== null) {
+        const productSlug = extractProductSlug(match[1]);
+        if (productSlug) foundSlugs.add(productSlug);
+      }
+      while ((match = altLinkRegex.exec(contentToScan)) !== null) {
+        const productSlug = extractProductSlug(match[1]);
+        if (productSlug) foundSlugs.add(productSlug);
+      }
+
+      foundSlugs.forEach(productSlug => {
+        if (!productEventsMap.has(productSlug)) {
+          productEventsMap.set(productSlug, []);
+        }
+        const events = productEventsMap.get(productSlug);
+        const eventPath = `events/${eventSlug}.md`;
+        if (!events.includes(eventPath)) {
+          events.push(eventPath);
+        }
+      });
+    } catch (e) {
+      // File might not exist, skip
+    }
+  });
+
+  // Scan EVENT_CATEGORIES (categories that are events)
+  const categoriesDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
+  EVENT_CATEGORIES.forEach(eventSlug => {
+    const htmlPath = path.join(categoriesDir, `${eventSlug}.html`);
+    try {
+      const htmlContent = readHtmlFile(htmlPath);
+      const pageListings = extractPageListings(htmlContent);
+      const contentToScan = pageListings || htmlContent;
+
+      const foundSlugs = new Set();
+      const castleLinkRegex = /href="([^"]+\.html)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
+      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+\.html)"/g;
+
+      let match;
+      while ((match = castleLinkRegex.exec(contentToScan)) !== null) {
+        const productSlug = extractProductSlug(match[1]);
+        if (productSlug) foundSlugs.add(productSlug);
+      }
+      while ((match = altLinkRegex.exec(contentToScan)) !== null) {
+        const productSlug = extractProductSlug(match[1]);
+        if (productSlug) foundSlugs.add(productSlug);
+      }
+
+      foundSlugs.forEach(productSlug => {
+        if (!productEventsMap.has(productSlug)) {
+          productEventsMap.set(productSlug, []);
+        }
+        const events = productEventsMap.get(productSlug);
+        const eventPath = `events/${eventSlug}.md`;
+        if (!events.includes(eventPath)) {
+          events.push(eventPath);
+        }
+      });
+    } catch (e) {
+      // File might not exist, skip
+    }
+  });
+
+  return productEventsMap;
+};
+
+/**
+ * Get the complete product-to-categories mapping (categories only, not events)
  * Combines file structure analysis with category page link scanning
  * @returns {Map<string, string[]>} Map of product slug to array of category slugs
  */
@@ -240,6 +335,17 @@ const getProductCategoriesMap = () => {
   console.log(`  Total: ${merged.size} products with category mappings`);
 
   return merged;
+};
+
+/**
+ * Get the product-to-events mapping
+ * @returns {Map<string, string[]>} Map of product slug to array of event paths
+ */
+const getProductEventsMap = () => {
+  console.log('  Scanning event pages for product links...');
+  const eventsMap = scanEventProducts();
+  console.log(`    Found ${eventsMap.size} products linked from events`);
+  return eventsMap;
 };
 
 /**
@@ -268,6 +374,8 @@ module.exports = {
   scanProductCategories,
   scanCategoryProducts,
   scanProductCategoriesFromFileStructure,
+  scanEventProducts,
   getProductCategoriesMap,
+  getProductEventsMap,
   extractProductSlug
 };

@@ -5,7 +5,8 @@ order: 50
 meta_title: "Corn Hole Hire UK | Premium Games for Corporate & Private Events"
 meta_description: "Hire Corn Hole games with custom branding for your next corporate event, wedding or party. Nationwide delivery and setup. Request a quote today."
 permalink: "/corn-hole/"
-categories: ["categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
+categories: ["categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

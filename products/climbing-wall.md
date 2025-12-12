@@ -5,7 +5,8 @@ order: 50
 meta_title: "Climbing Wall Hire – Adventurous Event Attraction"
 meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/climbing-wall/"
-categories: ["categories/corporate-entertainment.md"]
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
+events: []
 featured: true
 features: []
 gallery:

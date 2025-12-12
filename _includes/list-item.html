@@ -1,0 +1,25 @@
+<li>
+  <h3>
+    <a href="{{- item.url -}}#content">{{ item.data.title }}</a>
+  </h3>
+
+  {%- if item.data.subtitle -%}
+    <p>{{ item.data.subtitle }}</p>
+  {%- endif -%}
+
+  {%- if item.data.thumbnail -%}
+    <a class="image-link" href="{{ item.url }}#content">
+      {%- image item.data.thumbnail, item.data.title, widths -%}
+    </a>
+  {%- else -%}
+    <placeholder>placeholder</placeholder>
+  {%- endif -%}
+
+  {%- if item.data.price -%}
+    <p>{{ item.data.price }}</p>
+  {%- endif -%}
+
+  {%- if item.data.date -%}
+    <p><strong>{{ item.data.date | date: "%b %-d, %Y" }}</strong></p>
+  {%- endif -%}
+</li>

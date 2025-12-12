@@ -282,6 +282,41 @@ const extractBlogImage = (markdown) => {
 };
 
 /**
+ * Extract product slugs from PageListings section
+ * These are the "More Details" links that appear in category/event pages
+ * @param {string} htmlContent - HTML content to extract product slugs from
+ * @returns {Array<string>} Array of product slugs (e.g., ["batak-lite", "cash-grabber-machine-hire"])
+ */
+const extractPageListingProducts = (htmlContent) => {
+  const products = [];
+  
+  // Find the PageListings section - it's a row div that contains product cards
+  // The section ends at the next major div (photo-gallery, footer-contact, etc.)
+  const pageListingsMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)(?:<\/div>\s*<\/div>\s*<\/div>\s*<div id="ctl00_PhotoGallery|<\/div>\s*<\/div>\s*<\/div>\s*<div class="photo-gallery)/i);
+  if (!pageListingsMatch) {
+    return products;
+  }
+  
+  const listingsContent = pageListingsMatch[1];
+  
+  // Extract product slugs from "More Details" links (castleCheckBook class)
+  // Pattern: <a href="../category/exhibition-games/94/catch-it-reaction-ring-hire.html" class="castleCheckBook noBookButton"
+  // Or: <a href="../crack-the-code-safe-cracker.html" class="castleCheckBook
+  const linkRegex = /href="[^"]*\/([a-z0-9-]+)\.html"\s+class="castleCheckBook/gi;
+  
+  let match;
+  while ((match = linkRegex.exec(listingsContent)) !== null) {
+    const slug = match[1];
+    // Avoid duplicates
+    if (!products.includes(slug)) {
+      products.push(slug);
+    }
+  }
+  
+  return products;
+};
+
+/**
  * Extract favicon links from HTML content
  * @param {string} htmlContent - HTML content to extract favicon links from
  * @returns {Array<Object>} Array of favicon link objects
@@ -335,5 +370,6 @@ module.exports = {
   extractReviews,
   extractProductImages,
   extractBlogImage,
-  extractFaviconLinks
+  extractFaviconLinks,
+  extractPageListingProducts
 };

@@ -6,6 +6,7 @@ meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
 meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
 permalink: "/classic-photo-booths/"
 categories: ["categories/company-award-ceremonies.md", "categories/photo-booths-and-magic-mirrors.md"]
+events: []
 featured: true
 features: []
 gallery:

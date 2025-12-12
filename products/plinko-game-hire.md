@@ -5,7 +5,8 @@ order: 50
 meta_title: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK"
 meta_description: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/plinko-game-hire/"
-categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
+categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

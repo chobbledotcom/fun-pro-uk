@@ -6,6 +6,7 @@ meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
 meta_description: "Looking to hire a dance machine for exhibitions, parties, events, or fun days? We deliver dance machine hire nationwide. Contact us today to book yours!"
 permalink: "/dance-machine/"
 categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

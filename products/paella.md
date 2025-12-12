@@ -6,6 +6,7 @@ meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "PAELLA is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/paella/"
 categories: ["categories/fun-foods.md"]
+events: []
 featured: true
 features: []
 gallery:

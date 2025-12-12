@@ -4,7 +4,7 @@ const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = re
 const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
-const { getProductCategoriesMap } = require('../utils/category-scanner');
+const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
 const { createConverter } = require('../utils/base-converter');
 
 const { convertSingle, convertBatch } = createConverter({
@@ -18,6 +18,7 @@ const { convertSingle, convertBatch } = createConverter({
   },
   frontmatterGenerator: (metadata, slug, extracted) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
+    const events = extracted.productEventsMap?.get(slug) || [];
     const localImages = {
       header_image: extracted.localGalleryPaths?.[0] || extracted.localImagePath || '',
       gallery: extracted.localGalleryPaths || []
@@ -29,7 +30,8 @@ const { convertSingle, convertBatch } = createConverter({
       categories,
       extracted.productName,
       localImages,
-      extracted.productHeading
+      extracted.productHeading,
+      events
     );
   },
   beforeWrite: async (content, extracted, slug) => {
@@ -104,6 +106,7 @@ const convertProducts = async () => {
 
   console.log('  Scanning categories for product relationships...');
   const productCategoriesMap = getProductCategoriesMap();
+  const productEventsMap = getProductEventsMap();
 
   const reviewsMap = new Map();
 
@@ -117,6 +120,7 @@ const convertProducts = async () => {
       const fileContext = {
         reviewsMap,
         productCategoriesMap,
+        productEventsMap,
         categoryIndex: 0,
         progressIndex: i,
         progressTotal: fileInfos.length

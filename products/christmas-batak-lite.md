@@ -6,6 +6,7 @@ meta_title: "Christmas Batak Lite - Exhibition and Game Hire in Nationwide | Fun
 meta_description: "Christmas Batak Lite is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 permalink: "/christmas-batak-lite/"
 categories: ["categories/christmas-game-hire.md"]
+events: []
 featured: true
 features: []
 gallery:

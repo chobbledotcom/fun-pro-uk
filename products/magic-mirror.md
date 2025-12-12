@@ -6,6 +6,7 @@ meta_title: "Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK"
 meta_description: "Magic mirror hire for parties, exhibitions, or corporate events. We deliver across the UK! Call today for stylish photo mirror rental at your next event."
 permalink: "/magic-mirror/"
 categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
+events: []
 featured: true
 features: []
 gallery:

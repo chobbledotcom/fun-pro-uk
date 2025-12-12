@@ -6,6 +6,7 @@ meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
 permalink: "/mega-wire-branded-game-hire-stand-alone/"
 categories: ["categories/all-products.md", "categories/branded-exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
+events: ["events/conference-idea.md"]
 featured: true
 features: []
 gallery:

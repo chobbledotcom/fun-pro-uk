@@ -6,6 +6,7 @@ meta_title: "Shuffleboard Hire | Fun Pro UK"
 meta_description: "Add excitement to your event with shuffleboard hire from Fun Pro UK. Ideal for parties, corporate events, and more. Available across the UK. Book us today!"
 permalink: "/shuffleboard-hire/"
 categories: ["categories/all-products.md", "categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 gallery:

@@ -14,7 +14,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
-const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig } = require('./converters');
+const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig, convertStaticPages } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const { applyFindReplacesRecursive } = require('./utils/find-replace');
 const ResultsTracker = require('./utils/results-tracker');
@@ -26,6 +26,7 @@ const CONVERTERS = {
   config: { name: 'Site Config', run: () => convertSiteConfig() },
   home: { name: 'Homepage Content', run: () => convertHomeContent() },
   pages: { name: 'Pages', run: () => convertPages() },
+  staticpages: { name: 'Static Pages', run: () => convertStaticPages() },
   locations: { name: 'Locations', run: () => convertLocations() },
   special: { name: 'Special Pages', run: () => convertSpecialPages() },
   blog: { name: 'Blog Posts', run: () => convertBlogPosts() },
