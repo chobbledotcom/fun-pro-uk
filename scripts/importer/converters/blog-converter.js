@@ -4,7 +4,7 @@ const { listHtmlFilesRecursive, prepDir } = require('../utils/filesystem');
 const { extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
-const { createConverter } = require('../utils/base-converter');
+const { createConverter, resetClaimedPaths } = require('../utils/base-converter');
 
 /**
  * Extract date from directory path (e.g., /news/2016-10-14/ -> 2016-10-14)
@@ -60,6 +60,9 @@ const convertBlogPosts = async () => {
 
   // News directory only contains imported blog posts, safe to clean all
   prepDir(outputDir);
+
+  // Reset claimed paths to track duplicates within this batch
+  resetClaimedPaths('blog');
 
   // Convert each file, using its own directory as inputDir
   let successful = 0;

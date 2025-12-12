@@ -5,6 +5,65 @@ const { convertToMarkdown } = require('./pandoc-converter');
 const { processContent } = require('./content-processor');
 const { fixHtmlLinks, stripLinkTitles, fixRelativePaths } = require('./find-replace');
 
+// Track claimed output paths across all conversions in a session
+// Key is the content type, value is a Set of claimed paths
+const claimedPaths = new Map();
+
+/**
+ * Get a unique filename by adding a suffix if the path is already claimed
+ * @param {string} contentType - Type of content (blog, page, product, etc.)
+ * @param {string} filename - The desired filename
+ * @returns {string} A unique filename (with -2, -3, etc. suffix if needed)
+ */
+const getUniqueFilename = (contentType, filename) => {
+  if (!claimedPaths.has(contentType)) {
+    claimedPaths.set(contentType, new Set());
+  }
+  const claimed = claimedPaths.get(contentType);
+
+  // Normalize the filename to extract the base path (the part that becomes the permalink)
+  // For blog posts: 2017-11-19-christmas-parties-are-go.md -> christmas-parties-are-go
+  const ext = path.extname(filename);
+  const baseName = path.basename(filename, ext);
+
+  // Extract the slug part (remove date prefix if present for blog posts)
+  // Pattern: YYYY-MM-DD-slug -> slug
+  const dateMatch = baseName.match(/^\d{4}-\d{2}-\d{2}-(.+)$/);
+  const slugPart = dateMatch ? dateMatch[1] : baseName;
+
+  // Check if this slug is already claimed
+  if (!claimed.has(slugPart)) {
+    claimed.add(slugPart);
+    return filename;
+  }
+
+  // Find a unique suffix
+  let counter = 2;
+  let uniqueSlug = `${slugPart}-${counter}`;
+  while (claimed.has(uniqueSlug)) {
+    counter++;
+    uniqueSlug = `${slugPart}-${counter}`;
+  }
+  claimed.add(uniqueSlug);
+
+  // Reconstruct the filename with the new slug
+  if (dateMatch) {
+    // Preserve the date prefix: 2017-11-19-slug-2.md
+    return `${baseName.substring(0, 11)}${uniqueSlug}${ext}`;
+  }
+  return `${uniqueSlug}${ext}`;
+};
+
+/**
+ * Reset claimed paths for a content type (call at start of batch conversion)
+ * @param {string} contentType - Type of content to reset
+ */
+const resetClaimedPaths = (contentType) => {
+  if (claimedPaths.has(contentType)) {
+    claimedPaths.get(contentType).clear();
+  }
+};
+
 /**
  * Create a converter for a specific content type
  * @param {Object} options - Converter configuration
@@ -83,6 +142,9 @@ const createConverter = ({
       const result = frontmatterGenerator(metadata, slug, extracted, context);
       const frontmatter = result.frontmatter || result;
       filename = result.filename || filename;
+
+      // Ensure unique output path to avoid permalink conflicts
+      filename = getUniqueFilename(contentType, filename);
 
       // Fix .html links, relative paths, and strip title attributes before final output
       content = fixHtmlLinks(content);
@@ -168,4 +230,4 @@ const createConverter = ({
   return { convertSingle, convertBatch };
 };
 
-module.exports = { createConverter };
+module.exports = { createConverter, resetClaimedPaths };
