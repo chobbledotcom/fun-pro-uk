@@ -169,9 +169,3 @@ questions just call the Fun Pro team on 0247 7220 701 or use the [contact form](
 email and we will call you back.
 
 **CHECK OUT WHAT OUR CUSTOMERS ARE SAYING😊**
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

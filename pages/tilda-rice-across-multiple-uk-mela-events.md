@@ -92,9 +92,3 @@ This project demonstrates FunPro UK's ability to combine creative customisation 
 If you're looking to connect with your audience through memorable branded experiences, FunPro UK's team of community engagement specialists can help you create entertainment solutions that draw crowds and build lasting positive associations with your brand.
 
 [Contact our friendly team](/contact-fun-pro-uk/) today to discuss how we can bring your brand to life through [interactive entertainment](/interactive-game-hire/).
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

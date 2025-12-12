@@ -164,9 +164,3 @@ In-house branding available. We print, apply, and remove them after each event.
 **Side Panels**
 
 **£90 + Vat**
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

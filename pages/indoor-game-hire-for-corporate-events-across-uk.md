@@ -292,9 +292,3 @@ Our service includes delivery, professional setup, operation if needed, and coll
 [Giant Deck Chair Hire](/category/weddings/74/giant-deck-chair-hire/)
 
 [More Details](/category/weddings/74/giant-deck-chair-hire/)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

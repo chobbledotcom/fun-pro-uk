@@ -27,9 +27,3 @@ Whichever of our great selection of products you decide to hire for your fundrai
   
 *We're accepting orders right now, so why not reserve your favourite today? We can't wait to help you boost your bottom line at charity events and fundraisers. Look through our website for more entertainment ideas, and when you're ready, book online!  
 *
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

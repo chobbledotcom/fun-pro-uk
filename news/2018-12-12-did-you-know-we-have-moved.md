@@ -20,11 +20,3 @@ By moving to a new larger site, we are able to offer a wider variety of products
 The team all worked hard moving the office and [corporate entertainment](/category/corporate-entertainment/) equipment into our vans to transport off to our new site. Colin even got the hang of driving our forklift around our warehouse!
 
 The move has been stressful for the whole team, while still delivering our high-quality entertainment to a range of Christmas parties, outdoor events and award ceremonies. But the aim of moving now will mean everything will be ready to kick off 2019 in style and deliver an even more exceptional service for our ever-growing list of corporate clients!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

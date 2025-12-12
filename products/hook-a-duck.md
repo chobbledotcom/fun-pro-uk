@@ -67,9 +67,3 @@ In-house branding available. We print, apply, and remove them after each event.
 Brand the rear half wall of the inside of the stall with your brand from:
 
 **£195**\+ vat**
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

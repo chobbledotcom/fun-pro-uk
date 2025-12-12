@@ -22,11 +22,3 @@ Why not make it the full package? Combine one of our gorgeous grottoes with a [s
 There are still a few spaces available to hire out our Christmas Grottoes this festive season. So, give us a call today to check availability and bring the party to life at your Christmas event!
 
 ![](/userfiles/elves.jpg)![](/userfiles/grotto-1.jpg)![](/userfiles/grotto-inside.jpg)
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

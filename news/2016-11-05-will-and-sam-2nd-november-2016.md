@@ -20,11 +20,3 @@ We arrived at the barn in the evening to set up and were ready to let the fun co
 Sam and Will chose to have their name and date of their wedding printed on the pictures, which i am sure you will agree looks amazing.
 
 Perfect Snap had a very busy night here, all the guests had a ball and came back for more photos which we love to see. We were looked after at the venue to and were fed stone bake pizza - mm mmm!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

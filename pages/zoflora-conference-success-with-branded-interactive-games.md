@@ -88,9 +88,3 @@ FunPro's in-house branding specialists worked on the custom graphics for the bac
 ## Ready to Stand Out at Your Next Trade Show or Conference?
 
 If you're planning a conference, exhibition stand, or buyer event where you need to capture attention and create meaningful engagement with key decision-makers, FunPro's branded interactive games could be the solution you need. [Contact our friendly team](/contact-fun-pro-uk/) to discuss how we can customise entertainment solutions that reflect your brand identity whilst delivering genuine engagement and memorable experiences for your target audience.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

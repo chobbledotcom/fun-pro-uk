@@ -36,11 +36,3 @@ Celebrating successes has proven to be beneficial in creating happy and engaged 
 Almost every job will have some level of stress with deadlines,targets and customer demands, but hosting a staff-based event will give everyone the chance to take a step back and relax with those they work so closely with. Having an event or celebration after a big project or a busy season will give your team that chance to recharge and improve the well-being for everyone involved.
 
 When morale is high, teams are naturally more motivated and productivity goes through the roof. So, give your teams an event to motivate them to work hard and succeed then reward that with a celebration!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

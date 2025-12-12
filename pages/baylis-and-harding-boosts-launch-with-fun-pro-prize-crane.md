@@ -58,9 +58,3 @@ The brief was clear but challenging: create an engaging attraction that would sh
 Fun Pro's team recommended a custom-branded [prize crane](/prize-crane-arcade-grabber/); a solution that would allow Baylis & Harding to showcase their actual Christmas products as prizes whilst creating an engaging, interactive experience. The concept was perfect: visitors would be drawn to try their luck at winning genuine Baylis & Harding Christmas products, creating natural engagement opportunities for the sales team.
 
 "Colin and the team at Fun Pro took time to understand our brand requirements," the marketing team explained. "They weren't just providing equipment, they were helping us create a brand experience. Their in-house print team worked with our artwork to ensure the crane would be wrapped completely in our branding, matching our stand design perfectly."
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -78,9 +78,3 @@ Please contact us to find out more
 *   [Twin race car simulators](/category/interactive-game-hire/twin-racing-car-simulators/)
 *   [Electronic Basketball hoop](/category/photo-booths/ultimate-green-screen-photo-booth/)
 *   Lights Out
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

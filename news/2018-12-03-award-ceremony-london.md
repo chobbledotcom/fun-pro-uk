@@ -26,11 +26,3 @@ The team travelled from Coventry to London with time to spare. Unloading the van
 Once the awards had been issued, the speeches made, it was time to party! Before we could say 'awards ceremony' the queue to have a selfie in the Fun Pro photo booth was getting lengthy, full of happy work colleagues and friends enjoying their evening event. With the after party now in full swing every guest was rocking the selfies with our over flowing prop box.
 
 It was an amazing night with our photo booth capturing fabulous memories of the [awards party](/category/company-award-ceremonies/). We can't wait to return to London again soon for more corporate events.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

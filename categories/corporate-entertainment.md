@@ -46,9 +46,3 @@ At Fun Pro UK, we understand that corporate events can be stressful to plan, so 
 All of our items are properly cleaned, with up-to-date PAT certifications, and with all other safety documentation available on request. We're a truly professional team, and this comes through in every job that we do. You know you're in safe hands with Fun Pro UK.  
   
 So why settle for a boring corporate event? Let us help you create an unforgettable experience for your office or clients! Use our online booking system to begin your order today.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

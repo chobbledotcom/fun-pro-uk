@@ -22,9 +22,3 @@ So if you are hosting an exhibition or any other event from an awards ceremony t
 Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 If you wish to book an event at Millennium Point, why not speak to their dedicated team today! Contact them [here](https://www.millenniumpoint.org.uk/#contact).
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -34,11 +34,3 @@ If you are holding a company conference, why not hire some fun entertaining game
 **LET US HELP YOU!**
 
 Are you arranging a conference or awards ceremony and aren't sure what you could hire for evening entertainment? Contact our team today, we have a huge variety of social media selfie pods, booths along with table top games for everyone to enjoy. All of our products can also be branded in house with your company logo.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

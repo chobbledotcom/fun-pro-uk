@@ -198,9 +198,3 @@ In-house branding available. We print, apply, and remove them after each event.
 **Branded Plinth**
 
 **£245**\+ vat**
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

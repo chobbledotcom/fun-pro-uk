@@ -96,9 +96,3 @@ Stratford up on Avon
 We cover the whole if the UK, so get in touch today on +442477220701 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Please browse through our exhibition games rental page. Soon you’ll have fun at your next exhibition event and also have plenty of hot leads to future business!
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -22,9 +22,3 @@ So, give us a call or drop us a line with your party dates and we can get you bo
 Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 ![Christmas photo booth hire](/userfiles/nec1.png)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

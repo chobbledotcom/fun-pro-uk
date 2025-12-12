@@ -148,11 +148,3 @@ We provide backup equipment and rapid response support. Our experienced team can
 ### Do you provide games for venues outside major cities?
 
 Yes, we offer nationwide coverage [throughout the UK](/pages/delivery-areas/). Delivery charges may apply for locations outside our standard service areas, which we'll discuss during booking.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

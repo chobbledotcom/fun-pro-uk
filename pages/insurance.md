@@ -32,9 +32,3 @@ To ensure that everything is covered for your safety, we have taken the followin
 *   But most importantly our staff will deliver our company's exceptional service in a polite and friendly manner.  
 
 So, we hope you feel that our insurance and safety procedures are both extensive and inclusive, so that you can rest easy knowing that Fun Pro UK has got everything covered when it comes to your corporate entertainment hire.  
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

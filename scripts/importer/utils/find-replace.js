@@ -3,6 +3,24 @@ const path = require('path');
 const { FIND_REPLACES } = require('../constants');
 
 /**
+ * Strip blog footer cruft that gets imported from the old site
+ * Removes the "Return to news", "What our customers are saying", etc. section
+ * @param {string} content - Markdown content
+ * @returns {string} Content with cruft removed
+ */
+const stripBlogFooterCruft = (content) => {
+  // Pattern matches the cruft block at the end of blog posts:
+  // [<< Return to news](...) - optional
+  // ## What our customers are saying…
+  // [Load More Reviews](...)
+  // Happy customers we have worked along side
+  return content.replace(
+    /\n*(?:\[<< Return to news\][^\n]*\n+)?## What our customers are saying…\n+\[Load More Reviews\][^\n]*\n+Happy customers we have worked along side\s*$/,
+    ''
+  );
+};
+
+/**
  * Strip title attributes from all markdown links and images
  * Converts [text](url "title") to [text](url)
  * @param {string} content - Markdown content
@@ -98,6 +116,9 @@ const applyFindReplaces = (filePath) => {
   // Strip title attributes from all remaining links/images
   content = stripLinkTitles(content);
 
+  // Strip blog footer cruft (Return to news, reviews section, etc.)
+  content = stripBlogFooterCruft(content);
+
   // Apply each find/replace pattern
   for (const [search, replace] of Object.entries(FIND_REPLACES)) {
     if (content.includes(search)) {
@@ -136,6 +157,7 @@ const applyFindReplacesRecursive = (dirPath) => {
 module.exports = {
   fixHtmlLinks,
   stripLinkTitles,
+  stripBlogFooterCruft,
   fixRelativePaths,
   applyFindReplaces,
   applyFindReplacesRecursive

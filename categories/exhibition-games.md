@@ -48,9 +48,3 @@ We at Fun Pro UK are passionate about delivering high-quality games and entertai
 If you're looking to enhance your brand's visibility and create a lasting impression at your next event, hire exhibition games online with us! Look through our website to see what is available, and then use our online booking system to order your products. Let our team of experts bring your vision to life.
 
 If you need any advice or information, don't hesitate to [contact us](/pages/contact-fun-pro-uk/)!
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -15,11 +15,3 @@ So excited, on the way to Dunchurch Park Hotel in the beautiful town of Rugby, W
 
 We were here at this gorgeous venue the other month for the Dunchurch Park wedding fair and am delighted to be returning to see everyone.  
 Tonight, we are here to bring fun entertainment for a wedding reception with our [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/). Along with our hilarious prop box. I know this will be a real hit!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -32,11 +32,3 @@ And what better time to enjoy a drink from our slush machine than while outdoors
 But it's not just our products that are fantastic - our service is too. We pride ourselves on our punctuality and reliability, delivering our premium quality products right to your doorstep no matter where you are in the UK. And with our commercial grade equipment, you can be sure that everything we stock is built to last, making it perfect for those warm summer afternoons of fun and games.  
   
 *Book your summer party entertainment today through our website and get ready for a summer to remember. And if you need any assistance, don't hesitate to [contact us](/pages/contact-fun-pro-uk/) \- we're always here to help.*
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -162,9 +162,3 @@ Looking for more interactive games or something a bit different for your event? 
 ## Hire Batak Games From Fun Pro
 
 [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak hire today](/pages/contact-fun-pro-uk/).
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

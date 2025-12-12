@@ -24,11 +24,3 @@ Better give you the address!!
 The event starts Sunday 16th October from 12pm until 4pm
 
 Address: Wootten Park, Wootten Wawen, Henley in Arden B956HH (sat nav use B956HH)
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

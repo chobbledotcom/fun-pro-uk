@@ -137,9 +137,3 @@ Enhance your event further with our range of complementary games:
 ## Hire Twin Axe Throwing for Your Event
 
 Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/pages/contact-fun-pro-uk/) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

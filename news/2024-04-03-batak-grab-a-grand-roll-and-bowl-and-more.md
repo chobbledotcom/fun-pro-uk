@@ -24,11 +24,3 @@ Interactive games and [arcade games](/category/arcade-games/lights-out-game/) fr
 *Based in the West Midlands but with a reach that spans the entire UK, Fun Pro UK is committed to bringing the fun to you, wherever you are. From London to Glasgow, Manchester to Leeds, our team ensures a seamless experience from delivery and setup to collection, allowing you to focus on enjoying your event. Add plenty of fun an excitement to your event - find the perfect fit for your event with Fun Pro UK.*
 
 *For more information, to explore our full range of games, look through our website!*
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

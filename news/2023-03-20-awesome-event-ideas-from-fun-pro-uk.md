@@ -24,11 +24,3 @@ For an elegant [evening event](/pages/evening-entertainment/), our team of profe
 ![](/userfiles/file/FunPro/20220324-125141.jpg)And with summer just around the corner, it's time to start planning your next [summer party](/pages/outdoor-garden-game-hire/). Our summer party packages include a range of activities that will make the long summer holidays fly by. You'll certainly hold a summertime soiree that hits the right spots with our [inflatable slides](/category/fun-days/26/super-slides/) and garden games such as [Giant Jenga](/category/fun-days/44/giant-jenga-hire/).
 
 *If you're planning a corporate exhibition, a school fun day, a charity fundraising event, an evening event, or a summer party, Fun Pro UK has got you covered with an extensive range of event ideas. Contact us today to learn more about our packages and start planning an unforgettable experience for your guests!*
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

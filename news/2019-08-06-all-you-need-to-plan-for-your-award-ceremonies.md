@@ -54,11 +54,3 @@ Fun Pro UK's Hashtag Printer is perfect for your company and employees to captur
 This [interactive event entertainment](/interactive-game-hire/) is perfect for any business to harness the power of user-generated content on social media. It's free publicity as your employees will need to post their photos of the night using your bespoke hashtag before they can print, creating a digital buzz for your business, great fun for your guests.
 
 If you would like to know more about how the team at Fun Pro UK can help you with your award ceremonies, then call us on 0247 7220 701.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

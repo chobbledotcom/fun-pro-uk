@@ -140,11 +140,3 @@ From giant games to [interactive team building challenges](/2024-05-03/the-secre
 With our experience and extensive equipment options, Fun Pro UK makes it easy for you to create a celebration that resonates with your team, boosts morale, and fosters lasting loyalty.
 
 Let us help you host an unforgettable Employee Appreciation Day. [Contact us today](/pages/contact-fun-pro-uk/) and start planning the perfect event for your team.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

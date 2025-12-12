@@ -175,9 +175,3 @@ Plus much more. Take a look at our full [range of products](/category/all-produc
 ## Hire Batak Pro for Your Birmingham Event
 
 Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](/contact-fun-pro-uk/) today for a personalised quote and to check availability for your event date.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

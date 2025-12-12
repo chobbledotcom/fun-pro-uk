@@ -24,11 +24,3 @@ The Magic Mirror being more compact than a traditional photo booth means it can 
 But don't forget the mirror also gives cheeky compliments too!
 
 So give one of our team a call today to check the availability of our Magic Mirror for your next event!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

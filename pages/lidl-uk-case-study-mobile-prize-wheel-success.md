@@ -108,9 +108,3 @@ Throughout the partnership, our [customer service team](/contact-fun-pro-uk/) ha
 ## Ready to Engage Your Customers Like Lidl UK?
 
 If you're a retailer or established brand looking to create memorable customer experiences that drive engagement and generate valuable marketing content, let's discuss how Fun Pro's interactive solutions can work for your business. [Contact](/contact-fun-pro-uk/) our friendly team to explore the possibilities.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

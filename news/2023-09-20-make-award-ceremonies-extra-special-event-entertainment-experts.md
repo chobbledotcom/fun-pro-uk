@@ -31,11 +31,3 @@ There are plenty of awards ceremony entertainment options for hire with us! Why 
 With the corporate world evolving rapidly, it’s essential to stay ahead of the curve, even in celebrations. At Fun Pro UK, we’re dedicated to blending entertainment with brand identity.
 
 Make a booking online today, or if you need more information or advice, please feel free to [contact us](/pages/contact-fun-pro-uk/).
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

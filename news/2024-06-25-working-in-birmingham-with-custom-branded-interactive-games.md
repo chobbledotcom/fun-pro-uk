@@ -31,11 +31,3 @@ Let Fun Pro UK help you make your next event a resounding success with our engag
 
 *   📞 Call the Fun Pro UK team at 02476 7220 701
 *   📧 Email us at info@funprouk.co.uk 🌐
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

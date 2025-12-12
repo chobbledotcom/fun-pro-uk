@@ -10,9 +10,3 @@ eleventyNavigation:
 ---
 
 # Christmas Games
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side
