@@ -35,7 +35,7 @@ if (!skipBuild) {
     fs.rmSync(newSite, { recursive: true, force: true });
   }
 
-  execSync('pnpm run build', { cwd: root, stdio: 'inherit' });
+  execSync('node scripts/build.js', { cwd: root, stdio: 'inherit' });
   console.log('\n');
 } else {
   console.log('Skipping build (--skip-build flag)\n');
@@ -96,9 +96,33 @@ function getOldSitePaths() {
   return paths.sort();
 }
 
-// Extract paths from new site
+// Check if an HTML file is a redirect page and return the destination
+function getRedirectDestination(htmlPath) {
+  if (!fs.existsSync(htmlPath)) {
+    return null;
+  }
+  
+  const content = fs.readFileSync(htmlPath, 'utf-8');
+  
+  // Check for meta refresh redirect pattern
+  const metaRefreshMatch = content.match(/<meta\s+http-equiv=["']refresh["']\s+content=["']0;\s*url=([^"']+)["']/i);
+  if (metaRefreshMatch) {
+    return metaRefreshMatch[1].replace(/\/$/, '') || '/';
+  }
+  
+  // Check for canonical link in redirect pages
+  const canonicalMatch = content.match(/<link\s+rel=["']canonical["']\s+href=["']([^"']+)["']/i);
+  if (canonicalMatch && content.includes('Redirecting')) {
+    return canonicalMatch[1].replace(/\/$/, '') || '/';
+  }
+  
+  return null;
+}
+
+// Extract paths from new site, also building a redirect map
 function getNewSitePaths() {
   const paths = [];
+  const redirects = new Map(); // Maps: from path -> to path
 
   function walkDir(dir, prefix = '') {
     const entries = fs.readdirSync(dir, { withFileTypes: true });
@@ -116,7 +140,14 @@ function getNewSitePaths() {
         const indexPath = path.join(fullPath, 'index.html');
         if (fs.existsSync(indexPath)) {
           const urlPath = '/' + path.join(prefix, entry.name).replace(/\\/g, '/');
-          paths.push(urlPath);
+          
+          // Check if this is a redirect page
+          const redirectDest = getRedirectDestination(indexPath);
+          if (redirectDest) {
+            redirects.set(urlPath, redirectDest);
+          } else {
+            paths.push(urlPath);
+          }
         }
         walkDir(fullPath, path.join(prefix, entry.name));
       }
@@ -129,7 +160,7 @@ function getNewSitePaths() {
   }
 
   walkDir(newSite);
-  return paths.sort();
+  return { paths: paths.sort(), redirects };
 }
 
 // Normalize path for comparison
@@ -144,9 +175,13 @@ function mapOldToNew(oldPath) {
     return '/';
   }
   
-  // Category pages -> /category/ (singular in new site)
-  // e.g., /category/arcade-games -> /category/arcade-games (stays same)
-  // Products have numeric IDs in path like /category/arcade-games/47/prize-crane
+  // News index -> /blog
+  if (oldPath === '/news') {
+    return '/blog';
+  }
+  
+  // Category pages with products (numeric ID in path)
+  // e.g., /category/arcade-games/47/prize-crane -> /products/prize-crane
   if (oldPath.startsWith('/category/')) {
     const rest = oldPath.replace('/category/', '');
     const parts = rest.split('/');
@@ -154,7 +189,10 @@ function mapOldToNew(oldPath) {
       // This is a product: /category/arcade-games/47/prize-crane -> /products/prize-crane
       return '/products/' + parts[parts.length - 1];
     }
-    // Category index stays at /category/
+    // Category index pages: /category/arcade-games -> /categories/arcade-games
+    if (parts.length === 1) {
+      return '/categories/' + parts[0];
+    }
     return oldPath;
   }
   
@@ -166,10 +204,6 @@ function mapOldToNew(oldPath) {
       // Has date folder: /news/YYYY-MM-DD/slug -> /blog/slug
       return '/blog/' + parts[parts.length - 1];
     }
-    // News index -> /blog
-    if (oldPath === '/news') {
-      return '/blog';
-    }
     return oldPath;
   }
   
@@ -179,11 +213,11 @@ function mapOldToNew(oldPath) {
     return oldPath; // No change needed
   }
   
-  // Old site top-level pages that are now categories
-  // /corporate-entertainment -> /category/corporate-entertainment
-  // /exhibition-games -> /category/exhibition-games
-  // /interactive-game-hire -> /category/interactive-game-hire
-  // /fun-days -> /category/fun-days
+  // Old site top-level category-like pages
+  // /corporate-entertainment -> /categories/corporate-entertainment
+  // /exhibition-games -> /categories/exhibition-games
+  // /interactive-game-hire -> /categories/interactive-game-hire
+  // /fun-days -> /categories/fun-days
   const categoryPages = [
     'corporate-entertainment',
     'exhibition-games', 
@@ -193,7 +227,14 @@ function mapOldToNew(oldPath) {
   
   const pageName = oldPath.substring(1); // Remove leading /
   if (categoryPages.includes(pageName)) {
-    return '/category/' + pageName;
+    return '/categories/' + pageName;
+  }
+  
+  // Root-level product paths with numeric prefix (e.g., /exhibition-games/36/ballnado-grabber)
+  // These are non-standard paths in old site that should map to /products/
+  const rootCategoryMatch = oldPath.match(/^\/(exhibition-games|interactive-game-hire|corporate-entertainment|fun-days)\/(\d+)\/(.+)$/);
+  if (rootCategoryMatch) {
+    return '/products/' + rootCategoryMatch[3];
   }
   
   // Products at root level -> /products/
@@ -212,7 +253,7 @@ function mapOldToNew(oldPath) {
     return '/products/' + pageName;
   }
   
-  // 43/batak-pro (old product URL format at root)
+  // 43/batak-pro (old product URL format at root with numeric prefix)
   if (/^\/\d+\//.test(oldPath)) {
     const parts = oldPath.split('/');
     return '/products/' + parts[parts.length - 1];
@@ -438,10 +479,11 @@ console.log('='.repeat(80));
 console.log();
 
 const oldPaths = getOldSitePaths();
-const newPaths = getNewSitePaths();
+const { paths: newPaths, redirects: newSiteRedirects } = getNewSitePaths();
 
 console.log(`Old site paths (*.html): ${oldPaths.length}`);
 console.log(`New site paths (directories with index.html): ${newPaths.length}`);
+console.log(`Redirect pages in new site: ${newSiteRedirects.size}`);
 console.log();
 
 // Create lookup sets
@@ -452,6 +494,7 @@ const newPathsSet = new Set(newPaths.map(normalizePath));
 const matched = [];
 const missing = [];
 const moved = [];
+const redirected = []; // Paths that have redirect pages
 const metadataMismatches = [];
 
 for (const oldPath of oldPaths) {
@@ -469,6 +512,10 @@ for (const oldPath of oldPaths) {
         mismatches: metaComparison.mismatches
       });
     }
+  } else if (newSiteRedirects.has(normalized)) {
+    // There's a redirect page for this old path
+    const redirectDest = newSiteRedirects.get(normalized);
+    redirected.push({ old: oldPath, redirectTo: redirectDest });
   } else if (mapped !== oldPath && newPathsSet.has(normalizePath(mapped))) {
     moved.push({ old: oldPath, new: mapped });
 
@@ -480,6 +527,10 @@ for (const oldPath of oldPaths) {
         mismatches: metaComparison.mismatches
       });
     }
+  } else if (mapped !== oldPath && newSiteRedirects.has(normalizePath(mapped))) {
+    // The mapped path has a redirect
+    const redirectDest = newSiteRedirects.get(normalizePath(mapped));
+    redirected.push({ old: oldPath, redirectTo: redirectDest, viaMapped: mapped });
   } else {
     missing.push({ old: oldPath, mapped: mapped !== oldPath ? mapped : null });
   }
@@ -488,6 +539,7 @@ for (const oldPath of oldPaths) {
 // Find new paths that don't exist in old site
 const newOnly = [];
 const movedPaths = new Set(moved.map(m => normalizePath(m.new)));
+const redirectedFromPaths = new Set(redirected.map(r => normalizePath(r.old)));
 
 for (const newPath of newPaths) {
   const normalized = normalizePath(newPath);
@@ -497,11 +549,12 @@ for (const newPath of newPaths) {
 }
 
 // Print summary
-const totalAccounted = matched.length + moved.length;
+const totalAccounted = matched.length + moved.length + redirected.length;
 console.log('SUMMARY');
 console.log('-'.repeat(80));
 console.log(`✓ Exact matches: ${matched.length}/${oldPaths.length}`);
 console.log(`→ Moved/renamed: ${moved.length}/${oldPaths.length}`);
+console.log(`↪ Redirected: ${redirected.length}/${oldPaths.length}`);
 console.log(`✓ Total accounted: ${totalAccounted}/${oldPaths.length} (${Math.round(totalAccounted / oldPaths.length * 100)}%)`);
 console.log(`✗ Missing paths: ${missing.length}`);
 console.log(`+ New paths only: ${newOnly.length}`);
@@ -521,6 +574,20 @@ if (moved.length > 0) {
   console.log('MOVED/RENAMED PATHS');
   console.log('-'.repeat(80));
   moved.forEach(m => console.log(`  → ${m.old} => ${m.new}`));
+  console.log();
+}
+
+// Print redirected paths
+if (redirected.length > 0) {
+  console.log('REDIRECTED PATHS (old path has redirect page in new site)');
+  console.log('-'.repeat(80));
+  redirected.forEach(r => {
+    if (r.viaMapped) {
+      console.log(`  ↪ ${r.old} => ${r.viaMapped} => ${r.redirectTo}`);
+    } else {
+      console.log(`  ↪ ${r.old} => ${r.redirectTo}`);
+    }
+  });
   console.log();
 }
 
