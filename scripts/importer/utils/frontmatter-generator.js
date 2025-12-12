@@ -10,6 +10,12 @@ const PAGE_CONFIG = {
   },
   'reviews': {
     layout: 'reviews.html',
+  },
+  'delivery-areas': {
+    layout: 'locations',
+  },
+  'testimonials': {
+    layout: 'reviews.html',
   }
 };
 
@@ -26,7 +32,7 @@ const generatePageFrontmatter = (metadata, slug, pageHeading = null, navInfo = n
   const layout = pageConfig.layout || 'page';
 
   // Root-level pages don't need /pages/ prefix
-  const rootPages = ['contact', 'reviews'];
+  const rootPages = ['contact', 'reviews', 'delivery-areas', 'testimonials'];
   const permalink = rootPages.includes(slug) ? `/${slug}/` : `/pages/${slug}/`;
 
   let frontmatter = `---

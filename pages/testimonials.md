@@ -1,8 +1,8 @@
 ---
 meta_title: "Testimonials | Corporate Entertainment Reviews | Fun Pro UK"
 meta_description: "We&#39;re dedicated to outstanding customer service at Fun Pro UK! Read some of the reviews left by our corporate clients to see why so many choose us."
-permalink: "/pages/testimonials/"
-layout: page
+permalink: "/testimonials/"
+layout: reviews.html
 ---
 
 # What Our Customers Say

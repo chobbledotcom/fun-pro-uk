@@ -86,35 +86,7 @@ We offer a comprehensive range of interactive games and entertainment hire for c
   return frontmatter;
 };
 
-/**
- * Generate service-areas.md with short intro (areas listed by template)
- */
-const generateServiceAreasPage = () => {
-  const config = require('../config');
 
-  let frontmatter = `---
-meta_title: "Delivery Areas | Game Hire Across the UK | Fun Pro UK"
-meta_description: "Fun Pro UK provides interactive game hire and entertainment delivery across the UK including Birmingham, London, Manchester, Coventry, Nottingham, Leicester and more."
-permalink: "/service-areas/"
-layout: page.html`;
-
-  if (!config.options.categoriesInNavigation) {
-    frontmatter += `
-eleventyNavigation:
-  key: Service Areas
-  order: 4`;
-  }
-
-  frontmatter += `
----
-
-# Delivery Areas
-
-We provide nationwide delivery of interactive games and entertainment hire across the UK.
-`;
-
-  return frontmatter;
-};
 
 /**
  * Generate not-found.md
@@ -180,19 +152,6 @@ eleventyNavigation:
 };
 
 /**
- * Generate reviews index page
- */
-const generateReviewsPage = () => `---
-meta_description: "Read reviews and testimonials from our satisfied customers about Fun Pro UK's interactive game hire services."
-meta_title: "Customer Reviews | Fun Pro UK"
-permalink: /reviews/
-layout: reviews.html
----
-
-# Customer Reviews
-`;
-
-/**
  * Convert all special pages
  */
 const convertSpecialPages = async () => {
@@ -204,11 +163,9 @@ const convertSpecialPages = async () => {
   const pages = [
     { name: 'home.md', generator: generateHomePage },
     { name: 'products.md', generator: generateProductsPage },
-    { name: 'service-areas.md', generator: generateServiceAreasPage },
     { name: 'not-found.md', generator: generateNotFoundPage },
     { name: 'thank-you.md', generator: generateThankYouPage },
-    { name: 'blog.md', generator: generateBlogPage },
-    { name: 'reviews.md', generator: generateReviewsPage }
+    { name: 'blog.md', generator: generateBlogPage }
   ];
 
   let successful = 0;
@@ -238,9 +195,7 @@ module.exports = {
   convertSpecialPages,
   generateHomePage,
   generateProductsPage,
-  generateServiceAreasPage,
   generateNotFoundPage,
   generateThankYouPage,
-  generateBlogPage,
-  generateReviewsPage
+  generateBlogPage
 };
