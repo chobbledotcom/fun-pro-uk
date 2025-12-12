@@ -3,7 +3,8 @@ title: "Adding A Little Magic At The Botanical Gardens - Fun Pro UK"
 date: 2018-05-29
 meta_title: "Adding A Little Magic At The Botanical Gardens - Fun Pro UK"
 meta_description: "Bringing fun and magic to a corporate event at the stunning Birmingham Botanical Gardens! Our Magic Selfie Mirror created lasting memories for all attendees."
-permalink: "/blog/2018-05-29/adding-a-little-magic-at-the-botanical-gardens/"
+redirect_from:
+  - "/news/2018-05-29/adding-a-little-magic-at-the-botanical-gardens/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -3,7 +3,8 @@ title: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK"
 date: 2018-11-07
 meta_title: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK"
 meta_description: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-11-07/ho-ho-ho-its-christmas/"
+redirect_from:
+  - "/news/2018-11-07/ho-ho-ho-its-christmas/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

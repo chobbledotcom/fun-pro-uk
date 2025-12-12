@@ -3,7 +3,8 @@ title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
 date: 2024-09-04
 meta_title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
 meta_description: "Discover the best office Christmas party games with Fun Pro UK! Make your office holiday party amazing with our top-rated fun and festive game ideas."
-permalink: "/blog/2024-09-04/best-office-christmas-party-games/"
+redirect_from:
+  - "/news/2024-09-04/best-office-christmas-party-games/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

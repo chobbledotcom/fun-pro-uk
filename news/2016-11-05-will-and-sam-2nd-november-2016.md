@@ -3,7 +3,8 @@ title: "Will & Sam Wedding – Event Entertainment Services"
 date: 2016-11-05
 meta_title: "Will & Sam Wedding – Event Entertainment Services"
 meta_description: "Will &amp; Sam Wedding – Event Entertainment Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-11-05/will-and-sam-2nd-november-2016/"
+redirect_from:
+  - "/news/2016-11-05/will-and-sam-2nd-november-2016/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

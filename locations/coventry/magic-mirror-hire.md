@@ -2,7 +2,8 @@
 title: "Hire a Magic Mirror in Coventry for your next event!"
 meta_title: "Magic Mirror Hire Coventry | 5* Corporate & Private Event Hire"
 meta_description: "For magic mirror hire in Coventry, choose Fun Pro UK! These magic mirror photo booths are a great addition for corporate events, weddings and much more."
-permalink: "/pages/magic-mirror-hire-coventry/"
+redirect_from:
+  - "/pages/magic-mirror-hire-coventry/"
 ---
 
 # Hire a Magic Mirror in Coventry for your next event!

@@ -3,7 +3,8 @@ title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"
 date: 2018-09-12
 meta_title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"
 meta_description: "The Importance Of Throwing A Christmas Party | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-09-12/the-importance-of-throwing-the-company-christmas-party/"
+redirect_from:
+  - "/news/2018-09-12/the-importance-of-throwing-the-company-christmas-party/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

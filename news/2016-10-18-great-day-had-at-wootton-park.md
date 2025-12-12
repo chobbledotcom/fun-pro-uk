@@ -3,7 +3,8 @@ title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
 date: 2016-10-18
 meta_title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
 meta_description: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-10-18/great-day-had-at-wootton-park/"
+redirect_from:
+  - "/news/2016-10-18/great-day-had-at-wootton-park/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

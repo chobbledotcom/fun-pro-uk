@@ -3,7 +3,8 @@ title: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK"
 date: 2022-03-25
 meta_title: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK"
 meta_description: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2022-03-25/happy-40th-to-the-boss/"
+redirect_from:
+  - "/news/2022-03-25/happy-40th-to-the-boss/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

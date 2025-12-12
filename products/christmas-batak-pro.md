@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Christmas Batak Pro - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Pro is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/christmas-batak-pro/"
 categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/christmas-games/108/christmas-batak-pro/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86b188d5d7a0f05ec94d4e1792e60fc5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d0f445bce6b6ede276a907c961b364fd"

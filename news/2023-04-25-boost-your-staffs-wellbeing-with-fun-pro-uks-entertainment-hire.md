@@ -3,7 +3,8 @@ title: "Boost Your Staff"
 date: 2023-04-25
 meta_title: "Boost Your Staff's Wellbeing with Office Entertainment Hire | Blog"
 meta_description: "Discover how to support the health and wellbeing of your staff with our range of fun equipment for hire. From table football to human hungry hippos! Book now."
-permalink: "/blog/2023-04-25/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/"
+redirect_from:
+  - "/news/2023-04-25/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"
 meta_description: "Book the Gold Cup horse race simulator for your events, parties, and fun days. We deliver across the UK. Contact us today to reserve your spot and get started!"
-permalink: "/gold-cup-horse-racing/"
 categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/prize-games.md", "categories/pub-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/interactive-game-hire/29/gold-cup-horse-racing/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/debd64a55340ff13e44c7b1d479b348b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e5036794bdca95bdf417053a72b20510"

@@ -3,7 +3,8 @@ title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
 date: 2023-04-06
 meta_title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
 meta_description: "Happy Easter from Fun Pro UK! We have plenty of incredible entertainment ideas for the upcoming summertime, from giant garden games to gladiator duels."
-permalink: "/blog/2023-04-06/happy-easter-prepare-for-summertime-fun/"
+redirect_from:
+  - "/news/2023-04-06/happy-easter-prepare-for-summertime-fun/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

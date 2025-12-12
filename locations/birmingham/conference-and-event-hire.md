@@ -2,7 +2,8 @@
 title: "Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success"
 meta_title: "Birmingham Conference Entertainment | Fun Pro UK Event Hire"
 meta_description: "Conference and event hire in Birmingham. Interactive games, expert support, and reliable service for conferences, exhibitions, and corporate events."
-permalink: "/pages/conference-and-event-hire-birmingham/"
+redirect_from:
+  - "/pages/conference-and-event-hire-birmingham/"
 ---
 
 # Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success

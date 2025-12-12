@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK"
 meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places with a lot of children&#39;s footfall - suitable for fundraisers, shopping centres, schools &amp; more."
-permalink: "/christmas-grotto-1/"
 categories: ["categories/christmas-grotto-hire.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/christmas-grotto-hire/christmas-grotto-1/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/781f6198c50c1e8a388b4c4f73e2d54b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d3ec54691f1371b70f71ea5cf633032a"

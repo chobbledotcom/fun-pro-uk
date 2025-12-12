@@ -3,7 +3,8 @@ title: "Team Building Activities Birmingham | Creative Corporate Events & Game"
 date: 2025-11-21
 meta_title: "Team Building Activities Birmingham | Creative Corporate Events & Game"
 meta_description: "Discover creative team building activities in Birmingham for all group sizes and objectives. From interactive games to creative workshops, find the perfect solution for your corporate event."
-permalink: "/blog/2025-11-21/creative-team-building-activities-to-do-in-birmingham/"
+redirect_from:
+  - "/news/2025-11-21/creative-team-building-activities-to-do-in-birmingham/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

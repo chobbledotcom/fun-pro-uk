@@ -2,7 +2,8 @@
 title: "Hilton Birmingham Metropole"
 meta_title: "Hilton Birmingham Metropole | Interactive Games | Exhibitions"
 meta_description: "If you&#39;re looking for branded exhibition games, interactive entertainment or anything else for events at Hilton Birmingham Metropole, look no further!"
-permalink: "/pages/hilton-birmingham-metropole/"
+redirect_from:
+  - "/pages/hilton-birmingham-metropole/"
 ---
 
 # Hilton Birmingham Metropole

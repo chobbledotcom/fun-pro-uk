@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Coconut Shy Stall Hire | Classic Fairground Game for UK Events"
 meta_description: "Hire a Coconut Shy stall for your next event. A fun and interactive game perfect for fairs, corporate events, and parties. Nationwide delivery &amp; setup available. Book today."
-permalink: "/coconut-shy-stall-hire/"
 categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/fun-fair-stalls/96/coconut-shy-stall-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
 ---

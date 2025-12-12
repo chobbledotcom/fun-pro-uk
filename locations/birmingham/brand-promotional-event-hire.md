@@ -2,7 +2,8 @@
 title: "Brand Activation & Promotional Game Hire in Birmingham"
 meta_title: "Brand Activation & Promotional Game Hire in Birmingham"
 meta_description: "Transform your Birmingham corporate events with interactive promotional game hire. Boost engagement, generate leads &amp; create memorable brand experiences."
-permalink: "/pages/brand-promotional-event-hire-birmingham/"
+redirect_from:
+  - "/pages/brand-promotional-event-hire-birmingham/"
 ---
 
 # Brand Activation & Promotional Game Hire in Birmingham

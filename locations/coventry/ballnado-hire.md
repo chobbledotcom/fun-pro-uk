@@ -2,7 +2,8 @@
 title: "Fun Pro Ballnado Hire for Your Next Event in Coventry"
 meta_title: "Ballnado Hire Coventry | Cash Grabber | Grab a Grand Cube"
 meta_description: "Exhibitions, corporate events and fun days in Coventry can all be improved by our Ballnado machine! Hire cash grabbers &amp; grab a grands with our event team."
-permalink: "/pages/ballnado-hire-coventry/"
+redirect_from:
+  - "/pages/ballnado-hire-coventry/"
 ---
 
 # Fun Pro Ballnado Hire for Your Next Event in Coventry

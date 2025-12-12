@@ -2,7 +2,8 @@
 title: "Corporate Event Hire Northampton"
 meta_title: "Fun Pro UK - Corporate Entertainment Hire | Northampton"
 meta_description: "Original corporate entertainment ideas and first-class service. Choose Fun Pro UK for events in Northampton for interactive games, photo booths &amp; much more."
-permalink: "/pages/northampton-corporate-event-hire/"
+redirect_from:
+  - "/pages/northampton-corporate-event-hire/"
 ---
 
 # Corporate Event Hire Northampton

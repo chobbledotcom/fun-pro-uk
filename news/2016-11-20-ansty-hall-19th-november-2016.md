@@ -3,7 +3,8 @@ title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
 date: 2016-11-20
 meta_title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
 meta_description: "Ansty Hall Event – Professional Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-11-20/ansty-hall-19th-november-2016/"
+redirect_from:
+  - "/news/2016-11-20/ansty-hall-19th-november-2016/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

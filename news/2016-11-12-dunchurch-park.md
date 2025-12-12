@@ -3,7 +3,8 @@ title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 date: 2016-11-12
 meta_title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Dunchurch Park - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-11-12/dunchurch-park/"
+redirect_from:
+  - "/news/2016-11-12/dunchurch-park/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Christmas Photo Booths | Photobooth Hire | Pro Fun UK"
 meta_description: "For your office Christmas party, discos, festive product launches and much more, the unique Christmas photo booth is sure to keep your guests entertained."
-permalink: "/christmas-photo-booths/"
 categories: ["categories/christmas-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/photo-booths-and-magic-mirrors/christmas-photo-booths/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9c30c9c167d629d2d54266052239a67"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d50c886298f4ec06f0531c8726285a9"

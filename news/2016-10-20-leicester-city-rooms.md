@@ -3,7 +3,8 @@ title: "Leicester City Rooms – Event Entertainment Options"
 date: 2016-10-20
 meta_title: "Leicester City Rooms – Event Entertainment Options"
 meta_description: "Leicester City Rooms – Event Entertainment Options - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-10-20/leicester-city-rooms/"
+redirect_from:
+  - "/news/2016-10-20/leicester-city-rooms/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

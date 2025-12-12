@@ -19,7 +19,9 @@ const { convertSingle, convertBatch } = createConverter({
     }
     // Get navigation info for this event from the extracted navigation structure
     const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
-    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, navInfo);
+    // Pass source type for redirect_from generation ('category' or 'pages')
+    const sourceType = context.sourceType || 'category';
+    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, navInfo, sourceType);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Validate that no "More Details" links remain in content
@@ -72,12 +74,13 @@ const convertEvents = async () => {
   // Extract navigation structure from old site
   const navigation = getNavigation(config.OLD_SITE_PATH);
 
-  // Pass navigation context to converters
-  const context = { navigation };
+  // Convert category-sourced events (old URL: /category/{slug}/)
+  const categoryContext = { navigation, sourceType: 'category' };
+  const categoryResult = await convertBatch(categoryFiles, categoriesSourceDir, outputDir, categoryContext);
   
-  // Convert both categories and pages as events
-  const categoryResult = await convertBatch(categoryFiles, categoriesSourceDir, outputDir, context);
-  const pageResult = await convertBatch(pageFiles, pagesSourceDir, outputDir, context);
+  // Convert page-sourced events (old URL: /pages/{slug}/)
+  const pageContext = { navigation, sourceType: 'pages' };
+  const pageResult = await convertBatch(pageFiles, pagesSourceDir, outputDir, pageContext);
 
   return {
     successful: categoryResult.successful + pageResult.successful,

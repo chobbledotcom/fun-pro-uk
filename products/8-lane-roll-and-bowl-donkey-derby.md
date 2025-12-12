@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Roll &amp; Bowl Donkey Derby is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/8-lane-roll-and-bowl-donkey-derby/"
 categories: ["categories/roll-and-bowl.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
 ---

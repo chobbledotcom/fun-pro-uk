@@ -2,7 +2,8 @@
 title: "Ballnado Game Hire for Corporate Events in Birmingham"
 meta_title: "Ballnado Hire Birmingham | Cash Grabber | Grab a Grand Cube"
 meta_description: "Hire the Ballnado in Birmingham and experience the thrill of this high-octane exhibition stand game! Cash cubes and grab a grand machines available."
-permalink: "/pages/ballnado-hire-birmingham/"
+redirect_from:
+  - "/pages/ballnado-hire-birmingham/"
 ---
 
 # Ballnado Game Hire for Corporate Events in Birmingham

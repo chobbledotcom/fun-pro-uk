@@ -2,7 +2,8 @@
 title: "Fun Pro UK Corporate Entertainment Coventry"
 meta_title: "Fun Pro UK | Corporate Event Hire for Coventry"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Choose Fun Pro UK for events in Coventry for interactive games, photo booths &amp; more."
-permalink: "/pages/corporate-event-hire-coventry/"
+redirect_from:
+  - "/pages/corporate-event-hire-coventry/"
 ---
 
 # Fun Pro UK Corporate Entertainment Coventry

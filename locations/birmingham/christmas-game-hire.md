@@ -2,7 +2,8 @@
 title: "Christmas Game Hire &ndash; Birmingham's Premier Festive Entertainment Specialists"
 meta_title: "Birmingham Christmas Game Hire | Festive Corporate Events"
 meta_description: "Book Christmas game hire in Birmingham for your next event. Interactive festive entertainment for corporate events &amp; parties. Get your free quote today."
-permalink: "/pages/christmas-game-hire-birmingham/"
+redirect_from:
+  - "/pages/christmas-game-hire-birmingham/"
 ---
 
 # Christmas Game Hire – Birmingham's Premier Festive Entertainment Specialists

@@ -3,7 +3,8 @@ title: "News & Blogs | Corporate Entertainment Ideas | Fun Pro UK"
 date: 2023-05-22
 meta_title: "News & Blogs | Corporate Entertainment Ideas | Fun Pro UK"
 meta_description: "News &amp; Blogs | Corporate Entertainment Ideas | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2023-05-22/not-just-birmingham-trade-show-entertainment-hire-uk-wide/"
+redirect_from:
+  - "/news/2023-05-22/not-just-birmingham-trade-show-entertainment-hire-uk-wide/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

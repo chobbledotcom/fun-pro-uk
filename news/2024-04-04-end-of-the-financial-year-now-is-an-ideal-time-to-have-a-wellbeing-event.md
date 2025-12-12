@@ -3,7 +3,8 @@ title: "End of the Financial Year! Now is the time to have a wellbeing event."
 date: 2024-04-04
 meta_title: "End of the Financial Year! Now is the time to have a wellbeing event."
 meta_description: "The end of the Financial Year 5 April, the financial year comes to an end, paving the way for the next tax year and the cycle begins once again. How are you going to engage your team to start all over again and keep them motivated and engaged for that long 12 month journey?"
-permalink: "/blog/2024-04-04/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/"
+redirect_from:
+  - "/news/2024-04-04/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

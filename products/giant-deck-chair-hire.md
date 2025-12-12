@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Giant Deck Chair Hire – Fun Props For Outdoor Events"
 meta_description: "Giant Deck Chair Hire – Fun Props For Outdoor Events is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/giant-deck-chair-hire/"
 categories: ["categories/corporate-entertainment.md", "categories/weddings.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/weddings/74/giant-deck-chair-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
 ---

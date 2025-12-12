@@ -2,7 +2,8 @@
 title: "Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry"
 meta_title: "Batak Pro Game Hire Coventry | Interactive Game | Corporate Engagement"
 meta_description: "Hire Batak Pro in Coventry for events, staff parties, and conferences. Keep your guests engaged with this fast-paced reaction challenge."
-permalink: "/pages/batak-pro-hire-coventry/"
+redirect_from:
+  - "/pages/batak-pro-hire-coventry/"
 ---
 
 # Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry

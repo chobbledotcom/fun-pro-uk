@@ -3,7 +3,8 @@ title: "News & Blogs | Corporate Entertainment Ideas | Fun Pro UK"
 date: 2024-08-23
 meta_title: "News & Blogs | Corporate Entertainment Ideas | Fun Pro UK"
 meta_description: "News &amp; Blogs | Corporate Entertainment Ideas | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2024-08-23/christmas-events-and-party-ideas/"
+redirect_from:
+  - "/news/2024-08-23/christmas-events-and-party-ideas/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/grab-a-grand/"
 categories: ["categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/grab-a-grand.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/interactive-game-hire/3/grab-a-grand/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5998b06ac06d5280207c3c1ee055af49"

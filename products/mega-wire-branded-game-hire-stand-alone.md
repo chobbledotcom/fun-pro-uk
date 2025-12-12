@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
-permalink: "/mega-wire-branded-game-hire-stand-alone/"
 categories: ["categories/all-products.md", "categories/branded-exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/interactive-game-hire/64/mega-wire-branded-game-hire-stand-alone/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a469f562b203f9ef31dcdc5034dcb813"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e170cc395367152d4b9b2d71710995a7"

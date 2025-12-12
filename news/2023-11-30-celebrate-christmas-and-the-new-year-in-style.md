@@ -3,7 +3,8 @@ title: "Celebrate Christmas and the New Year in Style! | News & Blogs"
 date: 2023-11-30
 meta_title: "Celebrate Christmas and the New Year in Style! | News & Blogs"
 meta_description: "We have some amazing party supplies for your Christmas and New Years events. Mobile casinos, climbing walls, red carpets, interactive games and more!"
-permalink: "/blog/2023-11-30/celebrate-christmas-and-the-new-year-in-style/"
+redirect_from:
+  - "/news/2023-11-30/celebrate-christmas-and-the-new-year-in-style/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

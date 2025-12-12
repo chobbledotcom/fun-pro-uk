@@ -2,7 +2,8 @@
 title: "Excel London Game Hire"
 meta_title: "ExCeL London Exhibition Game Hire | Branded Entertainment"
 meta_description: "The ExCeL in London is one of the UK&#39;s top exhibition centres, and we&#39;re thrilled to be able to provide the best in branded entertainment to your stand!"
-permalink: "/pages/excel-london/"
+redirect_from:
+  - "/pages/excel-london/"
 ---
 
 # Excel London Game Hire

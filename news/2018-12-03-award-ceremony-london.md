@@ -3,7 +3,8 @@ title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
 date: 2018-12-03
 meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
 meta_description: "Award Ceremony London – Event Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-12-03/award-ceremony-london/"
+redirect_from:
+  - "/news/2018-12-03/award-ceremony-london/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

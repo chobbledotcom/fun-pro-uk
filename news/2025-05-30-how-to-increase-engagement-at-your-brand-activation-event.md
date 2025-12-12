@@ -3,7 +3,8 @@ title: "Increase Engagement at Your Brand Activation Event"
 date: 2025-05-30
 meta_title: "Increase Engagement at Your Brand Activation Event"
 meta_description: "Discover simple ways to boost engagement at your brand activation event. Learn how to use interactive games to attract attention and connect with your audience."
-permalink: "/blog/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/"
+redirect_from:
+  - "/news/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

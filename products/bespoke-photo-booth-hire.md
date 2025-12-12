@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
-permalink: "/bespoke-photo-booth-hire/"
 categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/branded-exhibition-games/24/bespoke-photo-booth-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/24c0c248921be81d95b0e363d4fd6ca0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/023f5fff1deda24f0283d2072b3fec45"

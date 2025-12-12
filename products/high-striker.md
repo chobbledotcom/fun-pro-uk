@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Hire High Striker, Fairground Game High Striker To Rent, UK"
 meta_description: "Hire Our High Striker Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/high-striker/"
 categories: ["categories/arcade-games.md", "categories/all-products.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/arcade-games/48/high-striker/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e302e6319fcb03ddfc99aefe2b5fb9cf"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26f1074f3bb83ecc363385cc34cfcb98"

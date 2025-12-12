@@ -3,7 +3,8 @@ title: "5 Tips For Running A Successful Event – Game Rentals"
 date: 2018-06-10
 meta_title: "5 Tips For Running A Successful Event – Game Rentals"
 meta_description: "5 Tips For Running A Successful Event – Game Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-06-10/5-tips-for-running-a-successful-event/"
+redirect_from:
+  - "/news/2018-06-10/5-tips-for-running-a-successful-event/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -3,7 +3,8 @@ title: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK"
 date: 2017-04-18
 meta_title: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK"
 meta_description: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2017-04-18/magic-mirror-booth-coombe-abbey/"
+redirect_from:
+  - "/news/2017-04-18/magic-mirror-booth-coombe-abbey/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

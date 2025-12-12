@@ -3,7 +3,8 @@ title: "How to Choose Christmas Party Entertainment | Fun Pro UK"
 date: 2025-08-08
 meta_title: "How to Choose Christmas Party Entertainment | Fun Pro UK"
 meta_description: "Expert guide to choosing the perfect Christmas party entertainment for your office team. Professional game hire options and nationwide delivery. Book today."
-permalink: "/blog/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/"
+redirect_from:
+  - "/news/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

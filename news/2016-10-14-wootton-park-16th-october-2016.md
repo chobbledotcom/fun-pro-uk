@@ -3,7 +3,8 @@ title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
 date: 2016-10-14
 meta_title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
 meta_description: "Wootton Park Event – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-10-14/wootton-park-16th-october-2016/"
+redirect_from:
+  - "/news/2016-10-14/wootton-park-16th-october-2016/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

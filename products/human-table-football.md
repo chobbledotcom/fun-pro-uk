@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Human Table Football Game | Corporate Events | Fun Pro UK"
 meta_description: "Get ready for fun with human-size table football hire! Perfect for team-building, fun days, and corporate events. Available across the UK. Book today!"
-permalink: "/human-table-football/"
 categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/fun-days/human-table-football/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26a96a43e055fa3c5964434e45ee6f6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c079558a850a256e04534eb2ba8af69"

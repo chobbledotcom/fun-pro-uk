@@ -2,8 +2,9 @@
 title: "Circus Skills Workshop Hire for Your Next Event"
 meta_title: "Circus Skills Workshop Hire for Your Next Event"
 meta_description: "Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing."
-permalink: "/events/circus-skills-workshop/"
 featured: true
+redirect_from:
+  - "/category/circus-skills-workshop/"
 eleventyNavigation:
   key: "Circus Skills Workshop"
   parent: "Products"
