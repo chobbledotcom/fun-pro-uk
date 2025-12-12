@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/arcade-games/82/snatch-it/"
   - "/category/exhibition-games/82/snatch-it/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
@@ -47,15 +48,15 @@ SNATCH IT is new to the interactive game hire world, and FUN PRO UK have one tha
 
 **£1195**\+ vat**
 
-Delivered [](/snatch-it/)and [](/snatch-it/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/snatch-it/)house [](/snatch-it/)branding [](/snatch-it/)available [](/snatch-it/)Printed[,](/snatch-it/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/snatch-it/)time [](/snatch-it/)use [](/snatch-it/)only)
+(One time use only)
 
-\*Delivery [](/snatch-it/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/snatch-it/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -95,9 +96,9 @@ Lift required
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Branded top Panel**
 
@@ -137,6 +138,6 @@ Contact us today for more information:
   
 [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
 Tel: 0247 7220 701  
-[www.funprouk.co.uk](/pages/christmas-entertainment-game-hire'/)
+[www.funprouk.co.uk](/christmas-entertainment-game-hire/)
 
 Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!

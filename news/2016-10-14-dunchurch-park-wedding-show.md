@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [14 October 16 - Dunchurch Park Wedding Show](/dunchurch-park-wedding-show/)
+# 14 October 16 - Dunchurch Park Wedding Show
 
 It was lovely to see so many prospective brides and their grooms at the Dunchurch Park Hotel wedding show on Sunday 9th October October 2016. It really is a stunning venue, a very popular location for that special day.  
   
@@ -23,3 +23,11 @@ Our Magic mirror is a real head turner, as soon as you hear the mirror talking e
 The quality of our mirror and the pictures it produces are second to none. We only use DSLR auto focus cameras, sub dye printers and studio lighting not forgetting our overflowing hilarious prop box which comes with every hire, all guests can take advantage of dressing up for the camera and make some marvellous memories.  
   
 We were very busy taking bookings for 2017 and 2018 and wish to thank everyone that booked at the show, if you didn't book on the day then drop us a line as we still have availability.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -8,13 +8,13 @@ redirect_from:
 
 # Trusted Birmingham Event Game Hire
 
-Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/christmas-entertainment-game-hire'/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/category/arcade-games/lights-out-game/) for any event at the NEC.
+Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/christmas-entertainment-game-hire/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/products/lights-out-game/) for any event at the NEC.
 
-![NEC Birmingham](/userfiles/file/FunPro/nec.jpg)
+!NEC Birmingham
 
 ## Explore Our Popular Game Hire Services in Birmingham
 
-No one wants to stick around in an event or gathering where there’s nothing fun to do. That’s why Fun Pro’s [Birmingham corporate event game hire](/corporate-event-hire-birmingham/) offers a wide selection of interactive indoor games. We’ll keep your guests engaged and entertained, while you take care of running your event smoothly.  
+No one wants to stick around in an event or gathering where there’s nothing fun to do. That’s why Fun Pro’s [Birmingham corporate event game hire](/locations/birmingham/corporate-event-hire/) offers a wide selection of interactive indoor games. We’ll keep your guests engaged and entertained, while you take care of running your event smoothly.  
   
 Have a look at the different types of games we have for hire to see which one works best for your event.
 
@@ -26,41 +26,41 @@ Look through our catalogue to find the best arcade games in Birmingham for your 
 
 ### Exhibition Games for Hire
 
-Keep your guests entertained at exhibitions, expos, and trade shows. Fun Pro can help increase your brand retention and boost your bottom line with a fun and interactive [exhibition game hire](/category/exhibition-games/) in Birmingham.
+Keep your guests entertained at exhibitions, expos, and trade shows. Fun Pro can help increase your brand retention and boost your bottom line with a fun and interactive [exhibition game hire](/categories/exhibition-games/) in Birmingham.
 
 Check out our catalogue to find exciting games for your event.
 
 ### Company Fun Day Ideas in Birmingham
 
-Raise team spirit and spend the day having a great time with your colleagues! We have tons of games for hire that can make your [company fun days](/category/fun-days/) memorable. Call us and we’ll plan your event with you and decide on the games to hire based on what your employees want.
+Raise team spirit and spend the day having a great time with your colleagues! We have tons of games for hire that can make your [company fun days](/categories/fun-days/) memorable. Call us and we’ll plan your event with you and decide on the games to hire based on what your employees want.
 
 Some of our most popular company fun day games are:
 
-✓ [Racing Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/)
+✓ [Racing Car Simulators](/products/twin-racing-car-simulators/)
 
-✓ [Prize Cranes](/prize-crane-arcade-grabber/)
+✓ [Prize Cranes](/products/prize-crane-arcade-grabber/)
 
-✓ [Whack A Mole](/category/all-products/67/whack-a-mole-game-hire/)
+✓ [Whack A Mole](/products/whack-a-mole-game-hire/)
 
-✓ [Prize Wheel](/prize-wheel/)
+✓ [Prize Wheel](/products/prize-wheel/)
 
-✓ [Retro Arcade Machines](/category/interactive-game-hire/retro-arcade-games/)
+✓ [Retro Arcade Machines](/products/retro-arcade-games/)
 
 ### Corporate Events in Birmingham
 
-Add a healthy dose of fun and excitement to your next [corporate events](/category/corporate-entertainment/) in Birmingham. Organise memorable and entertaining celebrations for your clients and employees with Fun Pro’s games.
+Add a healthy dose of fun and excitement to your next [corporate events](/categories/corporate-entertainment/) in Birmingham. Organise memorable and entertaining celebrations for your clients and employees with Fun Pro’s games.
 
 Let’s transform your standard gatherings with these exciting games:
 
-✓ [Batak Pro](/category/batak/batak-pro/) and [Batak Lite](/category/batak/batak-lite/)
+✓ [Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/)
 
-✓ [Ballnado Grabber](/category/grab-a-grand/36/ballnado-grabber/)
+✓ [Ballnado Grabber](/products/ballnado-grabber/)
 
-✓ [Crack the Code Safe Cracker](/crack-the-code-safe-cracker/)
+✓ [Crack the Code Safe Cracker](/products/crack-the-code-safe-cracker/)
 
-✓ [Shuffle Board](/category/all-products/87/shuffle-board-hire/)
+✓ [Shuffle Board](/products/shuffle-board-hire/)
 
-✓ [Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/)
+✓ [Giant Buzz Wire](/products/giant-buzz-wire/)
 
 Our service includes delivery, setup, and removal by our professional team.
 
@@ -68,11 +68,11 @@ In need of a longer hire period or for some of our staff to stay onsite?
 
 Contact us for custom pricing and availability.
 
-**[Request a Free Quote](/nec-birmingham/#FooterContact)**
+**[Request a Free Quote](/locations/birmingham/nec/)**
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
-![Giant Buzz Wire Birmingham](/userfiles/file/FunPro/Buzz%20wire/1.png)
+!Giant Buzz Wire Birmingham
 
 ## Why Choose Our Birmingham Event Game Hire?
 
@@ -84,7 +84,7 @@ Fun Pro does all kinds of events in Birmingham all-year round, so we have plenty
 
 ### Customised Games
 
-We understand that games can be powerful tools in corporate events, so Fun Pro offers [branded exhibition games](/category/branded-exhibition-games/) and arcades in Birmingham. Each game can be customised with graphics of your company logo and your company colours.
+We understand that games can be powerful tools in corporate events, so Fun Pro offers [branded exhibition games](/categories/branded-exhibition-games/) and arcades in Birmingham. Each game can be customised with graphics of your company logo and your company colours.
 
 ### Full Support and Service
 
@@ -120,7 +120,7 @@ After the event ends, our team will take care of the safe and efficient removal 
 
 Don't miss out on the opportunity to make every event unforgettable. [Contact us](/contact-fun-pro-uk/) today to book our equipment for your next event in Birmingham or any other location in the UK!
 
-**[Talk To Us](/nec-birmingham/#FooterContact)**
+**[Talk To Us](/locations/birmingham/nec/)**
 
 ## Frequently Asked Questions
 
@@ -138,7 +138,7 @@ We have games that can be hired for as long as 7 days. We pride ourselves in hav
 
 ### Can games be branded for corporate events?
 
-Yes! We have a wide selection of exhibition games for hire that can be branded with your company logo and colours. Our most popular games are the [Batak Lite](/category/batak/batak-lite/) and [Batak Pro](/category/batak/batak-pro/), [High Striker](/category/arcade-games/48/high-striker/), Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to know more about the process.
+Yes! We have a wide selection of exhibition games for hire that can be branded with your company logo and colours. Our most popular games are the [Batak Lite](/products/batak-lite/) and [Batak Pro](/products/batak-pro/), [High Striker](/products/high-striker/), Prize Crane, and the Giant Buzz Wire. You can always call us at 0247 7220 701 or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to know more about the process.
 
 ### Can I hire multiple types of games for my event?
 
@@ -150,7 +150,7 @@ We recommend booking at least a few weeks in advance to ensure the availability 
 
 ### Is there a delivery and setup fee?
 
-We will provide you with a personalised quote that fits your needs. We also deliver nationwide, with free delivery within the [Coventry](/corporate-event-hire-coventry/), Warwickshire, West Midlands plus East Midlands area, and competitive delivery rates for the rest of the UK.
+We will provide you with a personalised quote that fits your needs. We also deliver nationwide, with free delivery within the [Coventry](/locations/coventry/corporate-event-hire/), Warwickshire, West Midlands plus East Midlands area, and competitive delivery rates for the rest of the UK.
 
 ### Do you provide instructions or demonstrations on how to use the games?
 
@@ -159,3 +159,9 @@ Yes. Our game rentals come with detailed instructions on how to use the games sa
 ### What if there’s an issue with the equipment during the event?
 
 All our games and booths are maintained so they stay in excellent condition. We take every precaution to make sure that your games run smoothly during your event. However if technical issues do arise, you can call our team at 0247 7220 701 to get immediate support.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -12,11 +12,11 @@ Are you seeking some friendly competition and excitement to your corporate event
 
 Incorporating a table football game into your exhibition stand Coventry or corporate event is a great way to attract attention and engage your attendees. Fun Pro UK offers table football games that can be customized with your company's bespoke branding, adding a personalized touch to your event.
 
-Imagine having a [table football in Coventry](/category/interactive-game-hire/27/football-tables/#content) with your company's logo and colours, creating a visually appealing and branded experience for your guests. It's a fantastic way to showcase your brand. Fun Pro UK is able to apply your bespoke branding to the football table game, ensuring that it aligns perfectly with your company's image.
+Imagine having a [table football in Coventry](/products/football-tables/#content) with your company's logo and colours, creating a visually appealing and branded experience for your guests. It's a fantastic way to showcase your brand. Fun Pro UK is able to apply your bespoke branding to the football table game, ensuring that it aligns perfectly with your company's image.
 
 Table football is a game that appeals to people of all ages and skill levels. Whether your guests are seasoned foosball players or new to the game, they'll have a blast competing against each other and cheering on their teams. It's a great icebreaker and team-building activity that encourages friendly competition and camaraderie.
 
-Fun Pro UK takes care of the delivery, setup, and breakdown of the [table football game Coventry](/category/interactive-game-hire/27/football-tables/#content), making it a hassle-free experience for you. Their team is professional and experienced, ensuring that everything runs smoothly and that your guests have a great time. You can focus on networking and enjoying the event while they handle the logistics.
+Fun Pro UK takes care of the delivery, setup, and breakdown of the [table football game Coventry](/products/football-tables/#content), making it a hassle-free experience for you. Their team is professional and experienced, ensuring that everything runs smoothly and that your guests have a great time. You can focus on networking and enjoying the event while they handle the logistics.
 
 Coventry offers a variety of venues for corporate events, including exhibition stands. By incorporating a table football game into your exhibition stand, you'll create an interactive and engaging space that stands out from the crowd. People will be drawn to the excitement and energy of the game, increasing foot traffic to your booth and generating interest in your products or services.
 
@@ -46,7 +46,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 **Equipment size**
 
@@ -75,3 +75,9 @@ Please contact us to find out more
 ## **Specification**
 
 ## **Product requirements**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

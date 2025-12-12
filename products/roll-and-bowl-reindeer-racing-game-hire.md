@@ -61,21 +61,21 @@ Let our trained staff handle the delivery, setup, and installation of the game a
 
 **£2695**\+ vat**
 
-Delivered [](/roll-and-bowl-reindeer-racing-game-hire/)and [](/roll-and-bowl-reindeer-racing-game-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/roll-and-bowl-reindeer-racing-game-hire/)house [](/roll-and-bowl-reindeer-racing-game-hire/)branding [](/roll-and-bowl-reindeer-racing-game-hire/)available [](/roll-and-bowl-reindeer-racing-game-hire/)Printed[,](/roll-and-bowl-reindeer-racing-game-hire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/roll-and-bowl-reindeer-racing-game-hire/)time [](/roll-and-bowl-reindeer-racing-game-hire/)use [](/roll-and-bowl-reindeer-racing-game-hire/)only)
+(One time use only)
 
-\*Delivery [](/roll-and-bowl-reindeer-racing-game-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/roll-and-bowl-reindeer-racing-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 **Discounted rates** available for **Multiple Days &**Additional items**
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -115,17 +115,17 @@ Lift required
 
 **Popular Items:**
 
-[Leaded Board](/interactive-game-hire/30/leader-board/)
+[Leaded Board](/products/leader-board/)
 
 Lights Out
 
-[Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
+[Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 
-[Crack the Code](/crack-the-code-safe-cracker/)
+[Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ## Roll And Bowl Reindeer Racing
 
-The [Roll And Bowl](/all-products/51/roll-and-bowl-game-hire/#content) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/all-products/51/roll-and-bowl-game-hire/#content) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
+The [Roll And Bowl](/products/roll-and-bowl-game-hire/#content) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/products/roll-and-bowl-game-hire/#content) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
 
 Roll and Bowl Reindeer Racing game is a fun and exciting challenge for four players. Race the red, green, yellow and blue reindeer around the track to see who can get their reindeer across the finish line first.
 
@@ -137,9 +137,9 @@ Reindeer racing is available in Manchester, Coventry, Nottingham, Leicester, Lon
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Playing Field x 4**
 

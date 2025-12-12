@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/exhibition-games/42/pix-n-mix-hire/"
   - "/category/fun-foods/42/pix-n-mix-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/292a6c2967046a82790fb2cf452b6365"
@@ -55,15 +56,15 @@ Make your event a memorable one with Pix N Mix Hire – the ultimate sweet sensa
 
 **£1445**\+ vat**
 
-Delivered [](/exhibition-games/42/pix-n-mix-hire/)and [](/exhibition-games/42/pix-n-mix-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/exhibition-games/42/pix-n-mix-hire/)house [](/exhibition-games/42/pix-n-mix-hire/)branding [](/exhibition-games/42/pix-n-mix-hire/)available [](/exhibition-games/42/pix-n-mix-hire/)Printed[,](/exhibition-games/42/pix-n-mix-hire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/exhibition-games/42/pix-n-mix-hire/)time [](/exhibition-games/42/pix-n-mix-hire/)use [](/exhibition-games/42/pix-n-mix-hire/)only)
+(One time use only)
 
-\*Delivery [](/exhibition-games/42/pix-n-mix-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/exhibition-games/42/pix-n-mix-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -103,14 +104,14 @@ Lift required
 
 ## **Popular items:**
 
-*   [Grab A Grand](/interactive-game-hire/3/grab-a-grand/)
-*   [Batak Pro](/batak/batak-pro/)
+*   [Grab A Grand](/products/grab-a-grand/)
+*   [Batak Pro](/products/batak-pro/)
 *   Lights Out
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ## Pick N Mix Hire Throughout The UK
 
-Our [Pick N Mix](/exhibition-games/42/pix-n-mix-hire/) stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
+Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
 
 Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
 
@@ -132,9 +133,9 @@ Pick N Mix sweet stand hire is very popular with both children and adults. Wheth
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
+(One time use only)
 
 **Fully Branded**
 

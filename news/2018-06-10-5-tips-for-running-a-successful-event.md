@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 June 18 - 5 tips for running a successful event!](/5-tips-for-running-a-successful-event/)
+# 10 June 18 - 5 tips for running a successful event!
 
 Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips to help you create a successful event that not only runs smoothly but is also stress free.  
   
@@ -24,3 +24,11 @@ Successful events don't happen by accident. They take a lot of time, hard work a
 5\. Create a plan for the day of the event. To ensure your event goes smoothly on the day, create an event day plan or running sheet. If possible, go through the plan with all those involved to ensure everyone is on the same page. If possible do a run through the night before or on the morning of the event to highlight any potential problems.  
   
 We hope you've found these tips useful and that your event is a huge success!  
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

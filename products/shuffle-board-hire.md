@@ -36,10 +36,10 @@ Shuffleboard has stood the test of the time as one of the most beloved games fro
   
 We specialise in a large variety of events. Get a shuffleboard hire for:  
   
-✓ [Corporate events](/corporate-entertainment/)  
-✓ [Exhibitions](/exhibition-games/)  
-✓ [Family fun days](/fun-days/)  
-✓ [Weddings](/pages/hire-outdoor-games-for-weddings/)  
+✓ [Corporate events](/categories/corporate-entertainment/)  
+✓ [Exhibitions](/categories/exhibition-games/)  
+✓ [Family fun days](/categories/fun-days/)  
+✓ [Weddings](/hire-outdoor-games-for-weddings/)  
 ✓ College and university events  
 ✓ Conferences and trade shows  
 ✓ Fundraisers  
@@ -72,13 +72,13 @@ In-house branding is also available. It is printed, applied, and removed after e
   
 (One time use only)  
   
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
 ## Why Choose Our Shuffleboard Hire Service?
 
-[Fun Pro UK](/pages/christmas-entertainment-game-hire'/) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
+[Fun Pro UK](/christmas-entertainment-game-hire/) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
   
 Our shuffleboard table is maintained meticulously, so you receive it in top condition during the event. Aside from being fully functional, they are also visually appealing and guaranteed to be highly entertaining for your guests. No matter what type of event you’re hosting, you can rest assured that our shuffleboard hire meets yours and your guests’ expectations.  
   
@@ -127,7 +127,7 @@ Shuffleboard can be played with either 2 or 4 players. You can do a one-on-one m
 
 ### How do I book a shuffle board table for my event?
 
-Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](/pages/contact-fun-pro-uk/), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
+Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](/contact-fun-pro-uk/), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -167,16 +167,16 @@ Lift required
 
 ## Popular items:
 
-*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
-*   [Batak Pro](/batak/batak-pro/#content)
-*   [Dance Machine](/exhibition-games/dance-machine/)
-*   [Electronic Basketball hoop](/interactive-game-hire/electronic-basket-ball-hire/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Batak Pro](/products/batak-pro/#content)
+*   [Dance Machine](/products/dance-machine/)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+*   [Lights Out](/products/lights-out-game-2/)
 
 **Skirt Branding**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **£295**\+ vat**

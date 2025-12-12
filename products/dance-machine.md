@@ -9,7 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
-  - "/category/exhibition-games/dance-machine/"
+  - "/category/exhibition-games/39/dance-machine/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d84557d92f7aee817cef2f27128f766f"
@@ -57,15 +57,15 @@ Don't miss out on the opportunity to bring arcade action to your event with our 
 
 **£1695**\+ vat**
 
-Delivered [](/dance-machine/)and [](/dance-machine/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/dance-machine/)house [](/dance-machine/)branding [](/dance-machine/)available [](/dance-machine/)Printed[,](/dance-machine/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/dance-machine/)time [](/dance-machine/)use [](/dance-machine/)only)
+(One time use only)
 
-\*Delivery [](/dance-machine/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/dance-machine/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -105,9 +105,9 @@ Lift required
 
 **Popular items order along side our Dance Machines are**
 
-*   [Retro arcade machine](/interactive-game-hire/retro-arcade-games/)
-*   [Twin race car simulators](/interactive-game-hire/twin-racing-car-simulators/)
-*   [Electronic Basketball hoop](/photo-booths/ultimate-green-screen-photo-booth/)
+*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Twin race car simulators](/products/twin-racing-car-simulators/)
+*   [Electronic Basketball hoop](/products/ultimate-green-screen-photo-booth/)
 *   Lights Out
 
 ## Arcade Dance Machine Hire - Twin Player

@@ -9,12 +9,20 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [08 February 17 - 1st Birthday Celebrations!](/1st-birthday-celebrations/)
+# 08 February 17 - 1st Birthday Celebrations!
 
-Everyone had a fantastic time at the 1st birthday party of a little girl in [Birmingham](/pages/magic-mirror-hire-birmingham/) on Sunday! There were some great memories captured! The Jewels Banqueting Suite venue looked amazing with all the table decorations and lighting. We set up our famous [magic mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) and laid out our awesome prop box ready for the party to begin. On each photograph the prints had a birthday message as a memorable keepsake.
+Everyone had a fantastic time at the 1st birthday party of a little girl in [Birmingham](/locations/birmingham/magic-mirror-hire/) on Sunday! There were some great memories captured! The Jewels Banqueting Suite venue looked amazing with all the table decorations and lighting. We set up our famous [magic mirror](/products/magic-mirror/) and laid out our awesome prop box ready for the party to begin. On each photograph the prints had a birthday message as a memorable keepsake.
 
 Upstairs, our sister company [Bounceroos Events](http://www.bounceroosevents.co.uk) were also busy providing one of their unique packages. A bouncy castle, ball pool and band new soft play in a colourful 'party party' theme to amuse the younger guests.
 
 The party guests didn't waste any time! As soon as the guests had arrived everyone was busy taking selfies with the amazing Shrek Donkey voiceover - we had some real laughs!
 
 Thank you for inviting Perfect Snap and Bounceroos Events to help you celebrate your special day.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

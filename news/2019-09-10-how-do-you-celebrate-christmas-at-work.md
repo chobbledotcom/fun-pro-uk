@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [10 September 19 - How Do You Celebrate Christmas At Work?](/how-do-you-celebrate-christmas-at-work/)
+# 10 September 19 - How Do You Celebrate Christmas At Work?
 
 ## How Do You Celebrate Christmas at Work?
 
@@ -23,9 +23,9 @@ Christmas is a superb time to get out the fluffy jumpers, drink mulled wine and 
 
 Did you know 11 million employees will attend their company's Christmas party this year! That's a lot of venues, entertainment and catering needed and being booked up fast.
 
-## It's snow joke, we have Christmas Photo Booths too! ![Christmas Booth](/userfiles/file/FunPro/Photo%20Booth/20171214-173433.jpg)
+## It's snow joke, we have Christmas Photo Booths too! !Christmas Booth
 
-We all know how entertaining taking funny photos with friends is and with our [Christmas Photo Booths](/pages/christmas-photo-booth-corporate-event-hire/), we have made it especially easy with the addition of our amazing exclusive & Festive Prop Box. This box contains all you need to have a joyful laugh from our funtastic glasses to Christmas Tree hats and reindeer ears.
+We all know how entertaining taking funny photos with friends is and with our [Christmas Photo Booths](/christmas-photo-booth-corporate-event-hire/), we have made it especially easy with the addition of our amazing exclusive & Festive Prop Box. This box contains all you need to have a joyful laugh from our funtastic glasses to Christmas Tree hats and reindeer ears.
 
 But wait & there's myrrh! Why just use Christmas props, when you can hire our Deluxe Christmas Booths? We have two festive styles to choose from, a snowy forest or Santa's wooden cabin. Why not hire one of these brilliant designs to get your guests feeling extra Christmassy. Whether you are hosting a private Christmas party or having a seasonal sales promotion. A photo booth will be the perfect opportunity for all your guests to remember the brilliant festive memories you helped create!
 
@@ -37,18 +37,26 @@ Want to keep it festive? We are happy to provide our Christmas Prop box with thi
 
 ## A round of Santa-plause!
 
-Back to serve another season, our fabulously designed inflatable [Christmas Grottos](/category/christmas-grotto-hire/) are already being booked up to deliver an exceptional Christmas atmosphere for events up and down the UK.
+Back to serve another season, our fabulously designed inflatable [Christmas Grottos](/categories/christmas-grotto-hire/) are already being booked up to deliver an exceptional Christmas atmosphere for events up and down the UK.
 
 Each of our grottos is beautifully designed with snow on the roof and can bring your venue to life with elves, Christmas trees, snowmen and even reindeer. Obviously, not forgetting the real Father Christmas who sits inside the delicately lit grotto.
 
-## ![Dance Machine](/userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)Dream big, sparkle more, shine bright
+## !Dance MachineDream big, sparkle more, shine bright
 
 Keep your guests entertained all night with a full range of interactive entertainment.
 
 Why not consider having a social media pod or photo booth alongside hiring our gorgeous grotto, allowing all your guests to capture their Christmas memories to help them remember this special time of the year.
 
-Alternatively, make your event into a Christmas games night and consider hiring a variety of interactive games to let your guests let their hair down. Why not try our [Race Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/), [Electronic Basketball hire](/category/photo-booths/ultimate-green-screen-photo-booth/), [Retro Arcade games](/category/interactive-game-hire/retro-arcade-games/) or our brand new [Crack the Safe](/crack-the-code-safe-cracker/)!
+Alternatively, make your event into a Christmas games night and consider hiring a variety of interactive games to let your guests let their hair down. Why not try our [Race Car Simulators](/products/twin-racing-car-simulators/), [Electronic Basketball hire](/products/ultimate-green-screen-photo-booth/), [Retro Arcade games](/products/retro-arcade-games/) or our brand new [Crack the Safe](/products/crack-the-code-safe-cracker/)!
 
-Don't get your tinsel in a tangle whilst dancing on our all new [Dance Machine](/category/exhibition-games/dance-machine/).
+Don't get your tinsel in a tangle whilst dancing on our all new [Dance Machine](/products/dance-machine/).
 
 We have a whole team of event experts who are on hand to help you with every stage of planning your festive corporate event. Just give our team a call on 02476 629 197 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to find out how we can bring that extra bit of Christmas magic to your event this year!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

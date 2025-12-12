@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"
   - "/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/41ec2fd815fbfa8e94c3999aa06b10e8"
@@ -68,7 +69,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -108,10 +109,10 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/30/leader-board/)
-*   [Lights Out](/lights-out-game/)
-*   [Gold Cup Horse racing](/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 **What Is the Strike A Light Game?**
 
@@ -157,16 +158,16 @@ Branded Top Panel
 
 £175 + vat
 
-![](/userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
+!
 
 Branded side panels
 
 £250 + vat
 
-![](/userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
+!
 
 Fully Branded panels
 
 £420 + vat
 
-![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+!

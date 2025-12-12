@@ -22,27 +22,27 @@ gallery:
 
 **Velcro Football Dartboard Hire: Kick, Stick, and Score!**
 
-Add a unique and thrilling activity to your next event with our Velcro Football Dartboard. Known also as kick and stick dartboard or football darts, this [inflatable game](/interactive-game-hire/) combines the skill of football with the classic challenge of darts. Participants will enjoy the fun twist of kicking a velcro football towards a giant dartboard, aiming to hit the highest scores possible.
+Add a unique and thrilling activity to your next event with our Velcro Football Dartboard. Known also as kick and stick dartboard or football darts, this [inflatable game](/categories/interactive-game-hire/) combines the skill of football with the classic challenge of darts. Participants will enjoy the fun twist of kicking a velcro football towards a giant dartboard, aiming to hit the highest scores possible.
 
-The football dartboard is ideal for all kinds of events. Hire it for a corporate [exhibition](/exhibition-games/), a private party, or any event looking for a bit of competitive fun. Whatever you're hosting or participating in, we're confiden our Velcro Football Dartboard is an excellent choice. It's not just about scoring points—this game is a fantastic icebreaker and a crowd-puller, ensuring guests of all ages are engaged and entertained.
+The football dartboard is ideal for all kinds of events. Hire it for a corporate [exhibition](/categories/exhibition-games/), a private party, or any event looking for a bit of competitive fun. Whatever you're hosting or participating in, we're confiden our Velcro Football Dartboard is an excellent choice. It's not just about scoring points—this game is a fantastic icebreaker and a crowd-puller, ensuring guests of all ages are engaged and entertained.
 
-*   **Versatile Entertainment:** Ideal for a wide range of events, from [Corporate Entertainment](/corporate-entertainment/) to [Fun Days](/fun-days/) and private celebrations, the velcro football dartboard will have people lining up to try their luck.
+*   **Versatile Entertainment:** Ideal for a wide range of events, from [Corporate Entertainment](/categories/corporate-entertainment/) to [Fun Days](/categories/fun-days/) and private celebrations, the velcro football dartboard will have people lining up to try their luck.
 *   **Engaging Competition:** This football dartboard also offers you a fun and interactive way to encourage friendly competition among guests.
 *   **High-Quality Service:** At Fun Pro UK, we pride ourselves on delivering top-quality services, ensuring that every aspect of your event game hire is handled professionally.
 
 Operating across the UK, Fun Pro UK delivers exceptional entertainment options from London to Glasgow, and everywhere in between. Just tell us where you need us, and our dedicated team will ensure that the Velcro Football Dartboard and any other requested services are delivered on time and set up to meet your specific needs.
 
-We also offer a range of other engaging activities and games for hire. From [Batak](/Controls/category/batak/) to [Fun Foods](/fun-foods/), we have everything you need to make your event all you need it to be. Explore the possibilities with Fun Pro UK and ensure your next event is amazing - just make an order with us today.
+We also offer a range of other engaging activities and games for hire. From Batak to [Fun Foods](/categories/fun-foods/), we have everything you need to make your event all you need it to be. Explore the possibilities with Fun Pro UK and ensure your next event is amazing - just make an order with us today.
 
 **Hire from**
 
 **£395**\+ vat**
 
-Delivered [](/football-darts/)and [](/football-darts/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/football-darts/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/football-darts/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -8,21 +8,21 @@ redirect_from:
 
 # Corporate Event Hire Birmingham
 
-![Game hire Birmingham](/userfiles/file/FunPro/birmingham.jpg)
+!Game hire Birmingham
 
 When you're planning a corporate event in Birmingham, getting the entertainment right can make all the difference between an event people remember fondly and one that falls flat.
 
 As [corporate event specialists](/about-corporate-entertainment-hire/) with over 15 years of experience, we understand the pressure you're under to create something memorable whilst juggling venue logistics, budgets and diverse guest expectations.
 
-Based in Coventry, we're perfectly positioned to serve Birmingham's corporate events, from major venues like the [NEC](/nec-birmingham/) Birmingham and [ICC](/game-hire-icc-birmingham/) through to city centre hotels, conference centres and corporate offices across the West Midlands. We provide [interactive games hire](/interactive-game-hire/), [photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) and entertainment that brings colleagues together and creates genuine engagement at your event.
+Based in Coventry, we're perfectly positioned to serve Birmingham's corporate events, from major venues like the [NEC](/locations/birmingham/nec/) Birmingham and [ICC](/locations/birmingham/game-hire-icc/) through to city centre hotels, conference centres and corporate offices across the West Midlands. We provide [interactive games hire](/categories/interactive-game-hire/), [photo booths](/products/classic-photo-booths/) and entertainment that brings colleagues together and creates genuine engagement at your event.
 
 ## Interactive Games for Birmingham Corporate Events
 
 The right entertainment does more than fill time between sessions or create background noise. It gives people something to talk about, breaks down the usual workplace barriers, and helps colleagues see each other in a completely different light. That's where interactive games come into their own at corporate events.
 
-We provide a range of entertainment that works across different corporate occasions. [Racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) get competitive spirits flowing at product launches. Reaction games like [Batak Lite](/category/all-products/batak-lite/) and [Batak Pro](/category/batak/batak-pro/) create friendly rivalry on [team building](/team-building-ideas/) days. Photo booths and [magic mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) give [conference](/conference-idea/) attendees something fun to do during breaks, whilst creating shareable memories. Virtual reality experiences draw crowds at [exhibition](/exhibition-games/) stands, helping you stand out when you're competing for attention.
+We provide a range of entertainment that works across different corporate occasions. [Racing simulators](/products/twin-racing-car-simulators/) get competitive spirits flowing at product launches. Reaction games like [Batak Lite](/products/batak-lite/) and [Batak Pro](/products/batak-pro/) create friendly rivalry on [team building](/team-building-ideas/) days. Photo booths and [magic mirrors](/products/magic-mirror/) give [conference](/events/conference-idea/) attendees something fun to do during breaks, whilst creating shareable memories. Virtual reality experiences draw crowds at [exhibition](/categories/exhibition-games/) stands, helping you stand out when you're competing for attention.
 
-What you choose depends on your specific situation. A formal [awards ceremony](/category/company-award-ceremonies/) needs different entertainment than a summer fun day. Conference attendees between sessions have different needs than team members at an off-site building event. That's why we take time to understand your event before recommending what will actually work for your audience and objectives.
+What you choose depends on your specific situation. A formal [awards ceremony](/events/company-award-ceremonies/) needs different entertainment than a summer fun day. Conference attendees between sessions have different needs than team members at an off-site building event. That's why we take time to understand your event before recommending what will actually work for your audience and objectives.
 
 We handle [delivery](/delivery-areas/), setup and collection from our Coventry base, which means straightforward logistics for your Birmingham event. [Our team](/meet-the-team/) makes sure everything's working properly before guests arrive, and we're there to support you throughout the event if needed.
 
@@ -46,7 +46,7 @@ Our team can talk through these considerations with you and recommend options th
 
 ### Major Birmingham Venues We Serve
 
-We regularly deliver to Birmingham's main corporate venues, including the [NEC](/nec-birmingham/) Birmingham for large exhibitions and conferences, [ICC](/game-hire-icc-birmingham/) Birmingham for formal events, and city centre hotels and conference facilities. We also work with corporate offices across the West Midlands, from Digbeth through to Solihull and beyond.
+We regularly deliver to Birmingham's main corporate venues, including the [NEC](/locations/birmingham/nec/) Birmingham for large exhibitions and conferences, [ICC](/locations/birmingham/game-hire-icc/) Birmingham for formal events, and city centre hotels and conference facilities. We also work with corporate offices across the West Midlands, from Digbeth through to Solihull and beyond.
 
 Being based in Coventry gives us straightforward access to Birmingham venues, which helps keep logistics simple and costs reasonable for your event.
 
@@ -97,3 +97,9 @@ That's exactly what we're here to help with. Share some details about your event
 ## Ready to discuss entertainment for your Birmingham corporate event?
 
 [Contact our friendly team](/contact-fun-pro-uk/) on 0247-722-0701. We're here to take the stress out of planning and help you create an event your colleagues will remember.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/arcade-games/77/virtual-pinball/"
   - "/category/exhibition-games/77/virtual-pinball/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
@@ -36,11 +37,11 @@ gallery:
 
 **£1445**\+ vat**
 
-Delivered [](/arcade-games/77/virtual-pinball/)and [](/arcade-games/77/virtual-pinball/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/arcade-games/77/virtual-pinball/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/arcade-games/77/virtual-pinball/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

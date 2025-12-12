@@ -50,7 +50,7 @@ Make your Christmas celebration unforgettable — **book Batak Pro** and let the
 
 ## What’s Included in Batak Pro Hire from Fun Pro?
 
-We make [interactive game hire](/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
+We make [interactive game hire](/categories/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
 
 **Hire Prices:**
 
@@ -80,7 +80,7 @@ Custom branding options to showcase your company identity
 
 \*Delivery fees may apply.
 
-[**Email:**](/christmas-batak-pro/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -162,18 +162,24 @@ Looking to make your event even more magical? Explore our range of **interactive
 
 If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
 
-[Arcade Games](/arcade-games/lights-out-game/)
+[Arcade Games](/products/lights-out-game/)
 
-[Prize Games](/prize-games/)
+[Prize Games](/categories/prize-games/)
 
-[Pub Games](/pub-games/)
+[Pub Games](/categories/pub-games/)
 
-[Roll and Bowl](/roll-and-bowl/)
+[Roll and Bowl](/categories/roll-and-bowl/)
 
-[Crazy Golf](/fun-days/crazy-golf/)
+[Crazy Golf](/products/crazy-golf/)
 
-[View all our event hire products and games here](/all-products/)
+[View all our event hire products and games here](/categories/all-products/)
 
 ## Hire Batak Pro for Your Next Event
 
 Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -9,15 +9,15 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [22 December 17 - Is it Christmas already](/is-it-christmas-already/)
+# 22 December 17 - Is it Christmas already
 
-Is It [Christmas](/category/christmas-game-hire/) already?
+Is It [Christmas](/categories/christmas-game-hire/) already?
 
 We can't believe that Christmas really is around the corner now. We've been so busy helping to celebrate at wonderful parties, it's really crept up on us!
 
 We've had a very busy 2017 and have recently taken delivery of some wonderful new products for you to hire, ensuring any event you host will be fun and entertaining.
 
-This year we've seen our [Selfie Mirrors](/category/photo-booths-and-magic-mirrors/magic-mirror/) and [Green Screen Photo Booths](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/) become even more popular. Hiring these at private parties and corporate functions have bought great fun and laughter.
+This year we've seen our [Selfie Mirrors](/products/magic-mirror/) and [Green Screen Photo Booths](/products/green-screen-photo-booths/) become even more popular. Hiring these at private parties and corporate functions have bought great fun and laughter.
 
 Everyone loves a selfie, right?
 
@@ -36,3 +36,11 @@ We'd like to take this little opportunity to thank you for being a customer of P
 We can't wait to see you all again in 2018.
 
 Merry Christmas and a happy New Year!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -40,15 +40,15 @@ Looking to add a fun and interactive element to your event? Our LEADER BOARD is 
 
 **£75**\+ vat**
 
-Delivered [](/leader-board/)and [](/leader-board/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/leader-board/)house [](/leader-board/)branding [](/leader-board/)available [](/leader-board/)Printed[,](/leader-board/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/leader-board/)time [](/leader-board/)use [](/leader-board/)only)
+(One time use only)
 
-\*Delivery [](/leader-board/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/leader-board/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -98,10 +98,10 @@ Our LEADER BOARD is not just a fun addition to your event—it's a tool to incre
 
 Popular items:
 
-*   [Race car Simulators](/twin-racing-car-simulators/)
-*   [Grab a Grand](/3/grab-a-grand/)
+*   [Race car Simulators](/products/twin-racing-car-simulators/)
+*   [Grab a Grand](/products/grab-a-grand/)
 *   Lights Out
-*   [Pluck A Duck Racing](/pluck-a-duck-racing/)
+*   [Pluck A Duck Racing](/products/pluck-a-duck-racing/)
 
 Want to add a leader board to make your hire more competitive, then look no further!  
   

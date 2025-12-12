@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [26 September 18 - Are we connected?](/are-we-connected/)
+# 26 September 18 - Are we connected?
 
 Are we connected? Have you seen all our social media?
 
@@ -18,3 +18,11 @@ We have very active Facebook, Twitter, LinkedIn and Instagram pages, where you c
 We post about events we have attended and been hired at, insights into the industry and most importantly our products and services that will give the wow factor to your next event.
 
 Why not follow, like and connect with us now to find out more about Fun Pro UK.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

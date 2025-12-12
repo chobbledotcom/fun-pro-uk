@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [04 January 22 - January doesn't have to be Blue!!](/january-doesnt-have-to-be-blue/)
+# 04 January 22 - January doesn't have to be Blue!!
 
 **January doesn't have to be Blue!!**
 
@@ -17,7 +17,7 @@ December is always a very busy month for everyone, before we know it we are wrap
 
 If you didn't get round to arranging that all important staff Christmas Party then not to worry - why not arrange a January bash?
 
-Here are Fun Pro's top reasons why it’s great to hold a staff [Christmas Party](/pages/party-games-hire/) in January!
+Here are Fun Pro's top reasons why it’s great to hold a staff [Christmas Party](/party-games-hire/) in January!
 
 With the cold, dark winter weather and the festivities of Christmas over for another year January is known for 'January Blues!' But it doesn't have to be!
 
@@ -31,8 +31,16 @@ January is a great time to gather your team together and ensure they feel valued
 
 Diaries and calendars won't be quite so manic during January. Take this opportunity to save the date and arrange when to have your staff office party. The turn out should be high as you will not be competing with other festive events such as School Plays, Christmas Shopping, Carol singing etc that your guests have already committed to attend.
 
-**NO TINSEL OR TURKEY ![](/userfiles/img-20211217-wa0004.jpg)** 
+**NO TINSEL OR TURKEY !** 
 
-Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/category/photo-booths-and-magic-mirrors/)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/category/arcade-games/lights-out-game/)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
+Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/categories/photo-booths-and-magic-mirrors/)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/products/lights-out-game/)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
 
 So, go on - what are you waiting for? Get that date in the diary and arrange your Christmas Office Party in January, it will be the best party ever!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

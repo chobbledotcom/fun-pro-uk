@@ -16,7 +16,7 @@ const path = require('path');
 const { execSync } = require('child_process');
 const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig, convertStaticPages } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
-const { applyFindReplacesRecursive } = require('./utils/find-replace');
+const { fixAllLinks } = require('./utils/link-fixer');
 const ResultsTracker = require('./utils/results-tracker');
 const config = require('./config');
 
@@ -116,21 +116,18 @@ const main = async () => {
     }
   }
 
-  // Only apply find/replace if running all or specific content converters
-  const contentConverters = ['pages', 'locations', 'products', 'categories', 'events', 'blog'];
-  const shouldApplyReplacements = !args.only || args.only.some(k => contentConverters.includes(k));
-
-  if (shouldApplyReplacements) {
-    console.log('Applying find/replace patterns to markdown files...');
-    const targetDirs = ['pages', 'locations', 'products', 'categories', 'events', 'news'];
-    targetDirs.forEach(dir => {
-      const dirPath = path.join(config.OUTPUT_BASE, dir);
-      applyFindReplacesRecursive(dirPath);
-    });
-    console.log('✓ Find/replace patterns applied\n');
-  }
-
   tracker.displaySummary();
+
+  // Fix all links in a single post-processing pass
+  // This runs after ALL content is imported so we have complete redirect mappings
+  const contentConverters = ['pages', 'locations', 'products', 'categories', 'events', 'blog'];
+  const shouldFixLinks = !args.only || args.only.some(k => contentConverters.includes(k));
+
+  if (shouldFixLinks) {
+    console.log('\nPost-processing: fixing links...');
+    fixAllLinks(); // Will throw if any invalid links are found
+    console.log('');
+  }
 
   const elapsedTime = ((Date.now() - startTime) / 1000).toFixed(2);
   console.log(`Time elapsed: ${elapsedTime} seconds`);

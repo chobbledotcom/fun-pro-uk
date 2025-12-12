@@ -145,12 +145,9 @@ events: ${eventsYaml}
 featured: true
 features: []`;
 
-  // Add redirect_from for old site URL if it differs from the new path
-  // Old products are at /category/{category}/{id}/{slug}/, new path is /{slug}/
+  // Add redirect_from for old site URL
   if (oldSitePath) {
-    // Convert file path to URL path: "arcade-games/106/electronic-dart-board.html" -> "/category/arcade-games/106/electronic-dart-board/"
     const oldUrl = `/category/${oldSitePath.replace(/\.html$/, '').replace(/\\/g, '/')}/`;
-    // New path will be /{slug}/ - so redirect is always needed for products
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
 

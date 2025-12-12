@@ -17,7 +17,7 @@ Our team are located approximately 60 minutes from this superb venue meaning our
 
 **Conference Game Hire Telford** is a fun filled way to engage with clients during lunch and break times giving individuals the opportunity to build relationships and communicate effectively whilst having fun.
 
-![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
+!Lights Out Game Hire
 
 ## **Game Hire**
 
@@ -28,3 +28,9 @@ Want to attract and influence new clients at your event? Then check out the inte
 Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Here are some events that are coming up at the Telford International Centre: [Click here to find out more](https://www.theinternationalcentretelford.com/services/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

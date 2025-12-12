@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/arcade-games/50/the-vault/"
   - "/category/interactive-game-hire/50/the-vault/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e"
@@ -53,15 +54,15 @@ Starting from the easiest level and working your way up to the hardest level wil
 
 **£1195**\+ vat**
 
-Delivered [](/the-vault/)and [](/the-vault/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/the-vault/)house [](/the-vault/)branding [](/the-vault/)available [](/the-vault/)Printed[,](/the-vault/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/the-vault/)time [](/the-vault/)use [](/the-vault/)only)
+(One time use only)
 
-\*Delivery [](/the-vault/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/the-vault/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -145,9 +146,9 @@ Why not hire our scoreboard and keep a record of times from your contestants and
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Branded Plinth**
 

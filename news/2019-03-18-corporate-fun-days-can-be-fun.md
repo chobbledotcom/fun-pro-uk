@@ -9,11 +9,11 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [18 March 19 - Corporate Fun Days Can Be Fun!](/corporate-fun-days-can-be-fun/)
+# 18 March 19 - Corporate Fun Days Can Be Fun!
 
 ## **Do you appreciate your staff?**
 
-Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/category/fun-days/)
+Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days/)
 
 Inviting staff members to a fun day away from the office is a great idea, but inviting their families along to take part in a family fun day would make your employees feel valued, allow them to have fun and also spend quality time making memories with their loved ones.
 
@@ -21,7 +21,7 @@ In return your staff would feel a sense of loyalty to the company they work for,
 
 ## **Let Fun Pro UK help you!**
 
-![Inflatable Fun days](/userfiles/file/FunPro/fundays.png)Our fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
+!Inflatable Fun daysOur fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
 
 ## **Something For Everyone.**
 
@@ -43,9 +43,9 @@ Fun Pro UK has themed bouncy castles to hire for younger children as well as sof
 
 Older children and teens usually enjoy a bit more of a thrill! Here our super slides and assault courses play a huge part in family fun days. Everyone has a great time on these pieces of equipment and always come back for another turn. See how fast you can go down our super slides or time yourselves as you encounter the many obstacles waiting for you on the mega assault courses
 
-![Total wipe Out](/userfiles/file/FunPro/ultimate-wipeout-462.jpg)We also offer games to hire too. The [racing car simulators](/category/interactive-game-hire/twin-racing-car-simulators/) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
+!Total wipe OutWe also offer games to hire too. The [racing car simulators](/products/twin-racing-car-simulators/) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
 
-If it is a team game to hire we have some equipment that will knock your socks off! [Our Human Football Game,](/category/fun-days/human-table-football/) Total Wipe Out or Hungry Hippos life sized game are all fabulous for your work colleagues to come together as a team and have fun whilst taking part in the challenge to be the winner!
+If it is a team game to hire we have some equipment that will knock your socks off! [Our Human Football Game,](/products/human-table-football/) Total Wipe Out or Hungry Hippos life sized game are all fabulous for your work colleagues to come together as a team and have fun whilst taking part in the challenge to be the winner!
 
 **We all love Ice Cream!**
 
@@ -58,3 +58,11 @@ Here at Fun Pro UK you can be rest assured that we are professionals providing s
 If you are planning a corporate fun day which requires fantastic value, excellent entertainment and outstanding results for your business then Fun Pro UK are the company to contact.
 
 Call us on 📞02476 629197 to discuss how Fun Pro UK can help your Family Fun Day be the best ever.
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

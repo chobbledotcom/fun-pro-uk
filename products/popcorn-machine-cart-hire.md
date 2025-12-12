@@ -20,7 +20,7 @@ gallery:
 
 ## Best Popcorn Machine Cart Hire for All UK Events!
 
-Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Perfect for [school fairs](/pages/school-fun-day-entertainment-hire/), [corporate events](/corporate-entertainment/), or [family fun days](/fun-days/), the cart adds a classic and crowd-pleasing feature to your event. The sight and aroma of fresh popcorn bring a nostalgic charm that’s hard to resist.
+Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Perfect for [school fairs](/school-fun-day-entertainment-hire/), [corporate events](/categories/corporate-entertainment/), or [family fun days](/categories/fun-days/), the cart adds a classic and crowd-pleasing feature to your event. The sight and aroma of fresh popcorn bring a nostalgic charm that’s hard to resist.
 
 ## Hire a popcorn machine cart for your next event!
 
@@ -64,7 +64,7 @@ You can trust that our popcorn machine cart and all related equipment will arriv
 
 Need to extend your hire period? Simply let us know, and we’ll do our best to accommodate your needs.
 
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.
 
@@ -78,9 +78,9 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 ## Why Choose Our Popcorn Machine Cart Hire Service?
 
-Fun Pro UK is the trusted provider of [high quality game hires](/pages/christmas-entertainment-game-hire'/) for any event. Choosing our popcorn machine cart hire means choosing reliability, quality, and a fun filled experience for your guests. We are proud to deliver exceptional service that effortlessly integrates into your event.
+Fun Pro UK is the trusted provider of [high quality game hires](/christmas-entertainment-game-hire/) for any event. Choosing our popcorn machine cart hire means choosing reliability, quality, and a fun filled experience for your guests. We are proud to deliver exceptional service that effortlessly integrates into your event.
 
-Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/pages/team-building-ideas/) and [summer fairs](/pages/outdoor-garden-game-hire/) to [weddings](/pages/hire-outdoor-games-for-weddings/) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
+Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/team-building-ideas/) and [summer fairs](/outdoor-garden-game-hire/) to [weddings](/hire-outdoor-games-for-weddings/) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
 
 Let us help make your event unforgettable with a popcorn machine cart that delights your guests and creates an unforgettable atmosphere.
 
@@ -126,7 +126,7 @@ Yes! A professional and friendly team member will manage the popcorn cart for up
 
 ### Can the popcorn cart be branded with my company’s logo or event theme?
 
-Absolutely! We offer [bespoke branding options](/branded-exhibition-games/) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees.
+Absolutely! We offer [bespoke branding options](/categories/branded-exhibition-games/) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees.
 
 ### How long can the popcorn cart be hired for?
 
@@ -135,3 +135,9 @@ The standard hire period is up to 4 hours, but we understand that some events ma
 ### Is the popcorn cart suitable for both indoor and outdoor events?
 
 Yes, the popcorn machine cart hire can operate at both indoor and outdoor venues. For outdoor events, we recommend placing the cart under a sheltered area or marquee to protect the equipment from unpredictable weather.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

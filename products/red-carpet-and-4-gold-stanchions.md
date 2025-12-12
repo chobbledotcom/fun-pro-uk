@@ -36,7 +36,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -48,7 +48,13 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 
 **Popular items:**
 
-*   [Magic Mirror](/magic-mirror/)
-*   [Photo Booth](/green-screen-photo-booths/)
+*   [Magic Mirror](/products/magic-mirror/)
+*   [Photo Booth](/products/green-screen-photo-booths/)
 *   Selfie Pod
-*   [Green Screen Booth](/green-screen-photo-booths/)
+*   [Green Screen Booth](/products/green-screen-photo-booths/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

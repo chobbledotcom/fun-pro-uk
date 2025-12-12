@@ -65,15 +65,15 @@ Available for hire in Birmingham, Nottingham, Milton Keynes, London, Manchester,
 
 **£1495**\+ vat**
 
-Delivered [](/prize-crane-arcade-grabber/)and [](/prize-crane-arcade-grabber/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/prize-crane-arcade-grabber/)house [](/prize-crane-arcade-grabber/)branding [](/prize-crane-arcade-grabber/)available [](/prize-crane-arcade-grabber/)Printed[,](/prize-crane-arcade-grabber/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/prize-crane-arcade-grabber/)time [](/prize-crane-arcade-grabber/)use [](/prize-crane-arcade-grabber/)only)
+(One time use only)
 
-\*Delivery [](/prize-crane-arcade-grabber/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/prize-crane-arcade-grabber/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -151,9 +151,9 @@ Our dependable delivery stretches the length and breadth of the country, includi
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
+(One time use only)
 
 **Internal back wall**
 

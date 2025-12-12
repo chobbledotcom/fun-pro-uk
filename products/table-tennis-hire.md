@@ -20,23 +20,23 @@ gallery:
 
 ## Best Table Tennis Hire in the UK for Fun-filled Events in Birmingham, Leicester, Nottingham, and More!
 
-Looking for a “tennis table near me”? Do you want to add a touch of excitement and competitiveness to your upcoming conference, well-being day, [exhibition](/exhibition-games/), or fun day? Our table tennis hire service is the perfect solution for events in [Birmingham](/pages/corporate-event-hire-birmingham/), [Leicester](/pages/leicester-corporate-event-hire/), [Nottingham](/pages/nottingham-corporate-event-hire/), [Milton Keynes](/pages/milton-keynes-corporate-event-hire/), [London](/pages/conference-game-hire-london/), [Manchester](/pages/manchester-corporate-event-hire/), [Coventry](/pages/corporate-event-hire-coventry/), and across the UK.
+Looking for a “tennis table near me”? Do you want to add a touch of excitement and competitiveness to your upcoming conference, well-being day, [exhibition](/categories/exhibition-games/), or fun day? Our table tennis hire service is the perfect solution for events in [Birmingham](/locations/birmingham/corporate-event-hire/), [Leicester](/locations/leicester/corporate-event-hire/), [Nottingham](/locations/nottingham/corporate-event-hire/), [Milton Keynes](/locations/milton-keynes/corporate-event-hire/), [London](/locations/london/conference-game-hire/), [Manchester](/locations/manchester/corporate-event-hire/), [Coventry](/locations/coventry/corporate-event-hire/), and across the UK.
 
 ## Hire a ping pong table for your next event!
 
 Who doesn’t love a good back and forth run on the classic ping pong table where the stakes are always high and the fun never ends? Set up a gripping table tennis match for your corporate guests and host a gathering that no one is forgetting anytime soon.  
   
-We specialise in large scale [corporate events](/corporate-entertainment/). Get a table tennis hire for:
+We specialise in large scale [corporate events](/categories/corporate-entertainment/). Get a table tennis hire for:
 
-✓ [Conferences](/pages/conference-game-hire/) and [trade shows](/news/2023-05-22/not-just-birmingham-trade-show-entertainment-hire-uk-wide/)  
+✓ [Conferences](/conference-game-hire/) and [trade shows](/news/not-just-birmingham-trade-show-entertainment-hire-uk-wide/)  
 ✓ Product launch parties  
 ✓ Company-wide retreats  
 ✓ Awards ceremonies  
-✓ [Corporate anniversary celebrations](/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/)  
+✓ [Corporate anniversary celebrations](/news/why-hire-corporate-entertainment-with-fun-pro-uk/)  
 ✓ Client and partner events  
 ✓ Corporate social responsibility (CSR) events  
 ✓ Town hall meetings  
-✓ [Leadership conferences](/news/2023-10-17/keep-conferences-fun-with-fun-pro-uk/)  
+✓ [Leadership conferences](/news/keep-conferences-fun-with-fun-pro-uk/)  
   
 …and more!  
 
@@ -66,19 +66,19 @@ You can rest assured that all ping pong tables and other equipment will arrive i
   
 Need a longer hire period?  
   
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.  
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.  
 
-Delivered [](/table-tennis-hire/)and [](/table-tennis-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/table-tennis-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/table-tennis-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 Please note that delivery charges and minimum order values may apply.
 
 ## Why Choose Our Table Tennis Hire Service?
 
-[Fun Pro UK](/pages/christmas-entertainment-game-hire'/) offers more than just table tennis equipment — we’re giving you a complete experience.  
+[Fun Pro UK](/christmas-entertainment-game-hire/) offers more than just table tennis equipment — we’re giving you a complete experience.  
   
 Our high-quality full-size table tennis tables are ideal for boosting engagement and creating a lively atmosphere at your event. Whether you're aiming to increase sales, promote brand activation, or simply provide entertainment, our table tennis hire service is sure to impress your guests and leave a lasting impact.  
   
@@ -105,7 +105,7 @@ When the event is over, we’ll return to dismantle and collect the full size te
 
 ## Ready to take your corporate event to the next level?
 
-Don't miss out on the opportunity to upgrade your event with our table tennis hire service. Contact us today to book our equipment for your [next event in Birmingham](/pages/game-hire-icc-birmingham/), Leicester, Nottingham, or any other location in the UK!
+Don't miss out on the opportunity to upgrade your event with our table tennis hire service. Contact us today to book our equipment for your [next event in Birmingham](/locations/birmingham/game-hire-icc/), Leicester, Nottingham, or any other location in the UK!
 
 ## Frequently Asked Questions
 
@@ -169,7 +169,7 @@ Lift required
 
 **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)

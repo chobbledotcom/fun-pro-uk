@@ -140,18 +140,25 @@ const downloadFile = (url, filepath, force = false) => {
 /**
  * Extract slug from HTML filename
  * @param {string} filename - HTML or markdown filename
- * @returns {string} Slug without extension
+ * @returns {string} Slug without extension, sanitized
  */
 const slugFromFilename = (filename) =>
-  filename.replace('.php.html', '').replace(/\.html$/, '').replace(/\.md$/, '');
+  filename
+    .replace('.php.html', '')
+    .replace(/\.html$/, '')
+    .replace(/\.md$/, '')
+    .replace(/['']/g, '');  // Remove apostrophes
 
 /**
  * Convert HTML filename to markdown filename
  * @param {string} htmlFilename - HTML filename
- * @returns {string} Markdown filename
+ * @returns {string} Markdown filename, sanitized
  */
 const markdownFilename = (htmlFilename) =>
-  htmlFilename.replace('.php.html', '.md').replace(/\.html$/, '.md');
+  htmlFilename
+    .replace('.php.html', '.md')
+    .replace(/\.html$/, '.md')
+    .replace(/['']/g, '');  // Remove apostrophes
 
 module.exports = {
   ensureDir,

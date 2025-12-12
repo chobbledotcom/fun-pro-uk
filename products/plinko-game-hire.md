@@ -9,6 +9,8 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/all-products/68/plinko-game-hire/"
+  - "/category/arcade-games/68/plinko-game-hire/"
   - "/category/exhibition-games/68/plinko-game-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291"
@@ -58,15 +60,15 @@ Don't miss out on the fun – book our Giant Plinko Game for your next event in 
 
 **£1195**\+ vat**
 
-Delivered [](/all-products/68/plinko-game-hire/)and [](/all-products/68/plinko-game-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/all-products/68/plinko-game-hire/)house [](/all-products/68/plinko-game-hire/)branding [](/all-products/68/plinko-game-hire/)available [](/all-products/68/plinko-game-hire/)Printed[,](/all-products/68/plinko-game-hire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/all-products/68/plinko-game-hire/)time [](/all-products/68/plinko-game-hire/)use [](/all-products/68/plinko-game-hire/)only)
+(One time use only)
 
-\*Delivery [](/all-products/68/plinko-game-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/all-products/68/plinko-game-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -118,9 +120,9 @@ The Plinko Game is available in the standard red and white design alternatively,
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=64/)house [](/admin/products-edit.aspx%3Fid=64/)branding [](/admin/products-edit.aspx%3Fid=64/)available [](/admin/products-edit.aspx%3Fid=64/)Printed[,](/admin/products-edit.aspx%3Fid=64/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=64/)time [](/admin/products-edit.aspx%3Fid=64/)use [](/admin/products-edit.aspx%3Fid=64/)only)
+(One time use only)
 
 **Branded back panels**
 

@@ -7,9 +7,9 @@ layout: page
 
 # How Tilda Rice Created Queue-Worthy Community Engagement Across Multiple UK Mela Events
 
-![](/userfiles/fun-pro-tilda-rice.jpg)
+!
 
-Learn how Tilda Rice, the UK's leading rice and grain specialist, transformed their community event presence by utilising FunPro's bespoke [branded game hire](/category/branded-exhibition-games/), creating irresistible crowd engagement that had festival-goers queuing all day long at Mela celebrations across Glasgow, Cardiff, Leicester, and London.
+Learn how Tilda Rice, the UK's leading rice and grain specialist, transformed their community event presence by utilising FunPro's bespoke [branded game hire](/categories/branded-exhibition-games/), creating irresistible crowd engagement that had festival-goers queuing all day long at Mela celebrations across Glasgow, Cardiff, Leicester, and London.
 
 ## Customer Profile
 
@@ -47,9 +47,9 @@ The Mela circuit represents some of the most vibrant and well-attended cultural 
 
 The outdoor nature of these events created additional complexity. Most Mela celebrations take place in parks or open spaces, with vendors operating under marquees that need to accommodate unpredictable British weather. "The ground conditions are rarely ideal," noted the events team. "We needed entertainment that could work effectively on uneven surfaces whilst maintaining safety standards for families with children of all ages."
 
-Tilda's previous experience with FunPro UK several years earlier had left a positive impression, particularly regarding their ability to handle logistical challenges whilst maintaining high standards of presentation. When the company decided to increase their community event presence, they contacted FunPro UK directly to discuss options for creating [branded entertainment](/category/branded-exhibition-games/) that would work across multiple locations.
+Tilda's previous experience with FunPro UK several years earlier had left a positive impression, particularly regarding their ability to handle logistical challenges whilst maintaining high standards of presentation. When the company decided to increase their community event presence, they contacted FunPro UK directly to discuss options for creating [branded entertainment](/categories/branded-exhibition-games/) that would work across multiple locations.
 
-The initial enquiry focused on the [Roll and Bowl](/category/all-products/51/roll-and-bowl-game-hire/) game, which had proven popular in their previous collaboration. However, this time Tilda wanted to take the branding much further. "We didn't just want our logo on the game," the marketing team explained. "We wanted the entire experience to feel authentically Tilda whilst being genuinely entertaining for festival-goers."
+The initial enquiry focused on the [Roll and Bowl](/products/roll-and-bowl-game-hire/) game, which had proven popular in their previous collaboration. However, this time Tilda wanted to take the branding much further. "We didn't just want our logo on the game," the marketing team explained. "We wanted the entire experience to feel authentically Tilda whilst being genuinely entertaining for festival-goers."
 
 ## The Bespoke Branding Solution
 
@@ -65,9 +65,9 @@ The logistics of moving this customised setup across four different cities also 
 
 ## Results and Future Community Engagement
 
-![](/userfiles/tilda-branded-roll-and-bowl.jpg)
+!
 
-The success of Tilda's [branded Roll and Bowl](/category/all-products/51/roll-and-bowl-game-hire/) activation exceeded all expectations. At each Mela event, the game became a focal point that drew families to the Tilda stand throughout the day. "The queues were constant," reported the events team. "Children would play, then bring their parents back to play again. It created exactly the kind of positive family associations we were hoping for."
+The success of Tilda's [branded Roll and Bowl](/products/roll-and-bowl-game-hire/) activation exceeded all expectations. At each Mela event, the game became a focal point that drew families to the Tilda stand throughout the day. "The queues were constant," reported the events team. "Children would play, then bring their parents back to play again. It created exactly the kind of positive family associations we were hoping for."
 
 The immediate impact was measurable through both engagement levels and subsequent business development. More community events have been booked since the initial successes at Cardiff and Glasgow, with Tilda expanding their Mela presence to include Leicester (extended to two days due to demand) and London. The company has recognised that experiential marketing through properly executed [brand activations](/promotion-event-games/) creates deeper connections than traditional advertising approaches.
 
@@ -79,7 +79,7 @@ Looking ahead, Tilda is planning to expand their community event calendar and ex
 
 ## FunPro UK Team Spotlight
 
-![](/userfiles/fun-pro-tilda-rice-brand-activation-game.jpg)
+!
 
 The success of Tilda's community engagement programme showcases the collaborative expertise of FunPro UK's specialist teams. The in-house print team played a crucial role in bringing Tilda's vision to life, working directly with the client's brand guidelines to ensure every design element maintained consistency whilst enhancing the gaming experience.
 
@@ -91,4 +91,10 @@ This project demonstrates FunPro UK's ability to combine creative customisation 
 
 If you're looking to connect with your audience through memorable branded experiences, FunPro UK's team of community engagement specialists can help you create entertainment solutions that draw crowds and build lasting positive associations with your brand.
 
-[Contact our friendly team](/contact-fun-pro-uk/) today to discuss how we can bring your brand to life through [interactive entertainment](/interactive-game-hire/).
+[Contact our friendly team](/contact-fun-pro-uk/) today to discuss how we can bring your brand to life through [interactive entertainment](/categories/interactive-game-hire/).
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

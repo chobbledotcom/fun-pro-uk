@@ -9,6 +9,7 @@ events: []
 featured: true
 features: []
 redirect_from:
+  - "/category/corporate-entertainment/44/giant-jenga-hire/"
   - "/category/fun-days/44/giant-jenga-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3"
@@ -58,15 +59,15 @@ Don't miss out on the fun – book our Giant Jenga Hire today and make your even
 
 **£240**\+ vat**
 
-Delivered [](/giant-jenga-hire/)and [](/giant-jenga-hire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
 PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
 
-(One [](/giant-jenga-hire/)time [](/giant-jenga-hire/)use [](/giant-jenga-hire/)only)
+(One time use only)
 
-\*Delivery [](/giant-jenga-hire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/giant-jenga-hire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

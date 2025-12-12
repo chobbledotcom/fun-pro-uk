@@ -9,7 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
-  - "/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/"
+  - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
@@ -67,15 +67,15 @@ Each hire includes a friendly operator to guide your guests through the features
 
 **£495**\+ vat**
 
-Delivered [](/green-screen-photo-booths/)and [](/green-screen-photo-booths/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/green-screen-photo-booths/)house [](/green-screen-photo-booths/)branding [](/green-screen-photo-booths/)available [](/green-screen-photo-booths/)Printed[,](/green-screen-photo-booths/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/green-screen-photo-booths/)time [](/green-screen-photo-booths/)use [](/green-screen-photo-booths/)only)
+(One time use only)
 
-\*Delivery [](/green-screen-photo-booths/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/green-screen-photo-booths/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -115,8 +115,8 @@ Lift required
 
 **Popular items:**
 
-*   [Red Carpet and Gold Railings](/31/red-carpet-and-4-gold-stanchions/)
-*   [Magic Mirror](/magic-mirror/)
+*   [Red Carpet and Gold Railings](/products/red-carpet-and-4-gold-stanchions/)
+*   [Magic Mirror](/products/magic-mirror/)
 
 ## Green Screen Photo Booth Hire
 
@@ -124,7 +124,7 @@ Green screen photo booth hire gives your guests the chance to create amazing, un
 
 ### A choice of photo booths
 
-![Green screen booths](/userfiles/file/FunPro/img-20180708-wa0037.jpg) Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/classic-photo-booths/), we can [brand the outside](/branded-exhibition-games/24/bespoke-photo-booth-hire/) too, creating a real draw at an exhibition or trade show
+!Green screen booths Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/), we can [brand the outside](/products/bespoke-photo-booth-hire/) too, creating a real draw at an exhibition or trade show
 
 ### A complete service
 

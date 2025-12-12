@@ -8,7 +8,7 @@ redirect_from:
 
 # Photo booth Hire London
 
-Searching for Photo Booth Hire in London? Then we can help you! Fun Pro UK is a reliable and reputable company with 12 years experience in bringing fun events to your door. Whether it is a private party, corporate event at the [excel](/excel-london/) or wedding, our professional and friendly team can cater for all your requirements.
+Searching for Photo Booth Hire in London? Then we can help you! Fun Pro UK is a reliable and reputable company with 12 years experience in bringing fun events to your door. Whether it is a private party, corporate event at the [excel](/locations/london/excel/) or wedding, our professional and friendly team can cater for all your requirements.
 
 Here at Photo Booth Hire London we specialise in hiring the best equipment for your event. Our green screen photo booths are second to none and are crammed full of the latest technology which provides a huge choice of backgrounds for the all important selfie.
 
@@ -26,3 +26,9 @@ Included in each Photo booth Hire is:
 *   Ability to brand/personalise photos
 
 To hire your photo booth for an event in London and the surrounding areas then you can either give us a call on: or email us at: [info@funprouk.co.uk](mailto:info@funprouk.co.uk). Our friendly team can't wait to make your event marvellous!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

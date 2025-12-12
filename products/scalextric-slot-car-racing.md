@@ -9,6 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
+  - "/category/all-products/88/scalextric-slot-car-racing/"
   - "/category/exhibition-games/88/scalextric-slot-car-racing/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3a9973cbf3a599b937762ce108d339de"
@@ -37,13 +38,13 @@ gallery:
 
 ## Best Scalextric Slot Car Racing Hire for Events in the UK!
 
-Want to attract more visitors to your exhibition stand? Our Scalextric slot car racing hire is the perfect addition and a great attraction to keep your guests engaged. Book this interactive game for your next [exhibition hire in London](/pages/conference-game-hire-london/), Leicester, Nottingham, Milton Keynes, Birmingham, Manchester, Coventry, and across the UK.
+Want to attract more visitors to your exhibition stand? Our Scalextric slot car racing hire is the perfect addition and a great attraction to keep your guests engaged. Book this interactive game for your next [exhibition hire in London](/locations/london/conference-game-hire/), Leicester, Nottingham, Milton Keynes, Birmingham, Manchester, Coventry, and across the UK.
 
 Offer the thrill of a high-speed racing game and your guests will never want to leave. Create a memorable experience that sets your stand apart from the rest. Your participants get to relive their childhood joys while competing and your brand gets to stay at the forefront of their minds.
 
 ## Why Choose Our Scalextric Slot Car Racing Hire Service?
 
-[Fun Pro](/pages/christmas-entertainment-game-hire'/) is the leading provider of high-quality [arcade game hires](/interactive-game-hire/retro-arcade-games/) in the UK. Our Scalextric slot cars are a completely immersive and nostalgic experience.
+[Fun Pro](/christmas-entertainment-game-hire/) is the leading provider of high-quality [arcade game hires](/products/retro-arcade-games/) in the UK. Our Scalextric slot cars are a completely immersive and nostalgic experience.
 
 The Scalextric tracks and cars provide exciting, competitive, and engaging gameplay for you and your guests. It’s one of our best games that keep your guests entertained for hours on end. Both racing enthusiasts and casual participants can enjoy this mini version of a high stakes racing track.
 
@@ -71,15 +72,15 @@ All packages include delivery, setup, and removal by our professional team.
 
 You can rest assured that the scalextric slot car racing hire and other equipment will arrive in top condition, and ready-for-use at your event.
 
-In-house [exhibition game branding service](/branded-exhibition-games/) is available. We will print, apply, and remove them after each event.
+In-house [exhibition game branding service](/categories/branded-exhibition-games/) is available. We will print, apply, and remove them after each event.
 
 (One time use only)
 
 Need a longer hire period?
 
-[Contact us](/pages/contact-fun-pro-uk/) for custom pricing and availability.
+[Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
 
-[**Email:**](/all-products/88/scalextric-slot-car-racing/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -121,10 +122,10 @@ Lift required 1300mm deep
 
 ### **Popular Items:**
 
-*   [Leaded Board](/interactive-game-hire/30/leader-board/)
-*   [Lights Out](/interactive-game-hire/lights-out-game/)
-*   [Gold Cup Horse racing](/interactive-game-hire/29/gold-cup-horse-racing/)
-*   [Crack the Code](/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/)
+*   [Lights Out](/products/lights-out-game-2/)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/)
 
 ## Hire Scalextric Slot Cars for your next event!
 
@@ -136,13 +137,13 @@ Corporate events
 
 Exhibitions
 
-[Family fun days](/fun-days/)
+[Family fun days](/categories/fun-days/)
 
 Brand activations
 
 Conferences and trade shows
 
-[Fundraisers](/pages/fundraising-event-ideas/)
+[Fundraisers](/fundraising-event-ideas/)
 
 ... and more!
 
@@ -172,7 +173,7 @@ After the event, we’ll return to dismantle and collect the Scalextric slot car
 
 ## Ready to take your corporate event to the next level?
 
-Don't miss out on the opportunity to upgrade your event with our Scalextric slot car racing hire service. [Contact us today](/pages/contact-fun-pro-uk/) to book our equipment for your next event in Birmingham, Leicester, London, or any other location in the UK!
+Don't miss out on the opportunity to upgrade your event with our Scalextric slot car racing hire service. [Contact us today](/contact-fun-pro-uk/) to book our equipment for your next event in Birmingham, Leicester, London, or any other location in the UK!
 
 ## Frequently Asked Questions
 
@@ -182,7 +183,7 @@ The space you need for a Scalextric slot car racing setup depends on the size of
 
 ### Can the track or cars be customised for my event or stand?
 
-Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/corporate-entertainment/), we can customise the game rental with your company colours and logos.
+Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/categories/corporate-entertainment/), we can customise the game rental with your company colours and logos.
 
 Whether you’re hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event.
 
@@ -204,10 +205,16 @@ We recommend booking the Scalextric slot car racing setup well in advance, espec
 
 **Branding Prices from:**
 
-In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fid=75/)branding [](/admin/products-edit.aspx%3Fid=75/)available [](/admin/products-edit.aspx%3Fid=75/)Printed[,](/admin/products-edit.aspx%3Fid=75/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/admin/products-edit.aspx%3Fid=75/)time [](/admin/products-edit.aspx%3Fid=75/)use [](/admin/products-edit.aspx%3Fid=75/)only)
+(One time use only)
 
 **Branded Skirt - Crash Barriers**
 
 **£495**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

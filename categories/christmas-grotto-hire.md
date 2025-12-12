@@ -14,12 +14,12 @@ eleventyNavigation:
 Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
 
 **Christmas grotto hire  
-**From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming [Christmas grotto](/christmas-grotto-hire/) will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
+**From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming Christmas grotto will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.
 
 **Classic Christmas snaps  
-**No staff Christmas party is complete without the snap happy fun of a [photo booth](/photo-booths-and-magic-mirrors/). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
+**No staff Christmas party is complete without the snap happy fun of a [photo booth](/categories/photo-booths-and-magic-mirrors/). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
 
 Combine photo booth hire with Christmas grotto hire and you can get some very special shots with Santa himself &ndash' perfect for Christmas cards and festive emails to family and friends.
 
@@ -65,3 +65,9 @@ At Fun Pro UK, we love the festive season, and our elves have got lots of great 
 *   Mob: 07769 979676
 *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 *   Contact form
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [25 March 22 - Happy 40th to the Boss!!](/happy-40th-to-the-boss/)
+# 25 March 22 - Happy 40th to the Boss!!
 
 Happy 40th to the Boss!!
 
@@ -23,7 +23,7 @@ The Fun Pro Team jumped into action thinking what we had available at such short
 
 Our team didn't take long before they came up with the ultimate fantastic game,... Bully!
 
-Bully as he is lovingly known is Fun Pro's friendly [rodeo bull](/category/fun-days/46/rodeo-bull/). He loves to come out for parties and events, as long as he has been fed and watered by the team he will perform for the crowd with his twists and turns ensuring not many people stay on his back for long!
+Bully as he is lovingly known is Fun Pro's friendly [rodeo bull](/products/rodeo-bull/). He loves to come out for parties and events, as long as he has been fed and watered by the team he will perform for the crowd with his twists and turns ensuring not many people stay on his back for long!
 
 When we came up with the idea for the party our clients were in awe as they were struggling to think of a special game they could hire for their do!
 
@@ -37,4 +37,12 @@ Each staff member had a go at keeping Bully under control, it was a great birthd
 
 Happy 40th Birthday from the Fun Pro Team!!
 
-![](/userfiles/file/FunPro/20220324-125141.jpg)
+!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

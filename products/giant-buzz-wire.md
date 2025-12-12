@@ -9,7 +9,7 @@ events: ["events/conference-idea.md"]
 featured: true
 features: []
 redirect_from:
-  - "/category/interactive-game-hire/giant-buzz-wire/"
+  - "/category/interactive-game-hire/9/giant-buzz-wire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b2d52254f3bc09f9f47b72fd57f8a05"
@@ -62,15 +62,15 @@ Don't miss out on the opportunity to elevate your event with our engaging GIANT 
 
 **£1195**\+ vat**
 
-Delivered [](/giant-buzz-wire/)and [](/giant-buzz-wire/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/giant-buzz-wire/)house [](/giant-buzz-wire/)branding [](/giant-buzz-wire/)available [](/giant-buzz-wire/)Printed[,](/giant-buzz-wire/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/giant-buzz-wire/)time [](/giant-buzz-wire/)use [](/giant-buzz-wire/)only)
+(One time use only)
 
-\*Delivery [](/giant-buzz-wire/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/giant-buzz-wire/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -110,10 +110,10 @@ Lift required
 
 Popular items:
 
-*   [Batak Pro](/batak/batak-pro/)
-*   [Pluck a Duck Racing](/pluck-a-duck-racing/)
-*   [Top Doc](/top-doc-operation-game/)
-*   [Grab Grand](/3/grab-a-grand/)
+*   [Batak Pro](/products/batak-pro/)
+*   [Pluck a Duck Racing](/products/pluck-a-duck-racing/)
+*   [Top Doc](/products/top-doc-operation-game/)
+*   [Grab Grand](/products/grab-a-grand/)
 
 ## **UK-Wide Mega Buzz Wire Hire**
 
@@ -173,4 +173,4 @@ West Midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamingt
 
 ## **Your own company carnival**
 
-You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/photo-booths/ultimate-green-screen-photo-booth/), a twist on the classic [pluck a duck](/pluck-a-duck-racing/) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
+You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/ultimate-green-screen-photo-booth/), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.

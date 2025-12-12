@@ -35,19 +35,19 @@ gallery:
 
 **£**295**
 
-[![](/userfiles/file/FunPro/Images/branding-prices.png)](/corn-hole/#:~:text=but%20staff%20available\)-,Branding%20prices,-Front%20panel%20branding)
+![](corn-hole.html#:~:text=but%20staff%20available\)-,Branding%20prices,-Front%20panel%20branding)
 
-Delivered [](/corn-hole/)and [](/corn-hole/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/corn-hole/)house [](/corn-hole/)branding [](/corn-hole/)available [](/corn-hole/)Printed[,](/corn-hole/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/corn-hole/)time [](/corn-hole/)use [](/corn-hole/)only)
+(One time use only)
 
-\*Delivery [](/corn-hole/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/corn-hole/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
-**![](/userfiles/fun-pro-corn-hole-hire.jpg)**
+**!**
 
 Looking for a crowd-pleasing game that combines skill, friendly competition and entertainment for your next event? Our premium Corn Hole hire brings the popular American lawn game to your UK event with professional quality boards, custom branding options, and everything you need for instant entertainment.
 
@@ -210,3 +210,9 @@ In-house branding available. We print, apply, and remove them after each event.
 **Front panel branding Per unit**
 
 **£110**\+ vat**
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

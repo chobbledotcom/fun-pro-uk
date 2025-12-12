@@ -32,11 +32,11 @@ It's time to see who has eaten their Weetabix! Our Bungee Run is not for the fai
 
 **£395**\+ vat**
 
-Delivered [](/bungee-run/)and [](/bungee-run/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/bungee-run/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/bungee-run/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## LETS GET STARTED!
 

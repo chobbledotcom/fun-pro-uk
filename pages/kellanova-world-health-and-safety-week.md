@@ -7,7 +7,7 @@ layout: page
 
 # How Kellanova Brought Health and Safety to Life with Interactive Entertainment
 
-![](/userfiles/custom-branded-whack-a-mole.jpg)
+!
 
 ## Customer Profile
 
@@ -17,7 +17,7 @@ Kellanova is a multinational food company that focuses on cereals, snack product
 
 *   7-day equipment hire spanning World Health and Safety Week
     
-*   Custom-branded [Whack-a-Mole](/category/all-products/67/whack-a-mole-game-hire/) game, featuring iconic Kellanova characters (Tony the Tiger and Coco Pops monkey)
+*   Custom-branded [Whack-a-Mole](/products/whack-a-mole-game-hire/) game, featuring iconic Kellanova characters (Tony the Tiger and Coco Pops monkey)
     
 *   Repeat client demonstrating trust in [Fun Pro's service](/about-corporate-entertainment-hire/)
     
@@ -35,19 +35,19 @@ World Health and Safety Week presented a specific challenge for Kellanova's Manc
 
 The Manchester factory environment itself presented considerations. With shift patterns, production schedules, and the practical realities of a busy manufacturing facility, any solution needed to be accessible to workers throughout the week, easy to engage with during breaks, and robust enough to withstand consistent use. It also needed to align with Kellanova's brand identity whilst clearly communicating the safety theme.
 
-Having worked with Fun Pro previously, the client knew the team's capability for [customisation](/category/branded-exhibition-games/) and understood that interactive entertainment could provide the engaging element they were seeking. The challenge was finding the right balance between fun and serious messaging, creating an experience that would draw people in whilst reinforcing crucial safety protocols.
+Having worked with Fun Pro previously, the client knew the team's capability for [customisation](/categories/branded-exhibition-games/) and understood that interactive entertainment could provide the engaging element they were seeking. The challenge was finding the right balance between fun and serious messaging, creating an experience that would draw people in whilst reinforcing crucial safety protocols.
 
 ## Creating an Interactive Safety Experience
 
-![](/userfiles/fun-pro-whack-a-mole-game.jpg)
+!
 
 As told to Fun Pro by the Kellanova Manchester events team.
 
-The initial enquiry came through with a clear vision. Having seen Fun Pro's [Whack a Mole](/category/all-products/67/whack-a-mole-game-hire/) interactive speed reaction game on the website, complete with customisation examples, the Kellanova team knew this was the perfect fit for their World Health and Safety Week campaign. The game's format, with its two-player competitive element and quick reaction requirements, would naturally draw crowds and create talking points throughout the factory.
+The initial enquiry came through with a clear vision. Having seen Fun Pro's [Whack a Mole](/products/whack-a-mole-game-hire/) interactive speed reaction game on the website, complete with customisation examples, the Kellanova team knew this was the perfect fit for their World Health and Safety Week campaign. The game's format, with its two-player competitive element and quick reaction requirements, would naturally draw crowds and create talking points throughout the factory.
 
 What set this project apart was the branding opportunity. Rather than generic artwork, Kellanova wanted to incorporate their most recognisable brand ambassadors: Tony the Tiger and the Coco Pops monkey. These beloved characters, known to generations of consumers, would instantly connect the game to Kellanova's identity whilst adding a playful, approachable element to the serious topic of workplace safety.
 
-Fun Pro's in-house [branding](/category/branded-exhibition-games/) team took on the challenge of bringing these iconic characters to life on the game panels. The customisation process involved creating artwork that would work within the Whack a Mole format whilst maintaining the integrity of Kellanova's brand guidelines. Tony the Tiger appeared on one side of the game, his characteristic enthusiasm seeming to encourage players to test their reactions. On the opposite side, the Coco Pops monkey added his own playful energy to the setup.
+Fun Pro's in-house [branding](/categories/branded-exhibition-games/) team took on the challenge of bringing these iconic characters to life on the game panels. The customisation process involved creating artwork that would work within the Whack a Mole format whilst maintaining the integrity of Kellanova's brand guidelines. Tony the Tiger appeared on one side of the game, his characteristic enthusiasm seeming to encourage players to test their reactions. On the opposite side, the Coco Pops monkey added his own playful energy to the setup.
 
 The printing and application process required precision. Each panel needed to fit perfectly, with colours matching brand standards and the vinyl application smooth enough to withstand a full week of intensive use. Fun Pro's branding team printed the customised artwork and carefully applied it to all panels of the game, transforming a standard interactive entertainment piece into a branded experience that felt uniquely Kellanova.
 
@@ -55,7 +55,7 @@ The printing and application process required precision. Each panel needed to fi
 
 The timing of the event coincided with one of the North East's biggest sporting occasions: the Great North Run. This presented an interesting logistical challenge for both delivery and, particularly, collection of the equipment. Road closures across the region meant that careful planning was essential to ensure the game arrived on time for the start of Health and Safety Week and could be collected efficiently once the hire period ended.
 
-Fun Pro's team coordinated closely with Kellanova to work around the road closure schedule, planning delivery and collection times that would avoid the most affected routes. This kind of practical problem-solving is where Fun Pro's experience shows. Having worked on events [across the UK](/category/branded-exhibition-games/) for over 15 years, the team understands that external factors can't always be controlled, but they can be anticipated and managed.
+Fun Pro's team coordinated closely with Kellanova to work around the road closure schedule, planning delivery and collection times that would avoid the most affected routes. This kind of practical problem-solving is where Fun Pro's experience shows. Having worked on events [across the UK](/categories/branded-exhibition-games/) for over 15 years, the team understands that external factors can't always be controlled, but they can be anticipated and managed.
 
 The installation itself at the Manchester factory proved straightforward. The venue had been well-chosen by the Kellanova team, with adequate space for the game and good accessibility for employees across different shifts. Fun Pro's installation crew set up the equipment efficiently, ensuring everything was tested and ready before leaving the site.
 
@@ -85,7 +85,7 @@ This trust proved particularly valuable when discussing the custom branding requ
 
 Following the successful completion of World Health and Safety Week, the custom-branded Whack a Mole game was collected from the Manchester facility, with Fun Pro's team once again navigating the post-Great North Run logistics efficiently. The week-long hire had provided exactly what Kellanova sought: an engaging, memorable way to reinforce crucial safety messages whilst creating positive energy around the campaign.
 
-The progression from personal client to corporate partner positions Fun Pro as a trusted entertainment provider for Kellanova across different contexts. Having now worked together on both private celebrations and [corporate events](/corporate-entertainment/), there's a foundation for potential future collaborations. Whether for employee engagement events, [brand activations](/promotion-event-games/), or other corporate occasions, Kellanova knows they have a reliable partner in Fun Pro who understands their needs and can deliver creative solutions.
+The progression from personal client to corporate partner positions Fun Pro as a trusted entertainment provider for Kellanova across different contexts. Having now worked together on both private celebrations and [corporate events](/categories/corporate-entertainment/), there's a foundation for potential future collaborations. Whether for employee engagement events, [brand activations](/promotion-event-games/), or other corporate occasions, Kellanova knows they have a reliable partner in Fun Pro who understands their needs and can deliver creative solutions.
 
 For other multinational companies and manufacturing facilities looking to make compliance campaigns more engaging, Kellanova's approach offers a valuable model. Interactive entertainment, particularly when thoughtfully branded and integrated into the campaign message, can transform how employees experience and respond to important workplace initiatives. The combination of professional equipment, expert customisation, and reliable service creates outcomes that benefit both employee engagement and organisational culture.
 
@@ -101,6 +101,12 @@ Throughout the project, Fun Pro's coordination team maintained communication wit
 
 ## Ready to Make Your Corporate Campaign More Engaging?
 
-![](/userfiles/fun-pro-kellanova-whack-a-mole-game.jpg)
+!
 
 If you're planning a health and safety initiative, employee engagement event, or corporate campaign that needs to create genuine interaction and memorable experiences, [Fun Pro's team](/meet-the-team/) would be pleased to discuss how customised interactive entertainment could support your objectives. With over 15 years of experience working with corporate clients [nationwide](/delivery-areas/), we understand how to create solutions that work within manufacturing environments, office settings, and everything in between. [Contact](/contact-fun-pro-uk/) our friendly team to start planning your next event.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

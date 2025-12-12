@@ -68,15 +68,15 @@ Make your event memorable with the Crack The Code Safe Cracker for hire in Birmi
 
 **£1195**\+ vat**
 
-Delivered [](/crack-the-code-safe-cracker/)and [](/crack-the-code-safe-cracker/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-In[\-](/crack-the-code-safe-cracker/)house [](/crack-the-code-safe-cracker/)branding [](/crack-the-code-safe-cracker/)available [](/crack-the-code-safe-cracker/)Printed[,](/crack-the-code-safe-cracker/) applied & removed after each event
+In\-house branding available Printed, applied & removed after each event
 
-(One [](/crack-the-code-safe-cracker/)time [](/crack-the-code-safe-cracker/)use [](/crack-the-code-safe-cracker/)only)
+(One time use only)
 
-\*Delivery [](/crack-the-code-safe-cracker/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/crack-the-code-safe-cracker/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -9,9 +9,9 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [12 May 25 - How to Find The Best Games for Your College Or School Summer Party](/how-to-find-the-best-games-for-your-college-or-school-summer-party/)
+# 12 May 25 - How to Find The Best Games for Your College Or School Summer Party
 
-![](/userfiles/mega-wire-game.jpg)
+!
 
 With summer fast approaching, many schools and colleges are starting to think about different ways to mark the occasion, especially for those who are in their final year.  
   
@@ -75,23 +75,23 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 ### Outdoor game options:
 
-![](/userfiles/twin-axe-throwing.jpg)
+!
 
-*   [Inflatable obstacle courses](/category/fun-days/21/inflatable-assault-courses/#content) and [bouncy castles](/category/corporate-entertainment/23/large-bouncy-castles/)
+*   [Inflatable obstacle courses](/products/inflatable-assault-courses/#content) and [bouncy castles](/products/large-bouncy-castles/)
     
-*   [Twin Axe Throwing](/category/all-products/98/twin-axe-throwing/)
+*   [Twin Axe Throwing](/products/twin-axe-throwing/)
     
-*   [Mega Wire](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/)
+*   [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/)
     
 *   Sports day-style competitions
 
 ### Indoor alternatives:
 
-*   [Arcade Games](/category/arcade-games/lights-out-game/)
+*   [Arcade Games](/products/lights-out-game/)
     
-*   [Reaction Games](/Controls/category/batak/)
+*   Reaction Games
     
-*   Table-based challenges ([football tables](/category/interactive-game-hire/27/football-tables/) and [air hockey](/category/arcade-games/60/air-hockey-table-hire/))
+*   Table-based challenges ([football tables](/products/football-tables/) and [air hockey](/products/air-hockey-table-hire/))
 
 ## Top Game Hire for College and School Summer Party Success
 
@@ -115,17 +115,17 @@ Here are some of our post popular games hired by category:
 
 Digital natives respond brilliantly to technology-enhanced games:
 
-*   [Racing simulators](/category/interactive-game-hire/twin-racing-car-simulators/) that let pupils experience the thrill of motorsport
+*   [Racing simulators](/products/twin-racing-car-simulators/) that let pupils experience the thrill of motorsport
     
-*   [Dance machines](/category/exhibition-games/dance-machine/) that get everyone moving to popular tunes
+*   [Dance machines](/products/dance-machine/) that get everyone moving to popular tunes
     
-*   [Batak](/Controls/category/batak/) reaction games that test speed and coordination
+*   Batak reaction games that test speed and coordination
 
 These modern options are particularly effective for secondary school leavers' events, where pupils expect something more challenging and energetic than traditional party games.
 
 ### Classic Inflatables and Obstacle Courses
 
-![](/userfiles/inflatable-game.jpg)
+!
 
 Nothing says 'summer party' quite like bouncy castles and inflatable challenges:
 
@@ -133,7 +133,7 @@ Nothing says 'summer party' quite like bouncy castles and inflatable challenges:
     
 *   Inflatable obstacle courses for energetic competition
     
-*   [Bungee run](/category/fun-days/33/bungee-run/) challenges for older pupils
+*   [Bungee run](/products/bungee-run/) challenges for older pupils
 
 The visual impact of colourful inflatables instantly transforms any school field or sports hall into a festival atmosphere.
 
@@ -141,9 +141,9 @@ The visual impact of colourful inflatables instantly transforms any school field
 
 Time-tested fairground classics never go out of style:
 
-*   [Coconut shy](/category/fun-fair-stalls/96/coconut-shy-stall-hire/) challenges
+*   [Coconut shy](/products/coconut-shy-stall-hire/) challenges
     
-*   [Target ring toss](/category/fun-fair-stalls/95/target-ring-toss-hire/)
+*   [Target ring toss](/products/target-ring-toss-hire/)
 
 These games have the advantage of being familiar to teachers, parents, and pupils alike, making them easy to explain and quick to enjoy.
 
@@ -225,4 +225,12 @@ The end of the school year represents a significant milestone for pupils of all 
 
 Professional game hire removes the stress from event planning, ensuring high-quality equipment and proper safety measures. Whether you're organising a small key stage celebration or a whole-school extravaganza, investing in quality entertainment ensures pupils end their school year on a high note.
 
-Ready to start planning your school summer celebration? [Contact our friendly team](/pages/contact-fun-pro-uk/) at Fun Pro UK for expert advice on selecting the perfect games for your specific requirements. With nationwide delivery and years of experience in educational settings, we'll help make your school summer party truly unforgettable!
+Ready to start planning your school summer celebration? [Contact our friendly team](/contact-fun-pro-uk/) at Fun Pro UK for expert advice on selecting the perfect games for your specific requirements. With nationwide delivery and years of experience in educational settings, we'll help make your school summer party truly unforgettable!
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

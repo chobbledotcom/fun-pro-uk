@@ -9,7 +9,8 @@ events: []
 featured: true
 features: []
 redirect_from:
-  - "/category/fun-days/human-table-football/"
+  - "/category/corporate-entertainment/19/human-table-football/"
+  - "/category/fun-days/19/human-table-football/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26a96a43e055fa3c5964434e45ee6f6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c079558a850a256e04534eb2ba8af69"
@@ -47,11 +48,11 @@ Whether you're planning a corporate event, school function, or private party, ou
 
 **£495**\+ vat**
 
-Delivered [](/human-table-football/)and [](/human-table-football/)installed on site by our trained team
+Delivered and installed on site by our trained team
 
-\*Delivery [](/human-table-football/)Charges & Minimum order value may apply
+\*Delivery Charges & Minimum order value may apply
 
-[**Email:**](/human-table-football/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -91,14 +92,14 @@ Lift required
 
 **Popular items:**
 
-*   [Dash and Grab(Hungry Hippos](/32/dash-and-grab-hungry-hippo-inflatable-game/)
-*   [75ft Assault course](/21/inflatable-assault-courses/)
-*   [Total Wipeout](/total-wipe-out/)
-*   [Bungee run](/33/bungee-run/)
+*   [Dash and Grab(Hungry Hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/)
+*   [75ft Assault course](/products/inflatable-assault-courses/)
+*   [Total Wipeout](/products/total-wipe-out/)
+*   [Bungee run](/products/bungee-run/)
 
 ## **Nationwide Human Table Football Hire**
 
-Whether you're looking for company team building ideas, or searching for an original inflatable for a [company fun day](/fun-days/), you can't beat the crazy chaos of our human table football hire, available nationwide.
+Whether you're looking for company team building ideas, or searching for an original inflatable for a [company fun day](/categories/fun-days/), you can't beat the crazy chaos of our human table football hire, available nationwide.
 
 Human table football is just like the table top game, except instead of solid plastic players twirling round, you have real people, strapped to the poles, trying to get the ball into the goal.
 
@@ -118,4 +119,4 @@ Giant table football hire is great to watch too, with loads of room around the e
 
 You can set up your inflatable football game indoors, in a sports hall, or outside on any level playing surface, and you don't need any special equipment to play. We'll even include a ball to get the game going.
 
-If football is not your game, check out our other company fun day hires, including [adult sized bouncy castles](/corporate-entertainment/23/large-bouncy-castles/), [inflatable assault courses](/21/inflatable-assault-courses/) and [Wipeout style challenges](/total-wipe-out/). Talk to our friendly team today to discuss your requirements and you can leave the rest to us, including nationwide delivery, wherever you need it.
+If football is not your game, check out our other company fun day hires, including [adult sized bouncy castles](/products/large-bouncy-castles/), [inflatable assault courses](/products/inflatable-assault-courses/) and [Wipeout style challenges](/products/total-wipe-out/). Talk to our friendly team today to discuss your requirements and you can leave the rest to us, including nationwide delivery, wherever you need it.

@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [07 January 20 - Conference Entertainment - Keep your guests entertained this year!](/conference-entertainment-keep-your-guests-entertained-this-year/)
+# 07 January 20 - Conference Entertainment - Keep your guests entertained this year!
 
 ## Conference Entertainment
 
@@ -25,17 +25,17 @@ Well, let us help you change that! Fun Pro UK offer an amazing range of corporat
 
 Compact and highly portable
 
-![Lights out reaction game hire](/userfiles/file/FunPro/Stike%20a%20light/20190619-160019.jpg)Our strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
+!Lights out reaction game hireOur strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
 
 Being only 1.5m by 1m this game is perfect for all venues and can be set up almost anywhere from your break room, the side of the canteen or in the reception once your conference has started.
 
 Twin hoops for head to head fun
 
-Put your guests slam-dunk skills to the test with Fun Pro UK’s classic arcade style electronic [basketball game](/category/photo-booths/ultimate-green-screen-photo-booth/). Having two hoops allows challengers to play head to head to be crowned king or queen of the hoops! This self-contained game creates an instant, pop up court in any location in your venue, with the side netting and printed canvas ball catcher there to contain the fun.
+Put your guests slam-dunk skills to the test with Fun Pro UK’s classic arcade style electronic [basketball game](/products/ultimate-green-screen-photo-booth/). Having two hoops allows challengers to play head to head to be crowned king or queen of the hoops! This self-contained game creates an instant, pop up court in any location in your venue, with the side netting and printed canvas ball catcher there to contain the fun.
 
 The prize is up to you!
 
-Our [Grab A Grand machine](/category/interactive-game-hire/3/grab-a-grand/) is a definite favourite with all event attendees. Whether you fill it with tokens or actual cash, there is no better thrill than trying to grab and snatch as much as you can, while the clock ticks down. This is a huge crowd pleaser wherever you place it within your conference, with guests being drawn towards the fun!
+Our [Grab A Grand machine](/products/grab-a-grand/) is a definite favourite with all event attendees. Whether you fill it with tokens or actual cash, there is no better thrill than trying to grab and snatch as much as you can, while the clock ticks down. This is a huge crowd pleaser wherever you place it within your conference, with guests being drawn towards the fun!
 
 Build the competition
 
@@ -46,3 +46,11 @@ Inspired to bring entertainment into your next conference? Contact our expert te
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Tel: 02476 629 197
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

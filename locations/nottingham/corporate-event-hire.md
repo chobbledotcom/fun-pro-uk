@@ -12,7 +12,7 @@ redirect_from:
 
 Want to reward your hard-working staff? Or want to attract new customers to your business? How about adding an extra level of laughter to your company party?
 
-All you need is to contact the team at Fun Pro UK to help plan your next corporate event idea! Whether its [Race Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/) at your conference or a Photo Booth at your exhibition.
+All you need is to contact the team at Fun Pro UK to help plan your next corporate event idea! Whether its [Race Car Simulators](/products/twin-racing-car-simulators/) at your conference or a Photo Booth at your exhibition.
 
 ## **Happy guests at every event!**
 
@@ -38,7 +38,7 @@ It completely depends upon your audience. But it is crucial for communications, 
 
 Whatever type of event you are hosting, we have the entertainment which fits right in. For example, if you're planning a quirky corporate event, why not try out our range of inflatables or impress your guests with twin Race Car Simulators. (Pst these are also great for drawing in the crowds at an exhibition!)
 
-Or are you organising a sales conference? Why not entertain your delegates with our range of conference entertainment, including table football or table top games on a grand scale for instance [buzz wire](/category/interactive-game-hire/giant-buzz-wire/)!
+Or are you organising a sales conference? Why not entertain your delegates with our range of conference entertainment, including table football or table top games on a grand scale for instance [buzz wire](/products/giant-buzz-wire/)!
 
 Or are you planning a classier evening event? Have you considered our authentic casino equipment which comes with a professional croupier, to show your guests a good time!
 
@@ -60,4 +60,10 @@ Tel: +442477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](/userfiles/file/FunPro/contactus2.jpg)
+!
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

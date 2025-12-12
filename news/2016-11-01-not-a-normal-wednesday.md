@@ -9,7 +9,7 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [01 November 16 - Not a normal Wednesday!](/not-a-normal-wednesday/)
+# 01 November 16 - Not a normal Wednesday!
 
 ## Not a normal Wednesday!!
 
@@ -19,4 +19,12 @@ Perfect Snap are so excited as we will be attending the wedding of Sam and Will!
   
 This special couple will be getting married at Shustoke Farm Barns along with all of their marvellous family and friends who will be there to join in the celebrations.  
   
-Perfect Snap adores attending weddings! It is such a wonderful occasion . Our fabulous [Magic Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) will be there to make their evening one to be remembered with some spectacular selfies!  
+Perfect Snap adores attending weddings! It is such a wonderful occasion . Our fabulous [Magic Mirror](/products/magic-mirror/) will be there to make their evening one to be remembered with some spectacular selfies!  
+
+[<< Return to news](/news/elevate-your-brand/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

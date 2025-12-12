@@ -9,6 +9,8 @@ events: []
 featured: true
 features: []
 redirect_from:
+  - "/category/exhibition-games/3/cash-grabber-machine-hire/"
+  - "/category/grab-a-grand/3/cash-grabber-machine-hire/"
   - "/category/interactive-game-hire/3/cash-grabber-machine-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
@@ -79,7 +81,7 @@ In-house branding available Printed, applied & removed after each event
 
 \*Delivery Charges & Minimum order value may apply
 
-**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+442477220701)**
+**Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 
@@ -119,13 +121,13 @@ Lift required
 
 **Popular Items:**
 
-[Leaded Board](/30/leader-board/)
+[Leaded Board](/products/leader-board/)
 
 Lights Out
 
-[Gold Cup Horse racing](/29/gold-cup-horse-racing/)
+[Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 
-[Crack the Code](/crack-the-code-safe-cracker/)
+[Crack the Code](/products/crack-the-code-safe-cracker/)
 
 **Grab A Grand Hire For Corporate Events:**
 
@@ -183,7 +185,7 @@ We suggest that you add some extra fun to this game, such as a name draw for who
 
 ### **Endless options**
 
-We've got so many options when it comes to [interactive game hire](/interactive-game-hire/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
+We've got so many options when it comes to [interactive game hire](/categories/interactive-game-hire/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
 
 **Branding Prices from:**
 

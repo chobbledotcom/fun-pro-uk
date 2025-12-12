@@ -7,9 +7,9 @@ layout: page
 
 # How Lidl UK Created Engaging In-Store Customer Experiences Across Multiple Promotional Campaigns
 
-![](/userfiles/fun-pro-mobile-prize-wheel.jpg)
+!
 
-Learn how Lidl UK successfully engaged thousands of customers across multiple UK stores by utilising Fun Pro's mobile [prize wheel](/prize-wheel/) solution, creating memorable promotional experiences that drove customer participation whilst capturing valuable marketing content for their advertising campaigns.
+Learn how Lidl UK successfully engaged thousands of customers across multiple UK stores by utilising Fun Pro's mobile [prize wheel](/products/prize-wheel/) solution, creating memorable promotional experiences that drove customer participation whilst capturing valuable marketing content for their advertising campaigns.
 
 ## Customer Profile
 
@@ -47,7 +47,7 @@ The challenge was finding solutions that could work effectively across their div
 
 ## The Challenge: Creating Flexible, Engaging In-Store Experiences
 
-![](/userfiles/fun-pro-lidl-bakery-super-spin.jpg)
+!
 
 As told to Fun Pro by the Store Operations Team at Lidl UK.
 
@@ -65,19 +65,19 @@ As told to Fun Pro by the Store Operations Team at Lidl UK.
 
 ## The Solution: Mobile Prize Wheel with Custom Branding
 
-![](/userfiles/fun-pro-mobile-prize-wheel-at-lidl-uk.jpg)
+!
 
 As told to Fun Pro by the Store Operations Team at Lidl UK.
 
 "When we discovered Fun Pro's mobile prize wheel solution, we immediately saw the potential. The key differentiator was the mobility aspect. Unlike fixed installations, this prize wheel could be positioned wherever it would work most effectively in each store.
 
-"The [custom branding](/category/branded-exhibition-games/) capability meant we could adapt the wheel for different promotional campaigns. We've used it for bakery promotions, fruit campaigns, and wine selections. Each time, Fun Pro creates bespoke branding that perfectly matches our promotional materials and store environment.
+"The [custom branding](/categories/branded-exhibition-games/) capability meant we could adapt the wheel for different promotional campaigns. We've used it for bakery promotions, fruit campaigns, and wine selections. Each time, Fun Pro creates bespoke branding that perfectly matches our promotional materials and store environment.
 
 "The setup process is refreshingly straightforward. Fun Pro handles everything from [delivery](/delivery-areas/) through to collection, which takes a significant administrative burden off our store teams. They understand retail environments and work efficiently to minimise disruption whilst maximising impact.
 
 "What really impressed us was Fun Pro's understanding of our requirements. They didn't just provide equipment; they provided a solution that addressed our specific challenges. The mobile base means we can position the wheel where customer flow is strongest, and we can move it during the day if needed to optimise engagement.
 
-"The visual impact is considerable. The [branded prize wheel](/prize-wheel/) creates an immediate focal point that draws customers' attention and generates curiosity. People naturally want to know what they might win, and that initial interest creates the perfect opportunity to discuss our promotional products.
+"The visual impact is considerable. The [branded prize wheel](/products/prize-wheel/) creates an immediate focal point that draws customers' attention and generates curiosity. People naturally want to know what they might win, and that initial interest creates the perfect opportunity to discuss our promotional products.
 
 "From a filming perspective, the prize wheel creates natural, authentic moments of customer engagement. People's reactions when they spin the wheel and discover their prize are genuine and enthusiastic, which translates beautifully into our advertising content.
 
@@ -99,7 +99,7 @@ Plans are already underway for future campaigns utilising the mobile prize wheel
 
 ## The FunPro Team
 
-The success of the Lidl UK partnership reflects Fun Pro's commitment to understanding retail environments and delivering solutions that work in practice, not just in theory. Our corporate events team brought together specialists in [branded game hire](/category/branded-exhibition-games/), retail promotions, and customer engagement to create a solution tailored specifically to Lidl UK's requirements.
+The success of the Lidl UK partnership reflects Fun Pro's commitment to understanding retail environments and delivering solutions that work in practice, not just in theory. Our corporate events team brought together specialists in [branded game hire](/categories/branded-exhibition-games/), retail promotions, and customer engagement to create a solution tailored specifically to Lidl UK's requirements.
 
 Our design team worked closely with Lidl UK's marketing department to ensure the custom branding perfectly aligned with each promotional campaign, maintaining brand consistency whilst creating visual impact. The logistics team developed [efficient delivery](/delivery-areas/) and collection processes that minimise disruption to store operations whilst ensuring everything runs smoothly.
 
@@ -108,3 +108,9 @@ Throughout the partnership, our [customer service team](/contact-fun-pro-uk/) ha
 ## Ready to Engage Your Customers Like Lidl UK?
 
 If you're a retailer or established brand looking to create memorable customer experiences that drive engagement and generate valuable marketing content, let's discuss how Fun Pro's interactive solutions can work for your business. [Contact](/contact-fun-pro-uk/) our friendly team to explore the possibilities.
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

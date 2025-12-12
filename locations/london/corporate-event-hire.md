@@ -8,7 +8,7 @@ redirect_from:
 
 # Corporate Event Hire London: Interactive Games & Entertainment
 
-Planning a corporate event in London comes with its own set of challenges – from navigating venue restrictions to ensuring your entertainment reflects your company's professional standards. At Fun Pro, we understand these pressures and provide [corporate event hire](/corporate-entertainment/) services that take the stress out of planning whilst creating genuinely memorable experiences for your colleagues, clients, or partners.
+Planning a corporate event in London comes with its own set of challenges – from navigating venue restrictions to ensuring your entertainment reflects your company's professional standards. At Fun Pro, we understand these pressures and provide [corporate event hire](/categories/corporate-entertainment/) services that take the stress out of planning whilst creating genuinely memorable experiences for your colleagues, clients, or partners.
 
 As corporate event specialists with over 15 years of experience, we've helped companies across London – from intimate boardroom celebrations to large-scale conferences – create events that people will be talking about long after they've returned to their desks.
 
@@ -22,7 +22,7 @@ When you're hosting an event in London's competitive business environment, the q
 
 ### Breaking Down Workplace Barriers
 
-[Corporate events](/corporate-entertainment/) serve a purpose beyond just celebration – they're opportunities to strengthen relationships, improve team dynamics, and create shared experiences. [Interactive games](/interactive-game-hire/) naturally break down the formal barriers that exist in workplace settings, giving colleagues a chance to see each other in a completely different light. We've seen reserved finance directors become competitive [racing game](/category/interactive-game-hire/twin-racing-car-simulators/) champions and quiet team members emerge as natural leaders during team challenges.
+[Corporate events](/categories/corporate-entertainment/) serve a purpose beyond just celebration – they're opportunities to strengthen relationships, improve team dynamics, and create shared experiences. [Interactive games](/categories/interactive-game-hire/) naturally break down the formal barriers that exist in workplace settings, giving colleagues a chance to see each other in a completely different light. We've seen reserved finance directors become competitive [racing game](/products/twin-racing-car-simulators/) champions and quiet team members emerge as natural leaders during team challenges.
 
 ### Navigating London's Venue Challenges
 
@@ -36,9 +36,9 @@ Corporate event entertainment isn't just about having fun – it's an investment
 
 ### Conference and Exhibition Entertainment
 
-London hosts thousands of [conferences](/conference-idea/) and [exhibitions](/exhibition-games/) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
+London hosts thousands of [conferences](/events/conference-idea/) and [exhibitions](/categories/exhibition-games/) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
 
-We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/category/branded-exhibition-games/) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotion-event-games/).
+We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/categories/branded-exhibition-games/) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotion-event-games/).
 
 ### Team Building and Away Days
 
@@ -50,7 +50,7 @@ Whether you're planning an indoor event at a London hotel or an outdoor activity
 
 London's corporate social calendar is packed with Christmas parties, award ceremonies, and milestone celebrations. The challenge is creating an atmosphere that feels special and memorable whilst remaining appropriate for a professional audience.
 
-Our entertainment options range from elegant [photo booth](/category/branded-exhibition-games/24/bespoke-photo-booth-hire/) experiences that capture the evening's highlights to interactive games that encourage mixing between different departments or office locations. We understand the balance between maintaining professional standards and creating genuinely enjoyable experiences.
+Our entertainment options range from elegant [photo booth](/products/bespoke-photo-booth-hire/) experiences that capture the evening's highlights to interactive games that encourage mixing between different departments or office locations. We understand the balance between maintaining professional standards and creating genuinely enjoyable experiences.
 
 ### Client Entertainment and Hospitality
 
@@ -68,7 +68,7 @@ We also consider practical factors like your venue's access restrictions, setup 
 
 ### Venue Assessment and Logistics
 
-[London venues](/excel-london/) each have their own personality and requirements. We assess your chosen location to confirm space requirements, access arrangements, and any special considerations that might affect setup or operation. This includes understanding [delivery](/delivery-areas/) restrictions, lift access, and timing constraints that are common in central London.
+[London venues](/locations/london/excel/) each have their own personality and requirements. We assess your chosen location to confirm space requirements, access arrangements, and any special considerations that might affect setup or operation. This includes understanding [delivery](/delivery-areas/) restrictions, lift access, and timing constraints that are common in central London.
 
 ### Professional Delivery and Setup
 
@@ -88,11 +88,11 @@ We work with venues across all London boroughs and have experience with the capi
 
 ### Interactive Reaction Games and Simulators
 
-Our high-tech [Batak Lite](/category/all-products/batak-lite/) and [Batak Pro](/category/batak/batak-pro/) reaction games and racing simulators create natural gathering points at corporate events. These attractions work particularly well for brand activation, as they draw crowds and create excitement whilst allowing for branding opportunities. The competitive element encourages participation whilst the technology appeal attracts delegates at conferences and exhibitions.
+Our high-tech [Batak Lite](/products/batak-lite/) and [Batak Pro](/products/batak-pro/) reaction games and racing simulators create natural gathering points at corporate events. These attractions work particularly well for brand activation, as they draw crowds and create excitement whilst allowing for branding opportunities. The competitive element encourages participation whilst the technology appeal attracts delegates at conferences and exhibitions.
 
 ### Professional Photo Booth and Magic Mirror Experiences
 
-[Photo booths](/category/photo-booths-and-magic-mirrors/classic-photo-booths/) serve multiple purposes at corporate events – they create lasting memories, encourage networking as people group together for photos, and can be [customised](/category/branded-exhibition-games/) with company branding or event themes. Our [magic mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/) technology adds an interactive element that appeals to all age groups whilst maintaining the professional quality your event requires.
+[Photo booths](/products/classic-photo-booths/) serve multiple purposes at corporate events – they create lasting memories, encourage networking as people group together for photos, and can be [customised](/categories/branded-exhibition-games/) with company branding or event themes. Our [magic mirror](/products/magic-mirror/) technology adds an interactive element that appeals to all age groups whilst maintaining the professional quality your event requires.
 
 ### Team Challenge Activities and Competitions
 
@@ -106,7 +106,7 @@ Many of our games can be customised with your company branding, turning entertai
 
 ### Choosing Games for Your Audience
 
-Corporate audiences are wonderfully diverse, and successful [event entertainment](/corporate-entertainment/) needs to work for everyone attending. We consider factors like age range, physical abilities, personality types, and professional relationships when recommending entertainment options.
+Corporate audiences are wonderfully diverse, and successful [event entertainment](/categories/corporate-entertainment/) needs to work for everyone attending. We consider factors like age range, physical abilities, personality types, and professional relationships when recommending entertainment options.
 
 Some colleagues thrive on competitive challenges, whilst others prefer collaborative or observational activities. The key is providing a range of options that allow everyone to participate at their comfort level whilst still creating opportunities for interaction and relationship building.
 
@@ -116,7 +116,7 @@ Competition can be a powerful motivator, but it needs to be handled thoughtfully
 
 ### Professional vs Casual Event Atmosphere
 
-The formality level of your event affects entertainment choices significantly. A client hospitality event requires different considerations than an internal [team building](/news/2024-12-05/the-best-ideas-for-team-bonding-activities-in-the-workplace/) day. We help you select activities that match your event's tone whilst still achieving your engagement objectives.
+The formality level of your event affects entertainment choices significantly. A client hospitality event requires different considerations than an internal [team building](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/) day. We help you select activities that match your event's tone whilst still achieving your engagement objectives.
 
 ### Venue and Space Requirements
 
@@ -154,7 +154,7 @@ All our equipment meets professional safety standards and is regularly tested an
 
 ### Comprehensive Service Approach
 
-We handle every aspect of your [entertainment hire](/corporate-entertainment/), from initial consultation through to post-event collection. This comprehensive approach means fewer suppliers to coordinate, clearer communication, and single-point accountability for your entertainment success.
+We handle every aspect of your [entertainment hire](/categories/corporate-entertainment/), from initial consultation through to post-event collection. This comprehensive approach means fewer suppliers to coordinate, clearer communication, and single-point accountability for your entertainment success.
 
 ### Understanding Corporate Objectives
 
@@ -164,13 +164,13 @@ Our central location allows us to serve London efficiently whilst our [nationwid
 
 ## Ready to start planning your London corporate event entertainment?
 
-Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](/contact-fun-pro-uk/) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/corporate-entertainment/) truly memorable.
+Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](/contact-fun-pro-uk/) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/categories/corporate-entertainment/) truly memorable.
 
 ## Frequently Asked Questions
 
 ### How far in advance should I book corporate event entertainment in London?
 
-For London events, we recommend booking 4-6 weeks in advance, particularly for popular dates like December when companies start planning [Christmas parties](/news/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/) or during peak conference seasons. This ensures availability and allows proper time for venue coordination and any customisation requirements. However, we often accommodate shorter notice bookings depending on availability.
+For London events, we recommend booking 4-6 weeks in advance, particularly for popular dates like December when companies start planning [Christmas parties](/news/how-to-choose-the-right-entertainment-for-your-company-christmas-party/) or during peak conference seasons. This ensures availability and allows proper time for venue coordination and any customisation requirements. However, we often accommodate shorter notice bookings depending on availability.
 
 ### What insurance and safety certifications do you provide for corporate events?
 
@@ -200,174 +200,180 @@ We understand London's access challenges and coordinate closely with venue manag
 
 Absolutely – this is where our 15+ years of corporate event experience proves invaluable. We consider factors like your audience mix, event objectives, venue constraints, and company culture when making recommendations. We're happy to [discuss different options](/contact-fun-pro-uk/) and explain why certain activities work well for specific situations.
 
-[Catch it Reaction Ring Hire](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
+[Catch it Reaction Ring Hire](/products/catch-it-reaction-ring-hire/)
 
-[More Details](/category/exhibition-games/94/catch-it-reaction-ring-hire/)
+[More Details](/products/catch-it-reaction-ring-hire/)
 
-[Gold Bar Challenge](/category/exhibition-games/107/gold-bar-challenge/)
+[Gold Bar Challenge](/products/gold-bar-challenge/)
 
-[More Details](/category/exhibition-games/107/gold-bar-challenge/)
+[More Details](/products/gold-bar-challenge/)
 
-[Roller Bowler](/category/arcade-games/111/roller-bowler/)
+[Roller Bowler](/products/roller-bowler/)
 
-[More Details](/category/arcade-games/111/roller-bowler/)
+[More Details](/products/roller-bowler/)
 
-[Electronic Dart Board](/category/arcade-games/106/electronic-dart-board/)
+[Electronic Dart Board](/products/electronic-dart-board/)
 
-[More Details](/category/arcade-games/106/electronic-dart-board/)
+[More Details](/products/electronic-dart-board/)
 
-[8 Lane Roll & Bowl Donkey Derby](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
+[8 Lane Roll & Bowl Donkey Derby](/products/8-lane-roll-and-bowl-donkey-derby/)
 
-[More Details](/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/)
+[More Details](/products/8-lane-roll-and-bowl-donkey-derby/)
 
-[Candy Floss Cart Hire](/category/fun-foods/92/candy-floss-cart-hire/)
+[Candy Floss Cart Hire](/products/candy-floss-cart-hire/)
 
-[More Details](/category/fun-foods/92/candy-floss-cart-hire/)
+[More Details](/products/candy-floss-cart-hire/)
 
-[Corn Hole](/category/exhibition-games/99/corn-hole/)
+[Corn Hole](/products/corn-hole/)
 
-[More Details](/category/exhibition-games/99/corn-hole/)
+[More Details](/products/corn-hole/)
 
-[Whack A Mole game hire](/category/all-products/67/whack-a-mole-game-hire/)
+[Whack A Mole game hire](/products/whack-a-mole-game-hire/)
 
-[More Details](/category/all-products/67/whack-a-mole-game-hire/)
+[More Details](/products/whack-a-mole-game-hire/)
 
-[Batak Lite](/category/all-products/batak-lite/)
+[Batak Lite](/products/batak-lite/)
 
-[More Details](/category/all-products/batak-lite/)
+[More Details](/products/batak-lite/)
 
-[Scalextric Slot Car Racing](/category/all-products/88/scalextric-slot-car-racing/)
+[Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
 
-[More Details](/category/all-products/88/scalextric-slot-car-racing/)
+[More Details](/products/scalextric-slot-car-racing/)
 
-[Snatch It](/category/exhibition-games/82/snatch-it/)
+[Snatch It](/products/snatch-it/)
 
-[More Details](/category/exhibition-games/82/snatch-it/)
+[More Details](/products/snatch-it/)
 
-[Danger-zone-strike-a-light-game-hire](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
+[Danger-zone-strike-a-light-game-hire](/products/danger-zone-strike-a-light-game-hire/)
 
-[More Details](/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/)
+[More Details](/products/danger-zone-strike-a-light-game-hire/)
 
-[Mega Wire - Branded Game Hire (stand alone)](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/)
+[Mega Wire - Branded Game Hire (stand alone)](/products/mega-wire-branded-game-hire-stand-alone/)
 
-[More Details](/category/all-products/64/mega-wire-branded-game-hire-stand-alone/)
+[More Details](/products/mega-wire-branded-game-hire-stand-alone/)
 
-[Ballnado Grabber](/category/grab-a-grand/36/ballnado-grabber/)
+[Ballnado Grabber](/products/ballnado-grabber/)
 
-[More Details](/category/grab-a-grand/36/ballnado-grabber/)
+[More Details](/products/ballnado-grabber/)
 
-[The Vault](/category/interactive-game-hire/50/the-vault/)
+[The Vault](/products/the-vault/)
 
-[More Details](/category/interactive-game-hire/50/the-vault/)
+[More Details](/products/the-vault/)
 
-[Crack The Code safe cracker](/crack-the-code-safe-cracker/)
+[Crack The Code safe cracker](/products/crack-the-code-safe-cracker/)
 
-[More Details](/crack-the-code-safe-cracker/)
+[More Details](/products/crack-the-code-safe-cracker/)
 
-[Prize Crane Arcade Grabber](/prize-crane-arcade-grabber/)
+[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/)
 
-[More Details](/prize-crane-arcade-grabber/)
+[More Details](/products/prize-crane-arcade-grabber/)
 
-[Batak Pro](/category/batak/batak-pro/)
+[Batak Pro](/products/batak-pro/)
 
-[More Details](/category/batak/batak-pro/)
+[More Details](/products/batak-pro/)
 
-[Prize Wheel](/prize-wheel/)
+[Prize Wheel](/products/prize-wheel/)
 
-[More Details](/prize-wheel/)
+[More Details](/products/prize-wheel/)
 
-[Roll & Bowl Donkey Derby](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
+[Roll & Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/)
 
-[More Details](/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/)
+[More Details](/products/roll-and-bowl-donkey-derby/)
 
-[Plinko Game Hire](/category/all-products/68/plinko-game-hire/)
+[Plinko Game Hire](/products/plinko-game-hire/)
 
-[More Details](/category/all-products/68/plinko-game-hire/)
+[More Details](/products/plinko-game-hire/)
 
-[Virtual Pinball](/category/arcade-games/77/virtual-pinball/)
+[Virtual Pinball](/products/virtual-pinball/)
 
-[More Details](/category/arcade-games/77/virtual-pinball/)
+[More Details](/products/virtual-pinball/)
 
-[LEADER BOARD](/category/interactive-game-hire/30/leader-board/)
+[LEADER BOARD](/products/leader-board/)
 
-[More Details](/category/interactive-game-hire/30/leader-board/)
+[More Details](/products/leader-board/)
 
-[GIANT BUZZ WIRE](/category/interactive-game-hire/giant-buzz-wire/)
+[GIANT BUZZ WIRE](/products/giant-buzz-wire/)
 
-[More Details](/category/interactive-game-hire/giant-buzz-wire/)
+[More Details](/products/giant-buzz-wire/)
 
-[CASH GRABBER MACHINE HIRE](/category/interactive-game-hire/3/grab-a-grand/)
+[CASH GRABBER MACHINE HIRE](/products/grab-a-grand/)
 
-[More Details](/category/interactive-game-hire/3/grab-a-grand/)
+[More Details](/products/grab-a-grand/)
 
-[High Striker](/category/arcade-games/48/high-striker/)
+[High Striker](/products/high-striker/)
 
-[More Details](/category/arcade-games/48/high-striker/)
+[More Details](/products/high-striker/)
 
-[Pix N Mix Hire](/category/exhibition-games/42/pix-n-mix-hire/)
+[Pix N Mix Hire](/products/pix-n-mix-hire/)
 
-[More Details](/category/exhibition-games/42/pix-n-mix-hire/)
+[More Details](/products/pix-n-mix-hire/)
 
-[Racing Car Simulators](/category/interactive-game-hire/twin-racing-car-simulators/)
+[Racing Car Simulators](/products/twin-racing-car-simulators/)
 
-[More Details](/category/interactive-game-hire/twin-racing-car-simulators/)
+[More Details](/products/twin-racing-car-simulators/)
 
-[VR Race Car Simulator](/category/corporate-entertainment/38/vr-race-car-simulator/)
+[VR Race Car Simulator](/products/vr-race-car-simulator/)
 
-[More Details](/category/corporate-entertainment/38/vr-race-car-simulator/)
+[More Details](/products/vr-race-car-simulator/)
 
-[Roll And Bowl Game Hire](/category/all-products/51/roll-and-bowl-game-hire/)
+[Roll And Bowl Game Hire](/products/roll-and-bowl-game-hire/)
 
-[More Details](/category/all-products/51/roll-and-bowl-game-hire/)
+[More Details](/products/roll-and-bowl-game-hire/)
 
-[RETRO ARCADE GAMES](/category/interactive-game-hire/retro-arcade-games/)
+[RETRO ARCADE GAMES](/products/retro-arcade-games/)
 
-[More Details](/category/interactive-game-hire/retro-arcade-games/)
+[More Details](/products/retro-arcade-games/)
 
-[Beat The Buzzer](/category/interactive-game-hire/62/beat-the-buzzer/)
+[Beat The Buzzer](/products/beat-the-buzzer/)
 
-[More Details](/category/interactive-game-hire/62/beat-the-buzzer/)
+[More Details](/products/beat-the-buzzer/)
 
-[Dance Machine](/category/exhibition-games/dance-machine/)
+[Dance Machine](/products/dance-machine/)
 
-[More Details](/category/exhibition-games/dance-machine/)
+[More Details](/products/dance-machine/)
 
-[Shuffleboard Hire](/category/all-products/87/shuffle-board-hire/)
+[Shuffleboard Hire](/products/shuffle-board-hire/)
 
-[More Details](/category/all-products/87/shuffle-board-hire/)
+[More Details](/products/shuffle-board-hire/)
 
-[PLUCK A DUCK RACING](/category/interactive-game-hire/pluck-a-duck-racing/)
+[PLUCK A DUCK RACING](/products/pluck-a-duck-racing/)
 
-[More Details](/category/interactive-game-hire/pluck-a-duck-racing/)
+[More Details](/products/pluck-a-duck-racing/)
 
-[TOP DOC OPERATION GAME](/category/interactive-game-hire/top-doc-operation-game/)
+[TOP DOC OPERATION GAME](/products/top-doc-operation-game/)
 
-[More Details](/category/interactive-game-hire/top-doc-operation-game/)
+[More Details](/products/top-doc-operation-game/)
 
-[ELECTRONIC BASKET BALL HIRE](/category/photo-booths/ultimate-green-screen-photo-booth/)
+[ELECTRONIC BASKET BALL HIRE](/products/ultimate-green-screen-photo-booth/)
 
-[More Details](/category/photo-booths/ultimate-green-screen-photo-booth/)
+[More Details](/products/ultimate-green-screen-photo-booth/)
 
-[GOLD CUP HORSE RACING](/category/interactive-game-hire/29/gold-cup-horse-racing/)
+[GOLD CUP HORSE RACING](/products/gold-cup-horse-racing/)
 
-[More Details](/category/interactive-game-hire/29/gold-cup-horse-racing/)
+[More Details](/products/gold-cup-horse-racing/)
 
-[FOOTBALL TABLES](/category/interactive-game-hire/27/football-tables/)
+[FOOTBALL TABLES](/products/football-tables/)
 
-[More Details](/category/interactive-game-hire/27/football-tables/)
+[More Details](/products/football-tables/)
 
-[GREEN SCREEN PHOTO BOOTHS](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
+[GREEN SCREEN PHOTO BOOTHS](/products/green-screen-photo-booths/)
 
-[More Details](/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/)
+[More Details](/products/green-screen-photo-booths/)
 
-[Air Hockey Table Hire](/category/arcade-games/60/air-hockey-table-hire/)
+[Air Hockey Table Hire](/products/air-hockey-table-hire/)
 
-[More Details](/category/arcade-games/60/air-hockey-table-hire/)
+[More Details](/products/air-hockey-table-hire/)
 
-[Table Tennis Hire](/category/corporate-entertainment/80/table-tennis-hire/)
+[Table Tennis Hire](/products/table-tennis-hire/)
 
-[More Details](/category/corporate-entertainment/80/table-tennis-hire/)
+[More Details](/products/table-tennis-hire/)
 
-[Giant Deck Chair Hire](/category/weddings/74/giant-deck-chair-hire/)
+[Giant Deck Chair Hire](/products/giant-deck-chair-hire/)
 
-[More Details](/category/weddings/74/giant-deck-chair-hire/)
+[More Details](/products/giant-deck-chair-hire/)
+
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side
