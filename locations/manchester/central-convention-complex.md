@@ -2,7 +2,8 @@
 title: "Manchester Central Convention Complex"
 meta_title: "Manchester Central Convention Complex | Exhibition Stand Hire"
 meta_description: "If you&#39;re showcasing at Manchester Central, choose Fun Pro UK for branded games and other exhibition hire favourites! Book your spot now with our experts."
-permalink: "/pages/manchester-central-convention-complex/"
+redirect_from:
+  - "/pages/manchester-central-convention-complex/"
 ---
 
 # Manchester Central Convention Complex

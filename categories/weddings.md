@@ -2,7 +2,6 @@
 title: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK"
 meta_title: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK"
 meta_description: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/category/weddings/"
 featured: true
 ---
 

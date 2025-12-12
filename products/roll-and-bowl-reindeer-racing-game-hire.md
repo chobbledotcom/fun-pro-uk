@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
-permalink: "/roll-and-bowl-reindeer-racing-game-hire/"
 categories: ["categories/christmas-game-hire.md", "categories/all-products.md", "categories/christmas-games.md", "categories/roll-and-bowl.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6c8b1fc73f7f7f87f2aef2abb2f7ef30"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0011f4b5501021f30aa33514da96c9f2"

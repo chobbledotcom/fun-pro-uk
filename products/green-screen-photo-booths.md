@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"
 meta_description: "Looking for green screen photo booth hire near you? Ideal for parties, corporate events, and more. UK-wide delivery available. Call today to reserve!"
-permalink: "/green-screen-photo-booths/"
 categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/photo-booths-and-magic-mirrors/green-screen-photo-booths/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"

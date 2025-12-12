@@ -3,7 +3,8 @@ title: "Corporate Branding Photobooths – Custom Event Solutions"
 date: 2016-12-21
 meta_title: "Corporate Branding Photobooths – Custom Event Solutions"
 meta_description: "Corporate Branding Photobooths – Custom Event Solutions - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-12-21/corporate-branding-on-our-photobooths/"
+redirect_from:
+  - "/news/2016-12-21/corporate-branding-on-our-photobooths/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

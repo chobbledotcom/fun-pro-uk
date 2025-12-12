@@ -2,7 +2,8 @@
 title: "Fun Pro UK the corporate entertainment agency for Bristol!"
 meta_title: "Fun Pro UK | Corporate Entertainment Hire | Bristol"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Choose Fun Pro UK for events in Bristol for interactive games, photo booths and more."
-permalink: "/pages/bristol-corporate-event-hire/"
+redirect_from:
+  - "/pages/bristol-corporate-event-hire/"
 ---
 
 # Fun Pro UK the corporate entertainment agency for Bristol!

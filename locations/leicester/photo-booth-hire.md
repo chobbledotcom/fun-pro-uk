@@ -2,7 +2,8 @@
 title: "Photo booth Hire Leicester"
 meta_title: "Photo Booth Hire | Leicester | Fun Pro UK"
 meta_description: "For Leicester photo booth hire, choose Fun Pro UK! You&#39;ll love our wide range of green screen photo booths, our incredible value and our unbeatable service."
-permalink: "/pages/photo-booth-hire-leicester/"
+redirect_from:
+  - "/pages/photo-booth-hire-leicester/"
 ---
 
 # Photo booth Hire Leicester

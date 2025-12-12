@@ -3,7 +3,8 @@ title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"
 date: 2017-02-22
 meta_title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"
 meta_description: "Magic Mirror 18th Feb – Interactive Photo Booth Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2017-02-22/magic-mirror-18th-feb/"
+redirect_from:
+  - "/news/2017-02-22/magic-mirror-18th-feb/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

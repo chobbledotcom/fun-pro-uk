@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
-permalink: "/air-hockey-table-hire/"
 categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/corporate-entertainment/60/air-hockey-table-hire/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/978d979ee7d3bde8a6d1396b85525bdf"

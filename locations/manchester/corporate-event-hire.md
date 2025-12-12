@@ -2,7 +2,8 @@
 title: "Trusted Corporate Event Game Hire In Manchester"
 meta_title: "Corporate Event Game Hire in Manchester | Fun Pro UK"
 meta_description: "Original corporate entertainment ideas and first-class service. Choose Fun Pro UK for events in Manchester for interactive games, photo booths &amp; much more."
-permalink: "/pages/manchester-corporate-event-hire/"
+redirect_from:
+  - "/pages/manchester-corporate-event-hire/"
 ---
 
 # Trusted Corporate Event Game Hire In Manchester

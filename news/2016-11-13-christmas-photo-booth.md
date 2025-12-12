@@ -3,7 +3,8 @@ title: "Christmas Photo Booth Hire – Fun For Festive Events"
 date: 2016-11-13
 meta_title: "Christmas Photo Booth Hire – Fun For Festive Events"
 meta_description: "Christmas Photo Booth Hire – Fun For Festive Events - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-11-13/christmas-photo-booth/"
+redirect_from:
+  - "/news/2016-11-13/christmas-photo-booth/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

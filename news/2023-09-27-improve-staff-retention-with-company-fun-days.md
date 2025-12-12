@@ -3,7 +3,8 @@ title: "Improve Staff Retention with Company Fun Days | News & Blogs"
 date: 2023-09-27
 meta_title: "Improve Staff Retention with Company Fun Days | News & Blogs"
 meta_description: "Keep staff happy with a company fun day at Fun Pro UK! Just tell us a few details about your big day and book out the entertainment you need online."
-permalink: "/blog/2023-09-27/improve-staff-retention-with-company-fun-days/"
+redirect_from:
+  - "/news/2023-09-27/improve-staff-retention-with-company-fun-days/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

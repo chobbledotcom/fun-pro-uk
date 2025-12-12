@@ -3,7 +3,8 @@ title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"
 date: 2018-12-05
 meta_title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"
 meta_description: "Why Hire Corporate Entertainment With Us? | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
+redirect_from:
+  - "/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

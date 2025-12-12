@@ -3,7 +3,8 @@ title: "School Summer Party Game Hire For End-of-Term Events"
 date: 2025-05-12
 meta_title: "School Summer Party Game Hire For End-of-Term Events"
 meta_description: "Discover the best school summer party games for hire in the UK. Our guide helps you select age-appropriate activities for indoor and outdoor events."
-permalink: "/blog/2025-05-12/how-to-find-the-best-games-for-your-college-or-school-summer-party/"
+redirect_from:
+  - "/news/2025-05-12/how-to-find-the-best-games-for-your-college-or-school-summer-party/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

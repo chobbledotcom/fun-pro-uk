@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Adult Bouncy Castle Hire | Fun Pro UK | Fun Days"
 meta_description: "Adult bouncy castles let your inner child free! These inflatables are roomy &amp; durable - perfect for bouncing grown-ups at birthdays, office parties &amp; more."
-permalink: "/large-bouncy-castles/"
 categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/corporate-entertainment/23/large-bouncy-castles/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4c2c41a53dd394815511ac12dc3a3d15"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/839e7cf60d154d27c83b2be6dc991796"

@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
-permalink: "/whack-an-elf/"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/christmas-game-hire/79/whack-an-elf/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
 ---

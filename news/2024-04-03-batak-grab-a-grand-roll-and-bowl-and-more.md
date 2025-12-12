@@ -3,7 +3,8 @@ title: "Batak, Grab a Grand, Roll & Bowl and More! | Our News & Blogs"
 date: 2024-04-03
 meta_title: "Batak, Grab a Grand, Roll & Bowl and More! | Our News & Blogs"
 meta_description: "We have all kinds of arcade games and interactive entertainment for hire, including Batak, Grab a Grand, and Roll &amp; Bowl! Exhibitions, parties &amp; more."
-permalink: "/blog/2024-04-03/batak-grab-a-grand-roll-and-bowl-and-more/"
+redirect_from:
+  - "/news/2024-04-03/batak-grab-a-grand-roll-and-bowl-and-more/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

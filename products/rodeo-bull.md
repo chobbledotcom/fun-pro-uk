@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Rodeo Bull Hire, How Much To Hire A Rodeo Bull Near Me, UK"
 meta_description: "Hire Our Rodeo Bull Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/rodeo-bull/"
 categories: ["categories/corporate-entertainment.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/fun-days/46/rodeo-bull/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bfa6c6b94e110ee89a3d1b1807588a2a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/94088b43e189ecf3fd88f40cf97090b9"

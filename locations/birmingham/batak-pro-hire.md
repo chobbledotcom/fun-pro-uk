@@ -2,7 +2,8 @@
 title: "Batak Pro &ndash; The Ultimate Interactive Game for Corporate & Private Events in Birmingham"
 meta_title: "Batak Pro Hire Birmingham | Interactive Event Games | Fun Pro UK"
 meta_description: "Hire a Batak Pro reaction game for your next corporate event in Birmingham.Custom branding available, professional delivery &amp; setup. Request a quote today."
-permalink: "/pages/batak-pro-hire-birmingham/"
+redirect_from:
+  - "/pages/batak-pro-hire-birmingham/"
 ---
 
 # Batak Pro – The Ultimate Interactive Game for Corporate & Private Events in Birmingham

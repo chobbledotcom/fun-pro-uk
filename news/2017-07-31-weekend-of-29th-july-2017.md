@@ -3,7 +3,8 @@ title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
 date: 2017-07-31
 meta_title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
 meta_description: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2017-07-31/weekend-of-29th-july-2017/"
+redirect_from:
+  - "/news/2017-07-31/weekend-of-29th-july-2017/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

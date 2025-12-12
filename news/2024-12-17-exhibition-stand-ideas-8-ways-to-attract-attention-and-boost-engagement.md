@@ -3,7 +3,8 @@ title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engageme"
 date: 2024-12-17
 meta_title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engageme"
 meta_description: "In this guide, we’ll help bring your vision to life while making your stand the highlight of any event."
-permalink: "/blog/2024-12-17/exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/"
+redirect_from:
+  - "/news/2024-12-17/exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

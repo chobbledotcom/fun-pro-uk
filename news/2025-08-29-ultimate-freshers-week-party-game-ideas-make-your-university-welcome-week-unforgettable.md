@@ -3,7 +3,8 @@ title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
 date: 2025-08-29
 meta_title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
 meta_description: "Expert freshers games and entertainment hire for university welcome weeks. Professional setup, inclusive activities, and nationwide coverage."
-permalink: "/blog/2025-08-29/ultimate-freshers-week-party-game-ideas-make-your-university-welcome-week-unforgettable/"
+redirect_from:
+  - "/news/2025-08-29/ultimate-freshers-week-party-game-ideas-make-your-university-welcome-week-unforgettable/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

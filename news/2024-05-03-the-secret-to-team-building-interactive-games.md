@@ -3,7 +3,8 @@ title: "Team Building with Interactive Games - Fun Pro UK"
 date: 2024-05-03
 meta_title: "Team Building with Interactive Games - Fun Pro UK"
 meta_description: "Discover how interactive games like Batak and Roll &amp; Bowl can boost teamwork, communication, and problem-solving at your corporate events."
-permalink: "/blog/2024-05-03/the-secret-to-team-building-interactive-games/"
+redirect_from:
+  - "/news/2024-05-03/the-secret-to-team-building-interactive-games/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

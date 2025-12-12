@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Gold bar challenge"
 meta_description: "The Gold Bar Challenge – an exciting interactive game for corporate events &amp; exhibitions. Reach in, grab the gold, and beat the challenge!"
-permalink: "/gold-bar-challenge/"
 categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/exhibition-games/107/gold-bar-challenge/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a7e86d84e96e7bcb0dea24fa2a14a0f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab85a30be1769a2be49f876b17d7f406"

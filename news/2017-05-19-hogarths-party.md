@@ -3,7 +3,8 @@ title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
 date: 2017-05-19
 meta_title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
 meta_description: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2017-05-19/hogarths-party/"
+redirect_from:
+  - "/news/2017-05-19/hogarths-party/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

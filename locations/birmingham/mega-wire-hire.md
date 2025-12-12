@@ -2,7 +2,8 @@
 title: "Mega wire Hire Birmingham"
 meta_title: "Mega Wire Hire Birmingham | Beat the Buzzer Buzz Game Rental"
 meta_description: "Beat the buzzer with our giant mega wires for hire in Birmingham and the West Midlands. Fun for exhibitions, trade shows, fun days and much more. Book now!"
-permalink: "/pages/mega-wire-hire-birmingham/"
+redirect_from:
+  - "/pages/mega-wire-hire-birmingham/"
 ---
 
 # Mega wire Hire Birmingham

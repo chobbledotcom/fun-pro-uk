@@ -2,7 +2,6 @@
 title: "Bristol"
 meta_title: "Event Hire Bristol | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in Bristol. Interactive games, photo booths and more for corporate events, weddings and parties."
-permalink: "/locations/bristol/"
 layout: location
 location: "bristol"
 ---

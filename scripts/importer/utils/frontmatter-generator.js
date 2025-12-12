@@ -67,6 +67,8 @@ const escapeYamlString = (str) => {
 
 /**
  * Generate frontmatter for blog/news content
+ * Old URL: /news/{date}/{slug}/ (e.g., /news/2017-11-19/christmas-parties-are-go/)
+ * New URL: dynamically calculated from file path (e.g., /news/2017-11-19-christmas-parties-are-go/)
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Post slug
  * @param {string} date - Post date
@@ -77,14 +79,21 @@ const escapeYamlString = (str) => {
 const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, localImagePath = null) => {
   const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
 
-  // Include date in permalink to match old site structure and avoid duplicate slugs
-  // Old: /news/2017-11-19/christmas-parties-are-go -> New: /blog/2017-11-19/christmas-parties-are-go
+  // Old URL from the old site
+  const oldUrl = `/news/${date}/${slug}/`;
+  // New URL will be dynamically calculated: /news/{date}-{slug}/ (based on filename)
+  const newUrl = `/news/${date}-${slug}/`;
+
   let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
 meta_title: "${metadata.title || ''}"
-meta_description: "${metadata.meta_description || ''}"
-permalink: "/blog/${date}/${slug}/"`;
+meta_description: "${metadata.meta_description || ''}"`;
+
+  // Add redirect_from if old URL differs from new URL
+  if (oldUrl !== newUrl) {
+    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  }
 
   // Add gallery with the downloaded image
   if (localImagePath) {
@@ -105,9 +114,10 @@ permalink: "/blog/${date}/${slug}/"`;
  * @param {Object} images - Product images with local paths
  * @param {string} productHeading - The H1 heading from product content
  * @param {string[]} events - Product events (array of event paths)
+ * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = []) => {
+const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
   const categoriesYaml = categoryArray.length > 0
@@ -123,18 +133,26 @@ const generateProductFrontmatter = (metadata, slug, price, categories, productNa
   // Get product order, default to 50 if not in mapping
   const productOrder = PRODUCT_ORDER[slug] || 50;
 
-  // Base frontmatter
+  // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
 title: "${productName || metadata.title || ''}"
 price: "${price}"
 order: ${productOrder}
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/${slug}/"
 categories: ${categoriesYaml}
 events: ${eventsYaml}
 featured: true
 features: []`;
+
+  // Add redirect_from for old site URL if it differs from the new path
+  // Old products are at /category/{category}/{id}/{slug}/, new path is /{slug}/
+  if (oldSitePath) {
+    // Convert file path to URL path: "arcade-games/106/electronic-dart-board.html" -> "/category/arcade-games/106/electronic-dart-board/"
+    const oldUrl = `/category/${oldSitePath.replace(/\.html$/, '').replace(/\\/g, '/')}/`;
+    // New path will be /{slug}/ - so redirect is always needed for products
+    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  }
 
   // Add gallery with all images
   if (images?.gallery && images.gallery.length > 0) {
@@ -150,6 +168,8 @@ features: []`;
 
 /**
  * Generate frontmatter for category content
+ * Categories don't need redirect_from since the URL structure stays the same:
+ * Old: /category/{slug}/ -> New: /category/{slug}/ (dynamically calculated from filename)
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Category slug
  * @param {string} categoryHeading - The H1 heading from category content
@@ -158,11 +178,12 @@ features: []`;
  * @returns {string} Frontmatter YAML
  */
 const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null) => {
+  // No permalink - let it be dynamically calculated
+  // Old URL /category/{slug}/ matches the expected new URL, so no redirect needed
   let frontmatter = `---
 title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/category/${slug}/"
 featured: true`;
 
   // Add navigation if extracted from old site navigation
@@ -201,20 +222,32 @@ products: ["products/${productSlug}.md"]
  * Generate frontmatter for event content
  * Events are similar to categories but don't need dates
  * Products are linked via the product's categories field, not stored on the event
+ * Old URL: /category/{slug}/ or /pages/{slug}/ (depending on source)
+ * New URL: /events/{slug}/ (dynamically calculated from file path)
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Event slug
  * @param {string} eventHeading - The H1 heading from event content
  * @param {number} eventIndex - Zero-based index of this event
  * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
+ * @param {string} sourceType - Source type: 'category' or 'pages' (to determine old URL)
  * @returns {string} Frontmatter YAML
  */
-const generateEventFrontmatter = (metadata, slug, eventHeading = null, eventIndex = 0, navInfo = null) => {
+const generateEventFrontmatter = (metadata, slug, eventHeading = null, eventIndex = 0, navInfo = null, sourceType = 'category') => {
+  // Old URL depends on source type
+  const oldUrl = sourceType === 'pages' ? `/pages/${slug}/` : `/category/${slug}/`;
+  // New URL will be dynamically calculated: /events/{slug}/
+  const newUrl = `/events/${slug}/`;
+
   let frontmatter = `---
 title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "/events/${slug}/"
 featured: true`;
+
+  // Add redirect_from if old URL differs from new URL
+  if (oldUrl !== newUrl) {
+    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  }
 
   // Add navigation if extracted from old site navigation
   if (navInfo) {
@@ -237,6 +270,8 @@ eleventyNavigation:
 
 /**
  * Generate frontmatter for location content
+ * Old URL: /pages/{original-slug}/ (e.g., /pages/corporate-event-hire-birmingham/)
+ * New URL: dynamically calculated from file path (e.g., /locations/birmingham/corporate-event-hire/)
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Location page slug (original, e.g., 'corporate-event-hire-birmingham')
  * @param {string} locationHeading - The H1 heading from page content
@@ -248,14 +283,23 @@ const generateLocationFrontmatter = (metadata, slug, locationHeading = null, tow
   // Use the heading or title for the location title
   const title = locationHeading || metadata.header_text || metadata.title || '';
 
-  // Keep the original permalink to maintain URL structure
-  const permalink = `/pages/${slug}/`;
+  // Old URL from the old site
+  const oldUrl = `/pages/${slug}/`;
+  
+  // New URL will be dynamically calculated from file location
+  // e.g., locations/birmingham/corporate-event-hire.md -> /locations/birmingham/corporate-event-hire/
+  // Only add redirect_from if the old URL differs from the new one
+  const newUrl = town && strippedSlug ? `/locations/${town}/${strippedSlug}/` : `/locations/${slug}/`;
 
   let frontmatter = `---
 title: "${escapeYamlString(title)}"
 meta_title: "${escapeYamlString(metadata.title || '')}"
-meta_description: "${escapeYamlString(metadata.meta_description || '')}"
-permalink: "${permalink}"`;
+meta_description: "${escapeYamlString(metadata.meta_description || '')}"`;
+
+  // Add redirect_from if old URL differs from new URL
+  if (oldUrl !== newUrl) {
+    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  }
 
   frontmatter += '\n---';
 
@@ -272,6 +316,8 @@ permalink: "${permalink}"`;
 
 /**
  * Generate frontmatter and content for root location pages (e.g., locations/birmingham.md)
+ * These are new pages (not imported from old site), so no redirect_from needed
+ * URL will be dynamically calculated from file path: /locations/{town}/
  * @param {string} town - The town slug (e.g., 'birmingham', 'milton-keynes')
  * @returns {string} Complete page content with frontmatter
  */
@@ -282,11 +328,11 @@ const generateLocationRootFrontmatter = (town) => {
     .map(word => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
 
+  // No permalink - URL will be dynamically calculated from file location
   return `---
 title: "${townName}"
 meta_title: "Event Hire ${townName} | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in ${townName}. Interactive games, photo booths and more for corporate events, weddings and parties."
-permalink: "/locations/${town}/"
 layout: location
 location: "${town}"
 ---

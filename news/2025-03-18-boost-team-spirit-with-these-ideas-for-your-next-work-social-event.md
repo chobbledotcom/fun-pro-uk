@@ -3,7 +3,8 @@ title: "Best Work Social Event Ideas | Interactive Games for Teams"
 date: 2025-03-18
 meta_title: "Best Work Social Event Ideas | Interactive Games for Teams"
 meta_description: "Looking for fun work social event ideas? Boost team morale with arcade games, racing simulators, and reaction games. Plan your perfect event with Fun Pro UK."
-permalink: "/blog/2025-03-18/boost-team-spirit-with-these-ideas-for-your-next-work-social-event/"
+redirect_from:
+  - "/news/2025-03-18/boost-team-spirit-with-these-ideas-for-your-next-work-social-event/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

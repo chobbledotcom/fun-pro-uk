@@ -3,7 +3,8 @@ title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"
 date: 2023-11-26
 meta_title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"
 meta_description: "Christmas is around the corner, so it&#39;s a great time to book out plenty of festive party equipment. Reindeer bowling games, grottos, magic mirrors &amp; more!"
-permalink: "/blog/2023-11-26/christmas-is-coming-arrange-party-hire/"
+redirect_from:
+  - "/news/2023-11-26/christmas-is-coming-arrange-party-hire/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

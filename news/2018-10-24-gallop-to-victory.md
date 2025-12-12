@@ -3,7 +3,8 @@ title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
 date: 2018-10-24
 meta_title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
 meta_description: "Gallop To Victory – Event Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-10-24/gallop-to-victory/"
+redirect_from:
+  - "/news/2018-10-24/gallop-to-victory/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -4,11 +4,12 @@ price: ""
 order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"
 meta_description: "Hire Our Ball Grabber Machine For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/ballnado-grabber/"
 categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/grab-a-grand/36/ballnado-grabber/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8223c74f2c96f5e868328302395c1f83"

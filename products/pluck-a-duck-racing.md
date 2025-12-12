@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-permalink: "/pluck-a-duck-racing/"
 categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/prize-games.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/interactive-game-hire/pluck-a-duck-racing/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51c24e2eec324fae22c11f1eb8524720"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3493c62d7c419e5c15c8807d81b070ae"

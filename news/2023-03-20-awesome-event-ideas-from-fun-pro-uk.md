@@ -3,7 +3,8 @@ title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"
 date: 2023-03-20
 meta_title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"
 meta_description: "Experience amazing events with Fun Pro UK! Charity fundraiser, school fun days, exhibitions and much more - we have ideas for parties throughout the UK!"
-permalink: "/blog/2023-03-20/awesome-event-ideas-from-fun-pro-uk/"
+redirect_from:
+  - "/news/2023-03-20/awesome-event-ideas-from-fun-pro-uk/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

@@ -2,7 +2,8 @@
 title: "Prize Wheel Hire in Coventry from Fun Pro"
 meta_title: "Prize Wheel Hire Coventry | Spin the Wheel Game | Exhibitions"
 meta_description: "Spin the wheel and win a prize on this exhibition stand favourite! Book your spot with Fun Pro UK for the best in Coventry event fun. Order online today!"
-permalink: "/pages/prize-wheel-hire-coventry/"
+redirect_from:
+  - "/pages/prize-wheel-hire-coventry/"
 ---
 
 # Prize Wheel Hire in Coventry from Fun Pro

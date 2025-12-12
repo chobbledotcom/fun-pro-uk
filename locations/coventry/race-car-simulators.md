@@ -2,7 +2,8 @@
 title: "Race Car Simulator Hire in Coventry for Events of All Sizes"
 meta_title: "Race Car Simulator Hire Coventry | VR Racing Sim Rentals | UK"
 meta_description: "Add a race car simulator to your exhibition stand with Fun Pro UK! We&#39;re working in Coventry and nationwide for all events. Book this arcade classic now!"
-permalink: "/pages/race-car-simulators-coventry/"
+redirect_from:
+  - "/pages/race-car-simulators-coventry/"
 ---
 
 # Race Car Simulator Hire in Coventry for Events of All Sizes

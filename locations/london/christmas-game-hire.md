@@ -2,7 +2,8 @@
 title: "Christmas Game Hire &ndash; London's Leading Festive Entertainment Providers"
 meta_title: "London Christmas Game Hire | Festive Entertainment"
 meta_description: "Professional Christmas game hire in London for corporate events &amp; holiday parties. Premium festive entertainment solutions. Request your free quote today."
-permalink: "/pages/christmas-game-hire-london/"
+redirect_from:
+  - "/pages/christmas-game-hire-london/"
 ---
 
 # Christmas Game Hire – London's Leading Festive Entertainment Providers

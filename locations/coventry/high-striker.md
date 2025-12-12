@@ -2,7 +2,8 @@
 title: "High Striker Hire in Coventry from Fun Pro"
 meta_title: "High Striker Hire Coventry: Test-your-strength Strongman Machine"
 meta_description: "Hire the Test Your Strength Strongman Challenge high striker game in Coventry and beyond with Fun Pro UK! For exhibitions, family fun days and more."
-permalink: "/pages/high-striker-coventry/"
+redirect_from:
+  - "/pages/high-striker-coventry/"
 ---
 
 # High Striker Hire in Coventry from Fun Pro

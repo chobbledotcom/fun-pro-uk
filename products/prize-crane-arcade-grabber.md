@@ -4,11 +4,12 @@ price: ""
 order: 4
 meta_title: "Grabber Machine Hire, Claw Machine Rental , Exhibitions, UK"
 meta_description: "Our arcade style prize crane for hire is great for exhibitions &amp; promotions. Why not fill the grabber crane with your branded items at your exhibition stand today."
-permalink: "/prize-crane-arcade-grabber/"
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features: []
+redirect_from:
+  - "/category/arcade-games/47/prize-crane-arcade-grabber/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0eab500e698c86785f5d0b3c44e606a8"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/37b7febbbfbbe9ecec627fb3ed235eb8"

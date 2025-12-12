@@ -3,7 +3,8 @@ title: "Electronic Basketball Hire – Fun Interactive Game"
 date: 2018-10-11
 meta_title: "Electronic Basketball Hire – Fun Interactive Game"
 meta_description: "Electronic Basketball Hire – Fun Interactive Game - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2018-10-11/energetic-electronic-basket-ball-hire/"
+redirect_from:
+  - "/news/2018-10-11/energetic-electronic-basket-ball-hire/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

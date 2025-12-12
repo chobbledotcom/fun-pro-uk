@@ -3,7 +3,8 @@ title: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro UK"
 date: 2022-01-04
 meta_title: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro UK"
 meta_description: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2022-01-04/january-doesnt-have-to-be-blue/"
+redirect_from:
+  - "/news/2022-01-04/january-doesnt-have-to-be-blue/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

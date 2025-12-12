@@ -3,7 +3,8 @@ title: "How to Choose the Right Venue for Corporate Events"
 date: 2025-09-26
 meta_title: "How to Choose the Right Venue for Corporate Events"
 meta_description: "Expert guide to corporate event venue selection in the UK. From location tips to hidden costs, discover how to choose venues that ensure your event&#39;s success."
-permalink: "/blog/2025-09-26/the-complete-guide-to-choosing-the-right-venue-for-your-corporate-event/"
+redirect_from:
+  - "/news/2025-09-26/the-complete-guide-to-choosing-the-right-venue-for-your-corporate-event/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

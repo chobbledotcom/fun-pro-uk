@@ -16,13 +16,15 @@ const { convertSingle, convertBatch } = createConverter({
     productHeading: (htmlContent) => extractContentHeading(htmlContent),
     images: (htmlContent) => extractProductImages(htmlContent)
   },
-  frontmatterGenerator: (metadata, slug, extracted) => {
+  frontmatterGenerator: (metadata, slug, extracted, context) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
     const events = extracted.productEventsMap?.get(slug) || [];
     const localImages = {
       header_image: extracted.localGalleryPaths?.[0] || extracted.localImagePath || '',
       gallery: extracted.localGalleryPaths || []
     };
+    // Pass the old site relative path for redirect_from generation
+    const oldSitePath = context.oldSiteRelativePath || null;
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -31,7 +33,8 @@ const { convertSingle, convertBatch } = createConverter({
       extracted.productName,
       localImages,
       extracted.productHeading,
-      events
+      events,
+      oldSitePath
     );
   },
   beforeWrite: async (content, extracted, slug) => {
@@ -123,7 +126,10 @@ const convertProducts = async () => {
         productEventsMap,
         categoryIndex: 0,
         progressIndex: i,
-        progressTotal: fileInfos.length
+        progressTotal: fileInfos.length,
+        // Pass the old site relative path for redirect_from generation
+        // e.g., "arcade-games/106/electronic-dart-board.html"
+        oldSiteRelativePath: fileInfo.relativePath
       };
       // Pass the file name and its directory to convertSingle
       if (await convertSingle(fileInfo.file, fileInfo.dir, outputDir, fileContext)) {

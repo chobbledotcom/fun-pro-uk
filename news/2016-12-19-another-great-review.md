@@ -3,7 +3,8 @@ title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"
 date: 2016-12-19
 meta_title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"
 meta_description: "Another Great Review – Fun Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/blog/2016-12-19/another-great-review/"
+redirect_from:
+  - "/news/2016-12-19/another-great-review/"
 gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---

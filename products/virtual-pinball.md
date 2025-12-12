@@ -4,11 +4,12 @@ price: ""
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-permalink: "/virtual-pinball/"
 categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+redirect_from:
+  - "/category/exhibition-games/77/virtual-pinball/"
 gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
 ---

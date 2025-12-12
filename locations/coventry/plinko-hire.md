@@ -2,7 +2,8 @@
 title: "Hire Plinko Games for Your Coventry Event"
 meta_title: "Plinko Hire Coventry"
 meta_description: "Looking to hire an interactive game from Fun Pro UK today. Give us a call on 02477220701"
-permalink: "/pages/plinko-hire-coventry/"
+redirect_from:
+  - "/pages/plinko-hire-coventry/"
 ---
 
 # Hire Plinko Games for Your Coventry Event

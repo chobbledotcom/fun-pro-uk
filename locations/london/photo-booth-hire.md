@@ -2,7 +2,8 @@
 title: "Photo booth Hire London"
 meta_title: "Photo Booth Hire | London | Fun Pro UK"
 meta_description: "For London photo booth hire, choose Fun Pro UK! You&#39;ll love our wide range of green screen photo booths, our incredible value and our unbeatable service."
-permalink: "/pages/photo-booth-hire-london/"
+redirect_from:
+  - "/pages/photo-booth-hire-london/"
 ---
 
 # Photo booth Hire London
