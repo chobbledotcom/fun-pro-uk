@@ -198,11 +198,3 @@ When evaluating activities, consider whether success depends on particular physi
 Birmingham's strong conference infrastructure makes this remarkably straightforward. Many venues offer both conference facilities and space for team building activities, or they're located near activity providers.
 
 Half-day activities (typically 2-3 hours) work particularly well for conference programmes, either as energisers between sessions or as afternoon activities following morning meetings. Interactive entertainment, creative workshops, and problem-solving challenges suit this format because they deliver impact within limited timeframes whilst complementing rather than overwhelming conference content.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

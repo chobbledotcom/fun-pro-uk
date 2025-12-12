@@ -74,9 +74,3 @@ The Christmas party season is fast approaching, and if you're tasked with organi
 If you're planning a brand activation event, your biggest goal is to grab attention and get people talking. Whether you're launching a product, or..
 
 [...Read More](/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

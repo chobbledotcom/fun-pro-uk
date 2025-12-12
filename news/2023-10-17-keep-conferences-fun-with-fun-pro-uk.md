@@ -26,11 +26,3 @@ With Fun Pro UK, we have a wide range of [corporate event ideas](/category/corpo
 A conference is more than just sessions and speeches. It's about creating an environment where attendees learn, network, and most importantly, enjoy themselves. With Fun Pro UK, you're not just adding a fun element; you're elevating the entire conference experience.
 
 Thinking of giving your conference the Fun Pro UK touch? Reach out to us through our [contact page](/pages/contact-fun-pro-uk/) or make a booking online. We're looking forwards to finding out more about your upcoming events.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

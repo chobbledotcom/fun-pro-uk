@@ -24,9 +24,3 @@ Telephone: 02477220701
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Contact Edgbaston to hire their venue space by emailing [events@edgbaston.com](mailto:events@edgbaston.com)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

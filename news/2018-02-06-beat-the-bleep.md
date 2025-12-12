@@ -20,11 +20,3 @@ This battery operated stand alone game is a one player challenge where you have 
 It's a real race against time and builds the excitement to see who can finish first!
 
 We can't wait to see the staff at their team building and conference enjoying this game tomorrow.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -52,9 +52,3 @@ Third parties might also set cookies on your browser. We use Google Analytics to
 
 **How do you make a complaint about our use of your data?**  
 [The Information Commissioners' Office (ICO).](https://ico.org.uk/) is the authority for data protection in the UK. If you have an unresolvable problem with us and our use of your data, they are who you should contact.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

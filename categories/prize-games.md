@@ -36,9 +36,3 @@ Some of our prize game options include:
 *   [Prize Wheel](/prize-wheel/): Spin to win a range of fantastic prizes, with full customisation allowing you to tailor the prizes to your specific requirements.
 *   [The Vault](/interactive-game-hire/50/the-vault/): Break into the vault for a thrilling challenge. Speed, timing and accuracy is everything in this [arcade-style game](/arcade-games/lights-out-game/).
 *   And more! Check out our full repertoire of prize games below, and check out all our products to see more event hire ideas. We're your one-stop party rental shop at Fun Pro UK, helping people host events both large and small.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

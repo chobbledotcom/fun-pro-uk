@@ -28,11 +28,3 @@ If you do decide that you'd like to book at stand at a trade show or exhibition,
 Trade shows and exhibitions can be pricey compared to other forms of marketing, which is why if you're going to invest in this, you need to make sure you stand out from the crowd. At Fun Pro UK we can help you do this with our range of fun and interactive games. From our table top games such as '[Top Doc operation](/category/interactive-game-hire/top-doc-operation-game/)' and '[Pluck a Duck Racing](/category/interactive-game-hire/pluck-a-duck-racing/)', to our larger '[Giant Buzz Wire](/category/interactive-game-hire/giant-buzz-wire/)' or our '[Grab a Grand](/category/interactive-game-hire/3/grab-a-grand/)', we have something for any size exhibition stand.
 
 For more information or to chat to us about how we can make your exhibition or trade show stand out and draw a crowd, check out our website https://www.funprouk.co.uk or call 02476 629 197 or 07769 979 676.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

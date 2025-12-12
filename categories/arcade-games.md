@@ -147,9 +147,3 @@ Bust out the beloved arcade game machines at:
 …and so much more!
 
 Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -126,11 +126,3 @@ All equipment is thoroughly inspected and sanitised before delivery. And on the 
 You can elevate your next event! Booking with Fun Pro UK is simple, and our team is dedicated to making sure your experience is stress free, from setup to takedown.
 
 We invite you to explore our full range of activities and discover our corporate entertainment options. [Contact us today](/pages/contact-fun-pro-uk/) to ensure you get the best selection for your event.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -293,9 +293,3 @@ Ready to start planning your Manchester corporate event? [Contact our friendly t
 [Giant Deck Chair Hire](/category/weddings/74/giant-deck-chair-hire/)
 
 [More Details](/category/weddings/74/giant-deck-chair-hire/)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

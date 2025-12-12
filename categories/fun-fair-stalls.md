@@ -138,9 +138,3 @@ Yes! Candy floss is a universal treat loved by guests of all ages. The cart can 
 ### Do the popcorn and candy floss carts come with an operator?
 
 Yes, our professional staff will manage the stall to provide smooth service throughout your event. This allows you to focus on your guests while we take care of the treats.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

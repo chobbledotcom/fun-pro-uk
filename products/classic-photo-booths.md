@@ -114,9 +114,3 @@ Most importantly, your photo booth hire comes complete with a polite, profession
 Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/green-screen-photo-booths/) for even more fun features.
 
 We offer reputable, reliable delivery right across the UK, so wherever your next event is, book your photo booth today.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -47,9 +47,3 @@ So give us a call today for a no obligation quote for your next event.
 Tel: +442477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

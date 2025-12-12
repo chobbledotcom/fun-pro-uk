@@ -175,9 +175,3 @@ Ready to add electronic dart board hire to your event? Our [friendly team](/page
 We provide [nationwide coverage](/pages/delivery-areas/) from our Coventry base, serving corporate events, exhibitions, and team building activities throughout England, Scotland, and Wales. Whether you're planning a small office party or a major [corporate event](/corporate-entertainment/), we're here to help you create engaging entertainment that brings people together.
 
 ##### [Get in touch with our team to discuss your requirements and receive your quote.](/pages/contact-fun-pro-uk/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

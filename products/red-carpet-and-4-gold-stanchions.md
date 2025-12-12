@@ -52,9 +52,3 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 *   [Photo Booth](/green-screen-photo-booths/)
 *   Selfie Pod
 *   [Green Screen Booth](/green-screen-photo-booths/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

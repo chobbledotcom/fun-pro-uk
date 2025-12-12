@@ -31,11 +31,3 @@ When employees feel valued, acknowledged, and engaged, they're less likely to se
 In the quest to retain top talent, innovative approaches like [company fun days](/corporate-entertainment/) can be game-changers. Fun Pro UK is poised to help you redefine your company culture, making it not just a place to work, but a space to grow, bond, and thrive. Make a booking today and find out for yourself!
 
 Considering a unique approach to staff retention? Dive into play with Fun Pro UK. After all, a company that plays together, stays together.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

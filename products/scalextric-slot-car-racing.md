@@ -211,9 +211,3 @@ In[\-](/admin/products-edit.aspx%3Fid=75/)house [](/admin/products-edit.aspx%3Fi
 **Branded Skirt - Crash Barriers**
 
 **£495**\+ vat**
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

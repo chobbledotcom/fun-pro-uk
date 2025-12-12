@@ -212,11 +212,3 @@ Absolutely, though you'll need different approaches for each setting. Outdoor ga
 ### How do you adapt ice breaker games for different cultural backgrounds?
 
 Focus on universal human experiences rather than cultural-specific knowledge. Physical games, visual challenges, and activities based on personal preferences work well across cultures. Avoid games requiring rapid language processing or cultural references, and always explain rules clearly with demonstrations rather than just verbal instructions.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

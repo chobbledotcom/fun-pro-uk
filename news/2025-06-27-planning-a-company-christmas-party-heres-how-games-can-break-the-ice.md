@@ -130,11 +130,3 @@ Professional Christmas party game hire takes the guesswork out of entertainment 
 [Contact our friendly team](/pages/contact-fun-pro-uk/) at Fun Pro UK to discuss your Christmas party requirements. With years of experience in corporate events and a wide range of game options, we'll help you create a Christmas celebration that your colleagues will remember for all the right reasons.
 
 Start planning your perfect Christmas party today; your team will thank you for it.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

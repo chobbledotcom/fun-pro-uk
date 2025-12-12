@@ -114,9 +114,3 @@ FunPro's custom branding capabilities meant the prize wheel wasn't just function
 ![](/userfiles/poundland-manchester-fun-pro.jpg)
 
 If you're planning student activations, retail promotions, or any event where engagement matters, [contact our friendly team](/contact-fun-pro-uk/) to discuss how FunPro's interactive solutions can help you achieve your objectives, even with short notice requirements.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

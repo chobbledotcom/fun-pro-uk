@@ -208,11 +208,3 @@ Planning exceptional freshers week entertainment requires balancing numerous con
 With over 15 years of experience providing professional-grade interactive entertainment, we understand the unique challenges facing university event planners. Our comprehensive service that includes [nationwide delivery](/pages/delivery-areas/), professional setup, and full collection, takes the stress out of freshers entertainment hire whilst ensuring your students enjoy unforgettable welcome week experiences.
 
 Ready to start planning your ultimate Freshers Week entertainment? [Contact our friendly team](/pages/contact-fun-pro-uk/) to discuss your specific requirements and discover how we can help create the memorable, inclusive celebration your new students deserve.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

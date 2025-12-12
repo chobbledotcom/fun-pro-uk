@@ -18,11 +18,3 @@ We have very active Facebook, Twitter, LinkedIn and Instagram pages, where you c
 We post about events we have attended and been hired at, insights into the industry and most importantly our products and services that will give the wow factor to your next event.
 
 Why not follow, like and connect with us now to find out more about Fun Pro UK.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

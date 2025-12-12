@@ -84,9 +84,3 @@ Please contact us to find out more
 *   [Dance Machine](/category/exhibition-games/dance-machine/)
 *   [Electronic Basketball hoop](/category/interactive-game-hire/electronic-basket-ball-hire/)
 *   [Lights Out](/category/interactive-game-hire/lights-out-game/)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

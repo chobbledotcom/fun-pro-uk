@@ -20,11 +20,3 @@ Whatever time of year each green screen photo booth and [magic selfie mirror](/c
 Why not hire our Santa's cabin themed photo booth for your Christmas event. The outer images on the cabin really make your venue come to life and add the magical ambience your guests will adore.
 
 What are you waiting for? book your Christmas party photo booth or selfie mirror for your December event today!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

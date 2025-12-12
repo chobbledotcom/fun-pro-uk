@@ -36,11 +36,3 @@ We'd like to take this little opportunity to thank you for being a customer of P
 We can't wait to see you all again in 2018.
 
 Merry Christmas and a happy New Year!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

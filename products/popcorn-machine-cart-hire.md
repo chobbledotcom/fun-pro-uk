@@ -135,9 +135,3 @@ The standard hire period is up to 4 hours, but we understand that some events ma
 ### Is the popcorn cart suitable for both indoor and outdoor events?
 
 Yes, the popcorn machine cart hire can operate at both indoor and outdoor venues. For outdoor events, we recommend placing the cart under a sheltered area or marquee to protect the equipment from unpredictable weather.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

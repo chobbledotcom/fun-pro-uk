@@ -28,9 +28,3 @@ Want to attract and influence new clients at your event? Then check out the inte
 Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Here are some events that are coming up at the Telford International Centre: [Click here to find out more](https://www.theinternationalcentretelford.com/services/)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

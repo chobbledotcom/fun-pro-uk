@@ -274,9 +274,3 @@ Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)
 **Extra information**
 
 Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

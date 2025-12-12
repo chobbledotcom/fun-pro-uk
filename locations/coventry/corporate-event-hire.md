@@ -50,9 +50,3 @@ When you book corporate entertainment equipment from Fun Pro UK, we also provide
 It's about making your corporate event or exhibition stand memorable and fun, but also as stress-free as possible.  
   
 Call us for a chat and a no obligation quote today.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -177,9 +177,3 @@ If you’re looking to add some other types of interactive games to your events,
 ## Hire Batak Pro for Your Next Event
 
 Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

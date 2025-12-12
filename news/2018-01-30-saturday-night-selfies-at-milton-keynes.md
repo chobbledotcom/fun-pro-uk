@@ -22,11 +22,3 @@ The [Magic Selfie Mirror](/category/photo-booths-and-magic-mirrors/magic-mirror/
 We would like to thank the guys and girls at Milton Keynes for hiring our services for your event. We are looking forward to working with you again next month!
 
 If you are arranging an event and you want the entertainment to be fun with great instant memories then contact us to see how we can help you! Remember, everyone loves a selfie!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

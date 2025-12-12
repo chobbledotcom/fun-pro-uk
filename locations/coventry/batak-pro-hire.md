@@ -180,9 +180,3 @@ At Fun Pro UK, we make the process of hiring the Batak Pro simple and hassle-fre
 To book or find out more about our Batak Pro Hire Coventry, [get in touch](/contact-fun-pro-uk/) today.
 
 **Batak Pro Game Hire UK**
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

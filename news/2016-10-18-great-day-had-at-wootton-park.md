@@ -20,11 +20,3 @@ The Perfect Snap team didn't have time however to enjoy the sun that day, it was
 Our stand looked amazing!
 
 Wootton Park was extremely busy, lots of people came to view the variety of suppliers that were there showcasing their goods. We cant wait for the next one!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

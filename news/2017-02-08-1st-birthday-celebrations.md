@@ -18,11 +18,3 @@ Upstairs, our sister company [Bounceroos Events](http://www.bounceroosevents.co.
 The party guests didn't waste any time! As soon as the guests had arrived everyone was busy taking selfies with the amazing Shrek Donkey voiceover - we had some real laughs!
 
 Thank you for inviting Perfect Snap and Bounceroos Events to help you celebrate your special day.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

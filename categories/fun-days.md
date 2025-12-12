@@ -34,9 +34,3 @@ It’s a team effort for the planning phases, and Fun Pro UK team will support y
 7.  Promote the day on your internal platforms to build up the excitement of the day
 
 Let [Fun Pro UK](/pages/christmas-entertainment-game-hire'/) interactive games help your staff get to know each other better and forge stronger teams. Your family fun day is sure to be a fantastic way to celebrate your business successes, anniversaries, awards, brand activation or any reason to come together and have FUN.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -193,9 +193,3 @@ Bookings can be cancelled but are subject to the following cancellation charges:
 *   Cancellation within 4 weeks - 100% of order
 
 Please refer to your contract for full terms and conditions regarding cancellations and rescheduling.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

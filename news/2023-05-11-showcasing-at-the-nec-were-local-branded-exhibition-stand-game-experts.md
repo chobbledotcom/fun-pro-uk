@@ -40,11 +40,3 @@ We pride ourselves on our close collaboration with stand builders at the NEC. We
 So, if you're ready to elevate your exhibition experience to new heights, let Fun Pro UK be your guide. Get in touch with us today, and let's make your next exhibition a resounding success!
 
 *Stay tuned for more exciting updates, industry insights, and game spotlights in the world of exhibition hire. Together, let's redefine what it means to stand out at the NEC!*
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

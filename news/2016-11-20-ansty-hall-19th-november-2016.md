@@ -18,11 +18,3 @@ The Green Screen is by far the best choice of entertainment for any event giving
 Everyone had a ball! There were some lovely messages in our guest book from the couples family and friends.  
 It was a fantastic wedding.  
 Thank You for booking with Perfect Snap and best wishes to you both for a happy future together.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

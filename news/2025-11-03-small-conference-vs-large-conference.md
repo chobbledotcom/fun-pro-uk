@@ -196,11 +196,3 @@ With over 15 years of experience as corporate event specialists, we've helped ev
 Our consultative approach means we take the time to understand your specific requirements; your attendee numbers, venue constraints, conference goals, and audience mix. We'll recommend the right combination of interactive games to create genuine [engagement](/2024-12-17/exhibition-stand-ideas-8-ways-to-attract-attention-and-boost-engagement/) whilst working within your budget.
 
 [Get in touch](/pages/contact-fun-pro-uk/) with our friendly team to discuss your conference requirements. We'll guide you through the options, answer your questions, and help you create an event that attendees remember for all the right reasons.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

@@ -205,9 +205,3 @@ We recommend booking 4-6 weeks in advance for most events. Peak seasons (Decembe
 ### **Can the Roller Bowler be branded with our company logo?**
 
 Yes, comprehensive branding options are available, including header panels, side panels, and playfield graphics. Our in-house design team can create custom artwork incorporating your logo, colours, and messaging. Branding typically requires 2-3 weeks' notice.
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

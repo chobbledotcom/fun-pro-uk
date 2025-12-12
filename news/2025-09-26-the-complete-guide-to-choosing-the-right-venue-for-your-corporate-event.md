@@ -220,11 +220,3 @@ Most venues require event organisers to have public liability insurance, typical
 Ready to start planning your next corporate event?
 
 Our experienced team understands the challenges of event planning and can help you create engaging experiences that achieve your objectives whilst taking the stress out of the process. [Contact us](/pages/contact-fun-pro-uk/) today for a detailed quote.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

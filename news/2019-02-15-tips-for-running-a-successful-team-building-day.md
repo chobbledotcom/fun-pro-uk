@@ -23,11 +23,3 @@ To ensure your day achieves all the goals you've set, we've put together our tip
 6.  Schedule time for follow-up after the team building day. To ensure your event has the biggest impact make sure you schedule in time to follow-up when you're back in the office.This can often be done in a team meeting and ensures you are implementing the learnings you gained from the day.
 
 Team building days can be a lot of fun and a fabulous way to build cohesive teams. At Fun Pro UK we can help to make your day a success with our large range of [interactive games](/interactive-game-hire/) and inflatables. Contact us at email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197.
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

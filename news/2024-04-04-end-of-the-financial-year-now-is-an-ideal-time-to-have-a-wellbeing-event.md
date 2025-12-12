@@ -36,11 +36,3 @@ Free quotes
 Email : [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Telephone : 0247 7220 701
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

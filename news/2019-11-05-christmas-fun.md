@@ -34,11 +34,3 @@ Fun Pro UK's [Christmas grottos](/category/christmas-grotto-hire/) are absolutel
 ![Dance Machine](/userfiles/file/FunPro/Dance%20Machine/dance-1.jpg)
 
 Our all singing and dancing [dance machine](/category/exhibition-games/dance-machine/) is the perfect entertainment item to get your guests active at your Christmas party! Why not put your dancing shoes on and get down on the floor showing off your moves! Your guests will be intrigued when they see those shapes being thrown around and will not be able to stop themselves joining in the fun!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

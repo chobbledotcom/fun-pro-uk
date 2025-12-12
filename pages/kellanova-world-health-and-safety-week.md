@@ -104,9 +104,3 @@ Throughout the project, Fun Pro's coordination team maintained communication wit
 ![](/userfiles/fun-pro-kellanova-whack-a-mole-game.jpg)
 
 If you're planning a health and safety initiative, employee engagement event, or corporate campaign that needs to create genuine interaction and memorable experiences, [Fun Pro's team](/meet-the-team/) would be pleased to discuss how customised interactive entertainment could support your objectives. With over 15 years of experience working with corporate clients [nationwide](/delivery-areas/), we understand how to create solutions that work within manufacturing environments, office settings, and everything in between. [Contact](/contact-fun-pro-uk/) our friendly team to start planning your next event.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

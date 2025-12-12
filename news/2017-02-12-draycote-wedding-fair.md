@@ -18,11 +18,3 @@ The evening will begin at 19.30, finishing at 21.30. On arrival there will be a 
 During the event there will be a range of companies showcasing a variety of services for your wedding day. To name but a few there will be Make My Day wedding planning services, Nanna childcare agency along with Salters of Rugby.  
 Perfect Snap will invite you to try our [Photo Booth and Magic Mirror](/category/photo-booths-and-magic-mirrors/) as we firmly believe you need to try before you buy! What better opportunity is there for the bride to be to have a selfie taken with either the mother of the bride and the bridesmaids!  
 We look forward to seeing you there!
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

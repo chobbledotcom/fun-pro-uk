@@ -38,11 +38,3 @@ Each staff member had a go at keeping Bully under control, it was a great birthd
 Happy 40th Birthday from the Fun Pro Team!!
 
 ![](/userfiles/file/FunPro/20220324-125141.jpg)
-
-[<< Return to news](/2024-02-25/elevate-your-brand/)
-
-## What our customers are saying…
-
-[Load More Reviews](/pages/testimonials/#content)
-
-Happy customers we have worked along side

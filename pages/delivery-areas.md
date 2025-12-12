@@ -224,9 +224,3 @@ Not in one of our key delivery areas? That’s not a problem. Although we’re b
 *   Nationwide coverage
 
 **Delivery may incur extra costs. Please contact us for a full quote.**
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

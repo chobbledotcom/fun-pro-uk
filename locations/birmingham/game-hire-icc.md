@@ -25,9 +25,3 @@ Arranging an exhibition stand, trade show stall or [event at the ICC](/christmas
 Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Here are events being held at the ICC, Birmingham: [Click here to find out more.](http://www.theicc.co.uk/content-hub/)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side
