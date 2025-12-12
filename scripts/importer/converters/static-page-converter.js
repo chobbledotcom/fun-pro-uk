@@ -53,33 +53,8 @@ eleventyNavigation:
 
 We offer a comprehensive range of interactive games and entertainment hire for corporate events, exhibitions, and parties.`
   },
-  {
-    slug: 'reviews',
-    content: `---
-meta_description: "Read reviews and testimonials from our satisfied customers about Fun Pro UK's interactive game hire services."
-meta_title: "Customer Reviews | Fun Pro UK"
-permalink: /reviews/
-layout: reviews.html
----
 
-# Customer Reviews`
-  },
-  {
-    slug: 'service-areas',
-    content: `---
-meta_title: "Delivery Areas | Game Hire Across the UK | Fun Pro UK"
-meta_description: "Fun Pro UK provides interactive game hire and entertainment delivery across the UK including Birmingham, London, Manchester, Coventry, Nottingham, Leicester and more."
-permalink: "/locations/"
-layout: page.html
-eleventyNavigation:
-  key: Locations
-  order: 4
----
 
-# Delivery Areas
-
-We provide nationwide delivery of interactive games and entertainment hire across the UK.`
-  },
   {
     slug: 'thank-you',
     content: `---
