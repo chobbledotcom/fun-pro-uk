@@ -21,6 +21,8 @@ const PAGE_CONFIG = {
 
 /**
  * Generate frontmatter for page content
+ * Old URL: /pages/{slug}/ (for most pages)
+ * New URL: /{slug}/ (at root, dynamically calculated from filename in pages collection)
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Page slug
  * @param {string} pageHeading - The H1 heading from page content
@@ -31,15 +33,21 @@ const generatePageFrontmatter = (metadata, slug, pageHeading = null, navInfo = n
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || 'page';
 
-  // Root-level pages don't need /pages/ prefix
+  // Pages that were already at root level on the old site don't need redirects
   const rootPages = ['contact', 'reviews', 'delivery-areas', 'testimonials'];
-  const permalink = rootPages.includes(slug) ? `/${slug}/` : `/pages/${slug}/`;
+  const needsRedirect = !rootPages.includes(slug);
 
+  // No permalink - let it be dynamically calculated from file location
+  // Pages collection will put them at /{slug}/
   let frontmatter = `---
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-permalink: "${permalink}"
 layout: ${layout}`;
+
+  // Add redirect_from for old /pages/ URLs
+  if (needsRedirect) {
+    frontmatter += `\nredirect_from:\n  - "/pages/${slug}/"`;
+  }
 
   // Add navigation if extracted from old site
   if (navInfo) {

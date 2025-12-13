@@ -1,8 +1,9 @@
 ---
 meta_title: "Edgbaston Stadium | Interactive Games | Exhibition Hire | Events"
 meta_description: "Hire interactive games for exhibitions, trade shows and more at Edgbaston Stadium in Birmingham with the entertainment rental experts! Find out more here."
-permalink: "/pages/edgbaston/"
 layout: page
+redirect_from:
+  - "/pages/edgbaston/"
 ---
 
 # Edgbaston

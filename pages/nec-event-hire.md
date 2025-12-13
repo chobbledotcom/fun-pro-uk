@@ -1,8 +1,9 @@
 ---
 meta_title: "NEC Event Hire | Branded Exhibition Stand Games | Birmingham"
 meta_description: "If you&#39;re exhibiting or showcasing your products at the NEC, then Birmingham&#39;s Fun Pro UK has branded games and exhibition stand entertainment for hire!"
-permalink: "/pages/nec-event-hire/"
 layout: page
+redirect_from:
+  - "/pages/nec-event-hire/"
 ---
 
 # NEC Event Hire

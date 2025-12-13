@@ -1,8 +1,9 @@
 ---
 meta_title: "Aston Villa | Interactive Games | Exhibition Hire | Events Services"
 meta_description: "Make events at Aston Villa extra-special with our exhibition hire and entertainment services! Arcade games, photo booths, branded activities &amp; more."
-permalink: "/pages/aston-villa/"
 layout: page
+redirect_from:
+  - "/pages/aston-villa/"
 ---
 
 # Aston Villa

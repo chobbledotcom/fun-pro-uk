@@ -1,8 +1,9 @@
 ---
 meta_title: "Brand Activation & Promotional Game Hire |Corporate Events"
 meta_description: "Boost brand visibility with promotional game hire for corporate events, exhibitions &amp; brand activations. Custom interactive games available across the UK."
-permalink: "/pages/promotional-event-games/"
 layout: page
+redirect_from:
+  - "/pages/promotional-event-games/"
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire

@@ -1,8 +1,9 @@
 ---
 meta_title: "FAQs | Corporate Entertainment Hire | Fun Pro UK"
 meta_description: "Read the answers to some of the most common questions posed by our corporate entertainment hire clients, and see why Fun Pro UK is the team to choose!"
-permalink: "/pages/frequently-asked-questions/"
 layout: page
+redirect_from:
+  - "/pages/frequently-asked-questions/"
 eleventyNavigation:
   key: "FAQs"
   parent: "About Us"

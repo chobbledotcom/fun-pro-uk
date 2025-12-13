@@ -1,8 +1,9 @@
 ---
 meta_title: "Photo booth hire | Christmas Parties | Fun Pro UK - Nationwide!"
 meta_description: "Hire a Christmas photobooth for your next event? We&#39;re based in the West Midlands but photo booths are available nationwide. Ideal for Christmas events!"
-permalink: "/pages/christmas-photo-booth-corporate-event-hire/"
 layout: page
+redirect_from:
+  - "/pages/christmas-photo-booth-corporate-event-hire/"
 ---
 
 # Christmas Photobooth hire

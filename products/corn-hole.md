@@ -35,7 +35,7 @@ gallery:
 
 **£**295**
 
-![](corn-hole.html#:~:text=but%20staff%20available\)-,Branding%20prices,-Front%20panel%20branding)
+!-,Branding%20prices,-Front%20panel%20branding)
 
 Delivered and installed on site by our trained team
 

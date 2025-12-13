@@ -1,8 +1,9 @@
 ---
 meta_title: "Conference Game Hire – Event Entertainment Game Hire"
 meta_description: "Conference Game Hire – Event Entertainment Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/pages/conference-game-hire/"
 layout: page
+redirect_from:
+  - "/pages/conference-game-hire/"
 ---
 
 # Conference Game Hire
