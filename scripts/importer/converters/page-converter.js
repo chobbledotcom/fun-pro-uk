@@ -1,6 +1,6 @@
 const path = require('path');
 const config = require('../config');
-const { listHtmlFiles, prepDir, slugFromFilename } = require('../utils/filesystem');
+const { listHtmlFiles, prepDir, slugFromFilename, writeMarkdownFile } = require('../utils/filesystem');
 const { extractContentHeading } = require('../utils/metadata-extractor');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
@@ -14,9 +14,6 @@ const fs = require('fs');
 const EXCLUDED_PAGES = [
   'testimonials', // handled by reviews-index-converter
 ];
-
-// Static pages that should not be deleted during cleanup
-const STATIC_PAGE_SLUGS = STATIC_PAGES.map(p => p.slug);
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'page',
@@ -56,11 +53,15 @@ const convertPages = async () => {
     fs.existsSync(path.join(config.OLD_SITE_PATH, file))
   );
 
-  // Clean imported pages but preserve static pages (home.md, products.md, etc.)
-  prepDir(outputDir, (filename) => {
-    const slug = slugFromFilename(filename);
-    return !STATIC_PAGE_SLUGS.includes(slug);
-  });
+  // Clean all pages - they will be regenerated
+  prepDir(outputDir);
+
+  // Generate static pages (home.md, products.md, etc.)
+  for (const page of STATIC_PAGES) {
+    const outputPath = path.join(outputDir, `${page.slug}.md`);
+    writeMarkdownFile(outputPath, page.content);
+  }
+  console.log(`  Generated ${STATIC_PAGES.length} static pages`);
 
   // Extract navigation structure from old site
   const navigation = getNavigation(config.OLD_SITE_PATH);
