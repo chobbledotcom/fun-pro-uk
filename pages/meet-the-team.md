@@ -1,8 +1,9 @@
 ---
 meta_title: "Meet The Team - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Meet The Team - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-permalink: "/pages/meet-the-team/"
 layout: page
+redirect_from:
+  - "/pages/meet-the-team/"
 eleventyNavigation:
   key: "Meet The Team"
   parent: "About Us"

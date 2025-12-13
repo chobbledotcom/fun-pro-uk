@@ -1,8 +1,9 @@
 ---
 meta_title: "Exhibition Stand Games Rental, Games For Exhibition Stands"
 meta_description: "Our exhibition games for hire, significantly boost engagement &amp; drive more people to your stand. Interactive games are perfect for drawing a crowd. Call Today"
-permalink: "/pages/games-for-exhibition-stands-to-hire/"
 layout: page
+redirect_from:
+  - "/pages/games-for-exhibition-stands-to-hire/"
 ---
 
 # **How to Entice Guests & Visitors to Your Exhibition Booth?**

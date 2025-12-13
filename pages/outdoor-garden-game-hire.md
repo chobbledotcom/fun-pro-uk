@@ -1,8 +1,9 @@
 ---
 meta_title: "Summer Entertainment | Party & Event Hire Ideas | Games | UK"
 meta_description: "Enjoy summertime parties with Fun Pro UK! We have some summer entertainment ideas for all outdoor events in the warm weather. Hire all you need online!"
-permalink: "/pages/outdoor-garden-game-hire/"
 layout: page
+redirect_from:
+  - "/pages/outdoor-garden-game-hire/"
 ---
 
 # Summer Entertainment Ideas

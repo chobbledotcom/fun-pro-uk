@@ -1,8 +1,9 @@
 ---
 meta_title: "Evening Event Entertainment Ideas | Party Hire | Fun Pro UK"
 meta_description: "Looking for fun entertainment for evening parties? Check out some of our ideas, from photo booths to rodeo bulls &amp; from arcade games to casino table rentals."
-permalink: "/pages/evening-entertainment/"
 layout: page
+redirect_from:
+  - "/pages/evening-entertainment/"
 ---
 
 # Evening Entertainment Ideas

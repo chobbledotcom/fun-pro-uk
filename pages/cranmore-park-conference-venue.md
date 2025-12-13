@@ -1,8 +1,9 @@
 ---
 meta_title: "Cranmore Park | Interactive Games | Exhibition Hire | Events"
 meta_description: "Appearing at an exhibition, fun day, corporate event or anything else at Cranmore Park? Make your party hire order with Fun Pro UK! Branding available."
-permalink: "/pages/cranmore-park-conference-venue/"
 layout: page
+redirect_from:
+  - "/pages/cranmore-park-conference-venue/"
 ---
 
 # Cranmore Park

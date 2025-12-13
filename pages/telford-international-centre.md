@@ -1,8 +1,9 @@
 ---
 meta_title: "Telford International Centre Exhibition Hire | Rent Branded Games"
 meta_description: "Planning an event at Telford International Centre? Choose the exhibition hire experts and make your next big day spectacular! Full bespoke branding."
-permalink: "/pages/telford-international-centre/"
 layout: page
+redirect_from:
+  - "/pages/telford-international-centre/"
 ---
 
 # Telford International Centre

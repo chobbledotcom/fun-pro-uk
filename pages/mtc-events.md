@@ -1,8 +1,9 @@
 ---
 meta_title: "MTC Events | Interactive Games | Exhibition Hire | Coventry"
 meta_description: "Photo booths, arcade games, interactive entertainment and custom branding - for MTC Events exhibitions, fun days, parties and more, we&#39;re here to help!"
-permalink: "/pages/mtc-events/"
 layout: page
+redirect_from:
+  - "/pages/mtc-events/"
 ---
 
 # MTC Events (Manufacturing Technology Centre)

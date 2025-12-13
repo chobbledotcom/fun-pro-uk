@@ -1,8 +1,9 @@
 ---
 meta_title: "Insurance | Fun Pro UK | Corporate Responsibility"
 meta_description: "Find out about Fun Pro UK&#39;s insurance and read more on our corporate responsibility for all event and party hire jobs across the UK. Local event pros!"
-permalink: "/pages/insurance/"
 layout: page
+redirect_from:
+  - "/pages/insurance/"
 eleventyNavigation:
   key: "Insurance"
   parent: "About Us"
