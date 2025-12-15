@@ -48,9 +48,16 @@ const convertSiteConfig = async () => {
     const descMatch = html.match(/<meta\s+name="description"\s+content="([^"]+)"/i);
     const metaDescription = descMatch ? descMatch[1] : '';
 
-    // Build site.json
-    const siteName = orgData.name || localBusinessData.name || 'Fun Pro UK';
-    const siteUrl = orgData.url || localBusinessData.url || 'https://www.funprouk.co.uk';
+    // Build site.json - extract from source schema data
+    const siteName = orgData.name || localBusinessData.name;
+    const siteUrl = orgData.url || localBusinessData.url;
+    
+    if (!siteName) {
+      throw new Error('Could not extract site name from JSON-LD schema');
+    }
+    if (!siteUrl) {
+      throw new Error('Could not extract site URL from JSON-LD schema');
+    }
 
     // Extract social links from sameAs arrays
     const allSameAs = [...(orgData.sameAs || []), ...(localBusinessData.sameAs || [])];
@@ -74,30 +81,37 @@ const convertSiteConfig = async () => {
       template_repo_url: 'https://git.chobble.com/chobble/chobble-client'
     };
 
-    // Build meta.json
+    // Extract address and contact from source
     const address = localBusinessData.address || {};
     const contactPoint = orgData.contactPoint || localBusinessData.contactPoint || {};
     const phone = (typeof contactPoint === 'object' && contactPoint.telephone)
       ? contactPoint.telephone
-      : localBusinessData.telephone || '+442477220701';
+      : localBusinessData.telephone;
+    
+    if (!phone) {
+      throw new Error('Could not extract phone number from schema');
+    }
 
+    // Build meta.json - extract from source schema data
+    if (!metaDescription) {
+      throw new Error('Could not extract meta description from page');
+    }
+    if (!address.streetAddress) {
+      throw new Error('Could not extract address from LocalBusiness schema');
+    }
+    
     const metaConfig = {
       language: 'en-GB',
       organization: {
-        description: metaDescription || orgData.alternateName || 'Interactive game hire for corporate events, exhibitions, and parties across the UK.',
+        description: metaDescription,
         legalName: siteName.includes('Ltd') ? siteName : `${siteName} Ltd`,
-        foundingDate: '2010',
-        founders: [
-          {
-            name: 'Fun Pro UK Team'
-          }
-        ],
+        // foundingDate and founders are not available in source schema - omit them
         address: {
-          streetAddress: address.streetAddress || 'Unit 7, Heath Business Park, Wolston',
-          addressLocality: address.addressLocality || 'Coventry',
-          addressRegion: address.addressRegion || 'West Midlands',
-          postalCode: address.postalCode || 'CV8 3GB',
-          addressCountry: address.addressCountry || 'GB'
+          streetAddress: address.streetAddress,
+          addressLocality: address.addressLocality,
+          addressRegion: address.addressRegion,
+          postalCode: address.postalCode,
+          addressCountry: address.addressCountry
         },
         contactPoint: [
           {

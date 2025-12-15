@@ -2,26 +2,23 @@ const path = require('path');
 const fs = require('fs');
 const config = require('../config');
 const { ensureDir, writeMarkdownFile } = require('../utils/filesystem');
+const { getSiteTitle, getMetaDescription, getSiteName, getSocialUrl } = require('../utils/source-extractor');
 
 /**
  * Generate home.md from index.html metadata
+ * Uses source-extractor to get actual data from the old site
  */
 const generateHomePage = () => {
-  const indexPath = path.join(config.OLD_SITE_PATH, 'index.html');
-
-  if (!fs.existsSync(indexPath)) {
-    console.log('  Warning: index.html not found, using default home page');
-    return createDefaultHomePage();
+  // Get title and description from source - no fallbacks, data must exist
+  const title = getSiteTitle();
+  const description = getMetaDescription();
+  
+  if (!title) {
+    throw new Error('Could not extract site title from source');
   }
-
-  const html = fs.readFileSync(indexPath, 'utf8');
-
-  // Extract title and meta description
-  const titleMatch = html.match(/<title>([^<]+)<\/title>/);
-  const descMatch = html.match(/<meta name="description" content="([^"]+)"/);
-
-  const title = titleMatch ? titleMatch[1] : 'MyAlarm Security | Burglar Alarms & CCTV Systems';
-  const description = descMatch ? descMatch[1] : 'Professional burglar alarm and CCTV installation across South East London and Kent.';
+  if (!description) {
+    throw new Error('Could not extract meta description from source');
+  }
 
   return `---
 meta_title: "${title}"
@@ -38,32 +35,18 @@ eleventyNavigation:
 };
 
 /**
- * Create default home page if no source data available
- */
-const createDefaultHomePage = () => {
-  const title = 'Fun Pro UK | Interactive Game Hire for Corporate Events & Parties';
-  return `---
-meta_title: "${title}"
-meta_description: "Interactive game hire for corporate events, exhibitions, and parties across the UK. Book now for guaranteed fun!"
-permalink: "/"
-layout: "home.html"
-eleventyNavigation:
-  key: Home
-  order: 1
----
-
-# ${title}
-`;
-};
-
-/**
  * Generate products.md with minimal content (products listed by template)
+ * Uses extracted site name for titles
  */
 const generateProductsPage = () => {
-  const config = require('../config');
-
+  const siteName = getSiteName();
+  
+  if (!siteName) {
+    throw new Error('Could not extract site name from source');
+  }
+  
   let frontmatter = `---
-meta_title: "Interactive Game Hire | Corporate Events & Parties | Fun Pro UK"
+meta_title: "Interactive Game Hire | Corporate Events & Parties | ${siteName}"
 meta_description: "Browse our complete range of interactive games, arcade machines, and entertainment hire for corporate events, exhibitions, and parties across the UK."
 permalink: "/products/"
 layout: products.html`;
@@ -85,8 +68,6 @@ We offer a comprehensive range of interactive games and entertainment hire for c
 
   return frontmatter;
 };
-
-
 
 /**
  * Generate not-found.md
@@ -125,13 +106,22 @@ Your message has been sent - we will be in touch.
 
 /**
  * Generate blog index page
+ * Uses extracted site name and Facebook URL from source
  */
 const generateBlogPage = () => {
-  const config = require('../config');
+  const siteName = getSiteName();
+  const facebookUrl = getSocialUrl('facebook');
+  
+  if (!siteName) {
+    throw new Error('Could not extract site name from source');
+  }
+  if (!facebookUrl) {
+    throw new Error('Could not extract Facebook URL from source');
+  }
 
   let frontmatter = `---
-meta_description: "Latest news and updates from Fun Pro UK about interactive game hire, corporate events, and entertainment."
-meta_title: "News & Updates | Fun Pro UK"
+meta_description: "Latest news and updates from ${siteName} about interactive game hire, corporate events, and entertainment."
+meta_title: "News & Updates | ${siteName}"
 permalink: /blog/
 layout: news-archive.html`;
 
@@ -146,6 +136,8 @@ eleventyNavigation:
 ---
 
 # News & Updates
+
+All of the latest news from ${siteName} - you can also find more updates on our [Facebook Page](${facebookUrl})!
 `;
 
   return frontmatter;

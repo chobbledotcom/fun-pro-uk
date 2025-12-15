@@ -28,7 +28,7 @@ gallery:
 
 Looking to add excitement and engagement to your next event? The **Gold Bar Challenge** is the ultimate interactive game that combines skill, suspense, and fun. Perfect for exhibitions, brand activations, corporate events, and team-building activities, this game is designed to captivate audiences and create memorable experiences.
 
-#### !
+#### 
 
 Delivered and installed on site by our trained team
 

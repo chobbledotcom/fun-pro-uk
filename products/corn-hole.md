@@ -35,7 +35,7 @@ gallery:
 
 **£**295**
 
-!-,Branding%20prices,-Front%20panel%20branding)
+-,Branding%20prices,-Front%20panel%20branding)
 
 Delivered and installed on site by our trained team
 

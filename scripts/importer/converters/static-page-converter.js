@@ -1,17 +1,38 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, writeMarkdownFile } = require('../utils/filesystem');
+const { getSiteTitle, getMetaDescription, getSiteName, getSocialUrl } = require('../utils/source-extractor');
 
 /**
- * Static pages that are manually created (not imported from old site)
- * These are index/template pages needed by the site
+ * Generate static pages dynamically using extracted source data
+ * @returns {Array} Array of page objects with slug and content
  */
-const STATIC_PAGES = [
-  {
-    slug: 'blog',
-    content: `---
-meta_title: "News & Updates | Fun Pro UK"
-meta_description: "All of the latest news from Fun Pro UK about interactive game hire, corporate events, exhibitions, and parties."
+const getStaticPages = () => {
+  // Extract data from source - no fallbacks, data must exist
+  const siteTitle = getSiteTitle();
+  const metaDescription = getMetaDescription();
+  const siteName = getSiteName();
+  const facebookUrl = getSocialUrl('facebook');
+  
+  if (!siteTitle) {
+    throw new Error('Could not extract site title from source');
+  }
+  if (!metaDescription) {
+    throw new Error('Could not extract meta description from source');
+  }
+  if (!siteName) {
+    throw new Error('Could not extract site name from source');
+  }
+  if (!facebookUrl) {
+    throw new Error('Could not extract Facebook URL from source');
+  }
+
+  return [
+    {
+      slug: 'blog',
+      content: `---
+meta_title: "News & Updates | ${siteName}"
+meta_description: "All of the latest news from ${siteName} about interactive game hire, corporate events, exhibitions, and parties."
 permalink: "/blog/"
 layout: news-archive.html
 eleventyNavigation:
@@ -21,13 +42,13 @@ eleventyNavigation:
 
 # News & Updates
 
-All of the latest news from Fun Pro UK - you can also find more updates on our [Facebook Page](https://www.facebook.com/funprouk/)!`
-  },
-  {
-    slug: 'home',
-    content: `---
-meta_title: "Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide"
-meta_description: "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK. Book now for guaranteed fun!"
+All of the latest news from ${siteName} - you can also find more updates on our [Facebook Page](${facebookUrl})!`
+    },
+    {
+      slug: 'home',
+      content: `---
+meta_title: "${siteTitle}"
+meta_description: "${metaDescription}"
 permalink: "/"
 layout: "home.html"
 eleventyNavigation:
@@ -35,12 +56,12 @@ eleventyNavigation:
   order: 1
 ---
 
-# Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide`
-  },
-  {
-    slug: 'products',
-    content: `---
-meta_title: "Interactive Game Hire | Corporate Events & Parties | Fun Pro UK"
+# ${siteTitle}`
+    },
+    {
+      slug: 'products',
+      content: `---
+meta_title: "Interactive Game Hire | Corporate Events & Parties | ${siteName}"
 meta_description: "Browse our complete range of interactive games, arcade machines, and entertainment hire for corporate events, exhibitions, and parties across the UK."
 permalink: "/products/"
 layout: products.html
@@ -52,12 +73,10 @@ eleventyNavigation:
 # Interactive Game Hire
 
 We offer a comprehensive range of interactive games and entertainment hire for corporate events, exhibitions, and parties.`
-  },
-
-
-  {
-    slug: 'thank-you',
-    content: `---
+    },
+    {
+      slug: 'thank-you',
+      content: `---
 meta_description:
 meta_title: Thank You
 navigationParent: Contact
@@ -69,10 +88,10 @@ no_index: true
 ## Thank You
 
 Your message has been sent - we will be in touch.`
-  },
-  {
-    slug: 'not-found',
-    content: `---
+    },
+    {
+      slug: 'not-found',
+      content: `---
 meta_description:
 meta_title: Not Found
 no_index: true
@@ -85,8 +104,12 @@ permalink: /not_found.html
 ## Page Not Found
 
 Whoops! It looks like you followed an invalid link - **[click here to go back to the homepage](/)**.`
-  }
-];
+    }
+  ];
+};
+
+// Export STATIC_PAGES as a getter for backward compatibility
+const STATIC_PAGES = getStaticPages();
 
 /**
  * Convert static pages (manually created pages not from old site)
@@ -98,10 +121,13 @@ const convertStaticPages = async () => {
   const outputDir = path.join(config.OUTPUT_BASE, config.paths.pages);
   ensureDir(outputDir);
 
+  // Get fresh static pages (with extracted data)
+  const pages = getStaticPages();
+
   let successful = 0;
   let failed = 0;
 
-  for (const page of STATIC_PAGES) {
+  for (const page of pages) {
     try {
       const outputPath = path.join(outputDir, `${page.slug}.md`);
       writeMarkdownFile(outputPath, page.content);
@@ -113,10 +139,11 @@ const convertStaticPages = async () => {
     }
   }
 
-  return { successful, failed, total: STATIC_PAGES.length };
+  return { successful, failed, total: pages.length };
 };
 
 module.exports = {
   convertStaticPages,
-  STATIC_PAGES
+  STATIC_PAGES,
+  getStaticPages
 };

@@ -182,9 +182,13 @@ main {
 }
 
 #homepage-intro {
-  padding: 64px 0;
-  max-width: 700px;
-  text-align: left;
+  row {
+    padding: 64px 0;
+    & > * {
+      max-width: 700px;
+      text-align: left;
+    }
+  }
 }
 
 #homepage-brands {

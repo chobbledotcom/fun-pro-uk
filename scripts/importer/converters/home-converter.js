@@ -1,6 +1,24 @@
 const fs = require('fs');
 const path = require('path');
 const { downloadImage } = require('../utils/image-downloader');
+const { getReviewsHeading } = require('../utils/source-extractor');
+
+/**
+ * Extract the reviews heading from HTML content
+ * @param {string} html - HTML content
+ * @returns {string} Reviews heading
+ */
+const extractReviewsHeading = (html) => {
+  // Try to find the reviews/testimonials heading in the photo gallery section
+  const reviewsHeadingMatch = html.match(/<h2[^>]*>\s*What our customers are saying[^<]*<\/h2>/i);
+  if (reviewsHeadingMatch) {
+    return reviewsHeadingMatch[0]
+      .replace(/<[^>]+>/g, '')
+      .replace(/&hellip;/g, '...')
+      .trim();
+  }
+  return null;
+};
 
 /**
  * Extract homepage content from the old site index.html
@@ -14,6 +32,9 @@ const convertHomeContent = async () => {
   const outputPath = path.join(__dirname, '../../../_data/home_content.json');
 
   const html = fs.readFileSync(oldSitePath, 'utf-8');
+
+  // Extract reviews heading from source, fallback to source-extractor
+  const reviewsHeading = extractReviewsHeading(html) || getReviewsHeading('What our customers are saying...');
 
     const homeContent = {
       banner: {
@@ -38,7 +59,7 @@ const convertHomeContent = async () => {
         features: []
       },
       reviews: {
-        heading: "What our customers are saying..."
+        heading: reviewsHeading
       },
       client_logos: [],
       delivery_areas: []

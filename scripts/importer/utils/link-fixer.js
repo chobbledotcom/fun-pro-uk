@@ -136,6 +136,112 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
   const currentSlug = path.basename(filePath, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
   const errors = [];
   
+  // First, fix linked images pointing to HTML pages: [![alt](image)](page.html)
+  // This happens when pandoc converts <a href="page.html"><img src="image" alt="text"/></a>
+  // We convert these to regular text links, removing the image
+  content = content.replace(/\[!\[([^\]]*)\]\([^)]+\)\]\(([^)]+\.html[^)]*)\)/g, (match, alt, target) => {
+    // Extract the page link target, strip anchor and .html
+    let cleanTarget = target.replace(/#.*$/, '').replace(/\.html$/, '');
+    cleanTarget = cleanTarget.replace(/['']/g, '');  // Remove apostrophes
+    
+    // Extract just the slug part for self-reference check
+    const targetSlug = cleanTarget.split('/').pop();
+    
+    // If self-referential, just return the alt text (remove the linked image entirely)
+    if (targetSlug === currentSlug) {
+      return alt || '';
+    }
+    
+    // Make it absolute if relative
+    if (!cleanTarget.startsWith('/')) {
+      cleanTarget = '/' + cleanTarget.replace(/^(?:\.\.\/|\.\/)+/, '');
+    }
+    if (!cleanTarget.endsWith('/')) cleanTarget += '/';
+    
+    // Check if it resolves to a valid destination
+    let resolved = cleanTarget;
+    if (redirectMap.has(resolved)) {
+      resolved = redirectMap.get(resolved);
+    }
+    
+    // Try common fixes if not found
+    if (!validDests.has(resolved)) {
+      const slug = resolved.replace(/^\//, '').replace(/\/$/, '');
+      const tryPaths = [`/${slug}/`, `/pages/${slug}/`, `/products/${slug}/`];
+      for (const tryPath of tryPaths) {
+        if (validDests.has(tryPath)) {
+          resolved = tryPath;
+          break;
+        }
+        if (redirectMap.has(tryPath)) {
+          resolved = redirectMap.get(tryPath);
+          break;
+        }
+      }
+    }
+    
+    // If we found a valid destination, convert to a regular link (no image)
+    if (validDests.has(resolved)) {
+      return `[${alt || 'Contact us'}](${resolved})`;
+    }
+    
+    // Otherwise just return the alt text (remove the broken linked image)
+    return alt || '';
+  });
+  
+  // Also fix bogus image links that point to HTML pages instead of actual images
+  // This happens when pandoc converts <a href="page.html"><img alt="text"/></a> to ![text](page.html)
+  content = content.replace(/!\[([^\]]*)\]\(([^)]+\.html[^)]*)\)/g, (match, alt, target) => {
+    // This is an "image" pointing to an HTML page - convert to a regular link or remove
+    // Strip anchor and .html
+    let cleanTarget = target.replace(/#.*$/, '').replace(/\.html$/, '');
+    cleanTarget = cleanTarget.replace(/['']/g, '');  // Remove apostrophes
+    
+    // Extract just the slug part for self-reference check
+    const targetSlug = cleanTarget.split('/').pop();
+    
+    // If self-referential, just return the alt text (remove the bogus image link)
+    if (targetSlug === currentSlug) {
+      return alt || '';
+    }
+    
+    // Make it absolute if relative
+    if (!cleanTarget.startsWith('/')) {
+      cleanTarget = '/' + cleanTarget.replace(/^(?:\.\.\/|\.\/)+/, '');
+    }
+    if (!cleanTarget.endsWith('/')) cleanTarget += '/';
+    
+    // Check if it resolves to a valid destination
+    let resolved = cleanTarget;
+    if (redirectMap.has(resolved)) {
+      resolved = redirectMap.get(resolved);
+    }
+    
+    // Try common fixes if not found
+    if (!validDests.has(resolved)) {
+      const slug = resolved.replace(/^\//, '').replace(/\/$/, '');
+      const tryPaths = [`/${slug}/`, `/pages/${slug}/`, `/products/${slug}/`];
+      for (const tryPath of tryPaths) {
+        if (validDests.has(tryPath)) {
+          resolved = tryPath;
+          break;
+        }
+        if (redirectMap.has(tryPath)) {
+          resolved = redirectMap.get(tryPath);
+          break;
+        }
+      }
+    }
+    
+    // If we found a valid destination, convert to a regular link
+    if (validDests.has(resolved)) {
+      return `[${alt || 'Contact us'}](${resolved})`;
+    }
+    
+    // Otherwise just return the alt text (remove the broken image/link)
+    return alt || '';
+  });
+  
   // More robust regex that handles titles with parentheses
   // Matches: [text](url) or [text](url "title") or [text](url "title with (parens)")
   content = content.replace(/\[([^\]]*)\]\(([^"\s)]+(?:\s+"[^"]*")?)\)/g, (match, text, target) => {
