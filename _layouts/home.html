@@ -3,21 +3,23 @@ layout: base
 ---
 
 <section id="homepage-intro">
-  <h1>Get in Touch</h1>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  </p>
-  <p>
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-  <p>
-    <a href="/products/" class="button red">View Games</a>
-  </p>
+  <row>
+    <h1>Get in Touch</h1>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+    </p>
+    <p>
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </p>
+    <p>
+      <a href="/products/" class="button red">View Games</a>
+    </p>
+  </row>
 </section>
 
 <section id="homepage-testimonials">
@@ -51,8 +53,8 @@ layout: base
       <li>
         <h3>Build Your Quote Request</h3>
         <p>
-          Add your favourite games to your quote basket. Include your event date,
-          venue details, and any special requirements you have in mind.
+          Add your favourite games to your quote basket. Include your event
+          date, venue details, and any special requirements you have in mind.
         </p>
       </li>
       <li>
@@ -65,12 +67,11 @@ layout: base
     </ol>
     <p>
       <a href="/contact/" class="button white">
-        Get in Touch
-        {{ "icons/up-right-arrow.svg" | inline_asset }}
+        Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
       </a>
     </p>
   </div>
-  <img src="/images/placeholders/homepage-machines.png" alt="">
+  <img src="/images/placeholders/homepage-machines.png" alt="" />
 </section>
 
 <section id="homepage-products">
@@ -78,14 +79,14 @@ layout: base
     Popular Games
     <a href="/products/">View All Games</a>
   </h2>
-  {%- assign products = collections.products | getFeaturedProducts -%}
-  {%- include "items.html", items: products, horizontal: true -%}
+  {%- assign products = collections.products | getFeaturedProducts -%} {%-
+  include "items.html", items: products, horizontal: true -%}
 </section>
 
 <section id="homepage-events">
   <header>
     <h2>What Kind of Event Are You Planning?</h2>
   </header>
-  {%- assign events = collections.events | getFeaturedEvents -%}
-  {%- include "items.html", items: events, horizontal: true -%}
+  {%- assign events = collections.events | getFeaturedEvents -%} {%- include
+  "items.html", items: events, horizontal: true -%}
 </section>
