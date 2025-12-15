@@ -1,10 +1,12 @@
 const path = require('path');
 const config = require('../config');
 const { ensureDir, writeMarkdownFile } = require('../utils/filesystem');
+const { getSiteName, getSocialUrl } = require('../utils/source-extractor');
 
 /**
  * Generate blog index page with navigation
  * Blog posts are automatically rendered by the news layout
+ * Uses source-extractor to get site name and Facebook URL
  * @returns {Object} Conversion results
  */
 const convertBlogIndex = () => {
@@ -13,9 +15,20 @@ const convertBlogIndex = () => {
   const outputDir = path.join(config.OUTPUT_BASE, 'pages');
   ensureDir(outputDir);
 
+  // Extract data from source - no fallbacks, data must exist
+  const siteName = getSiteName();
+  const facebookUrl = getSocialUrl('facebook');
+  
+  if (!siteName) {
+    throw new Error('Could not extract site name from source');
+  }
+  if (!facebookUrl) {
+    throw new Error('Could not extract Facebook URL from source');
+  }
+
   const frontmatter = `---
-meta_title: "News & Updates | Fun Pro UK"
-meta_description: "All of the latest news from Fun Pro UK about interactive game hire, corporate events, exhibitions, and parties."
+meta_title: "News & Updates | ${siteName}"
+meta_description: "All of the latest news from ${siteName} about interactive game hire, corporate events, exhibitions, and parties."
 permalink: "/blog/"
 layout: news-archive.html
 eleventyNavigation:
@@ -25,7 +38,7 @@ eleventyNavigation:
 
   const content = `# News & Updates
 
-All of the latest news from Fun Pro UK - you can also find more updates on our [Facebook Page](https://www.facebook.com/funprouk/)!`;
+All of the latest news from ${siteName} - you can also find more updates on our [Facebook Page](${facebookUrl})!`;
 
   const fullContent = `${frontmatter}\n\n${content}`;
   const outputPath = path.join(outputDir, 'blog.md');
