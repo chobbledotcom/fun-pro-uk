@@ -73,7 +73,8 @@ h3 {
 }
 
 article#content,
-.full-width {
+.full-width,
+.footer {
   display: grid;
   grid-template-columns:
     [full-width-start]
@@ -401,7 +402,14 @@ main {
 
 #footer-contact {
   border-top: 4px solid #ff0004;
-  padding: 64px;
+  padding: 64px 0;
+
+  .row {
+    display: flex;
+    gap: 32px;
+    justify-content: space-between;
+    align-items: center;
+  }
 
   #footer-logo {
     width: 42px;
