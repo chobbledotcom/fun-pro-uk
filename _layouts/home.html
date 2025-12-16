@@ -3,42 +3,38 @@ layout: base
 ---
 
 <section id="homepage-intro">
-  <div class="container">
-    <h1>Get in Touch</h1>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-    </p>
-    <p>
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </p>
-    <p>
-      <a href="/products/" class="button red">View Games</a>
-    </p>
-  </div>
+  <h1>Get in Touch</h1>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+    commodo consequat.
+  </p>
+  <p>
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+  <p>
+    <a href="/products/" class="button red">View Games</a>
+  </p>
 </section>
 
 <section id="homepage-testimonials">
-  <div class="container">
-    <h2>Hear What Our Clients Have To Say</h2>
-    <h3>Customer Reviews on Google</h3>
-    <p>
-      ⭐⭐⭐⭐ 5.0 rating -
-      <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
-    </p>
-    {%- assign latest_reviews = collections.visibleReviews | getLatestReviews: 3 -%}
-    <ul>
-      {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
-    </ul>
-  </div>
+  <h2>Hear What Our Clients Have To Say</h2>
+  <h3>Customer Reviews on Google</h3>
+  <p>
+    ⭐⭐⭐⭐ 5.0 rating -
+    <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
+  </p>
+  {%- assign latest_reviews = collections.visibleReviews | getLatestReviews: 3 -%}
+  <ul>
+    {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
+  </ul>
 </section>
 
-<section id="homepage-brands">
-  <div class="container">
+<section id="homepage-brands" class="full-width">
+  <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
     <ul>
       <li><img src="/assets/partners/boots.png" alt="Boots" /></li>
@@ -50,8 +46,8 @@ layout: base
   </div>
 </section>
 
-<section id="homepage-how-it-works">
-  <div class="container">
+<section class="full-width" id="homepage-how-it-works">
+  <div class="grid">
     <h2>How it Works</h2>
     <ol>
       <li>
@@ -77,13 +73,11 @@ layout: base
         </p>
       </li>
     </ol>
-    <p>
-      <a href="/contact/" class="button white">
-        Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
-      </a>
-    </p>
+    <a href="/contact/" class="button white">
+      Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
+    </a>
+    <img src="/images/placeholders/homepage-machines.png" alt="" />
   </div>
-  <img src="/images/placeholders/homepage-machines.png" alt="" />
 </section>
 
 <section id="homepage-products">
@@ -96,9 +90,7 @@ layout: base
 </section>
 
 <section id="homepage-events">
-  <header>
-    <h2>What Kind of Event Are You Planning?</h2>
-  </header>
+  <h2>What Kind of Event Are You Planning?</h2>
   {%- assign events = collections.events | getFeaturedEvents -%} {%- include
   "items.html", items: events, horizontal: true -%}
 </section>
