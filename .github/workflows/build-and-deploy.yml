@@ -88,20 +88,6 @@ jobs:
             ${{ runner.os }}-pnpm-${{ hashFiles('template/pnpm-lock.yaml') }}-images-
             ${{ runner.os }}-pnpm-
 
-      - name: Debug - List directory structure after cache restore
-        run: |
-          echo "=== Contents of combined/ directory ==="
-          ls -la combined/ || echo "combined/ does not exist"
-          echo ""
-          echo "=== Tree view of combined/ (max depth 2) ==="
-          tree -L 2 combined/ || find combined/ -maxdepth 2 -ls || echo "tree/find failed"
-          echo ""
-          echo "=== Check if .image-cache exists ==="
-          ls -la combined/.image-cache/ || echo "combined/.image-cache does not exist"
-          echo ""
-          echo "=== Check if node_modules exists ==="
-          ls -la combined/node_modules/ | head -20 || echo "combined/node_modules does not exist"
-
       - name: Build with Node
         run: |
           cd combined
@@ -109,23 +95,6 @@ jobs:
           pnpm exec eleventy
           mkdir -p ../_site
           mv _site/* ../_site/
-
-      - name: Debug - List directory structure after build
-        run: |
-          echo "=== Contents of combined/ after build ==="
-          ls -la combined/
-          echo ""
-          echo "=== Contents of combined/.image-cache/ ==="
-          ls -lh combined/.image-cache/ | head -30 || echo "combined/.image-cache does not exist"
-          echo ""
-          echo "=== Size of .image-cache ==="
-          du -sh combined/.image-cache/ || echo "No .image-cache"
-          echo ""
-          echo "=== Size of node_modules ==="
-          du -sh combined/node_modules/ || echo "No node_modules"
-          echo ""
-          echo "=== Count of files in .image-cache ==="
-          find combined/.image-cache/ -type f | wc -l || echo "Cannot count"
 
       - name: Set deployment environment
         id: deployment_env
