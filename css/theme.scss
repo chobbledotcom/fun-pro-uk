@@ -59,7 +59,7 @@
 }
 
 ::root {
-  --width-content: 1920px;
+  --width-content: 1200px;
 }
 
 h1,
@@ -72,9 +72,28 @@ h3 {
   aspect-ratio: 3/2;
 }
 
-.container {
-  max-width: var(--width-content);
-  margin: 0 auto;
+article#content,
+.full-width {
+  display: grid;
+  grid-template-columns:
+    [full-width-start]
+    100px [breakout-start]
+    100px [content-start]
+    1fr [content-end]
+    100px [breakout-end]
+    100px
+    [full-width-end];
+
+  & > *:not(.breakout, .full-width) {
+    grid-column: content;
+    max-width: 1200px;
+  }
+  & > .breakout {
+    grid-column: breakout;
+  }
+  & > .full-width {
+    grid-column: full-width;
+  }
 }
 
 placeholder {
@@ -237,7 +256,7 @@ main {
 #homepage-brands {
   padding: 64px 32px;
   background: #fafafa;
-  .container {
+  .row {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -263,11 +282,28 @@ main {
 }
 
 #homepage-how-it-works {
-  display: flex;
   padding: 128px 32px;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+  .grid {
+    display: grid;
+    grid-template-areas: "header header" "left image" "link image";
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    &> h2 {
+      grid-area: header;
+    }
+    &> ol {
+      grid-area: left;
+    }
+    &> a {
+      grid-area: link;
+    }
+    &>img,
+    &>.image-wrapper {
+      grid-area: image
+    }
+
+  }
   background: #009dd7;
   color: #fff;
 
@@ -277,7 +313,7 @@ main {
     color: #fff;
   }
 
-  @media (max-width: 789px) {
+  @include breakpoints.down("md") {
     padding: 32px;
     .image-wrapper {
       display: none;
