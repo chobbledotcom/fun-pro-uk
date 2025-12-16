@@ -85,6 +85,28 @@ article#content,
     1fr
     [full-width-end];
 
+  @include breakpoints.down("lg") {
+    grid-template-columns:
+      [full-width-start]
+      100px [breakout-start]
+      100px [content-start]
+      1fr [content-end]
+      100px [breakout-end]
+      100px
+      [full-width-end];
+  }
+
+  @include breakpoints.down("md") {
+    grid-template-columns:
+      [full-width-start]
+      20px [breakout-start]
+      10px [content-start]
+      1fr [content-end]
+      10px [breakout-end]
+      20px
+      [full-width-end];
+  }
+
   & > *:not(.breakout, .full-width) {
     grid-column: content;
     max-width: 1200px
