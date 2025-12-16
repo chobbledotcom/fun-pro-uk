@@ -46,7 +46,6 @@ node scripts/importer/index.js
 The importer uses smart cleanup to preserve non-imported files:
 
 **Full cleanup (all files):**
-- `images/` - Completely removed and recreated (including subdirectories)
 - `news/` - All files removed (only contains imported blog posts)
 - `products/` - All files removed (only contains imported products)
 - `categories/` - All files removed (only contains imported categories)
@@ -55,6 +54,9 @@ The importer uses smart cleanup to preserve non-imported files:
 
 **Selective cleanup (only imported files):**
 - `reviews/` - Only deletes product reviews from old_site (preserves Google reviews with `-google-` in filename)
+
+**Preserved folders (never cleaned, cached between runs):**
+- `images/` - All images preserved for caching (subdirectories for products, pages, etc.)
 
 **Protected folders (never touched):**
 - `.git/`, `scripts/`, `old_site/`, `css/`, `app/`, `_data/`, `_includes/`, `_layouts/`
