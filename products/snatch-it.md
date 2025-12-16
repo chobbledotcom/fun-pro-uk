@@ -12,12 +12,20 @@ redirect_from:
   - "/category/arcade-games/82/snatch-it/"
   - "/category/exhibition-games/82/snatch-it/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-snatch-it.jpg"
+  - "/images/products/snatch-it-2.jpg"
+  - "/images/products/snatch-it-3.jpg"
+  - "/images/products/snatch-it-4.jpg"
+  - "/images/products/snatch-it-5.jpg"
+  - "/images/products/snatch-it-6.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/962d786906d5ce4b4573f51cc1e27cc9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a22669eab1c12aa0bd406fb5bb40f92c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/732ee488455051d1ff58b96c4d853aed"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0b095d30ba2bec214846406e561a9b6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba0f9e064a6ee5454a6055e08564aa1a"
+
 ---
 
 # Snatch It

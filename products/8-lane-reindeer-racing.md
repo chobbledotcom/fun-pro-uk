@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/christmas-games/102/8-lane-reindeer-racing/"
 gallery:
+  - "/images/products/8-lane-reindeer-racing-1.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
+
 ---
 
 # 8 Lane Reindeer Racing

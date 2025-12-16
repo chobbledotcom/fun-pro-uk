@@ -12,7 +12,10 @@ redirect_from:
   - "/category/arcade-games/77/virtual-pinball/"
   - "/category/exhibition-games/77/virtual-pinball/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-virtual-pinball.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
+
 ---
 
 # Virtual Pinball

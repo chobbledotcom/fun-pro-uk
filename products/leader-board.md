@@ -11,6 +11,20 @@ features: []
 redirect_from:
   - "/category/interactive-game-hire/30/leader-board/"
 gallery:
+  - "/images/products/leader-board-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/leader-board-2.jpg"
+  - "/images/products/leader-board-3.jpg"
+  - "/images/products/leader-board-4.jpg"
+  - "/images/products/leader-board-5.jpg"
+  - "/images/products/leader-board-6.jpg"
+  - "/images/products/leader-board-7.jpg"
+  - "/images/products/leader-board-8.jpg"
+  - "/images/products/leader-board-9.jpg"
+  - "/images/products/leader-board-10.jpg"
+  - "/images/products/leader-board-11.jpg"
+  - "/images/products/leader-board-12.jpg"
+  - "/images/products/leader-board-13.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3cd165509b7a1705c1dbf729a097616e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d8961abc5dd9ab16a8564365fc66c923"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ac1fb5cc1fc4774cb87de17e19d88470"
@@ -24,6 +38,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7d4c6028bf92864ddda090b32ba909d0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
+
 ---
 
 # LEADER BOARD

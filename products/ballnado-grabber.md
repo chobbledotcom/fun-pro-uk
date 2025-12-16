@@ -12,6 +12,28 @@ redirect_from:
   - "/category/exhibition-games/36/ballnado-grabber/"
   - "/category/grab-a-grand/36/ballnado-grabber/"
 gallery:
+  - "/images/products/ballnado-grabber-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/ballnado-grabber-2.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-2.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-3.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-4.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-5.jpg"
+  - "/images/products/ballnado-grabber-8.jpg"
+  - "/images/products/ballnado-grabber-9.jpg"
+  - "/images/products/ballnado-grabber-10.jpg"
+  - "/images/products/ballnado-grabber-reindeer-nosenado-christmas-ballnado-hire.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-6.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-7.jpg"
+  - "/images/products/ballnado-grabber-14.jpg"
+  - "/images/products/ballnado-grabber-15.jpg"
+  - "/images/products/ballnado-grabber-16.jpg"
+  - "/images/products/ballnado-grabber-17.jpg"
+  - "/images/products/ballnado-grabber-18.jpg"
+  - "/images/products/ballnado-grabber-19.jpg"
+  - "/images/products/ballnado-grabber-20.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-lights-out-game-lights-out-game-2.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8223c74f2c96f5e868328302395c1f83"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0176641d16f3876e35bade1d5ae9121"
@@ -33,6 +55,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2e678f1ce63e8a5979a938854cbdee9c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f1306576e3a9eac486285332f4c814"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
+
 ---
 
 # Ballnado Grabber

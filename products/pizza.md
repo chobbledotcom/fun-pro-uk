@@ -11,9 +11,14 @@ features: []
 redirect_from:
   - "/category/fun-foods/70/pizza/"
 gallery:
+  - "/images/products/pizza-1.jpg"
+  - "/images/products/pizza-2.jpg"
+  - "/images/products/pizza-3.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cf18c8aa2dc7b7fe8a4fc74eb8a41441"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90a7a6001788b93207beaf3b0f7bd6ca"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e6f61bfa03a9dd6854c94b7c7daa283"
+
 ---
 
 # Pizza

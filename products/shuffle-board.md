@@ -11,6 +11,16 @@ features: []
 redirect_from:
   - "/category/all-products/87/shuffle-board/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-shuffle-board-shuffle-board-hire-shuffleboard-hire.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-2.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-3.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-4.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-5.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-6.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-7.jpg"
+  - "/images/products/shuffle-board-shuffle-board-hire-shuffleboard-hire-8.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/25bd4f8dba23c188523ba1ee9b50cf8b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/909ad0c948225cd713d67c14eb0ef9e1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647a3396fda9507d6e78b0c355434476"
@@ -20,6 +30,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e3e3c12e459b9d22ac7551efaf6bbe70"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26339feadbd714699309beea753efe57"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026e38cde243bde47c078e8f3ebd99fc"
+
 ---
 
 # Shuffleboard Hire

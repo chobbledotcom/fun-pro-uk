@@ -11,9 +11,14 @@ features: []
 redirect_from:
   - "/category/christmas-game-hire/90/candy-cane-megawire/"
 gallery:
+  - "/images/products/candy-cane-megawire-1.jpg"
+  - "/images/products/candy-cane-megawire-2.jpg"
+  - "/images/products/candy-cane-megawire-3.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f096c93ee28d41efc8924054b509e132"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ff47108f9f6cba1761245a88adb80f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60907d36ad461e2a97cd01452cb74c91"
+
 ---
 
 # Candy Cane Megawire

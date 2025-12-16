@@ -11,6 +11,23 @@ features: []
 redirect_from:
   - "/category/christmas-games/112/christmas-roller-bowler/"
 gallery:
+  - "/images/products/christmas-roller-bowler-1.jpg"
+  - "/images/products/christmas-roller-bowler-2.jpg"
+  - "/images/products/christmas-roller-bowler-3.jpg"
+  - "/images/products/christmas-roller-bowler-4.jpg"
+  - "/images/products/christmas-roller-bowler-5.jpg"
+  - "/images/products/christmas-roller-bowler-6.jpg"
+  - "/images/products/christmas-roller-bowler-7.jpg"
+  - "/images/products/christmas-roller-bowler-8.jpg"
+  - "/images/products/christmas-roller-bowler-9.jpg"
+  - "/images/products/christmas-roller-bowler-10.jpg"
+  - "/images/products/christmas-roller-bowler-11.jpg"
+  - "/images/products/christmas-roller-bowler-12.jpg"
+  - "/images/products/christmas-roller-bowler-13.jpg"
+  - "/images/products/christmas-roller-bowler-14.jpg"
+  - "/images/products/christmas-roller-bowler-15.jpg"
+  - "/images/products/christmas-roller-bowler-16.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ded846a01430b2a0bdd108cdac5c8a0d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f01cd29726dfd8e4c76e8c884dd20ad"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c14595efb5eeb41efd6fe65922e43e8f"
@@ -27,6 +44,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e2a62da082f14e22a3819766381138e9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90d487282845bf863259a6dbcc033eb9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5aff31f5e8c040102b6f02a0a43d0a32"
+
 ---
 
 # Christmas Roller Bowler

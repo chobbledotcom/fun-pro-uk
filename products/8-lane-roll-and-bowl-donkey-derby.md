@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/"
 gallery:
+  - "/images/products/8-lane-roll-and-bowl-donkey-derby-lights-out-game.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
+
 ---
 
 # 8 Lane Roll & Bowl Donkey Derby

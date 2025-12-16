@@ -13,6 +13,18 @@ redirect_from:
   - "/category/branded-exhibition-games/64/mega-wire-branded-game-hire-stand-alone/"
   - "/category/interactive-game-hire/64/mega-wire-branded-game-hire-stand-alone/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-mega-wire-branded-game-hire-stand-alone.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-2.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-3.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-4.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-5.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-6.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-7.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-8.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-9.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-10.jpg"
+  - "/images/products/mega-wire-branded-game-hire-stand-alone-11.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a469f562b203f9ef31dcdc5034dcb813"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e170cc395367152d4b9b2d71710995a7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b08b72cfaea1fe00344307fb476f0a7"
@@ -24,6 +36,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba184cd9c00a1bafd743c7ae4dbc08c5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ce4cf8b82b69e9b638784c17496e4f5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9e354f2397c4ff3191e9b73b395f10b"
+
 ---
 
 # Mega Wire - Branded Game Hire (stand alone)

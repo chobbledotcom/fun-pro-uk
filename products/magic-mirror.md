@@ -11,6 +11,23 @@ features: []
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/13/magic-mirror/"
 gallery:
+  - "/images/products/lights-out-game-magic-mirror.jpg"
+  - "/images/products/magic-mirror-2.jpg"
+  - "/images/products/magic-mirror-3.jpg"
+  - "/images/products/magic-mirror-4.jpg"
+  - "/images/products/magic-mirror-5.jpg"
+  - "/images/products/magic-mirror-6.jpg"
+  - "/images/products/magic-mirror-7.jpg"
+  - "/images/products/magic-mirror-8.jpg"
+  - "/images/products/magic-mirror-9.jpg"
+  - "/images/products/magic-mirror-10.jpg"
+  - "/images/products/magic-mirror-11.jpg"
+  - "/images/products/magic-mirror-12.jpg"
+  - "/images/products/magic-mirror-13.jpg"
+  - "/images/products/magic-mirror-14.jpg"
+  - "/images/products/magic-mirror-15.jpg"
+  - "/images/products/magic-mirror-16.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c24809f7ff1da43826a90ff481a49249"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5520f49fa695b6509d429b9eea471b22"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e7d2c7107699ce2484e74e1c931c8307"
@@ -27,6 +44,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2caa4b75b0dc1f494d59d4e620ab3bb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/38bba003d24c7ba5f60e76a1f811778f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647885a269118a3d197a6802d107be08"
+
 ---
 
 # MAGIC MIRROR

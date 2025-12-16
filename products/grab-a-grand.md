@@ -11,6 +11,25 @@ features: []
 redirect_from:
   - "/category/interactive-game-hire/3/grab-a-grand/"
 gallery:
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-2.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-2.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-3.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-4.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-5.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-6.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-7.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-8.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-9.jpg"
+  - "/images/products/cash-grabber-machine-hire-grab-a-grand-10.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-4.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-3.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-5.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-7.jpg"
+  - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-6.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5998b06ac06d5280207c3c1ee055af49"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8981d72a90e8d800469f3b4dddc2002f"
@@ -29,6 +48,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4da92bff8b8f1e88420d92fca554d40b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff62a3f76c7cd06262f46d0b85574486"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0fc834c195a4a32d18f88c18d758ac4"
+
 ---
 
 # CASH GRABBER MACHINE HIRE

@@ -11,6 +11,22 @@ features: []
 redirect_from:
   - "/category/interactive-game-hire/9/giant-buzz-wire/"
 gallery:
+  - "/images/products/giant-buzz-wire-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/giant-buzz-wire-2.jpg"
+  - "/images/products/giant-buzz-wire-3.jpg"
+  - "/images/products/giant-buzz-wire-4.jpg"
+  - "/images/products/giant-buzz-wire-5.jpg"
+  - "/images/products/giant-buzz-wire-6.jpg"
+  - "/images/products/giant-buzz-wire-7.jpg"
+  - "/images/products/giant-buzz-wire-8.jpg"
+  - "/images/products/giant-buzz-wire-9.jpg"
+  - "/images/products/giant-buzz-wire-10.jpg"
+  - "/images/products/giant-buzz-wire-11.jpg"
+  - "/images/products/giant-buzz-wire-12.jpg"
+  - "/images/products/giant-buzz-wire-13.jpg"
+  - "/images/products/giant-buzz-wire-14.jpg"
+  - "/images/products/giant-buzz-wire-15.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4df7dbb8abbdcd15569d170e73584f51"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b2d52254f3bc09f9f47b72fd57f8a05"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/189ced519053bba3e532a684277872aa"
@@ -26,6 +42,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e65360344ee1adf5bfe5dca37a3e890a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/22d11eb25db64d7786724efeff6147a3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8cc4bae778ba19a7414fcd30b95be4aa"
+
 ---
 
 # GIANT BUZZ WIRE

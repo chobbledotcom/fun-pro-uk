@@ -12,6 +12,15 @@ redirect_from:
   - "/category/exhibition-games/42/pix-n-mix-hire/"
   - "/category/fun-foods/42/pix-n-mix-hire/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-pix-n-mix-hire.jpg"
+  - "/images/products/pix-n-mix-hire-2.jpg"
+  - "/images/products/pix-n-mix-hire-3.jpg"
+  - "/images/products/pix-n-mix-hire-4.jpg"
+  - "/images/products/pix-n-mix-hire-5.jpg"
+  - "/images/products/pix-n-mix-hire-6.jpg"
+  - "/images/products/pix-n-mix-hire-7.jpg"
+  - "/images/products/pix-n-mix-hire-8.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/292a6c2967046a82790fb2cf452b6365"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/846863ecc0d05dbe062a71cf26e608a3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91ce36542c0fe3f7ae9012612b1c7aa7"
@@ -20,6 +29,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb3fbb8fc719828d9ef3eb6bb6056b63"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
+
 ---
 
 # Pix N Mix Hire

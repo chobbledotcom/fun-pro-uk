@@ -12,6 +12,21 @@ redirect_from:
   - "/category/batak/43/batak-pro/"
   - "/category/exhibition-games/43/batak-pro/"
 gallery:
+  - "/images/products/batak-pro-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/batak-pro-2.jpg"
+  - "/images/products/batak-pro-3.jpg"
+  - "/images/products/batak-pro-4.jpg"
+  - "/images/products/batak-pro-5.jpg"
+  - "/images/products/batak-pro-6.jpg"
+  - "/images/products/batak-pro-7.jpg"
+  - "/images/products/batak-pro-8.jpg"
+  - "/images/products/batak-pro-9.jpg"
+  - "/images/products/batak-pro-10.jpg"
+  - "/images/products/batak-pro-11.jpg"
+  - "/images/products/batak-pro-12.jpg"
+  - "/images/products/batak-pro-13.jpg"
+  - "/images/products/batak-pro-14.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/63439c31d53b3532d47827d4a7cc0a89"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/35dd7916eb3b06ec874f90c7cbe2c344"
@@ -26,6 +41,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dc2409c67bcf3b84aca4439493a3fa17"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2e0e12a2e91aad8b4696c0d45dcd8f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1150d0087e5b784a4feb7234eebf6960"
+
 ---
 
 # Batak Pro

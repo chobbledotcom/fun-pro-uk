@@ -31,6 +31,26 @@ gallery:
   - "/images/products/batak-lite-16.jpg"
   - "/images/products/batak-lite-17.jpg"
   - "/images/products/batak-lite-18.jpg"
+gallery_cloudinary:
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6d72377ab784f1e8d39aff60f0d7535b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/812b22749179abd589191d353684bc3a"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a3356276fe1a6c2a2ff8cf0ab6c88d0"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b7b58af025638c87177365dd71d2bb3"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/74fe295dd11ae2cb94fa9a13262db459"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dd86a35dc86229dfce0d403f4f761c08"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/17ae30fd5ba99a08e328500e7fc6642f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8315606b655ddd962414dbd05d692f6c"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2c857d4f9fbbae54ea8ed185e42cfd96"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a133930b0cf8cc91ba4a579156e79845"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/49ff3ee82d0bc7a1e83db5d1c4576c87"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d058958bb3a7bdf2c6ed94f3e7b68f8f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/831fde786a2a264c18428337573a129e"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fcb17342fb8bcd014efee250c9547133"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a1a8f759eff7e85bf8e79d08483041d"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ef107c8e653dba0c20bfed3fc27ee129"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0af8fcfb7abbbac66dc49d09f355b339"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3e033bfa85836ad1c2ece822c5632840"
+
 ---
 
 # Batak Lite

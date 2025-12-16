@@ -11,6 +11,14 @@ features: []
 redirect_from:
   - "/category/arcade-games/48/high-striker/"
 gallery:
+  - "/images/products/high-striker-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/high-striker-2.jpg"
+  - "/images/products/high-striker-3.jpg"
+  - "/images/products/high-striker-4.jpg"
+  - "/images/products/high-striker-5.jpg"
+  - "/images/products/high-striker-6.jpg"
+  - "/images/products/high-striker-7.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e302e6319fcb03ddfc99aefe2b5fb9cf"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26f1074f3bb83ecc363385cc34cfcb98"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2008301bb18dc904d5287ee00dd84f1"
@@ -18,6 +26,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1e28d14c512b85a5e654a0da1b28a2c3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30512d60bf22e6fa6d8e85b889855315"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85"
+
 ---
 
 # High Striker

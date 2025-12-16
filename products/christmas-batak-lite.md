@@ -11,6 +11,19 @@ features: []
 redirect_from:
   - "/category/christmas-game-hire/109/christmas-batak-lite/"
 gallery:
+  - "/images/products/christmas-batak-lite-1.jpg"
+  - "/images/products/christmas-batak-lite-2.jpg"
+  - "/images/products/christmas-batak-lite-3.jpg"
+  - "/images/products/christmas-batak-lite-4.jpg"
+  - "/images/products/christmas-batak-lite-5.jpg"
+  - "/images/products/christmas-batak-lite-6.jpg"
+  - "/images/products/christmas-batak-lite-7.jpg"
+  - "/images/products/christmas-batak-lite-8.jpg"
+  - "/images/products/christmas-batak-lite-9.jpg"
+  - "/images/products/christmas-batak-lite-10.jpg"
+  - "/images/products/christmas-batak-lite-11.jpg"
+  - "/images/products/christmas-batak-lite-12.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5f47186d92dc25f1c56eeb5a20f46a83"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a014a817b2dc5dfd07fb7751a537128a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a898ca3f8f9e2ae0f0e8d4a15fea108"
@@ -23,6 +36,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b620a0cc734f97acbc338378a3d5f580"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f89666d5ba3ab8f73f619f0942417051"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a15ae37dadccb9acea9726796a6f403"
+
 ---
 
 # Christmas Batak Lite

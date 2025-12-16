@@ -12,6 +12,34 @@ redirect_from:
   - "/category/all-products/67/whack-a-mole-game-hire/"
   - "/category/arcade-games/67/whack-a-mole-game-hire/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-whack-a-mole-game-hire.jpg"
+  - "/images/products/whack-a-mole-game-hire-2.jpg"
+  - "/images/products/whack-a-mole-game-hire-3.jpg"
+  - "/images/products/whack-a-mole-game-hire-4.jpg"
+  - "/images/products/whack-a-mole-game-hire-5.jpg"
+  - "/images/products/whack-a-mole-game-hire-6.jpg"
+  - "/images/products/whack-a-mole-game-hire-7.jpg"
+  - "/images/products/whack-a-mole-game-hire-8.jpg"
+  - "/images/products/whack-a-mole-game-hire-9.jpg"
+  - "/images/products/whack-a-mole-game-hire-10.jpg"
+  - "/images/products/whack-a-mole-game-hire-11.jpg"
+  - "/images/products/whack-a-mole-game-hire-12.jpg"
+  - "/images/products/whack-a-mole-game-hire-13.jpg"
+  - "/images/products/whack-a-mole-game-hire-14.jpg"
+  - "/images/products/whack-a-mole-game-hire-15.jpg"
+  - "/images/products/whack-a-mole-game-hire-16.jpg"
+  - "/images/products/whack-a-mole-game-hire-17.jpg"
+  - "/images/products/whack-a-mole-game-hire-18.jpg"
+  - "/images/products/whack-a-mole-game-hire-19.jpg"
+  - "/images/products/whack-a-mole-game-hire-20.jpg"
+  - "/images/products/whack-a-mole-game-hire-21.jpg"
+  - "/images/products/whack-a-mole-game-hire-22.jpg"
+  - "/images/products/whack-a-mole-game-hire-23.jpg"
+  - "/images/products/whack-a-mole-game-hire-24.jpg"
+  - "/images/products/whack-a-mole-game-hire-25.jpg"
+  - "/images/products/whack-a-mole-game-hire-26.jpg"
+  - "/images/products/whack-a-mole-game-hire-27.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/833c0cfcbec5cdc77623cec696b68f88"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5da9003a15ea54ac12f7a09765ba7b14"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9da4f2cab66c74190903187ea1304ba3"
@@ -39,6 +67,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6834ec1ea28dbb69d3eaaf624c69a49e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5791f3ec1efafd00ffde4b3c9f1c0158"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b5861f56d5ce65d2e5da34b6d79b942"
+
 ---
 
 # Whack A Mole game hire

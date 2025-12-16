@@ -12,9 +12,14 @@ redirect_from:
   - "/category/arcade-games/7/top-doc-operation-game/"
   - "/category/interactive-game-hire/7/top-doc-operation-game/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-top-doc-operation-game.jpg"
+  - "/images/products/top-doc-operation-game-2.jpg"
+  - "/images/products/top-doc-operation-game-3.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/72a2c79c450d0e5020205e9df46176f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/50395536024ba9fc15eb752613165cb5"
+
 ---
 
 # TOP DOC OPERATION GAME

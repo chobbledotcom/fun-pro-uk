@@ -12,11 +12,18 @@ redirect_from:
   - "/category/corporate-entertainment/22/gladiator-duel/"
   - "/category/fun-days/22/gladiator-duel/"
 gallery:
+  - "/images/products/gladiator-duel-1.jpg"
+  - "/images/products/gladiator-duel-2.jpg"
+  - "/images/products/gladiator-duel-3.jpg"
+  - "/images/products/gladiator-duel-4.jpg"
+  - "/images/products/gladiator-duel-5.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b636354db1859abfd5da690b9ae6393a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0c9fe7e5c17c57702a0afecff9ac709e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d06f0e58e5aaf3a8cc1193941ca8ea37"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/59cc9237a50b1088f4b5b50b3c456657"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e47337c283900e9bd8067d6f29d8de25"
+
 ---
 
 # GLADIATOR DUEL

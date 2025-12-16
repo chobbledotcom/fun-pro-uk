@@ -11,6 +11,16 @@ features: []
 redirect_from:
   - "/category/christmas-games/108/christmas-batak-pro/"
 gallery:
+  - "/images/products/christmas-batak-pro-1.jpg"
+  - "/images/products/christmas-batak-pro-2.jpg"
+  - "/images/products/christmas-batak-pro-3.jpg"
+  - "/images/products/christmas-batak-pro-4.jpg"
+  - "/images/products/christmas-batak-pro-5.jpg"
+  - "/images/products/christmas-batak-pro-6.jpg"
+  - "/images/products/christmas-batak-pro-7.jpg"
+  - "/images/products/christmas-batak-pro-8.jpg"
+  - "/images/products/christmas-batak-pro-9.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86b188d5d7a0f05ec94d4e1792e60fc5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d0f445bce6b6ede276a907c961b364fd"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff7753451eb4226d58e3ca64a88eda09"
@@ -20,6 +30,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cf15caa4c0fcebf4a7bfddc886041ed9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c1874ccd55999ce3c98f6e844459f7d7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ad94d78d0415483d74811f294d4c6ab"
+
 ---
 
 # Christmas Batak Pro

@@ -12,6 +12,21 @@ redirect_from:
   - "/category/arcade-games/38/vr-race-car-simulator/"
   - "/category/corporate-entertainment/38/vr-race-car-simulator/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-vr-race-car-simulator.jpg"
+  - "/images/products/vr-race-car-simulator-2.jpg"
+  - "/images/products/vr-race-car-simulator-3.jpg"
+  - "/images/products/vr-race-car-simulator-4.jpg"
+  - "/images/products/vr-race-car-simulator-5.jpg"
+  - "/images/products/vr-race-car-simulator-6.jpg"
+  - "/images/products/vr-race-car-simulator-7.jpg"
+  - "/images/products/vr-race-car-simulator-8.jpg"
+  - "/images/products/vr-race-car-simulator-9.jpg"
+  - "/images/products/vr-race-car-simulator-10.jpg"
+  - "/images/products/vr-race-car-simulator-11.jpg"
+  - "/images/products/vr-race-car-simulator-12.jpg"
+  - "/images/products/vr-race-car-simulator-13.jpg"
+  - "/images/products/vr-race-car-simulator-14.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c699e5c57a273a000e769b5a04572c1d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/94d8491b77bec0ab472825339227a8de"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/16af29d1ffe6e66d70a0d23d064f86cb"
@@ -26,6 +41,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f3de7d0063dc15a039f582f90824ce1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8ddf7d8e6ed3a92d32ec94760f5b813d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6eed1c0ff69c19d17b01bc0fb8210c5"
+
 ---
 
 # VR Race Car Simulator

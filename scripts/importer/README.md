@@ -10,6 +10,7 @@ The importer is organized into separate modules for better maintainability and p
 scripts/importer/
 ├── config.js                 # Configuration and paths
 ├── index.js                  # Main orchestrator
+├── mirror-product-images.js  # Mirror product images from Cloudinary
 ├── converters/
 │   ├── index.js                  # Exports all converters
 │   ├── page-converter.js         # Converts static pages
@@ -27,6 +28,7 @@ scripts/importer/
     ├── content-processor.js  # Content cleaning and extraction
     ├── frontmatter-generator.js # YAML frontmatter generation
     ├── image-downloader.js   # Downloads embedded images
+    ├── product-image-mapper.js # Maps product images for mirroring
     └── favicon-extractor.js  # Extracts favicon files
 ```
 
@@ -39,7 +41,84 @@ pnpm run import
 
 # Or directly
 node scripts/importer/index.js
+
+# Run specific converters
+node scripts/importer/index.js --only products,categories
+
+# List available converters
+node scripts/importer/index.js --list
 ```
+
+### Mirroring Product Images
+
+After the initial import, product images are still hosted on Cloudinary. To mirror them locally:
+
+```bash
+# Preview what would happen (dry run)
+node scripts/importer/mirror-product-images.js --dry-run
+
+# Mirror all product images
+node scripts/importer/mirror-product-images.js
+
+# Mirror specific products only
+node scripts/importer/mirror-product-images.js --only batak-lite,batak-pro
+
+# Run via main importer
+node scripts/importer/index.js --only mirrorimages
+```
+
+### Optimizing Product Images
+
+After mirroring images, optimize them to reduce file size:
+
+```bash
+# Preview what would happen (dry run)
+optimize-images --dry-run
+
+# Optimize all product images
+optimize-images
+
+# Or run directly
+./scripts/optimize-images.sh
+```
+
+The optimization process:
+1. Scans all images in `images/products/`
+2. Decodes images to uncompressed pixels (avoids double-compression)
+3. Resizes images over 1800px to max 1800px (longest side)
+4. Compresses with mozjpeg at 95% quality (progressive, optimized)
+5. Only replaces if the optimized version is smaller than original
+
+This typically reduces total image size by 30-50% without visible quality loss.
+Uses mozjpeg for superior compression compared to standard libjpeg.
+
+**Requirements:**
+- ImageMagick (for resizing and format conversion)
+- mozjpeg (for optimal JPEG compression)
+
+Both are included in the Nix development shell. If you see "mozjpeg (cjpeg) not found", run:
+```bash
+exit  # Exit current shell
+nix develop  # Re-enter the development environment
+```
+
+The image mirroring process:
+1. Scans all product markdown files for Cloudinary URLs
+2. Builds a mapping of unique images to products (handling duplicates)
+3. Generates smart filenames:
+   - Single product: `product-name-1.jpg`, `product-name-2.jpg`, etc.
+   - Multiple products sharing same image: `product-1-product-2.jpg`
+4. Downloads images to `images/products/` with deduplication
+5. Updates product markdown files to use local paths
+6. Preserves original Cloudinary URLs in `gallery_cloudinary` field
+
+Images are cached, so re-running is fast if images already exist.
+
+**Important**: When re-importing products, the importer will:
+- Check for existing `gallery_cloudinary` field in the markdown
+- If found, use those URLs instead of extracting from HTML
+- This preserves the Cloudinary → local path mapping
+- Allows you to re-import without losing the image mirroring setup
 
 ## Folder Cleaning Behavior
 

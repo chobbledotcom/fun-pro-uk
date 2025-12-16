@@ -12,12 +12,20 @@ redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
   - "/category/interactive-game-hire/6/electronic-basket-ball-hire/"
 gallery:
+  - "/images/products/electronic-basket-ball-hire-lights-out-game-lights-out-game-2-ultimate-green-screen-photo-booth.jpg"
+  - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth.jpg"
+  - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth-2.jpg"
+  - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth-3.jpg"
+  - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth-4.jpg"
+  - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth-5.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b6ea9006cfb0c32bb85ac3fce503307"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3bab427c5bc7a4b980c474718ec5e39"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0c1a558b16dd98e4083e6ff3dfc7075f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a4d43666b589d9c6a2ff71ef45ba86c7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1dbcc4ea9f0c532acdf5511c1beddd7c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d7e33f6201a361d074013a6b2cd5c30e"
+
 ---
 
 # ELECTRONIC BASKET BALL HIRE

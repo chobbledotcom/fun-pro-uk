@@ -1,3 +1,4 @@
+const fs = require('node:fs');
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
@@ -6,6 +7,51 @@ const { generateProductFrontmatter, generateReviewFrontmatter } = require('../ut
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
 const { createConverter } = require('../utils/base-converter');
+
+/**
+ * Extract gallery_cloudinary URLs from existing markdown file
+ * @param {string} outputDir - Output directory path
+ * @param {string} slug - Product slug
+ * @returns {string[]|null} Array of Cloudinary URLs or null if not found
+ */
+const extractExistingCloudinaryGallery = (outputDir, slug) => {
+  const filePath = path.join(outputDir, `${slug}.md`);
+  
+  if (!fs.existsSync(filePath)) {
+    return null;
+  }
+  
+  const content = fs.readFileSync(filePath, 'utf8');
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  
+  if (!frontmatterMatch) {
+    return null;
+  }
+  
+  const frontmatter = frontmatterMatch[1];
+  const galleryCloudinaryMatch = frontmatter.match(/gallery_cloudinary:\s*\n((?:\s+-\s+"[^"]+"\n?)+)/);
+  
+  if (!galleryCloudinaryMatch) {
+    return null;
+  }
+  
+  const urls = [];
+  const urlMatches = galleryCloudinaryMatch[1].matchAll(/\s+-\s+"([^"]+)"/g);
+  for (const match of urlMatches) {
+    urls.push(match[1]);
+  }
+  
+  return urls.length > 0 ? urls : null;
+};
+
+/**
+ * Check if a URL is a Cloudinary URL
+ * @param {string} url - URL to check
+ * @returns {boolean} True if it's a Cloudinary URL
+ */
+const isCloudinaryUrl = (url) => {
+  return url && url.includes('cloudinary.com');
+};
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'product',
@@ -37,9 +83,22 @@ const { convertSingle, convertBatch } = createConverter({
       oldSitePath
     );
   },
-  beforeWrite: async (content, extracted, slug) => {
-    // Use original URLs directly (skip downloading for now)
-    const galleryUrls = extracted.images?.gallery || [];
+  beforeWrite: async (content, extracted, slug, context) => {
+    // Check for existing gallery_cloudinary in the output file
+    const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
+    const existingCloudinaryGallery = extractExistingCloudinaryGallery(outputDir, slug);
+    
+    // Determine which gallery URLs to use
+    let galleryUrls;
+    
+    if (existingCloudinaryGallery && existingCloudinaryGallery.length > 0) {
+      // Use the preserved Cloudinary URLs from gallery_cloudinary
+      galleryUrls = existingCloudinaryGallery;
+    } else {
+      // Use newly extracted gallery URLs from HTML
+      galleryUrls = extracted.images?.gallery || [];
+    }
+    
     extracted.localGalleryPaths = galleryUrls;
     extracted.localImagePath = galleryUrls[0] || '';
     

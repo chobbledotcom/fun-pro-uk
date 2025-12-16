@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/corporate-entertainment/76/climbing-wall/"
 gallery:
+  - "/images/products/climbing-wall-1.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ac18774e78ba1b9a2734a669acec0244"
+
 ---
 
 # Climbing Wall

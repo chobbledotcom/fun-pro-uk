@@ -13,6 +13,16 @@ redirect_from:
   - "/category/arcade-games/60/air-hockey-table-hire/"
   - "/category/corporate-entertainment/60/air-hockey-table-hire/"
 gallery:
+  - "/images/products/air-hockey-table-hire-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/air-hockey-table-hire-2.jpg"
+  - "/images/products/air-hockey-table-hire-3.jpg"
+  - "/images/products/air-hockey-table-hire-4.jpg"
+  - "/images/products/air-hockey-table-hire-5.jpg"
+  - "/images/products/air-hockey-table-hire-6.jpg"
+  - "/images/products/air-hockey-table-hire-7.jpg"
+  - "/images/products/air-hockey-table-hire-8.jpg"
+  - "/images/products/air-hockey-table-hire-9.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab0c2a9c308379770f9d02d1120af7ab"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/978d979ee7d3bde8a6d1396b85525bdf"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0beac914a9f9d59fdc05a634466fbb94"
@@ -22,6 +32,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21635a96850030f3d790e7f062210851"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180c197ab2df6df453b18683e8250e6"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae8ccde974a8b3d7efec6e29fb60cbbb"
+
 ---
 
 # Air Hockey Table Hire

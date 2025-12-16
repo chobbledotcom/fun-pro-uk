@@ -13,6 +13,16 @@ redirect_from:
   - "/category/arcade-games/68/plinko-game-hire/"
   - "/category/exhibition-games/68/plinko-game-hire/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-plinko-game-hire.jpg"
+  - "/images/products/plinko-game-hire-2.jpg"
+  - "/images/products/plinko-game-hire-3.jpg"
+  - "/images/products/plinko-game-hire-4.jpg"
+  - "/images/products/plinko-game-hire-5.jpg"
+  - "/images/products/plinko-game-hire-6.jpg"
+  - "/images/products/plinko-game-hire-7.jpg"
+  - "/images/products/plinko-game-hire-8.jpg"
+  - "/images/products/plinko-game-hire-9.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c7f36d3bed80f7191dc813f7b12d430"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4f4e68d4d7079c050fe8b836bf87e296"
@@ -22,6 +32,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1e3a673d1f71f8426434cf9e66bd146"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5463ebf2f6ee8ba66947266f9e8cf317"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b"
+
 ---
 
 # Plinko Game Hire

@@ -126,6 +126,7 @@ const downloadAllImages = async (filenameMapping, imagesDir, dryRun) => {
 
 /**
  * Update a single product markdown file with local image paths
+ * Preserves original Cloudinary URLs in gallery_cloudinary field
  * @param {string} filePath - Path to product markdown file
  * @param {Map} hashToFilename - Map of Cloudinary hash -> local filename
  * @param {boolean} dryRun - If true, skip actual file writes
@@ -149,6 +150,7 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
 
   const gallerySection = galleryMatch[0];
   let updatedGallery = gallerySection;
+  const cloudinaryUrls = [];
 
   // Replace each Cloudinary URL with local path
   const urlMatches = gallerySection.matchAll(/\s+-\s+"([^"]+)"/g);
@@ -157,6 +159,7 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
     const hash = extractCloudinaryHash(url);
 
     if (hash && hashToFilename.has(hash)) {
+      cloudinaryUrls.push(url);
       const filename = hashToFilename.get(hash);
       const localPath = `/images/products/${filename}`;
       updatedGallery = updatedGallery.replace(`"${url}"`, `"${localPath}"`);
@@ -165,7 +168,13 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
   }
 
   if (updateCount > 0) {
-    updatedContent = content.replace(gallerySection, updatedGallery);
+    // Create gallery_cloudinary section with original URLs
+    const cloudinaryGallery = '\ngallery_cloudinary:\n' + 
+      cloudinaryUrls.map(url => `  - "${url}"`).join('\n') + '\n';
+    
+    // Insert gallery_cloudinary right after gallery section
+    const replacementText = updatedGallery + cloudinaryGallery;
+    updatedContent = content.replace(gallerySection, replacementText);
 
     if (!dryRun) {
       fs.writeFileSync(filePath, updatedContent);
@@ -268,32 +277,26 @@ const main = async () => {
   console.log(`  Found ${totalImageRefs} total image references`);
   console.log(`  Found ${uniqueImages} unique images`);
 
-  // Build filename mapping
-  // - For dry runs: build full mapping without extension detection (fast)
-  // - For actual runs with --only: only detect extensions for filtered images
-  let filenameMapping;
+  // Build filename mapping from FULL imageMap (always use all products for naming)
+  // This ensures filenames accurately reflect which products share images
+  // All images are JPEG format
+  const fullFilenameMapping = buildFilenameMapping(imageMap);
   
-  if (args.dryRun) {
-    // Build full mapping without extension detection
-    filenameMapping = await buildFilenameMapping(imageMap, false);
-  } else if (args.only && args.only.length > 0) {
-    // Filter images first, then detect extensions only for those
-    const filteredImageMap = new Map();
-    for (const [hash, data] of imageMap) {
+  // Filter to only images we need to download if --only is specified
+  let filenameMapping = fullFilenameMapping;
+  if (!args.dryRun && args.only && args.only.length > 0) {
+    filenameMapping = new Map();
+    for (const [hash, data] of fullFilenameMapping) {
       if (data.products.some(p => args.only.includes(p.slug))) {
-        filteredImageMap.set(hash, data);
+        filenameMapping.set(hash, data);
       }
     }
-    console.log(`  Filtered to ${filteredImageMap.size} images for selected products`);
-    filenameMapping = await buildFilenameMapping(filteredImageMap, true);
-  } else {
-    // Build full mapping with extension detection
-    filenameMapping = await buildFilenameMapping(imageMap, true);
+    console.log(`  Filtered to ${filenameMapping.size} images for selected products`);
   }
 
-  // Display mapping preview
+  // Display mapping preview (show full mapping for dry runs)
   if (args.dryRun) {
-    displayMapping(filenameMapping, 15);
+    displayMapping(fullFilenameMapping, 15);
   }
 
   // Download images
@@ -303,8 +306,8 @@ const main = async () => {
     console.log(`  Downloaded: ${stats.downloaded}, Cached: ${stats.cached}, Failed: ${stats.failed}`);
   }
 
-  // Update markdown files
-  const updateStats = updateAllMarkdownFiles(productsDir, filenameMapping, args.dryRun, args.only);
+  // Update markdown files (use full mapping so all products get correct paths)
+  const updateStats = updateAllMarkdownFiles(productsDir, fullFilenameMapping, args.dryRun, args.only);
 
   console.log('');
   if (args.dryRun) {

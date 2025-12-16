@@ -147,78 +147,26 @@ const generateImageFilename = (products, filenameUsage = new Map()) => {
   return finalFilename;
 };
 
-/**
- * Detect image extension from Content-Type header
- * @param {string} url - Image URL
- * @returns {Promise<string>} File extension (e.g., 'jpg', 'png', 'webp')
- */
-const detectImageExtension = (url) => {
-  return new Promise((resolve) => {
-    https.get(url, { method: 'HEAD' }, (response) => {
-      const contentType = response.headers['content-type'];
-      
-      // Map common MIME types to extensions
-      const mimeToExt = {
-        'image/jpeg': 'jpg',
-        'image/jpg': 'jpg',
-        'image/png': 'png',
-        'image/webp': 'webp',
-        'image/gif': 'gif',
-        'image/svg+xml': 'svg'
-      };
-      
-      const ext = mimeToExt[contentType] || 'jpg'; // Default to jpg
-      resolve(ext);
-    }).on('error', () => {
-      // On error, default to jpg
-      console.warn(`  Warning: Failed to detect extension for ${url}, using .jpg`);
-      resolve('jpg');
-    });
-  });
-};
+
 
 /**
  * Build complete filename mapping for all images
  * @param {Map} imageMap - Map of hash -> {url, products}
- * @param {boolean} detectExtensions - Whether to detect extensions (slow) or use default
- * @returns {Promise<Map>} Map of hash -> {url, filename, products}
+ * @returns {Map} Map of hash -> {url, filename, products}
  */
-const buildFilenameMapping = async (imageMap, detectExtensions = true) => {
+const buildFilenameMapping = (imageMap) => {
   const filenameUsage = new Map();
   const result = new Map();
   
-  // First pass: generate base filenames
+  // Generate filenames with .jpg extension (all Cloudinary images are JPEG)
   for (const [hash, data] of imageMap) {
     const baseFilename = generateImageFilename(data.products, filenameUsage);
     result.set(hash, {
       url: data.url,
       baseFilename,
+      filename: `${baseFilename}.jpg`,
       products: data.products
     });
-  }
-  
-  if (detectExtensions) {
-    // Second pass: detect extensions from Content-Type headers
-    console.log('  Detecting image formats...');
-    let processed = 0;
-    const total = result.size;
-    
-    for (const [, data] of result) {
-      const ext = await detectImageExtension(data.url);
-      data.filename = `${data.baseFilename}.${ext}`;
-      
-      processed++;
-      if (processed % 10 === 0 || processed === total) {
-        process.stdout.write(`\r  Detected ${processed}/${total} formats...`);
-      }
-    }
-    
-    console.log(''); // New line after progress
-  } else {
-    // Just use .jpg as default (faster for dry runs)
-    for (const [, data] of result) {
-      data.filename = `${data.baseFilename}.jpg`;
-    }
   }
   
   return result;
@@ -229,6 +177,5 @@ module.exports = {
   parseProductMarkdown,
   scanProductImages,
   generateImageFilename,
-  detectImageExtension,
   buildFilenameMapping
 };
