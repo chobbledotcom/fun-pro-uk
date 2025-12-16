@@ -59,7 +59,7 @@
 }
 
 ::root {
-  --width-content: 1200px;
+  --width-content: 1100px;
 }
 
 h1,
@@ -79,31 +79,42 @@ article#content,
   grid-template-columns:
     [full-width-start]
     1fr [breakout-start]
-    100px [content-start]
-    1200px [content-end]
-    100px [breakout-end]
+    50px [content-start]
+    1100px [content-end]
+    50px [breakout-end]
     1fr
     [full-width-end];
 
-  @include breakpoints.down("lg") {
+  @include breakpoints.down("xl") {
     grid-template-columns:
       [full-width-start]
-      100px [breakout-start]
-      100px [content-start]
+      32px [breakout-start]
+      32px [content-start]
       1fr [content-end]
-      100px [breakout-end]
-      100px
+      32px [breakout-end]
+      32px
       [full-width-end];
   }
 
   @include breakpoints.down("md") {
     grid-template-columns:
       [full-width-start]
-      20px [breakout-start]
-      10px [content-start]
+      16px [breakout-start]
+      16px [content-start]
       1fr [content-end]
-      10px [breakout-end]
-      20px
+      16px [breakout-end]
+      16px
+      [full-width-end];
+  }
+
+  @include breakpoints.down("sm") {
+    grid-template-columns:
+      [full-width-start]
+      8px [breakout-start]
+      8px [content-start]
+      1fr [content-end]
+      8px [breakout-end]
+      8px
       [full-width-end];
   }
 
