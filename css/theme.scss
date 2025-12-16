@@ -78,16 +78,16 @@ article#content,
   display: grid;
   grid-template-columns:
     [full-width-start]
-    100px [breakout-start]
+    1fr [breakout-start]
     100px [content-start]
-    1fr [content-end]
+    1200px [content-end]
     100px [breakout-end]
-    100px
+    1fr
     [full-width-end];
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: 1200px;
+    max-width: 1200px
   }
   & > .breakout {
     grid-column: breakout;
