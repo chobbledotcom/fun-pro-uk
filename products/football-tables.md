@@ -12,6 +12,18 @@ redirect_from:
   - "/category/corporate-entertainment/27/football-tables/"
   - "/category/interactive-game-hire/27/football-tables/"
 gallery:
+  - "/images/products/football-tables-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/football-tables-2.jpg"
+  - "/images/products/football-tables-3.jpg"
+  - "/images/products/football-tables-4.jpg"
+  - "/images/products/football-tables-5.jpg"
+  - "/images/products/football-tables-6.jpg"
+  - "/images/products/football-tables-7.jpg"
+  - "/images/products/football-tables-8.jpg"
+  - "/images/products/football-tables-9.jpg"
+  - "/images/products/football-tables-10.jpg"
+  - "/images/products/football-tables-11.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a43b62af3d98c68f48c9fc65d853332"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c5fa0613440f457987ae9ced3b9f723e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bb866959fac0cdcf62e0b8ecd3de4e5b"
@@ -23,6 +35,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6086e149ece4804518ac2b5778d1294a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3585f13bb7c65c405209e00945573707"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30d70c3f03c771d66088d5c82fe34cc8"
+
 ---
 
 # FOOTBALL TABLES

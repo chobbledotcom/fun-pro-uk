@@ -12,12 +12,20 @@ redirect_from:
   - "/category/exhibition-games/75/roll-and-bowl-donkey-derby/"
   - "/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-roll-and-bowl-donkey-derby-roll-and-bowl-game-hire.jpg"
+  - "/images/products/roll-and-bowl-donkey-derby-2.jpg"
+  - "/images/products/roll-and-bowl-donkey-derby-3.jpg"
+  - "/images/products/roll-and-bowl-donkey-derby-roll-and-bowl-game-hire.jpg"
+  - "/images/products/roll-and-bowl-donkey-derby-roll-and-bowl-game-hire-2.jpg"
+  - "/images/products/roll-and-bowl-donkey-derby-roll-and-bowl-game-hire-3.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22aad19e6a06df952e96c67373a98ee"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efbfeaa4b61ed98dfdc1432d555c2991"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/abb56c4961cc314e9a5a0194b7dbbb5e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ae3e390984baa36de60da48a2a2e4ef"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a"
+
 ---
 
 # Roll & Bowl Donkey Derby

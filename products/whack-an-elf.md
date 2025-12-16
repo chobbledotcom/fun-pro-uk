@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/christmas-game-hire/79/whack-an-elf/"
 gallery:
+  - "/images/products/whack-an-elf-1.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
+
 ---
 
 # Whack an Elf

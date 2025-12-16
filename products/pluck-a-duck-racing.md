@@ -12,6 +12,15 @@ redirect_from:
   - "/category/arcade-games/8/pluck-a-duck-racing/"
   - "/category/interactive-game-hire/8/pluck-a-duck-racing/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-pluck-a-duck-racing.jpg"
+  - "/images/products/pluck-a-duck-racing-2.jpg"
+  - "/images/products/pluck-a-duck-racing-3.jpg"
+  - "/images/products/pluck-a-duck-racing-4.jpg"
+  - "/images/products/pluck-a-duck-racing-5.jpg"
+  - "/images/products/pluck-a-duck-racing-6.jpg"
+  - "/images/products/pluck-a-duck-racing-7.jpg"
+  - "/images/products/pluck-a-duck-racing-8.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51c24e2eec324fae22c11f1eb8524720"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3493c62d7c419e5c15c8807d81b070ae"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b04c3aef6c3b1d314d6cd09a72816069"
@@ -20,6 +29,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ce26f2bdc93839398cbf47c8ce24966e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/aa16951cbeff2d9ad715e9e8ca3c8d59"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/02abf64c290b623f1e4cf05c3c474759"
+
 ---
 
 # PLUCK A DUCK RACING

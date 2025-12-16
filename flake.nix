@@ -15,6 +15,7 @@
             watch = "node scripts/watch.js";
             "update-pages" = "node scripts/update-pages.js";
             "fetch-google-reviews" = "node scripts/fetch-google-reviews.js";
+            "optimize-images" = "./scripts/optimize-images.sh";
             clean = "rm -rf .build";
           };
           pnpmScripts = pkgs.symlinkJoin {
@@ -28,6 +29,8 @@
             pkgs.pnpm
             pnpmScripts
             pkgs.pandoc
+            pkgs.imagemagick
+            pkgs.mozjpeg
           ];
           shellHook = ''
             cat <<EOF
@@ -40,6 +43,7 @@
              watch               - Watch for changes
              update-pages        - Update pages
              fetch-google-reviews - Fetch Google Maps reviews
+             optimize-images     - Optimize product images with mozjpeg
              clean               - Clean build directory
 
             EOF

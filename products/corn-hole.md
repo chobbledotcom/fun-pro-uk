@@ -11,6 +11,17 @@ features: []
 redirect_from:
   - "/category/exhibition-games/99/corn-hole/"
 gallery:
+  - "/images/products/corn-hole-lights-out-game-2.jpg"
+  - "/images/products/corn-hole-2.jpg"
+  - "/images/products/corn-hole-3.jpg"
+  - "/images/products/corn-hole-4.jpg"
+  - "/images/products/corn-hole-5.jpg"
+  - "/images/products/corn-hole-6.jpg"
+  - "/images/products/corn-hole-7.jpg"
+  - "/images/products/corn-hole-8.jpg"
+  - "/images/products/corn-hole-9.jpg"
+  - "/images/products/corn-hole-10.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9981daa9ff9a39a4c2d4fdf14e1fe02"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c100164c109af15bb75389df79717919"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/99ec409edd5fb7109946399bde79ece2"
@@ -21,6 +32,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/309c7ca51daa303ee58db79c226d1e97"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/09d9245a0dfcaf880507a4ab7a20d7b4"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65a14af4364b497717c424304c8d4f80"
+
 ---
 
 # Corn Hole

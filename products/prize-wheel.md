@@ -12,10 +12,16 @@ redirect_from:
   - "/category/arcade-games/49/prize-wheel/"
   - "/category/prize-games/49/prize-wheel/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-prize-wheel.jpg"
+  - "/images/products/prize-wheel-2.jpg"
+  - "/images/products/prize-wheel-3.jpg"
+  - "/images/products/prize-wheel-4.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f8b8eec90251a65de225e06ff29111cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0"
+
 ---
 
 # Prize Wheel

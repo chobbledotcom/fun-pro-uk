@@ -12,10 +12,16 @@ redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
   - "/category/interactive-game-hire/62/beat-the-buzzer/"
 gallery:
+  - "/images/products/beat-the-buzzer-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/beat-the-buzzer-2.jpg"
+  - "/images/products/beat-the-buzzer-3.jpg"
+  - "/images/products/beat-the-buzzer-4.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a4783076d56fc7c297e9c428093db22"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a43735801d6ad804b83ddf3faf67401f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e106ad1fd91ab1543095e494fc82eb39"
+
 ---
 
 # Beat The Buzzer

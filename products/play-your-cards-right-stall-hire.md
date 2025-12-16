@@ -11,8 +11,12 @@ features: []
 redirect_from:
   - "/category/fun-fair-stalls/97/play-your-cards-right-stall-hire/"
 gallery:
+  - "/images/products/play-your-cards-right-stall-hire-1.jpg"
+  - "/images/products/play-your-cards-right-stall-hire-2.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218"
+
 ---
 
 # Play Your Cards Right Stall Hire

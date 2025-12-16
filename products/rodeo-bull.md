@@ -12,6 +12,20 @@ redirect_from:
   - "/category/corporate-entertainment/46/rodeo-bull/"
   - "/category/fun-days/46/rodeo-bull/"
 gallery:
+  - "/images/products/rodeo-bull-1.jpg"
+  - "/images/products/rodeo-bull-2.jpg"
+  - "/images/products/rodeo-bull-3.jpg"
+  - "/images/products/rodeo-bull-4.jpg"
+  - "/images/products/rodeo-bull-5.jpg"
+  - "/images/products/rodeo-bull-6.jpg"
+  - "/images/products/rodeo-bull-7.jpg"
+  - "/images/products/rodeo-bull-8.jpg"
+  - "/images/products/rodeo-bull-9.jpg"
+  - "/images/products/rodeo-bull-10.jpg"
+  - "/images/products/rodeo-bull-11.jpg"
+  - "/images/products/rodeo-bull-12.jpg"
+  - "/images/products/rodeo-bull-13.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bfa6c6b94e110ee89a3d1b1807588a2a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/94088b43e189ecf3fd88f40cf97090b9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7ce38a113f8c8252f8c52e636147d7d6"
@@ -25,6 +39,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c7418e6487b6aa23779fac711c335f5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/73e13f20d4773ed4bf6ee5b6691fdf2e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f54b18f1dc6509f96c728ad6d8b7eded"
+
 ---
 
 # Rodeo Bull

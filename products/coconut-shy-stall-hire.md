@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/fun-fair-stalls/96/coconut-shy-stall-hire/"
 gallery:
+  - "/images/products/coconut-shy-stall-hire-1.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
+
 ---
 
 # Coconut Shy Stall Hire

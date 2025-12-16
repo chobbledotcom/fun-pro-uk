@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/fun-foods/92/candy-floss-cart-hire/"
 gallery:
+  - "/images/products/candy-floss-cart-hire-lights-out-game-lights-out-game-2.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
+
 ---
 
 # Candy Floss Cart Hire

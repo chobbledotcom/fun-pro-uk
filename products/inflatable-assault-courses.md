@@ -11,6 +11,17 @@ features: []
 redirect_from:
   - "/category/fun-days/21/inflatable-assault-courses/"
 gallery:
+  - "/images/products/inflatable-assault-courses-1.jpg"
+  - "/images/products/inflatable-assault-courses-2.jpg"
+  - "/images/products/inflatable-assault-courses-3.jpg"
+  - "/images/products/inflatable-assault-courses-4.jpg"
+  - "/images/products/inflatable-assault-courses-5.jpg"
+  - "/images/products/inflatable-assault-courses-6.jpg"
+  - "/images/products/inflatable-assault-courses-7.jpg"
+  - "/images/products/inflatable-assault-courses-8.jpg"
+  - "/images/products/inflatable-assault-courses-9.jpg"
+  - "/images/products/inflatable-assault-courses-10.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/304e713bbdbff9a010b598a6e4985c1a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6314910f3c27bd1058fa0c00d1242166"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/eb24d643b5e457f377775ccc0f20cc97"
@@ -21,6 +32,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9d5b284198746331cbaaf51cf5716b3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c8001d653fba9cdd858a36df9563c2f0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ade8fb53c3007acd88df47339ae09d4e"
+
 ---
 
 # INFLATABLE ASSAULT COURSES

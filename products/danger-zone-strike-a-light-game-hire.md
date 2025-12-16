@@ -12,6 +12,18 @@ redirect_from:
   - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"
   - "/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/"
 gallery:
+  - "/images/products/danger-zone-strike-a-light-game-hire-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-2.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-3.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-4.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-5.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-6.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-7.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-8.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-9.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-10.jpg"
+  - "/images/products/danger-zone-strike-a-light-game-hire-11.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/41ec2fd815fbfa8e94c3999aa06b10e8"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae490990d56fae8ddbfefc6225725bc1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f3c611c5ac7a3111bd458eb56200149"
@@ -23,6 +35,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9efd21ea08a9e81ff2a9ef70c3456941"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8d15110c6c895667155e1cfb54ca0d94"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2d10d72d7226f4555647271ca52d623"
+
 ---
 
 # Danger-zone-strike-a-light-game-hire

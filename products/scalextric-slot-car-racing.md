@@ -12,6 +12,25 @@ redirect_from:
   - "/category/all-products/88/scalextric-slot-car-racing/"
   - "/category/exhibition-games/88/scalextric-slot-car-racing/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-scalextric-slot-car-racing.jpg"
+  - "/images/products/scalextric-slot-car-racing-2.jpg"
+  - "/images/products/scalextric-slot-car-racing-3.jpg"
+  - "/images/products/scalextric-slot-car-racing-4.jpg"
+  - "/images/products/scalextric-slot-car-racing-5.jpg"
+  - "/images/products/scalextric-slot-car-racing-6.jpg"
+  - "/images/products/scalextric-slot-car-racing-7.jpg"
+  - "/images/products/scalextric-slot-car-racing-8.jpg"
+  - "/images/products/scalextric-slot-car-racing-9.jpg"
+  - "/images/products/scalextric-slot-car-racing-10.jpg"
+  - "/images/products/scalextric-slot-car-racing-11.jpg"
+  - "/images/products/scalextric-slot-car-racing-12.jpg"
+  - "/images/products/scalextric-slot-car-racing-13.jpg"
+  - "/images/products/scalextric-slot-car-racing-14.jpg"
+  - "/images/products/scalextric-slot-car-racing-15.jpg"
+  - "/images/products/scalextric-slot-car-racing-16.jpg"
+  - "/images/products/scalextric-slot-car-racing-17.jpg"
+  - "/images/products/scalextric-slot-car-racing-18.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3a9973cbf3a599b937762ce108d339de"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c095605360bf1a663ec2649b6a523e9d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/053c8042a1608b54e2d1099320bf45c1"
@@ -30,6 +49,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2dbfcb8e19f0d8b61e729d0f1ed5d98"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f31e5f8d4725356e44179fbc2c44825"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86e1d66080707189aeb325a5d52af14e"
+
 ---
 
 # Scalextric Slot Car Racing

@@ -11,6 +11,33 @@ features: []
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"
 gallery:
+  - "/images/products/green-screen-photo-booths-lights-out-game.jpg"
+  - "/images/products/christmas-photo-booths-classic-photo-booths-green-screen-photo-booths.jpg"
+  - "/images/products/green-screen-photo-booths-3.jpg"
+  - "/images/products/green-screen-photo-booths-4.jpg"
+  - "/images/products/green-screen-photo-booths-5.jpg"
+  - "/images/products/green-screen-photo-booths-6.jpg"
+  - "/images/products/green-screen-photo-booths-7.jpg"
+  - "/images/products/green-screen-photo-booths-8.jpg"
+  - "/images/products/green-screen-photo-booths-9.jpg"
+  - "/images/products/green-screen-photo-booths-10.jpg"
+  - "/images/products/green-screen-photo-booths-11.jpg"
+  - "/images/products/green-screen-photo-booths-12.jpg"
+  - "/images/products/green-screen-photo-booths-13.jpg"
+  - "/images/products/green-screen-photo-booths-14.jpg"
+  - "/images/products/green-screen-photo-booths-15.jpg"
+  - "/images/products/green-screen-photo-booths-16.jpg"
+  - "/images/products/green-screen-photo-booths-17.jpg"
+  - "/images/products/green-screen-photo-booths-18.jpg"
+  - "/images/products/green-screen-photo-booths-19.jpg"
+  - "/images/products/green-screen-photo-booths-20.jpg"
+  - "/images/products/green-screen-photo-booths-21.jpg"
+  - "/images/products/green-screen-photo-booths-22.jpg"
+  - "/images/products/green-screen-photo-booths-23.jpg"
+  - "/images/products/green-screen-photo-booths-24.jpg"
+  - "/images/products/green-screen-photo-booths-25.jpg"
+  - "/images/products/green-screen-photo-booths-26.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c81521cd3fd6ed64e7f2b464e53ce20"
@@ -37,6 +64,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22f81d05da8f53be1f43d5f2efbd805"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/11c1ef42f97c72071d5cc5cccfdf7818"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db"
+
 ---
 
 # GREEN SCREEN PHOTO BOOTHS

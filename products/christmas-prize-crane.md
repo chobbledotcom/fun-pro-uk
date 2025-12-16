@@ -11,7 +11,10 @@ features: []
 redirect_from:
   - "/category/christmas-game-hire/100/christmas-prize-crane/"
 gallery:
+  - "/images/products/christmas-prize-crane-1.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
+
 ---
 
 # Christmas Prize Crane

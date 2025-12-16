@@ -11,6 +11,30 @@ features: []
 redirect_from:
   - "/category/exhibition-games/37/crack-the-code-safe-cracker/"
 gallery:
+  - "/images/products/crack-the-code-safe-cracker-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/crack-the-code-safe-cracker-2.jpg"
+  - "/images/products/crack-the-code-safe-cracker-3.jpg"
+  - "/images/products/crack-the-code-safe-cracker-4.jpg"
+  - "/images/products/crack-the-code-safe-cracker-5.jpg"
+  - "/images/products/crack-the-code-safe-cracker-6.jpg"
+  - "/images/products/crack-the-code-safe-cracker-7.jpg"
+  - "/images/products/crack-the-code-safe-cracker-8.jpg"
+  - "/images/products/crack-the-code-safe-cracker-9.jpg"
+  - "/images/products/crack-the-code-safe-cracker-10.jpg"
+  - "/images/products/crack-the-code-safe-cracker-11.jpg"
+  - "/images/products/crack-the-code-safe-cracker-12.jpg"
+  - "/images/products/crack-the-code-safe-cracker-13.jpg"
+  - "/images/products/crack-the-code-safe-cracker-14.jpg"
+  - "/images/products/crack-the-code-safe-cracker-15.jpg"
+  - "/images/products/crack-the-code-safe-cracker-16.jpg"
+  - "/images/products/crack-the-code-safe-cracker-17.jpg"
+  - "/images/products/crack-the-code-safe-cracker-18.jpg"
+  - "/images/products/crack-the-code-safe-cracker-19.jpg"
+  - "/images/products/crack-the-code-safe-cracker-20.jpg"
+  - "/images/products/crack-the-code-safe-cracker-21.jpg"
+  - "/images/products/crack-the-code-safe-cracker-22.jpg"
+  - "/images/products/crack-the-code-safe-cracker-23.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4542e8532d60775cd7a9739ed418501"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3439f6c9f190c3c2bed8ca0d8a0e91db"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/215460ae68b1fae4c9231444314297b5"
@@ -34,6 +58,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e29420d3695e93ae19a85b1dc096251e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3763e55f1d3b2617c604ae358f2a9c9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f85ead60e61ec6515af5b5928af0abd1"
+
 ---
 
 # Crack The Code safe cracker

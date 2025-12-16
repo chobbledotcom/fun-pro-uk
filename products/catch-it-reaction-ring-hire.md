@@ -11,6 +11,17 @@ features: []
 redirect_from:
   - "/category/exhibition-games/94/catch-it-reaction-ring-hire/"
 gallery:
+  - "/images/products/catch-it-reaction-ring-hire-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-2.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-3.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-4.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-5.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-6.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-7.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-8.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-9.jpg"
+  - "/images/products/catch-it-reaction-ring-hire-10.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/155317938fed6cb2f070f2cc18b7a451"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c007a8cb4f523793080b753c4f54c3b3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f08f34e93e7d848edab5867f8be0171b"
@@ -21,6 +32,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c21eaf5f7d999d009ef1f9ef8ea7793b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3c93aa83238a4cbe6b49ca47994bffa"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/acac488e1411bebfcbda5b0f50eae099"
+
 ---
 
 # Catch it Reaction Ring Hire

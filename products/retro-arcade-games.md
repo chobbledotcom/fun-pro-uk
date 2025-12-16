@@ -12,6 +12,23 @@ redirect_from:
   - "/category/arcade-games/4/retro-arcade-games/"
   - "/category/interactive-game-hire/4/retro-arcade-games/"
 gallery:
+  - "/images/products/lights-out-game-lights-out-game-2-retro-arcade-games.jpg"
+  - "/images/products/retro-arcade-games-2.jpg"
+  - "/images/products/retro-arcade-games-3.jpg"
+  - "/images/products/retro-arcade-games-4.jpg"
+  - "/images/products/retro-arcade-games-5.jpg"
+  - "/images/products/retro-arcade-games-6.jpg"
+  - "/images/products/retro-arcade-games-7.jpg"
+  - "/images/products/retro-arcade-games-8.jpg"
+  - "/images/products/retro-arcade-games-9.jpg"
+  - "/images/products/retro-arcade-games-10.jpg"
+  - "/images/products/retro-arcade-games-11.jpg"
+  - "/images/products/retro-arcade-games-12.jpg"
+  - "/images/products/retro-arcade-games-13.jpg"
+  - "/images/products/retro-arcade-games-14.jpg"
+  - "/images/products/retro-arcade-games-15.jpg"
+  - "/images/products/retro-arcade-games-16.jpg"
+gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3ecfc5ae722862476566d15a172358cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d0f4a1f69596ec2968a469d2bae7429"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bb3871c70c399e6eab58da6c0b2f741f"
@@ -28,6 +45,7 @@ gallery:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6e09e805472eec594f4e7d5d67b866a7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0a49f02511e4d6e1e274f842897006b5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4e258fa20804dd835c8ae6e52f2501ae"
+
 ---
 
 # RETRO ARCADE GAMES
