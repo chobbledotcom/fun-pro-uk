@@ -72,6 +72,11 @@ h3 {
   aspect-ratio: 3/2;
 }
 
+.container {
+  max-width: var(--width-content);
+  margin: 0 auto;
+}
+
 placeholder {
   display: block;
   aspect-ratio: 3/2;
@@ -108,7 +113,6 @@ a.button {
 
 body {
   color: #181a1f;
-  text-align: center;
   font-family: "DM Sans";
   font-size: 16px;
   font-style: normal;
@@ -183,22 +187,62 @@ main {
 }
 
 #homepage-intro {
-  row {
-    padding: 64px 32px;
-    gap: 0;
+  padding: 64px 32px;
+  .container {
     & > * {
       max-width: 700px;
       text-align: left;
     }
+    a.button {
+      margin-top: 32px;
+    }
+  }
+}
+
+#homepage-testimonials {
+  padding: 64px 32px;
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    gap: 32px;
+    flex-direction: row;
+    li {
+      display: flex;
+      padding: 24px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+      flex: 1 0 0;
+      border-radius: 16px;
+      border: 0.5px solid #56545B;
+      background: #F3F3F3;
+      &> * {
+        padding: 0;
+        margin: 0;
+      }
+    }
+  }
+  blockquote {
+    color: #1A1A1A;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    aspect-ratio: 4/3;
+    overflow-x: scroll;
   }
 }
 
 #homepage-brands {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
+  padding: 64px 32px;
   background: #fafafa;
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
   h2 {
     padding: 0;
     margin: 0;
@@ -207,13 +251,14 @@ main {
     font-size: 24px;
     line-height: 32px;
     text-align: left;
+    padding-right: 64px;
   }
   ul {
     display: flex;
     list-style-type: none;
     padding: 0;
     flex-direction: row;
-    gap: 16px;
+    gap: 64px;
   }
 }
 
@@ -230,10 +275,6 @@ main {
   h2,
   h3 {
     color: #fff;
-  }
-
-  & > div {
-    text-align: left;
   }
 
   @media (max-width: 789px) {
@@ -297,13 +338,29 @@ main {
   }
 }
 
-row {
-  max-width: var(--width-content);
-  margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 64px;
+#homepage-products {
+  padding: 128px 32px;
+
+  li {
+    display: flex;
+    width: 374px;
+    padding: 32px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 32px;
+    border-radius: 16px;
+    border: 1px solid #BABBBC;
+    background: #FAFAFA;
+    &>* {
+      padding: 0;
+      margin: 0;
+    }
+    .image-link {
+      aspect-ratio: 3/2;
+      width: 100%;
+      overflow: hidden;
+    }
+  }
 }
 
 #footer-contact {
