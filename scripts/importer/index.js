@@ -17,6 +17,7 @@ const { execSync } = require('child_process');
 const { convertPages, convertLocations, convertBlogPosts, convertProducts, convertCategories, convertEvents, convertHomeContent, convertBlogIndex, convertReviewsIndex, convertReviews, convertSpecialPages, convertSiteConfig, convertStaticPages } = require('./converters');
 const { extractFavicons } = require('./utils/favicon-extractor');
 const { fixAllLinks } = require('./utils/link-fixer');
+const { main: mirrorProductImages } = require('./mirror-product-images');
 const ResultsTracker = require('./utils/results-tracker');
 const config = require('./config');
 
@@ -36,6 +37,7 @@ const CONVERTERS = {
   blogindex: { name: 'Blog Index', run: () => convertBlogIndex() },
   reviewsindex: { name: 'Reviews Index', run: () => convertReviewsIndex() },
   reviews: { name: 'Reviews', run: () => convertReviews() },
+  mirrorimages: { name: 'Mirror Product Images', run: () => mirrorProductImages() },
 };
 
 /**
