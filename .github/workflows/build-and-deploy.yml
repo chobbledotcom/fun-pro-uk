@@ -10,7 +10,7 @@ concurrency:
 
 jobs:
   setup:
-    name: Merge Repos
+    name: Build & Deploy to Bunny
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repo
@@ -83,9 +83,10 @@ jobs:
           path: |
             combined/node_modules
             combined/.image-cache
-          key: ${{ runner.os }}
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('template/pnpm-lock.yaml') }}-images-${{ hashFiles('source/images/**/*') }}
           restore-keys: |
-            ${{ runner.os }}
+            ${{ runner.os }}-pnpm-${{ hashFiles('template/pnpm-lock.yaml') }}-images-
+            ${{ runner.os }}-pnpm-
 
       - name: Debug - List directory structure after cache restore
         run: |
