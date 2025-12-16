@@ -3,7 +3,7 @@ layout: base
 ---
 
 <section id="homepage-intro">
-  <row>
+  <div class="container">
     <h1>Get in Touch</h1>
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -19,27 +19,39 @@ layout: base
     <p>
       <a href="/products/" class="button red">View Games</a>
     </p>
-  </row>
+  </div>
 </section>
 
 <section id="homepage-testimonials">
-  <h2>Hear What Our Clients Have To Say</h2>
-  {%- include "homepage-testimonials.html" -%}
+  <div class="container">
+    <h2>Hear What Our Clients Have To Say</h2>
+    <h3>Customer Reviews on Google</h3>
+    <p>
+      ⭐⭐⭐⭐ 5.0 rating -
+      <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
+    </p>
+    {%- assign latest_reviews = collections.visibleReviews | getLatestReviews: 3 -%}
+    <ul>
+      {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
+    </ul>
+  </div>
 </section>
 
 <section id="homepage-brands">
-  <h2>Trusted by leading brands across the UK</h2>
-  <ul>
-    <li><img src="/assets/partners/boots.png" alt="Boots" /></li>
-    <li><img src="/assets/partners/kpmg.png" alt="KPMG" /></li>
-    <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual" /></li>
-    <li><img src="/assets/partners/jlr.png" alt="JLR" /></li>
-    <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce" /></li>
-  </ul>
+  <div class="container">
+    <h2>Trusted by leading brands across the UK</h2>
+    <ul>
+      <li><img src="/assets/partners/boots.png" alt="Boots" /></li>
+      <li><img src="/assets/partners/kpmg.png" alt="KPMG" /></li>
+      <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual" /></li>
+      <li><img src="/assets/partners/jlr.png" alt="JLR" /></li>
+      <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce" /></li>
+    </ul>
+  </div>
 </section>
 
 <section id="homepage-how-it-works">
-  <div>
+  <div class="container">
     <h2>How it Works</h2>
     <ol>
       <li>
