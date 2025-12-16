@@ -1,63 +1,64 @@
+<div class="footer">
+  <section id="footer-contact-block">
+    <h2>Get in Touch</h2>
+    <p>Planning a corporate event is stressful enough without worrying about the entertainment. That's where we come in. At FunPro, we handle everything from interactive games to photo booths, delivery to setup. You tell us what you need, we make it happen.</p>
+    <ol>
+      <li>
+        {{ "icons/calendar.svg" | inline_asset }}
+        <h3>Share your event details</h3>
+        <p>Tell us about your upcoming event. We're a family-run team who love talking through ideas and answering any questions you might have.</p>
+      </li>
+      <li>
+        {{ "icons/doc.svg" | inline_asset }}
+        <h3>Get your FunPro quote</h3>
+        <p>We'll put together a quote based on your venue, guest numbers, and goals. No pressure, no obligation, just options that work for you.</p>
+      </li>
+      <li>
+        {{ "icons/happy.svg" | inline_asset }}
+        <h3>Enjoy your event</h3>
+        <p>Sit back and relax while we handle delivery, setup, and staffing. You get to be a guest at your own event.</p>
+      </li>
+    </ol>
+    <p>
+      <a href="/products/" class="button red">
+        View Our Games
+        {{ "icons/up-right-arrow.svg" | inline_asset }}
+      </a>
+      <a href="tel:+442477220701" class="button white">
+        {{ "icons/phone.svg" | inline_asset }}
+        <span>Call us: 0247 7220 701</span>
+      </a>
+  </section>
 
-<section id="footer-contact-block">
-  <h2>Get in Touch</h2>
-  <p>Planning a corporate event is stressful enough without worrying about the entertainment. That's where we come in. At FunPro, we handle everything from interactive games to photo booths, delivery to setup. You tell us what you need, we make it happen.</p>
-  <ol>
-    <li>
-      {{ "icons/calendar.svg" | inline_asset }}
-      <h3>Share your event details</h3>
-      <p>Tell us about your upcoming event. We're a family-run team who love talking through ideas and answering any questions you might have.</p>
-    </li>
-    <li>
-      {{ "icons/doc.svg" | inline_asset }}
-      <h3>Get your FunPro quote</h3>
-      <p>We'll put together a quote based on your venue, guest numbers, and goals. No pressure, no obligation, just options that work for you.</p>
-    </li>
-    <li>
-      {{ "icons/happy.svg" | inline_asset }}
-      <h3>Enjoy your event</h3>
-      <p>Sit back and relax while we handle delivery, setup, and staffing. You get to be a guest at your own event.</p>
-    </li>
-  </ol>
-  <p>
-    <a href="/products/" class="button red">
-      View Our Games
-      {{ "icons/up-right-arrow.svg" | inline_asset }}
-    </a>
-    <a href="tel:+442477220701" class="button white">
-      {{ "icons/phone.svg" | inline_asset }}
-      <span>Call us: 0247 7220 701</span>
-    </a>
-</section>
-
-<section id="footer-contact">
-  <div class="container">
-    <a href="/" id="footer-logo">
-      <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
-    </a>
-    {%- include "email-link.html", id: "footer-email" -%}
-    {%- include "phone-link.html", id: "footer-phone" -%}
-    {%- include "opening-times.html", id: "footer-times" -%}
-    <div id="footer-socials">
-      Follow us:
-      {%- include "footer-socials.html" -%}
+  <section id="footer-contact" class="full-width">
+    <div class="row">
+      <a href="/" id="footer-logo">
+        <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
+      </a>
+      {%- include "email-link.html", id: "footer-email" -%}
+      {%- include "phone-link.html", id: "footer-phone" -%}
+      {%- include "opening-times.html", id: "footer-times" -%}
+      <div id="footer-socials">
+        Follow us:
+        {%- include "footer-socials.html" -%}
+      </div>
     </div>
-  </div>
-  <links>{%- include "footer-links.html" -%}</links>
-</section>
+    <links>{%- include "footer-links.html" -%}</links>
+  </section>
 
 
-{%- if config.chobble_link and layout == "home.html" -%}
-  <p>
-    Marketing by
-    <a href="https://www.skayl.co.uk"
-      rel="nofollow"
-      target="_blank"
-    >Skayl</a> /
-    Website by <a
-      href="https://chobble.com"
-      rel="nofollow"
-      target="_blank"
-    >Chobble</a>
-  </p>
-{%- endif -%}
+  {%- if config.chobble_link and layout == "home.html" -%}
+    <p>
+      Marketing by
+      <a href="https://www.skayl.co.uk"
+        rel="nofollow"
+        target="_blank"
+      >Skayl</a> /
+      Website by <a
+        href="https://chobble.com"
+        rel="nofollow"
+        target="_blank"
+      >Chobble</a>
+    </p>
+  {%- endif -%}
+</div>
