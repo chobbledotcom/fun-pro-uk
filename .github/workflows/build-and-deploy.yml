@@ -67,26 +67,24 @@ jobs:
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
             "combined/src/_data/config.json"
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24
-
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
           version: latest
 
-      - name: Restore cache
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: latest
+          cache: 'pnpm'
+
+      - name: Restore image cache
         uses: actions/cache@v4
         with:
-          path: |
-            combined/node_modules
-            combined/.image-cache
-          key: ${{ runner.os }}-pnpm-${{ hashFiles('template/pnpm-lock.yaml') }}-images-${{ hashFiles('source/images/**/*') }}
+          path: combined/.image-cache
+          key: ${{ runner.os }}-images-${{ hashFiles('source/images/**/*') }}
           restore-keys: |
-            ${{ runner.os }}-pnpm-${{ hashFiles('template/pnpm-lock.yaml') }}-images-
-            ${{ runner.os }}-pnpm-
+            ${{ runner.os }}-images-
 
       - name: Build with Node
         run: |
