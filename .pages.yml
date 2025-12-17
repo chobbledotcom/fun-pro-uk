@@ -269,7 +269,7 @@ content:
     label: Locations
     path: locations
     type: collection
-    subfolders: false
+    subfolders: true
     filename: "{primary}.md"
     view:
       fields: [title, subtitle]
