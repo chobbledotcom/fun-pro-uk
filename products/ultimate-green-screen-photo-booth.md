@@ -1,6 +1,6 @@
 ---
 title: "ELECTRONIC BASKET BALL HIRE"
-price: ""
+price: "£295"
 order: 50
 meta_title: "Hire Basketball Arcade Game, Rent Electronic Basketball Game"
 meta_description: "Hire Basketball Arcade Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -24,7 +24,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a4d43666b589d9c6a2ff71ef45ba86c7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1dbcc4ea9f0c532acdf5511c1beddd7c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d7e33f6201a361d074013a6b2cd5c30e"
-
 ---
 
 # ELECTRONIC BASKET BALL HIRE

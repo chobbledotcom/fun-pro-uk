@@ -23,7 +23,7 @@ Team Building Fun
 
 Freshers Game Hire
 
-[Exhibition Games](/categories/exhibition-games/) [Christmas Game Hire](/categories/christmas-game-hire/) [Corporate Entertainment](/categories/corporate-entertainment/) [Fresher's Fair Games](/categories/freshers-fair-games/)[Staff WellBeing Days](/events/staff-wellbeing-days/)[Grab A Grand](/products/grab-a-grand/) [Interactive Game Hire](/categories/interactive-game-hire/) Batak [Branded Exhibition Games](/categories/branded-exhibition-games/) [Fun Days](/categories/fun-days/)[Company Award Ceremonies](/events/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) [Weddings](/categories/weddings/)[Christmas Grotto Hire](/categories/christmas-grotto-hire/) [Arcade Games](/products/lights-out-game/) [Prize Games](/categories/prize-games/) [Pub Games](/categories/pub-games/) [Roll & Bowl](/categories/roll-and-bowl/) [Fun Foods](/categories/fun-foods/) [Fun Fair Stalls](/categories/fun-fair-stalls/) [Circus Skills Workshop](/events/circus-skills-workshop/) [Christmas Games](/categories/christmas-games/)
+[Exhibition Games](/categories/exhibition-games/) [Christmas Game Hire](/categories/christmas-game-hire/) [Corporate Entertainment](/categories/corporate-entertainment/) [Fresher's Fair Games](/categories/freshers-fair-games/)[Staff WellBeing Days](/events/staff-wellbeing-days/)[Grab A Grand](/products/grab-a-grand/) [Interactive Game Hire](/categories/interactive-game-hire/) Batak [Branded Exhibition Games](/categories/branded-exhibition-games/) [Fun Days](/categories/fun-days/)[Company Award Ceremonies](/events/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) [Weddings](/categories/weddings/)[Christmas Grotto Hire](/categories/christmas-grotto-hire/) [Arcade Games](/categories/arcade-games/) [Prize Games](/categories/prize-games/) [Pub Games](/categories/pub-games/) [Roll & Bowl](/categories/roll-and-bowl/) [Fun Foods](/categories/fun-foods/) [Fun Fair Stalls](/categories/fun-fair-stalls/) [Circus Skills Workshop](/events/circus-skills-workshop/) [Christmas Games](/categories/christmas-games/)
 
 ## Cool Games To Hire For UK Events
 
@@ -105,7 +105,7 @@ Your friends, family, or colleagues can hop into the booth to take fun photos wi
 
 **What About Arcade Games?**
 
-[Arcade games for hire](/products/lights-out-game/#content) are still popular, but there’s no need to bring the group to a local arcade when the arcade games can come to you. This is a fun way for people to try their favourites, or to try new games too.
+[Arcade games for hire](/categories/arcade-games/#content) are still popular, but there’s no need to bring the group to a local arcade when the arcade games can come to you. This is a fun way for people to try their favourites, or to try new games too.
 
 Our games focus on the [retro arcade games](/products/retro-arcade-games/), because we know that people have their favourites. These games also offer the opportunity for two people to play, so your friend can also participate, and so you can have an additional competition. These games are suitable for ages six and up to adults and even seniors.
 

@@ -72,20 +72,25 @@ const extractMetadata = (htmlContent) => {
 
 /**
  * Extract price from HTML content
+ * Looks for hire price in the pricing table - specifically the first price cell
+ * which represents the base/1-day hire price (labeled "Hire from" or similar)
  * @param {string} htmlContent - HTML content to extract price from
  * @returns {string} Extracted price with currency symbol
  */
 const extractPrice = (htmlContent) => {
-  // Try to extract from price table
-  const priceTableMatch = htmlContent.match(/Our Price:<\/th>\s*<td[^>]*>\s*&pound;([\d,]+\.?\d*)/i);
-  if (priceTableMatch) {
-    return `£${priceTableMatch[1]}`;
+  // Look for the "Hire Prices:" section followed by a table
+  // The first <td> in the table contains the base hire price
+  // Note: &pound; and the number may be separated by closing tags like </span>
+  const hirePricesMatch = htmlContent.match(/Hire [Pp]rices:?<\/\w+>[\s\S]*?<table[^>]*>[\s\S]*?<td[^>]*>[\s\S]*?&pound;(?:<[^>]*>)*([\d,]+)/);
+  if (hirePricesMatch) {
+    return `£${hirePricesMatch[1].replace(/,/g, '')}`;
   }
 
-  // Fallback: look for price in JSON-LD schema
-  const schemaMatch = htmlContent.match(/"price":"([\d,]+\.?\d*)"/i);
-  if (schemaMatch) {
-    return `£${schemaMatch[1]}`;
+  // Alternative: look for "Hire from" label in a table cell followed by price
+  // This catches cases where the table structure varies slightly
+  const hireFromMatch = htmlContent.match(/<td[^>]*>[\s\S]*?(?:Hire from|hire from)[\s\S]*?&pound;(?:<[^>]*>)*([\d,]+)/i);
+  if (hireFromMatch) {
+    return `£${hireFromMatch[1].replace(/,/g, '')}`;
   }
 
   return '';

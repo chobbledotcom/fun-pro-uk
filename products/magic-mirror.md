@@ -1,6 +1,6 @@
 ---
 title: "MAGIC MIRROR"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK"
 meta_description: "Magic mirror hire for parties, exhibitions, or corporate events. We deliver across the UK! Call today for stylish photo mirror rental at your next event."
@@ -44,7 +44,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2caa4b75b0dc1f494d59d4e620ab3bb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/38bba003d24c7ba5f60e76a1f811778f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647885a269118a3d197a6802d107be08"
-
 ---
 
 # MAGIC MIRROR

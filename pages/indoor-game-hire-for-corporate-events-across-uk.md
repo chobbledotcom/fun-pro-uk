@@ -36,7 +36,7 @@ Our range of [racing car simulators](/products/twin-racing-car-simulators/) crea
 
 ### Arcade and retro games
 
-Retro [arcade games](/products/lights-out-game/) have a nostalgic appeal across age groups and provide familiar entertainment that everyone can enjoy.
+Retro [arcade games](/categories/arcade-games/) have a nostalgic appeal across age groups and provide familiar entertainment that everyone can enjoy.
 
 ### Table games
 
@@ -78,7 +78,7 @@ Early planning helps avoid last-minute complications.
 
 ### Your space requirements
 
-This will vary by game type, though most [arcade games](/products/lights-out-game/) and table games need roughly 2-3 metres of clear floor space, but some items like simulators need more room. Ceiling height matters for certain games, and you'll need to think about access for delivery (lifts, doorways, stairs).
+This will vary by game type, though most [arcade games](/categories/arcade-games/) and table games need roughly 2-3 metres of clear floor space, but some items like simulators need more room. Ceiling height matters for certain games, and you'll need to think about access for delivery (lifts, doorways, stairs).
 
 ### Power needs at your venue
 

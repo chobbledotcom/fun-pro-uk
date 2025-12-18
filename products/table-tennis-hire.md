@@ -1,6 +1,6 @@
 ---
 title: "Table Tennis Hire"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Best Table Tennis Hire in the UK | Fun Pro UK"
 meta_description: "Table tennis hire for events in Birmingham, London, Manchester, and beyond. Fun Pro UK offers delivery across the UK for your next event. Contact us today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/lights-out-game-lights-out-game-2-table-tennis-hire.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
-
 ---
 
 # Table Tennis Hire
@@ -173,6 +172,6 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)

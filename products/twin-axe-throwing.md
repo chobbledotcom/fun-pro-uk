@@ -1,6 +1,6 @@
 ---
 title: "Twin Axe throwing"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"
 meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for a quote today."
@@ -15,7 +15,6 @@ gallery:
   - "/images/products/twin-axe-throwing-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
-
 ---
 
 # Twin Axe throwing

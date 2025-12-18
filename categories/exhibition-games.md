@@ -27,7 +27,7 @@ Strike a Light and [Whack a Mole](/products/whack-a-mole-game-hire/) are always 
   
 [Racecar simulators](/products/twin-racing-car-simulators/) and [VR racecar simulators](/products/vr-race-car-simulator/) are perfect for car enthusiasts. Players can experience the thrill of racing in a safe and controlled environment, making it a fantastic way to engage with potential customers who have an interest in cars. If you run a motoring-industry business, this could be just what you need.  
   
-[Arcade Games](/products/lights-out-game/) such as [Dance Machines](/products/dance-machine/) are crowd-pleasers for exhibitions and trade shows. These arcade classics will help you engage with potential customers while showcasing your brand's fun and playful side.  
+[Arcade Games](/categories/arcade-games/) such as [Dance Machines](/products/dance-machine/) are crowd-pleasers for exhibitions and trade shows. These arcade classics will help you engage with potential customers while showcasing your brand's fun and playful side.  
   
 And [photo booths](/categories/photo-booths-and-magic-mirrors/) are a fantastic way to capture memories and promote your brand. Why not put your business' name on any photobooth printouts, and provide props and accessories that represent your company?
 

@@ -1,6 +1,6 @@
 ---
 title: "Christmas Batak Pro"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Christmas Batak Pro - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Pro is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -30,7 +30,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cf15caa4c0fcebf4a7bfddc886041ed9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c1874ccd55999ce3c98f6e844459f7d7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ad94d78d0415483d74811f294d4c6ab"
-
 ---
 
 # Christmas Batak Pro
@@ -173,7 +172,7 @@ Looking to make your event even more magical? Explore our range of **interactive
 
 If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
 
-[Arcade Games](/products/lights-out-game/)
+[Arcade Games](/categories/arcade-games/)
 
 [Prize Games](/categories/prize-games/)
 

@@ -81,7 +81,7 @@ Massive group games and interactive experiences create the kinds of moments that
 
 ### What types of group activities does Fun Pro UK offer for hire?
 
-Fun Pro UK offers a diverse selection of interactive games and attractions designed to suit events of all sizes and types. Our catalogue includes competitive team games, [arcade games](/products/lights-out-game/), fun fair games, [inflatable challenges](/products/inflatable-assault-courses/), prize stalls, and more.
+Fun Pro UK offers a diverse selection of interactive games and attractions designed to suit events of all sizes and types. Our catalogue includes competitive team games, [arcade games](/categories/arcade-games/), fun fair games, [inflatable challenges](/products/inflatable-assault-courses/), prize stalls, and more.
 
 Our games cater to corporate team building, festivals, community fairs, school events, and private celebrations. If you're unsure which options best suit your event, our team is happy to recommend games based on your audience and goals.
 

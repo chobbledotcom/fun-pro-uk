@@ -1,6 +1,6 @@
 ---
 title: "High Striker"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Hire High Striker, Fairground Game High Striker To Rent, UK"
 meta_description: "Hire Our High Striker Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -26,7 +26,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1e28d14c512b85a5e654a0da1b28a2c3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30512d60bf22e6fa6d8e85b889855315"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85"
-
 ---
 
 # High Striker

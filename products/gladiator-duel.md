@@ -1,6 +1,6 @@
 ---
 title: "GLADIATOR DUEL"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"
 meta_description: "Strap on the bungee cords and race to the end! Gladiator duels are as fun to watch as they are to play - laughter guaranteed! Available for hire nationwide."
@@ -23,7 +23,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d06f0e58e5aaf3a8cc1193941ca8ea37"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/59cc9237a50b1088f4b5b50b3c456657"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e47337c283900e9bd8067d6f29d8de25"
-
 ---
 
 # GLADIATOR DUEL

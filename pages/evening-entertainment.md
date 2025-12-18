@@ -18,7 +18,7 @@ For more snapshots of the big evening, [Photo booths and magic mirrors](/categor
 
 There is a huge choice of game hire for parties.[Rodeo bulls](/products/rodeo-bull/) are more thrilling entertainment that is sure to get hearts racing and pulses pounding. Who can stay on the rodeo bull the longest? Party into the night with this wild bucking bronco.  
   
-[Arcade machines](/products/lights-out-game/) are perfect for party game rentals and look the part at evening parties, and at Fun Pro UK, we have plenty, including [dance machines](/products/dance-machine/) and [racing simulators](/products/twin-racing-car-simulators/). These will be a hit among gamers and anyone who loves a bit of healthy competition - they always get everyone's adrenaline pumping!  
+[Arcade machines](/categories/arcade-games/) are perfect for party game rentals and look the part at evening parties, and at Fun Pro UK, we have plenty, including [dance machines](/products/dance-machine/) and [racing simulators](/products/twin-racing-car-simulators/). These will be a hit among gamers and anyone who loves a bit of healthy competition - they always get everyone's adrenaline pumping!  
   
 And for those who like to roll the dice, our [casino tables](/products/casino-table-hire/) are a sure bet. Whether you're hosting a themed casino night or just want to add a touch of excitement to your event, our professional croupiers and authentic mobile casino equipment will transport your guests to the bright lights of Las Vegas.
 

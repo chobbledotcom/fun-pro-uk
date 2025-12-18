@@ -22,7 +22,7 @@ Take a look at our entertainment games for hire to see which one works for your 
 
 Fun Pro has arcade machines with great LCD screens, perfectly working buttons and joysticks, complete tools and equipment, and everything else you and your guests need. Get the full arcade experience with games like [driving simulators](/products/twin-racing-car-simulators/), [retro video games](/products/retro-arcade-games/), [electric basketball machines](/products/ultimate-green-screen-photo-booth/), and more.
 
-Browse our catalogue to find the perfect [arcade game](/products/lights-out-game/) for your guests.
+Browse our catalogue to find the perfect [arcade game](/categories/arcade-games/) for your guests.
 
 ### Outdoor Games for Hire
 

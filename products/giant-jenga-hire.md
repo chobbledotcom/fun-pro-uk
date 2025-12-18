@@ -1,6 +1,6 @@
 ---
 title: "Giant Jenga Hire"
-price: ""
+price: "£60"
 order: 50
 meta_title: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK"
 meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -15,7 +15,6 @@ gallery:
   - "/images/products/giant-jenga-hire-lights-out-game.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3"
-
 ---
 
 # Giant Jenga Hire

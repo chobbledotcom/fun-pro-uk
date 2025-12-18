@@ -1,6 +1,6 @@
 ---
 title: "Ballnado Grabber"
-price: ""
+price: "£495"
 order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"
 meta_description: "Hire Our Ball Grabber Machine For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -55,7 +55,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2e678f1ce63e8a5979a938854cbdee9c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f1306576e3a9eac486285332f4c814"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
-
 ---
 
 # Ballnado Grabber
@@ -151,7 +150,7 @@ Lift required
 ### **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

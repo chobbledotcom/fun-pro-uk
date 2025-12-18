@@ -1,6 +1,6 @@
 ---
 title: "Popcorn Machine Cart Hire"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Best Popcorn Machine Cart Hire for All UK Events"
 meta_description: "Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Book today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/popcorn-machine-cart-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e"
-
 ---
 
 # Popcorn Machine Cart Hire

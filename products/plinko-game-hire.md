@@ -1,6 +1,6 @@
 ---
 title: "Plinko Game Hire"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK"
 meta_description: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -32,7 +32,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1e3a673d1f71f8426434cf9e66bd146"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5463ebf2f6ee8ba66947266f9e8cf317"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b"
-
 ---
 
 # Plinko Game Hire

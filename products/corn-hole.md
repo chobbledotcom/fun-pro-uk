@@ -1,6 +1,6 @@
 ---
 title: "Corn Hole"
-price: ""
+price: "£295"
 order: 50
 meta_title: "Corn Hole Hire UK | Premium Games for Corporate & Private Events"
 meta_description: "Hire Corn Hole games with custom branding for your next corporate event, wedding or party. Nationwide delivery and setup. Request a quote today."
@@ -32,7 +32,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/309c7ca51daa303ee58db79c226d1e97"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/09d9245a0dfcaf880507a4ab7a20d7b4"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65a14af4364b497717c424304c8d4f80"
-
 ---
 
 # Corn Hole

@@ -161,9 +161,9 @@ If you’re looking to expand the activity options you have at your event, we of
 
 **[Batak Lite](/locations/coventry/batak-lite/)**
 
-[**Arcade Games**](/products/lights-out-game/)
+[**Arcade Games**](/categories/arcade-games/)
 
-**[](/products/lights-out-game/)[Prize Games](/categories/prize-games/)**
+**[](/categories/arcade-games/)[Prize Games](/categories/prize-games/)**
 
 **[](/categories/prize-games/)[Pub Games](/categories/pub-games/)**
 

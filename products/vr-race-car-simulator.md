@@ -1,6 +1,6 @@
 ---
 title: "VR Race Car Simulator"
-price: ""
+price: "£525"
 order: 50
 meta_title: "Racing Simulator Hire, VR Car Driving Simulator Rental, UK"
 meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -41,7 +41,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f3de7d0063dc15a039f582f90824ce1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8ddf7d8e6ed3a92d32ec94760f5b813d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6eed1c0ff69c19d17b01bc0fb8210c5"
-
 ---
 
 # VR Race Car Simulator

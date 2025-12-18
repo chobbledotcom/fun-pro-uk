@@ -3,6 +3,9 @@ title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
 featured: true
+redirect_from:
+  - "/products/lights-out-game-2/"
+  - "/interactive-game-hire/2/lights-out-game/"
 ---
 
 # **Trusted Interactive Game Hire in the UK**

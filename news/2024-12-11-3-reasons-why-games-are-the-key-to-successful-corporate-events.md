@@ -31,7 +31,7 @@ From [prize wheels](/products/prize-wheel/) to air hockey tables and [racing car
 
 Plus, who doesn’t love a bit of nostalgic joy that playing games can spark?
 
-Here are the reasons why [hiring arcade games](/products/lights-out-game/), simulator games, interactive games, etc. for your next event is a great idea.
+Here are the reasons why [hiring arcade games](/categories/arcade-games/), simulator games, interactive games, etc. for your next event is a great idea.
 
 ### 1\. Games encourage team building and collaboration
 

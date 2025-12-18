@@ -1,6 +1,6 @@
 ---
 title: "The Vault"
-price: ""
+price: "£425"
 order: 50
 meta_title: "Hire Vault Cracker Game, Vault Safe Cracker Game Rent, UK"
 meta_description: "Hire Our Vault Cracker Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
@@ -29,7 +29,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91f65dadeb0447a0791a32822b9c935e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4ae30fbbd6c20dac5b9f223a33fdd84"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4867e072d6e414cffd2322e7197d37b2"
-
 ---
 
 # The Vault

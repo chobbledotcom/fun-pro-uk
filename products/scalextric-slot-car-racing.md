@@ -1,6 +1,6 @@
 ---
 title: "Scalextric Slot Car Racing"
-price: ""
+price: "£695"
 order: 50
 meta_title: "Scalextric Slot Car Racing - Arcade Games Hire UK"
 meta_description: "Experience the thrill of Scalextric Slot Car Racing! Perfect for UK corporate events, parties, and more. Hire this exciting arcade game for your next event."
@@ -49,7 +49,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2dbfcb8e19f0d8b61e729d0f1ed5d98"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f31e5f8d4725356e44179fbc2c44825"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86e1d66080707189aeb325a5d52af14e"
-
 ---
 
 # Scalextric Slot Car Racing
@@ -143,7 +142,7 @@ Lift required 1300mm deep
 ### **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

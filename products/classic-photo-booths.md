@@ -1,6 +1,6 @@
 ---
 title: "CLASSIC PHOTO BOOTHS"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
 meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
@@ -17,7 +17,6 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
-
 ---
 
 # CLASSIC PHOTO BOOTHS

@@ -12,7 +12,7 @@ Are you searching for fresh ideas for office events that will break the routine 
 
 **Game for Office Party: Table Football** - Kick off your next office party with our Table Football game. It's a perfect game for office party setups, fostering friendly competition and team bonding. Easy to set up and endlessly entertaining, it's sure to be a hit among your employees.
 
-**Ideas for Office Events: Retro Arcade Machines** - Inject some nostalgia into your office events with our [Retro Arcade Machines](/products/lights-out-game/). From classic games to new challenges, these machines are fantastic ideas for office events, offering everyone a chance to engage and relive cherished memories together.
+**Ideas for Office Events: Retro Arcade Machines** - Inject some nostalgia into your office events with our [Retro Arcade Machines](/categories/arcade-games/). From classic games to new challenges, these machines are fantastic ideas for office events, offering everyone a chance to engage and relive cherished memories together.
 
 **Fun Corporate Activities: Prize Wheel** \- Add excitement to your fun corporate activities with a [Prize Wheel](/products/prize-wheel/). This interactive game is perfect for office parties or corporate gatherings, providing a spin of fun and the chance to win office perks or prizes.
 
@@ -26,7 +26,7 @@ Get the competitive juices flowing with our [Beat the Buzzer](/products/beat-the
   
 You could really get your staff up and active with our [Batak Lite](/products/batak-lite/) or [Batak Pro](/products/batak-pro/) games! These high energy games also see players hitting lights in a set amount of time, but there's a lot more ducking and diving involved.
 
-If you're looking for something more classic, we have a range of [arcade games](/products/lights-out-game/) like the [Dance Machine](/products/dance-machine/), [Racing Simulators](/products/twin-racing-car-simulators/) and the [Gold Cup Horse Racing game](/products/gold-cup-horse-racing/).
+If you're looking for something more classic, we have a range of [arcade games](/categories/arcade-games/) like the [Dance Machine](/products/dance-machine/), [Racing Simulators](/products/twin-racing-car-simulators/) and the [Gold Cup Horse Racing game](/products/gold-cup-horse-racing/).
 
 Or bring some traditional fun to your office party with [table football](/products/football-tables/) and [air hockey](/products/air-hockey-table-hire/)! You could use these for settling old scores and encouraging comradery and teambuilding among your colleagues - or just use them for office entertainment!  
   

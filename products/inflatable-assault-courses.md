@@ -1,6 +1,6 @@
 ---
 title: "INFLATABLE ASSAULT COURSES"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent"
 meta_description: "Hire Inflatable Obstacle Courses For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
@@ -32,7 +32,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9d5b284198746331cbaaf51cf5716b3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c8001d653fba9cdd858a36df9563c2f0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ade8fb53c3007acd88df47339ae09d4e"
-
 ---
 
 # INFLATABLE ASSAULT COURSES

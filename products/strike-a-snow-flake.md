@@ -1,6 +1,6 @@
 ---
 title: "Strike A Snow Flake"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
@@ -24,7 +24,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/598fe2e3dee3fc329f7352c2d72b0321"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34d530d279cd8b0bea0a45ccd98bcd67"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b82605d2431b4c3d7601597127dd9ef0"
-
 ---
 
 # Strike A Snow Flake

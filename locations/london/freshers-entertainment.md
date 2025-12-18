@@ -38,7 +38,7 @@ Electronic reaction games like our Batak generate excitement and crowds, ideal f
 
 Many of London's most prestigious universities operate from historic buildings that present unique challenges for event organisers. Limited doorway widths, restricted vehicle access, and heritage building constraints require carefully selected entertainment options.
 
-Our smaller interactive games work brilliantly in these environments. Table-top [arcade games](/products/lights-out-game/) and compact gaming systems can be positioned in corridors, common rooms, or traditional courtyards without requiring major setup infrastructure.
+Our smaller interactive games work brilliantly in these environments. Table-top [arcade games](/categories/arcade-games/) and compact gaming systems can be positioned in corridors, common rooms, or traditional courtyards without requiring major setup infrastructure.
 
 We also provide [photo booth](/products/classic-photo-booths/) solutions specifically designed for period buildings – our [magic mirror](/products/magic-mirror/) systems require minimal space whilst creating shareable content that helps students document their freshers week experience. These work particularly well for London students who want to share their university journey with family and friends around the world.
 

@@ -1,6 +1,6 @@
 ---
 title: "Crack The Code safe cracker"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Hire Crack The Code, Safecracker Code Game For Hire, UK"
 meta_description: "Hire our crack the code game and win a prize! This safe cracking game is perfect for product launches, trade shows, promos, parties, fetes and more"
@@ -58,7 +58,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e29420d3695e93ae19a85b1dc096251e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3763e55f1d3b2617c604ae358f2a9c9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f85ead60e61ec6515af5b5928af0abd1"
-
 ---
 
 # Crack The Code safe cracker

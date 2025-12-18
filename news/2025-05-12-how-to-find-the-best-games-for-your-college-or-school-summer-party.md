@@ -87,7 +87,7 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 ### Indoor alternatives:
 
-*   [Arcade Games](/products/lights-out-game/)
+*   [Arcade Games](/categories/arcade-games/)
     
 *   Reaction Games
     

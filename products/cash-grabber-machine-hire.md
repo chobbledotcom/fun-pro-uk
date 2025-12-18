@@ -1,6 +1,6 @@
 ---
 title: "CASH GRABBER MACHINE HIRE"
-price: ""
+price: "£495"
 order: 5
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
@@ -50,7 +50,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4da92bff8b8f1e88420d92fca554d40b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff62a3f76c7cd06262f46d0b85574486"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0fc834c195a4a32d18f88c18d758ac4"
-
 ---
 
 # CASH GRABBER MACHINE HIRE

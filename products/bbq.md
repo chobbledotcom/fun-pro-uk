@@ -20,7 +20,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ed16962dbcd497aa7d1fe2fa155fe9e1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c23e794b2c529ebcbe06224e8bac1820"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9d541ccf1f9524822bb3e39ec948517d"
-
 ---
 
 # BBQ

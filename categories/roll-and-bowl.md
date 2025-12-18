@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Roll & Bowl Arcade Game Hire
 
-Blend skill, fun, and competition with our amazing collection of Roll and Bowl Games for hire! Perfect for those who love the nostalgia of [arcade games](/products/lights-out-game/) and the engagement of [Interactive games](/categories/interactive-game-hire/), these horse racing experiences offers a unique twist on traditional bowling games.
+Blend skill, fun, and competition with our amazing collection of Roll and Bowl Games for hire! Perfect for those who love the nostalgia of [arcade games](/categories/arcade-games/) and the engagement of [Interactive games](/categories/interactive-game-hire/), these horse racing experiences offers a unique twist on traditional bowling games.
 
 *   [Roll and Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/): Experience the thrill of the race with our Donkey Derby. Players roll balls into holes to propel their chosen donkey forward, racing against opponents in a lively contest of speed and precision.
     

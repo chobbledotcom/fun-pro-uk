@@ -21,7 +21,7 @@ Team-building activities provide an opportunity for employees to connect outside
 
 ### 1\. Arcade Game Challenge
 
-[Arcade games](/products/lights-out-game/) bring a sense of nostalgia and fun, making them a perfect choice for a work social event. Renting a selection of arcade games allows employees to compete, bond, and enjoy a light-hearted break from work.
+[Arcade games](/categories/arcade-games/) bring a sense of nostalgia and fun, making them a perfect choice for a work social event. Renting a selection of arcade games allows employees to compete, bond, and enjoy a light-hearted break from work.
 
 !
 

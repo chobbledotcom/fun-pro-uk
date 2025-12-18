@@ -148,7 +148,7 @@ Plus many more.
 
 If you’re looking to expand the activity options you have at your event, we offer a variety of interactive games for hire in Coventry. Here are just a few of our popular choices:
 
-*   [**Arcade Games**](/products/lights-out-game/)
+*   [**Arcade Games**](/categories/arcade-games/)
     
 *   **[Prize Games](/categories/prize-games/)**
     
@@ -170,7 +170,7 @@ Popular items:
 *   [Batak Pro](/products/batak-pro/#content)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 ## What our customers are saying…
 

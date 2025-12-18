@@ -31,7 +31,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ea0b60b48833e91ddd5429e66de2e255"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6e625e02358c9a76afed264292b2fb97"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3067b61de26eb5bc63a3a7da3ae8e1e6"
-
 ---
 
 # CASINO TABLE HIRE

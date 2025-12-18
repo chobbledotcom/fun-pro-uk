@@ -25,7 +25,7 @@ So, what kind of fun can we deliver to you? Here's a few examples:
 
 High-octane thrills are available in abundance from our superb [Racing Car Simulator](/products/twin-racing-car-simulators/). Any petrolheads in attendance at your conference won't be able to resist the temptation to take a seat and test their skills on one of the numerous tracks we can provide with our cutting-edge computer.
 
-All the action is visible on a superb quality screen, and this will be sure to draw a crowd of spectators and budding Formula One drivers wanting to show off their talent to their fellow delegates. This [arcade game](/products/lights-out-game/) attraction is always such a hit at conferences and similar occasions that you'll be sure to be hiring it again and again for all your corporate events.
+All the action is visible on a superb quality screen, and this will be sure to draw a crowd of spectators and budding Formula One drivers wanting to show off their talent to their fellow delegates. This [arcade game](/categories/arcade-games/) attraction is always such a hit at conferences and similar occasions that you'll be sure to be hiring it again and again for all your corporate events.
 
 ## Rodeo Bull
 

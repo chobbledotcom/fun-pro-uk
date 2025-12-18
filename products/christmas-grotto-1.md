@@ -24,7 +24,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f1015f313e1870678b0043db558fbf29"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/174a9eab2f8676650cf24e431540a897"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/205f666127d7ac058c2b22b368ecdfda"
-
 ---
 
 # CHRISTMAS GROTTO 1

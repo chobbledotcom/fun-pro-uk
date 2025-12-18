@@ -30,7 +30,7 @@ Up to four players at once can show off their skills on our football table, and 
 
 ## Dance Machine
 
-Who at the university has the best moves? This debate will be settled once and for all when you hire our fantastic [Dance Machine](/products/dance-machine/). This is an [arcade game](/products/lights-out-game/) that comes complete with dance mats which track the feet of your players. Simply tap those toes on the correct pad at the right time to collect points. Easy, right? Wrong! This game is really high-energy and requires expert coordination to conquer it. It's sure to get everyone in attendance in the mood to groove, so don't plan your next university party without it!
+Who at the university has the best moves? This debate will be settled once and for all when you hire our fantastic [Dance Machine](/products/dance-machine/). This is an [arcade game](/categories/arcade-games/) that comes complete with dance mats which track the feet of your players. Simply tap those toes on the correct pad at the right time to collect points. Easy, right? Wrong! This game is really high-energy and requires expert coordination to conquer it. It's sure to get everyone in attendance in the mood to groove, so don't plan your next university party without it!
 
 These are just a few examples of the entertainment we have on offer for college and university events at Fun Pro UK. All of our products are tried and tested by students of all varieties, and they are always hugely popular. What's more, because they are commercial grade there's no need to worry about them not being able to handle a day of energetic students using them. These amusements are really built to last.
 

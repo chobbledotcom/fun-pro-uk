@@ -1,6 +1,6 @@
 ---
 title: "Mega Wire - Branded Game Hire (stand alone)"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
@@ -36,7 +36,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba184cd9c00a1bafd743c7ae4dbc08c5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ce4cf8b82b69e9b638784c17496e4f5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9e354f2397c4ff3191e9b73b395f10b"
-
 ---
 
 # Mega Wire - Branded Game Hire (stand alone)

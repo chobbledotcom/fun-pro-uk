@@ -39,7 +39,7 @@ These serve a dual purpose – they're entertaining on their own, but they also 
 
 ### Retro Arcade Games
 
-These bridge generational gaps beautifully. While younger students might be discovering these classic [arcade games](/products/lights-out-game/) for the first time, mature students often have nostalgic connections that create great conversation starters between different age groups.
+These bridge generational gaps beautifully. While younger students might be discovering these classic [arcade games](/categories/arcade-games/) for the first time, mature students often have nostalgic connections that create great conversation starters between different age groups.
 
 When planning your indoor layout, think about noise levels and sight lines. Games that generate excitement and laughter will naturally draw more participants, so position them where they won't interfere with any quieter activities you might have planned.
 

@@ -1,6 +1,6 @@
 ---
 title: "GIANT BUZZ WIRE"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent"
 meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -42,7 +42,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e65360344ee1adf5bfe5dca37a3e890a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/22d11eb25db64d7786724efeff6147a3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8cc4bae778ba19a7414fcd30b95be4aa"
-
 ---
 
 # GIANT BUZZ WIRE

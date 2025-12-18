@@ -1,6 +1,6 @@
 ---
 title: "PLUCK A DUCK RACING"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
@@ -29,7 +29,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ce26f2bdc93839398cbf47c8ce24966e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/aa16951cbeff2d9ad715e9e8ca3c8d59"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/02abf64c290b623f1e4cf05c3c474759"
-
 ---
 
 # PLUCK A DUCK RACING

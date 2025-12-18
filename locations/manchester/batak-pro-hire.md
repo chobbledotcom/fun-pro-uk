@@ -83,7 +83,7 @@ Please contact us to find out more
 *   [Retro arcade machine](/products/retro-arcade-games/)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 ## What our customers are saying…
 
