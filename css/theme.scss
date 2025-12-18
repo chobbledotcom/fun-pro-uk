@@ -59,7 +59,7 @@
 }
 
 :root {
-  --width-content: 1200px;
+  --width-content: 1300px;
   --color-bg: #fdfdfd;
 }
 
@@ -71,6 +71,21 @@ h3 {
 
 .image-link {
   aspect-ratio: 3/2;
+}
+
+.slider-container {
+  // these sizes are related to the padding on the sides of the article#content
+  // grid. hacky.
+  width: var(--width-content);
+  @include breakpoints.down("xl") {
+    width: calc(100vw - 128px);
+  }
+  @include breakpoints.down("md") {
+    width: calc(100vw - 64px);
+  }
+  @include breakpoints.down("sm") {
+    width: calc(100vw - 32px);
+  }
 }
 
 article#content {
