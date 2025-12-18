@@ -8,6 +8,9 @@ const PAGE_CONFIG = {
   'contact': {
     layout: 'contact.html',
   },
+  'contact-fun-pro-uk': {
+    layout: 'contact.html',
+  },
   'reviews': {
     layout: 'reviews.html',
   },
@@ -192,14 +195,27 @@ features: []`;
  * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
  * @returns {string} Frontmatter YAML
  */
+// Broken old-site URLs that should redirect to categories
+// These were links to non-existent products on the old site
+const BROKEN_CATEGORY_URLS = {
+  'arcade-games': ['/category/arcade-games/2/lights-out-game/'],
+  'interactive-game-hire': ['/category/interactive-game-hire/2/lights-out-game/'],
+};
+
 const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null) => {
   // No permalink - let it be dynamically calculated
-  // Old URL /category/{slug}/ matches the expected new URL, so no redirect needed
+  // Old URL was /category/{slug}/, new URL is /categories/{slug}/ - need redirect
+  const brokenUrls = BROKEN_CATEGORY_URLS[slug] || [];
+  const allRedirects = [`/category/${slug}/`, ...brokenUrls];
+  const redirectYaml = allRedirects.map(url => `  - "${url}"`).join('\n');
+  
   let frontmatter = `---
 title: "${metadata.title || ''}"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"
-featured: true`;
+featured: true
+redirect_from:
+${redirectYaml}`;
 
   // Add navigation if extracted from old site navigation
   if (navInfo) {

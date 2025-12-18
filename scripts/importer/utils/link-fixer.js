@@ -370,6 +370,21 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
         }
       }
       
+      // Handle broken links to non-existent products - fall back to category
+      // e.g., /category/arcade-games/2/lights-out-game/ -> /categories/arcade-games/
+      // or /arcade-games/2/lights-out-game/ -> /categories/arcade-games/
+      if (!found) {
+        const brokenProductMatch = resolved.match(/^(?:\/category)?\/([^/]+)\/\d+\/[^/]+\/$/);
+        if (brokenProductMatch) {
+          const categorySlug = brokenProductMatch[1];
+          const categoryPath = `/categories/${categorySlug}/`;
+          if (validDests.has(categoryPath)) {
+            resolved = categoryPath;
+            found = true;
+          }
+        }
+      }
+      
       if (!found) {
         errors.push(`Invalid link: ${resolved} (from "${match}")`);
       }

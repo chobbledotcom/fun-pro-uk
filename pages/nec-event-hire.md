@@ -10,7 +10,7 @@ redirect_from:
 
 !NEC Birmingham event hire
 
-Hosting an event at the NEC, Birmingham’s premier exhibition centre, offers a unique opportunity to showcase your brand, product, or service on a grand stage. At Fun Pro UK, we specialise in providing an extensive range of event hire services tailored specifically for the diverse and dynamic spaces within the NEC. From engaging Batak challenges in the Concourse to [Grab A Grand](/products/grab-a-grand/) excitement in the Pavilion, our interactive entertainment options are designed to captivate and enthral your audience, ensuring your event stands out.
+Hosting an event at the NEC, Birmingham’s premier exhibition centre, offers a unique opportunity to showcase your brand, product, or service on a grand stage. At Fun Pro UK, we specialise in providing an extensive range of event hire services tailored specifically for the diverse and dynamic spaces within the NEC. From engaging Batak challenges in the Concourse to [Grab A Grand](/categories/grab-a-grand/) excitement in the Pavilion, our interactive entertainment options are designed to captivate and enthral your audience, ensuring your event stands out.
 
 The NEC hosts a variety of events, from major trade shows to corporate functions and public exhibitions. Fun Pro UK’s versatile entertainment solutions can enhance any event type:
 

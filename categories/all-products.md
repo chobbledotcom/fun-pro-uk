@@ -3,6 +3,8 @@ title: "Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide"
 meta_title: "Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide"
 meta_description: "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK. Book now for guaranteed fun!"
 featured: true
+redirect_from:
+  - "/category/all-products/"
 ---
 
 # EVENTS GAME HIRE THROUGHOUT THE UK
@@ -23,7 +25,7 @@ Team Building Fun
 
 Freshers Game Hire
 
-[Exhibition Games](/categories/exhibition-games/) [Christmas Game Hire](/categories/christmas-game-hire/) [Corporate Entertainment](/categories/corporate-entertainment/) [Fresher's Fair Games](/categories/freshers-fair-games/)[Staff WellBeing Days](/events/staff-wellbeing-days/)[Grab A Grand](/products/grab-a-grand/) [Interactive Game Hire](/categories/interactive-game-hire/) Batak [Branded Exhibition Games](/categories/branded-exhibition-games/) [Fun Days](/categories/fun-days/)[Company Award Ceremonies](/events/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) [Weddings](/categories/weddings/)[Christmas Grotto Hire](/categories/christmas-grotto-hire/) [Arcade Games](/categories/arcade-games/) [Prize Games](/categories/prize-games/) [Pub Games](/categories/pub-games/) [Roll & Bowl](/categories/roll-and-bowl/) [Fun Foods](/categories/fun-foods/) [Fun Fair Stalls](/categories/fun-fair-stalls/) [Circus Skills Workshop](/events/circus-skills-workshop/) [Christmas Games](/categories/christmas-games/)
+[Exhibition Games](/categories/exhibition-games/) [Christmas Game Hire](/categories/christmas-game-hire/) [Corporate Entertainment](/categories/corporate-entertainment/) [Fresher's Fair Games](/categories/freshers-fair-games/)[Staff WellBeing Days](/events/staff-wellbeing-days/)[Grab A Grand](/categories/grab-a-grand/) [Interactive Game Hire](/categories/interactive-game-hire/) Batak [Branded Exhibition Games](/categories/branded-exhibition-games/) [Fun Days](/categories/fun-days/)[Company Award Ceremonies](/events/company-award-ceremonies/)[Photo Booths & Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) [Weddings](/categories/weddings/)[Christmas Grotto Hire](/categories/christmas-grotto-hire/) [Arcade Games](/categories/arcade-games/) [Prize Games](/categories/prize-games/) [Pub Games](/categories/pub-games/) [Roll & Bowl](/categories/roll-and-bowl/) [Fun Foods](/categories/fun-foods/) [Fun Fair Stalls](/categories/fun-fair-stalls/) [Circus Skills Workshop](/events/circus-skills-workshop/) [Christmas Games](/categories/christmas-games/)
 
 ## Cool Games To Hire For UK Events
 

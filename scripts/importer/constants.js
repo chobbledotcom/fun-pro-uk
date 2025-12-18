@@ -165,7 +165,14 @@ const FIND_REPLACES = {
   // Fix mailto and tel links that got corrupted
   "mailto:info@funprouk.co.uk": "mailto:info@funprouk.co.uk",
   "tel:02477220701": "tel:02477220701",
-  "tel:+02477220701": "tel:+442477220701"
+  "tel:+02477220701": "tel:+442477220701",
+
+  // Fix broken links to non-existent products (link to category instead)
+  // These need to match the full path as it appears after other transforms
+  "/category/arcade-games/2/lights-out-game/": "/categories/arcade-games/",
+  "/category/interactive-game-hire/2/lights-out-game/": "/categories/interactive-game-hire/",
+  "/arcade-games/lights-out-game/": "/categories/arcade-games/",
+  "/interactive-game-hire/lights-out-game/": "/categories/interactive-game-hire/"
 };
 
 /**
