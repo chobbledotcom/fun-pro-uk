@@ -8,3 +8,5 @@ yarn-error.log*
 .direnv
 .env
 .claude
+.image-cache/*.jpeg
+.image-cache/*.webp
