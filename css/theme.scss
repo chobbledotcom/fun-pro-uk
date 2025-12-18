@@ -164,6 +164,10 @@ a.button {
 
   &.white {
     background: #fff;
+    border: none;
+    svg {
+      fill: #181a1f;
+    }
   }
 
   &.red {
@@ -390,11 +394,34 @@ main {
   }
 
   ol {
+    list-style-type: none;
+    padding: 0;
+    position: relative;
     li {
       opacity: 0.6;
       transition: 0.3s ease-in-out opacity;
+      padding: 0 0 0 24px;
+      position: relative;
+      border-left: 2px solid;
       &:hover {
         opacity: 1;
+        &::before {
+          background-color: white;
+        }
+      }
+      &::before {
+        transition: 0.3s ease-in-out background-color;
+        display: block;
+        content: "";
+        width: 16px;
+        height: 16px;
+        position: absolute;
+        border: 2px solid white;
+        background-color: #009dd7;
+        border-radius: 100%;
+        top: 0;
+        left: -11px;
+        outline: 2px solid #009dd7;
       }
     }
   }
@@ -466,6 +493,27 @@ main {
 
 #homepage-products {
   padding: 128px 32px;
+  h2 {
+    font-size: 44pxc;
+    padding: 0;
+    margin: 0 0 32px;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    a {
+      font-size: 16px;
+      text-decoration: none;
+      font-weight: 500;
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      svg {
+        width: 20px;
+        height: 20px;
+        fill: var(--color-text);
+      }
+    }
+  }
   li {
     padding: 32px;
     border: 1px solid #babbbc;
