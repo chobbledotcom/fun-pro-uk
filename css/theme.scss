@@ -235,6 +235,7 @@ main {
     border: 0;
     font-size: 14px;
     font-weight: 500;
+    display: grid;
 
     a {
       text-decoration: none;
@@ -272,13 +273,27 @@ main {
       grid-area: cart;
     }
 
-    @include breakpoints.up("md") {
+    @include breakpoints.down("sm") {
+      gap: 16px;
+      height: auto;
+      grid-template-areas:
+        "logo phone . quote cart"
+        "logo email . quote cart";
+
+      #nav-phone {
+        align-self: end;
+      }
+      #nav-email {
+        align-self: start;
+      }
+    }
+
+    @include breakpoints.up("sm") {
       padding: 32px;
       gap: 32px;
-      display: grid;
       grid-template-columns: auto 1fr auto auto auto auto;
       grid-template-areas:
-        "logo . phone email quote cart"
+        "logo   .    phone email quote cart"
         "links links links links links links";
       align-items: center;
       row-gap: 16px;
@@ -350,6 +365,10 @@ main {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    @include breakpoints.down("md") {
+      gap: 32px;
+      flex-direction: column;
+    }
   }
   h2 {
     padding: 0;
@@ -360,6 +379,9 @@ main {
     line-height: 32px;
     text-align: left;
     padding-right: 64px;
+    @include breakpoints.down("md") {
+      width: auto;
+    }
   }
   ul {
     display: flex;
@@ -387,9 +409,11 @@ main {
     & > a {
       grid-area: link;
     }
-    & > img,
     & > .image-wrapper {
       grid-area: image;
+      img {
+        background: #009dd7;
+      }
     }
   }
   background: #009dd7;
@@ -445,7 +469,7 @@ main {
 #footer-contact-block {
   background-color: white;
   text-align: center;
-  padding: 64px;
+  padding: 64px 0;
 
   ol {
     display: flex;
@@ -454,13 +478,14 @@ main {
     padding: 0;
     margin: 64px 0 0 0;
 
-    @include breakpoints.down("md") {
+    @include breakpoints.down("lg") {
       flex-direction: column;
     }
 
     li {
       display: flex;
       padding: 32px;
+      gap: 16px;
       flex-direction: column;
       align-items: center;
       flex: 1 0 0;
@@ -475,6 +500,29 @@ main {
         border-radius: 8px;
         fill: #fff;
         background: #009dd7;
+      }
+      h3,
+      p {
+        padding: 0;
+        margin: 0;
+      }
+      @include breakpoints.down("lg") {
+        display: grid;
+        grid-template-areas: "icon subtitle" "title subtitle";
+        grid-template-columns: 200px 1fr;
+        svg {
+          grid-area: icon;
+          align-self: end;
+          justify-self: center;
+        }
+        h3 {
+          grid-area: title;
+          align-self: start;
+        }
+        p {
+          grid-area: subtitle;
+          text-align: left;
+        }
       }
     }
   }
@@ -538,31 +586,82 @@ main {
 
 #footer-contact {
   border-top: 4px solid #ff0004;
-  padding: 64px 0;
+  padding: 64px 16px;
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  gap: 0 16px;
+  font-weight: 700;
 
-  .row {
-    display: flex;
-    gap: 32px;
-    justify-content: space-between;
-    align-items: center;
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   #footer-logo {
-    width: 42px;
-    height: 53px;
+    aspect-ratio: 42/53;
+    grid-area: logo;
+  }
+  #footer-phone {
+    grid-area: phone;
+  }
+  #footer-email {
+    grid-area: email;
+  }
+  #footer-times {
+    grid-area: times;
+  }
+  #footer-socials {
+    font-weight: 500;
+    grid-area: socials;
+  }
+  #footer-links {
+    grid-area: links;
   }
 
-  #footer-email,
-  #footer-phone,
-  #footer-times {
-    flex-shrink: 0;
+  grid-template-areas:
+    "logo phone"
+    "logo email"
+    "logo times"
+    "socials socials"
+    "links links";
+
+  @include breakpoints.up("md") {
+    gap: 0 32px;
+    grid-template-columns: 50px max-content 1fr;
+    grid-template-areas:
+      "logo phone email"
+      "logo times socials"
+      "links links links";
   }
+
+  @include breakpoints.up("lg") {
+    grid-template-columns: 50px max-content max-content max-content 1fr;
+    grid-template-areas:
+      "logo phone email times socials"
+      "links links links links links";
+    #footer-phone,
+    #footer-email,
+    #footer-times,
+    #footer-socials {
+      align-content: center;
+    }
+  }
+
   #footer-socials {
     font-weight: 500;
     font-size: 18px;
     display: flex;
     align-items: center;
+    margin-top: 16px;
     gap: 32px;
+    justify-content: center;
+
+    @include breakpoints.up("md") {
+      margin: 0;
+      justify-content: right;
+    }
 
     .socials {
       display: flex;
@@ -575,9 +674,6 @@ main {
         width: 26px;
       }
     }
-  }
-
-  links {
   }
 }
 

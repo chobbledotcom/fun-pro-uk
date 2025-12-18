@@ -31,19 +31,17 @@
   </section>
 
   <section id="footer-contact" class="full-width">
-    <div class="row">
-      <a href="/" id="footer-logo">
-        <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
-      </a>
-      {%- include "email-link.html", id: "footer-email" -%}
-      {%- include "phone-link.html", id: "footer-phone" -%}
-      {%- include "opening-times.html", id: "footer-times" -%}
-      <div id="footer-socials">
-        Follow us:
-        {%- include "footer-socials.html" -%}
-      </div>
+    <a href="/" id="footer-logo">
+      <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
+    </a>
+    {%- include "email-link.html", id: "footer-email" -%}
+    {%- include "phone-link.html", id: "footer-phone" -%}
+    {%- include "opening-times.html", id: "footer-times" -%}
+    <div id="footer-socials">
+      Follow us:
+      {%- include "footer-socials.html" -%}
     </div>
-    <links>{%- include "footer-links.html" -%}</links>
+    <div id="footer-links">{%- include "footer-links.html" -%}</div>
   </section>
 
 
