@@ -3,6 +3,8 @@ title: "Christmas Grotto Hire, Santas Grotto Hire, Xmas, West Midlands"
 meta_title: "Christmas Grotto Hire, Santas Grotto Hire, Xmas, West Midlands"
 meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 featured: true
+redirect_from:
+  - "/category/christmas-grotto-hire/"
 eleventyNavigation:
   key: "Christmas Grotto Hire"
   parent: "Products"

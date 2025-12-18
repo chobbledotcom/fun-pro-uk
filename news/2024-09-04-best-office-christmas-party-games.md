@@ -41,7 +41,7 @@ The holiday season is the perfect time to bring colleagues together and create l
 
 ### 5. **[Reindeer Nosenado Christmas Ballnado Hire](/products/reindeer-nosenado-christmas-ballnado-hire/)**
 
-*   **How to Play:** In this fun and festive version of the [Grab a Grand game](/products/grab-a-grand/), players must collect as many flying Rudolph noses (balls) as they can in a set amount of time. This game hire option adds a quirky and active element to your office party, sure to bring plenty of laughs.
+*   **How to Play:** In this fun and festive version of the [Grab a Grand game](/categories/grab-a-grand/), players must collect as many flying Rudolph noses (balls) as they can in a set amount of time. This game hire option adds a quirky and active element to your office party, sure to bring plenty of laughs.
 
 ### 6\. **[Fun Foods](/categories/fun-foods/) Stations**
 

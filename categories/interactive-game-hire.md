@@ -4,13 +4,13 @@ meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
 featured: true
 redirect_from:
-  - "/products/lights-out-game-2/"
-  - "/interactive-game-hire/2/lights-out-game/"
+  - "/category/interactive-game-hire/"
+  - "/category/interactive-game-hire/2/lights-out-game/"
 ---
 
 # **Trusted Interactive Game Hire in the UK**
 
-Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/products/grab-a-grand/). Fun Pro offers entertainment that suits any audience and any occasion.
+Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/categories/grab-a-grand/). Fun Pro offers entertainment that suits any audience and any occasion.
 
 ## **Our Interactive Game Collection**
 
