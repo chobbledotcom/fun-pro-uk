@@ -74,7 +74,8 @@ layout: base
       </li>
     </ol>
     <a href="/contact/" class="button white">
-      Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
+      Get in Touch
+      {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
     <img src="/images/placeholders/homepage-machines.png" alt="" />
   </div>
@@ -82,8 +83,11 @@ layout: base
 
 <section id="homepage-products">
   <h2>
-    Popular Games
-    <a href="/products/">View All Games</a>
+    <span>Popular Games</span>
+    <a href="/products/">
+      View All Games
+      {{ "icons/up-right-arrow.svg" | inline_asset }}
+    </a>
   </h2>
   {%- assign products = collections.products | getFeaturedProducts -%} {%-
   include "items.html", items: products, horizontal: true -%}
