@@ -30,6 +30,30 @@ const rootExcludes = [
 	"old_site",
 ];
 
+function setupImageCache() {
+	const rootCache = path.join(root, ".image-cache");
+	const devCache = path.join(dev, ".image-cache");
+
+	// Create root .image-cache if it doesn't exist
+	if (!fs.existsSync(rootCache)) {
+		fs.mkdirSync(rootCache, { recursive: true });
+	}
+
+	// Remove existing .image-cache in dev (if it's not already a symlink)
+	if (fs.existsSync(devCache)) {
+		const stats = fs.lstatSync(devCache);
+		if (!stats.isSymbolicLink()) {
+			fs.rmSync(devCache, { recursive: true, force: true });
+		}
+	}
+
+	// Create symlink if it doesn't exist
+	if (!fs.existsSync(devCache)) {
+		fs.symlinkSync(path.relative(dev, rootCache), devCache);
+		console.log("Linked .image-cache for persistent caching");
+	}
+}
+
 function prep() {
 	console.log("Preparing build...");
 	fs.mkdirSync(build, { recursive: true });
@@ -65,6 +89,8 @@ function prep() {
 
 	execSync(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
 	execSync(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
+
+	setupImageCache();
 
 	// Debug: Check if package.json exists in dev directory
 	if (!fs.existsSync(path.join(dev, "package.json"))) {
