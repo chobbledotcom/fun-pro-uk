@@ -1,6 +1,6 @@
 ---
 title: "Shuffleboard Hire"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Shuffleboard Hire | Fun Pro UK"
 meta_description: "Add excitement to your event with shuffleboard hire from Fun Pro UK. Ideal for parties, corporate events, and more. Available across the UK. Book us today!"
@@ -31,7 +31,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e3e3c12e459b9d22ac7551efaf6bbe70"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26339feadbd714699309beea753efe57"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026e38cde243bde47c078e8f3ebd99fc"
-
 ---
 
 # Shuffleboard Hire
@@ -183,7 +182,7 @@ Lift required
 *   [Batak Pro](/products/batak-pro/#content)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 **Skirt Branding**
 

@@ -1,6 +1,6 @@
 ---
 title: "Prize Wheel"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Spin the wheel Hire, Prize Wheel of Fortune Game Hire, UK"
 meta_description: "Hire Our Spin The Wheel Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -21,7 +21,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f8b8eec90251a65de225e06ff29111cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0"
-
 ---
 
 # Prize Wheel
@@ -115,7 +114,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

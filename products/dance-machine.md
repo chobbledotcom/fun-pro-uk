@@ -1,6 +1,6 @@
 ---
 title: "Dance Machine"
-price: ""
+price: "£475"
 order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
 meta_description: "Looking to hire a dance machine for exhibitions, parties, events, or fun days? We deliver dance machine hire nationwide. Contact us today to book yours!"
@@ -24,7 +24,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9ffe337784d4e06f07fca722555b700"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2aa1748f44f3c088f79a4369fb3815f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d58541b87ff7a3f90066201d269239cf"
-
 ---
 
 # Dance Machine

@@ -1,6 +1,6 @@
 ---
 title: "Giant Deck Chair Hire"
-price: ""
+price: "£195"
 order: 50
 meta_title: "Giant Deck Chair Hire – Fun Props For Outdoor Events"
 meta_description: "Giant Deck Chair Hire – Fun Props For Outdoor Events is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -15,7 +15,6 @@ gallery:
   - "/images/products/giant-deck-chair-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
-
 ---
 
 # Giant Deck Chair Hire
@@ -103,7 +102,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

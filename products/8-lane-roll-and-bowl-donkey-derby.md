@@ -1,6 +1,6 @@
 ---
 title: "8 Lane Roll & Bowl Donkey Derby"
-price: ""
+price: "£1695"
 order: 50
 meta_title: "8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Roll &amp; Bowl Donkey Derby is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/8-lane-roll-and-bowl-donkey-derby-lights-out-game.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
-
 ---
 
 # 8 Lane Roll & Bowl Donkey Derby

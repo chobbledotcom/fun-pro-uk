@@ -1,6 +1,6 @@
 ---
 title: "TOTAL WIPE OUT"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, UK"
 meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
@@ -18,7 +18,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6cbf153fb90680edbf111d80fe31294f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b391959defbeab0fe0d6c6536775a23c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b857fd4a67fed05224b0f7ed7dc24e36"
-
 ---
 
 # TOTAL WIPE OUT

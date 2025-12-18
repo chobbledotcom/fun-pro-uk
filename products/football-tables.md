@@ -1,6 +1,6 @@
 ---
 title: "FOOTBALL TABLES"
-price: ""
+price: "£295"
 order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"
 meta_description: "Table Football For Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
@@ -35,7 +35,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6086e149ece4804518ac2b5778d1294a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3585f13bb7c65c405209e00945573707"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30d70c3f03c771d66088d5c82fe34cc8"
-
 ---
 
 # FOOTBALL TABLES

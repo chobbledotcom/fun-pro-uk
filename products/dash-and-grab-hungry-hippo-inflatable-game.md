@@ -1,6 +1,6 @@
 ---
 title: "Dash & Grab / Hungry Hippo Inflatable Game"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK"
 meta_description: "This inflatable dash &amp; grab game is great competitive fun! Hungry Hippos with humans instead - grab the balls on a bungee rope. Fun for spectators too!"
@@ -19,7 +19,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d7d7b90edd8e1ff5ad004bde669eee2"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2e22b07d204cc194cd9dd3cdfa4129f"
-
 ---
 
 # Dash & Grab / Hungry Hippo Inflatable Game

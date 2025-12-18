@@ -159,7 +159,7 @@ Activities like these create opportunities for colleagues to interact in a relax
 
 ### Are there team bonding activities that can suit introverted employees?
 
-Yes! Activities like puzzle-solving, virtual book clubs, or collaborative brainstorming let introverts engage in ways that suit their comfort levels. Playing solo games in a [hired arcade machine](/products/lights-out-game/) is also a great idea.
+Yes! Activities like puzzle-solving, virtual book clubs, or collaborative brainstorming let introverts engage in ways that suit their comfort levels. Playing solo games in a [hired arcade machine](/categories/arcade-games/) is also a great idea.
 
 ### How do team bonding activities contribute to employee retention?
 

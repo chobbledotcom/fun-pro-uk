@@ -113,7 +113,7 @@ You don’t need a big budget to show appreciation. Simple, thoughtful gestures 
 
 ### What types of team-building games work for large groups?
 
-Fun Pro UK offers games that are crowd favourites and cater to large groups. Take your pick from interactive or corporate game hires like Batak Pro and [Batak Lite](/products/batak-lite/), [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/), [Lights Out Game](/products/lights-out-game/), [Cash Grabber Machines](/products/grab-a-grand/), [Virtual Pinball](/products/virtual-pinball/), and more.
+Fun Pro UK offers games that are crowd favourites and cater to large groups. Take your pick from interactive or corporate game hires like Batak Pro and [Batak Lite](/products/batak-lite/), [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/), [Lights Out Game](/categories/arcade-games/), [Cash Grabber Machines](/products/grab-a-grand/), [Virtual Pinball](/products/virtual-pinball/), and more.
 
 ### Can these ideas be adapted for remote or hybrid work environments?
 

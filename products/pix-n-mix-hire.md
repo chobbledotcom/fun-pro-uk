@@ -1,6 +1,6 @@
 ---
 title: "Pix N Mix Hire"
-price: ""
+price: "£550"
 order: 50
 meta_title: "Pick A Mix hire UK"
 meta_description: "Pick A Mix hire UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -29,7 +29,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb3fbb8fc719828d9ef3eb6bb6056b63"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
-
 ---
 
 # Pix N Mix Hire

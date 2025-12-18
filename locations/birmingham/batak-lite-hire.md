@@ -148,7 +148,7 @@ Fun Pro is proud to have provided interactive game hire for top brands across th
 
 Looking to enhance your event further? We offer a variety of interactive games for hire in Birmingham, including:
 
-*   [Arcade Games](/products/lights-out-game/)
+*   [Arcade Games](/categories/arcade-games/)
     
 *   [Prize Games](/categories/prize-games/)
     

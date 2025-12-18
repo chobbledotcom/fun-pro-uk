@@ -1,6 +1,6 @@
 ---
 title: "Catch it Reaction Ring Hire"
-price: ""
+price: "£445"
 order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"
 meta_description: "Hire Catch It Reaction games for corporate events &amp; exhibitions. Nationwide delivery, custom branding, professional setup. Get your quote today."
@@ -32,7 +32,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c21eaf5f7d999d009ef1f9ef8ea7793b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3c93aa83238a4cbe6b49ca47994bffa"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/acac488e1411bebfcbda5b0f50eae099"
-
 ---
 
 # Catch it Reaction Ring Hire
@@ -177,7 +176,7 @@ Enhance your event with our complete range of interactive entertainment:
     
 *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/) - Test your strength game
     
-*   [Arcade Games](/products/lights-out-game/) - Classic gaming entertainment
+*   [Arcade Games](/categories/arcade-games/) - Classic gaming entertainment
     
 *   [Prize Games](/categories/prize-games/) - Win exciting rewards
 

@@ -28,7 +28,7 @@ Our [nationwide coverage](/delivery-areas/) means we serve Manchester events wit
 
 Our professional-grade equipment includes reaction games like Batak units that test reflexes and coordination, encouraging friendly competition without putting anyone on the spot. [Racing simulators](/products/twin-racing-car-simulators/) appeal to competitive spirits whilst remaining accessible to different skill levels. For teams that prefer collaborative activities, our [human table football](/products/human-table-football/) creates an environment where success depends on working together.
 
-Weather considerations are particularly important for Manchester events. Our extensive range of indoor entertainment options means your team building day can proceed regardless of what the Manchester weather brings. From our [magic mirror](/products/magic-mirror/) stations and photo booths that capture team moments to interactive [arcade games](/products/lights-out-game/) that spark conversations, we provide solutions that work in any venue.
+Weather considerations are particularly important for Manchester events. Our extensive range of indoor entertainment options means your team building day can proceed regardless of what the Manchester weather brings. From our [magic mirror](/products/magic-mirror/) stations and photo booths that capture team moments to interactive [arcade games](/categories/arcade-games/) that spark conversations, we provide solutions that work in any venue.
 
 ### Conference and Exhibition Entertainment
 

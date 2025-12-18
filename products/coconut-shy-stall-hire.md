@@ -1,6 +1,6 @@
 ---
 title: "Coconut Shy Stall Hire"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Coconut Shy Stall Hire | Classic Fairground Game for UK Events"
 meta_description: "Hire a Coconut Shy stall for your next event. A fun and interactive game perfect for fairs, corporate events, and parties. Nationwide delivery &amp; setup available. Book today."
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/coconut-shy-stall-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
-
 ---
 
 # Coconut Shy Stall Hire

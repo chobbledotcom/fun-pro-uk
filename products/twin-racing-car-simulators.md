@@ -1,6 +1,6 @@
 ---
 title: "Racing Car Simulators"
-price: ""
+price: "£475"
 order: 50
 meta_title: "Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK"
 meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events, Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today. 07769 979 676"
@@ -68,7 +68,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/298f4aa10af3c414f9a64c101597e607"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3c116868d8d7df9d855436987380195c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/de6d71f2db77ded29dce8f85f4745c2b"
-
 ---
 
 # Racing Car Simulators

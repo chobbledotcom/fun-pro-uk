@@ -1,6 +1,6 @@
 ---
 title: "8 Lane Reindeer Racing"
-price: ""
+price: "£1695"
 order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Reindeer Racing is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/8-lane-reindeer-racing-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
-
 ---
 
 # 8 Lane Reindeer Racing

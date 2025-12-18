@@ -1,6 +1,6 @@
 ---
 title: "Beat The Buzzer"
-price: ""
+price: "£350"
 order: 50
 meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"
 meta_description: "Beat The Buzzer Hire – Test Your Skills Event Game is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -21,7 +21,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a4783076d56fc7c297e9c428093db22"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a43735801d6ad804b83ddf3faf67401f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e106ad1fd91ab1543095e494fc82eb39"
-
 ---
 
 # Beat The Buzzer
@@ -113,7 +112,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

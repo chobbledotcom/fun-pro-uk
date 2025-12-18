@@ -18,7 +18,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8bb413d86591341d61699ae1fe7d5e02"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86c68a33d98c009c669327dd8f6ecaf7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90b4b5513e5607d3ffbd949904c3bb60"
-
 ---
 
 # Ice Cream van Hire

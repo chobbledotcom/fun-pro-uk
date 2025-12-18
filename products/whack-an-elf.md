@@ -1,6 +1,6 @@
 ---
 title: "Whack an Elf"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/whack-an-elf-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
-
 ---
 
 # Whack an Elf
@@ -88,7 +87,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Reindeer Roll an Bowl](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
 *   [Raindeer Nosenado](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
 

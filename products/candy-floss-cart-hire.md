@@ -1,6 +1,6 @@
 ---
 title: "Candy Floss Cart Hire"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/candy-floss-cart-hire-lights-out-game-lights-out-game-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
-
 ---
 
 # Candy Floss Cart Hire
@@ -84,7 +83,7 @@ Minimum order Value and delivery fees apply to all locations. For all enquiries 
 ### **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

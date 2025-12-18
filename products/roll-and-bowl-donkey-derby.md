@@ -1,6 +1,6 @@
 ---
 title: "Roll & Bowl Donkey Derby"
-price: ""
+price: "£895"
 order: 50
 meta_title: "Roll & Bowl Donkey Derby Hire | Exhibition Games | UK"
 meta_description: "The Roll and Bowl donkey derby game is great fun for exhibitions, trade shows, arcade events and much more. Hire amazing entertainment with Fun Pro UK!"
@@ -25,7 +25,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/abb56c4961cc314e9a5a0194b7dbbb5e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ae3e390984baa36de60da48a2a2e4ef"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a"
-
 ---
 
 # Roll & Bowl Donkey Derby

@@ -32,7 +32,7 @@ Just some of our popular pub game hire options include:
 *   [Plinko](/products/plinko-game-hire/): A game of chance that's easy to play and addictive, Plinko is perfect for adding a casual gaming option to your establishment.
 *   [Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/): Let your patrons try their luck at winning prizes, making for a memorable and enjoyable experience.
 *   [Prize Wheel](/products/prize-wheel/): Create a buzz with this [prize game](/categories/prize-games/); it's ideal for special events or promotions. Watch as patrons eagerly anticipate their win!
-*   [Arcade Games](/products/lights-out-game/): Bring nostalgia into your pub with classic arcade games, a hit with patrons who enjoy a trip down memory lane.
+*   [Arcade Games](/categories/arcade-games/): Bring nostalgia into your pub with classic arcade games, a hit with patrons who enjoy a trip down memory lane.
 *   [Table Tennis](/products/table-tennis-hire/): For a more active entertainment option, table tennis is a fantastic choice, fostering friendly matches and plenty of low-stakes competitive fun.
 
 ## What our customers are saying…

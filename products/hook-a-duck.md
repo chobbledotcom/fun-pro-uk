@@ -1,6 +1,6 @@
 ---
 title: "Hook A Duck"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Hook A Duck is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/hook-a-duck-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a"
-
 ---
 
 # Hook A Duck

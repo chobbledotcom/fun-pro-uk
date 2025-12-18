@@ -1,6 +1,6 @@
 ---
 title: "HUMAN TABLE FOOTBALL"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Human Table Football Game | Corporate Events | Fun Pro UK"
 meta_description: "Get ready for fun with human-size table football hire! Perfect for team-building, fun days, and corporate events. Available across the UK. Book today!"
@@ -29,7 +29,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a739c64a32b16f4304dc107bb669f52"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e28c6b6e9c970d16dccdfdf6ed9510c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/27a871269b9d718a215cc7534572df3b"
-
 ---
 
 # HUMAN TABLE FOOTBALL

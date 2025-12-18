@@ -1,6 +1,6 @@
 ---
 title: "RETRO ARCADE GAMES"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
@@ -45,7 +45,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6e09e805472eec594f4e7d5d67b866a7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0a49f02511e4d6e1e274f842897006b5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4e258fa20804dd835c8ae6e52f2501ae"
-
 ---
 
 # RETRO ARCADE GAMES

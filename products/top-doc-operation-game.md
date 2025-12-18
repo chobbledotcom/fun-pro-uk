@@ -1,6 +1,6 @@
 ---
 title: "TOP DOC OPERATION GAME"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"
 meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
@@ -19,7 +19,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/72a2c79c450d0e5020205e9df46176f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/50395536024ba9fc15eb752613165cb5"
-
 ---
 
 # TOP DOC OPERATION GAME

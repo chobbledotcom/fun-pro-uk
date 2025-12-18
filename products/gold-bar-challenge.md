@@ -26,7 +26,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b1d7ba23acc16c203d3e7745a00700fe"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/de37ea1991d0016ffa5d100bc9ab7a01"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f4cdfe2aaf74a7d0869d3b00e470de8a"
-
 ---
 
 # Gold Bar Challenge

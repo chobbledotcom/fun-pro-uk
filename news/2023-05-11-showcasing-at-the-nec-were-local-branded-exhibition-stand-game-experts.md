@@ -27,7 +27,7 @@ Prepare for a whirlwind of fun with our [Ballnado game](/products/ballnado-grabb
 
 ## Prize Crane Claw Machine
 
-Remember the thrill of trying to grab a prize from a claw machine? Well, imagine that thrill with your own branding! Our branded [Prize Crane](/products/prize-crane-arcade-grabber/) is a guaranteed crowd-pleaser. As participants try their luck, your brand takes centre stage, amplifying your visibility and leaving a lasting impression on attendees. This [arcade game](/products/lights-out-game/) is an opportunity to create a playful connection with your target audience while promoting your products or services.
+Remember the thrill of trying to grab a prize from a claw machine? Well, imagine that thrill with your own branding! Our branded [Prize Crane](/products/prize-crane-arcade-grabber/) is a guaranteed crowd-pleaser. As participants try their luck, your brand takes centre stage, amplifying your visibility and leaving a lasting impression on attendees. This [arcade game](/categories/arcade-games/) is an opportunity to create a playful connection with your target audience while promoting your products or services.
 
 ## Batak Lite Speed Reaction Game
 

@@ -9,19 +9,11 @@ const { getProductCategoriesMap, getProductEventsMap } = require('../utils/categ
 const { createConverter } = require('../utils/base-converter');
 
 /**
- * Extract gallery_cloudinary URLs from existing markdown file
- * @param {string} outputDir - Output directory path
- * @param {string} slug - Product slug
- * @returns {string[]|null} Array of Cloudinary URLs or null if not found
+ * Extract existing gallery (local paths) from markdown file content
+ * @param {string} content - Markdown file content
+ * @returns {string[]|null} Array of local gallery paths or null if not found
  */
-const extractExistingCloudinaryGallery = (outputDir, slug) => {
-  const filePath = path.join(outputDir, `${slug}.md`);
-  
-  if (!fs.existsSync(filePath)) {
-    return null;
-  }
-  
-  const content = fs.readFileSync(filePath, 'utf8');
+const extractGalleryFromContent = (content) => {
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
   
   if (!frontmatterMatch) {
@@ -29,19 +21,77 @@ const extractExistingCloudinaryGallery = (outputDir, slug) => {
   }
   
   const frontmatter = frontmatterMatch[1];
-  const galleryCloudinaryMatch = frontmatter.match(/gallery_cloudinary:\s*\n((?:\s+-\s+"[^"]+"\n?)+)/);
+  // Match gallery: (not gallery_cloudinary:) followed by list items
+  const galleryMatch = frontmatter.match(/^gallery:\s*\n((?:\s+-\s+"[^"]+"\n?)+)/m);
   
-  if (!galleryCloudinaryMatch) {
+  if (!galleryMatch) {
     return null;
   }
   
   const urls = [];
-  const urlMatches = galleryCloudinaryMatch[1].matchAll(/\s+-\s+"([^"]+)"/g);
+  const urlMatches = galleryMatch[1].matchAll(/\s+-\s+"([^"]+)"/g);
   for (const match of urlMatches) {
     urls.push(match[1]);
   }
   
   return urls.length > 0 ? urls : null;
+};
+
+/**
+ * Extract redirect URLs from markdown content
+ * @param {string} content - Markdown file content
+ * @returns {string[]} Array of redirect URLs
+ */
+const extractRedirectsFromContent = (content) => {
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!frontmatterMatch) return [];
+  
+  const frontmatter = frontmatterMatch[1];
+  const redirectMatch = frontmatter.match(/^redirect_from:\s*\n((?:\s+-\s+"[^"]+"\n?)+)/m);
+  if (!redirectMatch) return [];
+  
+  const urls = [];
+  const urlMatches = redirectMatch[1].matchAll(/\s+-\s+"([^"]+)"/g);
+  for (const match of urlMatches) {
+    urls.push(match[1]);
+  }
+  return urls;
+};
+
+/**
+ * Extract all existing galleries from products directory before it gets deleted
+ * Keys by both slug AND redirect URLs to handle filename conflicts (e.g., lights-out-game-2)
+ * @param {string} outputDir - Products output directory
+ * @returns {Map<string, string[]>} Map of (slug or redirect URL) -> gallery array
+ */
+const extractAllExistingGalleries = (outputDir) => {
+  const galleries = new Map();
+  
+  if (!fs.existsSync(outputDir)) {
+    return galleries;
+  }
+  
+  const files = fs.readdirSync(outputDir).filter(f => f.endsWith('.md'));
+  
+  for (const file of files) {
+    const slug = file.replace(/\.md$/, '');
+    const filePath = path.join(outputDir, file);
+    const content = fs.readFileSync(filePath, 'utf8');
+    const gallery = extractGalleryFromContent(content);
+    
+    if (gallery && gallery.length > 0) {
+      // Key by slug
+      galleries.set(slug, gallery);
+      
+      // Also key by each redirect URL for files with conflicting slugs
+      const redirects = extractRedirectsFromContent(content);
+      for (const redirect of redirects) {
+        galleries.set(redirect, gallery);
+      }
+    }
+  }
+  
+  return galleries;
 };
 
 /**
@@ -65,9 +115,11 @@ const { convertSingle, convertBatch } = createConverter({
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
     const events = extracted.productEventsMap?.get(slug) || [];
-    const localImages = {
-      header_image: extracted.localGalleryPaths?.[0] || extracted.localImagePath || '',
-      gallery: extracted.localGalleryPaths || []
+    const images = {
+      // Preserve existing gallery (local paths)
+      existingGallery: extracted.existingGallery || [],
+      // Cloudinary URLs from old site go to gallery_cloudinary
+      gallery_cloudinary: extracted.cloudinaryGallery || []
     };
     // Pass the old site relative path for redirect_from generation
     const oldSitePath = context.oldSiteRelativePath || null;
@@ -77,36 +129,32 @@ const { convertSingle, convertBatch } = createConverter({
       extracted.price,
       categories,
       extracted.productName,
-      localImages,
+      images,
       extracted.productHeading,
       events,
       oldSitePath
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {
-    // Check for existing gallery_cloudinary in the output file
-    const outputDir = path.join(config.OUTPUT_BASE, config.paths.products);
-    const existingCloudinaryGallery = extractExistingCloudinaryGallery(outputDir, slug);
+    // Get preserved gallery (local paths) from context (extracted before dir was deleted)
+    // First try by slug, then by redirect URL (for files with conflicting slugs like lights-out-game-2)
+    let existingGallery = context.existingGalleries?.get(slug);
     
-    // Determine which gallery URLs to use
-    let galleryUrls;
-    
-    if (existingCloudinaryGallery && existingCloudinaryGallery.length > 0) {
-      // Use the preserved Cloudinary URLs from gallery_cloudinary
-      galleryUrls = existingCloudinaryGallery;
-    } else {
-      // Use newly extracted gallery URLs from HTML
-      galleryUrls = extracted.images?.gallery || [];
+    if (!existingGallery && context.oldSiteRelativePath) {
+      // Construct the redirect URL the same way generateProductFrontmatter does
+      const redirectUrl = `/category/${context.oldSiteRelativePath.replace(/\.html$/, '').replace(/\\/g, '/')}/`;
+      existingGallery = context.existingGalleries?.get(redirectUrl);
     }
     
-    extracted.localGalleryPaths = galleryUrls;
-    extracted.localImagePath = galleryUrls[0] || '';
+    extracted.existingGallery = existingGallery || [];
     
-    if (galleryUrls.length > 0) {
-      process.stdout.write(` (${galleryUrls.length} imgs)`);
+    // Extract Cloudinary URLs from old site HTML for gallery_cloudinary
+    extracted.cloudinaryGallery = extracted.images?.gallery || [];
+    
+    if (extracted.cloudinaryGallery.length > 0) {
+      process.stdout.write(` (${extracted.cloudinaryGallery.length} imgs)`);
     }
     
-    // Skip embedded image downloads too for now
     return content;
   },
   afterConvert: async (extracted, slug, context) => {
@@ -154,7 +202,29 @@ const convertProducts = async () => {
   const allFileInfos = listHtmlFilesRecursive(categoryDir);
   
   // Filter out top-level category HTML files - only keep files in subdirectories
-  const fileInfos = allFileInfos.filter(f => f.relativePath.includes(path.sep));
+  let fileInfos = allFileInfos.filter(f => f.relativePath.includes(path.sep));
+  
+  // Further filter out wget artifacts where canonical URL points to a category page
+  // Real products have canonical URLs like /category/arcade-games/106/electronic-dart-board
+  // Category duplicates have canonical URLs like /category/arcade-games (no product ID)
+  fileInfos = fileInfos.filter(f => {
+    const htmlPath = path.join(f.dir, f.file);
+    const content = fs.readFileSync(htmlPath, 'utf8');
+    // Check og:url which is more reliable than canonical (which is sometimes relative)
+    const ogUrlMatch = content.match(/<meta\s+property="og:url"\s+content="([^"]+)"/);
+    if (ogUrlMatch) {
+      const ogUrl = ogUrlMatch[1];
+      // Product URLs have format: /category/{category}/{id}/{slug}
+      // Category URLs have format: /category/{category}
+      // Check if URL has at least 4 path segments (category/name/id/slug)
+      const urlPath = ogUrl.replace(/^https?:\/\/[^/]+/, '');
+      const segments = urlPath.split('/').filter(s => s);
+      if (segments.length < 4) {
+        return false; // This is a category page, not a product
+      }
+    }
+    return true;
+  });
 
   if (fileInfos.length === 0) {
     console.log('  No products found, skipping...');
@@ -162,6 +232,12 @@ const convertProducts = async () => {
   }
 
   console.log(`  Found ${fileInfos.length} product files (excluded ${allFileInfos.length - fileInfos.length} category pages)`);
+
+  // Extract existing galleries BEFORE deleting the directory
+  const existingGalleries = extractAllExistingGalleries(outputDir);
+  if (existingGalleries.size > 0) {
+    console.log(`  Preserved ${existingGalleries.size} existing product galleries`);
+  }
 
   // Products directory only contains imported products, safe to clean all
   prepDir(outputDir);
@@ -183,6 +259,7 @@ const convertProducts = async () => {
         reviewsMap,
         productCategoriesMap,
         productEventsMap,
+        existingGalleries,
         categoryIndex: 0,
         progressIndex: i,
         progressTotal: fileInfos.length,

@@ -1,6 +1,6 @@
 ---
 title: "Football Darts"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Velcro Football Dartboard Hire | Exhibition Stand Games | UK"
 meta_description: "Hire a Velcro Football Dartboard for your next event! Perfect for exhibitions, parties, and corporate fun days across the UK. Discover our quality services."
@@ -18,7 +18,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1f876faf83c7c2c00283f055ccd0655"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f83f4a351c7699b6849bef4bb00bc57"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6031efad6121e851b6b068a7f1f5167b"
-
 ---
 
 # Football Darts

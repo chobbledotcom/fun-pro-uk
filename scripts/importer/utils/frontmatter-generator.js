@@ -165,12 +165,16 @@ features: []`;
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
 
-  // Add gallery with all images
-  if (images?.gallery && images.gallery.length > 0) {
-    const galleryYaml = images.gallery.map(img => `  - "${img}"`).join('\n');
+  // Preserve existing gallery (local paths managed by another script)
+  if (images?.existingGallery && images.existingGallery.length > 0) {
+    const galleryYaml = images.existingGallery.map(img => `  - "${img}"`).join('\n');
     frontmatter += `\ngallery:\n${galleryYaml}`;
-  } else if (images?.header_image) {
-    frontmatter += `\ngallery:\n  - "${images.header_image}"`;
+  }
+
+  // Add gallery_cloudinary with Cloudinary URLs from old site
+  if (images?.gallery_cloudinary && images.gallery_cloudinary.length > 0) {
+    const galleryYaml = images.gallery_cloudinary.map(img => `  - "${img}"`).join('\n');
+    frontmatter += `\ngallery_cloudinary:\n${galleryYaml}`;
   }
 
   frontmatter += '\n---';

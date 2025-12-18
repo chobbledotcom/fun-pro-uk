@@ -149,7 +149,7 @@ Plus more.
 
 Looking for more interactive games or something a bit different for your event? Take a look at the options we have here:
 
-*   [Arcade Games](/products/lights-out-game/)
+*   [Arcade Games](/categories/arcade-games/)
     
 *   [Prize Games](/categories/prize-games/)
     

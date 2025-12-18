@@ -1,6 +1,6 @@
 ---
 title: "Batak Lite"
-price: ""
+price: "£445"
 order: 1
 meta_title: "Batak Lite Game Hire | Interactive Game | Corporate Engagement"
 meta_description: "Hire Batak Lite for exhibitions, corporate events &amp; parties. Engage guests with this fast-paced reaction game. Book now for a fun, competitive experience!"
@@ -50,7 +50,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ef107c8e653dba0c20bfed3fc27ee129"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0af8fcfb7abbbac66dc49d09f355b339"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3e033bfa85836ad1c2ece822c5632840"
-
 ---
 
 # Batak Lite
@@ -145,7 +144,7 @@ Lift required
 *   [Batak Pro](/products/batak-pro/#content)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 ## Batak Lite Branding and Customisation Options
 
@@ -215,7 +214,7 @@ Fun Pro has a long established history of providing interactive and promotional 
 
 Whether you’re looking for something a little different or want to offer a range of fun activities at your next event, here are just a few of the options available for interactive game hire at Fun Pro.
 
-[Arcade Games](/products/lights-out-game/)
+[Arcade Games](/categories/arcade-games/)
 
 [Prize Games](/categories/prize-games/)
 

@@ -23,7 +23,7 @@ Get ready for a hilariously chaotic game where the goal is to catch as many of R
 
 ### Whack an Elf
 
-Our [Whack an Elf game](/products/whack-an-elf/) is a Christmas twist on the classic [arcade machine](/products/lights-out-game/) favourite. Armed with a soft hammer, guests of all ages can enjoy whacking mischievous elves as they pop up on this [Whack a Mole game](/products/whack-a-mole-game-hire/). This is an elfin adventure that brings out the childlike joy and competitive spirit in everyone.
+Our [Whack an Elf game](/products/whack-an-elf/) is a Christmas twist on the classic [arcade machine](/categories/arcade-games/) favourite. Armed with a soft hammer, guests of all ages can enjoy whacking mischievous elves as they pop up on this [Whack a Mole game](/products/whack-a-mole-game-hire/). This is an elfin adventure that brings out the childlike joy and competitive spirit in everyone.
 
 ### Santa’s Grotto
 

@@ -1,6 +1,6 @@
 ---
 title: "GREEN SCREEN PHOTO BOOTHS"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"
 meta_description: "Looking for green screen photo booth hire near you? Ideal for parties, corporate events, and more. UK-wide delivery available. Call today to reserve!"
@@ -64,7 +64,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22f81d05da8f53be1f43d5f2efbd805"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/11c1ef42f97c72071d5cc5cccfdf7818"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db"
-
 ---
 
 # GREEN SCREEN PHOTO BOOTHS

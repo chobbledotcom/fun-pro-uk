@@ -1,6 +1,6 @@
 ---
 title: "Danger-zone-strike-a-light-game-hire"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Hire Strike A Light Game, Light Reaction Game Rental, Strike UK"
 meta_description: "Hire Our Danger Zone Strike A Light Game For Your Family Fun Days, Parties, Exhibitions Corporate Events ? UK Wide Delivery. Call Us Today. 02477 220701"
@@ -35,7 +35,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9efd21ea08a9e81ff2a9ef70c3456941"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8d15110c6c895667155e1cfb54ca0d94"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2d10d72d7226f4555647271ca52d623"
-
 ---
 
 # Danger-zone-strike-a-light-game-hire
@@ -123,7 +122,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

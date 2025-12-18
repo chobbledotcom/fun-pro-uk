@@ -1,6 +1,6 @@
 ---
 title: "Batak Pro"
-price: ""
+price: "£495"
 order: 2
 meta_title: "Batak Pro Game Hire | Corporate Engagement | Interactive Game"
 meta_description: "Hire Batak Pro for Corporate events, conferences &amp; parties. Engage guests with this high-energy reaction game. Book now for a fun, competitive experience!"
@@ -41,7 +41,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dc2409c67bcf3b84aca4439493a3fa17"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2e0e12a2e91aad8b4696c0d45dcd8f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1150d0087e5b784a4feb7234eebf6960"
-
 ---
 
 # Batak Pro
@@ -145,7 +144,7 @@ Lift required 1600mm deep 1500mm high
 *   [Retro arcade machine](/products/retro-arcade-games/)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 ## Batak Pro Branding and Customisation Options
 
@@ -215,7 +214,7 @@ Fun Pro is a leading provider of interactive event games, and we’re proud to h
 
 If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
 
-[Arcade Games](/products/lights-out-game/)
+[Arcade Games](/categories/arcade-games/)
 
 [Prize Games](/categories/prize-games/)
 

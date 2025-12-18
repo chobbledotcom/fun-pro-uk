@@ -1,6 +1,6 @@
 ---
 title: "Candy Cane Snatch it"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/candy-cane-snatch-it-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
-
 ---
 
 # Candy Cane Snatch it

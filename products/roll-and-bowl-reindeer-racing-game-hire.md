@@ -1,6 +1,6 @@
 ---
 title: "Roll And Bowl Reindeer Racing Game Hire"
-price: ""
+price: "£895"
 order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
@@ -28,7 +28,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae81d36b7516b31ae338e74c40365556"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b0050ef79059165761352e6f1f1faf44"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b214072e0f34616bd4f63462501cceb0"
-
 ---
 
 # Roll And Bowl Reindeer Racing Game Hire

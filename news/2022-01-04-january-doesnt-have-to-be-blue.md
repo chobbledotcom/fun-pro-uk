@@ -33,7 +33,7 @@ Diaries and calendars won't be quite so manic during January. Take this opportun
 
 **NO TINSEL OR TURKEY !** 
 
-Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/categories/photo-booths-and-magic-mirrors/)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/products/lights-out-game/)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
+Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/categories/photo-booths-and-magic-mirrors/)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/categories/arcade-games/)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
 
 So, go on - what are you waiting for? Get that date in the diary and arrange your Christmas Office Party in January, it will be the best party ever!
 

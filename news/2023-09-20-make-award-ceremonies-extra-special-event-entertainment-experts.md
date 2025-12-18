@@ -25,7 +25,7 @@ There are plenty of awards ceremony entertainment options for hire with us! Why 
 
 *   [Pinball Games](/products/virtual-pinball/): Merge the thrill of classic pinball action with your company's logo. It's nostalgia, excitement, and brand promotion—all in one package.
 *   [Mobile Casino](/products/casino-table-hire/): Envision roulette, blackjack, or poker tables, each tailored with your logo, for a sophisticated touch that radiates a sense of achievement and celebration.
-*   [Arcade Games](/products/lights-out-game/): Transport attendees back in time with iconic games like Pac-Man and Space Invaders! Who could resist the chance to show off their retro arcade skills?
+*   [Arcade Games](/categories/arcade-games/): Transport attendees back in time with iconic games like Pac-Man and Space Invaders! Who could resist the chance to show off their retro arcade skills?
 *   [Photo Booths](/categories/photo-booths-and-magic-mirrors/): Our range, including the enchanting Magic Mirror booths, captures the heart of the ceremony. You could even have your logo on the print-outs!
 
 With the corporate world evolving rapidly, it’s essential to stay ahead of the curve, even in celebrations. At Fun Pro UK, we’re dedicated to blending entertainment with brand identity.

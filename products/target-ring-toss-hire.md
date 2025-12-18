@@ -1,6 +1,6 @@
 ---
 title: "Target Ring Toss Hire"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Target Ring Toss Hire | Fun & Interactive Game for UK Events"
 meta_description: "Hire a Target Ring Toss game for your next event! Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/target-ring-toss-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
-
 ---
 
 # Target Ring Toss Hire

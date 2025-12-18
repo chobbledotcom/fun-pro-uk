@@ -66,7 +66,7 @@ If your office has a larger team, consider setting up game stations with differe
 
 ### What Types of Games Are Suitable for Different Team Sizes?
 
-*   **Small Teams (10-20 people):** Games that involve everyone, such as **Christmas Charades** or **Secret Santa**, work best. For a more competitive option, consider smaller [arcade games](/products/lights-out-game/) or tabletop games like **Casino Games**.
+*   **Small Teams (10-20 people):** Games that involve everyone, such as **Christmas Charades** or **Secret Santa**, work best. For a more competitive option, consider smaller [arcade games](/categories/arcade-games/) or tabletop games like **Casino Games**.
     
 *   **Medium Teams (20-50 people):** For medium-sized teams, consider games that allow multiple participants, such as **Photo Booths** or **Trivia Competitions**.
     

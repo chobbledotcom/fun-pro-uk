@@ -1,6 +1,6 @@
 ---
 title: "Virtual Pinball"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -15,7 +15,6 @@ gallery:
   - "/images/products/lights-out-game-lights-out-game-2-virtual-pinball.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
-
 ---
 
 # Virtual Pinball

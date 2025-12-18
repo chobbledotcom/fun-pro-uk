@@ -1,6 +1,6 @@
 ---
 title: "Reindeer Nosenado (Christmas Ballnado Hire )"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"
 meta_description: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -20,7 +20,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fe6d7d6cc66710102e63af66df0639d1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dd71299eb71e6110c5f31856fefa1325"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/380c932e88e1d86366d0c8481137025b"
-
 ---
 
 # Reindeer Nosenado (Christmas Ballnado Hire )
@@ -116,7 +115,7 @@ Lift required
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

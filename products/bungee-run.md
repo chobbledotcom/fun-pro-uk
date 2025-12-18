@@ -1,6 +1,6 @@
 ---
 title: "Bungee Run"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Bungee Run | Corporate Entertainment | Fun Pro UK"
 meta_description: "Exciting and intense competitive fun! Strap on the bungee rope and see who can reach the other side of the inflatable first. Hilarious for spectators too!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/bungee-run-lights-out-game-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9026b3b054043ba3d2a8e851df214bc3"
-
 ---
 
 # Bungee Run

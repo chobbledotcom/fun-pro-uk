@@ -1,6 +1,6 @@
 ---
 title: "GOLD CUP HORSE RACING"
-price: ""
+price: "£395"
 order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"
 meta_description: "Book the Gold Cup horse race simulator for your events, parties, and fun days. We deliver across the UK. Contact us today to reserve your spot and get started!"
@@ -25,7 +25,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cdd262461c6e7b56cb37aa2c1f7c0f25"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1db4db97c843cec3cb5bb4dc11195a1a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f0f13d02b59bf579c6ed081c4d9416f6"
-
 ---
 
 # GOLD CUP HORSE RACING

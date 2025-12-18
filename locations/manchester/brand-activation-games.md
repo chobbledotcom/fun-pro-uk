@@ -128,7 +128,7 @@ Yes, we offer various branding options from simple logo applications to full wra
 
 ### How much space do different promotional games require at Manchester venues?
 
-Space requirements vary significantly. Compact [arcade games](/products/lights-out-game/) need less space than something like racing car simulators that require a little more. We'll assess your stand layout and recommend suitable options.
+Space requirements vary significantly. Compact [arcade games](/categories/arcade-games/) need less space than something like racing car simulators that require a little more. We'll assess your stand layout and recommend suitable options.
 
 ### What happens if technical issues occur during our brand activation event?
 

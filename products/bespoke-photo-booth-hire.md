@@ -1,6 +1,6 @@
 ---
 title: "Bespoke Photo Booth Hire"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
@@ -18,7 +18,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/24c0c248921be81d95b0e363d4fd6ca0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/023f5fff1deda24f0283d2072b3fec45"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956"
-
 ---
 
 # Bespoke Photo Booth Hire
@@ -88,7 +87,7 @@ Lift required
 ### **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
 *   [Crack the Code](/products/crack-the-code-safe-cracker/)
 

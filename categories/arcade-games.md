@@ -7,6 +7,9 @@ eleventyNavigation:
   key: "Arcade Games"
   parent: "Products"
   order: 1
+redirect_from:
+  - "/products/lights-out-game/"
+  - "/arcade-games/2/lights-out-game/"
 ---
 
 # Trusted Arcade Game Hire in the UK
@@ -110,7 +113,7 @@ Some of our most popular arcade machines are:
     
 *   [Dance Machine](/products/dance-machine/): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
     
-*   [Lights Out](/products/lights-out-game/): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
+*   [Lights Out](/categories/arcade-games/): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
 
 If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/christmas-entertainment-game-hire/) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
 

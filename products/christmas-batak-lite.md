@@ -1,6 +1,6 @@
 ---
 title: "Christmas Batak Lite"
-price: ""
+price: "£445"
 order: 50
 meta_title: "Christmas Batak Lite - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Lite is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -36,7 +36,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b620a0cc734f97acbc338378a3d5f580"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f89666d5ba3ab8f73f619f0942417051"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a15ae37dadccb9acea9726796a6f403"
-
 ---
 
 # Christmas Batak Lite
@@ -172,7 +171,7 @@ Want to make your event even more magical? Pair Batak Lite with one of our other
 *   [Batak Pro](/products/batak-pro/#content)
 *   [Dance Machine](/products/dance-machine/)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/products/lights-out-game-2/)
+*   [Lights Out](/categories/interactive-game-hire/)
 
 ## Batak Lite Branding and Customisation Options
 

@@ -1,6 +1,6 @@
 ---
 title: "Play Your Cards Right Stall Hire"
-price: ""
+price: "£450"
 order: 50
 meta_title: "Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Event"
 meta_description: "Hire a Play Your Cards Right stall for your next event. Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today."
@@ -16,7 +16,6 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218"
-
 ---
 
 # Play Your Cards Right Stall Hire

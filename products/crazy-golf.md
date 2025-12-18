@@ -1,6 +1,6 @@
 ---
 title: "Crazy Golf"
-price: ""
+price: "£495"
 order: 50
 meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"
 meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
@@ -14,7 +14,6 @@ gallery:
   - "/images/products/crazy-golf-lights-out-game-lights-out-game-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
-
 ---
 
 # Crazy Golf

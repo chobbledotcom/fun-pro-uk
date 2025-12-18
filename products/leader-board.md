@@ -1,6 +1,6 @@
 ---
 title: "LEADER BOARD"
-price: ""
+price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
@@ -38,7 +38,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7d4c6028bf92864ddda090b32ba909d0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
-
 ---
 
 # LEADER BOARD

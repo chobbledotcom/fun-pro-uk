@@ -8,7 +8,7 @@ redirect_from:
 
 # Trusted Birmingham Event Game Hire
 
-Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/christmas-entertainment-game-hire/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/products/lights-out-game/) for any event at the NEC.
+Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/christmas-entertainment-game-hire/) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/categories/arcade-games/) for any event at the NEC.
 
 !NEC Birmingham
 
