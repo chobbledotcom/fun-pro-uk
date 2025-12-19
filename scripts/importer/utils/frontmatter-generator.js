@@ -83,6 +83,40 @@ const escapeYamlString = (str) => {
 };
 
 /**
+ * Format FAQs as YAML for frontmatter
+ * Uses literal block scalar (|) for multi-line answers to preserve paragraph breaks
+ * @param {Array<Object>} faqs - FAQs array with question and answer properties
+ * @returns {string} YAML formatted FAQs string (without leading newline)
+ */
+const formatFaqsYaml = (faqs) => {
+  if (!faqs || faqs.length === 0) return '';
+  
+  let yaml = 'faqs:';
+  for (const faq of faqs) {
+    const q = faq.question.replace(/"/g, '\\"');
+    const answer = faq.answer || '';
+    const isMultiLine = answer.includes('\n');
+    
+    yaml += `\n  - question: "${q}"`;
+    
+    if (isMultiLine) {
+      // Use literal block scalar for multi-line answers
+      // Indent each line by 6 spaces (2 for list, 4 for answer property)
+      const indentedAnswer = answer
+        .split('\n')
+        .map(line => '      ' + line)
+        .join('\n');
+      yaml += `\n    answer: |\n${indentedAnswer}`;
+    } else {
+      // Single line - use quoted string
+      const a = answer.replace(/"/g, '\\"');
+      yaml += `\n    answer: "${a}"`;
+    }
+  }
+  return yaml;
+};
+
+/**
  * Generate frontmatter for blog/news content
  * Old URL: /news/{date}/{slug}/ (e.g., /news/2017-11-19/christmas-parties-are-go/)
  * New URL: dynamically calculated from file path (e.g., /news/2017-11-19-christmas-parties-are-go/)
@@ -182,15 +216,9 @@ features: []`;
   }
 
   // Add FAQs if present
-  if (faqs && faqs.length > 0) {
-    frontmatter += '\nfaqs:';
-    for (const faq of faqs) {
-      // Escape quotes in question and answer
-      const q = faq.question.replace(/"/g, '\\"');
-      const a = faq.answer.replace(/"/g, '\\"');
-      frontmatter += `\n  - question: "${q}"`;
-      frontmatter += `\n    answer: "${a}"`;
-    }
+  const faqsYaml = formatFaqsYaml(faqs);
+  if (faqsYaml) {
+    frontmatter += '\n' + faqsYaml;
   }
 
   frontmatter += '\n---';
@@ -206,6 +234,7 @@ features: []`;
  * @param {string} categoryHeading - The H1 heading from category content
  * @param {number} categoryIndex - Zero-based index of this category
  * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
+ * @param {Array<Object>} faqs - FAQs array with question and answer properties
  * @returns {string} Frontmatter YAML
  */
 // Broken old-site URLs that should redirect to categories
@@ -215,7 +244,7 @@ const BROKEN_CATEGORY_URLS = {
   'interactive-game-hire': ['/category/interactive-game-hire/2/lights-out-game/'],
 };
 
-const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null) => {
+const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null, faqs = []) => {
   // No permalink - let it be dynamically calculated
   // Old URL was /category/{slug}/, new URL is /categories/{slug}/ - need redirect
   const brokenUrls = BROKEN_CATEGORY_URLS[slug] || [];
@@ -243,6 +272,12 @@ eleventyNavigation:
     }
     frontmatter += `
   order: ${navInfo.order}`;
+  }
+
+  // Add FAQs if present
+  const faqsYaml = formatFaqsYaml(faqs);
+  if (faqsYaml) {
+    frontmatter += '\n' + faqsYaml;
   }
 
   frontmatter += '\n---';

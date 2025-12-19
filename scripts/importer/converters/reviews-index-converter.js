@@ -67,6 +67,9 @@ const convertReviewsIndex = async () => {
 meta_title: "${metadata.title}"
 meta_description: "${metadata.meta_description || ''}"
 layout: reviews.html
+permalink: /testimonials/
+redirect_from:
+  - "/pages/testimonials/"
 eleventyNavigation:
   key: "${navKey}"
   parent: "About Us"

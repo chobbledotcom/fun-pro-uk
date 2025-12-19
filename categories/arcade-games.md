@@ -10,6 +10,33 @@ eleventyNavigation:
   key: "Arcade Games"
   parent: "Products"
   order: 1
+faqs:
+  - question: "What's included in our arcade machine hire service?"
+    answer: "Each arcade machine has the necessary accessories and includes [delivery](/delivery-areas/), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed."
+  - question: "How much space is required for setting up retro arcade machines?"
+    answer: "To give you a peek at some general guidelines and details, the space required for setting up an arcade video game machine depends primarily on two factors: the number of machines and additional equipment. Our team will work with you to ensure the layout will fit your venue."
+  - question: "Which arcade machines are the most frequently rented?"
+    answer: |
+      Some of our most popular arcade machines are:
+      
+      * [Electronic Basketball](/products/ultimate-green-screen-photo-booth/): Transform any space into a basketball court with this portable machine. * Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys. * [Twin Race Car Simulators](/products/twin-racing-car-simulators/): Take the thrill of the race track to your events and let your guests enjoy immersive experiences. * [Dance Machine](/products/dance-machine/): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances. * [Lights Out](/categories/arcade-games/): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
+      
+      If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/christmas-entertainment-game-hire/) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
+      
+      You can always find the perfect video game machine rental for you.
+  - question: "What types of events are ideal for including arcade games?"
+    answer: |
+      There's no such thing as an event that's too posh for classic arcade games!
+      
+      Whatever event you're hosting, our arcade game hire adds a fun, nostalgic, and interactive element that draws crowds and entertains your guests.
+      
+      Bust out the beloved arcade game machines at:
+      
+      * [Corporate outings](/news/benefits-of-team-building-days/) * Product launches * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/) and conferences * Birthday parties * [Weddings](/news/wedding-fair-at-ettington-park/) and anniversaries * Family reunions * Festivals and fairs * Grand openings * [Community events](/categories/fun-days/) * Gaming conventions
+      
+      ...and so much more!
+      
+      Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
 ---
 
 # Trusted Arcade Game Hire in the UK
@@ -91,65 +118,21 @@ Don't miss out on the opportunity to make every event unforgettable. Contact us 
 
 If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk/)
 
-## Frequently Asked Questions
-
-### What’s included in our arcade machine hire service?
-
-Each arcade machine has the necessary accessories and includes [delivery](/delivery-areas/), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed.
-
-### How much space is required for setting up retro arcade machines?
-
-To give you a peek at some general guidelines and details, the space required for setting up an arcade video game machine depends primarily on two factors: the number of machines and additional equipment. Our team will work with you to ensure the layout will fit your venue.
-
-### Which arcade machines are the most frequently rented?
-
-Some of our most popular arcade machines are:
-
-*   [Electronic Basketball](/products/ultimate-green-screen-photo-booth/): Transform any space into a basketball court with this portable machine.
     
-*   Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys.
     
-*   [Twin Race Car Simulators](/products/twin-racing-car-simulators/): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
     
-*   [Dance Machine](/products/dance-machine/): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
     
-*   [Lights Out](/categories/arcade-games/): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
 
-If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/christmas-entertainment-game-hire/) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
-
-You can always find the perfect video game machine rental for you.
-
-### What types of events are ideal for including arcade games?
-
-There’s no such thing as an event that’s too posh for classic arcade games!
-
-Whatever event you’re hosting, our arcade game hire adds a fun, nostalgic, and interactive element that draws crowds and entertains your guests.
-
-Bust out the beloved arcade game machines at:
-
-*   [Corporate outings](/news/benefits-of-team-building-days/)
     
-*   Product launches
     
-*   [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/) and conferences
     
-*   Birthday parties
     
-*   [Weddings](/news/wedding-fair-at-ettington-park/) and anniversaries
     
-*   Family reunions
     
-*   Festivals and fairs
     
 *   Grand openings
     
-*   [Community events](/categories/fun-days/)
     
-*   Gaming conventions
-
-…and so much more!
-
-Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
 
 ## What our customers are saying…
 

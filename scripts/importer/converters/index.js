@@ -15,6 +15,7 @@ const { convertReviews } = require('./reviews-converter');
 const { convertSpecialPages } = require('./special-pages-converter');
 const { convertSiteConfig } = require('./config-converter');
 const { convertStaticPages } = require('./static-page-converter');
+const { convertTeam } = require('./team-converter');
 
 module.exports = {
   convertPages,
@@ -29,5 +30,6 @@ module.exports = {
   convertReviews,
   convertSpecialPages,
   convertSiteConfig,
-  convertStaticPages
+  convertStaticPages,
+  convertTeam
 };

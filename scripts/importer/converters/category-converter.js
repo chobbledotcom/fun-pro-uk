@@ -1,7 +1,9 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractCategoryName, extractContentHeading } = require('../utils/metadata-extractor');
+const { extractCategoryName, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
+const { faqPatterns } = require('../utils/html-patterns');
+const { stripFAQSection, hasFAQSection } = require('../utils/content-processor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -12,7 +14,10 @@ const { convertSingle, convertBatch } = createConverter({
   contentType: 'category',
   extractors: {
     categoryName: (htmlContent) => extractCategoryName(htmlContent),
-    categoryHeading: (htmlContent) => extractContentHeading(htmlContent)
+    categoryHeading: (htmlContent) => extractContentHeading(htmlContent),
+    faqs: (htmlContent) => extractFAQs(htmlContent),
+    // Check if HTML has FAQ section (for validation)
+    hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     if (extracted.categoryName) {
@@ -20,9 +25,24 @@ const { convertSingle, convertBatch } = createConverter({
     }
     // Get navigation info for this category from the extracted navigation structure
     const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
-    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo);
+    // Pass FAQs extracted from old site
+    const faqs = extracted.faqs || [];
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs);
   },
-  beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now
+  beforeWrite: async (content, extracted, slug) => {
+    // Validate FAQ extraction: if HTML has FAQ section, we must have extracted FAQs
+    if (extracted.hasFAQSection && (!extracted.faqs || extracted.faqs.length === 0)) {
+      throw new Error(`FAQ section found in HTML but no FAQs were extracted. Check FAQ patterns.`);
+    }
+    
+    // Strip FAQ content from markdown body (FAQs are now in frontmatter)
+    // Pass extracted FAQs so we only remove the actual Q&A content, preserving other sections
+    if (hasFAQSection(content)) {
+      content = stripFAQSection(content, extracted.faqs || []);
+    }
+    
+    return content;
+  }
 });
 
 /**

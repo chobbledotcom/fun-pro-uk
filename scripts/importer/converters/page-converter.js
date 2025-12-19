@@ -13,6 +13,7 @@ const fs = require('fs');
 // Pages that are handled by other converters and should be skipped
 const EXCLUDED_PAGES = [
   'testimonials', // handled by reviews-index-converter
+  'meet-the-team', // handled by team-converter
 ];
 
 const { convertSingle, convertBatch } = createConverter({

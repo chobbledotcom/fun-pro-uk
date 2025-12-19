@@ -5,6 +5,21 @@ meta_description: "Professional Christmas game hire across the UK. Branded festi
 featured: true
 redirect_from:
   - "/category/christmas-game-hire/"
+faqs:
+  - question: "How much space is required for Christmas game setup?"
+    answer: "Space requirements vary by game.Our team will confirm exact specifications when you book."
+  - question: "Are Christmas games suitable for outdoor winter events?"
+    answer: "Most of our Christmas games are designed for indoor use to protect the equipment from weather conditions. However, we do offer covered outdoor solutions – please discuss your requirements with our team."
+  - question: "How far in advance should I book Christmas games?"
+    answer: "Christmas is our busiest season, so we recommend booking at least 6-8 weeks in advance to guarantee availability, especially for December dates."
+  - question: "Can you provide multiple games for larger Christmas events?"
+    answer: "Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games/) and can provide multiple games, creating festive entertainment zones throughout your venue."
+  - question: "What power requirements do Christmas games need?"
+    answer: "Most games require standard UK mains power (13amp socket). Our team will confirm specific requirements and can arrange portable power solutions if needed."
+  - question: "Do you offer Christmas-themed prizes or giveaways?"
+    answer: "Yes, we can supply festive prizes and branded Christmas giveaways to complement your games."
+  - question: "Is setup included in the hire price?"
+    answer: "Yes, professional delivery, setup, and collection are included in all our Christmas game hire packages, handled by our experienced event team."
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
@@ -88,36 +103,6 @@ Christmas Branding Options:
 *   Full colour logo application
 
 Transform standard games into branded Christmas entertainment that guests will remember long after your event ends.
-
-## Frequently Asked Questions
-
-### How much space is required for Christmas game setup?
-
-Space requirements vary by game.Our team will confirm exact specifications when you book.
-
-### Are Christmas games suitable for outdoor winter events?
-
-Most of our Christmas games are designed for indoor use to protect the equipment from weather conditions. However, we do offer covered outdoor solutions – please discuss your requirements with our team.
-
-### How far in advance should I book Christmas games?
-
-Christmas is our busiest season, so we recommend booking at least 6-8 weeks in advance to guarantee availability, especially for December dates.
-
-### Can you provide multiple games for larger Christmas events?
-
-Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games/) and can provide multiple games, creating festive entertainment zones throughout your venue.
-
-### What power requirements do Christmas games need?
-
-Most games require standard UK mains power (13amp socket). Our team will confirm specific requirements and can arrange portable power solutions if needed.
-
-### Do you offer Christmas-themed prizes or giveaways?
-
-Yes, we can supply festive prizes and branded Christmas giveaways to complement your games.
-
-### Is setup included in the hire price?
-
-Yes, professional delivery, setup, and collection are included in all our Christmas game hire packages, handled by our experienced event team.
 
 ## Brands That Trust Fun Pro UK
 
