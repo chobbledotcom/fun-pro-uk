@@ -36,6 +36,23 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b620a0cc734f97acbc338378a3d5f580"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f89666d5ba3ab8f73f619f0942417051"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a15ae37dadccb9acea9726796a6f403"
+faqs:
+  - question: "How much space is needed to set up Batak Lite?"
+    answer: "To give your Batak Lite plenty of room to shine (and your players space to show off their festive reflexes!), you'll need a minimum of 1.4 metres on either side and 1.6 metres at the front. Perfect for Christmas parties, office celebrations, and winter wonderland events."
+  - question: "Is Batak Lite suitable for all ages?"
+    answer: "Yes! Batak Lite is suitable for players aged 8 and up, making it a brilliant addition to family-friendly Christmas parties, community events, or festive corporate gatherings. Everyone can join in on the fun and laughter!"
+  - question: "Can Batak Lite be used outdoors?"
+    answer: "While it may look magical under the stars, Batak Lite is for indoor use only. Keep the festive fun cosy and bright inside — away from the snow and chilly winter air!"
+  - question: "How long does the hire period last?"
+    answer: "Whether you're planning a one-day Christmas bash or a week-long winter event, we'll tailor the hire period to suit your celebration. Need it longer? Just get in touch, and we'll create a festive package that fits your needs."
+  - question: "Is Batak Lite easy to transport and set up?"
+    answer: "Absolutely! At Fun Pro, we handle everything for you — from delivery and setup to pack down and collection once the celebrations are over. All you need to do is plug in, play, and let the Christmas fun begin!"
+  - question: "What power source is required for the game?"
+    answer: "All it takes is one standard UK plug socket to power up the twinkling lights and holiday excitement of Batak Lite."
+  - question: "Can I customise the game with my company's branding?"
+    answer: "Yes! Add your logo, brand colours, or even a festive Christmas design to make the game truly yours. Perfect for holiday brand activations, corporate parties, or seasonal campaigns that spread cheer while promoting your message."
+  - question: "How soon should I book Batak Lite for my Christmas event?"
+    answer: "Batak Lite is as popular as mince pies in December — so we always recommend booking early to secure your date! Once you've set your festive plans, let us know, and we'll make sure the fun is reserved just for you."
 ---
 
 # Christmas Batak Lite
@@ -127,32 +144,6 @@ Minimum door width 0.6m
 Can not be carried up or down flights of stairs.
 
 Lift required
-
-## **Festive FAQs – Everything You Need to Know About Hiring Batak Lite This Christmas!**
-
-**How much space is needed to set up Batak Lite?**  
-To give your Batak Lite plenty of room to shine (and your players space to show off their festive reflexes!), you’ll need a minimum of **1.4 metres on either side** and **1.6 metres at the front**. Perfect for Christmas parties, office celebrations, and winter wonderland events.
-
-**Is Batak Lite suitable for all ages?**  
-Yes! Batak Lite is suitable for players **aged 8 and up**, making it a brilliant addition to family-friendly Christmas parties, community events, or festive corporate gatherings. Everyone can join in on the fun and laughter!
-
-**Can Batak Lite be used outdoors?**  
-While it may look magical under the stars, **Batak Lite is for indoor use only**. Keep the festive fun cosy and bright inside — away from the snow and chilly winter air!
-
-**How long does the hire period last?**  
-Whether you’re planning a **one-day Christmas bash** or a **week-long winter event**, we’ll tailor the hire period to suit your celebration. Need it longer? Just get in touch, and we’ll create a festive package that fits your needs.
-
-**Is Batak Lite easy to transport and set up?**  
-Absolutely! At **Fun Pro**, we handle everything for you — from **delivery and setup** to **pack down and collection** once the celebrations are over. All you need to do is plug in, play, and let the Christmas fun begin!
-
-**What power source is required for the game?**  
-All it takes is **one standard UK plug socket** to power up the twinkling lights and holiday excitement of Batak Lite.
-
-**Can I customise the game with my company’s branding?**  
-Yes! Add your **logo**, **brand colours**, or even a **festive Christmas design** to make the game truly yours. Perfect for **holiday brand activations**, **corporate parties**, or **seasonal campaigns** that spread cheer while promoting your message.
-
-**How soon should I book Batak Lite for my Christmas event?**  
-Batak Lite is as popular as mince pies in December — so we always recommend **booking early** to secure your date! Once you’ve set your festive plans, let us know, and we’ll make sure the fun is reserved just for you.
 
 ## **Brands That Have Celebrated With Us**
 

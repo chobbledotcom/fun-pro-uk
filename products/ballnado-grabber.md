@@ -55,6 +55,21 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2e678f1ce63e8a5979a938854cbdee9c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f1306576e3a9eac486285332f4c814"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
+faqs:
+  - question: "How many people can play the Ballnado grabber?"
+    answer: "The Ballnado grabber can be played by all groups of different sizes. There is no strict limit. However, the Ballnado game is at its most enjoyable between 4-12 players. This is a great number to spark competition and make sure that everyone has a fair chance to catch the balls."
+  - question: "Can anyone use the Ballnado grabber?"
+    answer: "Yes! The ball grabber game fits people of all ages and physical abilities. All the participants of the game should feel comfortable catching and handling objects. If anyone has physical limitations, they should exercise some caution."
+  - question: "Can the Ballnado grabber be used outside?"
+    answer: "Yes, the Ballnado game can be played outdoors. Be sure to choose a location with a flat, stable surface to prevent the machine from tipping over or the balls from rolling away. Mind the weather conditions too, as strong winds or rain can interfere with the activity."
+  - question: "Can the Ballnado grabber be used indoors?"
+    answer: "Yes, the Ballnado grabber is perfectly playable indoors. Indoor venues provide a more controlled environment for the activity, but make sure that there is enough space to safely accommodate the machine and all the participants."
+  - question: "Does the Ballnado grabber require a power supply?"
+    answer: "No, the Ballnado game does not require a power supply. It's portable and works on batteries."
+  - question: "How long does the Ballnado grabber take to set up?"
+    answer: "In general, the Ballnado grabber is quick to set up. It usually takes around 15-20 minutes to assemble the machine, load the balls, and prepare the playing area."
+  - question: "Does the Ballnado grabber come with someone to run the activity?"
+    answer: "Our team will be at your venue to deliver, set up, and retrieve the Ballnado grabber after the event is done."
 ---
 
 # Ballnado Grabber
@@ -203,36 +218,6 @@ When the event is over, we’ll return to dismantle and collect the ball grabber
 ## Ready to take your corporate event to the next level?
 
 Don't miss out on the opportunity to upgrade your event with our Ballnado grabber hire service. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-
-## Frequently Asked Questions
-
-### How many people can play the Ballnado grabber?
-
-The Ballnado grabber can be played by all groups of different sizes. There is no strict limit. However, the Ballnado game is at its most enjoyable between 4-12 players. This is a great number to spark competition and make sure that everyone has a fair chance to catch the balls.
-
-### Can anyone use the Ballnado grabber?
-
-Yes! The ball grabber game fits people of all ages and physical abilities. All the participants of the game should feel comfortable catching and handling objects. If anyone has physical limitations, they should exercise some caution.
-
-### Can the Ballnado grabber be used outside?
-
-Yes, the Ballnado game can be played outdoors. Be sure to choose a location with a flat, stable surface to prevent the machine from tipping over or the balls from rolling away. Mind the weather conditions too, as strong winds or rain can interfere with the activity.
-
-### Can the Ballnado grabber be used indoors?
-
-Yes, the Ballnado grabber is perfectly playable indoors. Indoor venues provide a more controlled environment for the activity, but make sure that there is enough space to safely accommodate the machine and all the participants.
-
-### Does the Ballnado grabber require a power supply?
-
-No, the Ballnado game does not require a power supply. It’s portable and works on batteries.
-
-### How long does the Ballnado grabber take to set up?
-
-In general, the Ballnado grabber is quick to set up. It usually takes around 15-20 minutes to assemble the machine, load the balls, and prepare the playing area.
-
-### Does the Ballnado grabber come with someone to run the activity?
-
-Our team will be at your venue to deliver, set up, and retrieve the Ballnado grabber after the event is done.
 
 ### How safe is the Ballnado grabber?
 

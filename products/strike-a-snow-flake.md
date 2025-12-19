@@ -24,6 +24,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/598fe2e3dee3fc329f7352c2d72b0321"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34d530d279cd8b0bea0a45ccd98bcd67"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b82605d2431b4c3d7601597127dd9ef0"
+faqs:
+  - question: "What are the age requirements for playing Strike a Snow Flake?"
+    answer: "The Strike a Snowflake game is suitable for participants of all ages. Both children and adults can enjoy the competitive, fast-paced gameplay. Younger children can join in under supervision to ensure a safe and enjoyable experience for everyone."
+  - question: "How long does each round of the game last?"
+    answer: "Each round lasts approximately 30 seconds, making the game ideal for events with large crowds. The quick gameplay keeps the excitement high, encourages repeat plays, and creates a lively atmosphere."
+  - question: "What equipment is included when hiring the Strike a Snow Flake game?"
+    answer: "The game comes complete with bright LED lights, festive snowflake-themed decorations, and built-in sound effects. It includes a sturdy table or stand to ensure stability and accessibility during play. Our professional team handles delivery, setup, and collection, providing a hassle-free experience for event organisers."
 ---
 
 # Strike A Snow Flake
@@ -147,20 +154,6 @@ After the event, we’ll return to dismantle and collect the Strike a Snowflake 
 ## **Ready to take your event to the next level?**
 
 Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](/contact-fun-pro-uk/) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
-
-## **Frequently Asked Questions**
-
-### **What are the age requirements for playing Strike a Snow Flake?**
-
-The Strike a Snowflake game is suitable for participants of all ages. Both children and adults can enjoy the competitive, fast-paced gameplay. Younger children can join in under supervision to ensure a safe and enjoyable experience for everyone.
-
-### **How long does each round of the game last?**
-
-Each round lasts approximately 30 seconds, making the game ideal for events with large crowds. The quick gameplay keeps the excitement high, encourages repeat plays, and creates a lively atmosphere.
-
-### **What equipment is included when hiring the Strike a Snow Flake game?**
-
-The game comes complete with bright LED lights, festive snowflake-themed decorations, and built-in sound effects. It includes a sturdy table or stand to ensure stability and accessibility during play. Our professional team handles delivery, setup, and collection, providing a hassle-free experience for event organisers.
 
 ### **Can the game be customised with branding or event themes?**
 

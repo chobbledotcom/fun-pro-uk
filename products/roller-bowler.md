@@ -14,6 +14,21 @@ gallery:
   - "/images/products/lights-out-game-lights-out-game-2-roller-bowler.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
+faqs:
+  - question: "How much space does Roller Bowler require?"
+    answer: "The standard Roller Bowler needs approximately 2 metres in length and 0.8 metres in width, plus additional space for players to stand and spectators to gather. We recommend allowing 2.5 x 1.5 metres total for comfortable gameplay. Floor-standing versions require more space than tabletop models."
+  - question: "Is Roller Bowler suitable for all ages?"
+    answer: "Yes, the Roller Bowler works for children aged 5 and above through to adults. The simple rolling action requires no special strength or coordination, making it accessible for most attendees. The challenge level remains engaging regardless of age or ability."
+  - question: "Can Roller Bowler be used outdoors?"
+    answer: "The Roller Bowler can be used outdoors in dry weather conditions only. The wooden construction and mechanical components must be protected from rain and moisture. We recommend indoor use for guaranteed operation regardless of the weather."
+  - question: "How long does setup take?"
+    answer: "Setup typically takes 10-15 minutes for our trained technicians. This includes positioning the game, attaching any floor stands or header panels, and ensuring the track surface is level. Our team handles all setup and testing before your event begins."
+  - question: "Can I hire multiple units for larger events?"
+    answer: "Yes, we can provide multiple Roller Bowler units for large events, conferences, or exhibitions. Multiple units work particularly well for competitions, tournaments, or when you need to accommodate high footfall. Contact us to discuss quantity discounts for multiple units."
+  - question: "What power source is required?"
+    answer: "The Roller Bowler requires no power source whatsoever. It's a completely mechanical game, making it ideal for outdoor events, venues with limited electrical access, or situations where you want to minimise running costs and setup complexity."
+  - question: "How far in advance should I book? We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability. Can the Roller Bowler be branded with our company logo?"
+    answer: "Yes, comprehensive branding options are available, including header panels, side panels, and playfield graphics. Our in-house design team can create custom artwork incorporating your logo, colours, and messaging. Branding typically requires 2-3 weeks' notice."
 ---
 
 # Roller Bowler
@@ -174,39 +189,11 @@ Complete your event with our range of interactive entertainment:
 
 Ready to add classic carnival entertainment to your next corporate event, exhibition, or private function? [Contact](/contact-fun-pro-uk/) Fun Pro UK today to check availability, discuss customisation options, and receive a detailed quote for Roller Bowler hire across the UK.
 
-## Frequently Asked Questions
-
-### **How much space does Roller Bowler require?**
-
-The standard Roller Bowler needs approximately 2 metres in length and 0.8 metres in width, plus additional space for players to stand and spectators to gather. We recommend allowing 2.5 x 1.5 metres total for comfortable gameplay. Floor-standing versions require more space than tabletop models.
-
-### **Is Roller Bowler suitable for all ages?**
-
-Yes, the Roller Bowler works for children aged 5 and above through to adults. The simple rolling action requires no special strength or coordination, making it accessible for most attendees. The challenge level remains engaging regardless of age or ability.
-
-### **Can Roller Bowler be used outdoors?**
-
-The Roller Bowler can be used outdoors in dry weather conditions only. The wooden construction and mechanical components must be protected from rain and moisture. We recommend indoor use for guaranteed operation regardless of the weather.
-
-### **How long does setup take?**
-
-Setup typically takes 10-15 minutes for our trained technicians. This includes positioning the game, attaching any floor stands or header panels, and ensuring the track surface is level. Our team handles all setup and testing before your event begins.
-
-### **Can I hire multiple units for larger events?**
-
-Yes, we can provide multiple Roller Bowler units for large events, conferences, or exhibitions. Multiple units work particularly well for competitions, tournaments, or when you need to accommodate high footfall. Contact us to discuss quantity discounts for multiple units.
-
-### **What power source is required?**
-
-The Roller Bowler requires no power source whatsoever. It's a completely mechanical game, making it ideal for outdoor events, venues with limited electrical access, or situations where you want to minimise running costs and setup complexity.
-
 ### **How far in advance should I book?**
 
 We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability.
 
 ### **Can the Roller Bowler be branded with our company logo?**
-
-Yes, comprehensive branding options are available, including header panels, side panels, and playfield graphics. Our in-house design team can create custom artwork incorporating your logo, colours, and messaging. Branding typically requires 2-3 weeks' notice.
 
 ## What our customers are saying…
 

@@ -50,6 +50,21 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ef107c8e653dba0c20bfed3fc27ee129"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0af8fcfb7abbbac66dc49d09f355b339"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3e033bfa85836ad1c2ece822c5632840"
+faqs:
+  - question: "How much space is needed to set up Batak Lite?"
+    answer: "To allow for enough space around the Batak Lite game, you will need a minimum of 1.4 metres at either side, and 1.6 metres at the front."
+  - question: "Is Batak Lite suitable for all ages?"
+    answer: "Batak Lite is suitable for those 8 years of age and up, making it ideal for a range of different events."
+  - question: "Can Batak Lite be used outdoors?"
+    answer: "No. Batak Lite is only suitable for indoor use."
+  - question: "How long does the hire period last?"
+    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, contact us for a free quote."
+  - question: "Is Batak Lite easy to transport and set up?"
+    answer: "Yes. Thanks to the end to end service offered by Fun Pro, we take care of this for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the set up, and will even collect it when you're finished."
+  - question: "What power source is required for the game?"
+    answer: "Batak Lite requires a single UK socket where it can be plugged in."
+  - question: "Can I customise the game with my company's branding?"
+    answer: "Yes. You can have your Batak Lite game fully customised with your company branding, logo and colours, or even event branding if you prefer."
 ---
 
 # Batak Lite
@@ -163,36 +178,6 @@ In-house branding available. We print, apply, and remove them after each event.
 **8 x Branded Button Surrounds**
 
 **£**125** + vat**
-
-## Frequently Asked Questions
-
-### How much space is needed to set up Batak Lite?
-
-To allow for enough space around the Batak Lite game, you will need a minimum of 1.4 metres at either side, and 1.6 metres at the front.
-
-### Is Batak Lite suitable for all ages?
-
-Batak Lite is suitable for those 8 years of age and up, making it ideal for a range of different events.
-
-### Can Batak Lite be used outdoors?
-
-No. Batak Lite is only suitable for indoor use.
-
-### How long does the hire period last?
-
-Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, [contact us for a free quote](/contact-fun-pro-uk/).
-
-### Is Batak Lite easy to transport and set up?
-
-Yes. Thanks to the end to end service offered by Fun Pro, we take care of this for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the set up, and will even collect it when you’re finished.
-
-### What power source is required for the game?
-
-Batak Lite requires a single UK socket where it can be plugged in.
-
-### Can I customise the game with my company’s branding?
-
-Yes. You can have your Batak Lite game fully customised with your company branding, logo and colours, or even event branding if you prefer.
 
 ### How soon should I book Batak Lite for my event?
 

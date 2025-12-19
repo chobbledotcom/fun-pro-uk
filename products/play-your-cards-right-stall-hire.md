@@ -16,6 +16,17 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218"
+faqs:
+  - question: "Can the Play Your Cards Right stall be used for team-building exercises?"
+    answer: "Yes, the Play Your Cards Right stall is perfect for events like team-building days, staff parties and more. It's a fun and engaging way to bring people together and encourage natural interaction among teams who might not otherwise have the chance to spend much time together or get to know each other."
+  - question: "Are there any additional costs for extended rental periods or overtime?"
+    answer: "We offer hire periods from one day up to one week, which usually meets the needs of most customers. However, if you have a different requirement, please reach out to us for a free custom quote."
+  - question: "Are there any special packages or discounts for long-term rentals?"
+    answer: "For any custom pricing or hire periods, it's always best to contact us and we'll be able to review your needs and provide you with a quote."
+  - question: "Are the cards and other materials provided, or do we need to supply them?"
+    answer: "We provide everything you need to play the game and get set up, including helping with customisation if needed. The only thing you'll provide is extra prizes if you want more than what's included."
+  - question: "Can the Play Your Cards Right stall be themed to match our event decor?"
+    answer: "Yes, absolutely. We can fully customise the game to match your brand or event."
 ---
 
 # Play Your Cards Right Stall Hire
@@ -113,28 +124,6 @@ Once the event is over, we’ll return to collect the Target Ring Toss game, lea
 ## Ready to Book Our Play Your Cards Right Stall Hire?
 
 Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
-
-## Frequently Asked Questions
-
-### Can the Play Your Cards Right stall be used for team-building exercises?
-
-Yes, the Play Your Cards Right stall is perfect for events like team-building days, staff parties and more. It’s a fun and engaging way to bring people together and encourage natural interaction among teams who might not otherwise have the chance to spend much time together or get to know each other.
-
-### Are there any additional costs for extended rental periods or overtime?
-
-We offer hire periods from one day up to one week, which usually meets the needs of most customers. However, if you have a different requirement, please reach out to us for a free custom quote.
-
-### Are there any special packages or discounts for long-term rentals?
-
-For any custom pricing or hire periods, it’s always best to contact us and we’ll be able to review your needs and provide you with a quote.
-
-### Are the cards and other materials provided, or do we need to supply them?
-
-We provide everything you need to play the game and get set up, including helping with customisation if needed. The only thing you’ll provide is extra prizes if you want more than what’s included.
-
-### Can the Play Your Cards Right stall be themed to match our event decor?
-
-Yes, absolutely. We can fully customise the game to match your brand or event.
 
 **Branding Prices from:**
 

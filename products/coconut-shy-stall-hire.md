@@ -14,6 +14,15 @@ gallery:
   - "/images/products/coconut-shy-stall-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
+faqs:
+  - question: "What is included in the Coconut Shy stall rental package?"
+    answer: "Our Coconut Shy Stall rental includes everything you need for hours of fun, including delivery, set up by our trained team, all the equipment you need, and then we'll come and collect when you're done. Please note that delivery and set up fees may incur additional charges."
+  - question: "Is the Coconut Shy stall suitable for outdoor events in various weather conditions?"
+    answer: "Although the Coconut Shy Stall can be used both indoors and outdoors, for the enjoyment of those playing, we recommend that you use it only in dry conditions and avoid extreme weather conditions such as wind or heavy rain."
+  - question: "Can we customise the Coconut Shy stall with our branding or theme?"
+    answer: "Yes, absolutely. All of our products, including the Coconut Shy Stall can be fully customised with your company or event branding, logo and colours."
+  - question: "Are staff provided to manage the Coconut Shy stall during events?"
+    answer: "If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote."
 ---
 
 # Coconut Shy Stall Hire
@@ -97,24 +106,6 @@ Once the event is over, we’ll return to collect the stall, leaving your venue 
 ## Ready to Book Our Coconut Shy Stall Hire?
 
 Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
-
-## Frequently Asked Questions
-
-### What is included in the Coconut Shy stall rental package?
-
-Our Coconut Shy Stall rental includes everything you need for hours of fun, including delivery, set up by our trained team, all the equipment you need, and then we’ll come and collect when you’re done. Please note that delivery and set up fees may incur additional charges.
-
-### Is the Coconut Shy stall suitable for outdoor events in various weather conditions?
-
-Although the Coconut Shy Stall can be used both indoors and outdoors, for the enjoyment of those playing, we recommend that you use it only in dry conditions and avoid extreme weather conditions such as wind or heavy rain.
-
-### Can we customise the Coconut Shy stall with our branding or theme?
-
-Yes, absolutely. All of our products, including the Coconut Shy Stall can be fully customised with your company or event branding, logo and colours.
-
-### Are staff provided to manage the Coconut Shy stall during events?
-
-If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote.
 
 ### Are there any restrictions on the types of prizes that can be used with the Coconut Shy stall?
 

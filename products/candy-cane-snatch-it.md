@@ -14,6 +14,17 @@ gallery:
   - "/images/products/candy-cane-snatch-it-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
+faqs:
+  - question: "What is included when I hire the Candy Cane Snatch It game?"
+    answer: "Everything you need to play the game is included. Our team will also take care of doing the setup. We will deliver and install the game at your event and make sure that it's ready for your guests to enjoy."
+  - question: "How long can I hire the Candy Cane Snatch It game for?"
+    answer: "We offer flexible hire periods to suit your event needs. You can choose from short term options like a 1-day hire or extend the rental for multiple days. Our team will work with you to provide the right hire length."
+  - question: "Is the Candy Cane Snatch It game suitable for both children and adults?"
+    answer: "Yes, the Candy Cane Snatch It game is designed to be fun and engaging for all ages. Both children and adults can enjoy the challenge of the game. It's a versatile addition to different types of events — from family-friendly gatherings to corporate festive holiday parties."
+  - question: "Can the Candy Cane Snatch It game be played indoors and outdoors?"
+    answer: "The Candy Cane Snatch It game is designed specifically for indoor use on a level surface. Unfortunately, it is not suitable for outdoor use. Potential exposure to the elements could affect the game's performance. For a smooth setup, we recommend an indoor location that meets our space and access requirements."
+  - question: "How many people can play the Candy Cane Snatch It game at once?"
+    answer: "The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns."
 ---
 
 # Candy Cane Snatch it
@@ -158,30 +169,6 @@ When the event is over, we’ll return to dismantle and collect the Candy Cane S
 **
 
 Don't miss out on the opportunity to upgrade your event with our Candy Cane Snatch It game hire service. [Contact us today](/contact-fun-pro-uk/) to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-
-## **Frequently Asked Questions**
-
-### **What is included when I hire the Candy Cane Snatch It game?**
-
-Everything you need to play the game is included. Our team will also take care of doing the setup. We will deliver and install the game at your event and make sure that it’s ready for your guests to enjoy.
-
-### **How long can I hire the Candy Cane Snatch It game for?**
-
-We offer flexible hire periods to suit your event needs. You can choose from short term options like a 1-day hire or extend the rental for multiple days. Our team will work with you to provide the right hire length.
-
-### **Is the Candy Cane Snatch It game suitable for both children and adults?**
-
-Yes, the Candy Cane Snatch It game is designed to be fun and engaging for all ages. Both children and adults can enjoy the challenge of the game. It’s a versatile addition to different types of events — from family-friendly gatherings to corporate festive holiday parties.
-
-### **Can the Candy Cane Snatch It game be played indoors and outdoors?**
-
-The Candy Cane Snatch It game is designed specifically for indoor use on a level surface. Unfortunately, it is not suitable for outdoor use. Potential exposure to the elements could affect the game’s performance.
-
-For a smooth setup, we recommend an indoor location that meets our space and access requirements.
-
-### **How many people can play the Candy Cane Snatch It game at once?**
-
-The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns.
 
 ### **Can I customise the game for my event?**
 

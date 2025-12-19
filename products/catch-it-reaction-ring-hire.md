@@ -32,6 +32,21 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c21eaf5f7d999d009ef1f9ef8ea7793b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3c93aa83238a4cbe6b49ca47994bffa"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/acac488e1411bebfcbda5b0f50eae099"
+faqs:
+  - question: "How much space does Catch It Reaction require?"
+    answer: "The game requires a minimum 2m x 2m area with additional space for queue formation. We recommend allowing 3m x 3m for optimal player movement and spectator viewing."
+  - question: "Is Catch It Reaction suitable for all ages?"
+    answer: "Yes, the game is designed for participants aged 8 and above. The adjustable difficulty settings make it engaging for both children and adults."
+  - question: "Can Catch It Reaction be used outdoors?"
+    answer: "No. Catch It Reaction is designed for indoor use only."
+  - question: "How long does setup take?"
+    answer: "Our professional technicians typically complete setup within 30-45 minutes, including testing and calibration."
+  - question: "Can I hire multiple units for larger events?"
+    answer: "Absolutely! Multiple Catch It Reaction units are perfect for large conferences and exhibitions with high footfall."
+  - question: "What power source is required?"
+    answer: "The game requires one standard UK power socket. Power consumption is minimal, making it suitable for most venue electrical systems."
+  - question: "How far in advance should I book?"
+    answer: "We recommend booking as early as possible, especially for peak event seasons and major exhibition dates."
 ---
 
 # Catch it Reaction Ring Hire
@@ -183,36 +198,6 @@ Enhance your event with our complete range of interactive entertainment:
 ## **Hire Catch It Reaction Game for Your Event**
 
 Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/contact-fun-pro-uk/) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
-
-**Frequently Asked Questions**
-
-### How much space does Catch It Reaction require?
-
-The game requires a minimum 2m x 2m area with additional space for queue formation. We recommend allowing 3m x 3m for optimal player movement and spectator viewing.
-
-### Is Catch It Reaction suitable for all ages?
-
-Yes, the game is designed for participants aged 8 and above. The adjustable difficulty settings make it engaging for both children and adults.
-
-### Can Catch It Reaction be used outdoors?
-
-No. Catch It Reaction is designed for indoor use only.
-
-### How long does setup take?
-
-Our professional technicians typically complete setup within 30-45 minutes, including testing and calibration.
-
-### Can I hire multiple units for larger events?
-
-Absolutely! Multiple Catch It Reaction units are perfect for large conferences and exhibitions with high footfall.
-
-### What power source is required?
-
-The game requires one standard UK power socket. Power consumption is minimal, making it suitable for most venue electrical systems.
-
-### How far in advance should I book?
-
-We recommend booking as early as possible, especially for peak event seasons and major exhibition dates.
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

@@ -14,6 +14,13 @@ gallery:
   - "/images/products/lights-out-game-lights-out-game-2-table-tennis-hire.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
+faqs:
+  - question: "What types of folding table tennis tables are available for hire?"
+    answer: "We have full-size competition-level tables, perfect if you want to have casual games or host a mini tournament during your event."
+  - question: "What is included in the table tennis hire package?"
+    answer: "Each hire package has table(s), bats, balls, and nets. Our trained team also does delivery, setup, and removal, so you don't have to worry about anything. You can just have fun at your own event. Any additional accessories needed or custom setups can be arranged upon request."
+  - question: "What is the minimum and maximum hire period?"
+    answer: "Our minimum hire period is 2 hours, with flexible options available for longer events. Whether you need the tables for a single day or a week, we can accommodate your needs."
 ---
 
 # Table Tennis Hire
@@ -108,20 +115,6 @@ When the event is over, we’ll return to dismantle and collect the full size te
 ## Ready to take your corporate event to the next level?
 
 Don't miss out on the opportunity to upgrade your event with our table tennis hire service. Contact us today to book our equipment for your [next event in Birmingham](/locations/birmingham/game-hire-icc/), Leicester, Nottingham, or any other location in the UK!
-
-## Frequently Asked Questions
-
-### What types of folding table tennis tables are available for hire?
-
-We have full-size competition-level tables, perfect if you want to have casual games or host a mini tournament during your event.  
-
-### What is included in the table tennis hire package?
-
-Each hire package has table(s), bats, balls, and nets. Our trained team also does delivery, setup, and removal, so you don’t have to worry about anything. You can just have fun at your own event. Any additional accessories needed or custom setups can be arranged upon request.  
-
-### What is the minimum and maximum hire period?
-
-Our minimum hire period is 2 hours, with flexible options available for longer events. Whether you need the tables for a single day or a week, we can accommodate your needs.  
 
 ### What happens if the table is damaged during the event?
 

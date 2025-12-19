@@ -49,6 +49,19 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2dbfcb8e19f0d8b61e729d0f1ed5d98"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f31e5f8d4725356e44179fbc2c44825"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86e1d66080707189aeb325a5d52af14e"
+faqs:
+  - question: "How much space is required for the Scalextric slot car racing setup?"
+    answer: "The space you need for a Scalextric slot car racing setup depends on the size of the track and the number of cars. Our basic setup requires a space of 2,000mm Width x 2,500mm Length. This setup lets your guests stand in around the game."
+  - question: "Can the track or cars be customised for my event or stand?"
+    answer: "Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for corporate entertainment, we can customise the game rental with your company colours and logos. Whether you're hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event."
+  - question: "Do you provide staff to operate the equipment?"
+    answer: "We can provide staff onsite upon your request. This will be included in your quotation. Our team of professionals can help operate the Scalextric slot car racing rental for you, and ensure that the game works smoothly."
+  - question: "What is included in the Scalextric sets for hire?"
+    answer: "Our Scalextric slot car racing hire includes the game's tracks and accessories, slot cars, controllers, and power supply. We will also take care of the whole logistics process from start to finish, so you don't have to worry about the games you hired, and focus on planning an exciting and enjoyable event."
+  - question: "How long does it take to set up and take down?"
+    answer: "The setup and takedown time for a Scalextric slot car racing setup can typically be completed within 30 minutes to an hour."
+  - question: "How far in advance should I book the slot car racing setup?"
+    answer: "We recommend booking the Scalextric slot car racing setup well in advance, especially if you're holding events during peak seasons. Booking 1-2 weeks in advance can help ensure availability. And if you need help planning your event, our team can help you with that too."
 ---
 
 # Scalextric Slot Car Racing
@@ -193,34 +206,6 @@ After the event, we’ll return to dismantle and collect the Scalextric slot car
 ## Ready to take your corporate event to the next level?
 
 Don't miss out on the opportunity to upgrade your event with our Scalextric slot car racing hire service. [Contact us today](/contact-fun-pro-uk/) to book our equipment for your next event in Birmingham, Leicester, London, or any other location in the UK!
-
-## Frequently Asked Questions
-
-### How much space is required for the Scalextric slot car racing setup?
-
-The space you need for a Scalextric slot car racing setup depends on the size of the track and the number of cars. Our basic setup requires a space of 2,000mm Width x 2,500mm Length. This setup lets your guests stand in around the game.
-
-### Can the track or cars be customised for my event or stand?
-
-Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/categories/corporate-entertainment/), we can customise the game rental with your company colours and logos.
-
-Whether you’re hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event.
-
-### Do you provide staff to operate the equipment?
-
-We can provide staff onsite upon your request. This will be included in your quotation. Our team of professionals can help operate the Scalextric slot car racing rental for you, and ensure that the game works smoothly.
-
-### What is included in the Scalextric sets for hire?
-
-Our Scalextric slot car racing hire includes the game’s tracks and accessories, slot cars, controllers, and power supply. We will also take care of the whole logistics process from start to finish, so you don’t have to worry about the games you hired, and focus on planning an exciting and enjoyable event.
-
-### How long does it take to set up and take down?
-
-The setup and takedown time for a Scalextric slot car racing setup can typically be completed within 30 minutes to an hour.
-
-### How far in advance should I book the slot car racing setup?
-
-We recommend booking the Scalextric slot car racing setup well in advance, especially if you’re holding events during peak seasons. Booking 1-2 weeks in advance can help ensure availability. And if you need help planning your event, our team can help you with that too.
 
 **Branding Prices from:**
 

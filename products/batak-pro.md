@@ -41,6 +41,21 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dc2409c67bcf3b84aca4439493a3fa17"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2e0e12a2e91aad8b4696c0d45dcd8f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1150d0087e5b784a4feb7234eebf6960"
+faqs:
+  - question: "How much space is required for Batak Pro setup?"
+    answer: "To allow for enough space around your Batak Pro game, you'll need to leave a minimum of 2 metres at either side, and 2.10 metres at the front."
+  - question: "Is Batak Pro suitable for both beginners and professionals?"
+    answer: "Yes, Batak Pro is suitable for all skill levels and is easy to learn, so it's ideal for lots of different events and is a game that everyone can enjoy."
+  - question: "Can Batak Pro be used outdoors?"
+    answer: "No. For safety reasons, Batak Pro can only be used indoors."
+  - question: "How long does the hire period last?"
+    answer: "Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please get in touch with us for a free quote."
+  - question: "What power source is required for Batak Pro?"
+    answer: "Batak Pro requires a single UK plug."
+  - question: "Can I hire multiple Batak Pro units for larger events?"
+    answer: "Yes, Batak Pro is perfect for larger events like conferences."
+  - question: "Is Batak Pro customisable with branding options?"
+    answer: "Yes. Our Batak Pro hire comes with a range of customisation options, so you can really tailor it to your brand."
 ---
 
 # Batak Pro
@@ -163,36 +178,6 @@ In-house branding available. We print, apply, and remove them after each event.
 **12 x Branded Button Surrounds**
 
 **£**175** + vat**
-
-## Frequently Asked Questions
-
-### How much space is required for Batak Pro setup?
-
-To allow for enough space around your Batak Pro game, you’ll need to leave a minimum of 2 metres at either side, and 2.10 metres at the front.
-
-### Is Batak Pro suitable for both beginners and professionals?
-
-Yes, Batak Pro is suitable for all skill levels and is easy to learn, so it’s ideal for lots of different events and is a game that everyone can enjoy.
-
-### Can Batak Pro be used outdoors?
-
-No. For safety reasons, Batak Pro can only be used indoors.
-
-### How long does the hire period last?
-
-Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please [get in touch with us](/contact-fun-pro-uk/) for a free quote.
-
-### What power source is required for Batak Pro?
-
-Batak Pro requires a single UK plug.
-
-### Can I hire multiple Batak Pro units for larger events?
-
-Yes, Batak Pro is perfect for larger events like conferences.
-
-### Is Batak Pro customisable with branding options?
-
-Yes. Our Batak Pro hire comes with a range of customisation options, so you can really tailor it to your brand.
 
 ### How soon should I book Batak Pro for my event?
 

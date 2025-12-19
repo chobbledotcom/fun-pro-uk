@@ -105,8 +105,6 @@ Every Corn Hole hire package from Fun Pro UK includes:
 *   8 professional-grade bean bags (4 in each of 2 colours)
 *   Full setup and breakdown by our experienced team
 
-**Frequently Asked Questions**
-
 ### How much space is needed for Corn Hole?
 
 We recommend a minimum playing area of 8m x 3m for optimal gameplay. However, the game can be adapted for smaller spaces if required.
