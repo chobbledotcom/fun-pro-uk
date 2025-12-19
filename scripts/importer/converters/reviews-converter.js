@@ -4,6 +4,70 @@ const config = require('../config');
 const { ensureDir, readHtmlFile } = require('../utils/filesystem');
 
 /**
+ * Slugify a string for comparison
+ * Converts to lowercase, removes special characters, replaces spaces with hyphens
+ */
+const slugify = (str) => {
+  return str
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+};
+
+/**
+ * Load all product titles from the products directory
+ * Returns an array of { title, slug, path } objects
+ */
+const loadProductTitles = () => {
+  const productsDir = path.join(config.OUTPUT_BASE, 'products');
+  
+  if (!fs.existsSync(productsDir)) {
+    return [];
+  }
+  
+  const products = [];
+  const files = fs.readdirSync(productsDir).filter(f => f.endsWith('.md'));
+  
+  for (const file of files) {
+    const filepath = path.join(productsDir, file);
+    const content = fs.readFileSync(filepath, 'utf8');
+    
+    // Extract title from frontmatter
+    const titleMatch = content.match(/^title:\s*["']?([^"'\n]+)["']?\s*$/m);
+    if (titleMatch) {
+      const title = titleMatch[1].trim();
+      products.push({
+        title,
+        slug: slugify(title),
+        path: `products/${file}`
+      });
+    }
+  }
+  
+  return products;
+};
+
+/**
+ * Find products mentioned in review content
+ * Returns array of product paths like "products/magic-mirror.md"
+ */
+const findMentionedProducts = (reviewContent, products) => {
+  const slugifiedContent = slugify(reviewContent);
+  const mentionedProducts = [];
+  
+  for (const product of products) {
+    // Check if the slugified product title appears in the slugified review content
+    if (slugifiedContent.includes(product.slug)) {
+      mentionedProducts.push(product.path);
+    }
+  }
+  
+  return mentionedProducts;
+};
+
+/**
  * Parse a date string like "2025-10-28" or "Oct 2025" into a Date object
  */
 const parseDate = (dateStr) => {
@@ -141,31 +205,34 @@ const extractReviews = (htmlContent) => {
 /**
  * Save a review as a markdown file
  */
-const saveReview = (review, outputDir) => {
+const saveReview = (review, outputDir, products = []) => {
   const filename = generateFilename(review.author, review.date);
   const filepath = path.join(outputDir, filename);
   
-  // Skip if file already exists
-  if (fs.existsSync(filepath)) {
-    return { saved: false, skipped: true, filename };
-  }
+  // Find mentioned products in this review
+  const mentionedProducts = findMentionedProducts(review.content, products);
   
   const dateStr = review.date instanceof Date && !isNaN(review.date)
     ? review.date.toISOString().split('T')[0]
     : new Date().toISOString().split('T')[0];
+  
+  // Build products line if there are any mentioned products
+  const productsLine = mentionedProducts.length > 0
+    ? `products: ${JSON.stringify(mentionedProducts)}\n`
+    : '';
   
   const content = `---
 name: "${review.author.replace(/"/g, '\\"')}"
 date: ${dateStr}
 rating: ${review.rating}
 source: testimonial
----
+${productsLine}---
 
 ${review.content}
 `;
   
   fs.writeFileSync(filepath, content);
-  return { saved: true, skipped: false, filename };
+  return { saved: true, skipped: false, filename, productsCount: mentionedProducts.length };
 };
 
 /**
@@ -177,6 +244,10 @@ const convertReviews = async () => {
   
   const outputDir = path.join(config.OUTPUT_BASE, 'reviews');
   ensureDir(outputDir);
+  
+  // Load product titles for matching
+  const products = loadProductTitles();
+  console.log(`  Loaded ${products.length} product titles for matching`);
   
   const inputPath = path.join(config.OLD_SITE_PATH, 'pages', 'testimonials.html');
   
@@ -191,21 +262,24 @@ const convertReviews = async () => {
   console.log(`  Found ${reviews.length} reviews with content`);
   
   let saved = 0;
-  let skipped = 0;
+  let withProducts = 0;
   
   for (const review of reviews) {
-    const result = saveReview(review, outputDir);
+    const result = saveReview(review, outputDir, products);
     if (result.saved) {
       saved++;
-      console.log(`  ✓ ${result.filename}`);
-    } else if (result.skipped) {
-      skipped++;
+      if (result.productsCount > 0) {
+        withProducts++;
+        console.log(`  ✓ ${result.filename} (${result.productsCount} product${result.productsCount > 1 ? 's' : ''})`);
+      } else {
+        console.log(`  ✓ ${result.filename}`);
+      }
     }
   }
   
-  console.log(`\n  Saved ${saved} new reviews (${skipped} already existed)`);
+  console.log(`\n  Saved ${saved} reviews (${withProducts} with product links)`);
   
-  return { successful: saved + skipped, failed: 0, total: reviews.length };
+  return { successful: saved, failed: 0, total: reviews.length };
 };
 
 module.exports = {
