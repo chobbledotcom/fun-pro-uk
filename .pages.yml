@@ -93,6 +93,19 @@ content:
           value: "{path}"
           label: "{title}"
       - { name: body, label: Body, type: code, options: { language: markdown } }
+      - name: tabs
+        label: Tabs
+        type: object
+        list: true
+        fields:
+          - { name: title, type: string, label: Title, required: true }
+          - {
+              name: body,
+              label: Body,
+              type: code,
+              options: { language: markdown },
+              required: true,
+            }
       - { name: features, type: string, label: Features, list: true }
       - name: gallery
         type: image
@@ -113,19 +126,6 @@ content:
           - { name: question, type: string, label: Question, required: true }
           - { name: answer, type: string, label: Answer, required: true }
           - { name: order, type: number, label: Order }
-      - name: tabs
-        label: Tabs
-        type: object
-        list: true
-        fields:
-          - { name: title, type: string, label: Title, required: true }
-          - {
-              name: body,
-              label: Body,
-              type: code,
-              options: { language: markdown },
-              required: true,
-            }
 
   - name: categories
     label: Categories
