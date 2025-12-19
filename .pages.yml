@@ -83,15 +83,24 @@ content:
           search: "title"
           value: "{path}"
           label: "{title}"
-      - name: events
-        label: Events
-        type: reference
-        options:
-          collection: events
-          multiple: true
-          search: "title"
-          value: "{path}"
-          label: "{title}"
+      - name: options
+        label: Product Options
+        type: object
+        list: true
+        fields:
+          - { name: name, type: string, label: Option Name, required: true }
+          - {
+              name: max_quantity,
+              type: number,
+              label: Max Quantity,
+              default: 10,
+            }
+          - {
+              name: unit_price,
+              type: number,
+              label: Unit Price (£),
+              required: true,
+            }
       - { name: body, label: Body, type: code, options: { language: markdown } }
       - name: tabs
         label: Tabs
