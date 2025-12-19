@@ -25,19 +25,34 @@ faqs:
   - question: "Do you offer custom holiday themed props and backdrops?"
     answer: "Yes, our Christmas photo booth hire includes a wide selection of holiday themed props. There are also over 1,000 different backdrop options to match the festive theme of your event. We provide everything needed to give your guests an unforgettable Christmas themed experience."
   - question: "Can the photo booth prints be branded with our logo or holiday message?"
-    answer: "Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our branded exhibition game hire. For corporate holiday events, this personal touch ensures your brand or event details are front and centre in every photo. It makes them memorable keepsakes for guests and a fantastic branding opportunity for your company."
+    answer: |
+      Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our [branded exhibition game hire](/categories/branded-exhibition-games/).
+      
+      For corporate holiday events, this personal touch ensures your brand or event details are front and centre in every photo. It makes them memorable keepsakes for guests and a fantastic branding opportunity for your company.
   - question: "What is included in the Christmas photo booth package?"
-    answer: "Our Christmas photo booth package includes unlimited booth visits for the hire period, a variety of holiday themed props, free personalisation options for photos, and a digital copy of all photos taken during the event. We also provide event staff member to staff the photo booth, to ensure everything runs smoothly."
+    answer: |
+      Our Christmas photo booth package includes unlimited booth visits for the hire period, a variety of holiday themed props, free personalisation options for photos, and a digital copy of all photos taken during the event.
+      
+      We also provide event staff member to staff the photo booth, to ensure everything runs smoothly.
   - question: "How much space is needed for the setup?"
-    answer: "We require a space of approximately 2.7m in width, 2.0m in depth, and 2.005m in height. It's important that the booth is placed on a level indoor surface and has at least one UK power socket within reach. Please note that the Christmas photo booth cannot be carried up or down flights of stairs, so a lift is required if the setup location is not on the ground floor."
+    answer: |
+      We require a space of approximately 2.7m in width, 2.0m in depth, and 2.005m in height. It's important that the booth is placed on a level indoor surface and has at least one UK power socket within reach.
+      
+      Please note that the Christmas photo booth cannot be carried up or down flights of stairs, so a lift is required if the setup location is not on the ground floor.
   - question: "Do you provide an attendant for the Christmas party photo booth during the event?"
     answer: "Yes! One of our event staff help with the photo booth hire during the event. They will help your guests, monitor the equipment, and ensure the booth works smoothly throughout your event. Our event staff will provide any assistance needed, so you can focus on enjoying the celebration."
   - question: "How quickly do guests receive their printed photos?"
-    answer: "Guests receive high quality printed photos instantly after their session. The quick turnaround lets attendees immediately enjoy their photos and even take additional visits to the booth if they wish. It's a fantastic way to keep guests entertained and provide them with a memorable takeaway from the event."
+    answer: |
+      Guests receive high quality printed photos instantly after their session. The quick turnaround lets attendees immediately enjoy their photos and even take additional visits to the booth if they wish.
+      
+      It's a fantastic way to keep guests entertained and provide them with a memorable takeaway from the event.
   - question: "Can guests share their photos on social media instantly?"
-    answer: "Yes, our Christmas photo booth hire is equipped with instant sharing capabilities. Guests can upload their photos directly to social media. It's the best way to spread the holiday cheer and share the fun of your event with their friends and followers online. Plus, it also creates a lively social media presence for your brand or event."
+    answer: |
+      Yes, our Christmas photo booth hire is equipped with instant sharing capabilities. Guests can upload their photos directly to social media.
+      
+      It's the best way to spread the holiday cheer and share the fun of your event with their friends and followers online. Plus, it also creates a lively social media presence for your brand or event.
   - question: "How long can we hire the Christmas photo booth for our event?"
-    answer: "We offer flexible game hire options You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
+    answer: "We offer flexible [game hire options](/christmas-entertainment-game-hire/) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
 ---
 
 # CHRISTMAS PHOTO BOOTHS

@@ -29,8 +29,8 @@ const faqPatterns = {
   // HTML: Extract Q&A pairs - Format 2: <h3>Question?</h3><p>Answer</p> (possibly multiple <p> tags)
   // Also handles nested tags like <h3><span><strong>Question?</strong></span></h3>
   // And trailing <br> tags after the question mark
-  // Captures all consecutive <p> tags until the next <h3> or end of section
-  htmlQAPairFormat2: /<h3[^>]*>(?:<[^>]+>)*\s*([\s\S]*?\?)(?:\s*<br\s*\/?>)?\s*(?:<\/[^>]+>)*<\/h3>\s*((?:<p[^>]*>[\s\S]*?<\/p>\s*)+)(?=<h3|<h2|<div|$)/gi,
+  // Captures all consecutive <p> tags until the next <h3>, <h2>, <div>, <style>, or end of section
+  htmlQAPairFormat2: /<h3[^>]*>(?:<[^>]+>)*\s*([\s\S]*?\?)(?:\s*<br\s*\/?>)?\s*(?:<\/[^>]+>)*<\/h3>\s*((?:<p[^>]*>[\s\S]*?<\/p>\s*)+)(?=<h3|<h2|<div|<style|$)/gi,
   
   // Markdown: Find FAQ section - ## heading or bold text with FAQ, content until next ## (not ###) or end
   // Handles optional bold markers (**, ****, etc.) around the heading text

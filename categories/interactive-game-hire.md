@@ -6,6 +6,22 @@ featured: true
 redirect_from:
   - "/category/interactive-game-hire/"
   - "/category/interactive-game-hire/2/lights-out-game/"
+faqs:
+  - question: "Are the games suitable for both indoor and outdoor events?"
+    answer: "We have plenty of versatile interactive games that can be adapted for both indoor and outdoor settings. We have games that can be played on both lawns and floors. Some games require a specific environment, like large indoor spaces or a controlled outdoor area for obstacle courses."
+  - question: "Do you provide setup and takedown services for the games?"
+    answer: "Yes! Our team of professionals will take care of the entire logistics process for you. We'll handle delivery, set-up, and retrieval for each game you hire. We can also provide onsite support if you need it."
+  - question: "How much space is required for interactive games?"
+    answer: |
+      The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](/products/air-hockey-table-hire/) may be more compact.
+      
+      When you're planning your event, consider the dimensions of the games and the available space at your venue. Talk to us if you need help, and we'll be happy to assist.
+  - question: "Are the games suitable for all age groups?"
+    answer: "Yes! Our interactive games cater to a wide range of age groups. We have indoor party games for adults and entertaining party games for the kids."
+  - question: "Can the games be customised with branding or themes?"
+    answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/hire-outdoor-games-for-weddings/), a team building, or a corporate event."
+  - question: "Can I hire the games for corporate events or team-building activities?"
+    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/team-building-ideas/). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
 ---
 
 # **Trusted Interactive Game Hire in the UK**
@@ -102,34 +118,6 @@ Whatever interactive game hire you choose, you can rest assured that you’re wi
 ## **Ready to take your event to the next level?**
 
 Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-
-## **Frequently Asked Questions**
-
-### Are the games suitable for both indoor and outdoor events?
-
-We have plenty of versatile interactive games that can be adapted for both indoor and outdoor settings. We have games that can be played on both lawns and floors. Some games require a specific environment, like large indoor spaces or a controlled outdoor area for obstacle courses.
-
-### Do you provide setup and takedown services for the games?
-
-Yes! Our team of professionals will take care of the entire logistics process for you. We’ll handle delivery, set-up, and retrieval for each game you hire. We can also provide onsite support if you need it.
-
-### How much space is required for interactive games?
-
-The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](/products/air-hockey-table-hire/) may be more compact.
-
-When you’re planning your event, consider the dimensions of the games and the available space at your venue. Talk to us if you need help, and we’ll be happy to assist.
-
-### Are the games suitable for all age groups?
-
-Yes! Our interactive games cater to a wide range of age groups. We have indoor party games for adults and entertaining party games for the kids.
-
-### Can the games be customised with branding or themes?
-
-Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that’s a [wedding](/hire-outdoor-games-for-weddings/), a team building, or a corporate event.
-
-### Can I hire the games for corporate events or team-building activities?
-
-Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/team-building-ideas/). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they’re perfect for corporate settings.
 
 ## **Guaranteed to draw a crowd  
 **

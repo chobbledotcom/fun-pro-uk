@@ -58,7 +58,7 @@ faqs:
   - question: "Can Batak Lite be used outdoors?"
     answer: "No. Batak Lite is only suitable for indoor use."
   - question: "How long does the hire period last?"
-    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, contact us for a free quote."
+    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, [contact us for a free quote](/contact-fun-pro-uk/)."
   - question: "Is Batak Lite easy to transport and set up?"
     answer: "Yes. Thanks to the end to end service offered by Fun Pro, we take care of this for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the set up, and will even collect it when you're finished."
   - question: "What power source is required for the game?"

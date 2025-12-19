@@ -9,6 +9,21 @@ eleventyNavigation:
   key: "Batak"
   parent: "Products"
   order: 5
+faqs:
+  - question: "How much space is needed for Batak setup?"
+    answer: "To allow for enough space around the game for people to move safely, we recommend leaving at least 1 metre space at the front where the Batak is installed."
+  - question: "Can the difficulty level be adjusted?"
+    answer: "Yes, the Batak difficulty levels can be adjusted to suit various age groups and skill levels."
+  - question: "Is Batak suitable for all ages?"
+    answer: "Generally Batak is recommended for players of 8 years and up."
+  - question: "What are the power requirements?"
+    answer: "Batak requires 1 x UK power socket where it can be plugged in safely."
+  - question: "How far in advance should I book?"
+    answer: "Batak games are very popular, so to avoid disappointment, we always recommend placing your order as soon as possible when planning your event."
+  - question: "Can Batak be used indoors and outdoors?"
+    answer: "No. Due to requiring an electricity source, Batak can only be used indoors for safety reasons."
+  - question: "Does the hire include delivery, setup, and collection?"
+    answer: "Our Batak game hire includes set up and collection of your game. However, delivery costs are charged separately. Please see here for a full pricing breakdown or get in touch with us to discuss your requirements."
 ---
 
 # Batak Game Hire - Interactive Games to Make Your Next Event Unforgettable
@@ -100,36 +115,6 @@ Make Batak Pro a powerful marketing tool with full customisation options, includ
 *   Logo placement on the Batak frame
     
 *   Custom-printed backdrops for brand activations
-
-## Frequently Asked Questions
-
-### How much space is needed for Batak setup?
-
-To allow for enough space around the game for people to move safely, we recommend leaving at least 1 metre space at the front where the Batak is installed.
-
-### Can the difficulty level be adjusted?
-
-Yes, the Batak difficulty levels can be adjusted to suit various age groups and skill levels.
-
-### Is Batak suitable for all ages?
-
-Generally Batak is recommended for players of 8 years and up.
-
-### What are the power requirements?
-
-Batak requires 1 x UK power socket where it can be plugged in safely.
-
-### How far in advance should I book?
-
-Batak games are very popular, so to avoid disappointment, we always recommend placing your order as soon as possible when planning your event.
-
-### Can Batak be used indoors and outdoors?
-
-No. Due to requiring an electricity source, Batak can only be used indoors for safety reasons.
-
-### Does the hire include delivery, setup, and collection?
-
-Our Batak game hire includes set up and collection of your game. However, delivery costs are charged separately. Please see here for a full pricing breakdown or get in touch with us to discuss your requirements.
 
 ### Can the game be customised with my company’s branding?
 

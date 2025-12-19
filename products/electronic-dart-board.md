@@ -22,7 +22,7 @@ faqs:
   - question: "How long does setup take?"
     answer: "It usually takes around 15-20 minutes. We arrive early to handle installation and testing before your event starts."
   - question: "Can we brand the dartboard?"
-    answer: "Yes. We can apply custom branding to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
+    answer: "Yes. We can apply [custom branding](/categories/branded-exhibition-games/) to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
   - question: "What if someone's never played darts?"
     answer: "Electronic boards are genuinely beginner-friendly. Automatic scoring removes intimidation, and on-screen instructions guide players through games."
   - question: "Is it suitable for outdoor events?"
@@ -30,7 +30,7 @@ faqs:
   - question: "How many people can play at once?"
     answer: "2-8 players per game can play depending on mode. For larger groups, consider multiple units or tournament formats where players rotate."
   - question: "How far in advance should we book?"
-    answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. Contact us for last-minute availability."
+    answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/) for last-minute availability."
 ---
 
 # Electronic Dart Board

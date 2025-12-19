@@ -9,6 +9,25 @@ eleventyNavigation:
   key: "Fun Fair Stalls"
   parent: "Products"
   order: 7
+faqs:
+  - question: "How can I make sure the food stalls are suitable for my event?"
+    answer: "All our food stalls are adaptable to different event sizes and themes. When booking, let us know your event type, so we can recommend the best stalls to match the atmosphere and guest demographics. Additionally, the stalls can be customised to fit your event's colour scheme or branding for a cohesive look."
+  - question: "Are the fun fair stalls easy to set up and operate?"
+    answer: "Yes, all of our fun fair stalls are designed for quick and simple setup. Most stalls require minimal staffing, and for food stalls, we have professional operators, so you can focus on other aspects of the event."
+  - question: "Can I customise the appearance of my fun fair stalls?"
+    answer: "Absolutely! We offer customisation options to help your fair stalls blend with your event's theme or branding. You can add logos or banners to food carts, have themed decorations for seasonal events, or have colour coordinated stalls to align with your brand or occasion. Customising stalls is a great way to promote your brand or create a memorable experience for guests."
+  - question: "How much space do I need to accommodate fun fair stalls?"
+    answer: "The space required depends on the type of stall. We can advise you on the exact dimensions and space requirements when booking to make sure the stalls fit comfortably at your venue."
+  - question: "How can I ensure food safety and hygiene at my fun fair food stalls?"
+    answer: "Food safety is a top priority. All Fun Pro UK food stalls comply with UK food safety standards. Every stall is regularly cleaned and maintained to ensure hygiene. Our professional staff also hold the necessary food hygiene certifications."
+  - question: "How many servings can a popcorn machine cart provide?"
+    answer: "Our popcorn machine cart provides approximately 200 servings of hot delicious popcorn. This is ideal for large events like village fetes and staff fun days. If you expect higher attendance, multiple carts or larger serving quantities can be arranged."
+  - question: "What's the average size of a fun fair stall?"
+    answer: "Most fun fair stalls are designed to fit within a 3m x 3m area. This provides ample space for both the stall and guests participating in the activity. However, smaller stalls, such as popcorn and candy floss carts, fit comfortably in a 2m x 2m space."
+  - question: "Is the candy floss cart hire suitable for both children and adults?"
+    answer: "Yes! Candy floss is a universal treat loved by guests of all ages. The cart can serve both children and adults. It's perfect for family-friendly events, staff summer parties, and school fun days. The stall can also be themed to appeal to younger guests or styled more elegantly for corporate events."
+  - question: "Do the popcorn and candy floss carts come with an operator?"
+    answer: "Yes, our professional staff will manage the stall to provide smooth service throughout your event. This allows you to focus on your guests while we take care of the treats."
 ---
 
 # Best Fun Fair Stalls in the UK!
@@ -102,44 +121,6 @@ After the event ends, we’ll handle the safe and efficient removal of all the f
 ## Ready to take your event to the next level?
 
 Make every event unforgettable and engaging. [Contact us today](/contact-fun-pro-uk/) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
-
-## Frequently Asked Questions
-
-### How can I make sure the food stalls are suitable for my event?
-
-All our food stalls are adaptable to different event sizes and themes. When booking, let us know your event type, so we can recommend the best stalls to match the atmosphere and guest demographics. Additionally, the stalls can be customised to fit your event’s colour scheme or branding for a cohesive look.
-
-### Are the fun fair stalls easy to set up and operate?
-
-Yes, all of our fun fair stalls are designed for quick and simple setup. Most stalls require minimal staffing, and for food stalls, we have professional operators, so you can focus on other aspects of the event.
-
-### Can I customise the appearance of my fun fair stalls?
-
-Absolutely! We offer customisation options to help your fair stalls blend with your event’s theme or branding. You can add logos or banners to food carts, have themed decorations for seasonal events, or have colour coordinated stalls to align with your brand or occasion. Customising stalls is a great way to promote your brand or create a memorable experience for guests.
-
-### How much space do I need to accommodate fun fair stalls?
-
-The space required depends on the type of stall. We can advise you on the exact dimensions and space requirements when booking to make sure the stalls fit comfortably at your venue.
-
-### How can I ensure food safety and hygiene at my fun fair food stalls?
-
-Food safety is a top priority. All Fun Pro UK food stalls comply with UK food safety standards. Every stall is regularly cleaned and maintained to ensure hygiene. Our professional staff also hold the necessary food hygiene certifications.
-
-### How many servings can a popcorn machine cart provide?
-
-Our popcorn machine cart provides approximately 200 servings of hot delicious popcorn. This is ideal for large events like village fetes and staff fun days. If you expect higher attendance, multiple carts or larger serving quantities can be arranged.
-
-### What’s the average size of a fun fair stall?
-
-Most fun fair stalls are designed to fit within a 3m x 3m area. This provides ample space for both the stall and guests participating in the activity. However, smaller stalls, such as popcorn and candy floss carts, fit comfortably in a 2m x 2m space.
-
-### Is the candy floss cart hire suitable for both children and adults?
-
-Yes! Candy floss is a universal treat loved by guests of all ages. The cart can serve both children and adults. It's perfect for family-friendly events, staff summer parties, and school fun days. The stall can also be themed to appeal to younger guests or styled more elegantly for corporate events.
-
-### Do the popcorn and candy floss carts come with an operator?
-
-Yes, our professional staff will manage the stall to provide smooth service throughout your event. This allows you to focus on your guests while we take care of the treats.
 
 ## What our customers are saying…
 

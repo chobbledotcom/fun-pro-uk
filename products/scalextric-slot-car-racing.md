@@ -53,7 +53,10 @@ faqs:
   - question: "How much space is required for the Scalextric slot car racing setup?"
     answer: "The space you need for a Scalextric slot car racing setup depends on the size of the track and the number of cars. Our basic setup requires a space of 2,000mm Width x 2,500mm Length. This setup lets your guests stand in around the game."
   - question: "Can the track or cars be customised for my event or stand?"
-    answer: "Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for corporate entertainment, we can customise the game rental with your company colours and logos. Whether you're hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event."
+    answer: |
+      Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/categories/corporate-entertainment/), we can customise the game rental with your company colours and logos.
+      
+      Whether you're hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event.
   - question: "Do you provide staff to operate the equipment?"
     answer: "We can provide staff onsite upon your request. This will be included in your quotation. Our team of professionals can help operate the Scalextric slot car racing rental for you, and ensure that the game works smoothly."
   - question: "What is included in the Scalextric sets for hire?"

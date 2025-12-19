@@ -49,7 +49,7 @@ faqs:
   - question: "Can Batak Pro be used outdoors?"
     answer: "No. For safety reasons, Batak Pro can only be used indoors."
   - question: "How long does the hire period last?"
-    answer: "Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please get in touch with us for a free quote."
+    answer: "Our customers typically hire Batak Pro anywhere from one day up to a week. However, if you have a different requirement, please [get in touch with us](/contact-fun-pro-uk/) for a free quote."
   - question: "What power source is required for Batak Pro?"
     answer: "Batak Pro requires a single UK plug."
   - question: "Can I hire multiple Batak Pro units for larger events?"

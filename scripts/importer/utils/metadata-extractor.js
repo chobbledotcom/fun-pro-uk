@@ -1,13 +1,20 @@
 const { patterns, faqPatterns, extract } = require('./html-patterns');
+const { htmlToMarkdown } = require('./pandoc-converter');
 
 /**
- * Clean HTML entities and tags from text
+ * Clean FAQ text - for questions, strip HTML; for answers, convert to markdown
  * @param {string} text - Text to clean
- * @param {boolean} isAnswer - Whether this is an answer (applies additional cleaning)
+ * @param {boolean} isAnswer - Whether this is an answer (uses turndown for markdown conversion)
  * @returns {string} Cleaned text
  */
 const cleanFaqText = (text, isAnswer = false) => {
-  let cleaned = text
+  if (isAnswer) {
+    // Use turndown to properly convert HTML to markdown
+    return htmlToMarkdown(text);
+  }
+  
+  // For questions, just decode entities and strip tags
+  return text
     .replace(/&ndash;/g, '–')
     .replace(/&mdash;/g, '—')
     .replace(/&rsquo;/g, "'")
@@ -17,16 +24,7 @@ const cleanFaqText = (text, isAnswer = false) => {
     .replace(/&amp;/g, '&')
     .replace(/&nbsp;/g, ' ')
     .replace(/&pound;/g, '£')
-    .replace(/&hellip;/g, '...');
-  
-  if (isAnswer) {
-    cleaned = cleaned
-      .replace(/<br\s*\/?>/gi, ' ')
-      .replace(/<strong[^>]*>(.*?)<\/strong>/gi, '$1')
-      .replace(/<span[^>]*>(.*?)<\/span>/gi, '$1');
-  }
-  
-  return cleaned
+    .replace(/&hellip;/g, '...')
     .replace(/<[^>]+>/g, '')
     .replace(/\s+/g, ' ')
     .trim();

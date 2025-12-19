@@ -32,21 +32,21 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ad94d78d0415483d74811f294d4c6ab"
 faqs:
   - question: "How much space is required for Batak Pro setup?"
-    answer: "To give your Batak Pro plenty of room to shine (and your players space to show off their festive reflexes!), you'll need a minimum of 2 metres on either side and 2.1 metres at the front. Perfect for a Christmas party hall or office event space."
+    answer: "To give your Batak Pro plenty of room to shine (and your players space to show off their festive reflexes!), you'll need a minimum of **2 metres on either side** and **2.1 metres at the front**. Perfect for a Christmas party hall or office event space."
   - question: "Is Batak Pro suitable for both beginners and professionals?"
     answer: "Absolutely! Whether you're a first-time player or a seasoned pro, Batak Pro is easy to learn and heaps of fun. It's a game that brings everyone together — ideal for festive team challenges, Christmas competitions, or just spreading a little holiday joy."
   - question: "Can Batak Pro be used outdoors?"
-    answer: "Sorry, no snowball fights here — Batak Pro can only be used indoors for safety reasons. It's the perfect indoor activity to keep spirits bright and energy high, no matter the weather outside! ??"
+    answer: "Sorry, no snowball fights here — **Batak Pro can only be used indoors** for safety reasons. It's the perfect indoor activity to keep spirits bright and energy high, no matter the weather outside! ??"
   - question: "How long does the hire period last?"
-    answer: "Most of our customers hire Batak Pro for one day to a week, perfect for a Christmas week of fun or a festive corporate event. Need it for longer? Just get in touch and we'll tailor a quote for your merry occasion. ??"
+    answer: "Most of our customers hire Batak Pro for **one day to a week**, perfect for a Christmas week of fun or a festive corporate event. Need it for longer? Just get in touch and we'll tailor a quote for your merry occasion. ??"
   - question: "What power source is required for Batak Pro?"
-    answer: "Just one standard UK plug is all it takes to power up the festive lights and get the Batak Pro buzzing with energy! ?"
+    answer: "Just one **standard UK plug** is all it takes to power up the festive lights and get the Batak Pro buzzing with energy! ?"
   - question: "Can I hire multiple Batak Pro units for larger events?"
-    answer: "Yes! If your Christmas event is set to be a big one — from company parties to holiday exhibitions — we can provide multiple Batak Pro setups to keep everyone entertained."
+    answer: "Yes! If your Christmas event is set to be a big one — from company parties to holiday exhibitions — we can provide **multiple Batak Pro setups** to keep everyone entertained."
   - question: "Is Batak Pro customisable with branding options?"
-    answer: "Of course! Add your company logo, festive colours, or even a Christmas message. Our custom branding options help make Batak Pro a perfect fit for your event theme or seasonal celebration. ??"
+    answer: "Of course! Add your **company logo**, **festive colours**, or even a **Christmas message**. Our custom branding options help make Batak Pro a perfect fit for your event theme or seasonal celebration. ??"
   - question: "How soon should I book Batak Pro for my Christmas event?"
-    answer: "Batak Pro is as popular as mince pies at a holiday party! ?? To avoid disappointment, book early to secure your date and let the festive fun begin."
+    answer: "Batak Pro is as popular as mince pies at a holiday party! ?? To avoid disappointment, **book early** to secure your date and let the festive fun begin."
 ---
 
 # Christmas Batak Pro
