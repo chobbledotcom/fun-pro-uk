@@ -1,6 +1,7 @@
 ---
 title: "Sas Guests At The Chequered Flag – Event Game Hire"
 date: 2018-08-29
+author: "team/colin.md"
 meta_title: "Sas Guests At The Chequered Flag – Event Game Hire"
 meta_description: "Sas Guests At The Chequered Flag – Event Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

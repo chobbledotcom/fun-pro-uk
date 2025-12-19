@@ -138,6 +138,7 @@ const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, local
   let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
+author: "team/colin.md"
 meta_title: "${metadata.title || ''}"
 meta_description: "${metadata.meta_description || ''}"`;
 

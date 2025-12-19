@@ -1,6 +1,7 @@
 ---
 title: "Fun Pro UK"
 date: 2024-06-04
+author: "team/colin.md"
 meta_title: "Fun Pro UK's Exciting May 2024 Event Highlights | News & Blogs"
 meta_description: "Discover Fun Pro UK&#39;s dynamic May 2024 activities, featuring custom-branded games like Whack A Mole at the NEC Birmingham and more across the UK."
 redirect_from:

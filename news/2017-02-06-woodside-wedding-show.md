@@ -1,6 +1,7 @@
 ---
 title: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK"
 date: 2017-02-06
+author: "team/colin.md"
 meta_title: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK"
 meta_description: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

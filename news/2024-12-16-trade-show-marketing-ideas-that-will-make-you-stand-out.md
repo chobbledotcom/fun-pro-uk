@@ -1,6 +1,7 @@
 ---
 title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"
 date: 2024-12-16
+author: "team/colin.md"
 meta_title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"
 meta_description: "Explore effective trade show marketing ideas to drive engagement and leads. We offer interactive solutions to help your booth stand out and boost event success."
 redirect_from:

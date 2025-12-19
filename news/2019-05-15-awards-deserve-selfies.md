@@ -1,6 +1,7 @@
 ---
 title: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK"
 date: 2019-05-15
+author: "team/colin.md"
 meta_title: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK"
 meta_description: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

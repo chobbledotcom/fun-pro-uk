@@ -1,6 +1,7 @@
 ---
 title: "Team Bonding Activities To Bring Your Team Together"
 date: 2024-12-05
+author: "team/colin.md"
 meta_title: "Team Bonding Activities To Bring Your Team Together"
 meta_description: "Make team bonding fun and memorable with activities that bring your team closer. Explore creative ideas for boosting morale and collaboration with Fun Pro UK."
 redirect_from:
