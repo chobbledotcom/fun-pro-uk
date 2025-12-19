@@ -1,6 +1,7 @@
 ---
 title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"
 date: 2019-06-05
+author: "team/colin.md"
 meta_title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"
 meta_description: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

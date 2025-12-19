@@ -1,6 +1,7 @@
 ---
 title: "Why Choose Manchester for Brand Activation Events"
 date: 2025-09-12
+author: "team/colin.md"
 meta_title: "Why Choose Manchester for Brand Activation Events"
 meta_description: "Discover why Manchester offers better value, engaged audiences and diverse venues for brand activation event hire. Expert guide for corporate event planners."
 redirect_from:

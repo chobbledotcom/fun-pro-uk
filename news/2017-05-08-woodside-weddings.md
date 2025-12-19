@@ -1,6 +1,7 @@
 ---
 title: "Woodside Weddings – Entertainment Hire For Events"
 date: 2017-05-08
+author: "team/colin.md"
 meta_title: "Woodside Weddings – Entertainment Hire For Events"
 meta_description: "Woodside Weddings – Entertainment Hire For Events - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 title: "Exhibition Game Hire| Prize Crane, Batak & Car Simulators"
 date: 2025-05-02
+author: "team/colin.md"
 meta_title: "Exhibition Game Hire| Prize Crane, Batak & Car Simulators"
 meta_description: "Boost your exhibition stand with interactive game hire. Our guide shows how games boost engagement, generate leads and make your brand unforgettable"
 redirect_from:

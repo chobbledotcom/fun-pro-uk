@@ -1,6 +1,7 @@
 ---
 title: "How to Choose the Perfect Photo Booth for Your Event"
 date: 2025-01-28
+author: "team/colin.md"
 meta_title: "How to Choose the Perfect Photo Booth for Your Event"
 meta_description: "If you’re considering a photo booth for your event, knowing how to choose the perfect one can make all the difference. Let’s explore the best options today!"
 redirect_from:

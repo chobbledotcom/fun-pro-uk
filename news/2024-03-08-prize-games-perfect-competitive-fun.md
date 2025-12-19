@@ -1,6 +1,7 @@
 ---
 title: "Prize Games for Events | Branded Party Supplies | News & Blog"
 date: 2024-03-08
+author: "team/colin.md"
 meta_title: "Prize Games for Events | Branded Party Supplies | News & Blog"
 meta_description: "Discover engaging Prize Games for your next event with Fun Pro UK. Perfect for exhibitions, corporate functions, and parties nationwide. Book with the best!"
 redirect_from:

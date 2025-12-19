@@ -1,6 +1,7 @@
 ---
 title: "Fun Employee Appreciation Day Ideas that Your Team Will Love"
 date: 2025-01-24
+author: "team/colin.md"
 meta_title: "Fun Employee Appreciation Day Ideas that Your Team Will Love"
 meta_description: "We will be covering some fun and exciting ideas you can use to celebrate your team. Let us help you host an unforgettable Employee Appreciation Day."
 redirect_from:

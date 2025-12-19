@@ -1,6 +1,7 @@
 ---
 title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"
 date: 2018-11-30
+author: "team/colin.md"
 meta_title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"
 meta_description: "Make your Christmas party unforgettable with our Magic Selfie Mirror! Add fun and festive memories to your celebration with the perfect party entertainment."
 redirect_from:
