@@ -130,6 +130,8 @@ const { convertSingle, convertBatch } = createConverter({
     const oldSitePath = context.oldSiteRelativePath || null;
     // Pass FAQs extracted from old site
     const faqs = extracted.faqs || [];
+    // Pass body content to be included as a tab
+    const bodyContent = extracted.bodyContent || '';
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -140,7 +142,8 @@ const { convertSingle, convertBatch } = createConverter({
       extracted.productHeading,
       events,
       oldSitePath,
-      faqs
+      faqs,
+      bodyContent
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {
@@ -174,7 +177,11 @@ const { convertSingle, convertBatch } = createConverter({
       process.stdout.write(` (${extracted.cloudinaryGallery.length} imgs)`);
     }
     
-    return content;
+    // Store the body content for inclusion as a tab in frontmatter
+    extracted.bodyContent = content;
+    
+    // Return empty string - body content is now in the tabs frontmatter
+    return '';
   },
   afterConvert: async (extracted, slug, context) => {
     const { reviewsMap } = context;

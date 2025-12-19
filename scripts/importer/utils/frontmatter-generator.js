@@ -157,6 +157,33 @@ meta_description: "${metadata.meta_description || ''}"`;
 };
 
 /**
+ * Format tabs as YAML for frontmatter
+ * Uses literal block scalar (|) for multi-line body content
+ * @param {Array<Object>} tabs - Tabs array with title and body properties
+ * @returns {string} YAML formatted tabs string (without leading newline)
+ */
+const formatTabsYaml = (tabs) => {
+  if (!tabs || tabs.length === 0) return '';
+  
+  let yaml = 'tabs:';
+  for (const tab of tabs) {
+    const title = (tab.title || '').replace(/"/g, '\\"');
+    const body = tab.body || '';
+    
+    yaml += `\n  - title: "${title}"`;
+    
+    // Always use literal block scalar for body content to preserve formatting
+    // Indent each line by 4 spaces (2 for list item, 2 for body property content)
+    const indentedBody = body
+      .split('\n')
+      .map(line => '      ' + line)
+      .join('\n');
+    yaml += `\n    body: |\n${indentedBody}`;
+  }
+  return yaml;
+};
+
+/**
  * Generate frontmatter for product content
  * @param {Object} metadata - Extracted metadata
  * @param {string} slug - Product slug
@@ -168,9 +195,10 @@ meta_description: "${metadata.meta_description || ''}"`;
  * @param {string[]} events - Product events (array of event paths)
  * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
  * @param {Array<Object>} faqs - FAQs array with question and answer properties
+ * @param {string} bodyContent - Markdown body content to include as a tab
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null, faqs = []) => {
+const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null, faqs = [], bodyContent = '') => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
   const categoriesYaml = categoryArray.length > 0
@@ -220,6 +248,16 @@ features: []`;
   const faqsYaml = formatFaqsYaml(faqs);
   if (faqsYaml) {
     frontmatter += '\n' + faqsYaml;
+  }
+
+  // Add body content as a tab with title "Why <Product Name>?"
+  if (bodyContent && bodyContent.trim()) {
+    const tabTitle = `Why ${productName}?`;
+    const tabs = [{ title: tabTitle, body: bodyContent.trim() }];
+    const tabsYaml = formatTabsYaml(tabs);
+    if (tabsYaml) {
+      frontmatter += '\n' + tabsYaml;
+    }
   }
 
   frontmatter += '\n---';

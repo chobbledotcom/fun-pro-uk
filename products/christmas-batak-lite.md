@@ -53,137 +53,140 @@ faqs:
     answer: "Yes! Add your **logo**, **brand colours**, or even a **festive Christmas design** to make the game truly yours. Perfect for **holiday brand activations**, **corporate parties**, or **seasonal campaigns** that spread cheer while promoting your message."
   - question: "How soon should I book Batak Lite for my Christmas event?"
     answer: "Batak Lite is as popular as mince pies in December — so we always recommend **booking early** to secure your date! Once you've set your festive plans, let us know, and we'll make sure the fun is reserved just for you."
+tabs:
+  - title: "Why Christmas Batak Lite?"
+    body: |
+      # Christmas Batak Lite
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      🎅 **Batak Lite – The Perfect Interactive Game for Christmas Parties & Festive Corporate Events** 🎁
+      
+      Looking to sprinkle some excitement and friendly competition into your **Christmas party**, **winter exhibition**, or **seasonal product launch**? Batak Lite is the perfect festive game to bring colleagues, clients, and guests together for some fast-paced fun that’s guaranteed to spread Christmas cheer!
+      
+      Whether it’s your company’s end-of-year celebration or a festive brand activation, **Batak Lite hire** brings laughter, energy, and a touch of sparkle to any event.
+      
+      **Hire Prices:**
+      
+      **Hire from**
+      
+      **£445**\+ vat**
+      
+      When you hire Batak Lite from Fun Pro, the following is included:
+      
+      UK-wide delivery and collection\*
+      
+      Installation and set up by our trained team
+      
+      Customisation to match your brand
+      
+      \*Delivery fees may apply
+      
+      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## 🎄 **What Is Batak Lite?**
+      
+      Batak Lite is the compact and portable version of our full-sized Batak Pro — ideal for venues big or small! With its **bright, illuminated targets** and **fast-paced gameplay**, players race against the clock to hit as many lights as they can.
+      
+      It’s a fun and festive test of **reflexes**, **hand-eye coordination**, and **holiday stamina** that keeps both players and spectators entertained. Perfect for **Christmas team-building days**, **office parties**, **winter exhibitions**, and more — Batak Lite always gets people laughing, cheering, and connecting.
+      
+      ## 🎅 **Why Choose Batak Lite for Your Christmas Event?**
+      
+      At **Fun Pro**, we bring the joy of interactive entertainment to festive events across the UK. Here’s why Batak Lite makes the perfect addition to your Christmas celebration:
+      
+      ⭐ **Festive Engagement** – Eye-catching lights and fast action get everyone in the Christmas spirit.  
+      🎁 **Friendly Competition** – Ideal for team challenges, office tournaments, or party entertainment.  
+      🎄 **Brand Customisation** – Add your logo, festive colours, or a Christmas message to match your theme.  
+      ❄️ **Hassle-Free Hire** – We deliver, set up, and take care of everything — so you can focus on the fun.  
+      🎅 **Perfect for Any Occasion** – From winter exhibitions and Christmas markets to end-of-year corporate galas.
+      
+      ## ✨ **What’s Included in Your Batak Lite Hire from Fun Pro?**
+      
+      We make bringing festive fun to your event easy! When you hire Batak Lite from **Fun Pro**, you’ll get everything you need for a smooth and sparkling experience:
+      
+      🎄 Full setup and pack-down by our friendly team  
+      🎁 All equipment ready to go — just plug in and play  
+      ⭐ Support throughout your event if needed
+      
+      Let’s make this Christmas one to remember — with lights, laughter, and a little bit of competitive cheer!
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Specification**
+      
+      **Equipment size**
+      
+      1200mm Width x 950mm Depth 1800 Height
+      
+      **Space required**
+      
+      1400mm Width x 1600mm Depth, Allowing for the person to stand in front
+      
+      **Electric requirements**
+      
+      1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)
+      
+      **Suitability**
+      
+      Indoor use only/Level surface
+      
+      **Access**
+      
+      Minimum door width 0.6m
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ## **Brands That Have Celebrated With Us**
+      
+      We’ve had the pleasure of bringing festive fun and interactive excitement to some of the UK’s biggest brands, including:
+      
+      Virgin Trains  
+      Bristol Street Motors  
+      BT  
+      …and many more merry names!
+      
+      Want to make your event even more magical? Pair Batak Lite with one of our other **interactive festive games** — perfect for keeping spirits bright all season long!
+      
+      ## Popular items:
+      
+      *   [Retro arcade machine](/products/retro-arcade-games/)
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   [Dance Machine](/products/dance-machine/)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
+      *   [Lights Out](/categories/interactive-game-hire/)
+      
+      ## Batak Lite Branding and Customisation Options
+      
+      Our Batak Lite hire comes with the option to have your game fully customised with your brand logo, colours, or even the event branding if you prefer. This allows you to make the interactive games you choose fully represent your brand and create a positive experience for your customers and target audience.
+      
+      **Branding Prices from:**
+      
+      In-house branding available. We print, apply, and remove them after each event.
+      
+      (One time use only)
+      
+      **Branded back panel**
+      
+      **£145**\+ vat**
+      
+      **8 x Branded Button Surrounds**
+      
+      **£**125** + vat**
+      
+      ## What our customers are saying…
+      
+      [Load More Reviews](/testimonials/#content)
+      
+      Happy customers we have worked along side
 ---
 
-# Christmas Batak Lite
-
-"Please Note Leader Boards are not included unless requested"
-
-🎅 **Batak Lite – The Perfect Interactive Game for Christmas Parties & Festive Corporate Events** 🎁
-
-Looking to sprinkle some excitement and friendly competition into your **Christmas party**, **winter exhibition**, or **seasonal product launch**? Batak Lite is the perfect festive game to bring colleagues, clients, and guests together for some fast-paced fun that’s guaranteed to spread Christmas cheer!
-
-Whether it’s your company’s end-of-year celebration or a festive brand activation, **Batak Lite hire** brings laughter, energy, and a touch of sparkle to any event.
-
-**Hire Prices:**
-
-**Hire from**
-
-**£445**\+ vat**
-
-When you hire Batak Lite from Fun Pro, the following is included:
-
-UK-wide delivery and collection\*
-
-Installation and set up by our trained team
-
-Customisation to match your brand
-
-\*Delivery fees may apply
-
-**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
-## 🎄 **What Is Batak Lite?**
-
-Batak Lite is the compact and portable version of our full-sized Batak Pro — ideal for venues big or small! With its **bright, illuminated targets** and **fast-paced gameplay**, players race against the clock to hit as many lights as they can.
-
-It’s a fun and festive test of **reflexes**, **hand-eye coordination**, and **holiday stamina** that keeps both players and spectators entertained. Perfect for **Christmas team-building days**, **office parties**, **winter exhibitions**, and more — Batak Lite always gets people laughing, cheering, and connecting.
-
-## 🎅 **Why Choose Batak Lite for Your Christmas Event?**
-
-At **Fun Pro**, we bring the joy of interactive entertainment to festive events across the UK. Here’s why Batak Lite makes the perfect addition to your Christmas celebration:
-
-⭐ **Festive Engagement** – Eye-catching lights and fast action get everyone in the Christmas spirit.  
-🎁 **Friendly Competition** – Ideal for team challenges, office tournaments, or party entertainment.  
-🎄 **Brand Customisation** – Add your logo, festive colours, or a Christmas message to match your theme.  
-❄️ **Hassle-Free Hire** – We deliver, set up, and take care of everything — so you can focus on the fun.  
-🎅 **Perfect for Any Occasion** – From winter exhibitions and Christmas markets to end-of-year corporate galas.
-
-## ✨ **What’s Included in Your Batak Lite Hire from Fun Pro?**
-
-We make bringing festive fun to your event easy! When you hire Batak Lite from **Fun Pro**, you’ll get everything you need for a smooth and sparkling experience:
-
-🎄 Full setup and pack-down by our friendly team  
-🎁 All equipment ready to go — just plug in and play  
-⭐ Support throughout your event if needed
-
-Let’s make this Christmas one to remember — with lights, laughter, and a little bit of competitive cheer!
-
-## As a nationwide hire company, we can provide everything you need for your party or event.
-
-We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-
-**We are able to cover the whole of the UK on request.**
-
-Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-
-**Specification**
-
-**Equipment size**
-
-1200mm Width x 950mm Depth 1800 Height
-
-**Space required**
-
-1400mm Width x 1600mm Depth, Allowing for the person to stand in front
-
-**Electric requirements**
-
-1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)
-
-**Suitability**
-
-Indoor use only/Level surface
-
-**Access**
-
-Minimum door width 0.6m
-
-**Extra information**
-
-Can not be carried up or down flights of stairs.
-
-Lift required
-
-## **Brands That Have Celebrated With Us**
-
-We’ve had the pleasure of bringing festive fun and interactive excitement to some of the UK’s biggest brands, including:
-
-Virgin Trains  
-Bristol Street Motors  
-BT  
-…and many more merry names!
-
-Want to make your event even more magical? Pair Batak Lite with one of our other **interactive festive games** — perfect for keeping spirits bright all season long!
-
-## Popular items:
-
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Batak Pro](/products/batak-pro/#content)
-*   [Dance Machine](/products/dance-machine/)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/categories/interactive-game-hire/)
-
-## Batak Lite Branding and Customisation Options
-
-Our Batak Lite hire comes with the option to have your game fully customised with your brand logo, colours, or even the event branding if you prefer. This allows you to make the interactive games you choose fully represent your brand and create a positive experience for your customers and target audience.
-
-**Branding Prices from:**
-
-In-house branding available. We print, apply, and remove them after each event.
-
-(One time use only)
-
-**Branded back panel**
-
-**£145**\+ vat**
-
-**8 x Branded Button Surrounds**
-
-**£**125** + vat**
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side
