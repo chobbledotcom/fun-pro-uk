@@ -14,6 +14,15 @@ gallery:
   - "/images/products/target-ring-toss-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
+faqs:
+  - question: "How long does it take to set up the Target Ring Toss game?"
+    answer: "Our professional team handles the complete set-up process, which typically takes 20-30 minutes. We arrive with plenty of time before your event begins to ensure everything is prepared for your guests to enjoy. The game can be set up both indoors and outdoors, depending on your venue requirements."
+  - question: "Can I customise the Target Ring Toss game with my company branding?"
+    answer: "Yes! We offer customisation options that allow you to incorporate your company's logo, slogans, or specific design elements onto the game stand. This is particularly popular for corporate events and product launches, providing excellent brand visibility whilst guests enjoy the game."
+  - question: "Do I need to provide any additional equipment or staff?"
+    answer: "No, we provide everything needed for the Target Ring Toss game, including all rings and equipment. We also offer the option of a trained attendant for up to 4 hours to organise the game and ensure smooth operation. If you don't require an attendant, we'll provide easy-to-follow game instructions."
+  - question: "What is your coverage area for delivery?"
+    answer: "We deliver to our customers all over the UK."
 ---
 
 # Target Ring Toss Hire
@@ -107,24 +116,6 @@ Once the event is over, we’ll return to collect the Target Ring Toss game, lea
 ## Ready to Book Our Target Ring Toss Hire?
 
 Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
-
-## Frequently Asked Questions
-
-### How long does it take to set up the Target Ring Toss game?
-
-Our professional team handles the complete set-up process, which typically takes 20-30 minutes. We arrive with plenty of time before your event begins to ensure everything is prepared for your guests to enjoy. The game can be set up both indoors and outdoors, depending on your venue requirements.
-
-### Can I customise the Target Ring Toss game with my company branding?
-
-Yes! We offer customisation options that allow you to incorporate your company's logo, slogans, or specific design elements onto the game stand. This is particularly popular for corporate events and product launches, providing excellent brand visibility whilst guests enjoy the game.
-
-### Do I need to provide any additional equipment or staff?
-
-No, we provide everything needed for the Target Ring Toss game, including all rings and equipment. We also offer the option of a trained attendant for up to 4 hours to organise the game and ensure smooth operation. If you don't require an attendant, we'll provide easy-to-follow game instructions.
-
-### What is your coverage area for delivery?
-
-We deliver to our customers all over the UK.
 
 ### What happens if there's poor weather on the day of my outdoor event?
 

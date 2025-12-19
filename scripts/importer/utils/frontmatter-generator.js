@@ -132,9 +132,10 @@ meta_description: "${metadata.meta_description || ''}"`;
  * @param {string} productHeading - The H1 heading from product content
  * @param {string[]} events - Product events (array of event paths)
  * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
+ * @param {Array<Object>} faqs - FAQs array with question and answer properties
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null) => {
+const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null, faqs = []) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
   const categoriesYaml = categoryArray.length > 0
@@ -178,6 +179,18 @@ features: []`;
   if (images?.gallery_cloudinary && images.gallery_cloudinary.length > 0) {
     const galleryYaml = images.gallery_cloudinary.map(img => `  - "${img}"`).join('\n');
     frontmatter += `\ngallery_cloudinary:\n${galleryYaml}`;
+  }
+
+  // Add FAQs if present
+  if (faqs && faqs.length > 0) {
+    frontmatter += '\nfaqs:';
+    for (const faq of faqs) {
+      // Escape quotes in question and answer
+      const q = faq.question.replace(/"/g, '\\"');
+      const a = faq.answer.replace(/"/g, '\\"');
+      frontmatter += `\n  - question: "${q}"`;
+      frontmatter += `\n    answer: "${a}"`;
+    }
   }
 
   frontmatter += '\n---';

@@ -15,6 +15,13 @@ gallery:
   - "/images/products/twin-axe-throwing-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
+faqs:
+  - question: "Is Twin Axe Throwing suitable for all ages?"
+    answer: "While the soft foam axes make the game safe for most participants, we recommend a minimum age of 12 years old. Adult supervision is required for all players under 18."
+  - question: "How long does it take to set up and take down?"
+    answer: "Setup typically takes around 30 minutes, with a similar timeframe for breakdown."
+  - question: "Do you provide all necessary equipment?"
+    answer: "Yes, we supply everything needed for the game, including the inflatable unit, and foam axes."
 ---
 
 # Twin Axe throwing
@@ -112,20 +119,6 @@ Minimum door width 0.6m
 **Extra information**
 
 Can not be carried up or down flights of stairs.
-
-## Frequently Asked Questions
-
-### Is Twin Axe Throwing suitable for all ages?
-
-While the soft foam axes make the game safe for most participants, we recommend a minimum age of 12 years old. Adult supervision is required for all players under 18.
-
-### How long does it take to set up and take down?
-
-Setup typically takes around 30 minutes, with a similar timeframe for breakdown.
-
-### Do you provide all necessary equipment?
-
-Yes, we supply everything needed for the game, including the inflatable unit, and foam axes.
 
 ## Other Interactive Games
 

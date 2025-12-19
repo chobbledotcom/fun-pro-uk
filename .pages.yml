@@ -154,7 +154,6 @@ content:
         fields:
           - { name: question, type: string, label: Question, required: true }
           - { name: answer, type: string, label: Answer, required: true }
-          - { name: order, type: number, label: Order }
 
   - name: categories
     label: Categories

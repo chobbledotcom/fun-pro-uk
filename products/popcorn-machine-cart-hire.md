@@ -14,6 +14,15 @@ gallery:
   - "/images/products/popcorn-machine-cart-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e"
+faqs:
+  - question: "How many servings of popcorn are included with the hire?"
+    answer: "Our popcorn machine cart hire includes approximately 200 servings of freshly made popcorn. This generous portion is perfect for keeping guests satisfied at medium to large scale events. If you're expecting a higher guest count or need additional servings, we can arrange to provide more. Just let us know during the booking process, so we can tailor our service to fit your needs."
+  - question: "Is a trained staff member provided to serve popcorn during the event?"
+    answer: "Yes! A professional and friendly team member will manage the popcorn cart for up to 4 hours. They handle the cart and serve guests, so you can focus on enjoying the event."
+  - question: "Can the popcorn cart be branded with my company's logo or event theme?"
+    answer: "Absolutely! We offer bespoke branding options to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees."
+  - question: "How long can the popcorn cart be hired for?"
+    answer: "The standard hire period is up to 4 hours, but we understand that some events may require more time. If you need the cart for a longer duration, we can arrange an extended hire period to fit your schedule. Simply let us know your requirements, and we'll work with you to make sure the popcorn keeps flowing throughout your event."
 ---
 
 # Popcorn Machine Cart Hire
@@ -113,26 +122,6 @@ When the event is over, we’ll return to collect the popcorn machine cart. We�
 ## Ready to take your event to the next level?
 
 Don't miss the opportunity to upgrade your event with our Popcorn Machine Cart Hire. Reach out to us today to book the popcorn machine cart for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-
-## Frequently Asked Questions
-
-### How many servings of popcorn are included with the hire?
-
-Our popcorn machine cart hire includes approximately 200 servings of freshly made popcorn. This generous portion is perfect for keeping guests satisfied at medium to large scale events.
-
-If you're expecting a higher guest count or need additional servings, we can arrange to provide more. Just let us know during the booking process, so we can tailor our service to fit your needs.
-
-### Is a trained staff member provided to serve popcorn during the event?
-
-Yes! A professional and friendly team member will manage the popcorn cart for up to 4 hours. They handle the cart and serve guests, so you can focus on enjoying the event.
-
-### Can the popcorn cart be branded with my company’s logo or event theme?
-
-Absolutely! We offer [bespoke branding options](/categories/branded-exhibition-games/) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees.
-
-### How long can the popcorn cart be hired for?
-
-The standard hire period is up to 4 hours, but we understand that some events may require more time. If you need the cart for a longer duration, we can arrange an extended hire period to fit your schedule. Simply let us know your requirements, and we’ll work with you to make sure the popcorn keeps flowing throughout your event.
 
 ### Is the popcorn cart suitable for both indoor and outdoor events?
 

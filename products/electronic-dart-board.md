@@ -18,6 +18,19 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e589094ec1216137052188f2fade887"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7583188346656eeb69819340c82d7c95"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c7fc643c4a7c8f49a59224a9bf7e3f64"
+faqs:
+  - question: "How long does setup take?"
+    answer: "It usually takes around 15-20 minutes. We arrive early to handle installation and testing before your event starts."
+  - question: "Can we brand the dartboard?"
+    answer: "Yes. We can apply custom branding to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
+  - question: "What if someone's never played darts?"
+    answer: "Electronic boards are genuinely beginner-friendly. Automatic scoring removes intimidation, and on-screen instructions guide players through games."
+  - question: "Is it suitable for outdoor events?"
+    answer: "Although designed for indoor use, they work in covered outdoor spaces (marquees) if fully protected from rain, but not open-air events."
+  - question: "How many people can play at once?"
+    answer: "2-8 players per game can play depending on mode. For larger groups, consider multiple units or tournament formats where players rotate."
+  - question: "How far in advance should we book?"
+    answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. Contact us for last-minute availability."
 ---
 
 # Electronic Dart Board
@@ -105,32 +118,6 @@ For most corporate contexts, electronic boards are the practical choice – they
 Soft tip darts have plastic points that press against electronic sensors when they hit the board. The board instantly calculates scores and displays them digitally. Games like 501, Cricket, and Around the Clock are pre-programmed with on-screen instructions.
 
 The board accommodates 2-8 players depending on game mode, manages turn rotation automatically, and includes sound effects (adjustable or can be muted). No mathematics required; everyone can focus on throwing and enjoying themselves.
-
-## Frequently Asked Questions
-
-### How long does setup take?
-
-It usually takes around 15-20 minutes. We arrive early to handle installation and testing before your event starts.
-
-### Can we brand the dartboard?
-
-Yes. We can apply [custom branding](/categories/branded-exhibition-games/) to the surround or backdrop –this is particularly effective for exhibitions and brand activations.
-
-### What if someone's never played darts?
-
-Electronic boards are genuinely beginner-friendly. Automatic scoring removes intimidation, and on-screen instructions guide players through games.
-
-### Is it suitable for outdoor events?
-
-Although designed for indoor use, they work in covered outdoor spaces (marquees) if fully protected from rain, but not open-air events.
-
-### How many people can play at once?
-
-2-8 players per game can play depending on mode. For larger groups, consider multiple units or tournament formats where players rotate.
-
-### How far in advance should we book?
-
-4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/) for last-minute availability.
 
 ## As a nationwide hire company, we can provide everything you need for your party or event.
 

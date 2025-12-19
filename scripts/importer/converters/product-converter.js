@@ -2,7 +2,9 @@ const fs = require('node:fs');
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
-const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading } = require('../utils/metadata-extractor');
+const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
+const { faqPatterns } = require('../utils/html-patterns');
+const { stripFAQSection, hasFAQSection } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
@@ -110,7 +112,10 @@ const { convertSingle, convertBatch } = createConverter({
     reviews: (htmlContent) => extractReviews(htmlContent),
     productName: (htmlContent) => extractProductName(htmlContent),
     productHeading: (htmlContent) => extractContentHeading(htmlContent),
-    images: (htmlContent) => extractProductImages(htmlContent)
+    images: (htmlContent) => extractProductImages(htmlContent),
+    faqs: (htmlContent) => extractFAQs(htmlContent),
+    // Check if HTML has FAQ section (for validation)
+    hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     const categories = extracted.productCategoriesMap?.get(slug) || [];
@@ -123,6 +128,8 @@ const { convertSingle, convertBatch } = createConverter({
     };
     // Pass the old site relative path for redirect_from generation
     const oldSitePath = context.oldSiteRelativePath || null;
+    // Pass FAQs extracted from old site
+    const faqs = extracted.faqs || [];
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -132,10 +139,22 @@ const { convertSingle, convertBatch } = createConverter({
       images,
       extracted.productHeading,
       events,
-      oldSitePath
+      oldSitePath,
+      faqs
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {
+    // Validate FAQ extraction: if HTML has FAQ section, we must have extracted FAQs
+    if (extracted.hasFAQSection && (!extracted.faqs || extracted.faqs.length === 0)) {
+      throw new Error(`FAQ section found in HTML but no FAQs were extracted. Check FAQ patterns.`);
+    }
+    
+    // Strip FAQ content from markdown body (FAQs are now in frontmatter)
+    // Pass extracted FAQs so we only remove the actual Q&A content, preserving other sections
+    if (hasFAQSection(content)) {
+      content = stripFAQSection(content, extracted.faqs || []);
+    }
+    
     // Get preserved gallery (local paths) from context (extracted before dir was deleted)
     // First try by slug, then by redirect URL (for files with conflicting slugs like lights-out-game-2)
     let existingGallery = context.existingGalleries?.get(slug);

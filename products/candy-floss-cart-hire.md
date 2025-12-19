@@ -14,6 +14,17 @@ gallery:
   - "/images/products/candy-floss-cart-hire-lights-out-game-lights-out-game-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
+faqs:
+  - question: "Is it suitable for both indoor and outdoor events?"
+    answer: "Yes, our candy floss cart is perfect for both indoor and outdoor events. For indoor venues, the compact size and clean operation make it easy to set up without any mess or disruption. Outdoors, the cart operates smoothly as long as there is a sheltered or covered area to protect it from rain or strong winds. If necessary, we can provide additional cover or recommend placement to make sure the candy floss machine works efficiently in all weather conditions."
+  - question: "How far in advance should I book to ensure availability?"
+    answer: "We recommend booking as early as possible, especially for peak seasons like summer, holidays, and weekends. To secure your preferred date, it's best to book at least 4 to 6 weeks in advance. For larger events, consider booking even earlier to avoid disappointment. Last minute bookings are possible but subject to availability, so contacting us well in advance ensures we can fully accommodate your needs."
+  - question: "Do you provide all the necessary ingredients and equipment?"
+    answer: "Yes! Our candy floss cart hire supplies everything needed for a successful candy floss experience. We provide the candy floss machine, sugar, and sticks. A trained team member will also be present to operate the machine and serve guests for up to 4 hours. Our hassle free service ensures that you don't need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish."
+  - question: "Can I hire multiple carts for larger events or different locations?"
+    answer: "Talk to us through our website, email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
+  - question: "Are there any customisation options for flavours or colours?"
+    answer: "Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart's exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process."
 ---
 
 # Candy Floss Cart Hire
@@ -122,36 +133,6 @@ When the event ends, we’ll return to collect the candy floss cart, and leave y
 ## Ready to take your corporate event to the next level?
 
 Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/contact-fun-pro-uk/) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
-
-## Frequently Asked Questions
-
-### Is it suitable for both indoor and outdoor events?
-
-Yes, our candy floss cart is perfect for both indoor and outdoor events.
-
-For indoor venues, the compact size and clean operation make it easy to set up without any mess or disruption. Outdoors, the cart operates smoothly as long as there is a sheltered or covered area to protect it from rain or strong winds.
-
-If necessary, we can provide additional cover or recommend placement to make sure the candy floss machine works efficiently in all weather conditions.
-
-### How far in advance should I book to ensure availability?
-
-We recommend booking as early as possible, especially for peak seasons like summer, holidays, and weekends.
-
-To secure your preferred date, it’s best to book at least 4 to 6 weeks in advance. For larger events, consider booking even earlier to avoid disappointment. Last minute bookings are possible but subject to availability, so contacting us well in advance ensures we can fully accommodate your needs.
-
-### Do you provide all the necessary ingredients and equipment?
-
-Yes! Our candy floss cart hire supplies everything needed for a successful candy floss experience. We provide the candy floss machine, sugar, and sticks. A trained team member will also be present to operate the machine and serve guests for up to 4 hours.
-
-Our hassle free service ensures that you don’t need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish.
-
-### Can I hire multiple carts for larger events or different locations?
-
-Talk to us through [our website](/christmas-entertainment-game-hire/), email, or phone number so we can understand your event requirements and tailor our service to fit your needs.
-
-### Are there any customisation options for flavours or colours?
-
-Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart’s exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process.
 
 ### **Branding Prices from:**
 

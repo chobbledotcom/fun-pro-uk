@@ -18,6 +18,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f096c93ee28d41efc8924054b509e132"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ff47108f9f6cba1761245a88adb80f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60907d36ad461e2a97cd01452cb74c91"
+faqs:
+  - question: "What is the Christmas Candy Cane Mega Wire game?"
+    answer: "The Candy Cane Mega Wire game is designed for one player to attempt the challenge at a time. Nevertheless, it's a fantastic game for group settings because of its competitive nature. Guests can take turns and keep track of their times to see who can complete the course the fastest or with the fewest buzzes."
+  - question: "Is the game suitable for children and adults?"
+    answer: "Yes, the Christmas Candy Cane Mega Wire Game is suitable for both children and adults. The game has a simple yet engaging concept and it ensures that players of all ages can participate and enjoy."
+  - question: "How many people can play the game at an event?"
+    answer: "Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere."
 ---
 
 # Candy Cane Megawire
@@ -149,23 +156,7 @@ When the event is over, we’ll return to dismantle and collect the Candy Cane M
 
 Make your holiday event unforgettable with our Candy Cane Mega Wire game hire service. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
 
-## **Frequently Asked Questions**
-
-### **What is the Christmas Candy Cane Mega Wire game?**
-
-The Candy Cane Mega Wire game is designed for one player to attempt the challenge at a time. Nevertheless, it’s a fantastic game for group settings because of its competitive nature. Guests can take turns and keep track of their times to see who can complete the course the fastest or with the fewest buzzes.
-
-### **Is the game suitable for children and adults?**
-
-Yes, the Christmas Candy Cane Mega Wire Game is suitable for both children and adults. The game has a simple yet engaging concept and it ensures that players of all ages can participate and enjoy.
-
-### **How many people can play the game at an event?**
-
-Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere.
-
 ### **Can the game be hired for both indoor and outdoor events?**
-
-Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere.
 
 **Branding Prices from:**
 

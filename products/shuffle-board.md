@@ -30,6 +30,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e3e3c12e459b9d22ac7551efaf6bbe70"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26339feadbd714699309beea753efe57"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026e38cde243bde47c078e8f3ebd99fc"
+faqs:
+  - question: "Why is shuffleboard so popular?"
+    answer: "Because anyone can play it! Shuffleboard is a game of patience, tactics, and sleight of hand. You can set up one-on-one games or create a team. And since only one person at a time can take a shot on the shuffleboard, everyone else who is in the game can enjoy their food or drinks, mingle, relax, and cheer on their team mates."
+  - question: "What is the ideal space for setting up a shuffleboard table?"
+    answer: "To set up the shuffleboard table successfully, it will need a 1,000mm width x 3,000mm depth. This space lets one person stand at the front. Please also remember that the shuffle board is heavy and the case needs to be wheeled into position. In case your venue is located above ground, please be advised that we cannot take the shuffleboard up and down the stairs. Lift access is required for this game."
+  - question: "How many people do you need to play shuffleboard?"
+    answer: "Shuffleboard can be played with either 2 or 4 players. You can do a one-on-one match or do two teams of two players each."
 ---
 
 # Shuffleboard Hire
@@ -119,21 +126,7 @@ When the event ends, we’ll come back to collect the shuffleboard, leaving your
 
 Don't miss out on the opportunity to upgrade your event with our shuffleboard hire service. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
 
-## Frequently Asked Questions
-
-### Why is shuffleboard so popular?
-
-Because anyone can play it! Shuffleboard is a game of patience, tactics, and sleight of hand. You can set up one-on-one games or create a team. And since only one person at a time can take a shot on the shuffleboard, everyone else who is in the game can enjoy their food or drinks, mingle, relax, and cheer on their team mates.  
-
-### What is the ideal space for setting up a shuffleboard table?
-
-To set up the shuffleboard table successfully, it will need a 1,000mm width x 3,000mm depth. This space lets one person stand at the front.  
   
-Please also remember that the shuffle board is heavy and the case needs to be wheeled into position. In case your venue is located above ground, please be advised that we cannot take the shuffleboard up and down the stairs. Lift access is required for this game.
-
-### How many people do you need to play shuffleboard?
-
-Shuffleboard can be played with either 2 or 4 players. You can do a one-on-one match or do two teams of two players each.
 
 ### How do I book a shuffle board table for my event?
 

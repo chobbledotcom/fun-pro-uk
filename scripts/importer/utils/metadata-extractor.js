@@ -1,4 +1,82 @@
-const { patterns, extract } = require('./html-patterns');
+const { patterns, faqPatterns, extract } = require('./html-patterns');
+
+/**
+ * Clean HTML entities and tags from text
+ * @param {string} text - Text to clean
+ * @param {boolean} isAnswer - Whether this is an answer (applies additional cleaning)
+ * @returns {string} Cleaned text
+ */
+const cleanFaqText = (text, isAnswer = false) => {
+  let cleaned = text
+    .replace(/&ndash;/g, '–')
+    .replace(/&mdash;/g, '—')
+    .replace(/&rsquo;/g, "'")
+    .replace(/&lsquo;/g, "'")
+    .replace(/&rdquo;/g, '"')
+    .replace(/&ldquo;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&nbsp;/g, ' ')
+    .replace(/&pound;/g, '£')
+    .replace(/&hellip;/g, '...');
+  
+  if (isAnswer) {
+    cleaned = cleaned
+      .replace(/<br\s*\/?>/gi, ' ')
+      .replace(/<strong[^>]*>(.*?)<\/strong>/gi, '$1')
+      .replace(/<span[^>]*>(.*?)<\/span>/gi, '$1');
+  }
+  
+  return cleaned
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+};
+
+/**
+ * Extract FAQs from HTML content
+ * Looks for FAQ sections marked by h2 headings containing "FAQ" or "Frequently Asked"
+ * Parses question/answer pairs from multiple formats:
+ * - Format 1: <p><strong>Question?</strong><br />Answer</p>
+ * - Format 2: <h3>Question?</h3><p>Answer</p>
+ * @param {string} htmlContent - HTML content to extract FAQs from
+ * @returns {Array<Object>} Array of FAQ objects with question and answer
+ */
+const extractFAQs = (htmlContent) => {
+  const faqs = [];
+  
+  // Use shared pattern from html-patterns.js
+  const faqSectionRegex = new RegExp(faqPatterns.htmlSection.source, faqPatterns.htmlSection.flags);
+  
+  let sectionMatch;
+  while ((sectionMatch = faqSectionRegex.exec(htmlContent)) !== null) {
+    const faqSection = sectionMatch[1];
+    
+    // Try Format 1: <p><strong>Question?</strong><br />Answer</p>
+    const qaRegex1 = new RegExp(faqPatterns.htmlQAPairFormat1.source, faqPatterns.htmlQAPairFormat1.flags);
+    let qaMatch;
+    while ((qaMatch = qaRegex1.exec(faqSection)) !== null) {
+      const question = cleanFaqText(qaMatch[1].trim(), false);
+      const answer = cleanFaqText(qaMatch[2].trim(), true);
+      
+      if (question && answer) {
+        faqs.push({ question, answer });
+      }
+    }
+    
+    // Try Format 2: <h3>Question?</h3><p>Answer</p>
+    const qaRegex2 = new RegExp(faqPatterns.htmlQAPairFormat2.source, faqPatterns.htmlQAPairFormat2.flags);
+    while ((qaMatch = qaRegex2.exec(faqSection)) !== null) {
+      const question = cleanFaqText(qaMatch[1].trim(), false);
+      const answer = cleanFaqText(qaMatch[2].trim(), true);
+      
+      if (question && answer) {
+        faqs.push({ question, answer });
+      }
+    }
+  }
+  
+  return faqs;
+};
 
 /**
  * Extract breadcrumb text from HTML content
@@ -376,5 +454,6 @@ module.exports = {
   extractProductImages,
   extractBlogImage,
   extractFaviconLinks,
-  extractPageListingProducts
+  extractPageListingProducts,
+  extractFAQs
 };

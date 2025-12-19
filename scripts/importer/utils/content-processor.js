@@ -1,5 +1,6 @@
 const { parseSpecificationTables } = require('./markdown-table-parser');
 const { extractSpecificationTable, extractPriceTable } = require('./html-table-extractor');
+const { faqPatterns } = require('./html-patterns');
 
 /**
  * Extract main content from markdown (remove nav, footer, etc.)
@@ -120,6 +121,117 @@ const removeProductListings = (content) => {
 };
 
 /**
+ * Check if content contains an FAQ section heading
+ * @param {string} content - Markdown content to check
+ * @returns {boolean} True if FAQ section heading is present
+ */
+const hasFAQSection = (content) => {
+  // Check for FAQ heading pattern (## or bold text with FAQ/Frequently Asked)
+  return /^(?:##\s+)?\*{0,4}(?:Festive\s+)?(?:FAQ|Frequently\s+Asked)/im.test(content);
+};
+
+/**
+ * Normalize text for comparison - strips markdown formatting, extra whitespace, and punctuation variations
+ * @param {string} text - Text to normalize
+ * @returns {string} Normalized text for comparison
+ */
+const normalizeText = (text) => {
+  return text
+    .replace(/^#+\s*/, '')           // Remove heading markers
+    .replace(/\*+/g, '')             // Remove bold/italic markers
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Replace links with just text
+    .replace(/[\u2018\u2019\u02BC\u0060']/g, "'")  // Normalize apostrophes (left/right single quotes, modifier letter apostrophe, backtick)
+    .replace(/[\u201C\u201D\u201E"]/g, '"')        // Normalize double quotes (left/right/low double quotes)
+    .replace(/[\u2013\u2014]/g, '-')               // Normalize dashes (en-dash, em-dash)
+    .replace(/\u2026/g, '...')                     // Normalize ellipsis
+    .replace(/\s+/g, ' ')            // Normalize whitespace
+    .trim();
+};
+
+/**
+ * Strip FAQ content from markdown by removing only lines that match extracted Q&A
+ * Removes: FAQ heading line, question lines, and answer lines that match extracted content
+ * Preserves: Everything else (branding sections, other content)
+ * @param {string} content - Markdown content to strip FAQs from
+ * @param {Array<Object>} faqs - Array of extracted FAQ objects with question and answer
+ * @returns {string} Content with only matched FAQ content removed
+ */
+const stripFAQSection = (content, faqs = []) => {
+  // First, remove the FAQ heading line
+  content = content.replace(/^(?:##\s+)?\*{0,4}(?:Festive\s+)?(?:FAQ|Frequently\s+Asked)[^\n]*\n*/gim, '');
+  
+  if (!faqs || faqs.length === 0) {
+    return content.replace(/\n{3,}/g, '\n\n').trim();
+  }
+  
+  // Build normalized versions of questions and answers for matching
+  const normalizedQuestions = faqs.map(faq => normalizeText(faq.question));
+  const normalizedAnswers = faqs.map(faq => normalizeText(faq.answer));
+  
+  // Process content line by line
+  const lines = content.split('\n');
+  const resultLines = [];
+  
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const normalizedLine = normalizeText(line);
+    
+    // Skip empty lines for matching purposes but keep them in output
+    if (!normalizedLine) {
+      resultLines.push(line);
+      continue;
+    }
+    
+    // Check if this line is a question
+    let isQuestion = false;
+    for (const q of normalizedQuestions) {
+      // Match if the line contains the question (questions may have ### prefix etc)
+      if (normalizedLine === q || normalizedLine === q.replace(/\?$/, '')) {
+        isQuestion = true;
+        break;
+      }
+    }
+    
+    if (isQuestion) {
+      // Skip this question line
+      continue;
+    }
+    
+    // Check if this line is part of an answer
+    let isAnswer = false;
+    for (const a of normalizedAnswers) {
+      // Exact match
+      if (normalizedLine === a) {
+        isAnswer = true;
+        break;
+      }
+      // Check if the line is contained in the answer (for multi-line answers)
+      // Require some minimum length to avoid false matches on common words
+      if (normalizedLine.length >= 15 && a.includes(normalizedLine)) {
+        isAnswer = true;
+        break;
+      }
+      // Check if the answer starts with this line (first paragraph of multi-para answer)
+      if (normalizedLine.length >= 15 && a.startsWith(normalizedLine)) {
+        isAnswer = true;
+        break;
+      }
+    }
+    
+    if (isAnswer) {
+      // Skip this answer line
+      continue;
+    }
+    
+    // Keep this line
+    resultLines.push(line);
+  }
+  
+  // Clean up multiple consecutive blank lines
+  return resultLines.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+};
+
+/**
  * Clean up content by removing unwanted markdown artifacts
  * @param {string} content - Content to clean
  * @param {string} contentType - Type of content (for context-specific cleaning)
@@ -135,6 +247,9 @@ const cleanContent = (content, contentType) => {
   if (contentType === 'blog') {
     content = content.replace(/^####\s+.+$/gm, '');
   }
+
+  // Note: For products, FAQ stripping is done in the product converter's beforeWrite hook
+  // where we have access to the extracted FAQs for precise removal
 
   content = content.trim();
 
@@ -202,5 +317,7 @@ const processContent = (markdown, contentType, htmlContent = null) => {
 module.exports = {
   extractMainContent,
   cleanContent,
-  processContent
+  processContent,
+  stripFAQSection,
+  hasFAQSection
 };

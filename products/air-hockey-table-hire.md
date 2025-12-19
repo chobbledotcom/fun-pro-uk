@@ -32,6 +32,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21635a96850030f3d790e7f062210851"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180c197ab2df6df453b18683e8250e6"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae8ccde974a8b3d7efec6e29fb60cbbb"
+faqs:
+  - question: "Is the air hockey table suitable for both indoor and outdoor events?"
+    answer: "Yes! The air hockey table is a perfect addition to venues such as conference halls, event spaces, and even home settings. It can also be used outdoors, provided the weather is good or there's shelter over it to protect the air hockey table from weather conditions."
+  - question: "Can children and adults enjoy the game equally?"
+    answer: "Absolutely! Air hockey is enjoyable for players of all ages. Children will love the fast-paced excitement, while adults can experience nostalgic arcade fun or join in competitive challenges."
+  - question: "How much space is required for the air hockey table hire?"
+    answer: "The air hockey table measures 1210mm wide, 2140mm deep, and 850mm high. For the best experience, we recommend allowing a space of 2000mm in width and 3000mm in depth. This ensures players have enough room to move freely during gameplay and provides space for spectators to gather and enjoy the excitement."
+  - question: "Do you provide delivery and setup services?"
+    answer: "Yes, we can take care of all the logistics for you. Our professional team will deliver the air hockey table directly to your venue, carefully set it up, and test the equipment to ensure everything is functioning perfectly."
 ---
 
 # Air Hockey Table Hire
@@ -174,24 +183,7 @@ Don’t miss the chance to make your event unforgettable with our air hockey tab
 
 Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
 
-## **Frequently Asked Questions**
-
-### **Is the air hockey table suitable for both indoor and outdoor events?  
 **
-
-Yes! The air hockey table is a perfect addition to venues such as conference halls, event spaces, and even home settings. It can also be used outdoors, provided the weather is good or there’s shelter over it to protect the air hockey table from weather conditions.
-
-### **Can children and adults enjoy the game equally?**
-
-Absolutely! Air hockey is enjoyable for players of all ages. Children will love the fast-paced excitement, while adults can experience nostalgic arcade fun or join in competitive challenges.
-
-### **How much space is required for the air hockey table hire?**
-
-The air hockey table measures 1210mm wide, 2140mm deep, and 850mm high. For the best experience, we recommend allowing a space of 2000mm in width and 3000mm in depth. This ensures players have enough room to move freely during gameplay and provides space for spectators to gather and enjoy the excitement.
-
-### **Do you provide delivery and setup services?**
-
-Yes, we can take care of all the logistics for you. Our professional team will deliver the air hockey table directly to your venue, carefully set it up, and test the equipment to ensure everything is functioning perfectly.
 
 ### **Is the equipment maintained and cleaned by Fun Pro UK?**
 
