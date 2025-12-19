@@ -246,19 +246,7 @@ const createConverter = ({
         extracted[key] = await extractor(htmlContent, markdown, slug, context);
       }
 
-      // Ensure content starts with H1
-      // Check if content already has an H1 at the start
-      const hasH1 = /^#\s+/.test(content.trim());
-      if (!hasH1) {
-        // Find the heading from extracted data (try different heading types)
-        const heading = extracted.pageHeading || extracted.blogHeading ||
-                       extracted.productHeading || extracted.categoryHeading ||
-                       extracted.eventHeading ||
-                       metadata.header_text || metadata.title;
-        if (heading) {
-          content = `# ${heading}\n\n${content}`;
-        }
-      }
+
 
       // Hook before writing (e.g., download images)
       if (beforeWrite) {

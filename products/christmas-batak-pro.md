@@ -47,140 +47,143 @@ faqs:
     answer: "Of course! Add your **company logo**, **festive colours**, or even a **Christmas message**. Our custom branding options help make Batak Pro a perfect fit for your event theme or seasonal celebration. ??"
   - question: "How soon should I book Batak Pro for my Christmas event?"
     answer: "Batak Pro is as popular as mince pies at a holiday party! ?? To avoid disappointment, **book early** to secure your date and let the festive fun begin."
+tabs:
+  - title: "Why Christmas Batak Pro?"
+    body: |
+      # Christmas Batak Pro
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## 🎄 **Bring Festive Fun & Friendly Competition to Your Christmas Event with Batak Pro!** 🎅
+      
+      Looking to add some sparkle and excitement to your Christmas party or festive corporate event? Batak Pro is the ultimate high-energy game to get everyone laughing, cheering, and joining in the holiday spirit! Whether it’s your end-of-year staff party, a winter product launch, or a festive team-building day, Batak Pro brings people together like nothing else.
+      
+      ✨ **What Is Batak Pro?**
+      
+      Batak Pro is a full-sized, fast-paced reaction game that lights up the room — literally! With its glowing illuminated targets, players race against the clock to hit as many as they can before time runs out. It’s a test of reflexes, coordination, and Christmas cheer — guaranteed to get hearts racing and faces smiling.
+      
+      From Christmas parties and winter fairs to festive exhibitions and brand activations, Batak Pro draws a merry crowd and spreads joy (and a bit of friendly competition!) wherever it goes.
+      
+      🎁 **Why Choose Batak Pro for Your Christmas Event?**
+      
+      At **Fun Pro**, our Batak Pro hire brings festive energy to events across the UK. Here’s why it’s the perfect choice this season:
+      
+      ⭐ **Festive Engagement** – Get guests off their seats and into the holiday spirit.  
+      🎅 **Friendly Competition** – Perfect for Christmas tournaments or staff challenges.  
+      🎄 **Custom Branding** – Add your logo or seasonal message for a merry marketing touch.  
+      🎁 **Hassle-Free Hire** – We deliver, set up, and pack down — you just enjoy the fun!  
+      🌟 **Perfect for Any Festive Occasion** – From office parties and corporate galas to Christmas markets and charity events.
+      
+      Make your Christmas celebration unforgettable — **book Batak Pro** and let the lights, laughter, and festive fun begin! 🎶🎄
+      
+      ## What’s Included in Batak Pro Hire from Fun Pro?
+      
+      We make [interactive game hire](/categories/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
+      
+      **Hire Prices:**
+      
+      **Hire from**
+      
+      **£495**\+ vat**
+      
+      **2 day hire from**
+      
+      **£795**\+ vat**
+      
+      **3 day hire from**
+      
+      **£995**\+ vat**
+      
+      **7 day hire from**
+      
+      **£1495**\+ vat**
+      
+      When you hire Batak Pro from Fun Pro, you get:
+      
+      UK-wide delivery and collection\*
+      
+      Complete installation and setup by our trained professionals
+      
+      Custom branding options to showcase your company identity
+      
+      \*Delivery fees may apply.
+      
+      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Specification**
+      
+      **Equipment size**
+      
+      1700mm Width x 900mm Depth 2000mm Height
+      
+      **Space required**
+      
+      2000mm Width x 1500mm Depth, 2010mm Height Allowing for the person to stand in front
+      
+      **Electric requirements**
+      
+      1 x UK power socket (Game wattage usage 4-8 watts)
+      
+      **Suitability**
+      
+      Indoor use only/Level surface
+      
+      **Access**
+      
+      Minimum door width 0.6m
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required 1600mm deep 1500mm high
+      
+      ## **Brands That Have Celebrated With Us**
+      
+      We’re proud to have brought fun and festive cheer to some of the UK’s biggest names, including:
+      
+      Rolls-Royce
+      
+      Boots  
+      ?Virgin Media  
+      …and many more merry brands!
+      
+      ## **Other Festive Fun from Fun Pro**
+      
+      Looking to make your event even more magical? Explore our range of **interactive games and activities** — perfect for Christmas parties, winter wonderlands, and end-of-year celebrations.
+      
+      ## Other Fun Pro Interactive Games and Products
+      
+      If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
+      
+      [Arcade Games](/categories/arcade-games/)
+      
+      [Prize Games](/categories/prize-games/)
+      
+      [Pub Games](/categories/pub-games/)
+      
+      [Roll and Bowl](/categories/roll-and-bowl/)
+      
+      [Crazy Golf](/products/crazy-golf/)
+      
+      [View all our event hire products and games here](/categories/all-products/)
+      
+      ## Hire Batak Pro for Your Next Event
+      
+      Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
+      
+      ## What our customers are saying…
+      
+      [Load More Reviews](/testimonials/#content)
+      
+      Happy customers we have worked along side
 ---
 
-# Christmas Batak Pro
-
-"Please Note Leader Boards are not included unless requested"
-
-## 🎄 **Bring Festive Fun & Friendly Competition to Your Christmas Event with Batak Pro!** 🎅
-
-Looking to add some sparkle and excitement to your Christmas party or festive corporate event? Batak Pro is the ultimate high-energy game to get everyone laughing, cheering, and joining in the holiday spirit! Whether it’s your end-of-year staff party, a winter product launch, or a festive team-building day, Batak Pro brings people together like nothing else.
-
-✨ **What Is Batak Pro?**
-
-Batak Pro is a full-sized, fast-paced reaction game that lights up the room — literally! With its glowing illuminated targets, players race against the clock to hit as many as they can before time runs out. It’s a test of reflexes, coordination, and Christmas cheer — guaranteed to get hearts racing and faces smiling.
-
-From Christmas parties and winter fairs to festive exhibitions and brand activations, Batak Pro draws a merry crowd and spreads joy (and a bit of friendly competition!) wherever it goes.
-
-🎁 **Why Choose Batak Pro for Your Christmas Event?**
-
-At **Fun Pro**, our Batak Pro hire brings festive energy to events across the UK. Here’s why it’s the perfect choice this season:
-
-⭐ **Festive Engagement** – Get guests off their seats and into the holiday spirit.  
-🎅 **Friendly Competition** – Perfect for Christmas tournaments or staff challenges.  
-🎄 **Custom Branding** – Add your logo or seasonal message for a merry marketing touch.  
-🎁 **Hassle-Free Hire** – We deliver, set up, and pack down — you just enjoy the fun!  
-🌟 **Perfect for Any Festive Occasion** – From office parties and corporate galas to Christmas markets and charity events.
-
-Make your Christmas celebration unforgettable — **book Batak Pro** and let the lights, laughter, and festive fun begin! 🎶🎄
-
-## What’s Included in Batak Pro Hire from Fun Pro?
-
-We make [interactive game hire](/categories/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
-
-**Hire Prices:**
-
-**Hire from**
-
-**£495**\+ vat**
-
-**2 day hire from**
-
-**£795**\+ vat**
-
-**3 day hire from**
-
-**£995**\+ vat**
-
-**7 day hire from**
-
-**£1495**\+ vat**
-
-When you hire Batak Pro from Fun Pro, you get:
-
-UK-wide delivery and collection\*
-
-Complete installation and setup by our trained professionals
-
-Custom branding options to showcase your company identity
-
-\*Delivery fees may apply.
-
-**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
-## As a nationwide hire company, we can provide everything you need for your party or event.
-
-We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-
-**We are able to cover the whole of the UK on request.**
-
-Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-
-**Specification**
-
-**Equipment size**
-
-1700mm Width x 900mm Depth 2000mm Height
-
-**Space required**
-
-2000mm Width x 1500mm Depth, 2010mm Height Allowing for the person to stand in front
-
-**Electric requirements**
-
-1 x UK power socket (Game wattage usage 4-8 watts)
-
-**Suitability**
-
-Indoor use only/Level surface
-
-**Access**
-
-Minimum door width 0.6m
-
-**Extra information**
-
-Can not be carried up or down flights of stairs.
-
-Lift required 1600mm deep 1500mm high
-
-## **Brands That Have Celebrated With Us**
-
-We’re proud to have brought fun and festive cheer to some of the UK’s biggest names, including:
-
-Rolls-Royce
-
-Boots  
-?Virgin Media  
-…and many more merry brands!
-
-## **Other Festive Fun from Fun Pro**
-
-Looking to make your event even more magical? Explore our range of **interactive games and activities** — perfect for Christmas parties, winter wonderlands, and end-of-year celebrations.
-
-## Other Fun Pro Interactive Games and Products
-
-If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
-
-[Arcade Games](/categories/arcade-games/)
-
-[Prize Games](/categories/prize-games/)
-
-[Pub Games](/categories/pub-games/)
-
-[Roll and Bowl](/categories/roll-and-bowl/)
-
-[Crazy Golf](/products/crazy-golf/)
-
-[View all our event hire products and games here](/categories/all-products/)
-
-## Hire Batak Pro for Your Next Event
-
-Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

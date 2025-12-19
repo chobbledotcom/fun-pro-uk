@@ -101,7 +101,6 @@ content:
               label: Unit Price (£),
               required: true,
             }
-      - { name: body, label: Body, type: code, options: { language: markdown } }
       - name: tabs
         label: Tabs
         type: object

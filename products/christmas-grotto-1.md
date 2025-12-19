@@ -24,76 +24,79 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f1015f313e1870678b0043db558fbf29"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/174a9eab2f8676650cf24e431540a897"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/205f666127d7ac058c2b22b368ecdfda"
+tabs:
+  - title: "Why CHRISTMAS GROTTO 1?"
+    body: |
+      # CHRISTMAS GROTTO 1
+      
+      ## CHRISTMAS GROTTO HIRE UK
+      
+      **Hire **Price** From £695** \+ vat
+      
+      Delivered and installed on site
+      
+      by our trained team
+      
+      \*Delivery Charges & Minimum order value
+      
+      may apply
+      
+      **Discounted rates** available for **Multiple Days & A**dditional**items**
+      
+      Please contact us to find out more
+      
+      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Equipment size**
+      
+      **7.1m Width x 5.2m Depth x 4.3m Height**
+      
+      **Space required**
+      
+      **9.1m x 6m x 4.6m**
+      
+      **Electric requirements**
+      
+      **4 X 13amp socket**
+      
+      **Suitability**
+      
+      **Indoor and Outdoor use on Grass/Level surface**
+      
+      **Access**
+      
+      **Drive on access required**
+      
+      **Extra information**
+      
+      **Specification**
+      
+      **Product requirements**
+      
+      ## Inflatable Santa's Grotto Hire
+      
+      Christmas is a magical time for everyone, from your staff and their families, to your clients and customers. So make sure you put on a great show with our inflatable grotto for hire, available nationwide.
+      
+      Get your company into the Christmas spirit
+      
+      This magnificent Santa's grotto hire will make all their dreams come true, with an enchanting setting for Father Christmas to meet the young and the young at heart. It's the perfect way to show your appreciation to your team during the festive season and it will guarantee a way to draw the crowds to your seasonal sales in store.
+      
+      A complete Christmas package
+      
+      Our inflatable festive grotto for hire is finished to a spectacular standard with enchanting artwork. Look out for the elves peeking out of the windows, and gasp in wonder at all the presents stacked up on Santa's sleigh.
+      
+      What's more, just like your Christmas turkey, our Christmas grotto for hire comes with all the trimmings, which will be set up fully by our team in plenty of time for your event. Outside, the package includes a white picket fence, snow covered trees, a snowman or reindeer, small street lamps, small Christmas trees, sparkling lights, snow affect flooring and even a red carpet for your little guests , while inside is beautifully lit with fairy lights, a twinkling tree and a special seat for Santa himself.
+      
+      The perfect party piece
+      
+      Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
 ---
 
-# CHRISTMAS GROTTO 1
-
-## CHRISTMAS GROTTO HIRE UK
-
-**Hire **Price** From £695** \+ vat
-
-Delivered and installed on site
-
-by our trained team
-
-\*Delivery Charges & Minimum order value
-
-may apply
-
-**Discounted rates** available for **Multiple Days & A**dditional**items**
-
-Please contact us to find out more
-
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
-## As a nationwide hire company, we can provide everything you need for your party or event.
-
-We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-
-**We are able to cover the whole of the UK on request.**
-
-Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-
-**Equipment size**
-
-**7.1m Width x 5.2m Depth x 4.3m Height**
-
-**Space required**
-
-**9.1m x 6m x 4.6m**
-
-**Electric requirements**
-
-**4 X 13amp socket**
-
-**Suitability**
-
-**Indoor and Outdoor use on Grass/Level surface**
-
-**Access**
-
-**Drive on access required**
-
-**Extra information**
-
-**Specification**
-
-**Product requirements**
-
-## Inflatable Santa's Grotto Hire
-
-Christmas is a magical time for everyone, from your staff and their families, to your clients and customers. So make sure you put on a great show with our inflatable grotto for hire, available nationwide.
-
-Get your company into the Christmas spirit
-
-This magnificent Santa's grotto hire will make all their dreams come true, with an enchanting setting for Father Christmas to meet the young and the young at heart. It's the perfect way to show your appreciation to your team during the festive season and it will guarantee a way to draw the crowds to your seasonal sales in store.
-
-A complete Christmas package
-
-Our inflatable festive grotto for hire is finished to a spectacular standard with enchanting artwork. Look out for the elves peeking out of the windows, and gasp in wonder at all the presents stacked up on Santa's sleigh.
-
-What's more, just like your Christmas turkey, our Christmas grotto for hire comes with all the trimmings, which will be set up fully by our team in plenty of time for your event. Outside, the package includes a white picket fence, snow covered trees, a snowman or reindeer, small street lamps, small Christmas trees, sparkling lights, snow affect flooring and even a red carpet for your little guests , while inside is beautifully lit with fairy lights, a twinkling tree and a special seat for Santa himself.
-
-The perfect party piece
-
-Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!

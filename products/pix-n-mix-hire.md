@@ -29,123 +29,126 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb3fbb8fc719828d9ef3eb6bb6056b63"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
+tabs:
+  - title: "Why Pix N Mix Hire?"
+    body: |
+      # Pix N Mix Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Pix N Mix Hire for Unforgettable Events
+      
+      ### Bring the Sweetest Treats to Your Event with Pix N Mix Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry and the whole UK
+      
+      Indulge your guests in a delightful array of sweet treats with our Pix N Mix Hire service! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Pix N Mix stands offer a mouth-watering selection of candies that will leave everyone with a sugar rush of happiness! 🍬🍭
+      
+      Our Pix N Mix stands come fully loaded with a whopping 19 trays of assorted sweets, ensuring there's plenty to go around for all your attendees. Each stand features 19 clear dispensers, allowing guests to pick and mix their favourite treats with ease. The stand is also equipped with paper bags, tongs, and scoops, making the experience both convenient and enjoyable for all. 🛍️✨
+      
+      Whether you're looking to attract more footfall to your booth at an exhibition, add a sweet touch to a corporate event, or surprise your employees with a delectable treat at the office, our Pix N Mix Hire service is guaranteed to sweeten the deal! Our team will deliver, set up, and fill the dispensers with your chosen sweets, ensuring a hassle-free experience from start to finish. 🚚🍬
+      
+      Make your event a memorable one with Pix N Mix Hire – the ultimate sweet sensation that promises to enhance any occasion! Book now for an unforgettable experience in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry. 🎉🍭
+      
+      **Hire Prices:**
+      
+      **Hire from**
+      
+      **£550**\+ vat**
+      
+      **2 day hire from**
+      
+      **£895**\+ vat**
+      
+      **3 day hire from**
+      
+      **£995**\+ vat**
+      
+      **7 day hire from**
+      
+      **£1445**\+ vat**
+      
+      Delivered and installed on site by our trained team
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
+      
+      \*Delivery Charges & Minimum order value may apply
+      
+      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Specification**
+      
+      **Equipment size**
+      
+      1000mm Width x 500mm Depth x 1300 Height
+      
+      **Space required**
+      
+      1350mm Width x 1250mm Depth, Allowing for the person to stand in front
+      
+      **Electric requirements**
+      
+      No power required
+      
+      **Suitability**
+      
+      Indoor or outdoor use/Level surface
+      
+      **Access**
+      
+      Minimum door width 0.6m
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ## **Popular items:**
+      
+      *   [Grab A Grand](/products/grab-a-grand/)
+      *   [Batak Pro](/products/batak-pro/)
+      *   Lights Out
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      
+      ## Pick N Mix Hire Throughout The UK
+      
+      Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
+      
+      Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
+      
+      The sweet stand hire is a huge attraction for corporate events, fun days, exhibition stands along with brand activations.
+      
+      Branding Your Pick N Mix Stand
+      
+      Our Pick N Mix stands have the ability to be personalised with your company name and logo in the colours you desire both at the sides and the top of the stand.
+      
+      Branding this sweet stand along with our range of interactive games will ensure your company stands out from the crowd at exhibitions and promotional events. For further information on branding the Sweet Stand please contact out team.
+      
+      There is a whole range of sweets to choose from for the Pick N Mix Sweet stand hire such as Jelly Beans, Cola bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoam's and much more! ( All sweets are subject to availability).
+      
+      Each stand has a total of 19 separate clear dispensers. All the contents can be seen clearly and will engage your guests immediately as their favourite sweet catches their eye!
+      
+      Our team will deliver the sweet stand to your destination. They will set up, filling the separate dispensers with your choice of sweets prior to the beginning of your event. Once your hire is complete we will then return to collect and pack down the stand.
+      
+      Pick N Mix sweet stand hire is very popular with both children and adults. Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
+      
+      **Branding Prices from:**
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
+      
+      **Fully Branded**
+      
+      **£145**\+ vat**
 ---
 
-# Pix N Mix Hire
-
-"Please Note Leader Boards are not included unless requested"
-
-## Pix N Mix Hire for Unforgettable Events
-
-### Bring the Sweetest Treats to Your Event with Pix N Mix Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry and the whole UK
-
-Indulge your guests in a delightful array of sweet treats with our Pix N Mix Hire service! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Pix N Mix stands offer a mouth-watering selection of candies that will leave everyone with a sugar rush of happiness! 🍬🍭
-
-Our Pix N Mix stands come fully loaded with a whopping 19 trays of assorted sweets, ensuring there's plenty to go around for all your attendees. Each stand features 19 clear dispensers, allowing guests to pick and mix their favourite treats with ease. The stand is also equipped with paper bags, tongs, and scoops, making the experience both convenient and enjoyable for all. 🛍️✨
-
-Whether you're looking to attract more footfall to your booth at an exhibition, add a sweet touch to a corporate event, or surprise your employees with a delectable treat at the office, our Pix N Mix Hire service is guaranteed to sweeten the deal! Our team will deliver, set up, and fill the dispensers with your chosen sweets, ensuring a hassle-free experience from start to finish. 🚚🍬
-
-Make your event a memorable one with Pix N Mix Hire – the ultimate sweet sensation that promises to enhance any occasion! Book now for an unforgettable experience in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry. 🎉🍭
-
-**Hire Prices:**
-
-**Hire from**
-
-**£550**\+ vat**
-
-**2 day hire from**
-
-**£895**\+ vat**
-
-**3 day hire from**
-
-**£995**\+ vat**
-
-**7 day hire from**
-
-**£1445**\+ vat**
-
-Delivered and installed on site by our trained team
-
-In\-house branding available Printed, applied & removed after each event
-
-(One time use only)
-
-\*Delivery Charges & Minimum order value may apply
-
-**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
-## As a nationwide hire company, we can provide everything you need for your party or event.
-
-We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-
-**We are able to cover the whole of the UK on request.**
-
-Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-
-**Specification**
-
-**Equipment size**
-
-1000mm Width x 500mm Depth x 1300 Height
-
-**Space required**
-
-1350mm Width x 1250mm Depth, Allowing for the person to stand in front
-
-**Electric requirements**
-
-No power required
-
-**Suitability**
-
-Indoor or outdoor use/Level surface
-
-**Access**
-
-Minimum door width 0.6m
-
-**Extra information**
-
-Can not be carried up or down flights of stairs.
-
-Lift required
-
-## **Popular items:**
-
-*   [Grab A Grand](/products/grab-a-grand/)
-*   [Batak Pro](/products/batak-pro/)
-*   Lights Out
-*   [Crack the Code](/products/crack-the-code-safe-cracker/)
-
-## Pick N Mix Hire Throughout The UK
-
-Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
-
-Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
-
-The sweet stand hire is a huge attraction for corporate events, fun days, exhibition stands along with brand activations.
-
-Branding Your Pick N Mix Stand
-
-Our Pick N Mix stands have the ability to be personalised with your company name and logo in the colours you desire both at the sides and the top of the stand.
-
-Branding this sweet stand along with our range of interactive games will ensure your company stands out from the crowd at exhibitions and promotional events. For further information on branding the Sweet Stand please contact out team.
-
-There is a whole range of sweets to choose from for the Pick N Mix Sweet stand hire such as Jelly Beans, Cola bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoam's and much more! ( All sweets are subject to availability).
-
-Each stand has a total of 19 separate clear dispensers. All the contents can be seen clearly and will engage your guests immediately as their favourite sweet catches their eye!
-
-Our team will deliver the sweet stand to your destination. They will set up, filling the separate dispensers with your choice of sweets prior to the beginning of your event. Once your hire is complete we will then return to collect and pack down the stand.
-
-Pick N Mix sweet stand hire is very popular with both children and adults. Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
-
-**Branding Prices from:**
-
-In\-house branding available Printed, applied & removed after each event
-
-(One time use only)
-
-**Fully Branded**
-
-**£145**\+ vat**

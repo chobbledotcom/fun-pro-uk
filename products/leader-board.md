@@ -38,91 +38,94 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7d4c6028bf92864ddda090b32ba909d0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
+tabs:
+  - title: "Why LEADER BOARD?"
+    body: |
+      # LEADER BOARD
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Get Your Event Buzzing with Our LEADER BOARD Hire in Conferences, Well being days, Exhibitions, Fun days and More! 🏆🎉
+      
+      Looking to add a fun and interactive element to your event? Our LEADER BOARD is the perfect solution! Ideal for conferences, well-being days, exhibitions, fun days, and more, this top-gear style magnetic lead board will keep your attendees engaged and entertained throughout.
+      
+      **Hire Prices:**
+      
+      **Hire from**
+      
+      **£75**\+ vat**
+      
+      Delivered and installed on site by our trained team
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
+      
+      \*Delivery Charges & Minimum order value may apply
+      
+      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Specification**
+      
+      **Equipment size**
+      
+      300mm Width x 600mm Depth x 1500mm Height
+      
+      **Space required**
+      
+      400mm Width x 650mm Depth, Allowing for the person to stand in front
+      
+      **Electric requirements**
+      
+      No power required
+      
+      **Suitability**
+      
+      Indoor use only/Level surface
+      
+      **Access**
+      
+      Minimum door width 0.6m
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ### Why Choose Our LEADER BOARD Hire?
+      
+      Whether you're in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere else in the UK, our LEADER BOARD is a must-have addition to your event. Track the top scorer, promote healthy competition, and create a buzz that will have everyone talking.
+      
+      Supplied with 12 white magnet strips and a whiteboard marker, our LEADER BOARD is ready to go and can be personalized with your branding for that extra touch of professionalism. Pair it with one of our branded games for a complete interactive experience that will leave a lasting impression on your guests.
+      
+      ### Maximize Engagement and Brand Activation
+      
+      Our LEADER BOARD is not just a fun addition to your event—it's a tool to increase engagement, drive sales, and activate your brand. Keep attendees coming back for more, boost participation, and create memorable experiences that will set your event apart.
+      
+      Popular items:
+      
+      *   [Race car Simulators](/products/twin-racing-car-simulators/)
+      *   [Grab a Grand](/products/grab-a-grand/)
+      *   Lights Out
+      *   [Pluck A Duck Racing](/products/pluck-a-duck-racing/)
+      
+      Want to add a leader board to make your hire more competitive, then look no further!  
+        
+      You can keep the score with any of the interactive games including the timing for our world class Race simulators or to count the dollars collected in our Grab a Grand.
+      
+      **Branding Prices from:**
+      
+      **Fully Branded Leader Board**
+      
+      **£135**\+ vat**
 ---
 
-# LEADER BOARD
-
-"Please Note Leader Boards are not included unless requested"
-
-## Get Your Event Buzzing with Our LEADER BOARD Hire in Conferences, Well being days, Exhibitions, Fun days and More! 🏆🎉
-
-Looking to add a fun and interactive element to your event? Our LEADER BOARD is the perfect solution! Ideal for conferences, well-being days, exhibitions, fun days, and more, this top-gear style magnetic lead board will keep your attendees engaged and entertained throughout.
-
-**Hire Prices:**
-
-**Hire from**
-
-**£75**\+ vat**
-
-Delivered and installed on site by our trained team
-
-In\-house branding available Printed, applied & removed after each event
-
-(One time use only)
-
-\*Delivery Charges & Minimum order value may apply
-
-**Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
-## As a nationwide hire company, we can provide everything you need for your party or event.
-
-We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-
-**We are able to cover the whole of the UK on request.**
-
-Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-
-**Specification**
-
-**Equipment size**
-
-300mm Width x 600mm Depth x 1500mm Height
-
-**Space required**
-
-400mm Width x 650mm Depth, Allowing for the person to stand in front
-
-**Electric requirements**
-
-No power required
-
-**Suitability**
-
-Indoor use only/Level surface
-
-**Access**
-
-Minimum door width 0.6m
-
-**Extra information**
-
-Can not be carried up or down flights of stairs.
-
-Lift required
-
-### Why Choose Our LEADER BOARD Hire?
-
-Whether you're in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere else in the UK, our LEADER BOARD is a must-have addition to your event. Track the top scorer, promote healthy competition, and create a buzz that will have everyone talking.
-
-Supplied with 12 white magnet strips and a whiteboard marker, our LEADER BOARD is ready to go and can be personalized with your branding for that extra touch of professionalism. Pair it with one of our branded games for a complete interactive experience that will leave a lasting impression on your guests.
-
-### Maximize Engagement and Brand Activation
-
-Our LEADER BOARD is not just a fun addition to your event—it's a tool to increase engagement, drive sales, and activate your brand. Keep attendees coming back for more, boost participation, and create memorable experiences that will set your event apart.
-
-Popular items:
-
-*   [Race car Simulators](/products/twin-racing-car-simulators/)
-*   [Grab a Grand](/products/grab-a-grand/)
-*   Lights Out
-*   [Pluck A Duck Racing](/products/pluck-a-duck-racing/)
-
-Want to add a leader board to make your hire more competitive, then look no further!  
-  
-You can keep the score with any of the interactive games including the timing for our world class Race simulators or to count the dollars collected in our Grab a Grand.
-
-**Branding Prices from:**
-
-**Fully Branded Leader Board**
-
-**£135**\+ vat**
