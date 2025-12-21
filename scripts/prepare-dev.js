@@ -12,6 +12,7 @@ const localTemplate = path.join(root, "..", "chobble-template");
 const templateExcludes = [
 	".git",
 	".direnv",
+	".envrc",
 	"node_modules",
 	"*.md",
 	"test",

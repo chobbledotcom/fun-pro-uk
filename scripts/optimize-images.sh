@@ -10,8 +10,14 @@
 # Usage:
 #   ./scripts/optimize-images.sh              # Optimize all images
 #   ./scripts/optimize-images.sh --dry-run    # Preview without changes
+#   ./scripts/optimize-images.sh path/to/image.jpg  # Optimize specific image
+#   ./scripts/optimize-images.sh --dry-run path/to/image.jpg
 
 set -euo pipefail
+
+# Size threshold: images over 1MB will be resized even if under 1800px
+# A 1800px JPEG at 95% quality should be well under 1MB
+SIZE_THRESHOLD=$((1 * 1024 * 1024))  # 1MB in bytes
 
 # Find cjpeg (mozjpeg) - check PATH first, then nix store
 CJPEG=$(which cjpeg 2>/dev/null || find /nix/store -path "*/mozjpeg*/bin/cjpeg" 2>/dev/null | head -1 || echo "")
@@ -25,22 +31,51 @@ fi
 
 # Parse arguments
 DRY_RUN=false
-if [[ "${1:-}" == "--dry-run" ]]; then
-  DRY_RUN=true
-  echo "Optimizing product images (DRY RUN)..."
+SPECIFIC_IMAGE=""
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --dry-run)
+      DRY_RUN=true
+      shift
+      ;;
+    *)
+      SPECIFIC_IMAGE="$1"
+      shift
+      ;;
+  esac
+done
+
+if [[ -n "$SPECIFIC_IMAGE" ]]; then
+  # Specific image mode
+  if [[ ! -f "$SPECIFIC_IMAGE" ]]; then
+    echo "Error: Image not found: $SPECIFIC_IMAGE"
+    exit 1
+  fi
+  if [[ "$DRY_RUN" == "true" ]]; then
+    echo "Optimizing image (DRY RUN): $SPECIFIC_IMAGE"
+  else
+    echo "Optimizing image: $SPECIFIC_IMAGE"
+  fi
+  IMAGE_FILES=("$SPECIFIC_IMAGE")
 else
-  echo "Optimizing product images..."
+  # All images mode
+  if [[ "$DRY_RUN" == "true" ]]; then
+    echo "Optimizing product images (DRY RUN)..."
+  else
+    echo "Optimizing product images..."
+  fi
+
+  IMAGES_DIR="images/products"
+
+  if [[ ! -d "$IMAGES_DIR" ]]; then
+    echo "Error: Images directory not found: $IMAGES_DIR"
+    exit 1
+  fi
+
+  # Find all image files
+  mapfile -t IMAGE_FILES < <(find "$IMAGES_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | sort)
 fi
-
-IMAGES_DIR="images/products"
-
-if [[ ! -d "$IMAGES_DIR" ]]; then
-  echo "Error: Images directory not found: $IMAGES_DIR"
-  exit 1
-fi
-
-# Find all image files
-mapfile -t IMAGE_FILES < <(find "$IMAGES_DIR" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.webp" \) | sort)
 
 TOTAL_FILES=${#IMAGE_FILES[@]}
 echo "  Found $TOTAL_FILES image(s)"
@@ -84,11 +119,17 @@ for IMAGE_PATH in "${IMAGE_FILES[@]}"; do
   MAX_DIM=$((WIDTH > HEIGHT ? WIDTH : HEIGHT))
   
   NEEDS_RESIZE=false
+  RESIZE_REASON=""
   if (( MAX_DIM > 1800 )); then
     NEEDS_RESIZE=true
+    RESIZE_REASON="dimensions ${WIDTH}x${HEIGHT}"
+  elif (( ORIGINAL_SIZE > SIZE_THRESHOLD )); then
+    # File is over 2MB - something's wrong, force resize to 1800px
+    NEEDS_RESIZE=true
+    RESIZE_REASON="file size $(format_bytes "$ORIGINAL_SIZE")"
   fi
   
-  # Skip if already optimal (small enough and already .jpg)
+  # Skip if already optimal (small enough, right dimensions, and already .jpg)
   if [[ "$NEEDS_RESIZE" == "false" && "${IMAGE_PATH##*.}" == "jpg" ]]; then
     SKIPPED=$((SKIPPED + 1))
     PROCESSED=$((PROCESSED + 1))
@@ -99,7 +140,7 @@ for IMAGE_PATH in "${IMAGE_FILES[@]}"; do
   
   if [[ "$DRY_RUN" == "true" ]]; then
     if [[ "$NEEDS_RESIZE" == "true" ]]; then
-      echo "  • $FILENAME: Would resize from ${WIDTH}x${HEIGHT} and optimize"
+      echo "  • $FILENAME: Would resize ($RESIZE_REASON) and optimize"
     else
       echo "  • $FILENAME: Would optimize"
     fi
