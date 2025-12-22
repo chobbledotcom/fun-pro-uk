@@ -2,6 +2,24 @@
 layout: base
 ---
 
+<section id="homepage-header" class="full-width">
+  <h1>Corporate Event Hire Across the UK</h1>
+  <p>
+    <a href="/contact-fun-pro-uk/" class="button">
+      Get Started
+      {{ "icons/up-right-arrow.svg" | inline_asset }}
+    </a>
+  </p>
+  <p class="google">
+    <strong>Google Rating</strong>
+    5 stars
+    <small>after x reviews</small>
+  </p>
+  {%- assign products = collections.products | getFeaturedProducts | slice: 0, 3 -%}
+  {%- include "items.html", items: products, horizontal: true -%}
+</section>
+
+
 <section id="homepage-intro">
   <h1>Get in Touch</h1>
   <p>
@@ -28,20 +46,18 @@ layout: base
     <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
   </p>
   {%- assign latest_reviews = collections.reviews | slice: 0, 3 -%}
-  <ul>
-    {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
-  </ul>
+  {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
 </section>
 
 <section id="homepage-brands" class="full-width">
   <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
     <ul>
-      <li><img src="/assets/partners/boots.png" alt="Boots" /></li>
-      <li><img src="/assets/partners/kpmg.png" alt="KPMG" /></li>
-      <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual" /></li>
-      <li><img src="/assets/partners/jlr.png" alt="JLR" /></li>
-      <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce" /></li>
+      <li><img src="/assets/partners/boots.png" alt="Boots"></li>
+      <li><img src="/assets/partners/kpmg.png" alt="KPMG"></li>
+      <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual"></li>
+      <li><img src="/assets/partners/jlr.png" alt="JLR"></li>
+      <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce"></li>
     </ul>
   </div>
 </section>
@@ -53,23 +69,19 @@ layout: base
       <li>
         <h3>Browse our Games</h3>
         <p>
-          Explore our full range of interactive games, photo experiences, and
-          entertainment options. Filter by event type or guest numbers to find
-          your perfect fit.
+          Explore our full range of interactive games, photo experiences, and entertainment options. Filter by event type or guest numbers to find your perfect fit.
         </p>
       </li>
       <li>
         <h3>Build Your Quote Request</h3>
         <p>
-          Add your favourite games to your quote basket. Include your event
-          date, venue details, and any special requirements you have in mind.
+          Add your favourite games to your quote basket. Include your event date, venue details, and any special requirements you have in mind.
         </p>
       </li>
       <li>
         <h3>Receive Your Quote</h3>
         <p>
-          We'll send you a detailed quote within 24 hours. No obligation, no
-          pressure, just straightforward pricing for your event.
+          We'll send you a detailed quote within 24 hours. No obligation, no pressure, just straightforward pricing for your event.
         </p>
       </li>
     </ol>
@@ -77,7 +89,7 @@ layout: base
       Get in Touch
       {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
-    <img src="/images/placeholders/homepage-machines.png" alt="" />
+    <img src="/images/placeholders/homepage-machines.png" alt="">
   </div>
 </section>
 
@@ -89,12 +101,12 @@ layout: base
       {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
   </h2>
-  {%- assign products = collections.products | getFeaturedProducts -%} {%-
-  include "items.html", items: products, horizontal: true -%}
+  {%- assign products = collections.products | getFeaturedProducts -%}
+  {%- include "items.html", items: products, horizontal: true -%}
 </section>
 
 <section id="homepage-events">
   <h2>What Kind of Event Are You Planning?</h2>
-  {%- assign events = collections.events | getFeaturedEvents -%} {%- include
-  "items.html", items: events, horizontal: true -%}
+  {%- assign events = collections.events | getFeaturedEvents -%}
+  {%- include "items.html", items: events, horizontal: true -%}
 </section>

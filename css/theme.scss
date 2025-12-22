@@ -61,6 +61,12 @@
 :root {
   --width-content: 1300px;
   --color-bg: #fdfdfd;
+  --font-family-heading: "Dm Sans", var(--font-family-heading);
+  --font-family-body: "Dm Sans", var(--font-family-body);
+}
+
+body {
+  font-weight: 400;
 }
 
 h1,
@@ -324,6 +330,30 @@ main {
     @include breakpoints.up("xl") {
       grid-template-areas: "logo links phone email quote cart";
     }
+  }
+}
+
+#homepage-header {
+  padding: 64px 16px;
+  background: linear-gradient(
+    77deg,
+    #181a1f 27.31%,
+    rgba(24, 26, 31, 0) 80.67%
+  );
+
+  h1,
+  p,
+  button,
+  svg {
+    color: #fdfdfd !important;
+    fill: #fdfdfd;
+  }
+  h1 {
+    max-width: 650px;
+    font-size: 52px;
+  }
+  button {
+    background: transparent;
   }
 }
 
