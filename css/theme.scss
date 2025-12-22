@@ -61,8 +61,8 @@
 :root {
   --width-content: 1300px;
   --color-bg: #fdfdfd;
-  --font-family-heading: "Dm Sans", var(--font-family-heading);
-  --font-family-body: "Dm Sans", var(--font-family-body);
+  --font-family-heading: "DM Sans", var(--font-family-heading);
+  --font-family-body: "DM Sans", var(--font-family-body);
 }
 
 body {
@@ -340,20 +340,47 @@ main {
     #181a1f 27.31%,
     rgba(24, 26, 31, 0) 80.67%
   );
-
-  h1,
-  p,
-  button,
-  svg {
-    color: #fdfdfd !important;
-    fill: #fdfdfd;
-  }
+  --text-color: #fdfdfd;
   h1 {
     max-width: 650px;
     font-size: 52px;
   }
-  button {
+  .button {
     background: transparent;
+  }
+  .items {
+    li {
+      position: relative;
+      width: 270px;
+      height: 300px;
+      border-radius: 8px;
+      background: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0.8) 100%
+      );
+      .image-link {
+        width: 270px;
+        height: 270px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 0;
+      }
+      h3 {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        padding: 0;
+      }
+      p {
+        // price
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        padding: 0;
+      }
+    }
   }
 }
 
