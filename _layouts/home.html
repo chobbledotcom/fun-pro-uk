@@ -46,7 +46,9 @@ layout: base
     <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
   </p>
   {%- assign latest_reviews = collections.reviews | slice: 0, 3 -%}
-  {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
+  <ul>
+    {%- include "reviews-list.html", reviews: latest_reviews, product_links: true -%}
+  </ul>
 </section>
 
 <section id="homepage-brands" class="full-width">
