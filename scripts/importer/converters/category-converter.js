@@ -20,6 +20,8 @@ const { convertSingle, convertBatch } = createConverter({
     hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
+    // Preserve original meta title from <title> tag before overwriting
+    const metaTitle = metadata.title;
     if (extracted.categoryName) {
       metadata.title = extracted.categoryName;
     }
@@ -27,7 +29,7 @@ const { convertSingle, convertBatch } = createConverter({
     const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
     // Pass FAQs extracted from old site
     const faqs = extracted.faqs || [];
-    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs);
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs, metaTitle);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Validate FAQ extraction: if HTML has FAQ section, we must have extracted FAQs

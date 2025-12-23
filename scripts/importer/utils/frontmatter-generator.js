@@ -283,16 +283,27 @@ const BROKEN_CATEGORY_URLS = {
   'interactive-game-hire': ['/category/interactive-game-hire/2/lights-out-game/'],
 };
 
-const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null, faqs = []) => {
+const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null, faqs = [], metaTitle = null) => {
   // No permalink - let it be dynamically calculated
   // Old URL was /category/{slug}/, new URL is /categories/{slug}/ - need redirect
   const brokenUrls = BROKEN_CATEGORY_URLS[slug] || [];
   const allRedirects = [`/category/${slug}/`, ...brokenUrls];
   const redirectYaml = allRedirects.map(url => `  - "${url}"`).join('\n');
   
+  // Use provided metaTitle (from <title> tag), falling back to metadata.title
+  const finalMetaTitle = metaTitle || metadata.title || '';
+  
+  // Generate a title-cased version of the slug as fallback
+  const slugTitle = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  
+  // For title, prefer navigation text (e.g., "Arcade Games"), then fall back to title-cased slug
+  // Skip metadata.title if it looks like a meta title (contains | or is the same as metaTitle)
+  const isMetaTitleStyle = metadata.title && (metadata.title.includes('|') || metadata.title === finalMetaTitle);
+  const displayTitle = navInfo?.text || (isMetaTitleStyle ? slugTitle : metadata.title) || slugTitle;
+  
   let frontmatter = `---
-title: "${metadata.title || ''}"
-meta_title: "${metadata.title || ''}"
+title: "${displayTitle}"
+meta_title: "${finalMetaTitle}"
 meta_description: "${metadata.meta_description || ''}"
 featured: true
 redirect_from:
