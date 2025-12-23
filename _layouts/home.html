@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<section id="homepage-header" class="full-width">
+<section class="homepage-header full-width">
   <h1>Corporate Event Hire Across the UK</h1>
   <p>
     <a href="/contact-fun-pro-uk/" class="button">
@@ -21,7 +21,7 @@ layout: base
 </section>
 
 
-<section id="homepage-intro">
+<section class="homepage-intro">
   <h1>Get in Touch</h1>
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -39,7 +39,7 @@ layout: base
   </p>
 </section>
 
-<section id="homepage-testimonials">
+<section class="homepage-testimonials">
   <h2>Hear What Our Clients Have To Say</h2>
   <h3>Customer Reviews on Google</h3>
   <p>
@@ -52,7 +52,7 @@ layout: base
   </ul>
 </section>
 
-<section id="homepage-brands" class="full-width">
+<section class="homepage-brands full-width">
   <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
     <ul>
@@ -65,7 +65,7 @@ layout: base
   </div>
 </section>
 
-<section class="full-width" id="homepage-how-it-works">
+<section class="full-width homepage-how-it-works">
   <div class="grid">
     <h2>How it Works</h2>
     <ol>
@@ -96,7 +96,7 @@ layout: base
   </div>
 </section>
 
-<section id="homepage-products">
+<section class="homepage-products">
   <h2>
     <span>Popular Games</span>
     <a href="/products/">
@@ -108,7 +108,7 @@ layout: base
   {%- include "items.html", items: products, horizontal: true -%}
 </section>
 
-<section id="homepage-events">
+<section class="homepage-events">
   <h2>What Kind of Event Are You Planning?</h2>
   {%- assign events = collections.events | getFeaturedEvents -%}
   {%- include "items.html", items: events, horizontal: true -%}
