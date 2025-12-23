@@ -419,7 +419,7 @@ main {
   }
 }
 
-#homepage-header {
+.homepage-header {
   padding: 64px 16px;
   --background: linear-gradient(
     77deg,
@@ -513,7 +513,7 @@ main {
   }
 }
 
-#homepage-intro {
+.homepage-intro {
   .container {
     & > * {
       max-width: 700px;
@@ -525,7 +525,7 @@ main {
   }
 }
 
-#homepage-testimonials {
+.homepage-testimonials {
   ul {
     display: flex;
     list-style-type: none;
@@ -556,7 +556,7 @@ main {
   }
 }
 
-#homepage-brands {
+.homepage-brands {
   padding: 64px 32px;
   background: #fafafa;
   .row {
@@ -591,7 +591,7 @@ main {
   }
 }
 
-#homepage-how-it-works {
+.homepage-how-it-works {
   padding: 128px 32px;
   --color-text: #fff;
   --color-link: #fff;
@@ -748,7 +748,7 @@ main {
   }
 }
 
-#homepage-products {
+.homepage-products {
   padding: 128px 32px;
   h2 {
     font-size: 44pxc;
