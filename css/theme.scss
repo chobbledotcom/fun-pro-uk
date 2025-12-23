@@ -2,6 +2,21 @@
 @use "sass:color";
 @use "breakpoints";
 
+@mixin card {
+  border-radius: 8px;
+  border: 1px solid #babbbc;
+  background: #fafafa;
+  padding: 24px;
+
+  @include breakpoints.down("md") {
+    padding: 16px 12px;
+  }
+
+  @include breakpoints.down("sm") {
+    padding: 8px 6px;
+  }
+}
+
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
@@ -423,15 +438,12 @@ main {
     gap: 32px;
     flex-direction: row;
     li {
+      @include card;
       display: flex;
-      padding: 24px;
       flex-direction: column;
       align-items: flex-start;
       gap: 16px;
       flex: 1 0 0;
-      border-radius: 16px;
-      border: 0.5px solid #56545b;
-      background: #f3f3f3;
       & > * {
         padding: 0;
         margin: 0;
@@ -575,15 +587,12 @@ main {
     }
 
     li {
+      @include card;
       display: flex;
-      padding: 32px;
       gap: 16px;
       flex-direction: column;
       align-items: center;
       flex: 1 0 0;
-      border-radius: 16px;
-      border: 1px solid #babbbc;
-      background: #fafafa;
 
       svg {
         width: 64px;
@@ -670,9 +679,7 @@ main {
     }
   }
   li {
-    padding: 32px;
-    border: 1px solid #babbbc;
-    background: #fafafa;
+    @include card;
   }
 }
 
@@ -786,11 +793,34 @@ main {
       line-height: 32px;
       font-size: 20px;
     }
+  }
+}
 
-    .image-link,
-    placeholder {
-      margin-top: 16px;
+body.products article#content ul.items li {
+  @include card;
+}
+
+#tabs {
+  & > ul {
+    @include card;
+    height: 30rem;
+    .body {
+      padding: 0 1rem 0.5rem;
     }
+  }
+}
+
+.faqs {
+  @include breakpoints.up("md") {
+    column-count: 2;
+  }
+  dt {
+    padding: 0;
+    break-inside: avoid;
+    break-after: avoid;
+  }
+  dd {
+    margin: 0 0 2rem;
   }
 }
 
