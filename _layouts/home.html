@@ -11,9 +11,10 @@ layout: base
     </a>
   </p>
   <p class="google">
+    {{ "icons/google.svg" | inline_asset }}
     <strong>Google Rating</strong>
-    5 stars
-    <small>after x reviews</small>
+    <span>5 ⭐⭐⭐⭐</span>
+    <a href="/reviews/">See all our reviews</a>
   </p>
   {%- assign products = collections.products | getFeaturedProducts | slice: 0, 3 -%}
   {%- include "items.html", items: products, horizontal: true -%}

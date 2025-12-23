@@ -2,6 +2,34 @@
 @use "sass:color";
 @use "breakpoints";
 
+@mixin themed-section() {
+  background: var(--background);
+  color: var(--color-text);
+
+  a {
+    color: var(--color-link);
+    &:hover,
+    &:active {
+      color: var(--color-link-hover);
+    }
+    &.button {
+      border-color: var(--color-link);
+      svg {
+        fill: var(--color-link);
+      }
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: var(--color-text);
+  }
+}
+
 @mixin card {
   border-radius: 8px;
   border: 1px solid #babbbc;
@@ -181,6 +209,13 @@ placeholder {
   background: #c0c0c0;
 }
 
+a {
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 a.button {
   display: flex;
   padding: 14px 24px;
@@ -192,15 +227,15 @@ a.button {
   font-weight: 500;
   font-size: 16px;
   line-height: 28px;
+  background: transparent;
 
   &:hover {
+    background: transparent;
     border-width: 1px;
     text-decoration: none;
   }
 
   &.white {
-    background: #fff;
-    border: none;
     svg {
       fill: #181a1f;
     }
@@ -210,11 +245,14 @@ a.button {
     color: white;
     background: #ee3324;
     border: none;
+    svg {
+      fill: white;
+    }
   }
 }
 
 body {
-  color: #181a1f;
+  --color-text: #181a1f;
   font-family: "DM Sans";
   font-size: 16px;
   font-style: normal;
@@ -263,10 +301,6 @@ main {
     font-size: 14px;
     font-weight: 500;
     display: grid;
-
-    a {
-      text-decoration: none;
-    }
 
     #logo {
       grid-area: logo;
@@ -350,18 +384,42 @@ main {
 
 #homepage-header {
   padding: 64px 16px;
-  background: linear-gradient(
+  --background: linear-gradient(
     77deg,
     #181a1f 27.31%,
     rgba(24, 26, 31, 0) 80.67%
   );
   --color-text: #fdfdfd;
   --color-link: #fdfdfd;
-  color: var(--color-text);
-
+  --color-link-hover: #fdfdfd;
+  @include themed-section;
   h1 {
     max-width: 650px;
     font-size: 52px;
+  }
+  .google {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 0 8px;
+    grid-template-areas: "logo header" "logo rating" "logo count";
+    position: relative;
+    font-size: 10px;
+    line-height: 15px;
+    svg {
+      grid-area: logo;
+      width: 40px;
+      height: 40px;
+      align-self: center;
+    }
+    strong {
+      grid-area: header;
+    }
+    span {
+      grid-area: rating;
+    }
+    a {
+      grid-area: count;
+    }
   }
   .button {
     background: transparent;
@@ -498,6 +556,12 @@ main {
 
 #homepage-how-it-works {
   padding: 128px 32px;
+  --color-text: #fff;
+  --color-link: #fff;
+  --color-link-hover: #fff;
+  --background: #009dd7;
+  @include themed-section;
+
   .grid {
     display: grid;
     grid-template-areas: "header header" "left image" "link image";
@@ -519,14 +583,6 @@ main {
         background: #009dd7;
       }
     }
-  }
-  background: #009dd7;
-  color: #fff;
-
-  h1,
-  h2,
-  h3 {
-    color: #fff;
   }
 
   @include breakpoints.down("md") {
@@ -666,7 +722,6 @@ main {
     align-items: center;
     a {
       font-size: 16px;
-      text-decoration: none;
       font-weight: 500;
       display: flex;
       gap: 8px;
@@ -690,13 +745,6 @@ main {
   grid-template-columns: 50px 1fr;
   gap: 0 16px;
   font-weight: 700;
-
-  a {
-    text-decoration: none;
-    &:hover {
-      text-decoration: underline;
-    }
-  }
 
   #footer-logo {
     aspect-ratio: 42/53;
@@ -785,10 +833,6 @@ main {
   }
   li {
     text-align: left;
-    a {
-      text-decoration: none;
-    }
-
     h3 {
       line-height: 32px;
       font-size: 20px;
@@ -835,7 +879,6 @@ body.products article#content ul.items li {
     font-weight: 36px;
     border-radius: 100%;
     border: 1px solid #babbbc;
-    text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
