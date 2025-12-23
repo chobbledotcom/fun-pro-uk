@@ -35,6 +35,7 @@
   border: 1px solid #babbbc;
   background: #fafafa;
   padding: 24px;
+  position: relative;
 
   @include breakpoints.down("md") {
     padding: 16px 12px;
@@ -106,10 +107,6 @@
   --color-bg: #fdfdfd;
   --font-family-heading: "DM Sans", var(--font-family-heading);
   --font-family-body: "DM Sans", var(--font-family-body);
-}
-
-body {
-  font-weight: 400;
 }
 
 h1,
@@ -259,10 +256,36 @@ body {
   font-weight: 400;
   line-height: normal;
   padding: 0;
-
+  @include breakpoints.down("sm") {
+    &.sticky-mobile-nav nav {
+      height: auto;
+      padding-right: 60px;
+    }
+  }
   &.item {
     article#content {
       background: #fafafa;
+    }
+  }
+  &.products {
+    article#content ul.items li {
+      @include card;
+    }
+  }
+  &.locations {
+    article#content ul.items li {
+      @include card;
+      width: 367px;
+      padding-top: 166px;
+      gap: 8px;
+      .image-link,
+      placeholder {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 367px;
+        height: 154px;
+      }
     }
   }
 }
@@ -320,6 +343,13 @@ main {
       grid-area: email;
     }
 
+    #nav-phone,
+    #nav-email {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
     #nav-quote {
       grid-area: quote;
       border-radius: 5000px;
@@ -345,17 +375,24 @@ main {
     }
 
     @include breakpoints.down("sm") {
-      gap: 16px;
+      gap: 0 8px;
       height: auto;
+      grid-template-columns: 40px 1fr;
       grid-template-areas:
-        "logo phone . quote cart"
-        "logo email . quote cart";
+        "logo phone cart"
+        "logo email cart";
 
+      #logo {
+        width: 40px;
+      }
       #nav-phone {
         align-self: end;
       }
       #nav-email {
         align-self: start;
+      }
+      #nav-quote {
+        display: none;
       }
     }
 
@@ -840,10 +877,6 @@ main {
   }
 }
 
-body.products article#content ul.items li {
-  @include card;
-}
-
 #tabs {
   & > ul {
     @include card;
@@ -885,6 +918,7 @@ body.products article#content ul.items li {
 
     &:hover {
       border-color: #181a1f;
+      color: #181a1f;
       background-color: white;
     }
 

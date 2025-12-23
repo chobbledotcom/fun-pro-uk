@@ -1,25 +1,25 @@
-const { PRODUCT_ORDER } = require('../constants');
+const { PRODUCT_ORDER } = require("../constants");
 
 /**
  * Configuration for page-specific layouts and overrides
  * Navigation is now dynamically extracted from the old site
  */
 const PAGE_CONFIG = {
-  'contact': {
-    layout: 'contact.html',
+  contact: {
+    layout: "contact.html",
   },
-  'contact-fun-pro-uk': {
-    layout: 'contact.html',
+  "contact-fun-pro-uk": {
+    layout: "contact.html",
   },
-  'reviews': {
-    layout: 'reviews.html',
+  reviews: {
+    layout: "reviews.html",
   },
-  'delivery-areas': {
-    layout: 'locations',
+  "delivery-areas": {
+    layout: "locations",
   },
-  'testimonials': {
-    layout: 'reviews.html',
-  }
+  testimonials: {
+    layout: "reviews.html",
+  },
 };
 
 /**
@@ -32,19 +32,24 @@ const PAGE_CONFIG = {
  * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
  * @returns {string} Frontmatter YAML
  */
-const generatePageFrontmatter = (metadata, slug, pageHeading = null, navInfo = null) => {
+const generatePageFrontmatter = (
+  metadata,
+  slug,
+  pageHeading = null,
+  navInfo = null,
+) => {
   const pageConfig = PAGE_CONFIG[slug] || {};
-  const layout = pageConfig.layout || 'page';
+  const layout = pageConfig.layout || "page";
 
   // Pages that were already at root level on the old site don't need redirects
-  const rootPages = ['contact', 'reviews', 'delivery-areas', 'testimonials'];
+  const rootPages = ["contact", "reviews", "delivery-areas", "testimonials"];
   const needsRedirect = !rootPages.includes(slug);
 
   // No permalink - let it be dynamically calculated from file location
   // Pages collection will put them at /{slug}/
   let frontmatter = `---
-meta_title: "${metadata.title || ''}"
-meta_description: "${metadata.meta_description || ''}"
+meta_title: "${metadata.title || ""}"
+meta_description: "${metadata.meta_description || ""}"
 layout: ${layout}`;
 
   // Add redirect_from for old /pages/ URLs
@@ -55,7 +60,7 @@ layout: ${layout}`;
   // Add navigation if extracted from old site
   if (navInfo) {
     // Use the link text from navigation as the key if available, otherwise use title or slug
-    const navKey = navInfo.text || metadata.title || slug.replace(/-/g, ' ');
+    const navKey = navInfo.text || metadata.title || slug.replace(/-/g, " ");
     frontmatter += `
 eleventyNavigation:
   key: "${escapeYamlString(navKey)}"`;
@@ -68,7 +73,7 @@ eleventyNavigation:
   order: ${navInfo.order}`;
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
   return frontmatter;
 };
 
@@ -78,7 +83,7 @@ eleventyNavigation:
  * @returns {string} Escaped string
  */
 const escapeYamlString = (str) => {
-  if (!str) return '';
+  if (!str) return "";
   return str.replace(/"/g, '\\"');
 };
 
@@ -89,23 +94,23 @@ const escapeYamlString = (str) => {
  * @returns {string} YAML formatted FAQs string (without leading newline)
  */
 const formatFaqsYaml = (faqs) => {
-  if (!faqs || faqs.length === 0) return '';
-  
-  let yaml = 'faqs:';
+  if (!faqs || faqs.length === 0) return "";
+
+  let yaml = "faqs:";
   for (const faq of faqs) {
     const q = faq.question.replace(/"/g, '\\"');
-    const answer = faq.answer || '';
-    const isMultiLine = answer.includes('\n');
-    
+    const answer = faq.answer || "";
+    const isMultiLine = answer.includes("\n");
+
     yaml += `\n  - question: "${q}"`;
-    
+
     if (isMultiLine) {
       // Use literal block scalar for multi-line answers
       // Indent each line by 6 spaces (2 for list, 4 for answer property)
       const indentedAnswer = answer
-        .split('\n')
-        .map(line => '      ' + line)
-        .join('\n');
+        .split("\n")
+        .map((line) => "      " + line)
+        .join("\n");
       yaml += `\n    answer: |\n${indentedAnswer}`;
     } else {
       // Single line - use quoted string
@@ -127,8 +132,14 @@ const formatFaqsYaml = (faqs) => {
  * @param {string} localImagePath - Local path to downloaded image
  * @returns {string} Frontmatter YAML
  */
-const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, localImagePath = null) => {
-  const postTitle = metadata.header_text || slug.replace(/-/g, ' ');
+const generateBlogFrontmatter = (
+  metadata,
+  slug,
+  date,
+  blogHeading = null,
+  localImagePath = null,
+) => {
+  const postTitle = metadata.header_text || slug.replace(/-/g, " ");
 
   // Old URL from the old site
   const oldUrl = `/news/${date}/${slug}/`;
@@ -139,8 +150,8 @@ const generateBlogFrontmatter = (metadata, slug, date, blogHeading = null, local
 title: "${postTitle}"
 date: ${date}
 author: "team/colin.md"
-meta_title: "${metadata.title || ''}"
-meta_description: "${metadata.meta_description || ''}"`;
+meta_title: "${metadata.title || ""}"
+meta_description: "${metadata.meta_description || ""}"`;
 
   // Add redirect_from if old URL differs from new URL
   if (oldUrl !== newUrl) {
@@ -152,7 +163,7 @@ meta_description: "${metadata.meta_description || ''}"`;
     frontmatter += `\ngallery:\n  - "${localImagePath}"`;
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
   return frontmatter;
 };
 
@@ -163,21 +174,21 @@ meta_description: "${metadata.meta_description || ''}"`;
  * @returns {string} YAML formatted tabs string (without leading newline)
  */
 const formatTabsYaml = (tabs) => {
-  if (!tabs || tabs.length === 0) return '';
-  
-  let yaml = 'tabs:';
+  if (!tabs || tabs.length === 0) return "";
+
+  let yaml = "tabs:";
   for (const tab of tabs) {
-    const title = (tab.title || '').replace(/"/g, '\\"');
-    const body = tab.body || '';
-    
+    const title = (tab.title || "").replace(/"/g, '\\"');
+    const body = tab.body || "";
+
     yaml += `\n  - title: "${title}"`;
-    
+
     // Always use literal block scalar for body content to preserve formatting
     // Indent each line by 4 spaces (2 for list item, 2 for body property content)
     const indentedBody = body
-      .split('\n')
-      .map(line => '      ' + line)
-      .join('\n');
+      .split("\n")
+      .map((line) => "      " + line)
+      .join("\n");
     yaml += `\n    body: |\n${indentedBody}`;
   }
   return yaml;
@@ -198,29 +209,47 @@ const formatTabsYaml = (tabs) => {
  * @param {string} bodyContent - Markdown body content to include as a tab
  * @returns {string} Frontmatter YAML
  */
-const generateProductFrontmatter = (metadata, slug, price, categories, productName, images = null, productHeading = null, events = [], oldSitePath = null, faqs = [], bodyContent = '') => {
+const generateProductFrontmatter = (
+  metadata,
+  slug,
+  price,
+  categories,
+  productName,
+  images = null,
+  productHeading = null,
+  events = [],
+  oldSitePath = null,
+  faqs = [],
+  bodyContent = "",
+) => {
   // Ensure categories is an array
-  const categoryArray = Array.isArray(categories) ? categories : (categories ? [categories] : []);
-  const categoriesYaml = categoryArray.length > 0
-    ? `[${categoryArray.map(c => `"${c}"`).join(', ')}]`
-    : '[]';
+  const categoryArray = Array.isArray(categories)
+    ? categories
+    : categories
+      ? [categories]
+      : [];
+  const categoriesYaml =
+    categoryArray.length > 0
+      ? `[${categoryArray.map((c) => `"${c}"`).join(", ")}]`
+      : "[]";
 
   // Ensure events is an array
-  const eventsArray = Array.isArray(events) ? events : (events ? [events] : []);
-  const eventsYaml = eventsArray.length > 0
-    ? `[${eventsArray.map(e => `"${e}"`).join(', ')}]`
-    : '[]';
+  const eventsArray = Array.isArray(events) ? events : events ? [events] : [];
+  const eventsYaml =
+    eventsArray.length > 0
+      ? `[${eventsArray.map((e) => `"${e}"`).join(", ")}]`
+      : "[]";
 
   // Get product order, default to 50 if not in mapping
   const productOrder = PRODUCT_ORDER[slug] || 50;
 
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
-title: "${productName || metadata.title || ''}"
+title: "${productName || metadata.title || ""}"
 price: "${price}"
 order: ${productOrder}
-meta_title: "${metadata.title || ''}"
-meta_description: "${metadata.meta_description || ''}"
+meta_title: "${metadata.title || ""}"
+meta_description: "${metadata.meta_description || ""}"
 categories: ${categoriesYaml}
 events: ${eventsYaml}
 featured: true
@@ -228,26 +257,30 @@ features: []`;
 
   // Add redirect_from for old site URL
   if (oldSitePath) {
-    const oldUrl = `/category/${oldSitePath.replace(/\.html$/, '').replace(/\\/g, '/')}/`;
+    const oldUrl = `/category/${oldSitePath.replace(/\.html$/, "").replace(/\\/g, "/")}/`;
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
 
   // Preserve existing gallery (local paths managed by another script)
   if (images?.existingGallery && images.existingGallery.length > 0) {
-    const galleryYaml = images.existingGallery.map(img => `  - "${img}"`).join('\n');
+    const galleryYaml = images.existingGallery
+      .map((img) => `  - "${img}"`)
+      .join("\n");
     frontmatter += `\ngallery:\n${galleryYaml}`;
   }
 
   // Add gallery_cloudinary with Cloudinary URLs from old site
   if (images?.gallery_cloudinary && images.gallery_cloudinary.length > 0) {
-    const galleryYaml = images.gallery_cloudinary.map(img => `  - "${img}"`).join('\n');
+    const galleryYaml = images.gallery_cloudinary
+      .map((img) => `  - "${img}"`)
+      .join("\n");
     frontmatter += `\ngallery_cloudinary:\n${galleryYaml}`;
   }
 
   // Add FAQs if present
   const faqsYaml = formatFaqsYaml(faqs);
   if (faqsYaml) {
-    frontmatter += '\n' + faqsYaml;
+    frontmatter += "\n" + faqsYaml;
   }
 
   // Add body content as a tab with title "Why <Product Name>?"
@@ -256,11 +289,11 @@ features: []`;
     const tabs = [{ title: tabTitle, body: bodyContent.trim() }];
     const tabsYaml = formatTabsYaml(tabs);
     if (tabsYaml) {
-      frontmatter += '\n' + tabsYaml;
+      frontmatter += "\n" + tabsYaml;
     }
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
   return frontmatter;
 };
 
@@ -279,39 +312,57 @@ features: []`;
 // Broken old-site URLs that should redirect to categories
 // These were links to non-existent products on the old site
 const BROKEN_CATEGORY_URLS = {
-  'arcade-games': ['/category/arcade-games/2/lights-out-game/'],
-  'interactive-game-hire': ['/category/interactive-game-hire/2/lights-out-game/'],
+  "arcade-games": ["/category/arcade-games/2/lights-out-game/"],
+  "interactive-game-hire": [
+    "/category/interactive-game-hire/2/lights-out-game/",
+  ],
 };
 
-const generateCategoryFrontmatter = (metadata, slug, categoryHeading = null, categoryIndex = 0, navInfo = null, faqs = [], metaTitle = null) => {
+const generateCategoryFrontmatter = (
+  metadata,
+  slug,
+  categoryHeading = null,
+  categoryIndex = 0,
+  navInfo = null,
+  faqs = [],
+  metaTitle = null,
+) => {
   // No permalink - let it be dynamically calculated
   // Old URL was /category/{slug}/, new URL is /categories/{slug}/ - need redirect
   const brokenUrls = BROKEN_CATEGORY_URLS[slug] || [];
   const allRedirects = [`/category/${slug}/`, ...brokenUrls];
-  const redirectYaml = allRedirects.map(url => `  - "${url}"`).join('\n');
-  
+  const redirectYaml = allRedirects.map((url) => `  - "${url}"`).join("\n");
+
   // Use provided metaTitle (from <title> tag), falling back to metadata.title
-  const finalMetaTitle = metaTitle || metadata.title || '';
-  
+  const finalMetaTitle = metaTitle || metadata.title || "";
+
   // Generate a title-cased version of the slug as fallback
-  const slugTitle = slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-  
+  const slugTitle = slug
+    .split("-")
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+
   // For title, prefer navigation text (e.g., "Arcade Games"), then fall back to title-cased slug
   // Skip metadata.title if it looks like a meta title (contains | or is the same as metaTitle)
-  const isMetaTitleStyle = metadata.title && (metadata.title.includes('|') || metadata.title === finalMetaTitle);
-  const displayTitle = navInfo?.text || (isMetaTitleStyle ? slugTitle : metadata.title) || slugTitle;
-  
+  const isMetaTitleStyle =
+    metadata.title &&
+    (metadata.title.includes("|") || metadata.title === finalMetaTitle);
+  const displayTitle =
+    navInfo?.text ||
+    (isMetaTitleStyle ? slugTitle : metadata.title) ||
+    slugTitle;
+
   let frontmatter = `---
 title: "${displayTitle}"
 meta_title: "${finalMetaTitle}"
-meta_description: "${metadata.meta_description || ''}"
+meta_description: "${metadata.meta_description || ""}"
 featured: true
 redirect_from:
 ${redirectYaml}`;
 
   // Add navigation if extracted from old site navigation
   if (navInfo) {
-    const navKey = navInfo.text || metadata.title || categoryHeading || '';
+    const navKey = navInfo.text || metadata.title || categoryHeading || "";
     frontmatter += `
 eleventyNavigation:
   key: "${escapeYamlString(navKey)}"`;
@@ -327,10 +378,10 @@ eleventyNavigation:
   // Add FAQs if present
   const faqsYaml = formatFaqsYaml(faqs);
   if (faqsYaml) {
-    frontmatter += '\n' + faqsYaml;
+    frontmatter += "\n" + faqsYaml;
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
   return frontmatter;
 };
 
@@ -361,16 +412,24 @@ products: ["products/${productSlug}.md"]
  * @param {string} sourceType - Source type: 'category' or 'pages' (to determine old URL)
  * @returns {string} Frontmatter YAML
  */
-const generateEventFrontmatter = (metadata, slug, eventHeading = null, eventIndex = 0, navInfo = null, sourceType = 'category') => {
+const generateEventFrontmatter = (
+  metadata,
+  slug,
+  eventHeading = null,
+  eventIndex = 0,
+  navInfo = null,
+  sourceType = "category",
+) => {
   // Old URL depends on source type
-  const oldUrl = sourceType === 'pages' ? `/pages/${slug}/` : `/category/${slug}/`;
+  const oldUrl =
+    sourceType === "pages" ? `/pages/${slug}/` : `/category/${slug}/`;
   // New URL will be dynamically calculated: /events/{slug}/
   const newUrl = `/events/${slug}/`;
 
   let frontmatter = `---
-title: "${metadata.title || ''}"
-meta_title: "${metadata.title || ''}"
-meta_description: "${metadata.meta_description || ''}"
+title: "${metadata.title || ""}"
+meta_title: "${metadata.title || ""}"
+meta_description: "${metadata.meta_description || ""}"
 featured: true`;
 
   // Add redirect_from if old URL differs from new URL
@@ -380,7 +439,7 @@ featured: true`;
 
   // Add navigation if extracted from old site navigation
   if (navInfo) {
-    const navKey = navInfo.text || metadata.title || eventHeading || '';
+    const navKey = navInfo.text || metadata.title || eventHeading || "";
     frontmatter += `
 eleventyNavigation:
   key: "${escapeYamlString(navKey)}"`;
@@ -393,7 +452,7 @@ eleventyNavigation:
   order: ${navInfo.order}`;
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
   return frontmatter;
 };
 
@@ -408,35 +467,44 @@ eleventyNavigation:
  * @param {string} strippedSlug - Slug with town name removed (e.g., 'corporate-event-hire')
  * @returns {Object} Object with frontmatter and filename
  */
-const generateLocationFrontmatter = (metadata, slug, locationHeading = null, town = null, strippedSlug = null) => {
+const generateLocationFrontmatter = (
+  metadata,
+  slug,
+  locationHeading = null,
+  town = null,
+  strippedSlug = null,
+) => {
   // Use the heading or title for the location title
-  const title = locationHeading || metadata.header_text || metadata.title || '';
+  const title = locationHeading || metadata.header_text || metadata.title || "";
 
   // Old URL from the old site
   const oldUrl = `/pages/${slug}/`;
-  
+
   // New URL will be dynamically calculated from file location
   // e.g., locations/birmingham/corporate-event-hire.md -> /locations/birmingham/corporate-event-hire/
   // Only add redirect_from if the old URL differs from the new one
-  const newUrl = town && strippedSlug ? `/locations/${town}/${strippedSlug}/` : `/locations/${slug}/`;
+  const newUrl =
+    town && strippedSlug
+      ? `/locations/${town}/${strippedSlug}/`
+      : `/locations/${slug}/`;
 
   let frontmatter = `---
 title: "${escapeYamlString(title)}"
-meta_title: "${escapeYamlString(metadata.title || '')}"
-meta_description: "${escapeYamlString(metadata.meta_description || '')}"`;
+meta_title: "${escapeYamlString(metadata.title || "")}"
+meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
 
   // Add redirect_from if old URL differs from new URL
   if (oldUrl !== newUrl) {
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
 
-  frontmatter += '\n---';
+  frontmatter += "\n---";
 
   // If town info provided, return object with custom filename in subfolder
   if (town && strippedSlug) {
     return {
       frontmatter,
-      filename: `${town}/${strippedSlug}.md`
+      filename: `${town}/${strippedSlug}.md`,
     };
   }
 
@@ -453,9 +521,9 @@ meta_description: "${escapeYamlString(metadata.meta_description || '')}"`;
 const generateLocationRootFrontmatter = (town) => {
   // Convert slug to display name (e.g., 'milton-keynes' -> 'Milton Keynes')
   const townName = town
-    .split('-')
-    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(' ');
+    .split("-")
+    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(" ");
 
   // No permalink - URL will be dynamically calculated from file location
   return `---
@@ -463,6 +531,7 @@ title: "${townName}"
 meta_title: "Event Hire ${townName} | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in ${townName}. Interactive games, photo booths and more for corporate events, weddings and parties."
 layout: location
+subtitle: Subtitle subtitle subtitle subtitle
 location: "${town}"
 ---
 
@@ -480,5 +549,5 @@ module.exports = {
   generateEventFrontmatter,
   generateReviewFrontmatter,
   generateLocationFrontmatter,
-  generateLocationRootFrontmatter
+  generateLocationRootFrontmatter,
 };
