@@ -1,5 +1,5 @@
 ---
-title: "Roll & Bowl Hire | Arcade Bowling Derby Horse Race Game | UK"
+title: "Roll & Bowl"
 meta_title: "Roll & Bowl Hire | Arcade Bowling Derby Horse Race Game | UK"
 meta_description: "Roll and Bowl sees participants attempting to propel their horse forward by bowling balls into scored holes. Hire this competitive arcade classic today!"
 featured: true

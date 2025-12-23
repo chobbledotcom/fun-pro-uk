@@ -1,5 +1,5 @@
 ---
-title: "Freshers Entertainment Hire | University Games & Activities"
+title: "Freshers Fair Games"
 meta_title: "Freshers Entertainment Hire | University Games & Activities"
 meta_description: "Professional freshers week entertainment hire for universities across the UK. Interactive games, activities and expert planning support."
 featured: true

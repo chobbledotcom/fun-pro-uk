@@ -1,5 +1,5 @@
 ---
-title: "Family Fun Days | Benefits | Planning | Guides and FAQs | UK"
+title: "Fun Days"
 meta_title: "Family Fun Days | Benefits | Planning | Guides and FAQs | UK"
 meta_description: "Read our guide to the benefit and planning of family fun days and avoid any common pitfalls as you prepare for the big event! Contact us for more info."
 featured: true
