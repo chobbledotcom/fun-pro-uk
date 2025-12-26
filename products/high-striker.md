@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/all-products.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "High Striker"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/48/high-striker/"
 gallery:

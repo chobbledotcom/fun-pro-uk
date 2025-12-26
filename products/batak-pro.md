@@ -8,6 +8,10 @@ categories: ["categories/batak.md", "categories/exhibition-games.md", "categorie
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Batak Pro"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/batak/43/batak-pro/"
   - "/category/exhibition-games/43/batak-pro/"

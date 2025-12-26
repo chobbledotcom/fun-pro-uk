@@ -8,6 +8,10 @@ categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Play Your Cards Right Stall Hire"
+    max_quantity: 1
+    unit_price: 450
 redirect_from:
   - "/category/fun-fair-stalls/97/play-your-cards-right-stall-hire/"
 gallery:

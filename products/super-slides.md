@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "SUPER SLIDES"
+    max_quantity: 1
+    unit_price: 295
 redirect_from:
   - "/category/fun-days/26/super-slides/"
 gallery:

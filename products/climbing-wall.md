@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Climbing Wall"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/corporate-entertainment/76/climbing-wall/"
 gallery:

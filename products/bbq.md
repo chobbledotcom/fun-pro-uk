@@ -8,6 +8,10 @@ categories: ["categories/fun-foods.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "BBQ"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/fun-foods/71/bbq/"
 gallery:

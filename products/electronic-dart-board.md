@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Electronic Dart Board"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/arcade-games/106/electronic-dart-board/"
 gallery:

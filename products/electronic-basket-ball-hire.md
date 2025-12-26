@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: []
 featured: true
 features: []
+options:
+  - name: "ELECTRONIC BASKET BALL HIRE"
+    max_quantity: 1
+    unit_price: 295
 redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
   - "/category/interactive-game-hire/6/electronic-basket-ball-hire/"

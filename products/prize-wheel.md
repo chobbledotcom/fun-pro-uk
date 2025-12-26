@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/prize-games.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Prize Wheel"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/49/prize-wheel/"
   - "/category/prize-games/49/prize-wheel/"

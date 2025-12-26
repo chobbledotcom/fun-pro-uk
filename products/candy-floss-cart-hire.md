@@ -8,6 +8,10 @@ categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categorie
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Candy Floss Cart Hire"
+    max_quantity: 1
+    unit_price: 450
 redirect_from:
   - "/category/fun-foods/92/candy-floss-cart-hire/"
 gallery:

@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Football Darts"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/fun-days/83/football-darts/"
 gallery:

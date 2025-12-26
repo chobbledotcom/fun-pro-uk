@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Prize Crane Arcade Grabber"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/arcade-games/47/prize-crane-arcade-grabber/"
 gallery:

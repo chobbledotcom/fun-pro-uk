@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Ballnado Grabber"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/exhibition-games/36/ballnado-grabber/"
   - "/category/grab-a-grand/36/ballnado-grabber/"

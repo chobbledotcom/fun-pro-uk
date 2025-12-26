@@ -243,6 +243,16 @@ const generateProductFrontmatter = (
   // Get product order, default to 50 if not in mapping
   const productOrder = PRODUCT_ORDER[slug] || 50;
 
+  // Parse numeric price from string like "£395" -> 395
+  const numericPrice = parseFloat((price || "0").replace(/[^0-9.]/g, "")) || 0;
+
+  // Create a single option with the product name and price
+  const optionName = productName || metadata.title || "";
+  const optionsYaml = `options:
+  - name: "${optionName}"
+    max_quantity: 1
+    unit_price: ${numericPrice}`;
+
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
 title: "${productName || metadata.title || ""}"
@@ -253,7 +263,8 @@ meta_description: "${metadata.meta_description || ""}"
 categories: ${categoriesYaml}
 events: ${eventsYaml}
 featured: true
-features: []`;
+features: []
+${optionsYaml}`;
 
   // Add redirect_from for old site URL
   if (oldSitePath) {

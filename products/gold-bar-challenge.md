@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Gold Bar Challenge"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/exhibition-games/107/gold-bar-challenge/"
 gallery:

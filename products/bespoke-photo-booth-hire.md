@@ -8,6 +8,10 @@ categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-
 events: []
 featured: true
 features: []
+options:
+  - name: "Bespoke Photo Booth Hire"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/branded-exhibition-games/24/bespoke-photo-booth-hire/"
 gallery:

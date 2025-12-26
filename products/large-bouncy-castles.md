@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "LARGE BOUNCY CASTLES"
+    max_quantity: 1
+    unit_price: 295
 redirect_from:
   - "/category/corporate-entertainment/23/large-bouncy-castles/"
 gallery:

@@ -8,6 +8,10 @@ categories: ["categories/roll-and-bowl.md", "categories/arcade-games.md", "categ
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "8 Lane Roll & Bowl Donkey Derby"
+    max_quantity: 1
+    unit_price: 1695
 redirect_from:
   - "/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/"
 gallery:
