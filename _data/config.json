@@ -11,6 +11,7 @@
 	"checkout_api_url": null,
 	"stripe_publishable_key": null,
 	"has_cart_enquiry_form": true,
+	"cart_mode": "quote",
 	"contact_form_target": "https://auto.chobble.com/webhooks/flows/7293ba6f-810a-4dd0-99fb-462ea365d3cd",
 	"paypal_email": null,
 	"products": {
