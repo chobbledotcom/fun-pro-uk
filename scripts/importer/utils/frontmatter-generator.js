@@ -566,8 +566,7 @@ title: "${townName}"
 meta_title: "Event Hire ${townName} | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in ${townName}. Interactive games, photo booths and more for corporate events, weddings and parties."
 layout: location
-subtitle: Subtitle subtitle subtitle subtitle
-location: "${town}"`;
+subtitle: Subtitle subtitle subtitle subtitle`;
 
   if (thumbnail) {
     frontmatter += `\nthumbnail: "${thumbnail}"`;
