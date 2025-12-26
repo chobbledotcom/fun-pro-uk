@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Corn Hole"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 295
 redirect_from:
   - "/category/exhibition-games/99/corn-hole/"

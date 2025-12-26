@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Climbing Wall"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 0
 redirect_from:
   - "/category/corporate-entertainment/76/climbing-wall/"

@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Danger-zone-strike-a-light-game-hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"

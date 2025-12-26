@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Dance Machine"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 475
 redirect_from:
   - "/category/exhibition-games/39/dance-machine/"

@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "LARGE BOUNCY CASTLES"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 295
 redirect_from:
   - "/category/corporate-entertainment/23/large-bouncy-castles/"

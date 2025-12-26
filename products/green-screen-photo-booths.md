@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "GREEN SCREEN PHOTO BOOTHS"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 450
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"

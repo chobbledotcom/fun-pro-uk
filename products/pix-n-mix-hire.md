@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Pix N Mix Hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 550
 redirect_from:
   - "/category/exhibition-games/42/pix-n-mix-hire/"

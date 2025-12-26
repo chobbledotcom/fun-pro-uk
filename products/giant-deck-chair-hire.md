@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Giant Deck Chair Hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 195
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"

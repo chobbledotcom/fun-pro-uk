@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "8 Lane Reindeer Racing"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 1695
 redirect_from:
   - "/category/christmas-games/102/8-lane-reindeer-racing/"

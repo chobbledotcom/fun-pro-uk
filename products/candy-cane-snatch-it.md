@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Candy Cane Snatch it"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 395
 redirect_from:
   - "/category/christmas-game-hire/89/candy-cane-snatch-it/"

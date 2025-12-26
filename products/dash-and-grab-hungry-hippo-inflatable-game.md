@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Dash & Grab / Hungry Hippo Inflatable Game"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 495
 redirect_from:
   - "/category/corporate-entertainment/32/dash-and-grab-hungry-hippo-inflatable-game/"

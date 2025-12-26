@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Crack The Code safe cracker"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 395
 redirect_from:
   - "/category/exhibition-games/37/crack-the-code-safe-cracker/"

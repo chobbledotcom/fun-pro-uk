@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Hook A Duck"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 450
 redirect_from:
   - "/category/fun-fair-stalls/103/hook-a-duck/"

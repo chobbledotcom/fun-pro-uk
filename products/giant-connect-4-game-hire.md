@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Giant Connect 4 Game Hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 60
 redirect_from:
   - "/category/corporate-entertainment/45/giant-connect-4-game-hire/"

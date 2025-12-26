@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "HUMAN TABLE FOOTBALL"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 495
 redirect_from:
   - "/category/corporate-entertainment/19/human-table-football/"

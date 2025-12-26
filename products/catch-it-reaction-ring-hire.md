@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Catch it Reaction Ring Hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 445
 redirect_from:
   - "/category/exhibition-games/94/catch-it-reaction-ring-hire/"

@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Twin Axe throwing"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 395
 redirect_from:
   - "/category/all-products/98/twin-axe-throwing/"

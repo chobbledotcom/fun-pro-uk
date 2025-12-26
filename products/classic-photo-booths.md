@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "CLASSIC PHOTO BOOTHS"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 450
 redirect_from:
   - "/category/company-award-ceremonies/11/classic-photo-booths/"

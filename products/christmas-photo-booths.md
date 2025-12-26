@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "CHRISTMAS PHOTO BOOTHS"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 450
 redirect_from:
   - "/category/christmas-game-hire/12/christmas-photo-booths/"

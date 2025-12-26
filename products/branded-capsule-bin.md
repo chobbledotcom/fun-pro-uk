@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Branded Capsule Bin"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 0
 redirect_from:
   - "/category/branded-exhibition-games/110/branded-capsule-bin/"

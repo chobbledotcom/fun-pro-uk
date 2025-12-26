@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "RED CARPET & 4 GOLD STANCHIONS"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 0
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/31/red-carpet-and-4-gold-stanchions/"

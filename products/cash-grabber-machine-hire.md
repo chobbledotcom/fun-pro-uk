@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "CASH GRABBER MACHINE HIRE"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 495
 redirect_from:
   - "/category/exhibition-games/3/cash-grabber-machine-hire/"

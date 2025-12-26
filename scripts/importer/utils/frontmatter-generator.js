@@ -250,7 +250,7 @@ const generateProductFrontmatter = (
   const optionName = productName || metadata.title || "";
   const optionsYaml = `options:
   - name: "${optionName}"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: ${numericPrice}`;
 
   // Base frontmatter - no permalink, let it be dynamically calculated

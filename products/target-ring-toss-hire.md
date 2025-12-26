@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Target Ring Toss Hire"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 450
 redirect_from:
   - "/category/fun-fair-stalls/95/target-ring-toss-hire/"

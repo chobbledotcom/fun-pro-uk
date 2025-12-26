@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Scalextric Slot Car Racing"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 695
 redirect_from:
   - "/category/all-products/88/scalextric-slot-car-racing/"

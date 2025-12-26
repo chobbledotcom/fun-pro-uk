@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Batak Lite"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 445
 redirect_from:
   - "/category/all-products/61/batak-lite/"

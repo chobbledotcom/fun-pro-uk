@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Rodeo Bull"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 395
 redirect_from:
   - "/category/corporate-entertainment/46/rodeo-bull/"

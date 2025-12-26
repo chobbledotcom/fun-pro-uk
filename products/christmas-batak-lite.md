@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Christmas Batak Lite"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 445
 redirect_from:
   - "/category/christmas-game-hire/109/christmas-batak-lite/"

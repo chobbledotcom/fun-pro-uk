@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Christmas Batak Pro"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 495
 redirect_from:
   - "/category/christmas-games/108/christmas-batak-pro/"

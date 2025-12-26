@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Reindeer Nosenado (Christmas Ballnado Hire )"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 495
 redirect_from:
   - "/category/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/"

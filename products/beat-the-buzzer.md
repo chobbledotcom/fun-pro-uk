@@ -10,7 +10,7 @@ featured: true
 features: []
 options:
   - name: "Beat The Buzzer"
-    max_quantity: 10
+    max_quantity: 1
     unit_price: 350
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
