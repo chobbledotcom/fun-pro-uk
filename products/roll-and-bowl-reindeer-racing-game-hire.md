@@ -8,6 +8,10 @@ categories: ["categories/christmas-game-hire.md", "categories/all-products.md", 
 events: []
 featured: true
 features: []
+options:
+  - name: "Roll And Bowl Reindeer Racing Game Hire"
+    max_quantity: 1
+    unit_price: 895
 redirect_from:
   - "/category/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/"
 gallery:

@@ -8,6 +8,10 @@ categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "GIANT BUZZ WIRE"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/interactive-game-hire/9/giant-buzz-wire/"
 gallery:

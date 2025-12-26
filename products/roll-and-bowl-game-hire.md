@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/arcade-games.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Roll And Bowl Game Hire"
+    max_quantity: 1
+    unit_price: 895
 redirect_from:
   - "/category/all-products/51/roll-and-bowl-game-hire/"
   - "/category/arcade-games/51/roll-and-bowl-game-hire/"

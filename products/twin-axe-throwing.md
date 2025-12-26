@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/freshers-fair-games.md", 
 events: []
 featured: true
 features: []
+options:
+  - name: "Twin Axe throwing"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/all-products/98/twin-axe-throwing/"
   - "/category/freshers-fair-games/98/twin-axe-throwing/"

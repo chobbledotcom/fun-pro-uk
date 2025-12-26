@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "HUMAN TABLE FOOTBALL"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/corporate-entertainment/19/human-table-football/"
   - "/category/fun-days/19/human-table-football/"

@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "PLUCK A DUCK RACING"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/8/pluck-a-duck-racing/"
   - "/category/interactive-game-hire/8/pluck-a-duck-racing/"

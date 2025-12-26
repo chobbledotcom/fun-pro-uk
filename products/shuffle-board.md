@@ -8,6 +8,10 @@ categories: ["categories/all-products.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Shuffleboard Hire"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/all-products/87/shuffle-board/"
 gallery:

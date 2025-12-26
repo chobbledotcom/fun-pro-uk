@@ -8,6 +8,10 @@ categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md
 events: []
 featured: true
 features: []
+options:
+  - name: "Whack an Elf"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/christmas-game-hire/79/whack-an-elf/"
 gallery:

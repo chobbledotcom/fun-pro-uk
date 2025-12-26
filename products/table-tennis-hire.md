@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/arcade-games.m
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Table Tennis Hire"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/corporate-entertainment/80/table-tennis-hire/"
 gallery:

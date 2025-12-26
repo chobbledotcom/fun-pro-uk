@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/arcade-games.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Plinko Game Hire"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/all-products/68/plinko-game-hire/"
   - "/category/arcade-games/68/plinko-game-hire/"

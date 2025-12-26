@@ -8,6 +8,10 @@ categories: ["categories/company-award-ceremonies.md", "categories/photo-booths-
 events: []
 featured: true
 features: []
+options:
+  - name: "CLASSIC PHOTO BOOTHS"
+    max_quantity: 1
+    unit_price: 450
 redirect_from:
   - "/category/company-award-ceremonies/11/classic-photo-booths/"
   - "/category/photo-booths-and-magic-mirrors/11/classic-photo-booths/"

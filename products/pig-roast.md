@@ -8,6 +8,10 @@ categories: ["categories/fun-foods.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Pig Roast"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/fun-foods/69/pig-roast/"
 gallery:

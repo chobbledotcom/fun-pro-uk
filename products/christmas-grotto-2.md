@@ -8,6 +8,10 @@ categories: ["categories/christmas-grotto-hire.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "CHRISTMAS GROTTO 2"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/christmas-grotto-hire/18/christmas-grotto-2/"
 gallery:

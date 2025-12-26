@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/batak.md", "categories/ex
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Batak Lite"
+    max_quantity: 1
+    unit_price: 445
 redirect_from:
   - "/category/all-products/61/batak-lite/"
   - "/category/batak/61/batak-lite/"

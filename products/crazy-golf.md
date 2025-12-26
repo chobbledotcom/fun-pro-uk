@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md", "categories/arcade-games.md", "categories
 events: []
 featured: true
 features: []
+options:
+  - name: "Crazy Golf"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/fun-days/81/crazy-golf/"
 gallery:

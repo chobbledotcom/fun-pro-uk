@@ -8,6 +8,10 @@ categories: ["categories/christmas-game-hire.md", "categories/freshers-fair-game
 events: []
 featured: true
 features: []
+options:
+  - name: "CASINO TABLE HIRE"
+    max_quantity: 1
+    unit_price: 0
 redirect_from:
   - "/category/christmas-game-hire/16/casino-table-hire/"
   - "/category/freshers-fair-games/16/casino-table-hire/"

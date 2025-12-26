@@ -8,6 +8,10 @@ categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md
 events: []
 featured: true
 features: []
+options:
+  - name: "Christmas Batak Pro"
+    max_quantity: 1
+    unit_price: 495
 redirect_from:
   - "/category/christmas-games/108/christmas-batak-pro/"
 gallery:

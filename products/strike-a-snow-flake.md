@@ -8,6 +8,10 @@ categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md
 events: []
 featured: true
 features: []
+options:
+  - name: "Strike A Snow Flake"
+    max_quantity: 1
+    unit_price: 395
 redirect_from:
   - "/category/christmas-game-hire/91/strike-a-snow-flake/"
 gallery:
