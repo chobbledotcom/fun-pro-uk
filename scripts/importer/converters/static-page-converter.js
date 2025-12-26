@@ -118,6 +118,20 @@ no_index: true
 ## Review Your Items
 
 Please review the items below before continuing to submit your enquiry.`
+    },
+    {
+      slug: 'checkout',
+      content: `---
+meta_description: Complete your quote request
+meta_title: Request a Quote
+layout: quote-checkout.html
+permalink: "/checkout/"
+no_index: true
+---
+
+## Your Details
+
+Please fill in your details below to complete your quote request.`
     }
   ];
 };
