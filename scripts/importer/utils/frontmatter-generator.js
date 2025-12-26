@@ -1,4 +1,7 @@
+const fs = require("fs");
+const path = require("path");
 const { PRODUCT_ORDER } = require("../constants");
+const config = require("../config");
 
 /**
  * Configuration for page-specific layouts and overrides
@@ -523,6 +526,24 @@ meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
 };
 
 /**
+ * Find a location thumbnail image if it exists
+ * @param {string} town - The town slug (e.g., 'birmingham')
+ * @returns {string|null} Path to thumbnail image or null if not found
+ */
+const findLocationThumbnail = (town) => {
+  const imagesDir = path.join(config.OUTPUT_BASE, "images", "locations");
+  const extensions = [".png", ".jpg", ".jpeg", ".webp"];
+
+  for (const ext of extensions) {
+    const imagePath = path.join(imagesDir, `${town}${ext}`);
+    if (fs.existsSync(imagePath)) {
+      return `images/locations/${town}${ext}`;
+    }
+  }
+  return null;
+};
+
+/**
  * Generate frontmatter and content for root location pages (e.g., locations/birmingham.md)
  * These are new pages (not imported from old site), so no redirect_from needed
  * URL will be dynamically calculated from file path: /locations/{town}/
@@ -536,20 +557,31 @@ const generateLocationRootFrontmatter = (town) => {
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(" ");
 
+  // Check for a thumbnail image
+  const thumbnail = findLocationThumbnail(town);
+
   // No permalink - URL will be dynamically calculated from file location
-  return `---
+  let frontmatter = `---
 title: "${townName}"
 meta_title: "Event Hire ${townName} | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in ${townName}. Interactive games, photo booths and more for corporate events, weddings and parties."
 layout: location
 subtitle: Subtitle subtitle subtitle subtitle
-location: "${town}"
+location: "${town}"`;
+
+  if (thumbnail) {
+    frontmatter += `\nthumbnail: "${thumbnail}"`;
+  }
+
+  frontmatter += `
 ---
 
 # Event Hire ${townName}
 
 Browse our event hire services available in ${townName} and the surrounding area.
 `;
+
+  return frontmatter;
 };
 
 module.exports = {
