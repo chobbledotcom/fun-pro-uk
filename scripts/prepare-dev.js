@@ -17,7 +17,6 @@ const templateExcludes = [
 	"*.md",
 	"test",
 	"test-*",
-	"theme-*.scss",
 ];
 
 const rootExcludes = [
