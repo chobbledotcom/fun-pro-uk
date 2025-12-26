@@ -4,7 +4,6 @@ meta_title: "Event Hire Coventry | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in Coventry. Interactive games, photo booths and more for corporate events, weddings and parties."
 layout: location
 subtitle: Subtitle subtitle subtitle subtitle
-location: "coventry"
 ---
 
 # Event Hire Coventry
