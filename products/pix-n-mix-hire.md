@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/fun-foods.md", "categ
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Pix N Mix Hire"
+    max_quantity: 10
+    unit_price: 550
 redirect_from:
   - "/category/exhibition-games/42/pix-n-mix-hire/"
   - "/category/fun-foods/42/pix-n-mix-hire/"

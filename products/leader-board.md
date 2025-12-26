@@ -8,6 +8,10 @@ categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "LEADER BOARD"
+    max_quantity: 10
+    unit_price: 75
 redirect_from:
   - "/category/interactive-game-hire/30/leader-board/"
 gallery:

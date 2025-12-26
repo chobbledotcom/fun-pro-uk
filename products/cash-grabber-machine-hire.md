@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "ca
 events: []
 featured: true
 features: []
+options:
+  - name: "CASH GRABBER MACHINE HIRE"
+    max_quantity: 10
+    unit_price: 495
 redirect_from:
   - "/category/exhibition-games/3/cash-grabber-machine-hire/"
   - "/category/grab-a-grand/3/cash-grabber-machine-hire/"

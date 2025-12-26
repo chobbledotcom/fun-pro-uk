@@ -8,6 +8,10 @@ categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "GREEN SCREEN PHOTO BOOTHS"
+    max_quantity: 10
+    unit_price: 450
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"
 gallery:

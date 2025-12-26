@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "INFLATABLE ASSAULT COURSES"
+    max_quantity: 10
+    unit_price: 450
 redirect_from:
   - "/category/fun-days/21/inflatable-assault-courses/"
 gallery:

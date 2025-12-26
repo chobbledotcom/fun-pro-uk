@@ -8,6 +8,10 @@ categories: ["categories/interactive-game-hire.md", "categories/all-products.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Racing Car Simulators"
+    max_quantity: 10
+    unit_price: 475
 redirect_from:
   - "/category/interactive-game-hire/5/twin-racing-car-simulators/"
 gallery:

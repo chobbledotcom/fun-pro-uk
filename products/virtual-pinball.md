@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Virtual Pinball"
+    max_quantity: 10
+    unit_price: 495
 redirect_from:
   - "/category/arcade-games/77/virtual-pinball/"
   - "/category/exhibition-games/77/virtual-pinball/"

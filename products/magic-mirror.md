@@ -8,6 +8,10 @@ categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-
 events: []
 featured: true
 features: []
+options:
+  - name: "MAGIC MIRROR"
+    max_quantity: 10
+    unit_price: 450
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/13/magic-mirror/"
 gallery:

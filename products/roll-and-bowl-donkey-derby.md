@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/interactive-game-hire
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Roll & Bowl Donkey Derby"
+    max_quantity: 10
+    unit_price: 895
 redirect_from:
   - "/category/exhibition-games/75/roll-and-bowl-donkey-derby/"
   - "/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/"

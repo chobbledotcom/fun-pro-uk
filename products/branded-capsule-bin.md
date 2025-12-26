@@ -8,6 +8,10 @@ categories: ["categories/branded-exhibition-games.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Branded Capsule Bin"
+    max_quantity: 10
+    unit_price: 0
 redirect_from:
   - "/category/branded-exhibition-games/110/branded-capsule-bin/"
 tabs:

@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/corporate-entertainment.m
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "VR Race Car Simulator"
+    max_quantity: 10
+    unit_price: 525
 redirect_from:
   - "/category/arcade-games/38/vr-race-car-simulator/"
   - "/category/corporate-entertainment/38/vr-race-car-simulator/"

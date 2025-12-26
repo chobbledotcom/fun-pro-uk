@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/fun-days.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Corn Hole"
+    max_quantity: 10
+    unit_price: 295
 redirect_from:
   - "/category/exhibition-games/99/corn-hole/"
 gallery:

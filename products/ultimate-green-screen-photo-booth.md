@@ -8,6 +8,10 @@ categories: ["categories/photo-booths.md", "categories/arcade-games.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "ELECTRONIC BASKET BALL HIRE"
+    max_quantity: 10
+    unit_price: 295
 redirect_from:
   - "/category/photo-booths/6/ultimate-green-screen-photo-booth/"
 gallery:

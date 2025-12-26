@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "GLADIATOR DUEL"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/corporate-entertainment/22/gladiator-duel/"
   - "/category/fun-days/22/gladiator-duel/"

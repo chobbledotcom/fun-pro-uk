@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "The Vault"
+    max_quantity: 10
+    unit_price: 425
 redirect_from:
   - "/category/arcade-games/50/the-vault/"
   - "/category/interactive-game-hire/50/the-vault/"

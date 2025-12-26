@@ -8,6 +8,10 @@ categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md
 events: []
 featured: true
 features: []
+options:
+  - name: "8 Lane Reindeer Racing"
+    max_quantity: 10
+    unit_price: 1695
 redirect_from:
   - "/category/christmas-games/102/8-lane-reindeer-racing/"
 gallery:

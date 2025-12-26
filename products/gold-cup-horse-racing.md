@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "GOLD CUP HORSE RACING"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/29/gold-cup-horse-racing/"
   - "/category/interactive-game-hire/29/gold-cup-horse-racing/"

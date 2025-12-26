@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/arcade-games.md", "catego
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Whack A Mole game hire"
+    max_quantity: 10
+    unit_price: 495
 redirect_from:
   - "/category/all-products/67/whack-a-mole-game-hire/"
   - "/category/arcade-games/67/whack-a-mole-game-hire/"

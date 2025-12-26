@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "RETRO ARCADE GAMES"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/4/retro-arcade-games/"
   - "/category/interactive-game-hire/4/retro-arcade-games/"

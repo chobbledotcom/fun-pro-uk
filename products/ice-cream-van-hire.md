@@ -8,6 +8,10 @@ categories: ["categories/fun-foods.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Ice Cream van Hire"
+    max_quantity: 10
+    unit_price: 0
 redirect_from:
   - "/category/fun-foods/73/ice-cream-van-hire/"
 gallery:

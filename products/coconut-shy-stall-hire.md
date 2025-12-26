@@ -8,6 +8,10 @@ categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Coconut Shy Stall Hire"
+    max_quantity: 10
+    unit_price: 450
 redirect_from:
   - "/category/fun-fair-stalls/96/coconut-shy-stall-hire/"
 gallery:

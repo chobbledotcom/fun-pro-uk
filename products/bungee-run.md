@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "Bungee Run"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/fun-days/33/bungee-run/"
 gallery:

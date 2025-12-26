@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md", 
 events: []
 featured: true
 features: []
+options:
+  - name: "Giant Jenga Hire"
+    max_quantity: 10
+    unit_price: 60
 redirect_from:
   - "/category/corporate-entertainment/44/giant-jenga-hire/"
   - "/category/fun-days/44/giant-jenga-hire/"

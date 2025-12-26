@@ -8,6 +8,10 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
+options:
+  - name: "TOTAL WIPE OUT"
+    max_quantity: 10
+    unit_price: 495
 redirect_from:
   - "/category/fun-days/20/total-wipe-out/"
 gallery:

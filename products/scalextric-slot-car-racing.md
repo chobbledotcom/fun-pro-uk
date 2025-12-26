@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/exhibition-games.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Scalextric Slot Car Racing"
+    max_quantity: 10
+    unit_price: 695
 redirect_from:
   - "/category/all-products/88/scalextric-slot-car-racing/"
   - "/category/exhibition-games/88/scalextric-slot-car-racing/"

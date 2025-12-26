@@ -8,6 +8,10 @@ categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Dance Machine"
+    max_quantity: 10
+    unit_price: 475
 redirect_from:
   - "/category/exhibition-games/39/dance-machine/"
 gallery:

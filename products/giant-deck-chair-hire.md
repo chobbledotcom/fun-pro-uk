@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/weddings.md", 
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Giant Deck Chair Hire"
+    max_quantity: 10
+    unit_price: 195
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"
   - "/category/weddings/74/giant-deck-chair-hire/"

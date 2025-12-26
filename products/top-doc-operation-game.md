@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "TOP DOC OPERATION GAME"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/7/top-doc-operation-game/"
   - "/category/interactive-game-hire/7/top-doc-operation-game/"

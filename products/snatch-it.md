@@ -8,6 +8,10 @@ categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "ca
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Snatch It"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/arcade-games/82/snatch-it/"
   - "/category/exhibition-games/82/snatch-it/"

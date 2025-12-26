@@ -8,6 +8,10 @@ categories: ["categories/all-products.md", "categories/branded-exhibition-games.
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "Mega Wire - Branded Game Hire (stand alone)"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/all-products/64/mega-wire-branded-game-hire-stand-alone/"
   - "/category/branded-exhibition-games/64/mega-wire-branded-game-hire-stand-alone/"

@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/interactive-ga
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "FOOTBALL TABLES"
+    max_quantity: 10
+    unit_price: 295
 redirect_from:
   - "/category/corporate-entertainment/27/football-tables/"
   - "/category/interactive-game-hire/27/football-tables/"

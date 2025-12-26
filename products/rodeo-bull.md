@@ -8,6 +8,10 @@ categories: ["categories/corporate-entertainment.md", "categories/fun-days.md", 
 events: []
 featured: true
 features: []
+options:
+  - name: "Rodeo Bull"
+    max_quantity: 10
+    unit_price: 395
 redirect_from:
   - "/category/corporate-entertainment/46/rodeo-bull/"
   - "/category/fun-days/46/rodeo-bull/"

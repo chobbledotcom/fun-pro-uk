@@ -8,6 +8,10 @@ categories: ["categories/christmas-game-hire.md", "categories/photo-booths-and-m
 events: []
 featured: true
 features: []
+options:
+  - name: "CHRISTMAS PHOTO BOOTHS"
+    max_quantity: 10
+    unit_price: 450
 redirect_from:
   - "/category/christmas-game-hire/12/christmas-photo-booths/"
   - "/category/photo-booths-and-magic-mirrors/12/christmas-photo-booths/"

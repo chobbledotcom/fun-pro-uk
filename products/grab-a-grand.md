@@ -8,6 +8,10 @@ categories: ["categories/interactive-game-hire.md", "categories/all-products.md"
 events: ["events/conference-idea.md"]
 featured: true
 features: []
+options:
+  - name: "CASH GRABBER MACHINE HIRE"
+    max_quantity: 10
+    unit_price: 495
 redirect_from:
   - "/category/interactive-game-hire/3/grab-a-grand/"
 gallery:
