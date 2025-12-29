@@ -119,21 +119,6 @@ h3 {
   aspect-ratio: 3/2;
 }
 
-.slider-container {
-  // these sizes are related to the padding on the sides of the article#content
-  // grid. hacky.
-  width: var(--width-content);
-  @include breakpoints.down("xl") {
-    width: calc(100vw - 128px);
-  }
-  @include breakpoints.down("md") {
-    width: calc(100vw - 64px);
-  }
-  @include breakpoints.down("sm") {
-    width: calc(100vw - 32px);
-  }
-}
-
 article#content {
   border: none;
 }
@@ -185,12 +170,14 @@ article#content,
   }
 
   & > section {
-    padding: 64px 0;
+    padding-top: 64px;
+    padding-bottom: 64px;
   }
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
     max-width: 1200px;
+    min-width: 0;
   }
   & > .breakout {
     grid-column: breakout;
@@ -223,8 +210,9 @@ a.button {
   border: 1px solid #181a1f;
   font-weight: 500;
   font-size: 16px;
-  line-height: 28px;
+  line-height: 20px;
   background: transparent;
+  white-space: nowrap;
 
   &:hover {
     background: transparent;
@@ -239,12 +227,17 @@ a.button {
   }
 
   &.red {
-    color: white;
+    color: #fafafa;
     background: #ee3324;
     border: none;
     svg {
-      fill: white;
+      fill: #fafafa;
     }
+  }
+
+  &.blue {
+    color: #fafafa;
+    background: #1c54e3;
   }
 }
 
@@ -420,16 +413,28 @@ main {
 }
 
 .homepage-header {
-  padding: 64px 16px;
-  --background: linear-gradient(
-    77deg,
-    #181a1f 27.31%,
-    rgba(24, 26, 31, 0) 80.67%
-  );
+  --background:
+    linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%),
+    url("/assets/homepage-header-background.jpg");
   --color-text: #fdfdfd;
   --color-link: #fdfdfd;
   --color-link-hover: #fdfdfd;
   @include themed-section;
+
+  background-size: cover;
+  position: relative;
+
+  .homepage-header-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    & > * {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
   h1 {
     max-width: 650px;
     font-size: 52px;
@@ -477,12 +482,32 @@ main {
       );
       .image-link {
         width: 270px;
-        height: 270px;
+        height: 300px;
         position: absolute;
         top: 0;
         left: 0;
         padding: 0;
         margin: 0;
+        &::before {
+          content: "";
+          display: block;
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 270px;
+          height: 270px;
+          z-index: 2;
+          opacity: 0;
+          transition: opacity 0.3s ease-in-out;
+          background: linear-gradient(
+            180deg,
+            rgba(238, 51, 36, 0) 0%,
+            #ee3324c7 100%
+          );
+        }
+        &:hover::before {
+          opacity: 1;
+        }
       }
       .image-wrapper,
       img {
@@ -490,8 +515,8 @@ main {
         position: absolute;
         top: 0;
         left: 0;
-        width: 100%;
-        height: 100%;
+        width: 270px;
+        height: 270px;
         padding: 0;
         margin: 0;
       }
@@ -511,6 +536,20 @@ main {
       }
     }
   }
+  .slider-nav {
+    a {
+      background-color: #fdfdfd;
+      color: #111;
+    }
+    @include breakpoints.up("md") {
+      position: absolute;
+      top: 16px;
+      right: 80px;
+      display: flex;
+      flex-direction: column;
+      margin: 0;
+    }
+  }
 }
 
 .homepage-intro {
@@ -526,6 +565,35 @@ main {
 }
 
 .homepage-testimonials {
+  @include breakpoints.up("sm") {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: 1fr min-content;
+    grid-template-areas:
+      "title title"
+      "left right"
+      "reviews reviews";
+
+    h2 {
+      grid-area: title;
+    }
+    h3,
+    p,
+    ul {
+      padding: 0;
+      margin: 0;
+    }
+    .left {
+      grid-area: left;
+    }
+    .right {
+      grid-area: right;
+    }
+    ul {
+      grid-area: reviews;
+    }
+  }
+
   ul {
     display: flex;
     list-style-type: none;
@@ -672,6 +740,7 @@ main {
     display: flex;
     gap: 32px;
     list-style-type: none;
+    flex-wrap: wrap;
     padding: 0;
     margin: 64px 0 0 0;
 
@@ -730,7 +799,6 @@ main {
 .items {
   li {
     display: flex;
-    width: 374px;
     flex-direction: column;
     align-items: flex-start;
     gap: 32px;
@@ -744,6 +812,13 @@ main {
       aspect-ratio: 3/2;
       width: 100%;
       overflow: hidden;
+    }
+    width: calc(33% - 11px);
+    @include breakpoints.down("md") {
+      width: calc(50% - 11px);
+    }
+    @include breakpoints.down("sm") {
+      width: 100%;
     }
   }
 }
@@ -920,6 +995,7 @@ main {
       border-color: #181a1f;
       color: #181a1f;
       background-color: white;
+      text-decoration: none;
     }
 
     &[disabled] {
