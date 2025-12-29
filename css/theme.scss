@@ -441,6 +441,7 @@ main {
   h1 {
     max-width: 650px;
     font-size: 52px;
+    height: 52px;
   }
   .google {
     display: grid;
@@ -533,6 +534,7 @@ main {
         right: 8px;
         width: auto;
         padding: 0;
+        min-height: 0;
       }
       p {
         text-align: right;
