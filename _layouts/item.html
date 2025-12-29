@@ -1,0 +1,53 @@
+---
+
+layout: base
+---
+
+<section class="fun-pro-item" style="
+  grid-template-areas:
+    'breadcrumbs breadcrumbs'
+    'gallery     reviews-header'
+    'gallery     title'
+    'gallery     subtitle'
+    'gallery     price'
+    'gallery     specs'
+    'gallery     features'
+    'gallery     description'
+    'gallery     cart-buttons'
+    'gallery     .'
+    'tabs        tabs'
+    'reviews     reviews'
+    'faqs        faqs';
+">
+  <div style="grid-area: breadcrumbs">
+    {% include "item-category-links.html" %}
+    {% include "item-event-categories.html" %}
+  </div>
+  <div style="grid-area: reviews-header">
+    {% include "item-reviews-count.html" %}
+  </div>
+  <h1 style="grid-area: title">{{ title }}</h1>
+  <h2 style="grid-area: subtitle">{{ subtitle }}</h2>
+  <h2 style="grid-area: price">{{ price }}</h2>
+  <div style="grid-area: specs">
+    {% include "item-specifications-list.html" %}
+  </div>
+  <div style="grid-area: features">
+    {% include "item-features-list.html" %}
+  </div>
+  <div style="grid-area: description">
+    {{ content }}
+  </div>
+  <div style="grid-area: cart-buttons">
+    {% include "product-options.html" %}
+  </div>
+  <div style="grid-area: tabs">
+    {% include "tabs.html" %}
+  </div>
+  <div style="grid-area: reviews">
+    {% include "item-reviews-section.html" %}
+  </div>
+  <div style="grid-area: gallery">
+    {% include "item-gallery.html" %}
+  </div>
+</section>
