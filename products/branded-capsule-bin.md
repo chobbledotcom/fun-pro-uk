@@ -1,5 +1,6 @@
 ---
 title: "Branded Capsule Bin"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: ""
 order: 50
 meta_title: "Branded Capsule Bin - Exhibition and Game Hire in Nationwide | Fun Pro UK"

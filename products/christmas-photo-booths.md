@@ -1,5 +1,6 @@
 ---
 title: "CHRISTMAS PHOTO BOOTHS"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Christmas Photo Booths | Photobooth Hire | Pro Fun UK"

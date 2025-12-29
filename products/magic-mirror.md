@@ -1,5 +1,6 @@
 ---
 title: "MAGIC MIRROR"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK"

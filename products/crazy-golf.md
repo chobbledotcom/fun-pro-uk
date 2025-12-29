@@ -1,5 +1,6 @@
 ---
 title: "Crazy Golf"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"

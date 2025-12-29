@@ -1,5 +1,6 @@
 ---
 title: "The Vault"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£425"
 order: 50
 meta_title: "Hire Vault Cracker Game, Vault Safe Cracker Game Rent, UK"

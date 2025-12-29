@@ -1,5 +1,6 @@
 ---
 title: "Roll And Bowl Game Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£895"
 order: 10
 meta_title: "Roll And Bowl Hire, Rent Roll A Ball Kentucky Derby, UK"

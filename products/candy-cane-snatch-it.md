@@ -1,5 +1,6 @@
 ---
 title: "Candy Cane Snatch it"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"

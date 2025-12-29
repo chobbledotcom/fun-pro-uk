@@ -1,5 +1,6 @@
 ---
 title: "Plinko Game Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK"

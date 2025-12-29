@@ -1,5 +1,6 @@
 ---
 title: "Prize Wheel"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Spin the wheel Hire, Prize Wheel of Fortune Game Hire, UK"

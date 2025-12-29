@@ -1,5 +1,6 @@
 ---
 title: "Pix N Mix Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£550"
 order: 50
 meta_title: "Pick A Mix hire UK"

@@ -1,5 +1,6 @@
 ---
 title: "GREEN SCREEN PHOTO BOOTHS"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"

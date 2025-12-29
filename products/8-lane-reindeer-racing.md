@@ -1,5 +1,6 @@
 ---
 title: "8 Lane Reindeer Racing"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£1695"
 order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "LEADER BOARD"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"

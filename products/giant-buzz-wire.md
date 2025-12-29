@@ -1,5 +1,6 @@
 ---
 title: "GIANT BUZZ WIRE"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent"

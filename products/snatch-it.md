@@ -1,5 +1,6 @@
 ---
 title: "Snatch It"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"

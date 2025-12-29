@@ -1,5 +1,6 @@
 ---
 title: "High Striker"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Hire High Striker, Fairground Game High Striker To Rent, UK"

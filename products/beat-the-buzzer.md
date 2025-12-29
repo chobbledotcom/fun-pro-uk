@@ -1,5 +1,6 @@
 ---
 title: "Beat The Buzzer"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£350"
 order: 50
 meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"

@@ -1,5 +1,6 @@
 ---
 title: "CASINO TABLE HIRE"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: ""
 order: 50
 meta_title: "Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party"

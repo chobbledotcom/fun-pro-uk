@@ -1,5 +1,6 @@
 ---
 title: "Danger-zone-strike-a-light-game-hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Hire Strike A Light Game, Light Reaction Game Rental, Strike UK"

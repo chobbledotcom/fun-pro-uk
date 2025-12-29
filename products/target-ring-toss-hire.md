@@ -1,5 +1,6 @@
 ---
 title: "Target Ring Toss Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Target Ring Toss Hire | Fun & Interactive Game for UK Events"

@@ -1,5 +1,6 @@
 ---
 title: "FOOTBALL TABLES"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£295"
 order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"

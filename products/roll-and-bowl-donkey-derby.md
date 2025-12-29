@@ -1,5 +1,6 @@
 ---
 title: "Roll & Bowl Donkey Derby"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£895"
 order: 50
 meta_title: "Roll & Bowl Donkey Derby Hire | Exhibition Games | UK"

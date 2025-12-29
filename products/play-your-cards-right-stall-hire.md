@@ -1,5 +1,6 @@
 ---
 title: "Play Your Cards Right Stall Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Event"

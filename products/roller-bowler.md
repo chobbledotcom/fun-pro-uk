@@ -1,5 +1,6 @@
 ---
 title: "Roller Bowler"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Roller Bowler Hire UK | Corporate Events & Exhibitions"

@@ -1,5 +1,6 @@
 ---
 title: "Hook A Duck"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK"

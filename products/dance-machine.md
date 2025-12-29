@@ -1,5 +1,6 @@
 ---
 title: "Dance Machine"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£475"
 order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
