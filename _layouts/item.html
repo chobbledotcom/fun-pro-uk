@@ -23,11 +23,14 @@ layout: base
     {% include "item-category-links.html" %}
     {% include "item-event-categories.html" %}
   </div>
+  <h1 style="grid-area: title">{{ title }}</h1>
+  <h2 style="grid-area: subtitle">{{ subtitle }}</h2>
+  <div style="grid-area: gallery">
+    {% include "item-gallery.html" %}
+  </div>
   <div style="grid-area: reviews-header">
     {% include "item-reviews-count.html" %}
   </div>
-  <h1 style="grid-area: title">{{ title }}</h1>
-  <h2 style="grid-area: subtitle">{{ subtitle }}</h2>
   <h2 style="grid-area: price">{{ price }}</h2>
   <div style="grid-area: specs">
     {% include "item-specifications-list.html" %}
@@ -44,10 +47,13 @@ layout: base
   <div style="grid-area: tabs">
     {% include "tabs.html" %}
   </div>
+  <div style="grid-area: faq">
+    {%- include "faq.html" -%}
+  </div>
   <div style="grid-area: reviews">
     {% include "item-reviews-section.html" %}
   </div>
-  <div style="grid-area: gallery">
-    {% include "item-gallery.html" %}
+  <div style="grid-area: faqs">
+    {%- include "faq.html" -%}
   </div>
 </section>

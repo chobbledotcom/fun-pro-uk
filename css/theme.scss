@@ -1021,11 +1021,13 @@ ul.items {
 }
 
 section.fun-pro-item {
-  display: grid;
-  gap: 16px;
-  grid-template-rows: repeat(13, auto);
-  & > * {
-    padding: 0;
-    margin: 0;
+  @include breakpoints.up("md") {
+    display: grid;
+    gap: 16px;
+    grid-template-rows: repeat(13, auto);
+    & > * {
+      padding: 0;
+      margin: 0;
+    }
   }
 }
