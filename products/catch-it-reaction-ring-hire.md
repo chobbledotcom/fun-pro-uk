@@ -1,5 +1,6 @@
 ---
 title: "Catch it Reaction Ring Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£445"
 order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"

@@ -1,5 +1,6 @@
 ---
 title: "TOTAL WIPE OUT"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, UK"

@@ -1,5 +1,6 @@
 ---
 title: "Candy Floss Cart Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"

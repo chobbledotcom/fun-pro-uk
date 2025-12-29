@@ -1,5 +1,6 @@
 ---
 title: "Dash & Grab / Hungry Hippo Inflatable Game"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK"

@@ -1,5 +1,6 @@
 ---
 title: "Corn Hole"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£295"
 order: 50
 meta_title: "Corn Hole Hire UK | Premium Games for Corporate & Private Events"

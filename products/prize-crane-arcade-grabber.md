@@ -1,5 +1,6 @@
 ---
 title: "Prize Crane Arcade Grabber"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 4
 meta_title: "Grabber Machine Hire, Claw Machine Rental , Exhibitions, UK"

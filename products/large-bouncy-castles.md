@@ -1,5 +1,6 @@
 ---
 title: "LARGE BOUNCY CASTLES"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£295"
 order: 50
 meta_title: "Adult Bouncy Castle Hire | Fun Pro UK | Fun Days"

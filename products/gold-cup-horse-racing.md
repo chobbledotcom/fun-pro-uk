@@ -1,5 +1,6 @@
 ---
 title: "GOLD CUP HORSE RACING"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"

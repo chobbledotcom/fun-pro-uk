@@ -1,5 +1,6 @@
 ---
 title: "Mega Wire - Branded Game Hire (stand alone)"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Mega wire hire Uk"

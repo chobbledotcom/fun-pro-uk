@@ -1,5 +1,6 @@
 ---
 title: "Virtual Pinball"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"

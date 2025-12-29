@@ -1,5 +1,6 @@
 ---
 title: "Gold Bar Challenge"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: ""
 order: 50
 meta_title: "Gold bar challenge"

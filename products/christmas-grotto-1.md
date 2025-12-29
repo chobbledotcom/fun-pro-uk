@@ -1,5 +1,6 @@
 ---
 title: "CHRISTMAS GROTTO 1"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: ""
 order: 50
 meta_title: "Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK"

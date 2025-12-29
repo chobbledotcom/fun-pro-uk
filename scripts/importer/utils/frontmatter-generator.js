@@ -259,6 +259,7 @@ const generateProductFrontmatter = (
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
 title: "${productName || metadata.title || ""}"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "${price}"
 order: ${productOrder}
 meta_title: "${metadata.title || ""}"

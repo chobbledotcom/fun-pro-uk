@@ -1,5 +1,6 @@
 ---
 title: "8 Lane Roll & Bowl Donkey Derby"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£1695"
 order: 50
 meta_title: "8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in Nationwide | Fun Pro UK"

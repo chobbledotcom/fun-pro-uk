@@ -1,5 +1,6 @@
 ---
 title: "Rodeo Bull"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Rodeo Bull Hire, How Much To Hire A Rodeo Bull Near Me, UK"

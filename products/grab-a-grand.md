@@ -1,5 +1,6 @@
 ---
 title: "CASH GRABBER MACHINE HIRE"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"

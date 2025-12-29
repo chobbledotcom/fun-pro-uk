@@ -1,5 +1,6 @@
 ---
 title: "INFLATABLE ASSAULT COURSES"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent"

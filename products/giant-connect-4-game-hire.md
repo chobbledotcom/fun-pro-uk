@@ -1,5 +1,6 @@
 ---
 title: "Giant Connect 4 Game Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£60"
 order: 50
 meta_title: "Hire Giant Connect 4,Rent Giant Connect 4 Garden Game, UK"

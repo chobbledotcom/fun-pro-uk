@@ -1,5 +1,6 @@
 ---
 title: "Batak Lite"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£445"
 order: 1
 meta_title: "Batak Lite Game Hire | Interactive Game | Corporate Engagement"

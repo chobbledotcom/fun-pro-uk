@@ -1,5 +1,6 @@
 ---
 title: "HUMAN TABLE FOOTBALL"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Human Table Football Game | Corporate Events | Fun Pro UK"

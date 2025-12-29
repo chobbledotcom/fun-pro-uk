@@ -1,5 +1,6 @@
 ---
 title: "VR Race Car Simulator"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£525"
 order: 50
 meta_title: "Racing Simulator Hire, VR Car Driving Simulator Rental, UK"

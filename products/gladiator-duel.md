@@ -1,5 +1,6 @@
 ---
 title: "GLADIATOR DUEL"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"

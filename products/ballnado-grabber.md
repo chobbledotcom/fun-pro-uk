@@ -1,5 +1,6 @@
 ---
 title: "Ballnado Grabber"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"

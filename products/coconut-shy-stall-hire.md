@@ -1,5 +1,6 @@
 ---
 title: "Coconut Shy Stall Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Coconut Shy Stall Hire | Classic Fairground Game for UK Events"

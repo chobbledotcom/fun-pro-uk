@@ -1,5 +1,6 @@
 ---
 title: "Reindeer Nosenado (Christmas Ballnado Hire )"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"

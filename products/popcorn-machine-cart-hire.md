@@ -1,5 +1,6 @@
 ---
 title: "Popcorn Machine Cart Hire"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£450"
 order: 50
 meta_title: "Best Popcorn Machine Cart Hire for All UK Events"

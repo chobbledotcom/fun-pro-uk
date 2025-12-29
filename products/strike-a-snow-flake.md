@@ -1,5 +1,6 @@
 ---
 title: "Strike A Snow Flake"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£395"
 order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Christmas Batak Pro"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: "£495"
 order: 50
 meta_title: "Christmas Batak Pro - Exhibition and Game Hire in Nationwide | Fun Pro UK"

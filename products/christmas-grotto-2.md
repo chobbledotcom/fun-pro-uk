@@ -1,5 +1,6 @@
 ---
 title: "CHRISTMAS GROTTO 2"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
 price: ""
 order: 50
 meta_title: "Santas Grotto Hire | Christmas Entertainment | Fun Pro UK"
