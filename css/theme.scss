@@ -107,6 +107,8 @@
   --color-bg: #fdfdfd;
   --font-family-heading: "DM Sans", var(--font-family-heading);
   --font-family-body: "DM Sans", var(--font-family-body);
+  --border: 1px solid #babbbc;
+  --border-radius: 8px;
 }
 
 h1,
@@ -541,6 +543,7 @@ main {
     a {
       background-color: #fdfdfd;
       color: #111;
+      font-size: 36px;
     }
     @include breakpoints.up("md") {
       position: absolute;
