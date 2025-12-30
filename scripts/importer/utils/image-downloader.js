@@ -245,7 +245,8 @@ const downloadNewsEmbeddedImages = async (content) => {
   // Match both formats:
   // 1. Markdown images: ![alt](/userfiles/...)
   // 2. Also handle cases where turndown might produce different formats
-  const imageRegex = /!\[([^\]]*)\]\((\/userfiles\/[^)]+)\)/g;
+  // Note: Uses non-greedy +? and handles optional title like "title text"
+  const imageRegex = /!\[([^\]]*)\]\((\/userfiles\/[^)]+?)(?:\s+"[^"]*")?\)/g;
   const matches = [...content.matchAll(imageRegex)];
 
   if (matches.length === 0) return content;
