@@ -54,13 +54,15 @@ layout: base
     <a class="button blue" href="#">Leave a review</a>
   </p>
   {%- assign reviews = collections.reviews -%}
-  <ul class="items slider">
-    {%- include "reviews-list.html", reviews: reviews, product_links: true -%}
-  </ul>
-  <p class="slider-nav" aria-hidden="true">
-    <a href="#" class="slider-prev" disabled="">←</a>
-    <a href="#" class="slider-next">→</a>
-  </p>
+  <div class="slider-container">
+    <ul class="items slider">
+      {%- include "reviews-list.html", reviews: reviews, product_links: true -%}
+    </ul>
+    <p class="slider-nav" aria-hidden="true">
+      <a href="#" class="slider-prev" disabled="">←</a>
+      <a href="#" class="slider-next">→</a>
+    </p>
+  </div>
 </section>
 
 <section class="homepage-brands full-width">
