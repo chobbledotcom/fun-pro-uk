@@ -12,7 +12,7 @@ gallery:
 
 # 08 August 25 - How to Choose The Right Entertainment for Your Company Christmas Party
 
-!
+![](/images/news/whack-an-elf.jpg)
 
 Planning your company Christmas party can feel overwhelming, especially when it comes to selecting the right entertainment. With so many options available, how do you choose activities that will engage everyone from the newest intern to the managing director? The key is understanding your team, your venue, and your objectives to create a celebration that brings people together.
 
@@ -38,7 +38,7 @@ Don't forget about accessibility requirements. Ensure your chosen entertainment 
 
 ## Popular Christmas Entertainment Options for Corporate Events
 
-!
+![](/images/news/popular-christmas-game.jpg)
 
 ### High-Tech Interactive Experiences
 

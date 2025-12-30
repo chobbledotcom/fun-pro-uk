@@ -18,7 +18,7 @@ At Fun Pro UK, we specialise in providing game hire services for a variety of ev
 
 Our games are a huge success at events, and we've received many compliments on our diverse range of options. Our selection includes [Batak Pro](/products/batak-pro/#content), [Batak Lite](/products/batak-lite/#content), [Crack the Code](/products/crack-the-code-safe-cracker/#content), [Prize Crane/Claw Machine](/products/prize-crane-arcade-grabber/#content), and more. We've also included some photos of these games in action at recent exhibitions for you to see.
 
-!Batak Hire
+![Batak Hire](/images/news/batak23.jpg)
 
 We're proud to offer our services throughout the UK, ensuring that every event we're a part of is a success. Whether you're planning a small event or a large-scale exhibition, we've got you covered!
 

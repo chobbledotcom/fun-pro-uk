@@ -12,7 +12,7 @@ gallery:
 
 # 28 November 25 - Essential Conference Equipment Checklist: What Every Event Planner Needs
 
-!
+![](/images/news/uk-conference.png)
 
 Planning a [conference](/events/conference-idea/#content) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.
 
@@ -22,7 +22,7 @@ We'll explore the key equipment that every conference requires, the [interactive
 
 ## The Foundation: Core Conference Equipment Every Planner Must Have
 
-!
+![](/images/news/event-conference.png)
 
 Before you think about the extras that make your conference memorable, you need to ensure the basics are sorted. These fundamental pieces of equipment form the backbone of any professional conference, and getting them right means your event can proceed without technical hiccups or logistical headaches.
 
@@ -42,7 +42,7 @@ Don't forget the practical necessities like backup laptops, spare HDMI cables an
 
 ### Registration and Check-In Equipment
 
-!
+![](/images/news/qr-code.png)
 
 First impressions matter enormously. Your registration area is where attendees form their initial opinion of your conference, so smooth, professional check-in sets a positive tone for the entire event.
 
@@ -64,7 +64,7 @@ Your welcome materials and conference packs need somewhere organised to store th
 
 ## Equipment That Transforms Attendee Experience
 
-!
+![](/images/news/speed-test-competition.jpg)
 
 Once you've covered the essentials, it's time to think about equipment that takes your conference from functional to memorable. This is where you move beyond simply delivering information to creating an experience that attendees will talk about long after your event ends.
 

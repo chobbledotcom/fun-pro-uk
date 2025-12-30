@@ -12,7 +12,7 @@ gallery:
 
 # 15 December 25 - Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities
 
-!
+![](/images/news/city-of-birmingham.png)
 
 When marketing professionals think about [brand activations](/locations/birmingham/brand-promotional-event-hire/#content) in the UK, London often dominates the conversation. Yet Birmingham offers something the capital increasingly struggles to provide: significant footfall, diverse demographics, exceptional accessibility, and a business environment where your activation can genuinely stand out.
 
@@ -46,7 +46,7 @@ The ongoing HS2 development will further enhance connectivity, creating a Birmin
 
 ## Top Birmingham Locations for Brand Activations
 
-!
+![](/images/news/birningham-city-for-brand-activations-location.png)
 
 ### City Centre Retail Destinations
 
@@ -92,7 +92,7 @@ Looking ahead, Birmingham will host UEFA Euro 2028 matches and the European Athl
 
 ## Interactive Entertainment: The Key to Memorable Activations
 
-!
+![](/images/news/batak-lite.jpg)
 
 ### Why Interactive Games Outperform Traditional Marketing
 

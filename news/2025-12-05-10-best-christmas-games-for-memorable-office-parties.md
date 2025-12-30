@@ -12,7 +12,7 @@ gallery:
 
 # 05 December 25 - 10 Best Christmas Games for Memorable Office Parties
 
-!
+![](/images/news/candy-cane-crush-fun-pro.jpg)
 
 Planning a [Christmas](/christmas-entertainment-game-hire/#content) party that works for everyone can feel like a challenge. You want entertainment that breaks down barriers between colleagues, keeps energy levels high, and creates those shared moments people talk about long after the decorations come down.
 
@@ -30,7 +30,7 @@ Finally, consider energy flow. Starting with high-intensity activities when gues
 
 ## Interactive Christmas Games
 
-!
+![](/images/news/roll-and-bowl-reindeer-racing.jpg)
 
 ### 1\. Roll And Bowl Reindeer Racing
 
@@ -82,7 +82,7 @@ Why it works for corporate events: Can be customised with company branding, requ
 
 ## High-Energy Competition Games
 
-!
+![](/images/news/whack-an-elf-fun-pro.jpg)
 
 ### 7\. Batak Pro
 

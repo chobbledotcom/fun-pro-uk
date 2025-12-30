@@ -30,13 +30,13 @@ Christmas is all about making memories, let's hope you've been good throughout t
 
 Why not try our [Christmas Grotto](/categories/christmas-grotto-hire/#content), you can get the boss to dress up as Santa and handout the secret Santa gifts inside the grotto! The Christmas Grotto can also come with Santa's throne to add that extra bit of excitement, as you can take pictures on the throne with Santa.
 
-### **Escape to the North pole & dash inside the Photo Booth Cabin!!Christmas Photo Booth**
+### **Escape to the North pole & dash inside the Photo Booth Cabin!![Christmas Photo Booth](/images/news/20171214-173433.jpg)**
 
 What better way to start the festive season than to escape to the North Pole with our unique winter themed [photo booths](/products/green-screen-photo-booths/#content)! Dig into the festive props box and find your favourite fancy dress for a group photo with your colleagues, as you laugh, smile, and create Christmas memories.
 
 ### **Who will be Santa's fastest reindeer? Virtual Reality Racing Car Simulator**
 
-!Race car simsExperience this incredible all new [Virtual Reality Racing Car Simulator](/products/vr-race-car-simulator/#content)[](/products/vr-race-car-simulator/#content) like no other! Put your driving skills to the test with a choice of tracks whilst sitting in a specially formulated racing seat. If you feel the need for speed, why not step it up a gear with our all new VR game. You will have your fans cheering you to the finish line as they watch your moves on the monitor!
+![Race car sims](/images/news/2-3.jpg)Experience this incredible all new [Virtual Reality Racing Car Simulator](/products/vr-race-car-simulator/#content)[](/products/vr-race-car-simulator/#content) like no other! Put your driving skills to the test with a choice of tracks whilst sitting in a specially formulated racing seat. If you feel the need for speed, why not step it up a gear with our all new VR game. You will have your fans cheering you to the finish line as they watch your moves on the monitor!
 
 ### **Get Your Christmas Groove on!**
 

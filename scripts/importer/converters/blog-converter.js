@@ -3,7 +3,7 @@ const config = require('../config');
 const { listHtmlFilesRecursive, prepDir } = require('../utils/filesystem');
 const { extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
-const { downloadProductImage, downloadEmbeddedImages } = require('../utils/image-downloader');
+const { downloadProductImage, downloadEmbeddedImages, downloadNewsEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter, resetClaimedPaths } = require('../utils/base-converter');
 
 /**
@@ -29,6 +29,8 @@ const { convertSingle, convertBatch } = createConverter({
     if (extracted.blogImage) {
       extracted.localImagePath = extracted.blogImage;
     }
+    // Download embedded /userfiles/ images and update paths
+    content = await downloadNewsEmbeddedImages(content);
     return content;
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({

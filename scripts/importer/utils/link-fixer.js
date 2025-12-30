@@ -265,7 +265,8 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
   
   // More robust regex that handles titles with parentheses
   // Matches: [text](url) or [text](url "title") or [text](url "title with (parens)")
-  content = content.replace(/\[([^\]]*)\]\(([^"\s)]+(?:\s+"[^"]*")?)\)/g, (match, text, target) => {
+  // Uses negative lookbehind (?<!!) to avoid matching image syntax ![text](url)
+  content = content.replace(/(?<!!)\[([^\]]*)\]\(([^"\s)]+(?:\s+"[^"]*")?)\)/g, (match, text, target) => {
     // Strip title attribute (including ones with parentheses)
     target = target.replace(/\s+"[^"]*"$/, '');
     
@@ -326,8 +327,9 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
       resolved = redirectMap.get(resolved);
     }
     
-    // Handle /category/all-products/ -> /products/
-    if (resolved === '/category/all-products/' || resolved.startsWith('/category/all-products/')) {
+    // Handle /category/all-products/ and /categories/all-products/ -> /products/
+    if (resolved === '/category/all-products/' || resolved.startsWith('/category/all-products/') ||
+        resolved === '/categories/all-products/' || resolved.startsWith('/categories/all-products/')) {
       resolved = '/products/';
     }
     

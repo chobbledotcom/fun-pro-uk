@@ -12,7 +12,7 @@ gallery:
 
 # 30 May 25 - How to Increase Engagement at Your Brand Activation Event
 
-!
+![](/images/news/fun-pro-uvex.jpg)
 
 If you're planning a [brand activation event](/promotional-event-games/#content), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
 
@@ -28,7 +28,7 @@ Engaged visitors are also more likely to stick around, share their experience on
 
 ### Use Games for Your Brand Activation Event
 
-!
+![](/images/news/baylis-and-harding-game.jpg)
 
 One of the most effective ways to boost engagement is by using interactive games. Games create energy, spark conversations, and give people a reason to spend more time at your stand or space.
 
