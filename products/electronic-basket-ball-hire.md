@@ -8,7 +8,24 @@ meta_description: "Hire Basketball Arcade Game For Your Family Fun Days, Parties
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "ELECTRONIC BASKET BALL HIRE"
     max_quantity: 1
@@ -186,5 +203,6 @@ tabs:
       ## **Rise to the challenge**
       
       Our team enjoy a challenge as much as anyone, so whatever you've got planned, contact us today and we'll show you how easily we can help you with original and exciting corporate event hire. We deliver right across the United Kingdom, including events in London, Manchester, Birmingham and Coventry, just let us know what you want and where you want it for reliable service that will never let you down.
+      
 ---
 

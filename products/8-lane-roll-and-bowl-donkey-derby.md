@@ -8,7 +8,24 @@ meta_description: "8 Lane Roll &amp; Bowl Donkey Derby is one of the wide range 
 categories: ["categories/roll-and-bowl.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "8 Lane Roll & Bowl Donkey Derby"
     max_quantity: 1
@@ -111,5 +128,6 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
+      
 ---
 

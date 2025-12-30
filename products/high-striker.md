@@ -8,7 +8,24 @@ meta_description: "Hire Our High Striker Game For Your Family Fun Days, Parties,
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "High Striker"
     max_quantity: 1
@@ -159,5 +176,6 @@ tabs:
       **Branding the High Strike**
       
       **£145**\+ vat**
+      
 ---
 

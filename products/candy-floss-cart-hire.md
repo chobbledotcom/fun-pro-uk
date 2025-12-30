@@ -8,7 +8,24 @@ meta_description: "Add fun to your event with our candy floss cart hire. Bespoke
 categories: ["categories/fun-foods.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Candy Floss Cart Hire"
     max_quantity: 1
@@ -27,16 +44,19 @@ faqs:
       For indoor venues, the compact size and clean operation make it easy to set up without any mess or disruption. Outdoors, the cart operates smoothly as long as there is a sheltered or covered area to protect it from rain or strong winds.
       
       If necessary, we can provide additional cover or recommend placement to make sure the candy floss machine works efficiently in all weather conditions.
+      
   - question: "How far in advance should I book to ensure availability?"
     answer: |
       We recommend booking as early as possible, especially for peak seasons like summer, holidays, and weekends.
       
       To secure your preferred date, it's best to book at least 4 to 6 weeks in advance. For larger events, consider booking even earlier to avoid disappointment. Last minute bookings are possible but subject to availability, so contacting us well in advance ensures we can fully accommodate your needs.
+      
   - question: "Do you provide all the necessary ingredients and equipment?"
     answer: |
       Yes! Our candy floss cart hire supplies everything needed for a successful candy floss experience. We provide the candy floss machine, sugar, and sticks. A trained team member will also be present to operate the machine and serve guests for up to 4 hours.
       
       Our hassle free service ensures that you don't need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish.
+      
   - question: "Can I hire multiple carts for larger events or different locations?"
     answer: "Talk to us through [our website](/#content), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
   - question: "Are there any customisation options for flavours or colours?"
@@ -170,5 +190,6 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
+      
 ---
 

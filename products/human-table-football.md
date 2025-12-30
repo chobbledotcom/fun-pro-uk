@@ -8,7 +8,24 @@ meta_description: "Get ready for fun with human-size table football hire! Perfec
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "HUMAN TABLE FOOTBALL"
     max_quantity: 1
@@ -134,5 +151,6 @@ tabs:
       You can set up your inflatable football game indoors, in a sports hall, or outside on any level playing surface, and you don't need any special equipment to play. We'll even include a ball to get the game going.
       
       If football is not your game, check out our other company fun day hires, including [adult sized bouncy castles](/products/large-bouncy-castles/#content), [inflatable assault courses](/products/inflatable-assault-courses/#content) and [Wipeout style challenges](/products/total-wipe-out/#content). Talk to our friendly team today to discuss your requirements and you can leave the rest to us, including nationwide delivery, wherever you need it.
+      
 ---
 

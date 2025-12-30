@@ -8,7 +8,24 @@ meta_description: "Hire Inflatable Obstacle Courses For Your Family Fun Days, Pa
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "INFLATABLE ASSAULT COURSES"
     max_quantity: 1
@@ -238,5 +255,6 @@ tabs:
       Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/#content) to [gladiator duels](/products/gladiator-duel/#content).
       
       Our team will be happy to help organise a memorable company fun day for you. Just tell us your venue and budget and we'll take care of everything you need.
+      
 ---
 

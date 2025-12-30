@@ -8,7 +8,24 @@ meta_description: "Table tennis hire for events in Birmingham, London, Mancheste
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Table Tennis Hire"
     max_quantity: 1
@@ -174,5 +191,6 @@ tabs:
       *   [Lights Out](/categories/interactive-game-hire/#content)
       *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
 ---
 

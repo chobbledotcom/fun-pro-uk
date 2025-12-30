@@ -8,7 +8,24 @@ meta_description: "Hire Our Giant Connect 4 Game For Your Family Fun Days, Parti
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Giant Connect 4 Game Hire"
     max_quantity: 1
@@ -92,5 +109,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       ## Giant Connect 4 Game Hire Coventry, Birmingham & London
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is 
 categories: ["categories/fun-days.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Crazy Golf"
     max_quantity: 1
@@ -115,5 +132,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
+      
 ---
 

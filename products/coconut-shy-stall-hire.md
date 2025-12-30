@@ -8,7 +8,24 @@ meta_description: "Hire a Coconut Shy stall for your next event. A fun and inter
 categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Coconut Shy Stall Hire"
     max_quantity: 1
@@ -132,5 +149,6 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
+      
 ---
 
