@@ -202,7 +202,7 @@ a {
   }
 }
 
-a.button {
+button, .button, input[type="submit"] {
   display: flex;
   padding: 14px 24px;
   justify-content: center;
@@ -897,7 +897,6 @@ ul.items {
     gap: 8px;
     border-radius: 8px;
     & > * {
-      padding: 0;
       margin: 0;
     }
     h3 {
