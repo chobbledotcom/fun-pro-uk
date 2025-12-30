@@ -55,6 +55,9 @@ jobs:
             --exclude=".*" \
             --exclude="README.md" \
             --exclude="old_site" \
+            --exclude="package.json" \
+            --exclude="package-lock.json" \
+            --exclude="pnpm-lock.yaml" \
             source/ \
             combined/src/
 
