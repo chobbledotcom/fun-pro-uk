@@ -992,31 +992,24 @@ ul.items {
     font-weight: 500;
     grid-area: socials;
   }
-  #footer-links {
-    grid-area: links;
-  }
 
   grid-template-areas:
     "logo phone"
     "logo email"
     "logo times"
-    "socials socials"
-    "links links";
+    "socials socials";
 
   @include breakpoints.up("md") {
     gap: 0 32px;
     grid-template-columns: 50px max-content 1fr;
     grid-template-areas:
       "logo phone email"
-      "logo times socials"
-      "links links links";
+      "logo times socials";
   }
 
   @include breakpoints.up("lg") {
     grid-template-columns: 50px max-content max-content max-content 1fr;
-    grid-template-areas:
-      "logo phone email times socials"
-      "links links links links links";
+    grid-template-areas: "logo phone email times socials";
     #footer-phone,
     #footer-email,
     #footer-times,
@@ -1050,6 +1043,17 @@ ul.items {
         width: 26px;
       }
     }
+  }
+}
+
+#footer-links {
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  @include breakpoints.up("md") {
+    display: flex;
+    gap: 16px;
   }
 }
 
