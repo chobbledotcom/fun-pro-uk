@@ -16,11 +16,11 @@ options:
 redirect_from:
   - "/category/corporate-entertainment/22/gladiator-duel/"
 gallery:
-  - "/images/products/gladiator-duel-1.jpg"
-  - "/images/products/gladiator-duel-2.jpg"
-  - "/images/products/gladiator-duel-3.jpg"
-  - "/images/products/gladiator-duel-4.jpg"
-  - "/images/products/gladiator-duel-5.jpg"
+  - "/images/products/gladiator-duel/gladiator-duel-1.jpg"
+  - "/images/products/gladiator-duel/gladiator-duel-2.jpg"
+  - "/images/products/gladiator-duel/gladiator-duel-3.jpg"
+  - "/images/products/gladiator-duel/gladiator-duel-4.jpg"
+  - "/images/products/gladiator-duel/gladiator-duel-5.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b636354db1859abfd5da690b9ae6393a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0c9fe7e5c17c57702a0afecff9ac709e"

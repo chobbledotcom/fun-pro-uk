@@ -16,10 +16,10 @@ options:
 redirect_from:
   - "/category/prize-games/49/prize-wheel/"
 gallery:
-  - "/images/products/lights-out-game-lights-out-game-2-prize-wheel.jpg"
-  - "/images/products/prize-wheel-2.jpg"
-  - "/images/products/prize-wheel-3.jpg"
-  - "/images/products/prize-wheel-4.jpg"
+  - "/images/products/prize-wheel/prize-wheel-1.jpg"
+  - "/images/products/prize-wheel/prize-wheel-2.jpg"
+  - "/images/products/prize-wheel/prize-wheel-3.jpg"
+  - "/images/products/prize-wheel/prize-wheel-4.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095"

@@ -16,12 +16,12 @@ options:
 redirect_from:
   - "/category/arcade-games/29/gold-cup-horse-racing/"
 gallery:
-  - "/images/products/gold-cup-horse-racing-lights-out-game-lights-out-game-2.jpg"
-  - "/images/products/gold-cup-horse-racing-2.jpg"
-  - "/images/products/gold-cup-horse-racing-3.jpg"
-  - "/images/products/gold-cup-horse-racing-4.jpg"
-  - "/images/products/gold-cup-horse-racing-5.jpg"
-  - "/images/products/gold-cup-horse-racing-6.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-1.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-2.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-4.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-5.jpg"
+  - "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/debd64a55340ff13e44c7b1d479b348b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e5036794bdca95bdf417053a72b20510"

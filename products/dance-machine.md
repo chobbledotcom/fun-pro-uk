@@ -16,12 +16,12 @@ options:
 redirect_from:
   - "/category/arcade-games/39/dance-machine/"
 gallery:
-  - "/images/products/dance-machine-lights-out-game-lights-out-game-2.jpg"
-  - "/images/products/dance-machine-2.jpg"
-  - "/images/products/dance-machine-3.jpg"
-  - "/images/products/dance-machine-4.jpg"
-  - "/images/products/dance-machine-5.jpg"
-  - "/images/products/dance-machine-6.jpg"
+  - "/images/products/dance-machine/dance-machine-1.jpg"
+  - "/images/products/dance-machine/dance-machine-2.jpg"
+  - "/images/products/dance-machine/dance-machine-3.jpg"
+  - "/images/products/dance-machine/dance-machine-4.jpg"
+  - "/images/products/dance-machine/dance-machine-5.jpg"
+  - "/images/products/dance-machine/dance-machine-6.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d84557d92f7aee817cef2f27128f766f"

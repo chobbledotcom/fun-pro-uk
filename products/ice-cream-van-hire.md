@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/fun-foods/73/ice-cream-van-hire/"
 gallery:
-  - "/images/products/ice-cream-van-hire-1.jpg"
-  - "/images/products/ice-cream-van-hire-2.jpg"
-  - "/images/products/ice-cream-van-hire-3.jpg"
+  - "/images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg"
+  - "/images/products/ice-cream-van-hire/ice-cream-van-hire-2.jpg"
+  - "/images/products/ice-cream-van-hire/ice-cream-van-hire-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8bb413d86591341d61699ae1fe7d5e02"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86c68a33d98c009c669327dd8f6ecaf7"

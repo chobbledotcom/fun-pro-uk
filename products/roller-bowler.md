@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/arcade-games/111/roller-bowler/"
 gallery:
-  - "/images/products/lights-out-game-lights-out-game-2-roller-bowler.jpg"
+  - "/images/products/roller-bowler/roller-bowler-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
 faqs:

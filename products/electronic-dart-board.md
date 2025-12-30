@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/arcade-games/106/electronic-dart-board/"
 gallery:
-  - "/images/products/electronic-dart-board-lights-out-game-lights-out-game-2.jpg"
-  - "/images/products/electronic-dart-board-2.jpg"
-  - "/images/products/electronic-dart-board-3.jpg"
+  - "/images/products/electronic-dart-board/electronic-dart-board-1.jpg"
+  - "/images/products/electronic-dart-board/electronic-dart-board-2.jpg"
+  - "/images/products/electronic-dart-board/electronic-dart-board-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e589094ec1216137052188f2fade887"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7583188346656eeb69819340c82d7c95"

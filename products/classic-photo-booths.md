@@ -16,8 +16,8 @@ options:
 redirect_from:
   - "/category/company-award-ceremonies/11/classic-photo-booths/"
 gallery:
-  - "/images/products/classic-photo-booths-1.jpg"
-  - "/images/products/christmas-photo-booths-classic-photo-booths-green-screen-photo-booths.jpg"
+  - "/images/products/classic-photo-booths/classic-photo-booths-1.jpg"
+  - "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"

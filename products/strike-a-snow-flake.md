@@ -16,12 +16,12 @@ options:
 redirect_from:
   - "/category/christmas-game-hire/91/strike-a-snow-flake/"
 gallery:
-  - "/images/products/strike-a-snow-flake-1.jpg"
-  - "/images/products/strike-a-snow-flake-2.jpg"
-  - "/images/products/strike-a-snow-flake-3.jpg"
-  - "/images/products/strike-a-snow-flake-4.jpg"
-  - "/images/products/strike-a-snow-flake-5.jpg"
-  - "/images/products/strike-a-snow-flake-6.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-1.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-2.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-3.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-4.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-5.jpg"
+  - "/images/products/strike-a-snow-flake/strike-a-snow-flake-6.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d328d990319f3b988c4335923f3facc8"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4d7f3f6337ba4dfa0aba535e17f36ba7"

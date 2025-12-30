@@ -16,10 +16,10 @@ options:
 redirect_from:
   - "/category/fun-foods/71/bbq/"
 gallery:
-  - "/images/products/bbq-1.jpg"
-  - "/images/products/bbq-2.jpg"
-  - "/images/products/bbq-3.jpg"
-  - "/images/products/bbq-4.jpg"
+  - "/images/products/bbq/bbq-1.jpg"
+  - "/images/products/bbq/bbq-2.jpg"
+  - "/images/products/bbq/bbq-3.jpg"
+  - "/images/products/bbq/bbq-4.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b3c4f60dec6dadee3115d6876bdd49a2"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ed16962dbcd497aa7d1fe2fa155fe9e1"

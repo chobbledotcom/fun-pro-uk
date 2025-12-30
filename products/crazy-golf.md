@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/fun-days/81/crazy-golf/"
 gallery:
-  - "/images/products/crazy-golf-lights-out-game-lights-out-game-2.jpg"
+  - "/images/products/crazy-golf/crazy-golf-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
 tabs:

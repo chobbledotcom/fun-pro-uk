@@ -16,11 +16,11 @@ options:
 redirect_from:
   - "/category/christmas-grotto-hire/18/christmas-grotto-2/"
 gallery:
-  - "/images/products/christmas-grotto-2-1.jpg"
-  - "/images/products/christmas-grotto-1-christmas-grotto-2.jpg"
-  - "/images/products/christmas-grotto-2-3.jpg"
-  - "/images/products/christmas-grotto-2-4.jpg"
-  - "/images/products/christmas-grotto-2-5.jpg"
+  - "/images/products/christmas-grotto-2/christmas-grotto-2-1.jpg"
+  - "/images/products/christmas-grotto-2/christmas-grotto-2-2.jpg"
+  - "/images/products/christmas-grotto-2/christmas-grotto-2-3.jpg"
+  - "/images/products/christmas-grotto-2/christmas-grotto-2-4.jpg"
+  - "/images/products/christmas-grotto-2/christmas-grotto-2-5.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86f7ea9737e760f30ddd110a3b375ecb"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d3ec54691f1371b70f71ea5cf633032a"
