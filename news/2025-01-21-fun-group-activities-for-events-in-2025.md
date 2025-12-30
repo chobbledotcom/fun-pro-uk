@@ -1,7 +1,7 @@
 ---
 title: "Fun Group Activities You Can Add To Your Event | Fun Pro UK"
 date: 2025-01-21
-author: "team/colin.md"
+author: "team/liz.md"
 meta_title: "Fun Group Activities You Can Add To Your Event | Fun Pro UK"
 meta_description: "Boost event engagement with fun group activities. Hire top quality event games from Fun Pro UK for parties, corporate events, and more. Book now!"
 redirect_from:

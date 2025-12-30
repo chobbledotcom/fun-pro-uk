@@ -1,7 +1,7 @@
 ---
 title: "It"
 date: 2023-07-28
-author: "team/colin.md"
+author: "team/liz.md"
 meta_title: "It's never too early to think about Christmas parties! | Our Blogs"
 meta_description: "It&#39;s a great idea to book your Christmas party entertainment early to ensure you receive all that you want! Find out more about our holiday fun here."
 redirect_from:

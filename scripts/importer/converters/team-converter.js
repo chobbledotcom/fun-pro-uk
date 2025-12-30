@@ -149,6 +149,18 @@ const convertTeam = async () => {
     console.log('  ✓ Created team/colin.md');
     successful++;
 
+    // Create Liz's profile (coming soon placeholder)
+    const lizContent = `---
+title: "Liz"
+snippet: "Coming Soon"
+---
+
+Coming Soon`;
+    const lizPath = path.join(teamDir, 'liz.md');
+    writeMarkdownFile(lizPath, lizContent);
+    console.log('  ✓ Created team/liz.md');
+    successful++;
+
     // Create team.json for collection defaults
     const teamJson = {
       tags: 'team',
