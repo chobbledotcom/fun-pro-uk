@@ -1047,6 +1047,8 @@ ul.items {
 }
 
 #footer-links {
+  display: flex;
+  flex-direction: column;
   h2 {
     padding: 0;
   }
@@ -1055,7 +1057,8 @@ ul.items {
     padding: 0;
   }
   @include breakpoints.up("md") {
-    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
     gap: 16px;
   }
 }
