@@ -6,6 +6,9 @@ layout: "home.html"
 eleventyNavigation:
   key: Home
   order: 1
+redirect_from:
+  - "/pages/about-bouncy-castle-hire/"
+  - "/pages/frequently-asked-bouncy-castle-hire-questions/"
 ---
 
 # Fun Pro UK | Corporate Events & Parties Game Hire | UK & Nationwide

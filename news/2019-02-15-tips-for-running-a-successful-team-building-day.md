@@ -14,7 +14,7 @@ gallery:
 
 Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But organising and running a successful team building day is no easy task.
 
-To ensure your day achieves all the goals you've set, we've put together our tips for running a successful [team building event.](/categories/corporate-entertainment/)
+To ensure your day achieves all the goals you've set, we've put together our tips for running a successful [team building event.](/categories/corporate-entertainment/#content)
 
 1.  Take it offsite. It helps people to distance themselves from the work environment and switch off mentally from their daily tasks. It can give your team the space to bond without the pressure of work. A fresh environment can also shed new light on problems and get the creative juices flowing.
 2.  Set clear expectations. It's important to ensure everyone knows the purpose of the day and your expectations. We also recommend letting your team know a bit about what's involved in the day. For example, if there is physical activity, it's best to give people warning.
@@ -23,9 +23,9 @@ To ensure your day achieves all the goals you've set, we've put together our tip
 5.  Have some fun. When planning activities for your team building day, remember to make it fun. This can be done through the activities themselves or in the breaks. For your day to be successful and for people to take the lessons onboard, people need to have enjoyed themselves.
 6.  Schedule time for follow-up after the team building day. To ensure your event has the biggest impact make sure you schedule in time to follow-up when you're back in the office.This can often be done in a team meeting and ensures you are implementing the learnings you gained from the day.
 
-Team building days can be a lot of fun and a fabulous way to build cohesive teams. At Fun Pro UK we can help to make your day a success with our large range of [interactive games](/categories/interactive-game-hire/) and inflatables. Contact us at email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197.
+Team building days can be a lot of fun and a fabulous way to build cohesive teams. At Fun Pro UK we can help to make your day a success with our large range of [interactive games](/categories/interactive-game-hire/#content) and inflatables. Contact us at email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

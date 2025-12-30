@@ -16,7 +16,7 @@ As if that wasn't enough, the company also add a giant assault course inside the
 
 We've been working with Rolls Royce for several years, and are proud to say that they return year after year, confident in the highest levels of professional service and first class equipment. Their continuing custom is a great compliment to our company, because after all, if anyone knows about superior standards and uncompromising quality it's Rolls Royce.
 
-!Corporate Events
+
 
 ## What our customers are saying…
 

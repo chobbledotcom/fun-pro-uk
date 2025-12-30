@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Shuffleboard Hire | Fun Pro UK"
 meta_description: "Add excitement to your event with shuffleboard hire from Fun Pro UK. Ideal for parties, corporate events, and more. Available across the UK. Book us today!"
-categories: ["categories/all-products.md", "categories/exhibition-games.md"]
+categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,6 @@ options:
     max_quantity: 1
     unit_price: 495
 redirect_from:
-  - "/category/all-products/87/shuffleboard-hire/"
   - "/category/exhibition-games/87/shuffleboard-hire/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-shuffle-board-shuffle-board-hire-shuffleboard-hire.jpg"
@@ -60,10 +59,10 @@ tabs:
         
       We specialise in a large variety of events. Get a shuffleboard hire for:  
         
-      ✓ [Corporate events](/categories/corporate-entertainment/)  
-      ✓ [Exhibitions](/categories/exhibition-games/)  
-      ✓ [Family fun days](/categories/fun-days/)  
-      ✓ [Weddings](/hire-outdoor-games-for-weddings/)  
+      ✓ [Corporate events](/office-and-corporate-entertainment/#content)  
+      ✓ [Exhibitions](/exhibition-game-hire/#content)  
+      ✓ [Family fun days](/family-fun-day-entertainment/#content)  
+      ✓ [Weddings](/wedding-entertainment/#content)  
       ✓ College and university events  
       ✓ Conferences and trade shows  
       ✓ Fundraisers  
@@ -96,13 +95,13 @@ tabs:
         
       (One time use only)  
         
-      [Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
+      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
       
       \*Please note that delivery charges and minimum order values may apply.
       
       ## Why Choose Our Shuffleboard Hire Service?
       
-      [Fun Pro UK](/christmas-entertainment-game-hire/) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
+      [Fun Pro UK](/#content) stands out as a leading provider of high-quality event games for hire. We’re giving you more than just a shuffle boarding game, we deliver a complete experience.  
         
       Our shuffleboard table is maintained meticulously, so you receive it in top condition during the event. Aside from being fully functional, they are also visually appealing and guaranteed to be highly entertaining for your guests. No matter what type of event you’re hosting, you can rest assured that our shuffleboard hire meets yours and your guests’ expectations.  
         
@@ -137,7 +136,7 @@ tabs:
       
       ### How do I book a shuffle board table for my event?
       
-      Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](/contact-fun-pro-uk/), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
+      Booking a shuffleboard with Fun Pro is very easy! You can [reach our team through our enquiry form](/contact-fun-pro-uk/#content), email, or phone number. We'll guide you through the process, give you a custom quote, confirm the booking, and handle all the logistics to make sure your rented shuffle board arrives at the event successfully.
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -177,11 +176,11 @@ tabs:
       
       ## Popular items:
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
       *   [Batak Pro](/products/batak-pro/#content)
-      *   [Dance Machine](/products/dance-machine/)
-      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-      *   [Lights Out](/categories/interactive-game-hire/)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
       
       **Skirt Branding**
       

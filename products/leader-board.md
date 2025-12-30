@@ -5,8 +5,8 @@ price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
-categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/interactive-game-hire.md"]
+events: []
 featured: true
 features: []
 options:
@@ -60,15 +60,15 @@ tabs:
       
       **£75**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -118,10 +118,10 @@ tabs:
       
       Popular items:
       
-      *   [Race car Simulators](/products/twin-racing-car-simulators/)
-      *   [Grab a Grand](/products/grab-a-grand/)
+      *   [Race car Simulators](/products/racing-car-simulators/#content)
+      *   [Grab a Grand](/products/cash-grabber-machine-hire/#content)
       *   Lights Out
-      *   [Pluck A Duck Racing](/products/pluck-a-duck-racing/)
+      *   [Pluck A Duck Racing](/products/pluck-a-duck-racing/#content)
       
       Want to add a leader board to make your hire more competitive, then look no further!  
         

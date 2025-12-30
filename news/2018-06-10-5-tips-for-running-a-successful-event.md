@@ -26,7 +26,7 @@ Successful events don't happen by accident. They take a lot of time, hard work a
   
 We hope you've found these tips useful and that your event is a huge success!  
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

@@ -5,7 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Adult Bouncy Castle Hire | Fun Pro UK | Fun Days"
 meta_description: "Adult bouncy castles let your inner child free! These inflatables are roomy &amp; durable - perfect for bouncing grown-ups at birthdays, office parties &amp; more."
-categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
+categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features: []
@@ -36,11 +36,11 @@ tabs:
       
       **£295**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       If you've ever watched your kids having the time of their lives on a bouncy castle, and longed to have a go, then this is the perfect hire for you. Our adult bouncy castles for hire are specially designed for grown-ups, so everyone from the managing director to the intern can bounce their way back to that wonderful free feeling of childhood.
       
@@ -49,7 +49,7 @@ tabs:
       
       Unlike most bouncy castles, which have an age or weight limit, bouncy castles for adults are made from stronger canvas, with specially reinforced seams, so all ages can join the fun.
       
-      Adult bouncy castle hire is a great ice breaker for your [company fun day,](/categories/fun-days/) getting everyone in the mood for fun as they fly around in complete safety. They're especially good for company events where the whole family is invited, because they allow mums and dads to share the excitement with their kids welcoming everyone to the party. There's just no better way to build morale and thank your team for all their hard work.
+      Adult bouncy castle hire is a great ice breaker for your [company fun day,](/categories/fun-days/#content) getting everyone in the mood for fun as they fly around in complete safety. They're especially good for company events where the whole family is invited, because they allow mums and dads to share the excitement with their kids welcoming everyone to the party. There's just no better way to build morale and thank your team for all their hard work.
       
       ## **Top quality castles  
       **

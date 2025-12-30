@@ -20,7 +20,7 @@ Who doesn't love Christmas? Here at Fun Pro UK, it is our favourite time of year
 
 ## Are you looking for some extra Christmas cheer for your event?!Christmas photo booth
 
-We all know a photo booth is a must have at an employee event. So why not hire one of our [Christmas photo booths](/christmas-photo-booth-corporate-event-hire/) for your Christmas party or seasonal sales promotion? Whether it is our snowy forest scene or our rustic Santa's cabin. These festive booths are just what any seasonal event needs to bring the setting to life.
+We all know a photo booth is a must have at an employee event. So why not hire one of our [Christmas photo booths](/christmas-photo-booth-corporate-event-hire/#content) for your Christmas party or seasonal sales promotion? Whether it is our snowy forest scene or our rustic Santa's cabin. These festive booths are just what any seasonal event needs to bring the setting to life.
 
 Not only is the booth festively designed, we will throw in our fantastic festive prop box! Fit for all events with reindeer ears, funtastic glasses and even Christmas tree hats! These props are guaranteed to bring joy to all those at your festive event!
 
@@ -28,15 +28,15 @@ Not only is the booth festively designed, we will throw in our fantastic festive
 
 Invite your guests into your Christmas event in style, by meeting the man himself, Father Christmas, sitting inside his very own snow covered grotto!
 
-Fun Pro UK's [Christmas grottos](/categories/christmas-grotto-hire/) are absolutely perfect for a whole range of seasonal events from university/school Christmas parties, shopping centres, Christmas themed staff parties and seasonal sales promotions. Our authentic snow covered log cabin is ideal for those who are young, and those young at heart!
+Fun Pro UK's [Christmas grottos](/categories/christmas-grotto-hire/#content) are absolutely perfect for a whole range of seasonal events from university/school Christmas parties, shopping centres, Christmas themed staff parties and seasonal sales promotions. Our authentic snow covered log cabin is ideal for those who are young, and those young at heart!
 
 ### Want something unique for your event?
 
 !Dance Machine
 
-Our all singing and dancing [dance machine](/products/dance-machine/) is the perfect entertainment item to get your guests active at your Christmas party! Why not put your dancing shoes on and get down on the floor showing off your moves! Your guests will be intrigued when they see those shapes being thrown around and will not be able to stop themselves joining in the fun!
+Our all singing and dancing [dance machine](/products/dance-machine/#content) is the perfect entertainment item to get your guests active at your Christmas party! Why not put your dancing shoes on and get down on the floor showing off your moves! Your guests will be intrigued when they see those shapes being thrown around and will not be able to stop themselves joining in the fun!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

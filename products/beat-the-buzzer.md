@@ -5,8 +5,8 @@ price: "£350"
 order: 50
 meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"
 meta_description: "Beat The Buzzer Hire – Test Your Skills Event Game is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 350
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
-  - "/category/interactive-game-hire/62/beat-the-buzzer/"
 gallery:
   - "/images/products/beat-the-buzzer-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/beat-the-buzzer-2.jpg"
@@ -69,15 +68,15 @@ tabs:
       
       **£1095**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -117,10 +116,10 @@ tabs:
       
       **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## Beat The Buzzer
       

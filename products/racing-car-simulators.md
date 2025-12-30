@@ -5,7 +5,7 @@ price: "£475"
 order: 50
 meta_title: "Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK"
 meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events, Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today. 07769 979 676"
-categories: ["categories/interactive-game-hire.md"]
+categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 475
 redirect_from:
-  - "/category/interactive-game-hire/5/racing-car-simulators/"
+  - "/category/arcade-games/5/racing-car-simulators/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-racing-car-simulators-twin-racing-car-simulators.jpg"
   - "/images/products/racing-car-simulators-twin-racing-car-simulators.jpg"
@@ -175,11 +175,11 @@ tabs:
       
       **£2050**\+ vat**
       
-      Delivered [](/products/twin-racing-car-simulators/)and [](/products/twin-racing-car-simulators/)installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery [](/products/twin-racing-car-simulators/)Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      [**Email:**](/products/twin-racing-car-simulators/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -219,9 +219,9 @@ tabs:
       
       **Popular items:**
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
-      *   [Dance Machine](/products/dance-machine/)
-      *   [Electronic Basketball hoop](/products/ultimate-green-screen-photo-booth/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
       *   Lights Out
       
       ## **Racing Car Simulator Hire**
@@ -278,6 +278,6 @@ tabs:
       
       **A huge interactive games range**
       
-      Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/products/giant-buzz-wire/) to test your steady hand, to [retro arcade games](/products/retro-arcade-games/) for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+      Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/products/giant-buzz-wire/#content) to test your steady hand, to [retro arcade games](/products/retro-arcade-games/#content) for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
 ---
 

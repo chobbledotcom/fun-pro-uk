@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"
 meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/fun-days.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
@@ -56,11 +56,11 @@ tabs:
       
       **£1495**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

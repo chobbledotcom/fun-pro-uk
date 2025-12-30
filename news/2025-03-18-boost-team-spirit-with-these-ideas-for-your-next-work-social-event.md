@@ -12,7 +12,7 @@ gallery:
 
 # 18 March 25 - Boost Team Spirit With These Ideas For Your Next Work Social Event
 
-Organising a work social event is a great way to strengthen team bonds, improve morale, and create a positive workplace culture. But with so many options available, how do you choose the perfect activities? Whether you're planning a small [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or a large-scale [corporate event](/categories/corporate-entertainment/), incorporating things like [interactive games](/categories/interactive-game-hire/) can make all the difference.
+Organising a work social event is a great way to strengthen team bonds, improve morale, and create a positive workplace culture. But with so many options available, how do you choose the perfect activities? Whether you're planning a small [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) or a large-scale [corporate event](/categories/corporate-entertainment/#content), incorporating things like [interactive games](/categories/interactive-game-hire/#content) can make all the difference.
 
 ## The Importance Of a Well Planned Work Social Event
 
@@ -22,15 +22,15 @@ Team-building activities provide an opportunity for employees to connect outside
 
 ### 1\. Arcade Game Challenge
 
-[Arcade games](/categories/arcade-games/) bring a sense of nostalgia and fun, making them a perfect choice for a work social event. Renting a selection of arcade games allows employees to compete, bond, and enjoy a light-hearted break from work.
+[Arcade games](/categories/arcade-games/#content) bring a sense of nostalgia and fun, making them a perfect choice for a work social event. Renting a selection of arcade games allows employees to compete, bond, and enjoy a light-hearted break from work.
 
 !
 
-The [prize crane arcade grabber](/products/prize-crane-arcade-grabber/) is an exciting addition to any work event, offering a mix of luck and skill. Employees can compete to grab prizes, making it a great conversation starter and a fun way to boost engagement.
+The [prize crane arcade grabber](/products/prize-crane-arcade-grabber/#content) is an exciting addition to any work event, offering a mix of luck and skill. Employees can compete to grab prizes, making it a great conversation starter and a fun way to boost engagement.
 
 ### 2\. High-Speed Thrills with Racing Car Simulators
 
-For teams that enjoy a bit of competition, [racing car simulators](/products/twin-racing-car-simulators/) are a thrilling option. These simulators provide an adrenaline-pumping experience that allows participants to race against their colleagues in a fun and friendly environment.
+For teams that enjoy a bit of competition, [racing car simulators](/products/racing-car-simulators/#content) are a thrilling option. These simulators provide an adrenaline-pumping experience that allows participants to race against their colleagues in a fun and friendly environment.
 
 !
 
@@ -42,7 +42,7 @@ Testing reaction speeds can be a great way to encourage quick thinking and frien
 
 !
 
-The Batak reaction game is an excellent choice for a work social event. It challenges participants to hit randomly lit targets as quickly as possible, improving their reflexes while having fun. It’s a great icebreaker and ideal for creating a lively and interactive environment. Choose between [Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/) to suit your needs.
+The [Batak](/categories/batak/#content) reaction game is an excellent choice for a work social event. It challenges participants to hit randomly lit targets as quickly as possible, improving their reflexes while having fun. It’s a great icebreaker and ideal for creating a lively and interactive environment. Choose between [Batak Pro](/products/batak-pro/#content) and [Batak Lite](/products/batak-lite/#content) to suit your needs.
 
 ### 4\. Retro Gaming Night
 
@@ -60,7 +60,7 @@ Consider the interests and preferences of your team members. If they enjoy compe
 
 ### How much space do I need for these activities?
 
-The space required depends on the activity. Arcade machines and racing simulators need a dedicated area, while a quiz night or [pub games](/categories/pub-games/) can usually be set up in a conference room or open office space.
+The space required depends on the activity. Arcade machines and racing simulators need a dedicated area, while a quiz night or [pub games](/categories/pub-games/#content) can usually be set up in a conference room or open office space.
 
 ### Can I mix different activities in one event?
 
@@ -78,9 +78,9 @@ Choosing the right work social event can make a significant impact on team dynam
 
 At Fun Pro UK, we provide a range of interactive and exciting games to take your corporate event to the next level. From arcade machines to high-tech simulators, our selection ensures a fun-filled and memorable experience for your team.
 
-[Explore our range of entertainment options](/categories/all-products/) today and start planning your next successful work social event.
+[Explore our range of entertainment options](/products/#content) today and start planning your next successful work social event.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

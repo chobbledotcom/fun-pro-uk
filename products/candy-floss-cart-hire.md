@@ -5,8 +5,8 @@ price: "£450"
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
-categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/fun-foods.md"]
+events: []
 featured: true
 features: []
 options:
@@ -38,7 +38,7 @@ faqs:
       
       Our hassle free service ensures that you don't need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish.
   - question: "Can I hire multiple carts for larger events or different locations?"
-    answer: "Talk to us through [our website](/christmas-entertainment-game-hire/), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
+    answer: "Talk to us through [our website](/#content), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
   - question: "Are there any customisation options for flavours or colours?"
     answer: "Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart's exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process."
 tabs:
@@ -50,7 +50,7 @@ tabs:
       
       ## Best Candy Floss Cart Hire for Fun Events in the UK!
       
-      If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/categories/fun-days/), school fetes, and more.  
+      If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/family-fun-day-entertainment/#content), school fetes, and more.  
         
       The bright colours and spinning sugar draw in guests of all ages, making it a simple yet eye-catching addition to your gathering. It’s an easy way to make your event stand out and create sweet, lasting memories for everyone who attends.
       
@@ -58,7 +58,7 @@ tabs:
       
       The candy floss cart is a great addition to any event, whether indoors or outdoors.
       
-      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/outdoor-garden-game-hire/), [school fun days](/school-fun-day-entertainment-hire/), [promotional fairs](/promotion-event-games/), [corporate gatherings](/categories/corporate-entertainment/), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/summer-entertainment/#content), [school fun days](/school-fun-day-entertainment-hire/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
       
       Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
       
@@ -110,16 +110,16 @@ tabs:
       
       ### **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## Why Choose Our Candy Floss Cart Hire Service?
       
       Fun Pro UK's candy floss cart hire adds entertainment and creates a space for guests to gather, chat, and enjoy a nostalgic treat. The cart is a simple way to bring people together and keeps guests coming back for more throughout the event.
       
-      Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/news/top-5-most-popular-interactive-outdoor-games-for-corporates/), and we handle each detail with care and professionalism to ensure everything runs smoothly.
+      Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/news/top-5-most-popular-interactive-outdoor-games-for-corporates/#content), and we handle each detail with care and professionalism to ensure everything runs smoothly.
       
       From setup to service, our team is committed to making the entire process easy and enjoyable. We manage the logistics, so you can focus on organising your event and making sure your guests have a great time.
       
@@ -149,7 +149,7 @@ tabs:
       
       ## Ready to take your corporate event to the next level?
       
-      Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/contact-fun-pro-uk/) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
+      Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/contact-fun-pro-uk/#content) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
       
       ### **Branding Prices from:**
       

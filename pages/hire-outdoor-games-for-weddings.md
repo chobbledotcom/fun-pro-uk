@@ -4,10 +4,6 @@ meta_description: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK -
 layout: page
 redirect_from:
   - "/pages/hire-outdoor-games-for-weddings/"
-eleventyNavigation:
-  key: "Wedding Entertainment for Guests"
-  parent: "How We Help"
-  order: 5
 ---
 
 # **Wedding Entertainment for Guests**
@@ -22,7 +18,7 @@ Our [Magic Mirror](/products/giant-jenga-hire/#content) really does make people 
 
 When you hire wedding games from Fun Pro UK, your guests will be talking about how much fun they had had at your wedding.
 
-**[Have a look at our wedding games](/categories/weddings/)** and give the Fun Pro UK events team a call, we are here to make sure your wedding is the most memorable it can be.
+**[Have a look at our wedding games](/categories/weddings/#content)** and give the Fun Pro UK events team a call, we are here to make sure your wedding is the most memorable it can be.
 
 Feedback from a wedding at [Shustoke Barn, Coleshill](https://crippsandco.com/shustoke-barn/testimonials) in December 2023 - *We had an amazing time working with FunPro UK for our wedding this December! They showed up early and waited for set up, were professional and so much fun for our day! Would 10/10 recommend this company to anyone looking to hire a Photo Booth.*
 

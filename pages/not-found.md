@@ -10,4 +10,4 @@ permalink: /not_found.html
 
 ## Page Not Found
 
-Whoops! It looks like you followed an invalid link - **[click here to go back to the homepage](/)**.
+Whoops! It looks like you followed an invalid link - **[click here to go back to the homepage](/#content)**.

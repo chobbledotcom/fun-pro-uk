@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
+categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
 features: []
@@ -45,7 +45,7 @@ tabs:
       
       ## **Best Strike a Snow Flake Game Hire for Events in the UK!**
       
-      Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/news/christmas-events-and-party-ideas/) or festive funfairs.  
+      Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/news/#content) or festive funfairs.  
       
       ## **Hire a Strike a Snow Flake game for your holiday party!**
       
@@ -54,7 +54,7 @@ tabs:
         
       ✓ Corporate Christmas parties  
       ✓ Holiday themed [team building events  
-      ](/team-building-ideas/)✓ Christmas funfairs  
+      ](/team-building-ideas/#content)✓ Christmas funfairs  
       ✓ [Family gatherings](http://)  
         
       ...and more!
@@ -127,9 +127,9 @@ tabs:
       
       ## **Why Choose Our Strike a Snow Flake Game Hire Service?**
       
-      Fun Pro UK is the leading provider of [Christmas party games for hire](/christmas-entertainment-game-hire/) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
+      Fun Pro UK is the leading provider of [Christmas party games for hire](/christmas-entertainment-game-hire/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
       
-      Wherever your Christmas party is located, [Fun Pro](/christmas-entertainment-game-hire/) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
+      Wherever your Christmas party is located, [Fun Pro](/#content) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
       
       Whether your event is indoors or outdoors, our expert team handles delivery, setup, and operation, ensuring everything runs smoothly. With a hassle-free booking process, we’ll make sure the Strike a Snowflake game is ready for your guests to enjoy all day or night.
       
@@ -159,7 +159,7 @@ tabs:
       
       ## **Ready to take your event to the next level?**
       
-      Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](/contact-fun-pro-uk/) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
+      Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](/contact-fun-pro-uk/#content) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
       
       ### **Can the game be customised with branding or event themes?**
       

@@ -56,10 +56,10 @@ tabs:
       
       **Popular items:**
       
-      *   [Magic Mirror](/products/magic-mirror/)
-      *   [Photo Booth](/products/green-screen-photo-booths/)
+      *   [Magic Mirror](/products/magic-mirror/#content)
+      *   [Photo Booth](/products/green-screen-photo-booths/#content)
       *   Selfie Pod
-      *   [Green Screen Booth](/products/green-screen-photo-booths/)
+      *   [Green Screen Booth](/products/green-screen-photo-booths/#content)
       
       ## What our customers are saying…
       

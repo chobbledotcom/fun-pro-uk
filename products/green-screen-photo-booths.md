@@ -5,8 +5,8 @@ price: "£450"
 order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"
 meta_description: "Looking for green screen photo booth hire near you? Ideal for parties, corporate events, and more. UK-wide delivery available. Call today to reserve!"
-categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/photo-booths-and-magic-mirrors.md"]
+events: []
 featured: true
 features: []
 options:
@@ -100,15 +100,15 @@ tabs:
       
       **£495**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -148,8 +148,8 @@ tabs:
       
       **Popular items:**
       
-      *   [Red Carpet and Gold Railings](/products/red-carpet-and-4-gold-stanchions/)
-      *   [Magic Mirror](/products/magic-mirror/)
+      *   [Red Carpet and Gold Railings](/products/red-carpet-and-4-gold-stanchions/#content)
+      *   [Magic Mirror](/products/magic-mirror/#content)
       
       ## Green Screen Photo Booth Hire
       
@@ -157,7 +157,7 @@ tabs:
       
       ### A choice of photo booths
       
-      !Green screen booths Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/), we can [brand the outside](/products/bespoke-photo-booth-hire/) too, creating a real draw at an exhibition or trade show
+      !Green screen booths Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/#content), we can [brand the outside](/products/bespoke-photo-booth-hire/#content) too, creating a real draw at an exhibition or trade show
       
       ### A complete service
       

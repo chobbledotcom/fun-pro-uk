@@ -13,25 +13,25 @@ Exhibiting at trade shows and exhibitions can be a great way to showcase your bu
 
 ## Trade Show and Expo Entertainment Ideas
 
-[Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/) and [Buzz Wire](/products/giant-buzz-wire/) are some of our most popular games. This is a steady hand game that challenges players to navigate a wire loop without touching it.  
+[Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/#content) and [Buzz Wire](/products/giant-buzz-wire/#content) are some of our most popular games. This is a steady hand game that challenges players to navigate a wire loop without touching it.  
   
-[Batak Pro](/products/batak-pro/) and [Batak Lite](/products/batak-lite/) are reflex games that test players' reaction times. Batak has multiple levels, so it's suitable for players of all skill levels. This is a fantastic way to promote your brand, as we can add your company logo or motto to the game.  
+[Batak Pro](/products/batak-pro/#content) and [Batak Lite](/products/batak-lite/#content) are reflex games that test players' reaction times. Batak has multiple levels, so it's suitable for players of all skill levels. This is a fantastic way to promote your brand, as we can add your company logo or motto to the game.  
   
-Strike a Light and [Whack a Mole](/products/whack-a-mole-game-hire/) are always a hit at exhibitions and trade shows. Both games are fast-paced and exciting tests of your reaction times and will bring plenty of activity and excitement to your exhibition stand.  
+Strike a Light and [Whack a Mole](/products/whack-a-mole-game-hire/#content) are always a hit at exhibitions and trade shows. Both games are fast-paced and exciting tests of your reaction times and will bring plenty of activity and excitement to your exhibition stand.  
   
-[Prize Claw Grabbing Machines](/products/prize-crane-arcade-grabber/) are always a crowd-pleaser. Players can try their luck at grabbing a prize from the machine, making it a fun and interactive way to engage with potential customers. We offer a range of prizes to suit all budgets and can even brand the prizes with your company logo.  
+[Prize Claw Grabbing Machines](/products/prize-crane-arcade-grabber/#content) are always a crowd-pleaser. Players can try their luck at grabbing a prize from the machine, making it a fun and interactive way to engage with potential customers. We offer a range of prizes to suit all budgets and can even brand the prizes with your company logo.  
   
-[Grab a Grand Cash Cubes](/products/grab-a-grand/) and [Ballnado Grabbers](/products/ballnado-grabber/) challenge players to grab as much as possible while inside a wind vortex. This is a unique and exciting game that's sure to get people talking about your brand and that always blows up some interest.  
+[Grab a Grand Cash Cubes](/products/cash-grabber-machine-hire/#content) and [Ballnado Grabbers](/products/ballnado-grabber/#content) challenge players to grab as much as possible while inside a wind vortex. This is a unique and exciting game that's sure to get people talking about your brand and that always blows up some interest.  
   
-[Prize Wheels](/products/prize-wheel/) are another great option for exhibitions and trade shows. Players spin the wheel to win prizes or discounts on your products or services. We can customise the prize wheel to your specific requirements, making it a fantastic way to promote your brand at trade shows.  
+[Prize Wheels](/products/prize-wheel/#content) are another great option for exhibitions and trade shows. Players spin the wheel to win prizes or discounts on your products or services. We can customise the prize wheel to your specific requirements, making it a fantastic way to promote your brand at trade shows.  
   
-[Test your strength](/products/high-striker/) against others at the exhibition and see who can hit the bell the hardest. It's a fun and competitive trade show entertainment idea that's sure to draw a crowd.  
+[Test your strength](/products/high-striker/#content) against others at the exhibition and see who can hit the bell the hardest. It's a fun and competitive trade show entertainment idea that's sure to draw a crowd.  
   
-[Racecar simulators](/products/twin-racing-car-simulators/) and [VR racecar simulators](/products/vr-race-car-simulator/) are perfect for car enthusiasts. Players can experience the thrill of racing in a safe and controlled environment, making it a fantastic way to engage with potential customers who have an interest in cars. If you run a motoring-industry business, this could be just what you need.  
+[Racecar simulators](/products/racing-car-simulators/#content) and [VR racecar simulators](/products/vr-race-car-simulator/#content) are perfect for car enthusiasts. Players can experience the thrill of racing in a safe and controlled environment, making it a fantastic way to engage with potential customers who have an interest in cars. If you run a motoring-industry business, this could be just what you need.  
   
-[Arcade Games](/categories/arcade-games/) such as [Dance Machines](/products/dance-machine/) are crowd-pleasers for exhibitions and trade shows. These arcade classics will help you engage with potential customers while showcasing your brand's fun and playful side.  
+[Arcade Games](/categories/arcade-games/#content) such as [Dance Machines](/products/dance-machine/#content) are crowd-pleasers for exhibitions and trade shows. These arcade classics will help you engage with potential customers while showcasing your brand's fun and playful side.  
   
-And [photo booths](/categories/photo-booths-and-magic-mirrors/) are a fantastic way to capture memories and promote your brand. Why not put your business' name on any photobooth printouts, and provide props and accessories that represent your company?
+And [photo booths](/categories/photo-booths-and-magic-mirrors/#content) are a fantastic way to capture memories and promote your brand. Why not put your business' name on any photobooth printouts, and provide props and accessories that represent your company?
 
 All these trade show entertainment ideas and many more are available to hire from Fun Pro UK - nationwide! We've taken part in events at the NEC Birmingham, the Manchester Central Convention Complex, the London ExCeL and any other exhibition centre you can name. When you want an experienced team, we're ready to assist!
 
@@ -49,7 +49,7 @@ We at Fun Pro UK are passionate about delivering high-quality games and entertai
   
 If you're looking to enhance your brand's visibility and create a lasting impression at your next event, hire exhibition games online with us! Look through our website to see what is available, and then use our online booking system to order your products. Let our team of experts bring your vision to life.
 
-If you need any advice or information, don't hesitate to [contact us](/contact-fun-pro-uk/)!
+If you need any advice or information, don't hesitate to [contact us](/contact-fun-pro-uk/#content)!
 
 ## What our customers are saying…
 

@@ -8,7 +8,7 @@ redirect_from:
 
 # Prize Crane Hire Birmingham
 
-Interested in hiring a prize crane from Fun Pro UK for your next [corporate event](/locations/birmingham/corporate-event-hire/) in Birmingham? We've got you covered, and we can even deliver it to the [NEC](/locations/birmingham/nec/), ICC, and NCC. How cool is that?  
+Interested in hiring a prize crane from Fun Pro UK for your next [corporate event](/locations/birmingham/corporate-event-hire/#content) in Birmingham? We've got you covered, and we can even deliver it to the [NEC](/locations/birmingham/nec/#content), ICC, and NCC. How cool is that?  
   
 When it comes to [Prize Crane Hire Birmingham](/products/prize-crane-arcade-grabber/#content), you have the option to choose between branded or unbranded machines. If you want to add a personal touch or promote your brand, you can go for a branded machine. We can customize the crane with your logo or any other design you'd like.  
   

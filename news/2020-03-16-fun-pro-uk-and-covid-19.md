@@ -34,7 +34,7 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 !Fun Pro UK
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

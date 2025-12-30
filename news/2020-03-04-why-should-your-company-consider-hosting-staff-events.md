@@ -18,7 +18,7 @@ Whether you are considering an annual award ceremony, a dinner or a summer party
 
 **Validating your Employees**!Human football**
 
-Having an [award ceremony](/events/company-award-ceremonies/) is a great way of showing your appreciation to staff,by rewarding performance or company culture and values. These awards will make an employee feel valued, important and like they are having an impact on the business. Which overall will do wonders for the productivity when they are back in the office.
+Having an [award ceremony](/events/company-award-ceremonies/#content) is a great way of showing your appreciation to staff,by rewarding performance or company culture and values. These awards will make an employee feel valued, important and like they are having an impact on the business. Which overall will do wonders for the productivity when they are back in the office.
 
 If your business has just brought in a big deal or had a great quarter, why not celebrate it? Bring in the client for employees to meet, as everyone loves to be acknowledged for their work. Celebrating the success within a workplace builds the company culture, which in the long term will bring in improved talent!
 
@@ -26,7 +26,7 @@ Overall, everyone wants to feel appreciated for what they bring to the table, so
 
 **Promotes Creativity within your Team**
 
-Taking your staff out of their usual environment can often help them think differently and foster collaboration to solve problems This is particularly the case during team building events but can also be done during the breakout sessions at [conferences](/conference-game-hire/) and long meetings. Collaborating with those outside their usual departments can also help individuals produce fresh new ideas and think outside the box. This is extremely helpful when they return to the office, as they may begin thinking in a new way to solve issues.
+Taking your staff out of their usual environment can often help them think differently and foster collaboration to solve problems This is particularly the case during team building events but can also be done during the breakout sessions at [conferences](/conference-game-hire/#content) and long meetings. Collaborating with those outside their usual departments can also help individuals produce fresh new ideas and think outside the box. This is extremely helpful when they return to the office, as they may begin thinking in a new way to solve issues.
 
 Having a company event will give your team the chance to step away from the daily drive for results allow their creative side to shine. Without the daily pressure you might discover the hidden creative potential of some of your team resulting in huge benefits to your business.
 
@@ -38,7 +38,7 @@ Almost every job will have some level of stress with deadlines,targets and custo
 
 When morale is high, teams are naturally more motivated and productivity goes through the roof. So, give your teams an event to motivate them to work hard and succeed then reward that with a celebration!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

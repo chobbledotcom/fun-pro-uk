@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"
 meta_description: "Book the Gold Cup horse race simulator for your events, parties, and fun days. We deliver across the UK. Contact us today to reserve your spot and get started!"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/prize-games.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/29/gold-cup-horse-racing/"
-  - "/category/interactive-game-hire/29/gold-cup-horse-racing/"
 gallery:
   - "/images/products/gold-cup-horse-racing-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/gold-cup-horse-racing-2.jpg"
@@ -72,15 +71,15 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -120,10 +119,10 @@ tabs:
       
       Popular items:
       
-      *   [Race Car Simulators](/products/twin-racing-car-simulators/)
-      *   [Top Doc](/products/top-doc-operation-game/)
-      *   [Dance Machine](/products/dance-machine/)
-      *   [Pick N Mix](/products/pix-n-mix-hire/)
+      *   [Race Car Simulators](/products/racing-car-simulators/#content)
+      *   [Top Doc](/products/top-doc-operation-game/#content)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Pick N Mix](/products/pix-n-mix-hire/#content)
       
       ## **Gold Cup Horse Racing Hire**
       

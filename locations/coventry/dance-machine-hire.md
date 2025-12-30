@@ -74,9 +74,9 @@ Please contact us to find out more
 
 **Popular items order along side our Dance Machines are**
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
-*   [Twin race car simulators](/products/twin-racing-car-simulators/)
-*   [Electronic Basketball hoop](/products/ultimate-green-screen-photo-booth/)
+*   [Retro arcade machine](/products/retro-arcade-games/#content)
+*   [Twin race car simulators](/products/racing-car-simulators/#content)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
 *   Lights Out
 
 ## What our customers are saying…

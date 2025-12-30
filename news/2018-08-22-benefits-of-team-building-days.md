@@ -24,7 +24,7 @@ Employees will take note that the business is taking an interest in their succes
 
 2) Improving communication
 
-[Team building activities](/categories/corporate-entertainment/) allow for clearer communication and co-operation between staff, which can develop into smoother relations between employees and success in projects.
+[Team building activities](/categories/corporate-entertainment/#content) allow for clearer communication and co-operation between staff, which can develop into smoother relations between employees and success in projects.
 
 3) Improved productivity
 
@@ -40,7 +40,7 @@ These activities will enable employees to learn about each other through their i
 
 There are both benefits to the individual and the company from undertaking team building activities.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

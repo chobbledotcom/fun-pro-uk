@@ -4,17 +4,13 @@ meta_description: "Boost brand visibility with promotional game hire for corpora
 layout: page
 redirect_from:
   - "/pages/promotion-event-games/"
-eleventyNavigation:
-  key: "Brand Activation Game Hire For Corporate Events"
-  parent: "How We Help"
-  order: 2
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire
 
 Corporate events have a bit of a reputation as being a bit stiff or boring, but we believe that all events can be fun for everyone. With our extensive range of interactive and branded games to hire, we make sure that all promotional events will be talked about for all the right reasons.
 
-Our [branded game hire](/categories/branded-exhibition-games/) service allows you to fully customise your chosen games with your brand logo or even the event logo. So whether you’re looking to boost brand awareness or create buzz around your event, we’re here to help you do just that, while helping you ensure that everyone has fun along the way.  
+Our [branded game hire](/branded-game-hire/#content) service allows you to fully customise your chosen games with your brand logo or even the event logo. So whether you’re looking to boost brand awareness or create buzz around your event, we’re here to help you do just that, while helping you ensure that everyone has fun along the way.  
   
 We deliver all over the UK, so simply pick the games and we’ll take care of the rest.
 
@@ -36,33 +32,33 @@ Our promotional game hire allows you to get maximum visibility for your brand, w
 
 ### Interactive & Reaction Games
 
-*   [Strike a Light Reaction Games](/products/danger-zone-strike-a-light-game-hire/) - Fast-paced, competitive games that test reflexes and create exciting, shareable moments
+*   [Strike a Light Reaction Games](/products/danger-zone-strike-a-light-game-hire/#content) - Fast-paced, competitive games that test reflexes and create exciting, shareable moments
     
-*   [Crack the Code Safe Game](/products/crack-the-code-safe-cracker/) - Challenge participants to unlock prizes with a digital code-breaking experience
+*   [Crack the Code Safe Game](/products/crack-the-code-safe-cracker/#content) - Challenge participants to unlock prizes with a digital code-breaking experience
     
-*   Batak Games - Professional standard reaction games that create healthy competition
+*   [Batak Games](/categories/batak/#content) - Professional standard reaction games that create healthy competition
 
 ### Arcade & Prize Games
 
-*   [Prize Wheels](/products/prize-wheel/) - Classic crowd-pleasers available in traditional or digital LED versions
+*   [Prize Wheels](/products/prize-wheel/#content) - Classic crowd-pleasers available in traditional or digital LED versions
     
-*   [Cash Grabber](/products/grab-a-grand/) \- A thrilling vortex experience where participants grab branded vouchers or prizes
+*   [Cash Grabber](/products/cash-grabber-machine-hire/#content) \- A thrilling vortex experience where participants grab branded vouchers or prizes
     
-*   [Prize Crane Machines](/products/prize-crane-arcade-grabber/) - Nostalgic arcade-style claw machines filled with your promotional items
+*   [Prize Crane Machines](/products/prize-crane-arcade-grabber/#content) - Nostalgic arcade-style claw machines filled with your promotional items
 
 ### Entertainment & Simulation Games
 
-*   [Dance Machines](/products/dance-machine/) - High-energy entertainment that draws crowds and creates photo opportunities
+*   [Dance Machines](/products/dance-machine/#content) - High-energy entertainment that draws crowds and creates photo opportunities
     
-*   [Photo Booths](/products/dance-machine/) - Give your guests the option to capture fun memories from your event with our branded photo booths
+*   [Photo Booths](/products/dance-machine/#content) - Give your guests the option to capture fun memories from your event with our branded photo booths
 
 ### Festival Style Games
 
-*   [Giant Plinko Games](/products/plinko-game-hire/) - Oversized drop games perfect for awarding points or prizes
+*   [Giant Plinko Games](/products/plinko-game-hire/#content) - Oversized drop games perfect for awarding points or prizes
     
-*   [Whack a Mole](/products/whack-a-mole-game-hire/) - A classic favourite that invites participation and friendly competition
+*   [Whack a Mole](/products/whack-a-mole-game-hire/#content) - A classic favourite that invites participation and friendly competition
     
-*   [Twin Axe Throwing](/products/twin-axe-throwing/) - Attendees can engage in some healthy competition with this fun axe throwing game
+*   [Twin Axe Throwing](/products/twin-axe-throwing/#content) - Attendees can engage in some healthy competition with this fun axe throwing game
 
 ## Custom Branding for Brand Activation Game Hire
 
@@ -132,7 +128,7 @@ No matter where you are in the country, we’ll deliver to you\*. Our experience
 
 With over 20 years of experience in providing promotional games for businesses, brand activations, and many other types of corporate and private events, we’re here to help your event have as much impact as possible.
 
-We'll work with you to find tailored solutions that perfectly align with your brand values and event goals. [Contact us](/contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
+We'll work with you to find tailored solutions that perfectly align with your brand values and event goals. [Contact us](/contact-fun-pro-uk/#content) today for a free quote and for more details on our promotional game hire for events.
 
 ## What our customers are saying…
 

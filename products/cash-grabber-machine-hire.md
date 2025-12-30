@@ -5,7 +5,7 @@ price: "£495"
 order: 5
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "categories/interactive-game-hire.md"]
+categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features: []
@@ -15,8 +15,6 @@ options:
     unit_price: 495
 redirect_from:
   - "/category/exhibition-games/3/cash-grabber-machine-hire/"
-  - "/category/grab-a-grand/3/cash-grabber-machine-hire/"
-  - "/category/interactive-game-hire/3/cash-grabber-machine-hire/"
 gallery:
   - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/cash-grabber-machine-hire-grab-a-grand.jpg"
@@ -38,23 +36,23 @@ gallery:
   - "/images/products/ballnado-grabber-cash-grabber-machine-hire-grab-a-grand-6.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5998b06ac06d5280207c3c1ee055af49"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8981d72a90e8d800469f3b4dddc2002f"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f270f9b4b2542ac6858ea9d7c9f8ad09"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/377b6690127bfdc0eb7cec0cbad64a6c"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2ceaba51c8ef7e6a41fe19df13384c7"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6d8bb9af82072e4eda2c7a4b8b095813"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d1647b3f2643be6e1a783191644583d"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/574295684b9bdecd38c430e58714f94d"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a3b5d2ead29a2acbb26a31d0b395daef"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bea1aec4aae29529e11b33785541a795"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/005d8bd684f9b4a88d91954a5ca5bf3c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0176641d16f3876e35bade1d5ae9121"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/151e1b643dfe2fc3780cb7a515a97ba7"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f270f9b4b2542ac6858ea9d7c9f8ad09"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f04082c5293b9aa6de180489074e9c9f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/151e1b643dfe2fc3780cb7a515a97ba7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4da92bff8b8f1e88420d92fca554d40b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8981d72a90e8d800469f3b4dddc2002f"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/377b6690127bfdc0eb7cec0cbad64a6c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff62a3f76c7cd06262f46d0b85574486"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0fc834c195a4a32d18f88c18d758ac4"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5998b06ac06d5280207c3c1ee055af49"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b0d80effa6b32788aa0d6b2c41d4698"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fc586160be620ce91d2cc8abf39fe036"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4ab061c48a33d31f50095c81cbcc95f9"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/88e64775e5560390943b89cfbc4375ab"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9f43013316995f1fc851f5941569070"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
 tabs:
   - title: "Why CASH GRABBER MACHINE HIRE?"
     body: |
@@ -146,13 +144,13 @@ tabs:
       
       **Popular Items:**
       
-      [Leaded Board](/products/leader-board/)
+      [Leaded Board](/products/leader-board/#content)
       
       Lights Out
       
-      [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+      [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       
-      [Crack the Code](/products/crack-the-code-safe-cracker/)
+      [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       **Grab A Grand Hire For Corporate Events:**
       
@@ -210,7 +208,7 @@ tabs:
       
       ### **Endless options**
       
-      We've got so many options when it comes to [interactive game hire](/categories/interactive-game-hire/), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
+      We've got so many options when it comes to [interactive game hire](/categories/interactive-game-hire/#content), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
       
       **Branding Prices from:**
       

@@ -16,24 +16,24 @@ Employee retention is a topic that often keeps business leaders awake at night. 
 
 Modern professionals seek more than just a paycheque. They look for work environments that offer bonding, respect, opportunities for growth, and hopefully even a bit of fun. A relaxed, enjoyable workplace atmosphere not only boosts morale but also fosters loyalty.
 
-So if you'd like to host one of these [corporate events](/categories/corporate-entertainment/) for yourself, choose Fun Pro UK! Check out some of our popular options below, and make an order online!
+So if you'd like to host one of these [corporate events](/categories/corporate-entertainment/#content) for yourself, choose Fun Pro UK! Check out some of our popular options below, and make an order online!
 
 ## Company Fun Day Rental Ideas
 
-*   [Pick and Mix Stand](/products/pix-n-mix-hire/): Sometimes, a simple pleasure, like reminiscing over childhood sweets, can bridge the gap between colleagues. The Pick and Mix Stand isn't a treat station that has something for everyone! Ask your staff what their favourites are and get them stocked up.
-*   [Pluck a Duck](/products/pluck-a-duck-racing/): Race against the clock to see who can pluck the most ducks in the allotted time! It's a ferocious and fun race to the finish line that will definitely see colleagues laughing together.
-*   [Dance Machine](/products/dance-machine/): Put the arguments about the radio station on pause for a day - our Dance Machine is an invitation to shed inhibitions, celebrate diversity, and bond over music. Such light-hearted activities can often be the ice-breaker new teams need.
-*   [Table Football](/products/football-tables/): Beyond the game's inherent fun, table football fosters collaboration and teamwork. It's always popular at all kinds of venues, and we know your workplace will be no different.
+*   [Pick and Mix Stand](/products/pix-n-mix-hire/#content): Sometimes, a simple pleasure, like reminiscing over childhood sweets, can bridge the gap between colleagues. The Pick and Mix Stand isn't a treat station that has something for everyone! Ask your staff what their favourites are and get them stocked up.
+*   [Pluck a Duck](/products/pluck-a-duck-racing/#content): Race against the clock to see who can pluck the most ducks in the allotted time! It's a ferocious and fun race to the finish line that will definitely see colleagues laughing together.
+*   [Dance Machine](/products/dance-machine/#content): Put the arguments about the radio station on pause for a day - our Dance Machine is an invitation to shed inhibitions, celebrate diversity, and bond over music. Such light-hearted activities can often be the ice-breaker new teams need.
+*   [Table Football](/products/football-tables/#content): Beyond the game's inherent fun, table football fosters collaboration and teamwork. It's always popular at all kinds of venues, and we know your workplace will be no different.
 
 ## The Benefits of Office Fun and Games Days
 
 When employees feel valued, acknowledged, and engaged, they're less likely to seek opportunities elsewhere. Company fun days promote work-life balance, showing staff that the company values their well-being and relaxation. They also improve your team's dynamics and boost overall morale. You should see improved staff retention if you realign your focus to making your workplace fun!
 
-In the quest to retain top talent, innovative approaches like [company fun days](/categories/corporate-entertainment/) can be game-changers. Fun Pro UK is poised to help you redefine your company culture, making it not just a place to work, but a space to grow, bond, and thrive. Make a booking today and find out for yourself!
+In the quest to retain top talent, innovative approaches like [company fun days](/office-and-corporate-entertainment/#content) can be game-changers. Fun Pro UK is poised to help you redefine your company culture, making it not just a place to work, but a space to grow, bond, and thrive. Make a booking today and find out for yourself!
 
 Considering a unique approach to staff retention? Dive into play with Fun Pro UK. After all, a company that plays together, stays together.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

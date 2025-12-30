@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/4/retro-arcade-games/"
-  - "/category/interactive-game-hire/4/retro-arcade-games/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-retro-arcade-games.jpg"
   - "/images/products/retro-arcade-games-2.jpg"
@@ -89,11 +88,11 @@ tabs:
       
       **£995**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -133,10 +132,10 @@ tabs:
       
       Popular items:
       
-      *   [Batak Pro](/products/batak-pro/)
-      *   [Race Car Simulators](/products/twin-racing-car-simulators/)
-      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/)
-      *   [Pic N Mix](/products/pix-n-mix-hire/)
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   [Race Car Simulators](/products/racing-car-simulators/#content)
+      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/#content)
+      *   [Pic N Mix](/products/pix-n-mix-hire/#content)
       
       ## **Retro Arcade** Games Hire
       
@@ -154,7 +153,7 @@ tabs:
       
       **Arcade Game Hire Is Addictive Fun**
       
-      Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/categories/corporate-entertainment/), or for bringing in new clients and customers at an open day.
+      Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/categories/corporate-entertainment/#content), or for bringing in new clients and customers at an open day.
       
       **Get Arcade Games Hire for Your Next Special Event**
       
@@ -188,7 +187,7 @@ tabs:
       
       Arcades games are for everyone to play. If you’re uncertain how many arcades you need, please reach out to us and we can offer an estimate based on how many people you have attending your next big event.
       
-      Why not create your own amusement arcade by adding our [twin basketball challenge game](/products/ultimate-green-screen-photo-booth/) or our authentic [racing car simulators](/products/twin-racing-car-simulators/) for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
+      Why not create your own amusement arcade by adding our [twin basketball challenge game](/products/electronic-basket-ball-hire/#content) or our authentic [racing car simulators](/products/racing-car-simulators/#content) for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
       
       **Where Do I Get Arcade Games Hire?**
       

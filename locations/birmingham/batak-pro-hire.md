@@ -8,9 +8,9 @@ redirect_from:
 
 # Batak Pro – The Ultimate Interactive Game for Corporate & Private Events in Birmingham
 
-Are you planning a [corporate event](/categories/corporate-entertainment/), [exhibition](/categories/exhibition-games/), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
+Are you planning a [corporate event](/office-and-corporate-entertainment/#content), [exhibition](/exhibition-game-hire/#content), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
 
-At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/products/batak-lite/), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
+At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/products/batak-lite/#content), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
 
 As a premier provider of interactive entertainment and game hire in Birmingham, Fun Pro UK brings this world-class reaction game directly to your venue – complete with professional setup, branded customisation options, and expert support.
 
@@ -20,7 +20,7 @@ Batak Pro is the gold standard in reaction testing games, beloved by people of a
 
 This addictively simple concept creates natural and healthy competition as participants try to beat their colleagues' scores or claim the top spot on the leaderboard. The sleek, professional design makes it a perfect centrepiece for:
 
-*   Corporate events and [team-building](/team-building-ideas/) exercises
+*   Corporate events and [team-building](/team-building-ideas/#content) exercises
     
 *   Exhibition stands to increase footfall
     
@@ -86,7 +86,7 @@ Every Batak Pro hire package from Fun Pro UK includes:
 
 !
 
-Transform the Batak Pro into a powerful brand ambassador with our custom branding options, making it perfect for [brand activation](/promotion-event-games/) events, [conferences](/conference-game-hire/), trade shows, and exhibitions.
+Transform the Batak Pro into a powerful brand ambassador with our custom branding options, making it perfect for [brand activation](/promotional-event-games/#content) events, [conferences](/conference-game-hire/#content), trade shows, and exhibitions.
 
 You can choose to have your Batak Pro machine customised with your company branding or even product-specific branding with the colours of your choice.
 
@@ -162,19 +162,19 @@ Our Batak Pro has been featured at events for prestigious brands including:
 
 Enhance your event with these complementary interactive games:
 
-*   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/)
+*   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/#content)
     
-*   [Dance Machines](/products/dance-machine/)
+*   [Dance Machines](/products/dance-machine/#content)
     
-*   [Racing Car Simulators](/products/dance-machine/)
+*   [Racing Car Simulators](/products/dance-machine/#content)
     
-*   [Retro Arcade Games](/products/retro-arcade-games/)
+*   [Retro Arcade Games](/products/retro-arcade-games/#content)
 
-Plus much more. Take a look at our full [range of products](/categories/all-products/) for corporate and private events here.
+Plus much more. Take a look at our full [range of products](/products/#content) for corporate and private events here.
 
 ## Hire Batak Pro for Your Birmingham Event
 
-Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](/contact-fun-pro-uk/) today for a personalised quote and to check availability for your event date.
+Ready to make your Birmingham event stand out with the Batak Pro reaction game? [Contact us](/contact-fun-pro-uk/#content) today for a personalised quote and to check availability for your event date.
 
 ## What our customers are saying…
 

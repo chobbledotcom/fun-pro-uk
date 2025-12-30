@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
+categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/christmas-game-hire/89/candy-cane-snatch-it/"
+  - "/category/christmas-games/89/candy-cane-snatch-it/"
 gallery:
   - "/images/products/candy-cane-snatch-it-1.jpg"
 gallery_cloudinary:
@@ -102,7 +102,7 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       You can rest assured that the Candy Cane Snatch It and other equipment will arrive in top condition, and ready for use at your event.  
         
@@ -112,9 +112,9 @@ tabs:
         
       Need a longer hire period? Contact us for custom pricing and availability.  
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
       **
@@ -142,7 +142,7 @@ tabs:
       ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
       **
       
-      Fun Pro UK is the leading provider of high quality [party games for hire](/christmas-entertainment-game-hire/). Our Candy Cane Snatch It brings an interactive yet fun and festive experience that your guests won’t forget.  
+      Fun Pro UK is the leading provider of high quality [party games for hire](/#content). Our Candy Cane Snatch It brings an interactive yet fun and festive experience that your guests won’t forget.  
         
       Wherever your festive holiday event is in the UK, Fun Pro is ready to deliver! We provide fast, nationwide delivery and setup for the Candy Cane Snatch It game, which means it's easy to bring the holiday cheer to Birmingham, Leicester, London, Manchester, and beyond.  
         
@@ -177,11 +177,11 @@ tabs:
       ## **Ready to take your event to the next level?  
       **
       
-      Don't miss out on the opportunity to upgrade your event with our Candy Cane Snatch It game hire service. [Contact us today](/contact-fun-pro-uk/) to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
+      Don't miss out on the opportunity to upgrade your event with our Candy Cane Snatch It game hire service. [Contact us today](/contact-fun-pro-uk/#content) to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
       
       ### **Can I customise the game for my event?**
       
-      Yes! We offer in-house branding options to personalise the Candy Cane Snatch It game for your event. You can add your logo, event theme, or festive holiday message to the game. Doing this will make it a memorable and [immersive brand experience](/promotion-event-games/) for guests. Our team will handle the application and removal of branding after the event.
+      Yes! We offer in-house branding options to personalise the Candy Cane Snatch It game for your event. You can add your logo, event theme, or festive holiday message to the game. Doing this will make it a memorable and [immersive brand experience](/promotional-event-games/#content) for guests. Our team will handle the application and removal of branding after the event.
       
       **Branding Prices from:**
       

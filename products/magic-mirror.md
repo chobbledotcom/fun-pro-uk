@@ -5,7 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK"
 meta_description: "Magic mirror hire for parties, exhibitions, or corporate events. We deliver across the UK! Call today for stylish photo mirror rental at your next event."
-categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
+categories: ["categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features: []
@@ -88,11 +88,11 @@ tabs:
       
       **£495**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -132,13 +132,13 @@ tabs:
       
       **Popular items:**
       
-      *   [Red Carpet and Gold Rope barriers](/products/red-carpet-and-4-gold-stanchions/)
-      *   [Race car Simulators](/products/twin-racing-car-simulators/)
-      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/)
+      *   [Red Carpet and Gold Rope barriers](/products/red-carpet-and-4-gold-stanchions/#content)
+      *   [Race car Simulators](/products/racing-car-simulators/#content)
+      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/#content)
       
       ## Magic Selfie Mirror Hire
       
-      The magic selfie mirror is an original and unusual photo machine that will really make your company stand out from the crowd at any trade show, exhibition or product promotion. Plus it's great fun for your company [Christmas party](/categories/christmas-grotto-hire/) or annual awards night.
+      The magic selfie mirror is an original and unusual photo machine that will really make your company stand out from the crowd at any trade show, exhibition or product promotion. Plus it's great fun for your company [Christmas party](/categories/christmas-grotto-hire/#content) or annual awards night.
       
       Compact enough to fit on to any exhibition stand or promo stage, yet big enough and bright enough to make a real impact, the magic selfie mirror is a great way to show the fun side of your company and attract interest from all ages at any event.
       

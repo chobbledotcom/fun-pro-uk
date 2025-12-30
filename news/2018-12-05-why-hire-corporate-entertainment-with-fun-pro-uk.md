@@ -18,9 +18,9 @@ Ensuring your employees have sufficient down time is becoming an ever-increasing
 
 Ensuring the well-being and mental health of all employees is a relatively new concept. However, it was found in a recent Absence Management Survey by the Chartered Institute of Personnel Development (CIPD) that the average employee takes 6.3 working days off each year due to sickness. This costs an astounding £522 per employee per year in lost hours, reduced output and other staff trying to compensate. A potential way of maintaining the well-being of your staff is by rewarding them with staff incentives such as team building days. Engagement with other members of staff enables connections to be built and can act as a stress relief, as well as allowing your staff the chance to get some fresh air in a different environment to their usual office.
 
-When employees are happy and satisfied within their teams, a study found that they are 20% more productive. When multiplied up for all employees within a business, that's a lot more productiveness! Have you considered placing entertainment in your office over a lunch break? Why not [hire our electric basketball hoops](/products/ultimate-green-screen-photo-booth/) to let your staff take a decent break away from their desks and have fun getting competitive?
+When employees are happy and satisfied within their teams, a study found that they are 20% more productive. When multiplied up for all employees within a business, that's a lot more productiveness! Have you considered placing entertainment in your office over a lunch break? Why not [hire our electric basketball hoops](/products/electronic-basket-ball-hire/#content) to let your staff take a decent break away from their desks and have fun getting competitive?
 
-Have you heard of your employees not wanting to be sent to another boring sales conference where you end up sitting in the same room all day? When incorporating [interactive games](/categories/interactive-game-hire/) into the schedule, delegates get the chance to move about, helping to keep them stay alert and motivated to listen to each talk. Not only does it help to build new connections with those they interact with, it also inspires them to continue learning about their industry and those working within it.
+Have you heard of your employees not wanting to be sent to another boring sales conference where you end up sitting in the same room all day? When incorporating [interactive games](/categories/interactive-game-hire/#content) into the schedule, delegates get the chance to move about, helping to keep them stay alert and motivated to listen to each talk. Not only does it help to build new connections with those they interact with, it also inspires them to continue learning about their industry and those working within it.
 
 Company training can be extremely useful, but if your employees are disengaged, they are unlikely to take away any benefits. If you think back to being at school, if the teacher incorporated games into a lesson, you paid far more attention than if you just had to complete a worksheet. It can work the same way with corporate training. Staff feel rewarded, pleased, surprised and a sense of accomplishment when they play games. So why not consider hiring our range of giant board games to place within your training, to get your staff more involved. When they are paying more attention to their learning, they will take more away, even if they aren't realising it, and this can improve both their own work, as well as those around them.
 
@@ -32,11 +32,11 @@ Ensuring the overall health, well-being and happiness of your employees doesn't 
 
 If you're wanting to create the feel-good factor at your next event or generate a wow from all your guests, then you need top quality, fully integrated corporate entertainment. But why waste your time getting half a job from other companies, when the dedicated team at Fun Pro UK will take you and your event as our primary concern.
 
-Our growing team keeps our values at heart, ensuring the professional delivery and installation of all our corporate entertainment. We ensure each guest has an unforgettable experience, while playing with our huge variety of interactive games or taking fun photographs in our range of traditional or unique [photo booths](/categories/photo-booths-and-magic-mirrors/).
+Our growing team keeps our values at heart, ensuring the professional delivery and installation of all our corporate entertainment. We ensure each guest has an unforgettable experience, while playing with our huge variety of interactive games or taking fun photographs in our range of traditional or unique [photo booths](/categories/photo-booths-and-magic-mirrors/#content).
 
 To find out more Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or Call our office on 02476 629197
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

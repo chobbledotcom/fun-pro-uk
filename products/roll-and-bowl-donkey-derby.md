@@ -5,8 +5,8 @@ price: "£895"
 order: 50
 meta_title: "Roll & Bowl Donkey Derby Hire | Exhibition Games | UK"
 meta_description: "The Roll and Bowl donkey derby game is great fun for exhibitions, trade shows, arcade events and much more. Hire amazing entertainment with Fun Pro UK!"
-categories: ["categories/exhibition-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md", "categories/pub-games.md", "categories/roll-and-bowl.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 895
 redirect_from:
   - "/category/exhibition-games/75/roll-and-bowl-donkey-derby/"
-  - "/category/interactive-game-hire/75/roll-and-bowl-donkey-derby/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-roll-and-bowl-donkey-derby-roll-and-bowl-game-hire.jpg"
   - "/images/products/roll-and-bowl-donkey-derby-2.jpg"
@@ -69,15 +68,15 @@ tabs:
       
       **£2695**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -119,13 +118,13 @@ tabs:
       
       Roll up and take the reins as you play to win in our fun and interactive Roll and Bowl Donkey Derby game. Can you guide your trusty donkey to the finish line and claim victory?
       
-      This incredible 4-player, 4-lane [interactive game](/categories/interactive-game-hire/) may seem like an easy win, but hold your horses! Whether it's a party, promotional event, Christmas gathering, [corporate event](/categories/corporate-entertainment/), or team-building day, this game is guaranteed to have everyone cheering on their jockeys and racing to win!
+      This incredible 4-player, 4-lane [interactive game](/categories/interactive-game-hire/#content) may seem like an easy win, but hold your horses! Whether it's a party, promotional event, Christmas gathering, [corporate event](/categories/corporate-entertainment/#content), or team-building day, this game is guaranteed to have everyone cheering on their jockeys and racing to win!
       
       So, how does the Roll and Bowl Donkey Derby work? Each player selects their favourite donkey, takes their stand, and waits for the race to begin. At the starter's order, you'll roll and bowl your ball down the course, trying to pot your balls into the various holes to propel your donkey forwards. The more points you score by landing your ball in the holes, the faster your donkey will gallop towards victory.
       
       You could reward a small prize to the winner or the highest-scoring participant at the end of your event, or just play for fun! People will love showing off their skills in this Roll and Bowl game.
       
-      With its built-in PA system, complete with full running commentary and sound effects, along with enchanting LED lighting, this [exhibition game](/categories/exhibition-games/) creates an atmosphere that's perfect for horseplay. Your event will be an immersive and realistic experience that everyone will be talking about!
+      With its built-in PA system, complete with full running commentary and sound effects, along with enchanting LED lighting, this [exhibition game](/categories/exhibition-games/#content) creates an atmosphere that's perfect for horseplay. Your event will be an immersive and realistic experience that everyone will be talking about!
       
       Why not make your next in-store promotion, trade show stand, party, or brand activation fun by hiring the Roll and Bowl Donkey Derby? You'll be a real winner when you're drawing people to your stand with us. The Roll and Bowl Donkey Derby offers a fantastic opportunity to play and bond with your colleagues, clients and friends, helping you get the most out of your event, no matter the occasion.
       

@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
-categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories: ["categories/branded-exhibition-games.md"]
 events: []
 featured: true
 features: []
@@ -48,7 +48,7 @@ tabs:
       
       Need a longer hire period?
       
-      [Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
+      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
       
       **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
@@ -92,10 +92,10 @@ tabs:
       
       ### **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ### **Branding Prices from:**
       

@@ -11,7 +11,7 @@ eleventyNavigation:
   order: 12
 ---
 
-# Christmas Games
+# Nationwide Christmas Game Hire
 
 ## What our customers are saying…
 

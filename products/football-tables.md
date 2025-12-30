@@ -5,8 +5,8 @@ price: "£295"
 order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"
 meta_description: "Table Football For Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/corporate-entertainment.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/corporate-entertainment.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 295
 redirect_from:
   - "/category/corporate-entertainment/27/football-tables/"
-  - "/category/interactive-game-hire/27/football-tables/"
 gallery:
   - "/images/products/football-tables-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/football-tables-2.jpg"
@@ -85,15 +84,15 @@ tabs:
       
       **£995**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -133,10 +132,10 @@ tabs:
       
       **Popular items Hire along side**
       
-      *   **[Race cars simulators](/products/twin-racing-car-simulators/)**
-      *   **[Batak Pro](/products/batak-pro/)**
-      *   **[Dance Machine](/products/dance-machine/)**
-      *   **[Pix N Mix](/products/pix-n-mix-hire/)**
+      *   **[Race cars simulators](/products/racing-car-simulators/#content)**
+      *   **[Batak Pro](/products/batak-pro/#content)**
+      *   **[Dance Machine](/products/dance-machine/#content)**
+      *   **[Pix N Mix](/products/pix-n-mix-hire/#content)**
       
       ## Nationwide Football Table Hire
       

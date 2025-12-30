@@ -10,7 +10,7 @@ redirect_from:
 
 Gone are the days when corporate events needed to be filled with boring lectures and stuffy interactions. In today’s fast-paced world, people want something different, and creating a buzz and building true connection and engagement at events is what people are looking for.
 
-At Fun Pro, our [branded game hire](/categories/branded-exhibition-games/) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
+At Fun Pro, our [branded game hire](/branded-game-hire/#content) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
 
 You can choose to fully customise the promotional games you hire from us with your brand logo or even the event-specific branding to help you generate even more interest and buzz.
 
@@ -32,31 +32,31 @@ Whether you're introducing your company to new prospects or trying to build on r
 
 ### Interactive Reaction Games
 
-*   Batak Games, including [Batak Pro](/locations/coventry/batak-pro-hire/) and [Batak Lite](/locations/coventry/batak-lite/)
+*   Batak Games, including [Batak Pro](/locations/coventry/batak-pro-hire/#content) and [Batak Lite](/locations/coventry/batak-lite/#content)
     
-*   [High Striker](/locations/coventry/high-striker/)
+*   [High Striker](/locations/coventry/high-striker/#content)
     
-*   [Crack The Code](/locations/coventry/safe-cracker-hire/)
+*   [Crack The Code](/locations/coventry/safe-cracker-hire/#content)
 
 ### Prize and Arcade Games
 
-*   [Cash Grabber](/locations/coventry/cash-grabber-hire/)
+*   [Cash Grabber](/locations/coventry/cash-grabber-hire/#content)
     
-*   [Prize Wheel](/locations/coventry/prize-wheel-hire/)
+*   [Prize Wheel](/locations/coventry/prize-wheel-hire/#content)
     
-*   [Prize Crane Machines](/locations/coventry/prize-crane-hire/)
+*   [Prize Crane Machines](/locations/coventry/prize-crane-hire/#content)
 
 ### Entertainment & Simulation Games
 
-*   [Dance Machines](/locations/coventry/dance-machine-hire/)
+*   [Dance Machines](/locations/coventry/dance-machine-hire/#content)
     
-*   [Photo Booths](/locations/coventry/photo-booth-hire/)
+*   [Photo Booths](/locations/coventry/photo-booth-hire/#content)
 
 ### Carnival & Festival Games
 
-*   [Whack a Mole](/locations/coventry/whack-a-mole-hire/)
+*   [Whack a Mole](/locations/coventry/whack-a-mole-hire/#content)
     
-*   [Giant Plinko](/locations/coventry/plinko-hire/)
+*   [Giant Plinko](/locations/coventry/plinko-hire/#content)
 
 ## Custom Branding For Brand Activation Game Hire in Coventry
 
@@ -64,7 +64,7 @@ Our custom branding for promotional games transforms standard games into powerfu
 
 *   Visual branding- Custom graphics and professional vinyl wraps are used to showcase your brand in a visually appealing way. This can be your brand logo or even specific to the event itself
     
-*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](/locations/coventry/corporate-event-hire/) by giving away your products, gift cards, or branded merchandise as prizes.
+*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](/locations/coventry/corporate-event-hire/#content) by giving away your products, gift cards, or branded merchandise as prizes.
 
 ## Brand Activation Game Hire in Coventry for Many Different Events
 
@@ -84,7 +84,7 @@ Our games are often hired for corporate events across Coventry, such as:
 
 As a proud Coventry business, we're committed to supporting local companies with premium entertainment solutions. Our location offers customers several advantages, including:
 
-*   Faster deployment - Quick [delivery](/delivery-areas/) and setup options are available for most Coventry bookings
+*   Faster deployment - Quick [delivery](/delivery-areas/#content) and setup options are available for most Coventry bookings
     
 *   Regional expertise -We have an in-depth knowledge of Coventry venues
     
@@ -138,181 +138,9 @@ Wherever your event takes place, our professional team can manage the delivery, 
 
 ## Contact Fun Pro For Brand Activation Game Hire in Coventry
 
-We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/team-building-ideas/) days, product launches, and many more.
+We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/team-building-ideas/#content) days, product launches, and many more.
 
-No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk/) today for a free quote and for more details on our promotional game hire for events.
-
-[Catch it Reaction Ring Hire](/products/catch-it-reaction-ring-hire/)
-
-[More Details](/products/catch-it-reaction-ring-hire/)
-
-[Gold Bar Challenge](/products/gold-bar-challenge/)
-
-[More Details](/products/gold-bar-challenge/)
-
-[Roller Bowler](/products/roller-bowler/)
-
-[More Details](/products/roller-bowler/)
-
-[Electronic Dart Board](/products/electronic-dart-board/)
-
-[More Details](/products/electronic-dart-board/)
-
-[8 Lane Roll & Bowl Donkey Derby](/products/8-lane-roll-and-bowl-donkey-derby/)
-
-[More Details](/products/8-lane-roll-and-bowl-donkey-derby/)
-
-[Candy Floss Cart Hire](/products/candy-floss-cart-hire/)
-
-[More Details](/products/candy-floss-cart-hire/)
-
-[Corn Hole](/products/corn-hole/)
-
-[More Details](/products/corn-hole/)
-
-[Whack A Mole game hire](/products/whack-a-mole-game-hire/)
-
-[More Details](/products/whack-a-mole-game-hire/)
-
-[Batak Lite](/products/batak-lite/)
-
-[More Details](/products/batak-lite/)
-
-[Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
-
-[More Details](/products/scalextric-slot-car-racing/)
-
-[Snatch It](/products/snatch-it/)
-
-[More Details](/products/snatch-it/)
-
-[Danger-zone-strike-a-light-game-hire](/products/danger-zone-strike-a-light-game-hire/)
-
-[More Details](/products/danger-zone-strike-a-light-game-hire/)
-
-[Mega Wire - Branded Game Hire (stand alone)](/products/mega-wire-branded-game-hire-stand-alone/)
-
-[More Details](/products/mega-wire-branded-game-hire-stand-alone/)
-
-[Ballnado Grabber](/products/ballnado-grabber/)
-
-[More Details](/products/ballnado-grabber/)
-
-[The Vault](/products/the-vault/)
-
-[More Details](/products/the-vault/)
-
-[Crack The Code safe cracker](/products/crack-the-code-safe-cracker/)
-
-[More Details](/products/crack-the-code-safe-cracker/)
-
-[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/)
-
-[More Details](/products/prize-crane-arcade-grabber/)
-
-[Batak Pro](/products/batak-pro/)
-
-[More Details](/products/batak-pro/)
-
-[Prize Wheel](/products/prize-wheel/)
-
-[More Details](/products/prize-wheel/)
-
-[Roll & Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/)
-
-[More Details](/products/roll-and-bowl-donkey-derby/)
-
-[Plinko Game Hire](/products/plinko-game-hire/)
-
-[More Details](/products/plinko-game-hire/)
-
-[Virtual Pinball](/products/virtual-pinball/)
-
-[More Details](/products/virtual-pinball/)
-
-[LEADER BOARD](/products/leader-board/)
-
-[More Details](/products/leader-board/)
-
-[GIANT BUZZ WIRE](/products/giant-buzz-wire/)
-
-[More Details](/products/giant-buzz-wire/)
-
-[CASH GRABBER MACHINE HIRE](/products/grab-a-grand/)
-
-[More Details](/products/grab-a-grand/)
-
-[High Striker](/products/high-striker/)
-
-[More Details](/products/high-striker/)
-
-[Pix N Mix Hire](/products/pix-n-mix-hire/)
-
-[More Details](/products/pix-n-mix-hire/)
-
-[Racing Car Simulators](/products/twin-racing-car-simulators/)
-
-[More Details](/products/twin-racing-car-simulators/)
-
-[VR Race Car Simulator](/products/vr-race-car-simulator/)
-
-[More Details](/products/vr-race-car-simulator/)
-
-[Roll And Bowl Game Hire](/products/roll-and-bowl-game-hire/)
-
-[More Details](/products/roll-and-bowl-game-hire/)
-
-[RETRO ARCADE GAMES](/products/retro-arcade-games/)
-
-[More Details](/products/retro-arcade-games/)
-
-[Beat The Buzzer](/products/beat-the-buzzer/)
-
-[More Details](/products/beat-the-buzzer/)
-
-[Dance Machine](/products/dance-machine/)
-
-[More Details](/products/dance-machine/)
-
-[Shuffleboard Hire](/products/shuffle-board-hire/)
-
-[More Details](/products/shuffle-board-hire/)
-
-[PLUCK A DUCK RACING](/products/pluck-a-duck-racing/)
-
-[More Details](/products/pluck-a-duck-racing/)
-
-[TOP DOC OPERATION GAME](/products/top-doc-operation-game/)
-
-[More Details](/products/top-doc-operation-game/)
-
-[ELECTRONIC BASKET BALL HIRE](/products/ultimate-green-screen-photo-booth/)
-
-[More Details](/products/ultimate-green-screen-photo-booth/)
-
-[GOLD CUP HORSE RACING](/products/gold-cup-horse-racing/)
-
-[More Details](/products/gold-cup-horse-racing/)
-
-[FOOTBALL TABLES](/products/football-tables/)
-
-[More Details](/products/football-tables/)
-
-[GREEN SCREEN PHOTO BOOTHS](/products/green-screen-photo-booths/)
-
-[More Details](/products/green-screen-photo-booths/)
-
-[Air Hockey Table Hire](/products/air-hockey-table-hire/)
-
-[More Details](/products/air-hockey-table-hire/)
-
-[Table Tennis Hire](/products/table-tennis-hire/)
-
-[More Details](/products/table-tennis-hire/)
-
-[Giant Deck Chair Hire](/products/giant-deck-chair-hire/)
-
-[More Details](/products/giant-deck-chair-hire/)
+No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk/#content) today for a free quote and for more details on our promotional game hire for events.
 
 ## What our customers are saying…
 

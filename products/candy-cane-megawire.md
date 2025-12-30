@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire Christmas Candy Cane Mega Wire | Fun Pro UK"
 meta_description: "Bring excitement to your Christmas event with the Candy Cane Mega Wire! A festive, interactive game ideal for corporate parties, family gatherings, and fairs."
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
+categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/christmas-game-hire/90/candy-cane-megawire/"
+  - "/category/christmas-games/90/candy-cane-megawire/"
 gallery:
   - "/images/products/candy-cane-megawire-1.jpg"
   - "/images/products/candy-cane-megawire-2.jpg"
@@ -51,10 +51,10 @@ tabs:
       
       The Candy Cane Mega Wire game is the perfect addition to:
       
-      ✓ [Corporate Christmas parties](/news/christmas-events-and-party-ideas/)  
-      ✓ Holiday themed [team building events](/news/benefits-of-team-building-days/)  
+      ✓ [Corporate Christmas parties](/news/#content)  
+      ✓ Holiday themed [team building events](/news/benefits-of-team-building-days/#content)  
       ✓ Christmas funfairs  
-      ✓ [Family gatherings](/categories/fun-days/)  
+      ✓ [Family gatherings](/family-fun-day-entertainment/#content)  
         
       ... and more!
       
@@ -113,9 +113,9 @@ tabs:
       
       Need a longer hire period? Contact us for custom pricing and availability.
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
       ](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
@@ -128,8 +128,8 @@ tabs:
       
       ## **Why Choose Our Candy Cane Mega Wire Game Hire Service?**
       
-      Fun Pro UK offers high-quality Christmas party games for hire. Our Candy Cane Mega Wire delivers festive fun and excitement your guests will always remember.  
-      Wherever your Christmas party is in the UK, [Fun Pro](/christmas-entertainment-game-hire/) provides fast nationwide delivery and setup for the Candy Cane Mega Wire game. Bringing the festive fun to events in Birmingham, Leicester, London, Manchester, and beyond has never been easier!
+      Fun Pro UK offers high-quality [Christmas party games for hire](/christmas-entertainment-game-hire/#content). Our Candy Cane Mega Wire delivers festive fun and excitement your guests will always remember.  
+      Wherever your Christmas party is in the UK, [Fun Pro](/#content) provides fast nationwide delivery and setup for the Candy Cane Mega Wire game. Bringing the festive fun to events in Birmingham, Leicester, London, Manchester, and beyond has never been easier!
       
       Our team of professionals will take care of the logistics for you. We'll deliver the Candy Cane Mega Wire game to your venue, set it up, and make sure that it's running smoothly so your guests can have as much fun as they want.
       

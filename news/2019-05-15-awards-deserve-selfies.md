@@ -14,7 +14,7 @@ gallery:
 
 **AWARDS DESERVE SELFIES!**
 
-With award season for many of our Corporate Clients well under way at a variety of locations up and down the U.K, we were excited to be able to supply yet another fab [Green Screen Dream Machine Photobooth](/categories/photo-booths-and-magic-mirrors/) for a large company who deliver caring packages to their clients up and down the country.
+With award season for many of our Corporate Clients well under way at a variety of locations up and down the U.K, we were excited to be able to supply yet another fab [Green Screen Dream Machine Photobooth](/categories/photo-booths-and-magic-mirrors/#content) for a large company who deliver caring packages to their clients up and down the country.
 
 **AWARDS & SELFIES!**
 
@@ -26,7 +26,7 @@ It was great to see everyone grabbing their friends and entering the booth to ch
 
 **STAFF APPRECIATION**
 
-Holding an [awards ceremony](/events/company-award-ceremonies/) is a great way to celebrate the hard work that your staff do from day to day. They often feel that they don't get noticed or recognised. By holding an awards ceremony this will make them feel appreciated by the company and will boost staff morale.
+Holding an [awards ceremony](/events/company-award-ceremonies/#content) is a great way to celebrate the hard work that your staff do from day to day. They often feel that they don't get noticed or recognised. By holding an awards ceremony this will make them feel appreciated by the company and will boost staff morale.
 
 **HAVE FUN & SOCIALISE WITH YOUR TEAM**
 
@@ -36,7 +36,7 @@ If you are holding a company conference, why not hire some fun entertaining game
 
 Are you arranging a conference or awards ceremony and aren't sure what you could hire for evening entertainment? Contact our team today, we have a huge variety of social media selfie pods, booths along with table top games for everyone to enjoy. All of our products can also be branded in house with your company logo.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

@@ -20,11 +20,11 @@ So let's all hop into the summer with joy and positivity, and celebrate the seas
 
 ## Summertime Party Fun
 
-!Summer is fast approaching and with it comes the promise of warm days, long evenings and fun in the sun at all kinds of [summer events](/outdoor-garden-game-hire/). Whether you're planning a family BBQ, a birthday party, a garden soiree, a [wedding](/categories/weddings/), a [corporate event](/categories/corporate-entertainment/) or any other special summertime celebration, Fun Pro UK has everything you need to make it a summer to remember. We are the go-to place for all your entertainment needs, with a wide range of fun products available for hire that will get everyone in the party mood.  
+!Summer is fast approaching and with it comes the promise of warm days, long evenings and fun in the sun at all kinds of [summer events](/summer-entertainment/#content). Whether you're planning a family BBQ, a birthday party, a garden soiree, a [wedding](/categories/weddings/#content), a [corporate event](/categories/corporate-entertainment/#content) or any other special summertime celebration, Fun Pro UK has everything you need to make it a summer to remember. We are the go-to place for all your entertainment needs, with a wide range of fun products available for hire that will get everyone in the party mood.  
   
-Some of of our most popular products during the summertime are our inflatable slides. Our [Super Slides](/products/super-slides/) are a huge hit with both kids and adults alike, with some featuring double alleys for some friendly competition. You could raise the heat even further with our [Gladiator Duel!](/products/gladiator-duel/), or get everyone involved with our [Human Table Football](/products/human-table-football/)!
+Some of of our most popular products during the summertime are our inflatable slides. Our [Super Slides](/products/super-slides/#content) are a huge hit with both kids and adults alike, with some featuring double alleys for some friendly competition. You could raise the heat even further with our [Gladiator Duel!](/products/gladiator-duel/#content), or get everyone involved with our [Human Table Football](/products/human-table-football/#content)!
 
-If you're not looking for high-octane fun and would prefer something a little more relaxed, don't fret. We have a whole range of Giant Garden Games that are perfect for even the smallest of gardens. From [Giant Garden Jenga](/products/giant-jenga-hire/) to [Giant Connect Four](/products/giant-connect-4-game-hire/), you'll have something to entertain young and old with Fun Pro UK.
+If you're not looking for high-octane fun and would prefer something a little more relaxed, don't fret. We have a whole range of Giant Garden Games that are perfect for even the smallest of gardens. From [Giant Garden Jenga](/products/giant-jenga-hire/#content) to [Giant Connect Four](/products/giant-connect-4-game-hire/#content), you'll have something to entertain young and old with Fun Pro UK.
 
 And what better time to enjoy a drink from our slush machine than while outdoors at a summertime event? People will be queuing for their turn!
 
@@ -32,9 +32,9 @@ And what better time to enjoy a drink from our slush machine than while outdoors
 
 But it's not just our products that are fantastic - our service is too. We pride ourselves on our punctuality and reliability, delivering our premium quality products right to your doorstep no matter where you are in the UK. And with our commercial grade equipment, you can be sure that everything we stock is built to last, making it perfect for those warm summer afternoons of fun and games.  
   
-*Book your summer party entertainment today through our website and get ready for a summer to remember. And if you need any assistance, don't hesitate to [contact us](/contact-fun-pro-uk/) \- we're always here to help.*
+*Book your summer party entertainment today through our website and get ready for a summer to remember. And if you need any assistance, don't hesitate to [contact us](/contact-fun-pro-uk/#content) \- we're always here to help.*
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

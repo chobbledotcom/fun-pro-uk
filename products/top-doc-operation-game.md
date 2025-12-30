@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"
 meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/7/top-doc-operation-game/"
-  - "/category/interactive-game-hire/7/top-doc-operation-game/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-top-doc-operation-game.jpg"
   - "/images/products/top-doc-operation-game-2.jpg"
@@ -55,11 +54,11 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -99,10 +98,10 @@ tabs:
       
       **Popular items**
       
-      *   [Pluck A duck](/products/pluck-a-duck-racing/)
-      *   [Gold cup horse racing](/products/gold-cup-horse-racing/)
-      *   [Retro arcade game](/products/retro-arcade-games/)
-      *   [Pick N mix hire](/products/pix-n-mix-hire/)
+      *   [Pluck A duck](/products/pluck-a-duck-racing/#content)
+      *   [Gold cup horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Retro arcade game](/products/retro-arcade-games/#content)
+      *   [Pick N mix hire](/products/pix-n-mix-hire/#content)
       
       **A familiar favourite**
       
@@ -154,7 +153,7 @@ tabs:
       
       **Original fun and games**
       
-      Top doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood, including [retro arcade machines](/products/retro-arcade-games/), electronic basketball hire and even simple fun like a [giant buzz wire](/products/giant-buzz-wire/). We can deliver any item anywhere in the UK, including London, Liverpool, Manchester and Birmingham and we offer great savings with package hires. Just ask for details when you book.
+      Top doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood, including [retro arcade machines](/products/retro-arcade-games/#content), electronic basketball hire and even simple fun like a [giant buzz wire](/products/giant-buzz-wire/#content). We can deliver any item anywhere in the UK, including London, Liverpool, Manchester and Birmingham and we offer great savings with package hires. Just ask for details when you book.
       
       TOP DOC BRANDING PRICE
       

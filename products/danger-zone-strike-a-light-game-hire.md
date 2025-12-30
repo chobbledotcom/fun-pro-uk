@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Hire Strike A Light Game, Light Reaction Game Rental, Strike UK"
 meta_description: "Hire Our Danger Zone Strike A Light Game For Your Family Fun Days, Parties, Exhibitions Corporate Events ? UK Wide Delivery. Call Us Today. 02477 220701"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/all-products.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"
-  - "/category/interactive-game-hire/63/danger-zone-strike-a-light-game-hire/"
 gallery:
   - "/images/products/danger-zone-strike-a-light-game-hire-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/danger-zone-strike-a-light-game-hire-2.jpg"
@@ -127,10 +126,10 @@ tabs:
       
       **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       **What Is the Strike A Light Game?**
       

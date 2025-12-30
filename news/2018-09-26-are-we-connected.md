@@ -20,7 +20,7 @@ We post about events we have attended and been hired at, insights into the indus
 
 Why not follow, like and connect with us now to find out more about Fun Pro UK.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

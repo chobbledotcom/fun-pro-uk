@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
-categories: ["categories/all-products.md", "categories/branded-exhibition-games.md", "categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/branded-exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,9 +14,7 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/all-products/64/mega-wire-branded-game-hire-stand-alone/"
   - "/category/branded-exhibition-games/64/mega-wire-branded-game-hire-stand-alone/"
-  - "/category/interactive-game-hire/64/mega-wire-branded-game-hire-stand-alone/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-mega-wire-branded-game-hire-stand-alone.jpg"
   - "/images/products/mega-wire-branded-game-hire-stand-alone-2.jpg"
@@ -106,15 +104,15 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

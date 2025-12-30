@@ -12,13 +12,13 @@ gallery:
 
 # 18 January 19 - Photo booths are not just for fun!
 
-[Photo booths and Magic Mirrors](/categories/photo-booths-and-magic-mirrors/) add a lot of fun to an event. From Christmas parties to awards ceremonies, and from birthday parties to weddings, party guests love hopping into a photo booth to capture a happy group shot or seeing who can put on the funniest face. When it comes to [magic mirrors](/products/magic-mirror/), attendees love donning the array of crazy hats, goofy glasses and holding up silly signs to get fun photos.
+[Photo booths and Magic Mirrors](/categories/photo-booths-and-magic-mirrors/#content) add a lot of fun to an event. From Christmas parties to awards ceremonies, and from birthday parties to weddings, party guests love hopping into a photo booth to capture a happy group shot or seeing who can put on the funniest face. When it comes to [magic mirrors](/products/magic-mirror/#content), attendees love donning the array of crazy hats, goofy glasses and holding up silly signs to get fun photos.
 
 But your guests having fun is just one of the benefits of hiring a photo booth or magic mirror for your event. Photos from events not only provide immediate enjoyment, they also trigger future enjoyment. There's nothing like looking at old photos and reliving happy times. Photos of family holidays, birthday celebrations, even class photos from school can evoke wonderful memories.
 
 Photos also facilitate memory. As we get older, it becomes more difficult to remember every event or occasion and all the details from those events. Photos can remind us of things we may have forgotten, again allowing us to relive happy memories.
 
-From a business perspective, an investment in a [photo booth](/products/green-screen-photo-booths/) or magic mirror at a company event is also a great way to reward and recognise employees for all their hard work. When companies put on fun entertainment at employee events, staff feel valued and appreciated. When staff feel valued and appreciated, they are likely to be happier and more productive employees. In turn, this can reduce staff sick leave and increase retention.
+From a business perspective, an investment in a [photo booth](/products/green-screen-photo-booths/#content) or magic mirror at a company event is also a great way to reward and recognise employees for all their hard work. When companies put on fun entertainment at employee events, staff feel valued and appreciated. When staff feel valued and appreciated, they are likely to be happier and more productive employees. In turn, this can reduce staff sick leave and increase retention.
 
 Photo booths and Magic Mirrors also add more than just fun at promotional events. At exhibitions and trade shows, they can draw crowds to your stand and give you an opportunity you may not have had, to increase awareness and sales of your products and services. Take-away photos branded with your logo further fosters this relationship by increasing brand retention and opening the door for future sales.
 
@@ -28,7 +28,7 @@ Call: 02476 629197
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

@@ -14,7 +14,7 @@ gallery:
 
 ## **Do you appreciate your staff?**
 
-Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days/)
+Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days/#content)
 
 Inviting staff members to a fun day away from the office is a great idea, but inviting their families along to take part in a family fun day would make your employees feel valued, allow them to have fun and also spend quality time making memories with their loved ones.
 
@@ -44,9 +44,9 @@ Fun Pro UK has themed bouncy castles to hire for younger children as well as sof
 
 Older children and teens usually enjoy a bit more of a thrill! Here our super slides and assault courses play a huge part in family fun days. Everyone has a great time on these pieces of equipment and always come back for another turn. See how fast you can go down our super slides or time yourselves as you encounter the many obstacles waiting for you on the mega assault courses
 
-!Total wipe OutWe also offer games to hire too. The [racing car simulators](/products/twin-racing-car-simulators/) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
+!Total wipe OutWe also offer games to hire too. The [racing car simulators](/products/racing-car-simulators/#content) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
 
-If it is a team game to hire we have some equipment that will knock your socks off! [Our Human Football Game,](/products/human-table-football/) Total Wipe Out or Hungry Hippos life sized game are all fabulous for your work colleagues to come together as a team and have fun whilst taking part in the challenge to be the winner!
+If it is a team game to hire we have some equipment that will knock your socks off! [Our Human Football Game,](/products/human-table-football/#content) Total Wipe Out or Hungry Hippos life sized game are all fabulous for your work colleagues to come together as a team and have fun whilst taking part in the challenge to be the winner!
 
 **We all love Ice Cream!**
 
@@ -60,7 +60,7 @@ If you are planning a corporate fun day which requires fantastic value, excellen
 
 Call us on 📞02476 629197 to discuss how Fun Pro UK can help your Family Fun Day be the best ever.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

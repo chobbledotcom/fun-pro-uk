@@ -5,7 +5,7 @@ price: "£60"
 order: 50
 meta_title: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK"
 meta_description: "Giant Jenga Hire – Classic Game For All Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/corporate-entertainment.md", "categories/fun-days.md", "categories/arcade-games.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features: []
@@ -15,7 +15,6 @@ options:
     unit_price: 60
 redirect_from:
   - "/category/corporate-entertainment/44/giant-jenga-hire/"
-  - "/category/fun-days/44/giant-jenga-hire/"
 gallery:
   - "/images/products/giant-jenga-hire-lights-out-game.jpg"
 gallery_cloudinary:
@@ -67,15 +66,15 @@ tabs:
       
       **£240**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
-categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,9 +14,7 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/all-products/60/air-hockey-table-hire/"
-  - "/category/arcade-games/60/air-hockey-table-hire/"
-  - "/category/corporate-entertainment/60/air-hockey-table-hire/"
+  - "/category/exhibition-games/60/air-hockey-table-hire/"
 gallery:
   - "/images/products/air-hockey-table-hire-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/air-hockey-table-hire-2.jpg"
@@ -55,7 +53,7 @@ tabs:
       
       ## **Best Air Hockey Table Hire in the UK for Fun Filled Events!**
       
-      Searching for a game that will keep your guests entertained? Our air hockey table hire offers a fast-paced, [interactive experience](/categories/interactive-game-hire/) that keeps everyone entertained for hours. Its competitive gameplay brings energy, fun, and engagement to any occasion. For complete peace of mind, we provide hassle-free, professional delivery, setup, and collection across the UK.
+      Searching for a game that will keep your guests entertained? Our air hockey table hire offers a fast-paced, [interactive experience](/categories/interactive-game-hire/#content) that keeps everyone entertained for hours. Its competitive gameplay brings energy, fun, and engagement to any occasion. For complete peace of mind, we provide hassle-free, professional delivery, setup, and collection across the UK.
       
       ## **Hiring Periods & Pricing  
       **
@@ -88,7 +86,7 @@ tabs:
       
       \*Please note that delivery charges and minimum order values may apply.
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -106,13 +104,13 @@ tabs:
         
       We specialise in different kinds of events. Get an air hockey table hire for:  
         
-      [Conferences and trade shows](/events/conference-idea/)  
-      [Product launch parties](/promotion-event-games/)  
-      [Company wide retreats](/team-building-ideas/)  
-      [Awards ceremonies](/events/company-award-ceremonies/)  
+      [Conferences and trade shows](/events/conference-idea/#content)  
+      [Product launch parties](/promotional-event-games/#content)  
+      [Company wide retreats](/team-building-ideas/#content)  
+      [Awards ceremonies](/events/company-award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
-      Christmas events  
+      [Christmas events](/christmas-entertainment-game-hire/#content)  
         
       …and more!  
       
@@ -146,16 +144,16 @@ tabs:
       
       **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## **Why Choose Our Air Hockey Table Hire Service?**
       
       Fun Pro UK offers a comprehensive air hockey table hire service, providing top-quality equipment and ensuring everything runs smoothly. Our team guarantees each table is in excellent condition, ready to bring hours of fun and excitement to your event. Air hockey is a fantastic way to boost engagement and create a lively atmosphere for any occasion.  
-      Event planners choose us for our reliable service, with punctual delivery and collection every time. Our air hockey tables are versatile, suitable for both indoor and [outdoor events](/outdoor-garden-game-hire/), and we also offer customisation options, allowing you to add unique branding to the tables.  
-      Let [Fun Pro UK](/christmas-entertainment-game-hire/) handle the details for you. We’ll take care of everything, leaving your guests free to enjoy a friendly game of air hockey without any interruptions.  
+      Event planners choose us for our reliable service, with punctual delivery and collection every time. Our air hockey tables are versatile, suitable for both indoor and [outdoor events](/outdoor-garden-game-hire/#content), and we also offer customisation options, allowing you to add unique branding to the tables.  
+      Let [Fun Pro UK](/#content) handle the details for you. We’ll take care of everything, leaving your guests free to enjoy a friendly game of air hockey without any interruptions.  
       
       ## **Our Process**
       

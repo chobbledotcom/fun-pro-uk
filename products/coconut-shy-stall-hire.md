@@ -39,9 +39,9 @@ tabs:
       
       ## The Best Coconut Shy Stall Hire for All UK Events
       
-      Looking to bring a touch of classic fairground fun to your next [corporate event](/categories/corporate-entertainment/)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
+      Looking to bring a touch of classic fairground fun to your next [corporate event](/categories/corporate-entertainment/#content)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
       
-      A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), [family fun days](/categories/fun-days/), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+      A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), [family fun days](/family-fun-day-entertainment/#content), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
       
       ## Hire a Coconut Shy Stall for Your Next Event
       
@@ -111,7 +111,7 @@ tabs:
       
       ## Ready to Book Our Coconut Shy Stall Hire?
       
-      Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
+      Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
       
       ### Are there any restrictions on the types of prizes that can be used with the Coconut Shy stall?
       

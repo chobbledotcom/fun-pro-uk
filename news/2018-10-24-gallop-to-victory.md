@@ -14,7 +14,7 @@ gallery:
 
 Looking for something different to entertain your guests with? Or planning a Race Night event?
 
-Well Fun Pro UK's [Gold Cup Horse Racing Hire](/products/gold-cup-horse-racing/) will be perfect. Complete with four horses all saddled up and ready to race. All you need to do is pick your racer - will it be green like the grass your race on, blue like the sky, red like your determination or yellow for the beaming smile you'll give when you win?
+Well Fun Pro UK's [Gold Cup Horse Racing Hire](/products/gold-cup-horse-racing/#content) will be perfect. Complete with four horses all saddled up and ready to race. All you need to do is pick your racer - will it be green like the grass your race on, blue like the sky, red like your determination or yellow for the beaming smile you'll give when you win?
 
 Pick up your horse and gallop your way to victory by holding the handles. The faster you gallop, the quicker you'll be crowned the ultimate jockey.
 
@@ -26,7 +26,7 @@ Whatever event you host, the Gold Cup Horse Racing Hire will go down a treat wit
 
 So call us today on 02476 629197 to discuss how we can add a buzz to your next event.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

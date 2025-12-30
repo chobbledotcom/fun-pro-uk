@@ -28,23 +28,23 @@ Your employees deserve to feel valued for all the hard work they do. Here are so
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXegQSIkDw6DtHiBmfi0HID0rjuPSi9RVvayV2pYDtD0E04LNJfdndUpJhsOz5e2tESx8CdNv3SW49ghdpxIoO0-gXVCJkST7w_zWm-rgE23H-F6NKHoqtANiBw48IKci8HX63-u4w?key=3QGxajlrJekofxv54zo3rIjy)
 
-[These activities help employees bond](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/) and get to know each other outside of work, letting them unwind and have fun together, while also being a way to encourage collaboration and friendly competition. [Team building games](/team-building-ideas/) range from simple trivia competitions to scavenger hunts around the office to complicated relays on an inflatable obstacle course run.
+[These activities help employees bond](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and get to know each other outside of work, letting them unwind and have fun together, while also being a way to encourage collaboration and friendly competition. [Team building games](/team-building-ideas/#content) range from simple trivia competitions to scavenger hunts around the office to complicated relays on an inflatable obstacle course run.
 
 We have a wide variety of interactive games that would be perfect for Employee Appreciation Day. Our top picks include:
 
-*   [Batak Pro](/products/batak-pro/): The perfect game to challenge your team's reaction times, coordination, and stamina. It's a high energy game that sparks competitive spirits in a fun and engaging way.
+*   [Batak Pro](/products/batak-pro/#content): The perfect game to challenge your team's reaction times, coordination, and stamina. It's a high energy game that sparks competitive spirits in a fun and engaging way.
 
-*   [Ballnado Ball Grabber](/products/ballnado-grabber/): A thrilling game where participants work together to grab flying balls and win exciting prizes.
+*   [Ballnado Ball Grabber](/products/ballnado-grabber/#content): A thrilling game where participants work together to grab flying balls and win exciting prizes.
 
-*   [Racing Car Simulators](/products/twin-racing-car-simulators/): The game that immerses all players in exciting races and a realistic and dynamic driving experience, complete with a choice of tracks and off road tests.
+*   [Racing Car Simulators](/products/racing-car-simulators/#content): The game that immerses all players in exciting races and a realistic and dynamic driving experience, complete with a choice of tracks and off road tests.
 
-*   [Retro Arcade Games](/products/retro-arcade-games/): The ultimate crowd favourite! It has two player options and a library of up to 60 beloved games including Pac Man, Space Invaders, Frogger, 1944, Pinball, Galaxian, and Donkey Kong.
+*   [Retro Arcade Games](/products/retro-arcade-games/#content): The ultimate crowd favourite! It has two player options and a library of up to 60 beloved games including Pac Man, Space Invaders, Frogger, 1944, Pinball, Galaxian, and Donkey Kong.
 
-*   [Total Wipe Out](/products/total-wipe-out/): This gets everyone involved in the fun. It's a swinging arm game inspired by the likes of TV shows like 'It's a Knockout' and 'Total Wipeout.'
+*   [Total Wipe Out](/products/total-wipe-out/#content): This gets everyone involved in the fun. It's a swinging arm game inspired by the likes of TV shows like 'It's a Knockout' and 'Total Wipeout.'
 
-*   [Inflatable Assault Courses](/products/inflatable-assault-courses/): Split your staff into different teams, pit department against department, or arrange relay races. It encourages friendly rivalry and bonding that lets the team cheerfully encourage each other.
+*   [Inflatable Assault Courses](/products/inflatable-assault-courses/#content): Split your staff into different teams, pit department against department, or arrange relay races. It encourages friendly rivalry and bonding that lets the team cheerfully encourage each other.
 
-Fun Pro also has sports inspired interactive games, like [Electronic Basketball](/products/ultimate-green-screen-photo-booth/), [Air Hockey](/products/air-hockey-table-hire/), [Shuffle Board](/products/shuffleboard-hire/), [Table Tennis](/products/table-tennis-hire/), [Football Tables](/products/football-tables/), and more.
+Fun Pro also has sports inspired interactive games, like [Electronic Basketball](/products/electronic-basket-ball-hire/#content), [Air Hockey](/products/air-hockey-table-hire/#content), [Shuffle Board](/products/#content), [Table Tennis](/products/table-tennis-hire/#content), [Football Tables](/products/football-tables/#content), and more.
 
 ### 2\. Personalised Notes or Gifts
 
@@ -76,7 +76,7 @@ Activities like yoga, meditation, a spa package, or even a healthy snack station
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEcWdev1N5ee9e02OYVQP6fC9wjy64nVKVh-Mb4sAE9nKqZuu6JxyNlEJDvNFig5iu4yB-MVstX40lh9TTbck1EQM2RtOAb7VQCW6biGgA0VuRXDMKNRkFWNJcNPcHycJKQ5mVoA?key=3QGxajlrJekofxv54zo3rIjy)
 
-You can boost employee morale with a consistent programme for [rewards and recognition](/events/company-award-ceremonies/). Of course, one day a year of appreciation is not enough to keep employee morale high, but it can help increase employee loyalty. You can create custom programmes using spreadsheets and gift card vendors.
+You can boost employee morale with a consistent programme for [rewards and recognition](/events/company-award-ceremonies/#content). Of course, one day a year of appreciation is not enough to keep employee morale high, but it can help increase employee loyalty. You can create custom programmes using spreadsheets and gift card vendors.
 
 Employee recognition platforms also exist where your team can do peer to peer recognitions, get rewards, and point gifting.
 
@@ -114,7 +114,7 @@ You don’t need a big budget to show appreciation. Simple, thoughtful gestures 
 
 ### What types of team-building games work for large groups?
 
-Fun Pro UK offers games that are crowd favourites and cater to large groups. Take your pick from interactive or corporate game hires like Batak Pro and [Batak Lite](/products/batak-lite/), [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/), [Lights Out Game](/categories/arcade-games/), [Cash Grabber Machines](/products/grab-a-grand/), [Virtual Pinball](/products/virtual-pinball/), and more.
+Fun Pro UK offers games that are crowd favourites and cater to large groups. Take your pick from interactive or corporate game hires like Batak Pro and [Batak Lite](/products/batak-lite/#content), [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/#content), [Lights Out Game](/categories/arcade-games/#content), [Cash Grabber Machines](/products/cash-grabber-machine-hire/#content), [Virtual Pinball](/products/virtual-pinball/#content), and more.
 
 ### Can these ideas be adapted for remote or hybrid work environments?
 
@@ -134,15 +134,15 @@ You can measure success through employee feedback, engagement levels during acti
 
 ## How Fun Pro UK Can Help You Host the Perfect Event
 
-[Fun Pro UK](/christmas-entertainment-game-hire/) specialises in creating interactive, memorable experiences that can transform any Employee Appreciation Day into an event your team will remember for years to come. We offer a wide range of engaging games and event equipment designed to cater to different company cultures and budgets.
+[Fun Pro UK](/#content) specialises in creating interactive, memorable experiences that can transform any Employee Appreciation Day into an event your team will remember for years to come. We offer a wide range of engaging games and event equipment designed to cater to different company cultures and budgets.
 
-From giant games to [interactive team building challenges](/news/the-secret-to-team-building-interactive-games/), we have options that can accommodate both small teams and large corporate events. Our team works with you to make sure that the event runs smoothly from start to finish. We will also provide you with all the support needed for a successful celebration.
+From giant games to [interactive team building challenges](/news/the-secret-to-team-building-interactive-games/#content), we have options that can accommodate both small teams and large corporate events. Our team works with you to make sure that the event runs smoothly from start to finish. We will also provide you with all the support needed for a successful celebration.
 
 With our experience and extensive equipment options, Fun Pro UK makes it easy for you to create a celebration that resonates with your team, boosts morale, and fosters lasting loyalty.
 
-Let us help you host an unforgettable Employee Appreciation Day. [Contact us today](/contact-fun-pro-uk/) and start planning the perfect event for your team.
+Let us help you host an unforgettable Employee Appreciation Day. [Contact us today](/contact-fun-pro-uk/#content) and start planning the perfect event for your team.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

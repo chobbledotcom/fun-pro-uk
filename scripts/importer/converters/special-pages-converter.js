@@ -28,6 +28,9 @@ layout: "home.html"
 eleventyNavigation:
   key: Home
   order: 1
+redirect_from:
+  - "/pages/about-bouncy-castle-hire/"
+  - "/pages/frequently-asked-bouncy-castle-hire-questions/"
 ---
 
 # ${title}
@@ -59,6 +62,9 @@ eleventyNavigation:
   }
 
   frontmatter += `
+redirect_from:
+  - "/pages/a-z-of-all-games/"
+  - "/category/all-products/"
 ---
 
 # Interactive Game Hire

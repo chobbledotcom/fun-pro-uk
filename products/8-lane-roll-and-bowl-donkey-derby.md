@@ -5,8 +5,8 @@ price: "£1695"
 order: 50
 meta_title: "8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Roll &amp; Bowl Donkey Derby is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/roll-and-bowl.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/roll-and-bowl.md"]
+events: []
 featured: true
 features: []
 options:
@@ -34,15 +34,15 @@ tabs:
       
       **£1695**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

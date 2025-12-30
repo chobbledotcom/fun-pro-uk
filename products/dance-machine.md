@@ -5,8 +5,8 @@ price: "£475"
 order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
 meta_description: "Looking to hire a dance machine for exhibitions, parties, events, or fun days? We deliver dance machine hire nationwide. Contact us today to book yours!"
-categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 475
 redirect_from:
-  - "/category/exhibition-games/39/dance-machine/"
+  - "/category/arcade-games/39/dance-machine/"
 gallery:
   - "/images/products/dance-machine-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/dance-machine-2.jpg"
@@ -70,15 +70,15 @@ tabs:
       
       **£1695**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -118,9 +118,9 @@ tabs:
       
       **Popular items order along side our Dance Machines are**
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
-      *   [Twin race car simulators](/products/twin-racing-car-simulators/)
-      *   [Electronic Basketball hoop](/products/ultimate-green-screen-photo-booth/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Twin race car simulators](/products/racing-car-simulators/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
       *   Lights Out
       
       ## Arcade Dance Machine Hire - Twin Player

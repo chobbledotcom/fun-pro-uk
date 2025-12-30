@@ -28,7 +28,7 @@ Before we knew it those few days at the Excel were over and it was time to retur
 
 Just so the team didn't think the heat was off, last Friday Colin and the crew set off to Manchester. This was a very early start to beat the traffic and arrive at The Trafford Centre in good time to get set up. A very popular department store was having a staff appreciation day, it's great to see companies recognising the hard work of their staff don't you think.
 
-The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/grab-a-grand/) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
+The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/cash-grabber-machine-hire/#content) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
 
 ## **Why Branding is important !Grab a Grand ** 
 
@@ -40,7 +40,7 @@ Once the Fun Pro team were all set up, the game was good to go. It was fun to se
 
 #eventprofs #teamfunpro #StrikeaLight #funday #staffparty
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 
