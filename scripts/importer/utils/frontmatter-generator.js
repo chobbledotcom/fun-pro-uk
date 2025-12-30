@@ -267,7 +267,26 @@ meta_description: "${metadata.meta_description || ""}"
 categories: ${categoriesYaml}
 events: ${eventsYaml}
 featured: true
-features: []
+features:
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 ${optionsYaml}`;
 
   // Add redirect_from for old site URL
