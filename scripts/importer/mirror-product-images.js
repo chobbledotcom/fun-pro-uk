@@ -98,7 +98,10 @@ const downloadAllImages = async (filenameMapping, imagesDir, dryRun) => {
   console.log(`  Downloading ${total} images...`);
 
   for (const [hash, data] of filenameMapping) {
-    const filepath = path.join(imagesDir, data.filename);
+    // Create per-product folder and save image there
+    const productDir = path.join(imagesDir, data.folder);
+    ensureDir(productDir);
+    const filepath = path.join(productDir, data.filename);
 
     try {
       const result = await downloadImage(data.url, filepath);
@@ -108,7 +111,7 @@ const downloadAllImages = async (filenameMapping, imagesDir, dryRun) => {
         downloaded++;
       }
     } catch (error) {
-      console.error(`\n  ✗ Failed to download ${data.filename} (${hash}): ${error.message}`);
+      console.error(`\n  ✗ Failed to download ${data.folder}/${data.filename} (${hash}): ${error.message}`);
       failed++;
       // Abort on any download failure as requested
       throw new Error(`Image download failed for ${data.url}`);
@@ -128,14 +131,14 @@ const downloadAllImages = async (filenameMapping, imagesDir, dryRun) => {
  * Update a single product markdown file with local image paths
  * Preserves original Cloudinary URLs in gallery_cloudinary field
  * @param {string} filePath - Path to product markdown file
- * @param {Map} hashToFilename - Map of Cloudinary hash -> local filename
+ * @param {Map} hashToFileData - Map of Cloudinary hash -> {filename, folder}
  * @param {boolean} dryRun - If true, skip actual file writes
  * @returns {number} Number of images updated
  */
-const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
+const updateProductMarkdown = (filePath, hashToFileData, dryRun) => {
   const content = fs.readFileSync(filePath, 'utf8');
   const extractCloudinaryHash = require('./utils/product-image-mapper').extractCloudinaryHash;
-  
+
   let updatedContent = content;
   let updateCount = 0;
 
@@ -158,10 +161,10 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
     const url = match[1];
     const hash = extractCloudinaryHash(url);
 
-    if (hash && hashToFilename.has(hash)) {
+    if (hash && hashToFileData.has(hash)) {
       cloudinaryUrls.push(url);
-      const filename = hashToFilename.get(hash);
-      const localPath = `/images/products/${filename}`;
+      const { filename, folder } = hashToFileData.get(hash);
+      const localPath = `/images/products/${folder}/${filename}`;
       updatedGallery = updatedGallery.replace(`"${url}"`, `"${localPath}"`);
       updateCount++;
     }
@@ -169,9 +172,9 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
 
   if (updateCount > 0) {
     // Create gallery_cloudinary section with original URLs
-    const cloudinaryGallery = '\ngallery_cloudinary:\n' + 
+    const cloudinaryGallery = '\ngallery_cloudinary:\n' +
       cloudinaryUrls.map(url => `  - "${url}"`).join('\n') + '\n';
-    
+
     // Insert gallery_cloudinary right after gallery section
     const replacementText = updatedGallery + cloudinaryGallery;
     updatedContent = content.replace(gallerySection, replacementText);
@@ -187,16 +190,16 @@ const updateProductMarkdown = (filePath, hashToFilename, dryRun) => {
 /**
  * Update all product markdown files
  * @param {string} productsDir - Directory containing product markdown files
- * @param {Map} filenameMapping - Map of hash -> {url, filename, products}
+ * @param {Map} filenameMapping - Map of hash -> {url, filename, folder, products}
  * @param {boolean} dryRun - If true, skip actual file writes
  * @param {string[]|null} onlyProducts - Optional array of product slugs to process
  * @returns {{filesUpdated: number, imagesUpdated: number}}
  */
 const updateAllMarkdownFiles = (productsDir, filenameMapping, dryRun, onlyProducts) => {
-  // Build hash -> filename lookup map
-  const hashToFilename = new Map();
+  // Build hash -> {filename, folder} lookup map
+  const hashToFileData = new Map();
   for (const [hash, data] of filenameMapping) {
-    hashToFilename.set(hash, data.filename);
+    hashToFileData.set(hash, { filename: data.filename, folder: data.folder });
   }
 
   const productFiles = fs.readdirSync(productsDir)
@@ -214,7 +217,7 @@ const updateAllMarkdownFiles = (productsDir, filenameMapping, dryRun, onlyProduc
 
   for (const file of filesToProcess) {
     const filePath = path.join(productsDir, file);
-    const updateCount = updateProductMarkdown(filePath, hashToFilename, dryRun);
+    const updateCount = updateProductMarkdown(filePath, hashToFileData, dryRun);
 
     if (updateCount > 0) {
       filesUpdated++;

@@ -8,7 +8,24 @@ meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your
 categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Strike A Snow Flake"
     max_quantity: 1
@@ -196,5 +213,6 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
+      
 ---
 

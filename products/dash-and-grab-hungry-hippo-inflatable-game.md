@@ -8,7 +8,24 @@ meta_description: "This inflatable dash &amp; grab game is great competitive fun
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Dash & Grab / Hungry Hippo Inflatable Game"
     max_quantity: 1
@@ -163,5 +180,6 @@ tabs:
       *   Fan to inflate the surround
       *   Bungee cords x 4
       *   Power leads
+      
 ---
 

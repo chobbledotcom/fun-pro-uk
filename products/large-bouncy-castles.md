@@ -8,7 +8,24 @@ meta_description: "Adult bouncy castles let your inner child free! These inflata
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "LARGE BOUNCY CASTLES"
     max_quantity: 1
@@ -65,5 +82,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Snatch It"
     max_quantity: 1
@@ -153,5 +170,6 @@ tabs:
       [www.funprouk.co.uk](/#content)
       
       Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!
+      
 ---
 

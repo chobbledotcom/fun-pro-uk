@@ -8,7 +8,24 @@ meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhi
 categories: ["categories/interactive-game-hire.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "GIANT BUZZ WIRE"
     max_quantity: 1
@@ -196,5 +213,6 @@ tabs:
       ## **Your own company carnival**
       
       You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/electronic-basket-ball-hire/#content), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/#content) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, 
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "VR Race Car Simulator"
     max_quantity: 1
@@ -218,5 +235,6 @@ tabs:
       **Interactive Games and More!**
       
       Our **VR Racing** Car Simulators can accompany any of our wide variety of Interactive Games to hire. From table top Buzz Wire to test your concentration skills to the Lights Out game for speed and reaction! Talk to our team today about your venue, event and budget. The team will be able to put a great value package together for you which will be full of fun entertainment and excitement with all detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+      
 ---
 

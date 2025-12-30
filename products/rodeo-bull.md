@@ -8,7 +8,24 @@ meta_description: "Hire Our Rodeo Bull Game For Your Family Fun Days, Parties, E
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Rodeo Bull"
     max_quantity: 1
@@ -148,5 +165,6 @@ tabs:
       You can hire it for two hours, three or for four hours. You can also hire other games and activities for your event. When you bundle them all together, you can save money. Please contact us for exact rates which include delivery.
       
       If you’re ready to add some additional fun to your next big event, a rodeo bull hire is a fun way for your guests and attendees to have fun, while staying safe and secure within an inflatable structure!
+      
 ---
 

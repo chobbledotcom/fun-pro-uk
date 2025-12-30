@@ -8,7 +8,24 @@ meta_description: "Hire Batak Lite for exhibitions, corporate events &amp; parti
 categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Batak Lite"
     max_quantity: 1
@@ -218,5 +235,6 @@ tabs:
       ## Hire Batak Lite For Your Next Event
       
       [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content).
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Looking to make your event unforgettable? Our popcorn machine
 categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Popcorn Machine Cart Hire"
     max_quantity: 1
@@ -25,6 +42,7 @@ faqs:
       Our popcorn machine cart hire includes approximately 200 servings of freshly made popcorn. This generous portion is perfect for keeping guests satisfied at medium to large scale events.
       
       If you're expecting a higher guest count or need additional servings, we can arrange to provide more. Just let us know during the booking process, so we can tailor our service to fit your needs.
+      
   - question: "Is a trained staff member provided to serve popcorn during the event?"
     answer: "Yes! A professional and friendly team member will manage the popcorn cart for up to 4 hours. They handle the cart and serve guests, so you can focus on enjoying the event."
   - question: "Can the popcorn cart be branded with my company's logo or event theme?"
@@ -141,5 +159,6 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties,
 categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "CASH GRABBER MACHINE HIRE"
     max_quantity: 1
@@ -235,5 +252,6 @@ tabs:
       **Branded Notes**
       
       **£150**\+ vat for 300 notes**
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK 
 categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Virtual Pinball"
     max_quantity: 1
@@ -99,5 +116,6 @@ tabs:
       Our service covers multiple locations, so no matter where you are in the UK, we can bring the pinball action to you. Whether it's the vibrant streets of London, the cultural hub of Birmingham, the historic charm of Nottingham, or the bustling cities of Coventry and Northampton, we've got the perfect pinball machine waiting for you.  
         
       Ready to level up your event with our pinball game hire? Contact us now to discuss your requirements and secure your booking. Our friendly team is here to assist you every step of the way, ensuring a seamless and unforgettable experience. Let the games begin!
+      
 ---
 

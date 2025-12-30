@@ -8,7 +8,24 @@ meta_description: "Contact fun Pro UK today to book your next Christmas event."
 categories: ["categories/christmas-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Roll And Bowl Reindeer Racing Game Hire"
     max_quantity: 1
@@ -179,5 +196,6 @@ tabs:
       **Fully branded**
       
       **£1020**\+ vat**
+      
 ---
 

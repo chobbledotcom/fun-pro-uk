@@ -152,23 +152,31 @@ const generateImageFilename = (products, filenameUsage = new Map()) => {
 /**
  * Build complete filename mapping for all images
  * @param {Map} imageMap - Map of hash -> {url, products}
- * @returns {Map} Map of hash -> {url, filename, products}
+ * @returns {Map} Map of hash -> {url, filename, folder, products}
  */
 const buildFilenameMapping = (imageMap) => {
   const filenameUsage = new Map();
   const result = new Map();
-  
+
   // Generate filenames with .jpg extension (all Cloudinary images are JPEG)
   for (const [hash, data] of imageMap) {
     const baseFilename = generateImageFilename(data.products, filenameUsage);
+
+    // Determine folder: use first product's slug (alphabetically) for the folder
+    const sortedProducts = [...data.products].sort((a, b) =>
+      a.slug.localeCompare(b.slug)
+    );
+    const folder = sortedProducts[0].slug;
+
     result.set(hash, {
       url: data.url,
       baseFilename,
       filename: `${baseFilename}.jpg`,
+      folder,
       products: data.products
     });
   }
-  
+
   return result;
 };
 

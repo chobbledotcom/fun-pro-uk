@@ -8,7 +8,24 @@ meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places 
 categories: ["categories/christmas-grotto-hire.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "CHRISTMAS GROTTO 1"
     max_quantity: 1
@@ -103,5 +120,6 @@ tabs:
       The perfect party piece
       
       Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/#content) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
+      
 ---
 
