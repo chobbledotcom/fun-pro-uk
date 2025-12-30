@@ -235,6 +235,7 @@ input[type="submit"] {
     color: #fafafa;
     background: #ee3324;
     border: none;
+    box-shadow: 0 0px 2px #ee332496;
     svg {
       fill: #fafafa;
     }
@@ -243,6 +244,7 @@ input[type="submit"] {
   &.blue {
     color: #fafafa;
     background: #1c54e3;
+    box-shadow: 0 0px 2px #1c54e396;
   }
 }
 
