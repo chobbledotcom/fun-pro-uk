@@ -22,7 +22,7 @@ Our games are a huge success at events, and we've received many compliments on o
 
 We're proud to offer our services throughout the UK, ensuring that every event we're a part of is a success. Whether you're planning a small event or a large-scale exhibition, we've got you covered!
 
-
+![Crack the Code Hire](/images/news/crackcode.jpg)
 
 Here are some upcoming events to look forward to:
 
@@ -34,7 +34,7 @@ Here are some upcoming events to look forward to:
     
 *   First Day of Spring - March 20th marks the first day of Spring. Put your winter coats away and come out to play with Fun Pro UK!
 
-
+![Air Hockey Table Hire](/images/news/20211128-122518.jpg)
 
 ## Your Event Hire Experts
 
