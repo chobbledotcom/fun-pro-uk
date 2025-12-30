@@ -6,8 +6,6 @@ meta_title: "Saturday Night Selfies – Milton Keynes Photo Booth"
 meta_description: "Saturday Night Selfies – Milton Keynes Photo Booth - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2018-01-30/saturday-night-selfies-at-milton-keynes/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 30 January 18 - Saturday night Selfies at Milton Keynes!

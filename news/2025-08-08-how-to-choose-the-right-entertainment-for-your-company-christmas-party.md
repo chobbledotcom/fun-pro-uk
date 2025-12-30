@@ -7,7 +7,7 @@ meta_description: "Expert guide to choosing the perfect Christmas party entertai
 redirect_from:
   - "/news/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/whack-an-elf.jpg"
 ---
 
 # 08 August 25 - How to Choose The Right Entertainment for Your Company Christmas Party

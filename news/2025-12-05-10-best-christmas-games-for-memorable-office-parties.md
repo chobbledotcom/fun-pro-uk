@@ -7,7 +7,7 @@ meta_description: "Discover the best Christmas games for corporate parties, from
 redirect_from:
   - "/news/2025-12-05/10-best-christmas-games-for-memorable-office-parties/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/candy-cane-crush-fun-pro.jpg"
 ---
 
 # 05 December 25 - 10 Best Christmas Games for Memorable Office Parties

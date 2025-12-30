@@ -7,7 +7,7 @@ meta_description: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK -
 redirect_from:
   - "/news/2019-08-06/all-you-need-to-plan-for-your-award-ceremonies/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/img-20190709-wa0000.jpg"
 ---
 
 # 06 August 19 - All You Need to Plan For Your Award Ceremonies

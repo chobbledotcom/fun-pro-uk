@@ -7,7 +7,7 @@ meta_description: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK - 
 redirect_from:
   - "/news/2019-12-01/its-not-too-late/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/dance-1.jpg"
 ---
 
 # 01 December 19 - It's not too late!

@@ -6,8 +6,6 @@ meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
 meta_description: "If you have an awards ceremony coming up, our branded games will add to the entertainment and make your staff feel extra-special. Find out more here!"
 redirect_from:
   - "/news/2023-09-20/make-award-ceremonies-extra-special-event-entertainment-experts/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 20 September 23 - Make Award Ceremonies Extra-Special: Event Entertainment Experts

@@ -7,7 +7,7 @@ meta_description: "Learn how to choose the right interactive games for your conf
 redirect_from:
   - "/news/2025-11-03/small-conference-vs-large-conference/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/group-of-professional-people-celebrating.png"
 ---
 
 # 03 November 25 - Small Conference vs. Large Conference

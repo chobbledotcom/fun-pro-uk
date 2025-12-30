@@ -7,7 +7,7 @@ meta_description: "All Work, No Play? Let’s Change That! | Fun Pro UK - Fun Pr
 redirect_from:
   - "/news/2020-01-20/all-work-no-play-we-really-need-to-talk-about-that/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20180616-152805.jpg"
 ---
 
 # 20 January 20 - All work, no play? We really need to talk about that!!

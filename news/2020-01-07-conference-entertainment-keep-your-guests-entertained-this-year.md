@@ -7,7 +7,7 @@ meta_description: "Conference Entertainment – Engage Your Guests | Fun Pro UK 
 redirect_from:
   - "/news/2020-01-07/conference-entertainment-keep-your-guests-entertained-this-year/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20190619-160019.jpg"
 ---
 
 # 07 January 20 - Conference Entertainment - Keep your guests entertained this year!

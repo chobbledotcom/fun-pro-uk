@@ -7,7 +7,7 @@ meta_description: "Discover simple ways to boost engagement at your brand activa
 redirect_from:
   - "/news/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/fun-pro-uvex.jpg"
 ---
 
 # 30 May 25 - How to Increase Engagement at Your Brand Activation Event

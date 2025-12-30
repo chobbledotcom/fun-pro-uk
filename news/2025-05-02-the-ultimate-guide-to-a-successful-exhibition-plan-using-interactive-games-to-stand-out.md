@@ -7,7 +7,7 @@ meta_description: "Boost your exhibition stand with interactive game hire. Our g
 redirect_from:
   - "/news/2025-05-02/the-ultimate-guide-to-a-successful-exhibition-plan-using-interactive-games-to-stand-out/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/whack-a-mole.jpg"
 ---
 
 # 02 May 25 - The Ultimate Guide To A Successful Exhibition Plan: Using Interactive Games To Stand Out

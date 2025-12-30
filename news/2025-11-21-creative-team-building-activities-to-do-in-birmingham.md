@@ -7,7 +7,7 @@ meta_description: "Discover creative team building activities in Birmingham for 
 redirect_from:
   - "/news/2025-11-21/creative-team-building-activities-to-do-in-birmingham/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/team-building-event.png"
 ---
 
 # 21 November 25 - Creative Team Building Activities to Do in Birmingham

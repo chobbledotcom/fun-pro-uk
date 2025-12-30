@@ -6,8 +6,6 @@ meta_title: "Tips For Successful Team Building Events | Fun Pro UK"
 meta_description: "Tips For Successful Team Building Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2019-02-15/tips-for-running-a-successful-team-building-day/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 15 February 19 - Tips for running a Successful Team Building Day

@@ -6,8 +6,6 @@ meta_title: "Make Autumn Fairs & Exhibitions Fun with Branded Games | Blog"
 meta_description: "Autumn is here, and there are plenty of exhibitions, trade shows &amp; fairs coming up. Make the most of these opportunities with branded game hire. UK-wide!"
 redirect_from:
   - "/news/2023-08-31/make-autumn-fairs-and-exhibitions-fun-with-branded-games/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 31 August 23 - Make Autumn Fairs & Exhibitions Fun with Branded Games

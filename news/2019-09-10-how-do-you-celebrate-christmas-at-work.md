@@ -7,7 +7,7 @@ meta_description: "How Do You Celebrate Christmas At Work? | Fun Pro UK - Fun Pr
 redirect_from:
   - "/news/2019-09-10/how-do-you-celebrate-christmas-at-work/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20171214-173433.jpg"
 ---
 
 # 10 September 19 - How Do You Celebrate Christmas At Work?

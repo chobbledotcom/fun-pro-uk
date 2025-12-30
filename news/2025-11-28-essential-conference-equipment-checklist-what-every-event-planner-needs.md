@@ -7,7 +7,7 @@ meta_description: "Discover the complete conference equipment checklist every ev
 redirect_from:
   - "/news/2025-11-28/essential-conference-equipment-checklist-what-every-event-planner-needs/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/uk-conference.png"
 ---
 
 # 28 November 25 - Essential Conference Equipment Checklist: What Every Event Planner Needs

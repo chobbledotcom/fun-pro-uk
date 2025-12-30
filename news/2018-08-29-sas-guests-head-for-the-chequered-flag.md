@@ -7,7 +7,7 @@ meta_description: "Sas Guests At The Chequered Flag – Event Game Hire - Fun Pr
 redirect_from:
   - "/news/2018-08-29/sas-guests-head-for-the-chequered-flag/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/race-car-simulator-3.jpg"
 ---
 
 # 29 August 18 - SAS guests head for the chequered flag!

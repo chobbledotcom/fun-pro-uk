@@ -7,7 +7,7 @@ meta_description: "Discover why Birmingham is ideal for your next brand activati
 redirect_from:
   - "/news/2025-12-15/brand-activation-in-birmingham-how-to-make-an-impact-in-one-of-the-uks-fastest-growing-cities/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/city-of-birmingham.png"
 ---
 
 # 15 December 25 - Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities
