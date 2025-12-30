@@ -322,8 +322,10 @@ main {
     display: grid;
 
     @include breakpoints.up("sm") {
+      padding: 8px;
+      margin: 32px;
       position: sticky;
-      top: 0;
+      top: 16px;
       z-index: 100;
       background: #fff;
     }
