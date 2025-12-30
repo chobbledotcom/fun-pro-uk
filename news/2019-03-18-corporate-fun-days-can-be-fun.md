@@ -7,7 +7,7 @@ meta_description: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK - F
 redirect_from:
   - "/news/2019-03-18/corporate-fun-days-can-be-fun/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/fundays.png"
 ---
 
 # 18 March 19 - Corporate Fun Days Can Be Fun!

@@ -7,7 +7,7 @@ meta_description: "Discover why Manchester offers better value, engaged audience
 redirect_from:
   - "/news/2025-09-12/why-manchester-is-the-perfect-city-for-brand-activation-events/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/manchester.png"
 ---
 
 # 12 September 25 - Why Manchester is the Perfect City for Brand Activation Events

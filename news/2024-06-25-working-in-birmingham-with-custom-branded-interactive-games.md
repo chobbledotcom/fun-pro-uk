@@ -6,8 +6,6 @@ meta_title: "Fun Pro UK Enhances Installershow with Branded Games"
 meta_description: "Explore how Fun Pro UK brought bespoke branded interactive games to the Installershow at the NEC Birmingham, delivering standout experiences for exhibitors."
 redirect_from:
   - "/news/2024-06-25/working-in-birmingham-with-custom-branded-interactive-games/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 25 June 24 - Working in Birmingham with Custom-Branded Interactive Games

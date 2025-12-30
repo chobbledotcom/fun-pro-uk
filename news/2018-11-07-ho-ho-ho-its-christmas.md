@@ -7,7 +7,7 @@ meta_description: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro
 redirect_from:
   - "/news/2018-11-07/ho-ho-ho-its-christmas/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/elves.jpg"
 ---
 
 # 07 November 18 - Ho Ho Ho it's Christmas!

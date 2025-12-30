@@ -6,8 +6,6 @@ meta_title: "Dunchurch Park Wedding Show – Event Entertainment Hire"
 meta_description: "Dunchurch Park Wedding Show – Event Entertainment Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2016-10-14/dunchurch-park-wedding-show/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 14 October 16 - Dunchurch Park Wedding Show

@@ -6,8 +6,6 @@ meta_title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"
 meta_description: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2017-02-08/1st-birthday-celebrations/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 08 February 17 - 1st Birthday Celebrations!

@@ -6,8 +6,6 @@ meta_title: "Get Organised For Your Event – Game Hire Nationwide"
 meta_description: "Get Organised For Your Event – Game Hire Nationwide - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2019-01-04/get-organised/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 04 January 19 - Get organised!

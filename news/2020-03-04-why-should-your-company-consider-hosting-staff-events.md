@@ -7,7 +7,7 @@ meta_description: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK -
 redirect_from:
   - "/news/2020-03-04/why-should-your-company-consider-hosting-staff-events/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20190607-142841.jpg"
 ---
 
 # 04 March 20 - Why Should Your Company Consider Hosting Staff Events?

@@ -6,8 +6,6 @@ meta_title: "Woodside Wedding Fair – Interactive Game Rentals"
 meta_description: "Woodside Wedding Fair – Interactive Game Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2017-03-31/woodside-wedding-fair-2nd-april-2017/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 31 March 17 - Woodside Wedding Fair 2nd April 2017!!

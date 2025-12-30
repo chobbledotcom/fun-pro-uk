@@ -7,7 +7,7 @@ meta_description: "Happy Easter from Fun Pro UK! We have plenty of incredible en
 redirect_from:
   - "/news/2023-04-06/happy-easter-prepare-for-summertime-fun/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/img-20220617-wa0004.jpg"
 ---
 
 # 06 April 23 - Happy Easter! Prepare for Summertime Fun!

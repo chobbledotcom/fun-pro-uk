@@ -7,7 +7,7 @@ meta_description: "Hire Christmas party games perfect for teams. Professional ga
 redirect_from:
   - "/news/2025-07-25/christmas-party-games-that-are-perfect-for-office-teams/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/christmas-party-game-hire.jpg"
 ---
 
 # 25 July 25 - Christmas Party Games That Are Perfect for Office Teams

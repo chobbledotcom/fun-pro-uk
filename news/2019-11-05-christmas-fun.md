@@ -7,7 +7,7 @@ meta_description: "Christmas Fun For Every Event Nationwide | Fun Pro UK - Fun P
 redirect_from:
   - "/news/2019-11-05/christmas-fun/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20171214-173433.jpg"
 ---
 
 # 05 November 19 - Christmas Fun!

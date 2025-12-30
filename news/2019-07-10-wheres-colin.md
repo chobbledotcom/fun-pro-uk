@@ -7,7 +7,7 @@ meta_description: "Where’s Colin? – Event Game Hire Nationwide | Fun Pro UK 
 redirect_from:
   - "/news/2019-07-10/wheres-colin/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20190619-160019.jpg"
 ---
 
 # 10 July 19 - Where's Colin??

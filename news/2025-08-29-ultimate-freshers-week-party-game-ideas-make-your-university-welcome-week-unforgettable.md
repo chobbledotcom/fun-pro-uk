@@ -7,7 +7,7 @@ meta_description: "Expert freshers games and entertainment hire for university w
 redirect_from:
   - "/news/2025-08-29/ultimate-freshers-week-party-game-ideas-make-your-university-welcome-week-unforgettable/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/coconut-shy.jpg"
 ---
 
 # 29 August 25 - Ultimate Freshers Week Party Game Ideas: Make Your University Welcome Week Unforgettable
