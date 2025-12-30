@@ -24,7 +24,7 @@ Our bespoke designed photo booths are an effective way of promoting your busines
 
 We have worked with a huge array of companies to deliver exceptional award ceremonies including Amazon, [KPMG](/putting-kpmg-in-the-picture/#content) and Virgin Trains. So why not get in contact with us today to see how we can make your next award show unforgettable!
 
-!!!
+![](/images/news/photo-booth-1.jpeg)![](/images/news/queues.jpeg)![](/images/news/photo-booth-4.jpeg)
 
 [<< Return to news](/news/#content)
 

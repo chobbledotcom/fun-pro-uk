@@ -32,7 +32,7 @@ January is a great time to gather your team together and ensure they feel valued
 
 Diaries and calendars won't be quite so manic during January. Take this opportunity to save the date and arrange when to have your staff office party. The turn out should be high as you will not be competing with other festive events such as School Plays, Christmas Shopping, Carol singing etc that your guests have already committed to attend.
 
-**NO TINSEL OR TURKEY !** 
+**NO TINSEL OR TURKEY ![](/images/news/img-20211217-wa0004.jpg)** 
 
 Fed up of tinsel and turkey? This is a fabulous reason to organise your Office Party in the new year, nobody will want another turkey dinner! Break free from the Christmas theming and celebrate in style. Why not create a themed evening? A James Bond themed event is very popular with a **[photobooth](/categories/photo-booths-and-magic-mirrors/#content)** and **casino tables**. Maybe a retro game themed evening with **[Arcade Machines](/categories/arcade-games/#content)**, **Football Tables** and **Basketball games** to keep your guests entertained. There will not be a Christmas Tree or cracker insight!
 

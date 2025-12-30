@@ -24,7 +24,7 @@ Team-building activities provide an opportunity for employees to connect outside
 
 [Arcade games](/categories/arcade-games/#content) bring a sense of nostalgia and fun, making them a perfect choice for a work social event. Renting a selection of arcade games allows employees to compete, bond, and enjoy a light-hearted break from work.
 
-!
+![](/images/news/prize-crane-arcade-grabber.jpg)
 
 The [prize crane arcade grabber](/products/prize-crane-arcade-grabber/#content) is an exciting addition to any work event, offering a mix of luck and skill. Employees can compete to grab prizes, making it a great conversation starter and a fun way to boost engagement.
 
@@ -32,7 +32,7 @@ The [prize crane arcade grabber](/products/prize-crane-arcade-grabber/#content) 
 
 For teams that enjoy a bit of competition, [racing car simulators](/products/racing-car-simulators/#content) are a thrilling option. These simulators provide an adrenaline-pumping experience that allows participants to race against their colleagues in a fun and friendly environment.
 
-!
+![](/images/news/fun-pro-racing-car-simulators.jpg)
 
 With immersive visuals and realistic driving experiences, racing car simulators create an exciting atmosphere where employees can challenge each other for the fastest lap times. This activity is perfect for fostering a sense of [teamwork](https://www.atlassian.com/blog/teamwork/the-importance-of-teamwork) and healthy competition.
 
@@ -40,7 +40,7 @@ With immersive visuals and realistic driving experiences, racing car simulators 
 
 Testing reaction speeds can be a great way to encourage quick thinking and friendly competition. Games that require fast reflexes can be both entertaining and beneficial for [sharpening cognitive skills](https://www.health.harvard.edu/mind-and-mood/train-your-brain).
 
-!
+![](/images/news/fun-pro-batak-games.jpg)
 
 The [Batak](/categories/batak/#content) reaction game is an excellent choice for a work social event. It challenges participants to hit randomly lit targets as quickly as possible, improving their reflexes while having fun. It’s a great icebreaker and ideal for creating a lively and interactive environment. Choose between [Batak Pro](/products/batak-pro/#content) and [Batak Lite](/products/batak-lite/#content) to suit your needs.
 

@@ -15,7 +15,7 @@ gallery:
 Yeah!! Look what Perfect Snap has for Christmas!  
 We are super excited to introduce our brand new [Christmas Photo Booth](/christmas-photo-booth-corporate-event-hire/#content) for the party season.
 
-!  
+![](/images/news/gimp5.png)  
 Let us add the finishing touch to your party night with our fabulous [Green Screen Dream Machine Photo Booth](/products/green-screen-photo-booths/#content).  
   
 Everyone adores a [selfie](/products/magic-mirror/#content) to take home after an awesome night out. With our Green Screen booth your guests will have a real night to remember.  

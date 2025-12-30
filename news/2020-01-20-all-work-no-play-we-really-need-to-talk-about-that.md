@@ -14,7 +14,7 @@ gallery:
 
 ## All work, no play? We really need to talk about that!!
 
-### !Fun daysShow your staff how to party this summer with inflatables and interactive games for all ages.
+### ![Fun days](/images/news/20180616-152805.jpg)Show your staff how to party this summer with inflatables and interactive games for all ages.
 
 Why host a family [fun day](/categories/fun-days/#content) with a single bouncy castle and a small BBQ, when Fun Pro UK can work with you to make the best use of your space and show your team and their families what a real summer party is! With a wide range of inflatables from both adults and children’s bouncy castles to inflatable assault course and tv classics such as Total Wipe Out, we have everything you need this summer!
 
@@ -26,7 +26,7 @@ These huge, colourful inflatables stand head and shoulders above everything else
 
 ## [Pluck that Duck](/products/pluck-a-duck-racing/#content)!
 
-!Pluck the duck hireHave you got what it takes? The concentration and nerves of steel to go head to head to free all five ducks, or race against the clock to be the fastest duck-freer at your company! This very silly but highly addictive interactive game really puts your skills to the test, as an adaption of the classic operation, as you use an electromagnet on the pole to free all the ducks.
+![Pluck the duck hire](/images/news/unadjustednonraw-thumb-9d21-768x1024.jpg)Have you got what it takes? The concentration and nerves of steel to go head to head to free all five ducks, or race against the clock to be the fastest duck-freer at your company! This very silly but highly addictive interactive game really puts your skills to the test, as an adaption of the classic operation, as you use an electromagnet on the pole to free all the ducks.
 
 All getting a bit warm, well cool down with some ice cream delivered by tricycle!
 

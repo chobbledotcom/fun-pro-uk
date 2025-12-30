@@ -18,7 +18,7 @@ Why wait until the year draws to a close to award your staff? Why not host your 
 
 A great way of entertaining your staff and guests is with a range of [interactive games](/categories/interactive-game-hire/#content). But I hear you say that there are so many options. Not to worry, as here at Fun Pro UK we have put together a comprehensive guide to the best [award ceremony entertainment.](/events/company-award-ceremonies/#content)
 
-## Memories to last a lifetime!!
+## Memories to last a lifetime!![](/images/news/img-20190709-wa0000.jpg)
 
 You could employ a photographer, right? Why not get your staff involved using a variety of fun and seasonal props within a [](/categories/photo-booths-and-magic-mirrors/#content)[photo booth](/categories/photo-booths-and-magic-mirrors/#content)? Your attendees can couple up or go in a group and take photos inside a range of high-quality photo booths.
 
@@ -38,7 +38,7 @@ Our amazing [](/products/gold-cup-horse-racing/#content)[Gold Cup Horse Racing G
 
 Award nights are about celebrating your company's and employees' achievements. So why not pair this product with our [leader board](/products/leader-board/#content) to find the fastest jockey at your event or keep it to the winner of each race!
 
-## Drive to victory!!
+## Drive to victory!![](/images/news/20190702-115236.jpg)
 
 Are your employees' still competitive but far greater petrol heads? Then let them put the pedal to the medal and tear up the track with Fun Pro UK's awesome [](/categories/interactive-game-hire/#content)[Race Car Simulators.](/products/racing-car-simulators/#content)
 

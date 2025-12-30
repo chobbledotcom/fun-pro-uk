@@ -12,7 +12,7 @@ gallery:
 
 # 05 September 25 - Top 10 Interactive Games to Break the Ice at Freshers Week Events
 
-!
+![](/images/news/fresher-week-event.jpg)
 
 [Freshers week](/freshers-entertainment-ideas/#content) can feel overwhelming for new university students - and equally challenging for the event organisers tasked with creating memorable experiences that help thousands of strangers become friends. If you're planning freshers activities, you'll know the pressure to get it right. Students arrive with high expectations, diverse backgrounds, and varying comfort levels with social situations.
 
@@ -20,7 +20,7 @@ The good news? [Interactive games](/categories/interactive-game-hire/#content) a
 
 ## Why Interactive Games Are Essential for Successful Freshers Week Events
 
-!
+![](/images/news/people-playing-interactive-game.jpg)
 
 Freshers week presents unique challenges that traditional event formats simply can't address. You're bringing together students from different countries, cultures, and backgrounds - many of whom have never lived away from home before. The pressure to make friends quickly can be intense, and not everyone thrives in unstructured social situations.
 
@@ -32,7 +32,7 @@ For event organisers, games also provide structure and energy that keeps events 
 
 ## 10 Interactive Games Perfect for Freshers Week Ice Breaking
 
-!
+![](/images/news/fun-pro-whack-a-mole.jpg)
 
 ### High-Energy Games for Large Groups
 
@@ -144,7 +144,7 @@ This combines the familiar satisfaction of Jenga with structured conversation st
 
 ## Choosing the Right Games for Your Freshers Event
 
-!
+![](/images/news/people-watching-interactive-game.jpg)
 
 Selecting appropriate games requires careful consideration of your specific circumstances. Start by evaluating your venue constraints - indoor spaces limit high-energy physical games, whilst outdoor events need weather backup plans. Consider your expected attendance numbers and whether you're planning multiple simultaneous activities or single large-group events.
 
@@ -156,7 +156,7 @@ Budget considerations vary significantly depending on whether you're hiring prof
 
 ## Practical Tips for Running Successful Ice Breaker Games
 
-!
+![](/images/news/two-man-playing-interactive-game.jpg)
 
 The success of [interactive games](/categories/interactive-game-hire/#content) often depends more on facilitation than the activities themselves. Ensure you have enthusiastic staff members who can explain rules clearly, encourage participation without pressuring reluctant students, and keep energy levels high throughout events.
 

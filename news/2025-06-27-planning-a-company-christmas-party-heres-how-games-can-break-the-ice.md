@@ -12,7 +12,7 @@ gallery:
 
 # 27 June 25 - Planning a Company Christmas Party? Here's How Games Can Break the Ice
 
-!
+![](/images/news/catch-us-if-you-can-games.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/christmas-entertainment-game-hire/#content) can transform your gathering from polite small talk into genuine fun and connection.
 
@@ -38,7 +38,7 @@ Don't forget about partners and children if they're invited. Family-friendly opt
 
 ### Interactive Games
 
-!
+![](/images/news/reindeer-roll-n-bowl.jpg)
 
 Modern interactive games are particularly popular at Christmas parties because they feel fresh and exciting. Racing simulators let colleagues compete in virtual motorsport, whilst dance machines get people moving and laughing together. These high-tech options often become the talking point of the entire evening.
 
