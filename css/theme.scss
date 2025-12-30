@@ -379,7 +379,7 @@ main {
       }
     }
 
-    @include breakpoints.down("sm") {
+    @include breakpoints.down("md") {
       gap: 0 8px;
       height: auto;
       grid-template-columns: 40px 1fr;
@@ -914,7 +914,7 @@ ul.items {
       width: 100%;
       overflow: hidden;
     }
-    p:last-child {
+    .price {
       color: #009dd7;
       font-family: "DM Sans";
       font-size: 22px;
