@@ -202,7 +202,9 @@ a {
   }
 }
 
-button, .button, input[type="submit"] {
+button,
+.button,
+input[type="submit"] {
   display: flex;
   padding: 14px 24px;
   justify-content: center;
@@ -368,7 +370,7 @@ main {
     @include breakpoints.down("md") {
       // mobile nav
       gap: 0 8px;
-      height: auto;
+      height: auto !important;
       padding-right: 60px;
       grid-template-columns: 40px 1fr;
       grid-template-areas:
