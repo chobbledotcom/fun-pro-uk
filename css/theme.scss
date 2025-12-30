@@ -211,12 +211,13 @@ input[type="submit"] {
   gap: 16px;
   align-items: center;
   border-radius: 16px;
-  border: 1px solid #181a1f;
+  border: 1px solid transparent;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   background: transparent;
   white-space: nowrap;
+  box-shadow: 0 0px 2px black;
 
   &:hover {
     background: transparent;
@@ -279,6 +280,12 @@ body {
         width: 367px;
         height: 154px;
       }
+    }
+  }
+  & > .cart-icon {
+    background: #fafafa;
+    &:hover {
+      background: #fff;
     }
   }
 }
@@ -900,7 +907,7 @@ ul.items {
     }
     h3 {
       line-height: 18px;
-      min-height: 36px;
+      height: 36px;
     }
     .image-link,
     placeholder {
@@ -915,6 +922,7 @@ ul.items {
       font-size: 22px;
       font-style: normal;
       font-weight: 500;
+      margin-bottom: 8px;
     }
     // 10px = 32px / 3 rows, ish
     width: calc(33% - 10px);
