@@ -974,6 +974,7 @@ ul.items {
   grid-template-columns: 50px 1fr;
   gap: 0 16px;
   font-weight: 700;
+  padding-bottom: 0;
 
   #footer-logo {
     aspect-ratio: 42/53;
@@ -1049,6 +1050,7 @@ ul.items {
 #footer-links {
   display: flex;
   flex-direction: column;
+  padding-top: 0;
   h2 {
     padding: 0;
   }
