@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
 date: 2025-08-29
-author: "team/colin.md"
+author: "team/liz.md"
 meta_title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
 meta_description: "Expert freshers games and entertainment hire for university welcome weeks. Professional setup, inclusive activities, and nationwide coverage."
 redirect_from:
@@ -43,6 +43,8 @@ Every freshers week welcomes students from vastly different backgrounds – from
 The best freshers entertainment hire provides multiple participation levels. Some students will dive straight into competitive challenges, whilst others prefer observing before gradually joining in. Having a mix of high-energy games alongside gentler activities ensures everyone finds their comfort zone whilst still being part of the collective experience.
 
 ## Top Interactive Game Categories for Freshers Week Success
+
+![](/images/news/cornhole-game.jpg)
 
 Understanding which types of games work best for student events requires considering both the practical realities of university venues and the diverse preferences of your audience. Here's how to choose entertainment that delivers maximum impact for your freshers week programme.
 

@@ -1,7 +1,7 @@
 ---
 title: "Fun Pro UK Enhances Installershow with Branded Games"
 date: 2024-06-25
-author: "team/colin.md"
+author: "team/liz.md"
 meta_title: "Fun Pro UK Enhances Installershow with Branded Games"
 meta_description: "Explore how Fun Pro UK brought bespoke branded interactive games to the Installershow at the NEC Birmingham, delivering standout experiences for exhibitors."
 redirect_from:
