@@ -7,7 +7,7 @@ meta_description: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro U
 redirect_from:
   - "/news/2022-01-04/january-doesnt-have-to-be-blue/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/img-20211217-wa0004.jpg"
 ---
 
 # 04 January 22 - January doesn't have to be Blue!!

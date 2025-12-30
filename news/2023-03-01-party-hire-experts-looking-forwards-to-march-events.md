@@ -7,7 +7,7 @@ meta_description: "Looking Forward To March Events – Game Rentals | Fun Pro UK
 redirect_from:
   - "/news/2023-03-01/party-hire-experts-looking-forwards-to-march-events/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/batak23.jpg"
 ---
 
 # 01 March 23 - Party Hire Experts: Looking forwards to March Events

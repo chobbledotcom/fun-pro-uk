@@ -6,8 +6,6 @@ meta_title: "Get Ready for September Exhibitions with Fun Pro UK | Blogs"
 meta_description: "The exhibition season is around the corner, and businesses across the UK are looking for the best trade show entertainment. Find all you could need here!"
 redirect_from:
   - "/news/2024-07-31/get-ready-for-september-exhibitions-with-fun-pro-uk/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 31 July 24 - Get Ready for September Exhibitions with Fun Pro UK

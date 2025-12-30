@@ -6,8 +6,6 @@ meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
 meta_description: "We Have Moved – Event Game Hire Updates | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2018-12-12/did-you-know-we-have-moved/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 12 December 18 - Did you know we have moved!

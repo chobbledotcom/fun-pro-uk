@@ -7,7 +7,7 @@ meta_description: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK - F
 redirect_from:
   - "/news/2017-12-01/christmas-parties-with-the-nec/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/nec1.png"
 ---
 
 # 01 December 17 - Christmas Parties with the NEC

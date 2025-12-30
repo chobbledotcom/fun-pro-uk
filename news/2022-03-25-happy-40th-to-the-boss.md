@@ -7,7 +7,7 @@ meta_description: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK - Fu
 redirect_from:
   - "/news/2022-03-25/happy-40th-to-the-boss/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20220324-125141.jpg"
 ---
 
 # 25 March 22 - Happy 40th to the Boss!!

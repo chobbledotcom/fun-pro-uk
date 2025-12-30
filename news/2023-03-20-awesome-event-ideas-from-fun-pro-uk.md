@@ -7,7 +7,7 @@ meta_description: "Experience amazing events with Fun Pro UK! Charity fundraiser
 redirect_from:
   - "/news/2023-03-20/awesome-event-ideas-from-fun-pro-uk/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/37e0bbea736ba19a7e6043fe17d3f2df.jpeg"
 ---
 
 # 20 March 23 - Awesome Event Ideas from Fun Pro UK

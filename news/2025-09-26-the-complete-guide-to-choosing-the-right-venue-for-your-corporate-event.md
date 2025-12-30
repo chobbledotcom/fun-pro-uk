@@ -7,7 +7,7 @@ meta_description: "Expert guide to corporate event venue selection in the UK. Fr
 redirect_from:
   - "/news/2025-09-26/the-complete-guide-to-choosing-the-right-venue-for-your-corporate-event/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/fun-pro-corporate-event.png"
 ---
 
 # 26 September 25 - The Complete Guide to Choosing the Right Venue for Your Corporate Event

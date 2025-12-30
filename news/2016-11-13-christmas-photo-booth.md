@@ -7,7 +7,7 @@ meta_description: "Christmas Photo Booth Hire – Fun For Festive Events - Fun P
 redirect_from:
   - "/news/2016-11-13/christmas-photo-booth/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/gimp5.png"
 ---
 
 # 13 November 16 - CHRISTMAS PHOTO BOOTH

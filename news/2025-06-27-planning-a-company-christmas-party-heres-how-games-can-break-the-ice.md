@@ -7,7 +7,7 @@ meta_description: "Planning a company Christmas party? Discover how interactive 
 redirect_from:
   - "/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/catch-us-if-you-can-games.jpg"
 ---
 
 # 27 June 25 - Planning a Company Christmas Party? Here's How Games Can Break the Ice

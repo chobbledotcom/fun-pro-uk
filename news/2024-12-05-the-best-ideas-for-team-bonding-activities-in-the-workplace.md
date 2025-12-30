@@ -6,8 +6,6 @@ meta_title: "Team Bonding Activities To Bring Your Team Together"
 meta_description: "Make team bonding fun and memorable with activities that bring your team closer. Explore creative ideas for boosting morale and collaboration with Fun Pro UK."
 redirect_from:
   - "/news/2024-12-05/the-best-ideas-for-team-bonding-activities-in-the-workplace/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 05 December 24 - The Best Ideas For Team Bonding Activities In The Workplace

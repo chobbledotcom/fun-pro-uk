@@ -6,8 +6,6 @@ meta_title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"
 meta_description: "Woodside Hotel Wedding Fair – Event Entertainment Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2017-01-25/woodside-hotel-wedding-fair/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 25 January 17 - Woodside Hotel Wedding fair

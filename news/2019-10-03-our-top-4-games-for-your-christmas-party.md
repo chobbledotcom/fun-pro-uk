@@ -7,7 +7,7 @@ meta_description: "Top 4 Christmas Party Games For Your Event | Fun Pro UK - Fun
 redirect_from:
   - "/news/2019-10-03/our-top-4-games-for-your-christmas-party/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/20171214-173433.jpg"
 ---
 
 # 03 October 19 - Our Top 4 Games for your Christmas Party

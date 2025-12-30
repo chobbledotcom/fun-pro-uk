@@ -7,7 +7,7 @@ meta_description: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK
 redirect_from:
   - "/news/2018-04-09/congratulations-mr-and-mrs-moore/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg"
 ---
 
 # 09 April 18 - Congratulations Mr and Mrs Moore

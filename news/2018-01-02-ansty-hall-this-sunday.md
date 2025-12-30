@@ -6,8 +6,6 @@ meta_title: "Ansty Hall This Sunday – Event Game Hire Services"
 meta_description: "Ansty Hall This Sunday – Event Game Hire Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2018-01-02/ansty-hall-this-sunday/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 02 January 18 - Ansty Hall this Sunday!

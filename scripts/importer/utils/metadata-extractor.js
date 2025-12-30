@@ -353,13 +353,62 @@ const extractProductImages = (htmlContent) => {
 
 /**
  * Extract blog post image from markdown content
+ * Skips tracking pixel URLs and prefers news content images
  * @param {string} markdown - Markdown content to extract image from
  * @returns {string} Image URL or empty string
  */
 const extractBlogImage = (markdown) => {
-  // Look for image in markdown: ![alt text](url)
-  const imageMatch = markdown.match(/!\[.*?\]\((https?:\/\/[^\)]+)\)/);
-  return imageMatch ? imageMatch[1] : '';
+  // Patterns that indicate tracking pixels (not real images)
+  const trackingPixelPatterns = [
+    'secure.cavy9soho.com',   // Analytics tracking pixel
+    'facebook.com/tr',         // Facebook tracking pixel
+    '/tr?',                    // Generic tracking pixel pattern
+    'pixel.',                  // Generic pixel subdomain
+    '&ev=',                    // Event tracking parameter
+    'noscript='                // Noscript tracking parameter
+  ];
+
+  // Look for all images in markdown: ![alt text](url or path)
+  const imageRegex = /!\[.*?\]\(([^\)]+)\)/g;
+  let match;
+  let fallbackImage = '';
+
+  while ((match = imageRegex.exec(markdown)) !== null) {
+    const url = match[1];
+
+    // Skip tracking pixels
+    const isTrackingPixel = trackingPixelPatterns.some(pattern => url.includes(pattern));
+    if (isTrackingPixel) {
+      continue;
+    }
+
+    // Skip theme/logo images
+    if (url.includes('/theme/') || url.includes('logo')) {
+      continue;
+    }
+
+    // Prefer news images - check for both /images/news/ (already downloaded)
+    // and /userfiles/ (will be downloaded and converted to /images/news/)
+    if (url.startsWith('/images/news/')) {
+      return url;
+    }
+
+    // Convert /userfiles/ paths to /images/news/ paths
+    // These will be downloaded by downloadNewsEmbeddedImages
+    if (url.startsWith('/userfiles/')) {
+      const filename = url.split('/').pop();
+      return `/images/news/${filename}`;
+    }
+
+    // Keep track of first valid image as fallback
+    if (!fallbackImage) {
+      if (url.startsWith('/images/') || url.match(/\.(png|jpg|jpeg|gif|webp)(\?|$)/i)) {
+        fallbackImage = url;
+      }
+    }
+  }
+
+  return fallbackImage;
 };
 
 /**

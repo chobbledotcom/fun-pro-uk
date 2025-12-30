@@ -7,7 +7,7 @@ meta_description: "Looking for fun work social event ideas? Boost team morale wi
 redirect_from:
   - "/news/2025-03-18/boost-team-spirit-with-these-ideas-for-your-next-work-social-event/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/prize-crane-arcade-grabber.jpg"
 ---
 
 # 18 March 25 - Boost Team Spirit With These Ideas For Your Next Work Social Event

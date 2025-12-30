@@ -6,8 +6,6 @@ meta_title: "Make Your Christmas Event Stand Out – Game Hire Services"
 meta_description: "Make Your Christmas Event Stand Out – Game Hire Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/news/2018-09-19/how-to-make-your-christmas-event-stand-out-from-the-rest/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 19 September 18 - How to make your Christmas event stand out from the rest

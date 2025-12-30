@@ -7,7 +7,7 @@ meta_description: "Award Ceremony Season – Event Entertainment Game Hire - Fun
 redirect_from:
   - "/news/2018-11-28/award-ceremony-season-is-fast-approaching/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/photo-booth-1.jpeg"
 ---
 
 # 28 November 18 - Award ceremony season is fast approaching!

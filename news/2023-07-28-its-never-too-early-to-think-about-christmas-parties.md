@@ -6,8 +6,6 @@ meta_title: "It's never too early to think about Christmas parties! | Our Blogs"
 meta_description: "It&#39;s a great idea to book your Christmas party entertainment early to ensure you receive all that you want! Find out more about our holiday fun here."
 redirect_from:
   - "/news/2023-07-28/its-never-too-early-to-think-about-christmas-parties/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 28 July 23 - It's never too early to think about Christmas parties!

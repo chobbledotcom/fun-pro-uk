@@ -6,8 +6,6 @@ meta_title: "How to Choose the Perfect Photo Booth for Your Event"
 meta_description: "If you’re considering a photo booth for your event, knowing how to choose the perfect one can make all the difference. Let’s explore the best options today!"
 redirect_from:
   - "/news/2025-01-28/how-to-choose-the-perfect-photo-booth-for-your-event/"
-gallery:
-  - "https://secure.cavy9soho.com/187947.png"
 ---
 
 # 28 January 25 - How to Choose the Perfect Photo Booth for Your Event

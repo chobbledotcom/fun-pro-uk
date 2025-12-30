@@ -7,7 +7,7 @@ meta_description: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK - Fun
 redirect_from:
   - "/news/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/"
 gallery:
-  - "https://secure.cavy9soho.com/187947.png"
+  - "/images/news/team-work.png"
 ---
 
 # 05 June 19 - Top 5 Most Popular Interactive Outdoor Games For Corporates
