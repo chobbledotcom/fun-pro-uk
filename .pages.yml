@@ -101,6 +101,10 @@ content:
               label: Unit Price (£),
               required: true,
             }
+      - name: gallery
+        type: image
+        label: Gallery
+        options: { multiple: true }
       - name: tabs
         label: Tabs
         type: object
@@ -122,10 +126,13 @@ content:
         fields:
           - { name: name, type: string, label: Name, required: true }
           - { name: value, type: string, label: Value, required: true }
-      - name: gallery
-        type: image
-        label: Gallery
-        options: { multiple: true }
+      - name: filter_attributes
+        label: Filter Attributes
+        type: object
+        list: true
+        fields:
+          - { name: name, type: string, label: Name, required: true }
+          - { name: value, type: string, label: Value, required: true }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - {
           name: meta_description,
