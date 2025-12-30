@@ -321,15 +321,6 @@ main {
     font-weight: 500;
     display: grid;
 
-    @include breakpoints.up("sm") {
-      padding: 8px;
-      margin: 32px;
-      position: sticky;
-      top: 16px;
-      z-index: 100;
-      background: #fff;
-    }
-
     #logo {
       grid-area: logo;
       width: 53px;
@@ -380,6 +371,7 @@ main {
     }
 
     @include breakpoints.down("md") {
+      // mobile nav
       gap: 0 8px;
       height: auto;
       grid-template-columns: 40px 1fr;
@@ -402,14 +394,19 @@ main {
     }
 
     @include breakpoints.up("md") {
-      padding: 32px;
-      gap: 32px;
+      // sticky desktop nav
+      padding: 8px;
+      margin: 32px;
+      position: sticky;
+      top: 16px;
+      z-index: 100;
+      background: #fff;
+      gap: 32px 16px;
       grid-template-columns: auto 1fr auto auto auto auto;
       grid-template-areas:
         "logo   .    phone email quote cart"
         "links links links links links links";
       align-items: center;
-      row-gap: 16px;
     }
 
     @include breakpoints.up("lg") {
