@@ -16,12 +16,12 @@ options:
 redirect_from:
   - "/category/arcade-games/82/snatch-it/"
 gallery:
-  - "/images/products/lights-out-game-lights-out-game-2-snatch-it.jpg"
-  - "/images/products/snatch-it-2.jpg"
-  - "/images/products/snatch-it-3.jpg"
-  - "/images/products/snatch-it-4.jpg"
-  - "/images/products/snatch-it-5.jpg"
-  - "/images/products/snatch-it-6.jpg"
+  - "/images/products/snatch-it/snatch-it-1.jpg"
+  - "/images/products/snatch-it/snatch-it-2.jpg"
+  - "/images/products/snatch-it/snatch-it-3.jpg"
+  - "/images/products/snatch-it/snatch-it-4.jpg"
+  - "/images/products/snatch-it/snatch-it-5.jpg"
+  - "/images/products/snatch-it/snatch-it-6.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/efb7b183ccd6fc302cecfbc05eabc7ee"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/962d786906d5ce4b4573f51cc1e27cc9"

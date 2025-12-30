@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/fun-fair-stalls/95/target-ring-toss-hire/"
 gallery:
-  - "/images/products/target-ring-toss-hire-1.jpg"
+  - "/images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
 faqs:

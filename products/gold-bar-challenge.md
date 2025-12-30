@@ -16,13 +16,13 @@ options:
 redirect_from:
   - "/category/exhibition-games/107/gold-bar-challenge/"
 gallery:
-  - "/images/products/gold-bar-challenge-lights-out-game-lights-out-game-2.jpg"
-  - "/images/products/gold-bar-challenge-2.jpg"
-  - "/images/products/gold-bar-challenge-3.jpg"
-  - "/images/products/gold-bar-challenge-4.jpg"
-  - "/images/products/gold-bar-challenge-5.jpg"
-  - "/images/products/gold-bar-challenge-6.jpg"
-  - "/images/products/gold-bar-challenge-7.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-1.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-2.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-3.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-4.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-5.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-6.jpg"
+  - "/images/products/gold-bar-challenge/gold-bar-challenge-7.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a7e86d84e96e7bcb0dea24fa2a14a0f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ab85a30be1769a2be49f876b17d7f406"

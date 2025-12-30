@@ -16,10 +16,10 @@ options:
 redirect_from:
   - "/category/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/"
 gallery:
-  - "/images/products/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
-  - "/images/products/reindeer-nosenado-christmas-ballnado-hire-2.jpg"
-  - "/images/products/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
-  - "/images/products/ballnado-grabber-reindeer-nosenado-christmas-ballnado-hire.jpg"
+  - "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
+  - "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-2.jpg"
+  - "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
+  - "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cbd6a9c894462a778e8e31ea7203c602"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fe6d7d6cc66710102e63af66df0639d1"

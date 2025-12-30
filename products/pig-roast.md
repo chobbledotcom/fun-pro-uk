@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/fun-foods/69/pig-roast/"
 gallery:
-  - "/images/products/pig-roast-1.jpg"
-  - "/images/products/pig-roast-2.jpg"
-  - "/images/products/pig-roast-3.jpg"
+  - "/images/products/pig-roast/pig-roast-1.jpg"
+  - "/images/products/pig-roast/pig-roast-2.jpg"
+  - "/images/products/pig-roast/pig-roast-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e082264c707417542b393179590d35c2"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/177e60b45b9e6ff500016914bacb3117"

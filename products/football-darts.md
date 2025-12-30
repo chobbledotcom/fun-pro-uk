@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/fun-days/83/football-darts/"
 gallery:
-  - "/images/products/football-darts-1.jpg"
-  - "/images/products/football-darts-2.jpg"
-  - "/images/products/football-darts-3.jpg"
+  - "/images/products/football-darts/football-darts-1.jpg"
+  - "/images/products/football-darts/football-darts-2.jpg"
+  - "/images/products/football-darts/football-darts-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1f876faf83c7c2c00283f055ccd0655"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f83f4a351c7699b6849bef4bb00bc57"

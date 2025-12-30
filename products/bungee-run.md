@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/fun-days/33/bungee-run/"
 gallery:
-  - "/images/products/bungee-run-lights-out-game-2.jpg"
+  - "/images/products/bungee-run/bungee-run-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9026b3b054043ba3d2a8e851df214bc3"
 tabs:
