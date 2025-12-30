@@ -251,12 +251,6 @@ body {
   font-weight: 400;
   line-height: normal;
   padding: 0;
-  @include breakpoints.down("sm") {
-    &.sticky-mobile-nav nav {
-      height: auto;
-      padding-right: 60px;
-    }
-  }
   &.item {
     article#content {
       background: #fafafa;
@@ -365,6 +359,7 @@ main {
       border: none;
       background: transparent;
       color: #ee3324;
+      align-self: center;
       span:not(.cart-count) {
         display: none;
       }
@@ -374,6 +369,7 @@ main {
       // mobile nav
       gap: 0 8px;
       height: auto;
+      padding-right: 60px;
       grid-template-columns: 40px 1fr;
       grid-template-areas:
         "logo phone cart"
@@ -401,7 +397,7 @@ main {
       top: 16px;
       z-index: 100;
       background: #fff;
-      gap: 32px 16px;
+      gap: 16px;
       grid-template-columns: auto 1fr auto auto auto auto;
       grid-template-areas:
         "logo   .    phone email quote cart"
