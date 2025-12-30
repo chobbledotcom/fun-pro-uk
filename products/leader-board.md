@@ -8,7 +8,24 @@ meta_description: "Hire a leader board to add that extra competitive element to 
 categories: ["categories/interactive-game-hire.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "LEADER BOARD"
     max_quantity: 1
@@ -132,5 +149,6 @@ tabs:
       **Fully Branded Leader Board**
       
       **£135**\+ vat**
+      
 ---
 

@@ -8,7 +8,24 @@ meta_description: "Magic mirror hire for parties, exhibitions, or corporate even
 categories: ["categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "MAGIC MIRROR"
     max_quantity: 1
@@ -226,5 +243,6 @@ tabs:
       Your hire package also includes a friendly operator to really take care of your guests. They will make sure everyone enjoys the experience and gets the perfect picture. Each operator is fully trained and never forgets that they are representing your company.
       
       We can deliver the magic selfie mirror anywhere in the UK, with reliable service that will never let your company down. However, this is a highly popular item, so book now to guarantee your preferred date.
+      
 ---
 

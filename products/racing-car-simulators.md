@@ -8,7 +8,24 @@ meta_description: "Want To Hire a Racing Car Simulator For Your Corporate Events
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Racing Car Simulators"
     max_quantity: 1
@@ -279,5 +296,6 @@ tabs:
       **A huge interactive games range**
       
       Racing car simulators are just part of our huge range of interactive games for hire, with everything from the classic [buzz wire](/products/giant-buzz-wire/#content) to test your steady hand, to [retro arcade games](/products/retro-arcade-games/#content) for hire. Talk to our team today about your venue, your event and your budget and we'll put together a great value package of excitement and entertainment, with every detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+      
 ---
 

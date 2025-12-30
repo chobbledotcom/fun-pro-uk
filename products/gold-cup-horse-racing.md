@@ -8,7 +8,24 @@ meta_description: "Book the Gold Cup horse race simulator for your events, parti
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "GOLD CUP HORSE RACING"
     max_quantity: 1
@@ -181,5 +198,6 @@ tabs:
       Guests place their legs either side of their chosen horse &' each player can pick from green, red, yellow and blue, holding on to the handle players gallop their way to the finishing line. The faster you gallop, the quicker you'll be crowned the ultimate jockey.
       
       This game is not just fun for those playing, it will draw the crowds to watch others take on the test to become the winner.
+      
 ---
 

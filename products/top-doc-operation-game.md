@@ -8,7 +8,24 @@ meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhi
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "TOP DOC OPERATION GAME"
     max_quantity: 1
@@ -160,5 +177,6 @@ tabs:
       Branded Plinth
       
       £**245** + Vat
+      
 ---
 

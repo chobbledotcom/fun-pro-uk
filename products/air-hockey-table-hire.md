@@ -8,7 +8,24 @@ meta_description: "Check out all our games that available to hire through out Th
 categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Air Hockey Table Hire"
     max_quantity: 1
@@ -192,5 +209,6 @@ tabs:
       ### **Is the equipment maintained and cleaned by Fun Pro UK?**
       
       Yes! We prioritise safety and hygiene to deliver a flawless experience for our clients. Every air hockey table is thoroughly inspected, cleaned, and maintained before each hire. We follow strict cleaning and maintenance protocols to guarantee that the equipment is spotless and in excellent working condition when it arrives at your event.
+      
 ---
 

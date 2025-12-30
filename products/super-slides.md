@@ -8,7 +8,24 @@ meta_description: "Our inflatable slides are fully-customisable - display your l
 categories: ["categories/fun-days.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "SUPER SLIDES"
     max_quantity: 1
@@ -100,5 +117,6 @@ tabs:
       *   [Assault courses](/products/inflatable-assault-courses/#content)
       *   [Giant Jenga](/products/giant-jenga-hire/#content)
       *   [Giant connect 4](/products/giant-connect-4-game-hire/#content)
+      
 ---
 

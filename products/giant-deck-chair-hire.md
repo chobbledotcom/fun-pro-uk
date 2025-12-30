@@ -8,7 +8,24 @@ meta_description: "Giant Deck Chair Hire – Fun Props For Outdoor Events is one
 categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Giant Deck Chair Hire"
     max_quantity: 1
@@ -124,5 +141,6 @@ tabs:
       In addition to providing comfort and style, deck chairs are practical and versatile. They can be easily arranged to accommodate varying group sizes and seating arrangements, making them an adaptable choice for different event layouts. Whether you're planning a small intimate gathering or a large-scale event, deck chair hire offers a convenient seating solution.
       
       With nationwide deck chair hire from Fun Pro UK, you can elevate the experience of your event and create a memorable setting for your guests. The convenience of having deck chairs delivered and set up at your chosen venue simplifies the planning process, allowing you to focus on other aspects of event coordination.
+      
 ---
 

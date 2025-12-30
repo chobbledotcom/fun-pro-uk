@@ -8,7 +8,24 @@ meta_description: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK is o
 categories: ["categories/arcade-games.md"]
 events: []
 featured: true
-features: []
+features:
+
+specs:
+  - name: "Players"
+    value: "TBD"
+  - name: "Space Required"
+    value: "TBD"
+  - name: "Power"
+    value: "TBD"
+  - name: "Setup time"
+    value: "TBD"
+filter_attributes:
+  - name: "Guest Capacity"
+    value: "TBD"
+  - name: "Game Length"
+    value: "TBD"
+  - name: "Power Required"
+    value: "TBD"
 options:
   - name: "Whack A Mole game hire"
     max_quantity: 1
@@ -188,5 +205,6 @@ tabs:
       **Fully Branded**
       
       **£445**\+ vat**
+      
 ---
 
