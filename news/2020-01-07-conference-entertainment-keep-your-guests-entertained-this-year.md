@@ -26,7 +26,7 @@ Well, let us help you change that! Fun Pro UK offer an amazing range of corporat
 
 Compact and highly portable
 
-!Lights out reaction game hireOur strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
+![Lights out reaction game hire](/images/news/20190619-160019.jpg)Our strike a light game is the perfect moveable piece of event entertainment that will give your delegates the opportunity to get moving and test their reflexes, making break time far more entertaining! This electronic reaction game gives two opponents the chance to battle head to head across the table, tapping the lights as they show. The large digital scoreboard also allows all those watching to see who’s winning and cheer the players on.
 
 Being only 1.5m by 1m this game is perfect for all venues and can be set up almost anywhere from your break room, the side of the canteen or in the reception once your conference has started.
 

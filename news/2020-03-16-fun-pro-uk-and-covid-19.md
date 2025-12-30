@@ -32,7 +32,7 @@ Call our team on : 02476 629197
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-!Fun Pro UK
+![Fun Pro UK](/images/news/clear-back-ground-logo.png)
 
 [<< Return to news](/news/#content)
 

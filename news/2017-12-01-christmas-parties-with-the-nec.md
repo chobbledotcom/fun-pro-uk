@@ -20,7 +20,7 @@ Our designers had already made a framed overlay with the companies chosen wordin
 
 Our team were happy to assist by setting up earlier in the day, way ahead of the start of the function to allow the finishing touches at the venue to be completed.
 
-!Once the guests had arrived for a drinks reception, the entertainment began. Our talking [Magic Selfie Mirror](/products/magic-mirror/#content) sprang to life and the Christmas party was in full swing. Everyone grabbed their friends and gathered around the props deciding which hat would look best for their photo.
+![](/images/news/nec1.png)Once the guests had arrived for a drinks reception, the entertainment began. Our talking [Magic Selfie Mirror](/products/magic-mirror/#content) sprang to life and the Christmas party was in full swing. Everyone grabbed their friends and gathered around the props deciding which hat would look best for their photo.
 
 The Selfie Mirror proved very popular as always and everyone loved their instant photos that are printed as a souvenir of their evening . We had a great time meeting guests that had remembered us from last year too. Perfect Snap can't wait til next year!
 

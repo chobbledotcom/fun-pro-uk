@@ -20,7 +20,7 @@ Walking around a busy Trade Show or Expo with a sea of stands trying to grab you
 
 **Planning Your Stand**
 
-A worthy Trade Show Stand will have been planned and thought about well before the day. You need to think about:!busy expo stand
+A worthy Trade Show Stand will have been planned and thought about well before the day. You need to think about:![busy expo stand](/images/news/busy-expo.jpg)
 
 *   How you can tell your story about your brand
 *   Ensure your name can be clearly seen
@@ -45,7 +45,7 @@ If you want to test a skill, then our [Giant Buzz Wire](/products/giant-buzz-wir
 
 If you are thinking of a game that will ensure you interaction with your contestants which can offer a truly memorable experience where the winner could receive a prize, then our [Grab A Grand](/products/cash-grabber-machine-hire/#content) is a real head turner. This game has been hired many times for exhibition entertainment and was a regular feature on The Crystal Maze TV show. The contestant steps into a clear pod, the fans turn on and the wind blows paper money or soft balls around the pod. The contestant then gathers as many notes/balls as possible with in the time allowed. The winner at the end of the show could then be issued with a prize. This is a fun way of engaging potential new clients for your business.
 
-!Racing Car SimulatorMaybe you are planning a product launch - our [Racing Car Simulators](/products/racing-car-simulators/#content) for a new car launch is a fabulous way to make this type of event unique to other showrooms in your area. Our Racing Cars are hired as a pair where the drivers can choose their vehicle colour, make and style. Once the games are ready and the track has been chosen the flags are waved and it's time to see who can go the fasted around the track. Our leader board can also be hired where times can be recorded to see who the fasted racing driver was - again a prize from your business could then be given making this a real memorable experience that your opponents will not have done.
+![Racing Car Simulator](/images/news/whatsapp-image-2019-04-09-at-134801.jpeg)Maybe you are planning a product launch - our [Racing Car Simulators](/products/racing-car-simulators/#content) for a new car launch is a fabulous way to make this type of event unique to other showrooms in your area. Our Racing Cars are hired as a pair where the drivers can choose their vehicle colour, make and style. Once the games are ready and the track has been chosen the flags are waved and it's time to see who can go the fasted around the track. Our leader board can also be hired where times can be recorded to see who the fasted racing driver was - again a prize from your business could then be given making this a real memorable experience that your opponents will not have done.
 
 **Ensure Your Brand is Noticed!**
 

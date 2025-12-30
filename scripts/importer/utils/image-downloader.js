@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const { execSync } = require('child_process');
 const { ensureDir, downloadFile } = require('./filesystem');
 
 /**
@@ -198,11 +199,99 @@ const downloadEmbeddedImages = async (content, contentType, slug) => {
   return updatedContent;
 };
 
+/**
+ * Download a single image from the live site using wget
+ * @param {string} imagePath - Path like /userfiles/foo.jpg or /userfiles/file/FunPro/bar.jpg
+ * @returns {Promise<{localPath: string, webPath: string, success: boolean}>}
+ */
+const downloadNewsImage = async (imagePath) => {
+  // Extract just the filename from the path
+  const filename = path.basename(imagePath);
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', 'news');
+  const localPath = path.join(imagesDir, filename);
+  const webPath = `/images/news/${filename}`;
+
+  ensureDir(imagesDir);
+
+  // Check if already downloaded (cached)
+  if (fs.existsSync(localPath)) {
+    return { localPath, webPath, success: true, cached: true };
+  }
+
+  // Build the source URL - the live site
+  const sourceUrl = `https://www.funprouk.co.uk${imagePath}`;
+
+  try {
+    // Use wget with a browser user-agent to download
+    execSync(`wget -q --timeout=10 --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -O "${localPath}" "${sourceUrl}"`, {
+      stdio: 'pipe'
+    });
+    return { localPath, webPath, success: true, cached: false };
+  } catch (error) {
+    // Clean up partial download
+    if (fs.existsSync(localPath)) {
+      fs.unlinkSync(localPath);
+    }
+    return { localPath, webPath, success: false, cached: false };
+  }
+};
+
+/**
+ * Download all /userfiles/ embedded images from news content and update URLs
+ * @param {string} content - Markdown content with /userfiles/ image references
+ * @returns {Promise<string>} Content with updated local image paths
+ */
+const downloadNewsEmbeddedImages = async (content) => {
+  // Match both formats:
+  // 1. Markdown images: ![alt](/userfiles/...)
+  // 2. Also handle cases where turndown might produce different formats
+  const imageRegex = /!\[([^\]]*)\]\((\/userfiles\/[^)]+)\)/g;
+  const matches = [...content.matchAll(imageRegex)];
+
+  if (matches.length === 0) return content;
+
+  process.stdout.write(` [news imgs:`);
+  let updatedContent = content;
+  let downloaded = 0;
+  let cached = 0;
+  let failed = 0;
+
+  for (const match of matches) {
+    const fullMatch = match[0];
+    const altText = match[1];
+    const imagePath = match[2];
+
+    const result = await downloadNewsImage(imagePath);
+
+    if (result.success) {
+      if (result.cached) {
+        process.stdout.write('.');
+        cached++;
+      } else {
+        process.stdout.write('+');
+        downloaded++;
+      }
+      // Replace with new local path
+      updatedContent = updatedContent.replace(fullMatch, `![${altText}](${result.webPath})`);
+    } else {
+      process.stdout.write('x');
+      failed++;
+      // Remove failed images from content
+      updatedContent = updatedContent.replace(fullMatch, '');
+    }
+  }
+
+  process.stdout.write(`]`);
+  return updatedContent;
+};
+
 module.exports = {
   removeCloudinaryTransformations,
   convertFunProImageUrl,
   downloadImage,
   downloadProductImage,
   downloadProductGallery,
-  downloadEmbeddedImages
+  downloadEmbeddedImages,
+  downloadNewsImage,
+  downloadNewsEmbeddedImages
 };

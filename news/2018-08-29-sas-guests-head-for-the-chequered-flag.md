@@ -22,7 +22,7 @@ It was a great experience for Fun Pro UK to be involved with such an original ev
 
 If you are interested in hiring out Race Car Simulators, please call one of our team on 07769 979 676 or email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-!!  
+![](/images/news/race-car-simulator-3.jpg)![](/images/news/race-car-simulator-4.jpg)  
 
 [<< Return to news](/news/#content)
 

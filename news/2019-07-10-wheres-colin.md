@@ -18,7 +18,7 @@ gallery:
 
 Over the last two weeks the Fun Pro team and Colin have been busy travelling from one end of the country to the other (and back again!) there was some serious mileage recorded!
 
-## **Heading for London !Lights Out** 
+## **Heading for London ![Lights Out](/images/news/20190619-160019.jpg)** 
 
 Last Monday saw the Fun Pro team travel to the Excel Centre in London to deliver our Strike a Light - Lights Out game for a corporate client. The game was set up on their exhibition stand for visitors to play as they were passing by. The game was a real winner - everyone loves to compete against a friend or colleague and the Strike a Light' does exactly that! Our electronic game attracted great footfall for our client, helping gain potential new customers for their business.
 
@@ -30,7 +30,7 @@ Just so the team didn't think the heat was off, last Friday Colin and the crew s
 
 The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/cash-grabber-machine-hire/#content) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
 
-## **Why Branding is important !Grab a Grand ** 
+## **Why Branding is important ![Grab a Grand ](/images/news/blog.jpg)** 
 
 Branding a game with your company name and logo is an effective way to showcase your company and ensure it is recognised by your target market. Brand activation ensures that your name stands out, everyone sees a name and is more likely to remember the visual graphics of an item.
 

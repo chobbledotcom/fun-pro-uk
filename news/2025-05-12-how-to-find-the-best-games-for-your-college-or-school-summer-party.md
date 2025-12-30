@@ -12,7 +12,7 @@ gallery:
 
 # 12 May 25 - How to Find The Best Games for Your College Or School Summer Party
 
-!
+![](/images/news/mega-wire-game.jpg)
 
 With summer fast approaching, many schools and colleges are starting to think about different ways to mark the occasion, especially for those who are in their final year.  
   
@@ -76,7 +76,7 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 ### Outdoor game options:
 
-!
+![](/images/news/twin-axe-throwing.jpg)
 
 *   [Inflatable obstacle courses](/products/inflatable-assault-courses/#content) and [bouncy castles](/products/large-bouncy-castles/#content)
     
@@ -126,7 +126,7 @@ These modern options are particularly effective for secondary school leavers' ev
 
 ### Classic Inflatables and Obstacle Courses
 
-!
+![](/images/news/inflatable-game.jpg)
 
 Nothing says 'summer party' quite like bouncy castles and inflatable challenges:
 

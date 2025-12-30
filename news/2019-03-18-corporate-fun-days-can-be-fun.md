@@ -22,7 +22,7 @@ In return your staff would feel a sense of loyalty to the company they work for,
 
 ## **Let Fun Pro UK help you!**
 
-!Inflatable Fun daysOur fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
+![Inflatable Fun days](/images/news/fundays.png)Our fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
 
 ## **Something For Everyone.**
 
@@ -44,7 +44,7 @@ Fun Pro UK has themed bouncy castles to hire for younger children as well as sof
 
 Older children and teens usually enjoy a bit more of a thrill! Here our super slides and assault courses play a huge part in family fun days. Everyone has a great time on these pieces of equipment and always come back for another turn. See how fast you can go down our super slides or time yourselves as you encounter the many obstacles waiting for you on the mega assault courses
 
-!Total wipe OutWe also offer games to hire too. The [racing car simulators](/products/racing-car-simulators/#content) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
+![Total wipe Out](/images/news/ultimate-wipeout-462.jpg)We also offer games to hire too. The [racing car simulators](/products/racing-car-simulators/#content) are a big hit with teens and adults . Take your seat, choose your car and terrain then buckle up before you take the road as fast as you can around the track to beat your opponents.
 
 If it is a team game to hire we have some equipment that will knock your socks off! [Our Human Football Game,](/products/human-table-football/#content) Total Wipe Out or Hungry Hippos life sized game are all fabulous for your work colleagues to come together as a team and have fun whilst taking part in the challenge to be the winner!
 

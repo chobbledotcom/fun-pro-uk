@@ -14,7 +14,7 @@ gallery:
 
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment
 
-!
+![](/images/news/group-of-professional-people-celebrating.png)
 
 Are you planning a [conference](/events/conference-idea/#content)? One of the most important decisions you'll make is selecting the right entertainment to keep your attendees engaged, energised, and talking long after the event ends. However, what works brilliantly for an intimate gathering of 30 colleagues might fall flat at a large-scale conference with 300 attendees, and vice versa.
 
@@ -54,7 +54,7 @@ Larger equipment like racing simulators requires approximately 3 to 4 square met
 
 ## Attendee Engagement: How Conference Size Changes the Game
 
-!
+![](/images/news/team-building.png)
 
 Understanding how conference size affects attendee behaviour is crucial when selecting interactive entertainment. The dynamics of participation shift dramatically based on group size.
 
@@ -80,7 +80,7 @@ Large conferences benefit from what we call "permission through observation." Wh
 
 ## Selecting the Right Interactive Games for Your Conference Size
 
-!
+![](/images/news/speed-test-competition-interactive-games.jpg)
 
 Now we come to the practical question: which games should you actually hire? The answer depends heavily on your conference size, as different games excel in different settings.
 
