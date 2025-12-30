@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/corporate-entertainment/32/dash-and-grab-hungry-hippo-inflatable-game/"
 gallery:
-  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game-1.jpg"
-  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game-2.jpg"
-  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game-3.jpg"
+  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-1.jpg"
+  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-2.jpg"
+  - "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d7d7b90edd8e1ff5ad004bde669eee2"

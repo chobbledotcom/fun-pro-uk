@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/freshers-fair-games/98/twin-axe-throwing/"
 gallery:
-  - "/images/products/twin-axe-throwing-1.jpg"
+  - "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
 faqs:

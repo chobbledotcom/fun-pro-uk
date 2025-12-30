@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"
 gallery:
-  - "/images/products/giant-deck-chair-hire-1.jpg"
+  - "/images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
 tabs:
