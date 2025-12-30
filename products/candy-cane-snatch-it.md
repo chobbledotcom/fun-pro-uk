@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/christmas-games/89/candy-cane-snatch-it/"
 gallery:
-  - "/images/products/candy-cane-snatch-it-1.jpg"
+  - "/images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
 faqs:

@@ -16,9 +16,9 @@ options:
 redirect_from:
   - "/category/fun-foods/72/paella/"
 gallery:
-  - "/images/products/paella-1.jpg"
-  - "/images/products/paella-2.jpg"
-  - "/images/products/paella-3.jpg"
+  - "/images/products/paella/paella-1.jpg"
+  - "/images/products/paella/paella-2.jpg"
+  - "/images/products/paella/paella-3.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5a51633f9a9f57669498b870ffc69f41"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/582963d4ce14c598e749cccc85e59c60"

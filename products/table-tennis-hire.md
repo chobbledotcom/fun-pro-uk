@@ -16,7 +16,7 @@ options:
 redirect_from:
   - "/category/corporate-entertainment/80/table-tennis-hire/"
 gallery:
-  - "/images/products/lights-out-game-lights-out-game-2-table-tennis-hire.jpg"
+  - "/images/products/table-tennis-hire/table-tennis-hire-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
 faqs:

@@ -16,8 +16,8 @@ options:
 redirect_from:
   - "/category/fun-days/26/super-slides/"
 gallery:
-  - "/images/products/super-slides-1.jpg"
-  - "/images/products/super-slides-2.jpg"
+  - "/images/products/super-slides/super-slides-1.jpg"
+  - "/images/products/super-slides/super-slides-2.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dafd96b7b3da46cf7b34a7612978bc8a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1bdc2a629293e20f8a972449aff24c9f"

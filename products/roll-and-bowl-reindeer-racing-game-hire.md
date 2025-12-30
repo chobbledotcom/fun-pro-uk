@@ -16,14 +16,14 @@ options:
 redirect_from:
   - "/category/christmas-games/66/roll-and-bowl-reindeer-racing-game-hire/"
 gallery:
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-1.jpg"
-  - "/images/products/roll-and-bowl-game-hire-roll-and-bowl-reindeer-racing-game-hire-2.jpg"
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-3.jpg"
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-4.jpg"
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-5.jpg"
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-6.jpg"
-  - "/images/products/roll-and-bowl-game-hire-roll-and-bowl-reindeer-racing-game-hire.jpg"
-  - "/images/products/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-1.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-2.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-3.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-4.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-5.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-6.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-7.jpg"
+  - "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6c8b1fc73f7f7f87f2aef2abb2f7ef30"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0011f4b5501021f30aa33514da96c9f2"

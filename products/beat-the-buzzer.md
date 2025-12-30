@@ -16,10 +16,10 @@ options:
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
 gallery:
-  - "/images/products/beat-the-buzzer-lights-out-game-lights-out-game-2.jpg"
-  - "/images/products/beat-the-buzzer-2.jpg"
-  - "/images/products/beat-the-buzzer-3.jpg"
-  - "/images/products/beat-the-buzzer-4.jpg"
+  - "/images/products/beat-the-buzzer/beat-the-buzzer-1.jpg"
+  - "/images/products/beat-the-buzzer/beat-the-buzzer-2.jpg"
+  - "/images/products/beat-the-buzzer/beat-the-buzzer-3.jpg"
+  - "/images/products/beat-the-buzzer/beat-the-buzzer-4.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ad5a28e2423a3af7c3551a7772343d4"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a4783076d56fc7c297e9c428093db22"

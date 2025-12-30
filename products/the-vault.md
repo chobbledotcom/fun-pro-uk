@@ -16,14 +16,14 @@ options:
 redirect_from:
   - "/category/arcade-games/50/the-vault/"
 gallery:
-  - "/images/products/lights-out-game-lights-out-game-2-the-vault.jpg"
-  - "/images/products/the-vault-2.jpg"
-  - "/images/products/the-vault-3.jpg"
-  - "/images/products/the-vault-4.jpg"
-  - "/images/products/the-vault-5.jpg"
-  - "/images/products/the-vault-6.jpg"
-  - "/images/products/the-vault-7.jpg"
-  - "/images/products/the-vault-8.jpg"
+  - "/images/products/the-vault/the-vault-1.jpg"
+  - "/images/products/the-vault/the-vault-2.jpg"
+  - "/images/products/the-vault/the-vault-3.jpg"
+  - "/images/products/the-vault/the-vault-4.jpg"
+  - "/images/products/the-vault/the-vault-5.jpg"
+  - "/images/products/the-vault/the-vault-6.jpg"
+  - "/images/products/the-vault/the-vault-7.jpg"
+  - "/images/products/the-vault/the-vault-8.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5fe47049f1858a93276965f853b2fc5e"

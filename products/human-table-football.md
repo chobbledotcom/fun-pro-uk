@@ -16,14 +16,14 @@ options:
 redirect_from:
   - "/category/corporate-entertainment/19/human-table-football/"
 gallery:
-  - "/images/products/human-table-football-1.jpg"
-  - "/images/products/human-table-football-2.jpg"
-  - "/images/products/human-table-football-3.jpg"
-  - "/images/products/human-table-football-4.jpg"
-  - "/images/products/human-table-football-5.jpg"
-  - "/images/products/human-table-football-6.jpg"
-  - "/images/products/human-table-football-7.jpg"
-  - "/images/products/human-table-football-8.jpg"
+  - "/images/products/human-table-football/human-table-football-1.jpg"
+  - "/images/products/human-table-football/human-table-football-2.jpg"
+  - "/images/products/human-table-football/human-table-football-3.jpg"
+  - "/images/products/human-table-football/human-table-football-4.jpg"
+  - "/images/products/human-table-football/human-table-football-5.jpg"
+  - "/images/products/human-table-football/human-table-football-6.jpg"
+  - "/images/products/human-table-football/human-table-football-7.jpg"
+  - "/images/products/human-table-football/human-table-football-8.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26a96a43e055fa3c5964434e45ee6f6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c079558a850a256e04534eb2ba8af69"
