@@ -125,6 +125,34 @@ const formatFaqsYaml = (faqs) => {
 };
 
 /**
+ * Simple hash function to get a deterministic number from a string
+ * Used for consistently assigning authors to blog posts
+ * @param {string} str - String to hash
+ * @returns {number} Hash value
+ */
+const simpleHash = (str) => {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+    const char = str.charCodeAt(i);
+    hash = ((hash << 5) - hash) + char;
+    hash = hash & hash; // Convert to 32-bit integer
+  }
+  return Math.abs(hash);
+};
+
+/**
+ * Get a random author for blog posts based on slug
+ * Uses deterministic hashing so the same post always gets the same author
+ * @param {string} slug - Post slug to use as seed
+ * @returns {string} Author path (e.g., "team/colin.md" or "team/liz.md")
+ */
+const getRandomAuthor = (slug) => {
+  const authors = ["team/colin.md", "team/liz.md"];
+  const index = simpleHash(slug) % authors.length;
+  return authors[index];
+};
+
+/**
  * Generate frontmatter for blog/news content
  * Old URL: /news/{date}/{slug}/ (e.g., /news/2017-11-19/christmas-parties-are-go/)
  * New URL: dynamically calculated from file path (e.g., /news/2017-11-19-christmas-parties-are-go/)
@@ -143,6 +171,7 @@ const generateBlogFrontmatter = (
   localImagePath = null,
 ) => {
   const postTitle = metadata.header_text || slug.replace(/-/g, " ");
+  const author = getRandomAuthor(slug);
 
   // Old URL from the old site
   const oldUrl = `/news/${date}/${slug}/`;
@@ -152,7 +181,7 @@ const generateBlogFrontmatter = (
   let frontmatter = `---
 title: "${postTitle}"
 date: ${date}
-author: "team/colin.md"
+author: "${author}"
 meta_title: "${metadata.title || ""}"
 meta_description: "${metadata.meta_description || ""}"`;
 

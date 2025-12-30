@@ -1,7 +1,7 @@
 ---
 title: "Increase Engagement at Your Brand Activation Event"
 date: 2025-05-30
-author: "team/colin.md"
+author: "team/liz.md"
 meta_title: "Increase Engagement at Your Brand Activation Event"
 meta_description: "Discover simple ways to boost engagement at your brand activation event. Learn how to use interactive games to attract attention and connect with your audience."
 redirect_from:
