@@ -1,3 +1,5 @@
+<div>
+
 ## Entertainment Hire
 
 - [Interactive Games](/categories/interactive-game-hire/)
@@ -7,6 +9,9 @@
 - [Racing Simulators](/products/racing-car-simulators/)
 - [Fun Fair Stalls](/categories/fun-fair-stalls/)
 
+</div>
+<div>
+
 ## About FunPro
 
 - [Our Story](/our-story/)
@@ -14,6 +19,9 @@
 - [Team Building](/team-building-ideas/)
 - [Conferences](/conference-game-hire/)
 - [Family Fun Days](/family-fun-day-entertainment/)
+
+</div>
+<div>
 
 ## Explore
 
@@ -24,6 +32,9 @@
 - [News](/news/)
 - [Contact Us](/contact-fun-pro-uk/)
 
+</div>
+<div>
+
 ## Your Event
 
 - [Award Ceremonies](/award-ceremonies/)
@@ -33,3 +44,5 @@
 - [Terms & Conditions](/terms-and-condition/)
 - [Privacy Policy](/privacy-policy/)
 - [Cookie Policy](/cookie-policy/)
+
+</div>
