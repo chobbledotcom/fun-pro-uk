@@ -210,6 +210,7 @@ const formatTabsYaml = (tabs) => {
  * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
  * @param {Array<Object>} faqs - FAQs array with question and answer properties
  * @param {string} bodyContent - Markdown body content to include as a tab
+ * @param {Object} existingFrontmatter - Existing frontmatter to preserve
  * @returns {string} Frontmatter YAML
  */
 const generateProductFrontmatter = (
@@ -224,37 +225,91 @@ const generateProductFrontmatter = (
   oldSitePath = null,
   faqs = [],
   bodyContent = "",
+  existingFrontmatter = null,
 ) => {
-  // Ensure categories is an array
-  const categoryArray = Array.isArray(categories)
+  // Use existing frontmatter values when available
+  const existing = existingFrontmatter || {};
+
+  // Preserve existing categories if available, otherwise use scanned ones
+  const categoryArray = existing.categories || (Array.isArray(categories)
     ? categories
     : categories
       ? [categories]
-      : [];
+      : []);
   const categoriesYaml =
     categoryArray.length > 0
       ? `[${categoryArray.map((c) => `"${c}"`).join(", ")}]`
       : "[]";
 
-  // Ensure events is an array
-  const eventsArray = Array.isArray(events) ? events : events ? [events] : [];
+  // Preserve existing events if available
+  const eventsArray = existing.events || (Array.isArray(events) ? events : events ? [events] : []);
   const eventsYaml =
     eventsArray.length > 0
       ? `[${eventsArray.map((e) => `"${e}"`).join(", ")}]`
       : "[]";
 
-  // Get product order, default to 50 if not in mapping
-  const productOrder = PRODUCT_ORDER[slug] || 50;
+  // Preserve existing order or use PRODUCT_ORDER
+  const productOrder = existing.order !== undefined ? existing.order : (PRODUCT_ORDER[slug] || 50);
 
   // Parse numeric price from string like "£395" -> 395
   const numericPrice = parseFloat((price || "0").replace(/[^0-9.]/g, "")) || 0;
 
-  // Create a single option with the product name and price
-  const optionName = productName || metadata.title || "";
-  const optionsYaml = `options:
+  // Preserve existing options or create new
+  let optionsYaml;
+  if (existing.options && existing.options.length > 0) {
+    optionsYaml = "options:";
+    for (const opt of existing.options) {
+      optionsYaml += `\n  - name: "${opt.name}"`;
+      optionsYaml += `\n    max_quantity: ${opt.max_quantity || 1}`;
+      optionsYaml += `\n    unit_price: ${opt.unit_price || numericPrice}`;
+    }
+  } else {
+    const optionName = productName || metadata.title || "";
+    optionsYaml = `options:
   - name: "${optionName}"
     max_quantity: 1
     unit_price: ${numericPrice}`;
+  }
+
+  // Default new fields - only add if not present in existing
+  const defaultFeatures = [
+    "Delivery, setup, and collection included",
+    "Public liability insurance included",
+    "Custom branding options available",
+  ];
+  const defaultSpecs = [
+    { name: "Players", value: "TBD" },
+    { name: "Space Required", value: "TBD" },
+    { name: "Power", value: "TBD" },
+    { name: "Setup time", value: "TBD" },
+  ];
+  const defaultFilterAttributes = [
+    { name: "Guest Capacity", value: "TBD" },
+    { name: "Game Length", value: "TBD" },
+    { name: "Power Required", value: "TBD" },
+  ];
+
+  // Use existing or add defaults for new fields
+  const features = existing.features || defaultFeatures;
+  const specs = existing.specs || defaultSpecs;
+  const filterAttributes = existing.filter_attributes || defaultFilterAttributes;
+
+  // Format features
+  const featuresYaml = features.map((f) => `  - "${f}"`).join("\n");
+
+  // Format specs
+  let specsYaml = "specs:";
+  for (const spec of specs) {
+    specsYaml += `\n  - name: "${spec.name}"`;
+    specsYaml += `\n    value: "${spec.value}"`;
+  }
+
+  // Format filter_attributes
+  let filterYaml = "filter_attributes:";
+  for (const attr of filterAttributes) {
+    filterYaml += `\n  - name: "${attr.name}"`;
+    filterYaml += `\n    value: "${attr.value}"`;
+  }
 
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
@@ -268,29 +323,16 @@ categories: ${categoriesYaml}
 events: ${eventsYaml}
 featured: true
 features:
-  - "Delivery, setup, and collection included"
-  - "Public liability insurance included"
-  - "Custom branding options available"
-specs:
-  - name: "Players"
-    value: "TBD"
-  - name: "Space Required"
-    value: "TBD"
-  - name: "Power"
-    value: "TBD"
-  - name: "Setup time"
-    value: "TBD"
-filter_attributes:
-  - name: "Guest Capacity"
-    value: "TBD"
-  - name: "Game Length"
-    value: "TBD"
-  - name: "Power Required"
-    value: "TBD"
+${featuresYaml}
+${specsYaml}
+${filterYaml}
 ${optionsYaml}`;
 
-  // Add redirect_from for old site URL
-  if (oldSitePath) {
+  // Preserve existing redirect_from or generate from old site path
+  if (existing.redirect_from && existing.redirect_from.length > 0) {
+    const redirectYaml = existing.redirect_from.map((r) => `  - "${r}"`).join("\n");
+    frontmatter += `\nredirect_from:\n${redirectYaml}`;
+  } else if (oldSitePath) {
     const oldUrl = `/category/${oldSitePath.replace(/\.html$/, "").replace(/\\/g, "/")}/`;
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
@@ -303,22 +345,33 @@ ${optionsYaml}`;
     frontmatter += `\ngallery:\n${galleryYaml}`;
   }
 
-  // Add gallery_cloudinary with Cloudinary URLs from old site
-  if (images?.gallery_cloudinary && images.gallery_cloudinary.length > 0) {
+  // Use existing gallery_cloudinary or add from old site
+  if (existing.gallery_cloudinary && existing.gallery_cloudinary.length > 0) {
+    const galleryYaml = existing.gallery_cloudinary
+      .map((img) => `  - "${img}"`)
+      .join("\n");
+    frontmatter += `\ngallery_cloudinary:\n${galleryYaml}`;
+  } else if (images?.gallery_cloudinary && images.gallery_cloudinary.length > 0) {
     const galleryYaml = images.gallery_cloudinary
       .map((img) => `  - "${img}"`)
       .join("\n");
     frontmatter += `\ngallery_cloudinary:\n${galleryYaml}`;
   }
 
-  // Add FAQs if present
-  const faqsYaml = formatFaqsYaml(faqs);
+  // Use existing FAQs or add new ones
+  const faqsToUse = existing.faqs || faqs;
+  const faqsYaml = formatFaqsYaml(faqsToUse);
   if (faqsYaml) {
     frontmatter += "\n" + faqsYaml;
   }
 
-  // Add body content as a tab with title "Why <Product Name>?"
-  if (bodyContent && bodyContent.trim()) {
+  // Use existing tabs or create from body content
+  if (existing.tabs && existing.tabs.length > 0) {
+    const tabsYaml = formatTabsYaml(existing.tabs);
+    if (tabsYaml) {
+      frontmatter += "\n" + tabsYaml;
+    }
+  } else if (bodyContent && bodyContent.trim()) {
     const tabTitle = `Why ${productName}?`;
     const tabs = [{ title: tabTitle, body: bodyContent.trim() }];
     const tabsYaml = formatTabsYaml(tabs);

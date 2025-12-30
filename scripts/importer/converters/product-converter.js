@@ -17,26 +17,52 @@ const { createConverter } = require('../utils/base-converter');
  */
 const extractGalleryFromContent = (content) => {
   const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
-  
+
   if (!frontmatterMatch) {
     return null;
   }
-  
+
   const frontmatter = frontmatterMatch[1];
   // Match gallery: (not gallery_cloudinary:) followed by list items
-  const galleryMatch = frontmatter.match(/^gallery:\s*\n((?:\s+-\s+"[^"]+"\n?)+)/m);
-  
+  // Handle both quoted and unquoted values
+  const galleryMatch = frontmatter.match(/^gallery:\s*\n((?:\s+-\s+[^\n]+\n?)+)/m);
+
   if (!galleryMatch) {
     return null;
   }
-  
+
   const urls = [];
-  const urlMatches = galleryMatch[1].matchAll(/\s+-\s+"([^"]+)"/g);
+  // Match both quoted ("...") and unquoted values
+  const urlMatches = galleryMatch[1].matchAll(/\s+-\s+(?:"([^"]+)"|([^\n]+))/g);
   for (const match of urlMatches) {
-    urls.push(match[1]);
+    // Use quoted value if present, otherwise use unquoted value (trimmed)
+    const url = match[1] || match[2]?.trim();
+    if (url && !url.startsWith('gallery_cloudinary')) {
+      urls.push(url);
+    }
   }
-  
+
   return urls.length > 0 ? urls : null;
+};
+
+/**
+ * Parse existing frontmatter from markdown file content
+ * @param {string} content - Markdown file content
+ * @returns {Object|null} Parsed frontmatter object or null if not found
+ */
+const parseExistingFrontmatter = (content) => {
+  const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!frontmatterMatch) {
+    return null;
+  }
+
+  const yaml = require('js-yaml');
+  try {
+    return yaml.load(frontmatterMatch[1]);
+  } catch (e) {
+    console.error('  Failed to parse existing frontmatter:', e.message);
+    return null;
+  }
 };
 
 /**
@@ -61,39 +87,49 @@ const extractRedirectsFromContent = (content) => {
 };
 
 /**
- * Extract all existing galleries from products directory before it gets deleted
+ * Extract all existing data from products directory before it gets deleted
  * Keys by both slug AND redirect URLs to handle filename conflicts (e.g., lights-out-game-2)
  * @param {string} outputDir - Products output directory
- * @returns {Map<string, string[]>} Map of (slug or redirect URL) -> gallery array
+ * @returns {{galleries: Map, frontmatters: Map}} Maps of (slug or redirect URL) -> data
  */
-const extractAllExistingGalleries = (outputDir) => {
+const extractAllExistingData = (outputDir) => {
   const galleries = new Map();
-  
+  const frontmatters = new Map();
+
   if (!fs.existsSync(outputDir)) {
-    return galleries;
+    return { galleries, frontmatters };
   }
-  
+
   const files = fs.readdirSync(outputDir).filter(f => f.endsWith('.md'));
-  
+
   for (const file of files) {
     const slug = file.replace(/\.md$/, '');
     const filePath = path.join(outputDir, file);
     const content = fs.readFileSync(filePath, 'utf8');
     const gallery = extractGalleryFromContent(content);
-    
+    const frontmatter = parseExistingFrontmatter(content);
+
     if (gallery && gallery.length > 0) {
-      // Key by slug
       galleries.set(slug, gallery);
-      
-      // Also key by each redirect URL for files with conflicting slugs
-      const redirects = extractRedirectsFromContent(content);
-      for (const redirect of redirects) {
+    }
+
+    if (frontmatter) {
+      frontmatters.set(slug, frontmatter);
+    }
+
+    // Also key by each redirect URL for files with conflicting slugs
+    const redirects = extractRedirectsFromContent(content);
+    for (const redirect of redirects) {
+      if (gallery && gallery.length > 0) {
         galleries.set(redirect, gallery);
+      }
+      if (frontmatter) {
+        frontmatters.set(redirect, frontmatter);
       }
     }
   }
-  
-  return galleries;
+
+  return { galleries, frontmatters };
 };
 
 /**
@@ -132,6 +168,8 @@ const { convertSingle, convertBatch } = createConverter({
     const faqs = extracted.faqs || [];
     // Pass body content to be included as a tab
     const bodyContent = extracted.bodyContent || '';
+    // Pass existing frontmatter to preserve values
+    const existingFrontmatter = extracted.existingFrontmatter || null;
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -143,7 +181,8 @@ const { convertSingle, convertBatch } = createConverter({
       events,
       oldSitePath,
       faqs,
-      bodyContent
+      bodyContent,
+      existingFrontmatter
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {
@@ -151,35 +190,42 @@ const { convertSingle, convertBatch } = createConverter({
     if (extracted.hasFAQSection && (!extracted.faqs || extracted.faqs.length === 0)) {
       throw new Error(`FAQ section found in HTML but no FAQs were extracted. Check FAQ patterns.`);
     }
-    
+
     // Strip FAQ content from markdown body (FAQs are now in frontmatter)
     // Pass extracted FAQs so we only remove the actual Q&A content, preserving other sections
     if (hasFAQSection(content)) {
       content = stripFAQSection(content, extracted.faqs || []);
     }
-    
-    // Get preserved gallery (local paths) from context (extracted before dir was deleted)
+
+    // Get preserved gallery and frontmatter from context (extracted before dir was deleted)
     // First try by slug, then by redirect URL (for files with conflicting slugs like lights-out-game-2)
     let existingGallery = context.existingGalleries?.get(slug);
-    
-    if (!existingGallery && context.oldSiteRelativePath) {
+    let existingFrontmatter = context.existingFrontmatters?.get(slug);
+
+    if ((!existingGallery || !existingFrontmatter) && context.oldSiteRelativePath) {
       // Construct the redirect URL the same way generateProductFrontmatter does
       const redirectUrl = `/category/${context.oldSiteRelativePath.replace(/\.html$/, '').replace(/\\/g, '/')}/`;
-      existingGallery = context.existingGalleries?.get(redirectUrl);
+      if (!existingGallery) {
+        existingGallery = context.existingGalleries?.get(redirectUrl);
+      }
+      if (!existingFrontmatter) {
+        existingFrontmatter = context.existingFrontmatters?.get(redirectUrl);
+      }
     }
-    
+
     extracted.existingGallery = existingGallery || [];
-    
+    extracted.existingFrontmatter = existingFrontmatter || null;
+
     // Extract Cloudinary URLs from old site HTML for gallery_cloudinary
     extracted.cloudinaryGallery = extracted.images?.gallery || [];
-    
+
     if (extracted.cloudinaryGallery.length > 0) {
       process.stdout.write(` (${extracted.cloudinaryGallery.length} imgs)`);
     }
-    
+
     // Store the body content for inclusion as a tab in frontmatter
     extracted.bodyContent = content;
-    
+
     // Return empty string - body content is now in the tabs frontmatter
     return '';
   },
@@ -259,10 +305,13 @@ const convertProducts = async () => {
 
   console.log(`  Found ${fileInfos.length} product files (excluded ${allFileInfos.length - fileInfos.length} category pages)`);
 
-  // Extract existing galleries BEFORE deleting the directory
-  const existingGalleries = extractAllExistingGalleries(outputDir);
+  // Extract existing data BEFORE deleting the directory
+  const { galleries: existingGalleries, frontmatters: existingFrontmatters } = extractAllExistingData(outputDir);
   if (existingGalleries.size > 0) {
     console.log(`  Preserved ${existingGalleries.size} existing product galleries`);
+  }
+  if (existingFrontmatters.size > 0) {
+    console.log(`  Preserved ${existingFrontmatters.size} existing product frontmatters`);
   }
 
   // Products directory only contains imported products, safe to clean all
@@ -286,6 +335,7 @@ const convertProducts = async () => {
         productCategoriesMap,
         productEventsMap,
         existingGalleries,
+        existingFrontmatters,
         categoryIndex: 0,
         progressIndex: i,
         progressTotal: fileInfos.length,
