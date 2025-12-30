@@ -62,13 +62,14 @@ layout: base
 <section class="homepage-brands full-width">
   <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
-    <ul>
-      <li><img src="/assets/partners/boots.png" alt="Boots"></li>
-      <li><img src="/assets/partners/kpmg.png" alt="KPMG"></li>
-      <li><img src="/assets/partners/nfu-mutual.png" alt="NFU Mutual"></li>
-      <li><img src="/assets/partners/jlr.png" alt="JLR"></li>
-      <li><img src="/assets/partners/rolls-royce.png" alt="Rolls-Royce"></li>
-    </ul>
+    <div class="brands-scroll-container">
+      <div class="brands-scroll">
+        {%- include "brands-list.html" -%}
+        <div aria-hidden="true">
+          {%- include "brands-list.html" -%}
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
