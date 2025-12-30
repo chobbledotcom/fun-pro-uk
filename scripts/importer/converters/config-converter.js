@@ -50,13 +50,9 @@ const convertSiteConfig = async () => {
 
     // Build site.json - extract from source schema data
     const siteName = orgData.name || localBusinessData.name;
-    const siteUrl = orgData.url || localBusinessData.url;
-    
+
     if (!siteName) {
       throw new Error('Could not extract site name from JSON-LD schema');
-    }
-    if (!siteUrl) {
-      throw new Error('Could not extract site URL from JSON-LD schema');
     }
 
     // Extract social links from sameAs arrays
@@ -74,7 +70,6 @@ const convertSiteConfig = async () => {
 
     const siteConfig = {
       name: siteName,
-      url: siteUrl,
       socials,
       sticky_mobile_nav: true,
       horizontal_nav: true,
@@ -130,7 +125,6 @@ const convertSiteConfig = async () => {
 
     console.log('✅ Site configuration extracted successfully');
     console.log(`   - Site name: ${siteConfig.name}`);
-    console.log(`   - Site URL: ${siteConfig.url}`);
     console.log(`   - Address: ${metaConfig.organization.address.streetAddress}, ${metaConfig.organization.address.addressLocality}`);
     console.log(`   - Phone: ${phone}`);
 
