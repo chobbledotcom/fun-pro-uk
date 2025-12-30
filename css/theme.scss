@@ -321,6 +321,13 @@ main {
     font-weight: 500;
     display: grid;
 
+    @include breakpoints.up("sm") {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: #fff;
+    }
+
     #logo {
       grid-area: logo;
       width: 53px;
