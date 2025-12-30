@@ -14,6 +14,7 @@ const fs = require('fs');
 const EXCLUDED_PAGES = [
   'testimonials', // handled by reviews-index-converter
   'meet-the-team', // handled by team-converter
+  'a-z-of-all-games', // redirects to /products/ via static-page-converter
 ];
 
 const { convertSingle, convertBatch } = createConverter({

@@ -10,7 +10,7 @@ redirect_from:
 
 !
 
-Learn how Virgin Media O2 created consistent, engaging summer festival experiences for their Field Engineering and Operations teams across multiple UK locations by partnering with FunPro UK for three consecutive years, delivering [interactive entertainment](/categories/interactive-game-hire/) that kept staff energised and connected from Manchester to Glasgow.
+Learn how Virgin Media O2 created consistent, engaging summer festival experiences for their Field Engineering and Operations teams across multiple UK locations by partnering with FunPro UK for three consecutive years, delivering [interactive entertainment](/categories/interactive-game-hire/#content) that kept staff energised and connected from Manchester to Glasgow.
 
 ## A Partnership Built on Trust
 
@@ -42,7 +42,7 @@ Virgin Media O2 understands that their field engineers and operations teams are 
 
 The challenge was clear: how do you create a consistent, memorable experience for teams spread across numerous UK locations? Traditional entertainment solutions often struggle with multi-site deployments. Equipment quality can vary between venues, setup requirements differ, and coordinating multiple suppliers becomes a logistical headache. Virgin Media O2 needed a partner who could deliver the same high-quality entertainment experience whether the event was taking place in a Manchester car park or a Glasgow field, all whilst managing the practical realities of outdoor events under marquees.
 
-The company's initial exploration of interactive entertainment began in 2023 with a single evening event. This trial booking allowed them to assess [FunPro](/about-corporate-entertainment-hire/) UK's equipment quality, professionalism, and ability to deliver a smooth experience. The success of that first event laid the foundation for a much larger vision: a touring festival programme that would visit multiple Virgin Media O2 bases throughout the summer months, giving every team the same opportunity to enjoy interactive entertainment and celebrate their contributions.
+The company's initial exploration of interactive entertainment began in 2023 with a single evening event. This trial booking allowed them to assess [FunPro](/about-corporate-entertainment-hire/#content) UK's equipment quality, professionalism, and ability to deliver a smooth experience. The success of that first event laid the foundation for a much larger vision: a touring festival programme that would visit multiple Virgin Media O2 bases throughout the summer months, giving every team the same opportunity to enjoy interactive entertainment and celebrate their contributions.
 
 ## Creating a Scalable Festival Experience
 
@@ -50,7 +50,7 @@ When Virgin Media O2 approached FunPro UK in 2024 about expanding their initial 
 
 The logistics were considerable. Between July and October 2024, games needed to travel to different venues one or two days each month. Each location had its own characteristics: different space configurations, varying power access, and unique site constraints. The events couldn't afford setup delays or equipment failures, as each day was carefully scheduled around operational requirements and staff availability.
 
-FunPro UK approached this challenge with the systematic planning that comes from over 15 years of corporate event experience. The first consideration was equipment selection. For 2024, FunPro recommended the Batak Lite and Danger Zone games. Both offered the competitive, engaging gameplay that creates buzz at events, whilst being robust enough for outdoor use and frequent transport. The [Batak Lite's](/products/batak-lite/) lightning-fast reaction challenge proved particularly popular, creating natural queues and friendly competition between engineering teams. [Danger Zone](/products/danger-zone-strike-a-light-game-hire/) added a different dynamic, testing steady hands and nerve as players navigated the course without triggering the alarm.
+FunPro UK approached this challenge with the systematic planning that comes from over 15 years of corporate event experience. The first consideration was equipment selection. For 2024, FunPro recommended the Batak Lite and Danger Zone games. Both offered the competitive, engaging gameplay that creates buzz at events, whilst being robust enough for outdoor use and frequent transport. The [Batak Lite's](/products/batak-lite/#content) lightning-fast reaction challenge proved particularly popular, creating natural queues and friendly competition between engineering teams. [Danger Zone](/products/danger-zone-strike-a-light-game-hire/#content) added a different dynamic, testing steady hands and nerve as players navigated the course without triggering the alarm.
 
 The outdoor marquee setup presented specific practical considerations. Power supplies needed to be reliable and safely installed. Equipment had to be positioned to maximise visibility and flow whilst accounting for weather protection.
 
@@ -64,7 +64,7 @@ Throughout the 2024 tour, the consistency of experience was crucial. Field engin
 
 By 2025, Virgin Media O2 was ready to expand the programme again, booking FunPro for May through August with continued multi-location delivery. This time, however, they wanted to evolve the entertainment offering. Having established the festival format successfully in 2024, they sought to add more variety and excitement whilst retaining the reliable favourites.
 
-FunPro worked with Virgin Media O2 to refine the equipment selection. The Danger Zone remained in the lineup, as its popularity the previous year had made it a must-have for returning locations. However, the addition of two [racing car simulators](/products/twin-racing-car-simulators/) transformed the entertainment mix. The simulators brought a new level of excitement, allowing field engineers to channel their competitive spirit through immersive racing experiences. The twin-simulator setup enabled head-to-head racing, creating dramatic moments and friendly rivalries that became talking points long after the events.
+FunPro worked with Virgin Media O2 to refine the equipment selection. The Danger Zone remained in the lineup, as its popularity the previous year had made it a must-have for returning locations. However, the addition of two [racing car simulators](/products/racing-car-simulators/#content) transformed the entertainment mix. The simulators brought a new level of excitement, allowing field engineers to channel their competitive spirit through immersive racing experiences. The twin-simulator setup enabled head-to-head racing, creating dramatic moments and friendly rivalries that became talking points long after the events.
 
 This evolution demonstrated FunPro's consultative approach. Rather than simply repeating the previous year's formula, the team considered how to build on success whilst keeping the experience fresh. The racing simulators required different setup considerations compared to the 2024 games, including more substantial power requirements and careful positioning for optimal viewing by spectators. FunPro's technical expertise ensured these new additions integrated seamlessly into the festival format.
 
@@ -76,7 +76,7 @@ What made this three-year relationship particularly successful was the understan
 
 The repeat business also speaks to FunPro's reliability. In an industry where equipment failures or setup delays can derail carefully planned events, Virgin Media O2 experienced consistent, professional delivery. Games arrived when promised, worked reliably throughout each event, and were collected efficiently without disrupting site operations. This dependability is particularly valuable for a company like Virgin Media O2, where operational efficiency is paramount and event planning is just one of many responsibilities for busy coordinators.
 
-The geographical spread of locations, from Glasgow in Scotland to various English cities, highlighted another crucial advantage of working with FunPro UK. Based in Coventry with [nationwide coverage](/delivery-areas/), FunPro could serve all Virgin Media O2's locations without the complexity and cost of coordinating regional suppliers. The same high-quality equipment and professional service reached every venue, regardless of location. This simplified logistics considerably for Virgin Media O2's event organisers, who could work with a single trusted contact rather than managing multiple supplier relationships across the country.
+The geographical spread of locations, from Glasgow in Scotland to various English cities, highlighted another crucial advantage of working with FunPro UK. Based in Coventry with [nationwide coverage](/delivery-areas/#content), FunPro could serve all Virgin Media O2's locations without the complexity and cost of coordinating regional suppliers. The same high-quality equipment and professional service reached every venue, regardless of location. This simplified logistics considerably for Virgin Media O2's event organisers, who could work with a single trusted contact rather than managing multiple supplier relationships across the country.
 
 ## Results and Continued Success
 
@@ -96,9 +96,9 @@ The FunPro team's ability to work effectively in outdoor environments, adapt to 
 
 ## Ready to Create Consistent Experiences Across Your Organisation?
 
-If you're planning multi-location corporate events and need an entertainment partner who can deliver consistent quality nationwide, FunPro UK brings the expertise and reliability that comes from over 15 years as [corporate event](/categories/corporate-entertainment/) specialists. [Our team](/meet-the-team/) understands the unique challenges of touring programmes and multi-site deployments.
+If you're planning multi-location corporate events and need an entertainment partner who can deliver consistent quality nationwide, FunPro UK brings the expertise and reliability that comes from over 15 years as [corporate event](/office-and-corporate-entertainment/#content) specialists. [Our team](/meet-the-team/#content) understands the unique challenges of touring programmes and multi-site deployments.
 
-[Get in touch](/contact-fun-pro-uk/) with our friendly team to discuss how we can help create memorable experiences for your distributed workforce, wherever they're based across the UK.
+[Get in touch](/contact-fun-pro-uk/#content) with our friendly team to discuss how we can help create memorable experiences for your distributed workforce, wherever they're based across the UK.
 
 ## What our customers are saying…
 

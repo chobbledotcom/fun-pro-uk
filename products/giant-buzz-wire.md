@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent"
 meta_description: "Hire Our Giant Buzz Wire Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/interactive-game-hire.md"]
+events: []
 featured: true
 features: []
 options:
@@ -84,15 +84,15 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -132,10 +132,10 @@ tabs:
       
       Popular items:
       
-      *   [Batak Pro](/products/batak-pro/)
-      *   [Pluck a Duck Racing](/products/pluck-a-duck-racing/)
-      *   [Top Doc](/products/top-doc-operation-game/)
-      *   [Grab Grand](/products/grab-a-grand/)
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   [Pluck a Duck Racing](/products/pluck-a-duck-racing/#content)
+      *   [Top Doc](/products/top-doc-operation-game/#content)
+      *   [Grab Grand](/products/cash-grabber-machine-hire/#content)
       
       ## **UK-Wide Mega Buzz Wire Hire**
       
@@ -195,6 +195,6 @@ tabs:
       
       ## **Your own company carnival**
       
-      You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/ultimate-green-screen-photo-booth/), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
+      You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/electronic-basket-ball-hire/#content), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/#content) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
 ---
 

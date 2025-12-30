@@ -5,8 +5,8 @@ price: "£525"
 order: 50
 meta_title: "Racing Simulator Hire, VR Car Driving Simulator Rental, UK"
 meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md", "categories/corporate-entertainment.md", "categories/all-products.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 525
 redirect_from:
   - "/category/arcade-games/38/vr-race-car-simulator/"
-  - "/category/corporate-entertainment/38/vr-race-car-simulator/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-vr-race-car-simulator.jpg"
   - "/images/products/vr-race-car-simulator-2.jpg"
@@ -115,11 +114,11 @@ tabs:
       
       **£1645**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -159,10 +158,10 @@ tabs:
       
       **Popular items:**
       
-      *   [Dance machine](/products/dance-machine/)
-      *   [Batak pro](/products/batak-pro/)
+      *   [Dance machine](/products/dance-machine/#content)
+      *   [Batak pro](/products/batak-pro/#content)
       *   Lights out
-      *   [Giant buzz wire](/products/giant-buzz-wire/)
+      *   [Giant buzz wire](/products/giant-buzz-wire/#content)
       
       ## **Virtual Reality Racing Car Simulator Hire**
       

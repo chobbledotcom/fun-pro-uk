@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
+categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 495
 redirect_from:
-  - "/category/christmas-game-hire/79/whack-an-elf/"
+  - "/category/christmas-games/79/whack-an-elf/"
 gallery:
   - "/images/products/whack-an-elf-1.jpg"
 gallery_cloudinary:
@@ -44,15 +44,15 @@ tabs:
       
       **£1345**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -92,8 +92,8 @@ tabs:
       
       **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
       *   [Reindeer Roll an Bowl](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
       *   [Raindeer Nosenado](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
       

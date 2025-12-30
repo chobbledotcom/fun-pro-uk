@@ -12,9 +12,9 @@ gallery:
 
 # 06 February 18 - Beat the Bleep!
 
-One of our [interactive games](/categories/interactive-game-hire/) which is all set up ready for a [corporate event in Coventry](/locations/coventry/corporate-event-hire/) tomorrow .
+One of our [interactive games](/categories/interactive-game-hire/#content) which is all set up ready for a [corporate event in Coventry](/locations/coventry/corporate-event-hire/#content) tomorrow .
 
-The [Mega Buzz Wire game](/products/giant-buzz-wire/) is a real popular choice of entertainment for corporate events.
+The [Mega Buzz Wire game](/products/giant-buzz-wire/#content) is a real popular choice of entertainment for corporate events.
 
 This battery operated stand alone game is a one player challenge where you have to take the hand held wand through the magical electronic maze without touching it and avoid the bleep!
 
@@ -22,7 +22,7 @@ It's a real race against time and builds the excitement to see who can finish fi
 
 We can't wait to see the staff at their team building and conference enjoying this game tomorrow.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

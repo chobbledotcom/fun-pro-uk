@@ -1,12 +1,15 @@
 ---
 title: "Manchester"
-meta_title: "Event Hire Manchester | Fun Pro UK"
-meta_description: "Professional event hire and entertainment services in Manchester. Interactive games, photo booths and more for corporate events, weddings and parties."
-layout: location
-subtitle: Subtitle subtitle subtitle subtitle
-thumbnail: "images/locations/manchester.png"
+meta_title: "Manchester - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+meta_description: "Manchester - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+redirect_from:
+  - "/pages/manchester/"
 ---
 
-# Event Hire Manchester
+# Manchester
 
-Browse our event hire services available in Manchester and the surrounding area.
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

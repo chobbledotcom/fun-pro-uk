@@ -20,7 +20,7 @@ Below, you'll find a selection of our most frequently asked questions. If you ne
 
 ## Q. What areas does Fun Pro UK deliver to?
 
-*A. [We deliver nationwide](/delivery-areas/), with free delivery within the Coventry, Warwickshire, West Midlands plus East Midlands area and competitive delivery rates for the rest of the UK.*
+*A. [We deliver nationwide](/delivery-areas/#content), with free delivery within the Coventry, Warwickshire, West Midlands plus East Midlands area and competitive delivery rates for the rest of the UK.*
 
 ## Q. What delivery access do Fun Pro UK require?
 

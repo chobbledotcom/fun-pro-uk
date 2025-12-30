@@ -13,7 +13,7 @@ faqs:
   - question: "How far in advance should I book Christmas games?"
     answer: "Christmas is our busiest season, so we recommend booking at least 6-8 weeks in advance to guarantee availability, especially for December dates."
   - question: "Can you provide multiple games for larger Christmas events?"
-    answer: "Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games/) and can provide multiple games, creating festive entertainment zones throughout your venue."
+    answer: "Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games/#content) and can provide multiple games, creating festive entertainment zones throughout your venue."
   - question: "What power requirements do Christmas games need?"
     answer: "Most games require standard UK mains power (13amp socket). Our team will confirm specific requirements and can arrange portable power solutions if needed."
   - question: "Do you offer Christmas-themed prizes or giveaways?"
@@ -24,51 +24,51 @@ faqs:
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
-Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/) create unforgettable experiences that boost engagement and bring teams together during the festive season.
+Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) create unforgettable experiences that boost engagement and bring teams together during the festive season.
 
 ## Nationwide Christmas Game Hire & Locations
 
-As the UK's leading provider of interactive entertainment, Fun Pro UK [delivers](/delivery-areas/) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
+As the UK's leading provider of interactive entertainment, Fun Pro UK [delivers](/delivery-areas/#content) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
 
 Our experienced team ensures seamless delivery and professional setup, making your festive event planning effortless.
 
-Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec/), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment.
+Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec/#content), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment.
 
 ## Christmas Game Hire Options
 
 ### Interactive Games:
 
-*   [Batak Lite](/products/batak-lite/) & [Batak Pro](/products/batak-pro/)
+*   [Batak Lite](/products/batak-lite/#content) & [Batak Pro](/products/batak-pro/#content)
     
-*   [Strike a Snowflake](/products/strike-a-snow-flake/)
+*   [Strike a Snowflake](/products/strike-a-snow-flake/#content)
     
-*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/)
+*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
     
-*   [Candy Cane Megawire](/products/candy-cane-megawire/)
+*   [Candy Cane Megawire](/products/candy-cane-megawire/#content)
 
 ### Prize Games:
 
-*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/)
+*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
     
-*   [Christmas Prize Crane](/products/christmas-prize-crane/)
+*   [Christmas Prize Crane](/products/christmas-prize-crane/#content)
     
-*   [Casino Table](/products/casino-table-hire/)
+*   [Casino Table](/products/casino-table-hire/#content)
 
 ### Strategy Games
 
-*   [Retro Arcade Games](/products/retro-arcade-games/)
+*   [Retro Arcade Games](/products/retro-arcade-games/#content)
 
 ### Simulation Games
 
-*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
+*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
     
-*   [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire/)
+*   [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
     
-*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/)
+*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
 
 ### Photo & Entertainment Games
 
-*   [Christmas Photo Booths](/products/christmas-photo-booths/)
+*   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
 
 ## What's Included in Christmas Game Hire?
 
@@ -90,7 +90,7 @@ When you hire Christmas games from Fun Pro UK, you receive:
 
 ## Branding Options & Pricing
 
-Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/categories/branded-exhibition-games/) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/branded-game-hire/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
 
 Christmas Branding Options:
 
@@ -120,7 +120,7 @@ Join hundreds of satisfied corporate clients who trust us to deliver exceptional
 
 ## Hire Christmas Games for Your Event
 
-Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
+Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
 

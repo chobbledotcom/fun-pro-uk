@@ -5,7 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent"
 meta_description: "Hire Inflatable Obstacle Courses For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories: ["categories/fun-days.md"]
+categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 450
 redirect_from:
-  - "/category/fun-days/21/inflatable-assault-courses/"
+  - "/category/corporate-entertainment/21/inflatable-assault-courses/"
 gallery:
   - "/images/products/inflatable-assault-courses-1.jpg"
   - "/images/products/inflatable-assault-courses-2.jpg"
@@ -44,9 +44,9 @@ tabs:
       
       "Please Note Leader Boards are not included unless requested"
       
-      *   Details
-      *   Size
-      *   Suitability
+      *   [Details](#)
+      *   [Size](#)
+      *   [Suitability](#)
       
       ## Bring Excitement to Your Fun Days with Inflatable Assault Course Hire
       
@@ -70,11 +70,11 @@ tabs:
       
       **£450**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       Floor Space
       
@@ -158,16 +158,16 @@ tabs:
       
       **Popular:**
       
-      *   [Total Wipeout](/products/total-wipe-out/)
-      *   [Hungry Hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/)
-      *   [Super Slide](/products/super-slides/)
-      *   [Giant Connect 4](/products/giant-connect-4-game-hire/)
+      *   [Total Wipeout](/products/total-wipe-out/#content)
+      *   [Hungry Hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/#content)
+      *   [Super Slide](/products/super-slides/#content)
+      *   [Giant Connect 4](/products/giant-connect-4-game-hire/#content)
       
       ## **Inflatable assault**course**hire**
       
       Your company fun day is all about getting your team out of the office and off the factory floor to let their hair down and try something new. And there's no better way to bring out the big kid in the most serious staff member, than one of our incredible inflatable assault courses.
       
-      Packed with obstacles from end to end, either one of these big, bright and colourful inflatables will really stand out at any [company fun day](/categories/fun-days/), drawing crowds and laying down the challenge to your colleagues. There are two to choose from, either the extreme assault course or the dazzling dragon run.
+      Packed with obstacles from end to end, either one of these big, bright and colourful inflatables will really stand out at any [company fun day](/categories/fun-days/#content), drawing crowds and laying down the challenge to your colleagues. There are two to choose from, either the extreme assault course or the dazzling dragon run.
       
       ### The champion challenge
       
@@ -235,7 +235,7 @@ tabs:
       
       ### Nationwide company fun
       
-      Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/) to [gladiator duels](/products/gladiator-duel/).
+      Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/#content) to [gladiator duels](/products/gladiator-duel/#content).
       
       Our team will be happy to help organise a memorable company fun day for you. Just tell us your venue and budget and we'll take care of everything you need.
 ---

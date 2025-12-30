@@ -5,8 +5,8 @@ price: "£495"
 order: 3
 meta_title: "Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me"
 meta_description: "Hire Our Ball Grabber Machine For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/exhibition-games.md", "categories/grab-a-grand.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 495
 redirect_from:
   - "/category/exhibition-games/36/ballnado-grabber/"
-  - "/category/grab-a-grand/36/ballnado-grabber/"
 gallery:
   - "/images/products/ballnado-grabber-lights-out-game-lights-out-game-2.jpg"
   - "/images/products/ballnado-grabber-2.jpg"
@@ -42,9 +41,6 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e716f128981563935e04f83f2545361a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8223c74f2c96f5e868328302395c1f83"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0176641d16f3876e35bade1d5ae9121"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f270f9b4b2542ac6858ea9d7c9f8ad09"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f04082c5293b9aa6de180489074e9c9f"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/151e1b643dfe2fc3780cb7a515a97ba7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4da92bff8b8f1e88420d92fca554d40b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ca52a14163ee80eb8043b593fce0124"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d09fbc8de1964736c89617f88b30484c"
@@ -60,6 +56,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2e678f1ce63e8a5979a938854cbdee9c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0f1306576e3a9eac486285332f4c814"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b0d80effa6b32788aa0d6b2c41d4698"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4047c268f16de7b70b770f46af2cc731"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4ab061c48a33d31f50095c81cbcc95f9"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fc586160be620ce91d2cc8abf39fe036"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a34086f76a6cab22dab75d46b46f0df8"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/88e64775e5560390943b89cfbc4375ab"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
 faqs:
   - question: "How many people can play the Ballnado grabber?"
     answer: "The Ballnado grabber can be played by all groups of different sizes. There is no strict limit. However, the Ballnado game is at its most enjoyable between 4-12 players. This is a great number to spark competition and make sure that everyone has a fair chance to catch the balls."
@@ -84,13 +87,13 @@ tabs:
       
       ## Best Ballnado Grabber Hire for All Your Events in the UK!
       
-      Looking for a fun and competitive game that will excite your guests? Our Ballnado grabber for hire would be the perfect attraction for your [next event in Birmingham](/locations/birmingham/game-hire-icc/), Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK.
+      Looking for a fun and competitive game that will excite your guests? Our Ballnado grabber for hire would be the perfect attraction for your [next event in Birmingham](/locations/birmingham/game-hire-icc/#content), Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK.
       
       Set up friendly competitions for your guests, offer up some prizes, and keep everyone entertained with this popular exhibition stand game.
       
       ## Why Choose the Ballnado Grabber?
       
-      [Fun Pro](/christmas-entertainment-game-hire/) is the leading provider of high-quality event games for hire. Our Ballnado grabbers are more than just games at a party; it’s a complete, interactive experience.
+      [Fun Pro](/#content) is the leading provider of high-quality event games for hire. Our Ballnado grabbers are more than just games at a party; it’s a complete, interactive experience.
       
       The Ballnado grabber’s fun and engaging gameplay is perfect for boosting footfall at your exhibition stand or trade show booth. Capture your guests’ attention, increase brand activation, and enhance the overall experience for all your attendees.
       
@@ -126,7 +129,7 @@ tabs:
       
       Need a longer hire period?
       
-      [Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
+      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
       
       **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
@@ -170,10 +173,10 @@ tabs:
       
       ### **Popular Items:**
       
-      *   [Leaded Board](/products/leader-board/)
-      *   [Lights Out](/categories/interactive-game-hire/)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## Hire a Ballnado Grabber Game for your next event!
       
@@ -181,17 +184,17 @@ tabs:
       
       We attend a wide variety of events around the UK. You can get a Ballnado grabber hire for:
       
-      [Corporate events](/categories/corporate-entertainment/)
+      [Corporate events](/categories/corporate-entertainment/#content)
       
-      [Exhibitions](/categories/exhibition-games/)
+      [Exhibitions](/exhibition-game-hire/#content)
       
       Family fun days
       
-      [Weddings](/hire-outdoor-games-for-weddings/)
+      [Weddings](/wedding-entertainment/#content)
       
       College and university events
       
-      [Conferences and trade shows](/conference-game-hire/)
+      [Conferences and trade shows](/conference-game-hire/#content)
       
       Fundraisers
       

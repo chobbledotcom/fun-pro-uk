@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"
 meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for a quote today."
-categories: ["categories/all-products.md", "categories/freshers-fair-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md"]
+categories: ["categories/freshers-fair-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,6 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/all-products/98/twin-axe-throwing/"
   - "/category/freshers-fair-games/98/twin-axe-throwing/"
 gallery:
   - "/images/products/twin-axe-throwing-1.jpg"
@@ -42,7 +41,7 @@ tabs:
       
       ## Why Choose Twin Axe Throwing for Your Next Event?
       
-      Transform your [corporate event](/categories/corporate-entertainment/), [exhibition](/categories/exhibition-games/), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
+      Transform your [corporate event](/categories/corporate-entertainment/#content), [exhibition](/exhibition-game-hire/#content), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
       
       *   Boost engagement among your team
           
@@ -64,7 +63,7 @@ tabs:
       
       \*Please note that delivery charges and minimum order values may apply.
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -130,15 +129,15 @@ tabs:
       
       Enhance your event further with our range of complementary games:
       
-      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/)
+      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/#content)
           
-      *   Batak
+      *   [Batak](/categories/batak/#content)
           
-      *   [Virtual Reality Experiences](/products/vr-race-car-simulator/)
+      *   [](/categories/batak/#content)[Virtual Reality Experiences](/products/vr-race-car-simulator/#content)
       
       ## Hire Twin Axe Throwing for Your Event
       
-      Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/contact-fun-pro-uk/) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
+      Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
       
       ## What our customers are saying…
       

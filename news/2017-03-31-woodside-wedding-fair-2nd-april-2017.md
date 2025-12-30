@@ -24,7 +24,7 @@ We will be attending with a talking magic mirror which takes awesome selfies and
   
 Of course, there will be special offers to be had for bookings placed on the day. So, come down from 11.30- 3pm and have a Sunday Selfie with the Perfect Snap Team.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

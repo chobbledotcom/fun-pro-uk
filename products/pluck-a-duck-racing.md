@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/prize-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/8/pluck-a-duck-racing/"
-  - "/category/interactive-game-hire/8/pluck-a-duck-racing/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-pluck-a-duck-racing.jpg"
   - "/images/products/pluck-a-duck-racing-2.jpg"
@@ -71,11 +70,11 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -115,10 +114,10 @@ tabs:
       
       **Popular items:**
       
-      *   [Top Doc](/products/top-doc-operation-game/)
-      *   [Giant Buzz Wire](/products/giant-buzz-wire/)
+      *   [Top Doc](/products/top-doc-operation-game/#content)
+      *   [Giant Buzz Wire](/products/giant-buzz-wire/#content)
       *   Lights Out
-      *   [Batak Pro](/products/batak-pro/)
+      *   [Batak Pro](/products/batak-pro/#content)
       
       ## Pluck a Duck Game Hire
       
@@ -155,8 +154,8 @@ tabs:
       
       ### Mobile and versatile
       
-      Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/products/twin-racing-car-simulators/), lights out reaction games and [retro arcade machines](/products/retro-arcade-games/).
+      Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/products/racing-car-simulators/#content), lights out reaction games and [retro arcade machines](/products/retro-arcade-games/#content).
       
-      From a single item to a whole [company fun day](/categories/fun-days/) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/categories/corporate-entertainment/) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
+      From a single item to a whole [company fun day](/categories/fun-days/#content) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/categories/corporate-entertainment/#content) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
 ---
 

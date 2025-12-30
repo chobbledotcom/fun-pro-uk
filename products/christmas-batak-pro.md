@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Christmas Batak Pro - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Pro is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
+categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 495
 redirect_from:
-  - "/category/christmas-games/108/christmas-batak-pro/"
+  - "/category/christmas-game-hire/108/christmas-batak-pro/"
 gallery:
   - "/images/products/christmas-batak-pro-1.jpg"
   - "/images/products/christmas-batak-pro-2.jpg"
@@ -83,7 +83,7 @@ tabs:
       
       ## What’s Included in Batak Pro Hire from Fun Pro?
       
-      We make [interactive game hire](/categories/interactive-game-hire/) as seamless as possible, providing everything you need for an unforgettable experience.
+      We make [interactive game hire](/categories/interactive-game-hire/#content) as seamless as possible, providing everything you need for an unforgettable experience.
       
       **Hire Prices:**
       
@@ -113,7 +113,7 @@ tabs:
       
       \*Delivery fees may apply.
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -169,17 +169,17 @@ tabs:
       
       If you’re looking to add some other types of interactive games to your events, here are just a few of the products we offer:
       
-      [Arcade Games](/categories/arcade-games/)
+      [Arcade Games](/categories/arcade-games/#content)
       
-      [Prize Games](/categories/prize-games/)
+      [Prize Games](/categories/prize-games/#content)
       
-      [Pub Games](/categories/pub-games/)
+      [Pub Games](/categories/pub-games/#content)
       
-      [Roll and Bowl](/categories/roll-and-bowl/)
+      [Roll and Bowl](/categories/roll-and-bowl/#content)
       
-      [Crazy Golf](/products/crazy-golf/)
+      [Crazy Golf](/products/crazy-golf/#content)
       
-      [View all our event hire products and games here](/categories/all-products/)
+      [View all our event hire products and games here](/products/#content)
       
       ## Hire Batak Pro for Your Next Event
       

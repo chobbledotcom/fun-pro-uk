@@ -12,9 +12,9 @@ gallery:
 
 # 02 January 18 - Ansty Hall this Sunday!
 
-We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/categories/weddings/) fayre of 2018!
+We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/categories/weddings/#content) fayre of 2018!
 
-Our Green Screen Dream Machine 3D Photo booth , [Magic Selfie Mirror](/products/magic-mirror/) and Social Media Pod will all be on display for you to strike your pose and have your very own selfie taken there and then. Our hi-tech digital booths really are the talk of the town when it comes to your wedding entertainment. You and your guests will be amazed at the fun selfies they walk away with - it is an experience you will never forget!
+Our Green Screen Dream Machine 3D Photo booth , [Magic Selfie Mirror](/products/magic-mirror/#content) and Social Media Pod will all be on display for you to strike your pose and have your very own selfie taken there and then. Our hi-tech digital booths really are the talk of the town when it comes to your wedding entertainment. You and your guests will be amazed at the fun selfies they walk away with - it is an experience you will never forget!
 
 The talking Magic Mirror will be in full swing - listen out for Donkey's cheeky comments as you stop by for a photo - nobody can resist a selfie with him!
 
@@ -24,7 +24,7 @@ Ansty Hall Hotel is situated in the pretty little village of Ansty near Coventry
 
 Fun Pro UK are regular guests at this hotel and can't wait to be back on Sunday. We really do hope to see you there. So, bring your best smile and come to say Hello!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

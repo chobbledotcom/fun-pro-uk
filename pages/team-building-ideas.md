@@ -22,19 +22,19 @@ Team Building Activities for Hire
 
 Choosing the right activities is essential for a successful team building event. We offer a variety of engaging team building activities for hire that encourage healthy competition and cooperative strategy development among teams:
 
-*   [Batak Pro](/products/batak-pro/): Challenge your team’s reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
+*   [Batak Pro](/products/batak-pro/#content): Challenge your team’s reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
     
-*   [Ballnado - Ball Grabber](/products/ballnado-grabber/): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
+*   [Ballnado - Ball Grabber](/products/ballnado-grabber/#content): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
     
-*   [Prize Wheel](/products/prize-wheel/): Spin the Wheel of Fortune to add an element of chance to your team building day. It’s an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
+*   [Prize Wheel](/products/prize-wheel/#content): Spin the Wheel of Fortune to add an element of chance to your team building day. It’s an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
 
 Hire Team Building Equipment to Enhance Your Event
 
 To make your team building day as impactful as possible, it’s important to have the right equipment. At Fun Pro UK, you can hire team building equipment that is not only high-quality but also customisable to reflect your company’s branding:
 
-*   Custom Branded Leaderboards: Keep track of scores and foster a sense of competition with our branded leaderboards. Visible updates on team standings during games like our [Racing Car Simulators](/products/twin-racing-car-simulators/) or the Cash Grabber enhance the excitement and drive engagement.
+*   Custom Branded Leaderboards: Keep track of scores and foster a sense of competition with our branded leaderboards. Visible updates on team standings during games like our [Racing Car Simulators](/products/racing-car-simulators/#content) or the Cash Grabber enhance the excitement and drive engagement.
     
-*   Interactive Game Hire: Our wide range of [Interactive Game Hire](/categories/interactive-game-hire/) options ensures that you have the perfect activities to meet your team’s needs, from physical challenges to strategic games.
+*   Interactive Game Hire: Our wide range of [Interactive Game Hire](/categories/interactive-game-hire/#content) options ensures that you have the perfect activities to meet your team’s needs, from physical challenges to strategic games.
 
 To get the most out of your team building activities, it’s important to:
 
@@ -44,7 +44,7 @@ To get the most out of your team building activities, it’s important to:
 
 Build anticipation for your team building day through effective internal communication. Highlight the fun games, the potential prizes, and the benefits of participating to ensure maximum turnout and engagement.
 
-Ready to plan a transformative team building event? [Contact us](/contact-fun-pro-uk/) at Fun Pro UK to explore our comprehensive range of games and equipment for hire. Let us help you create a fun-filled day that not only entertains but also unites your team, paving the way for enhanced productivity and a harmonious workplace.
+Ready to plan a transformative team building event? [Contact us](/contact-fun-pro-uk/#content) at Fun Pro UK to explore our comprehensive range of games and equipment for hire. Let us help you create a fun-filled day that not only entertains but also unites your team, paving the way for enhanced productivity and a harmonious workplace.
 
 /
 

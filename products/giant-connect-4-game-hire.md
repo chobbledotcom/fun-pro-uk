@@ -5,7 +5,7 @@ price: "£60"
 order: 50
 meta_title: "Hire Giant Connect 4,Rent Giant Connect 4 Garden Game, UK"
 meta_description: "Hire Our Giant Connect 4 Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/corporate-entertainment.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features: []
@@ -73,15 +73,15 @@ tabs:
       
       **£240**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

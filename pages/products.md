@@ -6,6 +6,9 @@ layout: products.html
 eleventyNavigation:
   key: Products
   order: 3
+redirect_from:
+  - "/pages/a-z-of-all-games/"
+  - "/category/all-products/"
 ---
 
 # Interactive Game Hire

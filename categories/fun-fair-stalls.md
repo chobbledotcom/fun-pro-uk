@@ -32,7 +32,7 @@ faqs:
 
 # Best Fun Fair Stalls in the UK!
 
-Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](/categories/fun-foods/) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
+Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](/categories/fun-foods/#content) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
 
 Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
@@ -40,19 +40,19 @@ Guests can take part in games with prizes or enjoy a variety of tasty snacks ser
 
 Remember those fairground games you enjoyed as a child? Now you can recreate that fun at your next event with Fun Pro UK's fair stalls. We take care of setting everything up, making it easy to include them in any type of event. They are perfect for:
 
-*   [Summer Fun Day](/outdoor-garden-game-hire/)
+*   [Summer Fun Day](/summer-entertainment/#content)
     
 *   Staff Summer Party
     
-*   [School Fun Day](/school-fun-day-entertainment-hire/)
+*   [School Fun Day](/school-fun-day-entertainment-hire/#content)
     
-*   [Staff Fun Day](/events/staff-wellbeing-days/)
+*   [Staff Fun Day](/events/staff-wellbeing-days/#content)
     
 *   Side Stall Game Hire
 
 ... and more!
 
-Our fun fair stalls can be customised to suit your event’s theme or [company branding](/promotion-event-games/). Whether you want to display a logo or include personalised branding, we’ll help your stall blend perfectly with your event. These stalls are ideal for community events like village fetes and fun fairs, as well as for adding light-hearted entertainment to corporate functions and school activities.
+Our fun fair stalls can be customised to suit your event’s theme or [company branding](/promotional-event-games/#content). Whether you want to display a logo or include personalised branding, we’ll help your stall blend perfectly with your event. These stalls are ideal for community events like village fetes and fun fairs, as well as for adding light-hearted entertainment to corporate functions and school activities.
 
 Some of our most popular fair stalls include the:
 
@@ -76,7 +76,7 @@ Contact us for custom pricing and availability.
 
 ## Why Choose Our Fun Fair Stalls?
 
-Fun Pro UK goes beyond simple [game hires](/christmas-entertainment-game-hire/). We help you create an immersive experience that delights guests and enhances your event’s atmosphere. Here’s why event organisers trust us:
+Fun Pro UK goes beyond simple [game hires](/#content). We help you create an immersive experience that delights guests and enhances your event’s atmosphere. Here’s why event organisers trust us:
 
 ### Wide Range of High-quality Stalls and Games
 
@@ -108,7 +108,7 @@ When you’re happy with the fun fair stalls you’ve hired, confirm your bookin
 
 ### Step 3: Delivery and setup
 
-On the day of your event, we’ll handle delivering and setting up the [exhibition games](/categories/exhibition-games/) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
+On the day of your event, we’ll handle delivering and setting up the [exhibition games](/categories/exhibition-games/#content) at the venue. Our team will also provide professional staffing if you require it to make sure that your event runs smoothly.
 
 ### Step 4: Event day support
 
@@ -120,7 +120,7 @@ After the event ends, we’ll handle the safe and efficient removal of all the f
 
 ## Ready to take your event to the next level?
 
-Make every event unforgettable and engaging. [Contact us today](/contact-fun-pro-uk/) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
+Make every event unforgettable and engaging. [Contact us today](/contact-fun-pro-uk/#content) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
 
 ## What our customers are saying…
 

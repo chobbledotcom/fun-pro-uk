@@ -28,9 +28,9 @@ It majorly depends upon the audience of your event, but it isn't something to ig
 
 But don't panic as the team at Fun Pro UK can take your corporate event idea and give creative suggestions of unusual corporate entertainment that will capture the imaginations of your guests. Or put a smile on everyone's face with traditional board games, but in giant size!
 
-If you're planning a sales conference but want your entertainment to be a bit out there. We have a variety of retro games including [arcade machines](/products/retro-arcade-games/) and [electric basketball](/products/ultimate-green-screen-photo-booth/) to get your delegates interacting.
+If you're planning a sales conference but want your entertainment to be a bit out there. We have a variety of retro games including [arcade machines](/products/retro-arcade-games/#content) and [electric basketball](/products/electronic-basket-ball-hire/#content) to get your delegates interacting.
 
-Or if you are thinking of a quirky corporate event in the Bristol area, we have a huge variety of unusual corporate entertainment including creative, giant inflatables and interesting [photo booths](/categories/photo-booths-and-magic-mirrors/).
+Or if you are thinking of a quirky corporate event in the Bristol area, we have a huge variety of unusual corporate entertainment including creative, giant inflatables and interesting [photo booths](/categories/photo-booths-and-magic-mirrors/#content).
 
 **Corporate entertainment brought to you professionally, on time and within budget**
 

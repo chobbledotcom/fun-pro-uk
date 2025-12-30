@@ -5,8 +5,8 @@ price: "£495"
 order: 50
 meta_title: "Electronic Dart Board Hire UK | Corporate Events | Fun Pro"
 meta_description: "Professional electronic dart boards with automatic scoring for corporate events, exhibitions and team building days. Soft tip, venue-safe, nationwide delivery."
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -27,7 +27,7 @@ faqs:
   - question: "How long does setup take?"
     answer: "It usually takes around 15-20 minutes. We arrive early to handle installation and testing before your event starts."
   - question: "Can we brand the dartboard?"
-    answer: "Yes. We can apply [custom branding](/categories/branded-exhibition-games/) to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
+    answer: "Yes. We can apply [custom branding](/branded-game-hire/#content) to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
   - question: "What if someone's never played darts?"
     answer: "Electronic boards are genuinely beginner-friendly. Automatic scoring removes intimidation, and on-screen instructions guide players through games."
   - question: "Is it suitable for outdoor events?"
@@ -35,7 +35,7 @@ faqs:
   - question: "How many people can play at once?"
     answer: "2-8 players per game can play depending on mode. For larger groups, consider multiple units or tournament formats where players rotate."
   - question: "How far in advance should we book?"
-    answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/) for last-minute availability."
+    answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/#content) for last-minute availability."
 tabs:
   - title: "Why Electronic Dart Board?"
     body: |
@@ -45,9 +45,9 @@ tabs:
       
       ## Electronic Dart Board Hire for Corporate Events & Exhibitions
       
-      Electronic dart boards bring competitive fun to [corporate events](/categories/corporate-entertainment/) whilst solving the practical challenges that traditional dartboards create. With automatic scoring, venue-safe soft tip darts, and multiple game modes built in, they're designed for professional events where you need engaging entertainment that works for everyone, from complete beginners to office darts champions.
+      Electronic dart boards bring competitive fun to [corporate events](/office-and-corporate-entertainment/#content) whilst solving the practical challenges that traditional dartboards create. With automatic scoring, venue-safe soft tip darts, and multiple game modes built in, they're designed for professional events where you need engaging entertainment that works for everyone, from complete beginners to office darts champions.
       
-      As [corporate event specialists](/about-corporate-entertainment-hire/) with over 15 years of experience, we understand the questions you're asking: Will it damage the venue? Can beginners play? How much space do we need? This page answers those concerns and helps you decide if electronic dart board hire is right for your event.
+      As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand the questions you're asking: Will it damage the venue? Can beginners play? How much space do we need? This page answers those concerns and helps you decide if electronic dart board hire is right for your event.
       
       ## Why Choose Electronic Dart Boards for Your Event?
       
@@ -61,9 +61,9 @@ tabs:
       
       ## Where They Work Best
       
-      Electronic dart boards suit corporate fun days and [team building events](/team-building-ideas/), creating natural opportunities for friendly competition between departments. At [exhibition](/categories/exhibition-games/) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
+      Electronic dart boards suit corporate fun days and [team building events](/team-building-ideas/#content), creating natural opportunities for friendly competition between departments. At [exhibition](/exhibition-game-hire/#content) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
       
-      For [award ceremonies](/categories/exhibition-games/) and corporate parties, they provide entertainment during reception drinks or networking periods. At Christmas parties, you can run tournaments with the Luke Littler effect making darts particularly topical right now.
+      For [award ceremonies](/exhibition-game-hire/#content) and corporate parties, they provide entertainment during reception drinks or networking periods. At [Christmas parties](/christmas-entertainment-game-hire/#content), you can run tournaments with the Luke Littler effect making darts particularly topical right now.
       
       Consider your audience mix. Not everyone enjoys competitive games, so frame participation as optional. The automatic scoring helps beginners, though some people may feel hesitant – having alternative activities available ensures everyone finds something they're comfortable with.
       
@@ -89,9 +89,9 @@ tabs:
       
       Optional extras: Event staff to manage gameplay and run competitions, custom branding on dartboard surrounds, tournament prize packages.  
         
-      \* [Delivery](/delivery-areas/), set up and collection may be charged at an additional fee, depending on your location.  
+      \* [Delivery](/delivery-areas/#content), set up and collection may be charged at an additional fee, depending on your location.  
         
-      [Contact us](/contact-fun-pro-uk/) for a detailed quote.
+      [Contact us](/contact-fun-pro-uk/#content) for a detailed quote.
       
       **Hire Prices:**
       
@@ -109,13 +109,13 @@ tabs:
       
       \*Delivery fees may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## Electronic vs Traditional Dartboards
       
       Electronic dart boards offer venue-safe soft tips (no wall damage), automatic scoring (no mathematics required), and beginner-friendly gameplay with guided instructions. They suit corporate events, exhibitions, and diverse audiences.
       
-      Traditional bristle boards provide an authentic [pub](/categories/pub-games/) atmosphere but require steel tips (potential venue damage), manual scoring, and participants who know the rules. They're better suited to darts-themed events with experienced players.
+      Traditional bristle boards provide an authentic [pub](/categories/pub-games/#content) atmosphere but require steel tips (potential venue damage), manual scoring, and participants who know the rules. They're better suited to darts-themed events with experienced players.
       
       For most corporate contexts, electronic boards are the practical choice – they solve venue concerns, welcome beginners, and create smooth gameplay appropriate for professional settings.
       
@@ -165,13 +165,13 @@ tabs:
       
       ## Book Electronic Dart Board Hire
       
-      Ready to add electronic dart board hire to your event? Our [friendly team](/meet-the-team/) takes a consultative approach; we'll discuss your event properly, understand what you're trying to achieve, and recommend the right setup for your situation and budget.
+      Ready to add electronic dart board hire to your event? Our [friendly team](/meet-the-team/#content) takes a consultative approach; we'll discuss your event properly, understand what you're trying to achieve, and recommend the right setup for your situation and budget.
       
-      [Contact us](/contact-fun-pro-uk/) with your event date, location, and a brief overview of what you're planning. We'll provide a detailed quote with transparent pricing, typically within 24 hours.
+      [Contact us](/contact-fun-pro-uk/#content) with your event date, location, and a brief overview of what you're planning. We'll provide a detailed quote with transparent pricing, typically within 24 hours.
       
-      We provide [nationwide coverage](/delivery-areas/) from our Coventry base, serving corporate events, exhibitions, and team building activities throughout England, Scotland, and Wales. Whether you're planning a small office party or a major [corporate event](/categories/corporate-entertainment/), we're here to help you create engaging entertainment that brings people together.
+      We provide [nationwide coverage](/delivery-areas/#content) from our Coventry base, serving corporate events, exhibitions, and team building activities throughout England, Scotland, and Wales. Whether you're planning a small office party or a major [corporate event](/office-and-corporate-entertainment/#content), we're here to help you create engaging entertainment that brings people together.
       
-      ##### [Get in touch with our team to discuss your requirements and receive your quote.](/contact-fun-pro-uk/)
+      ##### [Get in touch with our team to discuss your requirements and receive your quote.](/contact-fun-pro-uk/#content)
       
       ## What our customers are saying…
       

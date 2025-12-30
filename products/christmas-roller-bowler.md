@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Christmas Roller Bowler - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Roller Bowler is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
+categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 395
 redirect_from:
-  - "/category/christmas-games/112/christmas-roller-bowler/"
+  - "/category/christmas-game-hire/112/christmas-roller-bowler/"
 gallery:
   - "/images/products/christmas-roller-bowler-1.jpg"
   - "/images/products/christmas-roller-bowler-2.jpg"
@@ -39,6 +39,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c32c0e4d1517e2fb6f92c60b1409d7fc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff666d32695ac126a7455b273611ab6b"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/617cc54ba519d7514d06cf6a71dd4fc5"
+  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7d6103772c68e3bd4ac7c2320c84e477"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7a8720fe19857e1241a69730f91a7a5e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0fcdcf2beec725b6e9366d16a3498362"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2546bb3821aad44a4ac9b45890b81ced"
@@ -66,7 +67,7 @@ tabs:
       
       Engaging, compact, and universally appealing, the **Christmas Roller Bowler** delivers a touch of nostalgia and plenty of festive fun, while helping create an inviting, energetic atmosphere around your event space.
       
-      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/) to corporate events, [exhibitions](/categories/exhibition-games/), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
+      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/exhibition-game-hire/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
       
       **1 day Hire from**
       
@@ -78,7 +79,7 @@ tabs:
       
       \*Please note that delivery charges and minimum order values may apply.
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## What Is Roller Bowler?
       
@@ -90,7 +91,7 @@ tabs:
       
       ## Why Choose Roller Bowler for Your Next Event?
       
-      At [Fun Pro UK](/about-corporate-entertainment-hire/), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/). Here's why event planners continue to choose us:
+      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
       
       *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
           
@@ -98,19 +99,19 @@ tabs:
           
       *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
           
-      *   Fully Brandable: [Custom graphics](/categories/branded-exhibition-games/) and panels available to match your corporate colours and messaging
+      *   Fully Brandable: [Custom graphics](/branded-game-hire/#content) and panels available to match your corporate colours and messaging
           
       *   No Power Required: Completely mechanical game means no electrical setup or running costs
           
-      *   Complete UK Coverage: Professional [delivery](/delivery-areas/), setup, and collection across England, Scotland, and Wales\*
+      *   Complete UK Coverage: Professional [delivery](/delivery-areas/#content), setup, and collection across England, Scotland, and Wales\*
       
       \*Delivery, setup and collection may incur additional costs, depending on location. All costs will be provided in your final quote.
       
       ## Nationwide Roller Bowler Hire & Locations
       
-      As a leading nationwide hire company, Fun Pro UK provides Roller Bowler entertainment for events throughout the UK. We regularly deliver to London, Manchester, Birmingham (including [NEC](/locations/birmingham/nec/) and [ICC](/locations/birmingham/game-hire-icc/) Arena), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (including CBS Arena), ensuring professional service regardless of your venue location.
+      As a leading nationwide hire company, Fun Pro UK provides Roller Bowler entertainment for events throughout the UK. We regularly deliver to London, Manchester, Birmingham (including [NEC](/locations/birmingham/nec/#content) and [ICC](/locations/birmingham/game-hire-icc/#content) Arena), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (including CBS Arena), ensuring professional service regardless of your venue location.
       
-      Our [experienced team](/meet-the-team/) handles everything from initial consultation through to delivery, setup, and collection, providing seamless service for your event. [Contact us](/contact-fun-pro-uk/) today to discuss your requirements.\*
+      Our [experienced team](/meet-the-team/#content) handles everything from initial consultation through to delivery, setup, and collection, providing seamless service for your event. [Contact us](/contact-fun-pro-uk/#content) today to discuss your requirements.\*
       
       \*Minimum order values and delivery fees apply. Contact us for specific location pricing.
       
@@ -128,11 +129,11 @@ tabs:
       
       ### Included in every hire:
       
-      *   [UK-wide delivery](/delivery-areas/) and collection (additional costs may apply)
+      *   [UK-wide delivery](/delivery-areas/#content) and collection (additional costs may apply)
           
       *   Professional installation and setup by trained technicians if requested
           
-      *   [Custom branding](/categories/branded-exhibition-games/) options available
+      *   [Custom branding](/branded-game-hire/#content) options available
           
       *   Full operational support throughout your event if needed
           
@@ -140,7 +141,7 @@ tabs:
           
       *   Optional floor stands and header panels
       
-      Need a longer hire period? [Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
+      Need a longer hire period? [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
       
       ## 🎁 Why Choose the Christmas Roller Bowler for Your Corporate Event?
       

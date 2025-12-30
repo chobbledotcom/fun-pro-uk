@@ -14,7 +14,7 @@ redirect_from:
 
 [MTC Events](https://the-amtc.co.uk/events/) is a stunning, Coventry based events venue which combines the Manufacturing Technology Centre's reputation for world-leading manufacturing with the highest quality event spaces. The flexible space available for events is perfect for every busy whether you want to host a large trade show or a smaller exhibition of products or launch your newest creation!
 
-MTC's modern exhibition space is a bright open environment ideal for you to adapt to your business. Why not bring the space to life and get your guests interacting with each other and your business with a range of interactive games ready to hire from [Fun Pro UK](/christmas-entertainment-game-hire/).
+MTC's modern exhibition space is a bright open environment ideal for you to adapt to your business. Why not bring the space to life and get your guests interacting with each other and your business with a range of interactive games ready to hire from [Fun Pro UK](https://www.funprouk.co.uk).
 
 !
 

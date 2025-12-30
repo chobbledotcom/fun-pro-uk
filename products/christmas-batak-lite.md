@@ -87,7 +87,7 @@ tabs:
       
       \*Delivery fees may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## 🎄 **What Is Batak Lite?**
       
@@ -164,11 +164,11 @@ tabs:
       
       ## Popular items:
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
       *   [Batak Pro](/products/batak-pro/#content)
-      *   [Dance Machine](/products/dance-machine/)
-      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-      *   [Lights Out](/categories/interactive-game-hire/)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
       
       ## Batak Lite Branding and Customisation Options
       

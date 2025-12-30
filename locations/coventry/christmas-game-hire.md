@@ -8,59 +8,59 @@ redirect_from:
 
 # Christmas Game Hire – Coventry's Premier Festive Entertainment Specialists
 
-Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional Christmas game hire services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
+Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional [Christmas game hire](/christmas-entertainment-game-hire/#content) services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
 
 ## Nationwide Christmas Game Hire & Locations
 
-Based in the heart of Coventry, Fun Pro UK [delivers](/delivery-areas/) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
+Based in the heart of Coventry, Fun Pro UK [delivers](/delivery-areas/#content) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
 
 Our dedicated team understands Coventry's unique event landscape perfectly, from prestigious venues like the CBS Arena to intimate corporate spaces and university facilities.
 
-Whether you're planning a company [Christmas party](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
+Whether you're planning a company [Christmas party](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
 
 ## Coventry Christmas Game Hire Options
 
 Interactive Games:
 
-*   [Batak Lite](/locations/coventry/batak-lite/) & [Batak Pro](/locations/coventry/batak-pro-hire/)
+*   [Batak Lite](/locations/coventry/batak-lite/#content) & [Batak Pro](/locations/coventry/batak-pro-hire/#content)
     
-*   [Strike a Snowflake](/products/strike-a-snow-flake/)
+*   [Strike a Snowflake](/products/strike-a-snow-flake/#content)
     
-*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/)
+*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
     
-*   [Candy Cane Megawire](/products/candy-cane-megawire/)
+*   [Candy Cane Megawire](/products/candy-cane-megawire/#content)
 
 Prize Games:
 
-*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/)
+*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
     
-*   [Christmas Prize Crane](/products/christmas-prize-crane/)
+*   [Christmas Prize Crane](/products/christmas-prize-crane/#content)
     
-*   [Casino Table](/products/casino-table-hire/)
+*   [Casino Table](/products/casino-table-hire/#content)
 
 Racing Games:
 
-*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
+*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
     
-*   [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire/)
+*   [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
 
-*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/)
+*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
 
 Photo & Entertainment Games:
 
-*   [Christmas Photo Booths](/products/christmas-photo-booths/)
+*   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
 
 ## What's Included in Christmas Game Hire?
 
 We make the process of hiring festive entertainment effortless, delivering comprehensive packages that ensure your Coventry Christmas event runs flawlessly from start to finish.
 
-When you choose [Christmas games](/categories/christmas-games/) from Fun Pro UK, your package includes:
+When you choose [Christmas games](/categories/christmas-games/#content) from Fun Pro UK, your package includes:
 
 *   West Midlands delivery and collection by our professional Coventry-based team\*
     
 *   Expert installation and setup by certified technicians if required
     
-*   Bespoke Christmas [branding options](/categories/branded-exhibition-games/) to showcase your corporate identity
+*   Bespoke Christmas [branding options](/branded-game-hire/#content) to showcase your corporate identity
     
 *   Event day support available if needed
     
@@ -118,181 +118,9 @@ Join our extensive network of satisfied Midlands clients who depend on our exper
 
 ## Hire Christmas Games for Your Coventry Event
 
-Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk/) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
+Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable celebration that guests will talk about throughout the year.
-
-[Catch it Reaction Ring Hire](/products/catch-it-reaction-ring-hire/)
-
-[More Details](/products/catch-it-reaction-ring-hire/)
-
-[Gold Bar Challenge](/products/gold-bar-challenge/)
-
-[More Details](/products/gold-bar-challenge/)
-
-[Roller Bowler](/products/roller-bowler/)
-
-[More Details](/products/roller-bowler/)
-
-[Electronic Dart Board](/products/electronic-dart-board/)
-
-[More Details](/products/electronic-dart-board/)
-
-[8 Lane Roll & Bowl Donkey Derby](/products/8-lane-roll-and-bowl-donkey-derby/)
-
-[More Details](/products/8-lane-roll-and-bowl-donkey-derby/)
-
-[Candy Floss Cart Hire](/products/candy-floss-cart-hire/)
-
-[More Details](/products/candy-floss-cart-hire/)
-
-[Corn Hole](/products/corn-hole/)
-
-[More Details](/products/corn-hole/)
-
-[Whack A Mole game hire](/products/whack-a-mole-game-hire/)
-
-[More Details](/products/whack-a-mole-game-hire/)
-
-[Batak Lite](/products/batak-lite/)
-
-[More Details](/products/batak-lite/)
-
-[Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/)
-
-[More Details](/products/scalextric-slot-car-racing/)
-
-[Snatch It](/products/snatch-it/)
-
-[More Details](/products/snatch-it/)
-
-[Danger-zone-strike-a-light-game-hire](/products/danger-zone-strike-a-light-game-hire/)
-
-[More Details](/products/danger-zone-strike-a-light-game-hire/)
-
-[Mega Wire - Branded Game Hire (stand alone)](/products/mega-wire-branded-game-hire-stand-alone/)
-
-[More Details](/products/mega-wire-branded-game-hire-stand-alone/)
-
-[Ballnado Grabber](/products/ballnado-grabber/)
-
-[More Details](/products/ballnado-grabber/)
-
-[The Vault](/products/the-vault/)
-
-[More Details](/products/the-vault/)
-
-[Crack The Code safe cracker](/products/crack-the-code-safe-cracker/)
-
-[More Details](/products/crack-the-code-safe-cracker/)
-
-[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/)
-
-[More Details](/products/prize-crane-arcade-grabber/)
-
-[Batak Pro](/products/batak-pro/)
-
-[More Details](/products/batak-pro/)
-
-[Prize Wheel](/products/prize-wheel/)
-
-[More Details](/products/prize-wheel/)
-
-[Roll & Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/)
-
-[More Details](/products/roll-and-bowl-donkey-derby/)
-
-[Plinko Game Hire](/products/plinko-game-hire/)
-
-[More Details](/products/plinko-game-hire/)
-
-[Virtual Pinball](/products/virtual-pinball/)
-
-[More Details](/products/virtual-pinball/)
-
-[LEADER BOARD](/products/leader-board/)
-
-[More Details](/products/leader-board/)
-
-[GIANT BUZZ WIRE](/products/giant-buzz-wire/)
-
-[More Details](/products/giant-buzz-wire/)
-
-[CASH GRABBER MACHINE HIRE](/products/grab-a-grand/)
-
-[More Details](/products/grab-a-grand/)
-
-[High Striker](/products/high-striker/)
-
-[More Details](/products/high-striker/)
-
-[Pix N Mix Hire](/products/pix-n-mix-hire/)
-
-[More Details](/products/pix-n-mix-hire/)
-
-[Racing Car Simulators](/products/twin-racing-car-simulators/)
-
-[More Details](/products/twin-racing-car-simulators/)
-
-[VR Race Car Simulator](/products/vr-race-car-simulator/)
-
-[More Details](/products/vr-race-car-simulator/)
-
-[Roll And Bowl Game Hire](/products/roll-and-bowl-game-hire/)
-
-[More Details](/products/roll-and-bowl-game-hire/)
-
-[RETRO ARCADE GAMES](/products/retro-arcade-games/)
-
-[More Details](/products/retro-arcade-games/)
-
-[Beat The Buzzer](/products/beat-the-buzzer/)
-
-[More Details](/products/beat-the-buzzer/)
-
-[Dance Machine](/products/dance-machine/)
-
-[More Details](/products/dance-machine/)
-
-[Shuffleboard Hire](/products/shuffle-board-hire/)
-
-[More Details](/products/shuffle-board-hire/)
-
-[PLUCK A DUCK RACING](/products/pluck-a-duck-racing/)
-
-[More Details](/products/pluck-a-duck-racing/)
-
-[TOP DOC OPERATION GAME](/products/top-doc-operation-game/)
-
-[More Details](/products/top-doc-operation-game/)
-
-[ELECTRONIC BASKET BALL HIRE](/products/ultimate-green-screen-photo-booth/)
-
-[More Details](/products/ultimate-green-screen-photo-booth/)
-
-[GOLD CUP HORSE RACING](/products/gold-cup-horse-racing/)
-
-[More Details](/products/gold-cup-horse-racing/)
-
-[FOOTBALL TABLES](/products/football-tables/)
-
-[More Details](/products/football-tables/)
-
-[GREEN SCREEN PHOTO BOOTHS](/products/green-screen-photo-booths/)
-
-[More Details](/products/green-screen-photo-booths/)
-
-[Air Hockey Table Hire](/products/air-hockey-table-hire/)
-
-[More Details](/products/air-hockey-table-hire/)
-
-[Table Tennis Hire](/products/table-tennis-hire/)
-
-[More Details](/products/table-tennis-hire/)
-
-[Giant Deck Chair Hire](/products/giant-deck-chair-hire/)
-
-[More Details](/products/giant-deck-chair-hire/)
 
 ## What our customers are saying…
 

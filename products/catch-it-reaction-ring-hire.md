@@ -5,8 +5,8 @@ price: "£445"
 order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"
 meta_description: "Hire Catch It Reaction games for corporate events &amp; exhibitions. Nationwide delivery, custom branding, professional setup. Get your quote today."
-categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -77,7 +77,7 @@ tabs:
       
       **£1495**\+ vat**
       
-      Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotion-event-games/).
+      Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotional-event-games/#content).
       
       ## What Is Catch It Reaction?
       
@@ -85,7 +85,7 @@ tabs:
       
       The fast-paced nature of the game creates an exciting atmosphere for both participants and spectators, making it perfect for drawing crowds and creating memorable experiences at corporate events and exhibitions.
       
-      Popular at trade shows, conferences, and [team building events](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
+      Popular at trade shows, conferences, and [team building events](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
       
       ## Why Choose Catch It Reaction Game Hire for Your Next Event?
       
@@ -193,17 +193,17 @@ tabs:
       
       Enhance your event with our complete range of interactive entertainment:
       
-      *   [Batak Pro](/products/batak-pro/) - Reaction speed challenge
+      *   [Batak Pro](/products/batak-pro/#content) - Reaction speed challenge
           
-      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/) - Test your strength game
+      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/#content) - Test your strength game
           
-      *   [Arcade Games](/categories/arcade-games/) - Classic gaming entertainment
+      *   [Arcade Games](/categories/arcade-games/#content) - Classic gaming entertainment
           
-      *   [Prize Games](/categories/prize-games/) - Win exciting rewards
+      *   [Prize Games](/categories/prize-games/#content) - Win exciting rewards
       
       ## **Hire Catch It Reaction Game for Your Event**
       
-      Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/contact-fun-pro-uk/) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
+      Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -219,7 +219,7 @@ tabs:
       
       Need a longer hire period?
       
-      [Contact us](/contact-fun-pro-uk/) for custom pricing and availability.
+      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
       
       **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       

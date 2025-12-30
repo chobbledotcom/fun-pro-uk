@@ -16,13 +16,13 @@ On Sunday 17th October 2016 Perfect Snap attended the wedding fair at Wootton Pa
 
 It was a stunning venue, with gorgeous open countryside views and a lovely outside area to sit and enjoy the sunny weather we were blessed with on the day.
 
-The Perfect Snap team didn't have time however to enjoy the sun that day, it was all hands on deck to set up our fantastic [Magic Selfie Mirror](/products/magic-mirror/) ready for the wedding fair.
+The Perfect Snap team didn't have time however to enjoy the sun that day, it was all hands on deck to set up our fantastic [Magic Selfie Mirror](/products/magic-mirror/#content) ready for the wedding fair.
 
 Our stand looked amazing!
 
 Wootton Park was extremely busy, lots of people came to view the variety of suppliers that were there showcasing their goods. We cant wait for the next one!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

@@ -10,7 +10,7 @@ redirect_from:
 
 !
 
-Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/categories/branded-exhibition-games/) at CBS Arena, Coventry.
+Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/branded-game-hire/#content) at CBS Arena, Coventry.
 
 ## Client Testimonial
 
@@ -52,11 +52,11 @@ As told to Fun Pro by the Baylis & Harding Marketing Team.
 
 "We needed something special for our Christmas product showcase at CBS Arena. This wasn't just another trade show—we were presenting our entire Christmas collection to Sainsbury’s, and we knew the competition would be fierce. We wanted buyers to remember our stand, engage with our products, and see the excitement our brand could generate.
 
-When we found Fun Pro through a Google search, we were immediately impressed by their professional approach and understanding of [corporate events](/categories/corporate-entertainment/). We explained that we needed interactive entertainment that could be fully customised with our branding whilst drawing consistent crowds to our stand throughout the day."
+When we found Fun Pro through a Google search, we were immediately impressed by their professional approach and understanding of [corporate events](/office-and-corporate-entertainment/#content). We explained that we needed interactive entertainment that could be fully customised with our branding whilst drawing consistent crowds to our stand throughout the day."
 
 The brief was clear but challenging: create an engaging attraction that would showcase Baylis & Harding's Christmas products whilst maintaining the premium brand image they'd worked so hard to establish. The marketing team wanted something that would encourage interaction without being too gimmicky, and importantly, something that could be completely customised to match their brand aesthetic.
 
-Fun Pro's team recommended a custom-branded [prize crane](/products/prize-crane-arcade-grabber/); a solution that would allow Baylis & Harding to showcase their actual Christmas products as prizes whilst creating an engaging, interactive experience. The concept was perfect: visitors would be drawn to try their luck at winning genuine Baylis & Harding Christmas products, creating natural engagement opportunities for the sales team.
+Fun Pro's team recommended a custom-branded [prize crane](/products/prize-crane-arcade-grabber/#content); a solution that would allow Baylis & Harding to showcase their actual Christmas products as prizes whilst creating an engaging, interactive experience. The concept was perfect: visitors would be drawn to try their luck at winning genuine Baylis & Harding Christmas products, creating natural engagement opportunities for the sales team.
 
 "Colin and the team at Fun Pro took time to understand our brand requirements," the marketing team explained. "They weren't just providing equipment, they were helping us create a brand experience. Their in-house print team worked with our artwork to ensure the crane would be wrapped completely in our branding, matching our stand design perfectly."
 

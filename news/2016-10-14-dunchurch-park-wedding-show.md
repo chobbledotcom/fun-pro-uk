@@ -25,7 +25,7 @@ The quality of our mirror and the pictures it produces are second to none. We on
   
 We were very busy taking bookings for 2017 and 2018 and wish to thank everyone that booked at the show, if you didn't book on the day then drop us a line as we still have availability.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

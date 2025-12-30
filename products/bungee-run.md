@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Bungee Run | Corporate Entertainment | Fun Pro UK"
 meta_description: "Exciting and intense competitive fun! Strap on the bungee rope and see who can reach the other side of the inflatable first. Hilarious for spectators too!"
-categories: ["categories/fun-days.md", "categories/interactive-game-hire.md"]
+categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features: []
@@ -40,11 +40,11 @@ tabs:
       
       **£395**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## LETS GET STARTED!
       

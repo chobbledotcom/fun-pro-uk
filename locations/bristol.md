@@ -1,12 +1,15 @@
 ---
 title: "Bristol"
-meta_title: "Event Hire Bristol | Fun Pro UK"
-meta_description: "Professional event hire and entertainment services in Bristol. Interactive games, photo booths and more for corporate events, weddings and parties."
-layout: location
-subtitle: Subtitle subtitle subtitle subtitle
-thumbnail: "images/locations/bristol.png"
+meta_title: "Bristol - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+meta_description: "Bristol - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+redirect_from:
+  - "/pages/bristol/"
 ---
 
-# Event Hire Bristol
+# Bristol
 
-Browse our event hire services available in Bristol and the surrounding area.
+## What our customers are saying…
+
+[Load More Reviews](/testimonials/#content)
+
+Happy customers we have worked along side

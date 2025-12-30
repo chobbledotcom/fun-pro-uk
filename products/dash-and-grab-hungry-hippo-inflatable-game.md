@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK"
 meta_description: "This inflatable dash &amp; grab game is great competitive fun! Hungry Hippos with humans instead - grab the balls on a bungee rope. Fun for spectators too!"
-categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
+categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features: []
@@ -15,7 +15,6 @@ options:
     unit_price: 495
 redirect_from:
   - "/category/corporate-entertainment/32/dash-and-grab-hungry-hippo-inflatable-game/"
-  - "/category/fun-days/32/dash-and-grab-hungry-hippo-inflatable-game/"
 gallery:
   - "/images/products/dash-and-grab-hungry-hippo-inflatable-game-1.jpg"
   - "/images/products/dash-and-grab-hungry-hippo-inflatable-game-2.jpg"
@@ -39,11 +38,11 @@ tabs:
       
       **£495**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -83,16 +82,16 @@ tabs:
       
       **CHECK OUT OUR OTHER GAMES**
       
-      Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/categories/fun-days/) making your event fabulous fun for everyone
+      Why not hire the Hungry Hippos along with some other inflatables for your [Fun Day](/categories/fun-days/#content) making your event fabulous fun for everyone
       
       To hire the Bungee Run to make your event complete with action and fun call our team today.
       
       ## **Popular Games**
       
-      *   [Total Wipeout](/products/total-wipe-out/)
-      *   [Human Football](/products/human-table-football/)
-      *   [75ft Assault Course](/products/inflatable-assault-courses/)
-      *   [Bungee Run](/products/bungee-run/)
+      *   [Total Wipeout](/products/total-wipe-out/#content)
+      *   [Human Football](/products/human-table-football/#content)
+      *   [75ft Assault Course](/products/inflatable-assault-courses/#content)
+      *   [Bungee Run](/products/bungee-run/#content)
       
       ## THE HIPPOS ARE HUNGRY!
       

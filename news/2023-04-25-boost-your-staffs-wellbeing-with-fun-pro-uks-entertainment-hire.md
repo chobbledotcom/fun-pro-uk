@@ -12,27 +12,27 @@ gallery:
 
 # 25 April 23 - Boost Your Staff's Wellbeing with Fun Pro UK's Entertainment Hire
 
-As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/categories/corporate-entertainment/) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
+As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/office-and-corporate-entertainment/#content) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
   
 Employee wellbeing is essential for the smooth running of any organisation. Happy employees mean lower staff turnover, higher productivity, and more motivated workers. We have plenty of cool ideas that could help you boost worker satisfaction and keep your business flowing as it should.
 
 ## Sports and Exercise Equipment
 
-Regular exercise is essential for physical and mental health. By hiring sports exercise equipment such as [Batak Lite](/products/batak-pro/), [Batak Pro](/products/batak-pro/) or even something as simple as [Air Hockey](/products/air-hockey-table-hire/), businesses can encourage employees to take a break and get moving during the workday. Not only does this improve physical health, but it can also boosts people's mood and productivity.
+Regular exercise is essential for physical and mental health. By hiring sports exercise equipment such as [Batak Lite](/products/batak-pro/#content), [Batak Pro](/products/batak-pro/#content) or even something as simple as [Air Hockey](/products/air-hockey-table-hire/#content), businesses can encourage employees to take a break and get moving during the workday. Not only does this improve physical health, but it can also boosts people's mood and productivity.
 
 ## Games and Entertainment
 
-[Corporate entertainment equipment and games](/categories/corporate-entertainment/) can have a significant impact on employee wellbeing. We have many options such as [table football](/products/football-tables/), [arcade claw grabbers](/products/air-hockey-table-hire/), [retro arcade games](/products/retro-arcade-games/), and [Racing Car Simulators](/products/twin-racing-car-simulators/) that can provide a much-needed break from work, reducing stress levels and helping employee morale.
+[Corporate entertainment equipment and games](/categories/corporate-entertainment/#content) can have a significant impact on employee wellbeing. We have many options such as [table football](/products/football-tables/#content), [arcade claw grabbers](/products/air-hockey-table-hire/#content), [retro arcade games](/products/retro-arcade-games/#content), and [Racing Car Simulators](/products/racing-car-simulators/#content) that can provide a much-needed break from work, reducing stress levels and helping employee morale.
 
 ## Outdoor Equipment
 
-Getting outside and enjoying fresh air is vital for physical and mental health. By hiring equipment such as [adult bouncy castles](/products/large-bouncy-castles/) and [human hungry hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/), businesses can draw their staff into the great outdoors to enjoy themselves.  
+Getting outside and enjoying fresh air is vital for physical and mental health. By hiring equipment such as [adult bouncy castles](/products/large-bouncy-castles/#content) and [human hungry hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/#content), businesses can draw their staff into the great outdoors to enjoy themselves.  
   
 By hiring equipment from Fun Pro UK, companies from London, Manchester, Birmingham, Leeds and throughout the country can show employees that they care about their wellbeing. We make hiring office entertainment equipment easy, with nationwide delivery and a wide range of products available. Just look through our website and make a booking online!  
   
-*At Fun Pro UK, we're committed to helping businesses promote employee wellbeing. [Speak with us today](/contact-fun-pro-uk/) to find out more about our range of equipment and how it can benefit your business. With our expert help, you can support employee wellbeing and enjoy a happier, more motivated workforce.*
+*At Fun Pro UK, we're committed to helping businesses promote employee wellbeing. [Speak with us today](/contact-fun-pro-uk/#content) to find out more about our range of equipment and how it can benefit your business. With our expert help, you can support employee wellbeing and enjoy a happier, more motivated workforce.*
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

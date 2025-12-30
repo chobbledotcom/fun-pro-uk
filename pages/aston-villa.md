@@ -10,7 +10,7 @@ redirect_from:
 
 Looking for a unique venue to hold your next Conference? An iconic sporting stadium situated on the outskirts of **Birmingham** will definitely tick all the boxes for your next event. Have you guessed where this could be yet?
 
-The Aston villa Football club - Villa Park, Birmingham is conveniently situated near to the M6 with only a few minutes walk from the railway station. The stadium offers spectacular views with suites along with conference space in addition, adequate parking which ticks all the boxes for your next [corporate event](/locations/birmingham/corporate-event-hire/).
+The Aston villa Football club - Villa Park, Birmingham is conveniently situated near to the M6 with only a few minutes walk from the railway station. The stadium offers spectacular views with suites along with conference space in addition, adequate parking which ticks all the boxes for your next [corporate event](/locations/birmingham/corporate-event-hire/#content).
 
 Fun Pro Uk have attended this venue often delivering our high quality Interactive Games. [Conference Entertainment](/categories/exhibition-games/#content) such as Photo Booth Hire and Racing Car Simulators are always popular for evening entertainment at dinner.
 

@@ -54,8 +54,9 @@ const buildValidDestinations = () => {
   
   // Static pages
   destinations.add('/');
-  destinations.add('/blog/');
   destinations.add('/reviews/');
+  destinations.add('/news/');      // News index page
+  destinations.add('/products/');  // Products index page
   
   return destinations;
 };
@@ -136,11 +137,15 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
   const currentSlug = path.basename(filePath, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
   const errors = [];
   
-  // First, fix linked images pointing to HTML pages: [![alt](image)](page.html)
-  // This happens when pandoc converts <a href="page.html"><img src="image" alt="text"/></a>
+  // First, fix linked images pointing to internal pages: [![alt](image)](page) or [![alt](image)](page.html)
+  // This happens when pandoc converts <a href="page"><img src="image" alt="text"/></a>
   // We convert these to regular text links, removing the image
-  content = content.replace(/\[!\[([^\]]*)\]\([^)]+\)\]\(([^)]+\.html[^)]*)\)/g, (match, alt, target) => {
-    // Extract the page link target, strip anchor and .html
+  content = content.replace(/\[!\[([^\]]*)\]\([^)]+\)\]\(([^)]+)\)/g, (match, alt, target) => {
+    // Skip external links
+    if (target.startsWith('http://') || target.startsWith('https://') || target.startsWith('mailto:') || target.startsWith('tel:')) {
+      return match;
+    }
+    // Extract the page link target, strip anchor (like #BodyContent) and .html
     let cleanTarget = target.replace(/#.*$/, '').replace(/\.html$/, '');
     cleanTarget = cleanTarget.replace(/['']/g, '');  // Remove apostrophes
     
@@ -242,6 +247,22 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
     return alt || '';
   });
   
+  // Remove bogus image links pointing to internal pages (not actual images)
+  // e.g., ![Contact us](/pages/contact-fun-pro-uk#BodyContent) -> removed
+  // These are artifacts from pandoc converting <a href="page"><img/></a> incorrectly
+  content = content.replace(/!\[([^\]]*)\]\(\/([^)]+)\)/g, (match, alt, target) => {
+    // Skip actual images (have image file extensions)
+    if (/\.(jpg|jpeg|png|gif|webp|svg|ico)($|[?#])/i.test(target)) {
+      return match;
+    }
+    // Skip external URLs that happen to start with /
+    if (target.startsWith('/http')) {
+      return match;
+    }
+    // Remove the bogus image link entirely (return empty string)
+    return '';
+  });
+  
   // More robust regex that handles titles with parentheses
   // Matches: [text](url) or [text](url "title") or [text](url "title with (parens)")
   content = content.replace(/\[([^\]]*)\]\(([^"\s)]+(?:\s+"[^"]*")?)\)/g, (match, text, target) => {
@@ -303,6 +324,11 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
     // Map through redirects
     if (redirectMap.has(resolved)) {
       resolved = redirectMap.get(resolved);
+    }
+    
+    // Handle /category/all-products/ -> /products/
+    if (resolved === '/category/all-products/' || resolved.startsWith('/category/all-products/')) {
+      resolved = '/products/';
     }
     
     // Validate and try to fix unknown URLs
@@ -385,17 +411,37 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
         }
       }
       
+      // Handle broken news links with old date-in-path format
+      // e.g., /news/2024-08-23/christmas-events-and-party-ideas/ -> /news/
+      // These are deleted articles that should redirect to the news index
+      if (!found) {
+        const brokenNewsMatch = resolved.match(/^\/news\/\d{4}-\d{2}-\d{2}\/[^/]+\/$/);
+        if (brokenNewsMatch) {
+          resolved = '/news/';
+          found = true;
+        }
+      }
+      
       if (!found) {
         errors.push(`Invalid link: ${resolved} (from "${match}")`);
       }
     }
     
-    // Rebuild link
+    // Rebuild link with anchor
     let finalTarget = resolved;
-    if (anchor && !['specification', 'footercontact'].includes(anchor.toLowerCase()) &&
-        !anchor.includes(':~:text=')) {
-      const cleanAnchor = anchor.toLowerCase() === 'bodycontent' ? 'content' : anchor;
-      finalTarget += '#' + cleanAnchor;
+    if (anchor) {
+      // Skip useless anchors, convert BodyContent to content
+      if (!['specification', 'footercontact'].includes(anchor.toLowerCase()) &&
+          !anchor.includes(':~:text=')) {
+        const cleanAnchor = anchor.toLowerCase() === 'bodycontent' ? 'content' : anchor;
+        finalTarget += '#' + cleanAnchor;
+      } else {
+        // Useless anchor - add #content instead
+        finalTarget += '#content';
+      }
+    } else {
+      // No anchor - add #content to all internal links
+      finalTarget += '#content';
     }
     
     return `[${text}](${finalTarget})`;

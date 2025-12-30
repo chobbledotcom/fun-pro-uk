@@ -5,7 +5,7 @@ price: "£895"
 order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
-categories: ["categories/christmas-game-hire.md", "categories/all-products.md", "categories/christmas-games.md", "categories/roll-and-bowl.md"]
+categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features: []
@@ -14,7 +14,7 @@ options:
     max_quantity: 1
     unit_price: 895
 redirect_from:
-  - "/category/christmas-game-hire/66/roll-and-bowl-reindeer-racing-game-hire/"
+  - "/category/christmas-games/66/roll-and-bowl-reindeer-racing-game-hire/"
 gallery:
   - "/images/products/roll-and-bowl-reindeer-racing-game-hire-1.jpg"
   - "/images/products/roll-and-bowl-game-hire-roll-and-bowl-reindeer-racing-game-hire-2.jpg"
@@ -76,15 +76,15 @@ tabs:
       
       **£2695**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       **Discounted rates** available for **Multiple Days &**Additional items**
       
@@ -130,17 +130,17 @@ tabs:
       
       **Popular Items:**
       
-      [Leaded Board](/products/leader-board/)
+      [Leaded Board](/products/leader-board/#content)
       
       Lights Out
       
-      [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
+      [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       
-      [Crack the Code](/products/crack-the-code-safe-cracker/)
+      [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## Roll And Bowl Reindeer Racing
       
-      The [Roll And Bowl](/products/roll-and-bowl-game-hire/#content) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/products/roll-and-bowl-game-hire/#content) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
+      The [Roll And Bowl](/products/#content) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/products/#content) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
       
       Roll and Bowl Reindeer Racing game is a fun and exciting challenge for four players. Race the red, green, yellow and blue reindeer around the track to see who can get their reindeer across the finish line first.
       

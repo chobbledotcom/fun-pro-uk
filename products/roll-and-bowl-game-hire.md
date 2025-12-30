@@ -5,8 +5,8 @@ price: "£895"
 order: 10
 meta_title: "Roll And Bowl Hire, Rent Roll A Ball Kentucky Derby, UK"
 meta_description: "Hire Our Roll And Bowl Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/roll-and-bowl.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,7 +14,6 @@ options:
     max_quantity: 1
     unit_price: 895
 redirect_from:
-  - "/category/all-products/51/roll-and-bowl-game-hire/"
   - "/category/arcade-games/51/roll-and-bowl-game-hire/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-roll-and-bowl-donkey-derby-roll-and-bowl-game-hire.jpg"
@@ -121,15 +120,15 @@ tabs:
       
       **£2695**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

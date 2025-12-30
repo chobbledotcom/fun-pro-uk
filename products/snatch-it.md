@@ -5,8 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"
 meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/arcade-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -15,7 +15,6 @@ options:
     unit_price: 395
 redirect_from:
   - "/category/arcade-games/82/snatch-it/"
-  - "/category/exhibition-games/82/snatch-it/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-snatch-it.jpg"
   - "/images/products/snatch-it-2.jpg"
@@ -61,15 +60,15 @@ tabs:
       
       **£1195**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -151,7 +150,7 @@ tabs:
         
       [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
       Tel: 0247 7220 701  
-      [www.funprouk.co.uk](/christmas-entertainment-game-hire/)
+      [www.funprouk.co.uk](/#content)
       
       Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!
 ---

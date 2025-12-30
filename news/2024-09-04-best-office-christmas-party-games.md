@@ -14,9 +14,9 @@ gallery:
 
 Planning an event and want to ensure your guests have an amazing experience? Game rentals are a fantastic way to add fun and interactive elements to any gathering, whether it’s a corporate event, birthday party, convention, or community gathering.
 
-But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/categories/corporate-entertainment/)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
+But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/office-and-corporate-entertainment/#content)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## Top Office Christmas Party Games
 
@@ -26,25 +26,25 @@ The holiday season is the perfect time to bring colleagues together and create l
 
 *   **How to Play:** A classic holiday tradition, Secret Santa involves participants drawing names randomly and anonymously purchasing a gift for that person. At the party, each person gives their gift, and everyone guesses who their “Secret Santa” was.
 
-### 2.**[Whack An Elf Hire](/products/whack-an-elf/)**
+### 2.**[Whack An Elf Hire](/products/whack-an-elf/#content)**
 
-*   **How to Play:** Bring some competitive fun to your party with this interactive arcade-style game. Players use a mallet to whack elfs that pop up from the game board, trying to hit as many as possible in a set time. It's a Christmas version of [Whack a Mole](/products/whack-a-mole-game-hire/)!
+*   **How to Play:** Bring some competitive fun to your party with this interactive arcade-style game. Players use a mallet to whack elfs that pop up from the game board, trying to hit as many as possible in a set time. It's a Christmas version of [Whack a Mole](/products/whack-a-mole-game-hire/#content)!
 
 ### 3\. **Christmas Charades**
 
 *   **How to Play:** A festive twist on the classic game, Christmas Charades involves acting out holiday-related phrases, movies, or songs without speaking while others guess. Use categories like "Christmas films" or "Christmas songs" to keep it themed.
 
-### 4\. **[Christmas Photo Booths](/products/christmas-photo-booths/)**
+### 4\. **[Christmas Photo Booths](/products/christmas-photo-booths/#content)**
 
-*   **How to Play:** Set up a [photo booth](/categories/photo-booths-and-magic-mirrors/) with Christmas-themed props, like Santa hats, elf ears, and mistletoe, to capture funny and festive moments. Guests can take turns striking poses and taking pictures as a fun way to commemorate the party.
+*   **How to Play:** Set up a [photo booth](/categories/photo-booths-and-magic-mirrors/#content) with Christmas-themed props, like Santa hats, elf ears, and mistletoe, to capture funny and festive moments. Guests can take turns striking poses and taking pictures as a fun way to commemorate the party.
 *   **Materials Needed:** Photo booth, props.
 *   **Players:** Unlimited.
 
-### 5. **[Reindeer Nosenado Christmas Ballnado Hire](/products/reindeer-nosenado-christmas-ballnado-hire/)**
+### 5. **[Reindeer Nosenado Christmas Ballnado Hire](/products/reindeer-nosenado-christmas-ballnado-hire/#content)**
 
-*   **How to Play:** In this fun and festive version of the [Grab a Grand game](/categories/grab-a-grand/), players must collect as many flying Rudolph noses (balls) as they can in a set amount of time. This game hire option adds a quirky and active element to your office party, sure to bring plenty of laughs.
+*   **How to Play:** In this fun and festive version of the [Grab a Grand game](/categories/grab-a-grand/#content), players must collect as many flying Rudolph noses (balls) as they can in a set amount of time. This game hire option adds a quirky and active element to your office party, sure to bring plenty of laughs.
 
-### 6\. **[Fun Foods](/categories/fun-foods/) Stations**
+### 6\. **[Fun Foods](/categories/fun-foods/#content) Stations**
 
 *   **How to Play:** Combine food and fun by setting up stations where guests can build their own Christmas snacks, such as decorating gingerbread cookies, customising mince pies, or creating their own hot cocoa blend. While not a game, this interactive station adds a delicious and engaging element to your party.
 
@@ -54,24 +54,24 @@ Planning games for your office Christmas party is a great way to ensure that eve
 
 ### What Are the Best Games for an Office Christmas Party?
 
-The best games for your office Christmas party depend on the size of your team, your available space, and the type of fun you want to create. You might want to opt for [Roll & Bowl games](/categories/roll-and-bowl/) or [Pub Games](/categories/pub-games/) depending on the characteristics of your team.
+The best games for your office Christmas party depend on the size of your team, your available space, and the type of fun you want to create. You might want to opt for [Roll & Bowl games](/categories/roll-and-bowl/#content) or [Pub Games](/categories/pub-games/#content) depending on the characteristics of your team.
 
 ### How Many Games Should We Plan for a Typical Office Christmas Party?
 
 The number of game hire options you plan depends on the length of your party and how many guests will be attending. For most office Christmas parties, it’s a good idea to plan for:
 
-*   **2-4 games** for a smaller party or for [wellbeing days](/events/staff-wellbeing-days/) and [team building days](/team-building-ideas/) lasting 2-3 hours.
-*   **4-6 games** for larger parties, [company award ceremonies](/events/company-award-ceremonies/) or all-day events where you’ll need more activities to keep everyone entertained.
+*   **2-4 games** for a smaller party or for [wellbeing days](/pages/wellbeing-days ) and [team building days](/pages/team-building-ideas ) lasting 2-3 hours.
+*   **4-6 games** for larger parties, [company award ceremonies](/category/company-award-ceremonies ) or all-day events where you’ll need more activities to keep everyone entertained.
 
-If your office has a larger team, consider setting up game stations with different activities, allowing groups to rotate through the games over the course of the party. Games like **[Roll And Bowl Reindeer Racing Game Hire](/products/roll-and-bowl-reindeer-racing-game-hire/)** are perfect for keeping things varied and fun.
+If your office has a larger team, consider setting up game stations with different activities, allowing groups to rotate through the games over the course of the party. Games like **[Roll And Bowl Reindeer Racing Game Hire](/products/roll-and-bowl-reindeer-racing-game-hire/#content)** are perfect for keeping things varied and fun.
 
 ### What Types of Games Are Suitable for Different Team Sizes?
 
-*   **Small Teams (10-20 people):** Games that involve everyone, such as **Christmas Charades** or **Secret Santa**, work best. For a more competitive option, consider smaller [arcade games](/categories/arcade-games/) or tabletop games like **Casino Games**.
+*   **Small Teams (10-20 people):** Games that involve everyone, such as **Christmas Charades** or **Secret Santa**, work best. For a more competitive option, consider smaller [arcade games](/categories/arcade-games/#content) or tabletop games like **Casino Games**.
     
 *   **Medium Teams (20-50 people):** For medium-sized teams, consider games that allow multiple participants, such as **Photo Booths** or **Trivia Competitions**.
     
-*   **Large Teams (50+ people):** For larger teams, it’s best to set up multiple game stations so that everyone can participate. Consider hiring a mix of physical activities like **[Electronic Basketball Hire](/products/ultimate-green-screen-photo-booth/)** and interactive options like **[Prize Wheels](/products/prize-wheel/)** to keep your event lively and engaging.
+*   **Large Teams (50+ people):** For larger teams, it’s best to set up multiple game stations so that everyone can participate. Consider hiring a mix of physical activities like **[Electronic Basketball Hire](/products/electronic-basket-ball-hire/#content)** and interactive options like **[Prize Wheels](/products/prize-wheel/#content)** to keep your event lively and engaging.
 
 ### How Far in Advance Should We Plan and Organise the Games?
 
@@ -94,13 +94,13 @@ Get in touch with Fun Pro UK today to start planning your perfect Christmas even
 ### Considerations for Choosing Games for Your Office Party
 
 **1\. Team Size**  
-The size of your team plays a crucial role in determining the right games for your office party. For smaller teams, consider games where everyone can participate together. Options like **[Prize Games](/categories/prize-games/)** or a Christmas quiz for adults are great for encouraging everyone to join in. If your team is larger, create multiple game stations with choices as seen with **[Exhibition Games](/categories/exhibition-games/)**, where small groups can take turns. This ensures everyone stays entertained and engaged throughout the event.
+The size of your team plays a crucial role in determining the right games for your office party. For smaller teams, consider games where everyone can participate together. Options like **[Prize Games](/categories/prize-games/#content)** or a Christmas quiz for adults are great for encouraging everyone to join in. If your team is larger, create multiple game stations with choices as seen with **[Exhibition Games](/categories/exhibition-games/#content)**, where small groups can take turns. This ensures everyone stays entertained and engaged throughout the event.
 
 **2\. Available Space**  
-The space available at your office or venue is another important factor. For smaller spaces, compact games like **[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/), [retro arcade games](/products/retro-arcade-games/)** or **[Corporate Entertainment](/categories/corporate-entertainment/)** setups are ideal because they offer a lot of fun without taking up much room. Larger spaces allow for more active games, such as **[Electronic Basketball Hire](/products/ultimate-green-screen-photo-booth/)** or **[Roll And Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/)**, which encourage movement and energy.
+The space available at your office or venue is another important factor. For smaller spaces, compact games like **[Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/#content), [retro arcade games](/category/arcade-games/4/retro-arcade-games )** or **[Corporate Entertainment](/categories/corporate-entertainment/#content)** setups are ideal because they offer a lot of fun without taking up much room. Larger spaces allow for more active games, such as **[Electronic Basketball Hire](/products/electronic-basket-ball-hire/#content)** or **[Roll And Bowl Donkey Derby](/products/roll-and-bowl-donkey-derby/#content)**, which encourage movement and energy.
 
 **3\. Company Culture**  
-The type of games you choose should reflect your company’s culture. A laid-back and creative workplace might appreciate more relaxed and communal games to bring out everyone’s fun side. More competitive teams might enjoy interactive challenges like **[Danger Zone Strike a Light Game Hire](/products/danger-zone-strike-a-light-game-hire/)** or **[Batak Pro](/products/batak-pro/)**, where they can put their skills to the test.
+The type of games you choose should reflect your company’s culture. A laid-back and creative workplace might appreciate more relaxed and communal games to bring out everyone’s fun side. More competitive teams might enjoy interactive challenges like **[Danger Zone Strike a Light Game Hire](/products/danger-zone-strike-a-light-game-hire/#content)** or **[Batak Pro](/products/batak-pro/#content)**, where they can put their skills to the test.
 
 ### Gather Input from Employees
 

@@ -12,9 +12,9 @@ gallery:
 
 # 19 November 17 - Christmas Parties are Go!
 
-Last night saw our friends from Gefco celebrate in style with a Perfect Snap [Magic Selfie Mirror](/products/magic-mirror/) at their company [Christmas Party](/categories/christmas-game-hire/). We had been asked to customise the prints with their company slogan which was designed by our in house team.These looked fab on the instant selfies.
+Last night saw our friends from Gefco celebrate in style with a Perfect Snap [Magic Selfie Mirror](/products/magic-mirror/#content) at their company [Christmas Party](/categories/christmas-game-hire/#content). We had been asked to customise the prints with their company slogan which was designed by our in house team.These looked fab on the instant selfies.
 
-The Slate, at Lakeside Village Coventry was the venue of choice for the [corporate event.](/categories/corporate-entertainment/)
+The Slate, at Lakeside Village Coventry was the venue of choice for the [corporate event.](/categories/corporate-entertainment/#content)
 
 The event began at 9pm, our team as always were flexible and arranged to attend and set up before the guests arrived.This always works so well and allows our event team to be in,set up and out as quickly as possible This gave the staff an instant surprise as they began to arrive and made the atmosphere great for the night ahead.
 
@@ -24,7 +24,7 @@ Our friends here really knew how to have a great time, the Selfie Mirror along w
 
 Everyone had an instant print to take home as a fab souvenir. A great night was had by all as you can see from the photos.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

@@ -5,8 +5,8 @@ price: "£495"
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/arcade-games.md", "categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,7 +14,6 @@ options:
     max_quantity: 1
     unit_price: 495
 redirect_from:
-  - "/category/arcade-games/77/virtual-pinball/"
   - "/category/exhibition-games/77/virtual-pinball/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-virtual-pinball.jpg"
@@ -45,11 +44,11 @@ tabs:
       
       **£1445**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

@@ -24,7 +24,7 @@ The Fun Pro Team jumped into action thinking what we had available at such short
 
 Our team didn't take long before they came up with the ultimate fantastic game,... Bully!
 
-Bully as he is lovingly known is Fun Pro's friendly [rodeo bull](/products/rodeo-bull/). He loves to come out for parties and events, as long as he has been fed and watered by the team he will perform for the crowd with his twists and turns ensuring not many people stay on his back for long!
+Bully as he is lovingly known is Fun Pro's friendly [rodeo bull](/products/rodeo-bull/#content). He loves to come out for parties and events, as long as he has been fed and watered by the team he will perform for the crowd with his twists and turns ensuring not many people stay on his back for long!
 
 When we came up with the idea for the party our clients were in awe as they were struggling to think of a special game they could hire for their do!
 
@@ -40,7 +40,7 @@ Happy 40th Birthday from the Fun Pro Team!!
 
 !
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

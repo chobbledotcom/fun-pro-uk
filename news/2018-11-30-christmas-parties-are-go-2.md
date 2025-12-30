@@ -10,19 +10,19 @@ gallery:
   - "https://secure.cavy9soho.com/187947.png"
 ---
 
-# [30 November 18 - Christmas parties are go!](/news/christmas-parties-are-go-2/)
+# [30 November 18 - Christmas parties are go!](/news/christmas-parties-are-go-2/#content)
 
 Are you in the Christmas spirit yet? The Christmas party season has well and truly begun for Fun Pro UK. Our photo booth and selfie mirror prop boxes have been fully replenished and are overflowing with Christmas spirit, ready for the dozens of corporate and private events booked from Coventry to London.
 
-From funtastic glasses to Christmas turkey hats and reindeer ears there is not a prop that will not look great in your photo. Whether it is a work event of a private do we can guarantee your friends will look back on the prints with a smile and great memories of having a selfie in our [Christmas themed photo booths](/christmas-photo-booth-corporate-event-hire/).
+From funtastic glasses to Christmas turkey hats and reindeer ears there is not a prop that will not look great in your photo. Whether it is a work event of a private do we can guarantee your friends will look back on the prints with a smile and great memories of having a selfie in our [Christmas themed photo booths](/christmas-photo-booth-corporate-event-hire/#content).
 
-Whatever time of year each green screen photo booth and [magic selfie mirror](/categories/photo-booths-and-magic-mirrors/) we hire is delivered with an over flowing prop box of fun - ensuring that your guests can dress up for the occasion!
+Whatever time of year each green screen photo booth and [magic selfie mirror](/categories/photo-booths-and-magic-mirrors/#content) we hire is delivered with an over flowing prop box of fun - ensuring that your guests can dress up for the occasion!
 
 Why not hire our Santa's cabin themed photo booth for your Christmas event. The outer images on the cabin really make your venue come to life and add the magical ambience your guests will adore.
 
 What are you waiting for? book your Christmas party photo booth or selfie mirror for your December event today!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

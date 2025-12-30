@@ -13,7 +13,7 @@ gallery:
 # 19 December 16 - Another great review!
 
 Another fantastic review received from one of our many happy Perfectsnap  
-customers. Check out our other reviews by visiting our [testimonial page](/testimonials/).
+customers. Check out our other reviews by visiting our [testimonial page](/testimonials/#content).
 
 Thank you for providing the photos so quickly. The mirror definitely went down well.
 
@@ -23,7 +23,7 @@ Will be recommending you to friends and family!
 
 Have a great Christmas and New Year.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

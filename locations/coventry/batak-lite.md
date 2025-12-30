@@ -12,13 +12,13 @@ If you’re looking to add energy and engagement to your next staff get-together
 
 ## What Is Batak Lite?
 
-Batak Lite is a compact and portable version of [Batak Pro](/products/batak-pro/), offering an engaging and energetic activity that people of all ages can enjoy. Featuring a series of illuminated targets, the game is designed to challenge reflexes, improve coordination, and enhance reaction speeds.
+Batak Lite is a compact and portable version of [Batak Pro](/products/batak-pro/#content), offering an engaging and energetic activity that people of all ages can enjoy. Featuring a series of illuminated targets, the game is designed to challenge reflexes, improve coordination, and enhance reaction speeds.
 
-Interactive games like Batak Lite are a great choice for occasions such as [conferences](/conference-game-hire/), [team building](/team-building-ideas/) days, [promotional events](/locations/coventry/brand-promotional-event-hire/), and more. They provide an entertaining and competitive environment, making them an excellent icebreaker.
+Interactive games like Batak Lite are a great choice for occasions such as [conferences](/conference-game-hire/#content), [team building](/team-building-ideas/#content) days, [promotional events](/locations/coventry/brand-promotional-event-hire/#content), and more. They provide an entertaining and competitive environment, making them an excellent icebreaker.
 
 ## Why Choose Batak Lite For Your Next Event in Coventry?
 
-At Fun Pro, our Batak Lite game hire is a favourite among businesses and event organisers across Coventry and the UK. Here are some of the reasons why it’s the perfect addition to your next [corporate event](/locations/coventry/corporate-event-hire/):
+At Fun Pro, our Batak Lite game hire is a favourite among businesses and event organisers across Coventry and the UK. Here are some of the reasons why it’s the perfect addition to your next [corporate event](/locations/coventry/corporate-event-hire/#content):
 
 *   Exciting and Engaging: Keeps guests entertained while encouraging participation.
     
@@ -28,7 +28,7 @@ At Fun Pro, our Batak Lite game hire is a favourite among businesses and event o
     
 *   Full Delivery and Setup: We take care of everything, from transportation to installation.
     
-*   Ideal for Various Events: A great fit for trade shows, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), product launches, and more.
+*   Ideal for Various Events: A great fit for trade shows, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), product launches, and more.
 
 ## What’s Included In Batak Lite Hire Coventry?
 
@@ -70,7 +70,7 @@ Please contact us to find out more
 
 **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
-**[Contact us](/contact-fun-pro-uk/)**
+**[Contact us](/contact-fun-pro-uk/#content)**
 
 **Equipment size**
 
@@ -102,7 +102,7 @@ Please contact us to find out more
 
 ### Is Batak Lite available for last-minute bookings in Coventry?
 
-We always recommend booking your Batak Lite hire as soon you start planning your event. However, if you need something last minute, it’s best to [get in touch](/contact-fun-pro-uk/) with us so that we can see what we have available.
+We always recommend booking your Batak Lite hire as soon you start planning your event. However, if you need something last minute, it’s best to [get in touch](/contact-fun-pro-uk/#content) with us so that we can see what we have available.
 
 ### Do you offer Batak Lite hire for long-term events or multi-day exhibitions?
 
@@ -148,29 +148,29 @@ Plus many more.
 
 If you’re looking to expand the activity options you have at your event, we offer a variety of interactive games for hire in Coventry. Here are just a few of our popular choices:
 
-*   [**Arcade Games**](/categories/arcade-games/)
+*   [**Arcade Games**](/categories/arcade-games/#content)
     
-*   **[Prize Games](/categories/prize-games/)**
+*   **[Prize Games](/categories/prize-games/#content)**
     
-*   **[Pub Games](/categories/pub-games/)**
+*   **[Pub Games](/categories/pub-games/#content)**
     
-*   **[Roll and Bowl](/categories/roll-and-bowl/)**
+*   **[Roll and Bowl](/categories/roll-and-bowl/#content)**
     
-*   [**Crazy Golf**](/products/crazy-golf/)
+*   [**Crazy Golf**](/products/crazy-golf/#content)
 
-[View all our event hire products and games here](/categories/all-products/)
+[View all our event hire products and games here](/products/#content)
 
 ## Hire Batak Lite For Your Next Event in Coventry
 
-[Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/)
+[Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content)
 
 Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/)
+*   [Retro arcade machine](/products/retro-arcade-games/#content)
 *   [Batak Pro](/products/batak-pro/#content)
-*   [Dance Machine](/products/dance-machine/)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-*   [Lights Out](/categories/interactive-game-hire/)
+*   [Dance Machine](/products/dance-machine/#content)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+*   [Lights Out](/categories/interactive-game-hire/#content)
 
 ## What our customers are saying…
 

@@ -5,7 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Hire Basketball Arcade Game, Rent Electronic Basketball Game"
 meta_description: "Hire Basketball Arcade Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md"]
+categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features: []
@@ -15,7 +15,6 @@ options:
     unit_price: 295
 redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
-  - "/category/interactive-game-hire/6/electronic-basket-ball-hire/"
 gallery:
   - "/images/products/electronic-basket-ball-hire-lights-out-game-lights-out-game-2-ultimate-green-screen-photo-booth.jpg"
   - "/images/products/electronic-basket-ball-hire-ultimate-green-screen-photo-booth.jpg"
@@ -69,11 +68,11 @@ tabs:
       
       **£995**\+ vat**
       
-      Delivered [](/products/ultimate-green-screen-photo-booth/)and [](/products/ultimate-green-screen-photo-booth/)installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery [](/products/ultimate-green-screen-photo-booth/)Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      [**Email:**](/products/ultimate-green-screen-photo-booth/) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -113,9 +112,9 @@ tabs:
       
       **Popular items to order along side our Electronic Basket Ball are**
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
-      *   [Twin race car simulators](/products/twin-racing-car-simulators/)
-      *   [Dance Machine](/products/dance-machine/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Twin race car simulators](/products/racing-car-simulators/#content)
+      *   [Dance Machine](/products/dance-machine/#content)
       *   Lights Out
       
       ## **Basketball Game Hire**
@@ -182,7 +181,7 @@ tabs:
       
       ## **Basketball Arcade Game For Exhibitions**
       
-      The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/products/twin-racing-car-simulators/) or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/products/inflatable-assault-courses/) to add to the excitement.
+      The crazy competition of the basketball challenge hire is perfect for your company fun day, and it's a great team builder too. Add in some other interactive games, such as [racing car simulator hire](/products/racing-car-simulators/#content) or our strike a light reaction game, and you can really build on the fun. We even have competitive inflatables like the wipeout swinging arm or huge [inflatable assault course hire](/products/inflatable-assault-courses/#content) to add to the excitement.
       
       ## **Rise to the challenge**
       

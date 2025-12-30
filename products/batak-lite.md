@@ -5,8 +5,8 @@ price: "£445"
 order: 1
 meta_title: "Batak Lite Game Hire | Interactive Game | Corporate Engagement"
 meta_description: "Hire Batak Lite for exhibitions, corporate events &amp; parties. Engage guests with this fast-paced reaction game. Book now for a fun, competitive experience!"
-categories: ["categories/all-products.md", "categories/batak.md", "categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,8 +14,6 @@ options:
     max_quantity: 1
     unit_price: 445
 redirect_from:
-  - "/category/all-products/61/batak-lite/"
-  - "/category/batak/61/batak-lite/"
   - "/category/exhibition-games/61/batak-lite/"
 gallery:
   - "/images/products/batak-lite-lights-out-game-lights-out-game-2.jpg"
@@ -63,7 +61,7 @@ faqs:
   - question: "Can Batak Lite be used outdoors?"
     answer: "No. Batak Lite is only suitable for indoor use."
   - question: "How long does the hire period last?"
-    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, [contact us for a free quote](/contact-fun-pro-uk/)."
+    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, [contact us for a free quote](/contact-fun-pro-uk/#content)."
   - question: "Is Batak Lite easy to transport and set up?"
     answer: "Yes. Thanks to the end to end service offered by Fun Pro, we take care of this for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the set up, and will even collect it when you're finished."
   - question: "What power source is required for the game?"
@@ -79,17 +77,17 @@ tabs:
       
       ## Batak Lite – The Perfect Interactive Game for Exhibitions & Corporate Events
       
-      Whether you’re looking to boost employee engagement at your next [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/) or want a fun and different way to showcase your brand at a product launch, Batak Lite game hire is the perfect way to bring people together and get them talking.
+      Whether you’re looking to boost employee engagement at your next [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) or want a fun and different way to showcase your brand at a product launch, Batak Lite game hire is the perfect way to bring people together and get them talking.
       
       ## What Is Batak Lite?
       
-      A more compact and portable version of [Batak Pro](/products/batak-pro/), our Batak Lite games are a highly interactive, high-energy activity that everyone can enjoy. The game itself features illuminated targets that are designed to test reaction speed levels, improve stamina and hand eye coordination in those who play.
+      A more compact and portable version of [Batak Pro](/products/batak-pro/#content), our Batak Lite games are a highly interactive, high-energy activity that everyone can enjoy. The game itself features illuminated targets that are designed to test reaction speed levels, improve stamina and hand eye coordination in those who play.
       
-      Promotional games like Batak Lite are always a hit at events like [team building](/team-building-ideas/) days, [conferences](/conference-game-hire/), [brand activation events](/promotion-event-games/), and many more because they’re a fun way to break the ice and get everyone involved in a bit of healthy competition.
+      Promotional games like Batak Lite are always a hit at events like [team building](/team-building-ideas/#content) days, [conferences](/conference-game-hire/#content), [brand activation events](/promotional-event-games/#content), and many more because they’re a fun way to break the ice and get everyone involved in a bit of healthy competition.
       
       ## Why Choose Batak Lite For Your Next Event?
       
-      At Fun Pro, our Batak Lite game hire is hugely popular and works for all kinds of [corporate events](/categories/corporate-entertainment/). Here are just a few of the reasons why you should choose Batak Lite for your next event:
+      At Fun Pro, our Batak Lite game hire is hugely popular and works for all kinds of [corporate events](/categories/corporate-entertainment/#content). Here are just a few of the reasons why you should choose Batak Lite for your next event:
       
       *   **High-Impact Engagement**: Draws attention and keeps players entertained.
           
@@ -103,7 +101,7 @@ tabs:
       
       ## What’s Included In Batak Lite Hire From Fun Pro?
       
-      At Fun Pro, we like to make our [interactive game hire](/categories/interactive-game-hire/) services as easy as possible for you, so we include everything you need to make your event unforgettable for all the right reasons.
+      At Fun Pro, we like to make our [interactive game hire](/categories/interactive-game-hire/#content) services as easy as possible for you, so we include everything you need to make your event unforgettable for all the right reasons.
       
       **Hire Prices:**
       
@@ -121,7 +119,7 @@ tabs:
       
       \*Delivery fees may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -161,11 +159,11 @@ tabs:
       
       ## Popular items:
       
-      *   [Retro arcade machine](/products/retro-arcade-games/)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
       *   [Batak Pro](/products/batak-pro/#content)
-      *   [Dance Machine](/products/dance-machine/)
-      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/)
-      *   [Lights Out](/categories/interactive-game-hire/)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
       
       ## Batak Lite Branding and Customisation Options
       
@@ -205,20 +203,20 @@ tabs:
       
       Whether you’re looking for something a little different or want to offer a range of fun activities at your next event, here are just a few of the options available for interactive game hire at Fun Pro.
       
-      [Arcade Games](/categories/arcade-games/)
+      [Arcade Games](/categories/arcade-games/#content)
       
-      [Prize Games](/categories/prize-games/)
+      [Prize Games](/categories/prize-games/#content)
       
-      [Pub Games](/categories/pub-games/)
+      [Pub Games](/categories/pub-games/#content)
       
-      [Roll and Bowl](/categories/roll-and-bowl/)
+      [Roll and Bowl](/categories/roll-and-bowl/#content)
       
-      [Crazy Golf](/products/crazy-golf/)
+      [Crazy Golf](/products/crazy-golf/#content)
       
-      [View all our event hire products and games here](/categories/all-products/)
+      [View all our event hire products and games here](/products/#content)
       
       ## Hire Batak Lite For Your Next Event
       
-      [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/).
+      [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content).
 ---
 

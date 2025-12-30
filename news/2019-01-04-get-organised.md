@@ -30,7 +30,7 @@ Sometimes you need to acknowledge that you can't do it all on your own. It is no
 
 Don't forget to check in regularly to see how you're going. If you need to make changes to stay on track, do it. Also remember to acknowledge your successes. If you've stayed focused and achieved some of your goals, give yourself a huge pat on the back, you deserve it!
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

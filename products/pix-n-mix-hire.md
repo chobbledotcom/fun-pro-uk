@@ -5,8 +5,8 @@ price: "£550"
 order: 50
 meta_title: "Pick A Mix hire UK"
 meta_description: "Pick A Mix hire UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/exhibition-games.md", "categories/fun-foods.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/fun-foods.md"]
+events: []
 featured: true
 features: []
 options:
@@ -14,7 +14,6 @@ options:
     max_quantity: 1
     unit_price: 550
 redirect_from:
-  - "/category/exhibition-games/42/pix-n-mix-hire/"
   - "/category/fun-foods/42/pix-n-mix-hire/"
 gallery:
   - "/images/products/lights-out-game-lights-out-game-2-pix-n-mix-hire.jpg"
@@ -71,15 +70,15 @@ tabs:
       
       **£1445**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      In\-house branding available Printed, applied & removed after each event
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
+      (One [](#specification)time [](#specification)use [](#specification)only)
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -119,10 +118,10 @@ tabs:
       
       ## **Popular items:**
       
-      *   [Grab A Grand](/products/grab-a-grand/)
-      *   [Batak Pro](/products/batak-pro/)
+      *   [Grab A Grand](/products/cash-grabber-machine-hire/#content)
+      *   [Batak Pro](/products/batak-pro/#content)
       *   Lights Out
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
       
       ## Pick N Mix Hire Throughout The UK
       

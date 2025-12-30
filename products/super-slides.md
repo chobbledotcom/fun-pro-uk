@@ -36,11 +36,11 @@ tabs:
       
       **£295**\+ vat**
       
-      Delivered and installed on site by our trained team
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
       
-      \*Delivery Charges & Minimum order value may apply
+      \*Delivery [](#specification)Charges & Minimum order value may apply
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       If you really want your corporate event to get noticed, then nothing beats inflatable high slide hire. These huge, colourful inflatables stand head and shoulders above anything else, and can be seen from all around, drawing in the crowds.
       
@@ -50,11 +50,11 @@ tabs:
       
       ## **A huge fun day hit**
       
-      Super slide hire also makes a thrilling centre-piece for your [company fun day](/categories/fun-days/). Everyone will want to have a go, and with our slides, they can, because they are built to take both children and adults, from eight years old to eighty. High slides are a brilliant ice breaker, getting everyone in the party mood as they climb the squishy steps and throw themselves down the slide.
+      Super slide hire also makes a thrilling centre-piece for your [company fun day](/categories/fun-days/#content). Everyone will want to have a go, and with our slides, they can, because they are built to take both children and adults, from eight years old to eighty. High slides are a brilliant ice breaker, getting everyone in the party mood as they climb the squishy steps and throw themselves down the slide.
       
       ## **Create your own carnival**
       
-      Our giant inflatable slide hire will make your fun day really memorable, but why stop there, when you can create a complete carnival by adding other fun day hires. You can combine your slide with some crazy Wipeout games, add an [inflatable assault course](/products/inflatable-assault-courses/), and even recreate your own seaside amusement arcade with [classic video games](/products/retro-arcade-games/) and [basketball challenges](/products/ultimate-green-screen-photo-booth/).
+      Our giant inflatable slide hire will make your fun day really memorable, but why stop there, when you can create a complete carnival by adding other fun day hires. You can combine your slide with some crazy Wipeout games, add an [inflatable assault course](/products/inflatable-assault-courses/#content), and even recreate your own seaside amusement arcade with [classic video games](/products/retro-arcade-games/#content) and [basketball challenges](/products/electronic-basket-ball-hire/#content).
       
       Our team will be happy to hep you put together the perfect package, with great savings when you book multiple items. Remember, we deliver nationwide, from Scotland to Surrey, so contact us now and get set for some amazing summer fun.
       
@@ -96,9 +96,9 @@ tabs:
       
       **Popular items**
       
-      *   [Bouncy castles](/products/large-bouncy-castles/)
-      *   [Assault courses](/products/inflatable-assault-courses/)
-      *   [Giant Jenga](/products/giant-jenga-hire/)
-      *   [Giant connect 4](/products/giant-connect-4-game-hire/)
+      *   [Bouncy castles](/products/large-bouncy-castles/#content)
+      *   [Assault courses](/products/inflatable-assault-courses/#content)
+      *   [Giant Jenga](/products/giant-jenga-hire/#content)
+      *   [Giant connect 4](/products/giant-connect-4-game-hire/#content)
 ---
 

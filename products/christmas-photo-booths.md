@@ -5,7 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Christmas Photo Booths | Photobooth Hire | Pro Fun UK"
 meta_description: "For your office Christmas party, discos, festive product launches and much more, the unique Christmas photo booth is sure to keep your guests entertained."
-categories: ["categories/christmas-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
 features: []
@@ -15,7 +15,6 @@ options:
     unit_price: 450
 redirect_from:
   - "/category/christmas-game-hire/12/christmas-photo-booths/"
-  - "/category/photo-booths-and-magic-mirrors/12/christmas-photo-booths/"
 gallery:
   - "/images/products/christmas-photo-booths-1.jpg"
   - "/images/products/christmas-photo-booths-2.jpg"
@@ -31,7 +30,7 @@ faqs:
     answer: "Yes, our Christmas photo booth hire includes a wide selection of holiday themed props. There are also over 1,000 different backdrop options to match the festive theme of your event. We provide everything needed to give your guests an unforgettable Christmas themed experience."
   - question: "Can the photo booth prints be branded with our logo or holiday message?"
     answer: |
-      Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our [branded exhibition game hire](/categories/branded-exhibition-games/).
+      Yes! We offer customisable options. You can add your logo, a special holiday message, or any branding with our [branded exhibition game hire](/categories/branded-exhibition-games/#content).
       
       For corporate holiday events, this personal touch ensures your brand or event details are front and centre in every photo. It makes them memorable keepsakes for guests and a fantastic branding opportunity for your company.
   - question: "What is included in the Christmas photo booth package?"
@@ -57,7 +56,7 @@ faqs:
       
       It's the best way to spread the holiday cheer and share the fun of your event with their friends and followers online. Plus, it also creates a lively social media presence for your brand or event.
   - question: "How long can we hire the Christmas photo booth for our event?"
-    answer: "We offer flexible [game hire options](/christmas-entertainment-game-hire/) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
+    answer: "We offer flexible [game hire options](/#content) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
 tabs:
   - title: "Why CHRISTMAS PHOTO BOOTHS?"
     body: |
@@ -71,7 +70,7 @@ tabs:
       
       ## Hire a Christmas photo booth for your event!
       
-      [Christmas is in the air](/news/christmas-is-coming-arrange-party-hire/)! Make your Christmas party truly unforgettable with our [green screen Christmas photo booth hire](/products/green-screen-photo-booths/). Your guests have over 1,000 different backdrops to choose from, plus a large variety of festive themes to keep it interesting and fun.
+      [Christmas is in the air](/news/christmas-is-coming-arrange-party-hire/#content)! Make your Christmas party truly unforgettable with our [green screen Christmas photo booth hire](/products/green-screen-photo-booths/#content). Your guests have over 1,000 different backdrops to choose from, plus a large variety of festive themes to keep it interesting and fun.
       
       ### Our Christmas party photo booth hire includes:
       
@@ -141,7 +140,7 @@ tabs:
       
       \*Please note that delivery charges and minimum order values may apply.  
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -153,9 +152,9 @@ tabs:
       
       Why Choose Our Christmas Photo Booth Hire Service?
       
-      Fun Pro is the leading provider of high-quality Christmas entertainment for hire in the UK. Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
+      Fun Pro is the leading provider of high-quality [Christmas entertainment for hire in the UK](/christmas-entertainment-game-hire/#content). Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
       
-      Our [photo booths](/categories/photo-booths-and-magic-mirrors/) provide high resolution prints in seconds. Aside from capturing every festive detail, guests can also instantly share their photos on social media. Spread the holiday cheer and show off the fun event you're hosting at the same time.
+      Our [photo booths](/categories/photo-booths-and-magic-mirrors/#content) provide high resolution prints in seconds. Aside from capturing every festive detail, guests can also instantly share their photos on social media. Spread the holiday cheer and show off the fun event you're hosting at the same time.
       
       Fun Pro’s events team will take care of the logistics for you as well. Booking and delivery is easy and stress free, and our event staff will remain on site to help with the Christmas photo booth during the event.
       
@@ -185,14 +184,14 @@ tabs:
       
       ## Ready to take your holiday event to the next level?
       
-      Don't miss out on the opportunity to upgrade your event with our Christmas photo booth hire service. [Contact us today](/contact-fun-pro-uk/) to book our equipment for your next event in Coventry, Birmingham, Manchester, London, Leicester, Northampton, Milton Keynes, or any other location in the UK!
+      Don't miss out on the opportunity to upgrade your event with our Christmas photo booth hire service. [Contact us today](/contact-fun-pro-uk/#content) to book our equipment for your next event in Coventry, Birmingham, Manchester, London, Leicester, Northampton, Milton Keynes, or any other location in the UK!
       
       **Popular items:**
       
-      *   [Race car simulators](/products/twin-racing-car-simulators/)
-      *   [Dance machine](/products/dance-machine/)
-      *   [Retro arcade machine](/products/retro-arcade-games/)
-      *   [Giant buzz wire](/products/giant-buzz-wire/)
+      *   [Race car simulators](/products/racing-car-simulators/#content)
+      *   [Dance machine](/products/dance-machine/#content)
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Giant buzz wire](/products/giant-buzz-wire/#content)
       
       **Branding Prices from:**
       

@@ -18,7 +18,7 @@ Trade shows and exhibitions help to raise the awareness of your business in your
 
 They are also great for meeting people in person which helps in building stronger business relationships. A phone will only get you so far these days. Meeting and being able to chat with someone in person, helps you to build rapport and allows you to explain more easily how your products or services could help them.
 
-We've found [trade shows and exhibitions](/locations/birmingham/corporate-event-hire/) are also great networking opportunities. You can meet not only potential customers, but also suppliers as well as businesses with whom you could work in partnership with or collaborate.
+We've found [trade shows and exhibitions](/locations/birmingham/corporate-event-hire/#content) are also great networking opportunities. You can meet not only potential customers, but also suppliers as well as businesses with whom you could work in partnership with or collaborate.
 
 If you have a new product or service coming out, exhibitions and trade shows can be a great place to launch them, as you have a ready made audience. This is especially useful if your product is innovative, as it allows you to talk about the product or service in person.
 
@@ -26,11 +26,11 @@ Finally, expos and trade shows are a great place to build your marketing databas
 
 If you do decide that you'd like to book at stand at a trade show or exhibition, one of the keys to success is ensuring that the people attending the exhibition or show are your target audience. Before booking do some research on the company running the event and who they are looking to attract to the show or exhibition. You don't want to waste time or money going to a show if your target market is not there.
 
-Trade shows and exhibitions can be pricey compared to other forms of marketing, which is why if you're going to invest in this, you need to make sure you stand out from the crowd. At Fun Pro UK we can help you do this with our range of fun and interactive games. From our table top games such as '[Top Doc operation](/products/top-doc-operation-game/)' and '[Pluck a Duck Racing](/products/pluck-a-duck-racing/)', to our larger '[Giant Buzz Wire](/products/giant-buzz-wire/)' or our '[Grab a Grand](/products/grab-a-grand/)', we have something for any size exhibition stand.
+Trade shows and exhibitions can be pricey compared to other forms of marketing, which is why if you're going to invest in this, you need to make sure you stand out from the crowd. At Fun Pro UK we can help you do this with our range of fun and interactive games. From our table top games such as '[Top Doc operation](/products/top-doc-operation-game/#content)' and '[Pluck a Duck Racing](/products/pluck-a-duck-racing/#content)', to our larger '[Giant Buzz Wire](/products/giant-buzz-wire/#content)' or our '[Grab a Grand](/products/cash-grabber-machine-hire/#content)', we have something for any size exhibition stand.
 
 For more information or to chat to us about how we can make your exhibition or trade show stand out and draw a crowd, check out our website https://www.funprouk.co.uk or call 02476 629 197 or 07769 979 676.
 
-[<< Return to news](/news/elevate-your-brand/)
+[<< Return to news](/news/#content)
 
 ## What our customers are saying…
 

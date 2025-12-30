@@ -39,9 +39,9 @@ tabs:
       
       ## The Best Target Ring Toss Hire for All UK Events
       
-      Are you looking for some fun, [interactive games](/categories/interactive-game-hire/) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
+      Are you looking for some fun, [interactive games](/categories/interactive-game-hire/#content) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
       
-      Perfect for [corporate events](/categories/corporate-entertainment/), school fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more, this classic game brings friendly competition and laughter to any gathering.
+      Perfect for [corporate events](/categories/corporate-entertainment/#content), school fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), and more, this classic game brings friendly competition and laughter to any gathering.
       
       ## Hire a Target Ring Toss Game For Your Next Event
       
@@ -121,7 +121,7 @@ tabs:
       
       ## Ready to Book Our Target Ring Toss Hire?
       
-      Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
+      Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
       
       ### What happens if there's poor weather on the day of my outdoor event?
       

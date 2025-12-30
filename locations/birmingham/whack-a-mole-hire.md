@@ -8,7 +8,7 @@ redirect_from:
 
 # Whack a Mole Hire Birmingham
 
-Are you looking to add a fun and interactive game to your [corporate event](/locations/birmingham/corporate-event-hire/) in Birmingham? Look no further than hiring a Whack a Mole game! This classic arcade game has been entertaining people of all ages for decades, and with the convenience of delivery to various venues, including the [NEC](/locations/birmingham/nec/), ICC, NCC, and all other areas of Birmingham city, it's easier than ever to incorporate this exciting experience into your event.
+Are you looking to add a fun and interactive game to your [corporate event](/locations/birmingham/corporate-event-hire/#content) in Birmingham? Look no further than hiring a Whack a Mole game! This classic arcade game has been entertaining people of all ages for decades, and with the convenience of delivery to various venues, including the [NEC](/locations/birmingham/nec/#content), ICC, NCC, and all other areas of Birmingham city, it's easier than ever to incorporate this exciting experience into your event.
 
 When you hire a [Whack a Mole game in Birmingham](/products/whack-a-mole-game-hire/#content), you can expect a seamless and hassle-free experience. There are reputable providers that offer this service, ensuring that your guests have a memorable and enjoyable time. With the game delivered directly to your chosen venue, you can save time and effort in organizing logistics, allowing you to focus on other aspects of your event planning.
 
@@ -80,10 +80,10 @@ Please contact us to find out more
 
 **Popular Items:**
 
-*   [Leaded Board](/products/leader-board/)
-*   [Lights Out](/categories/interactive-game-hire/)
-*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/)
-*   [Crack the Code](/products/crack-the-code-safe-cracker/)
+*   [Leaded Board](/products/leader-board/#content)
+*   [Lights Out](/categories/interactive-game-hire/#content)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+*   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
 
 ## What our customers are saying…
 

@@ -43,7 +43,7 @@ tabs:
       
       ## The Best Play Your Cards Right Stall Hire for All UK Events
       
-      Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/categories/interactive-game-hire/) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/categories/corporate-entertainment/), fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/), and more.
+      Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/categories/interactive-game-hire/#content) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/categories/corporate-entertainment/#content), fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), and more.
       
       ## Hire a Play Your Cards Right Stall for Your Next Event
       
@@ -129,7 +129,7 @@ tabs:
       
       ## Ready to Book Our Play Your Cards Right Stall Hire?
       
-      Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/) to book for your next event anywhere in the UK.
+      Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
       
       **Branding Prices from:**
       
