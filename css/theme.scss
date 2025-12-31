@@ -424,16 +424,25 @@ body.horizontal-nav main {
     @include breakpoints.up("lg") {
       & > ul {
         justify-content: flex-start !important;
-        & > li:hover > ul {
-          display: flex;
-          flex-direction: row;
-          width: 590px;
-          & > li > ul {
-            display: block;
-            position: relative;
-            left: auto;
-            top: auto;
-            margin: none;
+        & > li:nth-child(3):hover {
+          & > a {
+            font-weight: 500;
+          }
+          & > ul {
+            display: flex;
+            flex-direction: row;
+            width: 590px;
+            justify-content: space-between;
+            & > li > ul {
+              display: block;
+              position: relative;
+              left: auto;
+              top: auto;
+              margin: 0;
+              padding: 0;
+              border: 0;
+              font-size: 11px;
+            }
           }
         }
       }
