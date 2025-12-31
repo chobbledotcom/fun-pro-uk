@@ -744,7 +744,7 @@ main {
       display: flex;
       align-items: center;
 
-      img {
+      .image-wrapper {
         height: 50px;
         width: auto;
         object-fit: contain;
