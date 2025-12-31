@@ -58,7 +58,7 @@ We specialise in small and large events such as:
 *   [Weddings](/categories/weddings/#content)
 *   [Exhibitions](/categories/exhibition-games/#content)
 *   [Corporate Entertainment](/categories/corporate-entertainment/#content)
-*   [Company Award Ceremonies](/events/award-ceremonies/#content)
+*   [Company Award Ceremonies](/events/company-award-ceremonies/#content)
 *   [Fun days](/categories/fun-days/#content)
 *   And much more!
 

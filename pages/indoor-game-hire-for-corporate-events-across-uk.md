@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # Indoor Game Hire for Corporate Events Across the UK
 
-Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-production/#content), [office celebration](/office-and-corporate-entertainment/#content), or [exhibition](/events/exhibition-games/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
+Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-idea/#content), [office celebration](/office-and-corporate-entertainment/#content), or [exhibition](/events/exhibition-games/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
 
 ## Why Choose Indoor Games for Your Event
 
@@ -44,7 +44,7 @@ Games like [table football](/products/football-tables/#content) and [air hockey]
 
 ### Giant games
 
-These types of games offer visual impact without requiring electronic setup. [Oversized Connect 4](/products/giant-connect-4-game-hire/#content), [Jenga](/products/giant-jenga-hire/#content) and similar options are easy for anyone to join. For evening entertainment at corporate dinners or [awards ceremonies](/events/award-ceremonies/#content),
+These types of games offer visual impact without requiring electronic setup. [Oversized Connect 4](/products/giant-connect-4-game-hire/#content), [Jenga](/products/giant-jenga-hire/#content) and similar options are easy for anyone to join. For evening entertainment at corporate dinners or [awards ceremonies](/award-ceremonies/#content),
 
 ### Casino games
 

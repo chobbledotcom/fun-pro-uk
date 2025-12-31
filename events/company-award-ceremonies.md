@@ -4,9 +4,7 @@ meta_title: "Award Ceremonies"
 meta_description: "We have all the experience, expertise, and equipment you need for any kind of company awards night hire. Trust us to make your award ceremonies memorable."
 featured: true
 redirect_from:
-  - "/pages/award-ceremonies/"
   - "/category/company-award-ceremonies/"
-  - "/events/company-award-ceremonies/"
 eleventyNavigation:
   key: "Award Ceremonies"
   parent: "Corporate Events"

@@ -12,7 +12,7 @@ gallery:
 
 # 28 November 18 - Award ceremony season is fast approaching!
 
-As the year starts to draw to a close, companies are preparing their annual [employee award ceremony](/events/award-ceremonies/#content) to show their continued appreciation for their staff's hard work over the last year.
+As the year starts to draw to a close, companies are preparing their annual [employee award ceremony](/events/company-award-ceremonies/#content) to show their continued appreciation for their staff's hard work over the last year.
 
 A great way of entertaining your guests is with a range of interactive games. But the perfect way to ensure they remember their unforgettable experience and the joy of the event is to have photographs taken.
 

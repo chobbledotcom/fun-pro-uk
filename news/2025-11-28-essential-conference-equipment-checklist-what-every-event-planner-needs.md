@@ -14,7 +14,7 @@ gallery:
 
 ![](/images/news/uk-conference.png)
 
-Planning a [conference](/events/conference-production/#content) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.
+Planning a [conference](/events/conference-idea/#content) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.
 
 The challenge is knowing exactly what you need. Miss something essential, and you're scrambling for solutions on the day. Overorder, and you're wasting your budget that could be better spent elsewhere. This comprehensive checklist breaks down everything you need to consider, from the obvious essential equipment to the often-forgotten items that can save your event when things don't go to plan.
 
@@ -74,7 +74,7 @@ Here's something many event planners overlook: entertainment equipment isn't a n
 
 These serve a real purpose at corporate conferences. They create natural conversation starters, break down the professional barriers that can make networking awkward, and give colleagues a chance to interact in a completely different context. This isn't about being frivolous; it's about recognising that people connect better when they're relaxed and enjoying themselves.
 
-Games like [Batak Lite](/products/batak-lite/#content), [Batak Pro](/products/batak-pro/#content), and [Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content) work brilliantly in breakout spaces. They're quick to play, suitable for all ages and abilities, and naturally draw small crowds of spectators who then join in. These games create energy and buzz that carries through to the rest of your [conference](/events/conference-production/#content).
+Games like [Batak Lite](/products/batak-lite/#content), [Batak Pro](/products/batak-pro/#content), and [Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content) work brilliantly in breakout spaces. They're quick to play, suitable for all ages and abilities, and naturally draw small crowds of spectators who then join in. These games create energy and buzz that carries through to the rest of your [conference](/events/conference-idea/#content).
 
 These can be [branded](/events/brand-activation/#content) to match your conference content. [Racing simulators](/products/racing-car-simulators/#content) add excitement to automotive industry events. Golf simulators work well for corporate hospitality. The key is choosing equipment that complements your event rather than distracting from it.
 

@@ -10,11 +10,11 @@ redirect_from:
 
 Planning a [corporate event](/office-and-corporate-entertainment/#content) in Liverpool? Whether you're organising a conference at ACC Liverpool, an exhibition stand at Exhibition Centre Liverpool, or a team celebration in the Baltic Triangle, choosing the right [entertainment](/categories/interactive-game-hire/#content) can feel like one more thing on an already long to-do list.
 
-At Fun Pro UK, we've spent over 15 years helping event planners across the UK create engaging experiences for their guests. We understand that every event is different, and what works for a trade show might not suit an [awards ceremony](/events/award-ceremonies/#content). That's why we take time to understand your objectives, your venue, and your audience before recommending games and entertainment.
+At Fun Pro UK, we've spent over 15 years helping event planners across the UK create engaging experiences for their guests. We understand that every event is different, and what works for a trade show might not suit an [awards ceremony](/award-ceremonies/#content). That's why we take time to understand your objectives, your venue, and your audience before recommending games and entertainment.
 
 ## Interactive Game Hire for Liverpool Events
 
-Liverpool's corporate events scene is thriving, from major [conferences](/events/conference-production/#content) on the waterfront to company away days in the city's creative quarter. Whatever you're planning, [interactive games](/categories/interactive-game-hire/#content) give your guests something to do together – breaking down barriers, sparking conversations, and creating moments people actually remember.
+Liverpool's corporate events scene is thriving, from major [conferences](/events/conference-idea/#content) on the waterfront to company away days in the city's creative quarter. Whatever you're planning, [interactive games](/categories/interactive-game-hire/#content) give your guests something to do together – breaking down barriers, sparking conversations, and creating moments people actually remember.
 
 Our extensive range includes games like:
 

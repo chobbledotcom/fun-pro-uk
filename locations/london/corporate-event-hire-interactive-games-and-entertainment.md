@@ -36,7 +36,7 @@ Corporate event entertainment isn't just about having fun – it's an investment
 
 ### Conference and Exhibition Entertainment
 
-London hosts thousands of [conferences](/events/conference-production/#content) and [exhibitions](/events/exhibition-games/#content) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
+London hosts thousands of [conferences](/events/conference-idea/#content) and [exhibitions](/events/exhibition-games/#content) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
 
 We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/events/brand-activation/#content) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotional-event-games/#content).
 

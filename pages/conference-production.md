@@ -1,16 +1,9 @@
 ---
-title: "Conference Production"
-meta_title: "Conference Production"
+meta_title: "Conference Production - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Conference Production - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-featured: true
+layout: page
 redirect_from:
   - "/pages/conference-production/"
-  - "/pages/conference-idea/"
-  - "/events/conference-idea/"
-eleventyNavigation:
-  key: "Conference Production"
-  parent: "Corporate Events"
-  order: 5
 ---
 
 # Conference Production

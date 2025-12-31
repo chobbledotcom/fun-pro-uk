@@ -123,10 +123,10 @@ tabs:
         
       We specialise in different kinds of events. Get an air hockey table hire for:  
         
-      [Conferences and trade shows](/events/conference-production/#content)  
+      [Conferences and trade shows](/events/conference-idea/#content)  
       [Product launch parties](/promotional-event-games/#content)  
       [Company wide retreats](/team-building-ideas/#content)  
-      [Awards ceremonies](/events/award-ceremonies/#content)  
+      [Awards ceremonies](/events/company-award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
       [Christmas events](/events/christmas-entertainment/#content)  

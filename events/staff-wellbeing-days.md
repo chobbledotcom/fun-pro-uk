@@ -5,7 +5,6 @@ meta_description: "Hire our corporate wellbeing activities and equipment for you
 featured: true
 redirect_from:
   - "/category/staff-wellbeing-days/"
-  - "/events/staff-wellbeing-days/"
 eleventyNavigation:
   key: "Corporate Wellbeing Days"
   parent: "Corporate Events"

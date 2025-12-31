@@ -51,17 +51,12 @@ const EVENT_HIERARCHY = [
     sourceType: 'pages',
     order: 1,
     children: [
-      // Award Ceremonies also absorbs the old company-award-ceremonies category
-      { slug: 'award-ceremonies', title: 'Award Ceremonies', oldSiteSlug: 'award-ceremonies', sourceType: 'pages', order: 1,
-        additionalRedirects: ['/category/company-award-ceremonies/', '/events/company-award-ceremonies/'] },
+      // Keep original slugs to preserve existing content
+      { slug: 'company-award-ceremonies', title: 'Award Ceremonies', oldSiteSlug: 'company-award-ceremonies', sourceType: 'category', order: 1 },
       { slug: 'exhibition-games', title: 'Exhibition Games', oldSiteSlug: 'exhibition-game-hire', sourceType: 'pages', order: 2 },
       { slug: 'office-entertainment', title: 'Office Entertainment', oldSiteSlug: 'office-entertainment', sourceType: 'pages', order: 3 },
-      // Corporate Wellbeing Days absorbs staff-wellbeing-days (both category and events URLs)
-      { slug: 'corporate-wellbeing-days', title: 'Corporate Wellbeing Days', oldSiteSlug: 'staff-wellbeing-days', sourceType: 'category', order: 4,
-        additionalRedirects: ['/events/staff-wellbeing-days/'] },
-      // Conference Production also absorbs conference-idea page
-      { slug: 'conference-production', title: 'Conference Production', oldSiteSlug: 'conference-production', sourceType: 'pages', order: 5,
-        additionalRedirects: ['/pages/conference-idea/', '/events/conference-idea/'] },
+      { slug: 'staff-wellbeing-days', title: 'Corporate Wellbeing Days', oldSiteSlug: 'staff-wellbeing-days', sourceType: 'category', order: 4 },
+      { slug: 'conference-idea', title: 'Conference Production', oldSiteSlug: 'conference-idea', sourceType: 'pages', order: 5 },
       { slug: 'brand-activation', title: 'Brand Activation', oldSiteSlug: 'branded-game-hire', sourceType: 'pages', order: 6 },
     ]
   },
@@ -90,6 +85,7 @@ const EVENT_HIERARCHY = [
       { slug: 'family-fun-days', title: 'Family Fun Days', oldSiteSlug: 'family-fun-day-entertainment', sourceType: 'pages', order: 3 },
       { slug: 'school-entertainment', title: 'School Entertainment', oldSiteSlug: 'school-fun-day-entertainment-hire', sourceType: 'pages', order: 4 },
       { slug: 'fundraising-events', title: 'Fundraising Events', oldSiteSlug: 'fundraising-event-ideas', sourceType: 'pages', order: 5 },
+      { slug: 'circus-skills-workshop', title: 'Circus Skills Workshop', oldSiteSlug: 'circus-skills-workshop', sourceType: 'category', order: 6 },
     ]
   }
 ];

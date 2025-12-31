@@ -16,7 +16,7 @@ A Magic Mirror was a perfect fit for their pre-match event, as it allowed their 
 
 For the company themselves, it is a great piece of marketing as you can brand each print to have a company logo or message, making the prints unique to your event!
 
-This unusual photo machine will really stand out and make your audience smile! Perfect for a huge variety of events from [award ceremonies,](/events/award-ceremonies/#content) exhibitions to draw in the crowds or event a product launch! Making every event memorable for your attendees.
+This unusual photo machine will really stand out and make your audience smile! Perfect for a huge variety of events from [award ceremonies,](/events/company-award-ceremonies/#content) exhibitions to draw in the crowds or event a product launch! Making every event memorable for your attendees.
 
 The Magic Mirror being more compact than a traditional photo booth means it can fit into smaller areas for instance at trade shows but will give a big impact to guests!
 

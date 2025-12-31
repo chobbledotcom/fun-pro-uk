@@ -12,7 +12,7 @@ eleventyNavigation:
 
 ## Corporate Event Hire in Sheffield
 
-Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-production/#content) at Sheffield City Hall, a [team building](/team-building-ideas/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
+Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea/#content) at Sheffield City Hall, a [team building](/team-building-ideas/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
 
 At Fun Pro, we've been helping businesses across the UK with their corporate entertainment for over 15 years. As a [family-run company](/about-corporate-entertainment-hire/#content) based in Coventry, we're well-placed to serve Sheffield and South Yorkshire, with regular deliveries to venues throughout the region as well as the rest of the UK.
 
@@ -70,7 +70,7 @@ Different events call for different approaches, so it's worth thinking about wha
 
 ### Conferences and Exhibitions
 
-If you're exhibiting at a trade show or running a [conference](/events/conference-production/#content) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/events/brand-activation/#content) work particularly well for [promotional events](/promotional-event-games/#content) where you want to reinforce your company message.
+If you're exhibiting at a trade show or running a [conference](/events/conference-idea/#content) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/events/brand-activation/#content) work particularly well for [promotional events](/promotional-event-games/#content) where you want to reinforce your company message.
 
 ### Team Building and Staff Parties
 

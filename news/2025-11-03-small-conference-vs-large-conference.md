@@ -16,7 +16,7 @@ gallery:
 
 ![](/images/news/group-of-professional-people-celebrating.png)
 
-Are you planning a [conference](/events/conference-production/#content)? One of the most important decisions you'll make is selecting the right entertainment to keep your attendees engaged, energised, and talking long after the event ends. However, what works brilliantly for an intimate gathering of 30 colleagues might fall flat at a large-scale conference with 300 attendees, and vice versa.
+Are you planning a [conference](/events/conference-idea/#content)? One of the most important decisions you'll make is selecting the right entertainment to keep your attendees engaged, energised, and talking long after the event ends. However, what works brilliantly for an intimate gathering of 30 colleagues might fall flat at a large-scale conference with 300 attendees, and vice versa.
 
 Interactive games and entertainment aren't one-size-fits-all. The size of your conference fundamentally changes how you approach entertainment hire, from the types of games you select to how many you need, where you place them, and how your attendees will interact with them.
 
@@ -26,7 +26,7 @@ With over 15 years of experience as [corporate event specialists](/about-corpora
 
 Before we explore specific entertainment choices, it's worth considering what actually defines a small versus large conference, and why size matters so much.
 
-For the purposes of interactive entertainment planning, we typically consider a small [conference](/events/conference-production/#content) to be anything from 20 to 100 attendees. These events often take place in hotel meeting rooms, small conference centres, or dedicated corporate training facilities. They're usually focused on specific topics, [team building](/team-building-ideas/#content), or departmental gatherings where attendees generally know each other or share a common purpose.
+For the purposes of interactive entertainment planning, we typically consider a small [conference](/events/conference-idea/#content) to be anything from 20 to 100 attendees. These events often take place in hotel meeting rooms, small conference centres, or dedicated corporate training facilities. They're usually focused on specific topics, [team building](/team-building-ideas/#content), or departmental gatherings where attendees generally know each other or share a common purpose.
 
 A large conference, on the other hand, typically involves 100 to 500+ attendees. These events take place in convention centres, large hotels, or purpose-built conference venues. They often feature multiple sessions, keynote speakers, and attendees from different departments, companies, or even industries who may be meeting for the first time.
 

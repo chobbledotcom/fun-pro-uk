@@ -46,7 +46,7 @@ Remember those fairground games you enjoyed as a child? Now you can recreate tha
     
 *   [School Fun Day](/events/school-entertainment/#content)
     
-*   [Staff Fun Day](/events/corporate-wellbeing-days/#content)
+*   [Staff Fun Day](/events/staff-wellbeing-days/#content)
     
 *   Side Stall Game Hire
 

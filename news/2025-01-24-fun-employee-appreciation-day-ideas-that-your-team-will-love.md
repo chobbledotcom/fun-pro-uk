@@ -74,7 +74,7 @@ Activities like yoga, meditation, a spa package, or even a healthy snack station
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEcWdev1N5ee9e02OYVQP6fC9wjy64nVKVh-Mb4sAE9nKqZuu6JxyNlEJDvNFig5iu4yB-MVstX40lh9TTbck1EQM2RtOAb7VQCW6biGgA0VuRXDMKNRkFWNJcNPcHycJKQ5mVoA?key=3QGxajlrJekofxv54zo3rIjy)
 
-You can boost employee morale with a consistent programme for [rewards and recognition](/events/award-ceremonies/#content). Of course, one day a year of appreciation is not enough to keep employee morale high, but it can help increase employee loyalty. You can create custom programmes using spreadsheets and gift card vendors.
+You can boost employee morale with a consistent programme for [rewards and recognition](/events/company-award-ceremonies/#content). Of course, one day a year of appreciation is not enough to keep employee morale high, but it can help increase employee loyalty. You can create custom programmes using spreadsheets and gift card vendors.
 
 Employee recognition platforms also exist where your team can do peer to peer recognitions, get rewards, and point gifting.
 
