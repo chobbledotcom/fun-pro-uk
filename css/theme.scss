@@ -424,6 +424,18 @@ main {
     @include breakpoints.up("lg") {
       ul {
         justify-content: flex-start !important;
+        & > li > ul {
+          display: flex;
+          flex-direction: row;
+          width: 590px;
+          & > li > ul {
+            display: block;
+            position: relative;
+            left: auto;
+            top: auto;
+            margin: none;
+          }
+        }
       }
     }
 
