@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -198,6 +200,5 @@ tabs:
       Guests place their legs either side of their chosen horse &' each player can pick from green, red, yellow and blue, holding on to the handle players gallop their way to the finishing line. The faster you gallop, the quicker you'll be crowned the ultimate jockey.
       
       This game is not just fun for those playing, it will draw the crowds to watch others take on the test to become the winner.
-      
 ---
 

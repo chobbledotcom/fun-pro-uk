@@ -9,7 +9,9 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -106,6 +108,5 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
 ---
 

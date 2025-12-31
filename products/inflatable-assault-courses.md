@@ -9,7 +9,9 @@ categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -255,6 +257,5 @@ tabs:
       Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/#content) to [gladiator duels](/products/gladiator-duel/#content).
       
       Our team will be happy to help organise a memorable company fun day for you. Just tell us your venue and budget and we'll take care of everything you need.
-      
 ---
 

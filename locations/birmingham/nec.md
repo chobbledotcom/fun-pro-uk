@@ -10,7 +10,7 @@ redirect_from:
 
 Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/#content) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/categories/arcade-games/#content) for any event at the NEC.
 
-!NEC Birmingham
+![NEC Birmingham](/userfiles/file/FunPro/nec.jpg)
 
 ## Explore Our Popular Game Hire Services in Birmingham
 
@@ -32,7 +32,7 @@ Check out our catalogue to find exciting games for your event.
 
 ### Company Fun Day Ideas in Birmingham
 
-Raise team spirit and spend the day having a great time with your colleagues! We have tons of games for hire that can make your [company fun days](/family-fun-day-entertainment/#content) memorable. Call us and we’ll plan your event with you and decide on the games to hire based on what your employees want.
+Raise team spirit and spend the day having a great time with your colleagues! We have tons of games for hire that can make your [company fun days](/events/family-fun-days/#content) memorable. Call us and we’ll plan your event with you and decide on the games to hire based on what your employees want.
 
 Some of our most popular company fun day games are:
 
@@ -72,7 +72,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
-!Giant Buzz Wire Birmingham
+![Giant Buzz Wire Birmingham](/userfiles/file/FunPro/Buzz%20wire/1.png)
 
 ## Why Choose Our Birmingham Event Game Hire?
 

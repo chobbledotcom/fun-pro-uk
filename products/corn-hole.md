@@ -9,7 +9,9 @@ categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -81,7 +83,7 @@ tabs:
       
       [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
-      **!**
+      **![](/userfiles/fun-pro-corn-hole-hire.jpg)**
       
       Looking for a crowd-pleasing game that combines skill, friendly competition and entertainment for your next event? Our premium Corn Hole hire brings the popular American lawn game to your UK event with professional quality boards, custom branding options, and everything you need for instant entertainment.
       
@@ -248,6 +250,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

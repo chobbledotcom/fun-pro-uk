@@ -14,9 +14,9 @@ gallery:
 
 ![](/images/news/catch-us-if-you-can-games.jpg)
 
-The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/christmas-entertainment-game-hire/#content) can transform your gathering from polite small talk into genuine fun and connection.
+The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/events/christmas-entertainment/#content) can transform your gathering from polite small talk into genuine fun and connection.
 
-[Christmas game hire](/christmas-entertainment-game-hire/#content) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
+[Christmas game hire](/events/christmas-entertainment/#content) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
 
 ## Why Games Work So Well at Christmas Parties
 

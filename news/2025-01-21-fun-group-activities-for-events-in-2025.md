@@ -86,11 +86,11 @@ Our games cater to corporate team building, festivals, community fairs, school e
 
 ### Can I customise the games to match my event theme?
 
-Absolutely! We understand that personalisation adds a unique touch to your event. Many of our [games can be custom branded](/branded-game-hire/#content) with specific colours, personal designs, themed decorations, and logo placements to align with your event’s theme, corporate identity, or branding.
+Absolutely! We understand that personalisation adds a unique touch to your event. Many of our [games can be custom branded](/events/brand-activation/#content) with specific colours, personal designs, themed decorations, and logo placements to align with your event’s theme, corporate identity, or branding.
 
 ### How far in advance should I book to secure the equipment I want?
 
-To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/team-building-ideas/#content) periods.
+To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/events/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/team-building-ideas/#content) periods.
 
 If your event is approaching quickly, contact Fun Pro UK as soon as possible. We will do our best to accommodate late requests based on availability.
 

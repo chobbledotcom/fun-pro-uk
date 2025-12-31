@@ -100,7 +100,7 @@ Consider positioning interactive games during natural downtime – perhaps betwe
 
 ### Budget-Friendly Solutions That Still Deliver Maximum Impact
 
-[University event](/college-and-university-entertainment/#content) budgets require careful management, but this doesn't mean compromising on quality or safety standards. Professional freshers games hire often provides better value than attempting to source multiple smaller providers, as you benefit from comprehensive service, proper insurance coverage, and experienced setup teams.
+[University event](/events/college-entertainment/#content) budgets require careful management, but this doesn't mean compromising on quality or safety standards. Professional freshers games hire often provides better value than attempting to source multiple smaller providers, as you benefit from comprehensive service, proper insurance coverage, and experienced setup teams.
 
 Think strategically about which games will create the most lasting impact. A smaller number of high-quality, professionally managed activities often generates more positive feedback than numerous cheaper alternatives that may break down or require constant supervision.
 

@@ -8,9 +8,9 @@ redirect_from:
 
 # How Baylis & Harding Created a Show-Stopping Product Launch with Fun Pro's Custom-Branded Prize Crane
 
-!
+![](/userfiles/fun-pro-custom-branded-game-hire.jpg)
 
-Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/branded-game-hire/#content) at CBS Arena, Coventry.
+Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/events/brand-activation/#content) at CBS Arena, Coventry.
 
 ## Client Testimonial
 
@@ -46,7 +46,7 @@ The company's marketing team understood that in today's competitive retail envir
 
 Baylis & Harding's approach to trade shows reflects their understanding that retail partnerships are built on relationships and memorable experiences. They recognised that creating buzz around their stand would not only showcase their Christmas collection effectively but also demonstrate their marketing capabilities to potential retail partners. This strategic thinking led them to seek interactive entertainment that could draw crowds whilst reinforcing their brand values of quality and attention to detail.
 
-!
+![](/userfiles/fun-pro-game-hire-at-baylis-and-harding.jpg)
 
 As told to Fun Pro by the Baylis & Harding Marketing Team.
 

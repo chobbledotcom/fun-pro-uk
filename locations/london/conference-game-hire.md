@@ -10,11 +10,11 @@ redirect_from:
 
 Looking for the perfect main attraction to include at your conference? Our London Conference and Event Game Hire is what you’re looking for. From [giant outdoor games](/products/giant-connect-4-game-hire/#content) to classic favourites like retro arcade machines, racing simulators, photo booths and more. We guarantee that our party game hire is reliable and easy to use but most of all, fun!
 
-!Lights Out Game Hire
+![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
 
 ## Explore Our Popular Game Hire Services in London
 
-Fun Pro has a large collection of [fun games](/family-fun-day-entertainment/#content) in London. We have all sorts of event hire games to entertain your corporate guests — from the classic photo booth to driving simulators to retro video games, fair games, and even huge outdoor games.
+Fun Pro has a large collection of [fun games](/events/family-fun-days/#content) in London. We have all sorts of event hire games to entertain your corporate guests — from the classic photo booth to driving simulators to retro video games, fair games, and even huge outdoor games.
 
 Take a look at our entertainment games for hire to see which one works for your event. Whether you're hosting a conference or promotional event at the [Excel London](/locations/london/excel/#content), or are planning a smaller staff party, Fun Pro can work with all venue sizes and ensure that your event is remembered for all the right reasons.
 

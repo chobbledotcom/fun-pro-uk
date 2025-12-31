@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -60,7 +62,7 @@ tabs:
       
       ## Roller Bowler – The Classic Carnival Skill Game for Corporate & Private Events
       
-      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/exhibition-game-hire/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
+      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/events/exhibition-games/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
       
       **1 day Hire from**
       
@@ -92,7 +94,7 @@ tabs:
           
       *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
           
-      *   Fully Brandable: [Custom graphics](/branded-game-hire/#content) and panels available to match your corporate colours and messaging
+      *   Fully Brandable: [Custom graphics](/events/brand-activation/#content) and panels available to match your corporate colours and messaging
           
       *   No Power Required: Completely mechanical game means no electrical setup or running costs
           
@@ -126,7 +128,7 @@ tabs:
           
       *   Professional installation and setup by trained technicians if requested
           
-      *   [Custom branding](/branded-game-hire/#content) options available
+      *   [Custom branding](/events/brand-activation/#content) options available
           
       *   Full operational support throughout your event if needed
           
@@ -223,6 +225,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

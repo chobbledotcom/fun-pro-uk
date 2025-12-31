@@ -9,7 +9,9 @@ categories: ["categories/freshers-fair-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -58,7 +60,7 @@ tabs:
       
       ## Why Choose Twin Axe Throwing for Your Next Event?
       
-      Transform your [corporate event](/categories/corporate-entertainment/#content), [exhibition](/exhibition-game-hire/#content), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
+      Transform your [corporate event](/categories/corporate-entertainment/#content), [exhibition](/events/exhibition-games/#content), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
       
       *   Boost engagement among your team
           
@@ -161,6 +163,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

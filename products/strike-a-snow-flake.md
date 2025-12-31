@@ -9,7 +9,9 @@ categories: ["categories/christmas-game-hire.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -144,7 +146,7 @@ tabs:
       
       ## **Why Choose Our Strike a Snow Flake Game Hire Service?**
       
-      Fun Pro UK is the leading provider of [Christmas party games for hire](/christmas-entertainment-game-hire/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
+      Fun Pro UK is the leading provider of [Christmas party games for hire](/events/christmas-entertainment/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
       
       Wherever your Christmas party is located, [Fun Pro](/#content) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
       
@@ -194,25 +196,24 @@ tabs:
       
       £175 + vat
       
-      !
+      ![](/userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
       
       Branded side panels
       
       £250 + vat
       
-      !
+      ![](/userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
       
       Fully Branded panels
       
       £420 + vat
       
-      !
+      ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
       
       ## What our customers are saying…
       
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

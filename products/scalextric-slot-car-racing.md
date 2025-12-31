@@ -9,7 +9,9 @@ categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -78,7 +80,6 @@ faqs:
       Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/categories/corporate-entertainment/#content), we can customise the game rental with your company colours and logos.
       
       Whether you're hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event.
-      
   - question: "Do you provide staff to operate the equipment?"
     answer: "We can provide staff onsite upon your request. This will be included in your quotation. Our team of professionals can help operate the Scalextric slot car racing rental for you, and ensure that the game works smoothly."
   - question: "What is included in the Scalextric sets for hire?"
@@ -201,7 +202,7 @@ tabs:
       
       Conferences and trade shows
       
-      [Fundraisers](/fundraising-event-ideas/#content)
+      [Fundraisers](/events/fundraising-events/#content)
       
       ... and more!
       
@@ -248,6 +249,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

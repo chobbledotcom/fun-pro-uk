@@ -56,7 +56,7 @@ Victoria Square and Centenary Square provide outdoor activation spaces for produ
 
 ### Exhibition and Conference Venues
 
-For B2B activations or consumer shows, Birmingham's exhibition infrastructure is world-class. The [NEC Birmingham](/locations/birmingham/nec/#content) is the UK's largest exhibition centre, welcoming over seven million visitors annually across 158 trade and consumer [exhibitions](/exhibition-game-hire/#content). Events like Crufts and Spring Fair demonstrate the venue's ability to attract highly engaged, purpose-driven audiences.
+For B2B activations or consumer shows, Birmingham's exhibition infrastructure is world-class. The [NEC Birmingham](/locations/birmingham/nec/#content) is the UK's largest exhibition centre, welcoming over seven million visitors annually across 158 trade and consumer [exhibitions](/events/exhibition-games/#content). Events like Crufts and Spring Fair demonstrate the venue's ability to attract highly engaged, purpose-driven audiences.
 
 The [ICC Birmingham](/locations/birmingham/game-hire-icc/#content) and the Vox Conference Venue host over 400 events annually, including 217 [conferences](/locations/birmingham/conference-and-event-hire/#content), attracting decision-makers and industry professionals ideal for lead generation.
 
@@ -112,7 +112,7 @@ Prize-based games provide incentivised participation that boosts engagement. [Pr
 
 ### Custom Branding Considerations
 
-Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/branded-game-hire/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
+Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/events/brand-activation/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
 
 Prize integration represents another opportunity. Rather than generic rewards, incorporate your own products, branded merchandise, or vouchers that drive participants toward further engagement.
 

@@ -9,7 +9,9 @@ categories: ["categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -213,6 +215,5 @@ tabs:
       ## **Your own company carnival**
       
       You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/electronic-basket-ball-hire/#content), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/#content) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
-      
 ---
 

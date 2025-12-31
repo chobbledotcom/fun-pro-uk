@@ -10,13 +10,13 @@ redirect_from:
 
 Planning a [conference](/events/conference-production/#content) means juggling countless details whilst ensuring your people stay engaged throughout the day. Long presentations, back-to-back sessions, and networking expectations can leave attendees feeling overwhelmed rather than energised. That's where thoughtfully chosen entertainment makes a real difference.
 
-At [Fun Pro UK](/about-corporate-entertainment-hire/#content), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/office-and-corporate-entertainment/#content) training days and trade shows to [award ceremonies](/award-ceremonies/#content) and multi-day conferences, we provide [interactive games](/categories/interactive-game-hire/#content) and entertainment that bring people together and keep people talking long after your event ends.
+At [Fun Pro UK](/about-corporate-entertainment-hire/#content), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/office-and-corporate-entertainment/#content) training days and trade shows to [award ceremonies](/events/award-ceremonies/#content) and multi-day conferences, we provide [interactive games](/categories/interactive-game-hire/#content) and entertainment that bring people together and keep people talking long after your event ends.
 
 ## Why Conference Entertainment Matters
 
 Conference days are demanding. People absorb information for hours, often in unfamiliar settings with people they've just met. Interactive games serve multiple purposes that support your conference goals. They create natural conversation starters during networking sessions, helping break down the initial awkwardness that can stifle connections. Between presentations, they provide mental breaks that actually improve information retention rather than causing distraction.
 
-Well-chosen entertainment also reflects positively on your organisation. It shows you've considered the attendee experience beyond the agenda, creating moments of genuine enjoyment that make your conference memorable. For [exhibitions](/exhibition-game-hire/#content) and trade shows, the right games draw crowds to stands and generate leads in a relaxed, engaging way.
+Well-chosen entertainment also reflects positively on your organisation. It shows you've considered the attendee experience beyond the agenda, creating moments of genuine enjoyment that make your conference memorable. For [exhibitions](/events/exhibition-games/#content) and trade shows, the right games draw crowds to stands and generate leads in a relaxed, engaging way.
 
 ## Conference Entertainment Solutions for Coventry Events
 
@@ -46,7 +46,7 @@ These include [cash grabbers](/products/cash-grabber-machine-hire/#content) and 
 
 Different conference types need different entertainment approaches. For corporate conferences and training days, we provide breakout activities and networking tools that energise people between sessions without overwhelming professional atmospheres.
 
-At trade shows and exhibitions, our [branded games](/branded-game-hire/#content) help draw crowds to stands, generate leads, and increase brand visibility with quick-play activities suited to high footfall environments.
+At trade shows and exhibitions, our [branded games](/events/brand-activation/#content) help draw crowds to stands, generate leads, and increase brand visibility with quick-play activities suited to high footfall environments.
 
 Award ceremonies and gala dinners call for sophisticated entertainment options that work around formal dress codes and seated arrangements, such as [photo booths](/products/classic-photo-booths/#content) and elegant giant games.
 
@@ -66,7 +66,7 @@ Based in Coventry with over 15 years of experience, we know the local conference
 
 \*Delivery, set up and collection may be charged at an additional fee.
 
-We don't offer one-size-fits-all packages. Instead, we listen to your conference objectives, venue constraints, and attendee profile before recommending games that genuinely suit your needs. [Custom branding](/branded-game-hire/#content) is available for exhibitions and brand activations, and our trained staff can operate games throughout your event if needed.
+We don't offer one-size-fits-all packages. Instead, we listen to your conference objectives, venue constraints, and attendee profile before recommending games that genuinely suit your needs. [Custom branding](/events/brand-activation/#content) is available for exhibitions and brand activations, and our trained staff can operate games throughout your event if needed.
 
 Whilst we're based in Coventry and serve venues including CoventryConferences, Coombe Abbey Hotel, Coventry Building Society Arena, and the Heart of England Conference Centre, we provide [nationwide coverage](/delivery-areas/#content) with competitive pricing thanks to our local presence.
 

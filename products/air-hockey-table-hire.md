@@ -9,7 +9,9 @@ categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -127,7 +129,7 @@ tabs:
       [Awards ceremonies](/events/award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
-      [Christmas events](/christmas-entertainment-game-hire/#content)  
+      [Christmas events](/events/christmas-entertainment/#content)  
         
       …and more!  
       
@@ -209,6 +211,5 @@ tabs:
       ### **Is the equipment maintained and cleaned by Fun Pro UK?**
       
       Yes! We prioritise safety and hygiene to deliver a flawless experience for our clients. Every air hockey table is thoroughly inspected, cleaned, and maintained before each hire. We follow strict cleaning and maintenance protocols to guarantee that the equipment is spotless and in excellent working condition when it arrives at your event.
-      
 ---
 

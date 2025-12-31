@@ -42,7 +42,7 @@ Please contact us to find out more
 
 **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
 
-!
+![](/userfiles/file/FunPro/contactus2.jpg)
 
 **Equipment size**
 

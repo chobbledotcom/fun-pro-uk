@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -162,6 +164,5 @@ tabs:
       **Branded Discs**
       
       **£**50** + vat
-      
 ---
 

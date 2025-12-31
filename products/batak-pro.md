@@ -5,8 +5,8 @@ price: "£495"
 order: 2
 meta_title: "Batak Pro Game Hire | Corporate Engagement | Interactive Game"
 meta_description: "Hire Batak Pro for Corporate events, conferences &amp; parties. Engage guests with this high-energy reaction game. Book now for a fun, competitive experience!"
-categories: ["categories/batak.md", "categories/exhibition-games.md", "categories/all-products.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
-events: ["events/conference-idea.md"]
+categories: ["categories/exhibition-games.md"]
+events: []
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -30,10 +30,9 @@ filter_attributes:
     value: "TBD"
 options:
   - name: "Batak Pro"
-    max_quantity: 2
+    max_quantity: 1
     unit_price: 495
 redirect_from:
-  - "/category/batak/43/batak-pro/"
   - "/category/exhibition-games/43/batak-pro/"
 gallery:
   - "/images/products/batak-pro/batak-pro-1.jpg"
@@ -93,7 +92,7 @@ tabs:
       
       Batak Pro is the full-scale version of the popular reaction speed game, [Batak Lite](/products/batak-lite/#content), designed to test and improve hand-eye coordination, reflexes, and stamina. With its dynamic illuminated targets, players are challenged to hit as many of the targets as possible within a set time, making it a thrilling game for participants and spectators alike.
       
-      Highly popular at many types of [corporate events](/categories/corporate-entertainment/#content) like [team building](/team-building-ideas/#content) days, exhibitions, trade shows, and [brand activations](/promotion-event-games/#content), Batak Pro draws crowds and creates a buzz around your brand.
+      Highly popular at many types of [corporate events](/categories/corporate-entertainment/#content) like [team building](/team-building-ideas/#content) days, exhibitions, trade shows, and [brand activations](/promotional-event-games/#content), Batak Pro draws crowds and creates a buzz around your brand.
       
       ## Why Choose Batak Pro for Your Next Event?
       
@@ -141,7 +140,7 @@ tabs:
       
       \*Delivery fees may apply.
       
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
@@ -239,6 +238,5 @@ tabs:
       ## Hire Batak Pro for Your Next Event
       
       Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
-      
 ---
 

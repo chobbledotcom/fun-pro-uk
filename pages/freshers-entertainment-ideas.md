@@ -114,7 +114,7 @@ Careers fairs and recruitment events benefit from entertainment that draws stude
 
 Open days and prospective student events use entertainment to showcase the social aspects of university life to potential applicants and their families. These events often influence university choice decisions, so creating a welcoming, fun atmosphere can be valuable for recruitment.
 
-Graduation celebrations provide opportunities to create positive final memories for students and their families. Many universities host [family-fun events](/family-fun-day-entertainment/#content) where interactive games help different generations interact and celebrate together.
+Graduation celebrations provide opportunities to create positive final memories for students and their families. Many universities host [family-fun events](/events/family-fun-days/#content) where interactive games help different generations interact and celebrate together.
 
 ## Our University Entertainment Experience
 

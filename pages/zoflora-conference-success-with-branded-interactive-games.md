@@ -8,9 +8,9 @@ redirect_from:
 
 # How Zoflora Captured Buyer Attention at Home Bargains Conference with Custom-Branded Interactive Games
 
-!
+![](/userfiles/zoflora-interactive-games.jpg)
 
-Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/#content) speed reaction game. The [branded](/branded-game-hire/#content) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
+Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/#content) speed reaction game. The [branded](/events/brand-activation/#content) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
 
 ## Client Testimonial
 
@@ -38,7 +38,7 @@ Zoflora is a leading name in the UK household cleaning and disinfectants industr
 
 ## About Zoflora
 
-!
+![](/userfiles/fun-pro-zoflora.jpg)
 
 Zoflora has built a reputation as one of Britain's most trusted household cleaning brands, with their distinctive concentrated disinfectants becoming a staple in homes throughout the UK. The brand's success lies in their ability to combine effective cleaning power with pleasant fragrances, transforming routine household tasks into more enjoyable experiences. As consumer preferences evolve and competition intensifies within the household cleaning sector, Zoflora understands the importance of maintaining strong relationships with major retailers.
 
@@ -46,11 +46,11 @@ The Home Bargains Conference represents a crucial event in Zoflora's annual cale
 
 However, Zoflora faced a common challenge at trade [conferences](/events/conference-production/#content): how to attract and engage busy retail buyers who are approached by numerous suppliers throughout the day. Traditional exhibition stands with static displays often fail to capture attention in crowded conference halls filled with competing brands. Zoflora needed an [interactive solution](/categories/interactive-game-hire/#content) that would draw buyers to their stand, create genuine engagement opportunities, and reinforce their brand identity in a way that felt natural and enjoyable rather than forced or overly commercial.
 
-After their initial enquiry about interactive games, including consideration of both [Batak](/categories/batak/#content) and [Whack a Mole](/products/whack-a-mole-game-hire/#content) options, Zoflora recognised that FunPro's expertise in [branded game hire](/branded-game-hire/#content) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
+After their initial enquiry about interactive games, including consideration of both [Batak](/categories/batak/#content) and [Whack a Mole](/products/whack-a-mole-game-hire/#content) options, Zoflora recognised that FunPro's expertise in [branded game hire](/events/brand-activation/#content) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
 
 ## Creating a Fully Branded Interactive Experience
 
-!
+![](/userfiles/zoflora-interactive-game-fun-pro.jpg)
 
 As told to FunPro by the Zoflora events team.
 
@@ -68,7 +68,7 @@ Throughout the event, the [Batak game](/products/batak-lite/#content) performed 
 
 What we particularly valued was FunPro's reliability. In the events industry, there are always concerns about suppliers failing to deliver as promised or equipment not working properly at crucial moments. With FunPro, everything worked exactly as discussed. The game arrived on time, the branding was perfect, and the equipment performed without any technical issues throughout the day. This reliability gave us confidence to focus on our core objective: building relationships with Home Bargains buyers rather than worrying about logistics.
 
-The feedback we received during and after the event reinforced our decision to work with FunPro. Buyers told us they enjoyed the interactive element, and several mentioned that it made our stand more approachable and memorable. In an environment where every brand is trying to make an impression, having something that creates genuine enjoyment and engagement makes a real difference. The Home Bargains buying team appreciated that we'd invested in creating an experience rather than just setting up another standard [exhibition](/exhibition-game-hire/#content) stand."
+The feedback we received during and after the event reinforced our decision to work with FunPro. Buyers told us they enjoyed the interactive element, and several mentioned that it made our stand more approachable and memorable. In an environment where every brand is trying to make an impression, having something that creates genuine enjoyment and engagement makes a real difference. The Home Bargains buying team appreciated that we'd invested in creating an experience rather than just setting up another standard [exhibition](/events/exhibition-games/#content) stand."
 
 ## Results and Future Partnership
 

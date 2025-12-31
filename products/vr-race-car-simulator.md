@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -235,6 +237,5 @@ tabs:
       **Interactive Games and More!**
       
       Our **VR Racing** Car Simulators can accompany any of our wide variety of Interactive Games to hire. From table top Buzz Wire to test your concentration skills to the Lights Out game for speed and reaction! Talk to our team today about your venue, event and budget. The team will be able to put a great value package together for you which will be full of fun entertainment and excitement with all detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
-      
 ---
 

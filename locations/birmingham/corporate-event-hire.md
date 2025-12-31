@@ -8,7 +8,7 @@ redirect_from:
 
 # Corporate Event Hire Birmingham
 
-!Game hire Birmingham
+![Game hire Birmingham](/userfiles/file/FunPro/birmingham.jpg)
 
 When you're planning a corporate event in Birmingham, getting the entertainment right can make all the difference between an event people remember fondly and one that falls flat.
 
@@ -20,9 +20,9 @@ Based in Coventry, we're perfectly positioned to serve Birmingham's corporate ev
 
 The right entertainment does more than fill time between sessions or create background noise. It gives people something to talk about, breaks down the usual workplace barriers, and helps colleagues see each other in a completely different light. That's where interactive games come into their own at corporate events.
 
-We provide a range of entertainment that works across different corporate occasions. [Racing simulators](/products/racing-car-simulators/#content) get competitive spirits flowing at product launches. Reaction games like [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/products/batak-pro/#content) create friendly rivalry on [team building](/team-building-ideas/#content) days. Photo booths and [magic mirrors](/products/magic-mirror/#content) give [conference](/events/conference-production/#content) attendees something fun to do during breaks, whilst creating shareable memories. Virtual reality experiences draw crowds at [exhibition](/exhibition-game-hire/#content) stands, helping you stand out when you're competing for attention.
+We provide a range of entertainment that works across different corporate occasions. [Racing simulators](/products/racing-car-simulators/#content) get competitive spirits flowing at product launches. Reaction games like [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/products/batak-pro/#content) create friendly rivalry on [team building](/team-building-ideas/#content) days. Photo booths and [magic mirrors](/products/magic-mirror/#content) give [conference](/events/conference-production/#content) attendees something fun to do during breaks, whilst creating shareable memories. Virtual reality experiences draw crowds at [exhibition](/events/exhibition-games/#content) stands, helping you stand out when you're competing for attention.
 
-What you choose depends on your specific situation. A formal [awards ceremony](/award-ceremonies/#content) needs different entertainment than a summer fun day. Conference attendees between sessions have different needs than team members at an off-site building event. That's why we take time to understand your event before recommending what will actually work for your audience and objectives.
+What you choose depends on your specific situation. A formal [awards ceremony](/events/award-ceremonies/#content) needs different entertainment than a summer fun day. Conference attendees between sessions have different needs than team members at an off-site building event. That's why we take time to understand your event before recommending what will actually work for your audience and objectives.
 
 We handle [delivery](/delivery-areas/#content), setup and collection from our Coventry base, which means straightforward logistics for your Birmingham event. [Our team](/meet-the-team/#content) makes sure everything's working properly before guests arrive, and we're there to support you throughout the event if needed.
 

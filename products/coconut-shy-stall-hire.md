@@ -9,7 +9,9 @@ categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -58,7 +60,7 @@ tabs:
       
       Looking to bring a touch of classic fairground fun to your next [corporate event](/categories/corporate-entertainment/#content)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
       
-      A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), [family fun days](/family-fun-day-entertainment/#content), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+      A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), [family fun days](/events/family-fun-days/#content), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
       
       ## Hire a Coconut Shy Stall for Your Next Event
       
@@ -149,6 +151,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

@@ -9,7 +9,9 @@ categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -252,6 +254,5 @@ tabs:
       Full Branded
       
       **£**225** + vat
-      
 ---
 

@@ -9,7 +9,9 @@ categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -117,6 +119,5 @@ tabs:
       *   [Assault courses](/products/inflatable-assault-courses/#content)
       *   [Giant Jenga](/products/giant-jenga-hire/#content)
       *   [Giant connect 4](/products/giant-connect-4-game-hire/#content)
-      
 ---
 

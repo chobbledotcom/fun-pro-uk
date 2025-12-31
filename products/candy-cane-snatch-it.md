@@ -9,7 +9,9 @@ categories: ["categories/christmas-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -48,7 +50,6 @@ faqs:
       The Candy Cane Snatch It game is designed specifically for indoor use on a level surface. Unfortunately, it is not suitable for outdoor use. Potential exposure to the elements could affect the game's performance.
       
       For a smooth setup, we recommend an indoor location that meets our space and access requirements.
-      
   - question: "How many people can play the Candy Cane Snatch It game at once?"
     answer: "The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns."
 tabs:
@@ -220,6 +221,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

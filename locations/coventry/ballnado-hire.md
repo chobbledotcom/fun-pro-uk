@@ -8,7 +8,7 @@ redirect_from:
 
 # Fun Pro Ballnado Hire for Your Next Event in Coventry
 
-!Ballnado hire in Coventry
+![Ballnado hire in Coventry](/userfiles/file/FunPro/Grab%20a%20Grand/ballnadov2.jpg)
 
 Fun Pro UK is the perfect choice for hiring the Ballnado game for exhibitions, promotions, and corporate events in Coventry. The game hire specialists are also actually based right here in Coventry, so you're supporting a local business too!
 

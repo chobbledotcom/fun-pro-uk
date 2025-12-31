@@ -9,7 +9,9 @@ categories: ["categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -174,7 +176,7 @@ tabs:
       
       ### A choice of photo booths
       
-      !Green screen booths Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/#content), we can [brand the outside](/products/bespoke-photo-booth-hire/#content) too, creating a real draw at an exhibition or trade show
+      ![Green screen booths](/userfiles/file/FunPro/img-20180708-wa0037.jpg) Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/#content), we can [brand the outside](/products/bespoke-photo-booth-hire/#content) too, creating a real draw at an exhibition or trade show
       
       ### A complete service
       
@@ -241,6 +243,5 @@ tabs:
       **Branded back panels**
       
       **£650**\+ vat**
-      
 ---
 

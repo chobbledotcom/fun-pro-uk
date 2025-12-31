@@ -315,11 +315,29 @@ const isEventCategory = (slug) => {
 
 /**
  * Check if a page slug should be imported as an event
+ * Checks both EVENT_PAGES list and EVENT_HIERARCHY oldSiteSlug values
  * @param {string} slug - The page slug to check
  * @returns {boolean} True if this should be an event
  */
 const isEventPage = (slug) => {
-  return EVENT_PAGES.includes(slug);
+  // Check the legacy EVENT_PAGES list
+  if (EVENT_PAGES.includes(slug)) {
+    return true;
+  }
+
+  // Check if slug matches any oldSiteSlug in the hierarchy
+  for (const parent of EVENT_HIERARCHY) {
+    if (parent.oldSiteSlug === slug) {
+      return true;
+    }
+    for (const child of parent.children) {
+      if (child.oldSiteSlug === slug) {
+        return true;
+      }
+    }
+  }
+
+  return false;
 };
 
 module.exports = {

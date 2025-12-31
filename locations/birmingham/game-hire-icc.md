@@ -8,7 +8,7 @@ redirect_from:
 
 # ICC Birmingham
 
-!Game Hire At The ICC
+![Game Hire At The ICC](/userfiles/file/FunPro/homepage-header.png)
 
 ## Game Hire ICC Birmingham
 

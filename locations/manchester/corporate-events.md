@@ -32,9 +32,9 @@ Weather considerations are particularly important for Manchester events. Our ext
 
 ### Conference and Exhibition Entertainment
 
-Manchester hosts numerous conferences and trade shows throughout the year, from MediaCity events to Manchester Central [exhibitions](/exhibition-game-hire/#content). Standing out in this competitive environment requires entertainment that draws crowds and creates meaningful engagement with your brand.
+Manchester hosts numerous conferences and trade shows throughout the year, from MediaCity events to Manchester Central [exhibitions](/events/exhibition-games/#content). Standing out in this competitive environment requires entertainment that draws crowds and creates meaningful engagement with your brand.
 
-Our [branded interactive games](/branded-game-hire/#content) can be customised with your company logos and messaging, turning entertainment into a powerful marketing tool. A racing simulator branded with your colours becomes more than just a game - it becomes a memorable brand experience that people associate with innovation and forward thinking.
+Our [branded interactive games](/events/brand-activation/#content) can be customised with your company logos and messaging, turning entertainment into a powerful marketing tool. A racing simulator branded with your colours becomes more than just a game - it becomes a memorable brand experience that people associate with innovation and forward thinking.
 
 For [conferences](/events/conference-production/#content), consider how entertainment can energise delegates between sessions. Our reaction games and skill-based challenges provide mental breaks that actually help people return to presentations refreshed and more engaged. We've found that companies using interactive entertainment at conferences report higher attendee satisfaction and better networking outcomes.
 
@@ -56,7 +56,7 @@ Traditional team building activities benefit from modern presentation and profes
 
 Our [photo booth](/products/classic-photo-booths/#content) and [magic mirror](/products/magic-mirror/#content) installations have become increasingly popular for Manchester corporate events. These solutions provide entertainment value whilst creating branded content that extends your event's reach through social media sharing. Professional-grade equipment ensures high-quality results that reflect well on your organisation.
 
-[Branded entertainment solutions](/branded-game-hire/#content) deserve particular consideration for Manchester businesses. Our ability to customise games and activities with your company branding turns entertainment into marketing opportunity. From branded racing simulators to custom-designed photo booth backdrops, these solutions create cohesive experiences that reinforce your brand messaging.
+[Branded entertainment solutions](/events/brand-activation/#content) deserve particular consideration for Manchester businesses. Our ability to customise games and activities with your company branding turns entertainment into marketing opportunity. From branded racing simulators to custom-designed photo booth backdrops, these solutions create cohesive experiences that reinforce your brand messaging.
 
 When planning entertainment for Manchester's diverse workforce, consider options that work for different personality types and comfort levels. Quiet networking areas with subtle background entertainment work alongside high-energy game zones to ensure everyone finds something they enjoy.
 

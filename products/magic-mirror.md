@@ -9,7 +9,9 @@ categories: ["categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -159,7 +161,7 @@ tabs:
       
       Compact enough to fit on to any exhibition stand or promo stage, yet big enough and bright enough to make a real impact, the magic selfie mirror is a great way to show the fun side of your company and attract interest from all ages at any event.
       
-      !
+      ![](/userfiles/file/FunPro/nec-brill-17-310.jpg)
       
       **Fun for Everyone with the Magic Mirror Hire**
       
@@ -243,6 +245,5 @@ tabs:
       Your hire package also includes a friendly operator to really take care of your guests. They will make sure everyone enjoys the experience and gets the perfect picture. Each operator is fully trained and never forgets that they are representing your company.
       
       We can deliver the magic selfie mirror anywhere in the UK, with reliable service that will never let your company down. However, this is a highly popular item, so book now to guarantee your preferred date.
-      
 ---
 

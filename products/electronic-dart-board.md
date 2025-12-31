@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -44,7 +46,7 @@ faqs:
   - question: "How long does setup take?"
     answer: "It usually takes around 15-20 minutes. We arrive early to handle installation and testing before your event starts."
   - question: "Can we brand the dartboard?"
-    answer: "Yes. We can apply [custom branding](/branded-game-hire/#content) to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
+    answer: "Yes. We can apply [custom branding](/events/brand-activation/#content) to the surround or backdrop –this is particularly effective for exhibitions and brand activations."
   - question: "What if someone's never played darts?"
     answer: "Electronic boards are genuinely beginner-friendly. Automatic scoring removes intimidation, and on-screen instructions guide players through games."
   - question: "Is it suitable for outdoor events?"
@@ -78,9 +80,9 @@ tabs:
       
       ## Where They Work Best
       
-      Electronic dart boards suit corporate fun days and [team building events](/team-building-ideas/#content), creating natural opportunities for friendly competition between departments. At [exhibition](/exhibition-game-hire/#content) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
+      Electronic dart boards suit corporate fun days and [team building events](/team-building-ideas/#content), creating natural opportunities for friendly competition between departments. At [exhibition](/events/exhibition-games/#content) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
       
-      For [award ceremonies](/exhibition-game-hire/#content) and corporate parties, they provide entertainment during reception drinks or networking periods. At [Christmas parties](/christmas-entertainment-game-hire/#content), you can run tournaments with the Luke Littler effect making darts particularly topical right now.
+      For [award ceremonies](/events/exhibition-games/#content) and corporate parties, they provide entertainment during reception drinks or networking periods. At [Christmas parties](/events/christmas-entertainment/#content), you can run tournaments with the Luke Littler effect making darts particularly topical right now.
       
       Consider your audience mix. Not everyone enjoys competitive games, so frame participation as optional. The automatic scoring helps beginners, though some people may feel hesitant – having alternative activities available ensures everyone finds something they're comfortable with.
       
@@ -195,6 +197,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

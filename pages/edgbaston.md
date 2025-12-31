@@ -8,7 +8,7 @@ redirect_from:
 
 # Edgbaston
 
-!
+![](/userfiles/edgbaston.jpg)
 
 ## Interactive Game Hire at Edgbaston Stadium
 

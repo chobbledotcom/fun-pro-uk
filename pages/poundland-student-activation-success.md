@@ -8,7 +8,7 @@ redirect_from:
 
 # How Poundland Manchester Boosted Student Engagement with Last-Minute Activation Success
 
-!
+![](/userfiles/fun-pro-uk-poundland-manchester.jpg)
 
 Learn how Poundland Manchester transformed a busy Saturday into an engaging fresher student activation by utilising FunPro's custom branded [prize wheel](/products/prize-wheel/#content) game, delivered at short notice to create memorable gamification experiences that drew crowds and increased student engagement in their Manchester store.
 
@@ -28,9 +28,9 @@ Poundland is the UK's leading variety discount retailer, operating over 800 stor
     
 *   Location: High-footfall Manchester store
     
-*   Target Audience: [University](/college-and-university-entertainment/#content) freshers and new students
+*   Target Audience: [University](/events/college-entertainment/#content) freshers and new students
     
-*   Solution Delivered: [Custom branded](/branded-game-hire/#content) prize wheel
+*   Solution Delivered: [Custom branded](/events/brand-activation/#content) prize wheel
     
 *   Service Level: Short-notice activation support
     
@@ -38,7 +38,7 @@ Poundland is the UK's leading variety discount retailer, operating over 800 stor
 
 ## About Poundland Manchester
 
-!
+![](/userfiles/poundlands-manchester-store.jpg)
 
 Poundland's Manchester store serves one of the UK's most vibrant student cities, home to over 100,000 university students across multiple institutions including the University of Manchester and Manchester Metropolitan University. During [freshers week](/freshers-entertainment-ideas/#content), the city buzzes with energy as thousands of new students arrive, creating a crucial opportunity for retailers to establish relationships with this important demographic.
 
@@ -70,7 +70,7 @@ As told to FunPro by the Poundland Manchester Store Management Team.
 
 The solution needed to work on multiple levels. Visually, it had to be striking enough to catch attention from students walking past the store. Functionally, it needed to be simple enough for quick interactions that wouldn't create bottlenecks during busy Saturday trading. Most importantly, it had to feel authentic to the Poundland brand whilst creating genuine excitement.
 
-"What impressed us was their attention to the [branding details](/branded-game-hire/#content). This wasn't just a generic wheel with our logo stuck on - it was properly integrated with our brand colours, messaging, and even consideration of how it would photograph for social media. They understood that students would want to share their experience online."
+"What impressed us was their attention to the [branding details](/events/brand-activation/#content). This wasn't just a generic wheel with our logo stuck on - it was properly integrated with our brand colours, messaging, and even consideration of how it would photograph for social media. They understood that students would want to share their experience online."
 
 The custom branding extended beyond aesthetics to functionality. The wheel segments were designed to align with Poundland's product ranges and promotional offers, creating natural connections between the game experience and actual shopping opportunities. This approach meant the activation wasn't just entertainment - it was a genuine marketing tool that could drive both immediate sales and longer-term customer relationships.
 
@@ -78,7 +78,7 @@ The custom branding extended beyond aesthetics to functionality. The wheel segme
 
 ## Implementation and Immediate Impact
 
-!
+![](/userfiles/fun-pro-pounland-manchester.jpg)
 
 As told to FunPro by the Poundland Manchester Store Management Team.
 
@@ -112,7 +112,7 @@ FunPro's custom branding capabilities meant the prize wheel wasn't just function
 
 ## Ready to Create Your Own Success Story?
 
-!
+![](/userfiles/poundland-manchester-fun-pro.jpg)
 
 If you're planning student activations, retail promotions, or any event where engagement matters, [contact our friendly team](/contact-fun-pro-uk/#content) to discuss how FunPro's interactive solutions can help you achieve your objectives, even with short notice requirements.
 
