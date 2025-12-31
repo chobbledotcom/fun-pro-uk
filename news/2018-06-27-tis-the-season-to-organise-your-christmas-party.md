@@ -1,5 +1,6 @@
 ---
 title: "’tis The Season To Plan Christmas Parties – Game Hire"
+subtitle: "’tis The Season To Plan Christmas Parties – Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-06-27
 author: "team/liz.md"
 meta_title: "’tis The Season To Plan Christmas Parties – Game Hire"

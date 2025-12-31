@@ -1,5 +1,6 @@
 ---
 title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
+subtitle: "Discover the best office Christmas party games with Fun Pro UK! Make your office holiday party amazing with our top-rated fun and festive game ideas."
 date: 2024-09-04
 author: "team/liz.md"
 meta_title: "Best Office Christmas Party Games | Event Hire | News & Blogs"

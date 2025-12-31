@@ -1,5 +1,6 @@
 ---
 title: "Improve Staff Retention with Company Fun Days | News & Blogs"
+subtitle: "Keep staff happy with a company fun day at Fun Pro UK! Just tell us a few details about your big day and book out the entertainment you need online."
 date: 2023-09-27
 author: "team/liz.md"
 meta_title: "Improve Staff Retention with Company Fun Days | News & Blogs"

@@ -1,5 +1,6 @@
 ---
 title: "Kishan’s 21st Birthday – Event Game Hire - Fun Pro UK"
+subtitle: "Celebrate in style! Kishan&#39;s 21st birthday bash was a hit with our Magic Selfie Mirror, capturing unforgettable moments. The perfect addition to any party!"
 date: 2017-01-30
 author: "team/colin.md"
 meta_title: "Kishan’s 21st Birthday – Event Game Hire - Fun Pro UK"
