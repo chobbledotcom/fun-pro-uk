@@ -17,6 +17,8 @@ const templateExcludes = [
 	"*.md",
 	"test",
 	"test-*",
+	"package.json",
+	"pnpm-lock.yaml",
 ];
 
 const rootExcludes = [
