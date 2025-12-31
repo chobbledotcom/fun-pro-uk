@@ -1,5 +1,6 @@
 ---
 title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"
+subtitle: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2017-04-10
 author: "team/colin.md"
 meta_title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Brand Activation in Birmingham: The Complete Guide"
+subtitle: "Discover why Birmingham is ideal for your next brand activation. Expert guidance on venues, interactive entertainment, and measuring ROI."
 date: 2025-12-15
 author: "team/colin.md"
 meta_title: "Brand Activation in Birmingham: The Complete Guide"

@@ -1,5 +1,6 @@
 ---
 title: "It"
+subtitle: "It&#39;s a great idea to book your Christmas party entertainment early to ensure you receive all that you want! Find out more about our holiday fun here."
 date: 2023-07-28
 author: "team/liz.md"
 meta_title: "It's never too early to think about Christmas parties! | Our Blogs"

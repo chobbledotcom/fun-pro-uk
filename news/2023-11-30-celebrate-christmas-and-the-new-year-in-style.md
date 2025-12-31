@@ -1,5 +1,6 @@
 ---
 title: "Celebrate Christmas and the New Year in Style! | News & Blogs"
+subtitle: "We have some amazing party supplies for your Christmas and New Years events. Mobile casinos, climbing walls, red carpets, interactive games and more!"
 date: 2023-11-30
 author: "team/liz.md"
 meta_title: "Celebrate Christmas and the New Year in Style! | News & Blogs"

@@ -1,5 +1,6 @@
 ---
 title: "Boost Your Staff"
+subtitle: "Discover how to support the health and wellbeing of your staff with our range of fun equipment for hire. From table football to human hungry hippos! Book now."
 date: 2023-04-25
 author: "team/colin.md"
 meta_title: "Boost Your Staff's Wellbeing with Office Entertainment Hire | Blog"

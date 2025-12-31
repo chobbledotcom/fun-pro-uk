@@ -1,5 +1,6 @@
 ---
 title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"
+subtitle: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2020-03-16
 author: "team/liz.md"
 meta_title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"

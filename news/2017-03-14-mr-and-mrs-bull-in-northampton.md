@@ -1,5 +1,6 @@
 ---
 title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
+subtitle: "Mr And Mrs Bull Wedding – Event Entertainment Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2017-03-14
 author: "team/liz.md"
 meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"

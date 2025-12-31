@@ -1,5 +1,6 @@
 ---
 title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"
+subtitle: "Fun Pro UK is local to the NEC, so we&#39;re always delivering amazing branded games to exhibitions at the Birmingham events centre. Find out more in our blog!"
 date: 2023-05-11
 author: "team/colin.md"
 meta_title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"
