@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "node scripts/test.js"
+  },
   "dependencies": {
     "json-to-pdf": "^0.1.2",
     "turndown": "^7.2.2"
