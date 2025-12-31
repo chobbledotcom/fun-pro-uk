@@ -142,7 +142,7 @@ Manchester offers better value whilst maintaining professional standards, with v
 
 ### How far in advance should we book venues for Manchester activations?
 
-For most corporate brand activations, booking 8-12 weeks in advance provides good venue selection whilst allowing time for proper planning. Popular venues during business [conference](/events/conference-idea/#content) season (September-November, March-May) may require longer lead times, whilst summer months often offer more flexibility for both indoor and outdoor options.
+For most corporate brand activations, booking 8-12 weeks in advance provides good venue selection whilst allowing time for proper planning. Popular venues during business [conference](/events/conference-production/#content) season (September-November, March-May) may require longer lead times, whilst summer months often offer more flexibility for both indoor and outdoor options.
 
 ### What's the best area of Manchester for corporate brand activation events?
 

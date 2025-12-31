@@ -14,7 +14,7 @@ Recently we joined many of [KPMG's staff in Birmingham for their annual awards n
 
 For a company hosting an awards night is incredibly important in showing your staff that you value their continual hard work throughout the year. But as we all know there are lulls in these types of events when acts are changing over on stage or between courses. So why not put some [interactive games](/categories/interactive-game-hire/#content) or a few [photo booths](/products/green-screen-photo-booths/#content) into your next event to keep your staff entertained.
 
-Our Photo Booths at KPMG's [award night](/events/company-award-ceremonies/#content) went down a storm with continual queues through the whole time we attended. The massive benefit of photo booths are that your guests get a tangible item from your event. Meaning they are able to take away the memories of the night.
+Our Photo Booths at KPMG's [award night](/events/award-ceremonies/#content) went down a storm with continual queues through the whole time we attended. The massive benefit of photo booths are that your guests get a tangible item from your event. Meaning they are able to take away the memories of the night.
 
 With a variety of props, all guests can find the perfect item to pose with. Allowing everyone the chance to let their hair down and enjoy a night off with colleagues.
 

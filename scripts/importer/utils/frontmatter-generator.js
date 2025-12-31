@@ -468,10 +468,10 @@ products: ["products/${productSlug}.md"]
  * Old URL: /category/{slug}/ or /pages/{slug}/ (depending on source)
  * New URL: /events/{slug}/ (dynamically calculated from file path)
  * @param {Object} metadata - Extracted metadata
- * @param {string} slug - Event slug
+ * @param {string} slug - Event slug (the new slug, not the old site slug)
  * @param {string} eventHeading - The H1 heading from event content
  * @param {number} eventIndex - Zero-based index of this event
- * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
+ * @param {Object} hierarchyInfo - Hierarchy info with isParent, parentTitle, order, title, oldSiteSlug
  * @param {string} sourceType - Source type: 'category' or 'pages' (to determine old URL)
  * @returns {string} Frontmatter YAML
  */
@@ -480,39 +480,71 @@ const generateEventFrontmatter = (
   slug,
   eventHeading = null,
   eventIndex = 0,
-  navInfo = null,
-  sourceType = "category",
+  hierarchyInfo = null,
+  sourceType = null,
 ) => {
-  // Old URL depends on source type
-  const oldUrl =
-    sourceType === "pages" ? `/pages/${slug}/` : `/category/${slug}/`;
-  // New URL will be dynamically calculated: /events/{slug}/
-  const newUrl = `/events/${slug}/`;
+  // Use title from hierarchy info if available, otherwise fall back to metadata
+  const title = hierarchyInfo?.title || metadata.title || "";
 
   let frontmatter = `---
-title: "${metadata.title || ""}"
-meta_title: "${metadata.title || ""}"
-meta_description: "${metadata.meta_description || ""}"
+title: "${escapeYamlString(title)}"
+meta_title: "${escapeYamlString(metadata.title || title)}"
+meta_description: "${escapeYamlString(metadata.meta_description || "")}"
 featured: true`;
 
-  // Add redirect_from if old URL differs from new URL
-  if (oldUrl !== newUrl) {
-    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  // Add redirect_from for old site URLs
+  // Collect all redirects: primary old site URL + any additional redirects
+  const redirects = [];
+
+  // Add the primary old site URL if source type is specified
+  if (sourceType && hierarchyInfo?.oldSiteSlug) {
+    const oldSiteSlug = hierarchyInfo.oldSiteSlug;
+    const oldUrl = sourceType === "pages" ? `/pages/${oldSiteSlug}/` : `/category/${oldSiteSlug}/`;
+    redirects.push(oldUrl);
   }
 
-  // Add navigation if extracted from old site navigation
-  if (navInfo) {
-    const navKey = navInfo.text || metadata.title || eventHeading || "";
+  // Add any additional redirects (for consolidated events)
+  if (hierarchyInfo?.additionalRedirects && hierarchyInfo.additionalRedirects.length > 0) {
+    for (const redirect of hierarchyInfo.additionalRedirects) {
+      if (!redirects.includes(redirect)) {
+        redirects.push(redirect);
+      }
+    }
+  }
+
+  // Output redirect_from if we have any redirects
+  if (redirects.length > 0) {
+    frontmatter += `\nredirect_from:`;
+    for (const redirect of redirects) {
+      frontmatter += `\n  - "${redirect}"`;
+    }
+  }
+
+  // Add navigation based on hierarchy info
+  if (hierarchyInfo) {
+    const navKey = hierarchyInfo.title || title;
+
     frontmatter += `
 eleventyNavigation:
   key: "${escapeYamlString(navKey)}"`;
-    // Only add parent if this is NOT a top-level item
-    if (navInfo.parent) {
+
+    // Determine the parent:
+    // - Parent categories have "Event Type" as their parent
+    // - Child events have their parent category title as parent
+    if (hierarchyInfo.isParent) {
+      // This is a parent category (e.g., "Corporate Events")
+      // Its parent is "Event Type" (the main dropdown)
       frontmatter += `
-  parent: "${escapeYamlString(navInfo.parent)}"`;
+  parent: "Event Type"`;
+    } else if (hierarchyInfo.parentTitle) {
+      // This is a child event (e.g., "Award Ceremonies")
+      // Its parent is the parent category title (e.g., "Corporate Events")
+      frontmatter += `
+  parent: "${escapeYamlString(hierarchyInfo.parentTitle)}"`;
     }
+
     frontmatter += `
-  order: ${navInfo.order}`;
+  order: ${hierarchyInfo.order || eventIndex + 1}`;
   }
 
   frontmatter += "\n---";

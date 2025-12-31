@@ -24,7 +24,7 @@ It was great to see everyone grabbing their friends and entering the booth to ch
 
 **STAFF APPRECIATION**
 
-Holding an [awards ceremony](/events/company-award-ceremonies/#content) is a great way to celebrate the hard work that your staff do from day to day. They often feel that they don't get noticed or recognised. By holding an awards ceremony this will make them feel appreciated by the company and will boost staff morale.
+Holding an [awards ceremony](/events/award-ceremonies/#content) is a great way to celebrate the hard work that your staff do from day to day. They often feel that they don't get noticed or recognised. By holding an awards ceremony this will make them feel appreciated by the company and will boost staff morale.
 
 **HAVE FUN & SOCIALISE WITH YOUR TEAM**
 

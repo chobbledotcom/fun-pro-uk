@@ -8,7 +8,7 @@ redirect_from:
 
 # Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success
 
-Birmingham's position as a major business hub means [conference](/events/conference-idea/#content) organisers face considerable pressure to create events that genuinely engage crowds. Between managing venue logistics, coordinating speakers, and keeping attendees focused throughout long days, entertainment often becomes an afterthought, yet it's frequently the element that determines whether your conference creates lasting connections or simply ticks boxes.
+Birmingham's position as a major business hub means [conference](/events/conference-production/#content) organisers face considerable pressure to create events that genuinely engage crowds. Between managing venue logistics, coordinating speakers, and keeping attendees focused throughout long days, entertainment often becomes an afterthought, yet it's frequently the element that determines whether your conference creates lasting connections or simply ticks boxes.
 
 If you're planning a conference or corporate event at venues like the [NEC Birmingham](/locations/birmingham/nec/#content), [ICC](/locations/birmingham/game-hire-icc/#content), or any of the city's hotel conference centres, you'll know the challenges. Large attendee numbers, varying levels of engagement, networking that doesn't quite happen naturally, and the constant competition for attention all make event planning more complex than it first appears.
 
@@ -36,7 +36,7 @@ It's worth discussing your venue with us early in the planning process. We know 
 
 Different [corporate events](/office-and-corporate-entertainment/#content) have different entertainment needs:
 
-[Large conferences](/events/conference-idea/#content) - (500+ attendees) benefit from multiple game stations that can handle high throughput during breaks, ensuring queues don't become frustrating.
+[Large conferences](/events/conference-production/#content) - (500+ attendees) benefit from multiple game stations that can handle high throughput during breaks, ensuring queues don't become frustrating.
 
 [Trade shows and exhibitions](/exhibition-game-hire/#content) - need entertainment that stops attendees in their tracks and creates opportunities for your team to start conversations whilst they're engaged with the activity.
 

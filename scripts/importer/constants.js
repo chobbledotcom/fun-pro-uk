@@ -33,6 +33,135 @@ const EVENT_PAGES = [
 ];
 
 /**
+ * Nested event category structure for navigation
+ * Parent categories are displayed as dropdown headers
+ * Child events are displayed as links under each parent
+ *
+ * Structure:
+ * - slug: URL slug for the parent category (also used as eleventyNavigation key for children)
+ * - title: Display name for navigation and page title
+ * - oldSiteSlug: Slug from old site pages (if exists), or null for placeholder
+ * - children: Array of child events with their own slugs and titles
+ */
+const EVENT_HIERARCHY = [
+  {
+    slug: 'corporate-events',
+    title: 'Corporate Events',
+    oldSiteSlug: 'corporate-events',
+    sourceType: 'pages',
+    order: 1,
+    children: [
+      // Award Ceremonies also absorbs the old company-award-ceremonies category
+      { slug: 'award-ceremonies', title: 'Award Ceremonies', oldSiteSlug: 'award-ceremonies', sourceType: 'pages', order: 1,
+        additionalRedirects: ['/category/company-award-ceremonies/', '/events/company-award-ceremonies/'] },
+      { slug: 'exhibition-games', title: 'Exhibition Games', oldSiteSlug: 'exhibition-game-hire', sourceType: 'pages', order: 2 },
+      { slug: 'office-entertainment', title: 'Office Entertainment', oldSiteSlug: 'office-entertainment', sourceType: 'pages', order: 3 },
+      // Corporate Wellbeing Days absorbs staff-wellbeing-days (both category and events URLs)
+      { slug: 'corporate-wellbeing-days', title: 'Corporate Wellbeing Days', oldSiteSlug: 'staff-wellbeing-days', sourceType: 'category', order: 4,
+        additionalRedirects: ['/events/staff-wellbeing-days/'] },
+      // Conference Production also absorbs conference-idea page
+      { slug: 'conference-production', title: 'Conference Production', oldSiteSlug: 'conference-production', sourceType: 'pages', order: 5,
+        additionalRedirects: ['/pages/conference-idea/', '/events/conference-idea/'] },
+      { slug: 'brand-activation', title: 'Brand Activation', oldSiteSlug: 'branded-game-hire', sourceType: 'pages', order: 6 },
+    ]
+  },
+  {
+    slug: 'celebrations-and-parties',
+    title: 'Celebrations & Parties',
+    oldSiteSlug: 'celebrations-and-parties',
+    sourceType: 'pages',
+    order: 2,
+    children: [
+      { slug: 'luxury-wedding-entertainment', title: 'Luxury Wedding Entertainment', oldSiteSlug: 'luxury-wedding-entertainment', sourceType: 'pages', order: 1 },
+      { slug: 'summer-entertainment', title: 'Summer Entertainment', oldSiteSlug: 'summer-entertainment', sourceType: 'pages', order: 2 },
+      { slug: 'evening-entertainment', title: 'Evening Entertainment', oldSiteSlug: 'evening-entertainment', sourceType: 'pages', order: 3 },
+      { slug: 'christmas-entertainment', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-entertainment-game-hire', sourceType: 'pages', order: 4 },
+    ]
+  },
+  {
+    slug: 'educational-and-community',
+    title: 'Educational & Community',
+    oldSiteSlug: 'educational-and-community',
+    sourceType: 'pages',
+    order: 3,
+    children: [
+      { slug: 'university-events', title: 'University Events', oldSiteSlug: null, sourceType: null, order: 1 },
+      { slug: 'college-entertainment', title: 'College Entertainment', oldSiteSlug: 'college-and-university-entertainment', sourceType: 'pages', order: 2 },
+      { slug: 'family-fun-days', title: 'Family Fun Days', oldSiteSlug: 'family-fun-day-entertainment', sourceType: 'pages', order: 3 },
+      { slug: 'school-entertainment', title: 'School Entertainment', oldSiteSlug: 'school-fun-day-entertainment-hire', sourceType: 'pages', order: 4 },
+      { slug: 'fundraising-events', title: 'Fundraising Events', oldSiteSlug: 'fundraising-event-ideas', sourceType: 'pages', order: 5 },
+    ]
+  }
+];
+
+/**
+ * Get all event slugs from the hierarchy (both parents and children)
+ * Used to filter which pages should be treated as events
+ * @returns {Object} Object with allSlugs, parentSlugs, childSlugs arrays
+ */
+const getEventSlugsFromHierarchy = () => {
+  const parentSlugs = [];
+  const childSlugs = [];
+  const oldSiteSlugMap = {}; // Maps oldSiteSlug -> new slug
+
+  for (const parent of EVENT_HIERARCHY) {
+    parentSlugs.push(parent.slug);
+    if (parent.oldSiteSlug) {
+      oldSiteSlugMap[parent.oldSiteSlug] = parent.slug;
+    }
+
+    for (const child of parent.children) {
+      childSlugs.push(child.slug);
+      if (child.oldSiteSlug) {
+        oldSiteSlugMap[child.oldSiteSlug] = child.slug;
+      }
+    }
+  }
+
+  return {
+    allSlugs: [...parentSlugs, ...childSlugs],
+    parentSlugs,
+    childSlugs,
+    oldSiteSlugMap
+  };
+};
+
+/**
+ * Find event info from hierarchy by new slug or old site slug
+ * @param {string} slug - Either the new slug or old site slug
+ * @returns {Object|null} Event info with parent reference, or null if not found
+ */
+const findEventInHierarchy = (slug) => {
+  for (const parent of EVENT_HIERARCHY) {
+    // Check if this is a parent category
+    if (parent.slug === slug || parent.oldSiteSlug === slug) {
+      return {
+        ...parent,
+        isParent: true,
+        parentSlug: null,
+        parentTitle: null,
+        additionalRedirects: parent.additionalRedirects || []
+      };
+    }
+
+    // Check children
+    for (const child of parent.children) {
+      if (child.slug === slug || child.oldSiteSlug === slug) {
+        return {
+          ...child,
+          isParent: false,
+          parentSlug: parent.slug,
+          parentTitle: parent.title,
+          additionalRedirects: child.additionalRedirects || []
+        };
+      }
+    }
+  }
+
+  return null;
+};
+
+/**
  * Check if a slug/filename represents a location page
  * @param {string} slug - The page slug to check
  * @returns {boolean} True if this is a location page
@@ -199,9 +328,12 @@ module.exports = {
   LOCATION_TOWNS,
   EVENT_CATEGORIES,
   EVENT_PAGES,
+  EVENT_HIERARCHY,
   isLocationPage,
   extractTownFromSlug,
   stripTownFromSlug,
   isEventCategory,
-  isEventPage
+  isEventPage,
+  getEventSlugsFromHierarchy,
+  findEventInHierarchy
 };

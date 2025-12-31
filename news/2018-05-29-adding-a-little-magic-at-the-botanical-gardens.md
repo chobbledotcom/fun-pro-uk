@@ -20,7 +20,7 @@ The Magic mirror has the option of adding a company logo or message to every pri
 
 The attendees had a wonderful time dressing up and interacting with the mirror and now have a lasting memento of the conference and what their company is trying to achieve.
 
-As well as magic selfie mirrors, Fun Pro UK also hire [photo booths](/products/green-screen-photo-booths/#content) and [interactive games](/categories/interactive-game-hire/#content) for all manner of corporate events including expos, company parties and [award nights](/events/company-award-ceremonies/#content).
+As well as magic selfie mirrors, Fun Pro UK also hire [photo booths](/products/green-screen-photo-booths/#content) and [interactive games](/categories/interactive-game-hire/#content) for all manner of corporate events including expos, company parties and [award nights](/events/award-ceremonies/#content).
 
 [<< Return to news](/news/#content)
 

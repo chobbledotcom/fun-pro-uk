@@ -36,7 +36,7 @@ Manchester hosts numerous conferences and trade shows throughout the year, from 
 
 Our [branded interactive games](/branded-game-hire/#content) can be customised with your company logos and messaging, turning entertainment into a powerful marketing tool. A racing simulator branded with your colours becomes more than just a game - it becomes a memorable brand experience that people associate with innovation and forward thinking.
 
-For [conferences](/events/conference-idea/#content), consider how entertainment can energise delegates between sessions. Our reaction games and skill-based challenges provide mental breaks that actually help people return to presentations refreshed and more engaged. We've found that companies using interactive entertainment at conferences report higher attendee satisfaction and better networking outcomes.
+For [conferences](/events/conference-production/#content), consider how entertainment can energise delegates between sessions. Our reaction games and skill-based challenges provide mental breaks that actually help people return to presentations refreshed and more engaged. We've found that companies using interactive entertainment at conferences report higher attendee satisfaction and better networking outcomes.
 
 Professional installation is crucial for conference and exhibition environments. Our team understands the tight timelines and specific requirements of Manchester's major venues. We coordinate with venue management to ensure smooth delivery and setup that doesn't disrupt your event schedule.
 

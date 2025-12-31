@@ -30,7 +30,7 @@ Whatever the event, we're here to help! Choose our branded games for occasions a
 
 ### Corporate Event Entertainment
 
-Branded games are ideal for corporate events. We're stuffed full of [corporate entertainment](/categories/corporate-entertainment/#content) ideas at Fun Pro UK; if you're hosting a huge party for your staff such as an [award ceremony](/events/company-award-ceremonies/#content), or if you're sponsoring [fun days](/categories/fun-days/#content) or similar events that are open to the general public, branded entertainment is a sure-fire way to make the day as memorable as possible for all the right reasons.
+Branded games are ideal for corporate events. We're stuffed full of [corporate entertainment](/categories/corporate-entertainment/#content) ideas at Fun Pro UK; if you're hosting a huge party for your staff such as an [award ceremony](/events/award-ceremonies/#content), or if you're sponsoring [fun days](/categories/fun-days/#content) or similar events that are open to the general public, branded entertainment is a sure-fire way to make the day as memorable as possible for all the right reasons.
 
 We will represent your business professionally and courteously at all corporate events. Our team are trained, polite, clean and well-spoken, and are happy to offer our expert assistance when you need it.
 

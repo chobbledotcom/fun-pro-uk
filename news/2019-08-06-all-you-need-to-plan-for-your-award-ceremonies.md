@@ -16,7 +16,7 @@ gallery:
 
 Why wait until the year draws to a close to award your staff? Why not host your annual employee award ceremony during summer to show your continued appreciation for their hard work.
 
-A great way of entertaining your staff and guests is with a range of [interactive games](/categories/interactive-game-hire/#content). But I hear you say that there are so many options. Not to worry, as here at Fun Pro UK we have put together a comprehensive guide to the best [award ceremony entertainment.](/events/company-award-ceremonies/#content)
+A great way of entertaining your staff and guests is with a range of [interactive games](/categories/interactive-game-hire/#content). But I hear you say that there are so many options. Not to worry, as here at Fun Pro UK we have put together a comprehensive guide to the best [award ceremony entertainment.](/events/award-ceremonies/#content)
 
 ## Memories to last a lifetime!![](/images/news/img-20190709-wa0000.jpg)
 

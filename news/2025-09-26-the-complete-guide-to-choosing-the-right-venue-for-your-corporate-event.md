@@ -16,7 +16,7 @@ gallery:
 
 Planning a [corporate event](/office-and-corporate-entertainment/#content) can feel overwhelming, and perhaps no decision carries more weight than selecting the right venue. With over 15 years of experience as corporate event specialists, we understand the pressure you face when choosing a space that needs to impress clients, engage employees, and reflect your company's professionalism. The venue you select will influence everything from attendance rates to the overall success of your event, making this choice one that deserves careful consideration and expert guidance.
 
-Whether you're organising a [team-building day](/team-building-ideas/#content), client entertainment event, or company [conference](/events/conference-idea/#content), the right venue creates the foundation for memorable experiences that bring people together. Let's explore the essential factors that will help you make this crucial decision with confidence.
+Whether you're organising a [team-building day](/team-building-ideas/#content), client entertainment event, or company [conference](/events/conference-production/#content), the right venue creates the foundation for memorable experiences that bring people together. Let's explore the essential factors that will help you make this crucial decision with confidence.
 
 ## Why Venue Selection Can Make or Break Your Event
 
@@ -156,7 +156,7 @@ When planning [interactive entertainment](/categories/interactive-game-hire/#con
 
 Conference venues require excellent sightlines, professional lighting, and acoustics that ensure every attendee can engage fully with presentations. Theatre-style seating works well for keynote sessions, but consider whether you'll need breakout spaces for smaller group discussions or workshops.
 
-Registration and welcome areas set the tone for [professional conferences](/events/conference-idea/#content), so look for venues with impressive entrance spaces that reflect the calibre of your event. Technical infrastructure becomes particularly important for conferences, including reliable internet for live streaming or social media engagement, and professional-grade AV equipment for clear presentations.
+Registration and welcome areas set the tone for [professional conferences](/events/conference-production/#content), so look for venues with impressive entrance spaces that reflect the calibre of your event. Technical infrastructure becomes particularly important for conferences, including reliable internet for live streaming or social media engagement, and professional-grade AV equipment for clear presentations.
 
 ### Client Entertainment and Networking
 

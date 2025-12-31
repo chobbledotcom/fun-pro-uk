@@ -18,7 +18,7 @@ Whether you are considering an annual award ceremony, a dinner or a summer party
 
 **Validating your Employees**![Human football](/images/news/20190607-142841.jpg)**
 
-Having an [award ceremony](/events/company-award-ceremonies/#content) is a great way of showing your appreciation to staff,by rewarding performance or company culture and values. These awards will make an employee feel valued, important and like they are having an impact on the business. Which overall will do wonders for the productivity when they are back in the office.
+Having an [award ceremony](/events/award-ceremonies/#content) is a great way of showing your appreciation to staff,by rewarding performance or company culture and values. These awards will make an employee feel valued, important and like they are having an impact on the business. Which overall will do wonders for the productivity when they are back in the office.
 
 If your business has just brought in a big deal or had a great quarter, why not celebrate it? Bring in the client for employees to meet, as everyone loves to be acknowledged for their work. Celebrating the success within a workplace builds the company culture, which in the long term will bring in improved talent!
 

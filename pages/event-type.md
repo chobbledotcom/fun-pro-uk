@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Event Type
 
-[Exhibition Game Hire](/exhibition-game-hire/#content) [School Fun Day Entertainment Hire](/school-fun-day-entertainment-hire/#content) [Evening Entertainment Ideas](/evening-entertainment/#content) [Fundraising Event ideas](/fundraising-event-ideas/#content) [Christmas Entertainment Game Ideas](/christmas-entertainment-game-hire/#content) [Conference Entertainment Ideas](/events/conference-idea/#content) [Promotion Event Games](/promotion-event-games/#content) [Office & Corporate Entertainment Ideas](/office-and-corporate-entertainment/#content) [Summer Entertainment Ideas](/summer-entertainment/#content) [College & University](/college-and-university-entertainment/#content)
+[Exhibition Game Hire](/exhibition-game-hire/#content) [School Fun Day Entertainment Hire](/school-fun-day-entertainment-hire/#content) [Evening Entertainment Ideas](/evening-entertainment/#content) [Fundraising Event ideas](/fundraising-event-ideas/#content) [Christmas Entertainment Game Ideas](/christmas-entertainment-game-hire/#content) [Conference Entertainment Ideas](/events/conference-production/#content) [Promotion Event Games](/promotion-event-games/#content) [Office & Corporate Entertainment Ideas](/office-and-corporate-entertainment/#content) [Summer Entertainment Ideas](/summer-entertainment/#content) [College & University](/college-and-university-entertainment/#content)
 
 ## What our customers are saying…
 

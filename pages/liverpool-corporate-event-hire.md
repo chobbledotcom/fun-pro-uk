@@ -14,7 +14,7 @@ At Fun Pro UK, we've spent over 15 years helping event planners across the UK cr
 
 ## Interactive Game Hire for Liverpool Events
 
-Liverpool's corporate events scene is thriving, from major [conferences](/events/conference-idea/#content) on the waterfront to company away days in the city's creative quarter. Whatever you're planning, [interactive games](/categories/interactive-game-hire/#content) give your guests something to do together – breaking down barriers, sparking conversations, and creating moments people actually remember.
+Liverpool's corporate events scene is thriving, from major [conferences](/events/conference-production/#content) on the waterfront to company away days in the city's creative quarter. Whatever you're planning, [interactive games](/categories/interactive-game-hire/#content) give your guests something to do together – breaking down barriers, sparking conversations, and creating moments people actually remember.
 
 Our extensive range includes games like:
 

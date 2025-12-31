@@ -20,7 +20,7 @@ Are you searching for fresh ideas for office events that will break the routine 
 
 **Fun Corporate Activities: Prize Wheel** \- Add excitement to your fun corporate activities with a [Prize Wheel](/products/prize-wheel/#content). This interactive game is perfect for office parties or corporate gatherings, providing a spin of fun and the chance to win office perks or prizes.
 
-When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/categories/corporate-entertainment/#content); we've taken part in all kinds of events, from [exhibitions](/categories/exhibition-games/#content) to [award ceremonies](/events/company-award-ceremonies/#content), [conferences](/events/conference-idea/#content) and [Christmas parties](/categories/christmas-game-hire/#content), so you can rest assured we're some of the UK's top party rental professionals.
+When you want to add some fun to your office party or corporate event, ask the experts for ideas! We have some incredible [corporate entertainment](/categories/corporate-entertainment/#content); we've taken part in all kinds of events, from [exhibitions](/categories/exhibition-games/#content) to [award ceremonies](/events/award-ceremonies/#content), [conferences](/events/conference-production/#content) and [Christmas parties](/categories/christmas-game-hire/#content), so you can rest assured we're some of the UK's top party rental professionals.
 
 We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](/contact-fun-pro-uk/#content) if you'd like any more information!
 
