@@ -12,7 +12,7 @@ eleventyNavigation:
 
 # Indoor Game Hire for Corporate Events Across the UK
 
-Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-idea/#content), [office celebration](/office-and-corporate-entertainment/#content), or [exhibition](/exhibition-game-hire/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
+Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-idea/#content), [office celebration](/office-and-corporate-entertainment/#content), or [exhibition](/events/exhibition-games/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
 
 ## Why Choose Indoor Games for Your Event
 
@@ -28,7 +28,7 @@ We provide different types of indoor games to suit various event goals and audie
 
 ### Interactive reaction games
 
-Games like [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/products/batak-pro/#content) work well when you want to create competitions with leaderboards; they're quick to play and naturally draw crowds at [exhibitions](/exhibition-game-hire/#content).
+Games like [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/products/batak-pro/#content) work well when you want to create competitions with leaderboards; they're quick to play and naturally draw crowds at [exhibitions](/events/exhibition-games/#content).
 
 ### Racing simulators
 
@@ -58,7 +58,7 @@ Different events call for different approaches.
 
 ### Conferences and exhibitions
 
-These events often have space constraints, so we focus on games with smaller footprints that can handle high footfall. Quick-play options work better than longer experiences when hundreds of people are passing through. Branding opportunities matter here too; many of our games can be [customised](/branded-game-hire/#content) to reinforce your message or campaign.
+These events often have space constraints, so we focus on games with smaller footprints that can handle high footfall. Quick-play options work better than longer experiences when hundreds of people are passing through. Branding opportunities matter here too; many of our games can be [customised](/events/brand-activation/#content) to reinforce your message or campaign.
 
 ### Team building days
 
@@ -94,7 +94,7 @@ We work with venues of all types and can usually find suitable options regardles
 
 We [deliver across the UK](/delivery-areas/#content) from our Coventry base, with all games regularly maintained and safety tested. Our service includes delivery, professional setup, operation where needed, and collection, so you won't be left figuring things out yourself. We carry full public liability insurance and provide risk assessments for venues that require them.
 
-For corporate events, [branding](/branded-game-hire/#content) is available on most of our games. [Contact us](/contact-fun-pro-uk/#content) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content), supporting events from small office gatherings to large-scale [conferences](/putting-kpmg-in-the-picture/#content).
+For corporate events, [branding](/events/brand-activation/#content) is available on most of our games. [Contact us](/contact-fun-pro-uk/#content) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content), supporting events from small office gatherings to large-scale [conferences](/putting-kpmg-in-the-picture/#content).
 
 Our approach is consultative rather than just taking orders. We ask questions about your venue, audience and objectives so we can recommend games that will actually achieve what you're hoping for.
 

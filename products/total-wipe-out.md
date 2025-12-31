@@ -9,7 +9,9 @@ categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -169,6 +171,5 @@ tabs:
       Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](/products/inflatable-assault-courses/#content) and our crazy [human table football](/products/human-table-football/#content).
       
       If you're planning a event, talk to our team today for the best [company fun day ideas](/categories/fun-days/#content) and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
-      
 ---
 

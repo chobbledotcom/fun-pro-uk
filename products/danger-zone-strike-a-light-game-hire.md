@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -192,19 +194,18 @@ tabs:
       
       £175 + vat
       
-      !
+      ![](/userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
       
       Branded side panels
       
       £250 + vat
       
-      !
+      ![](/userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
       
       Fully Branded panels
       
       £420 + vat
       
-      !
-      
+      ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
 ---
 

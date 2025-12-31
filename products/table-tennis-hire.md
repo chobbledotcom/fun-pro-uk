@@ -9,7 +9,9 @@ categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -191,6 +193,5 @@ tabs:
       *   [Lights Out](/categories/interactive-game-hire/#content)
       *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
 ---
 

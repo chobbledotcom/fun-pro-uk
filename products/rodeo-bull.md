@@ -9,7 +9,9 @@ categories: ["categories/corporate-entertainment.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -165,6 +167,5 @@ tabs:
       You can hire it for two hours, three or for four hours. You can also hire other games and activities for your event. When you bundle them all together, you can save money. Please contact us for exact rates which include delivery.
       
       If you’re ready to add some additional fun to your next big event, a rodeo bull hire is a fun way for your guests and attendees to have fun, while staying safe and secure within an inflatable structure!
-      
 ---
 

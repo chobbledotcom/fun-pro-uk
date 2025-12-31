@@ -9,7 +9,9 @@ categories: ["categories/pub-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -128,6 +130,5 @@ tabs:
       **Book now to secure your tables for your next event.**
       
       Do you want me to write a **short punchy version** too (for social media or flyer-style ads) alongside this full description?
-      
 ---
 

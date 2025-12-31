@@ -1,11 +1,15 @@
 const path = require('path');
+const fs = require('fs');
 const config = require('../config');
-const { listHtmlFiles, prepDir, slugFromFilename } = require('../utils/filesystem');
-const { extractCategoryName, extractContentHeading } = require('../utils/metadata-extractor');
+const { listHtmlFiles, prepDir, slugFromFilename, writeMarkdownFile } = require('../utils/filesystem');
+const { extractCategoryName, extractContentHeading, extractMetadata } = require('../utils/metadata-extractor');
 const { generateEventFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 const { getNavigation, getNavigationForSlug } = require('../utils/navigation-extractor');
-const { isEventCategory, isEventPage } = require('../constants');
+const { EVENT_HIERARCHY, findEventInHierarchy } = require('../constants');
+const { convertToMarkdown } = require('../utils/pandoc-converter');
+const { processContent } = require('../utils/content-processor');
+const { readHtmlFile } = require('../utils/filesystem');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'event',
@@ -17,11 +21,10 @@ const { convertSingle, convertBatch } = createConverter({
     if (extracted.eventName) {
       metadata.title = extracted.eventName;
     }
-    // Get navigation info for this event from the extracted navigation structure
-    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
-    // Pass source type for redirect_from generation ('category' or 'pages')
+    // Use hierarchy info from context if available
+    const hierarchyInfo = context.hierarchyInfo || null;
     const sourceType = context.sourceType || 'category';
-    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, navInfo, sourceType);
+    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, hierarchyInfo, sourceType);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Validate that no "More Details" links remain in content
@@ -34,59 +37,194 @@ const { convertSingle, convertBatch } = createConverter({
 });
 
 /**
+ * Create a placeholder event page when no old site source exists
+ * @param {Object} eventInfo - Event info from hierarchy
+ * @param {string} outputDir - Output directory
+ */
+const createPlaceholderEvent = (eventInfo, outputDir) => {
+  const slug = eventInfo.slug;
+  const title = eventInfo.title;
+
+  // Build hierarchy info for frontmatter generation
+  const hierarchyInfo = {
+    title: title,
+    isParent: eventInfo.isParent,
+    parentTitle: eventInfo.parentTitle,
+    order: eventInfo.order,
+    additionalRedirects: eventInfo.additionalRedirects || []
+  };
+
+  const metadata = {
+    title: title,
+    meta_description: `${title} entertainment and event hire services from Fun Pro UK.`
+  };
+
+  const frontmatter = generateEventFrontmatter(
+    metadata,
+    slug,
+    title,
+    eventInfo.order,
+    hierarchyInfo,
+    null // no source type for placeholders
+  );
+
+  const content = `# ${title}
+
+Content coming soon.
+`;
+
+  const fullContent = `${frontmatter}\n\n${content}`;
+  const outputPath = path.join(outputDir, `${slug}.md`);
+
+  writeMarkdownFile(outputPath, fullContent);
+  console.log(`  Created placeholder: ${slug}.md`);
+};
+
+/**
+ * Convert a single event from the old site
+ * @param {Object} eventInfo - Event info from hierarchy
+ * @param {string} outputDir - Output directory
+ * @returns {Promise<boolean>} Success status
+ */
+const convertEventFromOldSite = async (eventInfo, outputDir) => {
+  const oldSiteSlug = eventInfo.oldSiteSlug;
+  const sourceType = eventInfo.sourceType;
+  const newSlug = eventInfo.slug;
+
+  // Determine source directory based on source type
+  let sourceDir, filename;
+  if (sourceType === 'category') {
+    sourceDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
+    filename = `${oldSiteSlug}.html`;
+  } else {
+    sourceDir = path.join(config.OLD_SITE_PATH, 'pages');
+    filename = `${oldSiteSlug}.html`;
+  }
+
+  const htmlPath = path.join(sourceDir, filename);
+
+  if (!fs.existsSync(htmlPath)) {
+    console.log(`  Warning: Source file not found: ${htmlPath}`);
+    console.log(`  Creating placeholder for: ${newSlug}`);
+    createPlaceholderEvent(eventInfo, outputDir);
+    return true;
+  }
+
+  try {
+    process.stdout.write(`  Converting: ${oldSiteSlug} -> ${newSlug}...`);
+
+    const htmlContent = readHtmlFile(htmlPath);
+    const metadata = extractMetadata(htmlContent);
+    const markdown = convertToMarkdown(htmlPath);
+    let content = processContent(markdown, 'event', htmlContent);
+
+    // Extract additional info
+    const eventName = extractCategoryName(htmlContent);
+    const eventHeading = extractContentHeading(htmlContent);
+
+    if (eventName) {
+      metadata.title = eventName;
+    }
+
+    // Use the title from hierarchy as the authoritative title
+    metadata.title = eventInfo.title;
+
+    // Validate no "More Details" links
+    if (content.includes('More Details')) {
+      throw new Error(`Event "${newSlug}" still contains "More Details" links`);
+    }
+
+    // Build hierarchy info for frontmatter generation
+    const hierarchyInfo = {
+      title: eventInfo.title,
+      isParent: eventInfo.isParent,
+      parentTitle: eventInfo.parentTitle,
+      order: eventInfo.order,
+      oldSiteSlug: oldSiteSlug,
+      additionalRedirects: eventInfo.additionalRedirects || []
+    };
+
+    const frontmatter = generateEventFrontmatter(
+      metadata,
+      newSlug,
+      eventHeading,
+      eventInfo.order,
+      hierarchyInfo,
+      sourceType
+    );
+
+    const fullContent = `${frontmatter}\n\n${content}`;
+    const outputPath = path.join(outputDir, `${newSlug}.md`);
+
+    writeMarkdownFile(outputPath, fullContent);
+    console.log(' ✓');
+
+    return true;
+  } catch (error) {
+    console.log(' ✗ FAILED');
+    console.error(`    Error: ${error.message}`);
+    return false;
+  }
+};
+
+/**
  * Convert event categories and pages from old site to markdown in events folder
- * Converts both categories listed in EVENT_CATEGORIES and pages listed in EVENT_PAGES
+ * Uses EVENT_HIERARCHY to determine structure and parent-child relationships
  * @returns {Promise<Object>} Conversion results
  */
 const convertEvents = async () => {
-  console.log('Converting events...');
+  console.log('Converting events using hierarchy structure...');
 
   const outputDir = path.join(config.OUTPUT_BASE, 'events');
-  
-  // Get event categories from category directory
-  const categoriesSourceDir = path.join(config.OLD_SITE_PATH, config.paths.categoriesSource);
-  const allCategoryFiles = listHtmlFiles(categoriesSourceDir);
-  const categoryFiles = allCategoryFiles.filter(file => {
-    const slug = path.basename(file, '.html');
-    return isEventCategory(slug);
-  });
-
-  // Get event pages from pages directory
-  const pagesSourceDir = path.join(config.OLD_SITE_PATH, 'pages');
-  const allPageFiles = listHtmlFiles(pagesSourceDir);
-  const pageFiles = allPageFiles.filter(file => {
-    const slug = slugFromFilename(file);
-    return isEventPage(slug);
-  });
 
   // Events directory only contains imported events, safe to clean all
   prepDir(outputDir);
 
-  const totalFiles = categoryFiles.length + pageFiles.length;
-  if (totalFiles === 0) {
-    console.log('  No events found, skipping...');
-    return { successful: 0, failed: 0, total: 0 };
+  let successful = 0;
+  let failed = 0;
+  let total = 0;
+
+  // Process each parent category and its children
+  for (const parent of EVENT_HIERARCHY) {
+    console.log(`\n  Processing parent category: ${parent.title}`);
+
+    // Find parent info
+    const parentInfo = findEventInHierarchy(parent.slug);
+    total++;
+
+    // Convert or create parent category page
+    if (parent.oldSiteSlug) {
+      if (await convertEventFromOldSite(parentInfo, outputDir)) {
+        successful++;
+      } else {
+        failed++;
+      }
+    } else {
+      createPlaceholderEvent(parentInfo, outputDir);
+      successful++;
+    }
+
+    // Process child events
+    for (const child of parent.children) {
+      const childInfo = findEventInHierarchy(child.slug);
+      total++;
+
+      if (child.oldSiteSlug) {
+        if (await convertEventFromOldSite(childInfo, outputDir)) {
+          successful++;
+        } else {
+          failed++;
+        }
+      } else {
+        createPlaceholderEvent(childInfo, outputDir);
+        successful++;
+      }
+    }
   }
 
-  console.log(`  Found ${categoryFiles.length} event categories: ${categoryFiles.map(f => path.basename(f, '.html')).join(', ')}`);
-  console.log(`  Found ${pageFiles.length} event pages: ${pageFiles.map(f => slugFromFilename(f)).join(', ')}`);
+  console.log(`\n  Events conversion complete: ${successful} successful, ${failed} failed, ${total} total`);
 
-  // Extract navigation structure from old site
-  const navigation = getNavigation(config.OLD_SITE_PATH);
-
-  // Convert category-sourced events (old URL: /category/{slug}/)
-  const categoryContext = { navigation, sourceType: 'category' };
-  const categoryResult = await convertBatch(categoryFiles, categoriesSourceDir, outputDir, categoryContext);
-  
-  // Convert page-sourced events (old URL: /pages/{slug}/)
-  const pageContext = { navigation, sourceType: 'pages' };
-  const pageResult = await convertBatch(pageFiles, pagesSourceDir, outputDir, pageContext);
-
-  return {
-    successful: categoryResult.successful + pageResult.successful,
-    failed: categoryResult.failed + pageResult.failed,
-    total: categoryResult.total + pageResult.total
-  };
+  return { successful, failed, total };
 };
 
 const convertEvent = (file, inputDir, outputDir) =>

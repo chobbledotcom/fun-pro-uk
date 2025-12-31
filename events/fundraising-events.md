@@ -1,9 +1,14 @@
 ---
-meta_title: "Fundraising Event Ideas | Party Entertainment Hire | Games | UK"
+title: "Fundraising Events"
+meta_title: "Fundraising Events"
 meta_description: "Make fundraising fun with Fun Pro UK! We have plenty of entertainment options and party games that could appeal to your upcoming charity event. Book now!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/fundraising-event-ideas/"
+eleventyNavigation:
+  key: "Fundraising Events"
+  parent: "Educational & Community"
+  order: 5
 ---
 
 # Fundraising Event ideas

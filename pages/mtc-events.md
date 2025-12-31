@@ -8,7 +8,7 @@ redirect_from:
 
 # MTC Events (Manufacturing Technology Centre)
 
-!
+![](/userfiles/mtc-events.jpg)
 
 ## Games Hire for the MTC
 
@@ -16,7 +16,7 @@ redirect_from:
 
 MTC's modern exhibition space is a bright open environment ideal for you to adapt to your business. Why not bring the space to life and get your guests interacting with each other and your business with a range of interactive games ready to hire from [Fun Pro UK](https://www.funprouk.co.uk).
 
-!
+![](/userfiles/file/FunPro/Race%20Cars/20190926-144105.jpg)
 
 Fun Pro UK's [VR Race Car Simulators](/products/vr-race-car-simulator/#content) are a perfect fit for an automotive exhibition or product launch in Coventry, the manufacturing city of the UK. These race simulators are guaranteed to bring in a crowd as people watch others racing round the circuit and building excitement of who might win! You could pair it with Fun Pro UK's Leader Board to get your audience competition against each other. You could even make it serious by giving a prize for the fastest lap!
 

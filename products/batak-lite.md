@@ -9,7 +9,9 @@ categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -235,6 +237,5 @@ tabs:
       ## Hire Batak Lite For Your Next Event
       
       [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content).
-      
 ---
 

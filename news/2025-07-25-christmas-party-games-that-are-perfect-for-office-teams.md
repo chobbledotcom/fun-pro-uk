@@ -16,7 +16,7 @@ gallery:
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/categories/christmas-games/#content) can transform your gathering from polite small talk into genuine fun and connection.
 
-[Christmas game hire](/christmas-entertainment-game-hire/#content) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
+[Christmas game hire](/events/christmas-entertainment/#content) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
 
 ## Why Christmas Party Games Are Essential for Office Teams
 
@@ -86,7 +86,7 @@ Avoid making games feel mandatory or competitive to the point where people feel 
 
 People love to share fun experiences. Set up your space so it's easy to take photos and videos. This could be through photo booths, branded backdrops, or digital scoreboards that show off high scores and winners.
 
-The more visually appealing your setup is, the more likely people are to snap a picture and post it online. Bright colours, [clever branding](/branded-game-hire/#content), or even themed props can go a long way in encouraging content creation.
+The more visually appealing your setup is, the more likely people are to snap a picture and post it online. Bright colours, [clever branding](/events/brand-activation/#content), or even themed props can go a long way in encouraging content creation.
 
 ### Safety Considerations
 
@@ -116,7 +116,7 @@ Games provide natural conversation starters, shared experiences, and opportuniti
 
 Christmas party planning doesn't have to be stressful. With the [right games](/categories/christmas-games/#content) and activities, you can create an event that brings your team together and gives everyone something to enjoy.
 
-Professional [Christmas party game hire](/christmas-entertainment-game-hire/#content) takes the guesswork out of entertainment planning, ensuring you have quality equipment and support when you need it most. From interactive high-tech games to classic fairground activities, there are options to suit every group and budget.
+Professional [Christmas party game hire](/events/christmas-entertainment/#content) takes the guesswork out of entertainment planning, ensuring you have quality equipment and support when you need it most. From interactive high-tech games to classic fairground activities, there are options to suit every group and budget.
 
 [Contact our friendly team](/contact-fun-pro-uk/#content) at Fun Pro UK to discuss your Christmas party requirements. With years of experience in corporate events and a wide range of game options, we'll help you create a Christmas celebration that your colleagues will remember for all the right reasons.
 
@@ -128,7 +128,7 @@ Space requirements vary depending on the games you choose. Most games need a min
 
 ### Can Christmas games be customised with our company branding?
 
-Yes, many of our games can be [customised](/branded-game-hire/#content) with your company branding, including custom graphics, logos, and colour schemes to match your corporate identity.
+Yes, many of our games can be [customised](/events/brand-activation/#content) with your company branding, including custom graphics, logos, and colour schemes to match your corporate identity.
 
 ### What's included in your Christmas game hire service?
 

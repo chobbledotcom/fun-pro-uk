@@ -42,7 +42,7 @@ Virtual reality experiences provide the most immersive option for lead capture. 
 
 When building brand recognition is your priority, focus on games that reinforce your messaging whilst encouraging social sharing.
 
-[Custom-branded games](/branded-game-hire/#content) allow you to incorporate your visual identity and key messages directly into the gaming experience. These work particularly well for technology companies or brands targeting younger demographics.
+[Custom-branded games](/events/brand-activation/#content) allow you to incorporate your visual identity and key messages directly into the gaming experience. These work particularly well for technology companies or brands targeting younger demographics.
 
 Interactive challenges can be designed to reinforce specific brand attributes. For example, a precision-based game might suit an engineering company, whilst team-based challenges work well for collaborative service providers.
 
@@ -90,7 +90,7 @@ Professional delivery, setup, and collection services cover Manchester and the w
 
 On-site support staff can manage game operations during your event if requested, ensuring everything runs smoothly whilst your team concentrates on engaging with participants and qualifying leads. Our staff understand their role as part of your marketing team, not separate entertainers.
 
-[Custom branding options](/branded-game-hire/#content) allow you to integrate games seamlessly into your overall visual identity. From simple logo applications to comprehensive wraps that reinforce your key messages, we'll ensure games feel like natural extensions of your brand.
+[Custom branding options](/events/brand-activation/#content) allow you to integrate games seamlessly into your overall visual identity. From simple logo applications to comprehensive wraps that reinforce your key messages, we'll ensure games feel like natural extensions of your brand.
 
 ## Planning Your Manchester Brand Activation Event
 

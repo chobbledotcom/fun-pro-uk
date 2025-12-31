@@ -36,9 +36,9 @@ Corporate event entertainment isn't just about having fun – it's an investment
 
 ### Conference and Exhibition Entertainment
 
-London hosts thousands of [conferences](/events/conference-idea/#content) and [exhibitions](/exhibition-game-hire/#content) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
+London hosts thousands of [conferences](/events/conference-idea/#content) and [exhibitions](/events/exhibition-games/#content) each year, and standing out from the crowd requires more than just a good presentation. Interactive entertainment draws delegates to your stand, creates natural conversation starters, and gives people a reason to remember your company long after the event ends.
 
-We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/branded-game-hire/#content) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotional-event-games/#content).
+We provide entertainment solutions for conference breaks that re-energise delegates between sessions, exhibition stand games that attract footfall and generate leads, and networking activities that help attendees connect in a relaxed, enjoyable environment. Many of our games can be [branded](/events/brand-activation/#content) with your company logos or marketing messages, turning entertainment into effective [brand activation](/promotional-event-games/#content).
 
 ### Team Building and Away Days
 
@@ -92,7 +92,7 @@ Our high-tech [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/produ
 
 ### Professional Photo Booth and Magic Mirror Experiences
 
-[Photo booths](/products/classic-photo-booths/#content) serve multiple purposes at corporate events – they create lasting memories, encourage networking as people group together for photos, and can be [customised](/branded-game-hire/#content) with company branding or event themes. Our [magic mirror](/products/magic-mirror/#content) technology adds an interactive element that appeals to all age groups whilst maintaining the professional quality your event requires.
+[Photo booths](/products/classic-photo-booths/#content) serve multiple purposes at corporate events – they create lasting memories, encourage networking as people group together for photos, and can be [customised](/events/brand-activation/#content) with company branding or event themes. Our [magic mirror](/products/magic-mirror/#content) technology adds an interactive element that appeals to all age groups whilst maintaining the professional quality your event requires.
 
 ### Team Challenge Activities and Competitions
 

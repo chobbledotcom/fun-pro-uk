@@ -9,7 +9,9 @@ categories: ["categories/fun-foods.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -44,19 +46,16 @@ faqs:
       For indoor venues, the compact size and clean operation make it easy to set up without any mess or disruption. Outdoors, the cart operates smoothly as long as there is a sheltered or covered area to protect it from rain or strong winds.
       
       If necessary, we can provide additional cover or recommend placement to make sure the candy floss machine works efficiently in all weather conditions.
-      
   - question: "How far in advance should I book to ensure availability?"
     answer: |
       We recommend booking as early as possible, especially for peak seasons like summer, holidays, and weekends.
       
       To secure your preferred date, it's best to book at least 4 to 6 weeks in advance. For larger events, consider booking even earlier to avoid disappointment. Last minute bookings are possible but subject to availability, so contacting us well in advance ensures we can fully accommodate your needs.
-      
   - question: "Do you provide all the necessary ingredients and equipment?"
     answer: |
       Yes! Our candy floss cart hire supplies everything needed for a successful candy floss experience. We provide the candy floss machine, sugar, and sticks. A trained team member will also be present to operate the machine and serve guests for up to 4 hours.
       
       Our hassle free service ensures that you don't need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish.
-      
   - question: "Can I hire multiple carts for larger events or different locations?"
     answer: "Talk to us through [our website](/#content), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
   - question: "Are there any customisation options for flavours or colours?"
@@ -70,7 +69,7 @@ tabs:
       
       ## Best Candy Floss Cart Hire for Fun Events in the UK!
       
-      If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/family-fun-day-entertainment/#content), school fetes, and more.  
+      If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/events/family-fun-days/#content), school fetes, and more.  
         
       The bright colours and spinning sugar draw in guests of all ages, making it a simple yet eye-catching addition to your gathering. It’s an easy way to make your event stand out and create sweet, lasting memories for everyone who attends.
       
@@ -78,7 +77,7 @@ tabs:
       
       The candy floss cart is a great addition to any event, whether indoors or outdoors.
       
-      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/summer-entertainment/#content), [school fun days](/school-fun-day-entertainment-hire/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/events/summer-entertainment/#content), [school fun days](/events/school-entertainment/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
       
       Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
       
@@ -108,7 +107,7 @@ tabs:
       
       **CONTACT US FOR PRICE**
       
-      !
+      ![](/userfiles/file/FunPro/Images/specification.png)
       
       Our services cover full setup and removal by our professional team, ensuring everything runs smoothly from start to finish. Delivery is not included in the price and will be charged separately.
       
@@ -190,6 +189,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

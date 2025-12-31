@@ -1,9 +1,14 @@
 ---
-meta_title: "Christmas Game Hire UK | Festive Corporate Entertainment"
+title: "Christmas Entertainment"
+meta_title: "Christmas Entertainment"
 meta_description: "Professional Christmas game hire across the UK. Branded festive entertainment for corporate events, parties &amp; exhibitions. Get a no-obligation quote today."
-layout: page
+featured: true
 redirect_from:
   - "/pages/christmas-entertainment-game-hire/"
+eleventyNavigation:
+  key: "Christmas Entertainment"
+  parent: "Celebrations & Parties"
+  order: 4
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
@@ -74,7 +79,7 @@ When you hire Christmas games from Fun Pro UK, you receive:
 
 ## Branding Options & Pricing
 
-Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/branded-game-hire/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
 
 Christmas Branding Options:
 
@@ -137,66 +142,6 @@ Join hundreds of satisfied corporate clients who trust us to deliver exceptional
 Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
-
-[8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
-
-[More Details](/products/8-lane-reindeer-racing/#content)
-
-[Christmas Batak Lite](/products/christmas-batak-lite/#content)
-
-[More Details](/products/christmas-batak-lite/#content)
-
-[Christmas Corn Holes](/products/christmas-corn-holes/#content)
-
-[More Details](/products/christmas-corn-holes/#content)
-
-[Christmas Roller Bowler](/products/christmas-roller-bowler/#content)
-
-[More Details](/products/christmas-roller-bowler/#content)
-
-[Candy Cane Megawire](/products/candy-cane-megawire/#content)
-
-[More Details](/products/candy-cane-megawire/#content)
-
-[CASINO TABLE HIRE](/products/casino-table-hire/#content)
-
-[More Details](/products/casino-table-hire/#content)
-
-[Christmas Batak Pro](/products/christmas-batak-pro/#content)
-
-[More Details](/products/christmas-batak-pro/#content)
-
-[Whack an Elf](/products/whack-an-elf/#content)
-
-[More Details](/products/whack-an-elf/#content)
-
-[Christmas Prize Crane](/products/christmas-prize-crane/#content)
-
-[More Details](/products/christmas-prize-crane/#content)
-
-[Strike A Snow Flake](/products/strike-a-snow-flake/#content)
-
-[More Details](/products/strike-a-snow-flake/#content)
-
-[Candy Cane Snatch it](/products/candy-cane-snatch-it/#content)
-
-[More Details](/products/candy-cane-snatch-it/#content)
-
-[Reindeer Nosenado (Christmas Ballnado Hire )](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
-
-[More Details](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
-
-[RETRO ARCADE GAMES](/products/retro-arcade-games/#content)
-
-[More Details](/products/retro-arcade-games/#content)
-
-[Roll And Bowl Reindeer Racing Game Hire](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
-
-[More Details](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
-
-[Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
-
-[More Details](/products/scalextric-slot-car-racing/#content)
 
 ## What our customers are saying…
 

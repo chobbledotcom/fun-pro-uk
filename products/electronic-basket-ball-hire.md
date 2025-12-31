@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -203,6 +205,5 @@ tabs:
       ## **Rise to the challenge**
       
       Our team enjoy a challenge as much as anyone, so whatever you've got planned, contact us today and we'll show you how easily we can help you with original and exciting corporate event hire. We deliver right across the United Kingdom, including events in London, Manchester, Birmingham and Coventry, just let us know what you want and where you want it for reliable service that will never let you down.
-      
 ---
 

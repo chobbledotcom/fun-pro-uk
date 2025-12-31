@@ -1,9 +1,14 @@
 ---
-meta_title: "Office Entertainment - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+title: "Office Entertainment"
+meta_title: "Office Entertainment"
 meta_description: "Office Entertainment - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/office-entertainment/"
+eleventyNavigation:
+  key: "Office Entertainment"
+  parent: "Corporate Events"
+  order: 3
 ---
 
 # Office Entertainment

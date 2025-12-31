@@ -8,7 +8,7 @@ redirect_from:
 
 # Harrogate Convention Centre
 
-!Harrogate Covention centre
+![Harrogate Covention centre](/userfiles/file/862351-1200x800scale-type-center-crop.jpg)
 
 ## Interactive Game Hire near the Harrogate Convention Centre.
 

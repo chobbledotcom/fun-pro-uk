@@ -9,7 +9,9 @@ categories: ["categories/company-award-ceremonies.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -121,7 +123,7 @@ tabs:
       
       As well as branding your pictures, we can [brand the booth](/products/bespoke-photo-booth-hire/#content) itself, with your company logos and corporate colours. Alternatively, you can choose from a range of [stylish skins](/products/christmas-photo-booths/#content) to match your event and venue
       
-      ## !
+      ## ![](/userfiles/classic-photo-booth.jpg)
       
       ## A complete service
       
@@ -146,6 +148,5 @@ tabs:
       [Load More Reviews](/testimonials/#content)
       
       Happy customers we have worked along side
-      
 ---
 

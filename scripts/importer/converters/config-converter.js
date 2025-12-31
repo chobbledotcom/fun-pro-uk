@@ -70,6 +70,7 @@ const convertSiteConfig = async () => {
 
     const siteConfig = {
       name: siteName,
+      url: 'https://fun-pro-uk.b-cdn.net',
       socials,
       sticky_mobile_nav: true,
       horizontal_nav: true,

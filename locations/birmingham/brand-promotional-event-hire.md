@@ -12,7 +12,7 @@ redirect_from:
 
 The landscape of corporate events is evolving rapidly, and Birmingham businesses are leading the change in creating dynamic, engaging experiences that leave lasting impressions. Today's event attendees expect more than traditional presentations, and instead, they want interactive experiences.
 
-At Fun Pro, we specialise in transforming Birmingham events through our comprehensive [branded game hire](/branded-game-hire/#content) service. Our interactive promotional games have become the go-to solution for forward-thinking businesses across Birmingham who understand that memorable events drive real results.
+At Fun Pro, we specialise in transforming Birmingham events through our comprehensive [branded game hire](/events/brand-activation/#content) service. Our interactive promotional games have become the go-to solution for forward-thinking businesses across Birmingham who understand that memorable events drive real results.
 
 Many of the games in our collection can be fully customised with your company branding, event-specific graphics, or campaign messaging, ensuring your brand takes centre stage while guests enjoy unforgettable entertainment experiences.
 

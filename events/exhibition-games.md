@@ -1,14 +1,19 @@
 ---
-meta_title: "Exhibition Game Hire | Trade Show Stand Entertainment | UK"
+title: "Exhibition Games"
+meta_title: "Exhibition Games"
 meta_description: "Find entertainment and games for exhibition stands with Fun Pro UK! We&#39;re operating all over the UK for trade shows, expos and all other events. Order now!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/exhibition-game-hire/"
+eleventyNavigation:
+  key: "Exhibition Games"
+  parent: "Corporate Events"
+  order: 2
 ---
 
 # Exhibition Game Hire
 
-Exhibiting at trade shows and exhibitions can be a great way to showcase your business and attract new customers. With so many other businesses vying for attention, it can be challenging to stand out from the crowd. That's where Fun Pro UK comes in! We offer a wide range of [exhibition game hire](/categories/exhibition-games/#content) options that are sure to draw a crowd and keep them engaged. Check out some exhibition stand entertainment ideas below!
+Exhibiting at trade shows and exhibitions can be a great way to showcase your business and attract new customers. With so many other businesses vying for attention, it can be challenging to stand out from the crowd. That's where Fun Pro UK comes in! We offer a wide range of exhibition game hire options that are sure to draw a crowd and keep them engaged. Check out some exhibition stand entertainment ideas below!
 
 ## Trade Show and Expo Entertainment Ideas
 

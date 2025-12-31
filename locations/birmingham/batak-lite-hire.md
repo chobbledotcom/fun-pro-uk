@@ -10,7 +10,7 @@ redirect_from:
 
 If you're looking to bring excitement and engagement to your next [corporate event](/categories/corporate-entertainment/#content) or want an innovative way to make your brand stand out, Batak Lite hire in Birmingham is the perfect choice. This interactive reaction game encourages competition and creates lasting impressions at any event.
 
-!Batak Lite Hire Birmingham
+![Batak Lite Hire Birmingham](/userfiles/file/FunPro/Batak%20Lite/20231204-171138.jpg)
 
 ## What Is Batak Lite?
 
@@ -30,7 +30,7 @@ At Fun Pro, our Batak Lite game hire is a favourite among event organisers and b
     
 *   **Complete Setup & Delivery:** We handle everything, ensuring a hassle-free experience.
     
-*   **Versatile for Various Events:** Ideal for corporate parties, product launches, and [exhibitions](/exhibition-game-hire/#content).
+*   **Versatile for Various Events:** Ideal for corporate parties, product launches, and [exhibitions](/events/exhibition-games/#content).
 
 ## What’s Included in Batak Lite Hire Birmingham?
 

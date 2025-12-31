@@ -32,7 +32,7 @@ Our extensive range includes games like:
     
 *   [Roll & Bowl derby games](/products/8-lane-roll-and-bowl-donkey-derby/#content)
 
-Plus lots more. All of which can be [customised](/branded-game-hire/#content) with your company or event branding.
+Plus lots more. All of which can be [customised](/events/brand-activation/#content) with your company or event branding.
 
 Each piece of equipment is safety-tested, [fully insured](/insurance/#content), and delivered by our team who handle setup and collection.
 
@@ -42,13 +42,13 @@ Based in Coventry, we're well-positioned to serve Liverpool and Merseyside. The 
 
 Liverpool offers some impressive spaces for corporate events. The ACC Liverpool campus alone includes the BT Convention Centre, M&S Bank Arena, and Exhibition Centre Liverpool, together providing over 8,000m² of flexible event space on the city's UNESCO-listed waterfront.
 
-When you're choosing entertainment for these larger venues, it's worth thinking about how games will work within your overall layout. A reaction wall might draw crowds at an [exhibition](/exhibition-game-hire/#content) stand, whilst tabletop [arcade games](/categories/arcade-games/#content) could work better for networking areas or delegate break-out spaces.
+When you're choosing entertainment for these larger venues, it's worth thinking about how games will work within your overall layout. A reaction wall might draw crowds at an [exhibition](/events/exhibition-games/#content) stand, whilst tabletop [arcade games](/categories/arcade-games/#content) could work better for networking areas or delegate break-out spaces.
 
 Beyond the waterfront, Liverpool's hotels, conference centres, and Baltic Triangle venues each come with their own considerations. Ceiling heights, power access, and load-in arrangements all affect which games will work best. When you [get in touch](/contact-fun-pro-uk/#content), we'll ask about your venue so we can recommend options that genuinely fit your space.
 
 ## Popular Choices for Liverpool Corporate Events
 
-Conferences and exhibitions – Games that draw footfall and encourage interaction work well on exhibition stands. [Branded games](/branded-game-hire/#content) can reinforce your messaging whilst giving visitors a reason to stop and engage with your team.
+Conferences and exhibitions – Games that draw footfall and encourage interaction work well on exhibition stands. [Branded games](/events/brand-activation/#content) can reinforce your messaging whilst giving visitors a reason to stop and engage with your team.
 
 Christmas parties – Liverpool's party season runs from late November through until December, and venues book up quickly. [Photo booths](/products/classic-photo-booths/#content), [casino tables](/products/casino-table-hire/#content), and [fun food](/categories/fun-foods/#content) stalls add atmosphere to evening celebrations.
 

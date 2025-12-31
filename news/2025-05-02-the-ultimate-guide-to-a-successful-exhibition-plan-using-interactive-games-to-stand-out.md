@@ -14,7 +14,7 @@ gallery:
 
 ![](/images/news/whack-a-mole.jpg)
 
-In today's competitive business landscape, creating a memorable [exhibition event](/exhibition-game-hire/#content) stand that draws visitors in is crucial for generating leads and building brand awareness.
+In today's competitive business landscape, creating a memorable [exhibition event](/events/exhibition-games/#content) stand that draws visitors in is crucial for generating leads and building brand awareness.
 
 Businesses and individuals all over the country have trusted us here at Fun Pro for over 15 years to help them create memorable experiences, whether it’s generating buzz at a [brand activation](/promotional-event-games/#content) event, boosting team morale at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), or simply just providing fun activities at [weddings](/wedding-entertainment/#content) and community events.  
   

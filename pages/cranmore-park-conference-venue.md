@@ -8,7 +8,7 @@ redirect_from:
 
 # Cranmore Park
 
-!
+![](/userfiles/cranmore-park.jpg)
 
 ## Incredible Games Hire for all events at Cranmore Park
 
