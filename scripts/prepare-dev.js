@@ -15,8 +15,6 @@ const baseTemplateExcludes = [
 	".envrc",
 	"node_modules",
 	"*.md",
-	"package.json",
-	"pnpm-lock.yaml",
 ];
 
 const testExcludes = ["test", "test-*"];
