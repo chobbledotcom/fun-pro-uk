@@ -9,17 +9,17 @@ const template = path.join(build, "template");
 const dev = path.join(build, "dev");
 const localTemplate = path.join(root, "..", "chobble-template");
 
-const templateExcludes = [
+const baseTemplateExcludes = [
 	".git",
 	".direnv",
 	".envrc",
 	"node_modules",
 	"*.md",
-	"test",
-	"test-*",
 	"package.json",
 	"pnpm-lock.yaml",
 ];
+
+const testExcludes = ["test", "test-*"];
 
 const rootExcludes = [
 	".git",
@@ -56,8 +56,13 @@ function setupImageCache() {
 	}
 }
 
-function prep() {
-	console.log("Preparing build...");
+function prep(options = {}) {
+	const { includeTests = false } = options;
+	const templateExcludes = includeTests
+		? baseTemplateExcludes
+		: [...baseTemplateExcludes, ...testExcludes];
+
+	console.log(includeTests ? "Preparing build for testing..." : "Preparing build...");
 	fs.mkdirSync(build, { recursive: true });
 
 	if (fs.existsSync(localTemplate)) {
@@ -79,7 +84,9 @@ function prep() {
 		execSync("git reset --hard && git pull", { cwd: template });
 	}
 
-	fs.rmSync(path.join(template, "test"), { recursive: true, force: true });
+	if (!includeTests) {
+		fs.rmSync(path.join(template, "test"), { recursive: true, force: true });
+	}
 
 	execSync(`find "${dev}" -type f -name "*.md" -delete 2>/dev/null || true`);
 
@@ -137,4 +144,4 @@ function sync() {
 
 if (require.main === module) prep();
 
-module.exports = { prep, sync };
+module.exports = { prep, sync, dev };
