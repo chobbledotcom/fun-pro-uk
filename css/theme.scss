@@ -422,7 +422,7 @@ body.horizontal-nav main {
     }
 
     @include breakpoints.up("lg") {
-      ul {
+      & > ul {
         justify-content: flex-start !important;
         & > li:hover > ul {
           display: flex;
