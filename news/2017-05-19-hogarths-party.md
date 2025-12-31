@@ -17,11 +17,3 @@ It was a very busy evening, once the mirror had been set up and Donkey was shout
 The evening flew by as many friends came back for more photos!
 
 Thank you for letting us attend your party, we look forward to seeing you all again in the future.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

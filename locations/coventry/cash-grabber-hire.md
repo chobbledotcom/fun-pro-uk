@@ -93,9 +93,3 @@ Lights Out
 [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
 
 [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

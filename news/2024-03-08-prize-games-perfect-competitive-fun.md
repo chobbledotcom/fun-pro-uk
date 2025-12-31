@@ -27,11 +27,3 @@ What sets these games apart is the opportunity for customisation. With [branded 
 *At Fun Pro UK, we understand the power of competitive fun. Our wide range of prize games is designed to deliver excitement and engagement to your guests, all while seamlessly integrating into your event's theme and objectives. Based in the West Midlands and operating nationwide, our team is ready to bring the fun directly to you, whether you're in London, Manchester, Leeds, Glasgow, or anywhere in between.*
 
 *For more information, to make an enquiry, or to book, don't hesitate to [contact us](/contact-fun-pro-uk/#content). With Fun Pro UK, competitive fun is just the beginning.*
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

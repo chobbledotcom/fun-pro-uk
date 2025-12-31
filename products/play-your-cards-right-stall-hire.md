@@ -159,11 +159,5 @@ tabs:
       Brand the rear half wall of the side stall with your brand from
       
       **£195**\+ vat**
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

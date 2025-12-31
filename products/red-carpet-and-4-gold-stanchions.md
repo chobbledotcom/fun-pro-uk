@@ -79,11 +79,5 @@ tabs:
       *   [Photo Booth](/products/green-screen-photo-booths/#content)
       *   Selfie Pod
       *   [Green Screen Booth](/products/green-screen-photo-booths/#content)
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

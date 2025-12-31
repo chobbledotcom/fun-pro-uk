@@ -121,9 +121,3 @@ Space requirements vary by entertainment type. We provide detailed space require
 Our experience with Manchester venues extends beyond the obvious choices. We can suggest alternatives that might better suit your requirements or budget whilst maintaining professional standards. Our venue knowledge helps you make informed decisions about location and entertainment compatibility.
 
 Ready to start planning your Manchester corporate event? [Contact our friendly team](/contact-fun-pro-uk/#content) to discuss your requirements and receive a tailored quote. We'll help you create memorable experiences that achieve your event objectives whilst taking the stress out of entertainment planning.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

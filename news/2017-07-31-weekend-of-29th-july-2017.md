@@ -22,11 +22,3 @@ Another green screen photo booth with the silver chesterfield outer skin arrived
   
 Perfect Snap were busy that is for sure! - That is how we like it,!  
 We would like to take this opportunity to say a massive 'Congratulations' to all of the happy couples we have had the honour in meeting this weekend and thank you for using Perfect Snap.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

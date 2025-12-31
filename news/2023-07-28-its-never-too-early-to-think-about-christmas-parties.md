@@ -26,11 +26,3 @@ Our Christmas party games are designed to bring joy and excitement to your corpo
 This Christmas, let Fun Pro UK be your partner in creating a corporate party that truly sparkles. December can be busy for us, so book in advance so you don't miss the chance to secure your preferred date and the best selection of games.
 
 Unleash the festive fun with Fun Pro UK, and let's make this Christmas the most memorable one yet!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

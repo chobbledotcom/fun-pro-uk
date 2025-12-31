@@ -29,11 +29,3 @@ Getting outside and enjoying fresh air is vital for physical and mental health. 
 By hiring equipment from Fun Pro UK, companies from London, Manchester, Birmingham, Leeds and throughout the country can show employees that they care about their wellbeing. We make hiring office entertainment equipment easy, with nationwide delivery and a wide range of products available. Just look through our website and make a booking online!  
   
 *At Fun Pro UK, we're committed to helping businesses promote employee wellbeing. [Speak with us today](/contact-fun-pro-uk/#content) to find out more about our range of equipment and how it can benefit your business. With our expert help, you can support employee wellbeing and enjoy a happier, more motivated workforce.*
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

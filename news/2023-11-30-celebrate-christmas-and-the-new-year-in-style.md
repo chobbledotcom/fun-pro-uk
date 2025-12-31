@@ -37,11 +37,3 @@ Our unique entertainment options are designed not just to amuse but to add meani
 *As the year draws to a close, it's time to make those final celebrations count. With Fun Pro UK, you’re not just planning a party; you’re crafting an experience that will be remembered long after the decorations come down.*
 
 *Ready to make your Christmas and New Year's parties the highlight of the year? [Contact us today](/contact-fun-pro-uk/#content) and let's bring some festive magic to your event!*
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

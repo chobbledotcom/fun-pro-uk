@@ -253,9 +253,3 @@ Contact us today to start planning memorable conference entertainment in Coventr
 [Giant Deck Chair Hire](/products/giant-deck-chair-hire/#content)
 
 [More Details](/products/giant-deck-chair-hire/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

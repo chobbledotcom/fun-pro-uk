@@ -25,9 +25,3 @@ The mirror itself is surrounded by Hollywood-style lights, and we can supply a r
 Photos taken using the Magic Mirror can quickly find their way to social media. The fun of the photo, plus the high quality of it, means they are likely to be shared and seen many times. If your corporate event uses Magic Mirror photos that are personalised with the relevant branding, this can provide fast and effective viral advertising for your new product or concept.  
   
 Even if the pictures are just for you and your guests, they can still greatly improve the success of the event. Everyone will love dressing up for the camera and posing for their pictures - and of course, seeing how they turned out! If you want to give your guests a real treat, and let them show off their outfits in style, consider selfie mirror hire for your next event. For more information, or to book selfie mirror hire directly, [contact Fun Pro UK today](/contact-fun-pro-uk/#content) on 02477220701.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

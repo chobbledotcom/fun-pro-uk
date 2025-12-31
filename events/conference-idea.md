@@ -40,9 +40,3 @@ Plenty of nerve and a very steady hand is required to conquer this [prize game](
 This versatile game is great because it takes up so little space, despite being so massive that there's no way anyone will miss it. It's a great diversion for your delegates in between sessions, so be sure you don't forget to add it to your next conference.
 
 *This is just a small sample of the great conference entertainment we have available for hire. Be sure to have a look through our full range because there you are certain to find something that is perfect for what you're planning. We can't wait to help your organise your most fun conference yet!*
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

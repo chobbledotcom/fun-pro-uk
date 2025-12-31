@@ -142,9 +142,3 @@ Join hundreds of satisfied corporate clients who trust us to deliver exceptional
 Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

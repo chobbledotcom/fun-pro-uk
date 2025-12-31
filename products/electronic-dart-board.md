@@ -191,11 +191,5 @@ tabs:
       We provide [nationwide coverage](/delivery-areas/#content) from our Coventry base, serving corporate events, exhibitions, and team building activities throughout England, Scotland, and Wales. Whether you're planning a small office party or a major [corporate event](/office-and-corporate-entertainment/#content), we're here to help you create engaging entertainment that brings people together.
       
       ##### [Get in touch with our team to discuss your requirements and receive your quote.](/contact-fun-pro-uk/#content)
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

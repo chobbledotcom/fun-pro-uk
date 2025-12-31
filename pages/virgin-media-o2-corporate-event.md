@@ -99,9 +99,3 @@ The FunPro team's ability to work effectively in outdoor environments, adapt to 
 If you're planning multi-location corporate events and need an entertainment partner who can deliver consistent quality nationwide, FunPro UK brings the expertise and reliability that comes from over 15 years as [corporate event](/office-and-corporate-entertainment/#content) specialists. [Our team](/meet-the-team/#content) understands the unique challenges of touring programmes and multi-site deployments.
 
 [Get in touch](/contact-fun-pro-uk/#content) with our friendly team to discuss how we can help create memorable experiences for your distributed workforce, wherever they're based across the UK.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

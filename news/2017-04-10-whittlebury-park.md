@@ -18,11 +18,3 @@ had such a brilliant day and once the fun begins with their friends our team get
 On Saturday our magic mirror was hired from 7.30-11.30pm which is a great time to start as all of the evening guests have arrived to get the party started!  
 Perfect Snap had a very busy evening with a lot of happy guests at Whittlebury Park and would like to wish the new bride and groom a very long and happy future together!  
 From the Perfect Snap Team.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -23,11 +23,3 @@ Everyone adores a [selfie](/products/magic-mirror/#content) to take home after a
 With a fabulous Christmas prop box, super imposed backgrounds to choose for your selfie, great friends and a few drinks you have everything set to go!  
   
 We still have a few dates left for December but we are booking up fast.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

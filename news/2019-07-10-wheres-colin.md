@@ -39,11 +39,3 @@ Did you know that humans are more likely to remember an image they have seen? Wh
 Once the Fun Pro team were all set up, the game was good to go. It was fun to see the staff members excitement as they tried to grab as many coloured foils as possible, in the shortest amount of time as they blew all around the capsule- there was quite a queue forming with everyone wanting to have turn! Lots of fun was had by everyone at the department store and the day flew by. We can't wait to return for their next staff fun day!
 
 #eventprofs #teamfunpro #StrikeaLight #funday #staffparty
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

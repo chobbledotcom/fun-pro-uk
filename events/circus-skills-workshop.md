@@ -104,9 +104,3 @@ These circus skills workshops are suitable for all ages, which makes it perfect 
 ### What kind of space do I need?
 
 While our circus workshops can accommodate different venue sizes, it’s best to make sure you have plenty of space before booking. A large indoor space such as a gymnasium, conference room, or outdoor space like a large lawn or field is perfect for this type of activity.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -23,11 +23,3 @@ However, we recognise that not all companies have huge pots of money to host a [
 Alternatively, you could push back the party until January when more staff may be free as everyone knows December is a very busy month. This could also give your staff something to look forward to in the new year, to wipe away those post-Christmas blues.
 
 Check out our blog next week for more ideas for your Christmas party and [products](/categories/christmas-grotto-hire/#content) that Fun Pro UK can offer to make it extra special.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

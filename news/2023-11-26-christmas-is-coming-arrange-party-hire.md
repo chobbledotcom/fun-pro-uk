@@ -37,11 +37,3 @@ Adding to our repertoire of Christmas fun is the [Reindeer Roll & Bowl](/product
 At Fun Pro UK, we’re about more than just providing games. We create immersive experiences that resonate with the festive season. Our team ensures a hassle-free experience, handling setup, management, and breakdown, so you can focus on enjoying the party.
 
 *This Christmas, go beyond the traditional and step into a world of interactive, joyful, and magical fun with Fun Pro UK. Book online now to begin!*
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

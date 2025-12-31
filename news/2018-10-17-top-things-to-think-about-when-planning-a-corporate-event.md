@@ -43,11 +43,3 @@ Although these may seem like small problems to solve, if you don't tackle them c
 Debriefs are so important to ensure that you managed to hit the aims you set before the event. It is a great chance to analyse what worked well within your event, anywhere from dé'cor or location of the venue. But it is also critical in giving all those involved with organising the event the chance to discuss what they felt didn't go to plan such as traffic flow to the event schedule.
 
 However you organise your event, Fun Pro UK are specialists in event planning and corporate entertainment and will be happy to help with any enquiries. So just pick up the phone and give our team a call today!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

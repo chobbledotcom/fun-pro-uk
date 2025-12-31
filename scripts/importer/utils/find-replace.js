@@ -155,13 +155,14 @@ const replaceRedirectUrls = (content, redirectMap) => {
  * @returns {string} Content with cruft removed
  */
 const stripBlogFooterCruft = (content) => {
-  // Pattern matches the cruft block at the end of blog posts:
+  // Pattern matches the cruft block that appears in content:
   // [<< Return to news](...) - optional
   // ## What our customers are saying…
   // [Load More Reviews](...)
   // Happy customers we have worked along side
+  // Works anywhere in content, handles optional trailing whitespace
   return content.replace(
-    /\n*(?:\[<< Return to news\][^\n]*\n+)?## What our customers are saying…\n+\[Load More Reviews\][^\n]*\n+Happy customers we have worked along side\s*$/,
+    /\n*(?:\[<< Return to news\][^\n]*\n+)?## What our customers are saying…\n+\[Load More Reviews\][^\n]*\n+Happy customers we have worked along side\s*/g,
     ''
   );
 };

@@ -179,11 +179,3 @@ Ready to transform your next exhibition stand? The process is simple:
 ## Ready to Stand Out at Your Next Exhibition?
 
 [Contact](/contact-fun-pro-uk/#content) our exhibition specialists today to discuss how our interactive games can transform your next exhibition experience.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

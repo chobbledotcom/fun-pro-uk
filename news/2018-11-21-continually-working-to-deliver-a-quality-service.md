@@ -15,11 +15,3 @@ It has been a busy week within the Fun Pro UK office with brainstorming sessions
 As a business we are constantly wanting to evolve to ensure we are meeting the needs of our customers and a great way of doing this is through gaining feedback. So, we have set our marketing team the challenge of creating a new feedback system, to gather all our customers' thoughts on the service we currently deliver and the areas where we could develop and improve.
 
 So the next time you [hire corporate entertainment](/categories/corporate-entertainment/#content) through us, please look out for and complete our new and improved feedback survey.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

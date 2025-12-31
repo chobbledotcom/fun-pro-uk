@@ -24,11 +24,3 @@ Perfect Snap's [Magic Selfie Mirror](/products/magic-mirror/#content) was anothe
 Our new baby also drew a crowd - the new kid on the block, our Social Media Booth was a real popular addition. The selfies were taken and then socially shared by the guests on email, facebook and twitter. They were really spreading the word amongst social media!
 
 If you missed our stand on Sunday there is no need to worry - you can catch Donkey and the rest of the Perfect Snap Team again this Sunday at The Heart of England hotel and conference centre in Meriden - we would love to see you!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

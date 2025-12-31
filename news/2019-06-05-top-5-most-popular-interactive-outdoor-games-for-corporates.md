@@ -79,11 +79,3 @@ Tel: 02476 629 197
 07769 979 676
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

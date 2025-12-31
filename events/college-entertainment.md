@@ -42,9 +42,3 @@ These are just a few examples of the entertainment we have on offer for college 
 *If you're planning something small just hire one item, or if it's a major event such as Freshers' Fair, why not get a load? It's really up to you! Our online booking system is always open and ready to accept orders, so get compiling your perfect party line-up today!*
 
 *[Contact us](/contact-fun-pro-uk/#content) if you'd like to speak with our team directly, or alternatively, make a booking through our website.*
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

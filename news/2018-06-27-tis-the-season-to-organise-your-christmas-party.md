@@ -23,11 +23,3 @@ To help get you started we've put together a quick guide on things to consider n
 7.  Agree on the type of food you will be serving at your event. Will it be a sit-down dinner, buffet or finger food? If your venue has its own caterers, then there's less to do but if you need outside catering, you need to get organising.
 
 So, if you've been given the task of organising this year's Christmas party, set aside a few hours in the next few weeks to start planning the event. You can then head off on holiday knowing you have the Christmas party in hand and there will be minimal work needed when you get back.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

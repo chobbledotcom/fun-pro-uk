@@ -17,11 +17,3 @@ From Children's birthday parties with our wonderful Christmas themed photo booth
 We also had a few spectacular Christmas parties at Stoneleigh, not forgetting a very special December wedding which we attended at Ansty Hall Hotel, Ansty.
 
 The Perfect Snap Team had a busy weekend bringing fun to everyone's event. We would like to take this opportunity to thank our customers for booking with Perfect Snap Photo booth hire.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

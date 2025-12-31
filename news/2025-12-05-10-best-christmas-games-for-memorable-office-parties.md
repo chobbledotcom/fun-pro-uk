@@ -153,11 +153,3 @@ The best Christmas party games create moments that bring colleagues together –
 Think about what suits your specific event, your venue, and your guests. A thoughtful mix of activities that considers different personalities and preferences will always outperform a single game that only works for some.
 
 If you're considering interactive entertainment for your Christmas celebration, it's worth discussing your requirements early – popular dates book quickly during the festive season. [Get in touch](/contact-fun-pro-uk/#content) to check availability and receive a quote tailored to your event.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

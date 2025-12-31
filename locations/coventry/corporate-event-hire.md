@@ -101,9 +101,3 @@ We're based in Coventry and cover the West Midlands efficiently, including Warwi
 ## Ready to start planning your corporate event entertainment in Coventry?
 
 [Contact](/contact-fun-pro-uk/#content) our friendly team for a no-obligation chat about your specific requirements. We'll help you choose the right games to make your event successful.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

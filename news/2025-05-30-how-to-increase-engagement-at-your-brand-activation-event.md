@@ -87,11 +87,3 @@ We also handle delivery throughout the UK\*, setup and breakdown – so you can 
 ### Ready to Plan Your Brand Activation?
 
 If you want your brand to stand out and connect with your audience in a fun and memorable way, our team at Fun Pro UK is here to help. [Get in touch today](/contact-fun-pro-uk/#content) to hire games for a brand activation that gets people talking.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

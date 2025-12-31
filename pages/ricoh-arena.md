@@ -35,9 +35,3 @@ Fun Pro Uk hire interactive games to Coventry and the surrounding area including
 Tel:02477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

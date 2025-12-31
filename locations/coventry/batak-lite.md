@@ -171,9 +171,3 @@ Popular items:
 *   [Dance Machine](/products/dance-machine/#content)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
 *   [Lights Out](/categories/interactive-game-hire/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

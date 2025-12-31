@@ -187,11 +187,3 @@ Yes. All of our games and machines can be branded with your company or event log
 ### How do I measure the success of hosting staff party games?
 
 The best way to measure the success of any party or event where you’re including things like games and activities is to see how many people are participating. You’ll also likely get feedback from people after the event as they’ll happily tell you how much they enjoyed themselves.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

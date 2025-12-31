@@ -25,11 +25,3 @@ Fun Pro UK's branded attractions are ideal for drawing crowds to your stands and
 Please note that every season is a busy season for Fun Pro UK, and as always, it's best to book in advance to avoid disappointment! We work on a first-come first-served basis, so it's in your interests to snap up all the products you want as early as possible. Use our online booking system to get started today!
 
 All products are of a commercial-quality, are PAT-tested when required, are subject to routine inspections, and are set up and cleaned properly to ensure they're totally safe and immaculately clean. We know how important quality is at exhibitions and corporate events, so we do our utmost to ensure our services are second-to-none.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

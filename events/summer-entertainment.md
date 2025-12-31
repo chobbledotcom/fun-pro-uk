@@ -34,9 +34,3 @@ Whatever you choose for your summer party, you'll be receiving a premium quality
 *If you're ready to place your order for your next summer party, then why wait? Our website is accepting reservations right now. We can't wait to receive yours!*
 
 *Don't hesitate to [contact us](/contact-fun-pro-uk/#content) if you need any assistance.*
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -79,11 +79,3 @@ Choosing the right work social event can make a significant impact on team dynam
 At Fun Pro UK, we provide a range of interactive and exciting games to take your corporate event to the next level. From arcade machines to high-tech simulators, our selection ensures a fun-filled and memorable experience for your team.
 
 [Explore our range of entertainment options](/products/#content) today and start planning your next successful work social event.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

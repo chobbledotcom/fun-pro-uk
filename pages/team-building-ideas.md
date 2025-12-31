@@ -47,9 +47,3 @@ Build anticipation for your team building day through effective internal communi
 Ready to plan a transformative team building event? [Contact us](/contact-fun-pro-uk/#content) at Fun Pro UK to explore our comprehensive range of games and equipment for hire. Let us help you create a fun-filled day that not only entertains but also unites your team, paving the way for enhanced productivity and a harmonious workplace.
 
 /
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

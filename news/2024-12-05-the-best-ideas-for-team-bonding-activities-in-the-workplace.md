@@ -173,11 +173,3 @@ If hiring big games aren’t part of the budget for now, team bonding activities
 Fun activities for team bonding aren’t just an optional perk - they’re a necessity for building a cohesive, motivated, and satisfied workforce. Whether it’s through engaging games, casual events, or shared experiences, team bonding builds trust and camaraderie that every workplace needs to thrive.
 
 Fun Pro UK specialises in providing high-quality games and activities that bring people together. Our game hires are designed to create memorable, fun, and exciting experiences for you and your team members.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

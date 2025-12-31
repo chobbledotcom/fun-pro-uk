@@ -19,11 +19,3 @@ The first photo to be taken was the newly weds themselves. Mrs Bull really did l
 The happy couple had requested that Perfect Snap design a frame for them and put their newly married name and date on the prints as a little keepsake of their wedding. We enjoy designing the frames as everyone like to have something a little different - this time it was a Disney theme!  
 Before we knew it, the evening of celebrations was drawing to a close.  
 Perfect Snap would like to take this opportunity in wishing every happiness to the newly weds - Mr & Mrs Bull, also to thank them for using Team Perfect Snap!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

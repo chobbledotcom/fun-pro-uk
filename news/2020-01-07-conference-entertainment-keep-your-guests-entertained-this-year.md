@@ -47,11 +47,3 @@ Inspired to bring entertainment into your next conference? Contact our expert te
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Tel: 02476 629 197
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

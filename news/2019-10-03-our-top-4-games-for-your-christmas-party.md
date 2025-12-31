@@ -51,11 +51,3 @@ Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 Tel: 02476 629197
 
 Mob: 07769979676
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

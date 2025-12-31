@@ -34,9 +34,3 @@ As is always the case, all items are available to hire in London, Manchester, Le
 Ready to roll? [Contact us today](/contact-fun-pro-uk/#content) to discover how our Roll and Bowl Games can make your next event a resounding success. Let the good times roll with Fun Pro UK!
 
 Call [0247 7220 701](tel:02477220701) to speak with us directly.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -141,9 +141,3 @@ With over two decades of experience delivering exceptional promotional entertain
 Our collaborative approach ensures every solution perfectly aligns with your brand identity, event objectives, and audience expectations. Whether you're planning an intimate [corporate event in Birmingham](/locations/birmingham/corporate-event-hire/#content) or a large-scale activation campaign, we'll develop a customised package that delivers measurable results within your budget.
 
 [Contact us today](/contact-fun-pro-uk/#content) for your free consultation and no-obligation quote.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

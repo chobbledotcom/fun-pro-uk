@@ -8,6 +8,7 @@
 const fs = require('fs');
 const path = require('path');
 const config = require('../config');
+const { stripBlogFooterCruft } = require('./find-replace');
 
 /**
  * Build a set of all valid internal URL destinations
@@ -133,6 +134,9 @@ const getSourcePaths = (content) => {
 const fixFileLinks = (filePath, redirectMap, validDests) => {
   let content = fs.readFileSync(filePath, 'utf8');
   const original = content;
+
+  // Strip blog footer cruft (reviews section that got imported from old site)
+  content = stripBlogFooterCruft(content);
   const sourcePaths = getSourcePaths(content);
   const currentSlug = path.basename(filePath, '.md').replace(/^\d{4}-\d{2}-\d{2}-/, '');
   const errors = [];

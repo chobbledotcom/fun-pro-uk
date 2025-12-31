@@ -157,11 +157,5 @@ tabs:
       ## Hire Twin Axe Throwing for Your Event
       
       Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

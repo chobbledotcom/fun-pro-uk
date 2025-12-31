@@ -85,9 +85,3 @@ A. To book the games, once your quote has been received and you wish to go ahead
 *   Cancellation within 4 weeks - 100% of order
 
 *Please refer to your contract for full terms and conditions.*
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

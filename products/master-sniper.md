@@ -108,11 +108,5 @@ tabs:
       **DELIVERY**
       
       This item can not be carry up or down any stairs.
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

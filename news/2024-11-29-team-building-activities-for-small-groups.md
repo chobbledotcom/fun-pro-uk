@@ -131,11 +131,3 @@ When teams work together in fun and challenging activities, they build trust. Ce
 With the right games, strengthening camaraderie within the team and creating a positive and productive work environment is more than possible. But above all, it’s important to enjoy the event and have a blast!
 
 If you’re looking to take your team -building event to the next level, consider adding Fun Pro UK’s [game hires](/#content) to the mix. Our team building games for work are perfect for small groups — promoting trust, creativity, and teamwork in an interactive and enjoyable way.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

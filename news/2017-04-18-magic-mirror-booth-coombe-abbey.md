@@ -18,11 +18,3 @@ Team Perfect Snap set the equipment up in the bar area at the back of the hotel 
 The wedding was a fabulous event, all of the guests were in the party mood and used our prop box to the max! The selfies with our mirror were great, all the guests came back for more!  
   
 We would like to thank the newly weds for booking with Perfect Snap and would like to take this opportunity to wish Mr & Mrs Birch a very happy future together.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

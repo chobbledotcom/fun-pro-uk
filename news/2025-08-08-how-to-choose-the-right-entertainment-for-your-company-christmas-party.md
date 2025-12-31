@@ -183,11 +183,3 @@ Yes, we offer entertainment options designed for diverse age groups and abilitie
 ### Do you provide entertainment for venues outside major cities?
 
 We offer nationwide coverage throughout the UK, including London, Manchester, Birmingham, and beyond. Delivery charges may apply for locations outside our standard service areas.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side
