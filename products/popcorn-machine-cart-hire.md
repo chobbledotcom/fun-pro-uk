@@ -154,11 +154,5 @@ tabs:
       ### Is the popcorn cart suitable for both indoor and outdoor events?
       
       Yes, the popcorn machine cart hire can operate at both indoor and outdoor venues. For outdoor events, we recommend placing the cart under a sheltered area or marquee to protect the equipment from unpredictable weather.
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

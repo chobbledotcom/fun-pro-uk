@@ -146,11 +146,3 @@ We specialise in providing high quality photo booth rentals for any event. We ha
 [Fun Pro UK](/#content) handles the delivery, setup, and breakdown, so you can focus on enjoying your event. You can also add your logo or event theme to backdrops and print designs for a personalised touch.
 
 Let us help you create unforgettable memories with our high quality photo booths.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

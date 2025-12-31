@@ -186,11 +186,3 @@ Games creating energy and drawing crowds work well in exhibition environments. R
 Define clear objectives and metrics beforehand. Track leads generated, social media impressions, and direct sales. Gather qualitative feedback through surveys. Compare total costs against outcomes achieved.
 
 At Fun Pro, we've helped brands create [memorable activations](/locations/birmingham/brand-promotional-event-hire/#content) at Birmingham venues including the [NEC](/locations/birmingham/nec/#content), [ICC](/locations/birmingham/game-hire-icc/#content), and locations throughout the city centre. With over 15 years of experience in [corporate entertainment](/about-corporate-entertainment-hire/#content) and a comprehensive range of interactive games available with full custom branding, we provide end-to-end support from consultation through to collection. [Contact](/contact-fun-pro-uk/#content) our team to discuss how we can help make your Birmingham brand activation a success.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

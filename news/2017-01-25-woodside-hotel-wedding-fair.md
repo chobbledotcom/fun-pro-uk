@@ -22,11 +22,3 @@ You will find us with our famous [Green Screen Dream Machine Photo Booth](/produ
   
 Come down and see us - we love to get to know our clients! The [wedding](/categories/weddings/#content) fair begins at 11.30am-3pm at Woodside Hotel, Glasshouse Lane, Kenilworth cv8 2al.  
 There is nothing better than taking your own selfie on a Sunday!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

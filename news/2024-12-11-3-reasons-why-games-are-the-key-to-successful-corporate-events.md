@@ -94,11 +94,3 @@ Games for corporate events create a better attendee experience. It promotes enga
 As experts in [game hires for events](/#content) and creating fun experiences ourselves, Fun Pro is passionate about helping you deliver memorable moments that thrill and engage your attendees. Our team can help you select the perfect games for your company event, and even assist you in customising hired games to suit your event theme or your brand.
 
 If you’re ready to take your event to the next level, talk to us and our team will help you plan an event and choose games that your guests will remember.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

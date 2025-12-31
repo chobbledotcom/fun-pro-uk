@@ -152,9 +152,3 @@ And if you don’t see your area in our list below give us a call to find out if
 • Solihull
 
 • Stratford up on Avon
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

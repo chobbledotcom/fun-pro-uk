@@ -197,9 +197,3 @@ We understand London's access challenges and coordinate closely with venue manag
 ### Can you recommend the best games for different types of corporate audiences?
 
 Absolutely – this is where our 15+ years of corporate event experience proves invaluable. We consider factors like your audience mix, event objectives, venue constraints, and company culture when making recommendations. We're happy to [discuss different options](/contact-fun-pro-uk/#content) and explain why certain activities work well for specific situations.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

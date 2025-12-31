@@ -35,9 +35,3 @@ Contact our team today, they are fab guys and girls that will want to hear all a
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Call:02477220701
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

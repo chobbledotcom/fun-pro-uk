@@ -23,9 +23,3 @@ Let us take the stress away from your next event, by hiring Fun Pro Uk for Inter
 Tel: 02477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

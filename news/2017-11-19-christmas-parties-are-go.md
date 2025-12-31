@@ -22,11 +22,3 @@ The event incorporated the annual staff awards ceremony which was followed by a 
 Our friends here really knew how to have a great time, the Selfie Mirror along with our over flowing box of props were busy all night long with groups of friends taking photos and then coming back for more!
 
 Everyone had an instant print to take home as a fab souvenir. A great night was had by all as you can see from the photos.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

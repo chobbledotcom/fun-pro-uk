@@ -66,9 +66,3 @@ Any 5 days out of 7 with the possibility of overtime being available to suit bus
 To Apply:  
   
 Email us with your CV and covering letter to [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

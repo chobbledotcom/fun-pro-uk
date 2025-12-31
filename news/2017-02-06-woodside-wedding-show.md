@@ -28,11 +28,3 @@ Before we knew it, the day had flown by! We had been so busy talking to all of t
 Everyone loved our booth and talking mirror. Our January special offer of receiving 4 hours for the price of 3 was flying off the shelves, you really do like the 4 hour hire.
 
 Due to popular demand we have extended our January offer 4 hours for the price of 3 in to February!!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

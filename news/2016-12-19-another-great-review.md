@@ -21,11 +21,3 @@ Thank you to your team and also to Ricky.
 Will be recommending you to friends and family!
 
 Have a great Christmas and New Year.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

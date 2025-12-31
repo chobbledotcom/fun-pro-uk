@@ -40,9 +40,3 @@ Our top-quality [magic selfie mirror](/products/magic-mirror/#content) will have
 Talk to us about your Coventry event today and how we can help transform it from a run-of-the-mill occasion into something special and different.  
   
 Call or email us, or complete the online enquiry form.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

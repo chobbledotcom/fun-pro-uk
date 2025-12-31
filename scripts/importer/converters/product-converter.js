@@ -9,6 +9,7 @@ const { generateProductFrontmatter, generateReviewFrontmatter } = require('../ut
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
 const { createConverter } = require('../utils/base-converter');
+const { stripBlogFooterCruft } = require('../utils/find-replace');
 
 /**
  * Extract existing gallery (local paths) from markdown file content
@@ -176,10 +177,13 @@ const { convertSingle, convertBatch } = createConverter({
     if (extracted.cloudinaryGallery.length > 0) {
       process.stdout.write(` (${extracted.cloudinaryGallery.length} imgs)`);
     }
-    
+
+    // Strip blog footer cruft (reviews section) from body content before storing
+    content = stripBlogFooterCruft(content);
+
     // Store the body content for inclusion as a tab in frontmatter
     extracted.bodyContent = content;
-    
+
     // Return empty string - body content is now in the tabs frontmatter
     return '';
   },

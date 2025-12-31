@@ -225,9 +225,3 @@ Whatever you choose for your summer party, you'll be receiving a premium quality
 [Crack The Code safe cracker](/products/crack-the-code-safe-cracker/#content)
 
 [More Details](/products/crack-the-code-safe-cracker/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

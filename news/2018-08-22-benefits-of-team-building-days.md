@@ -38,11 +38,3 @@ Lots of team building activities involves a group to solve a problem, under less
 These activities will enable employees to learn about each other through their interactions, allowing them to trust each other within and out of the corporate environment. A team without a level of trust in each other, simply won't function and won't achieve the company's goals.
 
 There are both benefits to the individual and the company from undertaking team building activities.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

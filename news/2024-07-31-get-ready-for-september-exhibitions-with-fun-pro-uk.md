@@ -33,11 +33,3 @@ Our strategic locations near major exhibition centres like [NEC Birmingham](/loc
 As September 2024 approaches, it's crucial to plan how you'll stand out in the busy exhibition season. With Fun Pro UK, you’re choosing a partner who understands the importance of engagement, brand visibility, and creating memorable experiences.
 
 Are you ready to make your exhibition stand the most visited and talked about? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today to discuss your needs and how our interactive games can elevate your exhibition presence.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

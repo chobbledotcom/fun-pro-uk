@@ -22,11 +22,3 @@ If you are planning your big day why not attend - there will be lots of companie
 We will be attending with a talking magic mirror which takes awesome selfies and our all time favourite - the magnificent green screen dream machine photo booth - this really does stand out from the crowd. If you have seen or been in a photobooth before you really need to try ours, there is nothing like it!  
   
 Of course, there will be special offers to be had for bookings placed on the day. So, come down from 11.30- 3pm and have a Sunday Selfie with the Perfect Snap Team.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

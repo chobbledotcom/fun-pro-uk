@@ -51,9 +51,3 @@ So what is stopping you from giving us a call to get a free no obligations quote
 **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**
 
 **Call: 02477 671440**
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

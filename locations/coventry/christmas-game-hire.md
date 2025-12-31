@@ -121,9 +121,3 @@ Join our extensive network of satisfied Midlands clients who depend on our exper
 Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable celebration that guests will talk about throughout the year.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

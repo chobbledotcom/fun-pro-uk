@@ -22,11 +22,3 @@ It wasn't long until the booth became very busy and a crowd formed to see what a
 Congratulations to Mrs and Mrs Moore, we wish you a long and happy future together. Perfect Snap would also like to say thanks for hiring one of our [photo booths](/categories/photo-booths-and-magic-mirrors/#content).
 
 ![](/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg)
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

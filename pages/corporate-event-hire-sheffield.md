@@ -121,9 +121,3 @@ Yes. For trade shows and promotional events, we can add your branding to certain
 If you're planning a corporate event in Sheffield and would like to discuss entertainment options, we'd be [happy to help](/contact-fun-pro-uk/#content). You can call us on 0247 7220 701, email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 We'll take the time to understand your event and suggest games that will work for your venue, your guests, and your objectives.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

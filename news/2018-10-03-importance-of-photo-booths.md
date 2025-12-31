@@ -20,11 +20,3 @@ Our Photo Booths at KPMG's [award night](/events/company-award-ceremonies/#conte
 With a variety of props, all guests can find the perfect item to pose with. Allowing everyone the chance to let their hair down and enjoy a night off with colleagues.
 
 Why not contact one of our friendly team on 02476629197 or Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) today to discuss how we can keep your guests entertained!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

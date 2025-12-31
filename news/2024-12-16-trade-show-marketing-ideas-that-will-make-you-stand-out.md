@@ -154,11 +154,3 @@ Trade show marketing attracts a targeted audience. It opens up opportunities to 
 Creating a successful trade show experience requires a combination of strategic planning and creative execution. At Fun Pro, we specialise in providing interactive games, customisable rentals, and onsite support to make your stand a success.
 
 Let us help you create a trade show presence that drives engagement, amplifies your brand, and leaves a lasting impression.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

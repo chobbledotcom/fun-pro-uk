@@ -76,9 +76,3 @@ Please contact us to find out more
 *   [Batak Pro](/products/batak-pro/#content)
 *   Lights Out
 *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -73,9 +73,3 @@ We carry full public liability [insurance](/insurance/#content) and can provide 
 ## Get in Touch About Your Liverpool Event
 
 If you're planning a [corporate event](/office-and-corporate-entertainment/#content) in Liverpool and want to [discuss entertainment options](/contact-fun-pro-uk/#content), we’re here to help. We'll talk through what you're trying to achieve and recommend games that fit; no obligation, just honest advice from people who've been doing this for over 15 years.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

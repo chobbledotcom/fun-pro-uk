@@ -12,9 +12,3 @@ eleventyNavigation:
 # Event Type
 
 [Exhibition Game Hire](/events/exhibition-games/#content) [School Fun Day Entertainment Hire](/events/school-entertainment/#content) [Evening Entertainment Ideas](/events/evening-entertainment/#content) [Fundraising Event ideas](/events/fundraising-events/#content) [Christmas Entertainment Game Ideas](/events/christmas-entertainment/#content) [Conference Entertainment Ideas](/events/conference-idea/#content) [Promotion Event Games](/promotion-event-games/#content) [Office & Corporate Entertainment Ideas](/office-and-corporate-entertainment/#content) [Summer Entertainment Ideas](/events/summer-entertainment/#content) [College & University](/events/college-entertainment/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

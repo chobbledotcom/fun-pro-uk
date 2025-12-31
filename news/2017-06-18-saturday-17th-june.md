@@ -22,11 +22,3 @@ Everyone wanted to have a selfie! we had a really busy night, it was a really gr
 Another Photobooth was in use at an Asian Wedding at the Allesley Hotel. This hotel again is a wonderful venue for a wedding and is situated right on the other side of [Coventry](/locations/coventry/corporate-event-hire/#content). Once again, Team Perfect Snap was all set up and ready for the evening reception to begin at 7pm. There were lots of guests here at Allesley. We set all of our favourite props out ready to use and the guests didn't waste any time in choosing them for their selfies. Everyone loves a Selfie! The night flew by, guests came back again and again taking pictures using loads of different themed backgrounds from our new V3 Green Screen Dream Machine Photobooth - it really is unlike any other booth!  
   
 Perfect Snap also helped entertain the guests at a Birthday Party at a pub in Kerseley, Coventry. This was for a special young lady's 60th! The Magic Mirror was a really winner with the guests at the pub. The Donkey voice over wowed the crowd with his cheeky comments and gave the guests a real laugh! Our Magic Mirror was in use all night - it really was a party to remember.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -219,11 +219,5 @@ tabs:
       We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability.
       
       ### **Can the Roller Bowler be branded with our company logo?**
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

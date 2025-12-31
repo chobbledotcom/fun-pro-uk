@@ -209,11 +209,5 @@ tabs:
       £420 + vat
       
       ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

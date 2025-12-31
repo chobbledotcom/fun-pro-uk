@@ -228,11 +228,3 @@ The end of the school year represents a significant milestone for pupils of all 
 Professional game hire removes the stress from event planning, ensuring high-quality equipment and proper safety measures. Whether you're organising a small key stage celebration or a whole-school extravaganza, investing in quality entertainment ensures pupils end their school year on a high note.
 
 Ready to start planning your school summer celebration? [Contact our friendly team](/contact-fun-pro-uk/#content) at Fun Pro UK for expert advice on selecting the perfect games for your specific requirements. With nationwide delivery and years of experience in educational settings, we'll help make your school summer party truly unforgettable!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

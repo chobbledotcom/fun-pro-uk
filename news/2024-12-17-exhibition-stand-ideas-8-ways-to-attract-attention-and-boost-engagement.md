@@ -172,11 +172,3 @@ Focus on impactful visuals, strategic planning, and targeted activities. Do the 
 To create a unique exhibition stand design, you need the right tools to captivate, connect, and convert. If you’re unsure of how to go about it, Fun Pro can take the stress out of designing an engaging exhibition stand.
 
 We have a range of [interactive games and custom branding options](/categories/branded-exhibition-games/#content) that will help your stand attract attention in any venue.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

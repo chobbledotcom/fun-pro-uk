@@ -97,9 +97,3 @@ That's exactly what we're here to help with. Share some details about your event
 ## Ready to discuss entertainment for your Birmingham corporate event?
 
 [Contact our friendly team](/contact-fun-pro-uk/#content) on 0247-722-0701. We're here to take the stress out of planning and help you create an event your colleagues will remember.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side
