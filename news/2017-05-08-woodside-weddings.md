@@ -15,11 +15,3 @@ Once again the guests who were in attendance at David & Michael's [wedding](/cat
 The booth was used to the max as you can see by some of the great photos that were taken for the evening reception at one of our favourite venues, Woodside Hotel in Warwickshire.  
 Team Alistair had a laugh with the guests and even got to appear in a few snaps himself!!  
 We would like to say a big congratulations to the happy couple and thank you for using Perfect Snap for such a wonderful wedding.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

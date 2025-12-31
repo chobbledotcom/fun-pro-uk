@@ -48,11 +48,3 @@ We are committed to providing exceptional service to our clients. We believe tha
 At Fun Pro UK, we also understand the importance of reliability and professionalism. That's why we always arrive on time, set up quickly and efficiently, and provide a service that puts you first.
 
 Book online today! Just look through our website to see more.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

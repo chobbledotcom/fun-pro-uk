@@ -60,11 +60,3 @@ Here at Fun Pro UK you can be rest assured that we are professionals providing s
 If you are planning a corporate fun day which requires fantastic value, excellent entertainment and outstanding results for your business then Fun Pro UK are the company to contact.
 
 Call us on 📞02476 629197 to discuss how Fun Pro UK can help your Family Fun Day be the best ever.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

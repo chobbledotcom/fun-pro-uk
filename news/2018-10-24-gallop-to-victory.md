@@ -24,11 +24,3 @@ Why not pair this product with our leader board to find the fastest jockey at yo
 Whatever event you host, the Gold Cup Horse Racing Hire will go down a treat with all your guests!
 
 So call us today on 02476 629197 to discuss how we can add a buzz to your next event.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

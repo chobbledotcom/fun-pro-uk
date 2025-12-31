@@ -24,11 +24,3 @@ Our team were happy to assist by setting up earlier in the day, way ahead of the
 ![](/images/news/nec1.png)Once the guests had arrived for a drinks reception, the entertainment began. Our talking [Magic Selfie Mirror](/products/magic-mirror/#content) sprang to life and the Christmas party was in full swing. Everyone grabbed their friends and gathered around the props deciding which hat would look best for their photo.
 
 The Selfie Mirror proved very popular as always and everyone loved their instant photos that are printed as a souvenir of their evening . We had a great time meeting guests that had remembered us from last year too. Perfect Snap can't wait til next year!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -11,9 +11,3 @@ eleventyNavigation:
 ---
 
 # Safety & Insurance
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

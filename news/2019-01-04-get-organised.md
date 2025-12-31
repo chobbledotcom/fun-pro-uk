@@ -28,11 +28,3 @@ Next, you need to set up daily, weekly and monthly routines to help you achieve 
 Sometimes you need to acknowledge that you can't do it all on your own. It is not a sign of weakness to get support. Enlist the help of family, friends or experts in an area to achieve your resolution. Your family can play a part in the running of the household. External parties such Virtual Assistants can help with a variety of tasks. If you've got a big event coming up give us a call to see how we can help.
 
 Don't forget to check in regularly to see how you're going. If you need to make changes to stay on track, do it. Also remember to acknowledge your successes. If you've stayed focused and achieved some of your goals, give yourself a huge pat on the back, you deserve it!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

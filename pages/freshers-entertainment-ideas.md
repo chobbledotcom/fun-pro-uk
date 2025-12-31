@@ -153,9 +153,3 @@ Absolutely. Today's university cohorts include traditional students, mature lear
 Start promoting specific games and activities rather than just announcing "entertainment." Students respond well to knowing exactly what to expect. Use social media platforms where your students are active, create shareable content about the games, and consider having student ambassadors help spread the word through their networks.
 
 *Ready to create memorable freshers week experiences that help your students connect and thrive? [Contact](/contact-fun-pro-uk/#content) our team to discuss your requirements and get expert recommendations for your university's entertainment programme.*
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

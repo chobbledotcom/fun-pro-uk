@@ -24,11 +24,3 @@ However, if you want to stick to the traditional Winter Wonderland theme, we hav
 If you haven't had the chance to organise an awards night during the year, the Christmas party is a great chance to show your appreciation and recognise the hard work and determination of your team. Whether you want to have an Oscar style event or keep it traditional with a festive celebration, you will reap the rewards the following year with the continued happiness on your employees.
 
 Can't decide what theme to go for? Why not get your departments voting for what party they want. Or call one of the friendly team here at Fun Pro UK (02476 629197), who can talk you through all the options to create the best Christmas party yet!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

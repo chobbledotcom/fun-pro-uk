@@ -133,9 +133,3 @@ If you'd like to find out more information, we'd love to hear from you - call us
 *   Grand openings
     
     
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

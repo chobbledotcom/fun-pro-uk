@@ -21,9 +21,3 @@ Together the hire package was a huge success, significantly improving participat
 Our success with the National Farmers Union proves that it pays not to treat conference delegates like cattle if you want them to get the best from your event.
 
 ![Corporate Entertainment Ideas](/userfiles/businesspeople.png)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

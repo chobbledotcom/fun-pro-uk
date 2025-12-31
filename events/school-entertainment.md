@@ -32,9 +32,3 @@ No matter what you decide is right for you, you'll be receiving a premium qualit
 At Fun Pro UK we've got a wealth of experience of delivering our greats, inflatables and everything else to schools in every corner of the UK. Once you've tried us once, you'll see why we're trusted by teachers up and down the land!
 
 So make a booking through our website and discover why Fun Pro UK are the team you need for school fun days. Book now, or [contact us](/contact-fun-pro-uk/#content) for more information.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

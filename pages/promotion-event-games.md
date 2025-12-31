@@ -129,9 +129,3 @@ No matter where you are in the country, we’ll deliver to you\*. Our experience
 With over 20 years of experience in providing promotional games for businesses, brand activations, and many other types of corporate and private events, we’re here to help your event have as much impact as possible.
 
 We'll work with you to find tailored solutions that perfectly align with your brand values and event goals. [Contact us](/contact-fun-pro-uk/#content) today for a free quote and for more details on our promotional game hire for events.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

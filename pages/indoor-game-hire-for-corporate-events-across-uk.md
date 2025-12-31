@@ -121,9 +121,3 @@ Our service includes delivery, professional setup, operation if needed, and coll
 ## Ready to discuss your indoor game hire?
 
 [Get in touch](/contact-fun-pro-uk/#content) with our friendly team for a free quote. We'll ask about your venue, guest numbers and event goals, then recommend options that work for your specific needs.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -121,9 +121,3 @@ After the event ends, we’ll handle the safe and efficient removal of all the f
 ## Ready to take your event to the next level?
 
 Make every event unforgettable and engaging. [Contact us today](/contact-fun-pro-uk/#content) to book our fun fair stalls for your next event in Birmingham, Leicester, Nottingham, London or any other location in the UK!
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

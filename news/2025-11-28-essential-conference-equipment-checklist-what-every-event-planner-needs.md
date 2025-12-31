@@ -178,11 +178,3 @@ Hybrid conferences require everything mentioned above plus specialist virtual ev
 ### How can I reduce conference equipment costs without compromising quality?
 
 Book early to secure better rates and avoid premium last-minute pricing. Be precise about what you actually need—over-specifying equipment wastes budget. Consider prioritising a few high-impact elements rather than spreading budget thinly across many average-quality items.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

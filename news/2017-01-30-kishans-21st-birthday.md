@@ -20,11 +20,3 @@ Choosing a prop from our bottomless prop box and gathering your best friends and
   
 The night was amazing, there were other gaming tables at the party and everyone had wonderful time dancing the night away.  
 Thank you for booking with Perfect Snap photo booth hire Kishan, we hope you enjoyed your special night.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

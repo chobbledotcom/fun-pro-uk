@@ -97,9 +97,3 @@ For advice on the best corporate photo booth hire for your event, your audience 
 *   Tel: 02477220701
 *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 *   [Contact form](/contact-fun-pro-uk/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

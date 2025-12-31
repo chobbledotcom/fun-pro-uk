@@ -137,9 +137,3 @@ Whether you're organising a large-scale conference at the [NEC](/locations/birmi
 [Get in touch](/contact-fun-pro-uk/#content) to discuss your Birmingham conference or corporate event, and we'll provide a free quote based on your specific requirements.
 
 \*Delivery, setup, and collection may incur additional charges depending on your location.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

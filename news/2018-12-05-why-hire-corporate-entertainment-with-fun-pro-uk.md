@@ -34,11 +34,3 @@ If you're wanting to create the feel-good factor at your next event or generate 
 Our growing team keeps our values at heart, ensuring the professional delivery and installation of all our corporate entertainment. We ensure each guest has an unforgettable experience, while playing with our huge variety of interactive games or taking fun photographs in our range of traditional or unique [photo booths](/categories/photo-booths-and-magic-mirrors/#content).
 
 To find out more Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or Call our office on 02476 629197
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

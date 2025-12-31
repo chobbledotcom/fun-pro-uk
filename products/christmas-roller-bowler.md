@@ -317,11 +317,5 @@ tabs:
       **Extra information**
       
       Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 

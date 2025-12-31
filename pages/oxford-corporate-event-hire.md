@@ -49,9 +49,3 @@ We have a fair pricing scheme to ensure that you get the best deal whether you a
 So why not call us today to get a no obligation quote and see how we can keep your guests happy at your next event.  
 
 For more information or to order games for your company event, get in touch with Fun Pro UK today. We can help you choose the right games for your conference, party or open day. Contact us online, or call now on +442477220701.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

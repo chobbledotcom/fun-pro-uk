@@ -27,9 +27,3 @@ Leveraging the NEC’s strategic location in the heart of the UK, Fun Pro UK off
 Whether you’re planning an exhibition, a corporate event, or a special celebration, incorporating Fun Pro UK’s entertainment options can significantly enhance the attendee experience. Our commitment to quality, innovation, and customer satisfaction makes us the ideal partner for event hire at the NEC, Birmingham.
 
 Explore how Fun Pro UK can transform your next NEC event by [contacting us today](/contact-fun-pro-uk/#content).
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

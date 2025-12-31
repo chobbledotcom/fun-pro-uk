@@ -24,11 +24,3 @@ Many of us however, spend more time at work than we do with our partners. What a
 7.  Host a [company event to celebrate Christmas](/categories/christmas-game-hire/#content), end of financial year or just to say thank you. This can be a small or big event depending on your budget. Go out for dinner at a restaurant, go paint balling or hire a conference room at a swish hotel with a photo booth to capture the fun. The list is endless.
 
 Contact us today to arrange your next event. Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -153,9 +153,3 @@ Costs vary based on the specific games selected, event duration, and venue requi
 Yes, we can provide experienced staff to operate games throughout your events. This option is particularly popular with universities that prefer their own team to focus on student interaction and event coordination rather than technical equipment management. Our staff understand university environments and work seamlessly with your student union teams.
 
 Ready to start planning your London freshers week entertainment? [Contact](/contact-fun-pro-uk/#content) our friendly team for a free quote tailored to your university's specific requirements. We'll work with you to create engaging, inclusive entertainment that helps your new students feel welcomed and excited about their university journey.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -159,9 +159,3 @@ Yes. Our game rentals come with detailed instructions on how to use the games sa
 ### What if there’s an issue with the equipment during the event?
 
 All our games and booths are maintained so they stay in excellent condition. We take every precaution to make sure that your games run smoothly during your event. However if technical issues do arise, you can call our team at 0247 7220 701 to get immediate support.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

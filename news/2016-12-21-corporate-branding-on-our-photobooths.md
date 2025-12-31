@@ -44,11 +44,3 @@ Perfect Snap has provided Photo Booth's for many corporate clients including The
 Perfect Snap guarantee 'to bring fun to your event'. Everyone really does love a selfie. They even have a photo with your logo and branding on to take home which will let that special memory never be forgotten.
 
 For further information of how we can help you arrange your corporate event drop us an email to: [info@perfectsnap.co.uk](mailto:info@perfectsnap.co.uk). A member of our team will be happy to help you
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

@@ -57,9 +57,3 @@ Branded games aren't just for corporate events, either! You could print off acad
 *Fun Pro UK are the UK event and party hire experts. With everything from [photo booths](/categories/photo-booths-and-magic-mirrors/#content) to [air hockey tables](/products/air-hockey-table-hire/#content), we have a range of products suited for almost all purposes. Choose us for your next corporate event and you can be confident you're with a specialist team with an exceptional reputation.*
 
 You can make a booking by email and letting us know about your branding requirements, or speak with us directly to discuss further. Call us on [02477220701](tel:02477220701), or visit our [contact page](/contact-fun-pro-uk/#content) to see some other ways to get in touch.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

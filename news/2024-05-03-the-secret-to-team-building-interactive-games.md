@@ -22,11 +22,3 @@ Interactive games have become a cornerstone of successful team-building strategi
 Interactive games are more than just play; they are a strategic tool for building stronger, more effective teams. By incorporating games like [Batak](/categories/batak/#content) and [Roll & Bowl](/categories/roll-and-bowl/#content) into your team-building events, you're investing in your team’s development in a way that is enjoyable, memorable, and highly beneficial.
 
 Ready to transform your team-building approach with interactive games? Explore how Fun Pro UK can help by visiting our website today. Discover the power of play for developing a cohesive and high-performing team.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

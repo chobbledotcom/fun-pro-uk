@@ -17,11 +17,3 @@ Everyone loved the talking selfie mirror, it really gets the party started.
 The guests left some beautiful messages in the Perfect Snap guest book for the new bride and groom to cherish.  
   
 We would like to wish the happy couple a wonderful future together and thank you for letting Perfect Snap share your wonderful wedding day.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

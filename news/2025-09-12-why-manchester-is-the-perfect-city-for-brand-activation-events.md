@@ -160,11 +160,3 @@ Manchester typically offers 20-30% savings compared to London across venues, acc
 ## Ready to discover how Manchester can enhance your next brand activation campaign?
 
 Our experienced team understands both the opportunities Manchester provides and how interactive entertainment can maximise your campaign's impact. [Contact our friendly team](/contact-fun-pro-uk/#content) to discuss your requirements and explore how we can help create memorable [brand experiences](/locations/manchester/brand-activation-games/#content) that deliver real results for your business.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

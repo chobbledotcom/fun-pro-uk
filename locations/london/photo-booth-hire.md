@@ -26,9 +26,3 @@ Included in each Photo booth Hire is:
 *   Ability to brand/personalise photos
 
 To hire your photo booth for an event in London and the surrounding areas then you can either give us a call on: or email us at: [info@funprouk.co.uk](mailto:info@funprouk.co.uk). Our friendly team can't wait to make your event marvellous!
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

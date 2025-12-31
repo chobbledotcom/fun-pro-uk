@@ -123,9 +123,3 @@ Ensure you have all the supplies and materials ready before the event begins. Ha
 
 **3\. Designate Game Facilitators**  
 Assign a few team members or event staff to act as facilitators for the games. They can help explain the rules, keep track of scores, and make sure the games are running fairly and on time. A facilitator ensures that everything runs smoothly.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

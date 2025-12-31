@@ -131,9 +131,3 @@ London Expertise - Unparalleled understanding of London's venue requirements, lo
 With over twenty years of experience delivering world-class promotional entertainment solutions, we've earned our reputation as London's trusted partner for transformative event experiences.
 
 [Contact us](/contact-fun-pro-uk/#content) today for a free, no-obligation quote.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

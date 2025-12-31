@@ -22,11 +22,3 @@ If Social Media is your thing then this will be right up your street - our all n
 Ansty Hall Hotel is situated in the pretty little village of Ansty near Coventry is a wonderful venue with outstanding grounds for photographs on your special day. The Orangery room and the main hotel will be packed with many exhibitors to help you plan for your big event.
 
 Fun Pro UK are regular guests at this hotel and can't wait to be back on Sunday. We really do hope to see you there. So, bring your best smile and come to say Hello!
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

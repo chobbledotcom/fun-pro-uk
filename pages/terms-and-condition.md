@@ -97,9 +97,3 @@ Any refunds given will be via a credit note, valid for 3 months from the cancell
 If any provision of these terms shall be unlawful, void, or for any reason unenforceable under Contract Law, then that provision, or portion thereof, shall be deemed separate from the rest of this contract and shall not affect the validity and enforceability of any remaining provisions, or portions thereof. This is the entire agreement between Provider and Customer relating to the subject matter herein and shall not be modified except in writing, signed by both parties. In the event of a conflict between parties, Customer agrees to solve any arguments via arbitration. In the event Provider is unable to supply a working photo booth for at least 80% of the Service Period, Customer shall be refunded a prorated amount based on the amount of service received (this is £'50 per an hour, or the percentage of, using this figure). Spare equipment will be supplied with the booth subject to availability. If the printer fails to print out photos on site the Provider will be allowed to give a web site to the customer where their guests can log onto and order prints free of charge with free postage. The Free Guest Book offer does not apply to Corporate Christmas Parties. If no service is received, Provider's maximum liability will be the return of all payments received from Customer. Provider is not responsible for any consequential damages or lost opportunities upon breach of this agreement. We hold the right to edit these terms and conditions at any time.
 
 Please sign, date and return this contract back to [info@funprouk.co.uk](mailto:info@perfectsnap.co.uk) if you have any further question please do not hesitate to contact us on 02477220701.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

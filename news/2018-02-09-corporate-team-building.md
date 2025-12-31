@@ -26,11 +26,3 @@ Lunch time came around pretty quick and so did the crowds! Everyone wanted a go 
 Even the popular tribal dancers had a go on the buzz wire and posed for a great picture.
 
 The staff had a wonderful time at their conference and Fun Pro UK once again provided our team building games for their amusements.
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

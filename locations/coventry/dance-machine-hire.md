@@ -78,9 +78,3 @@ Please contact us to find out more
 *   [Twin race car simulators](/products/racing-car-simulators/#content)
 *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
 *   Lights Out
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

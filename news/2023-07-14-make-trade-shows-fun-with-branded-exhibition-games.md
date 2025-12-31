@@ -27,11 +27,3 @@ Our experienced team is ready to help you choose the perfect branded games for y
 Don't miss out on the chance to make a lasting impact at your next trade show. Speak with our team to discuss your requirements and let us help you unlock the potential for success with our range of branded games - just visit our [contact page](/contact-fun-pro-uk/#content) to see how to tell us about what you need.
 
 **Remember, when it comes to trade shows, standing out is essential. Let Fun Pro UK be your partner in creating a show-stopping experience that leaves a lasting impression on attendees and sets your brand apart from the competition.**
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

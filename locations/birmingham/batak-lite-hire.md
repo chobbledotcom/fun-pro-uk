@@ -163,9 +163,3 @@ Looking to enhance your event further? We offer a variety of interactive games f
 ## Hire Batak Lite for Your Next Event in Birmingham
 
 [Get in touch today](/contact-fun-pro-uk/#content) to check availability, discuss customisation options, and receive a competitive quote for Batak Lite hire in Birmingham
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

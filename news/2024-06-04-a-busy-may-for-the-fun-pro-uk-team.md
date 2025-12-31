@@ -26,11 +26,3 @@ Lastly, the [Crack the Code safe cracker game](/products/crack-the-code-safe-cra
 *If you like what you see and want to add uniquely engaging and branded games to your next event, don’t hesitate to speak with our team. Whether it's installing interactive games that reflect your brand or designing a fun space that captivates your audience, we are here to make your event a resounding success.*
 
 *May 2024 was a testament to the creativity, dedication, and hard work of our team at Fun Pro UK. We look forward to bringing more fun and engagement to events nationwide, proving that when it comes to enhancing your event with interactive entertainment, Fun Pro UK is your go-to expert.*
-
-[<< Return to news](/news/#content)
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

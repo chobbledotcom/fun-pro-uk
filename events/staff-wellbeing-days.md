@@ -52,9 +52,3 @@ Incorporate Fun Pro UK’s interactive games to enhance your [Corporate Wellbein
 With Fun Pro UK, planning your next office event is a breeze. Our engaging activities are designed to suit any office environment, ensuring your next event is as fun as it is unforgettable.
 
 To learn more about how Fun Pro UK can help you plan and execute an unforgettable wellbeing day, contact us today. Let’s work together to make wellbeing at work not just an agenda item, but a sustainable and enjoyable part of your corporate culture.
-
-## What our customers are saying…
-
-[Load More Reviews](/testimonials/#content)
-
-Happy customers we have worked along side

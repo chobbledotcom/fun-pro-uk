@@ -203,11 +203,5 @@ tabs:
       ## Hire Batak Pro for Your Next Event
       
       Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
-      
-      ## What our customers are saying…
-      
-      [Load More Reviews](/testimonials/#content)
-      
-      Happy customers we have worked along side
 ---
 
