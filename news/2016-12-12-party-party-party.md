@@ -1,5 +1,6 @@
 ---
 title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"
+subtitle: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2016-12-12
 author: "team/colin.md"
 meta_title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"

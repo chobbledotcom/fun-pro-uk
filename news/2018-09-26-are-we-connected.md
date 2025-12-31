@@ -1,5 +1,6 @@
 ---
 title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"
+subtitle: "Are We Connected? – Event Game Rental Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-09-26
 author: "team/liz.md"
 meta_title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"

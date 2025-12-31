@@ -180,6 +180,7 @@ const generateBlogFrontmatter = (
 
   let frontmatter = `---
 title: "${postTitle}"
+subtitle: "${metadata.meta_description || ""}"
 date: ${date}
 author: "${author}"
 meta_title: "${metadata.title || ""}"

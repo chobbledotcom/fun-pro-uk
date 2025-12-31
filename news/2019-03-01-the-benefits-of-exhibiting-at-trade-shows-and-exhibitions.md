@@ -1,5 +1,6 @@
 ---
 title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"
+subtitle: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2019-03-01
 author: "team/liz.md"
 meta_title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"
