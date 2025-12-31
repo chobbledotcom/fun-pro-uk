@@ -18,7 +18,7 @@ Our team are located approximately 60 minutes from this superb venue meaning our
 
 **Conference Game Hire Telford** is a fun filled way to engage with clients during lunch and break times giving individuals the opportunity to build relationships and communicate effectively whilst having fun.
 
-!Lights Out Game Hire
+![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
 
 ## **Game Hire**
 

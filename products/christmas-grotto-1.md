@@ -9,7 +9,9 @@ categories: ["categories/christmas-grotto-hire.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -120,6 +122,5 @@ tabs:
       The perfect party piece
       
       Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/#content) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
-      
 ---
 

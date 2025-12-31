@@ -1,9 +1,14 @@
 ---
-meta_title: "College & University Entertainment Games | Event Ideas | UK"
+title: "College Entertainment"
+meta_title: "College Entertainment"
 meta_description: "Looking for ways to keep college and university students entertained at Fresher&#39;s week, extravs or any similar event? Get ideas from the UK party hire experts!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/college-and-university-entertainment/"
+eleventyNavigation:
+  key: "College Entertainment"
+  parent: "Educational & Community"
+  order: 2
 ---
 
 # College & University Entertainment

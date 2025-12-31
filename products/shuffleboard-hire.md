@@ -9,7 +9,9 @@ categories: ["categories/exhibition-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -77,8 +79,8 @@ tabs:
       We specialise in a large variety of events. Get a shuffleboard hire for:  
         
       ✓ [Corporate events](/office-and-corporate-entertainment/#content)  
-      ✓ [Exhibitions](/exhibition-game-hire/#content)  
-      ✓ [Family fun days](/family-fun-day-entertainment/#content)  
+      ✓ [Exhibitions](/events/exhibition-games/#content)  
+      ✓ [Family fun days](/events/family-fun-days/#content)  
       ✓ [Weddings](/wedding-entertainment/#content)  
       ✓ College and university events  
       ✓ Conferences and trade shows  
@@ -206,6 +208,5 @@ tabs:
       (One time use only)
       
       **£295**\+ vat**
-      
 ---
 

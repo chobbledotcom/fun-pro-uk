@@ -55,7 +55,7 @@ We specialise in small and large events such as:
 
 ✓ Weddings
 
-✓ [Exhibitions](/exhibition-game-hire/#content)
+✓ [Exhibitions](/events/exhibition-games/#content)
 
 ✓ Corporate entertainment
 
@@ -113,7 +113,7 @@ We’ll make sure everyone gets to enjoy the rental games you’ve booked.
 
 When the event is over, we’ll handle the safe and efficient removal of all the interactive games, leaving your venue exactly as we found it.
 
-Whatever interactive game hire you choose, you can rest assured that you’re with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](/family-fun-day-entertainment/#content) and company games, so you know you're getting some top notch equipment that’s also maintained to the highest standards.
+Whatever interactive game hire you choose, you can rest assured that you’re with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](/events/family-fun-days/#content) and company games, so you know you're getting some top notch equipment that’s also maintained to the highest standards.
 
 ## **Ready to take your event to the next level?**
 

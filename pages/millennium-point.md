@@ -8,7 +8,7 @@ redirect_from:
 
 # Millennium Point
 
-!
+![](/userfiles/millennium-point-2.jpg)
 
 ## Games Hire at Millennium Point
 

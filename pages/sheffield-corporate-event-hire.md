@@ -50,7 +50,7 @@ Tel: 02476629197
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-!
+![](/userfiles/file/FunPro/contactus2.jpg)
 
 ## What our customers are saying…
 

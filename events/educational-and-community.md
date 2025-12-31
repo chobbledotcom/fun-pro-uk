@@ -1,9 +1,14 @@
 ---
-meta_title: "Educational & Community - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+title: "Educational & Community"
+meta_title: "Educational & Community"
 meta_description: "Educational &amp; Community - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/educational-and-community/"
+eleventyNavigation:
+  key: "Educational & Community"
+  parent: "Event Type"
+  order: 3
 ---
 
 # Educational & Community

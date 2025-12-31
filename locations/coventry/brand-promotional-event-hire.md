@@ -10,7 +10,7 @@ redirect_from:
 
 Gone are the days when corporate events needed to be filled with boring lectures and stuffy interactions. In today’s fast-paced world, people want something different, and creating a buzz and building true connection and engagement at events is what people are looking for.
 
-At Fun Pro, our [branded game hire](/branded-game-hire/#content) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
+At Fun Pro, our [branded game hire](/events/brand-activation/#content) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
 
 You can choose to fully customise the promotional games you hire from us with your brand logo or even the event-specific branding to help you generate even more interest and buzz.
 

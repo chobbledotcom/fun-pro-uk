@@ -1,9 +1,14 @@
 ---
-meta_title: "School Fun Day Entertainment Hire | Event Ideas | Games | UK"
+title: "School Entertainment"
+meta_title: "School Entertainment"
 meta_description: "Looking for games and entertainment for school fun days? Check out what Fun Pro UK has! The best fun for pupils, teachers &amp; more, available nationwide!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/school-fun-day-entertainment-hire/"
+eleventyNavigation:
+  key: "School Entertainment"
+  parent: "Educational & Community"
+  order: 4
 ---
 
 # School Fun Day Entertainment Hire

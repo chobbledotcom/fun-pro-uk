@@ -1,14 +1,14 @@
 ---
-title: "Circus Skills Workshop Hire for Your Next Event"
-meta_title: "Circus Skills Workshop Hire for Your Next Event"
+title: "Circus Skills Workshop"
+meta_title: "Circus Skills Workshop"
 meta_description: "Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing."
 featured: true
 redirect_from:
   - "/category/circus-skills-workshop/"
 eleventyNavigation:
   key: "Circus Skills Workshop"
-  parent: "Products"
-  order: 10
+  parent: "Educational & Community"
+  order: 6
 ---
 
 # **Circus Skills Workshop Hire for Your Next Event**
@@ -39,7 +39,7 @@ Our circus skills workshop hire makes a great addition to any event and is somet
 
 ### School events and fetes
 
-Circus skills workshops are the perfect activity for children, parents and teachers to all get involved and have fun at a [school event](/school-fun-day-entertainment-hire/#content) or fete.
+Circus skills workshops are the perfect activity for children, parents and teachers to all get involved and have fun at a [school event](/events/school-entertainment/#content) or fete.
 
 ### Company team building days
 

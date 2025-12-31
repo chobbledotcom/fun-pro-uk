@@ -9,7 +9,9 @@ categories: ["categories/arcade-games.md"]
 events: []
 featured: true
 features:
-
+  - "Delivery, setup, and collection included"
+  - "Public liability insurance included"
+  - "Custom branding options available"
 specs:
   - name: "Players"
     value: "TBD"
@@ -170,6 +172,5 @@ tabs:
       [www.funprouk.co.uk](/#content)
       
       Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!
-      
 ---
 
