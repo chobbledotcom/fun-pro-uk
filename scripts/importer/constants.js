@@ -6,6 +6,7 @@ const LOCATION_TOWNS = [
   'birmingham',
   'bristol',
   'coventry',
+  'leeds',
   'leicester',
   'london',
   'manchester',
