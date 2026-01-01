@@ -262,6 +262,72 @@ body {
   &.item {
     article#content {
       background: #fafafa;
+
+      dl {
+        // specs
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+
+        & > div {
+          display: grid;
+          grid-template-columns: 48px 1fr;
+          grid-template-areas: "icon key" "icon value";
+          padding: 8px;
+          gap: 0 16px;
+          border-radius: 8px;
+          background: #efefef;
+          svg {
+            grid-area: icon;
+            justify-self: center;
+            align-self: center;
+            display: flex;
+            height: 22px;
+            border-radius: 4px;
+            background: #fafafa;
+            border: 10px solid #fafafa;
+            box-sizing: content-box;
+            width: 22px;
+          }
+          & > dt,
+          & > dd {
+            padding: 0;
+            margin: 0;
+          }
+          & > dt {
+            grid-area: key;
+            font-size: 14px;
+          }
+          & > dd {
+            grid-area: value;
+            font-size: 18px;
+            font-weight: 500;
+          }
+        }
+      }
+      .features ul {
+        list-style-type: none;
+        padding-left: 0;
+        li {
+          padding-left: 40px;
+          padding-bottom: 8px;
+          position: relative;
+          &::before {
+            content: "";
+            width: 24px;
+            height: 24px;
+            display: block;
+            background-image: url("/assets/icons/tick.svg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-color: #e1f1f6;
+            border-radius: 100%;
+            position: absolute;
+            left: 0;
+            top: 0;
+          }
+        }
+      }
     }
   }
   &.products,
@@ -772,6 +838,7 @@ body.horizontal-nav main {
         width: auto;
         object-fit: contain;
         transition: all 0.3s ease;
+        align-content: center;
       }
     }
   }
@@ -1165,5 +1232,13 @@ div.fun-pro-item {
   #tabs {
     @include card;
     background: white;
+
+    .tab {
+      border-bottom: 2px solid transparent;
+      transition: border-color 0.3s ease-in-out;
+      &.active {
+        border-bottom-color: #009dd7;
+      }
+    }
   }
 }
