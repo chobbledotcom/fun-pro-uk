@@ -109,16 +109,13 @@
   --font-family-body: "DM Sans", var(--font-family-body);
   --border: 1px solid #babbbc;
   --border-radius: 8px;
+  --border-radius-small: 8px;
 }
 
 h1,
 h2,
 h3 {
   font-weight: 500;
-}
-
-.image-link {
-  aspect-ratio: 3/2;
 }
 
 article#content {
@@ -262,6 +259,18 @@ body {
   &.item {
     article#content {
       background: #fafafa;
+
+      @media screen and (min-width: 769px) {
+        .current-image {
+          margin-bottom: 16px;
+        }
+        ul.image-gallery {
+          gap: 16px;
+          li {
+            width: calc((100% - 32px) / 3);
+          }
+        }
+      }
 
       .specs dl {
         display: grid;
