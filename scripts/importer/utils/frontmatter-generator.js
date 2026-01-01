@@ -553,6 +553,24 @@ eleventyNavigation:
 };
 
 /**
+ * Find a location thumbnail image if it exists
+ * @param {string} town - The town slug (e.g., 'birmingham')
+ * @returns {string|null} Path to thumbnail image or null if not found
+ */
+const findLocationThumbnail = (town) => {
+  const imagesDir = path.join(config.OUTPUT_BASE, "images", "locations");
+  const extensions = [".png", ".jpg", ".jpeg", ".webp"];
+
+  for (const ext of extensions) {
+    const imagePath = path.join(imagesDir, `${town}${ext}`);
+    if (fs.existsSync(imagePath)) {
+      return `images/locations/${town}${ext}`;
+    }
+  }
+  return null;
+};
+
+/**
  * Generate frontmatter for location content
  * Old URL: /pages/{original-slug}/ (e.g., /pages/corporate-event-hire-birmingham/)
  * New URL: dynamically calculated from file path (e.g., /locations/birmingham/corporate-event-hire/)
@@ -594,6 +612,14 @@ meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
     frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
   }
 
+  // For root location pages (slug equals town name), add thumbnail if available
+  if (town && !strippedSlug) {
+    const thumbnail = findLocationThumbnail(town);
+    if (thumbnail) {
+      frontmatter += `\nthumbnail: "${thumbnail}"`;
+    }
+  }
+
   frontmatter += "\n---";
 
   // If town info provided, return object with custom filename in subfolder
@@ -605,24 +631,6 @@ meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
   }
 
   return frontmatter;
-};
-
-/**
- * Find a location thumbnail image if it exists
- * @param {string} town - The town slug (e.g., 'birmingham')
- * @returns {string|null} Path to thumbnail image or null if not found
- */
-const findLocationThumbnail = (town) => {
-  const imagesDir = path.join(config.OUTPUT_BASE, "images", "locations");
-  const extensions = [".png", ".jpg", ".jpeg", ".webp"];
-
-  for (const ext of extensions) {
-    const imagePath = path.join(imagesDir, `${town}${ext}`);
-    if (fs.existsSync(imagePath)) {
-      return `images/locations/${town}${ext}`;
-    }
-  }
-  return null;
 };
 
 /**
