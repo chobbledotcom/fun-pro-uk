@@ -45,8 +45,6 @@ The best freshers entertainment hire provides multiple participation levels. Som
 
 ## Top Interactive Game Categories for Freshers Week Success
 
-![](/images/news/cornhole-game.jpg)
-
 Understanding which types of games work best for student events requires considering both the practical realities of university venues and the diverse preferences of your audience. Here's how to choose entertainment that delivers maximum impact for your freshers week programme.
 
 ### Racing Simulators and Action Games
