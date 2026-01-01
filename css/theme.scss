@@ -263,8 +263,7 @@ body {
     article#content {
       background: #fafafa;
 
-      dl {
-        // specs
+      .specs dl {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 8px;
