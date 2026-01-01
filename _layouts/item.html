@@ -56,7 +56,7 @@ layout: base
       {%- include "faq.html" -%}
     </div>
     {%- if specs -%}
-      <dl style="grid-area: big-specs">
+      <dl class="big-specs" style="grid-area: big-specs">
         {%- for spec in specs -%}
           <div>
             <dt>{{ spec.name }}</dt>
@@ -66,7 +66,7 @@ layout: base
       </dl>
     {%- endif -%}
     {%- if features and features.size > 0 -%}
-      <ul style="grid-area: big-features">
+      <ul class="big-features" style="grid-area: big-features">
         {%- for feature in features -%}
           <li>{{ feature }}</li>
         {%- endfor -%}
