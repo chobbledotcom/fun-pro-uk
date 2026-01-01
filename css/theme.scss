@@ -728,7 +728,10 @@ body.horizontal-nav main {
       grid-area: reviews;
     }
   }
+}
 
+.homepage-testimonials,
+body.reviews {
   ul.items {
     display: flex;
     list-style-type: none;
