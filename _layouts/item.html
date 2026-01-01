@@ -18,7 +18,8 @@ layout: base
       'gallery     .'
       'tabs        tabs'
       'reviews     reviews'
-      'faqs        faqs';
+      'faqs        faqs'
+      'big-specs   big-features';
   ">
     <div style="grid-area: breadcrumbs">
       {% include "item-category-links.html" %}
@@ -54,5 +55,23 @@ layout: base
     <div style="grid-area: faqs">
       {%- include "faq.html" -%}
     </div>
+    {%- if specs -%}
+      <dl style="grid-area: big-specs">
+        {%- for spec in specs -%}
+          <div>
+            {{- spec.icon -}}
+            <dt>{{ spec.name }}</dt>
+            <dd>{{ spec.value }}</dd>
+          </div>
+        {%- endfor -%}
+      </dl>
+    {%- endif -%}
+    {%- if features and features.size > 0 -%}
+      <ul style="grid-area: big-features">
+        {%- for feature in features -%}
+          <li>{{ feature }}</li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
   </div>
 </div>
