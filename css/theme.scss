@@ -733,15 +733,33 @@ body.horizontal-nav main {
     display: flex;
     list-style-type: none;
     padding: 0;
-    gap: 32px;
+    gap: 16px;
     flex-direction: row;
     li {
       @include card;
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
       gap: 16px;
-      width: 270px;
+      width: 340px;
+      display: grid;
+      grid-template-areas: "rating" "content" "name" "avatar";
+
+      & > .rating {
+        grid-area: rating;
+      }
+      & > .name {
+        grid-area: name;
+        font-weight: 500;
+      }
+      & > blockquote {
+        grid-area: content;
+        text-align: left;
+      }
+      & > img {
+        grid-area: avatar;
+        border-radius: 100%;
+        width: 40px;
+        border: 2px solid white;
+      }
+
       & > * {
         padding: 0;
         margin: 0;
