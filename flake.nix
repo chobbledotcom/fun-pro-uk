@@ -20,7 +20,9 @@
           };
           bunScripts = pkgs.symlinkJoin {
             name = "bun-scripts";
-            paths = map (cmd: pkgs.writeShellScriptBin cmd scriptCommands.${cmd}) (builtins.attrNames scriptCommands);
+            paths = map (cmd: pkgs.writeShellScriptBin cmd scriptCommands.${cmd}) (
+              builtins.attrNames scriptCommands
+            );
           };
         in
         pkgs.mkShell {
@@ -31,6 +33,9 @@
             pkgs.pandoc
             pkgs.imagemagick
             pkgs.mozjpeg
+            pkgs.biome
+            pkgs.vips
+            pkgs.stdenv.cc.cc.lib
           ];
           shellHook = ''
             cat <<EOF
@@ -48,8 +53,11 @@
 
             EOF
 
+            export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
+
             nix flake update
             git pull
+            bun install
           '';
         };
     };
