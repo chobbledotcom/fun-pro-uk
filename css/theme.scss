@@ -313,7 +313,8 @@ body {
           }
         }
       }
-      .features ul {
+      .features ul,
+      ul.big-features {
         list-style-type: none;
         padding-left: 0;
         li {
@@ -339,6 +340,8 @@ body {
       .big-specs {
         background-color: #009dd7;
         color: white;
+        padding: 64px 32px;
+        line-height: 32px;
         & > div {
           display: flex;
           flex-direction: row;
@@ -348,7 +351,14 @@ body {
             padding: 0;
             margin: 0;
           }
+          & > dd {
+            text-align: right;
+          }
         }
+      }
+      .big-features {
+        padding: 64px 32px;
+        line-height: 32px;
       }
     }
   }
