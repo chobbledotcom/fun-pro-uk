@@ -21,6 +21,12 @@ specs:
     value: "1 x 500 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mmm Width x 1200mm Depth x 2000mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -109,6 +115,12 @@ tabs:
       
       Each hire includes a friendly operator to guide your guests through the features, ensuring they make the most of this interactive experience. Let us bring the wow factor to your event and leave a lasting impression on your attendees! 💼✨
       
+      **3 Hour hire from**
+      
+      **4 Hour hire from**
+      
+      **£495**\+ vat**
+      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -126,6 +138,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

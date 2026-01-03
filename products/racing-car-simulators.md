@@ -21,6 +21,12 @@ specs:
     value: "1 x mains UK power socket Per car (Wattage usage 85-150 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "630mm Width x 1200mm Depth x 1240mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -129,6 +135,68 @@ tabs:
       
       **Hire between 1 and 4 cars simulators**
       
+      **Hire from**
+      
+      **1 car**
+      
+      **2 day hire from**
+      
+      **1 car**
+      
+      **3 day hire from**
+      
+      **1 car**
+      
+      **7 day hire from**
+      
+      **1 car**
+      
+      **Hire from**
+      
+      **2 cars**
+      
+      **£525**\+ vat**
+      
+      **2 day hire from**
+      
+      **2 cars**
+      
+      **£845**\+ vat**
+      
+      **3 day hire from**
+      
+      **2 cars**
+      
+      **£1050**\+ vat**
+      
+      **7 day hire from**
+      
+      **2 cars**
+      
+      **£1595**\+ vat**
+      
+      **Hire from**
+      
+      **4 cars**
+      
+      **2 day hire from**
+      
+      **4 cars**
+      
+      **£1450**\+ vat**
+      
+      **3 day hire from**
+      
+      **4 cars**
+      
+      **£1650**\+ vat**
+      
+      **7 day hire from**
+      
+      **4 cars**
+      
+      **£2050**\+ vat**
+      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -142,6 +210,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

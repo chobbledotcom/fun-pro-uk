@@ -203,42 +203,57 @@ const extractMultiDayPrices = (htmlContent) => {
 };
 
 /**
+ * Helper to extract a spec value from HTML table
+ * @param {string} htmlContent - HTML content
+ * @param {RegExp} labelPattern - Pattern to match the label cell
+ * @returns {string|null} Extracted and cleaned value or null
+ */
+const extractSpecValue = (htmlContent, labelPattern) => {
+  const match = htmlContent.match(labelPattern);
+  if (match) {
+    const value = match[1]
+      .replace(/<[^>]+>/g, '')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return value || null;
+  }
+  return null;
+};
+
+/**
  * Extract specifications from HTML specification tables
  * Looks for tables with "Space required", "Electric requirements", etc.
  * @param {string} htmlContent - HTML content to extract specs from
- * @returns {Object} Object with space_required, power, players, setup_time
+ * @returns {Object} Object with space_required, power, players, setup_time, equipment_size, suitability, access
  */
 const extractSpecs = (htmlContent) => {
   const specs = {};
 
   // Extract Space Required from spec table
-  // Format: <td>Space required</td><td>value</td>
-  const spaceMatch = htmlContent.match(/<td[^>]*>[\s\S]*?<strong>Space required<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
-  if (spaceMatch) {
-    // Clean up the value - remove HTML tags and normalize whitespace
-    const value = spaceMatch[1]
-      .replace(/<[^>]+>/g, '')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-    if (value) {
-      specs.space_required = value;
-    }
-  }
+  const spaceValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Space required<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (spaceValue) specs.space_required = spaceValue;
 
   // Extract Electric/Power requirements from spec table
-  // Handles "Electric requirements", "Power", "Power required" etc.
-  const powerMatch = htmlContent.match(/<td[^>]*>[\s\S]*?<strong>(?:Electric requirements?|Power(?:\s+required)?)<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
-  if (powerMatch) {
-    const value = powerMatch[1]
-      .replace(/<[^>]+>/g, '')
-      .replace(/&nbsp;/g, ' ')
-      .replace(/\s+/g, ' ')
-      .trim();
-    if (value) {
-      specs.power = value;
-    }
-  }
+  const powerValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>(?:Electric requirements?|Power(?:\s+required)?)<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (powerValue) specs.power = powerValue;
+
+  // Extract Equipment size from spec table
+  const equipmentValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Equipment size<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (equipmentValue) specs.equipment_size = equipmentValue;
+
+  // Extract Suitability from spec table
+  const suitabilityValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Suitability<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (suitabilityValue) specs.suitability = suitabilityValue;
+
+  // Extract Access from spec table
+  const accessValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Access<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (accessValue) specs.access = accessValue;
 
   // Extract Players from description text
   // Patterns like "2-8 players", "1-2 players", "4 players"

@@ -232,23 +232,55 @@ const stripFAQSection = (content, faqs = []) => {
 };
 
 /**
+ * Escape special regex characters in a string
+ * @param {string} str - String to escape
+ * @returns {string} Escaped string safe for use in regex
+ */
+const escapeRegex = (str) => {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+};
+
+/**
  * Strip hire prices section from markdown content
- * Removes the "Hire Prices:" heading and all following price lines until next section
+ * Only removes content that exactly matches extracted prices
  * @param {string} content - Markdown content
+ * @param {Object} multiDayPrices - Extracted prices (price_2_days, price_3_days, etc.)
+ * @param {string} basePrice - Base price (e.g., "£395")
  * @returns {string} Content with hire prices section removed
  */
-const stripHirePricesSection = (content) => {
-  // Pattern matches "**Hire Prices**" or "**Hire Prices:**" or "### **Hire Prices**" etc.
-  // Then captures everything until the next major section indicator
-  // Major sections: ## heading, **Specification**, "Delivered", "As a nationwide", "Need a longer"
-  const hirePricesPattern = /(?:^|\n)(?:#{2,3}\s*)?\*{0,2}Hire Prices:?\*{0,2}\s*\n[\s\S]*?(?=\n(?:#{2,3}[^#]|\*{0,2}Specification\*{0,2}|Delivered|As a nationwide|We offer delivery|Need a longer|\*{0,2}Equipment size\*{0,2})|\n\n\n|$)/gi;
+const stripHirePricesSection = (content, multiDayPrices = {}, basePrice = '') => {
+  // Collect all price values we extracted
+  const extractedPrices = [];
+  if (basePrice) {
+    const numericBase = basePrice.replace(/[^0-9]/g, '');
+    if (numericBase) extractedPrices.push(numericBase);
+  }
+  for (const key of Object.keys(multiDayPrices)) {
+    const numericPrice = multiDayPrices[key].replace(/[^0-9]/g, '');
+    if (numericPrice) extractedPrices.push(numericPrice);
+  }
 
-  content = content.replace(hirePricesPattern, '\n');
+  if (extractedPrices.length === 0) {
+    return content;
+  }
 
-  // Also remove standalone price lines that might be outside the main block
-  // Pattern: **1 day Hire from** or **Hire from** followed by price
-  content = content.replace(/^\*{0,2}(?:\d+\s*day\s*)?Hire\s*from\*{0,2}\s*\n\n?\*{0,2}£[\d,]+\*{0,2}.*$/gim, '');
-  content = content.replace(/^\*{0,2}\d+\s*day\s*hire\s*(?:from)?\*{0,2}\s*\n\n?\*{0,2}£[\d,]+\*{0,2}.*$/gim, '');
+  // Remove "Hire Prices" heading
+  content = content.replace(/^(?:#{2,3}\s*)?\*{0,2}Hire Prices:?\*{0,2}\s*$/gim, '');
+
+  // Remove price labels and their values only if we extracted that price
+  // Pattern: **X day hire from** or **Hire from** followed by the exact price
+  for (const price of extractedPrices) {
+    // Match "Hire from" or "X day hire from" followed by the exact £price
+    const pricePattern = new RegExp(
+      `^\\*{0,2}(?:\\d+\\s*day\\s*)?[Hh]ire\\s*(?:from)?\\*{0,2}\\s*\\n\\n?\\*{0,2}£${price}\\*{0,2}.*$`,
+      'gim'
+    );
+    content = content.replace(pricePattern, '');
+
+    // Also match just the price line with + vat
+    const justPricePattern = new RegExp(`^\\*{0,2}£${price}\\*{0,2}.*\\+\\s*vat.*$`, 'gim');
+    content = content.replace(justPricePattern, '');
+  }
 
   // Clean up multiple blank lines
   return content.replace(/\n{3,}/g, '\n\n');
@@ -256,34 +288,52 @@ const stripHirePricesSection = (content) => {
 
 /**
  * Strip specification section from markdown content
- * Removes the "Specification" heading and all spec rows until next section
+ * Only removes content that exactly matches extracted specs
  * @param {string} content - Markdown content
+ * @param {Object} specs - Extracted specs (space_required, power, equipment_size, etc.)
  * @returns {string} Content with specification section removed
  */
-const stripSpecificationSection = (content) => {
-  // Pattern matches "**Specification**" or "### **Specification**" heading and the table that follows
-  // Table rows are like: **Equipment size** \n value \n **Space required** \n value
-  // Continues until we hit a different section (##, FAQ, email/phone, or end)
-  const specPattern = /(?:^|\n)(?:#{2,3}\s*)?\*{0,2}Specification\*{0,2}\s*\n[\s\S]*?(?=\n(?:#{2,3}[^#]|[*_]*(?:FAQ|Frequently Asked)|(?:\[?\*{0,2}Email|\*{0,2}For all enquiries|Can not be carried))|\n\n\n|$)/gi;
+const stripSpecificationSection = (content, specs = {}) => {
+  // Map of spec keys to their markdown labels
+  const specLabelMap = {
+    equipment_size: 'Equipment size',
+    space_required: 'Space required',
+    power: 'Electric requirements',
+    suitability: 'Suitability',
+    access: 'Access'
+  };
 
-  content = content.replace(specPattern, '\n');
+  // Only proceed if we have extracted specs
+  const extractedSpecs = Object.entries(specs).filter(([key, value]) =>
+    value && specLabelMap[key]
+  );
 
-  // Also remove any remaining spec table rows that might be orphaned
-  // These appear as **Label** followed by value on next line
-  const specLabels = [
-    'Equipment size',
-    'Space required',
-    'Electric requirements',
-    'Suitability',
-    'Access',
-    'Extra information',
-    'Power'
-  ];
+  if (extractedSpecs.length === 0) {
+    return content;
+  }
 
-  for (const label of specLabels) {
-    // Match **Label** followed by any value lines until next **Label** or section break
-    const labelPattern = new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s*\\n[\\s\\S]*?(?=\\n\\*{0,2}(?:${specLabels.join('|')}|Specification|FAQ)|\\n\\n##|\\n\\n\\n|$)`, 'gim');
-    content = content.replace(labelPattern, '');
+  // Remove "Specification" heading only if we're removing spec content
+  content = content.replace(/^(?:#{2,3}\s*)?\*{0,2}Specification\*{0,2}\s*$/gim, '');
+
+  // Remove each spec label and its exact value
+  for (const [key, value] of extractedSpecs) {
+    const label = specLabelMap[key];
+    const escapedValue = escapeRegex(value);
+
+    // Match **Label** followed by the exact value (possibly on next line)
+    // Handle both inline and multi-line formats
+    const patterns = [
+      // **Label** on one line, value on next
+      new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s*\\n\\n?${escapedValue}\\s*$`, 'gim'),
+      // **Label** and value on same line
+      new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s+${escapedValue}\\s*$`, 'gim'),
+      // Just the value line if it matches exactly
+      new RegExp(`^${escapedValue}\\s*$`, 'gim')
+    ];
+
+    for (const pattern of patterns) {
+      content = content.replace(pattern, '');
+    }
   }
 
   // Clean up multiple blank lines

@@ -21,6 +21,12 @@ specs:
     value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -86,6 +92,12 @@ tabs:
       ✓ [Family gatherings](http://)  
         
       ...and more!
+      
+      **Equipment size**
+      
+      1100mm Length x 900mm Depth
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

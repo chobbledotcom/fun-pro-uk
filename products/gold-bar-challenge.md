@@ -21,6 +21,12 @@ specs:
     value: "None"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "455mm Width x 455mm Depth 1400 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -112,6 +118,8 @@ tabs:
       #### Nationwide Hire
       
       Available for both short-term and long-term events across the UK. Whether you're hosting a one-day exhibition or a week-long promotional campaign, the Gold Bar Challenge is ready to make your event shine.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

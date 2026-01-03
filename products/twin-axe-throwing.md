@@ -21,6 +21,12 @@ specs:
     value: "1 x UK power socket"
   - name: "Setup time"
     value: "30 minutes"
+  - name: "Equipment Size"
+    value: "3m x 5.1m x 2.95m (L x W x H)"
+  - name: "Suitability"
+    value: "Indoor or outdoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -115,6 +121,10 @@ tabs:
       *   Dedicated event support
       
       **Check our Axe throwing specifications:**
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
       
       ## Other Interactive Games
       

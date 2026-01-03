@@ -21,6 +21,12 @@ specs:
     value: "1 x UK power socket (Game wattage usage 70-80 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1210mm Width x 2140mm Depth 850mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -127,6 +133,10 @@ tabs:
       …and more!  
       
       **Check our air hockey table specifications:**
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
       

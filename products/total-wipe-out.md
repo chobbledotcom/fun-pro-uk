@@ -21,6 +21,12 @@ specs:
     value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "6400mm Width x 6400mm Depth 2000 Height"
+  - name: "Suitability"
+    value: "Indoor or outdoor use, only Level surface"
+  - name: "Access"
+    value: "Drive on access"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -51,6 +57,12 @@ tabs:
       
       ## **Total Wipeout Game Hire**
       
+      **3 hour hire from**
+      
+      **4 hour hire from**
+      
+      **£550**\+ vat**
+      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -64,6 +76,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

@@ -21,6 +21,12 @@ specs:
     value: "1 x UK power socket (Game wattage usage 4-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "650mm Width x 500mm Depth 2150mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -112,6 +118,18 @@ tabs:
         
       [Contact us](/contact-fun-pro-uk/#content) for a detailed quote.
       
+      When you hire Electronic Dart Board from Fun Pro, the following is included:
+      
+      UK-wide delivery and collection\*
+      
+      Installation and set up by our trained team
+      
+      Customisation to match your brand
+      
+      \*Delivery fees may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
       ## Electronic vs Traditional Dartboards
       
       Electronic dart boards offer venue-safe soft tips (no wall damage), automatic scoring (no mathematics required), and beginner-friendly gameplay with guided instructions. They suit corporate events, exhibitions, and diverse audiences.
@@ -133,6 +151,10 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
       
       Lift required
       

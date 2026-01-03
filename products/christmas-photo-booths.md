@@ -21,6 +21,12 @@ specs:
     value: "1 UK power socket (Booth wattage usage 110-140 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2200mm Width x 1200mm Depth x 2005mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -107,6 +113,10 @@ tabs:
       
       ### Christmas Photo Booth Specifications
       
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
       Lift required
       
       ## Packages and Pricing
@@ -114,8 +124,6 @@ tabs:
       Choose the Christmas photo booth hire package that suits your event needs and budgets.
       
       **3 hour hire from**
-      
-      **£450**\+ vat**
       
       **4 hour hire from**
       

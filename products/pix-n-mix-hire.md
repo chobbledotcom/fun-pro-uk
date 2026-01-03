@@ -21,6 +21,12 @@ specs:
     value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1000mm Width x 500mm Depth x 1300 Height"
+  - name: "Suitability"
+    value: "Indoor or outdoor use/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -97,6 +103,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

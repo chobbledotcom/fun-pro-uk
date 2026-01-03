@@ -21,6 +21,12 @@ specs:
     value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1210mm Width x 350mm Depth 1500 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -86,9 +92,18 @@ tabs:
         
       ... and more!
       
+      **Extra information**
+      
       Can not be carried up or down flights of stairs.
       
       Lift required
+      
+      All packages include setup and removal by our professional events team, ensuring the Christmas Candy Cane Mega Wire game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
+      
+      You can rest assured that the Candy Cane Mega Wire and other equipment will arrive in perfect condition, and ready for use at your event.
+      
+      In-house branding available. We print, apply, and remove them after each event.  
+      (One time use only)
       
       Need a longer hire period? Contact us for custom pricing and availability.
       

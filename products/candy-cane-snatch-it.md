@@ -21,6 +21,12 @@ specs:
     value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -79,6 +85,12 @@ tabs:
       The Candy Cane Snatch It game is one of the best festive party games you'll ever play. Just place your hands over the start buttons, and wait for the cue to snatch the prize. When you see the candy cane cylinder light up, the race to see who can snatch it first begins!  
         
       Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.  
+      
+      **Equipment size**
+      
+      1200mm Width x 600mm Depth 900 Height
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

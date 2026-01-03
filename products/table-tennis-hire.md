@@ -21,6 +21,12 @@ specs:
     value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1520mm Width x 2740mm Depth x 760mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -151,6 +157,8 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our table tennis table specifications:
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

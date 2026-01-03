@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -48,6 +54,8 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## **Large Event castle hire**
+      
+      **4 hour hire from**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       

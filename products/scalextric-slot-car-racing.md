@@ -21,6 +21,12 @@ specs:
     value: "1 x UK power socket (Game wattage usage 30 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mm Width x 2400mm Length x 90mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -118,6 +124,14 @@ tabs:
       
       Our team of professionals will take care of the logistics for you. Booking and delivery is easy and stress-free. We can also be onsite at your request to help with the Scalextric slot cars during the event, and ensure that everything goes off without a single hitch.
       
+      All packages include delivery, setup, and removal by our professional team.
+      
+      You can rest assured that the scalextric slot car racing hire and other equipment will arrive in top condition, and ready-for-use at your event.
+      
+      In-house [exhibition game branding service](/categories/branded-exhibition-games/#content) is available. We will print, apply, and remove them after each event.
+      
+      (One time use only)
+      
       Need a longer hire period?
       
       [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
@@ -133,6 +147,8 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our Scalextric Slot Car Racing specifications:
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

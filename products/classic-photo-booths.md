@@ -21,6 +21,12 @@ specs:
     value: "1 UK power socket (Booth wattage usage 110-140 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2200mm Width x 1200mm Depth x 2005mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -51,6 +57,12 @@ tabs:
       
       Adding a photo booth to your corporate event is a sound investment, because not only does it give your guests something to remember your event and your company by, it also give your PR team loads of great shots to use in future publicity.
       
+      **3 hour hire from**
+      
+      **4 hour hire from**
+      
+      **£495**\+ vat**
+      
       Delivered and installed on site by our trained team
       
       In[\-](#specification)house branding available Printed[,](#specification) applied & removed after each event
@@ -68,6 +80,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

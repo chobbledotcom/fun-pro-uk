@@ -21,6 +21,12 @@ specs:
     value: "1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -90,6 +96,18 @@ tabs:
       
       Whether it’s your company’s end-of-year celebration or a festive brand activation, **Batak Lite hire** brings laughter, energy, and a touch of sparkle to any event.
       
+      When you hire Batak Lite from Fun Pro, the following is included:
+      
+      UK-wide delivery and collection\*
+      
+      Installation and set up by our trained team
+      
+      Customisation to match your brand
+      
+      \*Delivery fees may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
       ## 🎄 **What Is Batak Lite?**
       
       Batak Lite is the compact and portable version of our full-sized Batak Pro — ideal for venues big or small! With its **bright, illuminated targets** and **fast-paced gameplay**, players race against the clock to hit as many lights as they can.
@@ -123,6 +141,12 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Equipment size**
+      
+      1200mm Width x 950mm Depth 1800 Height
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

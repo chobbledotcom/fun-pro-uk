@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"

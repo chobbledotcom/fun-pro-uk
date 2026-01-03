@@ -21,6 +21,12 @@ specs:
     value: "1 x UK power socket (Game wattage usage 4-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1700mm Width x 900mm Depth 2000mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -113,6 +119,18 @@ tabs:
       
       We make [interactive game hire](/categories/interactive-game-hire/#content) as seamless as possible, providing everything you need for an unforgettable experience.
       
+      When you hire Batak Pro from Fun Pro, you get:
+      
+      UK-wide delivery and collection\*
+      
+      Complete installation and setup by our trained professionals
+      
+      Custom branding options to showcase your company identity
+      
+      \*Delivery fees may apply.
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
       We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
@@ -120,6 +138,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

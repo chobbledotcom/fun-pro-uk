@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -64,6 +70,12 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## Corn Hole – The Ultimate Team Game for Corporate & Private Events
+      
+      **Hire from**
+      
+      **£**295**
+      
+      -,Branding%20prices,-Front%20panel%20branding)
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -180,5 +192,55 @@ tabs:
       **Game Specifications:**
       
       **Feature**
+      
+      **Board Dimensions**
+      
+      120cm x 90cm x 30cm
+      
+      **Board Material**
+      
+      Premium safety plastic with non-slip base
+      
+      **Board Weight**
+      
+      11kg per board
+      
+      **Bean Bag Size**
+      
+      15cm x 15cm
+      
+      **Bean Bag Weight**
+      
+      450g each (competition standard
+      
+      **Bean Bag Material**
+      
+      Durable duck cloth with food-grade corn filling
+      
+      **Setup Time**
+      
+      5-10 minutes
+      
+      **Participants**
+      
+      2-8 players per set (expandable with additional sets)
+      
+      **Power Requirements**
+      
+      None (standard setup)
+      
+      **Staffing**
+      
+      Optional (self-explanatory game, but staff available)
+      
+      **Branding prices**
+      
+      In-house branding available. We print, apply, and remove them after each event.
+      
+      (One time use only)
+      
+      **Front panel branding Per unit**
+      
+      **£110**\+ vat**
 ---
 

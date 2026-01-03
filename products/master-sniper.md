@@ -21,6 +21,12 @@ specs:
     value: "1 X Mains power socket 2700w"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6M"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -53,6 +59,10 @@ tabs:
       
       🕶️ **Play Master Sniper today and discover the most addictive precision-shooting arcade game on the market!**
       
+      Prices from
+      
+      If more days are required please contact us.
+      
       Delivered and installed on site by our trained team
       
       In[\-](/products/prize-crane-arcade-grabber/#content)house branding available Printed[,](/products/prize-crane-arcade-grabber/#content) applied & removed after each event
@@ -72,6 +82,10 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       **Master Sniper Sizes**
+      
+      **EQUIPMENT SIZE**
+      
+      Length 2420mm - Width 1370mm - Height 2490mm
       
       **USER**
       

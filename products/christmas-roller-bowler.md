@@ -21,6 +21,12 @@ specs:
     value: "None - completely mechanical game"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor/Outdoor - Dry weather only"
+  - name: "Access"
+    value: "Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -210,6 +216,20 @@ tabs:
       
       ## 📏 Game Specifications
       
+      Details
+      
+      Equipment Size
+      
+      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
+      
+      Power
+      
+      None – fully mechanical
+      
+      Suitability
+      
+      Indoor/Outdoor (dry weather only)
+      
       ## 🤝 Trusted by Leading Brands
       
       We’re proud to have delivered entertainment experiences for leading UK organisations, including:
@@ -261,5 +281,15 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       ### Roller Bowler specifications:
+      
+      **Details**
+      
+      **Equipment size (Standard)**
+      
+      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
+      
+      **Extra information**
+      
+      Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
 ---
 

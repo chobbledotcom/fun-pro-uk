@@ -21,6 +21,12 @@ specs:
     value: "None required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1000mm Width x 1000mm Depth x 1900mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -80,6 +86,10 @@ tabs:
       
       With delivery available in Birmingham, London, Nottingham, Milton Keynes, Manchester, Northampton, Telford, and more, our Prize Wheel hire service is here to make your event unforgettable. Add a touch of fun and excitement that will have guests lining up for a spin!
       
+      **Hire from**
+      
+      **£**395**\+ vat**
+      
       Delivered and installed on site by our trained team
       
       In-house branding available Printed, applied & removed after each event
@@ -97,6 +107,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

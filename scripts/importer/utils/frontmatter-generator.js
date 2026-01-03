@@ -326,6 +326,9 @@ const generateProductFrontmatter = (
   const spaceValue = specs.space_required || "TBD";
   const powerValue = specs.power || "TBD";
   const setupValue = specs.setup_time || "TBD";
+  const equipmentValue = specs.equipment_size || "TBD";
+  const suitabilityValue = specs.suitability || "TBD";
+  const accessValue = specs.access || "TBD";
 
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
@@ -351,6 +354,12 @@ specs:
     value: "${powerValue}"
   - name: "Setup time"
     value: "${setupValue}"
+  - name: "Equipment Size"
+    value: "${equipmentValue}"
+  - name: "Suitability"
+    value: "${suitabilityValue}"
+  - name: "Access"
+    value: "${accessValue}"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"

@@ -189,10 +189,10 @@ const { convertSingle, convertBatch } = createConverter({
     content = stripBlogFooterCruft(content);
 
     // Strip hire prices section (now in frontmatter options)
-    content = stripHirePricesSection(content);
+    content = stripHirePricesSection(content, extracted.multiDayPrices, extracted.price);
 
     // Strip specification section (now in frontmatter specs)
-    content = stripSpecificationSection(content);
+    content = stripSpecificationSection(content, extracted.specs);
 
     // Store the body content for inclusion as a tab in frontmatter
     extracted.bodyContent = content;

@@ -21,6 +21,12 @@ specs:
     value: "None required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1900mm long x 600mm wide"
+  - name: "Suitability"
+    value: "Indoor or outside use"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -103,6 +109,10 @@ tabs:
       **Space require**
       
       2000mm Long x 700mm wide
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
 ---

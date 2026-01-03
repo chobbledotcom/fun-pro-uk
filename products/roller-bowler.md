@@ -21,6 +21,12 @@ specs:
     value: "None - completely mechanical game"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor/Outdoor - Dry weather only"
+  - name: "Access"
+    value: "Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -145,6 +151,16 @@ tabs:
       ## Game Specifications
       
       ### Roller Bowler specifications:
+      
+      **Details**
+      
+      **Equipment size (Standard)**
+      
+      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
+      
+      **Extra information**
+      
+      Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
       
       ## Brands That Trust Fun Pro UK
       

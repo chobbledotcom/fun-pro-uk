@@ -21,6 +21,12 @@ specs:
     value: "3 x 800 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2800mm Width x 21400mm Depth x 3350mm Height"
+  - name: "Suitability"
+    value: "Indoor or outdoor use/Level surface"
+  - name: "Access"
+    value: "Drive on access only"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -83,6 +89,8 @@ tabs:
       
       Ready to bring a touch of adventure to your next fun day? Contact us today to book our **Inflatable Assault Courses** for hire in your desired location!
       
+      **4 Hour hire from**
+      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -140,6 +148,8 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

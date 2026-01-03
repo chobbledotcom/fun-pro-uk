@@ -21,6 +21,12 @@ specs:
     value: "1 x UK mains socket (Game wattage usage 5-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1460mm Width x 1460mm Depth x 2004mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -150,6 +156,8 @@ tabs:
       ## Game Specifications
       
       Ring Reaction specifications:
+      
+      **Extra information**
       
       Can not be carried up or down flights of stairs.
       
