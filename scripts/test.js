@@ -5,7 +5,7 @@ prep({ includeTests: true });
 
 console.log("\nRunning tests...");
 try {
-	execSync("pnpm run test", { cwd: dev, stdio: "inherit" });
+	execSync("bun test", { cwd: dev, stdio: "inherit" });
 	console.log("\n✓ All tests passed!");
 } catch (err) {
 	console.error("\n✗ Tests failed.");
