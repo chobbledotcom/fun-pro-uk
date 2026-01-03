@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "700mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 500 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Virtual Pinball"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1445"
 redirect_from:
   - "/category/exhibition-games/77/virtual-pinball/"
 gallery:

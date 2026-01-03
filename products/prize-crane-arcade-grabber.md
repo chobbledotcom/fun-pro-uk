@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "800mm Width x 1200mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 42-148 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Prize Crane Arcade Grabber"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1495"
 redirect_from:
   - "/category/arcade-games/47/prize-crane-arcade-grabber/"
 gallery:

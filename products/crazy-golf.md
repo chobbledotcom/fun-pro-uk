@@ -18,7 +18,7 @@ specs:
   - name: "Space Required"
     value: "TBD"
   - name: "Power"
-    value: "TBD"
+    value: "None required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Crazy Golf"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1495"
 redirect_from:
   - "/category/fun-days/81/crazy-golf/"
 gallery:

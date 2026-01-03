@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "9800mm Width x 9800mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

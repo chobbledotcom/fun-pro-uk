@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 3000mm Depth, Allowing for the people to stand both ends"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Table Tennis Hire"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£495"
+price_3_days: "£595"
+price_7_days: "£995"
 redirect_from:
   - "/category/corporate-entertainment/80/table-tennis-hire/"
 gallery:

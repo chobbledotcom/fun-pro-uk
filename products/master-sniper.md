@@ -14,11 +14,11 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "Length 2500mm - Width 1400mm - Height 2500mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 X Mains power socket 2700w"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

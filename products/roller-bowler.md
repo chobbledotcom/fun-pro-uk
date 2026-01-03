@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm x 800mm x 1200mm (including player space)"
   - name: "Power"
-    value: "TBD"
+    value: "None - completely mechanical game"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

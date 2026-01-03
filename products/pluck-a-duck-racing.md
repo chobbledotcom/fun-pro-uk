@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1250mm Depth,"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (5 - 7 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "PLUCK A DUCK RACING"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£645"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/8/pluck-a-duck-racing/"
 gallery:

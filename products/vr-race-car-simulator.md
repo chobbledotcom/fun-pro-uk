@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 1400mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket Per car (Wattage usage 85-150 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "VR Race Car Simulator"
     max_quantity: 1
     unit_price: 525
+price_2_days: "£845"
+price_3_days: "£1045"
+price_7_days: "£1545"
 redirect_from:
   - "/category/arcade-games/38/vr-race-car-simulator/"
 gallery:

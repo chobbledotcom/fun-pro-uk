@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm Width x 1900mm Depth x 2000mm"
   - name: "Power"
-    value: "TBD"
+    value: "None required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Giant Deck Chair Hire"
     max_quantity: 1
     unit_price: 195
+price_2_days: "£295"
+price_3_days: "£395"
+price_7_days: "£795"
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"
 gallery:

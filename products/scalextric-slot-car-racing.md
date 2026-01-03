@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 2500mm Length, Allowing for the people to stand in around the game"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 30 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Scalextric Slot Car Racing"
     max_quantity: 1
     unit_price: 695
+price_2_days: "£995"
+price_3_days: "£1295"
+price_7_days: "£1895"
 redirect_from:
   - "/category/christmas-games/88/scalextric-slot-car-racing/"
 gallery:

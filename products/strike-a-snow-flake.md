@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm x 1600mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Strike A Snow Flake"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/christmas-game-hire/91/strike-a-snow-flake/"
 gallery:

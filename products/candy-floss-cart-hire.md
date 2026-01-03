@@ -32,6 +32,9 @@ options:
   - name: "Candy Floss Cart Hire"
     max_quantity: 1
     unit_price: 450
+price_2_days: "£195"
+price_3_days: "£195"
+price_7_days: "£195"
 redirect_from:
   - "/category/fun-foods/92/candy-floss-cart-hire/"
 gallery:

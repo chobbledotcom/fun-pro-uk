@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "7m Width x 5.5M Height,"
   - name: "Power"
-    value: "TBD"
+    value: "1 X MAIN POWER REQUIRED"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

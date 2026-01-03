@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2700mm Width x 2000mm Depth x 2005mm Height"
   - name: "Power"
-    value: "TBD"
+    value: "1 UK power socket (Booth wattage usage 110-140 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

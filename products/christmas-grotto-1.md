@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "9.1m x 6m x 4.6m"
   - name: "Power"
-    value: "TBD"
+    value: "4 X 13amp socket"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

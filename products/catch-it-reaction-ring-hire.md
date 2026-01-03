@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm x 1600mm x 2010mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Game wattage usage 5-8 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Catch it Reaction Ring Hire"
     max_quantity: 1
     unit_price: 445
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1495"
 redirect_from:
   - "/category/exhibition-games/94/catch-it-reaction-ring-hire/"
 gallery:

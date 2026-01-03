@@ -32,6 +32,9 @@ options:
   - name: "Giant Jenga Hire"
     max_quantity: 1
     unit_price: 60
+price_2_days: "£110"
+price_3_days: "£160"
+price_7_days: "£240"
 redirect_from:
   - "/category/corporate-entertainment/44/giant-jenga-hire/"
 gallery:

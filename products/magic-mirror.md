@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 2000mm Depth, Allowing for People to stand at the front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 190-210"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1250mm Depth, Allowing for the person to stand ether side"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Snatch It"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£745"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/82/snatch-it/"
 gallery:

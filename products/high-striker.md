@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "800mm Width x 1.600mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "High Striker"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/48/high-striker/"
 gallery:

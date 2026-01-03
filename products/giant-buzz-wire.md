@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "3200mm Width x 1000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "GIANT BUZZ WIRE"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£645"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/interactive-game-hire/9/giant-buzz-wire/"
 gallery:

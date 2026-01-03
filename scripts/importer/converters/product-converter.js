@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
-const { extractPrice, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
+const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
 const { faqPatterns } = require('../utils/html-patterns');
 const { stripFAQSection, hasFAQSection } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
@@ -110,6 +110,8 @@ const { convertSingle, convertBatch } = createConverter({
   contentType: 'product',
   extractors: {
     price: (htmlContent) => extractPrice(htmlContent),
+    multiDayPrices: (htmlContent) => extractMultiDayPrices(htmlContent),
+    specs: (htmlContent) => extractSpecs(htmlContent),
     reviews: (htmlContent) => extractReviews(htmlContent),
     productName: (htmlContent) => extractProductName(htmlContent),
     productHeading: (htmlContent) => extractContentHeading(htmlContent),
@@ -133,6 +135,9 @@ const { convertSingle, convertBatch } = createConverter({
     const faqs = extracted.faqs || [];
     // Pass body content to be included as a tab
     const bodyContent = extracted.bodyContent || '';
+    // Pass multi-day prices and specs
+    const multiDayPrices = extracted.multiDayPrices || {};
+    const specs = extracted.specs || {};
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -144,7 +149,9 @@ const { convertSingle, convertBatch } = createConverter({
       events,
       oldSitePath,
       faqs,
-      bodyContent
+      bodyContent,
+      multiDayPrices,
+      specs
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {

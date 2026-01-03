@@ -32,6 +32,9 @@ options:
   - name: "Play Your Cards Right Stall Hire"
     max_quantity: 1
     unit_price: 450
+price_2_days: "£195"
+price_3_days: "£195"
+price_7_days: "£195"
 redirect_from:
   - "/category/fun-fair-stalls/97/play-your-cards-right-stall-hire/"
 gallery:

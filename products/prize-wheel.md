@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1100mm x 1100mm"
   - name: "Power"
-    value: "TBD"
+    value: "None required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Prize Wheel"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£645"
+price_3_days: "£745"
+price_7_days: "£1145"
 redirect_from:
   - "/category/prize-games/49/prize-wheel/"
 gallery:

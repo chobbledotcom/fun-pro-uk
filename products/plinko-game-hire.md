@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 1000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Plinko Game Hire"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£645"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/68/plinko-game-hire/"
 gallery:

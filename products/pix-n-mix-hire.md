@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1350mm Width x 1250mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Pix N Mix Hire"
     max_quantity: 1
     unit_price: 550
+price_2_days: "£895"
+price_3_days: "£995"
+price_7_days: "£1445"
 redirect_from:
   - "/category/fun-foods/42/pix-n-mix-hire/"
 gallery:

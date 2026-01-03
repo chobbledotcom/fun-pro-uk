@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 3000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 70-80 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Air Hockey Table Hire"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£645"
+price_3_days: "£745"
+price_7_days: "£1145"
 redirect_from:
   - "/category/exhibition-games/60/air-hockey-table-hire/"
 gallery:

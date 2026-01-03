@@ -14,11 +14,11 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm Length x 1000mm Width , Allowing for the persons to stand either end"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "FOOTBALL TABLES"
     max_quantity: 1
     unit_price: 295
+price_2_days: "£495"
+price_3_days: "£595"
+price_7_days: "£995"
 redirect_from:
   - "/category/corporate-entertainment/27/football-tables/"
 gallery:

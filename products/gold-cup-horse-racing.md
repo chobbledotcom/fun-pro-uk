@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2500mm Width x 3500mm Depth, Allowing for 4 people to stand at the front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 5-16 watts"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "GOLD CUP HORSE RACING"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/29/gold-cup-horse-racing/"
 gallery:

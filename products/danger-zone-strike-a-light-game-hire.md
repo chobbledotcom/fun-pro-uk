@@ -14,11 +14,11 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm x 1600mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Danger-zone-strike-a-light-game-hire"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"
 gallery:

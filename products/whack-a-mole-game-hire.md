@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 45-48 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Whack A Mole game hire"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£895"
+price_7_days: "£1345"
 redirect_from:
   - "/category/arcade-games/67/whack-a-mole-game-hire/"
 gallery:

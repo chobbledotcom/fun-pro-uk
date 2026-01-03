@@ -16,7 +16,7 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1800mm x 1800mm x 2200mm"
   - name: "Power"
     value: "TBD"
   - name: "Setup time"
@@ -32,6 +32,9 @@ options:
   - name: "Reindeer Nosenado (Christmas Ballnado Hire )"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1495"
 redirect_from:
   - "/category/christmas-game-hire/65/reindeer-nosenado-christmas-ballnado-hire/"
 gallery:

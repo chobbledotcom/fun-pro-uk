@@ -14,11 +14,11 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 3000mm Depth, Allowing for the person to stand at the front"
   - name: "Power"
-    value: "TBD"
+    value: "N/A"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Shuffleboard Hire"
     max_quantity: 1
     unit_price: 495
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1495"
 redirect_from:
   - "/category/exhibition-games/87/shuffleboard-hire/"
 gallery:

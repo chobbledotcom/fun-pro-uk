@@ -14,11 +14,11 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-8 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "660mm Width x 750mm Depth, 2175mm Height Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 4-8 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

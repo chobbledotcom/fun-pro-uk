@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 22-26)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "RETRO ARCADE GAMES"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£995"
 redirect_from:
   - "/category/arcade-games/4/retro-arcade-games/"
 gallery:

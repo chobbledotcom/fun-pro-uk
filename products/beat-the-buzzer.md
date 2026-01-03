@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "400mm Width x 1300mm Length"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains plug socket required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Beat The Buzzer"
     max_quantity: 1
     unit_price: 350
+price_2_days: "£595"
+price_3_days: "£695"
+price_7_days: "£1095"
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
 gallery:

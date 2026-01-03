@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 1400mm Depth, Allowing for the persons to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 3 pin mains UK power socket (Wattage usage 60-77 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Dance Machine"
     max_quantity: 1
     unit_price: 475
+price_2_days: "£795"
+price_3_days: "£995"
+price_7_days: "£1695"
 redirect_from:
   - "/category/arcade-games/39/dance-machine/"
 gallery:

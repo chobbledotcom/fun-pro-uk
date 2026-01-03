@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door."
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Wattage usage 15 watts)"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "Crack The Code safe cracker"
     max_quantity: 1
     unit_price: 395
+price_2_days: "£695"
+price_3_days: "£795"
+price_7_days: "£1195"
 redirect_from:
   - "/category/exhibition-games/37/crack-the-code-safe-cracker/"
 gallery:

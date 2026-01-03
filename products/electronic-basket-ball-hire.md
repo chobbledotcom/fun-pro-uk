@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 3000mm Depth x 1800 Height, Allowing for the players to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:
@@ -32,6 +32,9 @@ options:
   - name: "ELECTRONIC BASKET BALL HIRE"
     max_quantity: 1
     unit_price: 295
+price_2_days: "£495"
+price_3_days: "£595"
+price_7_days: "£995"
 redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
 gallery:

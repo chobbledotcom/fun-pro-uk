@@ -16,9 +16,9 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door."
   - name: "Power"
-    value: "TBD"
+    value: "None"
   - name: "Setup time"
     value: "TBD"
 filter_attributes:

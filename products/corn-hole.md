@@ -14,9 +14,9 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-8 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "Minimum 2m x 1m playing area"
   - name: "Power"
     value: "TBD"
   - name: "Setup time"

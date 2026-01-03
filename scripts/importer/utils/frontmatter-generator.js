@@ -240,6 +240,8 @@ const formatTabsYaml = (tabs) => {
  * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
  * @param {Array<Object>} faqs - FAQs array with question and answer properties
  * @param {string} bodyContent - Markdown body content to include as a tab
+ * @param {Object} multiDayPrices - Multi-day hire prices (price_2_days, price_3_days, etc.)
+ * @param {Object} specs - Extracted specs (players, space_required, power, setup_time)
  * @returns {string} Frontmatter YAML
  */
 const generateProductFrontmatter = (
@@ -254,6 +256,8 @@ const generateProductFrontmatter = (
   oldSitePath = null,
   faqs = [],
   bodyContent = "",
+  multiDayPrices = {},
+  specs = {},
 ) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories)
@@ -286,6 +290,12 @@ const generateProductFrontmatter = (
     max_quantity: 1
     unit_price: ${numericPrice}`;
 
+  // Use extracted specs or fall back to TBD
+  const playersValue = specs.players || "TBD";
+  const spaceValue = specs.space_required || "TBD";
+  const powerValue = specs.power || "TBD";
+  const setupValue = specs.setup_time || "TBD";
+
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
 title: "${productName || metadata.title || ""}"
@@ -303,13 +313,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "${playersValue}"
   - name: "Space Required"
-    value: "TBD"
+    value: "${spaceValue}"
   - name: "Power"
-    value: "TBD"
+    value: "${powerValue}"
   - name: "Setup time"
-    value: "TBD"
+    value: "${setupValue}"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -318,6 +328,23 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 ${optionsYaml}`;
+
+  // Add multi-day prices if available
+  if (multiDayPrices.price_2_days) {
+    frontmatter += `\nprice_2_days: "${multiDayPrices.price_2_days}"`;
+  }
+  if (multiDayPrices.price_3_days) {
+    frontmatter += `\nprice_3_days: "${multiDayPrices.price_3_days}"`;
+  }
+  if (multiDayPrices.price_4_days) {
+    frontmatter += `\nprice_4_days: "${multiDayPrices.price_4_days}"`;
+  }
+  if (multiDayPrices.price_5_days) {
+    frontmatter += `\nprice_5_days: "${multiDayPrices.price_5_days}"`;
+  }
+  if (multiDayPrices.price_7_days) {
+    frontmatter += `\nprice_7_days: "${multiDayPrices.price_7_days}"`;
+  }
 
   // Add redirect_from for old site URL
   if (oldSitePath) {
