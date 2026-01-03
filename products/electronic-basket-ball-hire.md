@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "ELECTRONIC BASKET BALL HIRE"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
-price_2_days: "£495"
-price_3_days: "£595"
-price_7_days: "£995"
+    days: 1
+  - name: "2 Days"
+    unit_price: 495
+    days: 2
+  - name: "3 Days"
+    unit_price: 595
+    days: 3
+  - name: "7 Days"
+    unit_price: 995
+    days: 7
 redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
 gallery:

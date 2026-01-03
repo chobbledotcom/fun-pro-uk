@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Giant Deck Chair Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 195
-price_2_days: "£295"
-price_3_days: "£395"
-price_7_days: "£795"
+    days: 1
+  - name: "2 Days"
+    unit_price: 295
+    days: 2
+  - name: "3 Days"
+    unit_price: 395
+    days: 3
+  - name: "7 Days"
+    unit_price: 795
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"
 gallery:

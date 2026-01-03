@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Prize Wheel"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
-price_2_days: "£645"
-price_3_days: "£745"
-price_7_days: "£1145"
+    days: 1
+  - name: "2 Days"
+    unit_price: 645
+    days: 2
+  - name: "3 Days"
+    unit_price: 745
+    days: 3
+  - name: "7 Days"
+    unit_price: 1145
+    days: 7
 redirect_from:
   - "/category/prize-games/49/prize-wheel/"
 gallery:

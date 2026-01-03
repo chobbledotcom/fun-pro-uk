@@ -283,12 +283,43 @@ const generateProductFrontmatter = (
   // Parse numeric price from string like "£395" -> 395
   const numericPrice = parseFloat((price || "0").replace(/[^0-9.]/g, "")) || 0;
 
-  // Create a single option with the product name and price
+  // Build options array with multi-day pricing
   const optionName = productName || metadata.title || "";
-  const optionsYaml = `options:
-  - name: "${optionName}"
-    max_quantity: 1
-    unit_price: ${numericPrice}`;
+  const options = [];
+
+  // Add base 1-day option
+  options.push({
+    name: "1 Day",
+    unit_price: numericPrice,
+    days: 1
+  });
+
+  // Add multi-day options if available
+  if (multiDayPrices.price_2_days) {
+    const price2 = parseFloat(multiDayPrices.price_2_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "2 Days", unit_price: price2, days: 2 });
+  }
+  if (multiDayPrices.price_3_days) {
+    const price3 = parseFloat(multiDayPrices.price_3_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "3 Days", unit_price: price3, days: 3 });
+  }
+  if (multiDayPrices.price_4_days) {
+    const price4 = parseFloat(multiDayPrices.price_4_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "4 Days", unit_price: price4, days: 4 });
+  }
+  if (multiDayPrices.price_5_days) {
+    const price5 = parseFloat(multiDayPrices.price_5_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "5 Days", unit_price: price5, days: 5 });
+  }
+  if (multiDayPrices.price_7_days) {
+    const price7 = parseFloat(multiDayPrices.price_7_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "7 Days", unit_price: price7, days: 7 });
+  }
+
+  // Generate options YAML
+  const optionsYaml = options.map(opt =>
+    `  - name: "${opt.name}"\n    unit_price: ${opt.unit_price}\n    days: ${opt.days}`
+  ).join("\n");
 
   // Use extracted specs or fall back to TBD
   const playersValue = specs.players || "TBD";
@@ -327,24 +358,8 @@ filter_attributes:
     value: "TBD"
   - name: "Power Required"
     value: "TBD"
+options:
 ${optionsYaml}`;
-
-  // Add multi-day prices if available
-  if (multiDayPrices.price_2_days) {
-    frontmatter += `\nprice_2_days: "${multiDayPrices.price_2_days}"`;
-  }
-  if (multiDayPrices.price_3_days) {
-    frontmatter += `\nprice_3_days: "${multiDayPrices.price_3_days}"`;
-  }
-  if (multiDayPrices.price_4_days) {
-    frontmatter += `\nprice_4_days: "${multiDayPrices.price_4_days}"`;
-  }
-  if (multiDayPrices.price_5_days) {
-    frontmatter += `\nprice_5_days: "${multiDayPrices.price_5_days}"`;
-  }
-  if (multiDayPrices.price_7_days) {
-    frontmatter += `\nprice_7_days: "${multiDayPrices.price_7_days}"`;
-  }
 
   // Add redirect_from for old site URL
   if (oldSitePath) {

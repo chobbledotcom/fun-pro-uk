@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Table Tennis Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
-price_2_days: "£495"
-price_3_days: "£595"
-price_7_days: "£995"
+    days: 1
+  - name: "2 Days"
+    unit_price: 495
+    days: 2
+  - name: "3 Days"
+    unit_price: 595
+    days: 3
+  - name: "7 Days"
+    unit_price: 995
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/80/table-tennis-hire/"
 gallery:

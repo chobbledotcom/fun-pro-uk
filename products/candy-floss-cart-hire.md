@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Candy Floss Cart Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
-price_2_days: "£195"
-price_3_days: "£195"
-price_7_days: "£195"
+    days: 1
+  - name: "2 Days"
+    unit_price: 195
+    days: 2
+  - name: "3 Days"
+    unit_price: 195
+    days: 3
+  - name: "7 Days"
+    unit_price: 195
+    days: 7
 redirect_from:
   - "/category/fun-foods/92/candy-floss-cart-hire/"
 gallery:

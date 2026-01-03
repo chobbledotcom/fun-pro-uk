@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "8 Lane Reindeer Racing"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 1695
+    days: 1
 redirect_from:
   - "/category/christmas-game-hire/102/8-lane-reindeer-racing/"
 gallery:

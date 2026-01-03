@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Gold Bar Challenge"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 0
+    days: 1
 redirect_from:
   - "/category/exhibition-games/107/gold-bar-challenge/"
 gallery:

@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "TOP DOC OPERATION GAME"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
-price_2_days: "£645"
-price_3_days: "£795"
-price_7_days: "£1195"
+    days: 1
+  - name: "2 Days"
+    unit_price: 645
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/arcade-games/7/top-doc-operation-game/"
 gallery:

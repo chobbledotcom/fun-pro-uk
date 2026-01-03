@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Beat The Buzzer"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 350
-price_2_days: "£595"
-price_3_days: "£695"
-price_7_days: "£1095"
+    days: 1
+  - name: "2 Days"
+    unit_price: 595
+    days: 2
+  - name: "3 Days"
+    unit_price: 695
+    days: 3
+  - name: "7 Days"
+    unit_price: 1095
+    days: 7
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
 gallery:

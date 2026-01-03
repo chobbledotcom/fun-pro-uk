@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Pix N Mix Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 550
-price_2_days: "£895"
-price_3_days: "£995"
-price_7_days: "£1445"
+    days: 1
+  - name: "2 Days"
+    unit_price: 895
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1445
+    days: 7
 redirect_from:
   - "/category/fun-foods/42/pix-n-mix-hire/"
 gallery:

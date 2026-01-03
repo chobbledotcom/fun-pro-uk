@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "LEADER BOARD"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 75
+    days: 1
 redirect_from:
   - "/category/interactive-game-hire/30/leader-board/"
 gallery:

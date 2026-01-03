@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "LARGE BOUNCY CASTLES"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/23/large-bouncy-castles/"
 gallery:

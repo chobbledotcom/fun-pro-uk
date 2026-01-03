@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Batak Lite"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 445
+    days: 1
 redirect_from:
   - "/category/exhibition-games/61/batak-lite/"
 gallery:

@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Crack The Code safe cracker"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
-price_2_days: "£695"
-price_3_days: "£795"
-price_7_days: "£1195"
+    days: 1
+  - name: "2 Days"
+    unit_price: 695
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/exhibition-games/37/crack-the-code-safe-cracker/"
 gallery:

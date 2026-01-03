@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "CHRISTMAS GROTTO 2"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 0
+    days: 1
 redirect_from:
   - "/category/christmas-grotto-hire/18/christmas-grotto-2/"
 gallery:

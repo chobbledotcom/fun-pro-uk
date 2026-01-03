@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "SUPER SLIDES"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
 redirect_from:
   - "/category/fun-days/26/super-slides/"
 gallery:

@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Master Sniper"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 1295
+    days: 1
 redirect_from:
   - "/category/interactive-game-hire/114/master-sniper/"
 gallery_cloudinary:

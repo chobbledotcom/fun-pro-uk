@@ -29,12 +29,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Roll And Bowl Game Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 895
-price_2_days: "£1395"
-price_3_days: "£1795"
-price_7_days: "£2695"
+    days: 1
+  - name: "2 Days"
+    unit_price: 1395
+    days: 2
+  - name: "3 Days"
+    unit_price: 1795
+    days: 3
+  - name: "7 Days"
+    unit_price: 2695
+    days: 7
 redirect_from:
   - "/category/arcade-games/51/roll-and-bowl-game-hire/"
 gallery:

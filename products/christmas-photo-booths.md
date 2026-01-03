@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "CHRISTMAS PHOTO BOOTHS"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/christmas-game-hire/12/christmas-photo-booths/"
 gallery:

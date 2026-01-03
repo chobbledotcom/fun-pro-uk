@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Roller Bowler"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/arcade-games/111/roller-bowler/"
 gallery:

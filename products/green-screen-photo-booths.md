@@ -29,9 +29,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "GREEN SCREEN PHOTO BOOTHS"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"
 gallery:
