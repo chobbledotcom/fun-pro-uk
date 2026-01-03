@@ -18,16 +18,16 @@
             "optimize-images" = "./scripts/optimize-images.sh";
             clean = "rm -rf .build";
           };
-          pnpmScripts = pkgs.symlinkJoin {
-            name = "pnpm-scripts";
+          bunScripts = pkgs.symlinkJoin {
+            name = "bun-scripts";
             paths = map (cmd: pkgs.writeShellScriptBin cmd scriptCommands.${cmd}) (builtins.attrNames scriptCommands);
           };
         in
         pkgs.mkShell {
           buildInputs = [
             pkgs.nodejs_24
-            pkgs.pnpm
-            pnpmScripts
+            pkgs.bun
+            bunScripts
             pkgs.pandoc
             pkgs.imagemagick
             pkgs.mozjpeg

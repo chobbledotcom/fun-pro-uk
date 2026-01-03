@@ -14,7 +14,7 @@ console.log('Building site...');
 fs.rmSync(output, { recursive: true, force: true });
 
 try {
-  execSync('pnpm exec eleventy', { cwd: dev, stdio: 'inherit' });
+  execSync('bun ./node_modules/@11ty/eleventy/cmd.cjs', { cwd: dev, stdio: 'inherit' });
 } catch (err) {
   // Check if _site was actually created despite the error
   if (!fs.existsSync(path.join(dev, '_site'))) {

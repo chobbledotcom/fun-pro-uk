@@ -113,7 +113,7 @@ function prep(options = {}) {
 
 	if (!fs.existsSync(path.join(dev, "node_modules"))) {
 		console.log("Installing dependencies...");
-		execSync("pnpm install", { cwd: dev });
+		execSync("bun install", { cwd: dev });
 	}
 
 	fs.rmSync(path.join(dev, "_site"), { recursive: true, force: true });

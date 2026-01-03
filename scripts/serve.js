@@ -7,7 +7,7 @@ const dev = path.join(__dirname, '..', '.build', 'dev');
 prep();
 
 console.log('Installing dependencies...');
-const install = spawnSync('pnpm', ['install'], {
+const install = spawnSync('bun', ['install'], {
   cwd: dev,
   stdio: 'inherit',
   shell: true
@@ -20,14 +20,14 @@ if (install.status !== 0) {
 
 console.log('Starting server...');
 
-const watch = spawn('node', [path.join(__dirname, 'watch.js')], { 
-  stdio: 'inherit' 
+const watch = spawn('node', [path.join(__dirname, 'watch.js')], {
+  stdio: 'inherit'
 });
 
-const eleventy = spawn('pnpm', ['exec', 'eleventy', '--serve'], { 
-  cwd: dev, 
-  stdio: 'inherit', 
-  shell: true 
+const eleventy = spawn('bun', ['./node_modules/@11ty/eleventy/cmd.cjs', '--serve'], {
+  cwd: dev,
+  stdio: 'inherit',
+  shell: true
 });
 
 process.on('SIGINT', () => {
