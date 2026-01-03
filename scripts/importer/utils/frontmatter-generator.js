@@ -240,6 +240,8 @@ const formatTabsYaml = (tabs) => {
  * @param {string} oldSitePath - Path from old site (e.g., "arcade-games/106/electronic-dart-board.html")
  * @param {Array<Object>} faqs - FAQs array with question and answer properties
  * @param {string} bodyContent - Markdown body content to include as a tab
+ * @param {Object} multiDayPrices - Multi-day hire prices (price_2_days, price_3_days, etc.)
+ * @param {Object} specs - Extracted specs (players, space_required, power, setup_time)
  * @returns {string} Frontmatter YAML
  */
 const generateProductFrontmatter = (
@@ -254,6 +256,8 @@ const generateProductFrontmatter = (
   oldSitePath = null,
   faqs = [],
   bodyContent = "",
+  multiDayPrices = {},
+  specs = {},
 ) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories)
@@ -279,12 +283,52 @@ const generateProductFrontmatter = (
   // Parse numeric price from string like "£395" -> 395
   const numericPrice = parseFloat((price || "0").replace(/[^0-9.]/g, "")) || 0;
 
-  // Create a single option with the product name and price
+  // Build options array with multi-day pricing
   const optionName = productName || metadata.title || "";
-  const optionsYaml = `options:
-  - name: "${optionName}"
-    max_quantity: 1
-    unit_price: ${numericPrice}`;
+  const options = [];
+
+  // Add base 1-day option
+  options.push({
+    name: "1 Day",
+    unit_price: numericPrice,
+    days: 1
+  });
+
+  // Add multi-day options if available
+  if (multiDayPrices.price_2_days) {
+    const price2 = parseFloat(multiDayPrices.price_2_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "2 Days", unit_price: price2, days: 2 });
+  }
+  if (multiDayPrices.price_3_days) {
+    const price3 = parseFloat(multiDayPrices.price_3_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "3 Days", unit_price: price3, days: 3 });
+  }
+  if (multiDayPrices.price_4_days) {
+    const price4 = parseFloat(multiDayPrices.price_4_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "4 Days", unit_price: price4, days: 4 });
+  }
+  if (multiDayPrices.price_5_days) {
+    const price5 = parseFloat(multiDayPrices.price_5_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "5 Days", unit_price: price5, days: 5 });
+  }
+  if (multiDayPrices.price_7_days) {
+    const price7 = parseFloat(multiDayPrices.price_7_days.replace(/[^0-9.]/g, "")) || 0;
+    options.push({ name: "7 Days", unit_price: price7, days: 7 });
+  }
+
+  // Generate options YAML
+  const optionsYaml = options.map(opt =>
+    `  - name: "${opt.name}"\n    unit_price: ${opt.unit_price}\n    days: ${opt.days}`
+  ).join("\n");
+
+  // Use extracted specs or fall back to TBD
+  const playersValue = specs.players || "TBD";
+  const spaceValue = specs.space_required || "TBD";
+  const powerValue = specs.power || "TBD";
+  const setupValue = specs.setup_time || "TBD";
+  const equipmentValue = specs.equipment_size || "TBD";
+  const suitabilityValue = specs.suitability || "TBD";
+  const accessValue = specs.access || "TBD";
 
   // Base frontmatter - no permalink, let it be dynamically calculated
   let frontmatter = `---
@@ -303,13 +347,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "${playersValue}"
   - name: "Space Required"
-    value: "TBD"
+    value: "${spaceValue}"
   - name: "Power"
-    value: "TBD"
+    value: "${powerValue}"
   - name: "Setup time"
-    value: "TBD"
+    value: "${setupValue}"
+  - name: "Equipment Size"
+    value: "${equipmentValue}"
+  - name: "Suitability"
+    value: "${suitabilityValue}"
+  - name: "Access"
+    value: "${accessValue}"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -317,6 +367,7 @@ filter_attributes:
     value: "TBD"
   - name: "Power Required"
     value: "TBD"
+options:
 ${optionsYaml}`;
 
   // Add redirect_from for old site URL

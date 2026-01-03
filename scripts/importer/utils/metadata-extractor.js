@@ -173,6 +173,110 @@ const extractPrice = (htmlContent) => {
 };
 
 /**
+ * Extract multi-day hire prices from HTML content
+ * Looks for pricing table cells with "X day hire" labels
+ * @param {string} htmlContent - HTML content to extract prices from
+ * @returns {Object} Object with price_2_days, price_3_days, price_7_days etc.
+ */
+const extractMultiDayPrices = (htmlContent) => {
+  const prices = {};
+
+  // Pattern to match "X day hire from" followed by price
+  // Handles variations like "2 day hire from", "2 Day hire from", "7 day hire From"
+  // Price format: &pound;XXX or £XXX with possible span tags in between
+  const dayPricePatterns = [
+    { key: 'price_2_days', regex: /2\s*day\s*hire\s*(?:from)?[\s\S]*?(?:&pound;|£)(?:<[^>]*>)*\s*([\d,]+)/i },
+    { key: 'price_3_days', regex: /3\s*day\s*hire\s*(?:from)?[\s\S]*?(?:&pound;|£)(?:<[^>]*>)*\s*([\d,]+)/i },
+    { key: 'price_4_days', regex: /4\s*day\s*hire\s*(?:from)?[\s\S]*?(?:&pound;|£)(?:<[^>]*>)*\s*([\d,]+)/i },
+    { key: 'price_5_days', regex: /5\s*day\s*hire\s*(?:from)?[\s\S]*?(?:&pound;|£)(?:<[^>]*>)*\s*([\d,]+)/i },
+    { key: 'price_7_days', regex: /7\s*day\s*hire\s*(?:from)?[\s\S]*?(?:&pound;|£)(?:<[^>]*>)*\s*([\d,]+)/i },
+  ];
+
+  for (const { key, regex } of dayPricePatterns) {
+    const match = htmlContent.match(regex);
+    if (match) {
+      prices[key] = `£${match[1].replace(/,/g, '')}`;
+    }
+  }
+
+  return prices;
+};
+
+/**
+ * Helper to extract a spec value from HTML table
+ * @param {string} htmlContent - HTML content
+ * @param {RegExp} labelPattern - Pattern to match the label cell
+ * @returns {string|null} Extracted and cleaned value or null
+ */
+const extractSpecValue = (htmlContent, labelPattern) => {
+  const match = htmlContent.match(labelPattern);
+  if (match) {
+    const value = match[1]
+      .replace(/<[^>]+>/g, '')
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    return value || null;
+  }
+  return null;
+};
+
+/**
+ * Extract specifications from HTML specification tables
+ * Looks for tables with "Space required", "Electric requirements", etc.
+ * @param {string} htmlContent - HTML content to extract specs from
+ * @returns {Object} Object with space_required, power, players, setup_time, equipment_size, suitability, access
+ */
+const extractSpecs = (htmlContent) => {
+  const specs = {};
+
+  // Extract Space Required from spec table
+  const spaceValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Space required<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (spaceValue) specs.space_required = spaceValue;
+
+  // Extract Electric/Power requirements from spec table
+  const powerValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>(?:Electric requirements?|Power(?:\s+required)?)<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (powerValue) specs.power = powerValue;
+
+  // Extract Equipment size from spec table
+  const equipmentValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Equipment size<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (equipmentValue) specs.equipment_size = equipmentValue;
+
+  // Extract Suitability from spec table
+  const suitabilityValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Suitability<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (suitabilityValue) specs.suitability = suitabilityValue;
+
+  // Extract Access from spec table
+  const accessValue = extractSpecValue(htmlContent,
+    /<td[^>]*>[\s\S]*?<strong>Access<\/strong>[\s\S]*?<\/td>\s*<td[^>]*>([\s\S]*?)<\/td>/i);
+  if (accessValue) specs.access = accessValue;
+
+  // Extract Players from description text
+  // Patterns like "2-8 players", "1-2 players", "4 players"
+  const playersMatch = htmlContent.match(/(\d+(?:\s*-\s*\d+)?)\s*players/i);
+  if (playersMatch) {
+    specs.players = playersMatch[1].replace(/\s+/g, '');
+    // Add "players" suffix for clarity
+    if (!specs.players.includes('player')) {
+      specs.players = specs.players + ' players';
+    }
+  }
+
+  // Extract Setup time from FAQ or description
+  // Common patterns: "Setup typically takes around 30 minutes"
+  const setupMatch = htmlContent.match(/(?:setup|set up)\s*(?:typically\s+)?(?:takes?\s+)?(?:around\s+)?(\d+\s*(?:minutes?|mins?|hours?))/i);
+  if (setupMatch) {
+    specs.setup_time = setupMatch[1].replace(/\s+/g, ' ').trim();
+  }
+
+  return specs;
+};
+
+/**
  * Extract category from breadcrumbs
  * @param {string} htmlContent - HTML content to extract category from
  * @returns {string} Extracted category
@@ -493,6 +597,8 @@ module.exports = {
   extractContentHeading,
   extractMetadata,
   extractPrice,
+  extractMultiDayPrices,
+  extractSpecs,
   extractCategory,
   extractCategoryName,
   extractProductName,

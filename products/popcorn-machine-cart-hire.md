@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Popcorn Machine Cart Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/fun-fair-stalls/93/popcorn-machine-cart-hire/"
 gallery:
@@ -80,10 +86,6 @@ tabs:
       ## Hiring Periods and Pricing
       
       Check our prices and hiring periods to choose one that suits your event needs and budgets.
-      
-      **Hire from**
-      
-      **£450**\+ vat**
       
       **2 day hire from**
       

@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-8 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "660mm Width x 750mm Depth, 2175mm Height Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 4-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "650mm Width x 500mm Depth 2150mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Electronic Dart Board"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
 redirect_from:
   - "/category/arcade-games/106/electronic-dart-board/"
 gallery:
@@ -112,12 +118,6 @@ tabs:
         
       [Contact us](/contact-fun-pro-uk/#content) for a detailed quote.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
       When you hire Electronic Dart Board from Fun Pro, the following is included:
       
       UK-wide delivery and collection\*
@@ -151,26 +151,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Equipment size**
-      
-      650mm Width x 500mm Depth 2150mm Height
-      
-      **Space required**
-      
-      660mm Width x 750mm Depth, 2175mm Height Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x UK power socket (Game wattage usage 4-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

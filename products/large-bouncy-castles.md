@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "LARGE BOUNCY CASTLES"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/23/large-bouncy-castles/"
 gallery:
@@ -49,11 +55,7 @@ tabs:
       
       ## **Large Event castle hire**
       
-      **Hire Prices:**
-      
       **4 hour hire from**
-      
-      **£295**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       

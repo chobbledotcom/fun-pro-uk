@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1250mm Depth,"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (5 - 7 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mmm Width x 600mm Depth x 900mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "PLUCK A DUCK RACING"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 645
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/arcade-games/8/pluck-a-duck-racing/"
 gallery:
@@ -71,24 +86,6 @@ tabs:
       
       With its nostalgic charm and versatile applications, Pluck a Duck Racing is a must-have addition to any event. 🌟 Whether you're aiming to increase sales, engage employees, or simply add a touch of whimsy to your gathering, this game delivers on all fronts. So, why wait? Book our Pluck a Duck Racing game for hire today in Birmingham, Nottingham, Milton Keynes, London, Manchester, or Coventry, UK, and get ready for a day of non-stop fun! 🎉
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£645**\+ vat**
-      
-      **3 day hire from**
-      
-      **£795**\+ vat**
-      
-      **7 day hire From**
-      
-      **£1195**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -102,28 +99,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mmm Width x 600mm Depth x 900mm Height
-      
-      **Space required**
-      
-      1500mm Width x 1250mm Depth,
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (5 - 7 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

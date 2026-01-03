@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Candy Floss Cart Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
+  - name: "2 Days"
+    unit_price: 195
+    days: 2
+  - name: "3 Days"
+    unit_price: 195
+    days: 3
+  - name: "7 Days"
+    unit_price: 195
+    days: 7
 redirect_from:
   - "/category/fun-foods/92/candy-floss-cart-hire/"
 gallery:
@@ -90,10 +105,6 @@ tabs:
       *   1 trained team member to serve freshly made candy floss for up to 4 hours
       
       **Hiring Periods and Pricing**
-      
-      **Hire from**
-      
-      **£450.00**\+ vat**
       
       **2 day hire from**
       
@@ -177,8 +188,6 @@ tabs:
       (One time use only)
       
       **Front panel branding**
-      
-      **£195**\+ vat**
       
       **Side Panels**
       

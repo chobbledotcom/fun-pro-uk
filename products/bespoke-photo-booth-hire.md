@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2700mm x 2000mm x 2100mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Game wattage usage 950 - 1200 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2200mm Width x 1200mm Depth x 2050mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Bespoke Photo Booth Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
 redirect_from:
   - "/category/branded-exhibition-games/24/bespoke-photo-booth-hire/"
 gallery:
@@ -50,12 +56,6 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## Bespoke Photo Booth Rental
-      
-      ## **Hire Prices**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
       
       All packages include delivery, setup, and removal by our professional team.
       
@@ -80,28 +80,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our Photo booth specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      2200mm Width x 1200mm Depth x 2050mm Height
-      
-      **Space required**
-      
-      2700mm x 2000mm x 2100mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Game wattage usage 950 - 1200 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Hook A Duck"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/fun-fair-stalls/103/hook-a-duck/"
 gallery:
@@ -72,10 +78,6 @@ tabs:
       Suitable for both indoor and outdoor use
       
       ## Hook A Duck Stall Hire Pricing
-      
-      **Hire from**
-      
-      **£450.00**\+ vat**
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       

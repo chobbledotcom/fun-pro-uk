@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door."
   - name: "Power"
-    value: "TBD"
+    value: "None"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "455mm Width x 455mm Depth 1400 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Gold Bar Challenge"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 0
+    days: 1
 redirect_from:
   - "/category/exhibition-games/107/gold-bar-challenge/"
 gallery:
@@ -112,28 +118,6 @@ tabs:
       #### Nationwide Hire
       
       Available for both short-term and long-term events across the UK. Whether you're hosting a one-day exhibition or a week-long promotional campaign, the Gold Bar Challenge is ready to make your event shine.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      455mm Width x 455mm Depth 1400 Height
-      
-      **Space required**
-      
-      550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door.
-      
-      **Electric requirements**
-      
-      None
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

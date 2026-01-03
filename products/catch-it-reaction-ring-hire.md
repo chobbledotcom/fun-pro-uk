@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm x 1600mm x 2010mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Game wattage usage 5-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1460mm Width x 1460mm Depth x 2004mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Catch it Reaction Ring Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 445
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1495
+    days: 7
 redirect_from:
   - "/category/exhibition-games/94/catch-it-reaction-ring-hire/"
 gallery:
@@ -79,22 +94,6 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## Catch It Reaction Game Hire – The Ultimate Interactive Game for Corporate & Private Events
-      
-      **Hire from**
-      
-      **£445**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
       
       Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotional-event-games/#content).
       
@@ -157,28 +156,6 @@ tabs:
       ## Game Specifications
       
       Ring Reaction specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1460mm Width x 1460mm Depth x 2004mm Height
-      
-      **Space required**
-      
-      1500mm x 1600mm x 2010mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Game wattage usage 5-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

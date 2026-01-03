@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1300mm Width x 600mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1210mm Width x 350mm Depth 1500 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Candy Cane Megawire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 695
+    days: 2
+  - name: "3 Days"
+    unit_price: 745
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/christmas-games/90/candy-cane-megawire/"
 gallery:
@@ -77,51 +92,11 @@ tabs:
         
       ... and more!
       
-      ### **Specification**
-      
-      **Equipment size**
-      
-      1210mm Width x 350mm Depth 1500 Height
-      
-      **Space required**
-      
-      1300mm Width x 600mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      No power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
       **Extra information**
       
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Hire Prices**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
       
       All packages include setup and removal by our professional events team, ensuring the Christmas Candy Cane Mega Wire game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
       

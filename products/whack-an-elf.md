@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 45-48 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Whack an Elf"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 895
+    days: 3
+  - name: "7 Days"
+    unit_price: 1345
+    days: 7
 redirect_from:
   - "/category/christmas-games/79/whack-an-elf/"
 gallery:
@@ -44,24 +59,6 @@ tabs:
       # Whack an Elf
       
       "Please Note Leader Boards are not included unless requested"
-      
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£895**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1345**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -81,27 +78,9 @@ tabs:
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
-      **Specification**
-      
       **Equipment size**
       
       1300mm Width x 700mm Depth 1470 Height
-      
-      **Space required**
-      
-      1500mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 45-48 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

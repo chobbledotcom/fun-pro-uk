@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "4500mm Width x 4500mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 900 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "4300mm Width x 4300mm Depth"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Rodeo Bull"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/46/rodeo-bull/"
 gallery:
@@ -82,11 +88,7 @@ tabs:
       
       Get ready to hold on tight as the Rodeo Bull bucks and spins, challenging your riding skills and endurance. Our Rodeo Bull hire is perfect for adding that extra excitement to your fun days, parties, and gatherings in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, and Leicester.
       
-      **Hire Prices:**
-      
       **3 hour hire from**
-      
-      **£395**\+ vat**
       
       **4 hour hire from**
       
@@ -105,28 +107,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      4300mm Width x 4300mm Depth
-      
-      **Space required**
-      
-      4500mm Width x 4500mm Depth
-      
-      **Electric requirements**
-      
-      1 x 900 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

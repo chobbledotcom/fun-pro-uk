@@ -18,7 +18,7 @@ redirect_from:
 *   [Fun Pro UK - Corporate Entertainment Hire Cambridge](/cambridge-corporate-event-hire/#content)
 *   [Fun Pro UK | Corporate Event Hire for Coventry](/locations/coventry/corporate-event-hire/#content)
 *   [](/locations/coventry/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire](/gloucester-corporate-event-hire/#content) [Gloucester](/gloucester-corporate-event-hire/#content)
-*   [Fun Pro UK - Corporate Entertainment Hire Leeds](/leeds-corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Leeds](/locations/leeds/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Leicester](/locations/leicester/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Liverpool](/liverpool-corporate-event-hire/#content)
 *   [](/liverpool-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Manchester](/locations/manchester/corporate-event-hire/#content)

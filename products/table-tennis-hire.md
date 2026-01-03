@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 3000mm Depth, Allowing for the people to stand both ends"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1520mm Width x 2740mm Depth x 760mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Table Tennis Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 495
+    days: 2
+  - name: "3 Days"
+    unit_price: 595
+    days: 3
+  - name: "7 Days"
+    unit_price: 995
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/80/table-tennis-hire/"
 gallery:
@@ -77,22 +92,6 @@ tabs:
       ## Packages and Pricing
       
       Check out our variety of hire packages and find the right one that suits your event needs and budgets.
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£495**\+ vat**
-      
-      **3 day hire from**
-      
-      **£595**\+ vat**
-      
-      **7 day hire from**
-      
-      **£995**\+ vat**
       
       All packages include delivery, setup, and removal by our professional team.  
         
@@ -158,28 +157,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our table tennis table specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1520mm Width x 2740mm Depth x 760mm Height
-      
-      **Space required**
-      
-      2000mm Width x 3000mm Depth, Allowing for the people to stand both ends
-      
-      **Electric requirements**
-      
-      No power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

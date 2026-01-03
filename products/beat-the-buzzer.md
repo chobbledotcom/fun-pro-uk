@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "400mm Width x 1300mm Length"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains plug socket required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "300mm Width x 1240mm Length x 680mm High"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Beat The Buzzer"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 350
+    days: 1
+  - name: "2 Days"
+    unit_price: 595
+    days: 2
+  - name: "3 Days"
+    unit_price: 695
+    days: 3
+  - name: "7 Days"
+    unit_price: 1095
+    days: 7
 redirect_from:
   - "/category/exhibition-games/62/beat-the-buzzer/"
 gallery:
@@ -69,24 +84,6 @@ tabs:
       
       Ready to amp up the excitement at your next event? Hire Beat The Buzzer today and watch as your guests compete to beat the clock and emerge victorious! Contact us now to book this crowd-pleasing game for your upcoming event in one of our delivery areas.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£350**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£595**\+ vat**
-      
-      **3 day hire from**
-      
-      **£695**\+ vat**
-      
-      **7 day hire From**
-      
-      **£1095**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -104,28 +101,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      300mm Width x 1240mm Length x 680mm High
-      
-      **Space required**
-      
-      400mm Width x 1300mm Length
-      
-      **Electric requirements**
-      
-      1 x mains plug socket required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

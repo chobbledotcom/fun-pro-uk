@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "5800mm Width x 3000mm Depth, Allowing for people to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "2 x mains UK power socket (Wattage usage 180-230 watts per socket)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "5600mm x 4600mm 2100mm (W/D/H)"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "8 Lane Roll & Bowl Donkey Derby"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 1695
+    days: 1
 redirect_from:
   - "/category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/"
 gallery:
@@ -46,12 +52,6 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       # 8 Lane Roll & Bowl
-      
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£1695**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -70,28 +70,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      5600mm x 4600mm 2100mm (W/D/H)
-      
-      **Space required**
-      
-      5800mm Width x 3000mm Depth, Allowing for people to stand in front
-      
-      **Electric requirements**
-      
-      2 x mains UK power socket (Wattage usage 180-230 watts per socket)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

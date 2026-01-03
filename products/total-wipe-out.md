@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "7000mm Width x 7000mm Depth x 2000mm Height"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "6400mm Width x 6400mm Depth 2000 Height"
+  - name: "Suitability"
+    value: "Indoor or outdoor use, only Level surface"
+  - name: "Access"
+    value: "Drive on access"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "TOTAL WIPE OUT"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/20/total-wipe-out/"
 gallery:
@@ -51,11 +57,7 @@ tabs:
       
       ## **Total Wipeout Game Hire**
       
-      **Hire Prices:**
-      
       **3 hour hire from**
-      
-      **£495**\+ vat**
       
       **4 hour hire from**
       
@@ -74,28 +76,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      6400mm Width x 6400mm Depth 2000 Height
-      
-      **Space required**
-      
-      7000mm Width x 7000mm Depth x 2000mm Height
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor or outdoor use, only Level surface
-      
-      **Access**
-      
-      Drive on access
       
       **Extra information**
       

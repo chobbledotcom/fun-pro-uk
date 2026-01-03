@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "700mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 500 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "560mm Width x 1120mm Length x 1530mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Virtual Pinball"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1445
+    days: 7
 redirect_from:
   - "/category/exhibition-games/77/virtual-pinball/"
 gallery:
@@ -44,24 +59,6 @@ tabs:
       # Virtual Pinball
       
       "Please Note Leader Boards are not included unless requested"
-      
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1445**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -76,28 +73,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      560mm Width x 1120mm Length x 1530mm Height
-      
-      **Space required**
-      
-      700mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x 500 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

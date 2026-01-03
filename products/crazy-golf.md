@@ -18,9 +18,15 @@ specs:
   - name: "Space Required"
     value: "TBD"
   - name: "Power"
-    value: "TBD"
+    value: "None required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1900mm long x 600mm wide"
+  - name: "Suitability"
+    value: "Indoor or outside use"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Crazy Golf"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1495
+    days: 7
 redirect_from:
   - "/category/fun-days/81/crazy-golf/"
 gallery:
@@ -56,24 +71,6 @@ tabs:
       Bring a unique and interactive element to your corporate gathering with our 9-hole Crazy Golf game. Whether it's a brand activation event, team-building day, or office party, our Crazy Golf hire services will create a fun and relaxed environment for everyone to enjoy.
       
       Book our Crazy Golf hire services today in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, and let the games begin! 🎉
-      
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -109,25 +106,9 @@ tabs:
       
       **Check our Crazy Golf specifications:**
       
-      **Equipment size**
-      
-      1900mm long x 600mm wide
-      
       **Space require**
       
       2000mm Long x 700mm wide
-      
-      **Electric requirements**
-      
-      None required
-      
-      **Suitability**
-      
-      Indoor or outside use
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

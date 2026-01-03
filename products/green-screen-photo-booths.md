@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm Width x 1800mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 500 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mmm Width x 1200mm Depth x 2000mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "GREEN SCREEN PHOTO BOOTHS"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/"
 gallery:
@@ -109,11 +115,7 @@ tabs:
       
       Each hire includes a friendly operator to guide your guests through the features, ensuring they make the most of this interactive experience. Let us bring the wow factor to your event and leave a lasting impression on your attendees! 💼✨
       
-      **Hire Prices:**
-      
       **3 Hour hire from**
-      
-      **£450**\+ vat**
       
       **4 Hour hire from**
       
@@ -136,28 +138,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mmm Width x 1200mm Depth x 2000mm Height
-      
-      **Space required**
-      
-      1600mm Width x 1800mm Depth
-      
-      **Electric requirements**
-      
-      1 x 500 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

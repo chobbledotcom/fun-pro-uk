@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "Length 2500mm - Width 1400mm - Height 2500mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 X Mains power socket 2700w"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6M"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Master Sniper"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 1295
+    days: 1
 redirect_from:
   - "/category/interactive-game-hire/114/master-sniper/"
 gallery_cloudinary:
@@ -53,11 +59,7 @@ tabs:
       
       🕶️ **Play Master Sniper today and discover the most addictive precision-shooting arcade game on the market!**
       
-      **Hire Prices:**
-      
       Prices from
-      
-      **£1295** + Vat
       
       If more days are required please contact us.
       
@@ -84,22 +86,6 @@ tabs:
       **EQUIPMENT SIZE**
       
       Length 2420mm - Width 1370mm - Height 2490mm
-      
-      **SPACE REQUIRED**
-      
-      Length 2500mm - Width 1400mm - Height 2500mm
-      
-      **ELECTRIC REQUIREMENTS**
-      
-      1 X Mains power socket 2700w
-      
-      **SUITABILITY**
-      
-      Indoor use only/Level surface
-      
-      **ACCESS**
-      
-      Minimum door width 0.6M
       
       **USER**
       

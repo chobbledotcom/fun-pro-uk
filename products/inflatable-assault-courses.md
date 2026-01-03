@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "4000mm Width x 25000mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "3 x 800 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2800mm Width x 21400mm Depth x 3350mm Height"
+  - name: "Suitability"
+    value: "Indoor or outdoor use/Level surface"
+  - name: "Access"
+    value: "Drive on access only"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "INFLATABLE ASSAULT COURSES"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/21/inflatable-assault-courses/"
 gallery:
@@ -83,11 +89,7 @@ tabs:
       
       Ready to bring a touch of adventure to your next fun day? Contact us today to book our **Inflatable Assault Courses** for hire in your desired location!
       
-      **Hire Prices:**
-      
       **4 Hour hire from**
-      
-      **£450**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -146,28 +148,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      2800mm Width x 21400mm Depth x 3350mm Height
-      
-      **Space required**
-      
-      4000mm Width x 25000mm Depth
-      
-      **Electric requirements**
-      
-      3 x 800 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor or outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on access only
       
       **Extra information**
       

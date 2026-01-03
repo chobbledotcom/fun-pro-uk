@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "9800mm Width x 9800mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "8540mm Width x 8540mm Depth x 2630mm Height"
+  - name: "Suitability"
+    value: "Indoor and outdoor use/Level surface"
+  - name: "Access"
+    value: "Drive on only"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Dash & Grab / Hungry Hippo Inflatable Game"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/32/dash-and-grab-hungry-hippo-inflatable-game/"
 gallery:
@@ -51,11 +57,7 @@ tabs:
       
       ## **Hungry Hippo Game Hire**
       
-      **Hire Prices:**
-      
       **4 hour hire from**
-      
-      **£495**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -70,28 +72,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      8540mm Width x 8540mm Depth x 2630mm Height
-      
-      **Space required**
-      
-      9800mm Width x 9800mm Depth
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on only
       
       **Extra information**
       

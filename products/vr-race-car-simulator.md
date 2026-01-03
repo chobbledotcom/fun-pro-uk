@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 1400mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket Per car (Wattage usage 85-150 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "630mm Width x 1200mm Depth x 1240mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "VR Race Car Simulator"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 525
+    days: 1
+  - name: "2 Days"
+    unit_price: 845
+    days: 2
+  - name: "3 Days"
+    unit_price: 1045
+    days: 3
+  - name: "7 Days"
+    unit_price: 1545
+    days: 7
 redirect_from:
   - "/category/arcade-games/38/vr-race-car-simulator/"
 gallery:
@@ -83,31 +98,21 @@ tabs:
       
       **Hire between 1 and 2 cars simulators**
       
-      **Hire Prices:**
-      
       **Hire from**
       
       **1 car**
-      
-      **£525**\+ vat**
       
       **2 day hire from**
       
       **1 car**
       
-      **£845**\+ vat**
-      
       **3 day hire from**
       
       **1 car**
       
-      **£1045**\+ vat**
-      
       **7 day hire from**
       
       **1 car**
-      
-      **£1545**\+ vat**
       
       **Hire from**
       
@@ -146,28 +151,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      630mm Width x 1200mm Depth x 1240mm Height
-      
-      **Space required**
-      
-      1000mm Width x 1400mm Depth
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket Per car (Wattage usage 85-150 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

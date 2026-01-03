@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "9000mm Width x 15000mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 800 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "6700mm Width x 13700mm Depth"
+  - name: "Suitability"
+    value: "Indoor and outdoor use/Level surface"
+  - name: "Access"
+    value: "Drive on only"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "HUMAN TABLE FOOTBALL"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
 redirect_from:
   - "/category/corporate-entertainment/19/human-table-football/"
 gallery:
@@ -75,11 +81,7 @@ tabs:
       
       Whether you're planning a corporate event, school function, or private party, our Human Table Football hire is guaranteed to be a hit. Available in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK, this interactive game will create lasting memories for all involved. Contact us today to book your giant table football and take your event to the next level! 🎊
       
-      **Hire Prices:**
-      
       **4 hour hire from**
-      
-      **£495**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -94,28 +96,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      6700mm Width x 13700mm Depth
-      
-      **Space required**
-      
-      9000mm Width x 15000mm Depth
-      
-      **Electric requirements**
-      
-      1 x 800 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on only
       
       **Extra information**
       

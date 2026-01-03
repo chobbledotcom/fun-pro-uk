@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Coconut Shy Stall Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/fun-fair-stalls/96/coconut-shy-stall-hire/"
 gallery:
@@ -83,10 +89,6 @@ tabs:
       Suitable for both indoor and outdoor use
       
       ## Coconut Shy Stall Hire Pricing
-      
-      **Hire from**
-      
-      **£450.00**\+ vat**
       
       Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. As a nationwide hire company, we deliver across the UK on request. Minimum order values and delivery fees apply.
       

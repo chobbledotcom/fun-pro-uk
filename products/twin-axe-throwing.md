@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "4m x 6.1m x 3m (L x W x H)"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket"
   - name: "Setup time"
-    value: "TBD"
+    value: "30 minutes"
+  - name: "Equipment Size"
+    value: "3m x 5.1m x 2.95m (L x W x H)"
+  - name: "Suitability"
+    value: "Indoor or outdoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Twin Axe throwing"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/freshers-fair-games/98/twin-axe-throwing/"
 gallery:
@@ -53,10 +59,6 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## Twin Axe Throwing – The Ultimate Interactive Game for Corporate Events & Parties
-      
-      **Hire from**
-      
-      **£395**\+ vat**
       
       ## Why Choose Twin Axe Throwing for Your Next Event?
       
@@ -119,26 +121,6 @@ tabs:
       *   Dedicated event support
       
       **Check our Axe throwing specifications:**
-      
-      **Equipment size**
-      
-      3m x 5.1m x 2.95m (L x W x H)
-      
-      **Space required**
-      
-      4m x 6.1m x 3m (L x W x H)
-      
-      **Electric requirements**
-      
-      1 x UK power socket
-      
-      **Suitability**
-      
-      Indoor or outdoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

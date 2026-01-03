@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-2 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 1250mm Depth, Allowing for the person to stand ether side"
   - name: "Power"
-    value: "TBD"
+    value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Candy Cane Snatch it"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 695
+    days: 2
+  - name: "3 Days"
+    unit_price: 745
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/christmas-games/89/candy-cane-snatch-it/"
 gallery:
@@ -71,27 +86,9 @@ tabs:
         
       Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.  
       
-      ### **Specification**
-      
       **Equipment size**
       
       1200mm Width x 600mm Depth 900 Height
-      
-      **Space required**
-      
-      1500mm Width x 1250mm Depth, Allowing for the person to stand ether side
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 5-12 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       
@@ -102,24 +99,6 @@ tabs:
       ## **Packages and Pricing**
       
       Check our hire packages and choose one that suits your event needs and budgets.  
-      
-      **Hire Prices**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       

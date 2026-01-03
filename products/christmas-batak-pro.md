@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 1500mm Depth, 2010mm Height Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 4-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1700mm Width x 900mm Depth 2000mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Christmas Batak Pro"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1495
+    days: 7
 redirect_from:
   - "/category/christmas-game-hire/108/christmas-batak-pro/"
 gallery:
@@ -104,24 +119,6 @@ tabs:
       
       We make [interactive game hire](/categories/interactive-game-hire/#content) as seamless as possible, providing everything you need for an unforgettable experience.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       When you hire Batak Pro from Fun Pro, you get:
       
       UK-wide delivery and collection\*
@@ -141,28 +138,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1700mm Width x 900mm Depth 2000mm Height
-      
-      **Space required**
-      
-      2000mm Width x 1500mm Depth, 2010mm Height Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x UK power socket (Game wattage usage 4-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       
