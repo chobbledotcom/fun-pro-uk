@@ -28,7 +28,7 @@ jobs:
           sparse-checkout: |
             .eleventy.js
             package.json
-            pnpm-lock.yaml
+            bun.lockb
             flake.nix
             flake.lock
             bin
@@ -57,7 +57,7 @@ jobs:
             --exclude="old_site" \
             --exclude="package.json" \
             --exclude="package-lock.json" \
-            --exclude="pnpm-lock.yaml" \
+            --exclude="bun.lockb" \
             source/ \
             combined/src/
 
@@ -70,17 +70,10 @@ jobs:
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
             "combined/src/_data/config.json"
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          version: latest
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: latest
-          cache: 'pnpm'
-          cache-dependency-path: combined/pnpm-lock.yaml
+          bun-version: latest
 
       - name: Restore image cache
         uses: actions/cache@v4
@@ -90,11 +83,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-images-
 
-      - name: Build with Node
+      - name: Build with Bun
         run: |
           cd combined
-          pnpm install --frozen-lockfile
-          pnpm exec eleventy
+          bun install --frozen-lockfile
+          bun ./node_modules/@11ty/eleventy/cmd.cjs
           mkdir -p ../_site
           mv _site/* ../_site/
 
