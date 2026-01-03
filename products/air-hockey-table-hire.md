@@ -88,22 +88,6 @@ tabs:
       
       We have a variety of hiring periods to choose from. Find the right one that suits your event needs and budgets.  
       
-      **1 day Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£645**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1145**\+ vat**
-      
       Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.  
       
       You can trust that all our air hockey tables and equipment will arrive in excellent condition, fully prepared and ready for use at your event.  
@@ -143,30 +127,6 @@ tabs:
       …and more!  
       
       **Check our air hockey table specifications:**
-      
-      **Equipment size**
-      
-      1210mm Width x 2140mm Depth 850mm Height
-      
-      **Space required**
-      
-      2000mm Width x 3000mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x UK power socket (Game wattage usage 70-80 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
       

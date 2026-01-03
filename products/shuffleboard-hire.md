@@ -101,22 +101,6 @@ tabs:
       
       ## Shuffleboard Pricing
       
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       The price includes delivery, setup, and removal by our professional team.  
         
       In-house branding is also available. It is printed, applied, and removed after each event.  
@@ -173,30 +157,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      700mm Width x 2740mm Length x 810mm Height
-      
-      **Space required**
-      
-      1000mm Width x 3000mm Depth, Allowing for the person to stand at the front
-      
-      **Electric requirements**
-      
-      N/A
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 600m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

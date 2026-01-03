@@ -113,30 +113,6 @@ tabs:
       
       Available for both short-term and long-term events across the UK. Whether you're hosting a one-day exhibition or a week-long promotional campaign, the Gold Bar Challenge is ready to make your event shine.
       
-      **Specification**
-      
-      **Equipment size**
-      
-      455mm Width x 455mm Depth 1400 Height
-      
-      **Space required**
-      
-      550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door.
-      
-      **Electric requirements**
-      
-      None
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
       Can not be carried up or down flights of stairs.
       
       Lift required

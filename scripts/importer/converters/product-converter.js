@@ -4,7 +4,7 @@ const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
 const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
 const { faqPatterns } = require('../utils/html-patterns');
-const { stripFAQSection, hasFAQSection } = require('../utils/content-processor');
+const { stripFAQSection, hasFAQSection, stripHirePricesSection, stripSpecificationSection } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
@@ -187,6 +187,12 @@ const { convertSingle, convertBatch } = createConverter({
 
     // Strip blog footer cruft (reviews section) from body content before storing
     content = stripBlogFooterCruft(content);
+
+    // Strip hire prices section (now in frontmatter options)
+    content = stripHirePricesSection(content);
+
+    // Strip specification section (now in frontmatter specs)
+    content = stripSpecificationSection(content);
 
     // Store the body content for inclusion as a tab in frontmatter
     extracted.bodyContent = content;

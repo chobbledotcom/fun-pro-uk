@@ -73,10 +73,6 @@ tabs:
       
       ## Hook A Duck Stall Hire Pricing
       
-      **Hire from**
-      
-      **£450.00**\+ vat**
-      
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
       We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.

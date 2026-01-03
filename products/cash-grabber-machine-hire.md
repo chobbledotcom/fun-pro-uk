@@ -106,24 +106,6 @@ tabs:
       
       Don't miss out on the chance to make your event stand out with Cash Grabber Machine Hire. Contact us today to book the Cash Grabber Machine for your next event!
       
-      **Hire prices**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       Delivered and installed on site by our trained team
       
       In-house branding available Printed, applied & removed after each event
@@ -141,30 +123,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1000mm Width x 1600mm Depth x 2000mm Height
-      
-      **Space required**
-      
-      1800mm x 1800mm x 2200mm
-      
-      **Electric requirements**
-      
-      1 x 900 watts power source 3 pin UK mains socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

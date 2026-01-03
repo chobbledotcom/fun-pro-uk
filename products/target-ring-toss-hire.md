@@ -84,10 +84,6 @@ tabs:
       
       ## Target Ring Toss Hire Pricing
       
-      **Hire from**
-      
-      **£450.00**\+ vat**
-      
       Our services include full setup and removal by our professional team, making the process smooth and hassle-free. Please note that delivery is not included in the price and will be charged separately.
       
       You can trust that our Target Ring Toss game and all related equipment will arrive in excellent condition, fully prepared and ready for use at your event.

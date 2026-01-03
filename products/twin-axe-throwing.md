@@ -54,10 +54,6 @@ tabs:
       
       ## Twin Axe Throwing – The Ultimate Interactive Game for Corporate Events & Parties
       
-      **Hire from**
-      
-      **£395**\+ vat**
-      
       ## Why Choose Twin Axe Throwing for Your Next Event?
       
       Transform your [corporate event](/categories/corporate-entertainment/#content), [exhibition](/events/exhibition-games/#content), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
@@ -119,30 +115,6 @@ tabs:
       *   Dedicated event support
       
       **Check our Axe throwing specifications:**
-      
-      **Equipment size**
-      
-      3m x 5.1m x 2.95m (L x W x H)
-      
-      **Space required**
-      
-      4m x 6.1m x 3m (L x W x H)
-      
-      **Electric requirements**
-      
-      1 x UK power socket
-      
-      **Suitability**
-      
-      Indoor or outdoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
       
       ## Other Interactive Games
       

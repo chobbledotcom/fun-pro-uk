@@ -49,12 +49,6 @@ tabs:
       
       ## **Large Event castle hire**
       
-      **Hire Prices:**
-      
-      **4 hour hire from**
-      
-      **£295**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply

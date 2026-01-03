@@ -110,24 +110,6 @@ tabs:
       
       Get ready to take your event to the next level with our exciting Branded Whack-a-Mole game hire! Whether you're hosting a corporate event, trade show, or family gathering, this interactive game is guaranteed to bring a smile to everyone's face.??
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£895**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1345**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -145,30 +127,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1300mm Width x 700mm Depth 1470 Height
-      
-      **Space required**
-      
-      1500mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 45-48 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

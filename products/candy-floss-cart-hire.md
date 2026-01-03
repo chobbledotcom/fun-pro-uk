@@ -100,10 +100,6 @@ tabs:
       
       **Hiring Periods and Pricing**
       
-      **Hire from**
-      
-      **£450.00**\+ vat**
-      
       **2 day hire from**
       
       **CONTACT US FOR PRICE**

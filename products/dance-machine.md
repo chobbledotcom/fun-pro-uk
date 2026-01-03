@@ -80,24 +80,6 @@ tabs:
       
       Don't miss out on the opportunity to bring arcade action to your event with our Dance Machine hire service. Contact us today to book the ultimate dance experience in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere in the UK!
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£475**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire From**
-      
-      **£1695**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -115,30 +97,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      600mm Width x 600mm Depth 1700mm Height
-      
-      **Space required**
-      
-      2000mm Width x 1400mm Depth, Allowing for the persons to stand in front
-      
-      **Electric requirements**
-      
-      1 x 3 pin mains UK power socket (Wattage usage 60-77 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

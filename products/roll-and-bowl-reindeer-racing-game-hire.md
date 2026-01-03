@@ -86,24 +86,6 @@ tabs:
       
       Let our trained staff handle the delivery, setup, and installation of the game at your chosen location in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, or Coventry. Sit back, relax, and enjoy the festive spirit as your guests compete in a friendly and competitive reindeer race like no other.
       
-      **Hire Prices:**
-      
-      **HIre from**
-      
-      **£895**\+ vat**
-      
-      **2 day hire from**
-      
-      **£1395**\+ vat**
-      
-      **3 day hire from**
-      
-      **£1795**\+ vat**
-      
-      **7 day hire from**
-      
-      **£2695**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -127,30 +109,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1300mm Width x 700mm Depth 1470 Height
-      
-      **Space required**
-      
-      1500mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket Wattage usage 180-230 watts
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

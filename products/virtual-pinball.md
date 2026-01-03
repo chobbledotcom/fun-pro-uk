@@ -54,24 +54,6 @@ tabs:
       
       "Please Note Leader Boards are not included unless requested"
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1445**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -85,30 +67,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      560mm Width x 1120mm Length x 1530mm Height
-      
-      **Space required**
-      
-      700mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x 500 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

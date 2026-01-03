@@ -65,14 +65,6 @@ tabs:
       
       ## Corn Hole – The Ultimate Team Game for Corporate & Private Events
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£**295**
-      
-      -,Branding%20prices,-Front%20panel%20branding)
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -188,61 +180,5 @@ tabs:
       **Game Specifications:**
       
       **Feature**
-      
-      Specification
-      
-      **Board Dimensions**
-      
-      120cm x 90cm x 30cm
-      
-      **Board Material**
-      
-      Premium safety plastic with non-slip base
-      
-      **Board Weight**
-      
-      11kg per board
-      
-      **Bean Bag Size**
-      
-      15cm x 15cm
-      
-      **Bean Bag Weight**
-      
-      450g each (competition standard
-      
-      **Bean Bag Material**
-      
-      Durable duck cloth with food-grade corn filling
-      
-      **Space Required**
-      
-      Minimum 2m x 1m playing area
-      
-      **Setup Time**
-      
-      5-10 minutes
-      
-      **Participants**
-      
-      2-8 players per set (expandable with additional sets)
-      
-      **Power Requirements**
-      
-      None (standard setup)
-      
-      **Staffing**
-      
-      Optional (self-explanatory game, but staff available)
-      
-      **Branding prices**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Front panel branding Per unit**
-      
-      **£110**\+ vat**
 ---
 

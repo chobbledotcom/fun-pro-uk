@@ -66,24 +66,6 @@ tabs:
       
       Book our Crazy Golf hire services today in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, and let the games begin! 🎉
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -118,29 +100,9 @@ tabs:
       
       **Check our Crazy Golf specifications:**
       
-      **Equipment size**
-      
-      1900mm long x 600mm wide
-      
       **Space require**
       
       2000mm Long x 700mm wide
-      
-      **Electric requirements**
-      
-      None required
-      
-      **Suitability**
-      
-      Indoor or outside use
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
 ---

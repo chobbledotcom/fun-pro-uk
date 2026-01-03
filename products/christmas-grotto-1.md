@@ -79,34 +79,6 @@ tabs:
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
-      **Equipment size**
-      
-      **7.1m Width x 5.2m Depth x 4.3m Height**
-      
-      **Space required**
-      
-      **9.1m x 6m x 4.6m**
-      
-      **Electric requirements**
-      
-      **4 X 13amp socket**
-      
-      **Suitability**
-      
-      **Indoor and Outdoor use on Grass/Level surface**
-      
-      **Access**
-      
-      **Drive on access required**
-      
-      **Extra information**
-      
-      **Specification**
-      
-      **Product requirements**
-      
-      ## Inflatable Santa's Grotto Hire
-      
       Christmas is a magical time for everyone, from your staff and their families, to your clients and customers. So make sure you put on a great show with our inflatable grotto for hire, available nationwide.
       
       Get your company into the Christmas spirit

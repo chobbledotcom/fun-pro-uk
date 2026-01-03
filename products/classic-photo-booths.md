@@ -51,16 +51,6 @@ tabs:
       
       Adding a photo booth to your corporate event is a sound investment, because not only does it give your guests something to remember your event and your company by, it also give your PR team loads of great shots to use in future publicity.
       
-      **Hire Prices:**
-      
-      **3 hour hire from**
-      
-      **£450**\+ vat**
-      
-      **4 hour hire from**
-      
-      **£495**\+ vat**
-      
       Delivered and installed on site by our trained team
       
       In[\-](#specification)house branding available Printed[,](#specification) applied & removed after each event
@@ -78,30 +68,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      2200mm Width x 1200mm Depth x 2005mm Height
-      
-      **Space required**
-      
-      2700mm Width x 2000mm Depth x 2005mm Height
-      
-      **Electric requirements**
-      
-      1 UK power socket (Booth wattage usage 110-140 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

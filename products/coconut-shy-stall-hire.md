@@ -84,10 +84,6 @@ tabs:
       
       ## Coconut Shy Stall Hire Pricing
       
-      **Hire from**
-      
-      **£450.00**\+ vat**
-      
       Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. As a nationwide hire company, we deliver across the UK on request. Minimum order values and delivery fees apply.
       
       ## As a nationwide hire company, we can provide everything you need for your party or event.

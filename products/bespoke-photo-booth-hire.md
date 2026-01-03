@@ -51,20 +51,6 @@ tabs:
       
       ## Bespoke Photo Booth Rental
       
-      ## **Hire Prices**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      All packages include delivery, setup, and removal by our professional team.
-      
-      You can rest assured that the Ballnado grabber and other equipment will arrive in top condition, and ready-for-use at your event.
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
       Need a longer hire period?
       
       [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
@@ -80,30 +66,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our Photo booth specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      2200mm Width x 1200mm Depth x 2050mm Height
-      
-      **Space required**
-      
-      2700mm x 2000mm x 2100mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Game wattage usage 950 - 1200 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

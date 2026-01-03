@@ -129,80 +129,6 @@ tabs:
       
       **Hire between 1 and 4 cars simulators**
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **1 car**
-      
-      **£475**\+ vat**
-      
-      **2 day hire from**
-      
-      **1 car**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **1 car**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **1 car**
-      
-      **£1495**\+ vat**
-      
-      **Hire from**
-      
-      **2 cars**
-      
-      **£525**\+ vat**
-      
-      **2 day hire from**
-      
-      **2 cars**
-      
-      **£845**\+ vat**
-      
-      **3 day hire from**
-      
-      **2 cars**
-      
-      **£1050**\+ vat**
-      
-      **7 day hire from**
-      
-      **2 cars**
-      
-      **£1595**\+ vat**
-      
-      **Hire from**
-      
-      **4 cars**
-      
-      **£995**\+ vat**
-      
-      **2 day hire from**
-      
-      **4 cars**
-      
-      **£1450**\+ vat**
-      
-      **3 day hire from**
-      
-      **4 cars**
-      
-      **£1650**\+ vat**
-      
-      **7 day hire from**
-      
-      **4 cars**
-      
-      **£2050**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -216,30 +142,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      630mm Width x 1200mm Depth x 1240mm Height
-      
-      **Space required**
-      
-      1000mm Width x 1400mm Depth
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket Per car (Wattage usage 85-150 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

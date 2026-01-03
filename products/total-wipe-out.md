@@ -51,16 +51,6 @@ tabs:
       
       ## **Total Wipeout Game Hire**
       
-      **Hire Prices:**
-      
-      **3 hour hire from**
-      
-      **£495**\+ vat**
-      
-      **4 hour hire from**
-      
-      **£550**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -74,30 +64,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      6400mm Width x 6400mm Depth 2000 Height
-      
-      **Space required**
-      
-      7000mm Width x 7000mm Depth x 2000mm Height
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor or outdoor use, only Level surface
-      
-      **Access**
-      
-      Drive on access
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

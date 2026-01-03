@@ -97,16 +97,6 @@ tabs:
       
       Add a touch of magic to your next event with our Magic Mirror Hire. Contact us today to reserve the Magic Mirror experience for your event!
       
-      **Hire Prices:**
-      
-      **3 hour hire from**
-      
-      **£450**\+ vat**
-      
-      **4 hour hire from**
-      
-      **£495**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -120,30 +110,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1000mm Width x 1000mm Depth x 1600mm Height
-      
-      **Space required**
-      
-      2000mm Width x 2000mm Depth, Allowing for People to stand at the front
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 190-210
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

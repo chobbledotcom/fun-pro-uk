@@ -87,22 +87,6 @@ tabs:
       
       Check out our variety of hire packages and find the right one that suits your event needs and budgets.
       
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£495**\+ vat**
-      
-      **3 day hire from**
-      
-      **£595**\+ vat**
-      
-      **7 day hire from**
-      
-      **£995**\+ vat**
-      
       All packages include delivery, setup, and removal by our professional team.  
         
       You can rest assured that all ping pong tables and other equipment will arrive in top condition, and ready-for-use at your event.  
@@ -167,30 +151,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our table tennis table specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1520mm Width x 2740mm Depth x 760mm Height
-      
-      **Space required**
-      
-      2000mm Width x 3000mm Depth, Allowing for the people to stand both ends
-      
-      **Electric requirements**
-      
-      No power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

@@ -98,24 +98,6 @@ tabs:
       
       Ready to level up your event with RETRO ARCADE GAMES hire? Contact us today to bring the nostalgic charm of arcade gaming to your next gathering! 🌟
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£795**\+ vat**
-      
-      **7 day hire from**
-      
-      **£995**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -129,30 +111,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      600mm Width x 750mm Depth x 1400mm Height
-      
-      **Space required**
-      
-      1000mm Width x 1500mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 22-26)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

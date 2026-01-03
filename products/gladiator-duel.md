@@ -55,12 +55,6 @@ tabs:
       
       ## **Gladiator Duel Hire**
       
-      **Hire Prices:**
-      
-      **4 hour hire from**
-      
-      **£395**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -74,30 +68,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      4900mm Width x 5500mm Depth
-      
-      **Space required**
-      
-      5200mm Width x 6500mm Depth
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on only
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

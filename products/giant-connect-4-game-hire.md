@@ -83,24 +83,6 @@ tabs:
       
       Contact us today to book your Giant Connect 4 game rental in Birmingham, Nottingham, Milton Keynes, London, Manchester, or Coventry, UK! 📞
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£60**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£110**\+ vat**
-      
-      **3 day hire from**
-      
-      **£160**\+ vat**
-      
-      **7 day hire From**
-      
-      **£240**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.

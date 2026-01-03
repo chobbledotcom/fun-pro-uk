@@ -80,30 +80,6 @@ tabs:
         
       Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.  
       
-      ### **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 600mm Depth 900 Height
-      
-      **Space required**
-      
-      1500mm Width x 1250mm Depth, Allowing for the person to stand ether side
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 5-12 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
       Can not be carried up or down flights of stairs.
       
       Lift required
@@ -111,24 +87,6 @@ tabs:
       ## **Packages and Pricing**
       
       Check our hire packages and choose one that suits your event needs and budgets.  
-      
-      **Hire Prices**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       

@@ -95,10 +95,6 @@ tabs:
       
       ## Play Your Cards Right Stall Hire Pricing
       
-      **Hire from**
-      
-      **£450.00**\+ vat**
-      
       **2 day hire from**
       
       **CONTACT US FOR PRICE**

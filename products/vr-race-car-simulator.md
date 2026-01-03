@@ -92,56 +92,6 @@ tabs:
       
       **Hire between 1 and 2 cars simulators**
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **1 car**
-      
-      **£525**\+ vat**
-      
-      **2 day hire from**
-      
-      **1 car**
-      
-      **£845**\+ vat**
-      
-      **3 day hire from**
-      
-      **1 car**
-      
-      **£1045**\+ vat**
-      
-      **7 day hire from**
-      
-      **1 car**
-      
-      **£1545**\+ vat**
-      
-      **Hire from**
-      
-      **2 cars**
-      
-      **£575**\+ vat**
-      
-      **2 day hire from**
-      
-      **2 cars**
-      
-      **£895**\+ vat**
-      
-      **3 day hire from**
-      
-      **2 cars**
-      
-      **£1100**\+ vat**
-      
-      **7 day hire from**
-      
-      **2 cars**
-      
-      **£1645**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -155,30 +105,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      630mm Width x 1200mm Depth x 1240mm Height
-      
-      **Space required**
-      
-      1000mm Width x 1400mm Depth
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket Per car (Wattage usage 85-150 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

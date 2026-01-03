@@ -232,6 +232,65 @@ const stripFAQSection = (content, faqs = []) => {
 };
 
 /**
+ * Strip hire prices section from markdown content
+ * Removes the "Hire Prices:" heading and all following price lines until next section
+ * @param {string} content - Markdown content
+ * @returns {string} Content with hire prices section removed
+ */
+const stripHirePricesSection = (content) => {
+  // Pattern matches "**Hire Prices**" or "**Hire Prices:**" or "### **Hire Prices**" etc.
+  // Then captures everything until the next major section indicator
+  // Major sections: ## heading, **Specification**, "Delivered", "As a nationwide", "Need a longer"
+  const hirePricesPattern = /(?:^|\n)(?:#{2,3}\s*)?\*{0,2}Hire Prices:?\*{0,2}\s*\n[\s\S]*?(?=\n(?:#{2,3}[^#]|\*{0,2}Specification\*{0,2}|Delivered|As a nationwide|We offer delivery|Need a longer|\*{0,2}Equipment size\*{0,2})|\n\n\n|$)/gi;
+
+  content = content.replace(hirePricesPattern, '\n');
+
+  // Also remove standalone price lines that might be outside the main block
+  // Pattern: **1 day Hire from** or **Hire from** followed by price
+  content = content.replace(/^\*{0,2}(?:\d+\s*day\s*)?Hire\s*from\*{0,2}\s*\n\n?\*{0,2}£[\d,]+\*{0,2}.*$/gim, '');
+  content = content.replace(/^\*{0,2}\d+\s*day\s*hire\s*(?:from)?\*{0,2}\s*\n\n?\*{0,2}£[\d,]+\*{0,2}.*$/gim, '');
+
+  // Clean up multiple blank lines
+  return content.replace(/\n{3,}/g, '\n\n');
+};
+
+/**
+ * Strip specification section from markdown content
+ * Removes the "Specification" heading and all spec rows until next section
+ * @param {string} content - Markdown content
+ * @returns {string} Content with specification section removed
+ */
+const stripSpecificationSection = (content) => {
+  // Pattern matches "**Specification**" or "### **Specification**" heading and the table that follows
+  // Table rows are like: **Equipment size** \n value \n **Space required** \n value
+  // Continues until we hit a different section (##, FAQ, email/phone, or end)
+  const specPattern = /(?:^|\n)(?:#{2,3}\s*)?\*{0,2}Specification\*{0,2}\s*\n[\s\S]*?(?=\n(?:#{2,3}[^#]|[*_]*(?:FAQ|Frequently Asked)|(?:\[?\*{0,2}Email|\*{0,2}For all enquiries|Can not be carried))|\n\n\n|$)/gi;
+
+  content = content.replace(specPattern, '\n');
+
+  // Also remove any remaining spec table rows that might be orphaned
+  // These appear as **Label** followed by value on next line
+  const specLabels = [
+    'Equipment size',
+    'Space required',
+    'Electric requirements',
+    'Suitability',
+    'Access',
+    'Extra information',
+    'Power'
+  ];
+
+  for (const label of specLabels) {
+    // Match **Label** followed by any value lines until next **Label** or section break
+    const labelPattern = new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s*\\n[\\s\\S]*?(?=\\n\\*{0,2}(?:${specLabels.join('|')}|Specification|FAQ)|\\n\\n##|\\n\\n\\n|$)`, 'gim');
+    content = content.replace(labelPattern, '');
+  }
+
+  // Clean up multiple blank lines
+  return content.replace(/\n{3,}/g, '\n\n');
+};
+
+/**
  * Clean up content by removing unwanted markdown artifacts
  * @param {string} content - Content to clean
  * @param {string} contentType - Type of content (for context-specific cleaning)
@@ -319,5 +378,7 @@ module.exports = {
   cleanContent,
   processContent,
   stripFAQSection,
-  hasFAQSection
+  hasFAQSection,
+  stripHirePricesSection,
+  stripSpecificationSection
 };

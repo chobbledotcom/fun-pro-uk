@@ -82,24 +82,6 @@ tabs:
       
       Make your holiday celebrations unforgettable with the Reindeer Nosenado in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, UK. Book now for a merry and memorable event! 🎅✨
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire From**
-      
-      **£1495**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -117,30 +99,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1000mmWidth x 1600mm Depth x 2000mm Height
-      
-      **Space required**
-      
-      1800mm x 1800mm x 2200mm
-      
-      **Electric requirements**
-      
-      1 x 840 watts power source 3 pin UK mains socket
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

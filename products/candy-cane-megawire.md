@@ -86,58 +86,9 @@ tabs:
         
       ... and more!
       
-      ### **Specification**
-      
-      **Equipment size**
-      
-      1210mm Width x 350mm Depth 1500 Height
-      
-      **Space required**
-      
-      1300mm Width x 600mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      No power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Hire Prices**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
-      
-      All packages include setup and removal by our professional events team, ensuring the Christmas Candy Cane Mega Wire game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
-      
-      You can rest assured that the Candy Cane Mega Wire and other equipment will arrive in perfect condition, and ready for use at your event.
-      
-      In-house branding available. We print, apply, and remove them after each event.  
-      (One time use only)
       
       Need a longer hire period? Contact us for custom pricing and availability.
       

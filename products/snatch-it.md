@@ -70,24 +70,6 @@ tabs:
       
       SNATCH IT is new to the interactive game hire world, and FUN PRO UK have one that you can hire today. SNATCH IT is a fabulous 2 PLAYER fun game to not only play, but to watch, laugh and cheer on the players for a little bit of friendly competition and claim the victory. It will test your hand and eye co-ordination, speed and some anticipation as to which rod to snatch first.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -105,30 +87,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 600mm Depth 900 Height
-      
-      **Space required**
-      
-      1500mm Width x 1250mm Depth, Allowing for the person to stand ether side
-      
-      **Electric requirements**
-      
-      1 x mains UK power socket (Wattage usage 5-12 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

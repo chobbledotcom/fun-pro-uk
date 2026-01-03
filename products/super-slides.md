@@ -49,12 +49,6 @@ tabs:
       
       ## **Super Slide hire**
       
-      **Hire Prices:**
-      
-      **4 hour hire from**
-      
-      **£295**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -84,30 +78,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      4267mm Width x 5486mm Depth x 5486mm Height
-      
-      **Space required**
-      
-      4500mm Width x 6000mm Depth x 5500mm Height
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on only
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

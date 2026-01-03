@@ -107,30 +107,6 @@ tabs:
       
       ### Christmas Photo Booth Specifications
       
-      **Equipment size**
-      
-      2200mm Width x 1200mm Depth x 2005mm Height
-      
-      **Space required**
-      
-      2700mm Width x 2000mm Depth x 2005mm Height
-      
-      **Electric requirements**
-      
-      1 UK power socket (Booth wattage usage 110-140 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
       Lift required
       
       ## Packages and Pricing

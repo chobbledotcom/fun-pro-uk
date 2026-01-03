@@ -89,22 +89,6 @@ tabs:
       
       ## Catch It Reaction Game Hire – The Ultimate Interactive Game for Corporate & Private Events
       
-      **Hire from**
-      
-      **£445**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotional-event-games/#content).
       
       ## What Is Catch It Reaction?
@@ -166,30 +150,6 @@ tabs:
       ## Game Specifications
       
       Ring Reaction specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1460mm Width x 1460mm Depth x 2004mm Height
-      
-      **Space required**
-      
-      1500mm x 1600mm x 2010mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Game wattage usage 5-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

@@ -122,24 +122,6 @@ tabs:
       
       At Fun Pro, we like to make our [interactive game hire](/categories/interactive-game-hire/#content) services as easy as possible for you, so we include everything you need to make your event unforgettable for all the right reasons.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£445**\+ vat**
-      
-      When you hire Batak Lite from Fun Pro, the following is included:
-      
-      UK-wide delivery and collection\*
-      
-      Installation and set up by our trained team
-      
-      Customisation to match your brand
-      
-      \*Delivery fees may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
       ## As a nationwide hire company, we can provide everything you need for your party or event.
       
       We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
@@ -147,30 +129,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 950mm Depth 1800 Height
-      
-      **Space required**
-      
-      1400mm Width x 1600mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
-      **Extra information**
       
       Can not be carried up or down flights of stairs.
       

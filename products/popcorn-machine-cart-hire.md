@@ -81,10 +81,6 @@ tabs:
       
       Check our prices and hiring periods to choose one that suits your event needs and budgets.
       
-      **Hire from**
-      
-      **£450**\+ vat**
-      
       **2 day hire from**
       
       **CONTACT US FOR PRICE**

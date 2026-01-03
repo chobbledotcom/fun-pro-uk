@@ -76,24 +76,6 @@ tabs:
       
       Don't miss out on the fun – book our Giant Jenga Hire today and make your event one to remember! Contact us now to secure your reservation. 🎲
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£60**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£110**\+ vat**
-      
-      **3 day hire from**
-      
-      **£160**\+ vat**
-      
-      **7 day hire From**
-      
-      **£240**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       PLEASE NOTE THIS IS AN ADD ON ITEM ONLY.
