@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "13000mm Width x 4000mm Depth"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "10700mm Width x 3400mm Depth x 2630mm Height"
+  - name: "Suitability"
+    value: "Indoor and outdoor use/Level surface"
+  - name: "Access"
+    value: "Drive on only"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Bungee Run"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/fun-days/33/bungee-run/"
 gallery:
@@ -53,11 +59,7 @@ tabs:
       
       It's time to see who has eaten their Weetabix! Our Bungee Run is not for the fainthearted, it will put your strength and speed to the test like nothing else!
       
-      **Hire Prices:**
-      
       **4 hour hire from**
-      
-      **£395**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
@@ -89,28 +91,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      10700mm Width x 3400mm Depth x 2630mm Height
-      
-      **Space required**
-      
-      13000mm Width x 4000mm Depth
-      
-      **Electric requirements**
-      
-      1 x 950 watt power source 3 pin mains UK power socket
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Drive on only
       
       **Extra information**
       

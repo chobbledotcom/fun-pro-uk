@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "3200mm Width x 1000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "3000mmm Width x 600mm Depth 1000 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "GIANT BUZZ WIRE"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 645
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/interactive-game-hire/9/giant-buzz-wire/"
 gallery:
@@ -85,24 +100,6 @@ tabs:
       
       Don't miss out on the opportunity to elevate your event with our engaging GIANT BUZZ WIRE game hire available in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK. Book now for a memorable and interactive experience that will leave a lasting impression on your attendees! 🎯
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£645**\+ vat**
-      
-      **3 day hire from**
-      
-      **£795**\+ vat**
-      
-      **7 day hire From**
-      
-      **£1195**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -120,28 +117,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      3000mmm Width x 600mm Depth 1000 Height
-      
-      **Space required**
-      
-      3200mm Width x 1000mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      No Power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

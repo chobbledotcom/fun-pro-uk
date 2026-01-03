@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Target Ring Toss Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/fun-fair-stalls/95/target-ring-toss-hire/"
 gallery:
@@ -83,10 +89,6 @@ tabs:
       Suitable for both indoor and outdoor use
       
       ## Target Ring Toss Hire Pricing
-      
-      **Hire from**
-      
-      **£450.00**\+ vat**
       
       Our services include full setup and removal by our professional team, making the process smooth and hassle-free. Please note that delivery is not included in the price and will be charged separately.
       

@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2700mm Width x 2000mm Depth x 2005mm Height"
   - name: "Power"
-    value: "TBD"
+    value: "1 UK power socket (Booth wattage usage 110-140 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2200mm Width x 1200mm Depth x 2005mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "CHRISTMAS PHOTO BOOTHS"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
 redirect_from:
   - "/category/christmas-game-hire/12/christmas-photo-booths/"
 gallery:
@@ -107,26 +113,6 @@ tabs:
       
       ### Christmas Photo Booth Specifications
       
-      **Equipment size**
-      
-      2200mm Width x 1200mm Depth x 2005mm Height
-      
-      **Space required**
-      
-      2700mm Width x 2000mm Depth x 2005mm Height
-      
-      **Electric requirements**
-      
-      1 UK power socket (Booth wattage usage 110-140 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
-      
       **Extra information**
       
       Can not be carried up or down flights of stairs.
@@ -138,8 +124,6 @@ tabs:
       Choose the Christmas photo booth hire package that suits your event needs and budgets.
       
       **3 hour hire from**
-      
-      **£450**\+ vat**
       
       **4 hour hire from**
       

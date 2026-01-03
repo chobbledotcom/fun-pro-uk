@@ -232,6 +232,115 @@ const stripFAQSection = (content, faqs = []) => {
 };
 
 /**
+ * Escape special regex characters in a string
+ * @param {string} str - String to escape
+ * @returns {string} Escaped string safe for use in regex
+ */
+const escapeRegex = (str) => {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+};
+
+/**
+ * Strip hire prices section from markdown content
+ * Only removes content that exactly matches extracted prices
+ * @param {string} content - Markdown content
+ * @param {Object} multiDayPrices - Extracted prices (price_2_days, price_3_days, etc.)
+ * @param {string} basePrice - Base price (e.g., "£395")
+ * @returns {string} Content with hire prices section removed
+ */
+const stripHirePricesSection = (content, multiDayPrices = {}, basePrice = '') => {
+  // Collect all price values we extracted
+  const extractedPrices = [];
+  if (basePrice) {
+    const numericBase = basePrice.replace(/[^0-9]/g, '');
+    if (numericBase) extractedPrices.push(numericBase);
+  }
+  for (const key of Object.keys(multiDayPrices)) {
+    const numericPrice = multiDayPrices[key].replace(/[^0-9]/g, '');
+    if (numericPrice) extractedPrices.push(numericPrice);
+  }
+
+  if (extractedPrices.length === 0) {
+    return content;
+  }
+
+  // Remove "Hire Prices" heading
+  content = content.replace(/^(?:#{2,3}\s*)?\*{0,2}Hire Prices:?\*{0,2}\s*$/gim, '');
+
+  // Remove price labels and their values only if we extracted that price
+  // Pattern: **X day hire from** or **Hire from** followed by the exact price
+  for (const price of extractedPrices) {
+    // Match "Hire from" or "X day hire from" followed by the exact £price
+    const pricePattern = new RegExp(
+      `^\\*{0,2}(?:\\d+\\s*day\\s*)?[Hh]ire\\s*(?:from)?\\*{0,2}\\s*\\n\\n?\\*{0,2}£${price}\\*{0,2}.*$`,
+      'gim'
+    );
+    content = content.replace(pricePattern, '');
+
+    // Also match just the price line with + vat
+    const justPricePattern = new RegExp(`^\\*{0,2}£${price}\\*{0,2}.*\\+\\s*vat.*$`, 'gim');
+    content = content.replace(justPricePattern, '');
+  }
+
+  // Clean up multiple blank lines
+  return content.replace(/\n{3,}/g, '\n\n');
+};
+
+/**
+ * Strip specification section from markdown content
+ * Only removes content that exactly matches extracted specs
+ * @param {string} content - Markdown content
+ * @param {Object} specs - Extracted specs (space_required, power, equipment_size, etc.)
+ * @returns {string} Content with specification section removed
+ */
+const stripSpecificationSection = (content, specs = {}) => {
+  // Map of spec keys to their markdown labels
+  const specLabelMap = {
+    equipment_size: 'Equipment size',
+    space_required: 'Space required',
+    power: 'Electric requirements',
+    suitability: 'Suitability',
+    access: 'Access'
+  };
+
+  // Only proceed if we have extracted specs
+  const extractedSpecs = Object.entries(specs).filter(([key, value]) =>
+    value && specLabelMap[key]
+  );
+
+  if (extractedSpecs.length === 0) {
+    return content;
+  }
+
+  // Remove "Specification" heading only if we're removing spec content
+  content = content.replace(/^(?:#{2,3}\s*)?\*{0,2}Specification\*{0,2}\s*$/gim, '');
+
+  // Remove each spec label and its exact value
+  for (const [key, value] of extractedSpecs) {
+    const label = specLabelMap[key];
+    const escapedValue = escapeRegex(value);
+
+    // Match **Label** followed by the exact value (possibly on next line)
+    // Handle both inline and multi-line formats
+    const patterns = [
+      // **Label** on one line, value on next
+      new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s*\\n\\n?${escapedValue}\\s*$`, 'gim'),
+      // **Label** and value on same line
+      new RegExp(`^\\*{0,2}${label}\\*{0,2}\\s+${escapedValue}\\s*$`, 'gim'),
+      // Just the value line if it matches exactly
+      new RegExp(`^${escapedValue}\\s*$`, 'gim')
+    ];
+
+    for (const pattern of patterns) {
+      content = content.replace(pattern, '');
+    }
+  }
+
+  // Clean up multiple blank lines
+  return content.replace(/\n{3,}/g, '\n\n');
+};
+
+/**
  * Clean up content by removing unwanted markdown artifacts
  * @param {string} content - Content to clean
  * @param {string} contentType - Type of content (for context-specific cleaning)
@@ -319,5 +428,7 @@ module.exports = {
   cleanContent,
   processContent,
   stripFAQSection,
-  hasFAQSection
+  hasFAQSection,
+  stripHirePricesSection,
+  stripSpecificationSection
 };

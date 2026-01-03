@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2900mm Width x 3000mm Depth, Allowing for people to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "2 x mains UK power socket (Wattage usage 180-230 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "2300mm Width x 2300mm Depth 2100 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Roll And Bowl Game Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 895
+    days: 1
+  - name: "2 Days"
+    unit_price: 1395
+    days: 2
+  - name: "3 Days"
+    unit_price: 1795
+    days: 3
+  - name: "7 Days"
+    unit_price: 2695
+    days: 7
 redirect_from:
   - "/category/arcade-games/51/roll-and-bowl-game-hire/"
 gallery:
@@ -121,24 +136,6 @@ tabs:
       
       Don't settle for the ordinary – elevate your event with the Roll And Bowl Game Hire in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, and Coventry. Book now and make your event a winner!
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£895**\+ vat**
-      
-      **2 day hire from**
-      
-      **£1395**\+ vat**
-      
-      **3 day hire from**
-      
-      **£1795**\+ vat**
-      
-      **7 day hire from**
-      
-      **£2695**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -156,28 +153,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      2300mm Width x 2300mm Depth 2100 Height
-      
-      **Space required**
-      
-      2900mm Width x 3000mm Depth, Allowing for people to stand in front
-      
-      **Electric requirements**
-      
-      2 x mains UK power socket (Wattage usage 180-230 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

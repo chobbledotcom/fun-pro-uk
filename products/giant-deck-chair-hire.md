@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm Width x 1900mm Depth x 2000mm"
   - name: "Power"
-    value: "TBD"
+    value: "None required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1460mm Width x 1760mm Depth x 1920 Height"
+  - name: "Suitability"
+    value: "Indoor and outdoor use/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Giant Deck Chair Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 195
+    days: 1
+  - name: "2 Days"
+    unit_price: 295
+    days: 2
+  - name: "3 Days"
+    unit_price: 395
+    days: 3
+  - name: "7 Days"
+    unit_price: 795
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/74/giant-deck-chair-hire/"
 gallery:
@@ -63,24 +78,6 @@ tabs:
       
       Book Giant Deck Chair Hire from Fun Pro UK today and make your event stand out with stylish and comfortable seating options!
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£195**\+ vat**
-      
-      **2 day hire from**
-      
-      **£295**\+ vat**
-      
-      **3 day hire from**
-      
-      **£395**\+ vat**
-      
-      **7 day hire from**
-      
-      **£795**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -94,28 +91,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1460mm Width x 1760mm Depth x 1920 Height
-      
-      **Space required**
-      
-      1600mm Width x 1900mm Depth x 2000mm
-      
-      **Electric requirements**
-      
-      None required
-      
-      **Suitability**
-      
-      Indoor and outdoor use/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

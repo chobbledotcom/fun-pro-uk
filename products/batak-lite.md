@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1400mm Width x 1600mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mm Width x 950mm Depth 1800 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Batak Lite"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 445
+    days: 1
 redirect_from:
   - "/category/exhibition-games/61/batak-lite/"
 gallery:
@@ -122,12 +128,6 @@ tabs:
       
       At Fun Pro, we like to make our [interactive game hire](/categories/interactive-game-hire/#content) services as easy as possible for you, so we include everything you need to make your event unforgettable for all the right reasons.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£445**\+ vat**
-      
       When you hire Batak Lite from Fun Pro, the following is included:
       
       UK-wide delivery and collection\*
@@ -147,28 +147,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 950mm Depth 1800 Height
-      
-      **Space required**
-      
-      1400mm Width x 1600mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 3000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 70-80 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1210mm Width x 2140mm Depth 850mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Air Hockey Table Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 645
+    days: 2
+  - name: "3 Days"
+    unit_price: 745
+    days: 3
+  - name: "7 Days"
+    unit_price: 1145
+    days: 7
 redirect_from:
   - "/category/exhibition-games/60/air-hockey-table-hire/"
 gallery:
@@ -79,22 +94,6 @@ tabs:
       
       We have a variety of hiring periods to choose from. Find the right one that suits your event needs and budgets.  
       
-      **1 day Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£645**\+ vat**
-      
-      **3 day hire from**
-      
-      **£745**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1145**\+ vat**
-      
       Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.  
       
       You can trust that all our air hockey tables and equipment will arrive in excellent condition, fully prepared and ready for use at your event.  
@@ -134,26 +133,6 @@ tabs:
       …and more!  
       
       **Check our air hockey table specifications:**
-      
-      **Equipment size**
-      
-      1210mm Width x 2140mm Depth 850mm Height
-      
-      **Space required**
-      
-      2000mm Width x 3000mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      1 x UK power socket (Game wattage usage 70-80 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

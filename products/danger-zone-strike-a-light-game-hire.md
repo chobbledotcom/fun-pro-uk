@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm x 1600mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1100mm Length x 900mm Depth"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Danger-zone-strike-a-light-game-hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 695
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/arcade-games/63/danger-zone-strike-a-light-game-hire/"
 gallery:
@@ -79,24 +94,6 @@ tabs:
       
       Don't miss out on the excitement of our Danger Zone Strike a Light Game Hire in the UK. Perfect for parties, events, and gatherings, this game is a must-have addition to any occasion. Book now and get ready to experience the thrill of the ultimate competitive gaming experience!
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£795**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
-      
       Delivered and installed on site by our trained team
       
       In-house branding available Printed, applied & removed after each event
@@ -114,28 +111,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1100mm Length x 900mm Depth
-      
-      **Space required**
-      
-      1600mm x 1600mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Wattage usage 9-14 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "400mm Width x 650mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "300mm Width x 600mm Depth x 1500mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "LEADER BOARD"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 75
+    days: 1
 redirect_from:
   - "/category/interactive-game-hire/30/leader-board/"
 gallery:
@@ -73,12 +79,6 @@ tabs:
       
       Looking to add a fun and interactive element to your event? Our LEADER BOARD is the perfect solution! Ideal for conferences, well-being days, exhibitions, fun days, and more, this top-gear style magnetic lead board will keep your attendees engaged and entertained throughout.
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£75**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -96,28 +96,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      300mm Width x 600mm Depth x 1500mm Height
-      
-      **Space required**
-      
-      400mm Width x 650mm Depth, Allowing for the person to stand in front
-      
-      **Electric requirements**
-      
-      No power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

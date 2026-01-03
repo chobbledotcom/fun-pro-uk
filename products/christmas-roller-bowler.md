@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm x 800mm x 1200mm (including player space)"
   - name: "Power"
-    value: "TBD"
+    value: "None - completely mechanical game"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor/Outdoor - Dry weather only"
+  - name: "Access"
+    value: "Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Christmas Roller Bowler"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/christmas-game-hire/112/christmas-roller-bowler/"
 gallery:
@@ -87,10 +93,6 @@ tabs:
       Engaging, compact, and universally appealing, the **Christmas Roller Bowler** delivers a touch of nostalgia and plenty of festive fun, while helping create an inviting, energetic atmosphere around your event space.
       
       Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/events/exhibition-games/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
-      
-      **1 day Hire from**
-      
-      **£395**\+ vat**
       
       Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.
       
@@ -214,17 +216,11 @@ tabs:
       
       ## 📏 Game Specifications
       
-      Specification
-      
       Details
       
       Equipment Size
       
       1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
-      
-      Space Required
-      
-      2000mm x 800mm x 1200mm (including player space)
       
       Power
       
@@ -233,10 +229,6 @@ tabs:
       Suitability
       
       Indoor/Outdoor (dry weather only)
-      
-      Access
-      
-      Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)
       
       ## 🤝 Trusted by Leading Brands
       
@@ -290,29 +282,11 @@ tabs:
       
       ### Roller Bowler specifications:
       
-      **Specification**
-      
       **Details**
       
       **Equipment size (Standard)**
       
       1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
-      
-      **Space required**
-      
-      2000mm x 800mm x 1200mm (including player space)
-      
-      **Electric requirements**
-      
-      None - completely mechanical game
-      
-      **Suitability**
-      
-      Indoor/Outdoor - Dry weather only
-      
-      **Access**
-      
-      Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)
       
       **Extra information**
       

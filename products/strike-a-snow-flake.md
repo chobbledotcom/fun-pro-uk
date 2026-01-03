@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm x 1600mm"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Strike A Snow Flake"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
+  - name: "2 Days"
+    unit_price: 695
+    days: 2
+  - name: "3 Days"
+    unit_price: 795
+    days: 3
+  - name: "7 Days"
+    unit_price: 1195
+    days: 7
 redirect_from:
   - "/category/christmas-game-hire/91/strike-a-snow-flake/"
 gallery:
@@ -78,27 +93,9 @@ tabs:
         
       ...and more!
       
-      ### **Specification**
-      
       **Equipment size**
       
       1100mm Length x 900mm Depth
-      
-      **Space required**
-      
-      1600mm x 1600mm
-      
-      **Electric requirements**
-      
-      1 x UK mains socket (Wattage usage 9-14 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       
@@ -109,22 +106,6 @@ tabs:
       ## **Packages and Pricing**
       
       Take a look at our hire packages and find the perfect option to suit your event and budget.  
-      
-      **Hire from**
-      
-      **£395**\+ vat**
-      
-      **2 day hire from**
-      
-      **£695**\+ vat**
-      
-      **3 day hire from**
-      
-      **£795**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1195**\+ vat**
       
       All packages include setup and removal by our professional events team, ensuring the Strike a Snowflake game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
       

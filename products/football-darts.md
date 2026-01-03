@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "7m Width x 5.5M Height,"
   - name: "Power"
-    value: "TBD"
+    value: "1 X MAIN POWER REQUIRED"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "5.5m Width x 5.5M Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Football Darts"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 395
+    days: 1
 redirect_from:
   - "/category/fun-days/83/football-darts/"
 gallery:
@@ -63,10 +69,6 @@ tabs:
       
       We also offer a range of other engaging activities and games for hire. From [Batak](/categories/batak/#content) to [Fun Foods](/categories/fun-foods/#content), we have everything you need to make your event all you need it to be. Explore the possibilities with Fun Pro UK and ensure your next event is amazing - just make an order with us today.
       
-      **Hire from**
-      
-      **£395**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -80,28 +82,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      Specification
-      
-      **Equipment size**
-      
-      5.5m Width x 5.5M Height
-      
-      **Space required**
-      
-      7m Width x 5.5M Height,
-      
-      **Electric requirements**
-      
-      1 X MAIN POWER REQUIRED
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "1500mm Width x 3000mm Depth x 1800 Height, Allowing for the players to stand in front"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mm Width x 2000mm Depth 1600 Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "ELECTRONIC BASKET BALL HIRE"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
+  - name: "2 Days"
+    unit_price: 495
+    days: 2
+  - name: "3 Days"
+    unit_price: 595
+    days: 3
+  - name: "7 Days"
+    unit_price: 995
+    days: 7
 redirect_from:
   - "/category/arcade-games/6/electronic-basket-ball-hire/"
 gallery:
@@ -69,24 +84,6 @@ tabs:
       
       Whether you're looking to boost team morale at a corporate event or add a fun activity to a family gathering, our **Electronic Basketball Hire** is sure to keep everyone entertained. Let the games begin! 🎉
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£295**\+ vat**
-      
-      **2 day hire from**
-      
-      **£495**\+ vat**
-      
-      **3 day hire from**
-      
-      **£595**\+ vat**
-      
-      **7 day hire from**
-      
-      **£995**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -100,28 +97,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 2000mm Depth 1600 Height
-      
-      **Space required**
-      
-      1500mm Width x 3000mm Depth x 1800 Height, Allowing for the players to stand in front
-      
-      **Electric requirements**
-      
-      No Power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

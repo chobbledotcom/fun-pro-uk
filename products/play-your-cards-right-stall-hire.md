@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Play Your Cards Right Stall Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 450
+    days: 1
+  - name: "2 Days"
+    unit_price: 195
+    days: 2
+  - name: "3 Days"
+    unit_price: 195
+    days: 3
+  - name: "7 Days"
+    unit_price: 195
+    days: 7
 redirect_from:
   - "/category/fun-fair-stalls/97/play-your-cards-right-stall-hire/"
 gallery:
@@ -85,10 +100,6 @@ tabs:
       Suitable for both indoor and outdoor use
       
       ## Play Your Cards Right Stall Hire Pricing
-      
-      **Hire from**
-      
-      **£450.00**\+ vat**
       
       **2 day hire from**
       
@@ -157,7 +168,5 @@ tabs:
       (One time use only)
       
       Brand the rear half wall of the side stall with your brand from
-      
-      **£195**\+ vat**
 ---
 

@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "9.1m x 6m x 4.6m"
   - name: "Power"
-    value: "TBD"
+    value: "4 X 13amp socket"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "Indoor and Outdoor use on Grass/Level surface"
+  - name: "Access"
+    value: "Drive on access required"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "CHRISTMAS GROTTO 1"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 0
+    days: 1
 redirect_from:
   - "/category/christmas-grotto-hire/17/christmas-grotto-1/"
 gallery:
@@ -100,8 +106,6 @@ tabs:
       **Drive on access required**
       
       **Extra information**
-      
-      **Specification**
       
       **Product requirements**
       

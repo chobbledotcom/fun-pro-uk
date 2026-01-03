@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1600mm Length x 1000mm Width , Allowing for the persons to stand either end"
   - name: "Power"
-    value: "TBD"
+    value: "No Power required"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1444mm Length x 570mm Width x 880mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "FOOTBALL TABLES"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
+  - name: "2 Days"
+    unit_price: 495
+    days: 2
+  - name: "3 Days"
+    unit_price: 595
+    days: 3
+  - name: "7 Days"
+    unit_price: 995
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/27/football-tables/"
 gallery:
@@ -85,24 +100,6 @@ tabs:
       
       Take your event to the next level by branding our football tables with your logo or design. Perfect for increasing brand visibility and engagement at exhibitions, fun days, and brand activations. 🚀
       
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£295**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£495**\+ vat**
-      
-      **3 day hire from**
-      
-      **£595**\+ vat**
-      
-      **7 day hire From**
-      
-      **£995**\+ vat**
-      
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
@@ -120,28 +117,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1444mm Length x 570mm Width x 880mm Height
-      
-      **Space required**
-      
-      1600mm Length x 1000mm Width , Allowing for the persons to stand either end
-      
-      **Electric requirements**
-      
-      No Power required
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       

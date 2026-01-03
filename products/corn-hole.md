@@ -14,12 +14,18 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2-8 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "Minimum 2m x 1m playing area"
   - name: "Power"
     value: "TBD"
   - name: "Setup time"
+    value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
     value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
@@ -29,9 +35,9 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Corn Hole"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 295
+    days: 1
 redirect_from:
   - "/category/exhibition-games/99/corn-hole/"
 gallery:
@@ -64,8 +70,6 @@ tabs:
       "Please Note Leader Boards are not included unless requested"
       
       ## Corn Hole – The Ultimate Team Game for Corporate & Private Events
-      
-      **Hire Prices:**
       
       **Hire from**
       
@@ -189,8 +193,6 @@ tabs:
       
       **Feature**
       
-      Specification
-      
       **Board Dimensions**
       
       120cm x 90cm x 30cm
@@ -214,10 +216,6 @@ tabs:
       **Bean Bag Material**
       
       Durable duck cloth with food-grade corn filling
-      
-      **Space Required**
-      
-      Minimum 2m x 1m playing area
       
       **Setup Time**
       

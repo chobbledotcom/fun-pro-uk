@@ -21,6 +21,12 @@ specs:
     value: "TBD"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "TBD"
+  - name: "Suitability"
+    value: "TBD"
+  - name: "Access"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Giant Jenga Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 60
+    days: 1
+  - name: "2 Days"
+    unit_price: 110
+    days: 2
+  - name: "3 Days"
+    unit_price: 160
+    days: 3
+  - name: "7 Days"
+    unit_price: 240
+    days: 7
 redirect_from:
   - "/category/corporate-entertainment/44/giant-jenga-hire/"
 gallery:
@@ -66,24 +81,6 @@ tabs:
       At Fun Pro UK, we specialize in providing top-quality event hire services in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry. Our Giant Jenga Hire service is just one of the many ways we can help make your event a success. Let us take care of the entertainment so you can focus on enjoying the festivities! 🎯
       
       Don't miss out on the fun – book our Giant Jenga Hire today and make your event one to remember! Contact us now to secure your reservation. 🎲
-      
-      **Hire Prices:**
-      
-      **Hire from**
-      
-      **£60**\+ vat**
-      
-      **2 Day hire from**
-      
-      **£110**\+ vat**
-      
-      **3 day hire from**
-      
-      **£160**\+ vat**
-      
-      **7 day hire From**
-      
-      **£240**\+ vat**
       
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       

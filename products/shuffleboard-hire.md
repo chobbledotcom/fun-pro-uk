@@ -14,13 +14,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "1000mm Width x 3000mm Depth, Allowing for the person to stand at the front"
   - name: "Power"
-    value: "TBD"
+    value: "N/A"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "700mm Width x 2740mm Length x 810mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 600m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Shuffleboard Hire"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 495
+    days: 1
+  - name: "2 Days"
+    unit_price: 795
+    days: 2
+  - name: "3 Days"
+    unit_price: 995
+    days: 3
+  - name: "7 Days"
+    unit_price: 1495
+    days: 7
 redirect_from:
   - "/category/exhibition-games/87/shuffleboard-hire/"
 gallery:
@@ -92,22 +107,6 @@ tabs:
       
       ## Shuffleboard Pricing
       
-      **Hire from**
-      
-      **£495**\+ vat**
-      
-      **2 day hire from**
-      
-      **£795**\+ vat**
-      
-      **3 day hire from**
-      
-      **£995**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1495**\+ vat**
-      
       The price includes delivery, setup, and removal by our professional team.  
         
       In-house branding is also available. It is printed, applied, and removed after each event.  
@@ -164,28 +163,6 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      700mm Width x 2740mm Length x 810mm Height
-      
-      **Space required**
-      
-      1000mm Width x 3000mm Depth, Allowing for the person to stand at the front
-      
-      **Electric requirements**
-      
-      N/A
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 600m
       
       **Extra information**
       

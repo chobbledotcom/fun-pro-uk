@@ -16,11 +16,17 @@ specs:
   - name: "Players"
     value: "TBD"
   - name: "Space Required"
-    value: "TBD"
+    value: "2000mm Width x 2500mm Length, Allowing for the people to stand in around the game"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK power socket (Game wattage usage 30 watts)"
   - name: "Setup time"
     value: "TBD"
+  - name: "Equipment Size"
+    value: "1200mm Width x 2400mm Length x 90mm Height"
+  - name: "Suitability"
+    value: "Indoor use only/Level surface"
+  - name: "Access"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "TBD"
@@ -29,9 +35,18 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
 options:
-  - name: "Scalextric Slot Car Racing"
-    max_quantity: 1
+  - name: "1 Day"
     unit_price: 695
+    days: 1
+  - name: "2 Days"
+    unit_price: 995
+    days: 2
+  - name: "3 Days"
+    unit_price: 1295
+    days: 3
+  - name: "7 Days"
+    unit_price: 1895
+    days: 7
 redirect_from:
   - "/category/christmas-games/88/scalextric-slot-car-racing/"
 gallery:
@@ -109,24 +124,6 @@ tabs:
       
       Our team of professionals will take care of the logistics for you. Booking and delivery is easy and stress-free. We can also be onsite at your request to help with the Scalextric slot cars during the event, and ensure that everything goes off without a single hitch.
       
-      ### **Hire Prices:**
-      
-      **Hire from**
-      
-      **£695**\+ vat**
-      
-      **2 day hire from**
-      
-      **£995**\+ vat**
-      
-      **3 day hire from**
-      
-      **£1295**\+ vat**
-      
-      **7 day hire from**
-      
-      **£1895**\+ vat**
-      
       All packages include delivery, setup, and removal by our professional team.
       
       You can rest assured that the scalextric slot car racing hire and other equipment will arrive in top condition, and ready-for-use at your event.
@@ -150,28 +147,6 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       Check our Scalextric Slot Car Racing specifications:
-      
-      **Specification**
-      
-      **Equipment size**
-      
-      1200mm Width x 2400mm Length x 90mm Height
-      
-      **Space required**
-      
-      2000mm Width x 2500mm Length, Allowing for the people to stand in around the game
-      
-      **Electric requirements**
-      
-      1 x UK power socket (Game wattage usage 30 watts)
-      
-      **Suitability**
-      
-      Indoor use only/Level surface
-      
-      **Access**
-      
-      Minimum door width 0.6m
       
       **Extra information**
       
