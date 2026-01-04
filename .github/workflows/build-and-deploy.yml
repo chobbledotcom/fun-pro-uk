@@ -9,9 +9,67 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  setup:
+  test:
+    name: Run Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Checkout Chobble Template
+        uses: actions/checkout@v4
+        with:
+          repository: chobble-mirror/chobble-template
+          ref: main
+          path: template
+
+      - name: Copy template files to combined dir
+        run: |
+          mkdir -p combined
+          rsync \
+            --recursive \
+            --verbose \
+            --delete \
+            --exclude=".git" \
+            --exclude="*.md" \
+            template/ \
+            combined/
+
+      - name: Overlay our repo files into combined src
+        run: |
+          rsync \
+            --recursive \
+            --verbose \
+            --exclude=".*" \
+            --exclude="README.md" \
+            --exclude="old_site" \
+            --exclude="package.json" \
+            --exclude="package-lock.json" \
+            --exclude="bun.lockb" \
+            source/ \
+            combined/src/
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: |
+          cd combined
+          bun install --frozen-lockfile
+
+      - name: Run tests
+        run: |
+          cd combined
+          bun test
+
+  build-deploy:
     name: Build & Deploy to Bunny
     runs-on: ubuntu-latest
+    needs: [test]
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -123,7 +181,7 @@ jobs:
   notify-failure:
     name: Notify on Failure
     runs-on: ubuntu-latest
-    needs: [setup]
+    needs: [test, build-deploy]
     if: failure()
     steps:
       - name: Send failure notification
@@ -131,4 +189,3 @@ jobs:
         with:
           url: 'https://ntfy.sh'
           topic: ${{ secrets.NTFY_TOPIC }}
-
