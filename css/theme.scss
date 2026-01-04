@@ -3,7 +3,6 @@
 @use "breakpoints";
 
 @mixin themed-section() {
-  background: var(--background);
   color: var(--color-text);
 
   a {
@@ -554,14 +553,14 @@ body.horizontal-nav main {
 }
 
 .homepage-header {
-  --background:
-    linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%),
-    url("/assets/homepage-header-background.jpg");
   --color-text: #fdfdfd;
   --color-link: #fdfdfd;
   --color-link-hover: #fdfdfd;
   @include themed-section;
 
+  background:
+    linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%),
+    url("/assets/homepage-header-background.jpg");
   background-size: cover;
   position: relative;
 
@@ -607,7 +606,7 @@ body.horizontal-nav main {
   }
   .button {
     background: transparent;
-    border-color: var(--color-border);
+    border-color: var(--color-link);
   }
   .items {
     li {
@@ -911,7 +910,7 @@ body.reviews {
   --color-text: #fff;
   --color-link: #fff;
   --color-link-hover: #fff;
-  --background: #009dd7;
+  background: #009dd7;
   @include themed-section;
 
   .grid {
@@ -1085,7 +1084,8 @@ ul.items {
   }
 }
 
-.homepage-products {
+.homepage-products,
+.homepage-events {
   padding: 128px 32px;
   h2 {
     font-size: 44pxc;
