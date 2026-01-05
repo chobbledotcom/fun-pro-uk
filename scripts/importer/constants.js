@@ -13,6 +13,7 @@ const LOCATION_TOWNS = [
   'milton-keynes',
   'northampton',
   'nottingham',
+  'sheffield',
 ];
 
 /**
