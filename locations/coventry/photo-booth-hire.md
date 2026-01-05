@@ -4,13 +4,14 @@ meta_title: "Photo Booth Hire | Coventry | Fun Pro UK"
 meta_description: "If you&#39;re looking to hire a photo booth in Coventry, Fun Pro UK are unbeatable! Get in touch to find out why we&#39;re Coventry&#39;s photobooth experts."
 redirect_from:
   - "/pages/photo-booth-hire-coventry/"
+thumbnail: "/images/locations/pair-2.png"
 ---
 
 # Photo Booth Hire Coventry
 
 Thinking or hiring a Photo booth for your event? Our [Photo booth hire in Coventry](/categories/photo-booths-and-magic-mirrors/#content) provides fabulous instant selfies that create memories to keep forever.
 
-![Photo booth hire](/userfiles/file/FunPro/Photo%20Booth/20181129-211810.jpg)Our Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
+Our Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
 
 We know at Fun Pro UK how special your occasion is and how important it is that you have the correct equipment for your party. This is why Fun Pro UK only stock the most up to date technology on the market to ensure our clients receive the best experience possible.
 
@@ -25,7 +26,7 @@ Photo booth hire in Coventry is popular with weddings, parties and corporate eve
 
 Fun Pro UK are a reliable and reputable company that have been in business for 12 years. We have many clients that come back to us year after year as they know our customer service is 100% from start to finish. Why not check out our [reviews](/testimonials/#content)?
 
-![Photo booth reviews](/userfiles/file/FunPro/Reviews/pair-2.png)
+![Photo booth reviews](/images/locations/pair-2.png)
 
 For more information or to book your Photo booth Hire Coventry then contact us via
 

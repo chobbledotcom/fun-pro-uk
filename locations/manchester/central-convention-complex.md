@@ -20,7 +20,7 @@ The delivery team will arrive at a time to suite you and set up your chosen Trad
 
 Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central. Whether you are searching for a [Cash Grabber - Grab a grand/ Ball Nado game](/products/ballnado-grabber/#content) as seen on the Crystal Maze television show. Or maybe you are thinking of increasing your footfall by hiring one of our Giant Buzz Wire games, our games are heaps of fun and guarantee to engage the crowd who will be well and truly flocking to your stand.
 
-![Giant Buzz wire](/userfiles/file/FunPro/Buzz%20wire/1.png)
+
 
 ## **Branded Game Hire**
 

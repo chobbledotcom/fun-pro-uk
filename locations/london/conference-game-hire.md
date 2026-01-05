@@ -10,7 +10,7 @@ redirect_from:
 
 Looking for the perfect main attraction to include at your conference? Our London Conference and Event Game Hire is what you’re looking for. From [giant outdoor games](/products/giant-connect-4-game-hire/#content) to classic favourites like retro arcade machines, racing simulators, photo booths and more. We guarantee that our party game hire is reliable and easy to use but most of all, fun!
 
-![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
+
 
 ## Explore Our Popular Game Hire Services in London
 

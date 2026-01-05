@@ -8,7 +8,7 @@ redirect_from:
 
 # Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry
 
-![Batak Pro Hire Coventry](/userfiles/file/FunPro/Batak%20Pro/img-20221207-wa0005.jpg)
+
 
 Are you looking to provide your guests with an exciting, fast-paced activity at your upcoming event? Our Batak Pro Hire Coventry is the perfect way to engage guests, test reaction speeds, and create a competitive atmosphere that everyone will love.
 

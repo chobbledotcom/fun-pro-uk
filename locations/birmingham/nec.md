@@ -4,13 +4,14 @@ meta_title: "Game Hire At The NEC"
 meta_description: "Looking for the number one supplier of games for your exhibition stand at the NEC. Visit Fun Pro UK"
 redirect_from:
   - "/pages/nec-birmingham/"
+thumbnail: "/images/locations/nec.jpg"
 ---
 
 # Trusted Birmingham Event Game Hire
 
 Searching for an event game hire in Birmingham that’s also close to the NEC? [Fun Pro](/#content) can help! We have a wide range of exhibition games that are sure to attract attention and make your stand the main attraction. Conveniently located near Coventry, our team can quickly deliver and set up your crane hire in Birmingham or [arcade game hire](/categories/arcade-games/#content) for any event at the NEC.
 
-![NEC Birmingham](/userfiles/file/FunPro/nec.jpg)
+![NEC Birmingham](/images/locations/nec.jpg)
 
 ## Explore Our Popular Game Hire Services in Birmingham
 
@@ -72,7 +73,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
-![Giant Buzz Wire Birmingham](/userfiles/file/FunPro/Buzz%20wire/1.png)
+
 
 ## Why Choose Our Birmingham Event Game Hire?
 

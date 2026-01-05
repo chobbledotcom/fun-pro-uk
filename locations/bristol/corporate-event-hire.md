@@ -4,6 +4,7 @@ meta_title: "Fun Pro UK | Corporate Entertainment Hire | Bristol"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Choose Fun Pro UK for events in Bristol for interactive games, photo booths and more."
 redirect_from:
   - "/pages/bristol-corporate-event-hire/"
+thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Fun Pro UK the corporate entertainment agency for Bristol!
@@ -46,4 +47,4 @@ Tel: 02477220701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](/userfiles/file/FunPro/contactus2.jpg)
+![](/images/locations/contactus2.jpg)

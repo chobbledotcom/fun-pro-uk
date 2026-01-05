@@ -4,11 +4,12 @@ meta_title: "Corporate Event Hire Coventry | Interactive Games"
 meta_description: "Professional corporate event hire in Coventry. Interactive games, team building activities and exhibition entertainment for conferences."
 redirect_from:
   - "/pages/corporate-event-hire-coventry/"
+thumbnail: "/images/locations/coventry.jpg"
 ---
 
 # Corporate Event Hire in Coventry
 
-## ![](/userfiles/file/FunPro/coventry.jpg)
+## ![](/images/locations/coventry.jpg)
 
 ## Why Choose Corporate Entertainment for Your Coventry Event
 
