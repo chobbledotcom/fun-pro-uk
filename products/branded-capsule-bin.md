@@ -100,6 +100,4 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all
       enquiries please complete our enquiry form and one of our team will get
       back.
-gallery:
-  - /images/Capsule Bin Foot locker.jpg
 ---
