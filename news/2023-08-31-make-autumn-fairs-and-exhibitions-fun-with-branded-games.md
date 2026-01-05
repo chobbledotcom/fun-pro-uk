@@ -1,5 +1,5 @@
 ---
-title: "Make Autumn Fairs & Exhibitions Fun with Branded Games | Blog"
+title: "Make Autumn Fairs & Exhibitions Fun with Branded Games"
 date: 2023-08-31
 author: "team/colin.md"
 meta_title: "Make Autumn Fairs & Exhibitions Fun with Branded Games | Blog"

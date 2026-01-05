@@ -1,5 +1,5 @@
 ---
-title: "Ansty Hall This Sunday – Event Game Hire Services"
+title: "Ansty Hall this Sunday!"
 date: 2018-01-02
 author: "team/liz.md"
 meta_title: "Ansty Hall This Sunday – Event Game Hire Services"

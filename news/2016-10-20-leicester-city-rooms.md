@@ -1,5 +1,5 @@
 ---
-title: "Leicester City Rooms – Event Entertainment Options"
+title: "Leicester City Rooms"
 date: 2016-10-20
 author: "team/liz.md"
 meta_title: "Leicester City Rooms – Event Entertainment Options"

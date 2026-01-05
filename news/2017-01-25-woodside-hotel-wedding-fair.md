@@ -1,5 +1,5 @@
 ---
-title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"
+title: "Woodside Hotel Wedding fair"
 date: 2017-01-25
 author: "team/liz.md"
 meta_title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"

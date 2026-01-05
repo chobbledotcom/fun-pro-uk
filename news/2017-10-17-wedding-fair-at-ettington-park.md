@@ -1,5 +1,5 @@
 ---
-title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"
+title: "Wedding Fair at Ettington Park"
 date: 2017-10-17
 author: "team/liz.md"
 meta_title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"

@@ -1,5 +1,5 @@
 ---
-title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
+title: "Did you know we have moved!"
 date: 2018-12-12
 author: "team/liz.md"
 meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"

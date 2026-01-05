@@ -1,5 +1,5 @@
 ---
-title: "Photo Booths – Not Just For Fun Events | Fun Pro UK"
+title: "Photo booths are not just for fun!"
 date: 2019-01-18
 author: "team/colin.md"
 meta_title: "Photo Booths – Not Just For Fun Events | Fun Pro UK"

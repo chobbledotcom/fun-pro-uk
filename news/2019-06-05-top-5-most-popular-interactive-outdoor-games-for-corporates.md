@@ -1,5 +1,5 @@
 ---
-title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"
+title: "Top 5 Most Popular Interactive Outdoor Games For Corporates"
 date: 2019-06-05
 author: "team/colin.md"
 meta_title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"

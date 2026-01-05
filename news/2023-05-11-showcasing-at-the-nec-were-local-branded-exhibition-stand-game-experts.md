@@ -1,5 +1,5 @@
 ---
-title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"
+title: "Showcasing at the NEC? We're local branded exhibition stand game experts!"
 date: 2023-05-11
 author: "team/colin.md"
 meta_title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"

@@ -1,5 +1,5 @@
 ---
-title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"
+title: "How Do You Celebrate Christmas At Work?"
 date: 2019-09-10
 author: "team/liz.md"
 meta_title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"

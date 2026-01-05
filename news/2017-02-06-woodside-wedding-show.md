@@ -1,5 +1,5 @@
 ---
-title: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK"
+title: "Woodside wedding show"
 date: 2017-02-06
 author: "team/liz.md"
 meta_title: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK"

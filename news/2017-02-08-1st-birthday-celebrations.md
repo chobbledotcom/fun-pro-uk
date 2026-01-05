@@ -1,5 +1,5 @@
 ---
-title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"
+title: "1st Birthday Celebrations!"
 date: 2017-02-08
 author: "team/colin.md"
 meta_title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"

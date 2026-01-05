@@ -1,5 +1,5 @@
 ---
-title: "Dunchurch Park Wedding Show – Event Entertainment Hire"
+title: "Dunchurch Park Wedding Show"
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Dunchurch Park Wedding Show – Event Entertainment Hire"

@@ -1,5 +1,5 @@
 ---
-title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
+title: "Weekend of 29th July 2017"
 date: 2017-07-31
 author: "team/liz.md"
 meta_title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"

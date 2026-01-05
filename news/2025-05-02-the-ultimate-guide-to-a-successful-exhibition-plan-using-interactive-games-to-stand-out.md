@@ -1,5 +1,5 @@
 ---
-title: "Exhibition Game Hire| Prize Crane, Batak & Car Simulators"
+title: "The Ultimate Guide To A Successful Exhibition Plan: Using Interactive Games To Stand Out"
 date: 2025-05-02
 author: "team/liz.md"
 meta_title: "Exhibition Game Hire| Prize Crane, Batak & Car Simulators"

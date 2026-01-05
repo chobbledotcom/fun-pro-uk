@@ -1,5 +1,5 @@
 ---
-title: "Celebrate Christmas and the New Year in Style! | News & Blogs"
+title: "Celebrate Christmas and the New Year in Style!"
 date: 2023-11-30
 author: "team/liz.md"
 meta_title: "Celebrate Christmas and the New Year in Style! | News & Blogs"

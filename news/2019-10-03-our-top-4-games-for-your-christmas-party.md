@@ -1,5 +1,5 @@
 ---
-title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"
+title: "Our Top 4 Games for your Christmas Party"
 date: 2019-10-03
 author: "team/liz.md"
 meta_title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"

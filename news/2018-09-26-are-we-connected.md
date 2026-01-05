@@ -1,5 +1,5 @@
 ---
-title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"
+title: "Are we connected?"
 date: 2018-09-26
 author: "team/liz.md"
 meta_title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"

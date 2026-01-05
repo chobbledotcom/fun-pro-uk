@@ -1,5 +1,5 @@
 ---
-title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"
+title: "Magic Mirror 18th Feb"
 date: 2017-02-22
 author: "team/liz.md"
 meta_title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"

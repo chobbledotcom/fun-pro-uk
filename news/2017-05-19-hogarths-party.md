@@ -1,5 +1,5 @@
 ---
-title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
+title: "Hogarth's party"
 date: 2017-05-19
 author: "team/liz.md"
 meta_title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"

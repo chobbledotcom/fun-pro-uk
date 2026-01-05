@@ -1,5 +1,5 @@
 ---
-title: "Sas Guests At The Chequered Flag – Event Game Hire"
+title: "SAS guests head for the chequered flag!"
 date: 2018-08-29
 author: "team/colin.md"
 meta_title: "Sas Guests At The Chequered Flag – Event Game Hire"

@@ -1,5 +1,5 @@
 ---
-title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
+title: "Gallop to victory!"
 date: 2018-10-24
 author: "team/colin.md"
 meta_title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"

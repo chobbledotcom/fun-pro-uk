@@ -1,5 +1,5 @@
 ---
-title: "Kishan’s 21st Birthday – Event Game Hire - Fun Pro UK"
+title: "Kishan's 21st Birthday"
 date: 2017-01-30
 author: "team/colin.md"
 meta_title: "Kishan’s 21st Birthday – Event Game Hire - Fun Pro UK"

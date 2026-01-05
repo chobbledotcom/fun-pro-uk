@@ -1,5 +1,5 @@
 ---
-title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"
+title: "Trade Show Marketing Ideas That Will Make You Stand Out"
 date: 2024-12-16
 author: "team/colin.md"
 meta_title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"

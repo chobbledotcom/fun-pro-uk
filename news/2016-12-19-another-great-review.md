@@ -1,5 +1,5 @@
 ---
-title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"
+title: "Another great review!"
 date: 2016-12-19
 author: "team/colin.md"
 meta_title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"

@@ -1,5 +1,5 @@
 ---
-title: "Reasons Why Games are the Key to Successful Corporate Events"
+title: "3 Reasons Why Games are the Key to Successful Corporate Events"
 date: 2024-12-11
 author: "team/colin.md"
 meta_title: "Reasons Why Games are the Key to Successful Corporate Events"

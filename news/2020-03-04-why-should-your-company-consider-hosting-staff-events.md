@@ -1,5 +1,5 @@
 ---
-title: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK"
+title: "Why Should Your Company Consider Hosting Staff Events?"
 date: 2020-03-04
 author: "team/colin.md"
 meta_title: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK"

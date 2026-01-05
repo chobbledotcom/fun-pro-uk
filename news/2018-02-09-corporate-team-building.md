@@ -1,5 +1,5 @@
 ---
-title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
+title: "Corporate team building!"
 date: 2018-02-09
 author: "team/colin.md"
 meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"

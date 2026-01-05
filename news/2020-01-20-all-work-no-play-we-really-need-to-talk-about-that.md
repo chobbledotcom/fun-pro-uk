@@ -1,5 +1,5 @@
 ---
-title: "All Work, No Play? Let’s Change That! | Fun Pro UK"
+title: "All work, no play? We really need to talk about that!!"
 date: 2020-01-20
 author: "team/liz.md"
 meta_title: "All Work, No Play? Let’s Change That! | Fun Pro UK"

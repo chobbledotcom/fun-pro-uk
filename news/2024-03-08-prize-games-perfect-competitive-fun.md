@@ -1,5 +1,5 @@
 ---
-title: "Prize Games for Events | Branded Party Supplies | News & Blog"
+title: "Prize Games - Perfect Competitive Fun!"
 date: 2024-03-08
 author: "team/colin.md"
 meta_title: "Prize Games for Events | Branded Party Supplies | News & Blog"

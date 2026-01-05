@@ -1,5 +1,5 @@
 ---
-title: "Delivering Quality Event Services Nationwide | Fun Pro UK"
+title: "Continually Working to Deliver a Quality Service!"
 date: 2018-11-21
 author: "team/colin.md"
 meta_title: "Delivering Quality Event Services Nationwide | Fun Pro UK"

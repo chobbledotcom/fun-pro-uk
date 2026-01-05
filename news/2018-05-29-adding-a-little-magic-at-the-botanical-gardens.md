@@ -1,5 +1,5 @@
 ---
-title: "Adding A Little Magic At The Botanical Gardens - Fun Pro UK"
+title: "Adding A Little Magic At The Botanical Gardens"
 date: 2018-05-29
 author: "team/liz.md"
 meta_title: "Adding A Little Magic At The Botanical Gardens - Fun Pro UK"

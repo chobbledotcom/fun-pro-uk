@@ -1,5 +1,5 @@
 ---
-title: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK"
+title: "Ho Ho Ho it's Christmas!"
 date: 2018-11-07
 author: "team/liz.md"
 meta_title: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK"

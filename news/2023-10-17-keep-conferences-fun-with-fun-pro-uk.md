@@ -1,5 +1,5 @@
 ---
-title: "Keep Conferences Fun with Fun Pro UK | Event Hire | Blogs"
+title: "Keep Conferences Fun with Fun Pro UK"
 date: 2023-10-17
 author: "team/liz.md"
 meta_title: "Keep Conferences Fun with Fun Pro UK | Event Hire | Blogs"

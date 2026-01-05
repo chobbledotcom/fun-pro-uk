@@ -1,5 +1,5 @@
 ---
-title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+title: "Dunchurch Park"
 date: 2016-11-12
 author: "team/liz.md"
 meta_title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"

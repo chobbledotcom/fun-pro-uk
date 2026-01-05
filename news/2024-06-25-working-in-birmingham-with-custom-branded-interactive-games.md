@@ -1,5 +1,5 @@
 ---
-title: "Fun Pro UK Enhances Installershow with Branded Games"
+title: "Working in Birmingham with Custom-Branded Interactive Games"
 date: 2024-06-25
 author: "team/liz.md"
 meta_title: "Fun Pro UK Enhances Installershow with Branded Games"

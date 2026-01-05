@@ -1,5 +1,5 @@
 ---
-title: "Saturday Night Selfies – Milton Keynes Photo Booth"
+title: "Saturday night Selfies at Milton Keynes!"
 date: 2018-01-30
 author: "team/colin.md"
 meta_title: "Saturday Night Selfies – Milton Keynes Photo Booth"

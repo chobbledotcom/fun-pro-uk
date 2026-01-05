@@ -1,5 +1,5 @@
 ---
-title: "Make Your Christmas Event Stand Out – Game Hire Services"
+title: "How to make your Christmas event stand out from the rest"
 date: 2018-09-19
 author: "team/liz.md"
 meta_title: "Make Your Christmas Event Stand Out – Game Hire Services"

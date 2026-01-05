@@ -1,5 +1,5 @@
 ---
-title: "End of the Financial Year! Now is the time to have a wellbeing event."
+title: "End of the Financial Year! Now is an ideal time to have a wellbeing event."
 date: 2024-04-04
 author: "team/liz.md"
 meta_title: "End of the Financial Year! Now is the time to have a wellbeing event."

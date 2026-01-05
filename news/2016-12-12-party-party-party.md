@@ -1,5 +1,5 @@
 ---
-title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"
+title: "Party Party Party"
 date: 2016-12-12
 author: "team/colin.md"
 meta_title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"

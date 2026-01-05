@@ -1,5 +1,5 @@
 ---
-title: "Team Building with Interactive Games - Fun Pro UK"
+title: "The Secret to Team Building: Interactive Games"
 date: 2024-05-03
 author: "team/colin.md"
 meta_title: "Team Building with Interactive Games - Fun Pro UK"

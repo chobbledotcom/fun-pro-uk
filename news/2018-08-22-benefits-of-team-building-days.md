@@ -1,5 +1,5 @@
 ---
-title: "Benefits Of Team Building Days – Game Hire Solutions"
+title: "Benefits of Team Building Days"
 date: 2018-08-22
 author: "team/liz.md"
 meta_title: "Benefits Of Team Building Days – Game Hire Solutions"

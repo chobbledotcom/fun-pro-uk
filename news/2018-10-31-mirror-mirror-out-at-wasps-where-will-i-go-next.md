@@ -1,5 +1,5 @@
 ---
-title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"
+title: "Mirror, Mirror out at Wasps, where will I go next?"
 date: 2018-10-31
 author: "team/liz.md"
 meta_title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"

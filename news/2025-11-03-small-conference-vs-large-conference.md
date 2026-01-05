@@ -1,5 +1,5 @@
 ---
-title: "Small vs Large Conference Game Hire: Expert Planning Guide"
+title: "Small Conference vs. Large Conference"
 date: 2025-11-03
 author: "team/liz.md"
 meta_title: "Small vs Large Conference Game Hire: Expert Planning Guide"

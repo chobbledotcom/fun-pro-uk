@@ -1,5 +1,5 @@
 ---
-title: "’tis The Season To Plan Christmas Parties – Game Hire"
+title: "Tis’ the season to organise your Christmas party!"
 date: 2018-06-27
 author: "team/liz.md"
 meta_title: "’tis The Season To Plan Christmas Parties – Game Hire"

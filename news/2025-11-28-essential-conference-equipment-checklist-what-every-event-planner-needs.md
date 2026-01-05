@@ -1,5 +1,5 @@
 ---
-title: "Essential Conference Equipment Checklist | Complete Guide"
+title: "Essential Conference Equipment Checklist: What Every Event Planner Needs"
 date: 2025-11-28
 author: "team/colin.md"
 meta_title: "Essential Conference Equipment Checklist | Complete Guide"

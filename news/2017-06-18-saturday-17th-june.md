@@ -1,5 +1,5 @@
 ---
-title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"
+title: "Saturday 17th June"
 date: 2017-06-18
 author: "team/liz.md"
 meta_title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"

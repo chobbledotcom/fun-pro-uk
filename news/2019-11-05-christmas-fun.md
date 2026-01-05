@@ -1,5 +1,5 @@
 ---
-title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"
+title: "Christmas Fun!"
 date: 2019-11-05
 author: "team/colin.md"
 meta_title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"

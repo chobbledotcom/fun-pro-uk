@@ -1,5 +1,5 @@
 ---
-title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"
+title: "Christmas Parties with the NEC"
 date: 2017-12-01
 author: "team/liz.md"
 meta_title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"

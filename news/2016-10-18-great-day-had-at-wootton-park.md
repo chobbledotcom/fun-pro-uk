@@ -1,5 +1,5 @@
 ---
-title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
+title: "Great day had at Wootton Park"
 date: 2016-10-18
 author: "team/colin.md"
 meta_title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"

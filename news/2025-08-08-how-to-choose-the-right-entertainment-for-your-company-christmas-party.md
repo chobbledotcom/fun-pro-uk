@@ -1,5 +1,5 @@
 ---
-title: "How to Choose Christmas Party Entertainment | Fun Pro UK"
+title: "How to Choose The Right Entertainment for Your Company Christmas Party"
 date: 2025-08-08
 author: "team/colin.md"
 meta_title: "How to Choose Christmas Party Entertainment | Fun Pro UK"

@@ -1,5 +1,5 @@
 ---
-title: "Will & Sam Wedding – Event Entertainment Services"
+title: "Will & Sam 2nd November 2016"
 date: 2016-11-05
 author: "team/colin.md"
 meta_title: "Will & Sam Wedding – Event Entertainment Services"

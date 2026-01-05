@@ -1,5 +1,5 @@
 ---
-title: "It"
+title: "It's never too early to think about Christmas parties!"
 date: 2023-07-28
 author: "team/liz.md"
 meta_title: "It's never too early to think about Christmas parties! | Our Blogs"

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"
+title: "Corporate Fun Days Can Be Fun!"
 date: 2019-03-18
 author: "team/colin.md"
 meta_title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"

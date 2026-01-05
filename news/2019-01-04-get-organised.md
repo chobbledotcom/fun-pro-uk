@@ -1,5 +1,5 @@
 ---
-title: "Get Organised For Your Event – Game Hire Nationwide"
+title: "Get organised!"
 date: 2019-01-04
 author: "team/liz.md"
 meta_title: "Get Organised For Your Event – Game Hire Nationwide"

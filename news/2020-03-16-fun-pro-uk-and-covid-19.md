@@ -1,5 +1,5 @@
 ---
-title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"
+title: "FUN PRO UK AND COVID-19"
 date: 2020-03-16
 author: "team/liz.md"
 meta_title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"

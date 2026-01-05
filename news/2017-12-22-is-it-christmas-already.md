@@ -1,5 +1,5 @@
 ---
-title: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK"
+title: "Is it Christmas already"
 date: 2017-12-22
 author: "team/colin.md"
 meta_title: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK"

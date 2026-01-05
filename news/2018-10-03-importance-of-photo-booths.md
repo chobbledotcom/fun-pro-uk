@@ -1,5 +1,5 @@
 ---
-title: "The Importance Of Photo Booths At Events - Game Hire Service"
+title: "Importance of Photo Booths!"
 date: 2018-10-03
 author: "team/liz.md"
 meta_title: "The Importance Of Photo Booths At Events - Game Hire Service"

@@ -1,5 +1,5 @@
 ---
-title: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK"
+title: "Magic mirror booth, Coombe Abbey"
 date: 2017-04-18
 author: "team/colin.md"
 meta_title: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK"

@@ -1,5 +1,5 @@
 ---
-title: "Make Trade Shows Fun with Branded Exhibition Games | Blog"
+title: "Make Trade Shows Fun with Branded Exhibition Games"
 date: 2023-07-14
 author: "team/colin.md"
 meta_title: "Make Trade Shows Fun with Branded Exhibition Games | Blog"

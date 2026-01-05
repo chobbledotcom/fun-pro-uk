@@ -1,5 +1,5 @@
 ---
-title: "Award Ceremony Season – Event Entertainment Game Hire"
+title: "Award ceremony season is fast approaching!"
 date: 2018-11-28
 author: "team/liz.md"
 meta_title: "Award Ceremony Season – Event Entertainment Game Hire"

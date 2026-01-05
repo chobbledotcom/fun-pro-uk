@@ -1,5 +1,5 @@
 ---
-title: "Batak, Grab a Grand, Roll & Bowl and More! | Our News & Blogs"
+title: "Batak, Grab a Grand, Roll & Bowl and More!"
 date: 2024-04-03
 author: "team/colin.md"
 meta_title: "Batak, Grab a Grand, Roll & Bowl and More! | Our News & Blogs"

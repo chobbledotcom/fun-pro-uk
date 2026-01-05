@@ -1,5 +1,5 @@
 ---
-title: "Christmas In October – Festive Event Game Hire | Fun Pro UK"
+title: "Christmas in October!"
 date: 2017-10-22
 author: "team/liz.md"
 meta_title: "Christmas In October – Festive Event Game Hire | Fun Pro UK"

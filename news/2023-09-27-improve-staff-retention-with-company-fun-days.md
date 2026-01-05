@@ -1,5 +1,5 @@
 ---
-title: "Improve Staff Retention with Company Fun Days | News & Blogs"
+title: "Improve Staff Retention with Company Fun Days"
 date: 2023-09-27
 author: "team/liz.md"
 meta_title: "Improve Staff Retention with Company Fun Days | News & Blogs"

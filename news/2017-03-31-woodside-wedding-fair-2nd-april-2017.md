@@ -1,5 +1,5 @@
 ---
-title: "Woodside Wedding Fair – Interactive Game Rentals"
+title: "Woodside Wedding Fair 2nd April 2017!!"
 date: 2017-03-31
 author: "team/liz.md"
 meta_title: "Woodside Wedding Fair – Interactive Game Rentals"

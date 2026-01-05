@@ -1,5 +1,5 @@
 ---
-title: "Get Ready for September Exhibitions with Fun Pro UK | Blogs"
+title: "Get Ready for September Exhibitions with Fun Pro UK"
 date: 2024-07-31
 author: "team/liz.md"
 meta_title: "Get Ready for September Exhibitions with Fun Pro UK | Blogs"

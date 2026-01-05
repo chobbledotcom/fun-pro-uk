@@ -1,5 +1,5 @@
 ---
-title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"
+title: "7 ways to show your staff some love!"
 date: 2019-01-30
 author: "team/liz.md"
 meta_title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"

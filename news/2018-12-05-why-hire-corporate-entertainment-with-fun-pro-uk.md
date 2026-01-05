@@ -1,5 +1,5 @@
 ---
-title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"
+title: "Why hire corporate entertainment with Fun Pro UK?"
 date: 2018-12-05
 author: "team/colin.md"
 meta_title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"

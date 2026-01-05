@@ -1,5 +1,5 @@
 ---
-title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"
+title: "Christmas is Coming - Arrange Party Hire!"
 date: 2023-11-26
 author: "team/colin.md"
 meta_title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"

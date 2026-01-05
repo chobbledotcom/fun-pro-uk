@@ -1,5 +1,5 @@
 ---
-title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"
+title: "The importance of throwing the company Christmas party"
 date: 2018-09-12
 author: "team/liz.md"
 meta_title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"

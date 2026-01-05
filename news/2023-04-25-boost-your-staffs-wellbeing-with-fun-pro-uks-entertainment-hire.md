@@ -1,5 +1,5 @@
 ---
-title: "Boost Your Staff"
+title: "Boost Your Staff's Wellbeing with Fun Pro UK's Entertainment Hire"
 date: 2023-04-25
 author: "team/colin.md"
 meta_title: "Boost Your Staff's Wellbeing with Office Entertainment Hire | Blog"

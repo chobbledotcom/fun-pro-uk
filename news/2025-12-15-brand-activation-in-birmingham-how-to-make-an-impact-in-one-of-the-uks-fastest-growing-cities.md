@@ -1,5 +1,5 @@
 ---
-title: "Brand Activation in Birmingham: The Complete Guide"
+title: "Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities"
 date: 2025-12-15
 author: "team/colin.md"
 meta_title: "Brand Activation in Birmingham: The Complete Guide"

@@ -1,5 +1,5 @@
 ---
-title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"
+title: "Christmas parties are go!"
 date: 2018-11-30
 author: "team/liz.md"
 meta_title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"

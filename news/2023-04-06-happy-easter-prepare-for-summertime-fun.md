@@ -1,5 +1,5 @@
 ---
-title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
+title: "Happy Easter! Prepare for Summertime Fun!"
 date: 2023-04-06
 author: "team/colin.md"
 meta_title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"

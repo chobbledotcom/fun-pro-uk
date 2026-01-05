@@ -1,5 +1,5 @@
 ---
-title: "Team Bonding Activities To Bring Your Team Together"
+title: "The Best Ideas For Team Bonding Activities In The Workplace"
 date: 2024-12-05
 author: "team/colin.md"
 meta_title: "Team Bonding Activities To Bring Your Team Together"

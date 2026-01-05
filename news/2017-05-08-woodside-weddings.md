@@ -1,5 +1,5 @@
 ---
-title: "Woodside Weddings – Entertainment Hire For Events"
+title: "Woodside Weddings"
 date: 2017-05-08
 author: "team/colin.md"
 meta_title: "Woodside Weddings – Entertainment Hire For Events"

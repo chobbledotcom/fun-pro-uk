@@ -1,5 +1,5 @@
 ---
-title: "Draycote Wedding Fair – Event Entertainment Options"
+title: "Draycote wedding fair"
 date: 2017-02-12
 author: "team/liz.md"
 meta_title: "Draycote Wedding Fair – Event Entertainment Options"

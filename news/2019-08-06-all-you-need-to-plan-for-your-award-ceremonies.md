@@ -1,5 +1,5 @@
 ---
-title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"
+title: "All You Need to Plan For Your Award Ceremonies"
 date: 2019-08-06
 author: "team/liz.md"
 meta_title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"

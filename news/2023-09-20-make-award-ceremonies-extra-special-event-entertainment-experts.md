@@ -1,5 +1,5 @@
 ---
-title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
+title: "Make Award Ceremonies Extra-Special: Event Entertainment Experts"
 date: 2023-09-20
 author: "team/colin.md"
 meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"

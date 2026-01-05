@@ -1,5 +1,5 @@
 ---
-title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
+title: "Ansty Hall 19th November 2016"
 date: 2016-11-20
 author: "team/liz.md"
 meta_title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"

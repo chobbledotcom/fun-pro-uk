@@ -1,5 +1,5 @@
 ---
-title: "Why Choose Manchester for Brand Activation Events"
+title: "Why Manchester is the Perfect City for Brand Activation Events"
 date: 2025-09-12
 author: "team/liz.md"
 meta_title: "Why Choose Manchester for Brand Activation Events"

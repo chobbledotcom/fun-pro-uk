@@ -1,5 +1,5 @@
 ---
-title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
+title: "Award ceremony London"
 date: 2018-12-03
 author: "team/liz.md"
 meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"

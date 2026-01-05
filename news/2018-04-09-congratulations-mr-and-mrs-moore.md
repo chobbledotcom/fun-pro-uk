@@ -1,5 +1,5 @@
 ---
-title: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK"
+title: "Congratulations Mr and Mrs Moore"
 date: 2018-04-09
 author: "team/liz.md"
 meta_title: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK"

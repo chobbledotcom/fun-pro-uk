@@ -1,5 +1,5 @@
 ---
-title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"
+title: "The benefits of exhibiting at trade shows & exhibitions"
 date: 2019-03-01
 author: "team/liz.md"
 meta_title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"

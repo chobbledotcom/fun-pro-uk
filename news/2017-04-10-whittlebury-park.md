@@ -1,5 +1,5 @@
 ---
-title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"
+title: "Whittlebury Park"
 date: 2017-04-10
 author: "team/colin.md"
 meta_title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"

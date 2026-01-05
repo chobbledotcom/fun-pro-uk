@@ -1,5 +1,5 @@
 ---
-title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"
+title: "Awesome Event Ideas from Fun Pro UK"
 date: 2023-03-20
 author: "team/liz.md"
 meta_title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"

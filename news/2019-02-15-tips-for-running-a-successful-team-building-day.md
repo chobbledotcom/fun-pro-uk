@@ -1,5 +1,5 @@
 ---
-title: "Tips For Successful Team Building Events | Fun Pro UK"
+title: "Tips for running a Successful Team Building Day"
 date: 2019-02-15
 author: "team/liz.md"
 meta_title: "Tips For Successful Team Building Events | Fun Pro UK"

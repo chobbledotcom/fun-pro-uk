@@ -1,5 +1,5 @@
 ---
-title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
+title: "Sunday's Wedding Fair"
 date: 2017-09-12
 author: "team/liz.md"
 meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"

@@ -1,5 +1,5 @@
 ---
-title: "Team Building Activities For Small Groups"
+title: "Team Building Activities for Small Groups"
 date: 2024-11-29
 author: "team/liz.md"
 meta_title: "Team Building Activities For Small Groups"

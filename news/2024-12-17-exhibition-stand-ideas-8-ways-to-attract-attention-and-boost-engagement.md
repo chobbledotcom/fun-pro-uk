@@ -1,5 +1,5 @@
 ---
-title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engageme"
+title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement"
 date: 2024-12-17
 author: "team/colin.md"
 meta_title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engageme"

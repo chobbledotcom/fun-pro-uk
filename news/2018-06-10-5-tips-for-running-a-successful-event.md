@@ -1,5 +1,5 @@
 ---
-title: "5 Tips For Running A Successful Event – Game Rentals"
+title: "5 tips for running a successful event!"
 date: 2018-06-10
 author: "team/colin.md"
 meta_title: "5 Tips For Running A Successful Event – Game Rentals"

@@ -1,5 +1,5 @@
 ---
-title: "Fun Pro UK"
+title: "A Busy May for the Fun Pro UK Team"
 date: 2024-06-04
 author: "team/colin.md"
 meta_title: "Fun Pro UK's Exciting May 2024 Event Highlights | News & Blogs"

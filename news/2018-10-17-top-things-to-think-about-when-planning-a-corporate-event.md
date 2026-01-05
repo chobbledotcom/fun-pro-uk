@@ -1,5 +1,5 @@
 ---
-title: "Top Tips For Planning Corporate Events | Fun Pro UK"
+title: "Top things to think about when planning a corporate event"
 date: 2018-10-17
 author: "team/colin.md"
 meta_title: "Top Tips For Planning Corporate Events | Fun Pro UK"

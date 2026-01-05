@@ -1,5 +1,5 @@
 ---
-title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"
+title: "Beat the Bleep!"
 date: 2018-02-06
 author: "team/liz.md"
 meta_title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"

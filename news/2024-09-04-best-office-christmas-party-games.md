@@ -1,5 +1,5 @@
 ---
-title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
+title: "Best Office Christmas Party Games"
 date: 2024-09-04
 author: "team/liz.md"
 meta_title: "Best Office Christmas Party Games | Event Hire | News & Blogs"

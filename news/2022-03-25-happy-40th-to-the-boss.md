@@ -1,5 +1,5 @@
 ---
-title: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK"
+title: "Happy 40th to the Boss!!"
 date: 2022-03-25
 author: "team/liz.md"
 meta_title: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK"

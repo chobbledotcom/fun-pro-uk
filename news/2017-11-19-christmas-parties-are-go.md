@@ -1,5 +1,5 @@
 ---
-title: "Christmas Party Fun with Magic Selfie Mirror - Fun Pro UK"
+title: "Christmas Parties are Go!"
 date: 2017-11-19
 author: "team/liz.md"
 meta_title: "Christmas Party Fun with Magic Selfie Mirror - Fun Pro UK"

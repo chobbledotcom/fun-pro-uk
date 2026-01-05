@@ -1,5 +1,5 @@
 ---
-title: "Corporate Branding Photobooths – Custom Event Solutions"
+title: "Corporate Branding on our Photobooths"
 date: 2016-12-21
 author: "team/colin.md"
 meta_title: "Corporate Branding Photobooths – Custom Event Solutions"

@@ -1,5 +1,5 @@
 ---
-title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
+title: "It's not too late!"
 date: 2019-12-01
 author: "team/colin.md"
 meta_title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"

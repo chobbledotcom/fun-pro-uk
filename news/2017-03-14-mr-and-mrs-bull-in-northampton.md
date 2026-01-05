@@ -1,5 +1,5 @@
 ---
-title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
+title: "Mr & Mrs Bull in Northampton"
 date: 2017-03-14
 author: "team/liz.md"
 meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"

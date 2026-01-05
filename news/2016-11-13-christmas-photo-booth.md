@@ -1,5 +1,5 @@
 ---
-title: "Christmas Photo Booth Hire – Fun For Festive Events"
+title: "CHRISTMAS PHOTO BOOTH"
 date: 2016-11-13
 author: "team/colin.md"
 meta_title: "Christmas Photo Booth Hire – Fun For Festive Events"
