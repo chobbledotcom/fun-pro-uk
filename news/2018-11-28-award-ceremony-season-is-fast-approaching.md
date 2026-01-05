@@ -1,6 +1,5 @@
 ---
 title: "Award Ceremony Season – Event Entertainment Game Hire"
-subtitle: "Award Ceremony Season – Event Entertainment Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-11-28
 author: "team/liz.md"
 meta_title: "Award Ceremony Season – Event Entertainment Game Hire"

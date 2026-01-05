@@ -1,6 +1,5 @@
 ---
 title: "Christmas Party Games for Office Teams | Fun Pro UK"
-subtitle: "Hire Christmas party games perfect for teams. Professional game hire with nationwide delivery. Create memorable festive events that bring people together."
 date: 2025-07-25
 author: "team/colin.md"
 meta_title: "Christmas Party Games for Office Teams | Fun Pro UK"

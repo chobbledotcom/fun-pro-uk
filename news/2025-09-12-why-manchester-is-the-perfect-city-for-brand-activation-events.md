@@ -1,6 +1,5 @@
 ---
 title: "Why Choose Manchester for Brand Activation Events"
-subtitle: "Discover why Manchester offers better value, engaged audiences and diverse venues for brand activation event hire. Expert guide for corporate event planners."
 date: 2025-09-12
 author: "team/liz.md"
 meta_title: "Why Choose Manchester for Brand Activation Events"

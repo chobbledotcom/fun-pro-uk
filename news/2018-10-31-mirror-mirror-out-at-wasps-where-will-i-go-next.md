@@ -1,6 +1,5 @@
 ---
 title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"
-subtitle: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-10-31
 author: "team/liz.md"
 meta_title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"

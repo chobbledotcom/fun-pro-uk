@@ -1,6 +1,5 @@
 ---
 title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
-subtitle: "Corporate Team Building – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-02-09
 author: "team/colin.md"
 meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"

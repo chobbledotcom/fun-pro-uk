@@ -1,6 +1,5 @@
 ---
 title: "Team Building Activities For Small Groups"
-subtitle: "Plan meaningful team building activities for small groups that foster trust, boost morale, and encourage teamwork. Discover top ideas from Fun Pro UK."
 date: 2024-11-29
 author: "team/liz.md"
 meta_title: "Team Building Activities For Small Groups"

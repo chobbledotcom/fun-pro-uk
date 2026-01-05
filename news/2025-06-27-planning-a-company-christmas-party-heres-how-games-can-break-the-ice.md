@@ -1,6 +1,5 @@
 ---
 title: "How Christmas Party Games Create Connection at Work"
-subtitle: "Planning a company Christmas party? Discover how interactive games break the ice, boost engagement, and turn your festive event into a memorable experience."
 date: 2025-06-27
 author: "team/liz.md"
 meta_title: "How Christmas Party Games Create Connection at Work"

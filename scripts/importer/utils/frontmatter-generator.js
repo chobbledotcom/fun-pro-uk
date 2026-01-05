@@ -134,7 +134,7 @@ const simpleHash = (str) => {
   let hash = 0;
   for (let i = 0; i < str.length; i++) {
     const char = str.charCodeAt(i);
-    hash = ((hash << 5) - hash) + char;
+    hash = (hash << 5) - hash + char;
     hash = hash & hash; // Convert to 32-bit integer
   }
   return Math.abs(hash);
@@ -180,7 +180,6 @@ const generateBlogFrontmatter = (
 
   let frontmatter = `---
 title: "${postTitle}"
-subtitle: "${metadata.meta_description || ""}"
 date: ${date}
 author: "${author}"
 meta_title: "${metadata.title || ""}"
@@ -291,35 +290,43 @@ const generateProductFrontmatter = (
   options.push({
     name: "1 Day",
     unit_price: numericPrice,
-    days: 1
+    days: 1,
   });
 
   // Add multi-day options if available
   if (multiDayPrices.price_2_days) {
-    const price2 = parseFloat(multiDayPrices.price_2_days.replace(/[^0-9.]/g, "")) || 0;
+    const price2 =
+      parseFloat(multiDayPrices.price_2_days.replace(/[^0-9.]/g, "")) || 0;
     options.push({ name: "2 Days", unit_price: price2, days: 2 });
   }
   if (multiDayPrices.price_3_days) {
-    const price3 = parseFloat(multiDayPrices.price_3_days.replace(/[^0-9.]/g, "")) || 0;
+    const price3 =
+      parseFloat(multiDayPrices.price_3_days.replace(/[^0-9.]/g, "")) || 0;
     options.push({ name: "3 Days", unit_price: price3, days: 3 });
   }
   if (multiDayPrices.price_4_days) {
-    const price4 = parseFloat(multiDayPrices.price_4_days.replace(/[^0-9.]/g, "")) || 0;
+    const price4 =
+      parseFloat(multiDayPrices.price_4_days.replace(/[^0-9.]/g, "")) || 0;
     options.push({ name: "4 Days", unit_price: price4, days: 4 });
   }
   if (multiDayPrices.price_5_days) {
-    const price5 = parseFloat(multiDayPrices.price_5_days.replace(/[^0-9.]/g, "")) || 0;
+    const price5 =
+      parseFloat(multiDayPrices.price_5_days.replace(/[^0-9.]/g, "")) || 0;
     options.push({ name: "5 Days", unit_price: price5, days: 5 });
   }
   if (multiDayPrices.price_7_days) {
-    const price7 = parseFloat(multiDayPrices.price_7_days.replace(/[^0-9.]/g, "")) || 0;
+    const price7 =
+      parseFloat(multiDayPrices.price_7_days.replace(/[^0-9.]/g, "")) || 0;
     options.push({ name: "7 Days", unit_price: price7, days: 7 });
   }
 
   // Generate options YAML
-  const optionsYaml = options.map(opt =>
-    `  - name: "${opt.name}"\n    unit_price: ${opt.unit_price}\n    days: ${opt.days}`
-  ).join("\n");
+  const optionsYaml = options
+    .map(
+      (opt) =>
+        `  - name: "${opt.name}"\n    unit_price: ${opt.unit_price}\n    days: ${opt.days}`,
+    )
+    .join("\n");
 
   // Use extracted specs or fall back to TBD
   const playersValue = specs.players || "TBD";
@@ -551,12 +558,18 @@ featured: true`;
   // Add the primary old site URL if source type is specified
   if (sourceType && hierarchyInfo?.oldSiteSlug) {
     const oldSiteSlug = hierarchyInfo.oldSiteSlug;
-    const oldUrl = sourceType === "pages" ? `/pages/${oldSiteSlug}/` : `/category/${oldSiteSlug}/`;
+    const oldUrl =
+      sourceType === "pages"
+        ? `/pages/${oldSiteSlug}/`
+        : `/category/${oldSiteSlug}/`;
     redirects.push(oldUrl);
   }
 
   // Add any additional redirects (for consolidated events)
-  if (hierarchyInfo?.additionalRedirects && hierarchyInfo.additionalRedirects.length > 0) {
+  if (
+    hierarchyInfo?.additionalRedirects &&
+    hierarchyInfo.additionalRedirects.length > 0
+  ) {
     for (const redirect of hierarchyInfo.additionalRedirects) {
       if (!redirects.includes(redirect)) {
         redirects.push(redirect);

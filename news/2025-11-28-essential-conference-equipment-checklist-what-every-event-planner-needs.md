@@ -1,6 +1,5 @@
 ---
 title: "Essential Conference Equipment Checklist | Complete Guide"
-subtitle: "Discover the complete conference equipment checklist every event planner needs. From the essentials to interactive games, learn what to hire for your event."
 date: 2025-11-28
 author: "team/colin.md"
 meta_title: "Essential Conference Equipment Checklist | Complete Guide"
