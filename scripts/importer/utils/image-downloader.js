@@ -286,6 +286,101 @@ const downloadNewsEmbeddedImages = async (content) => {
   return updatedContent;
 };
 
+/**
+ * Copy a /userfiles/ image from old_site to a local directory
+ * @param {string} imagePath - Path like /userfiles/foo.jpg or /userfiles/file/FunPro/bar.jpg
+ * @param {string} contentType - Type of content (locations, pages, etc.)
+ * @returns {{localPath: string, webPath: string, success: boolean, cached: boolean}}
+ */
+const copyLocalUserfilesImage = (imagePath, contentType) => {
+  // Extract just the filename from the path
+  const filename = path.basename(imagePath);
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
+  const localPath = path.join(imagesDir, filename);
+  const webPath = `/images/${contentType}/${filename}`;
+
+  ensureDir(imagesDir);
+
+  // Check if already copied (cached)
+  if (fs.existsSync(localPath)) {
+    return { localPath, webPath, success: true, cached: true };
+  }
+
+  // Build the source path in old_site
+  // imagePath is like /userfiles/file/FunPro/coventry.jpg
+  // old_site path is old_site/userfiles/file/FunPro/coventry.jpg
+  const oldSiteDir = path.join(__dirname, '..', '..', '..', 'old_site');
+  const sourcePath = path.join(oldSiteDir, imagePath);
+
+  try {
+    if (fs.existsSync(sourcePath)) {
+      fs.copyFileSync(sourcePath, localPath);
+      return { localPath, webPath, success: true, cached: false };
+    } else {
+      return { localPath, webPath, success: false, cached: false };
+    }
+  } catch (error) {
+    return { localPath, webPath, success: false, cached: false };
+  }
+};
+
+/**
+ * Copy all /userfiles/ embedded images from content and update URLs
+ * @param {string} content - Markdown content with /userfiles/ image references
+ * @param {string} contentType - Type of content (locations, pages, etc.)
+ * @returns {{content: string, firstImage: string|null}} Updated content and first image path
+ */
+const copyLocalEmbeddedImages = (content, contentType) => {
+  // Match markdown images with /userfiles/ paths
+  // Pattern: ![alt](/userfiles/...) possibly with title
+  const imageRegex = /!\[([^\]]*)\]\((\/userfiles\/[^)\s]+?)(?:\s+"[^"]*")?\)/g;
+  const matches = [...content.matchAll(imageRegex)];
+
+  if (matches.length === 0) {
+    return { content, firstImage: null };
+  }
+
+  process.stdout.write(` [imgs:`);
+  let updatedContent = content;
+  let firstImage = null;
+  let copied = 0;
+  let cached = 0;
+  let failed = 0;
+
+  for (const match of matches) {
+    const fullMatch = match[0];
+    const altText = match[1];
+    const imagePath = match[2];
+
+    const result = copyLocalUserfilesImage(imagePath, contentType);
+
+    if (result.success) {
+      if (result.cached) {
+        process.stdout.write('.');
+        cached++;
+      } else {
+        process.stdout.write('+');
+        copied++;
+      }
+      // Replace with new local path
+      updatedContent = updatedContent.replace(fullMatch, `![${altText}](${result.webPath})`);
+
+      // Track first image for thumbnail
+      if (!firstImage) {
+        firstImage = result.webPath;
+      }
+    } else {
+      process.stdout.write('x');
+      failed++;
+      // Remove failed images from content
+      updatedContent = updatedContent.replace(fullMatch, '');
+    }
+  }
+
+  process.stdout.write(`]`);
+  return { content: updatedContent, firstImage };
+};
+
 module.exports = {
   removeCloudinaryTransformations,
   convertFunProImageUrl,
@@ -294,5 +389,7 @@ module.exports = {
   downloadProductGallery,
   downloadEmbeddedImages,
   downloadNewsImage,
-  downloadNewsEmbeddedImages
+  downloadNewsEmbeddedImages,
+  copyLocalUserfilesImage,
+  copyLocalEmbeddedImages
 };

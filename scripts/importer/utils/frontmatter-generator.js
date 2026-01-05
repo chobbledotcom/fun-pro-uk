@@ -630,6 +630,7 @@ const findLocationThumbnail = (town) => {
  * @param {string} locationHeading - The H1 heading from page content
  * @param {string} town - The matched town name
  * @param {string} strippedSlug - Slug with town name removed (e.g., 'corporate-event-hire')
+ * @param {string} thumbnail - Thumbnail image path extracted from content (for sub-pages)
  * @returns {Object} Object with frontmatter and filename
  */
 const generateLocationFrontmatter = (
@@ -638,6 +639,7 @@ const generateLocationFrontmatter = (
   locationHeading = null,
   town = null,
   strippedSlug = null,
+  thumbnail = null,
 ) => {
   // Use the heading or title for the location title
   const title = locationHeading || metadata.header_text || metadata.title || "";
@@ -665,10 +667,15 @@ meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
 
   // For root location pages (slug equals town name), add thumbnail if available
   if (town && !strippedSlug) {
-    const thumbnail = findLocationThumbnail(town);
-    if (thumbnail) {
-      frontmatter += `\nthumbnail: "${thumbnail}"`;
+    const rootThumbnail = findLocationThumbnail(town);
+    if (rootThumbnail) {
+      frontmatter += `\nthumbnail: "${rootThumbnail}"`;
     }
+  }
+
+  // For sub-pages, add thumbnail if extracted from content
+  if (town && strippedSlug && thumbnail) {
+    frontmatter += `\nthumbnail: "${thumbnail}"`;
   }
 
   frontmatter += "\n---";
