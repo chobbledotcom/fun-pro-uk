@@ -6,6 +6,7 @@ const { extractContentHeading } = require('../utils/metadata-extractor');
 const { generateLocationFrontmatter, generateLocationRootFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 const { isLocationPage, extractTownFromSlug, stripTownFromSlug, LOCATION_TOWNS } = require('../constants');
+const { copyLocalEmbeddedImages } = require('../utils/image-downloader');
 
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'location',
@@ -15,9 +16,17 @@ const { convertSingle, convertBatch } = createConverter({
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     // Get town and stripped slug from context
     const { town, strippedSlug } = context;
-    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug);
+    // Get thumbnail from extracted data (set by beforeWrite)
+    const thumbnail = extracted.thumbnail || null;
+    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug, thumbnail);
   },
-  beforeWrite: async (content, extracted, slug) => content
+  beforeWrite: async (content, extracted, slug) => {
+    // Copy /userfiles/ images from old_site and update paths in content
+    const result = copyLocalEmbeddedImages(content, 'locations');
+    // Store the first image as thumbnail for frontmatter
+    extracted.thumbnail = result.firstImage;
+    return result.content;
+  }
 });
 
 /**

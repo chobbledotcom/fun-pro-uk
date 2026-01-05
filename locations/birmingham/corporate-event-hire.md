@@ -4,11 +4,12 @@ meta_title: "Corporate Event Hire Birmingham"
 meta_description: "Looking for corporate event hire in Birmingham? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/corporate-event-hire-birmingham/"
+thumbnail: "/images/locations/birmingham.jpg"
 ---
 
 # Corporate Event Hire Birmingham
 
-![Game hire Birmingham](/userfiles/file/FunPro/birmingham.jpg)
+![Game hire Birmingham](/images/locations/birmingham.jpg)
 
 When you're planning a corporate event in Birmingham, getting the entertainment right can make all the difference between an event people remember fondly and one that falls flat.
 
