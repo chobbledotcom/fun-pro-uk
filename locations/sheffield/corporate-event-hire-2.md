@@ -1,9 +1,10 @@
 ---
+title: "The corporate event entertainment company for Sheffield!"
 meta_title: "Fun Pro UK - Corporate Entertainment Hire | Sheffield"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Choose Fun Pro UK for Sheffield events - interactive games, photo booths &amp; much more."
-layout: page
 redirect_from:
   - "/pages/sheffield-corporate-event-hire/"
+  - "/sheffield-corporate-event-hire/"
 ---
 
 # The corporate event entertainment company for Sheffield!
@@ -50,4 +51,4 @@ Tel: 02476629197
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-![](/userfiles/file/FunPro/contactus2.jpg)
+![](/images/locations/contactus2.jpg)

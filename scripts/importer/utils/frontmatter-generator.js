@@ -645,6 +645,7 @@ const findLocationThumbnail = (town) => {
  * @param {string} town - The matched town name
  * @param {string} strippedSlug - Slug with town name removed (e.g., 'corporate-event-hire')
  * @param {string} thumbnail - Thumbnail image path extracted from content (for sub-pages)
+ * @param {boolean} hadRootLevelUrl - Whether page previously existed in pages/ dir (needs root-level redirect)
  * @returns {Object} Object with frontmatter and filename
  */
 const generateLocationFrontmatter = (
@@ -654,16 +655,16 @@ const generateLocationFrontmatter = (
   town = null,
   strippedSlug = null,
   thumbnail = null,
+  hadRootLevelUrl = false,
 ) => {
   // Use the heading or title for the location title
   const title = locationHeading || metadata.header_text || metadata.title || "";
 
-  // Old URL from the old site
-  const oldUrl = `/pages/${slug}/`;
+  // Old URL from the old site (pages directory)
+  const oldPagesUrl = `/pages/${slug}/`;
 
   // New URL will be dynamically calculated from file location
   // e.g., locations/birmingham/corporate-event-hire.md -> /locations/birmingham/corporate-event-hire/
-  // Only add redirect_from if the old URL differs from the new one
   const newUrl =
     town && strippedSlug
       ? `/locations/${town}/${strippedSlug}/`
@@ -674,9 +675,14 @@ title: "${escapeYamlString(title)}"
 meta_title: "${escapeYamlString(metadata.title || "")}"
 meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
 
-  // Add redirect_from if old URL differs from new URL
-  if (oldUrl !== newUrl) {
-    frontmatter += `\nredirect_from:\n  - "${oldUrl}"`;
+  // Add redirect_from for old /pages/ URL (always) and root-level URL (only if page existed there)
+  if (oldPagesUrl !== newUrl || hadRootLevelUrl) {
+    const redirects = [];
+    if (oldPagesUrl !== newUrl) redirects.push(oldPagesUrl);
+    // Only add root-level redirect if page previously existed in pages/ directory
+    if (hadRootLevelUrl) redirects.push(`/${slug}/`);
+    const redirectYaml = redirects.map((url) => `  - "${url}"`).join("\n");
+    frontmatter += `\nredirect_from:\n${redirectYaml}`;
   }
 
   // For root location pages (slug equals town name), add thumbnail if available
