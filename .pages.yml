@@ -35,7 +35,8 @@ content:
           - { name: order, type: number }
           - { name: url, type: string }
       - { name: layout, type: string }
-      - { name: permalink, type: string }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: news
     label: News
@@ -66,6 +67,8 @@ content:
         type: image
         label: Gallery
         options: { multiple: true }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: products
     label: Products
@@ -148,6 +151,8 @@ content:
           - { name: question, type: string, label: Question, required: true }
           - { name: answer, type: string, label: Answer, required: true }
           - { name: order, type: number, label: Order }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: categories
     label: Categories
@@ -174,6 +179,8 @@ content:
           - { name: question, type: string, label: Question, required: true }
           - { name: answer, type: string, label: Answer, required: true }
           - { name: order, type: number, label: Order }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: team
     label: Team
@@ -185,6 +192,7 @@ content:
       - { name: title, type: string, label: Name }
       - { name: snippet, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
+  - { name: permalink, type: string }
 
   - name: reviews
     label: Reviews
@@ -225,6 +233,8 @@ content:
           label: Meta Description,
           maxlength: 155,
         }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: locations
     label: Locations
@@ -246,6 +256,8 @@ content:
           maxlength: 155,
         }
       - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: homepage
     label: Homepage Settings
