@@ -293,34 +293,41 @@ const downloadNewsEmbeddedImages = async (content) => {
  * @returns {{localPath: string, webPath: string, success: boolean, cached: boolean}}
  */
 const copyLocalUserfilesImage = (imagePath, contentType) => {
+  // Decode URL-encoded characters (e.g., %20 -> space)
+  const decodedPath = decodeURIComponent(imagePath);
   // Extract just the filename from the path
-  const filename = path.basename(imagePath);
+  const filename = path.basename(decodedPath);
   const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
   const localPath = path.join(imagesDir, filename);
-  const webPath = `/images/${contentType}/${filename}`;
+  const webPath = `/images/${contentType}/${encodeURIComponent(filename).replace(/%20/g, '-')}`;
+
+  // Use URL-safe filename (replace spaces with dashes)
+  const safeFilename = filename.replace(/ /g, '-');
+  const safeLocalPath = path.join(imagesDir, safeFilename);
+  const safeWebPath = `/images/${contentType}/${safeFilename}`;
 
   ensureDir(imagesDir);
 
   // Check if already copied (cached)
-  if (fs.existsSync(localPath)) {
-    return { localPath, webPath, success: true, cached: true };
+  if (fs.existsSync(safeLocalPath)) {
+    return { localPath: safeLocalPath, webPath: safeWebPath, success: true, cached: true };
   }
 
   // Build the source path in old_site
   // imagePath is like /userfiles/file/FunPro/coventry.jpg
   // old_site path is old_site/userfiles/file/FunPro/coventry.jpg
   const oldSiteDir = path.join(__dirname, '..', '..', '..', 'old_site');
-  const sourcePath = path.join(oldSiteDir, imagePath);
+  const sourcePath = path.join(oldSiteDir, decodedPath);
 
   try {
     if (fs.existsSync(sourcePath)) {
-      fs.copyFileSync(sourcePath, localPath);
-      return { localPath, webPath, success: true, cached: false };
+      fs.copyFileSync(sourcePath, safeLocalPath);
+      return { localPath: safeLocalPath, webPath: safeWebPath, success: true, cached: false };
     } else {
-      return { localPath, webPath, success: false, cached: false };
+      return { localPath: safeLocalPath, webPath: safeWebPath, success: false, cached: false };
     }
   } catch (error) {
-    return { localPath, webPath, success: false, cached: false };
+    return { localPath: safeLocalPath, webPath: safeWebPath, success: false, cached: false };
   }
 };
 

@@ -4,13 +4,14 @@ meta_title: "Conference Game Hire London – Interactive Fun | Fun Pro UK"
 meta_description: "Looking to hire games for events that will make your conference unforgettable? Our event game hire adds excitement and fun to any gathering. Book today!"
 redirect_from:
   - "/pages/conference-game-hire-london/"
+thumbnail: "/images/locations/20200219-151000.jpg"
 ---
 
 # Trusted Corporate Event Entertainment, London
 
 Looking for the perfect main attraction to include at your conference? Our London Conference and Event Game Hire is what you’re looking for. From [giant outdoor games](/products/giant-connect-4-game-hire/#content) to classic favourites like retro arcade machines, racing simulators, photo booths and more. We guarantee that our party game hire is reliable and easy to use but most of all, fun!
 
-
+![Lights Out Game Hire](/images/locations/20200219-151000.jpg)
 
 ## Explore Our Popular Game Hire Services in London
 

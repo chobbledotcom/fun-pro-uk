@@ -73,7 +73,7 @@ Contact us for custom pricing and availability.
 
 \*Please note that delivery charges and minimum order values may apply.\*
 
-
+![Giant Buzz Wire Birmingham](/images/locations/1.png)
 
 ## Why Choose Our Birmingham Event Game Hire?
 

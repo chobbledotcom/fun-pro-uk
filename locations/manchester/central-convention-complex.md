@@ -4,6 +4,7 @@ meta_title: "Manchester Central Convention Complex | Exhibition Stand Hire"
 meta_description: "If you&#39;re showcasing at Manchester Central, choose Fun Pro UK for branded games and other exhibition hire favourites! Book your spot now with our experts."
 redirect_from:
   - "/pages/manchester-central-convention-complex/"
+thumbnail: "/images/locations/1.png"
 ---
 
 # Manchester Central Convention Complex
@@ -20,7 +21,7 @@ The delivery team will arrive at a time to suite you and set up your chosen Trad
 
 Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central. Whether you are searching for a [Cash Grabber - Grab a grand/ Ball Nado game](/products/ballnado-grabber/#content) as seen on the Crystal Maze television show. Or maybe you are thinking of increasing your footfall by hiring one of our Giant Buzz Wire games, our games are heaps of fun and guarantee to engage the crowd who will be well and truly flocking to your stand.
 
-
+![Giant Buzz wire](/images/locations/1.png)
 
 ## **Branded Game Hire**
 

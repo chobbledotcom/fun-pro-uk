@@ -4,11 +4,12 @@ meta_title: "Batak Pro Office Funday Coventry | Exhibition Stand Game Hire"
 meta_description: "Hire Batak Pro from our Coventry head office and enjoy event entertainment that will keep your guests happy. Book your spot with our team today!"
 redirect_from:
   - "/pages/batak-pro-office-funday-coventry/"
+thumbnail: "/images/locations/img-20221207-wa0005.jpg"
 ---
 
 # Batak Pro Office Funday Coventry
 
-
+![Batak pro hire Coventry](/images/locations/img-20221207-wa0005.jpg)
 
 Hiring a Batak Pro game from Fun Pro UK for your [office fun day event in Coventry](/products/batak-pro/#content) is a fantastic idea to boost staff morale and create a fun-filled atmosphere. The Batak Pro game is not only exciting but also a great way to engage your employees and bring them together for a day of laughter and friendly competition.
 

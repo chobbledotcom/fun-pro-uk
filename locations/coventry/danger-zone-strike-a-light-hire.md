@@ -4,11 +4,12 @@ meta_title: "Danger Zone/Strike a light hire Coventry"
 meta_description: "Contact Fun Pro UK today for your first class service by emailing info@funprouk.co.uk"
 redirect_from:
   - "/pages/danger-zone-strike-a-light-hire-coventry/"
+thumbnail: "/images/locations/20230921-100741.jpg"
 ---
 
 # Danger Zone -Strike a Light Hire Coventry
 
-
+![Strike a light hire Coventry](/images/locations/20230921-100741.jpg)
 
 Hiring the [Danger Zone Strike](/products/danger-zone-strike-a-light-game-hire/#content) a Light game from Fun Pro UK for your corporate events, including exhibition stands and conference game hire in Coventry, is an awesome choice! Fun Pro UK, being based in Coventry, is conveniently located to provide you with a seamless and personalized experience.
 

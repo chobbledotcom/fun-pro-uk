@@ -4,11 +4,12 @@ meta_title: "Ballnado Hire Coventry | Cash Grabber | Grab a Grand Cube"
 meta_description: "Exhibitions, corporate events and fun days in Coventry can all be improved by our Ballnado machine! Hire cash grabbers &amp; grab a grands with our event team."
 redirect_from:
   - "/pages/ballnado-hire-coventry/"
+thumbnail: "/images/locations/ballnadov2.jpg"
 ---
 
 # Fun Pro Ballnado Hire for Your Next Event in Coventry
 
-
+![Ballnado hire in Coventry](/images/locations/ballnadov2.jpg)
 
 Fun Pro UK is the perfect choice for hiring the Ballnado game for exhibitions, promotions, and corporate events in Coventry. The game hire specialists are also actually based right here in Coventry, so you're supporting a local business too!
 
