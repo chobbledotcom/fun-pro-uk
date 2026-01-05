@@ -14,26 +14,26 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: TBD
+    value: Not required
   - name: Space Required
     value: TBD
   - name: Power
-    value: TBD
+    value: Not Required
   - name: Setup time
-    value: TBD
+    value: 5 Mintues
   - name: Equipment Size
     value: TBD
   - name: Suitability
-    value: TBD
+    value: Prize Crane add on
   - name: Access
-    value: TBD
+    value: Not Required
 filter_attributes:
   - name: Guest Capacity
-    value: TBD
+    value: Not Required
   - name: Game Length
-    value: TBD
+    value: Not Required
   - name: Power Required
-    value: TBD
+    value: Not Required
 options:
   - name: 1 Day
     max_quantity: 10
