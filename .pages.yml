@@ -65,7 +65,7 @@ content:
         }
       - name: gallery
         type: image
-        label: Gallery
+        label: Featured Image
         options: { multiple: true }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
