@@ -1,5 +1,5 @@
 ---
-title: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK"
+title: "AWARDS DESERVE SELFIES!"
 date: 2019-05-15
 author: "team/liz.md"
 meta_title: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK - 
 redirect_from:
   - "/news/2019-05-15/awards-deserve-selfies/"
 ---
-
-# 15 May 19 - AWARDS DESERVE SELFIES!
 
 **AWARDS DESERVE SELFIES!**
 

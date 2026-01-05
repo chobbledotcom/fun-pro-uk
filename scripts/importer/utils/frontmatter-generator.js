@@ -170,7 +170,8 @@ const generateBlogFrontmatter = (
   blogHeading = null,
   localImagePath = null,
 ) => {
-  const postTitle = metadata.header_text || slug.replace(/-/g, " ");
+  // Use H1 heading for the post title (not the meta title from <title> tag)
+  const postTitle = blogHeading || metadata.header_text || slug.replace(/-/g, " ");
   const author = getRandomAuthor(slug);
 
   // Old URL from the old site

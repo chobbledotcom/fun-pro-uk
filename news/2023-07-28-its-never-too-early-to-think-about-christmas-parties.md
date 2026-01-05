@@ -1,5 +1,5 @@
 ---
-title: "It"
+title: "It's never too early to think about Christmas parties!"
 date: 2023-07-28
 author: "team/liz.md"
 meta_title: "It's never too early to think about Christmas parties! | Our Blogs"
@@ -7,8 +7,6 @@ meta_description: "It&#39;s a great idea to book your Christmas party entertainm
 redirect_from:
   - "/news/2023-07-28/its-never-too-early-to-think-about-christmas-parties/"
 ---
-
-# 28 July 23 - It's never too early to think about Christmas parties!
 
 The warmth of summer may still surround us, but at Fun Pro UK, we're already preparing for the most magical time of the year - Christmas! While it may seem early to talk about the holiday season, we believe in getting a head start to ensure that your Christmas party is nothing short of spectacular. With our wide range of exciting [Christmas party games for hire](/categories/christmas-game-hire/#content), you can beat the December rush and secure the best entertainment for a celebration that will be talked about for years to come!
 

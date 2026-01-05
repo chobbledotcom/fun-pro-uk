@@ -1,5 +1,5 @@
 ---
-title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
+title: "Did you know we have moved!"
 date: 2018-12-12
 author: "team/liz.md"
 meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "We Have Moved – Event Game Hire Updates | Fun Pro UK - Fun 
 redirect_from:
   - "/news/2018-12-12/did-you-know-we-have-moved/"
 ---
-
-# 12 December 18 - Did you know we have moved!
 
 Did you hear that we recently moved premises? Why, I hear you ask.
 

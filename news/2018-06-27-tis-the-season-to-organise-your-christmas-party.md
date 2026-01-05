@@ -1,5 +1,5 @@
 ---
-title: "’tis The Season To Plan Christmas Parties – Game Hire"
+title: "Tis’ the season to organise your Christmas party!"
 date: 2018-06-27
 author: "team/liz.md"
 meta_title: "’tis The Season To Plan Christmas Parties – Game Hire"
@@ -7,8 +7,6 @@ meta_description: "’tis The Season To Plan Christmas Parties – Game Hire - F
 redirect_from:
   - "/news/2018-06-27/tis-the-season-to-organise-your-christmas-party/"
 ---
-
-# 27 June 18 - Tis’ the season to organise your Christmas party!
 
 With all this lovely Summer weather it's hard to start thinking about organising the work Christmas do. We get it, you're thinking about relaxing on your summer holiday and will sort it out when you get back. There's only one problem with this strategy, other companies are organising theirs now and if you don't get started, you'll find you've missed the boat when it comes to venue and entertainment.
 

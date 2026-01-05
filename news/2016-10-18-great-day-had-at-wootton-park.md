@@ -1,5 +1,5 @@
 ---
-title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
+title: "Great day had at Wootton Park"
 date: 2016-10-18
 author: "team/colin.md"
 meta_title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK
 redirect_from:
   - "/news/2016-10-18/great-day-had-at-wootton-park/"
 ---
-
-# 18 October 16 - Great day had at Wootton Park
 
 On Sunday 17th October 2016 Perfect Snap attended the wedding fair at Wootton Park, Henley In Arden.
 

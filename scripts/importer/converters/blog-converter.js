@@ -31,6 +31,12 @@ const { convertSingle, convertBatch } = createConverter({
     }
     // Download embedded /userfiles/ images and update paths
     content = await downloadNewsEmbeddedImages(content);
+
+    // Strip the H1 heading from the body (e.g., "# [14 October 16 - Title Here](url)")
+    // This info is now displayed via the title frontmatter field
+    // The H1 is a markdown link: # [DD Month YY - Title](url "title")
+    content = content.replace(/^# \[\d{1,2} [A-Za-z]+ \d{2} - [^\]]+\]\([^)]+\)\n+/m, '');
+
     return content;
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({

@@ -1,5 +1,5 @@
 ---
-title: "Woodside Weddings – Entertainment Hire For Events"
+title: "Woodside Weddings"
 date: 2017-05-08
 author: "team/colin.md"
 meta_title: "Woodside Weddings – Entertainment Hire For Events"
@@ -7,8 +7,6 @@ meta_description: "Woodside Weddings – Entertainment Hire For Events - Fun Pro
 redirect_from:
   - "/news/2017-05-08/woodside-weddings/"
 ---
-
-# 08 May 17 - Woodside Weddings
 
 Once again the guests who were in attendance at David & Michael's [wedding](/categories/weddings/#content) made full use of our ever popular [green screen dream machine photo booth](/products/green-screen-photo-booths/#content).  
 The booth was used to the max as you can see by some of the great photos that were taken for the evening reception at one of our favourite venues, Woodside Hotel in Warwickshire.  

@@ -1,5 +1,5 @@
 ---
-title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
+title: "Gallop to victory!"
 date: 2018-10-24
 author: "team/colin.md"
 meta_title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Gallop To Victory – Event Game Hire Services | Fun Pro UK -
 redirect_from:
   - "/news/2018-10-24/gallop-to-victory/"
 ---
-
-# 24 October 18 - Gallop to victory!
 
 Looking for something different to entertain your guests with? Or planning a Race Night event?
 

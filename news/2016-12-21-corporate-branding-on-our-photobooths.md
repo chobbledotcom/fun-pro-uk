@@ -1,5 +1,5 @@
 ---
-title: "Corporate Branding Photobooths – Custom Event Solutions"
+title: "Corporate Branding on our Photobooths"
 date: 2016-12-21
 author: "team/colin.md"
 meta_title: "Corporate Branding Photobooths – Custom Event Solutions"
@@ -7,8 +7,6 @@ meta_description: "Corporate Branding Photobooths – Custom Event Solutions - F
 redirect_from:
   - "/news/2016-12-21/corporate-branding-on-our-photobooths/"
 ---
-
-# 21 December 16 - Corporate Branding on our Photobooths
 
 Arranging your Corporate Event? Let Perfect Snap help with organising the function. Perfect Snap really will bring the FUN to your event.
 

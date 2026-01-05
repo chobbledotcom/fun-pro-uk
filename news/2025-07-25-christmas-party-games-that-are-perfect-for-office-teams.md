@@ -1,5 +1,5 @@
 ---
-title: "Christmas Party Games for Office Teams | Fun Pro UK"
+title: "Christmas Party Games That Are Perfect for Office Teams"
 date: 2025-07-25
 author: "team/colin.md"
 meta_title: "Christmas Party Games for Office Teams | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/christmas-party-game-hire.jpg"
 ---
-
-# 25 July 25 - Christmas Party Games That Are Perfect for Office Teams
 
 ![](/images/news/christmas-party-game-hire.jpg)
 

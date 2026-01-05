@@ -1,5 +1,5 @@
 ---
-title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
+title: "Happy Easter! Prepare for Summertime Fun!"
 date: 2023-04-06
 author: "team/colin.md"
 meta_title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/img-20220617-wa0004.jpg"
 ---
-
-# 06 April 23 - Happy Easter! Prepare for Summertime Fun!
 
 At Fun Pro UK, we want to wish everyone a very happy Easter! Whether you're celebrating with family, friends, or just enjoying some time off work, we hope you have a fun and festive holiday.
 

@@ -1,5 +1,5 @@
 ---
-title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
+title: "Ultimate Freshers Week Party Game Ideas: Make Your University Welcome Week Unforgettable"
 date: 2025-08-29
 author: "team/liz.md"
 meta_title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/coconut-shy.jpg"
 ---
-
-# 29 August 25 - Ultimate Freshers Week Party Game Ideas: Make Your University Welcome Week Unforgettable
 
 ![](/images/news/coconut-shy.jpg)
 

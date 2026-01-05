@@ -1,5 +1,5 @@
 ---
-title: "Draycote Wedding Fair – Event Entertainment Options"
+title: "Draycote wedding fair"
 date: 2017-02-12
 author: "team/liz.md"
 meta_title: "Draycote Wedding Fair – Event Entertainment Options"
@@ -7,8 +7,6 @@ meta_description: "Draycote Wedding Fair – Event Entertainment Options - Fun P
 redirect_from:
   - "/news/2017-02-12/draycote-wedding-fair/"
 ---
-
-# 12 February 17 - Draycote wedding fair
 
 Team Perfect Snap are getting excited for the Wedding Inspo Evening which we are attending this a Thursday 16th February 2027 at the [Draycote Hotel in Rugby, Warwickshire.](/delivery-areas/#content)
 

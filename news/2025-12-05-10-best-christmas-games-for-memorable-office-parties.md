@@ -1,5 +1,5 @@
 ---
-title: "10 Best Christmas Games for Office Parties | Fun Pro UK"
+title: "10 Best Christmas Games for Memorable Office Parties"
 date: 2025-12-05
 author: "team/colin.md"
 meta_title: "10 Best Christmas Games for Office Parties | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/candy-cane-crush-fun-pro.jpg"
 ---
-
-# 05 December 25 - 10 Best Christmas Games for Memorable Office Parties
 
 ![](/images/news/candy-cane-crush-fun-pro.jpg)
 

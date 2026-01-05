@@ -1,5 +1,5 @@
 ---
-title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
+title: "Make Award Ceremonies Extra-Special: Event Entertainment Experts"
 date: 2023-09-20
 author: "team/colin.md"
 meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
@@ -7,8 +7,6 @@ meta_description: "If you have an awards ceremony coming up, our branded games w
 redirect_from:
   - "/news/2023-09-20/make-award-ceremonies-extra-special-event-entertainment-experts/"
 ---
-
-# 20 September 23 - Make Award Ceremonies Extra-Special: Event Entertainment Experts
 
 In the bustling world of corporate achievements, recognising milestones is not just essential—it's a cause for celebration. Every award and acknowledgement is a testament to hard work, innovation, and the pursuit of excellence. But how do we ensure that these celebrations leave a lasting impression?
 
