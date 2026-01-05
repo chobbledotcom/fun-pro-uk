@@ -1,6 +1,5 @@
 ---
 title: "Keep Conferences Fun with Fun Pro UK | Event Hire | Blogs"
-subtitle: "If you&#39;re hosting a conference, then hire entertainment with Fun Pro UK and keep spirits high during the event. Find out how to make conferences fun!"
 date: 2023-10-17
 author: "team/liz.md"
 meta_title: "Keep Conferences Fun with Fun Pro UK | Event Hire | Blogs"

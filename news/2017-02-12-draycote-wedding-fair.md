@@ -1,6 +1,5 @@
 ---
 title: "Draycote Wedding Fair – Event Entertainment Options"
-subtitle: "Draycote Wedding Fair – Event Entertainment Options - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2017-02-12
 author: "team/liz.md"
 meta_title: "Draycote Wedding Fair – Event Entertainment Options"

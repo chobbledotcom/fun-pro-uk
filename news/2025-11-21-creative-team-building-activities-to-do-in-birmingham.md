@@ -1,6 +1,5 @@
 ---
 title: "Team Building Activities Birmingham | Creative Corporate Events & Game"
-subtitle: "Discover creative team building activities in Birmingham for all group sizes and objectives. From interactive games to creative workshops, find the perfect solution for your corporate event."
 date: 2025-11-21
 author: "team/liz.md"
 meta_title: "Team Building Activities Birmingham | Creative Corporate Events & Game"

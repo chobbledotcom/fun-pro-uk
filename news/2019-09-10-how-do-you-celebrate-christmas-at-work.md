@@ -1,6 +1,5 @@
 ---
 title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"
-subtitle: "How Do You Celebrate Christmas At Work? | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2019-09-10
 author: "team/liz.md"
 meta_title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"

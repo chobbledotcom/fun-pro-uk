@@ -1,6 +1,5 @@
 ---
 title: "Top 10 Interactive Games for Freshers Week Events"
-subtitle: "Discover the best interactive games to break the ice at freshers week events. Expert advice from Fun Pro UK&#39;s 15+ years of university entertainment experience."
 date: 2025-09-05
 author: "team/colin.md"
 meta_title: "Top 10 Interactive Games for Freshers Week Events"

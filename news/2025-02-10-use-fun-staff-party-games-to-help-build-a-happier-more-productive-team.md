@@ -1,6 +1,5 @@
 ---
 title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"
-subtitle: "From interactive arcade machines to engaging group activities, Fun Pro has a range of interactive party games to help your team bond, and boost workplace productivity."
 date: 2025-02-10
 author: "team/colin.md"
 meta_title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"

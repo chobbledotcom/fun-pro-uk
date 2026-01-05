@@ -1,6 +1,5 @@
 ---
 title: "10 Best Christmas Games for Office Parties | Fun Pro UK"
-subtitle: "Discover the best Christmas games for corporate parties, from Reindeer Racing to festive Batak challenges. Expert tips on choosing interactive entertainment."
 date: 2025-12-05
 author: "team/colin.md"
 meta_title: "10 Best Christmas Games for Office Parties | Fun Pro UK"

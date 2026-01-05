@@ -1,6 +1,5 @@
 ---
 title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"
-subtitle: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2018-02-06
 author: "team/liz.md"
 meta_title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"

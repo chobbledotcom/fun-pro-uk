@@ -1,6 +1,5 @@
 ---
 title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
-subtitle: "Sunday’s Wedding Fair – Event Entertainment Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2017-09-12
 author: "team/liz.md"
 meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"

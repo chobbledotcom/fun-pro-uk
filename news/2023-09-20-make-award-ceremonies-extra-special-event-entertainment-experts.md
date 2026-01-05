@@ -1,6 +1,5 @@
 ---
 title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
-subtitle: "If you have an awards ceremony coming up, our branded games will add to the entertainment and make your staff feel extra-special. Find out more here!"
 date: 2023-09-20
 author: "team/colin.md"
 meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"

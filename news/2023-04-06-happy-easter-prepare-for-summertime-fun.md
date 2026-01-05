@@ -1,6 +1,5 @@
 ---
 title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"
-subtitle: "Happy Easter from Fun Pro UK! We have plenty of incredible entertainment ideas for the upcoming summertime, from giant garden games to gladiator duels."
 date: 2023-04-06
 author: "team/colin.md"
 meta_title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"

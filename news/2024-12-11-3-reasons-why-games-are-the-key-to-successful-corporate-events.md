@@ -1,6 +1,5 @@
 ---
 title: "Reasons Why Games are the Key to Successful Corporate Events"
-subtitle: "Discover why hiring arcade games, simulator games, and interactive experiences can elevate your next corporate event, creating fun and memorable moments!"
 date: 2024-12-11
 author: "team/colin.md"
 meta_title: "Reasons Why Games are the Key to Successful Corporate Events"

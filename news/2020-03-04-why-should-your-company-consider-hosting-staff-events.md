@@ -1,6 +1,5 @@
 ---
 title: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK"
-subtitle: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 date: 2020-03-04
 author: "team/colin.md"
 meta_title: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK"
