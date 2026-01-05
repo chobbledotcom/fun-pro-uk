@@ -104,7 +104,8 @@
 
 :root {
   --width-content: 1300px;
-  --color-bg: #fdfdfd;
+  --background: #fdfdfd;
+  --color-border: transparent;
   --font-family-heading: "DM Sans", var(--font-family-heading);
   --font-family-body: "DM Sans", var(--font-family-body);
   --border: 1px solid #babbbc;
@@ -1212,6 +1213,7 @@ ul.items {
 }
 
 .items {
+  --color-link: #111;
   &.border {
     border-radius: 16px;
     border: 1px solid #babbbc;
