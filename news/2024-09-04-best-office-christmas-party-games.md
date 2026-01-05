@@ -1,5 +1,5 @@
 ---
-title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
+title: "Best Office Christmas Party Games"
 date: 2024-09-04
 author: "team/liz.md"
 meta_title: "Best Office Christmas Party Games | Event Hire | News & Blogs"
@@ -7,8 +7,6 @@ meta_description: "Discover the best office Christmas party games with Fun Pro U
 redirect_from:
   - "/news/2024-09-04/best-office-christmas-party-games/"
 ---
-
-# 04 September 24 - Best Office Christmas Party Games
 
 Planning an event and want to ensure your guests have an amazing experience? Game rentals are a fantastic way to add fun and interactive elements to any gathering, whether it’s a corporate event, birthday party, convention, or community gathering.
 

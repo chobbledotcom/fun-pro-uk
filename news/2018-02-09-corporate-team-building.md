@@ -1,5 +1,5 @@
 ---
-title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
+title: "Corporate team building!"
 date: 2018-02-09
 author: "team/colin.md"
 meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Corporate Team Building – Interactive Game Hire | Fun Pro U
 redirect_from:
   - "/news/2018-02-09/corporate-team-building/"
 ---
-
-# 09 February 18 - Corporate team building!
 
 Our team have had a busy week. One of our events was a team building conference day at a new venue for us in the centre of [Coventry](/locations/coventry/corporate-event-hire/#content).  
   

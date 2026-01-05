@@ -1,5 +1,5 @@
 ---
-title: "Fun Group Activities You Can Add To Your Event | Fun Pro UK"
+title: "Fun Group Activities for Events in 2025"
 date: 2025-01-21
 author: "team/liz.md"
 meta_title: "Fun Group Activities You Can Add To Your Event | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Boost event engagement with fun group activities. Hire top qu
 redirect_from:
   - "/news/2025-01-21/fun-group-activities-for-events-in-2025/"
 ---
-
-# 21 January 25 - Fun Group Activities for Events in 2025
 
 Finding fun group activities that everyone will enjoy is challenging. How do you keep a large group of guests (sometimes of different ages) with different interests entertained? No one wants to attend a boring event!
 

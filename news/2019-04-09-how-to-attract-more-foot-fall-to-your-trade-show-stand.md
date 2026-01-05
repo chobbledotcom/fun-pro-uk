@@ -1,5 +1,5 @@
 ---
-title: "Attract Foot Traffic To Your Trade Show | Fun Pro UK"
+title: "How To Attract More Foot Fall To Your Trade Show Stand"
 date: 2019-04-09
 author: "team/liz.md"
 meta_title: "Attract Foot Traffic To Your Trade Show | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/busy-expo.jpg"
 ---
-
-# 09 April 19 - How To Attract More Foot Fall To Your Trade Show Stand
 
 ## How To Attract More Foot Fall To Your Trade Show Stand
 

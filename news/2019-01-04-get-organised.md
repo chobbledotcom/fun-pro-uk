@@ -1,5 +1,5 @@
 ---
-title: "Get Organised For Your Event – Game Hire Nationwide"
+title: "Get organised!"
 date: 2019-01-04
 author: "team/liz.md"
 meta_title: "Get Organised For Your Event – Game Hire Nationwide"
@@ -7,8 +7,6 @@ meta_description: "Get Organised For Your Event – Game Hire Nationwide - Fun P
 redirect_from:
   - "/news/2019-01-04/get-organised/"
 ---
-
-# 04 January 19 - Get organised!
 
 ## New Year's resolution: Time to get organised!
 

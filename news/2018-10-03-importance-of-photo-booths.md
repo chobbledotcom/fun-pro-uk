@@ -1,5 +1,5 @@
 ---
-title: "The Importance Of Photo Booths At Events - Game Hire Service"
+title: "Importance of Photo Booths!"
 date: 2018-10-03
 author: "team/liz.md"
 meta_title: "The Importance Of Photo Booths At Events - Game Hire Service"
@@ -7,8 +7,6 @@ meta_description: "The Importance Of Photo Booths At Events - Game Hire Service 
 redirect_from:
   - "/news/2018-10-03/importance-of-photo-booths/"
 ---
-
-# 03 October 18 - Importance of Photo Booths!
 
 Recently we joined many of [KPMG's staff in Birmingham for their annual awards night](/putting-kpmg-in-the-picture/#content). We attended with two of our most popular [Green Screen Photo Booths.](/products/green-screen-photo-booths/#content)
 

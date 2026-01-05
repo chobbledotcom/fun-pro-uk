@@ -1,5 +1,5 @@
 ---
-title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"
+title: "How Do You Celebrate Christmas At Work?"
 date: 2019-09-10
 author: "team/liz.md"
 meta_title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/20171214-173433.jpg"
 ---
-
-# 10 September 19 - How Do You Celebrate Christmas At Work?
 
 ## How Do You Celebrate Christmas at Work?
 

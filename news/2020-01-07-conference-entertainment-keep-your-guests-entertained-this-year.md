@@ -1,5 +1,5 @@
 ---
-title: "Conference Entertainment – Engage Your Guests | Fun Pro UK"
+title: "Conference Entertainment - Keep your guests entertained this year!"
 date: 2020-01-07
 author: "team/colin.md"
 meta_title: "Conference Entertainment – Engage Your Guests | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/20190619-160019.jpg"
 ---
-
-# 07 January 20 - Conference Entertainment - Keep your guests entertained this year!
 
 ## Conference Entertainment
 

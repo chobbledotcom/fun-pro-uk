@@ -1,5 +1,5 @@
 ---
-title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
+title: "Hogarth's party"
 date: 2017-05-19
 author: "team/liz.md"
 meta_title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK
 redirect_from:
   - "/news/2017-05-19/hogarths-party/"
 ---
-
-# 19 May 17 - Hogarth's party
 
 On Friday we were in attendance at the marvellous venue Hogarths Hotel, [Solihull](/delivery-areas/#content). We are becoming part of the furniture here! It really is a fantastic place in a wonderful location. This time we were helping to celebrate a private party with our Magnificent [Magic Selfie Mirror](/products/magic-mirror/#content).
 

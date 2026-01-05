@@ -1,5 +1,5 @@
 ---
-title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
+title: "It's not too late!"
 date: 2019-12-01
 author: "team/colin.md"
 meta_title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/dance-1.jpg"
 ---
-
-# 01 December 19 - It's not too late!
 
 ## There's still time to book your Christmas party fun!
 

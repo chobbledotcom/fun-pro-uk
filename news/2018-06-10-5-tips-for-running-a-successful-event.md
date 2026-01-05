@@ -1,5 +1,5 @@
 ---
-title: "5 Tips For Running A Successful Event – Game Rentals"
+title: "5 tips for running a successful event!"
 date: 2018-06-10
 author: "team/colin.md"
 meta_title: "5 Tips For Running A Successful Event – Game Rentals"
@@ -7,8 +7,6 @@ meta_description: "5 Tips For Running A Successful Event – Game Rentals - Fun 
 redirect_from:
   - "/news/2018-06-10/5-tips-for-running-a-successful-event/"
 ---
-
-# 10 June 18 - 5 tips for running a successful event!
 
 Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips to help you create a successful event that not only runs smoothly but is also stress free.  
   

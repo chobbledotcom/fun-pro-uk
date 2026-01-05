@@ -1,5 +1,5 @@
 ---
-title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"
+title: "Christmas parties are go!"
 date: 2018-11-30
 author: "team/liz.md"
 meta_title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"
@@ -7,8 +7,6 @@ meta_description: "Make your Christmas party unforgettable with our Magic Selfie
 redirect_from:
   - "/news/2018-11-30/christmas-parties-are-go/"
 ---
-
-# [30 November 18 - Christmas parties are go!](/news/christmas-parties-are-go-2/#content)
 
 Are you in the Christmas spirit yet? The Christmas party season has well and truly begun for Fun Pro UK. Our photo booth and selfie mirror prop boxes have been fully replenished and are overflowing with Christmas spirit, ready for the dozens of corporate and private events booked from Coventry to London.
 

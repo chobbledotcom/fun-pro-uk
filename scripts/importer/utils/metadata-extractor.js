@@ -88,14 +88,31 @@ const extractBreadcrumbText = (htmlContent) => {
 
 /**
  * Extract the main H1 heading from content
+ * For blog posts, prefers the anchor title attribute (clean title without date prefix)
  * @param {string} htmlContent - HTML content to extract H1 from
  * @returns {string|null} Extracted H1 text or null
  */
 const extractContentHeading = (htmlContent) => {
   // Find the main content H1 (not in header/footer/nav)
-  const h1Match = htmlContent.match(/<h1[^>]*>(.*?)<\/h1>/i);
+  const h1Match = htmlContent.match(/<h1[^>]*>(.*?)<\/h1>/is);
   if (h1Match) {
-    return h1Match[1]
+    const h1Content = h1Match[1];
+
+    // For blog posts, the clean title is often in the anchor's title attribute
+    // e.g., <h1><a title="Clean Title Here">Date - Clean Title Here</a></h1>
+    const anchorTitleMatch = h1Content.match(/<a[^>]*\stitle=["']([^"']+)["'][^>]*>/i);
+    if (anchorTitleMatch) {
+      return anchorTitleMatch[1]
+        .replace(/&#39;/g, "'")
+        .replace(/&quot;/g, '"')
+        .replace(/&nbsp;/g, ' ')
+        .replace(/&amp;/g, '&')
+        .replace(/&pound;/g, '£')
+        .trim();
+    }
+
+    // Fallback: extract text content from H1
+    return h1Content
       .replace(/<[^>]+>/g, '') // Remove any HTML tags inside
       .replace(/&nbsp;/g, ' ')
       .replace(/&amp;/g, '&')

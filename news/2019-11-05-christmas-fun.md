@@ -1,5 +1,5 @@
 ---
-title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"
+title: "Christmas Fun!"
 date: 2019-11-05
 author: "team/colin.md"
 meta_title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/20171214-173433.jpg"
 ---
-
-# 05 November 19 - Christmas Fun!
 
 ## It's that time of year again!
 

@@ -1,5 +1,5 @@
 ---
-title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
+title: "Ansty Hall 19th November 2016"
 date: 2016-11-20
 author: "team/liz.md"
 meta_title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Ansty Hall Event – Professional Game Hire | Fun Pro UK - Fu
 redirect_from:
   - "/news/2016-11-20/ansty-hall-19th-november-2016/"
 ---
-
-# 20 November 16 - Ansty Hall 19th November 2016
 
 Wow! What a fabulously busy night we had for Jason & Sophie's [wedding](/categories/weddings/#content) yesterday at The Ansty Hall Hotel.  
 We met this special couple at the famous wedding fair which was also at Ansty Hall this year where they saw our booth and Magic Mirror.  

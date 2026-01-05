@@ -1,5 +1,5 @@
 ---
-title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
+title: "Award ceremony London"
 date: 2018-12-03
 author: "team/liz.md"
 meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Award Ceremony London – Event Game Rentals | Fun Pro UK - F
 redirect_from:
   - "/news/2018-12-03/award-ceremony-london/"
 ---
-
-# 03 December 18 - Award ceremony London
 
 Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near London.
 

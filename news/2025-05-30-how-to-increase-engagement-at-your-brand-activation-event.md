@@ -1,5 +1,5 @@
 ---
-title: "Increase Engagement at Your Brand Activation Event"
+title: "How to Increase Engagement at Your Brand Activation Event"
 date: 2025-05-30
 author: "team/liz.md"
 meta_title: "Increase Engagement at Your Brand Activation Event"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/fun-pro-uvex.jpg"
 ---
-
-# 30 May 25 - How to Increase Engagement at Your Brand Activation Event
 
 ![](/images/news/fun-pro-uvex.jpg)
 

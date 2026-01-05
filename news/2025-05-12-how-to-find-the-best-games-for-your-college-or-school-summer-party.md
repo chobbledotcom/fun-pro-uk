@@ -1,5 +1,5 @@
 ---
-title: "School Summer Party Game Hire For End-of-Term Events"
+title: "How to Find The Best Games for Your College Or School Summer Party"
 date: 2025-05-12
 author: "team/liz.md"
 meta_title: "School Summer Party Game Hire For End-of-Term Events"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/mega-wire-game.jpg"
 ---
-
-# 12 May 25 - How to Find The Best Games for Your College Or School Summer Party
 
 ![](/images/news/mega-wire-game.jpg)
 

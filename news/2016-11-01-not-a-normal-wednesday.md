@@ -1,5 +1,5 @@
 ---
-title: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK"
+title: "Not a normal Wednesday!"
 date: 2016-11-01
 author: "team/colin.md"
 meta_title: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK 
 redirect_from:
   - "/news/2016-11-01/not-a-normal-wednesday/"
 ---
-
-# 01 November 16 - Not a normal Wednesday!
 
 ## Not a normal Wednesday!!
 

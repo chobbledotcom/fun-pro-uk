@@ -1,5 +1,5 @@
 ---
-title: "Team Building Activities Birmingham | Creative Corporate Events & Game"
+title: "Creative Team Building Activities to Do in Birmingham"
 date: 2025-11-21
 author: "team/liz.md"
 meta_title: "Team Building Activities Birmingham | Creative Corporate Events & Game"
@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/team-building-event.png"
 ---
-
-# 21 November 25 - Creative Team Building Activities to Do in Birmingham
 
 ![](/images/news/team-building-event.png)
 

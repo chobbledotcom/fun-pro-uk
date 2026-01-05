@@ -1,5 +1,5 @@
 ---
-title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
+title: "Wootton Park 16th October 2016"
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
@@ -7,8 +7,6 @@ meta_description: "Wootton Park Event – Interactive Game Hire | Fun Pro UK - F
 redirect_from:
   - "/news/2016-10-14/wootton-park-16th-october-2016/"
 ---
-
-# 14 October 16 - Wootton Park 16th October 2016
 
 We are all getting excited at Perfect Snap HQ for this Sunday! Why I hear you ask?.... Well, we are attending the magnificent venue of Wootton in Henley in Arden for their wedding fair. Perfect snap will be there showcasing the Magic Mirror.
 
