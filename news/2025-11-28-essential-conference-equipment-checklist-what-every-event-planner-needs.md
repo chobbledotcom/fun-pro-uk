@@ -10,8 +10,6 @@ gallery:
   - "/images/news/uk-conference.png"
 ---
 
-# 28 November 25 - Essential Conference Equipment Checklist: What Every Event Planner Needs
-
 ![](/images/news/uk-conference.png)
 
 Planning a [conference](/events/conference-idea/#content) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.

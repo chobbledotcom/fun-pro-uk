@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-04-04/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/"
 ---
 
-# 04 April 24 - End of the Financial Year! Now is an ideal time to have a wellbeing event.
-
 **End of the Financial Year! Now is an ideal time to have a wellbeing event.**
 
 The end of the Financial Year **5 April,**t**he financial year comes to an end, paving the way for the next tax year and the cycle begins once again. How are you going to engage your team to start all over again and keep them motivated and engaged for that long 12 month journey?

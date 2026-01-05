@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-09-26/are-we-connected/"
 ---
 
-# 26 September 18 - Are we connected?
-
 Are we connected? Have you seen all our social media?
 
 We have very active Facebook, Twitter, LinkedIn and Instagram pages, where you can see a whole range of information about Fun Pro UK.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-12-22/is-it-christmas-already/"
 ---
 
-# 22 December 17 - Is it Christmas already
-
 Is It [Christmas](/categories/christmas-game-hire/#content) already?
 
 We can't believe that Christmas really is around the corner now. We've been so busy helping to celebrate at wonderful parties, it's really crept up on us!

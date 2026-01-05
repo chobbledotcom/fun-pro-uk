@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-06-18/saturday-17th-june/"
 ---
 
-# 18 June 17 - Saturday 17th June
-
 Team Perfect Snap had a really busy evening yesterday, as did the people of Coventry City! There were lots of events happening in Coventry and we were invited to bring our [Photobooths](/products/green-screen-photo-booths/#content) and [Magic Mirrors](/products/magic-mirror/#content) to a few!  
   
 One of our Green Screen Dream Machine Photobooths were in attendance at a wonderful [wedding](/categories/weddings/#content) at one of my favourite locations - Coombe Abbey Hotel on the outskirts of Coventry. This is an absolutely gorgeous venue, the long drive up towards the hotel where you can see the elegant building before you with the park surrounding the themed hotel.  

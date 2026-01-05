@@ -10,8 +10,6 @@ gallery:
   - "/images/news/candy-cane-crush-fun-pro.jpg"
 ---
 
-# 05 December 25 - 10 Best Christmas Games for Memorable Office Parties
-
 ![](/images/news/candy-cane-crush-fun-pro.jpg)
 
 Planning a [Christmas](/events/christmas-entertainment/#content) party that works for everyone can feel like a challenge. You want entertainment that breaks down barriers between colleagues, keeps energy levels high, and creates those shared moments people talk about long after the decorations come down.

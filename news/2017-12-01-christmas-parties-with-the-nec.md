@@ -10,8 +10,6 @@ gallery:
   - "/images/news/nec1.png"
 ---
 
-# 01 December 17 - Christmas Parties with the NEC
-
 Last night saw Team Perfect Snap returning to the NEC in [Birmingham](/locations/birmingham/corporate-event-hire/#content) to help celebrate Christmas with them just as we did last year!
 
 This year, the theme was ' New York New York' for their Christmas Party. Our [Selfie Mirror and Christmas prop box](/christmas-photo-booth-corporate-event-hire/#content) were hired to entertain the party goers!

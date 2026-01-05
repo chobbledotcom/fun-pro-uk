@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-12-03/award-ceremony-london/"
 ---
 
-# 03 December 18 - Award ceremony London
-
 Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near London.
 
 The brief was to supply a [green screen photo booth](/categories/photo-booths-and-magic-mirrors/#content) - with the company logo to be printed on each selfie

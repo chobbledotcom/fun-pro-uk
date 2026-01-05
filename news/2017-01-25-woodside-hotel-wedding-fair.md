@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-01-25/woodside-hotel-wedding-fair/"
 ---
 
-# 25 January 17 - Woodside Hotel Wedding fair
-
 We are starting to feel excited at TeamPerfectSnap! On Sunday 29th January we will be attending the Woodside Hotel Wedding Fair in the lovely town of Kenilworth.  
   
 We have been guests at Woodside Hotel many times with our outstanding [Photobooths and Magic Mirrors](/categories/photo-booths-and-magic-mirrors/#content) as has our sister company Bounceroos Events with [inflatable bouncy castles](http://www.bounceroosevents.co.uk) for Wedding receptions.  

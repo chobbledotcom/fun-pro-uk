@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-01-18/photo-booths-are-not-just-for-fun/"
 ---
 
-# 18 January 19 - Photo booths are not just for fun!
-
 [Photo booths and Magic Mirrors](/categories/photo-booths-and-magic-mirrors/#content) add a lot of fun to an event. From Christmas parties to awards ceremonies, and from birthday parties to weddings, party guests love hopping into a photo booth to capture a happy group shot or seeing who can put on the funniest face. When it comes to [magic mirrors](/products/magic-mirror/#content), attendees love donning the array of crazy hats, goofy glasses and holding up silly signs to get fun photos.
 
 But your guests having fun is just one of the benefits of hiring a photo booth or magic mirror for your event. Photos from events not only provide immediate enjoyment, they also trigger future enjoyment. There's nothing like looking at old photos and reliving happy times. Photos of family holidays, birthday celebrations, even class photos from school can evoke wonderful memories.

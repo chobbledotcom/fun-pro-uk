@@ -10,8 +10,6 @@ gallery:
   - "/images/news/team-building-event.png"
 ---
 
-# 21 November 25 - Creative Team Building Activities to Do in Birmingham
-
 ![](/images/news/team-building-event.png)
 
 Planning a [corporate event](/locations/birmingham/conference-and-event-hire/#content) in Birmingham gives you access to the UK's second-largest city with its excellent transport links, diverse venues, and comprehensive range of activities. Whether you're organising a half-day energiser for your Birmingham-based team or bringing colleagues together from across the country for a full away day, understanding your options helps you create an event that genuinely strengthens your team whilst achieving your specific objectives.

@@ -10,8 +10,6 @@ gallery:
   - "/images/news/busy-expo.jpg"
 ---
 
-# 09 April 19 - How To Attract More Foot Fall To Your Trade Show Stand
-
 ## How To Attract More Foot Fall To Your Trade Show Stand
 
 Arranging a new product launch in a car showroom or trade stand entertainment for an expo? Hiring interactive games will increase footfall & attract new clients for your business.

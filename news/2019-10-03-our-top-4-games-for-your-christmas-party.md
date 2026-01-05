@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20171214-173433.jpg"
 ---
 
-# 03 October 19 - Our Top 4 Games for your Christmas Party
-
 ## **Christmas Fun & Games**
 
 Christmas our favourite times of the year with the excitement and fun that goes into planning for your Christmas event, the #TeamFunPro have everything you need to make sure you have the best games for your event.

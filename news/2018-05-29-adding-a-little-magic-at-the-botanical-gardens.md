@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-05-29/adding-a-little-magic-at-the-botanical-gardens/"
 ---
 
-# 29 May 18 - Adding A Little Magic At The Botanical Gardens
-
 Last week we were approached by an agency from London to supply entertainment for a corporate conference. The conference was being held at the beautiful Birmingham Botanical Gardens for the management of a well-known train operator.
 
 The brief was simple, supply something that would entertain and add a fun element to the event as well as create wonderful memories. We supplied one of our [magic selfie mirrors](/products/magic-mirror/#content) for the afternoon and it went down a treat.

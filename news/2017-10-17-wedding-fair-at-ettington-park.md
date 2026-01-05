@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-10-17/wedding-fair-at-ettington-park/"
 ---
 
-# 17 October 17 - Wedding Fair at Ettington Park
-
 On Sunday we attended a very busy [wedding](/categories/weddings/#content) fair at Ettington Park Hotel in Stratford Upon Avon. The hotel is on the far side of Stratford, approximately 6 miles from the town and is situated in stunning countryside with the River Stour running through the estate.
 
 The mansion is a truly tremendous sight as you travel up the sweeping drive to the main entrance. Once we arrived it was all hands on deck to unload the Perfect Snap van which was packed full of our state of the art [photo booths, selfie mirrors](/categories/photo-booths-and-magic-mirrors/#content) and of course not forgetting our brand new social media booth!

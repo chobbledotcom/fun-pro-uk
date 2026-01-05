@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20220324-125141.jpg"
 ---
 
-# 25 March 22 - Happy 40th to the Boss!!
-
 Happy 40th to the Boss!!
 
 When we received a last minute call asking how we can help with a 40th birthday celebration at a work place in Nuneaton, Warwickshire yesterday we quickly put our thinking caps on!

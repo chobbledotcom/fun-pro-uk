@@ -10,8 +10,6 @@ gallery:
   - "/images/news/fun-pro-uvex.jpg"
 ---
 
-# 30 May 25 - How to Increase Engagement at Your Brand Activation Event
-
 ![](/images/news/fun-pro-uvex.jpg)
 
 If you're planning a [brand activation event](/promotional-event-games/#content), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.

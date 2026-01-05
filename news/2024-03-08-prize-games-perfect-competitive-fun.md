@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-03-08/prize-games-perfect-competitive-fun/"
 ---
 
-# 08 March 24 - Prize Games - Perfect Competitive Fun!
-
 Planning an event this year? Whether it's a [corporate event](/categories/corporate-entertainment/#content), a trade show, or a private party, creating an atmosphere of fun and competition can significantly enhance the guest experience. This is where our range [prize games](/categories/prize-games/#content) come into their own, offering entertainment alongside the thrill of competition and the joy of winning.
 
 Prize games are the heart and soul of interactive entertainment, bringing people together through the universal language of play.

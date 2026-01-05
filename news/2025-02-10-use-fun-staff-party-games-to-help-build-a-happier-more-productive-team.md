@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/"
 ---
 
-# 10 February 25 - Use Fun Staff Party Games to Help Build a Happier, More Productive Team
-
 Staff parties are a great way to encourage [team bonding](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and make everyone feel included, and build stronger relationships at work. The type of parties you throw at your company say a lot about the culture you’ve created or are trying to create, so it’s important to think about this when planning the activities you’d like to include.
 
 Whether it’s fun staff party games that allow everyone to show their competitive side, or something a bit more formal where your team can mingle and get to know each other outside of work, the key to a good staff party lies in the planning.

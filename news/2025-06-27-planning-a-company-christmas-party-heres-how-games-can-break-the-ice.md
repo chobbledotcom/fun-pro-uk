@@ -10,8 +10,6 @@ gallery:
   - "/images/news/catch-us-if-you-can-games.jpg"
 ---
 
-# 27 June 25 - Planning a Company Christmas Party? Here's How Games Can Break the Ice
-
 ![](/images/news/catch-us-if-you-can-games.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/events/christmas-entertainment/#content) can transform your gathering from polite small talk into genuine fun and connection.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-02-12/draycote-wedding-fair/"
 ---
 
-# 12 February 17 - Draycote wedding fair
-
 Team Perfect Snap are getting excited for the Wedding Inspo Evening which we are attending this a Thursday 16th February 2027 at the [Draycote Hotel in Rugby, Warwickshire.](/delivery-areas/#content)
 
 We will be there with our Green Screen Dream Machine and marvellous talking [Magic Selfie Mirror](/products/magic-mirror/#content) for you all to see!  

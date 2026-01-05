@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2016-12-21/corporate-branding-on-our-photobooths/"
 ---
 
-# 21 December 16 - Corporate Branding on our Photobooths
-
 Arranging your Corporate Event? Let Perfect Snap help with organising the function. Perfect Snap really will bring the FUN to your event.
 
 Whether you are looking for a Photo Booth or Magic Mirror for you to have some group selfies taken, celebrate a new product launch, congratulate your colleagues at your awards ceremony or to entertain the children at a family day you can be sure that Perfect Snap can supply exactly what you are looking for.

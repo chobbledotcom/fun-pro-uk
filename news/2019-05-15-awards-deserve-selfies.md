@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-05-15/awards-deserve-selfies/"
 ---
 
-# 15 May 19 - AWARDS DESERVE SELFIES!
-
 **AWARDS DESERVE SELFIES!**
 
 With award season for many of our Corporate Clients well under way at a variety of locations up and down the U.K, we were excited to be able to supply yet another fab [Green Screen Dream Machine Photobooth](/categories/photo-booths-and-magic-mirrors/#content) for a large company who deliver caring packages to their clients up and down the country.

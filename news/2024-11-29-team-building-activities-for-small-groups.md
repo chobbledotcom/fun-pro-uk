@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-11-29/team-building-activities-for-small-groups/"
 ---
 
-# 29 November 24 - Team Building Activities for Small Groups
-
 You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. [Team building games](/team-building-ideas/#content) are a way for businesses to build relationships and collaboration within the workplace. They encourage trust and communication, but they can also be lots of fun too.
 
 However, there is the matter of finding the right team building games on top of planning the whole thing.

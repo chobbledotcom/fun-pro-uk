@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-07-31/weekend-of-29th-july-2017/"
 ---
 
-# 31 July 17 - Weekend of 29th July 2017
-
 Wow! I can't tell you what a busy weekend we have had here at Perfect Snap. We seem to have been all over the place! On Friday we were at a beautiful wedding with a [green screen photo booth](/products/green-screen-photo-booths/#content) and our spectacular LOVE letters at Ardencote Manor, Warwickshire. This was a gorgeous venue where the guests were really in the mood to party! Our LOVE letters made a fabulous back drop shining brightly in the background. A 'lovely' effect!  
   
 Saturday saw us at a few venues in and around Warwickshire and [Birmingham](/locations/birmingham/corporate-event-hire/#content) not forgetting Evesham too!. The first of our photo booths went to a wedding reception at Jephson Gardens, Leamington Spa, Warwickshire. Our green screen dream machine photo booth and the vintage retro themed outer skin was chosen by the bride for the entertainment during the evening reception. This looked amazing at the venue which over looks the park.  

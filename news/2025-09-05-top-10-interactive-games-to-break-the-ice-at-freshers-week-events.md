@@ -10,8 +10,6 @@ gallery:
   - "/images/news/fresher-week-event.jpg"
 ---
 
-# 05 September 25 - Top 10 Interactive Games to Break the Ice at Freshers Week Events
-
 ![](/images/news/fresher-week-event.jpg)
 
 [Freshers week](/freshers-entertainment-ideas/#content) can feel overwhelming for new university students - and equally challenging for the event organisers tasked with creating memorable experiences that help thousands of strangers become friends. If you're planning freshers activities, you'll know the pressure to get it right. Students arrive with high expectations, diverse backgrounds, and varying comfort levels with social situations.

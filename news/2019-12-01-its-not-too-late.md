@@ -10,8 +10,6 @@ gallery:
   - "/images/news/dance-1.jpg"
 ---
 
-# 01 December 19 - It's not too late!
-
 ## There's still time to book your Christmas party fun!
 
 Well it's officially December and the countdown to Christmas can start in earnest. It's now acceptable to put up your Christmas decorations and tree, start playing Christmas carols and order the all-important turkey. The Christmas party season is also in full swing with work parties, and gatherings with family and friends.  

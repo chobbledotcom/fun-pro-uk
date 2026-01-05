@@ -10,8 +10,6 @@ gallery:
   - "/images/news/img-20190709-wa0000.jpg"
 ---
 
-# 06 August 19 - All You Need to Plan For Your Award Ceremonies
-
 ## Getting your employees engaged at award ceremonies!
 
 Why wait until the year draws to a close to award your staff? Why not host your annual employee award ceremony during summer to show your continued appreciation for their hard work.

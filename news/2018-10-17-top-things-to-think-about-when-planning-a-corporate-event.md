@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-10-17/top-things-to-think-about-when-planning-a-corporate-event/"
 ---
 
-# 17 October 18 - Top things to think about when planning a corporate event
-
 When it comes to planning a [corporate event](/categories/corporate-entertainment/#content) there is lots to think about from the venue to the theme, sending out invitations to staffing. But don't worry as we have put together a list of the important things to remember when planning an event.
 
 **What is the purpose of the event?**

@@ -10,8 +10,6 @@ gallery:
   - "/images/news/coconut-shy.jpg"
 ---
 
-# 29 August 25 - Ultimate Freshers Week Party Game Ideas: Make Your University Welcome Week Unforgettable
-
 ![](/images/news/coconut-shy.jpg)
 
 Freshers week represents one of the most critical periods in any student's university journey. Those first few days set the tone for friendships, experiences, and memories that will last throughout their academic years. As someone responsible for planning these pivotal welcome events, you understand the immense pressure to create something truly special – an experience that helps nervous first-years feel welcomed whilst ensuring your event stands out amongst the packed freshers week schedule.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-09-12/the-importance-of-throwing-the-company-christmas-party/"
 ---
 
-# 12 September 18 - The importance of throwing the company Christmas party
-
 We know it is only September and you don't really want to be thinking about the company Christmas party yet. But you need to get to it early to secure yourselves the best corporate entertainment available.
 
 Here at Fun Pro UK we understand the importance of throwing a [company Christmas party](/categories/corporate-entertainment/#content). Check out our top reasons for why you should host a staff party this Christmas.

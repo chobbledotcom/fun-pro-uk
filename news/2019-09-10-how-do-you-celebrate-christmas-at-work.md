@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20171214-173433.jpg"
 ---
 
-# 10 September 19 - How Do You Celebrate Christmas At Work?
-
 ## How Do You Celebrate Christmas at Work?
 
 ## You snow the drill!🎄

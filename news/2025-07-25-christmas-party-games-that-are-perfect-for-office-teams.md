@@ -10,8 +10,6 @@ gallery:
   - "/images/news/christmas-party-game-hire.jpg"
 ---
 
-# 25 July 25 - Christmas Party Games That Are Perfect for Office Teams
-
 ![](/images/news/christmas-party-game-hire.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/categories/christmas-games/#content) can transform your gathering from polite small talk into genuine fun and connection.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-07-31/get-ready-for-september-exhibitions-with-fun-pro-uk/"
 ---
 
-# 31 July 24 - Get Ready for September Exhibitions with Fun Pro UK
-
 As we approach the end of July, businesses across sectors are gearing up for a bustling exhibition season. Wherever you are in the country, Fun Pro UK is here to ensure your exhibition stand is the highlight of any event. With our extensive range of quality exhibition hire products, we are dedicated to enhancing your event presence throughout September 2024 and beyond.
 
 ## Maximise Your Exhibition Impact with Fun Pro UK

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-04-03/batak-grab-a-grand-roll-and-bowl-and-more/"
 ---
 
-# 03 April 24 - Batak, Grab a Grand, Roll & Bowl and More!
-
 Spice up your events with Fun Pro UK's exciting range of [interactive games](/categories/interactive-game-hire/#content)! Whether you're planning a corporate team-building day, a trade show, or a fun-filled private party, our diverse selection of games promises plenty of entertainment and endless competitive fun. You could even use them for [exhibition stand entertainment](/categories/exhibition-games/#content)!
 
 Just some of our cool suggestions include:

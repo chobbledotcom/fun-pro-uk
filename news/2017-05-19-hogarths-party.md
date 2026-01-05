@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-05-19/hogarths-party/"
 ---
 
-# 19 May 17 - Hogarth's party
-
 On Friday we were in attendance at the marvellous venue Hogarths Hotel, [Solihull](/delivery-areas/#content). We are becoming part of the furniture here! It really is a fantastic place in a wonderful location. This time we were helping to celebrate a private party with our Magnificent [Magic Selfie Mirror](/products/magic-mirror/#content).
 
 It was a very busy evening, once the mirror had been set up and Donkey was shouting to the guys and girls in his complimentary manner' all of the guests couldn't wait to 'strike a pose' using our over flowing prop box which had hats, glasses, inflatable guitars along with some comical signs.

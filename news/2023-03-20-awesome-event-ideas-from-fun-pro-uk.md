@@ -10,8 +10,6 @@ gallery:
   - "/images/news/37e0bbea736ba19a7e6043fe17d3f2df.jpeg"
 ---
 
-# 20 March 23 - Awesome Event Ideas from Fun Pro UK
-
 Are you planning an event but don't know where to start? Look no further than Fun Pro UK! We offer an extensive range of [event ideas](/event-type/#content) to help you create an unforgettable experience for your guests. Our packages are tailored to suit a variety of events, from corporate exhibitions to school fun days, charity fundraising events, evening events, summer parties and everything else.
 
 ## Event Ideas for All Occasions

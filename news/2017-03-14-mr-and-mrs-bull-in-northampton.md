@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-03-14/mr-and-mrs-bull-in-northampton/"
 ---
 
-# 14 March 17 - Mr & Mrs Bull in Northampton
-
 On Saturday night we helped celebrate the wonderful wedding of Mr and Mrs Bull at the [Northamptonshire Marriott Hotel.](/locations/northampton/corporate-event-hire/#content)  
 The special couple had booked us last minute and we at Perfect Snap were only to happy to help out!  
   

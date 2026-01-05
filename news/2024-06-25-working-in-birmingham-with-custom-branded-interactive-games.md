@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-06-25/working-in-birmingham-with-custom-branded-interactive-games/"
 ---
 
-# 25 June 24 - Working in Birmingham with Custom-Branded Interactive Games
-
 At Fun Pro UK, we recently had the exciting opportunity to showcase our expertise in enhancing trade shows by installing seven custom-branded [interactive games](/categories/interactive-game-hire/#content) for our clients at the Installer show held at the [NEC Birmingham](/locations/birmingham/nec/#content). Our close proximity in Wolston allowed us to offer complimentary delivery, ensuring that each setup was convenient and cost-effective for our clients.
 
 Each of the games provided was carefully branded with the client's logo and key messaging, turning each unit into a pivotal marketing tool that complemented the exhibitors' stands beautifully. Our in-house design team meticulously ensured that the branding was spot-on, enhancing visual appeal and brand presence on the show floor.

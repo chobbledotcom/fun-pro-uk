@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2020-03-16/fun-pro-uk-and-covid-19/"
 ---
 
-# 16 March 20 - FUN PRO UK AND COVID-19
-
 Fun Pro Uk and COVID-19
 
 We are continuing to work hard with our clients and venues to support everyone in this uncertain time that we are all experiencing.

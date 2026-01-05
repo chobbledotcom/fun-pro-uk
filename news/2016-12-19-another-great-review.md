@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2016-12-19/another-great-review/"
 ---
 
-# 19 December 16 - Another great review!
-
 Another fantastic review received from one of our many happy Perfectsnap  
 customers. Check out our other reviews by visiting our [testimonial page](/testimonials/#content).
 

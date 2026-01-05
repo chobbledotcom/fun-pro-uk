@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2016-10-18/great-day-had-at-wootton-park/"
 ---
 
-# 18 October 16 - Great day had at Wootton Park
-
 On Sunday 17th October 2016 Perfect Snap attended the wedding fair at Wootton Park, Henley In Arden.
 
 It was a stunning venue, with gorgeous open countryside views and a lovely outside area to sit and enjoy the sunny weather we were blessed with on the day.

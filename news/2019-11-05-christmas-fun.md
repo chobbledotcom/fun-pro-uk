@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20171214-173433.jpg"
 ---
 
-# 05 November 19 - Christmas Fun!
-
 ## It's that time of year again!
 
 The elves are busy making presents. The reindeers are in training. And the team at Fun Pro UK are busy spreading Christmas cheer up and down the country with interactive entertainment!

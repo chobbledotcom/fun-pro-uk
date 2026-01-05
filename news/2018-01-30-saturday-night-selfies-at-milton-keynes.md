@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-01-30/saturday-night-selfies-at-milton-keynes/"
 ---
 
-# 30 January 18 - Saturday night Selfies at Milton Keynes!
-
 Our all singing and dancing Magic Selfie Mirror was out at a great corporate event on Saturday night with our friends in [Milton Keynes.](/locations/milton-keynes/corporate-event-hire/#content)
 
 With our funny prop box on hand for everyone to choose hats, comedy glasses and hilarious signs it wasn't long before there was a real crowd. Donkey, Shrek's talking buddy was the voice over - he was working the crowd with his cheeky ass comments!

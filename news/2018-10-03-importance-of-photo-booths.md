@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-10-03/importance-of-photo-booths/"
 ---
 
-# 03 October 18 - Importance of Photo Booths!
-
 Recently we joined many of [KPMG's staff in Birmingham for their annual awards night](/putting-kpmg-in-the-picture/#content). We attended with two of our most popular [Green Screen Photo Booths.](/products/green-screen-photo-booths/#content)
 
 For a company hosting an awards night is incredibly important in showing your staff that you value their continual hard work throughout the year. But as we all know there are lulls in these types of events when acts are changing over on stage or between courses. So why not put some [interactive games](/categories/interactive-game-hire/#content) or a few [photo booths](/products/green-screen-photo-booths/#content) into your next event to keep your staff entertained.

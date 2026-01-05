@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-02-06/woodside-wedding-show/"
 ---
 
-# 06 February 17 - Woodside wedding show
-
 Perfect Snap attended the Wedding Fair held at the beautiful Wood house Hotel in Kenilworth.  
 We have been to this location many times, however it was our first Wedding Fair of 2017!  
 The Wood house Hotel is situated just on the outskirts of [Kenilworth in Warwickshire](/delivery-areas/#content). As you glide down the sweeping drive way visitors are able to admire the wonderful grounds that surround this outstanding venue. The most attractive building then awaits for your entrance.  

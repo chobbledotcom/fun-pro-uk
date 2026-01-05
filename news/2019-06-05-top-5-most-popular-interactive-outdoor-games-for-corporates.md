@@ -10,8 +10,6 @@ gallery:
   - "/images/news/team-work.png"
 ---
 
-# 05 June 19 - Top 5 Most Popular Interactive Outdoor Games For Corporates
-
 ## **Top 5 Most Popular Interactive Outdoor Games for Corporates**
 
 **![Team work](/images/news/team-work.png)**

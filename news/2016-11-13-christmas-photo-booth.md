@@ -10,8 +10,6 @@ gallery:
   - "/images/news/gimp5.png"
 ---
 
-# 13 November 16 - CHRISTMAS PHOTO BOOTH
-
 Yeah!! Look what Perfect Snap has for Christmas!  
 We are super excited to introduce our brand new [Christmas Photo Booth](/christmas-photo-booth-corporate-event-hire/#content) for the party season.
 

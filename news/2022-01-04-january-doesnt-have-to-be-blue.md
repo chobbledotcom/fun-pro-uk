@@ -10,8 +10,6 @@ gallery:
   - "/images/news/img-20211217-wa0004.jpg"
 ---
 
-# 04 January 22 - January doesn't have to be Blue!!
-
 **January doesn't have to be Blue!!**
 
 December is always a very busy month for everyone, before we know it we are wrapping up the last present, licking the envelope and hoping it's not too late to catch the postman in time for the big day! It is hard to arrange a date that everyone can make and enjoy for parties.

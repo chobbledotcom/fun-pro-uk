@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-03-31/woodside-wedding-fair-2nd-april-2017/"
 ---
 
-# 31 March 17 - Woodside Wedding Fair 2nd April 2017!!
-
 Woodside Wedding Fair - Sunday 2nd April 2017  
   
 We are getting excited! Perfect Snap will be attending Woodside Hotel Wedding Fair this Sunday in Kenilworth.  

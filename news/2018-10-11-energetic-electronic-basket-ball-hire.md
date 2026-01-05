@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-10-11/energetic-electronic-basket-ball-hire/"
 ---
 
-# 11 October 18 - Energetic Electronic Basket Ball Hire!
-
 Looking for something different to entertain your guests at your upcoming event?
 
 Why not consider our heart pounding [Basketball Game Hire](/products/electronic-basket-ball-hire/#content) to put your attendees head to head and a chance to show off their skills.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-02-06/beat-the-bleep/"
 ---
 
-# 06 February 18 - Beat the Bleep!
-
 One of our [interactive games](/categories/interactive-game-hire/#content) which is all set up ready for a [corporate event in Coventry](/locations/coventry/corporate-event-hire/#content) tomorrow .
 
 The [Mega Buzz Wire game](/products/giant-buzz-wire/#content) is a real popular choice of entertainment for corporate events.

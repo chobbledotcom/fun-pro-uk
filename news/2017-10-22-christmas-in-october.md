@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-10-22/christmas-in-october/"
 ---
 
-# 22 October 17 - Christmas in October!
-
 Christmas in October!
 
 Wow! The Perfect Snap Team can't believe it, it's Christmas in October!

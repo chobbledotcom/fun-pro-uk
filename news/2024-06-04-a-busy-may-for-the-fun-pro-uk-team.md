@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-06-04/a-busy-may-for-the-fun-pro-uk-team/"
 ---
 
-# 04 June 24 - A Busy May for the Fun Pro UK Team
-
 May 2024 has been a bustling month for Fun Pro UK, filled with thrilling installations, vibrant branding, and unforgettable events. Our team has been all over the map, from the [NEC in Birmingham](/locations/birmingham/nec/#content) to the heart of London, bringing fun and engagement through our uniquely branded [interactive games](/categories/interactive-game-hire/#content). Here’s a roundup of what we’ve been up to this month!
 
 One of the highlights of the month was our participation in the Dentistry Shows at the NEC, Birmingham. Our [Whack A Mole](/products/whack-a-mole-game-hire/#content) game, cleverly rebranded as ‘Whack A Molar’ for our client Humm Group, was a standout attraction. The game’s vibrant custom branding, matching the distinctive colours of Humm Group, drew visitors and sparked conversations among present, past, and potential customers. This event was a fantastic showcase of how tailored branding on interactive games like Whack A Mole and the [Leaderboard](/products/leader-board/#content) can enhance corporate presence at industry events.

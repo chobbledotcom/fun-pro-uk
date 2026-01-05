@@ -10,8 +10,6 @@ gallery:
   - "/images/news/whack-a-mole.jpg"
 ---
 
-# 02 May 25 - The Ultimate Guide To A Successful Exhibition Plan: Using Interactive Games To Stand Out
-
 ![](/images/news/whack-a-mole.jpg)
 
 In today's competitive business landscape, creating a memorable [exhibition event](/events/exhibition-games/#content) stand that draws visitors in is crucial for generating leads and building brand awareness.

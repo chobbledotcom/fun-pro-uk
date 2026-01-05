@@ -10,8 +10,6 @@ gallery:
   - "/images/news/city-of-birmingham.png"
 ---
 
-# 15 December 25 - Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities
-
 ![](/images/news/city-of-birmingham.png)
 
 When marketing professionals think about [brand activations](/locations/birmingham/brand-promotional-event-hire/#content) in the UK, London often dominates the conversation. Yet Birmingham offers something the capital increasingly struggles to provide: significant footfall, diverse demographics, exceptional accessibility, and a business environment where your activation can genuinely stand out.

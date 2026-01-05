@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-01-30/7-ways-to-show-your-staff-some-love/"
 ---
 
-# 30 January 19 - 7 ways to show your staff some love!
-
 February is known as the month of love, with February 14th, Valentine's day, seen as a chance to show your partner how much you love them. The greeting card companies do a roaring trade, the florists sell huge numbers of flowers, and restaurants are all booked up by couples celebrating their relationship.
 
 Many of us however, spend more time at work than we do with our partners. What are you doing as a company to show your employees some love? We think February, well any time of the year really, is a great time to show some love to your employees for their commitment and hard work. There are hundreds of ways that you can show your staff how much you appreciate them but here are a few of our favourites:

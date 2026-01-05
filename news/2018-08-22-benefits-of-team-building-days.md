@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-08-22/benefits-of-team-building-days/"
 ---
 
-# 22 August 18 - Benefits of Team Building Days
-
 In every corporate business there is a variety of people interacting with one another on daily tasks and projects. The effectiveness of this communication will determine the success of the business. If colleagues can learn to work together through activities outside their usual tasks, there can be a better working relationship delivering cohesive results across departments.
 
 There are a range of team building activities from problem solving to skills bases activities, to communicating with ice breakers. All contributing to the benefits of team building sessions.

@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20180616-152805.jpg"
 ---
 
-# 20 January 20 - All work, no play? We really need to talk about that!!
-
 ## All work, no play? We really need to talk about that!!
 
 ### ![Fun days](/images/news/20180616-152805.jpg)Show your staff how to party this summer with inflatables and interactive games for all ages.

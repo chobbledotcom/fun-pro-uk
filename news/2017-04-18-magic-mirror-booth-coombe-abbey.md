@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-04-18/magic-mirror-booth-coombe-abbey/"
 ---
 
-# 18 April 17 - Magic mirror booth, Coombe Abbey
-
 On Saturday evening we attended the exclusive venue of Coombe Abbey Hotel in [Coventry](/locations/coventry/corporate-event-hire/#content) with our marvellous Magic Mirror Selfie Booth.  
   
 Our [Magic Mirror photo booth](/products/magic-mirror/#content) was a great feature to add to the evening entertainment for the wedding of Mr & Mrs Birch.  

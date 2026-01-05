@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-09-19/how-to-make-your-christmas-event-stand-out-from-the-rest/"
 ---
 
-# 19 September 18 - How to make your Christmas event stand out from the rest
-
 Fun Pro UK are [corporate entertainment](/categories/corporate-entertainment/#content) specialists who work alongside each client to make their brand and event stand out. We have helped many clients with their Christmas parties, including MIB, Suzuki and Rant and Rave.
 
 Here are some of our favourite [Christmas party themes](/categories/christmas-game-hire/#content) to treat your staff this December.

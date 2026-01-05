@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-12-12/did-you-know-we-have-moved/"
 ---
 
-# 12 December 18 - Did you know we have moved!
-
 Did you hear that we recently moved premises? Why, I hear you ask.
 
 Here are at Fun Pro UK we have seen a major increase in the number of corporate clients hiring our [interactive games](/categories/interactive-game-hire/#content) and [photo booths](/categories/photo-booths-and-magic-mirrors/#content). For a whole variety of events from [award ceremonies](/events/company-award-ceremonies/#content), family fun days and sales conferences, all across the UK.

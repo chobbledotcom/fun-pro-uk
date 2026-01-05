@@ -10,8 +10,6 @@ gallery:
   - "/images/news/mega-wire-game.jpg"
 ---
 
-# 12 May 25 - How to Find The Best Games for Your College Or School Summer Party
-
 ![](/images/news/mega-wire-game.jpg)
 
 With summer fast approaching, many schools and colleges are starting to think about different ways to mark the occasion, especially for those who are in their final year.  

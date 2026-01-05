@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
 ---
 
-# 05 December 18 - Why hire corporate entertainment with Fun Pro UK?
-
 ## **What are the benefits of incorporating interactive games and entertainment into your company's events and work place?**
 
 Ensuring your employees have sufficient down time is becoming an ever-increasing issue with the drastic changes in technology over the last few decades. Where staff used to work 9 - 5, they are now connected to work emails and phone calls 24/7 with company mobile phones and laptops. This is putting increased pressure on employees and reducing the time they spend switched off from thoughts about work. This can impact your business in a variety of ways from increased employee absence and stress related issues to reduced productivity.

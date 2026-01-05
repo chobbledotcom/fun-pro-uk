@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-03-01/the-benefits-of-exhibiting-at-trade-shows-and-exhibitions/"
 ---
 
-# 01 March 19 - The benefits of exhibiting at trade shows & exhibitions
-
 Have you been thinking about exhibiting at a trade show or exhibition but are not sure if it's worth your while? We've had a stand at numerous different expos over the years, from business exhibitions to wedding shows and have found they have many benefits.
 
 Trade shows and exhibitions help to raise the awareness of your business in your industry, the surrounding area and with potential customers. In many cases this is not just limited to attendees of the show either as some packages also include a listing on the organisers website and mentions on their social media.

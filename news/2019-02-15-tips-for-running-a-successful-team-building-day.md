@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-02-15/tips-for-running-a-successful-team-building-day/"
 ---
 
-# 15 February 19 - Tips for running a Successful Team Building Day
-
 Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But organising and running a successful team building day is no easy task.
 
 To ensure your day achieves all the goals you've set, we've put together our tips for running a successful [team building event.](/categories/corporate-entertainment/#content)

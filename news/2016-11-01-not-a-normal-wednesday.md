@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2016-11-01/not-a-normal-wednesday/"
 ---
 
-# 01 November 16 - Not a normal Wednesday!
-
 ## Not a normal Wednesday!!
 
 Our team at Perfect Snap HQ are looking forward to Wednesday! Yes, Wednesday 2nd November 2016, This is no normal mid week day, it is actually a very special date for two people!  

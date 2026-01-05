@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-06-10/5-tips-for-running-a-successful-event/"
 ---
 
-# 10 June 18 - 5 tips for running a successful event!
-
 Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips to help you create a successful event that not only runs smoothly but is also stress free.  
   
 1\. Planning. Begin planning as soon as you can. Make a plan of all the elements that need to be considered to make your event a success. Venues, caterers and entertainment all book up early. If your event is reasonably small and simple, a month or two should be enough lead time. If your event is larger, you should begin planning 6-12 months ahead of time.  

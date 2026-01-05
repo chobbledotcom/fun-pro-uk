@@ -10,8 +10,6 @@ gallery:
   - "/images/news/group-of-professional-people-celebrating.png"
 ---
 
-# 03 November 25 - Small Conference vs. Large Conference
-
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment
 
 ![](/images/news/group-of-professional-people-celebrating.png)

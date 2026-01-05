@@ -10,8 +10,6 @@ gallery:
   - "/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg"
 ---
 
-# 09 April 18 - Congratulations Mr and Mrs Moore
-
 On Saturday we spent a fabulous evening at the Citrus Hotel near [Coventry](/locations/coventry/corporate-event-hire/#content) helping this wonderful couple to celebrate their wedding day .
 
 The evening party began at 7pm , our green screen dream machine photo booth was all ready to keep the guests entertained with our staff on hand to ensure each guest had a great time taking selfies all night long. We heard that the bride loved VW camper vans so this is what the couple chose for the outer skin of their booth which went amazingly well with their theme.

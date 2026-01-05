@@ -10,8 +10,6 @@ gallery:
   - "/images/news/elves.jpg"
 ---
 
-# 07 November 18 - Ho Ho Ho it's Christmas!
-
 There's nothing like the festive season to boost everyone's spirits and have a reason to get a bit merry. But why not make this year extra special for your clients and employees with one or other of our two fabulously designed [inflatable Christmas Grotto!](/categories/christmas-grotto-hire/#content)
 
 Each grotto is beautifully designed with snow on the roof and can bring your venue to life with elves, Christmas trees, snowmen and even reindeer. Obviously, not forgetting the real Father Christmas who sits inside the delicately lit grotto!

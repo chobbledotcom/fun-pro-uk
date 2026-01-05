@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20190619-160019.jpg"
 ---
 
-# 10 July 19 - Where's Colin??
-
 ## Summer Event Fun
 
 ## **Where's Colin and the Fun Pro UK Team this week?**

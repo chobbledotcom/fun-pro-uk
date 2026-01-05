@@ -10,8 +10,6 @@ gallery:
   - "/images/news/img-20220617-wa0004.jpg"
 ---
 
-# 06 April 23 - Happy Easter! Prepare for Summertime Fun!
-
 At Fun Pro UK, we want to wish everyone a very happy Easter! Whether you're celebrating with family, friends, or just enjoying some time off work, we hope you have a fun and festive holiday.
 
 As we head towards the warmer months, we're excited to offer a range of party equipment and games for hire that are perfect for making the most of the sunshine. We have a spectacular array of products on offer for you, and we're here to help you make your next event one to remember.

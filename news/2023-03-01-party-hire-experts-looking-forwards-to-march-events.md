@@ -10,8 +10,6 @@ gallery:
   - "/images/news/batak23.jpg"
 ---
 
-# 01 March 23 - Party Hire Experts: Looking forwards to March Events
-
 We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off the month of March.
 
 At Fun Pro UK, we specialise in providing game hire services for a variety of events, such as exhibitions, trade shows, and conferences. With our bespoke [branded game hire](/events/brand-activation/#content) options, we can personalise the games to include branding and enhance brand activation, footfall, engagement, attraction, and sales.

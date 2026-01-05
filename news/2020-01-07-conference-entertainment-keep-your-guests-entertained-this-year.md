@@ -10,8 +10,6 @@ gallery:
   - "/images/news/20190619-160019.jpg"
 ---
 
-# 07 January 20 - Conference Entertainment - Keep your guests entertained this year!
-
 ## Conference Entertainment
 
 Keep your guests entertained this year!

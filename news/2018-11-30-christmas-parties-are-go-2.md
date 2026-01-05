@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2018-11-30/christmas-parties-are-go/"
 ---
 
-# [30 November 18 - Christmas parties are go!](/news/christmas-parties-are-go-2/#content)
-
 Are you in the Christmas spirit yet? The Christmas party season has well and truly begun for Fun Pro UK. Our photo booth and selfie mirror prop boxes have been fully replenished and are overflowing with Christmas spirit, ready for the dozens of corporate and private events booked from Coventry to London.
 
 From funtastic glasses to Christmas turkey hats and reindeer ears there is not a prop that will not look great in your photo. Whether it is a work event of a private do we can guarantee your friends will look back on the prints with a smile and great memories of having a selfie in our [Christmas themed photo booths](/christmas-photo-booth-corporate-event-hire/#content).

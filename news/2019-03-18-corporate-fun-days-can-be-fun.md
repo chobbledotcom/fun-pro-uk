@@ -10,8 +10,6 @@ gallery:
   - "/images/news/fundays.png"
 ---
 
-# 18 March 19 - Corporate Fun Days Can Be Fun!
-
 ## **Do you appreciate your staff?**
 
 Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days/#content)

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2023-09-27/improve-staff-retention-with-company-fun-days/"
 ---
 
-# 27 September 23 - Improve Staff Retention with Company Fun Days
-
 Employee retention is a topic that often keeps business leaders awake at night. Amidst the myriad strategies to keep talent onboard, there's one that's gaining momentum: the power of play. With company fun days, Fun Pro UK can help you revamp the workplace ethos and significantly boost staff retention.
 
 Modern professionals seek more than just a paycheque. They look for work environments that offer bonding, respect, opportunities for growth, and hopefully even a bit of fun. A relaxed, enjoyable workplace atmosphere not only boosts morale but also fosters loyalty.

@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2017-09-12/sundays-wedding-fair/"
 ---
 
-# 12 September 17 - Sunday's Wedding Fair
-
 It was lovely to see so many people at the wedding fair on Sunday which was held at Ansty Hall Hotel in [Coventry](/locations/coventry/corporate-event-hire/#content) by Perfect Brides.
 
 It is a popular venue for us as we attend there often. Although we are normally in the Orangery Room at the hotel, this time we were in the Drawing Room which is actually in the main building. The building has so many features and we adore the huge grounds which are stunning for your photos on your wedding day.

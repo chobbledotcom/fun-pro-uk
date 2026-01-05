@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2024-09-04/best-office-christmas-party-games/"
 ---
 
-# 04 September 24 - Best Office Christmas Party Games
-
 Planning an event and want to ensure your guests have an amazing experience? Game rentals are a fantastic way to add fun and interactive elements to any gathering, whether it’s a corporate event, birthday party, convention, or community gathering.
 
 But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/office-and-corporate-entertainment/#content)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.

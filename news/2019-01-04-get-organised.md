@@ -8,8 +8,6 @@ redirect_from:
   - "/news/2019-01-04/get-organised/"
 ---
 
-# 04 January 19 - Get organised!
-
 ## New Year's resolution: Time to get organised!
 
 Are you one of the thousands of people who set a new year's resolution each year, only to see it fail within a month or two of starting? Yep, we've been there too! We've promised to eat healthier, exercise and spend more time with family to name a few.
