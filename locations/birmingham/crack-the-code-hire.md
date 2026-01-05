@@ -4,7 +4,6 @@ meta_title: "Crack the Code Game Hire Birmingham | Safe Cracker Rentals"
 meta_description: "Hire the Crack the Code safe cracker game for exhibition stands in Birmingham and the West Midlands! Secure your spot with the event experts; book now!"
 redirect_from:
   - "/pages/crack-the-code-hire-birmingham/"
-thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Crack The Code Game Hire - Perfect for All Birmingham Events

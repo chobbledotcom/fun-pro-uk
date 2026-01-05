@@ -4,7 +4,6 @@ meta_title: "Batak Lite Hire Manchester | Exhibition Stand Games | Interactive"
 meta_description: "Are you looking for exhibition stand entertainment in Manchester? Our Batak Lite machines could be just what you need! Hire interactive fun online here."
 redirect_from:
   - "/pages/batak-lite-hire-manchester/"
-thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Batak Lite hire Manchester

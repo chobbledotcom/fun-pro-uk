@@ -4,7 +4,6 @@ meta_title: "Safe Cracker Hire Coventry - Exhibition and Game Hire in Nationwide
 meta_description: "Safe Cracker Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/pages/safe-cracker-hire-coventry/"
-thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Safe Cracker Game Hire for Coventry Events

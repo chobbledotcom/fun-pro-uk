@@ -324,6 +324,24 @@ const copyLocalUserfilesImage = (imagePath, contentType) => {
   }
 };
 
+// Images that should not be used as thumbnails (buttons, icons, etc.)
+const EXCLUDED_THUMBNAIL_IMAGES = [
+  'contactus2.jpg',
+  'contactus.jpg',
+  'book-now-button-longer-md.png',
+  'book-now-button.png',
+];
+
+/**
+ * Check if an image should be excluded from thumbnail consideration
+ * @param {string} webPath - The web path of the image
+ * @returns {boolean} True if image should be excluded as thumbnail
+ */
+const isExcludedThumbnail = (webPath) => {
+  const filename = path.basename(webPath).toLowerCase();
+  return EXCLUDED_THUMBNAIL_IMAGES.some(excluded => filename === excluded.toLowerCase());
+};
+
 /**
  * Copy all /userfiles/ embedded images from content and update URLs
  * @param {string} content - Markdown content with /userfiles/ image references
@@ -365,8 +383,8 @@ const copyLocalEmbeddedImages = (content, contentType) => {
       // Replace with new local path
       updatedContent = updatedContent.replace(fullMatch, `![${altText}](${result.webPath})`);
 
-      // Track first image for thumbnail
-      if (!firstImage) {
+      // Track first image for thumbnail (excluding buttons/icons)
+      if (!firstImage && !isExcludedThumbnail(result.webPath)) {
         firstImage = result.webPath;
       }
     } else {

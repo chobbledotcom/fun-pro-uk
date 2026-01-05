@@ -4,7 +4,6 @@ meta_title: "Fun Pro UK - Corporate Entertainment Hire | Nottingham"
 meta_description: "Original corporate entertainment ideas and first-class service. Choose Fun Pro UK for events in Nottingham for interactive games, photo booths &amp; much more."
 redirect_from:
   - "/pages/nottingham-corporate-event-hire/"
-thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Corporate Event Hire Nottingham

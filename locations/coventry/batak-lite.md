@@ -4,7 +4,6 @@ meta_title: "Batak Lite Game Hire Coventry | Interactive Game | Corporate Engage
 meta_description: "Hire Batak Lite in Coventry for exhibitions, corporate events and product launches. Keep your guests engaged with this fast-paced reaction challenge. Book today for an exciting, competitive experience."
 redirect_from:
   - "/pages/batak-lite-coventry/"
-thumbnail: "/images/locations/contactus2.jpg"
 ---
 
 # Batak Lite – A Dynamic Interactive Game for Exhibitions & Corporate Events in Coventry
