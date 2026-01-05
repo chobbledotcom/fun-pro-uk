@@ -15,10 +15,10 @@ const { convertSingle, convertBatch } = createConverter({
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     // Get town and stripped slug from context
-    const { town, strippedSlug } = context;
+    const { town, strippedSlug, hadRootLevelUrl } = context;
     // Get thumbnail from extracted data (set by beforeWrite)
     const thumbnail = extracted.thumbnail || null;
-    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug, thumbnail);
+    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug, thumbnail, hadRootLevelUrl);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Copy /userfiles/ images from old_site and update paths in content
@@ -85,16 +85,25 @@ const convertLocations = async () => {
   let successful = 0;
   let failed = 0;
 
+  // Check which slugs have existing files in pages/ directory (need root-level redirects)
+  const currentPagesDir = path.join(config.OUTPUT_BASE, 'pages');
+
   for (let i = 0; i < locationFiles.length; i++) {
     const file = locationFiles[i];
     const slug = slugFromFilename(file);
     const town = extractTownFromSlug(slug);
     const strippedSlug = stripTownFromSlug(slug, town);
 
+    // Check if this page previously existed in the pages/ directory
+    // If so, it needs a root-level redirect (e.g., /corporate-event-hire-sheffield/)
+    const existingPagePath = path.join(currentPagesDir, `${slug}.md`);
+    const hadRootLevelUrl = fs.existsSync(existingPagePath);
+
     // Pass town info in context
     const context = {
       town,
       strippedSlug,
+      hadRootLevelUrl,
       progressIndex: i,
       progressTotal: locationFiles.length
     };
