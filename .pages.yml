@@ -192,7 +192,8 @@ content:
       - { name: title, type: string, label: Name }
       - { name: snippet, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
-  - { name: permalink, type: string }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
 
   - name: reviews
     label: Reviews
