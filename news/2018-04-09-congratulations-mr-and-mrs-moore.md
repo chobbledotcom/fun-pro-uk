@@ -1,6 +1,5 @@
 ---
-title: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK"
-subtitle: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Congratulations Mr and Mrs Moore"
 date: 2018-04-09
 author: "team/liz.md"
 meta_title: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg"
 ---
-
-# 09 April 18 - Congratulations Mr and Mrs Moore
 
 On Saturday we spent a fabulous evening at the Citrus Hotel near [Coventry](/locations/coventry/corporate-event-hire/#content) helping this wonderful couple to celebrate their wedding day .
 

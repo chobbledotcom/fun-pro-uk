@@ -1,6 +1,5 @@
 ---
-title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-subtitle: "Dunchurch Park - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Dunchurch Park"
 date: 2016-11-12
 author: "team/liz.md"
 meta_title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Dunchurch Park - Fun Pro UK provide the best Exhibition and G
 redirect_from:
   - "/news/2016-11-12/dunchurch-park/"
 ---
-
-# 12 November 16 - Dunchurch Park
 
 So excited, on the way to Dunchurch Park Hotel in the beautiful town of Rugby, Warwickshire.
 

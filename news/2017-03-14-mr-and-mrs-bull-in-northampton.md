@@ -1,6 +1,5 @@
 ---
-title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
-subtitle: "Mr And Mrs Bull Wedding – Event Entertainment Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Mr & Mrs Bull in Northampton"
 date: 2017-03-14
 author: "team/liz.md"
 meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
@@ -8,8 +7,6 @@ meta_description: "Mr And Mrs Bull Wedding – Event Entertainment Services - Fu
 redirect_from:
   - "/news/2017-03-14/mr-and-mrs-bull-in-northampton/"
 ---
-
-# 14 March 17 - Mr & Mrs Bull in Northampton
 
 On Saturday night we helped celebrate the wonderful wedding of Mr and Mrs Bull at the [Northamptonshire Marriott Hotel.](/locations/northampton/corporate-event-hire/#content)  
 The special couple had booked us last minute and we at Perfect Snap were only to happy to help out!  

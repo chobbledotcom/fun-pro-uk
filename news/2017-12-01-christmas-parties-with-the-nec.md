@@ -1,6 +1,5 @@
 ---
-title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"
-subtitle: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Christmas Parties with the NEC"
 date: 2017-12-01
 author: "team/liz.md"
 meta_title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/nec1.png"
 ---
-
-# 01 December 17 - Christmas Parties with the NEC
 
 Last night saw Team Perfect Snap returning to the NEC in [Birmingham](/locations/birmingham/corporate-event-hire/#content) to help celebrate Christmas with them just as we did last year!
 

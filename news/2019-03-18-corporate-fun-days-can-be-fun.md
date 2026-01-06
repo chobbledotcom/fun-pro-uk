@@ -1,6 +1,5 @@
 ---
-title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"
-subtitle: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Corporate Fun Days Can Be Fun!"
 date: 2019-03-18
 author: "team/colin.md"
 meta_title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/fundays.png"
 ---
-
-# 18 March 19 - Corporate Fun Days Can Be Fun!
 
 ## **Do you appreciate your staff?**
 

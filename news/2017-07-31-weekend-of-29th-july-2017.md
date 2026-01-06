@@ -1,6 +1,5 @@
 ---
-title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
-subtitle: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Weekend of 29th July 2017"
 date: 2017-07-31
 author: "team/liz.md"
 meta_title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Weekend Of 29th July – Event Game Hire Services | Fun Pro U
 redirect_from:
   - "/news/2017-07-31/weekend-of-29th-july-2017/"
 ---
-
-# 31 July 17 - Weekend of 29th July 2017
 
 Wow! I can't tell you what a busy weekend we have had here at Perfect Snap. We seem to have been all over the place! On Friday we were at a beautiful wedding with a [green screen photo booth](/products/green-screen-photo-booths/#content) and our spectacular LOVE letters at Ardencote Manor, Warwickshire. This was a gorgeous venue where the guests were really in the mood to party! Our LOVE letters made a fabulous back drop shining brightly in the background. A 'lovely' effect!  
   

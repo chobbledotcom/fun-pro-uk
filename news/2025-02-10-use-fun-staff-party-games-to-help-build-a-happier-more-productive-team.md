@@ -1,6 +1,5 @@
 ---
-title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"
-subtitle: "From interactive arcade machines to engaging group activities, Fun Pro has a range of interactive party games to help your team bond, and boost workplace productivity."
+title: "Use Fun Staff Party Games to Help Build a Happier, More Productive Team"
 date: 2025-02-10
 author: "team/colin.md"
 meta_title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"
@@ -8,8 +7,6 @@ meta_description: "From interactive arcade machines to engaging group activities
 redirect_from:
   - "/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/"
 ---
-
-# 10 February 25 - Use Fun Staff Party Games to Help Build a Happier, More Productive Team
 
 Staff parties are a great way to encourage [team bonding](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and make everyone feel included, and build stronger relationships at work. The type of parties you throw at your company say a lot about the culture you’ve created or are trying to create, so it’s important to think about this when planning the activities you’d like to include.
 

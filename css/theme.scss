@@ -103,7 +103,8 @@
 
 :root {
   --width-content: 1300px;
-  --color-bg: #fdfdfd;
+  --color-bg: #fafafa;
+  --color-border: transparent;
   --font-family-heading: "DM Sans", var(--font-family-heading);
   --font-family-body: "DM Sans", var(--font-family-body);
   --border: 1px solid #babbbc;
@@ -118,6 +119,7 @@ h3 {
 }
 
 article#content {
+  --color-link: #0e5ba7;
   border: none;
 }
 
@@ -1039,6 +1041,7 @@ body.reviews {
     display: flex;
     gap: 16px;
     justify-content: center;
+    flex-wrap: wrap;
   }
 }
 
@@ -1211,6 +1214,7 @@ ul.items {
 }
 
 .items {
+  --color-link: #111;
   &.border {
     border-radius: 16px;
     border: 1px solid #babbbc;

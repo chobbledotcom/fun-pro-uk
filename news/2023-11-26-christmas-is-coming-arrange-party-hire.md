@@ -1,6 +1,5 @@
 ---
-title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"
-subtitle: "Christmas is around the corner, so it&#39;s a great time to book out plenty of festive party equipment. Reindeer bowling games, grottos, magic mirrors &amp; more!"
+title: "Christmas is Coming - Arrange Party Hire!"
 date: 2023-11-26
 author: "team/colin.md"
 meta_title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"
@@ -8,8 +7,6 @@ meta_description: "Christmas is around the corner, so it&#39;s a great time to b
 redirect_from:
   - "/news/2023-11-26/christmas-is-coming-arrange-party-hire/"
 ---
-
-# 26 November 23 - Christmas is Coming - Arrange Party Hire!
 
 As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming [Christmas parties](/events/christmas-entertainment/#content). At Fun Pro UK, we specialise in turning holiday celebrations into magical, memorable events with our unique range of [Christmas games](/categories/christmas-game-hire/#content) and attractions. Here’s how you can add that extra sparkle to your festivities this year.
 

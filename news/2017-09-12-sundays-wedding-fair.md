@@ -1,6 +1,5 @@
 ---
-title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
-subtitle: "Sunday’s Wedding Fair – Event Entertainment Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Sunday's Wedding Fair"
 date: 2017-09-12
 author: "team/liz.md"
 meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
@@ -8,8 +7,6 @@ meta_description: "Sunday’s Wedding Fair – Event Entertainment Rentals - Fun
 redirect_from:
   - "/news/2017-09-12/sundays-wedding-fair/"
 ---
-
-# 12 September 17 - Sunday's Wedding Fair
 
 It was lovely to see so many people at the wedding fair on Sunday which was held at Ansty Hall Hotel in [Coventry](/locations/coventry/corporate-event-hire/#content) by Perfect Brides.
 

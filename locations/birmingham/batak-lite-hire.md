@@ -4,13 +4,14 @@ meta_title: "Batak Lite Hire Birmingham | Exhibition Stand Games | Interactive"
 meta_description: "Experience the best in Batak Lite in Birmingham and the West Midlands with the exhibition stand and event hire experts! Book your spot online today."
 redirect_from:
   - "/pages/batak-lite-hire-birmingham/"
+thumbnail: "/images/locations/20231204-171138.jpg"
 ---
 
 # Batak Lite – An Interactive Game for Exhibitions & Corporate Events in Birmingham
 
 If you're looking to bring excitement and engagement to your next [corporate event](/categories/corporate-entertainment/#content) or want an innovative way to make your brand stand out, Batak Lite hire in Birmingham is the perfect choice. This interactive reaction game encourages competition and creates lasting impressions at any event.
 
-![Batak Lite Hire Birmingham](/userfiles/file/FunPro/Batak%20Lite/20231204-171138.jpg)
+![Batak Lite Hire Birmingham](/images/locations/20231204-171138.jpg)
 
 ## What Is Batak Lite?
 

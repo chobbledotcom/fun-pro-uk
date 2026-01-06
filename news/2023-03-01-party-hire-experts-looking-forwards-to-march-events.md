@@ -1,6 +1,5 @@
 ---
-title: "Looking Forward To March Events – Game Rentals | Fun Pro UK"
-subtitle: "Looking Forward To March Events – Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Party Hire Experts: Looking forwards to March Events"
 date: 2023-03-01
 author: "team/colin.md"
 meta_title: "Looking Forward To March Events – Game Rentals | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/batak23.jpg"
 ---
-
-# 01 March 23 - Party Hire Experts: Looking forwards to March Events
 
 We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off the month of March.
 

@@ -1,6 +1,5 @@
 ---
-title: "Brand Activation in Birmingham: The Complete Guide"
-subtitle: "Discover why Birmingham is ideal for your next brand activation. Expert guidance on venues, interactive entertainment, and measuring ROI."
+title: "Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities"
 date: 2025-12-15
 author: "team/colin.md"
 meta_title: "Brand Activation in Birmingham: The Complete Guide"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/city-of-birmingham.png"
 ---
-
-# 15 December 25 - Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities
 
 ![](/images/news/city-of-birmingham.png)
 

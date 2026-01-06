@@ -1,6 +1,5 @@
 ---
-title: "Fun Pro UK Enhances Installershow with Branded Games"
-subtitle: "Explore how Fun Pro UK brought bespoke branded interactive games to the Installershow at the NEC Birmingham, delivering standout experiences for exhibitors."
+title: "Working in Birmingham with Custom-Branded Interactive Games"
 date: 2024-06-25
 author: "team/liz.md"
 meta_title: "Fun Pro UK Enhances Installershow with Branded Games"
@@ -8,8 +7,6 @@ meta_description: "Explore how Fun Pro UK brought bespoke branded interactive ga
 redirect_from:
   - "/news/2024-06-25/working-in-birmingham-with-custom-branded-interactive-games/"
 ---
-
-# 25 June 24 - Working in Birmingham with Custom-Branded Interactive Games
 
 At Fun Pro UK, we recently had the exciting opportunity to showcase our expertise in enhancing trade shows by installing seven custom-branded [interactive games](/categories/interactive-game-hire/#content) for our clients at the Installer show held at the [NEC Birmingham](/locations/birmingham/nec/#content). Our close proximity in Wolston allowed us to offer complimentary delivery, ensuring that each setup was convenient and cost-effective for our clients.
 

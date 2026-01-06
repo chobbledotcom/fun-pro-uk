@@ -1,6 +1,5 @@
 ---
-title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"
-subtitle: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Party Party Party"
 date: 2016-12-12
 author: "team/colin.md"
 meta_title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Party Party Party – Nationwide Event Games Hire | Fun Pro U
 redirect_from:
   - "/news/2016-12-12/party-party-party/"
 ---
-
-# 12 December 16 - Party Party Party
 
 Wow! What a busy weekend we have had. It certainly was the weekend for partying!
 

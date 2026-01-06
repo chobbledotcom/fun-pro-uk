@@ -1,6 +1,5 @@
 ---
-title: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK"
-subtitle: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Is it Christmas already"
 date: 2017-12-22
 author: "team/colin.md"
 meta_title: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Is It Christmas Already? – Festive Game Rentals | Fun Pro U
 redirect_from:
   - "/news/2017-12-22/is-it-christmas-already/"
 ---
-
-# 22 December 17 - Is it Christmas already
 
 Is It [Christmas](/categories/christmas-game-hire/#content) already?
 

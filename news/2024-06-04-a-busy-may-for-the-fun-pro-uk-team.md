@@ -1,6 +1,5 @@
 ---
-title: "Fun Pro UK"
-subtitle: "Discover Fun Pro UK&#39;s dynamic May 2024 activities, featuring custom-branded games like Whack A Mole at the NEC Birmingham and more across the UK."
+title: "A Busy May for the Fun Pro UK Team"
 date: 2024-06-04
 author: "team/colin.md"
 meta_title: "Fun Pro UK's Exciting May 2024 Event Highlights | News & Blogs"
@@ -8,8 +7,6 @@ meta_description: "Discover Fun Pro UK&#39;s dynamic May 2024 activities, featur
 redirect_from:
   - "/news/2024-06-04/a-busy-may-for-the-fun-pro-uk-team/"
 ---
-
-# 04 June 24 - A Busy May for the Fun Pro UK Team
 
 May 2024 has been a bustling month for Fun Pro UK, filled with thrilling installations, vibrant branding, and unforgettable events. Our team has been all over the map, from the [NEC in Birmingham](/locations/birmingham/nec/#content) to the heart of London, bringing fun and engagement through our uniquely branded [interactive games](/categories/interactive-game-hire/#content). Here’s a roundup of what we’ve been up to this month!
 

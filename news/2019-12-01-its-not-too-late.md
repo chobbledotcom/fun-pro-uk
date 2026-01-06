@@ -1,6 +1,5 @@
 ---
-title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
-subtitle: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "It's not too late!"
 date: 2019-12-01
 author: "team/colin.md"
 meta_title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/dance-1.jpg"
 ---
-
-# 01 December 19 - It's not too late!
 
 ## There's still time to book your Christmas party fun!
 

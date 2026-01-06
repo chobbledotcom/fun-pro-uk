@@ -1,6 +1,5 @@
 ---
-title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"
-subtitle: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Saturday 17th June"
 date: 2017-06-18
 author: "team/liz.md"
 meta_title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK - Fun
 redirect_from:
   - "/news/2017-06-18/saturday-17th-june/"
 ---
-
-# 18 June 17 - Saturday 17th June
 
 Team Perfect Snap had a really busy evening yesterday, as did the people of Coventry City! There were lots of events happening in Coventry and we were invited to bring our [Photobooths](/products/green-screen-photo-booths/#content) and [Magic Mirrors](/products/magic-mirror/#content) to a few!  
   

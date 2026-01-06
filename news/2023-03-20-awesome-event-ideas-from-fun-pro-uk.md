@@ -1,6 +1,5 @@
 ---
-title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"
-subtitle: "Experience amazing events with Fun Pro UK! Charity fundraiser, school fun days, exhibitions and much more - we have ideas for parties throughout the UK!"
+title: "Awesome Event Ideas from Fun Pro UK"
 date: 2023-03-20
 author: "team/liz.md"
 meta_title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/37e0bbea736ba19a7e6043fe17d3f2df.jpeg"
 ---
-
-# 20 March 23 - Awesome Event Ideas from Fun Pro UK
 
 Are you planning an event but don't know where to start? Look no further than Fun Pro UK! We offer an extensive range of [event ideas](/event-type/#content) to help you create an unforgettable experience for your guests. Our packages are tailored to suit a variety of events, from corporate exhibitions to school fun days, charity fundraising events, evening events, summer parties and everything else.
 

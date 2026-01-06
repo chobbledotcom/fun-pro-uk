@@ -1,6 +1,5 @@
 ---
-title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"
-subtitle: "7 Ways To Show Your Staff Appreciation | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "7 ways to show your staff some love!"
 date: 2019-01-30
 author: "team/liz.md"
 meta_title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "7 Ways To Show Your Staff Appreciation | Fun Pro UK - Fun Pro
 redirect_from:
   - "/news/2019-01-30/7-ways-to-show-your-staff-some-love/"
 ---
-
-# 30 January 19 - 7 ways to show your staff some love!
 
 February is known as the month of love, with February 14th, Valentine's day, seen as a chance to show your partner how much you love them. The greeting card companies do a roaring trade, the florists sell huge numbers of flowers, and restaurants are all booked up by couples celebrating their relationship.
 

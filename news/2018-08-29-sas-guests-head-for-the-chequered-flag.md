@@ -1,6 +1,5 @@
 ---
-title: "Sas Guests At The Chequered Flag – Event Game Hire"
-subtitle: "Sas Guests At The Chequered Flag – Event Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "SAS guests head for the chequered flag!"
 date: 2018-08-29
 author: "team/colin.md"
 meta_title: "Sas Guests At The Chequered Flag – Event Game Hire"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/race-car-simulator-3.jpg"
 ---
-
-# 29 August 18 - SAS guests head for the chequered flag!
 
 Fun Pro UK were recently hired to provide [Race Car Simulators](/products/racing-car-simulators/#content) to an event close to our base in Coventry. This was for a large car parts company that wanted to put on a promotional event to thank all their customers for their continual support.
 

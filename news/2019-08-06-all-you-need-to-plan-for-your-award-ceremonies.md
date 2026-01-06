@@ -1,6 +1,5 @@
 ---
-title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"
-subtitle: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "All You Need to Plan For Your Award Ceremonies"
 date: 2019-08-06
 author: "team/liz.md"
 meta_title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/img-20190709-wa0000.jpg"
 ---
-
-# 06 August 19 - All You Need to Plan For Your Award Ceremonies
 
 ## Getting your employees engaged at award ceremonies!
 

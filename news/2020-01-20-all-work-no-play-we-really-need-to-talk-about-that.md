@@ -1,6 +1,5 @@
 ---
-title: "All Work, No Play? Let’s Change That! | Fun Pro UK"
-subtitle: "All Work, No Play? Let’s Change That! | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "All work, no play? We really need to talk about that!!"
 date: 2020-01-20
 author: "team/liz.md"
 meta_title: "All Work, No Play? Let’s Change That! | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/20180616-152805.jpg"
 ---
-
-# 20 January 20 - All work, no play? We really need to talk about that!!
 
 ## All work, no play? We really need to talk about that!!
 

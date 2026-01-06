@@ -40,7 +40,7 @@
 - [Award Ceremonies](/award-ceremonies/)
 - [How It Works](/how-it-works/)
 - [FAQs](/frequently-asked-questions/)
-- [FunPro Stories](/case-studies/)
+- [Case Studies](/case-studies/)
 - [Terms & Conditions](/terms-and-condition/)
 - [Privacy Policy](/privacy-policy/)
 - [Cookie Policy](/cookie-policy/)

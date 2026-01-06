@@ -1,6 +1,5 @@
 ---
-title: "Electronic Basketball Hire – Fun Interactive Game"
-subtitle: "Electronic Basketball Hire – Fun Interactive Game - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Energetic Electronic Basket Ball Hire!"
 date: 2018-10-11
 author: "team/liz.md"
 meta_title: "Electronic Basketball Hire – Fun Interactive Game"
@@ -8,8 +7,6 @@ meta_description: "Electronic Basketball Hire – Fun Interactive Game - Fun Pro
 redirect_from:
   - "/news/2018-10-11/energetic-electronic-basket-ball-hire/"
 ---
-
-# 11 October 18 - Energetic Electronic Basket Ball Hire!
 
 Looking for something different to entertain your guests at your upcoming event?
 

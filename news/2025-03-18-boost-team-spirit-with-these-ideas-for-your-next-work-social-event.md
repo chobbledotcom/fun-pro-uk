@@ -1,6 +1,5 @@
 ---
-title: "Best Work Social Event Ideas | Interactive Games for Teams"
-subtitle: "Looking for fun work social event ideas? Boost team morale with arcade games, racing simulators, and reaction games. Plan your perfect event with Fun Pro UK."
+title: "Boost Team Spirit With These Ideas For Your Next Work Social Event"
 date: 2025-03-18
 author: "team/colin.md"
 meta_title: "Best Work Social Event Ideas | Interactive Games for Teams"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/prize-crane-arcade-grabber.jpg"
 ---
-
-# 18 March 25 - Boost Team Spirit With These Ideas For Your Next Work Social Event
 
 Organising a work social event is a great way to strengthen team bonds, improve morale, and create a positive workplace culture. But with so many options available, how do you choose the perfect activities? Whether you're planning a small [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) or a large-scale [corporate event](/categories/corporate-entertainment/#content), incorporating things like [interactive games](/categories/interactive-game-hire/#content) can make all the difference.
 

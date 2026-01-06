@@ -1,6 +1,5 @@
 ---
-title: "Small vs Large Conference Game Hire: Expert Planning Guide"
-subtitle: "Learn how to choose the right interactive games for your conference size. Expert advice on space, budget, and engagement for 20-500+ attendees."
+title: "Small Conference vs. Large Conference"
 date: 2025-11-03
 author: "team/liz.md"
 meta_title: "Small vs Large Conference Game Hire: Expert Planning Guide"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/group-of-professional-people-celebrating.png"
 ---
-
-# 03 November 25 - Small Conference vs. Large Conference
 
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment
 

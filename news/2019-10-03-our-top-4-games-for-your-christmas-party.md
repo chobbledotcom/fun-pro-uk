@@ -1,6 +1,5 @@
 ---
-title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"
-subtitle: "Top 4 Christmas Party Games For Your Event | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Our Top 4 Games for your Christmas Party"
 date: 2019-10-03
 author: "team/liz.md"
 meta_title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/20171214-173433.jpg"
 ---
-
-# 03 October 19 - Our Top 4 Games for your Christmas Party
 
 ## **Christmas Fun & Games**
 

@@ -1,6 +1,5 @@
 ---
-title: "Will & Sam Wedding – Event Entertainment Services"
-subtitle: "Will &amp; Sam Wedding – Event Entertainment Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Will & Sam 2nd November 2016"
 date: 2016-11-05
 author: "team/colin.md"
 meta_title: "Will & Sam Wedding – Event Entertainment Services"
@@ -8,8 +7,6 @@ meta_description: "Will &amp; Sam Wedding – Event Entertainment Services - Fun
 redirect_from:
   - "/news/2016-11-05/will-and-sam-2nd-november-2016/"
 ---
-
-# 05 November 16 - Will & Sam 2nd November 2016
 
 It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/products/magic-mirror/#content) for the wedding of Will and Sam.
 

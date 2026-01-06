@@ -1,6 +1,5 @@
 ---
-title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"
-subtitle: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Whittlebury Park"
 date: 2017-04-10
 author: "team/colin.md"
 meta_title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK -
 redirect_from:
   - "/news/2017-04-10/whittlebury-park/"
 ---
-
-# 10 April 17 - Whittlebury Park
 
 On Saturday evening we were in attendance at the [wedding reception](/categories/weddings/#content) of William and Jaimie. The bride looked stunning as did her maids.  
 It was the first time we had attended the venue of Whittlebury Park in [Northamptonshire](/locations/nottingham/corporate-event-hire/#content) and I really must say it was stunning!  

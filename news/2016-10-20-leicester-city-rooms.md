@@ -1,6 +1,5 @@
 ---
-title: "Leicester City Rooms – Event Entertainment Options"
-subtitle: "Leicester City Rooms – Event Entertainment Options - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Leicester City Rooms"
 date: 2016-10-20
 author: "team/liz.md"
 meta_title: "Leicester City Rooms – Event Entertainment Options"
@@ -8,8 +7,6 @@ meta_description: "Leicester City Rooms – Event Entertainment Options - Fun Pr
 redirect_from:
   - "/news/2016-10-20/leicester-city-rooms/"
 ---
-
-# 20 October 16 - Leicester City Rooms
 
 We had a wonderful time at The City Rooms in Leicester on Saturday. This was our first time at this gorgeous venue set in Leicester.  
 The [Magic Mirror](/products/magic-mirror/#content) was as popular as ever with all of the guests that attended the wedding of Joanne and Peter.  

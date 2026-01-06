@@ -1,6 +1,5 @@
 ---
-title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"
-subtitle: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Wedding Fair at Ettington Park"
 date: 2017-10-17
 author: "team/liz.md"
 meta_title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK 
 redirect_from:
   - "/news/2017-10-17/wedding-fair-at-ettington-park/"
 ---
-
-# 17 October 17 - Wedding Fair at Ettington Park
 
 On Sunday we attended a very busy [wedding](/categories/weddings/#content) fair at Ettington Park Hotel in Stratford Upon Avon. The hotel is on the far side of Stratford, approximately 6 miles from the town and is situated in stunning countryside with the River Stour running through the estate.
 

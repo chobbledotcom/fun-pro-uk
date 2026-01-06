@@ -1,6 +1,5 @@
 ---
 title: "How to Choose the Perfect Photo Booth for Your Event"
-subtitle: "If you’re considering a photo booth for your event, knowing how to choose the perfect one can make all the difference. Let’s explore the best options today!"
 date: 2025-01-28
 author: "team/liz.md"
 meta_title: "How to Choose the Perfect Photo Booth for Your Event"
@@ -8,8 +7,6 @@ meta_description: "If you’re considering a photo booth for your event, knowing
 redirect_from:
   - "/news/2025-01-28/how-to-choose-the-perfect-photo-booth-for-your-event/"
 ---
-
-# 28 January 25 - How to Choose the Perfect Photo Booth for Your Event
 
 When you're hosting a fun and unique event, there needs to be a fine balance between meticulous planning and delivering an experience that guests would find memorable. Attendees should be able to cherish memories of the event for years and years to come.
 

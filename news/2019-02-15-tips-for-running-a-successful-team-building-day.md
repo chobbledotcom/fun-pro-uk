@@ -1,6 +1,5 @@
 ---
-title: "Tips For Successful Team Building Events | Fun Pro UK"
-subtitle: "Tips For Successful Team Building Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Tips for running a Successful Team Building Day"
 date: 2019-02-15
 author: "team/liz.md"
 meta_title: "Tips For Successful Team Building Events | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Tips For Successful Team Building Events | Fun Pro UK - Fun P
 redirect_from:
   - "/news/2019-02-15/tips-for-running-a-successful-team-building-day/"
 ---
-
-# 15 February 19 - Tips for running a Successful Team Building Day
 
 Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But organising and running a successful team building day is no easy task.
 

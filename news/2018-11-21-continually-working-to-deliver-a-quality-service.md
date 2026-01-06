@@ -1,6 +1,5 @@
 ---
-title: "Delivering Quality Event Services Nationwide | Fun Pro UK"
-subtitle: "Delivering Quality Event Services Nationwide | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Continually Working to Deliver a Quality Service!"
 date: 2018-11-21
 author: "team/colin.md"
 meta_title: "Delivering Quality Event Services Nationwide | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "Delivering Quality Event Services Nationwide | Fun Pro UK - F
 redirect_from:
   - "/news/2018-11-21/continually-working-to-deliver-a-quality-service/"
 ---
-
-# 21 November 18 - Continually Working to Deliver a Quality Service!
 
 It has been a busy week within the Fun Pro UK office with brainstorming sessions on how to continue to deliver our top-quality service to our new and long-standing customers. Even Demi (the Fun Pro UK dog) has been getting involved with our meetings!
 

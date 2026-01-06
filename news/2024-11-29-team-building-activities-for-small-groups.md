@@ -1,6 +1,5 @@
 ---
-title: "Team Building Activities For Small Groups"
-subtitle: "Plan meaningful team building activities for small groups that foster trust, boost morale, and encourage teamwork. Discover top ideas from Fun Pro UK."
+title: "Team Building Activities for Small Groups"
 date: 2024-11-29
 author: "team/liz.md"
 meta_title: "Team Building Activities For Small Groups"
@@ -8,8 +7,6 @@ meta_description: "Plan meaningful team building activities for small groups tha
 redirect_from:
   - "/news/2024-11-29/team-building-activities-for-small-groups/"
 ---
-
-# 29 November 24 - Team Building Activities for Small Groups
 
 You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. [Team building games](/team-building-ideas/#content) are a way for businesses to build relationships and collaboration within the workplace. They encourage trust and communication, but they can also be lots of fun too.
 

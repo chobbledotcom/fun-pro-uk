@@ -1,6 +1,5 @@
 ---
-title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"
-subtitle: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "1st Birthday Celebrations!"
 date: 2017-02-08
 author: "team/colin.md"
 meta_title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"
@@ -8,8 +7,6 @@ meta_description: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro U
 redirect_from:
   - "/news/2017-02-08/1st-birthday-celebrations/"
 ---
-
-# 08 February 17 - 1st Birthday Celebrations!
 
 Everyone had a fantastic time at the 1st birthday party of a little girl in [Birmingham](/locations/birmingham/magic-mirror-hire/#content) on Sunday! There were some great memories captured! The Jewels Banqueting Suite venue looked amazing with all the table decorations and lighting. We set up our famous [magic mirror](/products/magic-mirror/#content) and laid out our awesome prop box ready for the party to begin. On each photograph the prints had a birthday message as a memorable keepsake.
 

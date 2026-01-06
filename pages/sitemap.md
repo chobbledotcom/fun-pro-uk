@@ -27,7 +27,7 @@ redirect_from:
 *   [](/locations/northampton/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire](/locations/nottingham/corporate-event-hire/#content) [Nottingham](/locations/nottingham/corporate-event-hire/#content)
 *   [](/locations/nottingham/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Oxford](/oxford-corporate-event-hire/#content)
 *   [](/oxford-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Reading](/reading-corporate-event-hire/#content)
-*   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/sheffield-corporate-event-hire/#content)
+*   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire-2/#content)
 
 ## **Insurance**
 

@@ -1,6 +1,5 @@
 ---
-title: "Award Ceremony Season – Event Entertainment Game Hire"
-subtitle: "Award Ceremony Season – Event Entertainment Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+title: "Award ceremony season is fast approaching!"
 date: 2018-11-28
 author: "team/liz.md"
 meta_title: "Award Ceremony Season – Event Entertainment Game Hire"
@@ -10,8 +9,6 @@ redirect_from:
 gallery:
   - "/images/news/photo-booth-1.jpeg"
 ---
-
-# 28 November 18 - Award ceremony season is fast approaching!
 
 As the year starts to draw to a close, companies are preparing their annual [employee award ceremony](/events/company-award-ceremonies/#content) to show their continued appreciation for their staff's hard work over the last year.
 

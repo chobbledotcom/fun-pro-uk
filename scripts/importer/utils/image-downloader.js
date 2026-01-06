@@ -286,6 +286,126 @@ const downloadNewsEmbeddedImages = async (content) => {
   return updatedContent;
 };
 
+/**
+ * Copy a /userfiles/ image from old_site to a local directory
+ * @param {string} imagePath - Path like /userfiles/foo.jpg or /userfiles/file/FunPro/bar.jpg
+ * @param {string} contentType - Type of content (locations, pages, etc.)
+ * @returns {{localPath: string, webPath: string, success: boolean, cached: boolean}}
+ */
+const copyLocalUserfilesImage = (imagePath, contentType) => {
+  // Decode URL-encoded characters (e.g., %20 -> space)
+  const decodedPath = decodeURIComponent(imagePath);
+  // Extract just the filename from the path
+  const filename = path.basename(decodedPath);
+  const imagesDir = path.join(__dirname, '..', '..', '..', 'images', contentType);
+  const localPath = path.join(imagesDir, filename);
+  const webPath = `/images/${contentType}/${encodeURIComponent(filename).replace(/%20/g, '-')}`;
+
+  // Use URL-safe filename (replace spaces with dashes)
+  const safeFilename = filename.replace(/ /g, '-');
+  const safeLocalPath = path.join(imagesDir, safeFilename);
+  const safeWebPath = `/images/${contentType}/${safeFilename}`;
+
+  ensureDir(imagesDir);
+
+  // Check if already copied (cached)
+  if (fs.existsSync(safeLocalPath)) {
+    return { localPath: safeLocalPath, webPath: safeWebPath, success: true, cached: true };
+  }
+
+  // Build the source path in old_site
+  // imagePath is like /userfiles/file/FunPro/coventry.jpg
+  // old_site path is old_site/userfiles/file/FunPro/coventry.jpg
+  const oldSiteDir = path.join(__dirname, '..', '..', '..', 'old_site');
+  const sourcePath = path.join(oldSiteDir, decodedPath);
+
+  try {
+    if (fs.existsSync(sourcePath)) {
+      fs.copyFileSync(sourcePath, safeLocalPath);
+      return { localPath: safeLocalPath, webPath: safeWebPath, success: true, cached: false };
+    } else {
+      return { localPath: safeLocalPath, webPath: safeWebPath, success: false, cached: false };
+    }
+  } catch (error) {
+    return { localPath: safeLocalPath, webPath: safeWebPath, success: false, cached: false };
+  }
+};
+
+// Images that should not be used as thumbnails (buttons, icons, etc.)
+const EXCLUDED_THUMBNAIL_IMAGES = [
+  'contactus2.jpg',
+  'contactus.jpg',
+  'book-now-button-longer-md.png',
+  'book-now-button.png',
+];
+
+/**
+ * Check if an image should be excluded from thumbnail consideration
+ * @param {string} webPath - The web path of the image
+ * @returns {boolean} True if image should be excluded as thumbnail
+ */
+const isExcludedThumbnail = (webPath) => {
+  const filename = path.basename(webPath).toLowerCase();
+  return EXCLUDED_THUMBNAIL_IMAGES.some(excluded => filename === excluded.toLowerCase());
+};
+
+/**
+ * Copy all /userfiles/ embedded images from content and update URLs
+ * @param {string} content - Markdown content with /userfiles/ image references
+ * @param {string} contentType - Type of content (locations, pages, etc.)
+ * @returns {{content: string, firstImage: string|null}} Updated content and first image path
+ */
+const copyLocalEmbeddedImages = (content, contentType) => {
+  // Match markdown images with /userfiles/ paths
+  // Pattern: ![alt](/userfiles/...) possibly with title
+  const imageRegex = /!\[([^\]]*)\]\((\/userfiles\/[^)\s]+?)(?:\s+"[^"]*")?\)/g;
+  const matches = [...content.matchAll(imageRegex)];
+
+  if (matches.length === 0) {
+    return { content, firstImage: null };
+  }
+
+  process.stdout.write(` [imgs:`);
+  let updatedContent = content;
+  let firstImage = null;
+  let copied = 0;
+  let cached = 0;
+  let failed = 0;
+
+  for (const match of matches) {
+    const fullMatch = match[0];
+    const altText = match[1];
+    const imagePath = match[2];
+
+    const result = copyLocalUserfilesImage(imagePath, contentType);
+
+    if (result.success) {
+      if (result.cached) {
+        process.stdout.write('.');
+        cached++;
+      } else {
+        process.stdout.write('+');
+        copied++;
+      }
+      // Replace with new local path
+      updatedContent = updatedContent.replace(fullMatch, `![${altText}](${result.webPath})`);
+
+      // Track first image for thumbnail (excluding buttons/icons)
+      if (!firstImage && !isExcludedThumbnail(result.webPath)) {
+        firstImage = result.webPath;
+      }
+    } else {
+      process.stdout.write('x');
+      failed++;
+      // Remove failed images from content
+      updatedContent = updatedContent.replace(fullMatch, '');
+    }
+  }
+
+  process.stdout.write(`]`);
+  return { content: updatedContent, firstImage };
+};
+
 module.exports = {
   removeCloudinaryTransformations,
   convertFunProImageUrl,
@@ -294,5 +414,7 @@ module.exports = {
   downloadProductGallery,
   downloadEmbeddedImages,
   downloadNewsImage,
-  downloadNewsEmbeddedImages
+  downloadNewsEmbeddedImages,
+  copyLocalUserfilesImage,
+  copyLocalEmbeddedImages
 };
