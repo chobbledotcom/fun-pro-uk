@@ -393,6 +393,64 @@ body {
       background: #fff;
     }
   }
+  &.quote,
+  &.checkout {
+    .quote-steps-progress {
+      @include card;
+      --color-bg: #009dd7;
+      --border: 2px solid #009dd7;
+      --color-text: #fff;
+      justify-content: space-around;
+      padding: 16px 32px;
+      .quote-steps-connector {
+        max-width: none;
+        margin-bottom: 26px;
+        background: #009dd7;
+        height: 2px;
+        opacity: 1;
+      }
+      .quote-steps-indicator {
+        .step-name {
+          height: 2rem;
+          align-content: center;
+        }
+      }
+    }
+
+    @include breakpoints.up("md") {
+      .quote-sidebar {
+        width: 390px;
+      }
+    }
+    .quote-price {
+      padding: 0;
+      & > li {
+        padding: 8px 16px;
+        &:first-child {
+          background: #009dd7;
+          color: #fff;
+          display: flex;
+          padding: 32px 32px 16px;
+          flex-direction: column;
+          align-items: center;
+        }
+        & > ul {
+          display: flex;
+          flex-direction: column;
+          gap: 8px;
+          & > li {
+            margin: 0;
+            padding: 0;
+            gap: 8px;
+
+            span[data-field="name"] {
+              font-weight: 500;
+            }
+          }
+        }
+      }
+    }
+  }
 }
 
 #top-bar {
