@@ -394,26 +394,22 @@ body {
       background: #fff;
     }
   }
-  &.quote,
+  &.quote-checkout,
   &.checkout {
     .quote-steps-progress {
       @include card;
       --color-bg: #009dd7;
       --border: 2px solid #009dd7;
       --color-text: #fff;
-      justify-content: space-around;
-      padding: 16px 32px;
-      .quote-steps-connector {
-        max-width: none;
-        margin-bottom: 26px;
-        background: #009dd7;
-        height: 2px;
-        opacity: 1;
-      }
-      .quote-steps-indicator {
-        .step-name {
-          height: 2rem;
-          align-content: center;
+      & > ul {
+        justify-content: space-around;
+        align-items: flex-end;
+        margin: 0;
+        padding: 0;
+        &::before {
+          background: #009dd7;
+          bottom: 16px;
+          top: auto;
         }
       }
     }
