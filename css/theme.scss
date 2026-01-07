@@ -133,7 +133,7 @@ article#content,
     [full-width-start]
     1fr [breakout-start]
     50px [content-start]
-    max(1200px, 1fr) [content-end]
+    max(1200px, 100%) [content-end]
     50px [breakout-end]
     1fr
     [full-width-end];
