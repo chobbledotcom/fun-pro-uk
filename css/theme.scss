@@ -131,11 +131,11 @@ article#content,
   display: grid;
   grid-template-columns:
     [full-width-start]
-    50px
+    1fr
     [content-start]
     1110px
     [content-end]
-    50px
+    1fr
     [full-width-end];
 
   @include breakpoints.down("xl") {
@@ -163,10 +163,10 @@ article#content,
   @include breakpoints.down("sm") {
     grid-template-columns:
       [full-width-start]
-      8px [breakout-start]
-      8px [content-start]
-      1fr [content-end]
-      8px [breakout-end]
+      8px
+      [content-start]
+      1fr
+      [content-end]
       8px
       [full-width-end];
   }
@@ -680,19 +680,19 @@ body.horizontal-nav main {
       margin: 0;
       border-radius: 8px;
       overflow: hidden;
-      background: linear-gradient(
-        180deg,
-        rgba(0, 0, 0, 0) 0%,
-        rgba(0, 0, 0, 0.8) 100%
-      );
       .image-link {
         width: 270px;
-        height: 300px;
+        height: 270px;
         position: absolute;
         top: 0;
         left: 0;
         padding: 0;
         margin: 0;
+        background: linear-gradient(
+          180deg,
+          rgba(0, 0, 0, 0) 0%,
+          rgba(0, 0, 0, 0.8) 100%
+        );
         &::before {
           content: "";
           display: block;
@@ -724,19 +724,22 @@ body.horizontal-nav main {
         height: 270px;
         padding: 0;
         margin: 0;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
       }
-      h3,
-      p {
+      h3 {
+        color: #fafafa;
         position: absolute;
         font-size: 14px;
         line-height: 14px;
-        bottom: 8px;
-        left: 8px;
-        right: 8px;
+        bottom: 0;
+        left: 0;
+        right: 0;
         width: auto;
-        padding: 0;
+        padding: 8px 16px;
         min-height: 0;
-        height: auto;
+        background: black;
+        height: 30px;
       }
       p {
         text-align: right;
