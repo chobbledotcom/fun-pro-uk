@@ -35,7 +35,7 @@ layout: base
     </div>
     <h2 style="grid-area: price">{{ price }}</h2>
     <div style="grid-area: specs" class="specs">
-      {% include "item-specifications-list.html" %}
+      {% include "item-specifications-list.html", highlights: true %}
     </div>
     <div style="grid-area: features" class="features">
       {% include "item-features-list.html" %}
