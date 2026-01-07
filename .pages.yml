@@ -372,3 +372,15 @@ content:
         fields:
           - { name: path, type: image, label: Image }
           - { name: alt, type: string, label: Alt Text }
+
+  - name: partners
+    label: Partners
+    type: file
+    path: _data/_partners-source.json
+    fields:
+      - name: partners
+        type: object
+        list: true
+        fields:
+          - { name: image, type: image, label: Logo Image }
+          - { name: alt, type: string, label: Company Name }

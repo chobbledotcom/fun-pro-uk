@@ -65,6 +65,7 @@ layout: base
   </div>
 </section>
 
+{%- if partners.size > 0 -%}
 <section class="homepage-brands full-width">
   <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
@@ -78,6 +79,7 @@ layout: base
     </div>
   </div>
 </section>
+{%- endif -%}
 
 <section class="full-width homepage-how-it-works">
   <div class="grid">
@@ -106,7 +108,9 @@ layout: base
       Get in Touch
       {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
-    <img src="/images/placeholders/homepage-machines.png" alt="">
+    {%- if homepage_images.how_it_works_image -%}
+    <img src="{{ homepage_images.how_it_works_image }}" alt="">
+    {%- endif -%}
   </div>
 </section>
 

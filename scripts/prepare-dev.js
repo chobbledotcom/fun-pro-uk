@@ -132,6 +132,8 @@ function sync() {
 		'--include="**/*.scss"',
 		'--include="**/*.woff"',
 		'--include="**/*.woff2"',
+		'--include="**/*.js"',
+		'--include="**/*.json"',
 		'--exclude="*"',
 		`"${root}/"`,
 		`"${dev}/src/"`,
