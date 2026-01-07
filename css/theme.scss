@@ -133,7 +133,7 @@ article#content,
     [full-width-start]
     1fr [breakout-start]
     50px [content-start]
-    1200px [content-end]
+    max(1200px, 1fr) [content-end]
     50px [breakout-end]
     1fr
     [full-width-end];
@@ -394,59 +394,65 @@ body {
       background: #fff;
     }
   }
-  &.quote-checkout,
-  &.checkout {
-    .quote-steps-progress {
-      @include card;
-      --color-bg: #009dd7;
-      --border: 2px solid #009dd7;
-      --color-text: #fff;
-      & > ul {
-        justify-content: space-around;
-        align-items: flex-end;
+}
+
+.quote-header {
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.quote-steps-progress {
+  @include card;
+  --color-bg: #009dd7;
+  --border: 2px solid #009dd7;
+  --color-text: #fff;
+  ul {
+    justify-content: space-around;
+    align-items: flex-end;
+    margin: 0;
+    padding: 0;
+    &::before {
+      background: #009dd7;
+      bottom: 16px;
+      top: auto;
+    }
+  }
+}
+
+.quote-price {
+  padding: 0;
+  & > li {
+    padding: 8px 16px;
+    &:first-child {
+      background: #009dd7;
+      color: #fff;
+      display: flex;
+      padding: 32px 32px 16px;
+      flex-direction: column;
+      align-items: center;
+    }
+    & > ul {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      & > li {
         margin: 0;
         padding: 0;
-        &::before {
-          background: #009dd7;
-          bottom: 16px;
-          top: auto;
-        }
-      }
-    }
+        gap: 8px;
 
-    @include breakpoints.up("md") {
-      .quote-sidebar {
-        width: 390px;
+        span[data-field="name"] {
+          font-weight: 500;
+        }
       }
     }
-    .quote-price {
-      padding: 0;
-      & > li {
-        padding: 8px 16px;
-        &:first-child {
-          background: #009dd7;
-          color: #fff;
-          display: flex;
-          padding: 32px 32px 16px;
-          flex-direction: column;
-          align-items: center;
-        }
-        & > ul {
-          display: flex;
-          flex-direction: column;
-          gap: 8px;
-          & > li {
-            margin: 0;
-            padding: 0;
-            gap: 8px;
+  }
+}
 
-            span[data-field="name"] {
-              font-weight: 500;
-            }
-          }
-        }
-      }
-    }
+.quote-cart-item-actions {
+  button,
+  input {
+    border-color: #ccc;
+    box-shadow: none;
   }
 }
 
