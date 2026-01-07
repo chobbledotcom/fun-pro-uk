@@ -165,7 +165,7 @@ jobs:
           fi
 
       - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+        uses: R-J-dev/bunny-deploy@v2.1.1
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
@@ -187,5 +187,5 @@ jobs:
       - name: Send failure notification
         uses: NiNiyas/ntfy-action@master
         with:
-          url: 'https://ntfy.sh'
+          url: "https://ntfy.sh"
           topic: ${{ secrets.NTFY_TOPIC }}
