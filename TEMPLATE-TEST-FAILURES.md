@@ -1,6 +1,6 @@
 # Chobble Template Test Failures Report
 
-**Status: 1500 pass / 11 fail**
+**Status: 1495 pass / 10 fail**
 
 This document tracks test failures when running the chobble-template test suite against this site.
 
@@ -15,8 +15,6 @@ This document tracks test failures when running the chobble-template test suite 
 
 This test creates a test page with `title: "Test Page"` in frontmatter but expects the H1 to show this title. Our custom layouts use different heading structures.
 
-**Fix needed**: Template should either use more flexible assertions or document expected layout behavior.
-
 ### 2. Config Validation Tests (5 failures)
 
 **Tests**: Various `validatePageFrontmatter` and `validateStripePages` tests
@@ -24,39 +22,22 @@ This test creates a test page with `title: "Test Page"` in frontmatter but expec
 
 These tests explicitly pass `cart_mode: "stripe"` but validate against the actual `src/pages` directory, which doesn't contain stripe pages since our site uses `cart_mode: "quote"`.
 
-**Fix needed**: Template tests should mock the file system or use test fixtures instead of checking real site files.
-
 ### 3. JSON-LD Validation Tests (2 failures)
 
 **Tests**: `all production pages have valid JSON-LD structure` and `validate against schema.org`
 **Error**: `expect(fs.existsSync(siteDir)).toBe(true)` - the `_site` directory doesn't exist
 
-These tests check the production build output, which may not exist if the build wasn't run or failed.
+### 4. CPD Code Duplication (1 failure)
 
-**Fix needed**: Tests should handle missing build directory gracefully or ensure build runs first.
+Template jscpd configuration flags code duplication above threshold.
 
-### 4. CPD Code Duplication (potential)
+### 5. Quote Steps Test (1 failure)
 
-The template's jscpd configuration may flag code duplication. This is a template-level threshold issue.
-
----
-
-## Resolved Issues (local fixes applied)
-
-### Partners Section
-
-Created `_data/partners.js` to filter out partner images that don't exist, preventing test sites from failing when they don't have the partner images directory.
-
-### Homepage Images
-
-Created `_data/homepage_images.js` to filter out homepage images that don't exist, allowing test sites to use our custom home layout without failing on missing placeholder images.
-
-### prepare-dev.js Updates
-
-Updated `sync()` function to include `.js` and `.json` files so data files are properly copied to the dev build.
+**Test**: `quote steps`
+**Error**: `Cannot read properties of undefined (reading 'textContent')`
 
 ---
 
 ## Summary
 
-The 11 remaining failures are template compatibility issues where tests make assumptions that don't apply to sites using quote mode or custom layouts. These should be addressed in the chobble-template repository.
+The 10 remaining failures are template compatibility issues where tests make assumptions that don't apply to sites using quote mode or custom layouts.
