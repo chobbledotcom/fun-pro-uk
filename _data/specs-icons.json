@@ -1,0 +1,6 @@
+{
+	"players": { "icon": "players.svg", "highlight": true },
+	"power": { "icon": "power.svg", "highlight": true },
+	"space required": { "icon": "space.svg", "highlight": true },
+	"setup time": { "icon": "time.svg", "highlight": true }
+}
