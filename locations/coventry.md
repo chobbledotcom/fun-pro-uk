@@ -5,6 +5,7 @@ meta_description: "Coventry - Fun Pro UK provide the best Exhibition and Game Hi
 redirect_from:
   - "/pages/coventry/"
 thumbnail: "images/locations/coventry.jpg"
+subtitle: Subtitle subtitle subtitle subtitle
 ---
 
 # Coventry

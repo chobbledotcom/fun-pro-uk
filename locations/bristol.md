@@ -5,6 +5,7 @@ meta_description: "Bristol - Fun Pro UK provide the best Exhibition and Game Hir
 redirect_from:
   - "/pages/bristol/"
 thumbnail: "images/locations/bristol.png"
+subtitle: Subtitle subtitle subtitle subtitle
 ---
 
 # Bristol

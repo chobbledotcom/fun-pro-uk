@@ -5,6 +5,7 @@ meta_description: "Birmingham - Fun Pro UK provide the best Exhibition and Game 
 redirect_from:
   - "/pages/birmingham/"
 thumbnail: "images/locations/birmingham.png"
+subtitle: Subtitle subtitle subtitle subtitle
 ---
 
 # Birmingham

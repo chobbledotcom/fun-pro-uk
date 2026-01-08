@@ -5,6 +5,7 @@ meta_description: "Manchester - Fun Pro UK provide the best Exhibition and Game 
 redirect_from:
   - "/pages/manchester/"
 thumbnail: "images/locations/manchester.png"
+subtitle: Subtitle subtitle subtitle subtitle
 ---
 
 # Manchester
