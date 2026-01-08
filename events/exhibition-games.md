@@ -1,5 +1,6 @@
 ---
 title: "Exhibition Games"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Exhibition Games"
 meta_description: "Find entertainment and games for exhibition stands with Fun Pro UK! We&#39;re operating all over the UK for trade shows, expos and all other events. Order now!"
 featured: true

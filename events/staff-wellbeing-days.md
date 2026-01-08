@@ -1,5 +1,6 @@
 ---
 title: "Corporate Wellbeing Days"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Corporate Wellbeing Days"
 meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
 featured: true
