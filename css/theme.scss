@@ -1099,9 +1099,6 @@ body.reviews {
     & > ol {
       grid-area: left;
     }
-    & > a {
-      grid-area: link;
-    }
     & > .right {
       grid-area: right;
       display: flex;
