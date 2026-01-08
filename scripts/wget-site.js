@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 /**
  * Download a website using wget for offline processing
@@ -280,8 +280,8 @@ if (require.main === module) {
   const url = process.argv[2];
 
   if (!url) {
-    console.error('Usage: node wget-site.js <url>');
-    console.error('Example: node wget-site.js https://www.funprouk.co.uk');
+    console.error('Usage: bun wget-site.js <url>');
+    console.error('Example: bun wget-site.js https://www.funprouk.co.uk');
     process.exit(1);
   }
 

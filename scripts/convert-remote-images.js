@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 /**
  * Convert remote images to local files
@@ -7,7 +7,7 @@
  * Run this after the main import to fetch images separately.
  * 
  * Usage:
- *   node scripts/convert-remote-images.js [--dry-run] [--type products|pages|categories|news]
+ *   bun scripts/convert-remote-images.js [--dry-run] [--type products|pages|categories|news]
  */
 
 const fs = require('fs');
