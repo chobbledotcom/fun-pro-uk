@@ -5,7 +5,3 @@ layout: quote.html
 permalink: "/quote/"
 no_index: true
 ---
-
-## Review Your Items
-
-Please review the items below before continuing to submit your enquiry.
