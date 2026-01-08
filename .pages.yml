@@ -1,7 +1,7 @@
 media:
-  input: src/images
+  input: images
   output: /images
-  path: src/images
+  path: images
   categories:
     - image
 settings:
