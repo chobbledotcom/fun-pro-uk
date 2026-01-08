@@ -1,5 +1,6 @@
 ---
 title: "Showcasing at the NEC? We're local branded exhibition stand game experts!"
+subtitle: "Are you ready to take your exhibition presence to the next level? Based in Birmingham and the West Midlands, we..."
 date: 2023-05-11
 author: "team/colin.md"
 meta_title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"

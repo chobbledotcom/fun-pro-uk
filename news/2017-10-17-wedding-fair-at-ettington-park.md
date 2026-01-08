@@ -1,5 +1,6 @@
 ---
 title: "Wedding Fair at Ettington Park"
+subtitle: "On Sunday we attended a very busy wedding fair at Ettington Park Hotel in Stratford Upon Avon. The hotel is..."
 date: 2017-10-17
 author: "team/liz.md"
 meta_title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"

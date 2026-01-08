@@ -1,5 +1,6 @@
 ---
 title: "Corporate Fun Days Can Be Fun!"
+subtitle: "Do your staff work hard to make your business complete and successful? Then why not arrange a Corporate Fun day?..."
 date: 2019-03-18
 author: "team/colin.md"
 meta_title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "It's not too late!"
+subtitle: "Well it's officially December and the countdown to Christmas can start in earnest. It's now acceptable to put up your..."
 date: 2019-12-01
 author: "team/colin.md"
 meta_title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"

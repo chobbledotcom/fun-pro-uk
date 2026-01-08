@@ -1,5 +1,6 @@
 ---
 title: "How to Choose the Perfect Photo Booth for Your Event"
+subtitle: "When you're hosting a fun and unique event, there needs to be a fine balance between meticulous planning and delivering..."
 date: 2025-01-28
 author: "team/liz.md"
 meta_title: "How to Choose the Perfect Photo Booth for Your Event"

@@ -1,5 +1,6 @@
 ---
 title: "How to make your Christmas event stand out from the rest"
+subtitle: "Fun Pro UK are corporate entertainment specialists who work alongside each client to make their brand and event stand out...."
 date: 2018-09-19
 author: "team/liz.md"
 meta_title: "Make Your Christmas Event Stand Out – Game Hire Services"

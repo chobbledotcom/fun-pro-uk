@@ -1,5 +1,6 @@
 ---
 title: "Woodside Hotel Wedding fair"
+subtitle: "We are starting to feel excited at TeamPerfectSnap! On Sunday 29th January we will be attending the Woodside Hotel Wedding..."
 date: 2017-01-25
 author: "team/liz.md"
 meta_title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"

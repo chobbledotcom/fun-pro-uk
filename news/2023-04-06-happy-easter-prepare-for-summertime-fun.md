@@ -1,5 +1,6 @@
 ---
 title: "Happy Easter! Prepare for Summertime Fun!"
+subtitle: "At Fun Pro UK, we want to wish everyone a very happy Easter! Whether you're celebrating with family, friends, or..."
 date: 2023-04-06
 author: "team/colin.md"
 meta_title: "Happy Easter! Prepare for Summertime Fun! | Event Hire | Blogs"

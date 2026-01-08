@@ -1,5 +1,6 @@
 ---
 title: "It's never too early to think about Christmas parties!"
+subtitle: "The warmth of summer may still surround us, but at Fun Pro UK, we're already preparing for the most magical..."
 date: 2023-07-28
 author: "team/liz.md"
 meta_title: "It's never too early to think about Christmas parties! | Our Blogs"

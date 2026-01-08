@@ -1,5 +1,6 @@
 ---
 title: "Wootton Park 16th October 2016"
+subtitle: "We are all getting excited at Perfect Snap HQ for this Sunday! Why I hear you ask?.... Well, we are..."
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"

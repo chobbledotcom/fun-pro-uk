@@ -1,5 +1,6 @@
 ---
 title: "Boost Team Spirit With These Ideas For Your Next Work Social Event"
+subtitle: "Organising a work social event is a great way to strengthen team bonds, improve morale, and create a positive workplace..."
 date: 2025-03-18
 author: "team/colin.md"
 meta_title: "Best Work Social Event Ideas | Interactive Games for Teams"

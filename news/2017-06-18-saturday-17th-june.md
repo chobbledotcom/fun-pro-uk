@@ -1,5 +1,6 @@
 ---
 title: "Saturday 17th June"
+subtitle: "Team Perfect Snap had a really busy evening yesterday, as did the people of Coventry City! There were lots of..."
 date: 2017-06-18
 author: "team/liz.md"
 meta_title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"

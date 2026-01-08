@@ -1,5 +1,6 @@
 ---
 title: "Brand Activation in Birmingham: How to Make an Impact in One of the UK's Fastest-Growing Cities"
+subtitle: "When marketing professionals think about brand activations in the UK, London often dominates the conversation. Yet Birmingham offers something the..."
 date: 2025-12-15
 author: "team/colin.md"
 meta_title: "Brand Activation in Birmingham: The Complete Guide"

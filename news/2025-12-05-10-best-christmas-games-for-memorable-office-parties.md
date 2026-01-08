@@ -1,5 +1,6 @@
 ---
 title: "10 Best Christmas Games for Memorable Office Parties"
+subtitle: "Planning a Christmas party that works for everyone can feel like a challenge. You want entertainment that breaks down barriers..."
 date: 2025-12-05
 author: "team/colin.md"
 meta_title: "10 Best Christmas Games for Office Parties | Fun Pro UK"

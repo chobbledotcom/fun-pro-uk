@@ -1,5 +1,6 @@
 ---
 title: "Where's Colin??"
+subtitle: "Where's Colin and the Fun Pro UK Team this week? Over the last two weeks the Fun Pro team and..."
 date: 2019-07-10
 author: "team/colin.md"
 meta_title: "Where’s Colin? – Event Game Hire Nationwide | Fun Pro UK"

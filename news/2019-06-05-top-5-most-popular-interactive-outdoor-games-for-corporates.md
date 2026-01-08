@@ -1,5 +1,6 @@
 ---
 title: "Top 5 Most Popular Interactive Outdoor Games For Corporates"
+subtitle: "Are you sat there wondering how to keep your employees motivated and increase employee retention? Well, look no further, as..."
 date: 2019-06-05
 author: "team/colin.md"
 meta_title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"

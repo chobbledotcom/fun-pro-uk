@@ -1,5 +1,6 @@
 ---
 title: "Use Fun Staff Party Games to Help Build a Happier, More Productive Team"
+subtitle: "Staff parties are a great way to encourage team bonding and make everyone feel included, and build stronger relationships at..."
 date: 2025-02-10
 author: "team/colin.md"
 meta_title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"

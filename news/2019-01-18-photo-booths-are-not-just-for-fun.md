@@ -1,5 +1,6 @@
 ---
 title: "Photo booths are not just for fun!"
+subtitle: "Photo booths and Magic Mirrors add a lot of fun to an event. From Christmas parties to awards ceremonies, and..."
 date: 2019-01-18
 author: "team/colin.md"
 meta_title: "Photo Booths – Not Just For Fun Events | Fun Pro UK"

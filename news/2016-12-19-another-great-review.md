@@ -1,5 +1,6 @@
 ---
 title: "Another great review!"
+subtitle: "Another fantastic review received from one of our many happy Perfectsnap customers. Check out our other reviews by visiting our..."
 date: 2016-12-19
 author: "team/colin.md"
 meta_title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"

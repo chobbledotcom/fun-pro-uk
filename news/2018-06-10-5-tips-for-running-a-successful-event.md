@@ -1,5 +1,6 @@
 ---
 title: "5 tips for running a successful event!"
+subtitle: "Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips..."
 date: 2018-06-10
 author: "team/colin.md"
 meta_title: "5 Tips For Running A Successful Event – Game Rentals"

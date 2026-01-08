@@ -1,5 +1,6 @@
 ---
 title: "Party Hire Experts: Looking forwards to March Events"
+subtitle: "We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off..."
 date: 2023-03-01
 author: "team/colin.md"
 meta_title: "Looking Forward To March Events – Game Rentals | Fun Pro UK"

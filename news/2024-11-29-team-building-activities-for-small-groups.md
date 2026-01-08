@@ -1,5 +1,6 @@
 ---
 title: "Team Building Activities for Small Groups"
+subtitle: "You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. Team building games are..."
 date: 2024-11-29
 author: "team/liz.md"
 meta_title: "Team Building Activities For Small Groups"

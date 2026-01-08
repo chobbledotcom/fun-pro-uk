@@ -1,5 +1,6 @@
 ---
 title: "Essential Conference Equipment Checklist: What Every Event Planner Needs"
+subtitle: "Planning a conference means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event..."
 date: 2025-11-28
 author: "team/colin.md"
 meta_title: "Essential Conference Equipment Checklist | Complete Guide"

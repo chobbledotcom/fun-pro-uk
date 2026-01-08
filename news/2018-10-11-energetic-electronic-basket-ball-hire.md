@@ -1,5 +1,6 @@
 ---
 title: "Energetic Electronic Basket Ball Hire!"
+subtitle: "Looking for something different to entertain your guests at your upcoming event? Why not consider our heart pounding Basketball Game..."
 date: 2018-10-11
 author: "team/liz.md"
 meta_title: "Electronic Basketball Hire – Fun Interactive Game"

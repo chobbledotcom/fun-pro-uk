@@ -1,5 +1,6 @@
 ---
 title: "Conference Entertainment - Keep your guests entertained this year!"
+subtitle: "Keep your guests entertained this year! Enhance your corporate conference and make it one to remember! Hire some interactive entertainment..."
 date: 2020-01-07
 author: "team/colin.md"
 meta_title: "Conference Entertainment – Engage Your Guests | Fun Pro UK"

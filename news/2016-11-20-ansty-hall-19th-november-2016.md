@@ -1,5 +1,6 @@
 ---
 title: "Ansty Hall 19th November 2016"
+subtitle: "Wow! What a fabulously busy night we had for Jason & Sophie's wedding yesterday at The Ansty Hall Hotel. We..."
 date: 2016-11-20
 author: "team/liz.md"
 meta_title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"

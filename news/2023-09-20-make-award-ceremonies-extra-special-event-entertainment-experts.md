@@ -1,5 +1,6 @@
 ---
 title: "Make Award Ceremonies Extra-Special: Event Entertainment Experts"
+subtitle: "In the bustling world of corporate achievements, recognising milestones is not just essential—it's a cause for celebration. Every award and..."
 date: 2023-09-20
 author: "team/colin.md"
 meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"

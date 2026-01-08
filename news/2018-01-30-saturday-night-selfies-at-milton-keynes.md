@@ -1,5 +1,6 @@
 ---
 title: "Saturday night Selfies at Milton Keynes!"
+subtitle: "Our all singing and dancing Magic Selfie Mirror was out at a great corporate event on Saturday night with our..."
 date: 2018-01-30
 author: "team/colin.md"
 meta_title: "Saturday Night Selfies – Milton Keynes Photo Booth"

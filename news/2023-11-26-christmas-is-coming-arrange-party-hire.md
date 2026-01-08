@@ -1,5 +1,6 @@
 ---
 title: "Christmas is Coming - Arrange Party Hire!"
+subtitle: "As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming Christmas..."
 date: 2023-11-26
 author: "team/colin.md"
 meta_title: "Christmas is Coming - Arrange Party Hire! | Event News & Blogs"

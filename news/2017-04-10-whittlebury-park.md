@@ -1,5 +1,6 @@
 ---
 title: "Whittlebury Park"
+subtitle: "On Saturday evening we were in attendance at the wedding reception of William and Jaimie. The bride looked stunning as..."
 date: 2017-04-10
 author: "team/colin.md"
 meta_title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"

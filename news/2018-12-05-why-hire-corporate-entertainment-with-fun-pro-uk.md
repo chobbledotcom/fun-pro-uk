@@ -1,5 +1,6 @@
 ---
 title: "Why hire corporate entertainment with Fun Pro UK?"
+subtitle: "Ensuring your employees have sufficient down time is becoming an ever-increasing issue with the drastic changes in technology over the..."
 date: 2018-12-05
 author: "team/colin.md"
 meta_title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"

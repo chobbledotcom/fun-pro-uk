@@ -1,5 +1,6 @@
 ---
 title: "Boost Your Staff's Wellbeing with Fun Pro UK's Entertainment Hire"
+subtitle: "As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to hire office entertainment..."
 date: 2023-04-25
 author: "team/colin.md"
 meta_title: "Boost Your Staff's Wellbeing with Office Entertainment Hire | Blog"
