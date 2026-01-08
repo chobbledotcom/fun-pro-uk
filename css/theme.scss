@@ -1085,6 +1085,41 @@ body.reviews {
   }
 }
 
+.delivery-row {
+  --background: #009dd7;
+  color: #fff;
+  .row {
+    .image-wrapper {
+      display: none;
+    }
+    .right {
+      .stats {
+        list-style-type: none;
+        display: flex;
+        flex-direction: row;
+        gap: 16px;
+        padding: 0;
+        li {
+          padding: 0;
+          text-align: center;
+          strong {
+            font-size: 18px;
+            display: block;
+          }
+        }
+      }
+    }
+    @include breakpoints.up("sm") {
+      display: flex;
+      gap: 16px;
+      .image-wrapper {
+        display: block;
+        width: max(300px, 50%);
+      }
+    }
+  }
+}
+
 .delivery-how-it-works {
   padding: 128px 32px;
   .grid {
