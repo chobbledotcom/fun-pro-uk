@@ -1,31 +1,21 @@
-const { execSync } = require('child_process');
-const path = require('path');
-const fs = require('fs');
-const { prep } = require('./prepare-dev');
+import { execSync } from "node:child_process";
+import fs from "node:fs";
+import path from "node:path";
 
-const root = path.resolve(__dirname, '..');
-const dev = path.join(root, '.build', 'dev');
-const output = path.join(root, '_site');
+import { prep } from "./prepare-dev.js";
+
+const root = path.resolve(import.meta.dirname, "..");
+const dev = path.join(root, ".build", "dev");
+const output = path.join(root, "_site");
 
 prep();
 
-console.log('Building site...');
+console.log("Building site...");
 
 fs.rmSync(output, { recursive: true, force: true });
 
-try {
-  execSync('bun ./node_modules/@11ty/eleventy/cmd.cjs', { cwd: dev, stdio: 'inherit' });
-} catch (err) {
-  // Check if _site was actually created despite the error
-  if (!fs.existsSync(path.join(dev, '_site'))) {
-    if (err.stdout) console.log(err.stdout.toString());
-    if (err.stderr) console.error(err.stderr.toString());
-    console.error('Build failed.');
-    process.exit(err.status || 1);
-  }
-  // Otherwise the build succeeded, continue
-}
+execSync("bun run build", { cwd: dev, stdio: "inherit" });
 
-execSync(`mv "${path.join(dev, '_site')}" "${output}"`);
+execSync(`mv "${path.join(dev, "_site")}" "${output}"`);
 
-console.log(`✓ Built to _site/`);
+console.log("Built to _site/");

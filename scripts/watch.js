@@ -1,16 +1,21 @@
-const fs = require("fs");
-const path = require("path");
-const { sync } = require("./prepare-dev");
+import fs from "node:fs";
+import path from "node:path";
 
-const root = path.resolve(__dirname, "..");
+import { sync } from "./prepare-dev.js";
 
-fs.watch(root, { recursive: true }, (event, file) => {
-	if (
-		file &&
-		!file.startsWith(".build") &&
-		!file.startsWith("node_modules") &&
-		!file.startsWith(".git")
-	) {
-		sync();
-	}
+const root = path.resolve(import.meta.dirname, "..");
+
+fs.watch(root, { recursive: true }, (_event, file) => {
+  if (
+    file &&
+    (file.endsWith(".md") || file.endsWith(".scss") || file.endsWith(".json"))
+  ) {
+    if (
+      !file.startsWith(".build") &&
+      !file.startsWith("node_modules") &&
+      !file.startsWith(".git")
+    ) {
+      sync();
+    }
+  }
 });
