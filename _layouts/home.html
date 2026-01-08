@@ -8,8 +8,7 @@ layout: base
     <h1>Corporate Event Hire Across the UK</h1>
     <p>
       <a href="/contact-fun-pro-uk/" class="button">
-        Get Started
-        {{ "icons/up-right-arrow.svg" | inline_asset }}
+        Get Started {{ "icons/up-right-arrow.svg" | inline_asset }}
       </a>
     </p>
     <p class="google">
@@ -18,24 +17,24 @@ layout: base
       <span>5 ⭐⭐⭐⭐</span>
       <a href="/reviews/">See all our reviews</a>
     </p>
-    {%- assign categories = collections.categories | getFeaturedCategories | slice: 0, 3 -%}
-    {%- include "items.html", items: categories, horizontal: true -%}
+    {%- assign categories = collections.categories | getFeaturedCategories |
+    slice: 0, 3 -%} {%- include "items.html", items: categories, horizontal:
+    true -%}
   </div>
 </section>
-
 
 <section class="homepage-intro">
   <h1>Get in Touch</h1>
   <p>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-    commodo consequat.
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat.
   </p>
   <p>
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
   </p>
   <p>
     <a href="/products/" class="button red">View Games</a>
@@ -66,15 +65,13 @@ layout: base
   </div>
 </section>
 
-<section class="homepage-brands full-width">
+<section class="brands full-width">
   <div class="row">
     <h2>Trusted by leading brands across the UK</h2>
     <div class="brands-scroll-container">
       <div class="brands-scroll">
         {%- include "brands-list.html" -%}
-        <div aria-hidden="true">
-          {%- include "brands-list.html" -%}
-        </div>
+        <div aria-hidden="true">{%- include "brands-list.html" -%}</div>
       </div>
     </div>
   </div>
@@ -87,27 +84,30 @@ layout: base
       <li>
         <h3>Browse our Games</h3>
         <p>
-          Explore our full range of interactive games, photo experiences, and entertainment options. Filter by event type or guest numbers to find your perfect fit.
+          Explore our full range of interactive games, photo experiences, and
+          entertainment options. Filter by event type or guest numbers to find
+          your perfect fit.
         </p>
       </li>
       <li>
         <h3>Build Your Quote Request</h3>
         <p>
-          Add your favourite games to your quote basket. Include your event date, venue details, and any special requirements you have in mind.
+          Add your favourite games to your quote basket. Include your event
+          date, venue details, and any special requirements you have in mind.
         </p>
       </li>
       <li>
         <h3>Receive Your Quote</h3>
         <p>
-          We'll send you a detailed quote within 24 hours. No obligation, no pressure, just straightforward pricing for your event.
+          We'll send you a detailed quote within 24 hours. No obligation, no
+          pressure, just straightforward pricing for your event.
         </p>
       </li>
     </ol>
     <a href="/contact/" class="button white">
-      Get in Touch
-      {{ "icons/up-right-arrow.svg" | inline_asset }}
+      Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
-    <img src="/images/placeholders/homepage-machines.png" alt="">
+    <img src="/images/placeholders/homepage-machines.png" alt="" />
   </div>
 </section>
 
@@ -115,16 +115,15 @@ layout: base
   <h2>
     <span>Popular Games</span>
     <a href="/products/">
-      View All Games
-      {{ "icons/up-right-arrow.svg" | inline_asset }}
+      View All Games {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
   </h2>
-  {%- assign products = collections.products | getFeaturedProducts -%}
-  {%- include "items.html", items: products, horizontal: true -%}
+  {%- assign products = collections.products | getFeaturedProducts -%} {%-
+  include "items.html", items: products, horizontal: true -%}
 </section>
 
 <section class="homepage-events">
   <h2>What Kind of Event Are You Planning?</h2>
-  {%- assign events = collections.events | getFeaturedEvents -%}
-  {%- include "items.html", items: events, horizontal: true -%}
+  {%- assign events = collections.events | getFeaturedEvents -%} {%- include
+  "items.html", items: events, horizontal: true -%}
 </section>
