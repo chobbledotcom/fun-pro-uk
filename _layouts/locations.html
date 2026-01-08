@@ -4,7 +4,65 @@ layout: base
 
 <h1>Event Game Hire Across The UK</h1>
 
+<p>Based in the Midlands. Delivering everywhere. From Edinburgh to Exeter, we bring the fun to you.</p>
+
+<div class="left">
+  {% image "/assets/uk.png" %}
+</div>
+
+<div class="right">
+  <h2>We Come to You</h2>
+  <p>
+    Our headquarters sits in Coventry, right in the heart of the country. That's not by accident. It means we can reach any venue in the UK without charging you a fortune in travel costs. London events, Manchester conferences, Scottish exhibitions, Welsh weddings. We've done them all, and we'll happily do yours.
+  </p>
+  <p>
+   Every booking includes delivery, setup, and collection as standard. Our team arrives early, gets everything running, stays throughout your event, and packs down at the end. You don't need to lift a finger.
+  </p>
+  <ul class="stats">
+    <li><strong>15+</strong> years of experience</li>
+    <li><strong>UK Wide</strong> coverage</li>
+    <li><strong>1000+</strong> events delivered</li>
+  </ul>
+</div>
+
+{% include "brands-list.html" %}
+
 {%- assign locations = collections.location | getRootLocations -%}
 {%- include "items.html", items: locations, horizontal: true -%}
 
-{{- content -}}
+<section class="full-width homepage-how-it-works">
+  <div class="grid">
+    <h2>How Delivery Works</h2>
+    <ol>
+      <li>
+        <h3>You Book</h3>
+        <p>
+          Tell us your event date, venue, and what you need. We'll confirm availability and pricing.
+        </p>
+      </li>
+      <li>
+        <h3>We Plan</h3>
+        <p>
+          Our team works out logistics, confirms access requirements, and schedules your delivery slot.
+        </p>
+      </li>
+      <li>
+        <h3>We Setup</h3>
+        <p>
+          On the day, we turn up early with everything you've booked. Setup, testing, ready to go.
+        </p>
+      </li>
+      <li>
+        <h3>We Remove</h3>
+        <p>
+          When it's over, we pack down and disappear. You won't even know we were there.
+        </p>
+      </li>
+    </ol>
+    <div class="right">
+      <img src="/images/locations/van.png" alt="">
+      <img src="/images/locations/machine-1.png" alt="">
+      <img src="/images/locations/machine-2.png" alt="">
+    </div>
+  </div>
+</section>
