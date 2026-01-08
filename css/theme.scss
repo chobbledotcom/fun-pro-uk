@@ -400,19 +400,39 @@ body {
 }
 
 .quote-steps-progress {
-  @include card;
+  background: white;
   --color-bg: #009dd7;
   --border: 2px solid #009dd7;
   --color-text: #fff;
+  @include card;
   ul {
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: flex-end;
     margin: 0;
     padding: 0;
     &::before {
+      content: "";
+      display: block;
+      height: 2px;
+      position: absolute;
       background: #009dd7;
       bottom: 16px;
       top: auto;
+      left: 12.5%;
+      right: 12.5%;
+    }
+    li {
+      width: 25%;
+      [data-name="name"] {
+        max-width: none;
+        text-transform: none;
+      }
+
+      &[aria-current="false"] {
+        [data-name="index"] {
+          color: white;
+        }
+      }
     }
   }
 }
@@ -446,11 +466,28 @@ body {
   }
 }
 
-.quote-cart-item-actions {
-  button,
-  input {
-    border-color: #ccc;
-    box-shadow: none;
+.quote-cart {
+  @include card;
+  background-color: white;
+  .quote-cart-item {
+    background: #fafafa;
+    border: none;
+    .quote-cart-item-actions {
+      button,
+      input {
+        border-color: #ccc;
+        box-shadow: none;
+      }
+    }
+  }
+  .quote-cart-actions {
+    a.button {
+      border-radius: 16px;
+      color: white;
+      background: #ee3324;
+      font-weight: 500;
+      border: none;
+    }
   }
 }
 
