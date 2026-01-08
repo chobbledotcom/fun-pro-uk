@@ -397,6 +397,11 @@ body {
 .quote-header {
   padding: 32px 16px;
   text-align: center;
+  margin: 0 auto;
+  max-width: 500px;
+  p {
+    text-wrap-style: balance;
+  }
 }
 
 .quote-steps-progress {
