@@ -1,4 +1,3 @@
-import { execSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -19,10 +18,10 @@ const devTestDir = path.join(dev, "test");
 if (fs.existsSync(templateTestDir)) {
   console.log("Copying test directory...");
   fs.rmSync(devTestDir, { recursive: true, force: true });
-  execSync(`cp -r "${templateTestDir}" "${devTestDir}"`);
+  fs.cpSync(templateTestDir, devTestDir, { recursive: true });
 }
 
 console.log("Running tests...");
 
 // Run the template's test suite in the dev directory
-execSync("bun test", { cwd: dev, stdio: "inherit" });
+Bun.spawnSync(["bun", "test"], { cwd: dev, stdio: ["inherit", "inherit", "inherit"] });
