@@ -1,5 +1,6 @@
 ---
 title: "Leicester City Rooms"
+subtitle: "We had a wonderful time at The City Rooms in Leicester on Saturday. This was our first time at this..."
 date: 2016-10-20
 author: "team/liz.md"
 meta_title: "Leicester City Rooms – Event Entertainment Options"

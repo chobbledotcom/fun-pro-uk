@@ -1,5 +1,6 @@
 ---
 title: "Make Trade Shows Fun with Branded Exhibition Games"
+subtitle: "Trade shows are a dynamic platform for businesses to connect with potential clients, showcase their products and services, and try..."
 date: 2023-07-14
 author: "team/colin.md"
 meta_title: "Make Trade Shows Fun with Branded Exhibition Games | Blog"

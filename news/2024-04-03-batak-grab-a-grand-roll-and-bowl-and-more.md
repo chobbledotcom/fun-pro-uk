@@ -1,5 +1,6 @@
 ---
 title: "Batak, Grab a Grand, Roll & Bowl and More!"
+subtitle: "Spice up your events with Fun Pro UK's exciting range of interactive games! Whether you're planning a corporate team-building day,..."
 date: 2024-04-03
 author: "team/colin.md"
 meta_title: "Batak, Grab a Grand, Roll & Bowl and More! | Our News & Blogs"

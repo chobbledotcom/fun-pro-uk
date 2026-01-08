@@ -1,5 +1,6 @@
 ---
 title: "Christmas parties are go!"
+subtitle: "Are you in the Christmas spirit yet? The Christmas party season has well and truly begun for Fun Pro UK...."
 date: 2018-11-30
 author: "team/liz.md"
 meta_title: "Christmas Parties are Go! - Hire Magic Selfie Mirror"

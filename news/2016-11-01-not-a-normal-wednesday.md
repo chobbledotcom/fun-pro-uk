@@ -1,5 +1,6 @@
 ---
 title: "Not a normal Wednesday!"
+subtitle: "Our team at Perfect Snap HQ are looking forward to Wednesday! Yes, Wednesday 2nd November 2016, This is no normal..."
 date: 2016-11-01
 author: "team/colin.md"
 meta_title: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Tips for running a Successful Team Building Day"
+subtitle: "Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But..."
 date: 2019-02-15
 author: "team/liz.md"
 meta_title: "Tips For Successful Team Building Events | Fun Pro UK"

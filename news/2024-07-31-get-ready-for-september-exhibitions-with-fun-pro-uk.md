@@ -1,5 +1,6 @@
 ---
 title: "Get Ready for September Exhibitions with Fun Pro UK"
+subtitle: "As we approach the end of July, businesses across sectors are gearing up for a bustling exhibition season. Wherever you..."
 date: 2024-07-31
 author: "team/liz.md"
 meta_title: "Get Ready for September Exhibitions with Fun Pro UK | Blogs"

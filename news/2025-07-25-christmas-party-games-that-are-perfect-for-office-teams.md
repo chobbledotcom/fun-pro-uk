@@ -1,5 +1,6 @@
 ---
 title: "Christmas Party Games That Are Perfect for Office Teams"
+subtitle: "The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably..."
 date: 2025-07-25
 author: "team/colin.md"
 meta_title: "Christmas Party Games for Office Teams | Fun Pro UK"

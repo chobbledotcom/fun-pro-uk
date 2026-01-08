@@ -1,5 +1,6 @@
 ---
 title: "Kishan's 21st Birthday"
+subtitle: "On Saturday night we were invited to attend the 21st birthday celebrations for Kishan! He and his family had booked..."
 date: 2017-01-30
 author: "team/colin.md"
 meta_title: "Kishan’s 21st Birthday – Event Game Hire - Fun Pro UK"

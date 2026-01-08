@@ -1,5 +1,6 @@
 ---
 title: "Woodside Weddings"
+subtitle: "Once again the guests who were in attendance at David & Michael's wedding made full use of our ever popular..."
 date: 2017-05-08
 author: "team/colin.md"
 meta_title: "Woodside Weddings – Entertainment Hire For Events"

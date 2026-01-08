@@ -1,5 +1,6 @@
 ---
 title: "Improve Staff Retention with Company Fun Days"
+subtitle: "Employee retention is a topic that often keeps business leaders awake at night. Amidst the myriad strategies to keep talent..."
 date: 2023-09-27
 author: "team/liz.md"
 meta_title: "Improve Staff Retention with Company Fun Days | News & Blogs"

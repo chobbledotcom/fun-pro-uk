@@ -1,5 +1,6 @@
 ---
 title: "Tis’ the season to organise your Christmas party!"
+subtitle: "With all this lovely Summer weather it's hard to start thinking about organising the work Christmas do. We get it,..."
 date: 2018-06-27
 author: "team/liz.md"
 meta_title: "’tis The Season To Plan Christmas Parties – Game Hire"

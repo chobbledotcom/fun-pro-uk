@@ -1,5 +1,6 @@
 ---
 title: "The Complete Guide to Choosing the Right Venue for Your Corporate Event"
+subtitle: "Planning a corporate event can feel overwhelming, and perhaps no decision carries more weight than selecting the right venue. With..."
 date: 2025-09-26
 author: "team/liz.md"
 meta_title: "How to Choose the Right Venue for Corporate Events"

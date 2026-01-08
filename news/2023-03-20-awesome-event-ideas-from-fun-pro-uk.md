@@ -1,5 +1,6 @@
 ---
 title: "Awesome Event Ideas from Fun Pro UK"
+subtitle: "Are you planning an event but don't know where to start? Look no further than Fun Pro UK! We offer..."
 date: 2023-03-20
 author: "team/liz.md"
 meta_title: "Awesome Event Ideas from Fun Pro UK | Our News & Blogs"

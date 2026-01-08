@@ -1,5 +1,6 @@
 ---
 title: "7 ways to show your staff some love!"
+subtitle: "February is known as the month of love, with February 14th, Valentine's day, seen as a chance to show your..."
 date: 2019-01-30
 author: "team/liz.md"
 meta_title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"

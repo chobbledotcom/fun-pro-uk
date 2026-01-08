@@ -1,5 +1,6 @@
 ---
 title: "Beat the Bleep!"
+subtitle: "One of our interactive games which is all set up ready for a corporate event in Coventry tomorrow . The..."
 date: 2018-02-06
 author: "team/liz.md"
 meta_title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"

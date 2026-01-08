@@ -1,5 +1,6 @@
 ---
 title: "Magic Mirror 18th Feb"
+subtitle: "On Saturday 18th February, the Perfect Snap team attended a new venue. We spent the evening at Blackwell Grange. A..."
 date: 2017-02-22
 author: "team/liz.md"
 meta_title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"

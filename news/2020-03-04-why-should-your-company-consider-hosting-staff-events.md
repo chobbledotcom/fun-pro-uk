@@ -1,5 +1,6 @@
 ---
 title: "Why Should Your Company Consider Hosting Staff Events?"
+subtitle: "Whether you are considering an annual award ceremony, a dinner or a summer party, there are far greater benefits than..."
 date: 2020-03-04
 author: "team/colin.md"
 meta_title: "Why Host Staff Events? – Corporate Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "How to Increase Engagement at Your Brand Activation Event"
+subtitle: "If you're planning a brand activation event, your biggest goal is to grab attention and get people talking. Whether you're..."
 date: 2025-05-30
 author: "team/liz.md"
 meta_title: "Increase Engagement at Your Brand Activation Event"

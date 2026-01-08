@@ -1,5 +1,6 @@
 ---
 title: "Why Manchester is the Perfect City for Brand Activation Events"
+subtitle: "When you're planning a brand activation event that needs to deliver real impact, the choice of location can make or..."
 date: 2025-09-12
 author: "team/liz.md"
 meta_title: "Why Choose Manchester for Brand Activation Events"

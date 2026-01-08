@@ -169,6 +169,7 @@ const generateBlogFrontmatter = (
   date,
   blogHeading = null,
   localImagePath = null,
+  subtitle = null,
 ) => {
   // Use H1 heading for the post title (not the meta title from <title> tag)
   const postTitle = blogHeading || metadata.header_text || slug.replace(/-/g, " ");
@@ -181,6 +182,7 @@ const generateBlogFrontmatter = (
 
   let frontmatter = `---
 title: "${postTitle}"
+subtitle: "${subtitle || ""}"
 date: ${date}
 author: "${author}"
 meta_title: "${metadata.title || ""}"

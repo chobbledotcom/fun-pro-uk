@@ -1,5 +1,6 @@
 ---
 title: "Adding A Little Magic At The Botanical Gardens"
+subtitle: "Last week we were approached by an agency from London to supply entertainment for a corporate conference. The conference was..."
 date: 2018-05-29
 author: "team/liz.md"
 meta_title: "Adding A Little Magic At The Botanical Gardens - Fun Pro UK"

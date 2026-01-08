@@ -1,5 +1,6 @@
 ---
 title: "Ultimate Freshers Week Party Game Ideas: Make Your University Welcome Week Unforgettable"
+subtitle: "Freshers week represents one of the most critical periods in any student's university journey. Those first few days set the..."
 date: 2025-08-29
 author: "team/liz.md"
 meta_title: "Ultimate Freshers Entertainment Hire Guide | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "All You Need to Plan For Your Award Ceremonies"
+subtitle: "Why wait until the year draws to a close to award your staff? Why not host your annual employee award..."
 date: 2019-08-06
 author: "team/liz.md"
 meta_title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"

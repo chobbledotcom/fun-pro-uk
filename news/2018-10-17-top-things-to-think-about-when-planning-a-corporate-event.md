@@ -1,5 +1,6 @@
 ---
 title: "Top things to think about when planning a corporate event"
+subtitle: "When it comes to planning a corporate event there is lots to think about from the venue to the theme,..."
 date: 2018-10-17
 author: "team/colin.md"
 meta_title: "Top Tips For Planning Corporate Events | Fun Pro UK"

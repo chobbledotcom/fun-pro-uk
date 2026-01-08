@@ -1,5 +1,6 @@
 ---
 title: "CHRISTMAS PHOTO BOOTH"
+subtitle: "Yeah!! Look what Perfect Snap has for Christmas! We are super excited to introduce our brand new Christmas Photo Booth..."
 date: 2016-11-13
 author: "team/colin.md"
 meta_title: "Christmas Photo Booth Hire – Fun For Festive Events"

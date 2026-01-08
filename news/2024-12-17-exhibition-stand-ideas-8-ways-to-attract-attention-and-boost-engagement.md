@@ -1,5 +1,6 @@
 ---
 title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engagement"
+subtitle: "Have you ever visited an exhibition stand? If yes, think about what attracted you to the stand. Was it the..."
 date: 2024-12-17
 author: "team/colin.md"
 meta_title: "Exhibition Stand Ideas: 8 Ways to Attract Attention and Boost Engageme"

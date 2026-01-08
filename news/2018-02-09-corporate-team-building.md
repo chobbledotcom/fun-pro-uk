@@ -1,5 +1,6 @@
 ---
 title: "Corporate team building!"
+subtitle: "Our team have had a busy week. One of our events was a team building conference day at a new..."
 date: 2018-02-09
 author: "team/colin.md"
 meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Draycote wedding fair"
+subtitle: "Team Perfect Snap are getting excited for the Wedding Inspo Evening which we are attending this a Thursday 16th February..."
 date: 2017-02-12
 author: "team/liz.md"
 meta_title: "Draycote Wedding Fair – Event Entertainment Options"

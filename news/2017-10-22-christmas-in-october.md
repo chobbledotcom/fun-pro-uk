@@ -1,5 +1,6 @@
 ---
 title: "Christmas in October!"
+subtitle: "Christmas in October! Wow! The Perfect Snap Team can't believe it, it's Christmas in October! The past few weeks we..."
 date: 2017-10-22
 author: "team/liz.md"
 meta_title: "Christmas In October – Festive Event Game Hire | Fun Pro UK"

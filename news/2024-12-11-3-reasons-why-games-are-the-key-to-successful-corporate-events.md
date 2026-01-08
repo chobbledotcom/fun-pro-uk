@@ -1,5 +1,6 @@
 ---
 title: "3 Reasons Why Games are the Key to Successful Corporate Events"
+subtitle: "Back in the day, corporate events were known for being uneventful; just a room with hosts, speakers, and uninterested listeners...."
 date: 2024-12-11
 author: "team/colin.md"
 meta_title: "Reasons Why Games are the Key to Successful Corporate Events"

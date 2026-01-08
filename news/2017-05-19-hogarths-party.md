@@ -1,5 +1,6 @@
 ---
 title: "Hogarth's party"
+subtitle: "On Friday we were in attendance at the marvellous venue Hogarths Hotel, Solihull. We are becoming part of the furniture..."
 date: 2017-05-19
 author: "team/liz.md"
 meta_title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Sunday's Wedding Fair"
+subtitle: "It was lovely to see so many people at the wedding fair on Sunday which was held at Ansty Hall..."
 date: 2017-09-12
 author: "team/liz.md"
 meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"

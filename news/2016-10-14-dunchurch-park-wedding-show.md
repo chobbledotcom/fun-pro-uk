@@ -1,5 +1,6 @@
 ---
 title: "Dunchurch Park Wedding Show"
+subtitle: "It was lovely to see so many prospective brides and their grooms at the Dunchurch Park Hotel wedding show on..."
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Dunchurch Park Wedding Show – Event Entertainment Hire"

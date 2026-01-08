@@ -1,5 +1,6 @@
 ---
 title: "Prize Games - Perfect Competitive Fun!"
+subtitle: "Planning an event this year? Whether it's a corporate event, a trade show, or a private party, creating an atmosphere..."
 date: 2024-03-08
 author: "team/colin.md"
 meta_title: "Prize Games for Events | Branded Party Supplies | News & Blog"

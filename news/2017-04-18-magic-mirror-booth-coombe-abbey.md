@@ -1,5 +1,6 @@
 ---
 title: "Magic mirror booth, Coombe Abbey"
+subtitle: "On Saturday evening we attended the exclusive venue of Coombe Abbey Hotel in Coventry with our marvellous Magic Mirror Selfie..."
 date: 2017-04-18
 author: "team/colin.md"
 meta_title: "Magic Mirror Booth Hire – Coombe Abbey Event | Fun Pro UK"

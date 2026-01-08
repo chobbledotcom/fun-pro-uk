@@ -1,5 +1,6 @@
 ---
 title: "Top 10 Interactive Games to Break the Ice at Freshers Week Events"
+subtitle: "Freshers week can feel overwhelming for new university students - and equally challenging for the event organisers tasked with creating..."
 date: 2025-09-05
 author: "team/colin.md"
 meta_title: "Top 10 Interactive Games for Freshers Week Events"

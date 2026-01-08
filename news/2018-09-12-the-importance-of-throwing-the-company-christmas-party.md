@@ -1,5 +1,6 @@
 ---
 title: "The importance of throwing the company Christmas party"
+subtitle: "We know it is only September and you don't really want to be thinking about the company Christmas party yet...."
 date: 2018-09-12
 author: "team/liz.md"
 meta_title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"

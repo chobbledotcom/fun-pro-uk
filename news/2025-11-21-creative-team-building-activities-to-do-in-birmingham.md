@@ -1,5 +1,6 @@
 ---
 title: "Creative Team Building Activities to Do in Birmingham"
+subtitle: "Planning a corporate event in Birmingham gives you access to the UK's second-largest city with its excellent transport links, diverse..."
 date: 2025-11-21
 author: "team/liz.md"
 meta_title: "Team Building Activities Birmingham | Creative Corporate Events & Game"

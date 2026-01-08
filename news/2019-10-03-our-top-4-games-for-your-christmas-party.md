@@ -1,5 +1,6 @@
 ---
 title: "Our Top 4 Games for your Christmas Party"
+subtitle: "Christmas our favourite times of the year with the excitement and fun that goes into planning for your Christmas event,..."
 date: 2019-10-03
 author: "team/liz.md"
 meta_title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"

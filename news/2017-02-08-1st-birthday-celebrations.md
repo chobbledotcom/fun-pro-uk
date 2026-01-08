@@ -1,5 +1,6 @@
 ---
 title: "1st Birthday Celebrations!"
+subtitle: "Everyone had a fantastic time at the 1st birthday party of a little girl in Birmingham on Sunday! There were..."
 date: 2017-02-08
 author: "team/colin.md"
 meta_title: "1st Birthday Celebration – Nationwide Game Hire | Fun Pro UK"

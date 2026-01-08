@@ -1,5 +1,6 @@
 ---
 title: "Award ceremony season is fast approaching!"
+subtitle: "As the year starts to draw to a close, companies are preparing their annual employee award ceremony to show their..."
 date: 2018-11-28
 author: "team/liz.md"
 meta_title: "Award Ceremony Season – Event Entertainment Game Hire"

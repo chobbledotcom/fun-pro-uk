@@ -1,5 +1,6 @@
 ---
 title: "The Secret to Team Building: Interactive Games"
+subtitle: "Interactive games have become a cornerstone of successful team-building strategies. Engaging, fun, and inherently collaborative, games like Batak, Roll &..."
 date: 2024-05-03
 author: "team/colin.md"
 meta_title: "Team Building with Interactive Games - Fun Pro UK"

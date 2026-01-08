@@ -1,5 +1,6 @@
 ---
 title: "Benefits of Team Building Days"
+subtitle: "In every corporate business there is a variety of people interacting with one another on daily tasks and projects. The..."
 date: 2018-08-22
 author: "team/liz.md"
 meta_title: "Benefits Of Team Building Days – Game Hire Solutions"
