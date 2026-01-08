@@ -172,7 +172,8 @@ const generateBlogFrontmatter = (
   subtitle = null,
 ) => {
   // Use H1 heading for the post title (not the meta title from <title> tag)
-  const postTitle = blogHeading || metadata.header_text || slug.replace(/-/g, " ");
+  const postTitle =
+    blogHeading || metadata.header_text || slug.replace(/-/g, " ");
   const author = getRandomAuthor(slug);
 
   // Old URL from the old site
@@ -550,6 +551,7 @@ const generateEventFrontmatter = (
 
   let frontmatter = `---
 title: "${escapeYamlString(title)}"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "${escapeYamlString(metadata.title || title)}"
 meta_description: "${escapeYamlString(metadata.meta_description || "")}"
 featured: true`;
