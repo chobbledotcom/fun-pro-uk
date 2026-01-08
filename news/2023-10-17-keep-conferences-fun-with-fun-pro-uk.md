@@ -1,5 +1,6 @@
 ---
 title: "Keep Conferences Fun with Fun Pro UK"
+subtitle: "When planning a conference, you're creating an experience—a blend of knowledge exchange, networking, and brand projection. But in today's competitive..."
 date: 2023-10-17
 author: "team/liz.md"
 meta_title: "Keep Conferences Fun with Fun Pro UK | Event Hire | Blogs"

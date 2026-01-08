@@ -1,5 +1,6 @@
 ---
 title: "Fun Group Activities for Events in 2025"
+subtitle: "Finding fun group activities that everyone will enjoy is challenging. How do you keep a large group of guests (sometimes..."
 date: 2025-01-21
 author: "team/liz.md"
 meta_title: "Fun Group Activities You Can Add To Your Event | Fun Pro UK"

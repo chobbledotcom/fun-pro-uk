@@ -1,5 +1,6 @@
 ---
 title: "Importance of Photo Booths!"
+subtitle: "Recently we joined many of KPMG's staff in Birmingham for their annual awards night. We attended with two of our..."
 date: 2018-10-03
 author: "team/liz.md"
 meta_title: "The Importance Of Photo Booths At Events - Game Hire Service"

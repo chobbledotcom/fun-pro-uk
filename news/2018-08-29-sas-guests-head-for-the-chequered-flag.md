@@ -1,5 +1,6 @@
 ---
 title: "SAS guests head for the chequered flag!"
+subtitle: "Fun Pro UK were recently hired to provide Race Car Simulators to an event close to our base in Coventry...."
 date: 2018-08-29
 author: "team/colin.md"
 meta_title: "Sas Guests At The Chequered Flag – Event Game Hire"

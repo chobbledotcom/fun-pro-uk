@@ -1,5 +1,6 @@
 ---
 title: "The benefits of exhibiting at trade shows & exhibitions"
+subtitle: "Have you been thinking about exhibiting at a trade show or exhibition but are not sure if it's worth your..."
 date: 2019-03-01
 author: "team/liz.md"
 meta_title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "A Busy May for the Fun Pro UK Team"
+subtitle: "May 2024 has been a bustling month for Fun Pro UK, filled with thrilling installations, vibrant branding, and unforgettable events...."
 date: 2024-06-04
 author: "team/colin.md"
 meta_title: "Fun Pro UK's Exciting May 2024 Event Highlights | News & Blogs"

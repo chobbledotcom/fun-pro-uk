@@ -1,5 +1,6 @@
 ---
 title: "Fun Employee Appreciation Day Ideas that Your Team Will Love"
+subtitle: "The world celebrates Employee Appreciation Day in March every year! Your team works hard, and they deserve a day that's..."
 date: 2025-01-24
 author: "team/colin.md"
 meta_title: "Fun Employee Appreciation Day Ideas that Your Team Will Love"

@@ -1,5 +1,6 @@
 ---
 title: "How to Find The Best Games for Your College Or School Summer Party"
+subtitle: "With summer fast approaching, many schools and colleges are starting to think about different ways to mark the occasion, especially..."
 date: 2025-05-12
 author: "team/liz.md"
 meta_title: "School Summer Party Game Hire For End-of-Term Events"

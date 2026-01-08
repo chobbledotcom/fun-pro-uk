@@ -1,5 +1,6 @@
 ---
 title: "FUN PRO UK AND COVID-19"
+subtitle: "Fun Pro Uk and COVID-19 We are continuing to work hard with our clients and venues to support everyone in..."
 date: 2020-03-16
 author: "team/liz.md"
 meta_title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"

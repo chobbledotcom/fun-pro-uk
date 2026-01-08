@@ -1,5 +1,6 @@
 ---
 title: "Mr & Mrs Bull in Northampton"
+subtitle: "On Saturday night we helped celebrate the wonderful wedding of Mr and Mrs Bull at the Northamptonshire Marriott Hotel. The..."
 date: 2017-03-14
 author: "team/liz.md"
 meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"

@@ -1,5 +1,6 @@
 ---
 title: "Did you know we have moved!"
+subtitle: "Did you hear that we recently moved premises? Why, I hear you ask. Here are at Fun Pro UK we..."
 date: 2018-12-12
 author: "team/liz.md"
 meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"

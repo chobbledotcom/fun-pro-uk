@@ -16,13 +16,108 @@ const extractDateFromPath = (dirPath) => {
   return match ? match[1] : null;
 };
 
+/**
+ * Extract the main content body from markdown (skip navigation/header junk)
+ * Similar to extractMainContent in content-processor.js but simplified for blog posts
+ * @param {string} markdown - Raw markdown content
+ * @returns {string} Main content body
+ */
+const extractMainContentBody = (markdown) => {
+  const lines = markdown.split('\n');
+  let content = [];
+  let inMainContent = false;
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Skip navigation and header elements
+    if (line.includes('navbar') || line.includes('drawer') || line.includes('breadcrumb')) {
+      continue;
+    }
+
+    // Skip footer content
+    if (line.includes('footer') || line.includes('widget_section')) {
+      break;
+    }
+
+    // Look for main content start - H1 heading or Posted By indicator
+    if (line.includes('# ') || line.includes('Posted By:')) {
+      inMainContent = true;
+    }
+
+    if (inMainContent) {
+      content.push(line);
+    }
+  }
+
+  return content.join('\n').trim();
+};
+
+/**
+ * Extract subtitle from markdown content
+ * Gets the first 20 words, stripped of HTML/markdown formatting, ending with "..."
+ * @param {string} markdown - Markdown content
+ * @returns {string} Subtitle text
+ */
+const extractSubtitle = (markdown) => {
+  if (!markdown) return '';
+
+  // First extract just the main content body (skip nav/header junk)
+  let text = extractMainContentBody(markdown);
+
+  // Remove the H1 heading with date pattern (e.g., "# [14 October 16 - Title](url)")
+  // This is the blog title which is already in the title field
+  text = text.replace(/^#\s+\[\d{1,2}\s+[A-Za-z]+\s+\d{2}\s+-\s+[^\]]+\]\([^)]+\)\s*/m, '');
+
+  // Also remove any remaining H1/H2 headings at the start
+  text = text.replace(/^#+\s+[^\n]+\n+/m, '');
+
+  // Remove HTML tags
+  text = text.replace(/<[^>]+>/g, ' ');
+
+  // Remove markdown images FIRST (before links, so ![alt](url) doesn't get mangled)
+  // Handle images wrapped in bold/italic markers
+  text = text.replace(/\*{0,2}!\[[^\]]*\]\([^)]*\)\*{0,2}/g, '');
+
+  // Remove any remaining image-like patterns (malformed or partial)
+  text = text.replace(/!\[[^\]]*\]/g, '');
+
+  // Remove markdown links [text](url) - keep the text
+  text = text.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+
+  // Remove empty markdown links [](url)
+  text = text.replace(/\[\]\([^)]+\)/g, '');
+
+  // Remove remaining markdown heading markers
+  text = text.replace(/^#+\s+/gm, '');
+
+  // Remove markdown bold/italic markers
+  text = text.replace(/\*{1,2}([^*]+)\*{1,2}/g, '$1');
+  text = text.replace(/_{1,2}([^_]+)_{1,2}/g, '$1');
+
+  // Remove "Posted By:" line
+  text = text.replace(/Posted By:.*?\n/g, '');
+
+  // Normalize whitespace
+  text = text.replace(/\s+/g, ' ').trim();
+
+  // Get the first 20 words
+  const words = text.split(' ').filter(w => w.length > 0);
+  const first20 = words.slice(0, 20);
+
+  if (first20.length === 0) return '';
+
+  return first20.join(' ') + '...';
+};
+
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'blog',
   extractors: {
     // Date comes from context (set from folder path), not from content
     date: (htmlContent, markdown, slug, context) => context.dateFromPath || null,
     blogHeading: (htmlContent) => extractContentHeading(htmlContent),
-    blogImage: (htmlContent, markdown) => extractBlogImage(markdown)
+    blogImage: (htmlContent, markdown) => extractBlogImage(markdown),
+    subtitle: (htmlContent, markdown) => extractSubtitle(markdown)
   },
   beforeWrite: async (content, extracted, slug) => {
     // Use original URL directly (skip downloading for now)
@@ -40,7 +135,7 @@ const { convertSingle, convertBatch } = createConverter({
     return content;
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({
-    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath),
+    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath, extracted.subtitle),
     filename: `${extracted.date}-${slug}.md`
   })
 });

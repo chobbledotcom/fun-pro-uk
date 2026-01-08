@@ -1,5 +1,6 @@
 ---
 title: "Ansty Hall this Sunday!"
+subtitle: "We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first wedding fayre..."
 date: 2018-01-02
 author: "team/liz.md"
 meta_title: "Ansty Hall This Sunday – Event Game Hire Services"

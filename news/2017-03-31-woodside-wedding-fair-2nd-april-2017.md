@@ -1,5 +1,6 @@
 ---
 title: "Woodside Wedding Fair 2nd April 2017!!"
+subtitle: "Woodside Wedding Fair - Sunday 2nd April 2017 We are getting excited! Perfect Snap will be attending Woodside Hotel Wedding..."
 date: 2017-03-31
 author: "team/liz.md"
 meta_title: "Woodside Wedding Fair – Interactive Game Rentals"

@@ -1,5 +1,6 @@
 ---
 title: "Gallop to victory!"
+subtitle: "Looking for something different to entertain your guests with? Or planning a Race Night event? Well Fun Pro UK's Gold..."
 date: 2018-10-24
 author: "team/colin.md"
 meta_title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"

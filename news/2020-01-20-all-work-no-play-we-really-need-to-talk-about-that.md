@@ -1,5 +1,6 @@
 ---
 title: "All work, no play? We really need to talk about that!!"
+subtitle: "Show your staff how to party this summer with inflatables and interactive games for all ages. Why host a family..."
 date: 2020-01-20
 author: "team/liz.md"
 meta_title: "All Work, No Play? Let’s Change That! | Fun Pro UK"

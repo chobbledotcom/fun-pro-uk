@@ -1,5 +1,6 @@
 ---
 title: "Award ceremony London"
+subtitle: "Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near..."
 date: 2018-12-03
 author: "team/liz.md"
 meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"

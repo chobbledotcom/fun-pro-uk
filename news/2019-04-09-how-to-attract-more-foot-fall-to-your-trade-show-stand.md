@@ -1,5 +1,6 @@
 ---
 title: "How To Attract More Foot Fall To Your Trade Show Stand"
+subtitle: "Arranging a new product launch in a car showroom or trade stand entertainment for an expo? Hiring interactive games will..."
 date: 2019-04-09
 author: "team/liz.md"
 meta_title: "Attract Foot Traffic To Your Trade Show | Fun Pro UK"

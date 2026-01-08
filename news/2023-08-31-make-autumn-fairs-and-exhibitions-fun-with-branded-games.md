@@ -1,5 +1,6 @@
 ---
 title: "Make Autumn Fairs & Exhibitions Fun with Branded Games"
+subtitle: "Autumn is a season of change, bringing not just the vibrant colours of falling leaves but also a bustling schedule..."
 date: 2023-08-31
 author: "team/colin.md"
 meta_title: "Make Autumn Fairs & Exhibitions Fun with Branded Games | Blog"

@@ -128,7 +128,7 @@ const generateBlogPage = () => {
   let frontmatter = `---
 meta_description: "Latest news and updates from ${siteName} about interactive game hire, corporate events, and entertainment."
 meta_title: "News & Updates | ${siteName}"
-permalink: /blog/
+permalink: /news/
 layout: news-archive.html`;
 
   if (!config.options.categoriesInNavigation) {
@@ -163,7 +163,7 @@ const convertSpecialPages = async () => {
     { name: 'products.md', generator: generateProductsPage },
     { name: 'not-found.md', generator: generateNotFoundPage },
     { name: 'thank-you.md', generator: generateThankYouPage },
-    { name: 'blog.md', generator: generateBlogPage }
+    { name: 'news.md', generator: generateBlogPage }
   ];
 
   let successful = 0;

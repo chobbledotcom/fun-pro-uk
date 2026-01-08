@@ -1,5 +1,6 @@
 ---
 title: "Christmas Parties are Go!"
+subtitle: "Last night saw our friends from Gefco celebrate in style with a Perfect Snap Magic Selfie Mirror at their company..."
 date: 2017-11-19
 author: "team/liz.md"
 meta_title: "Christmas Party Fun with Magic Selfie Mirror - Fun Pro UK"

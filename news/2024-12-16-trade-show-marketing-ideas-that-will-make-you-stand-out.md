@@ -1,5 +1,6 @@
 ---
 title: "Trade Show Marketing Ideas That Will Make You Stand Out"
+subtitle: "Trade shows draw hundreds of people to a single event centre every year. It brings businesses in the same industry..."
 date: 2024-12-16
 author: "team/colin.md"
 meta_title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"

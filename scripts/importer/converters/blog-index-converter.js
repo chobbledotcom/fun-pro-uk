@@ -29,7 +29,7 @@ const convertBlogIndex = () => {
   const frontmatter = `---
 meta_title: "News & Updates | ${siteName}"
 meta_description: "All of the latest news from ${siteName} about interactive game hire, corporate events, exhibitions, and parties."
-permalink: "/blog/"
+permalink: "/news/"
 layout: news-archive.html
 eleventyNavigation:
   key: News
@@ -41,14 +41,14 @@ eleventyNavigation:
 All of the latest news from ${siteName} - you can also find more updates on our [Facebook Page](${facebookUrl})!`;
 
   const fullContent = `${frontmatter}\n\n${content}`;
-  const outputPath = path.join(outputDir, 'blog.md');
+  const outputPath = path.join(outputDir, 'news.md');
 
   try {
     writeMarkdownFile(outputPath, fullContent);
-    console.log('  Created: blog.md');
+    console.log('  Created: news.md');
     return { successful: 1, failed: 0, total: 1 };
   } catch (error) {
-    console.error('  Error creating blog.md:', error.message);
+    console.error('  Error creating news.md:', error.message);
     return { successful: 0, failed: 1, total: 1 };
   }
 };

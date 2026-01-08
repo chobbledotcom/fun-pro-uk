@@ -1,5 +1,6 @@
 ---
 title: "Ho Ho Ho it's Christmas!"
+subtitle: "There's nothing like the festive season to boost everyone's spirits and have a reason to get a bit merry. But..."
 date: 2018-11-07
 author: "team/liz.md"
 meta_title: "Ho Ho Ho It’s Christmas! – Festive Game Rentals | Fun Pro UK"

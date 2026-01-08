@@ -1,5 +1,6 @@
 ---
 title: "Get organised!"
+subtitle: "Are you one of the thousands of people who set a new year's resolution each year, only to see it..."
 date: 2019-01-04
 author: "team/liz.md"
 meta_title: "Get Organised For Your Event – Game Hire Nationwide"

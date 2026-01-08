@@ -1,5 +1,6 @@
 ---
 title: "Mirror, Mirror out at Wasps, where will I go next?"
+subtitle: "We recently visited a long-standing client of ours to deliver our Magic Mirror to their hospitality area, pre-Wasps match. A..."
 date: 2018-10-31
 author: "team/liz.md"
 meta_title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"

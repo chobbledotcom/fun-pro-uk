@@ -1,5 +1,6 @@
 ---
 title: "Planning a Company Christmas Party? Here's How Games Can Break the Ice"
+subtitle: "The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering..."
 date: 2025-06-27
 author: "team/liz.md"
 meta_title: "How Christmas Party Games Create Connection at Work"

@@ -1,5 +1,6 @@
 ---
 title: "Dunchurch Park"
+subtitle: "So excited, on the way to Dunchurch Park Hotel in the beautiful town of Rugby, Warwickshire. We were here at..."
 date: 2016-11-12
 author: "team/liz.md"
 meta_title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro UK"

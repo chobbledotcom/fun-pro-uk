@@ -1,5 +1,6 @@
 ---
 title: "Christmas Fun!"
+subtitle: "The elves are busy making presents. The reindeers are in training. And the team at Fun Pro UK are busy..."
 date: 2019-11-05
 author: "team/colin.md"
 meta_title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"

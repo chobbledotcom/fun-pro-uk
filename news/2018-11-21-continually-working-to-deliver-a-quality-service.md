@@ -1,5 +1,6 @@
 ---
 title: "Continually Working to Deliver a Quality Service!"
+subtitle: "It has been a busy week within the Fun Pro UK office with brainstorming sessions on how to continue to..."
 date: 2018-11-21
 author: "team/colin.md"
 meta_title: "Delivering Quality Event Services Nationwide | Fun Pro UK"

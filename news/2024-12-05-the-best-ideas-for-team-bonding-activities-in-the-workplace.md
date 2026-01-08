@@ -1,5 +1,6 @@
 ---
 title: "The Best Ideas For Team Bonding Activities In The Workplace"
+subtitle: "When you think about how stressful daily work can get, it's not difficult to understand why a team bonding activity..."
 date: 2024-12-05
 author: "team/colin.md"
 meta_title: "Team Bonding Activities To Bring Your Team Together"

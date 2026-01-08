@@ -1,5 +1,6 @@
 ---
 title: "Christmas Parties with the NEC"
+subtitle: "Last night saw Team Perfect Snap returning to the NEC in Birmingham to help celebrate Christmas with them just as..."
 date: 2017-12-01
 author: "team/liz.md"
 meta_title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"

@@ -1,5 +1,6 @@
 ---
 title: "Party Party Party"
+subtitle: "Wow! What a busy weekend we have had. It certainly was the weekend for partying! From Children's birthday parties with..."
 date: 2016-12-12
 author: "team/colin.md"
 meta_title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"

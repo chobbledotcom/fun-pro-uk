@@ -1,5 +1,6 @@
 ---
 title: "Celebrate Christmas and the New Year in Style!"
+subtitle: "As the festive season twinkles on the horizon, it's time to think about how to bid a grand farewell to..."
 date: 2023-11-30
 author: "team/liz.md"
 meta_title: "Celebrate Christmas and the New Year in Style! | News & Blogs"

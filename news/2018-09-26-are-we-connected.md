@@ -1,5 +1,6 @@
 ---
 title: "Are we connected?"
+subtitle: "Are we connected? Have you seen all our social media? We have very active Facebook, Twitter, LinkedIn and Instagram pages,..."
 date: 2018-09-26
 author: "team/liz.md"
 meta_title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"
