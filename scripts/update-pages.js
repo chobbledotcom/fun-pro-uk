@@ -45,6 +45,18 @@ async function customisePages() {
     throw new Error("Failed to install dependencies");
   }
 
+  const localSitePath = "_data/site.json";
+  if (fs.existsSync(localSitePath)) {
+    const localSite = JSON.parse(fs.readFileSync(localSitePath, "utf-8"));
+    if (localSite.cms_config) {
+      const templateSitePath = path.join(tempDir, "src", "_data", "site.json");
+      const templateSite = JSON.parse(fs.readFileSync(templateSitePath, "utf-8"));
+      templateSite.cms_config = localSite.cms_config;
+      fs.writeFileSync(templateSitePath, JSON.stringify(templateSite, null, "\t"));
+      console.log("Loaded existing cms_config into customisation TUI");
+    }
+  }
+
   console.log("\nStarting CMS customisation TUI...\n");
 
   await new Promise((resolve, reject) => {
@@ -64,20 +76,31 @@ async function customisePages() {
     proc.on("error", reject);
   });
 
-  const pagesPath = path.join(tempDir, "src", ".pages.yml");
+  const pagesPath = path.join(tempDir, ".pages.yml");
   if (!fs.existsSync(pagesPath)) {
     fs.rmSync(tempDir, { recursive: true, force: true });
     throw new Error("No .pages.yml found after customisation");
   }
 
   const content = fs.readFileSync(pagesPath, "utf-8");
-  const updated = content.replace(/src\//g, "");
-  fs.writeFileSync(".pages.yml", updated);
+  fs.writeFileSync(".pages.yml", content);
+
+  const templateSitePath = path.join(tempDir, "src", "_data", "site.json");
+  if (fs.existsSync(templateSitePath)) {
+    const templateSite = JSON.parse(fs.readFileSync(templateSitePath, "utf-8"));
+    if (templateSite.cms_config) {
+      const localSitePath = "_data/site.json";
+      const localSite = JSON.parse(fs.readFileSync(localSitePath, "utf-8"));
+      localSite.cms_config = templateSite.cms_config;
+      fs.writeFileSync(localSitePath, JSON.stringify(localSite, null, "\t"));
+      console.log("Saved cms_config to _data/site.json");
+    }
+  }
 
   console.log("\nCleaning up...");
   fs.rmSync(tempDir, { recursive: true, force: true });
 
-  console.log("Updated .pages.yml with your customisations (with src/ removed)");
+  console.log("Updated .pages.yml with your customisations");
 }
 
 async function updatePages(options = {}) {
