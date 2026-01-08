@@ -1086,10 +1086,13 @@ body.reviews {
 }
 
 .delivery-row {
-  --background: #009dd7;
+  background: #009dd7;
   color: #fff;
+  h1 {
+    color: #fff;
+  }
   .row {
-    .image-wrapper {
+    .left {
       display: none;
     }
     .right {
@@ -1112,7 +1115,7 @@ body.reviews {
     @include breakpoints.up("sm") {
       display: flex;
       gap: 16px;
-      .image-wrapper {
+      .left {
         display: block;
         width: max(300px, 50%);
       }
