@@ -1085,21 +1085,33 @@ body.reviews {
   }
 }
 
-.delivery-row {
-  background: #009dd7;
-  color: #fff;
-  h1 {
-    color: #fff;
+.delivery-intro {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 32px;
+  p {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
   }
+}
+
+.delivery-row {
+  border-top: 4px solid #ee3324;
+  background: #fafafa;
   .row {
-    .left {
+    .image-wrapper {
       display: none;
     }
     .right {
+      text-align: center;
       .stats {
+        margin: 32px 0 0;
         list-style-type: none;
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
         gap: 16px;
         padding: 0;
         li {
@@ -1114,10 +1126,13 @@ body.reviews {
     }
     @include breakpoints.up("sm") {
       display: flex;
-      gap: 16px;
-      .left {
+      position: relative;
+      .right {
+        width: 50%;
+      }
+      .image-wrapper {
         display: block;
-        width: max(300px, 50%);
+        width: 50%;
       }
     }
   }
