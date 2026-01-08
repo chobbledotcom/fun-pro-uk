@@ -550,6 +550,7 @@ const generateEventFrontmatter = (
 
   let frontmatter = `---
 title: "${escapeYamlString(title)}"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "${escapeYamlString(metadata.title || title)}"
 meta_description: "${escapeYamlString(metadata.meta_description || "")}"
 featured: true`;
