@@ -23,6 +23,10 @@ const PAGE_CONFIG = {
   testimonials: {
     layout: "reviews.html",
   },
+  "event-type": {
+    layout: "events",
+    rename: "events",
+  },
 };
 
 /**
@@ -33,7 +37,7 @@ const PAGE_CONFIG = {
  * @param {string} slug - Page slug
  * @param {string} pageHeading - The H1 heading from page content
  * @param {Object} navInfo - Navigation info from extractNavigationFromHtml (optional)
- * @returns {string} Frontmatter YAML
+ * @returns {string|Object} Frontmatter YAML, or { frontmatter, filename } if renamed
  */
 const generatePageFrontmatter = (
   metadata,
@@ -43,6 +47,7 @@ const generatePageFrontmatter = (
 ) => {
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || "page";
+  const newSlug = pageConfig.rename || slug;
 
   // Pages that were already at root level on the old site don't need redirects
   const rootPages = ["contact", "reviews", "delivery-areas", "testimonials"];
@@ -56,8 +61,20 @@ meta_description: "${metadata.meta_description || ""}"
 layout: ${layout}`;
 
   // Add redirect_from for old /pages/ URLs
-  if (needsRedirect) {
-    frontmatter += `\nredirect_from:\n  - "/pages/${slug}/"`;
+  // If renamed, also add redirect from the old slug at root level
+  if (needsRedirect || pageConfig.rename) {
+    const redirects = [];
+    if (needsRedirect) {
+      redirects.push(`/pages/${slug}/`);
+    }
+    // If renamed, add redirect from the old slug at root level
+    if (pageConfig.rename) {
+      redirects.push(`/${slug}/`);
+    }
+    frontmatter += `\nredirect_from:`;
+    for (const redirect of redirects) {
+      frontmatter += `\n  - "${redirect}"`;
+    }
   }
 
   // Add navigation if extracted from old site
@@ -77,6 +94,15 @@ eleventyNavigation:
   }
 
   frontmatter += "\n---";
+
+  // If page is renamed, return object with custom filename
+  if (pageConfig.rename) {
+    return {
+      frontmatter,
+      filename: `${newSlug}.md`,
+    };
+  }
+
   return frontmatter;
 };
 
