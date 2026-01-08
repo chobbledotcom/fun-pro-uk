@@ -189,12 +189,6 @@ article#content,
   }
 }
 
-placeholder {
-  display: block;
-  aspect-ratio: 3/2;
-  background: #c0c0c0;
-}
-
 a {
   text-decoration: none;
   &:hover {
@@ -1132,7 +1126,7 @@ ul.items {
     }
     .image-link,
     placeholder {
-      aspect-ratio: 3/2;
+      aspect-ratio: 4/3;
       margin: 24px 0;
       width: 100%;
       overflow: hidden;
