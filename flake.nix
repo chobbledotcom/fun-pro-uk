@@ -8,13 +8,13 @@
         let
           pkgs = import <nixpkgs> { system = "x86_64-linux"; };
           scriptCommands = {
-            serve = "node scripts/serve.js";
-            build = "node scripts/build.js";
-            "prepare-dev" = "node scripts/prepare-dev.js";
-            "sync-files" = "node scripts/sync-files.js";
-            watch = "node scripts/watch.js";
-            "update-pages" = "node scripts/update-pages.js";
-            "fetch-google-reviews" = "node scripts/fetch-google-reviews.js";
+            serve = "bun scripts/serve.js";
+            build = "bun scripts/build.js";
+            "prepare-dev" = "bun scripts/prepare-dev.js";
+            "sync-files" = "bun scripts/sync-files.js";
+            watch = "bun scripts/watch.js";
+            "update-pages" = "bun scripts/update-pages.js";
+            "fetch-google-reviews" = "bun scripts/fetch-google-reviews.js";
             "optimize-images" = "./scripts/optimize-images.sh";
             clean = "rm -rf .build";
           };

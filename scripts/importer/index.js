@@ -1,14 +1,14 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 /**
  * Main orchestrator for the site conversion process
  * This coordinates all the individual converters
  *
  * Usage:
- *   node scripts/importer              # Run all converters
- *   node scripts/importer --only pages # Run only pages converter
- *   node scripts/importer --only products,categories # Run multiple
- *   node scripts/importer --list       # List available converters
+ *   bun scripts/importer              # Run all converters
+ *   bun scripts/importer --only pages # Run only pages converter
+ *   bun scripts/importer --only products,categories # Run multiple
+ *   bun scripts/importer --list       # List available converters
  */
 
 const fs = require('fs');
@@ -87,7 +87,7 @@ const main = async () => {
     Object.entries(CONVERTERS).forEach(([key, val]) => {
       console.log(`  ${key.padEnd(12)} - ${val.name}`);
     });
-    console.log('\nUsage: node scripts/importer --only pages,products');
+    console.log('\nUsage: bun scripts/importer --only pages,products');
     process.exit(0);
   }
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 /**
  * Optimize product images
@@ -10,8 +10,8 @@
  * 4. Only replaces if the optimized version is smaller
  * 
  * Usage:
- *   node scripts/importer/optimize-product-images.js              # Optimize all images
- *   node scripts/importer/optimize-product-images.js --dry-run    # Preview without changes
+ *   bun scripts/importer/optimize-product-images.js              # Optimize all images
+ *   bun scripts/importer/optimize-product-images.js --dry-run    # Preview without changes
  */
 
 const fs = require('node:fs');

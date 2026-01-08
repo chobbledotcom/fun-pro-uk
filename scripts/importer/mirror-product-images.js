@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 /**
  * Mirror product images from Cloudinary to local storage
@@ -11,9 +11,9 @@
  * 5. Updates markdown files to use local paths
  * 
  * Usage:
- *   node scripts/importer/mirror-product-images.js              # Mirror all images
- *   node scripts/importer/mirror-product-images.js --dry-run    # Preview without changes
- *   node scripts/importer/mirror-product-images.js --only batak-lite,batak-pro
+ *   bun scripts/importer/mirror-product-images.js              # Mirror all images
+ *   bun scripts/importer/mirror-product-images.js --dry-run    # Preview without changes
+ *   bun scripts/importer/mirror-product-images.js --only batak-lite,batak-pro
  */
 
 const fs = require('node:fs');

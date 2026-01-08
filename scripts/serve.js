@@ -20,7 +20,7 @@ if (install.status !== 0) {
 
 console.log('Starting server...');
 
-const watch = spawn('node', [path.join(__dirname, 'watch.js')], {
+const watch = spawn('bun', [path.join(__dirname, 'watch.js')], {
   stdio: 'inherit'
 });
 

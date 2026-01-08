@@ -11,15 +11,7 @@
   "cart_mode": "quote",
   "product_mode": "hire",
   "contact_form_target": "https://auto.chobble.com/webhooks/flows/7293ba6f-810a-4dd0-99fb-462ea365d3cd/sync",
-  "products": {
-    "product_thumb_widths": "240,480,640",
-    "product_thumb_sizes": "224px",
-    "category_thumb_widths": "900,1300",
-    "category_thumb_sizes": "224px",
-    "gallery_thumb_widths": "240,480",
-    "gallery_image_widths": "900,1300",
-    "header_image_widths": "640,900,1300"
-  },
+  "item_list_aspect_ratio": "4/3",
   "timezone": "Europe/London",
   "list_item_fields": ["link", "subtitle", "thumbnail", "price", "cart-button"],
   "category_order": ["products", "subcategories", "content", "faqs"]

@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env bun
 
 const { execSync } = require('child_process');
 const path = require('path');
@@ -35,7 +35,7 @@ if (!skipBuild) {
     fs.rmSync(newSite, { recursive: true, force: true });
   }
 
-  execSync('node scripts/build.js', { cwd: root, stdio: 'inherit' });
+  execSync('bun scripts/build.js', { cwd: root, stdio: 'inherit' });
   console.log('\n');
 } else {
   console.log('Skipping build (--skip-build flag)\n');

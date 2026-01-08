@@ -210,7 +210,7 @@ input[type="submit"] {
   justify-content: center;
   gap: 16px;
   align-items: center;
-  border-radius: 16px;
+  border-radius: 8px;
   border: 1px solid transparent;
   font-weight: 500;
   font-size: 16px;
@@ -769,14 +769,12 @@ body.horizontal-nav main {
 }
 
 .homepage-intro {
-  .container {
-    & > * {
-      max-width: 700px;
-      text-align: left;
-    }
-    a.button {
-      margin-top: 32px;
-    }
+  & > * {
+    max-width: 700px;
+    text-align: left;
+  }
+  a.button {
+    margin-top: 32px;
   }
 }
 
@@ -1286,6 +1284,7 @@ ul.items {
 
 .items {
   --color-link: #111;
+  margin-top: 64px;
   &.border {
     border-radius: 16px;
     border: 1px solid #babbbc;
@@ -1298,6 +1297,12 @@ ul.items {
       line-height: 32px;
       font-size: 20px;
     }
+  }
+  .add-to-cart {
+    border-radius: 16px;
+    background: #ee3324;
+    color: #fff;
+    font-weight: 500;
   }
 }
 
