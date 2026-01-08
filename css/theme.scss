@@ -1178,14 +1178,16 @@ ul.items {
   }
 }
 
-#footer-contact {
+.footer-bar {
   border-top: 4px solid #ff0004;
-  padding: 64px 16px;
+}
+
+#footer-contact {
   display: grid;
   grid-template-columns: 50px 1fr;
   gap: 0 16px;
   font-weight: 700;
-  padding-bottom: 0;
+  padding-bottom: 32px;
 
   #footer-logo {
     aspect-ratio: 42/53;
@@ -1276,6 +1278,32 @@ ul.items {
   }
 }
 
+.footer-address {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 14px;
+  li {
+    &:not(:first-child, :last-child) {
+      &::before {
+        content: "- ";
+      }
+    }
+    &:last-child {
+      flex-grow: 1;
+      text-align: right;
+    }
+  }
+}
+
+.plug {
+  font-size: 12px;
+}
+
 .items {
   --color-link: #111;
   margin-top: 64px;
@@ -1295,6 +1323,8 @@ ul.items {
   .add-to-cart {
     border-radius: 16px;
     background: #ee3324;
+    box-shadow: none;
+    border: none;
     color: #fff;
     font-weight: 500;
   }
