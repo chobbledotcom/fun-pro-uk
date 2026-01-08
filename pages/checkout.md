@@ -5,7 +5,3 @@ layout: quote-checkout.html
 permalink: /checkout/
 no_index: true
 ---
-
-## Your Details
-
-Please fill in your details below to complete your quote request.
