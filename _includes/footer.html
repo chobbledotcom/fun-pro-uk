@@ -1,3 +1,4 @@
+
 <div class="footer">
   <section id="footer-contact-block" class="full-width">
     <h2>Get in Touch</h2>
@@ -30,7 +31,9 @@
       </a>
   </section>
 
-  <section id="footer-contact" class="full-width">
+  <div class="footer-bar full-width"></div>
+
+  <section id="footer-contact">
     <a href="/" id="footer-logo">
       <img src="/assets/fun-pro-uk-logo.svg" alt="Fun Pro UK" />
     </a>
@@ -45,8 +48,15 @@
 
   <section id="footer-links">{%- render_snippet "footer-links" -%}</section>
 
-  {%- if config.chobble_link and layout == "home.html" -%}
-    <p>
+  <ul class="footer-address">
+    <li>© Fun Pro UK Ltd 2025</li>
+    <li>Registered in England No. 09559294</li>
+    <li>VAT no: 256 3179 91</li>
+    <li>Unit 7 Heath Business Park, Wolston Coventry CV83GB</li>
+  </ul>
+
+  {%- if layout == "home.html" -%}
+    <p class="plug">
       Marketing by
       <a href="https://www.skayl.co.uk"
         rel="nofollow"
