@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "update-pages": "bun scripts/update-pages.js"
   },
   "dependencies": {
     "json-to-pdf": "^0.1.2",

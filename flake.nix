@@ -20,7 +20,7 @@
           };
           bunScripts = pkgs.symlinkJoin {
             name = "bun-scripts";
-            paths = map (cmd: pkgs.writeShellScriptBin cmd scriptCommands.${cmd}) (
+            paths = map (cmd: pkgs.writeShellScriptBin cmd "${scriptCommands.${cmd}} \"$@\"") (
               builtins.attrNames scriptCommands
             );
           };
