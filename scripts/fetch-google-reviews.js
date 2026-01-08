@@ -1,39 +1,40 @@
 #!/usr/bin/env bun
 
-const fs = require('fs');
-const path = require('path');
-const https = require('https');
+import fs from "node:fs";
+import https from "node:https";
+import path from "node:path";
 
 // Load environment variables
-const envPath = path.join(__dirname, '..', '.env');
+const envPath = path.join(import.meta.dirname, "..", ".env");
 if (fs.existsSync(envPath)) {
-  fs.readFileSync(envPath, 'utf8')
-    .split('\n')
-    .forEach(line => {
-      const [key, ...value] = line.split('=');
+  fs.readFileSync(envPath, "utf8")
+    .split("\n")
+    .forEach((line) => {
+      const [key, ...value] = line.split("=");
       if (key && value.length && !process.env[key]) {
-        process.env[key] = value.join('=').trim();
+        process.env[key] = value.join("=").trim();
       }
     });
 }
 
 const APIFY_API_TOKEN = process.env.APIFY_API_TOKEN;
 const CONFIG = {
-  siteConfigPath: path.join(__dirname, '..', '_data', 'site.json'),
-  reviewsDir: path.join(__dirname, '..', 'reviews'),
-  actorId: 'nwua9Gu5YrADL7ZDj',
-  maxReviews: 9999 // Fetch all available reviews
+  siteConfigPath: path.join(import.meta.dirname, "..", "_data", "site.json"),
+  reviewsDir: path.join(import.meta.dirname, "..", "reviews"),
+  actorId: "nwua9Gu5YrADL7ZDj",
+  maxReviews: 9999, // Fetch all available reviews
 };
 
 function formatFilename(name, date) {
-  const safeName = (name || 'anonymous')
+  const safeName = (name || "anonymous")
     .toLowerCase()
-    .replace(/[^a-z0-9\s]/g, '')
-    .replace(/\s+/g, '-')
+    .replace(/[^a-z0-9\s]/g, "")
+    .replace(/\s+/g, "-")
     .substring(0, 30);
-  const safeDate = date instanceof Date && !isNaN(date)
-    ? date.toISOString().split('T')[0]
-    : new Date().toISOString().split('T')[0];
+  const safeDate =
+    date instanceof Date && !Number.isNaN(date.getTime())
+      ? date.toISOString().split("T")[0]
+      : new Date().toISOString().split("T")[0];
   return `${safeName}-google-${safeDate}.md`;
 }
 
@@ -42,30 +43,35 @@ function makeApiRequest(url, data) {
     const urlObj = new URL(url);
     const postData = JSON.stringify(data);
 
-    const request = https.request({
-      hostname: urlObj.hostname,
-      path: urlObj.pathname + urlObj.search,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(postData)
+    const request = https.request(
+      {
+        hostname: urlObj.hostname,
+        path: urlObj.pathname + urlObj.search,
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Content-Length": Buffer.byteLength(postData),
+        },
+      },
+      (response) => {
+        let responseData = "";
+        response.on("data", (chunk) => {
+          responseData += chunk;
+        });
+        response.on("end", () => {
+          if (response.statusCode >= 400) {
+            reject(new Error(`HTTP ${response.statusCode}: ${responseData}`));
+          } else {
+            resolve(responseData);
+          }
+        });
       }
-    }, response => {
-      let responseData = '';
-      response.on('data', chunk => responseData += chunk);
-      response.on('end', () => {
-        if (response.statusCode >= 400) {
-          reject(new Error(`HTTP ${response.statusCode}: ${responseData}`));
-        } else {
-          resolve(responseData);
-        }
-      });
-    });
+    );
 
-    request.on('error', reject);
+    request.on("error", reject);
     request.setTimeout(60000, () => {
       request.destroy();
-      reject(new Error('Request timeout'));
+      reject(new Error("Request timeout"));
     });
 
     request.write(postData);
@@ -76,31 +82,35 @@ function makeApiRequest(url, data) {
 async function fetchReviews(placeId, options = {}) {
   const url = `https://api.apify.com/v2/acts/${CONFIG.actorId}/run-sync-get-dataset-items?token=${APIFY_API_TOKEN}`;
   const data = {
-    startUrls: [{ url: `https://www.google.com/maps/place/?q=place_id:${placeId}` }],
+    startUrls: [
+      { url: `https://www.google.com/maps/place/?q=place_id:${placeId}` },
+    ],
     maxReviews: options.maxReviews || CONFIG.maxReviews,
-    reviewsSort: options.sort || 'newest',
-    language: options.language || 'en'
+    reviewsSort: options.sort || "newest",
+    language: options.language || "en",
   };
 
-  console.log(`Fetching all available reviews...`);
+  console.log("Fetching all available reviews...");
 
   const response = await makeApiRequest(url, data);
   const results = JSON.parse(response);
 
   if (!Array.isArray(results)) {
-    throw new Error('Invalid API response format');
+    throw new Error("Invalid API response format");
   }
 
   return results
-    .flatMap(item => item.reviews || [])
-    .map(review => ({
-      content: review.text || review.reviewText || '',
-      date: review.publishedAtDate ? new Date(review.publishedAtDate) : new Date(),
+    .flatMap((item) => item.reviews || [])
+    .map((review) => ({
+      content: review.text || review.reviewText || "",
+      date: review.publishedAtDate
+        ? new Date(review.publishedAtDate)
+        : new Date(),
       rating: review.stars || review.rating || 0,
-      author: review.name || review.authorName || 'Anonymous',
-      authorUrl: review.reviewerUrl || review.authorUrl || ''
+      author: review.name || review.authorName || "Anonymous",
+      authorUrl: review.reviewerUrl || review.authorUrl || "",
     }))
-    .filter(review => review.content.length > 5);
+    .filter((review) => review.content.length > 5);
 }
 
 function saveReview(review, outputDir) {
@@ -122,15 +132,15 @@ ${review.content}
 `;
 
   fs.writeFileSync(filepath, content);
-  console.log(`✓ ${filename} (${rating}/5 stars)`);
+  console.log(`${filename} (${rating}/5 stars)`);
   return true;
 }
 
 async function main() {
   // Validate requirements
   if (!APIFY_API_TOKEN) {
-    console.error('Error: APIFY_API_TOKEN required in .env file');
-    console.error('Get token: https://console.apify.com/account/integrations');
+    console.error("Error: APIFY_API_TOKEN required in .env file");
+    console.error("Get token: https://console.apify.com/account/integrations");
     process.exit(1);
   }
 
@@ -139,9 +149,11 @@ async function main() {
     process.exit(1);
   }
 
-  const siteConfig = JSON.parse(fs.readFileSync(CONFIG.siteConfigPath, 'utf8'));
+  const siteConfig = JSON.parse(
+    fs.readFileSync(CONFIG.siteConfigPath, "utf8")
+  );
   if (!siteConfig.google_place_id) {
-    console.error('Error: google_place_id missing from site.json');
+    console.error("Error: google_place_id missing from site.json");
     process.exit(1);
   }
 
@@ -153,18 +165,20 @@ async function main() {
     const reviews = await fetchReviews(siteConfig.google_place_id);
     console.log(`Found ${reviews.length} reviews`);
 
-    const saved = reviews.reduce((count, review) =>
-      count + (saveReview(review, CONFIG.reviewsDir) ? 1 : 0), 0
+    const saved = reviews.reduce(
+      (count, review) => count + (saveReview(review, CONFIG.reviewsDir) ? 1 : 0),
+      0
     );
 
-    console.log(`\nSaved ${saved} new reviews (${reviews.length - saved} already existed)`);
-
+    console.log(
+      `\nSaved ${saved} new reviews (${reviews.length - saved} already existed)`
+    );
   } catch (error) {
-    console.error('Error:', error.message);
+    console.error("Error:", error.message);
     process.exit(1);
   }
 }
 
-if (require.main === module) {
+if (import.meta.main) {
   main();
 }
