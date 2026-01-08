@@ -1,4 +1,3 @@
-import { execSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -14,8 +13,8 @@ console.log("Building site...");
 
 fs.rmSync(output, { recursive: true, force: true });
 
-execSync("bun run build", { cwd: dev, stdio: "inherit" });
+Bun.spawnSync(["bun", "run", "build"], { cwd: dev, stdio: ["inherit", "inherit", "inherit"] });
 
-execSync(`mv "${path.join(dev, "_site")}" "${output}"`);
+fs.renameSync(path.join(dev, "_site"), output);
 
 console.log("Built to _site/");
