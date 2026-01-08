@@ -25,13 +25,14 @@ export function prep() {
 	console.log("Preparing build...");
 	fs.mkdirSync(build, { recursive: true });
 
-	if (!fs.existsSync(template)) {
+	if (!fs.existsSync(path.join(template, ".git"))) {
 		console.log("Cloning template...");
+		fs.rmSync(template, { recursive: true, force: true });
 		Bun.spawnSync(["git", "clone", "--depth", "1", templateRepo, template]);
 	} else {
 		console.log("Updating template...");
-		Bun.spawnSync(["git", "reset", "--hard"], { cwd: template });
-		Bun.spawnSync(["git", "pull"], { cwd: template });
+		Bun.spawnSync(["git", "-C", template, "reset", "--hard"]);
+		Bun.spawnSync(["git", "-C", template, "pull"]);
 	}
 
 	Bun.spawnSync([
