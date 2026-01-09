@@ -72,7 +72,7 @@ const EVENT_HIERARCHY = [
       { slug: 'luxury-wedding-entertainment-events', title: 'Luxury Wedding Entertainment', oldSiteSlug: 'hire-outdoor-games-for-weddings', sourceType: 'pages', order: 1 },
       { slug: 'summer-entertainment-events', title: 'Summer Entertainment', oldSiteSlug: null, sourceType: null, order: 2 },
       { slug: 'evening-entertainment-events', title: 'Evening Entertainment', oldSiteSlug: 'evening-entertainment', sourceType: 'pages', order: 3 },
-      { slug: 'christmas-entertainment-events', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-game-hire-london', sourceType: 'pages', order: 4 },
+      { slug: 'christmas-entertainment-events', title: 'Christmas Entertainment', oldSiteSlug: null, sourceType: null, order: 4 },
     ]
   },
   {
