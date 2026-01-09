@@ -59,6 +59,7 @@ const EVENT_HIERARCHY = [
       { slug: 'office-entertainment', title: 'Office Entertainment', oldSiteSlug: 'office-entertainment', sourceType: 'pages', order: 3 },
       { slug: 'staff-wellbeing-days', title: 'Corporate Wellbeing Days', oldSiteSlug: 'staff-wellbeing-days', sourceType: 'category', order: 4 },
       { slug: 'conference-idea', title: 'Conference Production', oldSiteSlug: 'conference-idea', sourceType: 'pages', order: 5 },
+      { slug: 'brand-activation', title: 'Brand Activation', oldSiteSlug: 'branded-game-hire', sourceType: 'pages', order: 6 },
     ]
   },
   {
@@ -68,8 +69,10 @@ const EVENT_HIERARCHY = [
     sourceType: 'pages',
     order: 2,
     children: [
+      { slug: 'luxury-wedding-entertainment', title: 'Luxury Wedding Entertainment', oldSiteSlug: 'luxury-wedding-entertainment', sourceType: 'pages', order: 1 },
       { slug: 'summer-entertainment', title: 'Summer Entertainment', oldSiteSlug: 'summer-entertainment', sourceType: 'pages', order: 2 },
       { slug: 'evening-entertainment', title: 'Evening Entertainment', oldSiteSlug: 'evening-entertainment', sourceType: 'pages', order: 3 },
+      { slug: 'christmas-entertainment', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-entertainment-game-hire', sourceType: 'pages', order: 4 },
     ]
   },
   {
