@@ -47,6 +47,46 @@
   }
 }
 
+@mixin timeline-list($dot-color: #009dd7, $dot-size: 16px) {
+  list-style-type: none;
+  padding: 0;
+  position: relative;
+
+  li {
+    opacity: 0.6;
+    transition: 0.3s ease-in-out opacity;
+    padding: 0 0 0 24px;
+    position: relative;
+    border-left: 2px solid;
+
+    &:hover {
+      opacity: 1;
+      &::before {
+        background-color: white;
+      }
+    }
+
+    &::before {
+      transition: 0.3s ease-in-out background-color;
+      display: block;
+      content: "";
+      width: $dot-size;
+      height: $dot-size;
+      position: absolute;
+      border: 2px solid white;
+      background-color: $dot-color;
+      border-radius: 100%;
+      top: 0;
+      left: calc(($dot-size / 2 + 3px) * -1);
+      outline: 2px solid $dot-color;
+    }
+  }
+}
+
+@mixin section-padding {
+  padding: 128px 0;
+}
+
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
@@ -172,8 +212,7 @@ article#content,
   }
 
   & > section {
-    padding-top: 64px;
-    padding-bottom: 64px;
+    @include section-padding;
   }
 
   & > *:not(.breakout, .full-width) {
@@ -337,7 +376,7 @@ body {
       .big-specs {
         background-color: #009dd7;
         color: white;
-        padding: 64px 32px;
+        @include section-padding;
         line-height: 32px;
         & > div {
           display: flex;
@@ -358,7 +397,7 @@ body {
         }
       }
       .big-features {
-        padding: 64px 32px;
+        @include section-padding;
         line-height: 32px;
       }
     }
@@ -395,7 +434,7 @@ body {
 }
 
 .quote-header {
-  padding: 32px 16px;
+  @include section-padding;
   text-align: center;
   margin: 0 auto;
   max-width: 500px;
@@ -1017,7 +1056,7 @@ body.reviews {
 }
 
 .homepage-how-it-works {
-  padding: 128px 32px;
+  @include section-padding;
   --color-text: #fff;
   --color-link: #fff;
   --color-link-hover: #fff;
@@ -1048,43 +1087,13 @@ body.reviews {
   }
 
   @include breakpoints.down("md") {
-    padding: 32px;
     .image-wrapper {
       display: none;
     }
   }
 
   ol {
-    list-style-type: none;
-    padding: 0;
-    position: relative;
-    li {
-      opacity: 0.6;
-      transition: 0.3s ease-in-out opacity;
-      padding: 0 0 0 24px;
-      position: relative;
-      border-left: 2px solid;
-      &:hover {
-        opacity: 1;
-        &::before {
-          background-color: white;
-        }
-      }
-      &::before {
-        transition: 0.3s ease-in-out background-color;
-        display: block;
-        content: "";
-        width: 16px;
-        height: 16px;
-        position: absolute;
-        border: 2px solid white;
-        background-color: #009dd7;
-        border-radius: 100%;
-        top: 0;
-        left: -11px;
-        outline: 2px solid #009dd7;
-      }
-    }
+    @include timeline-list;
   }
 }
 
@@ -1144,7 +1153,7 @@ body.reviews {
 }
 
 .delivery-how-it-works {
-  padding: 128px 32px;
+  @include section-padding;
   .grid {
     display: grid;
     grid-template-areas: "header header" "left right";
@@ -1173,49 +1182,19 @@ body.reviews {
   }
 
   @include breakpoints.down("md") {
-    padding: 32px;
     .image-wrapper {
       display: none;
     }
   }
 
   ol {
-    list-style-type: none;
-    padding: 0;
-    position: relative;
-    li {
-      opacity: 0.6;
-      transition: 0.3s ease-in-out opacity;
-      padding: 0 0 0 24px;
-      position: relative;
-      border-left: 2px solid;
-      &:hover {
-        opacity: 1;
-        &::before {
-          background-color: white;
-        }
-      }
-      &::before {
-        transition: 0.3s ease-in-out background-color;
-        display: block;
-        content: "";
-        width: 16px;
-        height: 16px;
-        position: absolute;
-        border: 2px solid white;
-        background-color: #009dd7;
-        border-radius: 100%;
-        top: 0;
-        left: -11px;
-        outline: 2px solid #009dd7;
-      }
-    }
+    @include timeline-list;
   }
 }
 #footer-contact-block {
   background-color: white;
   text-align: center;
-  padding: 64px 0;
+  @include section-padding;
 
   ol {
     display: flex;
@@ -1321,7 +1300,7 @@ ul.items {
 }
 
 .homepage-products {
-  padding: 128px 32px;
+  @include section-padding;
   h2 {
     font-size: 44pxc;
     padding: 0;
