@@ -111,7 +111,7 @@ Prize-based games provide incentivised participation that boosts engagement. [Pr
 
 ### Custom Branding Considerations
 
-Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/events/brand-activation/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
+Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/brand-activation/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
 
 Prize integration represents another opportunity. Rather than generic rewards, incorporate your own products, branded merchandise, or vouchers that drive participants toward further engagement.
 
@@ -183,4 +183,4 @@ Games creating energy and drawing crowds work well in exhibition environments. R
 
 Define clear objectives and metrics beforehand. Track leads generated, social media impressions, and direct sales. Gather qualitative feedback through surveys. Compare total costs against outcomes achieved.
 
-At Fun Pro, we've helped brands create [memorable activations](/locations/birmingham/brand-promotional-event-hire/#content) at Birmingham venues including the [NEC](/locations/birmingham/nec/#content), [ICC](/locations/birmingham/game-hire-icc/#content), and locations throughout the city centre. With over 15 years of experience in [corporate entertainment](/about-corporate-entertainment-hire/#content) and a comprehensive range of interactive games available with full custom branding, we provide end-to-end support from consultation through to collection. [Contact](/contact-fun-pro-uk/#content) our team to discuss how we can help make your Birmingham brand activation a success.
+At Fun Pro, we've helped brands create [memorable activations](/locations/birmingham/brand-promotional-event-hire/#content) at Birmingham venues including the [NEC](/locations/birmingham/nec/#content), [ICC](/locations/birmingham/game-hire-icc/#content), and locations throughout the city centre. With over 15 years of experience in [corporate entertainment](/our-story/#content) and a comprehensive range of interactive games available with full custom branding, we provide end-to-end support from consultation through to collection. [Contact](/contact-fun-pro-uk/#content) our team to discuss how we can help make your Birmingham brand activation a success.

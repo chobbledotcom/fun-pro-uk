@@ -27,6 +27,18 @@ const PAGE_CONFIG = {
     layout: "events",
     rename: "events",
   },
+  "branded-game-hire": {
+    rename: "brand-activation",
+  },
+  "christmas-entertainment-game-hire": {
+    rename: "christmas-entertainment",
+  },
+  "about-corporate-entertainment-hire": {
+    rename: "our-story",
+  },
+  "team-building-ideas": {
+    rename: "team-building-activities",
+  },
 };
 
 /**
@@ -45,9 +57,10 @@ const generatePageFrontmatter = (
   pageHeading = null,
   navInfo = null,
 ) => {
+  const { OLD_SLUG_TO_NEW } = require("../constants");
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || "page";
-  const newSlug = pageConfig.rename || slug;
+  const newSlug = pageConfig.rename || OLD_SLUG_TO_NEW[slug] || slug;
 
   // Pages that were already at root level on the old site don't need redirects
   const rootPages = ["contact", "reviews", "delivery-areas", "testimonials"];

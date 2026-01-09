@@ -25,7 +25,7 @@ Your employees deserve to feel valued for all the hard work they do. Here are so
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXegQSIkDw6DtHiBmfi0HID0rjuPSi9RVvayV2pYDtD0E04LNJfdndUpJhsOz5e2tESx8CdNv3SW49ghdpxIoO0-gXVCJkST7w_zWm-rgE23H-F6NKHoqtANiBw48IKci8HX63-u4w?key=3QGxajlrJekofxv54zo3rIjy)
 
-[These activities help employees bond](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and get to know each other outside of work, letting them unwind and have fun together, while also being a way to encourage collaboration and friendly competition. [Team building games](/team-building-ideas/#content) range from simple trivia competitions to scavenger hunts around the office to complicated relays on an inflatable obstacle course run.
+[These activities help employees bond](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and get to know each other outside of work, letting them unwind and have fun together, while also being a way to encourage collaboration and friendly competition. [Team building games](/team-building-activities/#content) range from simple trivia competitions to scavenger hunts around the office to complicated relays on an inflatable obstacle course run.
 
 We have a wide variety of interactive games that would be perfect for Employee Appreciation Day. Our top picks include:
 

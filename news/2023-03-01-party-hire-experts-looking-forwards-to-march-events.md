@@ -13,7 +13,7 @@ gallery:
 
 We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off the month of March.
 
-At Fun Pro UK, we specialise in providing game hire services for a variety of events, such as exhibitions, trade shows, and conferences. With our bespoke [branded game hire](/events/brand-activation/#content) options, we can personalise the games to include branding and enhance brand activation, footfall, engagement, attraction, and sales.
+At Fun Pro UK, we specialise in providing game hire services for a variety of events, such as exhibitions, trade shows, and conferences. With our bespoke [branded game hire](/brand-activation/#content) options, we can personalise the games to include branding and enhance brand activation, footfall, engagement, attraction, and sales.
 
 Our games are a huge success at events, and we've received many compliments on our diverse range of options. Our selection includes [Batak Pro](/products/batak-pro/#content), [Batak Lite](/products/batak-lite/#content), [Crack the Code](/products/crack-the-code-safe-cracker/#content), [Prize Crane/Claw Machine](/products/prize-crane-arcade-grabber/#content), and more. We've also included some photos of these games in action at recent exhibitions for you to see.
 

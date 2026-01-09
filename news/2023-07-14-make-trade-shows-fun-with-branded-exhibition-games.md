@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2023-07-14/make-trade-shows-fun-with-branded-exhibition-games/"
 ---
 
-Trade shows are a dynamic platform for businesses to connect with potential clients, showcase their products and services, and try to stick in people's minds. In this competitive landscape, standing out at bustling trade shows is key to drawing crowds and capturing attention. At Fun Pro UK, we're here to help you find success at trade shows with our range of [branded games](/events/brand-activation/#content).  
+Trade shows are a dynamic platform for businesses to connect with potential clients, showcase their products and services, and try to stick in people's minds. In this competitive landscape, standing out at bustling trade shows is key to drawing crowds and capturing attention. At Fun Pro UK, we're here to help you find success at trade shows with our range of [branded games](/brand-activation/#content).  
   
 These [exhibition games](/categories/exhibition-games/#content) offer a powerful solution to increase footfall, engage your target audience, and amplify brand recognition. Check out some popular options below!
 

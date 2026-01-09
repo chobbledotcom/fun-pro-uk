@@ -90,7 +90,7 @@ When you hire Christmas games from Fun Pro UK, you receive:
 
 ## Branding Options & Pricing
 
-Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
 
 Christmas Branding Options:
 

@@ -53,7 +53,7 @@ faqs:
   - question: "Is a trained staff member provided to serve popcorn during the event?"
     answer: "Yes! A professional and friendly team member will manage the popcorn cart for up to 4 hours. They handle the cart and serve guests, so you can focus on enjoying the event."
   - question: "Can the popcorn cart be branded with my company's logo or event theme?"
-    answer: "Absolutely! We offer [bespoke branding options](/events/brand-activation/#content) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees."
+    answer: "Absolutely! We offer [bespoke branding options](/brand-activation/#content) to personalise the popcorn cart for your event. We can customise the exterior of the cart with your company's logo or event slogan to align with your theme or brand identity. This is a great way to enhance visibility, create a cohesive look, and leave a lasting impression on attendees."
   - question: "How long can the popcorn cart be hired for?"
     answer: "The standard hire period is up to 4 hours, but we understand that some events may require more time. If you need the cart for a longer duration, we can arrange an extended hire period to fit your schedule. Simply let us know your requirements, and we'll work with you to make sure the popcorn keeps flowing throughout your event."
 tabs:
@@ -121,7 +121,7 @@ tabs:
       
       Fun Pro UK is the trusted provider of [high quality game hires](/#content) for any event. Choosing our popcorn machine cart hire means choosing reliability, quality, and a fun filled experience for your guests. We are proud to deliver exceptional service that effortlessly integrates into your event.
       
-      Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/team-building-ideas/#content) and [summer fairs](/events/summer-entertainment/#content) to [weddings](/wedding-entertainment/#content) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
+      Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/team-building-activities/#content) and [summer fairs](/summer-entertainment/#content) to [weddings](/wedding-entertainment/#content) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
       
       Let us help make your event unforgettable with a popcorn machine cart that delights your guests and creates an unforgettable atmosphere.
       

@@ -57,7 +57,7 @@ tabs:
       
       **Looking to bring a touch of classic fairground fun to your next corporate event?** Our **Hook A Duck** game hire is the perfect way to engage and entertain guests while adding a nostalgic vibe to any occasion.
       
-      A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/categories/fun-fair-stalls/#content), fairs [staff parties](/events/summer-entertainment/#content), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
+      A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/categories/fun-fair-stalls/#content), fairs [staff parties](/summer-entertainment/#content), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
       
       ## Hire a Hook A Duck Stall for Your Next Event
       

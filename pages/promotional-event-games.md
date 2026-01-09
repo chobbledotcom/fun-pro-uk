@@ -4,17 +4,13 @@ meta_description: "Boost brand visibility with promotional game hire for corpora
 layout: page
 redirect_from:
   - "/pages/promotional-event-games/"
-eleventyNavigation:
-  key: "Brand Activation Game Hire For Corporate Events"
-  parent: "How We Help"
-  order: 2
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire
 
 Corporate events have a bit of a reputation as being a bit stiff or boring, but we believe that all events can be fun for everyone. With our extensive range of interactive and branded games to hire, we make sure that all promotional events will be talked about for all the right reasons.
 
-Our [branded game hire](/events/brand-activation/#content) service allows you to fully customise your chosen games with your brand logo or even the event logo. So whether you’re looking to boost brand awareness or create buzz around your event, we’re here to help you do just that, while helping you ensure that everyone has fun along the way.  
+Our [branded game hire](/brand-activation/#content) service allows you to fully customise your chosen games with your brand logo or even the event logo. So whether you’re looking to boost brand awareness or create buzz around your event, we’re here to help you do just that, while helping you ensure that everyone has fun along the way.  
   
 We deliver all over the UK, so simply pick the games and we’ll take care of the rest.
 

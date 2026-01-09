@@ -4,10 +4,11 @@ meta_description: "Hire our team building activities and equipment for your corp
 layout: page
 redirect_from:
   - "/pages/team-building-ideas/"
+  - "/team-building-ideas/"
 eleventyNavigation:
   key: "Team Building Activities"
   parent: "How We Help"
-  order: 4
+  order: 3
 ---
 
 # Team Building Ideas and Equipment Hire
@@ -46,4 +47,4 @@ Build anticipation for your team building day through effective internal communi
 
 Ready to plan a transformative team building event? [Contact us](/contact-fun-pro-uk/#content) at Fun Pro UK to explore our comprehensive range of games and equipment for hire. Let us help you create a fun-filled day that not only entertains but also unites your team, paving the way for enhanced productivity and a harmonious workplace.
 
-/
+/[](/team-building-activities/#content)

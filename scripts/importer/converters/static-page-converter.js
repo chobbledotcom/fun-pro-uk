@@ -42,7 +42,8 @@ permalink: "/blog/"
 layout: news-archive.html
 eleventyNavigation:
   key: News
-  order: 5
+  parent: "About Us"
+  order: 6
 ---
 
 # News & Updates

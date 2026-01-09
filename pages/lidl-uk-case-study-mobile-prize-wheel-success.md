@@ -72,7 +72,7 @@ As told to Fun Pro by the Store Operations Team at Lidl UK.
 
 "When we discovered Fun Pro's mobile prize wheel solution, we immediately saw the potential. The key differentiator was the mobility aspect. Unlike fixed installations, this prize wheel could be positioned wherever it would work most effectively in each store.
 
-"The [custom branding](/events/brand-activation/#content) capability meant we could adapt the wheel for different promotional campaigns. We've used it for bakery promotions, fruit campaigns, and wine selections. Each time, Fun Pro creates bespoke branding that perfectly matches our promotional materials and store environment.
+"The [custom branding](/brand-activation/#content) capability meant we could adapt the wheel for different promotional campaigns. We've used it for bakery promotions, fruit campaigns, and wine selections. Each time, Fun Pro creates bespoke branding that perfectly matches our promotional materials and store environment.
 
 "The setup process is refreshingly straightforward. Fun Pro handles everything from [delivery](/delivery-areas/#content) through to collection, which takes a significant administrative burden off our store teams. They understand retail environments and work efficiently to minimise disruption whilst maximising impact.
 
@@ -100,7 +100,7 @@ Plans are already underway for future campaigns utilising the mobile prize wheel
 
 ## The FunPro Team
 
-The success of the Lidl UK partnership reflects Fun Pro's commitment to understanding retail environments and delivering solutions that work in practice, not just in theory. Our corporate events team brought together specialists in [branded game hire](/events/brand-activation/#content), retail promotions, and customer engagement to create a solution tailored specifically to Lidl UK's requirements.
+The success of the Lidl UK partnership reflects Fun Pro's commitment to understanding retail environments and delivering solutions that work in practice, not just in theory. Our corporate events team brought together specialists in [branded game hire](/brand-activation/#content), retail promotions, and customer engagement to create a solution tailored specifically to Lidl UK's requirements.
 
 Our design team worked closely with Lidl UK's marketing department to ensure the custom branding perfectly aligned with each promotional campaign, maintaining brand consistency whilst creating visual impact. The logistics team developed [efficient delivery](/delivery-areas/#content) and collection processes that minimise disruption to store operations whilst ensuring everything runs smoothly.
 

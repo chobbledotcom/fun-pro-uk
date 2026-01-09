@@ -7,7 +7,7 @@ redirect_from:
   - "/category/batak/"
 eleventyNavigation:
   key: "Batak"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 5
 faqs:
   - question: "How much space is needed for Batak setup?"
@@ -36,7 +36,7 @@ Batak is a fast-paced reaction game that keeps players on their toes. It works b
 
 At Fun Pro, people use our Batak game hire for:
 
-*   [Corporate events](/categories/corporate-entertainment/#content) and [team-building](/team-building-ideas/#content) activities
+*   [Corporate events](/categories/corporate-entertainment/#content) and [team-building](/team-building-activities/#content) activities
     
 *   Trade shows and [exhibitions](/categories/exhibition-games/#content)
     

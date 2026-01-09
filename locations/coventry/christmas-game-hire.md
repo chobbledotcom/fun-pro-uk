@@ -8,7 +8,7 @@ redirect_from:
 
 # Christmas Game Hire – Coventry's Premier Festive Entertainment Specialists
 
-Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional [Christmas game hire](/events/christmas-entertainment/#content) services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
+Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional [Christmas game hire](/christmas-entertainment/#content) services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
 
 ## Nationwide Christmas Game Hire & Locations
 
@@ -60,7 +60,7 @@ When you choose [Christmas games](/categories/christmas-games/#content) from Fun
     
 *   Expert installation and setup by certified technicians if required
     
-*   Bespoke Christmas [branding options](/events/brand-activation/#content) to showcase your corporate identity
+*   Bespoke Christmas [branding options](/brand-activation/#content) to showcase your corporate identity
     
 *   Event day support available if needed
     

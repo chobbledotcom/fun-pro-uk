@@ -7,7 +7,7 @@ redirect_from:
   - "/category/christmas-games/"
 eleventyNavigation:
   key: "Christmas Games"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 12
 ---
 

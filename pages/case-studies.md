@@ -7,7 +7,7 @@ redirect_from:
 eleventyNavigation:
   key: "Case Studies"
   parent: "About Us"
-  order: 10
+  order: 5
 ---
 
 # **Case Studies**

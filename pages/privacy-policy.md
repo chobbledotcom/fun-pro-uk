@@ -4,10 +4,6 @@ meta_description: "Privacy Policy – Exhibition And Game Hire Services - Fun Pr
 layout: page
 redirect_from:
   - "/pages/privacy-policy/"
-eleventyNavigation:
-  key: "Privacy Policy"
-  parent: "About Us"
-  order: 5
 ---
 
 # Privacy Policy

@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/userfiles/fun-pro-custom-branded-game-hire.jpg)
 
-Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/events/brand-activation/#content) at CBS Arena, Coventry.
+Learn how luxury personal care brand Baylis & Harding drew crowds and showcased their Christmas collection at a major suppliers conference by utilising Fun Pro's [custom-branded game hire](/brand-activation/#content) at CBS Arena, Coventry.
 
 ## Client Testimonial
 

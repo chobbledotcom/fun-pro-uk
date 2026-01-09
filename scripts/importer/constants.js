@@ -59,7 +59,7 @@ const EVENT_HIERARCHY = [
       { slug: 'office-entertainment', title: 'Office Entertainment', oldSiteSlug: 'office-entertainment', sourceType: 'pages', order: 3 },
       { slug: 'staff-wellbeing-days', title: 'Corporate Wellbeing Days', oldSiteSlug: 'staff-wellbeing-days', sourceType: 'category', order: 4 },
       { slug: 'conference-idea', title: 'Conference Production', oldSiteSlug: 'conference-idea', sourceType: 'pages', order: 5 },
-      { slug: 'brand-activation', title: 'Brand Activation', oldSiteSlug: 'branded-game-hire', sourceType: 'pages', order: 6 },
+      { slug: 'brand-activation-events', title: 'Brand Activation', oldSiteSlug: 'brand-activation-games-manchester', sourceType: 'pages', order: 6 },
     ]
   },
   {
@@ -69,10 +69,10 @@ const EVENT_HIERARCHY = [
     sourceType: 'pages',
     order: 2,
     children: [
-      { slug: 'luxury-wedding-entertainment', title: 'Luxury Wedding Entertainment', oldSiteSlug: 'luxury-wedding-entertainment', sourceType: 'pages', order: 1 },
-      { slug: 'summer-entertainment', title: 'Summer Entertainment', oldSiteSlug: 'summer-entertainment', sourceType: 'pages', order: 2 },
-      { slug: 'evening-entertainment', title: 'Evening Entertainment', oldSiteSlug: 'evening-entertainment', sourceType: 'pages', order: 3 },
-      { slug: 'christmas-entertainment', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-entertainment-game-hire', sourceType: 'pages', order: 4 },
+      { slug: 'luxury-wedding-entertainment-events', title: 'Luxury Wedding Entertainment', oldSiteSlug: 'hire-outdoor-games-for-weddings', sourceType: 'pages', order: 1 },
+      { slug: 'summer-entertainment-events', title: 'Summer Entertainment', oldSiteSlug: null, sourceType: null, order: 2 },
+      { slug: 'evening-entertainment-events', title: 'Evening Entertainment', oldSiteSlug: 'evening-entertainment', sourceType: 'pages', order: 3 },
+      { slug: 'christmas-entertainment-events', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-game-hire-london', sourceType: 'pages', order: 4 },
     ]
   },
   {
@@ -200,6 +200,75 @@ const stripTownFromSlug = (slug, town) => {
     .replace(/-+$/, '');        // trailing dashes
   
   return cleaned;
+};
+
+/**
+ * New navigation structure for the site
+ * This replaces the extracted navigation from old site HTML
+ */
+const NAVIGATION_STRUCTURE = {
+  // Top-level navigation items
+  topLevel: [
+    { key: "Home", order: 1, isDropdown: false },
+    { key: "How We Help", order: 2, isDropdown: true },
+    { key: "Event Type", order: 3, isDropdown: true },
+    { key: "Entertainment Hire", order: 4, isDropdown: true },
+    { key: "About Us", order: 5, isDropdown: true },
+  ],
+
+  // Dropdown children
+  dropdowns: {
+    "How We Help": [
+      { slug: "corporate-entertainment", text: "Corporate Entertainment", order: 1, type: "category" },
+      { slug: "luxury-wedding-entertainment", text: "Luxury Wedding Entertainment", order: 2, type: "page" },
+      { slug: "team-building-activities", text: "Team Building Activities", order: 3, type: "page" },
+      { slug: "event-management", text: "Event Management", order: 4, type: "page" },
+      { slug: "brand-activation", text: "Brand Activation", order: 5, type: "page" },
+      { slug: "christmas-entertainment", text: "Christmas Entertainment", order: 6, type: "page" },
+    ],
+
+    "Event Type": [
+      // Parent events
+      { slug: "corporate-events", text: "Corporate Events", order: 1, type: "event" },
+      { slug: "celebrations-and-parties", text: "Celebrations & Parties", order: 2, type: "event" },
+      { slug: "educational-and-community", text: "Educational & Community", order: 3, type: "event" },
+    ],
+
+    "Entertainment Hire": [
+      { slug: "arcade-games", text: "Arcade Games", order: 1, type: "category" },
+      { slug: "prize-games", text: "Prize Games", order: 2, type: "category" },
+      { slug: "pub-games", text: "Pub Games", order: 3, type: "category" },
+      { slug: "grab-a-grand", text: "Grab A Grand", order: 4, type: "category" },
+      { slug: "batak", text: "Batak", order: 5, type: "category" },
+      { slug: "roll-and-bowl", text: "Roll & Bowl", order: 6, type: "category" },
+      { slug: "fun-fair-stalls", text: "Fun Fair Stalls", order: 7, type: "category" },
+      { slug: "fun-foods", text: "Fun Foods", order: 8, type: "category" },
+      { slug: "christmas-grotto-hire", text: "Christmas Grotto Hire", order: 9, type: "category" },
+      { slug: "circus-skills-workshop", text: "Circus Skills Workshop", order: 10, type: "category" },
+      { slug: "photo-booths-and-magic-mirrors", text: "Photo Booths & Magic Mirrors", order: 11, type: "category" },
+      { slug: "christmas-games", text: "Christmas Games", order: 12, type: "category" },
+    ],
+
+    "About Us": [
+      { slug: "our-story", text: "Our Story", order: 1, type: "page" },
+      { slug: "meet-the-team", text: "Meet the Team", order: 2, type: "page" },
+      { slug: "delivery-areas", text: "Coverage Areas", order: 3, type: "page" },
+      { slug: "safety-and-insurance", text: "Safety & Insurance", order: 4, type: "page" },
+      { slug: "case-studies", text: "Case Studies", order: 5, type: "page" },
+      { slug: "blog", text: "News", order: 6, type: "page" },
+    ],
+  }
+};
+
+/**
+ * Mapping for old site slugs to new navigation items
+ * Handles cases where the slug on old site differs from the new slug
+ */
+const OLD_SLUG_TO_NEW = {
+  "branded-game-hire": "brand-activation",
+  "christmas-entertainment-game-hire": "christmas-entertainment",
+  "about-corporate-entertainment-hire": "our-story",
+  "team-building-ideas": "team-building-activities",
 };
 
 /**
@@ -345,6 +414,8 @@ module.exports = {
   EVENT_CATEGORIES,
   EVENT_PAGES,
   EVENT_HIERARCHY,
+  NAVIGATION_STRUCTURE,
+  OLD_SLUG_TO_NEW,
   isLocationPage,
   extractTownFromSlug,
   stripTownFromSlug,

@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/userfiles/zoflora-interactive-games.jpg)
 
-Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/#content) speed reaction game. The [branded](/events/brand-activation/#content) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
+Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/#content) speed reaction game. The [branded](/brand-activation/#content) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
 
 ## Client Testimonial
 
@@ -46,7 +46,7 @@ The Home Bargains Conference represents a crucial event in Zoflora's annual cale
 
 However, Zoflora faced a common challenge at trade [conferences](/events/conference-idea/#content): how to attract and engage busy retail buyers who are approached by numerous suppliers throughout the day. Traditional exhibition stands with static displays often fail to capture attention in crowded conference halls filled with competing brands. Zoflora needed an [interactive solution](/categories/interactive-game-hire/#content) that would draw buyers to their stand, create genuine engagement opportunities, and reinforce their brand identity in a way that felt natural and enjoyable rather than forced or overly commercial.
 
-After their initial enquiry about interactive games, including consideration of both [Batak](/categories/batak/#content) and [Whack a Mole](/products/whack-a-mole-game-hire/#content) options, Zoflora recognised that FunPro's expertise in [branded game hire](/events/brand-activation/#content) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
+After their initial enquiry about interactive games, including consideration of both [Batak](/categories/batak/#content) and [Whack a Mole](/products/whack-a-mole-game-hire/#content) options, Zoflora recognised that FunPro's expertise in [branded game hire](/brand-activation/#content) could provide the solution they needed. The company's decision to work with FunPro again for their 2024 event, and to immediately book for September 2025, demonstrates the value they found in this partnership. What particularly appealed to Zoflora was FunPro's ability to fully customise the gaming experience, ensuring that every element of the interactive entertainment reflected their brand identity whilst providing genuine entertainment value for conference attendees.
 
 ## Creating a Fully Branded Interactive Experience
 

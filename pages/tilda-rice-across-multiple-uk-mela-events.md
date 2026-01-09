@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/userfiles/fun-pro-tilda-rice.jpg)
 
-Learn how Tilda Rice, the UK's leading rice and grain specialist, transformed their community event presence by utilising FunPro's bespoke [branded game hire](/events/brand-activation/#content), creating irresistible crowd engagement that had festival-goers queuing all day long at Mela celebrations across Glasgow, Cardiff, Leicester, and London.
+Learn how Tilda Rice, the UK's leading rice and grain specialist, transformed their community event presence by utilising FunPro's bespoke [branded game hire](/brand-activation/#content), creating irresistible crowd engagement that had festival-goers queuing all day long at Mela celebrations across Glasgow, Cardiff, Leicester, and London.
 
 ## Customer Profile
 
@@ -48,7 +48,7 @@ The Mela circuit represents some of the most vibrant and well-attended cultural 
 
 The outdoor nature of these events created additional complexity. Most Mela celebrations take place in parks or open spaces, with vendors operating under marquees that need to accommodate unpredictable British weather. "The ground conditions are rarely ideal," noted the events team. "We needed entertainment that could work effectively on uneven surfaces whilst maintaining safety standards for families with children of all ages."
 
-Tilda's previous experience with FunPro UK several years earlier had left a positive impression, particularly regarding their ability to handle logistical challenges whilst maintaining high standards of presentation. When the company decided to increase their community event presence, they contacted FunPro UK directly to discuss options for creating [branded entertainment](/events/brand-activation/#content) that would work across multiple locations.
+Tilda's previous experience with FunPro UK several years earlier had left a positive impression, particularly regarding their ability to handle logistical challenges whilst maintaining high standards of presentation. When the company decided to increase their community event presence, they contacted FunPro UK directly to discuss options for creating [branded entertainment](/brand-activation/#content) that would work across multiple locations.
 
 The initial enquiry focused on the [Roll and Bowl](/products/roll-and-bowl-game-hire/#content) game, which had proven popular in their previous collaboration. However, this time Tilda wanted to take the branding much further. "We didn't just want our logo on the game," the marketing team explained. "We wanted the entire experience to feel authentically Tilda whilst being genuinely entertaining for festival-goers."
 

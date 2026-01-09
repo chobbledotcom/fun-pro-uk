@@ -1,9 +1,15 @@
 ---
-meta_title: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK"
+title: "Luxury Wedding Entertainment"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+meta_title: "Luxury Wedding Entertainment"
 meta_description: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
-layout: page
+featured: true
 redirect_from:
   - "/pages/hire-outdoor-games-for-weddings/"
+eleventyNavigation:
+  key: "Luxury Wedding Entertainment"
+  parent: "Celebrations & Parties"
+  order: 1
 ---
 
 # **Wedding Entertainment for Guests**

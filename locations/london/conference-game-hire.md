@@ -49,7 +49,7 @@ Check out more of our interactive games from the catalogue.
 
 ### Company Fun Day Ideas in London
 
-[Corporate fun days](/team-building-ideas/#content) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
+[Corporate fun days](/team-building-activities/#content) are a great way to give your employees a day of enjoyment and entertainment. Take a break from the daily hustle and put together a day that's full of activities, food, entertainment, and fun games.
 
 Fun Pro will help you plan your day and decide on the types of games to hire based on what your employees need.
 

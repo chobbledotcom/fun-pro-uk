@@ -7,7 +7,7 @@ redirect_from:
 eleventyNavigation:
   key: "Event Management"
   parent: "How We Help"
-  order: 3
+  order: 4
 ---
 
 # Event Management

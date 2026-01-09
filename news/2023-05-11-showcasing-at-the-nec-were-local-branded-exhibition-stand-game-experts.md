@@ -13,7 +13,7 @@ Are you ready to take your exhibition presence to the next level? Based in Birmi
 
 As a local company for [NEC event hire](/nec-event-hire/#content), we've had the pleasure of working with countless professionals just like you. We understand the importance of making a lasting impression on your audience, and that's why we've curated an exceptional collection of [exhibition games](/categories/exhibition-games/#content) that are sure to turn heads and draw crowds.
 
-Brace yourself for an immersive and entertaining experience as we introduce you to some of our star attractions for [branded game hire](/events/brand-activation/#content):
+Brace yourself for an immersive and entertaining experience as we introduce you to some of our star attractions for [branded game hire](/brand-activation/#content):
 
 ## Branded Wheel of Fortune
 

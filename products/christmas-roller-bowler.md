@@ -112,7 +112,7 @@ tabs:
       
       ## Why Choose Roller Bowler for Your Next Event?
       
-      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
+      At [Fun Pro UK](/our-story/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
       
       *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
           
@@ -120,7 +120,7 @@ tabs:
           
       *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
           
-      *   Fully Brandable: [Custom graphics](/events/brand-activation/#content) and panels available to match your corporate colours and messaging
+      *   Fully Brandable: [Custom graphics](/brand-activation/#content) and panels available to match your corporate colours and messaging
           
       *   No Power Required: Completely mechanical game means no electrical setup or running costs
           
@@ -154,7 +154,7 @@ tabs:
           
       *   Professional installation and setup by trained technicians if requested
           
-      *   [Custom branding](/events/brand-activation/#content) options available
+      *   [Custom branding](/brand-activation/#content) options available
           
       *   Full operational support throughout your event if needed
           

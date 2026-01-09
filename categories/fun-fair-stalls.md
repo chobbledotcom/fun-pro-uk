@@ -7,7 +7,7 @@ redirect_from:
   - "/category/fun-fair-stalls/"
 eleventyNavigation:
   key: "Fun Fair Stalls"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 7
 faqs:
   - question: "How can I make sure the food stalls are suitable for my event?"
@@ -40,7 +40,7 @@ Guests can take part in games with prizes or enjoy a variety of tasty snacks ser
 
 Remember those fairground games you enjoyed as a child? Now you can recreate that fun at your next event with Fun Pro UK's fair stalls. We take care of setting everything up, making it easy to include them in any type of event. They are perfect for:
 
-*   [Summer Fun Day](/events/summer-entertainment/#content)
+*   [Summer Fun Day](/summer-entertainment/#content)
     
 *   Staff Summer Party
     

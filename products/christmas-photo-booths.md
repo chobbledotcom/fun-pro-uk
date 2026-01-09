@@ -155,7 +155,7 @@ tabs:
       
       Why Choose Our Christmas Photo Booth Hire Service?
       
-      Fun Pro is the leading provider of high-quality [Christmas entertainment for hire in the UK](/events/christmas-entertainment/#content). Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
+      Fun Pro is the leading provider of high-quality [Christmas entertainment for hire in the UK](/christmas-entertainment/#content). Our Christmas photo booth hire brings a dash of holiday magic and a whole lot of fun. It's the ultimate addition to your seasonal celebrations.
       
       Our [photo booths](/categories/photo-booths-and-magic-mirrors/#content) provide high resolution prints in seconds. Aside from capturing every festive detail, guests can also instantly share their photos on social media. Spread the holiday cheer and show off the fun event you're hosting at the same time.
       

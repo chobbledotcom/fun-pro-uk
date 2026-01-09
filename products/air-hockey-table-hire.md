@@ -124,11 +124,11 @@ tabs:
         
       [Conferences and trade shows](/events/conference-idea/#content)  
       [Product launch parties](/promotional-event-games/#content)  
-      [Company wide retreats](/team-building-ideas/#content)  
+      [Company wide retreats](/team-building-activities/#content)  
       [Awards ceremonies](/events/company-award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
-      [Christmas events](/events/christmas-entertainment/#content)  
+      [Christmas events](/christmas-entertainment/#content)  
         
       …and more!  
       

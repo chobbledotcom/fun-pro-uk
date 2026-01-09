@@ -4,10 +4,6 @@ meta_description: "Read the answers to some of the most common questions posed b
 layout: page
 redirect_from:
   - "/pages/frequently-asked-questions/"
-eleventyNavigation:
-  key: "FAQs"
-  parent: "About Us"
-  order: 8
 ---
 
 # Frequently Asked Questions ...and the handy answers!

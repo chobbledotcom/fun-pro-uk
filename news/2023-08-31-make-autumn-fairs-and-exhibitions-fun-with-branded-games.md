@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2023-08-31/make-autumn-fairs-and-exhibitions-fun-with-branded-games/"
 ---
 
-Autumn is a season of change, bringing not just the vibrant colours of falling leaves but also a bustling schedule of exhibitions and trade shows. As you gear up for the autumn exhibition season, we're excited to share how our range of [branded games for hire](/events/brand-activation/#content) can transform your stand into a captivating and engaging space that draws footfall and leaves a mark on all attendees.
+Autumn is a season of change, bringing not just the vibrant colours of falling leaves but also a bustling schedule of exhibitions and trade shows. As you gear up for the autumn exhibition season, we're excited to share how our range of [branded games for hire](/brand-activation/#content) can transform your stand into a captivating and engaging space that draws footfall and leaves a mark on all attendees.
 
 In the competitive landscape of exhibitions, it's essential to go beyond the ordinary to attract attention and create a buzz around your stand. This is where Fun Pro UK's branded [exhibition stand games](/categories/exhibition-games/#content) come into play. Our trade show games immerse visitors in your brand and message, creating a lasting impact and giving you plenty of opportunities to sell services or network with prospects.
 
