@@ -4,6 +4,9 @@ meta_description: "How We Help - Fun Pro UK provide the best Exhibition and Game
 layout: page
 redirect_from:
   - "/pages/how-we-help/"
+eleventyNavigation:
+  key: "How We Help"
+  order: 2
 ---
 
 # How We Help
