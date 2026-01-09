@@ -211,7 +211,7 @@ article#content,
       [full-width-end];
   }
 
-  & > section {
+  & > section:not(.brands) {
     @include section-padding;
   }
 
