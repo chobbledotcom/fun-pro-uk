@@ -211,8 +211,12 @@ article#content,
       [full-width-end];
   }
 
-  & > section:not(.brands) {
+  & > section {
     @include section-padding;
+
+    &.brands {
+      padding: 64px 0;
+    }
   }
 
   & > *:not(.breakout, .full-width) {
