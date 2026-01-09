@@ -1103,7 +1103,7 @@ body.reviews {
   border-top: 4px solid #ee3324;
   background: #fafafa;
   .row {
-    .image-wrapper {
+    img {
       display: none;
     }
     .right {
@@ -1132,7 +1132,7 @@ body.reviews {
       .right {
         width: 50%;
       }
-      .image-wrapper {
+      img {
         display: block;
         width: 50%;
       }
