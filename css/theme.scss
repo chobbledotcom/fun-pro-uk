@@ -625,7 +625,7 @@ body.horizontal-nav main {
     @include breakpoints.up("lg") {
       & > ul {
         justify-content: flex-start !important;
-        & > li:nth-child(3):hover {
+        & > li:has(a[href="/events/"]):hover {
           & > a {
             font-weight: 500;
           }
