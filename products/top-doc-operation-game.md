@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"
 meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories: ["categories/arcade-games.md"]
+categories: ["categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:

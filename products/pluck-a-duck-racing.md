@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"
 meta_description: "Hire Our Pluck A Duck Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md"]
+categories: ["categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:

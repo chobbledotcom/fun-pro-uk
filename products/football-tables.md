@@ -5,7 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"
 meta_description: "Table Football For Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/corporate-entertainment.md"]
+categories: ["categories/corporate-entertainment.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:

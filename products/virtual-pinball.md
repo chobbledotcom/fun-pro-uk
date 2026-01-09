@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/exhibition-games.md"]
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:

@@ -5,7 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
-categories: ["categories/fun-foods.md"]
+categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:

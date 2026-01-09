@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Electronic Dart Board Hire UK | Corporate Events | Fun Pro"
 meta_description: "Professional electronic dart boards with automatic scoring for corporate events, exhibitions and team building days. Soft tip, venue-safe, nationwide delivery."
-categories: ["categories/arcade-games.md"]
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:

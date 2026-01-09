@@ -5,7 +5,7 @@ price: "£895"
 order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
-categories: ["categories/christmas-games.md"]
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md", "categories/roll-and-bowl.md"]
 events: []
 featured: true
 features:
