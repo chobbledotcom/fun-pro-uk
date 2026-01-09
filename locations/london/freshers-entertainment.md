@@ -98,7 +98,7 @@ London's extensive nightlife means many students will participate in evening soc
 
 Social media documentation plays a significant role in modern freshers week experiences. Students want to share their university journey with family and friends, particularly international students whose families may be thousands of miles away.
 
-Our photo booth systems and interactive games create natural opportunities for memorable photos. We can provide London-themed backdrops or university-specific [branding](/brand-activation/#content) that helps students create shareable content whilst promoting your institution.
+Our photo booth systems and interactive games create natural opportunities for memorable photos. We can provide London-themed backdrops or university-specific [branding](/events/brand-activation/#content) that helps students create shareable content whilst promoting your institution.
 
 Interactive games naturally generate celebratory moments – successful virtual reality experiences, competitive racing simulator results, or collaborative team challenges. These authentic reactions create the kind of candid photos that effectively capture the excitement of starting university life.
 

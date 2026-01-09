@@ -40,7 +40,7 @@ Guests can take part in games with prizes or enjoy a variety of tasty snacks ser
 
 Remember those fairground games you enjoyed as a child? Now you can recreate that fun at your next event with Fun Pro UK's fair stalls. We take care of setting everything up, making it easy to include them in any type of event. They are perfect for:
 
-*   [Summer Fun Day](/summer-entertainment/#content)
+*   [Summer Fun Day](/events/summer-entertainment/#content)
     
 *   Staff Summer Party
     

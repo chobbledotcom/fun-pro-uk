@@ -8,7 +8,7 @@ redirect_from:
 
 # Christmas Game Hire – London's Leading Festive Entertainment Providers
 
-Transform your London Christmas celebrations into extraordinary experiences with Fun Pro UK's [Christmas game hire](/christmas-entertainment/#content) services. From exclusive corporate [Christmas parties](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) to expansive seasonal exhibitions, our festive interactive entertainment creates unforgettable moments that captivate attendees and build lasting connections during the most wonderful time of the year.
+Transform your London Christmas celebrations into extraordinary experiences with Fun Pro UK's [Christmas game hire](/events/christmas-entertainment/#content) services. From exclusive corporate [Christmas parties](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) to expansive seasonal exhibitions, our festive interactive entertainment creates unforgettable moments that captivate attendees and build lasting connections during the most wonderful time of the year.
 
 ## Comprehensive Christmas Game Hire & Coverage Areas
 
@@ -58,7 +58,7 @@ When you select Christmas games from Fun Pro UK, your comprehensive package feat
     
 *   Professional installation and configuration by qualified technicians when required
     
-*   Custom Christmas [branding solutions](/brand-activation/#content) to highlight your corporate brand
+*   Custom Christmas [branding solutions](/events/brand-activation/#content) to highlight your corporate brand
     
 *   On-site event support is available when needed
     
@@ -118,7 +118,7 @@ Join our growing community of satisfied London clients who rely on our expertise
 
 ## Book Christmas Games for Your London Event
 
-Ready to create exceptional Christmas memories in London? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today to check availability, explore your requirements, and receive a quote for [Christmas game hire](/christmas-entertainment/#content).
+Ready to create exceptional Christmas memories in London? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today to check availability, explore your requirements, and receive a quote for [Christmas game hire](/events/christmas-entertainment/#content).
 
 Transform your Christmas event into a captivating, unforgettable celebration that attendees will remember long into the new year.
 

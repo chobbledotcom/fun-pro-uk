@@ -27,14 +27,6 @@ const PAGE_CONFIG = {
     layout: "events",
     rename: "events",
   },
-  "branded-game-hire": {
-    rename: "brand-activation",
-    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
-  },
-  "christmas-entertainment-game-hire": {
-    rename: "christmas-entertainment",
-    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
-  },
   "about-corporate-entertainment-hire": {
     rename: "our-story",
   },
@@ -42,13 +34,7 @@ const PAGE_CONFIG = {
     rename: "team-building-activities",
     subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
-  "luxury-wedding-entertainment": {
-    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
-  },
   "event-management": {
-    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
-  },
-  "summer-entertainment": {
     subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
 };

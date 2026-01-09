@@ -127,7 +127,7 @@ tabs:
       
       ## **Why Choose Our Strike a Snow Flake Game Hire Service?**
       
-      Fun Pro UK is the leading provider of [Christmas party games for hire](/christmas-entertainment/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
+      Fun Pro UK is the leading provider of [Christmas party games for hire](/events/christmas-entertainment/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
       
       Wherever your Christmas party is located, [Fun Pro](/#content) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
       

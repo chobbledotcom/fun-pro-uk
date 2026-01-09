@@ -15,7 +15,7 @@ gallery:
 
 Planning your company Christmas party can feel overwhelming, especially when it comes to selecting the right entertainment. With so many options available, how do you choose activities that will engage everyone from the newest intern to the managing director? The key is understanding your team, your venue, and your objectives to create a celebration that brings people together.
 
-[Christmas game hire](/christmas-entertainment/#content) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/categories/christmas-games/#content) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
+[Christmas game hire](/events/christmas-entertainment/#content) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/categories/christmas-games/#content) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
 
 ## The Role of Entertainment in Corporate Christmas Celebrations
 
@@ -27,7 +27,7 @@ The right entertainment also ensures your party has energy and momentum from sta
 
 ## Assessing Your Company's Entertainment Needs
 
-Before selecting any [Christmas entertainment](/christmas-entertainment/#content), take time to consider who'll be attending your party. A tech startup with predominantly young employees will have different preferences compared to a traditional firm with a broad age range and diverse backgrounds.
+Before selecting any [Christmas entertainment](/events/christmas-entertainment/#content), take time to consider who'll be attending your party. A tech startup with predominantly young employees will have different preferences compared to a traditional firm with a broad age range and diverse backgrounds.
 
 Think about your company culture. Is your workplace formal and traditional, or relaxed and innovative? Are your employees naturally outgoing, or do they tend to be more reserved? These characteristics should influence your entertainment choices significantly.
 
@@ -111,7 +111,7 @@ Consider the social dynamics of your workplace. If certain departments or senior
 
 Modern Christmas parties often extend beyond the event itself through social media sharing. Position entertainment in visually appealing settings and ensure good lighting for photos and videos.
 
-Consider providing props, [branded games](/brand-activation/#content) and backdrops, or themed decorations that encourage people to take pictures. These visual elements can enhance your company's social media presence whilst creating lasting memories for employees.
+Consider providing props, [branded games](/events/brand-activation/#content) and backdrops, or themed decorations that encourage people to take pictures. These visual elements can enhance your company's social media presence whilst creating lasting memories for employees.
 
 Encourage sharing with company hashtags, but keep it optional. Not everyone wants their party photos on social media, so respect personal preferences whilst providing opportunities for those who enjoy sharing their experiences.
 
@@ -127,7 +127,7 @@ Have backup entertainment ready in case popular activities become too busy or if
 
 ### Timing Your Booking
 
-[Christmas entertainment](/christmas-entertainment/#content) gets booked quickly, especially for popular December dates. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
+[Christmas entertainment](/events/christmas-entertainment/#content) gets booked quickly, especially for popular December dates. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
 
 Weekend dates in December are particularly popular, so book these well in advance. Consider whether mid-week celebrations might offer better availability and pricing whilst still providing excellent entertainment value.
 
@@ -141,7 +141,7 @@ Understand exactly what's included in your hire package. Professional services s
 
 At Fun Pro UK, we provide [nationwide delivery](/delivery-areas/#content) coverage including London, Manchester, Birmingham, and across the UK. Our experienced team handles everything from consultation to cleanup, ensuring your Christmas party entertainment runs smoothly.
 
-Consider companies that offer [custom branding](/brand-activation/#content) options for their entertainment. Branded games and activities can enhance your company's visibility whilst providing professional-looking entertainment that reflects well on your organisation.
+Consider companies that offer [custom branding](/events/brand-activation/#content) options for their entertainment. Branded games and activities can enhance your company's visibility whilst providing professional-looking entertainment that reflects well on your organisation.
 
 ## Ready to Book Your Perfect Christmas Party Entertainment?
 

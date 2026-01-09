@@ -120,7 +120,7 @@ tabs:
           
       *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
           
-      *   Fully Brandable: [Custom graphics](/brand-activation/#content) and panels available to match your corporate colours and messaging
+      *   Fully Brandable: [Custom graphics](/events/brand-activation/#content) and panels available to match your corporate colours and messaging
           
       *   No Power Required: Completely mechanical game means no electrical setup or running costs
           
@@ -154,7 +154,7 @@ tabs:
           
       *   Professional installation and setup by trained technicians if requested
           
-      *   [Custom branding](/brand-activation/#content) options available
+      *   [Custom branding](/events/brand-activation/#content) options available
           
       *   Full operational support throughout your event if needed
           

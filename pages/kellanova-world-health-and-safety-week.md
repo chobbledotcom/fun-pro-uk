@@ -36,7 +36,7 @@ World Health and Safety Week presented a specific challenge for Kellanova's Manc
 
 The Manchester factory environment itself presented considerations. With shift patterns, production schedules, and the practical realities of a busy manufacturing facility, any solution needed to be accessible to workers throughout the week, easy to engage with during breaks, and robust enough to withstand consistent use. It also needed to align with Kellanova's brand identity whilst clearly communicating the safety theme.
 
-Having worked with Fun Pro previously, the client knew the team's capability for [customisation](/brand-activation/#content) and understood that interactive entertainment could provide the engaging element they were seeking. The challenge was finding the right balance between fun and serious messaging, creating an experience that would draw people in whilst reinforcing crucial safety protocols.
+Having worked with Fun Pro previously, the client knew the team's capability for [customisation](/events/brand-activation/#content) and understood that interactive entertainment could provide the engaging element they were seeking. The challenge was finding the right balance between fun and serious messaging, creating an experience that would draw people in whilst reinforcing crucial safety protocols.
 
 ## Creating an Interactive Safety Experience
 
@@ -48,7 +48,7 @@ The initial enquiry came through with a clear vision. Having seen Fun Pro's [Wha
 
 What set this project apart was the branding opportunity. Rather than generic artwork, Kellanova wanted to incorporate their most recognisable brand ambassadors: Tony the Tiger and the Coco Pops monkey. These beloved characters, known to generations of consumers, would instantly connect the game to Kellanova's identity whilst adding a playful, approachable element to the serious topic of workplace safety.
 
-Fun Pro's in-house [branding](/brand-activation/#content) team took on the challenge of bringing these iconic characters to life on the game panels. The customisation process involved creating artwork that would work within the Whack a Mole format whilst maintaining the integrity of Kellanova's brand guidelines. Tony the Tiger appeared on one side of the game, his characteristic enthusiasm seeming to encourage players to test their reactions. On the opposite side, the Coco Pops monkey added his own playful energy to the setup.
+Fun Pro's in-house [branding](/events/brand-activation/#content) team took on the challenge of bringing these iconic characters to life on the game panels. The customisation process involved creating artwork that would work within the Whack a Mole format whilst maintaining the integrity of Kellanova's brand guidelines. Tony the Tiger appeared on one side of the game, his characteristic enthusiasm seeming to encourage players to test their reactions. On the opposite side, the Coco Pops monkey added his own playful energy to the setup.
 
 The printing and application process required precision. Each panel needed to fit perfectly, with colours matching brand standards and the vinyl application smooth enough to withstand a full week of intensive use. Fun Pro's branding team printed the customised artwork and carefully applied it to all panels of the game, transforming a standard interactive entertainment piece into a branded experience that felt uniquely Kellanova.
 
@@ -56,7 +56,7 @@ The printing and application process required precision. Each panel needed to fi
 
 The timing of the event coincided with one of the North East's biggest sporting occasions: the Great North Run. This presented an interesting logistical challenge for both delivery and, particularly, collection of the equipment. Road closures across the region meant that careful planning was essential to ensure the game arrived on time for the start of Health and Safety Week and could be collected efficiently once the hire period ended.
 
-Fun Pro's team coordinated closely with Kellanova to work around the road closure schedule, planning delivery and collection times that would avoid the most affected routes. This kind of practical problem-solving is where Fun Pro's experience shows. Having worked on events [across the UK](/brand-activation/#content) for over 15 years, the team understands that external factors can't always be controlled, but they can be anticipated and managed.
+Fun Pro's team coordinated closely with Kellanova to work around the road closure schedule, planning delivery and collection times that would avoid the most affected routes. This kind of practical problem-solving is where Fun Pro's experience shows. Having worked on events [across the UK](/events/brand-activation/#content) for over 15 years, the team understands that external factors can't always be controlled, but they can be anticipated and managed.
 
 The installation itself at the Manchester factory proved straightforward. The venue had been well-chosen by the Kellanova team, with adequate space for the game and good accessibility for employees across different shifts. Fun Pro's installation crew set up the equipment efficiently, ensuring everything was tested and ready before leaving the site.
 

@@ -128,7 +128,7 @@ tabs:
       [Awards ceremonies](/events/company-award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
-      [Christmas events](/christmas-entertainment/#content)  
+      [Christmas events](/events/christmas-entertainment/#content)  
         
       …and more!  
       

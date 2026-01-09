@@ -8,7 +8,7 @@ redirect_from:
 
 # Christmas Game Hire – Birmingham's Premier Festive Entertainment Specialists
 
-Transform your Birmingham festive celebrations into extraordinary experiences with Fun Pro UK's trusted and professional [Christmas game hire](/christmas-entertainment/#content) services. From exclusive corporate [Christmas parties](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) to expansive holiday trade shows, our festive-themed interactive entertainment creates unforgettable moments that captivate audiences and build lasting team connections during the Christmas season.
+Transform your Birmingham festive celebrations into extraordinary experiences with Fun Pro UK's trusted and professional [Christmas game hire](/events/christmas-entertainment/#content) services. From exclusive corporate [Christmas parties](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) to expansive holiday trade shows, our festive-themed interactive entertainment creates unforgettable moments that captivate audiences and build lasting team connections during the Christmas season.
 
 ## Birmingham & West Midlands Christmas Game Hire & Locations
 
@@ -60,7 +60,7 @@ When you select Christmas games from Fun Pro UK, your package features:
     
 *   Professional installation and configuration by qualified technicians when required
     
-*   Custom Christmas [branding solutions](/brand-activation/#content) to highlight your corporate brand
+*   Custom Christmas [branding solutions](/events/brand-activation/#content) to highlight your corporate brand
     
 *   Event day assistance available when needed
     

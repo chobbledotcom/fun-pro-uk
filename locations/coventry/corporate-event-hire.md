@@ -57,7 +57,7 @@ Reaction games like [Batak Pro](/locations/coventry/batak-pro-hire/#content) sui
 
 For formal evening events, casino tables with professional croupiers add a sophisticated element to award ceremonies and client dinners. The tables encourage interaction between guests who might not otherwise speak, and the croupiers explain the games so everyone can participate.
 
-Retro [arcade games](/categories/arcade-games/#content) and traditional [pub games](/categories/pub-games/#content) help break down social barriers at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) and informal corporate gatherings. These familiar games put people at ease and work well for mixed groups. For [exhibition](/events/exhibition-games/#content) stands, games like [Grab a Grand](/categories/grab-a-grand/#content) attract attention and can be [branded](/brand-activation/#content) with your company logo, helping you stand out at busy trade shows.
+Retro [arcade games](/categories/arcade-games/#content) and traditional [pub games](/categories/pub-games/#content) help break down social barriers at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) and informal corporate gatherings. These familiar games put people at ease and work well for mixed groups. For [exhibition](/events/exhibition-games/#content) stands, games like [Grab a Grand](/categories/grab-a-grand/#content) attract attention and can be [branded](/events/brand-activation/#content) with your company logo, helping you stand out at busy trade shows.
 
 ### Creating an Inclusive Entertainment Experience
 

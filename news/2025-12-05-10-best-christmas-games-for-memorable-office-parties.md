@@ -13,7 +13,7 @@ gallery:
 
 ![](/images/news/candy-cane-crush-fun-pro.jpg)
 
-Planning a [Christmas](/christmas-entertainment/#content) party that works for everyone can feel like a challenge. You want entertainment that breaks down barriers between colleagues, keeps energy levels high, and creates those shared moments people talk about long after the decorations come down.
+Planning a [Christmas](/events/christmas-entertainment/#content) party that works for everyone can feel like a challenge. You want entertainment that breaks down barriers between colleagues, keeps energy levels high, and creates those shared moments people talk about long after the decorations come down.
 
 The right games do more than fill time; they bring people together, encourage conversation, and help colleagues see each other in a completely different light. Whether you're organising a small team gathering or a company-wide celebration, this guide covers ten games that work across different group sizes, venues, and comfort levels.
 
@@ -69,7 +69,7 @@ The nostalgic [arcade grabber](/products/christmas-prize-crane/#content) reimagi
 
 Prize Cranes create sustained engagement, people return repeatedly, convinced they've worked out the winning technique. The prize element adds genuine stakes that keep interest high throughout the evening.
 
-Why it works for corporate events: Can be fully [branded](/brand-activation/#content) with company logos and messaging, turning entertainment into a marketing opportunity. The prizes you choose can reinforce company culture or reward staff.
+Why it works for corporate events: Can be fully [branded](/events/brand-activation/#content) with company logos and messaging, turning entertainment into a marketing opportunity. The prizes you choose can reinforce company culture or reward staff.
 
 ### 6\. Snowflake Plinko
 
@@ -89,7 +89,7 @@ The full-scale reaction wall takes the Batak challenge to another level. With la
 
 This game particularly suits events where you want to raise energy levels or create a centrepiece attraction. Crowds naturally form around impressive scores, creating the buzz and atmosphere that transforms a good party into a memorable one.
 
-Why it works for corporate events: Fully [brandable](/brand-activation/#content), suitable for all skill levels, and creates the kind of visible excitement that keeps energy high throughout your event.
+Why it works for corporate events: Fully [brandable](/events/brand-activation/#content), suitable for all skill levels, and creates the kind of visible excitement that keeps energy high throughout your event.
 
 ### 8\. Retro Arcade Games
 

@@ -54,7 +54,7 @@ Different events call for different approaches.
 
 ### Conferences and exhibitions
 
-These events often have space constraints, so we focus on games with smaller footprints that can handle high footfall. Quick-play options work better than longer experiences when hundreds of people are passing through. Branding opportunities matter here too; many of our games can be [customised](/brand-activation/#content) to reinforce your message or campaign.
+These events often have space constraints, so we focus on games with smaller footprints that can handle high footfall. Quick-play options work better than longer experiences when hundreds of people are passing through. Branding opportunities matter here too; many of our games can be [customised](/events/brand-activation/#content) to reinforce your message or campaign.
 
 ### Team building days
 
@@ -90,7 +90,7 @@ We work with venues of all types and can usually find suitable options regardles
 
 We [deliver across the UK](/delivery-areas/#content) from our Coventry base, with all games regularly maintained and safety tested. Our service includes delivery, professional setup, operation where needed, and collection, so you won't be left figuring things out yourself. We carry full public liability insurance and provide risk assessments for venues that require them.
 
-For corporate events, [branding](/brand-activation/#content) is available on most of our games. [Contact us](/contact-fun-pro-uk/#content) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content), supporting events from small office gatherings to large-scale [conferences](/putting-kpmg-in-the-picture/#content).
+For corporate events, [branding](/events/brand-activation/#content) is available on most of our games. [Contact us](/contact-fun-pro-uk/#content) to discuss lead times with our team, as some customisation needs advance notice. We've worked with major companies, including [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content), supporting events from small office gatherings to large-scale [conferences](/putting-kpmg-in-the-picture/#content).
 
 Our approach is consultative rather than just taking orders. We ask questions about your venue, audience and objectives so we can recommend games that will actually achieve what you're hoping for.
 

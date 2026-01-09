@@ -44,7 +44,7 @@ Different [corporate events](/office-and-corporate-entertainment/#content) have 
 
 [Team-building days](/team-building-activities/#content) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
 
-Many types of corporate events often benefit from [branded entertainment](/brand-activation/#content) that reinforces your messaging whilst creating shareable moments for social media.
+Many types of corporate events often benefit from [branded entertainment](/events/brand-activation/#content) that reinforces your messaging whilst creating shareable moments for social media.
 
 The timing, positioning, and selection of games should reflect these different purposes. What works for one event type might feel entirely out of place at another.
 
@@ -56,7 +56,7 @@ The demographics of your attendees matter more than you might initially think. A
 
 Your event goals should drive your entertainment choices. If networking is a priority, games that encourage small groups to gather and interact work better than solitary activities. If you're running an exhibition stand and need to capture contact details, games that require registration or create natural conversation points with your team serve that purpose more effectively.
 
-[Branding opportunities](/brand-activation/#content) become particularly relevant for trade shows. Games can be wrapped with your company colours and messaging, turning entertainment into a marketing tool that generates leads whilst people are having genuine fun, which is far more effective than aggressive sales approaches that put people on guard.
+[Branding opportunities](/events/brand-activation/#content) become particularly relevant for trade shows. Games can be wrapped with your company colours and messaging, turning entertainment into a marketing tool that generates leads whilst people are having genuine fun, which is far more effective than aggressive sales approaches that put people on guard.
 
 ## Planning Conference Entertainment: Practical Considerations
 
@@ -112,7 +112,7 @@ For larger conferences, you'll want games that can handle high throughput during
 
 ### Can you brand games for our trade show stand in Birmingham?
 
-Yes, we offer branding services for exhibition stands and trade shows. Games can be [customised](/brand-activation/#content) with your company colours, logos, and messaging, helping create brand awareness whilst drawing visitors to your stand. This works particularly well for lead generation, as branded games create natural conversation opportunities with potential clients.
+Yes, we offer branding services for exhibition stands and trade shows. Games can be [customised](/events/brand-activation/#content) with your company colours, logos, and messaging, helping create brand awareness whilst drawing visitors to your stand. This works particularly well for lead generation, as branded games create natural conversation opportunities with potential clients.
 
 ### What if our conference venue has limited space?
 

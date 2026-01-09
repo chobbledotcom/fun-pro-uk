@@ -92,7 +92,7 @@ tabs:
       
       The candy floss cart is a great addition to any event, whether indoors or outdoors.
       
-      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/summer-entertainment/#content), [school fun days](/events/school-entertainment/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/events/summer-entertainment/#content), [school fun days](/events/school-entertainment/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
       
       Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
       

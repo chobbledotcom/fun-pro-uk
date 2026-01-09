@@ -12,7 +12,7 @@ redirect_from:
 
 London's corporate event scene sets the global standard for innovation and sophistication, where cutting-edge brands compete for attention in the world's most dynamic business environment. In a city where first impressions define success, creating standout experiences isn't just advantageous, it's essential.
 
-At Fun Pro, we understand what it takes to make an impact in London's competitive marketplace. Our premium [branded game hire](/brand-activation/#content) service has become the secret weapon for influential London businesses who recognise that exceptional events create exceptional results.
+At Fun Pro, we understand what it takes to make an impact in London's competitive marketplace. Our premium [branded game hire](/events/brand-activation/#content) service has become the secret weapon for influential London businesses who recognise that exceptional events create exceptional results.
 
 Our comprehensive game collection offers complete customisation possibilities, from subtle corporate branding integration to bold campaign-specific designs, ensuring your brand story is told through every interactive moment while delivering the entertainment excellence London audiences expect.
 

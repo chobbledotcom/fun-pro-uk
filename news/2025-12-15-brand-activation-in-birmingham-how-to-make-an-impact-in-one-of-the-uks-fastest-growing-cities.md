@@ -111,7 +111,7 @@ Prize-based games provide incentivised participation that boosts engagement. [Pr
 
 ### Custom Branding Considerations
 
-Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/brand-activation/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
+Professional [interactive game hire](/categories/interactive-game-hire/#content) should include comprehensive [branding](/events/brand-activation/#content) options transforming generic equipment into extensions of your brand identity. Visual branding through vinyl wraps, digital screens, and printed panels ensures your messaging remains prominent throughout the experience.
 
 Prize integration represents another opportunity. Rather than generic rewards, incorporate your own products, branded merchandise, or vouchers that drive participants toward further engagement.
 

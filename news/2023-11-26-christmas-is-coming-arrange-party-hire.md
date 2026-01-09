@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2023-11-26/christmas-is-coming-arrange-party-hire/"
 ---
 
-As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming [Christmas parties](/christmas-entertainment/#content). At Fun Pro UK, we specialise in turning holiday celebrations into magical, memorable events with our unique range of [Christmas games](/categories/christmas-game-hire/#content) and attractions. Here’s how you can add that extra sparkle to your festivities this year.
+As the twinkling lights go up and the holiday season draws near, it’s time to think about your upcoming [Christmas parties](/events/christmas-entertainment/#content). At Fun Pro UK, we specialise in turning holiday celebrations into magical, memorable events with our unique range of [Christmas games](/categories/christmas-game-hire/#content) and attractions. Here’s how you can add that extra sparkle to your festivities this year.
 
 ### Christmas Magic Mirror
 

@@ -32,7 +32,7 @@ Our extensive range includes games like:
     
 *   [Roll & Bowl derby games](/products/8-lane-roll-and-bowl-donkey-derby/#content)
 
-Plus lots more. All of which can be [customised](/brand-activation/#content) with your company or event branding.
+Plus lots more. All of which can be [customised](/events/brand-activation/#content) with your company or event branding.
 
 Each piece of equipment is safety-tested, [fully insured](/insurance/#content), and delivered by our team who handle setup and collection.
 
@@ -48,7 +48,7 @@ Beyond the waterfront, Liverpool's hotels, conference centres, and Baltic Triang
 
 ## Popular Choices for Liverpool Corporate Events
 
-Conferences and exhibitions – Games that draw footfall and encourage interaction work well on exhibition stands. [Branded games](/brand-activation/#content) can reinforce your messaging whilst giving visitors a reason to stop and engage with your team.
+Conferences and exhibitions – Games that draw footfall and encourage interaction work well on exhibition stands. [Branded games](/events/brand-activation/#content) can reinforce your messaging whilst giving visitors a reason to stop and engage with your team.
 
 Christmas parties – Liverpool's party season runs from late November through until December, and venues book up quickly. [Photo booths](/products/classic-photo-booths/#content), [casino tables](/products/casino-table-hire/#content), and [fun food](/categories/fun-foods/#content) stalls add atmosphere to evening celebrations.
 

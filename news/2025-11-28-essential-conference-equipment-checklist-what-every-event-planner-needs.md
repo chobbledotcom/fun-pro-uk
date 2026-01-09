@@ -75,7 +75,7 @@ These serve a real purpose at corporate conferences. They create natural convers
 
 Games like [Batak Lite](/products/batak-lite/#content), [Batak Pro](/products/batak-pro/#content), and [Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content) work brilliantly in breakout spaces. They're quick to play, suitable for all ages and abilities, and naturally draw small crowds of spectators who then join in. These games create energy and buzz that carries through to the rest of your [conference](/events/conference-idea/#content).
 
-These can be [branded](/brand-activation/#content) to match your conference content. [Racing simulators](/products/racing-car-simulators/#content) add excitement to automotive industry events. Golf simulators work well for corporate hospitality. The key is choosing equipment that complements your event rather than distracting from it.
+These can be [branded](/events/brand-activation/#content) to match your conference content. [Racing simulators](/products/racing-car-simulators/#content) add excitement to automotive industry events. Golf simulators work well for corporate hospitality. The key is choosing equipment that complements your event rather than distracting from it.
 
 [Photo booths](/products/classic-photo-booths/#content) are always a popular addition to conferences and different types of corporate events. They encourage social sharing and give attendees tangible memories of your event. When people post conference photos to LinkedIn or Instagram, you're extending your event's reach far beyond the people in the room.
 

@@ -46,7 +46,7 @@ These include [cash grabbers](/products/cash-grabber-machine-hire/#content) and 
 
 Different conference types need different entertainment approaches. For corporate conferences and training days, we provide breakout activities and networking tools that energise people between sessions without overwhelming professional atmospheres.
 
-At trade shows and exhibitions, our [branded games](/brand-activation/#content) help draw crowds to stands, generate leads, and increase brand visibility with quick-play activities suited to high footfall environments.
+At trade shows and exhibitions, our [branded games](/events/brand-activation/#content) help draw crowds to stands, generate leads, and increase brand visibility with quick-play activities suited to high footfall environments.
 
 Award ceremonies and gala dinners call for sophisticated entertainment options that work around formal dress codes and seated arrangements, such as [photo booths](/products/classic-photo-booths/#content) and elegant giant games.
 
@@ -66,7 +66,7 @@ Based in Coventry with over 15 years of experience, we know the local conference
 
 \*Delivery, set up and collection may be charged at an additional fee.
 
-We don't offer one-size-fits-all packages. Instead, we listen to your conference objectives, venue constraints, and attendee profile before recommending games that genuinely suit your needs. [Custom branding](/brand-activation/#content) is available for exhibitions and brand activations, and our trained staff can operate games throughout your event if needed.
+We don't offer one-size-fits-all packages. Instead, we listen to your conference objectives, venue constraints, and attendee profile before recommending games that genuinely suit your needs. [Custom branding](/events/brand-activation/#content) is available for exhibitions and brand activations, and our trained staff can operate games throughout your event if needed.
 
 Whilst we're based in Coventry and serve venues including CoventryConferences, Coombe Abbey Hotel, Coventry Building Society Arena, and the Heart of England Conference Centre, we provide [nationwide coverage](/delivery-areas/#content) with competitive pricing thanks to our local presence.
 

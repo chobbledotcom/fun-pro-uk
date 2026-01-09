@@ -30,7 +30,7 @@ Poundland is the UK's leading variety discount retailer, operating over 800 stor
     
 *   Target Audience: [University](/events/college-entertainment/#content) freshers and new students
     
-*   Solution Delivered: [Custom branded](/brand-activation/#content) prize wheel
+*   Solution Delivered: [Custom branded](/events/brand-activation/#content) prize wheel
     
 *   Service Level: Short-notice activation support
     
@@ -70,7 +70,7 @@ As told to FunPro by the Poundland Manchester Store Management Team.
 
 The solution needed to work on multiple levels. Visually, it had to be striking enough to catch attention from students walking past the store. Functionally, it needed to be simple enough for quick interactions that wouldn't create bottlenecks during busy Saturday trading. Most importantly, it had to feel authentic to the Poundland brand whilst creating genuine excitement.
 
-"What impressed us was their attention to the [branding details](/brand-activation/#content). This wasn't just a generic wheel with our logo stuck on - it was properly integrated with our brand colours, messaging, and even consideration of how it would photograph for social media. They understood that students would want to share their experience online."
+"What impressed us was their attention to the [branding details](/events/brand-activation/#content). This wasn't just a generic wheel with our logo stuck on - it was properly integrated with our brand colours, messaging, and even consideration of how it would photograph for social media. They understood that students would want to share their experience online."
 
 The custom branding extended beyond aesthetics to functionality. The wheel segments were designed to align with Poundland's product ranges and promotional offers, creating natural connections between the game experience and actual shopping opportunities. This approach meant the activation wasn't just entertainment - it was a genuine marketing tool that could drive both immediate sales and longer-term customer relationships.
 

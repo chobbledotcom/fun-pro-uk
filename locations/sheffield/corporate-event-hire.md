@@ -66,7 +66,7 @@ Different events call for different approaches, so it's worth thinking about wha
 
 ### Conferences and Exhibitions
 
-If you're exhibiting at a trade show or running a [conference](/events/conference-idea/#content) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/brand-activation/#content) work particularly well for [promotional events](/promotional-event-games/#content) where you want to reinforce your company message.
+If you're exhibiting at a trade show or running a [conference](/events/conference-idea/#content) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/events/brand-activation/#content) work particularly well for [promotional events](/promotional-event-games/#content) where you want to reinforce your company message.
 
 ### Team Building and Staff Parties
 
