@@ -4,8 +4,6 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Brand Activation"
 meta_description: "We have a wonderful selection of branded games to hire for all kinds of corporate events. Brand activations, exhibitions, trade shows &amp; much more. UK-wide."
 featured: true
-redirect_from:
-  - "/pages/branded-game-hire/"
 eleventyNavigation:
   key: "Brand Activation"
   parent: "Corporate Events"
