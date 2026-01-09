@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire Christmas Candy Cane Mega Wire | Fun Pro UK"
 meta_description: "Bring excitement to your Christmas event with the Candy Cane Mega Wire! A festive, interactive game ideal for corporate parties, family gatherings, and fairs."
-categories: ["categories/christmas-games.md"]
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
 events: []
 featured: true
 features:

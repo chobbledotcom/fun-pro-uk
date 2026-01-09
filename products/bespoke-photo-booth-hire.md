@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
-categories: ["categories/branded-exhibition-games.md"]
+categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features:

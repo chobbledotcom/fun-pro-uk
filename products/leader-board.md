@@ -5,7 +5,7 @@ price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
-categories: ["categories/interactive-game-hire.md"]
+categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:

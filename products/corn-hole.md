@@ -5,7 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Corn Hole Hire UK | Premium Games for Corporate & Private Events"
 meta_description: "Hire Corn Hole games with custom branding for your next corporate event, wedding or party. Nationwide delivery and setup. Request a quote today."
-categories: ["categories/exhibition-games.md"]
+categories: ["categories/exhibition-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:

@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire Crack The Code, Safecracker Code Game For Hire, UK"
 meta_description: "Hire our crack the code game and win a prize! This safe cracking game is perfect for product launches, trade shows, promos, parties, fetes and more"
-categories: ["categories/exhibition-games.md"]
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:
