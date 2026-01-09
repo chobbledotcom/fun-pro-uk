@@ -84,7 +84,7 @@
 }
 
 @mixin section-padding {
-  padding: 128px 0;
+  padding: var(--section-padding) 0;
 }
 
 @font-face {
@@ -144,15 +144,37 @@
 }
 
 :root {
+  /* Layout & Spacing */
   --width-content: 1300px;
+  --space-1: 8px;
+  --space-2: 16px;
+  --space-3: 24px;
+  --space-4: 32px;
+  --space-8: 64px;
+  --space-16: 128px;
+
+  /* Gaps */
+  --gap-xs: var(--space-1);
+  --gap-sm: var(--space-2);
+  --gap-md: var(--space-4);
+  --gap-items: var(--space-4);
+
+  /* Section Padding */
+  --section-padding: var(--space-16);
+  --section-padding-half: var(--space-8);
+
+  /* Colors */
   --color-bg: #fafafa;
   --color-border: transparent;
+
+  /* Typography */
   --font-family-heading: "DM Sans", var(--font-family-heading);
   --font-family-body: "DM Sans", var(--font-family-body);
+
+  /* Borders */
   --border: 1px solid #babbbc;
   --border-radius: 8px;
   --border-radius-small: 8px;
-  --gap-items: 32px;
 }
 
 h1,
@@ -216,11 +238,11 @@ article#content,
     @include section-padding;
 
     &.brands {
-      padding: 64px 0;
+      padding: var(--section-padding-half) 0;
     }
 
     &.homepage-header {
-      padding: 64px 0 32px 0;
+      padding: var(--section-padding-half) 0 var(--space-4) 0;
     }
   }
 
@@ -415,7 +437,7 @@ body {
   &.category {
     article#content ul.items li {
       @include card;
-      padding: 32px;
+      padding: var(--space-4);
     }
   }
   &.locations {
@@ -947,7 +969,6 @@ body.reviews {
 }
 
 .brands {
-  padding: 64px 0;
   background: #fff;
 
   .row {
@@ -1333,7 +1354,7 @@ ul.items {
   }
   li {
     @include card;
-    padding: 32px;
+    padding: var(--space-4);
   }
 }
 
@@ -1344,9 +1365,9 @@ ul.items {
 #footer-contact {
   display: grid;
   grid-template-columns: 50px 1fr;
-  gap: 0 16px;
+  gap: 0 var(--gap-sm);
   font-weight: 700;
-  padding: 64px 0;
+  padding: var(--section-padding-half) 0;
 
   #footer-logo {
     aspect-ratio: 42/53;
@@ -1422,7 +1443,7 @@ ul.items {
 #footer-links {
   display: flex;
   flex-direction: column;
-  padding: 0 0 64px 0;
+  padding: 0 0 var(--section-padding-half) 0;
   h2 {
     padding: 0;
   }
