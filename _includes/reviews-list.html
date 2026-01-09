@@ -1,0 +1,7 @@
+{%- if reviews.size > 0 -%}
+  <ul class="items">
+    {%- for review in reviews -%}
+      {%- include "reviews-list-item.html", review: review, product_links: product_links -%}
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
