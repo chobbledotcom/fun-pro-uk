@@ -899,14 +899,17 @@ body.reviews {
 
 .brands {
   padding: 64px 0;
-  background: #fafafa;
+  background: #fff;
 
   .row {
     display: flex;
     flex-direction: row;
     align-items: center;
+  }
 
-    @include breakpoints.down("md") {
+  @include breakpoints.down("md") {
+    padding: 32px 0;
+    .row {
       flex-direction: column;
       gap: 32px;
     }
