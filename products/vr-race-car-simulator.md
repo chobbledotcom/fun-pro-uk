@@ -5,7 +5,7 @@ price: "£525"
 order: 50
 meta_title: "Racing Simulator Hire, VR Car Driving Simulator Rental, UK"
 meta_description: "Hire Our Car Racing Simulator Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md"]
+categories: ["categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:

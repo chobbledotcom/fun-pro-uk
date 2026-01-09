@@ -30,20 +30,22 @@ const extractProductSlug = (href) => {
     return null;
   }
 
-  // Must end with .html for product pages in old site structure
-  if (!href.endsWith('.html')) {
-    return null;
-  }
-
-  // Extract the path without .html extension
+  // Extract the path, removing .html extension if present
+  // Product pages may or may not have .html extension in category page links
   let cleanPath = href.replace(/\.html$/, '').replace(/^\.\.\//, '').replace(/^\//, '');
 
   // Split into segments
   const segments = cleanPath.split('/').filter(Boolean);
-  
-  // Need at least 2 segments for a product (category/product or category/id/product)
-  // Single segment links are category links (like arcade-games.html)
-  if (segments.length < 2) {
+
+  // Product links have format: category/category-name/id/product-slug or category/category-name/product-slug
+  // Category links have format: category/category-name
+  // Need at least 3 segments for a product (category/category-name/id or category/category-name/product)
+  if (segments.length < 3) {
+    return null;
+  }
+
+  // First segment should be 'category'
+  if (segments[0] !== 'category') {
     return null;
   }
 
@@ -66,16 +68,23 @@ const extractProductSlug = (href) => {
  * @returns {string} The PageListings section content or empty string
  */
 const extractPageListings = (htmlContent) => {
-  // Look for the PageListings div which contains product cards
-  const pageListingsMatch = htmlContent.match(/<div id="ctl00_PageListingsPanel"[^>]*class="page-listings[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<div id="BelowProductsContentPanel"/);
-  
+  // Look for the inner PageListings div which contains product cards
+  // Capture everything from PageListings opening tag to BelowProductsContentPanel marker
+  // This avoids issues with matching nested closing </div> tags
+  const pageListingsMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)<div id="BelowProductsContentPanel"/);
+
   if (pageListingsMatch) {
     return pageListingsMatch[1];
   }
 
-  // Alternative: look for PageListings div by ID - capture until photo-gallery section
-  // The section ends at the next major div (photo-gallery, footer-contact, etc.)
-  const altMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)(?:<\/div>\s*<\/div>\s*<\/div>\s*<div id="ctl00_PhotoGallery|<\/div>\s*<\/div>\s*<\/div>\s*<div class="photo-gallery)/i);
+  // Alternative: look for outer PageListingsPanel and capture until BelowProductsContentPanel
+  const outerMatch = htmlContent.match(/<div id="ctl00_PageListingsPanel"[^>]*class="page-listings[^"]*"[^>]*>([\s\S]*?)<div id="BelowProductsContentPanel"/);
+  if (outerMatch) {
+    return outerMatch[1];
+  }
+
+  // Final fallback: look for PageListings div by ID - capture until photo-gallery section
+  const altMatch = htmlContent.match(/<div id="PageListings"[^>]*>([\s\S]*?)(?:<div id="ctl00_PhotoGallery"|<div class="photo-gallery)/i);
   if (altMatch) {
     return altMatch[1];
   }
@@ -119,9 +128,9 @@ const scanProductCategories = () => {
 
     // Find all product links in castlePanel divs
     // Products are linked with class="castleLink" (title) or class="castleCheckBook" (button)
-    // Pattern: href="category/id/product-slug.html" or href="category/product-slug.html"
-    const castleLinkRegex = /href="([^"]+\.html)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
-    const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+\.html)"/g;
+    // Pattern: href="category/id/product-slug" or href="category/product-slug" (may or may not have .html)
+    const castleLinkRegex = /href="([^"]+)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
+    const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+)"/g;
     
     let match;
 
@@ -248,8 +257,8 @@ const scanEventProducts = () => {
       const contentToScan = pageListings || htmlContent;
 
       const foundSlugs = new Set();
-      const castleLinkRegex = /href="([^"]+\.html)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
-      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+\.html)"/g;
+      const castleLinkRegex = /href="([^"]+)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
+      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+)"/g;
 
       let match;
       while ((match = castleLinkRegex.exec(contentToScan)) !== null) {
@@ -286,8 +295,8 @@ const scanEventProducts = () => {
       const contentToScan = pageListings || htmlContent;
 
       const foundSlugs = new Set();
-      const castleLinkRegex = /href="([^"]+\.html)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
-      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+\.html)"/g;
+      const castleLinkRegex = /href="([^"]+)"[^>]*class="(?:castleLink|castleCheckBook)[^"]*"/g;
+      const altLinkRegex = /class="(?:castleLink|castleCheckBook)[^"]*"[^>]*href="([^"]+)"/g;
 
       let match;
       while ((match = castleLinkRegex.exec(contentToScan)) !== null) {

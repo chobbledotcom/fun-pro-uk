@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"
 meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for a quote today."
-categories: ["categories/freshers-fair-games.md"]
+categories: ["categories/freshers-fair-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:

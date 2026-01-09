@@ -5,7 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Mega wire hire Uk"
 meta_description: "Contact fun pro UK today to book your next event."
-categories: ["categories/branded-exhibition-games.md"]
+categories: ["categories/branded-exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:

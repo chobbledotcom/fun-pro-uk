@@ -5,7 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
-categories: ["categories/christmas-games.md"]
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
 events: []
 featured: true
 features:
