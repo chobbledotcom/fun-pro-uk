@@ -1,3 +1,2 @@
-{%- assign latest_reviews = collections.reviews | slice: 0, 3 -%}
-{%- include "reviews-list.html", reviews: latest_reviews, product_links: true
--%}
+{%- for review in collections.reviews -%} {%- include "reviews-list-item.html",
+review: review, product_links: product_links -%} {%- endfor -%}
