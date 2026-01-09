@@ -1,0 +1,111 @@
+{
+	"quoteStepName": "Your Items",
+	"recapTitle": "Review Your Request",
+	"sections": [
+		{
+			"title": "Event Details",
+			"fields": [
+				{
+					"type": "heading",
+					"title": "Tell Us About Your Event",
+					"body": "The more you tell us, the more accurate your quote will be. Don't worry if you're not sure about everything yet. We can work out the details together."
+				},
+				{
+					"name": "start_date",
+					"type": "date",
+					"label": "Event start date",
+					"half": true,
+					"note": "If your date is flexible, leave this blank and leave details on the next page"
+				},
+				{
+					"name": "start_time",
+					"label": "Event start time",
+					"placeholder": "e.g. 10:00am",
+					"half": true
+				},
+				{
+					"name": "end_date",
+					"type": "date",
+					"label": "Last day of event",
+					"required": true,
+					"half": true
+				},
+				{
+					"name": "end_time",
+					"label": "Event end time",
+					"placeholder": "e.g. 6:00pm",
+					"half": true
+				},
+				{
+					"name": "event_type",
+					"type": "select",
+					"label": "Type of event",
+					"required": true,
+					"options": [
+						"Wedding",
+						"Birthday Party",
+						"Corporate Event",
+						"Festival",
+						"School Fete",
+						"Private Party",
+						"Other"
+					],
+					"note": "Select 'Other' if your event type is not listed"
+				},
+				{
+					"name": "event_location",
+					"label": "Location of event",
+					"placeholder": "eg Hilton Birmingham Metropole",
+					"required": true
+				}
+			]
+		},
+		{
+			"title": "Your Details",
+			"fields": [
+				{
+					"type": "heading",
+					"title": "Your Contact Details",
+					"body": "Nearly done. Tell us who to send the quote to. We'll get back to you within 24 hours, usually much sooner."
+				},
+				{
+					"name": "name",
+					"label": "Contact name",
+					"placeholder": "",
+					"required": true
+				},
+				{
+					"name": "email",
+					"type": "email",
+					"label": "Contact email address",
+					"placeholder": "",
+					"required": true
+				},
+				{
+					"name": "phone",
+					"label": "Contact phone number",
+					"placeholder": ""
+				},
+				{
+					"name": "contact_preference",
+					"type": "radio",
+					"label": "How should we contact you?",
+					"options": ["Email", "Phone", "No preference"]
+				},
+				{
+					"type": "heading",
+					"title": "Additional Information"
+				},
+				{
+					"name": "message",
+					"type": "textarea",
+					"label": "Tell us about your event",
+					"placeholder": "eg Branding requirements, setup times, questions about games, or anything else",
+					"rows": 4,
+					"note": "Please provide any details you think will help us prepare your quote or learn more about your event"
+				}
+			]
+		}
+	],
+	"submitButtonText": "Review Your Quote Request"
+}
