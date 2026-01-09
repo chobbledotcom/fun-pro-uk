@@ -152,6 +152,7 @@
   --border: 1px solid #babbbc;
   --border-radius: 8px;
   --border-radius-small: 8px;
+  --gap-items: 32px;
 }
 
 h1,
@@ -414,6 +415,7 @@ body {
   &.category {
     article#content ul.items li {
       @include card;
+      padding: 32px;
     }
   }
   &.locations {
@@ -900,7 +902,7 @@ body.reviews {
     display: flex;
     list-style-type: none;
     padding: 0;
-    gap: 16px;
+    gap: var(--gap-items);
     flex-direction: row;
     li {
       @include card;
@@ -1266,7 +1268,7 @@ body.reviews {
 }
 
 ul.items {
-  gap: 16px;
+  gap: var(--gap-items);
   li {
     display: flex;
     flex-direction: column;
@@ -1331,6 +1333,7 @@ ul.items {
   }
   li {
     @include card;
+    padding: 32px;
   }
 }
 
