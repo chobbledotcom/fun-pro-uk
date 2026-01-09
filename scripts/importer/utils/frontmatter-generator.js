@@ -29,15 +29,27 @@ const PAGE_CONFIG = {
   },
   "branded-game-hire": {
     rename: "brand-activation",
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
   "christmas-entertainment-game-hire": {
     rename: "christmas-entertainment",
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
   "about-corporate-entertainment-hire": {
     rename: "our-story",
   },
   "team-building-ideas": {
     rename: "team-building-activities",
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
+  },
+  "luxury-wedding-entertainment": {
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
+  },
+  "event-management": {
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
+  },
+  "summer-entertainment": {
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
 };
 
@@ -72,6 +84,11 @@ const generatePageFrontmatter = (
 meta_title: "${metadata.title || ""}"
 meta_description: "${metadata.meta_description || ""}"
 layout: ${layout}`;
+
+  // Add subtitle if configured for this page
+  if (pageConfig.subtitle) {
+    frontmatter += `\nsubtitle: "${pageConfig.subtitle}"`;
+  }
 
   // Add redirect_from for old /pages/ URLs
   // If renamed, also add redirect from the old slug at root level
