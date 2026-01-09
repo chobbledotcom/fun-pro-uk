@@ -217,6 +217,10 @@ article#content,
     &.brands {
       padding: 64px 0;
     }
+
+    &.homepage-header {
+      padding: 64px 0 32px 0;
+    }
   }
 
   & > *:not(.breakout, .full-width) {
