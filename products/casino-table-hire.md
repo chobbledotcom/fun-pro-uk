@@ -5,7 +5,7 @@ price: ""
 order: 50
 meta_title: "Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party"
 meta_description: "Host a thrilling casino night with our casino party hire. Perfect for corporate events, fun days, and parties. Casino tables delivered UK-wide. Call now!"
-categories: ["categories/pub-games.md"]
+categories: ["categories/pub-games.md", "categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:
