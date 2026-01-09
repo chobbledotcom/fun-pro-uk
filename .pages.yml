@@ -23,7 +23,6 @@ content:
       sort:
         - header_text
     fields:
-      - { name: subtitle, type: string, label: Subtitle }
       - name: body
         label: Body
         type: code
@@ -62,6 +61,7 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - name: categories
         label: Categories
@@ -114,7 +114,6 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
-      - { name: subtitle, type: string, label: Subtitle }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -156,6 +155,7 @@ content:
     filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - name: body
         label: Body
@@ -168,7 +168,6 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
-      - { name: subtitle, type: string, label: Subtitle }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -190,6 +189,7 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
       - { name: date, label: Date, type: date }
       - name: author
         label: Author
@@ -200,7 +200,6 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
-      - { name: subtitle, type: string, label: Subtitle }
       - name: body
         label: Body
         type: code
@@ -346,8 +345,8 @@ content:
         - title
     fields:
       - { name: title, type: string, label: Title }
-      - { name: thumbnail, type: image, label: Thumbnail }
       - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
       - name: categories
         label: Categories
         type: reference
