@@ -463,6 +463,9 @@ body {
         @include breakpoints.up("md") {
           grid-area: right;
           padding-left: 64px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
           & > li {
             width: max(550px, 50%);
           }
