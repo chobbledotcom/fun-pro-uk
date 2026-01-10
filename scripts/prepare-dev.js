@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 import { buildDir, templateRepo } from "./consts.js";
+import { gitClone, gitPull, run, sh } from "./utils.js";
 
 const root = path.resolve(import.meta.dirname, "..");
 const build = path.join(root, buildDir);
@@ -28,18 +29,13 @@ export function prep() {
 	if (!fs.existsSync(path.join(template, ".git"))) {
 		console.log("Cloning template...");
 		fs.rmSync(template, { recursive: true, force: true });
-		Bun.spawnSync(["git", "clone", "--depth", "1", templateRepo, template]);
+		gitClone(templateRepo, template);
 	} else {
 		console.log("Updating template...");
-		Bun.spawnSync(["git", "-C", template, "reset", "--hard"]);
-		Bun.spawnSync(["git", "-C", template, "pull"]);
+		gitPull(template);
 	}
 
-	Bun.spawnSync([
-		"sh",
-		"-c",
-		`find "${dev}" -type f -name "*.md" -delete 2>/dev/null || true`,
-	]);
+	sh(`find "${dev}" -type f -name "*.md" -delete 2>/dev/null || true`);
 
 	const templateExcludeArgs = templateExcludes
 		.map((e) => `--exclude="${e}"`)
@@ -47,16 +43,8 @@ export function prep() {
 
 	const rootExcludeArgs = rootExcludes.map((e) => `--exclude="${e}"`).join(" ");
 
-	Bun.spawnSync([
-		"sh",
-		"-c",
-		`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`,
-	]);
-	Bun.spawnSync([
-		"sh",
-		"-c",
-		`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`,
-	]);
+	sh(`rsync -r --delete ${templateExcludeArgs} "${template}/" "${dev}/"`);
+	sh(`rsync -r ${rootExcludeArgs} "${root}/" "${dev}/src/"`);
 
 	sync();
 
@@ -66,10 +54,7 @@ export function prep() {
 	// Install if node_modules doesn't exist or wasn't created by bun
 	if (!fs.existsSync(nodeModulesPath) || !fs.existsSync(bunTagPath)) {
 		console.log("Installing dependencies...");
-		Bun.spawnSync(["bun", "install"], {
-			cwd: dev,
-			stdio: ["inherit", "inherit", "inherit"],
-		});
+		run("bun", ["install"], { cwd: dev });
 	}
 
 	fs.rmSync(path.join(dev, "_site"), { recursive: true, force: true });
@@ -90,7 +75,7 @@ export function sync() {
 		`"${dev}/src/"`,
 	].join(" ");
 
-	Bun.spawnSync(["sh", "-c", cmd]);
+	sh(cmd);
 }
 
 if (import.meta.main) prep();

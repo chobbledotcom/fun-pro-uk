@@ -193,23 +193,39 @@ article#content,
 .footer {
   display: grid;
   grid-template-columns:
+    [left-start]
+    0
     [full-width-start]
     1fr
     [content-start]
-    1110px
+    550px
+    [left-end]
+    0
+    [right-start]
+    550px
     [content-end]
     1fr
-    [full-width-end];
+    [full-width-end]
+    0
+    [right-end];
 
   @include breakpoints.down("xl") {
     grid-template-columns:
+      [left-start]
+      0
       [full-width-start]
       32px
       [content-start]
       1fr
+      [left-end]
+      0
+      [right-start]
+      1fr
       [content-end]
       32px
-      [full-width-end];
+      [full-width-end]
+      0
+      [right-end];
   }
 
   @include breakpoints.down("md") {
@@ -430,10 +446,27 @@ body {
             text-align: left;
           }
         }
+        @include breakpoints.up("md") {
+          grid-area: left;
+          padding-right: 64px;
+          display: flex;
+          flex-direction: column;
+          align-items: end;
+          & > div {
+            width: max(550px, 50%);
+          }
+        }
       }
       .big-features {
         @include section-padding;
         line-height: 32px;
+        @include breakpoints.up("md") {
+          grid-area: right;
+          padding-left: 64px;
+          & > li {
+            width: max(550px, 50%);
+          }
+        }
       }
     }
   }

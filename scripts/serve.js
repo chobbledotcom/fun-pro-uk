@@ -13,11 +13,14 @@ const watch = spawn("bun", [path.join(import.meta.dirname, "watch.js")], {
   stdio: "inherit",
 });
 
-const eleventy = spawn("bun", ["run", "serve"], {
-  cwd: dev,
-  stdio: "inherit",
-  shell: true,
-});
+const eleventy = spawn(
+  "bun",
+  ["./node_modules/@11ty/eleventy/cmd.cjs", "--serve", "--incremental"],
+  {
+    cwd: dev,
+    stdio: "inherit",
+  },
+);
 
 process.on("SIGINT", () => {
   console.log("\nStopping...");
