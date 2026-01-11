@@ -1391,9 +1391,6 @@ ul.items {
       // 8px = 16px / 2 rows
       width: calc(50% - 16px);
     }
-    @include breakpoints.down("sm") {
-      width: 100%;
-    }
   }
 }
 
@@ -1597,10 +1594,15 @@ ul.items {
   }
 }
 
+.slider {
+  padding-bottom: var(--gap-items);
+}
+
 .slider-nav {
   display: flex;
   flex-direction: row;
   gap: 16px;
+  margin: 0;
   a {
     display: block;
     width: 64px;
