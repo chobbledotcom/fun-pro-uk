@@ -159,13 +159,15 @@
   --gap-md: var(--space-4);
   --gap-items: var(--space-4);
 
-  @include breakpoints.down("sm") {
-    --gap-items: var(--space-2);
-  }
-
   /* Section Padding */
   --section-padding: var(--space-16);
   --section-padding-half: var(--space-8);
+
+  @include breakpoints.down("sm") {
+    --gap-items: var(--space-2);
+    --section-padding: var(--space-8);
+    --section-padding-half: var(--space-4);
+  }
 
   /* Colors */
   --color-bg: #fdfdfd;
