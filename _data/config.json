@@ -14,5 +14,11 @@
   "products": { "item_list_aspect_ratio": "4/3" },
   "timezone": "Europe/London",
   "list_item_fields": ["link", "subtitle", "thumbnail", "price", "cart-button"],
-  "category_order": ["products", "subcategories", "content", "faqs"]
+  "category_order": [
+    "category-content.html",
+    "category-products.html",
+    "category-subcategories.html",
+    "what-you-get.html",
+    "category-faqs.html"
+  ]
 }
