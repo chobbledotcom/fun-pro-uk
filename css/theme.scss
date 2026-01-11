@@ -1371,6 +1371,7 @@ ul.items {
 }
 
 .homepage-products {
+  background: #fdfdfd;
   @include section-padding;
   h2 {
     font-size: 44pxc;
@@ -1396,6 +1397,10 @@ ul.items {
     @include card;
     padding: var(--space-4);
   }
+}
+
+.homepage-events {
+  background: #fafafa;
 }
 
 .footer-bar {

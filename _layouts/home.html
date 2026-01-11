@@ -111,7 +111,7 @@ layout: base
   </div>
 </section>
 
-<section class="homepage-products">
+<section class="homepage-products full-width">
   <h2>
     <span>Popular Games</span>
     <a href="/products/">
@@ -122,7 +122,7 @@ layout: base
   include "items.html", items: products, horizontal: true -%}
 </section>
 
-<section class="homepage-events">
+<section class="homepage-events full-width">
   <h2>What Kind of Event Are You Planning?</h2>
   {%- assign events = collections.events | getFeaturedEvents -%} {%- include
   "items.html", items: events, horizontal: true -%}
