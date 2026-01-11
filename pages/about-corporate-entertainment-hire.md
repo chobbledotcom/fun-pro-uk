@@ -5,12 +5,11 @@ layout: page
 redirect_from:
   - "/pages/about-corporate-entertainment-hire/"
 eleventyNavigation:
-  key: "Our Story"
-  parent: "About Us"
-  order: 1
+  key: "About Us"
+  order: 4
 ---
 
-# **The team to trust for nationwide**corporate fun hire**
+# **The team to trust for nationwide**corporate fun hire\*\*
 
 Welcome to the Fun Pro UK website, we are a family business and have worked in the entertainment industry providing Interactive Game Hire since 2009 and take pride in delivering amazing memorable fun in a professional way to our clients across the UK. Based in Coventry the heart of the Midlands within easy access to motorway links we are well situated to cover the whole of the UK.
 
