@@ -11,6 +11,7 @@ const dev = path.join(build, "dev");
 
 const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*"];
 const rootExcludes = [
+	".direnv",
 	".git",
 	"*.nix",
 	"README.md",
