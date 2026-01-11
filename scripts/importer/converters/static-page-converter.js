@@ -34,11 +34,11 @@ const getStaticPages = () => {
 
   return [
     {
-      slug: "blog",
+      slug: "news",
       content: `---
 meta_title: "News & Updates | ${siteName}"
 meta_description: "All of the latest news from ${siteName} about interactive game hire, corporate events, exhibitions, and parties."
-permalink: "/blog/"
+permalink: "/news/"
 layout: news-archive.html
 eleventyNavigation:
   key: News

@@ -27,11 +27,7 @@ const PAGE_CONFIG = {
     layout: "events",
     rename: "events",
   },
-  "about-corporate-entertainment-hire": {
-    rename: "our-story",
-  },
   "team-building-ideas": {
-    rename: "team-building-activities",
     subtitle: "Subtitle subtitle subtitle subtitle subtitle",
   },
   "event-management": {

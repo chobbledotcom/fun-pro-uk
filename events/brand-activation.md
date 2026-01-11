@@ -6,8 +6,8 @@ meta_description: "We have a wonderful selection of branded games to hire for al
 featured: true
 eleventyNavigation:
   key: "Brand Activation"
-  parent: "Corporate Events"
-  order: 6
+  parent: "How We Help"
+  order: 5
 ---
 
 # Branded Game Hire UK

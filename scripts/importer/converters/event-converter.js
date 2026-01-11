@@ -177,8 +177,17 @@ const convertEvents = async () => {
 
   const outputDir = path.join(config.OUTPUT_BASE, 'events');
 
-  // Events directory only contains imported events, safe to clean all
-  prepDir(outputDir);
+  // Only delete *.md files, preserve other files like events.json
+  if (fs.existsSync(outputDir)) {
+    const files = fs.readdirSync(outputDir);
+    files.forEach(file => {
+      if (file.endsWith('.md')) {
+        fs.unlinkSync(path.join(outputDir, file));
+      }
+    });
+  } else {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
 
   let successful = 0;
   let failed = 0;

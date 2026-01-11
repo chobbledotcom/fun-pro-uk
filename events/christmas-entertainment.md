@@ -6,8 +6,8 @@ meta_description: "Professional Christmas game hire across the UK. Branded festi
 featured: true
 eleventyNavigation:
   key: "Christmas Entertainment"
-  parent: "Celebrations & Parties"
-  order: 4
+  parent: "How We Help"
+  order: 6
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
