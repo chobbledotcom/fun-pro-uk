@@ -35,16 +35,8 @@
   border-radius: 8px;
   border: 1px solid #babbbc;
   background: #fafafa;
-  padding: 32px;
+  padding: var(--gap-items);
   position: relative;
-
-  @include breakpoints.down("md") {
-    padding: 16px;
-  }
-
-  @include breakpoints.down("sm") {
-    padding: 8px;
-  }
 }
 
 @mixin timeline-list($dot-color: #009dd7, $dot-size: 16px) {
@@ -354,9 +346,9 @@ body {
           margin-bottom: 16px;
         }
         ul.image-gallery {
-          gap: 16px;
+          gap: calc(var(--gap-items) / 2);
           li {
-            width: calc((100% - 32px) / 3);
+            width: calc((100% - var(--gap-items)) / 3);
           }
         }
       }
@@ -953,7 +945,7 @@ body.horizontal-nav main {
     text-align: left;
   }
   a.button {
-    margin-top: 32px;
+    margin-top: var(--gap-items);
   }
 }
 
@@ -1133,7 +1125,7 @@ body.reviews {
     padding: 0;
     margin: 0;
     flex-direction: row;
-    gap: 64px;
+    gap: 96px;
     flex-shrink: 0;
 
     li {
@@ -1498,7 +1490,7 @@ ul.items {
     display: flex;
     align-items: center;
     margin-top: 16px;
-    gap: 32px;
+    gap: var(--gap-items);
     justify-content: center;
 
     @include breakpoints.up("md") {
