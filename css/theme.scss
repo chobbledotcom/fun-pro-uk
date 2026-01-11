@@ -741,6 +741,26 @@ body.horizontal-nav main {
     @include breakpoints.up("lg") {
       & > ul {
         justify-content: flex-start !important;
+
+        // Dropdown caret icons for nav items with submenus
+        & > li:has(> ul) > a::after {
+          content: "";
+          display: inline-block;
+          width: 0;
+          height: 0;
+          margin-left: 6px;
+          vertical-align: middle;
+          border-left: 4px solid transparent;
+          border-right: 4px solid transparent;
+          border-top: 5px solid currentColor;
+          opacity: 0.6;
+          transition: opacity 0.2s ease-in-out;
+        }
+
+        & > li:has(> ul):hover > a::after {
+          opacity: 1;
+        }
+
         & > li:has(a[href="/events/"]):hover {
           & > a {
             font-weight: 500;
