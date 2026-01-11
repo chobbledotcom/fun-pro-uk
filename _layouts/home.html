@@ -18,8 +18,8 @@ layout: base
       <a href="/reviews/">See all our reviews</a>
     </p>
     {%- assign categories = collections.categories | getFeaturedCategories |
-    slice: 0, 3 -%} {%- include "items.html", items: categories, horizontal:
-    true -%}
+    slice: 0, 3 -%}
+    {%- include "items.html", items: categories, horizontal: true -%}
   </div>
 </section>
 
@@ -50,9 +50,11 @@ layout: base
       <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
     </p>
   </div>
+
   <p class="right">
     <a class="button blue" href="#">Leave a review</a>
   </p>
+
   {%- assign reviews = collections.reviews -%}
   <div class="slider-container">
     <ul class="items slider">
@@ -118,12 +120,12 @@ layout: base
       View All Games {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
   </h2>
-  {%- assign products = collections.products | getFeaturedProducts -%} {%-
-  include "items.html", items: products, horizontal: true -%}
+  {%- assign products = collections.products | getFeaturedProducts -%}
+  {%- include "items.html", items: products, horizontal: true -%}
 </section>
 
 <section class="homepage-events full-width">
   <h2>What Kind of Event Are You Planning?</h2>
-  {%- assign events = collections.events | getFeaturedEvents -%} {%- include
-  "items.html", items: events, horizontal: true -%}
+  {%- assign events = collections.events | getFeaturedEvents -%}
+  {%- include "items.html", items: events, horizontal: true -%}
 </section>
