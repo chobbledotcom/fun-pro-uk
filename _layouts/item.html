@@ -32,7 +32,7 @@ layout: base
     <div style="grid-area: reviews-header">
       {% include "item-reviews-count.html" %}
     </div>
-    <h2 style="grid-area: price">{{ price }}</h2>testing
+    <h2 style="grid-area: price">{{ price }}</h2>
     <div style="grid-area: specs" class="specs">
       {% include "item-specifications-list.html", highlights: true %}
     </div>
@@ -58,28 +58,32 @@ layout: base
 </div>
 
 {%- if specs -%}
-  <h2>Specifications</h2>
-  <dl class="big-specs">
-    {%- for spec in specs -%}
-      <div>
-        <dt>{{ spec.name }}</dt>
-        <dd>{{ spec.value }}</dd>
-      </div>
-    {%- endfor -%}
-  </dl>
+  <div class="big-specs">
+    <h2>Specifications</h2>
+    <dl>
+      {%- for spec in specs -%}
+        <div>
+          <dt>{{ spec.name }}</dt>
+          <dd>{{ spec.value }}</dd>
+        </div>
+      {%- endfor -%}
+    </dl>
+  </div>
 {%- endif -%}
 {%- if features and features.size > 0 -%}
-  <h2>What's Included</h2>
-  <ul class="big-features">
-    {%- for feature in features -%}
-      <li>{{ feature }}</li>
-    {%- endfor -%}
-  </ul>
-  <p>Everything you need for a stress-free experience. Just tell us where and when.</p>
-  <p>
-    <button
-      class="add-to-cart red"
-      data-item="{{ cart_attributes }}"
-    >+ Add To Quote</button>
-  </p>
+  <div class="big-features">
+    <h2>What's Included</h2>
+    <ul>
+      {%- for feature in features -%}
+        <li>{{ feature }}</li>
+      {%- endfor -%}
+    </ul>
+    <p>Everything you need for a stress-free experience. Just tell us where and when.</p>
+    <p>
+      <button
+        class="add-to-cart red"
+        data-item="{{ cart_attributes }}"
+      >+ Add To Quote</button>
+    </p>
+  </div>
 {%- endif -%}
