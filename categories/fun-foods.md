@@ -7,7 +7,7 @@ redirect_from:
   - "/category/fun-foods/"
 eleventyNavigation:
   key: "Fun Foods"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 8
 ---
 

@@ -23,8 +23,10 @@ const { convertSingle, convertBatch } = createConverter({
     pageHeading: (htmlContent) => extractContentHeading(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
-    // Get navigation info for this page from the extracted navigation structure
-    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
+    const { OLD_SLUG_TO_NEW } = require('../constants');
+    // Get navigation info using the new slug (after any renaming)
+    const lookupSlug = OLD_SLUG_TO_NEW[slug] || slug;
+    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, lookupSlug) : null;
     return generatePageFrontmatter(metadata, slug, extracted.pageHeading, navInfo);
   },
   beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now

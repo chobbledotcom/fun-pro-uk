@@ -1,15 +1,13 @@
 ---
 title: "Brand Activation"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Brand Activation"
 meta_description: "We have a wonderful selection of branded games to hire for all kinds of corporate events. Brand activations, exhibitions, trade shows &amp; much more. UK-wide."
 featured: true
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
-redirect_from:
-  - "/pages/branded-game-hire/"
 eleventyNavigation:
   key: "Brand Activation"
-  parent: "Corporate Events"
-  order: 6
+  parent: "How We Help"
+  order: 5
 ---
 
 # Branded Game Hire UK
@@ -20,12 +18,12 @@ We deliver branded exhibition entertainment to all kinds of occasions. Trade sho
 
 Our range of corporate event equipment for hire is endless. Just some of our most popular [interactive games](/categories/interactive-game-hire/#content) with branding options include:
 
-- [Batak Pro](/products/batak-pro/#content): This high-octane game sees participants lunging towards the buttons as they light up. Originally designed to train sports stars and athletes, the Batak game has become a staple of exhibitions and trade shows in the UK. People relish the opportunity for some energetic entertainment at these events!
-- [Pick and Mix Sweet Stands](/products/pix-n-mix-hire/#content): Who can walk past a Pick n' Mix and not feel at least a pang of temptation? Guests will fill up a bag with their favourite sweets and associate your brand with the good feeling you only receive when eating tasty treats.
-- [Ballnado Grabber](/products/ballnado-grabber/#content) and [Cash Grabber](/products/cash-grabber-machine-hire/#content): These are frequently seen at contests, competitions and giveaways. They're reminiscent of the final stage of the Crystal Maze - contestants stand in the Grab a Grand cube and try to snatch as many snowballs or pieces of paper as they can. Collect a certain number or beat the competition to win a prize.
-- [Prize Crane](/products/prize-crane-arcade-grabber/#content): Also known as the Claw Machine, the Prize Crane is a classic [arcade game](/categories/arcade-games/#content). Use the joystick to manoeuvre the claw around, press the button to collect when you're ready, and successfully transport a toy to the prize zone to win it immediately.
-- [High Striker](/products/high-striker/#content): Also known as the Strongman or Test Your Strength machine, the High Striker is a traditional fairground game that everyone can participate in. Simply whack the mallet with the hammer as hard as you can, and ring the bell to win a prize!
-- [Safe Cracker](/products/crack-the-code-safe-cracker/#content): This is a very tempting game that is sure to get plenty of participants. Choose a four-digit code to attempt to unlock the safe. Put a high-value prize in there and charge people for entry - it's a gamble for you, too, as someone could potentially win it in one!
+*   [Batak Pro](/products/batak-pro/#content): This high-octane game sees participants lunging towards the buttons as they light up. Originally designed to train sports stars and athletes, the Batak game has become a staple of exhibitions and trade shows in the UK. People relish the opportunity for some energetic entertainment at these events!
+*   [Pick and Mix Sweet Stands](/products/pix-n-mix-hire/#content): Who can walk past a Pick n' Mix and not feel at least a pang of temptation? Guests will fill up a bag with their favourite sweets and associate your brand with the good feeling you only receive when eating tasty treats.
+*   [Ballnado Grabber](/products/ballnado-grabber/#content) and [Cash Grabber](/products/cash-grabber-machine-hire/#content): These are frequently seen at contests, competitions and giveaways. They're reminiscent of the final stage of the Crystal Maze - contestants stand in the Grab a Grand cube and try to snatch as many snowballs or pieces of paper as they can. Collect a certain number or beat the competition to win a prize.
+*   [Prize Crane](/products/prize-crane-arcade-grabber/#content): Also known as the Claw Machine, the Prize Crane is a classic [arcade game](/categories/arcade-games/#content). Use the joystick to manoeuvre the claw around, press the button to collect when you're ready, and successfully transport a toy to the prize zone to win it immediately.
+*   [High Striker](/products/high-striker/#content): Also known as the Strongman or Test Your Strength machine, the High Striker is a traditional fairground game that everyone can participate in. Simply whack the mallet with the hammer as hard as you can, and ring the bell to win a prize!
+*   [Safe Cracker](/products/crack-the-code-safe-cracker/#content): This is a very tempting game that is sure to get plenty of participants. Choose a four-digit code to attempt to unlock the safe. Put a high-value prize in there and charge people for entry - it's a gamble for you, too, as someone could potentially win it in one!
 
 All this and much more can be provided for events across the UK, and can be branded with your logo, motto, colours and images through our in-house branding service. Just tell us about your requirements and let us deal with the rest.
 
@@ -59,6 +57,6 @@ Branded games aren't just for corporate events, either! You could print off acad
 
 **Look through our website to see the huge selection of corporate event entertainment and games we have ready for custom branding, and let us know exactly what you want. Any colour, logo or messaging shouldn't be a problem. We'll provide you with a bespoke, no-obligation quote, and when you're satisfied with everything, we'll begin printing!**
 
-_Fun Pro UK are the UK event and party hire experts. With everything from [photo booths](/categories/photo-booths-and-magic-mirrors/#content) to [air hockey tables](/products/air-hockey-table-hire/#content), we have a range of products suited for almost all purposes. Choose us for your next corporate event and you can be confident you're with a specialist team with an exceptional reputation._
+*Fun Pro UK are the UK event and party hire experts. With everything from [photo booths](/categories/photo-booths-and-magic-mirrors/#content) to [air hockey tables](/products/air-hockey-table-hire/#content), we have a range of products suited for almost all purposes. Choose us for your next corporate event and you can be confident you're with a specialist team with an exceptional reputation.*
 
 You can make a booking by email and letting us know about your branding requirements, or speak with us directly to discuss further. Call us on [02477220701](tel:02477220701), or visit our [contact page](/contact-fun-pro-uk/#content) to see some other ways to get in touch.

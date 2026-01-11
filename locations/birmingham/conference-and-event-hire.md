@@ -42,7 +42,7 @@ Different [corporate events](/office-and-corporate-entertainment/#content) have 
 
 [Corporate award ceremonies](/award-ceremonies/#content) - call for entertainment that complements the formality of the occasion; perhaps positioned for pre-dinner drinks rather than during the main programme.
 
-[Team-building days](/team-building-ideas/#content) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
+[Team-building days](/team-building-activities/#content) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
 
 Many types of corporate events often benefit from [branded entertainment](/events/brand-activation/#content) that reinforces your messaging whilst creating shareable moments for social media.
 
@@ -80,7 +80,7 @@ Planning early typically gives you more options and better availability, particu
 
 ## Why Choose Fun Pro for Birmingham Conference Hire
 
-As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
+As [corporate event specialists](/our-story/#content) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
 
 Our approach focuses on helping you make informed decisions rather than simply pushing equipment. We ask about your venue, your attendees, your goals, and your concerns, because a game that works brilliantly in one context might be entirely wrong for yours.
 

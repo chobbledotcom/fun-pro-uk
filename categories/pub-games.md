@@ -7,7 +7,7 @@ redirect_from:
   - "/category/pub-games/"
 eleventyNavigation:
   key: "Pub Games"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 3
 ---
 

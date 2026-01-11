@@ -138,6 +138,6 @@ Wherever your event takes place, our professional team can manage the delivery, 
 
 ## Contact Fun Pro For Brand Activation Game Hire in Coventry
 
-We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/team-building-ideas/#content) days, product launches, and many more.
+We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/team-building-activities/#content) days, product launches, and many more.
 
 No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk/#content) today for a free quote and for more details on our promotional game hire for events.

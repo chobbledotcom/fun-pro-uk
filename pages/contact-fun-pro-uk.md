@@ -4,9 +4,6 @@ meta_description: "Get in touch with the team at Fun Pro UK to discuss how we ca
 layout: contact.html
 redirect_from:
   - "/pages/contact-fun-pro-uk/"
-eleventyNavigation:
-  key: "Contact Fun Pro UK"
-  order: 6
 ---
 
 # Contact Us

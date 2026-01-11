@@ -7,7 +7,7 @@ redirect_from:
   - "/category/roll-and-bowl/"
 eleventyNavigation:
   key: "Roll & Bowl"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 6
 ---
 

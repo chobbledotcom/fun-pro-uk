@@ -21,7 +21,7 @@ faqs:
   - question: "Can the games be customised with branding or themes?"
     answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/wedding-entertainment/#content), a team building, or a corporate event."
   - question: "Can I hire the games for corporate events or team-building activities?"
-    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/team-building-ideas/#content). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
+    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/team-building-activities/#content). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
 ---
 
 # **Trusted Interactive Game Hire in the UK**

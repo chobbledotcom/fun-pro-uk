@@ -20,7 +20,7 @@ Kellanova is a multinational food company that focuses on cereals, snack product
     
 *   Custom-branded [Whack-a-Mole](/products/whack-a-mole-game-hire/#content) game, featuring iconic Kellanova characters (Tony the Tiger and Coco Pops monkey)
     
-*   Repeat client demonstrating trust in [Fun Pro's service](/about-corporate-entertainment-hire/#content)
+*   Repeat client demonstrating trust in [Fun Pro's service](/our-story/#content)
     
 *   Seamless installation despite logistical challenges (Great North Run road closures)
     

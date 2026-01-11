@@ -217,80 +217,54 @@ const slugifyKey = (key) => {
 };
 
 /**
- * Get navigation info for a specific slug
- * @param {Object} navigation - Navigation structure from extractNavigationFromHtml
+ * Get navigation info for a specific slug using the new NAVIGATION_STRUCTURE
+ * @param {Object} navigation - Navigation structure (ignored, kept for compatibility)
  * @param {string} slug - The content slug
  * @returns {Object|null} Navigation info with parent and order, or null
  */
 const getNavigationForSlug = (navigation, slug) => {
-  // First check if it's a top-level link (non-dropdown)
-  const topLevelInfo = navigation.topLevelLinks[slug];
-  if (topLevelInfo) {
-    return {
-      parent: null, // No parent for top-level items
-      parentOrder: null,
-      order: topLevelInfo.order,
-      text: topLevelInfo.key,
-      type: 'page',
-      isTopLevel: true,
-    };
+  const { NAVIGATION_STRUCTURE, OLD_SLUG_TO_NEW } = require('../constants');
+
+  // Map old slug to new slug if needed
+  const actualSlug = OLD_SLUG_TO_NEW[slug] || slug;
+
+  // Check if this slug is a top-level dropdown parent (e.g., "events" matches "Event Type")
+  // Note: Special handling for event-type -> events rename
+  if (actualSlug === 'event-type' || actualSlug === 'events') {
+    const topLevelItem = NAVIGATION_STRUCTURE.topLevel.find(item => item.key === "Event Type");
+    if (topLevelItem) {
+      return {
+        parent: null,
+        parentOrder: null,
+        order: topLevelItem.order,
+        text: topLevelItem.key,
+        type: 'page',
+        isTopLevel: true,
+        isDropdownParent: true,
+      };
+    }
   }
 
-  // Check if the slug matches a dropdown parent key (e.g., "event-type" matches "Event Type")
-  // This handles cases where a page exists for the dropdown parent but isn't listed as a child
-  const matchingDropdownParent = navigation.items.find(item =>
-    item.isDropdown && slugifyKey(item.key) === slug
-  );
-  if (matchingDropdownParent) {
-    return {
-      parent: null, // No parent - this IS the dropdown parent
-      parentOrder: null,
-      order: matchingDropdownParent.order,
-      text: matchingDropdownParent.key,
-      type: 'page',
-      isTopLevel: true,
-      isDropdownParent: true,
-    };
+  // Search all dropdowns for this slug
+  for (const [parentKey, children] of Object.entries(NAVIGATION_STRUCTURE.dropdowns)) {
+    const child = children.find(c => c.slug === actualSlug);
+    if (child) {
+      // Find the parent's order in the top-level navigation
+      const parentItem = NAVIGATION_STRUCTURE.topLevel.find(item => item.key === parentKey);
+      const parentOrder = parentItem ? parentItem.order : 1;
+
+      return {
+        parent: parentKey,
+        parentOrder,
+        order: child.order,
+        text: child.text,
+        type: child.type,
+        isTopLevel: false,
+      };
+    }
   }
 
-  // Then check if it's a dropdown child
-  const parentKey = navigation.slugToParent[slug];
-  if (!parentKey) return null;
-
-  const children = navigation.dropdowns[parentKey];
-  if (!children) return null;
-
-  const child = children.find(c => c.slug === slug);
-  if (!child) return null;
-
-  // Find the parent's order in the top-level navigation
-  const parentItem = navigation.items.find(item => item.key === parentKey);
-  const parentOrder = parentItem ? parentItem.order : 1;
-
-  // Check if this child's text matches the parent key (case-insensitive)
-  // If so, this item should BE the dropdown parent, not a child of itself
-  const isDropdownParent = child.text.toLowerCase().trim() === parentKey.toLowerCase().trim();
-
-  if (isDropdownParent) {
-    return {
-      parent: null, // No parent - this IS the dropdown parent
-      parentOrder: null,
-      order: parentOrder, // Use the parent's order in the top-level nav
-      text: child.text,
-      type: child.type,
-      isTopLevel: true,
-      isDropdownParent: true,
-    };
-  }
-
-  return {
-    parent: parentKey,
-    parentOrder,
-    order: child.order,
-    text: child.text,
-    type: child.type,
-    isTopLevel: false,
-  };
+  return null;
 };
 
 /**

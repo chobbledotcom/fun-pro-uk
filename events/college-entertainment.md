@@ -1,10 +1,9 @@
 ---
 title: "College Entertainment"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "College Entertainment"
 meta_description: "Looking for ways to keep college and university students entertained at Fresher&#39;s week, extravs or any similar event? Get ideas from the UK party hire experts!"
 featured: true
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
-thumbnail: /images/placeholders/university.png
 redirect_from:
   - "/pages/college-and-university-entertainment/"
 eleventyNavigation:
@@ -41,6 +40,6 @@ Who at the university has the best moves? This debate will be settled once and f
 
 These are just a few examples of the entertainment we have on offer for college and university events at Fun Pro UK. All of our products are tried and tested by students of all varieties, and they are always hugely popular. What's more, because they are commercial grade there's no need to worry about them not being able to handle a day of energetic students using them. These amusements are really built to last.
 
-_If you're planning something small just hire one item, or if it's a major event such as Freshers' Fair, why not get a load? It's really up to you! Our online booking system is always open and ready to accept orders, so get compiling your perfect party line-up today!_
+*If you're planning something small just hire one item, or if it's a major event such as Freshers' Fair, why not get a load? It's really up to you! Our online booking system is always open and ready to accept orders, so get compiling your perfect party line-up today!*
 
-_[Contact us](/contact-fun-pro-uk/#content) if you'd like to speak with our team directly, or alternatively, make a booking through our website._
+*[Contact us](/contact-fun-pro-uk/#content) if you'd like to speak with our team directly, or alternatively, make a booking through our website.*

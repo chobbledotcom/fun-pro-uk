@@ -1,11 +1,11 @@
 ---
-meta_description: "Latest news and updates from Fun Pro UK about interactive game hire, corporate events, and entertainment."
 meta_title: "News & Updates | Fun Pro UK"
-permalink: /news/
+meta_description: "All of the latest news from Fun Pro UK about interactive game hire, corporate events, exhibitions, and parties."
+permalink: "/news/"
 layout: news-archive.html
 eleventyNavigation:
   key: News
-  order: 2
+  order: 5
 ---
 
 # News & Updates

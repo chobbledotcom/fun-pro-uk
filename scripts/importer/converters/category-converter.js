@@ -20,13 +20,15 @@ const { convertSingle, convertBatch } = createConverter({
     hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
+    const { OLD_SLUG_TO_NEW } = require('../constants');
     // Preserve original meta title from <title> tag before overwriting
     const metaTitle = metadata.title;
     if (extracted.categoryName) {
       metadata.title = extracted.categoryName;
     }
-    // Get navigation info for this category from the extracted navigation structure
-    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, slug) : null;
+    // Get navigation info using the new slug (after any renaming)
+    const lookupSlug = OLD_SLUG_TO_NEW[slug] || slug;
+    const navInfo = context.navigation ? getNavigationForSlug(context.navigation, lookupSlug) : null;
     // Pass FAQs extracted from old site
     const faqs = extracted.faqs || [];
     return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs, metaTitle);

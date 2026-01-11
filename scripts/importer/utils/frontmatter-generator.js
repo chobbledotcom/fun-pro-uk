@@ -27,6 +27,12 @@ const PAGE_CONFIG = {
     layout: "events",
     rename: "events",
   },
+  "team-building-ideas": {
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
+  },
+  "event-management": {
+    subtitle: "Subtitle subtitle subtitle subtitle subtitle",
+  },
 };
 
 /**
@@ -45,9 +51,10 @@ const generatePageFrontmatter = (
   pageHeading = null,
   navInfo = null,
 ) => {
+  const { OLD_SLUG_TO_NEW } = require("../constants");
   const pageConfig = PAGE_CONFIG[slug] || {};
   const layout = pageConfig.layout || "page";
-  const newSlug = pageConfig.rename || slug;
+  const newSlug = pageConfig.rename || OLD_SLUG_TO_NEW[slug] || slug;
 
   // Pages that were already at root level on the old site don't need redirects
   const rootPages = ["contact", "reviews", "delivery-areas", "testimonials"];
@@ -59,6 +66,11 @@ const generatePageFrontmatter = (
 meta_title: "${metadata.title || ""}"
 meta_description: "${metadata.meta_description || ""}"
 layout: ${layout}`;
+
+  // Add subtitle if configured for this page
+  if (pageConfig.subtitle) {
+    frontmatter += `\nsubtitle: "${pageConfig.subtitle}"`;
+  }
 
   // Add redirect_from for old /pages/ URLs
   // If renamed, also add redirect from the old slug at root level
