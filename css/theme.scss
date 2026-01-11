@@ -193,23 +193,39 @@ article#content,
 .footer {
   display: grid;
   grid-template-columns:
+    [left-start]
+    0
     [full-width-start]
     1fr
     [content-start]
-    1110px
+    550px
+    [left-end]
+    0
+    [right-start]
+    550px
     [content-end]
     1fr
-    [full-width-end];
+    [full-width-end]
+    0
+    [right-end];
 
   @include breakpoints.down("xl") {
     grid-template-columns:
+      [left-start]
+      0
       [full-width-start]
       32px
       [content-start]
       1fr
+      [left-end]
+      0
+      [right-start]
+      1fr
       [content-end]
       32px
-      [full-width-end];
+      [full-width-end]
+      0
+      [right-end];
   }
 
   @include breakpoints.down("md") {
@@ -341,8 +357,12 @@ body {
 
       .specs dl {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 8px;
+
+        @include breakpoints.up("lg") {
+          grid-template-columns: 1fr 1fr;
+        }
 
         & > div {
           display: grid;
@@ -385,7 +405,7 @@ body {
         list-style-type: none;
         padding-left: 0;
         li {
-          padding-left: 40px;
+          padding-left: 104px;
           padding-bottom: 8px;
           position: relative;
           &::before {
@@ -399,7 +419,7 @@ body {
             background-color: #e1f1f6;
             border-radius: 100%;
             position: absolute;
-            left: 0;
+            left: 64px;
             top: 0;
           }
         }
@@ -426,10 +446,30 @@ body {
             text-align: left;
           }
         }
+        @include breakpoints.up("md") {
+          grid-area: left;
+          padding-right: 64px;
+          display: flex;
+          flex-direction: column;
+          align-items: end;
+          & > div {
+            width: max(550px, 50%);
+          }
+        }
       }
       .big-features {
         @include section-padding;
         line-height: 32px;
+        @include breakpoints.up("md") {
+          grid-area: right;
+          padding-left: 64px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          & > li {
+            width: max(550px, 50%);
+          }
+        }
       }
     }
   }
@@ -1318,11 +1358,11 @@ ul.items {
       font-weight: 500;
       margin-bottom: 8px;
     }
-    // 10px = 32px / 3 rows, ish
-    width: calc(33% - 10px);
+    // 19px = 64px / 3 rows, ish
+    width: calc(33% - 19px);
     @include breakpoints.down("md") {
       // 8px = 16px / 2 rows
-      width: calc(50% - 8px);
+      width: calc(50% - 16px);
     }
     @include breakpoints.down("sm") {
       width: 100%;
