@@ -4,10 +4,6 @@ meta_description: "Professional indoor game hire for corporate events and exhibi
 layout: page
 redirect_from:
   - "/pages/indoor-game-hire-for-corporate-events-across-uk/"
-eleventyNavigation:
-  key: "Indoor Game Hire for Corporate Events Across the UK"
-  parent: "Event Type"
-  order: 14
 ---
 
 # Indoor Game Hire for Corporate Events Across the UK

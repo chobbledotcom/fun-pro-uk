@@ -3,9 +3,9 @@ meta_title: "Our Delivery Areas | Fun Pro UK"
 meta_description: "Primarily servicing Coventry, Birmingham and London, we deliver nationwide to provide games for a range of corporate events. Request a quote today."
 layout: locations
 eleventyNavigation:
-  key: "Delivery Areas"
+  key: "Coverage Areas"
   parent: "About Us"
-  order: 9
+  order: 3
 ---
 
 # Event Game Hire Across The UK

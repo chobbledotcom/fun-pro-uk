@@ -72,7 +72,7 @@ tabs:
       
       Electronic dart boards bring competitive fun to [corporate events](/office-and-corporate-entertainment/#content) whilst solving the practical challenges that traditional dartboards create. With automatic scoring, venue-safe soft tip darts, and multiple game modes built in, they're designed for professional events where you need engaging entertainment that works for everyone, from complete beginners to office darts champions.
       
-      As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand the questions you're asking: Will it damage the venue? Can beginners play? How much space do we need? This page answers those concerns and helps you decide if electronic dart board hire is right for your event.
+      As [corporate event specialists](/our-story/#content) with over 15 years of experience, we understand the questions you're asking: Will it damage the venue? Can beginners play? How much space do we need? This page answers those concerns and helps you decide if electronic dart board hire is right for your event.
       
       ## Why Choose Electronic Dart Boards for Your Event?
       
@@ -86,7 +86,7 @@ tabs:
       
       ## Where They Work Best
       
-      Electronic dart boards suit corporate fun days and [team building events](/team-building-ideas/#content), creating natural opportunities for friendly competition between departments. At [exhibition](/events/exhibition-games/#content) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
+      Electronic dart boards suit corporate fun days and [team building events](/team-building-activities/#content), creating natural opportunities for friendly competition between departments. At [exhibition](/events/exhibition-games/#content) stands and trade shows, they attract footfall with quick games (3-5 minutes per person) and offer branding opportunities on the dartboard surround.
       
       For [award ceremonies](/events/exhibition-games/#content) and corporate parties, they provide entertainment during reception drinks or networking periods. At [Christmas parties](/events/christmas-entertainment/#content), you can run tournaments with the Luke Littler effect making darts particularly topical right now.
       

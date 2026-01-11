@@ -4,10 +4,6 @@ meta_description: "Terms and Conditions of Hire | Fun Pro UK | Event Rentals - F
 layout: page
 redirect_from:
   - "/pages/terms-and-condition/"
-eleventyNavigation:
-  key: "Terms & Conditions"
-  parent: "About Us"
-  order: 7
 ---
 
 # **Terms and Conditions of Hire**

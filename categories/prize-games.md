@@ -7,7 +7,7 @@ redirect_from:
   - "/category/prize-games/"
 eleventyNavigation:
   key: "Prize Games"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 2
 ---
 

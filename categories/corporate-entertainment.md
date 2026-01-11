@@ -5,6 +5,10 @@ meta_description: "Looking for fun entertainment for office parties &amp; corpor
 featured: true
 redirect_from:
   - "/category/corporate-entertainment/"
+eleventyNavigation:
+  key: "Corporate Entertainment"
+  parent: "How We Help"
+  order: 1
 ---
 
 # Office & Corporate Entertainment Ideas

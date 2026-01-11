@@ -24,7 +24,7 @@ Our [nationwide coverage](/delivery-areas/#content) means we serve Manchester ev
 
 ### Team Building Days and Staff Parties
 
-[Team building events](/team-building-ideas/#content) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/categories/interactive-game-hire/#content) create natural conversation starters that help colleagues see each other in a completely different light.
+[Team building events](/team-building-activities/#content) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/categories/interactive-game-hire/#content) create natural conversation starters that help colleagues see each other in a completely different light.
 
 Our professional-grade equipment includes reaction games like [Batak](/categories/batak/#content) units that test reflexes and coordination, encouraging friendly competition without putting anyone on the spot. [Racing simulators](/products/racing-car-simulators/#content) appeal to competitive spirits whilst remaining accessible to different skill levels. For teams that prefer collaborative activities, our [human table football](/products/human-table-football/#content) creates an environment where success depends on working together.
 

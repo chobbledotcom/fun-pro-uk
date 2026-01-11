@@ -7,7 +7,7 @@ redirect_from:
   - "/category/photo-booths-and-magic-mirrors/"
 eleventyNavigation:
   key: "Photo Booths & Magic Mirrors"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 11
 ---
 

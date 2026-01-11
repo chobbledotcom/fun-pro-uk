@@ -4,14 +4,13 @@ meta_title: "Corporate Event Hire Sheffield | Interactive Games"
 meta_description: "Corporate event hire in Sheffield from Fun Pro UK. Interactive games, photo booths and entertainment for conferences, team building and staff parties."
 redirect_from:
   - "/pages/corporate-event-hire-sheffield/"
-  - "/corporate-event-hire-sheffield/"
 ---
 
 ## Corporate Event Hire in Sheffield
 
-Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea/#content) at Sheffield City Hall, a [team building](/team-building-ideas/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
+Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea/#content) at Sheffield City Hall, a [team building](/team-building-activities/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
 
-At Fun Pro, we've been helping businesses across the UK with their corporate entertainment for over 15 years. As a [family-run company](/about-corporate-entertainment-hire/#content) based in Coventry, we're well-placed to serve Sheffield and South Yorkshire, with regular deliveries to venues throughout the region as well as the rest of the UK.
+At Fun Pro, we've been helping businesses across the UK with their corporate entertainment for over 15 years. As a [family-run company](/our-story/#content) based in Coventry, we're well-placed to serve Sheffield and South Yorkshire, with regular deliveries to venues throughout the region as well as the rest of the UK.
 
 ## Interactive Game Hire for Sheffield Corporate Events
 
@@ -81,7 +80,7 @@ Sheffield has no shortage of venues for festive celebrations, and the right ente
 
 We've built our reputation on doing what we say we'll do. Companies like [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content) have used our services year after year because they know they can rely on us to turn up on time, set up without fuss, and provide equipment that works.
 
-As a [family business](/about-corporate-entertainment-hire/#content), we take a personal interest in every event. When you get in touch, you'll speak to someone who can answer your questions and help you choose games that suit your venue, your guests, and your budget. We understand that event planning can be stressful, so we try to make our part of it as straightforward as possible.
+As a [family business](/our-story/#content), we take a personal interest in every event. When you get in touch, you'll speak to someone who can answer your questions and help you choose games that suit your venue, your guests, and your budget. We understand that event planning can be stressful, so we try to make our part of it as straightforward as possible.
 
 All our equipment is safety-tested and covered by full public liability [insurance](/insurance/#content); something corporate clients rightly expect.
 

@@ -112,7 +112,7 @@ tabs:
       
       ## Why Choose Roller Bowler for Your Next Event?
       
-      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
+      At [Fun Pro UK](/our-story/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
       
       *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
           

@@ -7,7 +7,7 @@ redirect_from:
   - "/category/christmas-grotto-hire/"
 eleventyNavigation:
   key: "Christmas Grotto Hire"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 9
 ---
 

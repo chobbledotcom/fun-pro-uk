@@ -1,16 +1,13 @@
 ---
 title: "Christmas Entertainment"
+subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Christmas Entertainment"
 meta_description: "Professional Christmas game hire across the UK. Branded festive entertainment for corporate events, parties &amp; exhibitions. Get a no-obligation quote today."
 featured: true
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
-thumbnail: /images/placeholders/christmas-party.png
-redirect_from:
-  - "/pages/christmas-entertainment-game-hire/"
 eleventyNavigation:
   key: "Christmas Entertainment"
-  parent: "Celebrations & Parties"
-  order: 4
+  parent: "How We Help"
+  order: 6
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
@@ -29,30 +26,37 @@ Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birm
 
 ### Interactive Games:
 
-- [Batak Lite](/products/batak-lite/#content) & [Batak Pro](/products/batak-pro/#content)
-- [Strike a Snowflake](/products/strike-a-snow-flake/#content)
-- [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
-- [Candy Cane Megawire](/products/candy-cane-megawire/#content)
+*   [Batak Lite](/products/batak-lite/#content) & [Batak Pro](/products/batak-pro/#content)
+    
+*   [Strike a Snowflake](/products/strike-a-snow-flake/#content)
+    
+*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
+    
+*   [Candy Cane Megawire](/products/candy-cane-megawire/#content)
 
 ### Prize Games:
 
-- [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
-- [Christmas Prize Crane](/products/christmas-prize-crane/#content)
-- [Casino Table](/products/casino-table-hire/#content)
+*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
+    
+*   [Christmas Prize Crane](/products/christmas-prize-crane/#content)
+    
+*   [Casino Table](/products/casino-table-hire/#content)
 
 ### Strategy Games
 
-- [Retro Arcade Games](/products/retro-arcade-games/#content)
+*   [Retro Arcade Games](/products/retro-arcade-games/#content)
 
 ### Simulation Games
 
-- [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
-- [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
-- [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
+*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
+    
+*   [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
+    
+*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
 
 ### Photo & Entertainment Games
 
-- [Christmas Photo Booths](/products/christmas-photo-booths/#content)
+*   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
 
 ## What's Included in Christmas Game Hire?
 
@@ -60,11 +64,15 @@ We make festive entertainment hire as seamless as possible, providing everything
 
 When you hire Christmas games from Fun Pro UK, you receive:
 
-- UK-wide delivery and collection by our professional team\*
-- Complete installation and setup by trained technicians
-- Custom Christmas branding options to showcase your company identity
-- On-site support during your event (available on request)
-- Flexible hire periods to suit your event schedule
+*   UK-wide delivery and collection by our professional team\*
+    
+*   Complete installation and setup by trained technicians
+    
+*   Custom Christmas branding options to showcase your company identity
+    
+*   On-site support during your event (available on request)
+    
+*   Flexible hire periods to suit your event schedule
 
 \*Delivery fees may apply depending on location.
 
@@ -74,10 +82,13 @@ Make your Christmas games a powerful marketing tool with our comprehensive custo
 
 Christmas Branding Options:
 
-- Custom festive backdrops
-- Branded game panels
-- Corporate Christmas messaging
-- Full colour logo application
+*   Custom festive backdrops
+    
+*   Branded game panels
+    
+*   Corporate Christmas messaging
+    
+*   Full colour logo application
 
 Transform standard games into branded Christmas entertainment that guests will remember long after your event ends.
 
@@ -115,9 +126,11 @@ Yes, professional delivery, setup, and collection are included in all our Christ
 
 Fun Pro UK is proud to have provided Christmas entertainment solutions for leading UK organisations, including:
 
-- Boots
-- Amazon
-- Coventry University
+*   Boots
+    
+*   Amazon
+    
+*   Coventry University
 
 And many more.
 

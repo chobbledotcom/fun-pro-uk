@@ -7,7 +7,7 @@ redirect_from:
   - "/category/fun-fair-stalls/"
 eleventyNavigation:
   key: "Fun Fair Stalls"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 7
 faqs:
   - question: "How can I make sure the food stalls are suitable for my event?"

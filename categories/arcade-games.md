@@ -8,7 +8,7 @@ redirect_from:
   - "/category/arcade-games/2/lights-out-game/"
 eleventyNavigation:
   key: "Arcade Games"
-  parent: "Products"
+  parent: "Entertainment Hire"
   order: 1
 faqs:
   - question: "What's included in our arcade machine hire service?"

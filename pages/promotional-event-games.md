@@ -4,10 +4,6 @@ meta_description: "Boost brand visibility with promotional game hire for corpora
 layout: page
 redirect_from:
   - "/pages/promotional-event-games/"
-eleventyNavigation:
-  key: "Brand Activation Game Hire For Corporate Events"
-  parent: "How We Help"
-  order: 2
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire

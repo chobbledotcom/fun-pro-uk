@@ -21,7 +21,7 @@ This thrilling test of agility, hand-eye coordination, and reflexes makes it a f
 
 ## **Why Hire Batak Pro in Coventry?**
 
-Whether you're planning a business event, product launch, or [team-building day](/team-building-ideas/#content) in Coventry, our Batak Pro hire provides an interactive and visually engaging experience. Here’s why it’s a great choice:
+Whether you're planning a business event, product launch, or [team-building day](/team-building-activities/#content) in Coventry, our Batak Pro hire provides an interactive and visually engaging experience. Here’s why it’s a great choice:
 
 **Competitive Fun** – Guests can challenge each other to see who has the fastest reactions.
 

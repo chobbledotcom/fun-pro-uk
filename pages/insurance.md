@@ -4,10 +4,6 @@ meta_description: "Find out about Fun Pro UK&#39;s insurance and read more on ou
 layout: page
 redirect_from:
   - "/pages/insurance/"
-eleventyNavigation:
-  key: "Insurance"
-  parent: "About Us"
-  order: 2
 ---
 
 # Insurance and Safety

@@ -88,7 +88,7 @@ tabs:
         
       ✓ Corporate Christmas parties  
       ✓ Holiday themed [team building events  
-      ](/team-building-ideas/#content)✓ Christmas funfairs  
+      ](/team-building-activities/#content)✓ Christmas funfairs  
       ✓ [Family gatherings](http://)  
         
       ...and more!

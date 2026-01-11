@@ -121,7 +121,7 @@ tabs:
       
       Fun Pro UK is the trusted provider of [high quality game hires](/#content) for any event. Choosing our popcorn machine cart hire means choosing reliability, quality, and a fun filled experience for your guests. We are proud to deliver exceptional service that effortlessly integrates into your event.
       
-      Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/team-building-ideas/#content) and [summer fairs](/events/summer-entertainment/#content) to [weddings](/wedding-entertainment/#content) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
+      Popcorn is a wonderful treat that suits every occasion, from [corporate team building days](/team-building-activities/#content) and [summer fairs](/events/summer-entertainment/#content) to [weddings](/wedding-entertainment/#content) and birthday parties. We provide hassle free services from start to finish. We deliver and set up the equipment, manage serving throughout the event, and handle all the cleanup. All you need to do is sit back and watch your guests enjoy themselves!
       
       Let us help make your event unforgettable with a popcorn machine cart that delights your guests and creates an unforgettable atmosphere.
       
