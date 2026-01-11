@@ -159,12 +159,8 @@
   --gap-md: var(--space-4);
   --gap-items: var(--space-4);
 
-  @include breakpoints.down("md") {
-    --gap-items: var(--space-2);
-  }
-
   @include breakpoints.down("sm") {
-    --gap-items: var(--space-1);
+    --gap-items: var(--space-2);
   }
 
   /* Section Padding */
