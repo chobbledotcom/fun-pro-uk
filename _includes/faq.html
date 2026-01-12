@@ -1,10 +1,13 @@
 {%- if faqs.size > 0 -%}
-<dl class="faqs">
-  {%- for faq in faqs -%}
-  <details>
-    <summary>{{ faq.question }}</summary>
-    <p>{{ faq.answer }}</p>
-  </details>
-  {%- endfor -%}
-</dl>
+  <div class="faqs-container">
+    <h2>Frequently Asked Questions</h2>
+    <dl class="faqs">
+      {%- for faq in faqs -%}
+      <details>
+        <summary>{{ faq.question }}</summary>
+        <p>{{ faq.answer }}</p>
+      </details>
+      {%- endfor -%}
+    </dl>
+  </div>
 {%- endif -%}
