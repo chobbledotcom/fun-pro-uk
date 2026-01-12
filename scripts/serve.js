@@ -1,27 +1,18 @@
-import { spawn } from "node:child_process";
-import path from "node:path";
-
+import { path, bun, spawn } from "./utils.js";
 import { prep } from "./prepare-dev.js";
 
-const dev = path.join(import.meta.dirname, "..", ".build", "dev");
+const dev = path(".build", "dev");
 
 prep();
 
 console.log("Starting server...");
 
-const watch = spawn("bun", [path.join(import.meta.dirname, "watch.js")], {
-  stdio: "inherit",
-});
-
-const eleventy = spawn("bun", ["run", "serve"], {
-  cwd: dev,
-  stdio: "inherit",
-  shell: true,
-});
+const watchProc = spawn(["bun", path("scripts", "watch.js")]);
+const eleventyProc = bun.spawn("serve", dev);
 
 process.on("SIGINT", () => {
   console.log("\nStopping...");
-  watch.kill();
-  eleventy.kill();
+  watchProc.kill();
+  eleventyProc.kill();
   process.exit();
 });
