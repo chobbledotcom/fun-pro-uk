@@ -197,20 +197,23 @@ const convertEvents = async () => {
   for (const parent of EVENT_HIERARCHY) {
     console.log(`\n  Processing parent category: ${parent.title}`);
 
-    // Find parent info
-    const parentInfo = findEventInHierarchy(parent.slug);
-    total++;
+    // Skip parent page generation if skipParentPage is set
+    if (!parent.skipParentPage) {
+      // Find parent info
+      const parentInfo = findEventInHierarchy(parent.slug);
+      total++;
 
-    // Convert or create parent category page
-    if (parent.oldSiteSlug) {
-      if (await convertEventFromOldSite(parentInfo, outputDir)) {
-        successful++;
+      // Convert or create parent category page
+      if (parent.oldSiteSlug) {
+        if (await convertEventFromOldSite(parentInfo, outputDir)) {
+          successful++;
+        } else {
+          failed++;
+        }
       } else {
-        failed++;
+        createPlaceholderEvent(parentInfo, outputDir);
+        successful++;
       }
-    } else {
-      createPlaceholderEvent(parentInfo, outputDir);
-      successful++;
     }
 
     // Process child events
