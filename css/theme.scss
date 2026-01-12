@@ -137,7 +137,7 @@
 
 :root {
   /* Layout & Spacing */
-  --width-content: 1920px;
+  --width-content: 1820px;
   --space-1: 8px;
   --space-2: 16px;
   --space-3: 24px;
@@ -196,19 +196,21 @@ article#content,
   display: grid;
   grid-template-columns:
     [left-start]
-    50px
+    0
     [full-width-start]
+    50px
     1fr
     [content-start]
-    960px
+    910px
     [left-end]
     0
     [right-start]
-    960px
+    910px
     [content-end]
     1fr
-    [full-width-end]
     50px
+    [full-width-end]
+    0
     [right-end];
 
   @include breakpoints.down("xl") {
@@ -266,7 +268,7 @@ article#content,
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: 1920px;
+    max-width: 1820px;
     min-width: 0;
   }
   & > .breakout {
@@ -456,7 +458,7 @@ body {
           align-items: end;
           div,
           h2 {
-            width: min(960px, 50vw);
+            width: min(910px, 50vw);
             color: white;
           }
         }
@@ -471,7 +473,7 @@ body {
           flex-direction: column;
           justify-content: center;
           li {
-            width: min(960px, 50vw);
+            width: min(910px, 50vw);
           }
         }
       }
@@ -1369,7 +1371,7 @@ body.reviews {
   h2,
   p {
     margin: 0;
-    max-width: 960px;
+    max-width: 910px;
     color: #fff;
   }
   h2 {
