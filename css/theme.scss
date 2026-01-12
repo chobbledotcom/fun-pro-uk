@@ -484,7 +484,7 @@ body {
     }
   }
   &.locations {
-    article#content ul.items li {
+    article#content .cities-we-serve ul.items li {
       @include card;
       width: 367px;
       padding-top: 166px;
@@ -981,6 +981,15 @@ body.horizontal-nav main {
       margin: 0;
     }
   }
+  blockquote {
+    color: #1a1a1a;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 125% */
+    height: 135px;
+    overflow-y: auto;
+  }
 }
 
 .testimonials-slider,
@@ -1021,18 +1030,6 @@ body.reviews {
         margin: 0;
       }
     }
-  }
-}
-
-.testimonials-slider {
-  blockquote {
-    color: #1a1a1a;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 20px; /* 125% */
-    height: 135px;
-    overflow-y: auto;
   }
 }
 
@@ -1248,6 +1245,7 @@ body.reviews {
     }
     .right {
       text-align: center;
+      align-content: center;
       .stats {
         margin: calc(var(--gap-items) * 2) 0 0;
         list-style-type: none;
@@ -1287,7 +1285,7 @@ body.reviews {
     grid-template-areas: "header header" "left right";
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: var(--gap-items);
     & > h2 {
       grid-area: header;
     }
