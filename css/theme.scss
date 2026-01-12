@@ -999,15 +999,6 @@ body.horizontal-nav main {
       margin: 0;
     }
   }
-  blockquote {
-    color: #1a1a1a;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 20px; /* 125% */
-    height: 135px;
-    overflow-y: auto;
-  }
 }
 
 .testimonials-slider,
@@ -1035,6 +1026,13 @@ body.reviews {
       & > blockquote {
         grid-area: content;
         text-align: left;
+        color: #1a1a1a;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px; /* 125% */
+        height: 135px;
+        overflow-y: auto;
       }
       & > img {
         grid-area: avatar;
