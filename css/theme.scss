@@ -184,6 +184,9 @@ h3 {
 article#content {
   --color-link: #0e5ba7;
   border: none;
+  @include breakpoints.up("sm") {
+    scroll-padding-top: 40px;
+  }
 }
 
 article#content,
@@ -335,19 +338,16 @@ body {
   font-weight: 400;
   line-height: normal;
   padding: 0;
-  @include breakpoints.up("md") {
-    scroll-padding-top: 40px;
-  }
   &.item {
     article#content {
       background: #fafafa;
 
       @media screen and (min-width: 769px) {
         .current-image {
-          margin-bottom: 16px;
+          margin-bottom: 8px;
         }
         ul.image-gallery {
-          gap: calc(var(--gap-items) / 2);
+          gap: calc(var(--gap-items) / 4);
           li {
             width: calc((100% - var(--gap-items)) / 3);
           }
@@ -1538,9 +1538,12 @@ ol.steps {
 
 .homepage-events {
   background: #fafafa;
-  display: flex;
-  flex-direction: column;
-  gap: calc(var(--gap-items) * 2);
+  > div {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    gap: calc(var(--gap-items) * 2);
+  }
   h2 {
     font-size: 44px;
     font-weight: 500;
@@ -1888,7 +1891,7 @@ div.fun-pro-item {
   .inner {
     @include breakpoints.up("md") {
       display: grid;
-      gap: 16px;
+      gap: 32px 64px;
       grid-template-columns: 1fr 1fr;
       grid-template-rows: repeat(13, auto);
       & > * {
