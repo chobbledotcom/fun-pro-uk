@@ -196,7 +196,7 @@ article#content,
   display: grid;
   grid-template-columns:
     [left-start]
-    0
+    50px
     [full-width-start]
     1fr
     [content-start]
@@ -208,7 +208,7 @@ article#content,
     [content-end]
     1fr
     [full-width-end]
-    0
+    50px
     [right-end];
 
   @include breakpoints.down("xl") {
@@ -266,7 +266,7 @@ article#content,
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: 1200px;
+    max-width: 1920px;
     min-width: 0;
   }
   & > .breakout {
@@ -1462,6 +1462,7 @@ ol.steps {
   flex-wrap: wrap;
   margin: 0;
   padding: calc(var(--section-padding) / 2) 0 var(--section-padding);
+  justify-content: space-between;
 
   @include breakpoints.down("lg") {
     flex-direction: column;
@@ -1474,6 +1475,7 @@ ol.steps {
     align-items: center;
     text-align: center;
     flex: 1 0 0;
+    max-width: 450px;
     span {
       display: flex;
       padding: 4px 8px;
@@ -1599,13 +1601,14 @@ ol.steps {
 }
 
 .products-header {
-  padding: var(--section-padding-half);
+  padding: var(--section-padding-half) 0;
 
   h1,
   p {
     max-width: 650px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
   }
 }
 
