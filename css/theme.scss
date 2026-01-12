@@ -1381,11 +1381,15 @@ ol.steps {
     }
     @include breakpoints.down("lg") {
       display: grid;
-      grid-template-areas: "icon subtitle" "title subtitle";
+      grid-template-areas: "icon subtitle" "step subtitle" "title subtitle";
       grid-template-columns: 200px 1fr;
       svg {
         grid-area: icon;
         align-self: end;
+        justify-self: center;
+      }
+      span {
+        grid-area: step;
         justify-self: center;
       }
       h3 {
