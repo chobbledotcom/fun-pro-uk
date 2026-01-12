@@ -1410,13 +1410,19 @@ body.reviews {
   background-color: white;
   text-align: center;
   @include section-padding;
-
+  h2 {
+    margin: 0 0 16px;
+  }
   p {
     display: flex;
     gap: 16px;
     justify-content: center;
     flex-wrap: wrap;
     max-width: 680px;
+    margin: 0;
+    a {
+      margin: 0;
+    }
   }
 }
 
