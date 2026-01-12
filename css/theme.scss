@@ -1411,6 +1411,7 @@ body.reviews {
 
 ul.items {
   gap: var(--gap-items);
+  margin: var(--section-padding-half) 0;
   li {
     display: flex;
     flex-direction: column;
