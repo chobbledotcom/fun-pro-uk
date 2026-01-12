@@ -268,7 +268,7 @@ article#content,
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: 1820px;
+    max-width: max(1820px, 100vw);
     min-width: 0;
   }
   & > .breakout {
@@ -1419,7 +1419,7 @@ body.reviews {
     justify-content: center;
     flex-wrap: wrap;
     max-width: 680px;
-    margin: 0;
+    margin: 0 auto;
     a {
       margin: 0;
     }
@@ -1492,7 +1492,7 @@ ol.steps {
     align-items: center;
     text-align: center;
     flex: 1 0 0;
-    @include breakpoints.up("md") {
+    @include breakpoints.up("lg") {
       max-width: 450px;
     }
     span {
@@ -1956,6 +1956,7 @@ div.fun-pro-item {
     ul {
       height: 100%;
       grid-template-rows: 32px 1fr;
+      padding: 0;
     }
 
     .tab {
@@ -1971,7 +1972,7 @@ div.fun-pro-item {
       }
     }
     .body {
-      height: 390px;
+      height: calc(100% - 64px);
     }
   }
 }
