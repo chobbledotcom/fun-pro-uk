@@ -1460,7 +1460,7 @@ ol.steps {
   list-style-type: none;
   flex-wrap: wrap;
   margin: 0;
-  padding: var(--section-padding) 0;
+  padding: calc(var(--section-padding) / 2) 0 var(--section-padding);
 
   @include breakpoints.down("lg") {
     flex-direction: column;
