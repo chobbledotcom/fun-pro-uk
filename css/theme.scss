@@ -351,7 +351,7 @@ body {
         ul.image-gallery {
           gap: calc(var(--gap-items) / 4);
           li {
-            width: calc((100% - var(--gap-items)) / 3);
+            width: calc((100% - 16px) / 3);
           }
         }
       }
