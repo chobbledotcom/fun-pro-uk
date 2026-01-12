@@ -1,0 +1,10 @@
+{%- if faqs.size > 0 -%}
+<dl class="faqs">
+  {%- for faq in faqs -%}
+  <details>
+    <summary>{{ faq.question }}</summary>
+    <p>{{ faq.answer }}</p>
+  </details>
+  {%- endfor -%}
+</dl>
+{%- endif -%}
