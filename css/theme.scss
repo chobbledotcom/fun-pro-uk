@@ -1194,6 +1194,12 @@ body.reviews {
     }
     & > a {
       grid-area: link;
+      box-shadow: none;
+      background: white;
+      color: #009dd7;
+      svg {
+        fill: white;
+      }
     }
     & > .image-wrapper {
       grid-area: image;
