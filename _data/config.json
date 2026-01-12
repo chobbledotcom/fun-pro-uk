@@ -17,9 +17,9 @@
   "navigation_content_anchor": true,
   "category_order": [
     "products-header.html",
-    "category-content.html",
     "category-products.html",
     "category-subcategories.html",
+    "category-content.html",
     "what-you-get.html",
     "faq.html"
   ]
