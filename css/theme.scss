@@ -1190,6 +1190,7 @@ body.reviews {
     }
     & > ol {
       grid-area: left;
+      padding-left: 10px;
     }
     & > a {
       grid-area: link;
