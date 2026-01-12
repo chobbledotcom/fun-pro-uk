@@ -1,27 +1,17 @@
-import fs from "node:fs";
-import path from "node:path";
-
-import { buildDir } from "./consts.js";
+import { path, fs, bun } from "./utils.js";
 import { prep } from "./prepare-dev.js";
 
-const root = path.resolve(import.meta.dirname, "..");
-const build = path.join(root, buildDir);
-const template = path.join(build, "template");
-const dev = path.join(build, "dev");
+const templateTest = path(".build", "template", "test");
+const devTest = path(".build", "dev", "test");
+const dev = path(".build", "dev");
 
 prep();
 
-// Copy test directory from template (excluded by default in prep)
-const templateTestDir = path.join(template, "test");
-const devTestDir = path.join(dev, "test");
-
-if (fs.existsSync(templateTestDir)) {
+if (fs.exists(templateTest)) {
   console.log("Copying test directory...");
-  fs.rmSync(devTestDir, { recursive: true, force: true });
-  fs.cpSync(templateTestDir, devTestDir, { recursive: true });
+  fs.rm(devTest);
+  fs.cp(templateTest, devTest);
 }
 
 console.log("Running tests...");
-
-// Run the template's test suite in the dev directory
-Bun.spawnSync(["bun", "test"], { cwd: dev, stdio: ["inherit", "inherit", "inherit"] });
+bun.test(dev);

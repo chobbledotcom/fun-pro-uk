@@ -23,6 +23,7 @@ content:
       sort:
         - header_text
     fields:
+      - { name: subtitle, type: string, label: Subtitle }
       - name: body
         label: Body
         type: code
@@ -63,6 +64,7 @@ content:
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
       - name: categories
         label: Categories
         type: reference
@@ -96,11 +98,6 @@ content:
             label: Unit Price (£)
             required: true
           - { name: days, type: number, label: Days (for hire products) }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
       - { name: features, type: string, label: Features, list: true }
       - name: filter_attributes
         label: Filter Attributes
@@ -109,6 +106,11 @@ content:
         fields:
           - { name: name, type: string, label: Name, required: true }
           - { name: value, type: string, label: Value, required: true }
+      - name: body
+        label: Body
+        type: code
+        options:
+          language: markdown
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
@@ -141,6 +143,7 @@ content:
         list: true
         fields:
           - { name: title, type: string, label: Title, required: true }
+          - { name: image, type: image, label: Image }
           - name: body
             label: Body
             type: code
@@ -155,7 +158,6 @@ content:
     filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
-      - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - name: body
         label: Body
@@ -168,6 +170,7 @@ content:
         type: string
         label: Meta Description
         maxlength: 155
+      - { name: subtitle, type: string, label: Subtitle }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -189,7 +192,6 @@ content:
     subfolders: false
     fields:
       - { name: title, type: string, label: Title }
-      - { name: subtitle, type: string, label: Subtitle }
       - { name: date, label: Date, type: date }
       - name: author
         label: Author
@@ -200,6 +202,7 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
+      - { name: subtitle, type: string, label: Subtitle }
       - name: body
         label: Body
         type: code
@@ -233,16 +236,14 @@ content:
     view:
       fields:
         - title
-        - event_date
-        - recurring_date
-        - event_location
       primary: title
       sort:
         - title
     fields:
-      - { name: thumbnail, type: image, label: Thumbnail }
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
       - name: body
         label: Body
         type: code
@@ -347,6 +348,7 @@ content:
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
       - name: categories
         label: Categories
         type: reference
@@ -356,16 +358,16 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
-      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
-      - name: meta_description
-        type: string
-        label: Meta Description
-        maxlength: 155
       - name: body
         label: Body
         type: code
         options:
           language: markdown
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
