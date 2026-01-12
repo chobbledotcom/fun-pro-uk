@@ -1951,17 +1951,27 @@ div.fun-pro-item {
   #tabs {
     @include card;
     background: white;
+    height: 550px;
+
+    ul {
+      height: 100%;
+      grid-template-rows: 32px 1fr;
+    }
 
     .tab {
       width: fit-content;
       border-bottom: 2px solid transparent;
       transition: border-color 0.3s ease-in-out;
+      align-content: center;
       &.active,
       &:active,
       &:hover {
         border-bottom-color: #009dd7;
         text-decoration: none;
       }
+    }
+    .body {
+      height: 390px;
     }
   }
 }
