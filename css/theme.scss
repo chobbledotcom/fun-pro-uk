@@ -1830,12 +1830,17 @@ ol.steps {
 }
 
 .faqs {
-  @include breakpoints.up("md") {
-    column-count: 2;
+  @include breakpoints.up("lg") {
+    display: flex;
+    gap: var(--gap-items);
+  }
+
+  .faqs-column {
+    flex: 1;
+    margin: 0;
   }
 
   details {
-    break-inside: avoid;
     margin-bottom: 1rem;
   }
 
