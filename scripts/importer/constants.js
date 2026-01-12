@@ -1,4 +1,16 @@
 /**
+ * Placeholder thumbnails for event pages
+ * Maps event slug to placeholder image path
+ */
+const EVENT_THUMBNAILS = {
+  'celebrations-and-parties': '/images/placeholders/outdoor-party.png',
+  'christmas-entertainment': '/images/placeholders/christmas-party.png',
+  'circus-skills-workshop': '/images/placeholders/circus-skills-workshop.png',
+  'college-entertainment': '/images/placeholders/university.png',
+  'company-award-ceremonies': '/images/placeholders/award.png',
+};
+
+/**
  * Town/city names used to identify location-based pages
  * If a page filename contains one of these towns, it goes to the locations collection
  */
@@ -87,6 +99,20 @@ const EVENT_HIERARCHY = [
       { slug: 'school-entertainment', title: 'School Entertainment', oldSiteSlug: 'school-fun-day-entertainment-hire', sourceType: 'pages', order: 4 },
       { slug: 'fundraising-events', title: 'Fundraising Events', oldSiteSlug: 'fundraising-event-ideas', sourceType: 'pages', order: 5 },
       { slug: 'circus-skills-workshop', title: 'Circus Skills Workshop', oldSiteSlug: 'circus-skills-workshop', sourceType: 'category', order: 6 },
+    ]
+  },
+  // "How We Help" events - these use a different navigation parent
+  {
+    slug: 'how-we-help-events',
+    title: 'How We Help',
+    oldSiteSlug: null, // No page for the parent itself
+    sourceType: null,
+    navParent: 'How We Help', // Custom nav parent instead of "Event Type"
+    skipParentPage: true, // Don't generate a page for this parent
+    order: 4,
+    children: [
+      { slug: 'brand-activation', title: 'Brand Activation', oldSiteSlug: 'branded-game-hire', sourceType: 'pages', navParent: 'How We Help', order: 5 },
+      { slug: 'christmas-entertainment', title: 'Christmas Entertainment', oldSiteSlug: 'christmas-entertainment-game-hire', sourceType: 'pages', navParent: 'How We Help', order: 6 },
     ]
   }
 ];
@@ -411,6 +437,7 @@ module.exports = {
   EVENT_CATEGORIES,
   EVENT_PAGES,
   EVENT_HIERARCHY,
+  EVENT_THUMBNAILS,
   NAVIGATION_STRUCTURE,
   OLD_SLUG_TO_NEW,
   isLocationPage,

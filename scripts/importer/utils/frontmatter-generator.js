@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const { PRODUCT_ORDER } = require("../constants");
+const { PRODUCT_ORDER, EVENT_THUMBNAILS } = require("../constants");
 const config = require("../config");
 
 /**
@@ -587,12 +587,20 @@ const generateEventFrontmatter = (
   // Use title from hierarchy info if available, otherwise fall back to metadata
   const title = hierarchyInfo?.title || metadata.title || "";
 
+  // Check if this event has a placeholder thumbnail
+  const thumbnail = EVENT_THUMBNAILS[slug] || null;
+
   let frontmatter = `---
 title: "${escapeYamlString(title)}"
 subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "${escapeYamlString(metadata.title || title)}"
 meta_description: "${escapeYamlString(metadata.meta_description || "")}"
 featured: true`;
+
+  // Add thumbnail if available
+  if (thumbnail) {
+    frontmatter += `\nthumbnail: ${thumbnail}`;
+  }
 
   // Add redirect_from for old site URLs
   // Collect all redirects: primary old site URL + any additional redirects
@@ -637,9 +645,14 @@ eleventyNavigation:
   key: "${escapeYamlString(navKey)}"`;
 
     // Determine the parent:
+    // - If navParent is set, use that (for "How We Help" events)
     // - Parent categories have "Event Type" as their parent
     // - Child events have their parent category title as parent
-    if (hierarchyInfo.isParent) {
+    if (hierarchyInfo.navParent) {
+      // Custom navigation parent (e.g., "How We Help" for brand-activation, christmas-entertainment)
+      frontmatter += `
+  parent: "${escapeYamlString(hierarchyInfo.navParent)}"`;
+    } else if (hierarchyInfo.isParent) {
       // This is a parent category (e.g., "Corporate Events")
       // Its parent is "Event Type" (the main dropdown)
       frontmatter += `
