@@ -553,7 +553,21 @@ body {
           color: white;
         }
       }
+      &.completed [data-name="index"] {
+        color: #999;
+      }
     }
+  }
+}
+
+.quote-steps-nav {
+  border: none;
+  margin: 0;
+  padding: 0;
+  a.button.quote-step-next {
+    background: #ee3324;
+    color: #fff;
+    box-shadow: none;
   }
 }
 
@@ -1334,6 +1348,12 @@ body.reviews {
   ul.items {
     gap: calc(var(--gap-items) / 2);
     padding-bottom: 64px;
+  }
+}
+
+.contact-form {
+  field {
+    margin-bottom: var(--gap-items);
   }
 }
 
