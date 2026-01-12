@@ -189,6 +189,7 @@ article#content {
 article#content,
 .full-width,
 .footer {
+  border-radius: 0;
   display: grid;
   grid-template-columns:
     [left-start]
