@@ -1486,7 +1486,9 @@ ol.steps {
     align-items: center;
     text-align: center;
     flex: 1 0 0;
-    max-width: 450px;
+    @include breakpoints.up("md") {
+      max-width: 450px;
+    }
     span {
       display: flex;
       padding: 4px 8px;
