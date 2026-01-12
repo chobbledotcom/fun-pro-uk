@@ -1459,7 +1459,7 @@ ol.steps {
     font-size: 44px;
     font-weight: 500;
     line-height: 58px;
-    margin: 0 0 var(--section-padding);
+    margin: 0 0 calc(var(--gap-items) * 2);
   }
   ul {
     list-style: none;
