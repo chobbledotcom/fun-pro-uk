@@ -761,7 +761,7 @@ body.horizontal-nav main {
           opacity: 1;
         }
 
-        & > li:has(a[href="/events/"]):hover {
+        & > li:has(a[href="/events/#content"]):hover {
           & > a {
             font-weight: 500;
           }
