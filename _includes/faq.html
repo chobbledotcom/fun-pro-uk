@@ -1,13 +1,24 @@
 {%- if faqs.size > 0 -%}
+  {%- assign half = faqs.size | plus: 1 | divided_by: 2 -%}
   <div class="faqs-container">
     <h2>Frequently Asked Questions</h2>
-    <dl class="faqs">
-      {%- for faq in faqs -%}
-      <details>
-        <summary>{{ faq.question }}</summary>
-        <p>{{ faq.answer }}</p>
-      </details>
-      {%- endfor -%}
-    </dl>
+    <div class="faqs">
+      <dl class="faqs-column">
+        {%- for faq in faqs limit: half -%}
+        <details>
+          <summary>{{ faq.question }}</summary>
+          <p>{{ faq.answer }}</p>
+        </details>
+        {%- endfor -%}
+      </dl>
+      <dl class="faqs-column">
+        {%- for faq in faqs offset: half -%}
+        <details>
+          <summary>{{ faq.question }}</summary>
+          <p>{{ faq.answer }}</p>
+        </details>
+        {%- endfor -%}
+      </dl>
+    </div>
   </div>
 {%- endif -%}
