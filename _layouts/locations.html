@@ -49,8 +49,12 @@ layout: base
   </div>
 </section>
 
-{%- assign locations = collections.location | getRootLocations -%}
-{%- include "items.html", items: locations, horizontal: true -%}
+<div class="cities-we-serve">
+  <h2>Major Cities We Serve</h2>
+  <p>Click on any location for local information, case studies, and venue-specific details.</p>
+  {%- assign locations = collections.location | getRootLocations -%}
+  {%- include "items.html", items: locations, horizontal: true -%}
+</div>
 
 <section class="full-width delivery-how-it-works">
   <div class="grid">
