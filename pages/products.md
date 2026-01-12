@@ -4,7 +4,7 @@ meta_description: "Browse our complete range of interactive games, arcade machin
 permalink: "/products/"
 layout: products.html
 eleventyNavigation:
-  key: Products
+  key: Entertainment Hire
   order: 3
 redirect_from:
   - "/pages/a-z-of-all-games/"
