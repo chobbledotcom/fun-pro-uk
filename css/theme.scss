@@ -1185,6 +1185,8 @@ body.reviews {
     gap: 10px;
     & > h2 {
       grid-area: header;
+      font-size: 44px;
+      line-height: 58px;
     }
     & > ol {
       grid-area: left;
