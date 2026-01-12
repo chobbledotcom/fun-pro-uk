@@ -1366,6 +1366,14 @@ body.reviews {
       border-color: #fff;
     }
   }
+  .actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
 }
 
 #footer-contact-block {
