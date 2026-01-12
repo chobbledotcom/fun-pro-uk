@@ -1402,6 +1402,9 @@ ul.items {
       line-height: 18px;
       height: 36px;
     }
+    p {
+      letter-spacing: 0.3px;
+    }
     .image-link,
     placeholder {
       aspect-ratio: 4/3;
@@ -1534,6 +1537,34 @@ ol.steps {
 
 .homepage-events {
   background: #fafafa;
+  display: flex;
+  flex-direction: column;
+  gap: calc(var(--gap-items) * 2);
+  h2 {
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 58px;
+    margin: 0;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+  }
+  p {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  ul.items {
+    &.slider > * {
+      justify-content: flex-start;
+    }
+    li {
+      width: 370px;
+    }
+  }
 }
 
 .footer-bar {
