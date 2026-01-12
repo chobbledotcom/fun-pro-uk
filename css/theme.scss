@@ -336,7 +336,7 @@ body {
   line-height: normal;
   padding: 0;
   @include breakpoints.up("md") {
-    scroll-padding-top: 200px;
+    scroll-padding-top: 40px;
   }
   &.item {
     article#content {
@@ -732,8 +732,8 @@ body.horizontal-nav main {
       gap: 16px;
       grid-template-columns: auto 1fr auto auto auto auto;
       grid-template-areas:
-        "logo   .    phone email quote cart"
-        "links links links links links links";
+        "logo links links links links links"
+        "logo .     phone email quote cart";
       align-items: center;
     }
 
