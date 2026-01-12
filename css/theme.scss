@@ -1211,6 +1211,9 @@ body.reviews {
 
 .product-delivery-row {
   background: #fafafa;
+  h2 {
+    margin: 0 0 16px;
+  }
   .row {
     img {
       display: none;
@@ -1235,6 +1238,9 @@ body.reviews {
 .delivery-row {
   border-top: 4px solid #ee3324;
   background: #fff;
+  h2 {
+    margin: 0 0 16px;
+  }
   .row {
     img {
       display: none;
@@ -1242,12 +1248,12 @@ body.reviews {
     .right {
       text-align: center;
       .stats {
-        margin: 32px 0 0;
+        margin: calc(var(--gap-items) * 2) 0 0;
         list-style-type: none;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        gap: 16px;
+        gap: var(--gap-items);
         padding: 0;
         li {
           padding: 0;
