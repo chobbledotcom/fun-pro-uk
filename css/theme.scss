@@ -1243,6 +1243,7 @@ body.reviews {
     }
     .left {
       text-align: left;
+      align-content: center;
       padding: var(--section-padding) 0;
     }
     @include breakpoints.up("sm") {
@@ -1415,6 +1416,7 @@ body.reviews {
     gap: 16px;
     justify-content: center;
     flex-wrap: wrap;
+    max-width: 680px;
   }
 }
 
