@@ -1413,11 +1413,14 @@ ul.items {
     }
     .price {
       color: #009dd7;
-      font-family: "DM Sans";
       font-size: 22px;
-      font-style: normal;
       font-weight: 500;
-      margin-bottom: 8px;
+
+      small {
+        font-size: 14px;
+        font-weight: 400;
+        color: #181a1f;
+      }
     }
     // 19px = 64px / 3 rows, ish
     width: calc(33% - 19px);
