@@ -1880,10 +1880,44 @@ ol.steps {
   }
 }
 
+#footer-links-row {
+  display: flex;
+  flex-direction: column;
+  gap: var(--section-padding-half);
+  padding-bottom: var(--section-padding-half);
+  .google {
+    display: grid;
+    grid-template-columns: 40px 1fr;
+    gap: 0 8px;
+    grid-template-areas: "logo header" "logo rating" "logo count";
+    font-size: 10px;
+    line-height: 15px;
+    svg {
+      grid-area: logo;
+      width: 40px;
+      height: 40px;
+      align-self: center;
+    }
+    strong {
+      grid-area: header;
+    }
+    span {
+      grid-area: rating;
+    }
+    a {
+      grid-area: count;
+    }
+  }
+  @include breakpoints.up("md") {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+}
+
 #footer-links {
   display: flex;
   flex-direction: column;
-  padding: 0 0 var(--section-padding-half) 0;
   h2 {
     padding: 0;
     margin: 0 0 16px;

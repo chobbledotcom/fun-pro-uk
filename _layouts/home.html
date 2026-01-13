@@ -11,12 +11,7 @@ layout: base
         Get Started {{ "icons/up-right-arrow.svg" | inline_asset }}
       </a>
     </p>
-    <p class="google">
-      {{ "icons/google.svg" | inline_asset }}
-      <strong>Google Rating</strong>
-      <span>5 ⭐⭐⭐⭐</span>
-      <a href="/reviews/">See all our reviews</a>
-    </p>
+    {%- include "google-rating.html" -%}
     {%- assign categories = collections.categories | getFeaturedCategories |
     slice: 0, 3 -%}
     {%- include "items.html", items: categories, horizontal: true -%}
