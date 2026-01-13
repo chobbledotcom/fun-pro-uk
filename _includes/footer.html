@@ -30,7 +30,10 @@
     </div>
   </section>
 
-  <section id="footer-links">{%- render_snippet "footer-links" -%}</section>
+  <section id="footer-links-row">
+    <div id="footer-links">{%- render_snippet "footer-links" -%}</div>
+    {%- include "google-rating.html" -%}
+  </section>
 
   <ul class="footer-address">
     <li>© Fun Pro UK Ltd 2025</li>
