@@ -1051,6 +1051,23 @@ body.horizontal-nav main {
   }
 }
 
+.item-reviews {
+  h2 {
+    @include heading;
+  }
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  h3 {
+    margin: 0 0 16px;
+    padding: 0;
+  }
+  ul.items.slider {
+    margin: var(--gap-items) 0 calc(var(--gap-items) / 2);
+  }
+}
+
 .testimonials-slider {
   @include section-padding;
   h2 {
@@ -1092,6 +1109,7 @@ body.horizontal-nav main {
 }
 
 .testimonials-slider,
+.item-reviews,
 body.reviews {
   ul.items {
     display: flex;
@@ -2178,9 +2196,11 @@ div.fun-pro-item {
 
     .tab {
       width: fit-content;
-      border-bottom: 2px solid transparent;
-      transition: border-color 0.3s ease-in-out;
       align-content: center;
+      a {
+        border-bottom: 2px solid transparent;
+        transition: border-color 0.3s ease-in-out;
+      }
       &.active a,
       a:active,
       a:hover {
