@@ -780,6 +780,11 @@ body.horizontal-nav main {
       span:not(.cart-count) {
         display: none;
       }
+      &:hover,
+      &:active {
+        border: none;
+        box-shadow: none;
+      }
     }
 
     @include breakpoints.down("md") {
