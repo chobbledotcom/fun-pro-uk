@@ -34,7 +34,22 @@ layout: base
       {% include "tabs.html" %}
     </div>
     <div class="item-reviews">
-      {% include "item-reviews-section.html" %}
+      <h2>Hear What Our Clients Have To Say</h2>
+      <h3>Customer Reviews on Google</h3>
+      <p>
+        ⭐⭐⭐⭐ 5.0 rating -
+        <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
+      </p>
+      {% assign reviews = collections.reviews | getReviewsFor: page.fileSlug, reviewsField %}
+      <div class="slider-container">
+        <ul class="items slider">
+          {%- include "homepage-testimonials.html" -%}
+        </ul>
+        <p class="slider-nav" aria-hidden="true">
+          <a href="#" class="slider-prev" disabled="">←</a>
+          <a href="#" class="slider-next">→</a>
+        </p>
+      </div>
     </div>
     <div class="item-faqs">
       {%- include "faq.html" -%}
