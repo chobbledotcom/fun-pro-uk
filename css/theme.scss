@@ -185,7 +185,7 @@ article#content {
   --color-link: #0e5ba7;
   border: none;
   @include breakpoints.up("sm") {
-    scroll-padding-top: 80px;
+    scroll-padding-top: 120px;
   }
 }
 
@@ -1090,7 +1090,7 @@ body.reviews {
     li {
       @include card;
       border-radius: 16px;
-      border: 0.5px solid #56545b;
+      border: 1px solid #989898;
       background: #f3f3f3;
       gap: 16px;
       width: 458px !important;
@@ -1524,6 +1524,7 @@ body.reviews {
 ul.items {
   gap: calc(var(--gap-items) / 2);
   margin: var(--section-padding-half) 0;
+  --color-link: #111;
   li {
     display: flex;
     flex-direction: column;
@@ -1531,11 +1532,12 @@ ul.items {
     gap: 8px;
     border-radius: 8px;
     width: 380px !important;
+    text-align: left;
     & > * {
       margin: 0;
     }
     h3 {
-      line-height: 18px;
+      font-size: 20px;
       height: 32px;
     }
     p {
@@ -1559,12 +1561,46 @@ ul.items {
         color: #181a1f;
       }
     }
+    .list-item-specs {
+      gap: 32px;
+      flex-wrap: nowrap;
+      margin: calc(var(--gap-items) / 2) 0 var(--gap-items);
+      li {
+        gap: 0 !important;
+        padding: 0 !important;
+        border: 0 !important;
+        width: auto !important;
+        flex-direction: row;
+        svg {
+          width: 40px;
+        }
+        span {
+          max-width: 180px;
+          overflow: hidden;
+        }
+      }
+    }
     // 19px = 64px / 3 rows, ish
     width: calc(33% - 19px);
     @include breakpoints.down("md") {
       // 8px = 16px / 2 rows
       width: calc(50% - 16px);
     }
+  }
+  &.border {
+    border-radius: 16px;
+    border: 1px solid #babbbc;
+    background: #fafafa;
+    padding: 32px;
+  }
+  .add-to-cart {
+    border-radius: 16px;
+    background: #ee3324;
+    box-shadow: none;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    width: 100%;
   }
 }
 
@@ -1905,34 +1941,6 @@ ol.steps {
 
 .plug {
   font-size: 12px;
-}
-
-.items {
-  --color-link: #111;
-  margin-top: 64px;
-  &.border {
-    border-radius: 16px;
-    border: 1px solid #babbbc;
-    background: #fafafa;
-    padding: 32px;
-  }
-  li {
-    text-align: left;
-    h3 {
-      line-height: 32px;
-      font-size: 20px;
-    }
-  }
-  .add-to-cart {
-    border-radius: 16px;
-    background: #ee3324;
-    box-shadow: none;
-    border: none;
-    color: #fff;
-    font-weight: 500;
-    width: 100%;
-    margin-top: 24px; // + 8px gap = 32px
-  }
 }
 
 .faqs {
