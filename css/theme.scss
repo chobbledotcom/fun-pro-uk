@@ -633,7 +633,7 @@ body {
 .quote-step-fields {
   gap: var(--gap-items);
   @include breakpoints.up("sm") {
-    @media screen and (min-width: 651px) {
+    & > .field-half {
       width: calc(50% - (calc(var(--gap-items) / 2)));
     }
   }
