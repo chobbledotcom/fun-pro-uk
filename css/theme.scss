@@ -110,7 +110,7 @@
 @mixin button-white {
   color: #181a1f;
   background: #fff;
-  border: none;
+  border: 1px solid #babbbc;
   box-shadow: none;
   svg {
     fill: #181a1f;
