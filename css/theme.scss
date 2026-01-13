@@ -41,7 +41,7 @@
 
 @mixin timeline-list($dot-color: #009dd7, $dot-size: 16px) {
   list-style-type: none;
-  padding: 0;
+  padding: 0 0 0 10px;
   position: relative;
 
   li {
@@ -268,7 +268,7 @@ article#content,
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: max(1820px, 100vw);
+    max-width: min(1820px, calc(100vw - 128px));
     min-width: 0;
   }
   & > .breakout {
@@ -489,7 +489,7 @@ body {
   &.locations {
     article#content .cities-we-serve ul.items li {
       @include card;
-      width: 367px;
+      width: 367px !important;
       padding-top: 166px;
       gap: 8px;
       .image-link,
@@ -911,7 +911,7 @@ body.horizontal-nav main {
   .items {
     li {
       position: relative;
-      width: 270px;
+      width: 270px !important;
       height: 270px;
       margin: 0;
       border-radius: 8px;
@@ -1052,6 +1052,7 @@ body.reviews {
     padding: 0;
     gap: var(--gap-items);
     flex-direction: row;
+    width: 458px !important;
     li {
       @include card;
       gap: 16px;
@@ -1210,42 +1211,31 @@ body.reviews {
   }
 }
 
-.homepage-how-it-works {
+.delivery-how-it-works {
   @include section-padding;
-  --color-text: #fff;
-  --color-link: #fff;
-  --color-link-hover: #fff;
-  --background: #009dd7;
-  @include themed-section;
-
   .grid {
     display: grid;
-    grid-template-areas: "header header" "left image" "link image";
+    grid-template-areas: "header header" "left right";
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: var(--gap-items);
     & > h2 {
       grid-area: header;
-      font-size: 44px;
-      line-height: 58px;
     }
     & > ol {
       grid-area: left;
-      padding-left: 10px;
     }
-    & > a {
-      grid-area: link;
-      box-shadow: none;
-      background: white;
-      color: #009dd7;
-      svg {
-        fill: white;
+    & > .right {
+      grid-area: right;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      .van {
+        width: 100%;
       }
-    }
-    & > .image-wrapper {
-      grid-area: image;
-      img {
-        background: #009dd7;
+      .machine-1,
+      .machine-2 {
+        width: calc(50% - 8px);
       }
     }
   }
@@ -1258,6 +1248,53 @@ body.reviews {
 
   ol {
     @include timeline-list;
+  }
+}
+
+.homepage-how-it-works {
+  @include section-padding;
+  --color-text: #fff;
+  --color-link: #fff;
+  --color-link-hover: #fff;
+  --background: #009dd7;
+  @include themed-section;
+
+  .row {
+    display: flex;
+    flex-direction: row;
+    gap: var(--section-padding);
+    max-width: 1315px;
+    margin: 0 auto;
+    .left {
+      display: flex;
+      flex-direction: column;
+      gap: var(--section-padding-half);
+      max-width: 695px;
+    }
+    h2 {
+      font-size: 44px;
+      line-height: 58px;
+      padding: 0;
+      margin: 0;
+    }
+    ol {
+      @include timeline-list;
+      margin: 0;
+    }
+    a {
+      margin: 0;
+      box-shadow: none;
+      background: white;
+      color: #009dd7;
+      svg {
+        fill: white;
+      }
+    }
+    .image-wrapper {
+      img {
+        background: #009dd7;
+      }
+    }
   }
 }
 
@@ -1352,46 +1389,6 @@ body.reviews {
   }
 }
 
-.delivery-how-it-works {
-  @include section-padding;
-  .grid {
-    display: grid;
-    grid-template-areas: "header header" "left right";
-    justify-content: center;
-    align-items: center;
-    gap: var(--gap-items);
-    & > h2 {
-      grid-area: header;
-    }
-    & > ol {
-      grid-area: left;
-    }
-    & > .right {
-      grid-area: right;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      .van {
-        width: 100%;
-      }
-      .machine-1,
-      .machine-2 {
-        width: calc(50% - 8px);
-      }
-    }
-  }
-
-  @include breakpoints.down("md") {
-    .image-wrapper {
-      display: none;
-    }
-  }
-
-  ol {
-    @include timeline-list;
-  }
-}
-
 .cities-we-serve {
   @include section-padding;
   background: #fff;
@@ -1483,7 +1480,7 @@ ul.items {
     align-items: flex-start;
     gap: 8px;
     border-radius: 8px;
-    width: 380px;
+    width: 380px !important;
     & > * {
       margin: 0;
     }
@@ -1606,7 +1603,7 @@ ol.steps {
   h2 {
     font-size: 44px;
     padding: 0;
-    margin: 0 0 var(--gap-items);
+    margin: 0;
     display: flex;
     gap: var(--gap-items);
     align-items: center;
