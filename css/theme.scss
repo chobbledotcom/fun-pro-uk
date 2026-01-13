@@ -2181,9 +2181,9 @@ div.fun-pro-item {
       border-bottom: 2px solid transparent;
       transition: border-color 0.3s ease-in-out;
       align-content: center;
-      &.active,
-      &:active,
-      &:hover {
+      &.active a,
+      a:active,
+      a:hover {
         border-bottom-color: #009dd7;
         text-decoration: none;
       }
