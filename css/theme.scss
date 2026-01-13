@@ -536,10 +536,8 @@ body {
   }
   ul {
     list-style-type: none;
-    padding-left: 0;
     li {
-      padding-left: 104px;
-      padding-bottom: 8px;
+      padding: 0 0 8px 64px;
       position: relative;
       &::before {
         content: "";
@@ -552,7 +550,7 @@ body {
         background-color: #e1f1f6;
         border-radius: 100%;
         position: absolute;
-        left: 64px;
+        left: 0;
         top: 0;
       }
     }
