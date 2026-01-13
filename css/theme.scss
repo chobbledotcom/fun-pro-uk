@@ -2065,16 +2065,84 @@ ol.steps {
 div.fun-pro-item {
   background: #fafafa;
 
+  & > * {
+    padding: 0;
+    margin: 0;
+  }
+
+  .item-breadcrumbs {
+    grid-area: breadcrumbs;
+    margin-bottom: calc(var(--gap-items) / 2);
+  }
+  .item-reviews-header {
+    grid-area: reviews-header;
+    margin-bottom: var(--gap-items);
+  }
+  .item-title {
+    grid-area: title;
+    margin-bottom: calc(var(--gap-items) / 4);
+  }
+  .item-subtitle {
+    grid-area: subtitle;
+    margin-bottom: var(--gap-items);
+  }
+  .item-price {
+    grid-area: price;
+    margin-bottom: calc(var(--gap-items) / 2);
+  }
+  .item-specs {
+    grid-area: specs;
+    margin-bottom: var(--gap-items);
+  }
+  .item-features {
+    grid-area: features;
+    margin-bottom: var(--gap-items);
+  }
+  .item-cart-buttons {
+    grid-area: cart-buttons;
+    margin-bottom: var(--gap-items);
+  }
+  .item-gallery {
+    grid-area: gallery;
+    margin-bottom: var(--section-padding-half);
+  }
+  .item-description {
+    grid-area: description;
+    margin-bottom: var(--gap-items);
+  }
+  .item-tabs {
+    grid-area: tabs;
+    margin-bottom: var(--section-padding);
+  }
+  .item-reviews {
+    grid-area: reviews;
+    margin-bottom: var(--section-padding);
+  }
+  .item-faqs {
+    grid-area: faqs;
+    margin-bottom: var(--section-padding);
+  }
+
   .inner {
     @include breakpoints.up("md") {
       display: grid;
-      gap: 32px 64px;
+      gap: 0 64px;
       grid-template-columns: 1fr 1fr;
       grid-template-rows: repeat(13, auto);
-      & > * {
-        padding: 0;
-        margin: 0;
-      }
+      grid-template-areas:
+        "breadcrumbs breadcrumbs"
+        "gallery     reviews-header"
+        "gallery     title"
+        "gallery     subtitle"
+        "gallery     price"
+        "gallery     specs"
+        "gallery     features"
+        "gallery     description"
+        "gallery     cart-buttons"
+        "gallery     ."
+        "tabs        tabs"
+        "reviews     reviews"
+        "faqs        faqs";
     }
   }
   #tabs {
