@@ -725,8 +725,7 @@ body.horizontal-nav main {
 
   & > nav {
     border: 0;
-    font-size: 14px;
-    font-size: 14px;
+    font-size: 14px !important;
     display: grid;
     a:hover {
       font-weight: 500;
@@ -823,7 +822,7 @@ body.horizontal-nav main {
       margin: 22px auto;
     }
 
-    & > ul & > li & > ul & > li {
+    ul & > li & > ul a {
       padding: 4px 0;
     }
 
