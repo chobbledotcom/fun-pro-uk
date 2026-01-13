@@ -1980,7 +1980,7 @@ ol.steps {
 
   summary,
   p {
-    padding-left: 26px;
+    padding-right: 26px;
   }
 
   summary {
@@ -1988,7 +1988,6 @@ ol.steps {
     cursor: pointer;
     list-style: none;
     font-weight: 500;
-    padding-left: 30px;
 
     &::-webkit-details-marker {
       display: none;
