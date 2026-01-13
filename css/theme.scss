@@ -1519,6 +1519,40 @@ body.reviews {
   }
 }
 
+.contact-split {
+  display: flex;
+  flex-direction: column;
+  gap: var(--section-padding-half);
+  padding: var(--section-padding-half) 0;
+
+  .contact-content {
+    h1 {
+      margin-top: 0;
+    }
+  }
+
+  .contact-form-wrapper {
+    form {
+      @include card;
+      background: white;
+    }
+  }
+
+  @include breakpoints.up("md") {
+    flex-direction: row;
+    gap: var(--section-padding);
+
+    .contact-content {
+      flex: 1;
+    }
+
+    .contact-form-wrapper {
+      flex: 1;
+      max-width: 450px;
+    }
+  }
+}
+
 .contact-form {
   label {
     margin-bottom: var(--gap-items);
