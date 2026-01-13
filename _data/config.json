@@ -11,7 +11,7 @@
   "cart_mode": "quote",
   "product_mode": "hire",
   "contact_form_target": "https://auto.chobble.com/webhooks/flows/7293ba6f-810a-4dd0-99fb-462ea365d3cd/sync",
-  "products": { "item_list_aspect_ratio": "4/3" },
+  "products": { "item_list_aspect_ratio": "4/3", "max_images": 7 },
   "timezone": "Europe/London",
   "list_item_fields": [
     "link",
