@@ -12,6 +12,19 @@
 </div>
 <div>
 
+## Your Event
+
+- [Award Ceremonies](/award-ceremonies/)
+- [How It Works](/how-it-works/)
+- [FAQs](/frequently-asked-questions/)
+- [Case Studies](/case-studies/)
+- [Terms & Conditions](/terms-and-condition/)
+- [Privacy Policy](/privacy-policy/)
+- [Cookie Policy](/cookie-policy/)
+
+</div>
+<div>
+
 ## About FunPro
 
 - [Our Story](/our-story/)
@@ -31,18 +44,5 @@
 - [Christmas Parties](/christmas-entertainment-game-hire/)
 - [News](/news/)
 - [Contact Us](/contact-fun-pro-uk/)
-
-</div>
-<div>
-
-## Your Event
-
-- [Award Ceremonies](/award-ceremonies/)
-- [How It Works](/how-it-works/)
-- [FAQs](/frequently-asked-questions/)
-- [Case Studies](/case-studies/)
-- [Terms & Conditions](/terms-and-condition/)
-- [Privacy Policy](/privacy-policy/)
-- [Cookie Policy](/cookie-policy/)
 
 </div>

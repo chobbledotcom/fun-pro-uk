@@ -294,7 +294,7 @@ input[type="submit"] {
   justify-content: center;
   gap: 16px;
   align-items: center;
-  border-radius: 8px;
+  border-radius: 16px;
   border: 1px solid transparent;
   font-weight: 500;
   font-size: 16px;
@@ -795,6 +795,8 @@ body.horizontal-nav main {
         "logo links links links links links"
         "logo .     phone email quote cart";
       align-items: center;
+      width: min(1820px, 100vw);
+      margin: 22px auto;
     }
 
     @include breakpoints.up("lg") {
@@ -823,7 +825,7 @@ body.horizontal-nav main {
 
         & > li:has(a[href="/events/#content"]):hover {
           & > a {
-            font-weight: 500;
+            font-weight: 700;
           }
           & > ul {
             display: flex;
@@ -840,6 +842,9 @@ body.horizontal-nav main {
               border: 0;
               font-size: 11px;
               font-weight: 400;
+              li {
+                padding: 4px 0;
+              }
             }
           }
         }
@@ -863,15 +868,26 @@ body.horizontal-nav main {
 
   background-size: cover;
   position: relative;
+  padding-bottom: 0; // handled by slider margin
 
   .homepage-header-inner {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 0;
 
     & > * {
       padding: 0;
       margin: 0;
+    }
+    & > h1 {
+      margin: 8px 0 var(--gap-items);
+    }
+    & > .google {
+      margin: var(--section-padding-half) 0 0;
+    }
+    ul.items.slider {
+      margin: var(--section-padding-half) 0
+        calc(var(--section-padding-half) / 2);
     }
   }
 
@@ -1005,6 +1021,13 @@ body.horizontal-nav main {
     max-width: 700px;
     text-align: left;
   }
+  h1 {
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 58px;
+    margin: 0;
+    padding: 0;
+  }
   a.button {
     margin-top: var(--gap-items);
   }
@@ -1012,6 +1035,18 @@ body.horizontal-nav main {
 
 .testimonials-slider {
   @include section-padding;
+  h2,
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  h3 {
+    margin: 0 0 16px;
+    padding: 0;
+  }
+  ul.items.slider {
+    margin: var(--gap-items) 0 calc(var(--gap-items) / 2);
+  }
   @include breakpoints.up("sm") {
     display: grid;
     gap: 16px;
@@ -1034,14 +1069,6 @@ body.horizontal-nav main {
       grid-area: reviews;
     }
   }
-  .items {
-    h3,
-    p,
-    ul {
-      padding: 0;
-      margin: 0;
-    }
-  }
 }
 
 .testimonials-slider,
@@ -1054,6 +1081,9 @@ body.reviews {
     flex-direction: row;
     li {
       @include card;
+      border-radius: 16px;
+      border: 0.5px solid #56545b;
+      background: #f3f3f3;
       gap: 16px;
       width: 458px !important;
       display: grid;
@@ -1117,8 +1147,7 @@ body.reviews {
     font-size: 24px;
     line-height: 32px;
     text-align: left;
-    padding-left: var(--gap-items);
-    padding-right: calc(var(--gap-items) * 2);
+    margin-right: calc(var(--gap-items) * 2);
 
     @include breakpoints.down("md") {
       width: auto;
@@ -1262,13 +1291,24 @@ body.reviews {
     display: flex;
     flex-direction: row;
     gap: var(--section-padding);
-    max-width: 1315px;
     margin: 0 auto;
+    width: 100%;
     .left {
       display: flex;
       flex-direction: column;
       gap: var(--section-padding-half);
-      max-width: 695px;
+      width: 50%;
+      h2,
+      ol {
+        max-width: 695px;
+      }
+    }
+    .image {
+      display: flex;
+      width: 50%;
+      margin: 0;
+      justify-content: center;
+      align-items: center;
     }
     h2 {
       font-size: 44px;
@@ -1456,6 +1496,9 @@ body.reviews {
   @include section-padding;
   h2 {
     margin: 0 0 16px;
+    font-size: 44px;
+    font-weight: 500;
+    line-height: 58px;
   }
   p {
     display: flex;
@@ -1485,7 +1528,7 @@ ul.items {
     }
     h3 {
       line-height: 18px;
-      height: 36px;
+      height: 32px;
     }
     p {
       letter-spacing: 0.3px;
@@ -1523,8 +1566,8 @@ ol.steps {
   list-style-type: none;
   flex-wrap: wrap;
   margin: 0;
-  padding: calc(var(--section-padding) / 2) 0 var(--section-padding);
-  justify-content: space-between;
+  padding: calc(var(--section-padding) / 2) 0;
+  justify-content: center;
 
   @include breakpoints.down("lg") {
     flex-direction: column;
@@ -1604,7 +1647,7 @@ ol.steps {
     padding: 0;
     margin: 0;
     display: flex;
-    gap: var(--gap-items);
+    gap: calc(var(--gap-items) * 2);
     align-items: center;
     a {
       font-size: 16px;
@@ -1612,6 +1655,7 @@ ol.steps {
       display: flex;
       gap: 8px;
       align-items: center;
+      color: var(--color-text);
       svg {
         width: 20px;
         height: 20px;
@@ -1650,6 +1694,7 @@ ol.steps {
     line-height: 24px;
   }
   ul.items {
+    gap: var(--gap-items);
     &.slider > * {
       justify-content: flex-start;
     }
@@ -1745,7 +1790,6 @@ ol.steps {
     grid-area: times;
   }
   #footer-socials {
-    font-weight: 500;
     grid-area: socials;
   }
 
@@ -1808,15 +1852,19 @@ ol.steps {
   padding: 0 0 var(--section-padding-half) 0;
   h2 {
     padding: 0;
+    margin: 0 0 16px;
   }
   ul {
     list-style-type: none;
     padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
   }
   @include breakpoints.up("md") {
-    justify-content: space-between;
+    justify-content: flex-start;
     flex-direction: row;
-    gap: 16px;
+    gap: var(--section-padding-half);
   }
 }
 
@@ -1957,9 +2005,9 @@ ol.steps {
   margin: 0;
   a {
     display: block;
-    width: 64px;
-    height: 64px;
-    font-size: 36px;
+    width: 66px;
+    height: 66px;
+    font-size: 20px;
     font-family:
       system-ui,
       -apple-system,
