@@ -523,6 +523,28 @@ body {
 
 .quote-footer {
   padding: var(--gap-items);
+      ul {
+        list-style-type: none;
+        padding-left: 0;
+        li {
+          padding-left: 104px;
+          padding-bottom: 8px;
+          position: relative;
+          &::before {
+            content: "";
+            width: 24px;
+            height: 24px;
+            display: block;
+            background-image: url("/assets/icons/tick.svg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-color: #e1f1f6;
+            border-radius: 100%;
+            position: absolute;
+            left: 64px;
+            top: 0;
+          }
+        }
 }
 
 .quote-steps-progress {
@@ -584,6 +606,7 @@ body.one-column .quote-sidebar {
 }
 
 .quote-price {
+  background: #fff;
   padding: 0;
   & > li {
     padding: calc(var(--gap-items) / 2) var(--gap-items);
