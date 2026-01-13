@@ -117,6 +117,16 @@
   }
 }
 
+@mixin button-white-transparent {
+  color: #fff;
+  background: transparent;
+  border: 1px solid #fff;
+  box-shadow: none;
+  svg {
+    fill: #fff;
+  }
+}
+
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
@@ -977,7 +987,7 @@ body.horizontal-nav main {
   .button {
     background: transparent;
     border-color: var(--color-border);
-    @include button-white;
+    @include button-white-transparent;
   }
   .items {
     li {
