@@ -569,7 +569,7 @@ body {
   ul {
     list-style-type: none;
     li {
-      padding: 0 0 8px 64px;
+      padding: 0 0 8px 40px;
       position: relative;
       &::before {
         content: "";
@@ -671,6 +671,10 @@ body.one-column .quote-sidebar {
 
         span[data-field="name"] {
           font-weight: 500;
+        }
+        span[data-field="total"] {
+          font-size: 24px;
+          font-weight: 700;
         }
       }
     }
