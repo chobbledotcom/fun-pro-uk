@@ -807,6 +807,10 @@ body.horizontal-nav main {
       margin: 22px auto;
     }
 
+    & > ul & > li & > ul & > li {
+      padding: 4px 0;
+    }
+
     @include breakpoints.up("lg") {
       & > ul {
         justify-content: flex-start !important;
@@ -829,10 +833,6 @@ body.horizontal-nav main {
 
         & > li:has(> ul):hover > a::after {
           opacity: 1;
-        }
-
-        & > ul & > li & > ul & > li {
-          padding: 4px 0;
         }
 
         & > li:has(a[href="/events/#content"]):hover {
