@@ -1966,6 +1966,19 @@ ol.steps {
 
   details {
     margin-bottom: 1rem;
+
+    &::details-content {
+      display: block;
+      overflow: hidden;
+      transition:
+        content-visibility 0.3s ease-in-out allow-discrete,
+        block-size 0.3s ease-in-out;
+      block-size: 0;
+    }
+
+    &[open]::details-content {
+      block-size: auto;
+    }
   }
 
   summary,
