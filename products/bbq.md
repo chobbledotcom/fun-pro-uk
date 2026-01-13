@@ -52,6 +52,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9d541ccf1f9524822bb3e39ec948517d"
 tabs:
   - title: "Why BBQ?"
+    image: "/images/products/bbq/bbq-4.jpg"
     body: |
       # BBQ
       
@@ -74,5 +75,17 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/bbq/bbq-3.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/bbq/bbq-2.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/bbq/bbq-1.jpg"
+    body: |
+      
 ---
 

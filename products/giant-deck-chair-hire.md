@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90"
 tabs:
   - title: "Why Giant Deck Chair Hire?"
+    image: "/images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg"
     body: |
       # Giant Deck Chair Hire
       
@@ -118,5 +119,14 @@ tabs:
       In addition to providing comfort and style, deck chairs are practical and versatile. They can be easily arranged to accommodate varying group sizes and seating arrangements, making them an adaptable choice for different event layouts. Whether you're planning a small intimate gathering or a large-scale event, deck chair hire offers a convenient seating solution.
       
       With nationwide deck chair hire from Fun Pro UK, you can elevate the experience of your event and create a memorable setting for your guests. The convenience of having deck chairs delivered and set up at your chosen venue simplifies the planning process, allowing you to focus on other aspects of event coordination.
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

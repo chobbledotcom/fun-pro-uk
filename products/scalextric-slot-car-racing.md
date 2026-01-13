@@ -6,7 +6,7 @@ order: 50
 meta_title: "Scalextric Slot Car Racing - Arcade Games Hire UK"
 meta_description: "Experience the thrill of Scalextric Slot Car Racing! Perfect for UK corporate events, parties, and more. Hire this exciting arcade game for your next event."
 categories: ["categories/christmas-games.md", "categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -105,6 +105,7 @@ faqs:
     answer: "We recommend booking the Scalextric slot car racing setup well in advance, especially if you're holding events during peak seasons. Booking 1-2 weeks in advance can help ensure availability. And if you need help planning your event, our team can help you with that too."
 tabs:
   - title: "Why Scalextric Slot Car Racing?"
+    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
     body: |
       # Scalextric Slot Car Racing
       
@@ -218,5 +219,17 @@ tabs:
       **Branded Skirt - Crash Barriers**
       
       **£495**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-17.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-16.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-15.jpg"
+    body: |
+      
 ---
 

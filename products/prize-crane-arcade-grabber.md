@@ -85,6 +85,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f91f72bcf85902969c123ef0d4910d23"
 tabs:
   - title: "Why Prize Crane Arcade Grabber?"
+    image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-16.jpg"
     body: |
       # Prize Crane Arcade Grabber
       
@@ -187,5 +188,17 @@ tabs:
       **Full branding**
       
       **£475**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-15.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-14.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-13.jpg"
+    body: |
+      
 ---
 

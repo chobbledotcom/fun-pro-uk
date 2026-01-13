@@ -48,6 +48,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/839e7cf60d154d27c83b2be6dc991796"
 tabs:
   - title: "Why LARGE BOUNCY CASTLES?"
+    image: "/images/products/large-bouncy-castles/large-bouncy-castles-2.jpg"
     body: |
       # LARGE BOUNCY CASTLES
       
@@ -86,5 +87,15 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/large-bouncy-castles/large-bouncy-castles-1.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

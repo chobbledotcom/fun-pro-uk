@@ -65,6 +65,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a"
 tabs:
   - title: "Why Roll & Bowl Donkey Derby?"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg"
     body: |
       # Roll & Bowl Donkey Derby
       
@@ -155,5 +156,17 @@ tabs:
       **Fully branded**
       
       **£1020**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-28.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-3.jpg"
+    body: |
+      
 ---
 

@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Corn Holes - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Corn Holes is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -57,5 +57,14 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

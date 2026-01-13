@@ -81,6 +81,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6eed1c0ff69c19d17b01bc0fb8210c5"
 tabs:
   - title: "Why VR Race Car Simulator?"
+    image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-14.jpg"
     body: |
       # VR Race Car Simulator
       
@@ -220,5 +221,17 @@ tabs:
       **Interactive Games and More!**
       
       Our **VR Racing** Car Simulators can accompany any of our wide variety of Interactive Games to hire. From table top Buzz Wire to test your concentration skills to the Lights Out game for speed and reaction! Talk to our team today about your venue, event and budget. The team will be able to put a great value package together for you which will be full of fun entertainment and excitement with all detail taken care of. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
+  - title: "How It Works"
+    image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-13.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-12.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-11.jpg"
+    body: |
+      
 ---
 

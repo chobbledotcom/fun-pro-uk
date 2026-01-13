@@ -71,6 +71,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b"
 tabs:
   - title: "Why Plinko Game Hire?"
+    image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
     body: |
       # Plinko Game Hire
       
@@ -139,5 +140,17 @@ tabs:
       **Branded Discs**
       
       **£**50** + vat
+  - title: "How It Works"
+    image: "/images/products/plinko-game-hire/plinko-game-hire-8.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/plinko-game-hire/plinko-game-hire-7.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/plinko-game-hire/plinko-game-hire-6.jpg"
+    body: |
+      
 ---
 

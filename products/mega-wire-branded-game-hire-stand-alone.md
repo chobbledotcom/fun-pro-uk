@@ -75,6 +75,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9e354f2397c4ff3191e9b73b395f10b"
 tabs:
   - title: "Why Mega Wire - Branded Game Hire (stand alone)?"
+    image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-11.jpg"
     body: |
       # Mega Wire - Branded Game Hire (stand alone)
       
@@ -165,5 +166,17 @@ tabs:
       **Branded panel front and Back**
       
       **£145**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-10.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-9.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-8.jpg"
+    body: |
+      
 ---
 

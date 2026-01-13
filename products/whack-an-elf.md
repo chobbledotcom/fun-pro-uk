@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
 categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
 tabs:
   - title: "Why Whack an Elf?"
+    image: "/images/products/whack-an-elf/whack-an-elf-1.jpg"
     body: |
       # Whack an Elf
       
@@ -132,5 +133,14 @@ tabs:
       **Fully Branded**
       
       **£445**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

@@ -54,6 +54,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e47337c283900e9bd8067d6f29d8de25"
 tabs:
   - title: "Why GLADIATOR DUEL?"
+    image: "/images/products/gladiator-duel/gladiator-duel-5.jpg"
     body: |
       # GLADIATOR DUEL
       
@@ -114,5 +115,17 @@ tabs:
       Talk to our friendly team and we'll create the perfect package to suit your theme, your venue and your budget, with everything carefully planned to make your whole day hassle free.
       
       **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+  - title: "How It Works"
+    image: "/images/products/gladiator-duel/gladiator-duel-4.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/gladiator-duel/gladiator-duel-3.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/gladiator-duel/gladiator-duel-2.jpg"
+    body: |
+      
 ---
 

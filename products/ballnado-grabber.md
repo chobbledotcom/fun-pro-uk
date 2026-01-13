@@ -114,6 +114,7 @@ faqs:
     answer: "Our team will be at your venue to deliver, set up, and retrieve the Ballnado grabber after the event is done."
 tabs:
   - title: "Why Ballnado Grabber?"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg"
     body: |
       # Ballnado Grabber
       
@@ -259,5 +260,17 @@ tabs:
       **Branded Notes**
       
       **£150**\+ vat for 300 notes**
+  - title: "How It Works"
+    image: "/images/products/ballnado-grabber/ballnado-grabber-20.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/ballnado-grabber/ballnado-grabber-19.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/ballnado-grabber/ballnado-grabber-18.jpg"
+    body: |
+      
 ---
 

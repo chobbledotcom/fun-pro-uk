@@ -96,6 +96,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db"
 tabs:
   - title: "Why GREEN SCREEN PHOTO BOOTHS?"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg"
     body: |
       # GREEN SCREEN PHOTO BOOTHS
       
@@ -223,5 +224,17 @@ tabs:
       **Branded back panels**
       
       **£650**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-25.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-24.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-23.jpg"
+    body: |
+      
 ---
 

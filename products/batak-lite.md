@@ -95,6 +95,7 @@ faqs:
     answer: "Yes. You can have your Batak Lite game fully customised with your company branding, logo and colours, or even event branding if you prefer."
 tabs:
   - title: "Why Batak Lite?"
+    image: "/images/products/batak-lite/batak-lite-18.jpg"
     body: |
       # Batak Lite
       
@@ -108,7 +109,7 @@ tabs:
       
       A more compact and portable version of [Batak Pro](/products/batak-pro/#content), our Batak Lite games are a highly interactive, high-energy activity that everyone can enjoy. The game itself features illuminated targets that are designed to test reaction speed levels, improve stamina and hand eye coordination in those who play.
       
-      Promotional games like Batak Lite are always a hit at events like [team building](/team-building-activities/#content) days, [conferences](/conference-game-hire/#content), [brand activation events](/promotional-event-games/#content), and many more because they’re a fun way to break the ice and get everyone involved in a bit of healthy competition.
+      Promotional games like Batak Lite are always a hit at events like [team building](/team-building-ideas/#content) days, [conferences](/conference-game-hire/#content), [brand activation events](/promotional-event-games/#content), and many more because they’re a fun way to break the ice and get everyone involved in a bit of healthy competition.
       
       ## Why Choose Batak Lite For Your Next Event?
       
@@ -215,5 +216,17 @@ tabs:
       ## Hire Batak Lite For Your Next Event
       
       [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content).
+  - title: "How It Works"
+    image: "/images/products/batak-lite/batak-lite-17.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/batak-lite/batak-lite-16.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/batak-lite/batak-lite-15.jpg"
+    body: |
+      
 ---
 

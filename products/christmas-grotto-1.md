@@ -56,6 +56,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/205f666127d7ac058c2b22b368ecdfda"
 tabs:
   - title: "Why CHRISTMAS GROTTO 1?"
+    image: "/images/products/christmas-grotto-1/christmas-grotto-1-6.jpg"
     body: |
       # CHRISTMAS GROTTO 1
       
@@ -126,5 +127,17 @@ tabs:
       The perfect party piece
       
       Inflatable grotto hire is perfect for your company Christmas party, getting everyone feeling festive. Don't forget to add a [photo booth](/products/classic-photo-booths/#content) or a selfie station to your hire, so your kids can get a picture with the big man himself. Please note that this is a highly popular hire, so make sure you contact us to book as early as possible to get your preferred date. We can deliver nationwide, just like Santa himself, although we usually use the roads, not the rooftops!
+  - title: "How It Works"
+    image: "/images/products/christmas-grotto-1/christmas-grotto-1-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-grotto-1/christmas-grotto-1-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/christmas-grotto-1/christmas-grotto-1-3.jpg"
+    body: |
+      
 ---
 

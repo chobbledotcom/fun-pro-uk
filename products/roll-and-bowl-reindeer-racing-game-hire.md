@@ -6,7 +6,7 @@ order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
 categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md", "categories/roll-and-bowl.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -69,6 +69,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b214072e0f34616bd4f63462501cceb0"
 tabs:
   - title: "Why Roll And Bowl Reindeer Racing Game Hire?"
+    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
     body: |
       # Roll And Bowl Reindeer Racing Game Hire
       
@@ -177,5 +178,17 @@ tabs:
       **Fully branded**
       
       **£1020**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-7.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-6.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-5.jpg"
+    body: |
+      
 ---
 

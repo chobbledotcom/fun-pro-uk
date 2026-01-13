@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2e22b07d204cc194cd9dd3cdfa4129f"
 tabs:
   - title: "Why Dash & Grab / Hungry Hippo Inflatable Game?"
+    image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg"
     body: |
       # Dash & Grab / Hungry Hippo Inflatable Game
       
@@ -162,5 +163,16 @@ tabs:
       *   Fan to inflate the surround
       *   Bungee cords x 4
       *   Power leads
+  - title: "How It Works"
+    image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

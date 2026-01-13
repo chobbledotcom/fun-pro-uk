@@ -76,6 +76,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647885a269118a3d197a6802d107be08"
 tabs:
   - title: "Why MAGIC MIRROR?"
+    image: "/images/products/magic-mirror/magic-mirror-16.jpg"
     body: |
       # MAGIC MIRROR
       
@@ -225,5 +226,17 @@ tabs:
       Your hire package also includes a friendly operator to really take care of your guests. They will make sure everyone enjoys the experience and gets the perfect picture. Each operator is fully trained and never forgets that they are representing your company.
       
       We can deliver the magic selfie mirror anywhere in the UK, with reliable service that will never let your company down. However, this is a highly popular item, so book now to guarantee your preferred date.
+  - title: "How It Works"
+    image: "/images/products/magic-mirror/magic-mirror-15.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/magic-mirror/magic-mirror-14.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/magic-mirror/magic-mirror-13.jpg"
+    body: |
+      
 ---
 

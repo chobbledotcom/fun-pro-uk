@@ -69,6 +69,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/02abf64c290b623f1e4cf05c3c474759"
 tabs:
   - title: "Why PLUCK A DUCK RACING?"
+    image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-8.jpg"
     body: |
       # PLUCK A DUCK RACING
       
@@ -151,5 +152,17 @@ tabs:
       Pluck a duck hire can be set up in almost any venue' all you need is a plug socket and enough space for the folding table. So you can fit it in your office, in an exhibition hall or anywhere else you want to play. You can even make it part of your own company amusement arcade, along with [racing simulators](/products/racing-car-simulators/#content), lights out reaction games and [retro arcade machines](/products/retro-arcade-games/#content).
       
       From a single item to a whole [company fun day](/categories/fun-days/#content) carnival, our team have the experience and expertise to create the perfect [corporate entertainment hire](/categories/corporate-entertainment/#content) package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
+  - title: "How It Works"
+    image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-7.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-6.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-5.jpg"
+    body: |
+      
 ---
 

@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90b4b5513e5607d3ffbd949904c3bb60"
 tabs:
   - title: "Why Ice Cream van Hire?"
+    image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-3.jpg"
     body: |
       # Ice Cream van Hire
       
@@ -74,5 +75,16 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

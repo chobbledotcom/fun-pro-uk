@@ -46,6 +46,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
 tabs:
   - title: "Why 8 Lane Roll & Bowl Donkey Derby?"
+    image: "/images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg"
     body: |
       # 8 Lane Roll & Bowl Donkey Derby
       
@@ -102,5 +103,14 @@ tabs:
       **Fully branded**
       
       **£2000**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

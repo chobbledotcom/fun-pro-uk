@@ -6,7 +6,7 @@ order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Reindeer Racing is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -46,6 +46,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
 tabs:
   - title: "Why 8 Lane Reindeer Racing?"
+    image: "/images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg"
     body: |
       # 8 Lane Reindeer Racing
       
@@ -106,5 +107,14 @@ tabs:
       **Fully branded**
       
       **£2000**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

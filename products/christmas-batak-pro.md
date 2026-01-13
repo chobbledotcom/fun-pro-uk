@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Batak Pro - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Pro is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -88,6 +88,7 @@ faqs:
     answer: "Batak Pro is as popular as mince pies at a holiday party! ?? To avoid disappointment, **book early** to secure your date and let the festive fun begin."
 tabs:
   - title: "Why Christmas Batak Pro?"
+    image: "/images/products/christmas-batak-pro/christmas-batak-pro-9.jpg"
     body: |
       # Christmas Batak Pro
       
@@ -178,5 +179,17 @@ tabs:
       ## Hire Batak Pro for Your Next Event
       
       Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
+  - title: "How It Works"
+    image: "/images/products/christmas-batak-pro/christmas-batak-pro-8.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-batak-pro/christmas-batak-pro-7.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/christmas-batak-pro/christmas-batak-pro-6.jpg"
+    body: |
+      
 ---
 

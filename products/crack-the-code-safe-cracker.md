@@ -99,6 +99,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f85ead60e61ec6515af5b5928af0abd1"
 tabs:
   - title: "Why Crack The Code safe cracker?"
+    image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-23.jpg"
     body: |
       # Crack The Code safe cracker
       
@@ -227,5 +228,17 @@ tabs:
       **Branded all sides**
       
       **£195**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-22.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-21.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-20.jpg"
+    body: |
+      
 ---
 

@@ -75,6 +75,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2d10d72d7226f4555647271ca52d623"
 tabs:
   - title: "Why Danger-zone-strike-a-light-game-hire?"
+    image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-11.jpg"
     body: |
       # Danger-zone-strike-a-light-game-hire
       
@@ -182,5 +183,17 @@ tabs:
       £420 + vat
       
       ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+  - title: "How It Works"
+    image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-10.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-9.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-8.jpg"
+    body: |
+      
 ---
 

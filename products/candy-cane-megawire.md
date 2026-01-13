@@ -6,7 +6,7 @@ order: 50
 meta_title: "Hire Christmas Candy Cane Mega Wire | Fun Pro UK"
 meta_description: "Bring excitement to your Christmas event with the Candy Cane Mega Wire! A festive, interactive game ideal for corporate parties, family gatherings, and fairs."
 categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -66,6 +66,7 @@ faqs:
     answer: "Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere."
 tabs:
   - title: "Why Candy Cane Megawire?"
+    image: "/images/products/candy-cane-megawire/candy-cane-megawire-3.jpg"
     body: |
       # Candy Cane Megawire
       
@@ -167,5 +168,16 @@ tabs:
       **Branded panel front and Back**
       
       **£145**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/candy-cane-megawire/candy-cane-megawire-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/candy-cane-megawire/candy-cane-megawire-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 
