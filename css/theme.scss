@@ -2086,7 +2086,9 @@ div.fun-pro-item {
   }
   .item-reviews-header {
     grid-area: reviews-header;
-    margin: 0 0 var(--gap-items);
+    p {
+      margin: 0 0 var(--gap-items);
+    }
   }
   .item-title {
     grid-area: title;
