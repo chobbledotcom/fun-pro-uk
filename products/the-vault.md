@@ -69,6 +69,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4867e072d6e414cffd2322e7197d37b2"
 tabs:
   - title: "Why The Vault?"
+    image: "/images/products/the-vault/the-vault-8.jpg"
     body: |
       # The Vault
       
@@ -169,5 +170,17 @@ tabs:
       **Branded Top Header**
       
       **£75.00 + Vat**
+  - title: "How It Works"
+    image: "/images/products/the-vault/the-vault-7.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/the-vault/the-vault-6.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/the-vault/the-vault-5.jpg"
+    body: |
+      
 ---
 

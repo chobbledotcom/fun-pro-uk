@@ -61,6 +61,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e106ad1fd91ab1543095e494fc82eb39"
 tabs:
   - title: "Why Beat The Buzzer?"
+    image: "/images/products/beat-the-buzzer/beat-the-buzzer-4.jpg"
     body: |
       # Beat The Buzzer
       
@@ -140,5 +141,17 @@ tabs:
       **Sides of Body**
       
       **£**95** + Vat
+  - title: "How It Works"
+    image: "/images/products/beat-the-buzzer/beat-the-buzzer-3.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/beat-the-buzzer/beat-the-buzzer-2.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/beat-the-buzzer/beat-the-buzzer-1.jpg"
+    body: |
+      
 ---
 

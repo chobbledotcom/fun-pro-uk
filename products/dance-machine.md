@@ -65,6 +65,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d58541b87ff7a3f90066201d269239cf"
 tabs:
   - title: "Why Dance Machine?"
+    image: "/images/products/dance-machine/dance-machine-6.jpg"
     body: |
       # Dance Machine
       
@@ -188,5 +189,17 @@ tabs:
       **Branded sides & front Panel**
       
       **£330**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/dance-machine/dance-machine-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/dance-machine/dance-machine-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/dance-machine/dance-machine-3.jpg"
+    body: |
+      
 ---
 

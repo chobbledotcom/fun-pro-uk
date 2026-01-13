@@ -48,6 +48,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1bdc2a629293e20f8a972449aff24c9f"
 tabs:
   - title: "Why SUPER SLIDES?"
+    image: "/images/products/super-slides/super-slides-2.jpg"
     body: |
       # SUPER SLIDES
       
@@ -99,5 +100,15 @@ tabs:
       *   [Assault courses](/products/inflatable-assault-courses/#content)
       *   [Giant Jenga](/products/giant-jenga-hire/#content)
       *   [Giant connect 4](/products/giant-connect-4-game-hire/#content)
+  - title: "How It Works"
+    image: "/images/products/super-slides/super-slides-1.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

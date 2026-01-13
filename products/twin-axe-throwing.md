@@ -53,6 +53,7 @@ faqs:
     answer: "Yes, we supply everything needed for the game, including the inflatable unit, and foam axes."
 tabs:
   - title: "Why Twin Axe throwing?"
+    image: "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
     body: |
       # Twin Axe throwing
       
@@ -139,5 +140,14 @@ tabs:
       ## Hire Twin Axe Throwing for Your Event
       
       Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

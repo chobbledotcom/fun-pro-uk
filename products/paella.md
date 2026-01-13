@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0d2d06a0030987eeaeeda2e8b324f96"
 tabs:
   - title: "Why PAELLA?"
+    image: "/images/products/paella/paella-3.jpg"
     body: |
       # PAELLA
       
@@ -66,5 +67,16 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/paella/paella-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/paella/paella-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

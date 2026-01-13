@@ -78,6 +78,7 @@ faqs:
     answer: "Shuffleboard can be played with either 2 or 4 players. You can do a one-on-one match or do two teams of two players each."
 tabs:
   - title: "Why Shuffleboard Hire?"
+    image: "/images/products/shuffleboard-hire/shuffleboard-hire-9.jpg"
     body: |
       # Shuffleboard Hire
       
@@ -185,5 +186,17 @@ tabs:
       (One time use only)
       
       **£295**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/shuffleboard-hire/shuffleboard-hire-8.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/shuffleboard-hire/shuffleboard-hire-7.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/shuffleboard-hire/shuffleboard-hire-6.jpg"
+    body: |
+      
 ---
 

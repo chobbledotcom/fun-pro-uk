@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c0f74c5ec4fed95f13b3922a158c902"
 tabs:
   - title: "Why Giant Connect 4 Game Hire?"
+    image: "/images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg"
     body: |
       # Giant Connect 4 Game Hire
       
@@ -108,5 +109,14 @@ tabs:
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
       ## Giant Connect 4 Game Hire Coventry, Birmingham & London
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

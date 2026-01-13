@@ -65,6 +65,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba0f9e064a6ee5454a6055e08564aa1a"
 tabs:
   - title: "Why Snatch It?"
+    image: "/images/products/snatch-it/snatch-it-6.jpg"
     body: |
       # Snatch It
       
@@ -147,5 +148,17 @@ tabs:
       [www.funprouk.co.uk](/#content)
       
       Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!
+  - title: "How It Works"
+    image: "/images/products/snatch-it/snatch-it-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/snatch-it/snatch-it-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/snatch-it/snatch-it-3.jpg"
+    body: |
+      
 ---
 

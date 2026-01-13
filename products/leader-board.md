@@ -70,6 +70,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
 tabs:
   - title: "Why LEADER BOARD?"
+    image: "/images/products/leader-board/leader-board-13.jpg"
     body: |
       # LEADER BOARD
       
@@ -129,5 +130,17 @@ tabs:
       **Fully Branded Leader Board**
       
       **£135**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/leader-board/leader-board-12.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/leader-board/leader-board-11.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/leader-board/leader-board-10.jpg"
+    body: |
+      
 ---
 

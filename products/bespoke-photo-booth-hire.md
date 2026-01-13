@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956"
 tabs:
   - title: "Why Bespoke Photo Booth Hire?"
+    image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg"
     body: |
       # Bespoke Photo Booth Hire
       
@@ -133,5 +134,16 @@ tabs:
       ## **Worth the extra**
       
       Adding a bespoke skin to your photo booth, or branding your social media booth, may cost a little more, but it brings a big return in terms of brand awareness and getting your sales message seen. Talk to our team about how to make the most of your photo booth hire and you'll soon see how cost effective our branding options can be.
+  - title: "How It Works"
+    image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

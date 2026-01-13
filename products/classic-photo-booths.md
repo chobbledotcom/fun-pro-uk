@@ -48,6 +48,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
 tabs:
   - title: "Why CLASSIC PHOTO BOOTHS?"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
     body: |
       # CLASSIC PHOTO BOOTHS
       
@@ -122,5 +123,15 @@ tabs:
       Corporate photo booth hire is an essential extra for all kinds of corporate events, from product launches to annual awards, exhibition stands to company fun days. Plus it's a handy way for people to get a selfie with your star guest without all that messing around with mobile phones. Checkout our amazing [green screen photo booth hire](/products/green-screen-photo-booths/#content) for even more fun features.
       
       We offer reputable, reliable delivery right across the UK, so wherever your next event is, book your photo booth today.
+  - title: "How It Works"
+    image: "/images/products/classic-photo-booths/classic-photo-booths-1.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

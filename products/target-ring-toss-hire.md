@@ -55,6 +55,7 @@ faqs:
     answer: "We deliver to our customers all over the UK."
 tabs:
   - title: "Why Target Ring Toss Hire?"
+    image: "/images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg"
     body: |
       # Target Ring Toss Hire
       
@@ -157,5 +158,14 @@ tabs:
       Brand the rear half wall of the inside of the stall with your brand from:
       
       **£195**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

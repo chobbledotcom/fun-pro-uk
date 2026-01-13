@@ -89,6 +89,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
 tabs:
   - title: "Why CASH GRABBER MACHINE HIRE?"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg"
     body: |
       # CASH GRABBER MACHINE HIRE
       
@@ -229,5 +230,17 @@ tabs:
       **Branded Notes**
       
       **£150**\+ vat for 300 notes**
+  - title: "How It Works"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-16.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-15.jpg"
+    body: |
+      
 ---
 

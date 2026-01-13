@@ -84,6 +84,7 @@ faqs:
     answer: "We offer flexible [game hire options](/#content) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
 tabs:
   - title: "Why CHRISTMAS PHOTO BOOTHS?"
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
     body: |
       # CHRISTMAS PHOTO BOOTHS
       
@@ -205,5 +206,16 @@ tabs:
       **Branded full wrap**
       
       **£750**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/christmas-photo-booths/christmas-photo-booths-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-photo-booths/christmas-photo-booths-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

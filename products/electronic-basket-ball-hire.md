@@ -65,6 +65,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d7e33f6201a361d074013a6b2cd5c30e"
 tabs:
   - title: "Why ELECTRONIC BASKET BALL HIRE?"
+    image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-6.jpg"
     body: |
       # ELECTRONIC BASKET BALL HIRE
       
@@ -180,5 +181,17 @@ tabs:
       ## **Rise to the challenge**
       
       Our team enjoy a challenge as much as anyone, so whatever you've got planned, contact us today and we'll show you how easily we can help you with original and exciting corporate event hire. We deliver right across the United Kingdom, including events in London, Manchester, Birmingham and Coventry, just let us know what you want and where you want it for reliable service that will never let you down.
+  - title: "How It Works"
+    image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-3.jpg"
+    body: |
+      
 ---
 

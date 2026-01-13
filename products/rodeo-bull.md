@@ -70,6 +70,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f54b18f1dc6509f96c728ad6d8b7eded"
 tabs:
   - title: "Why Rodeo Bull?"
+    image: "/images/products/rodeo-bull/rodeo-bull-13.jpg"
     body: |
       # Rodeo Bull
       
@@ -147,5 +148,17 @@ tabs:
       You can hire it for two hours, three or for four hours. You can also hire other games and activities for your event. When you bundle them all together, you can save money. Please contact us for exact rates which include delivery.
       
       If you’re ready to add some additional fun to your next big event, a rodeo bull hire is a fun way for your guests and attendees to have fun, while staying safe and secure within an inflatable structure!
+  - title: "How It Works"
+    image: "/images/products/rodeo-bull/rodeo-bull-12.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/rodeo-bull/rodeo-bull-11.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/rodeo-bull/rodeo-bull-10.jpg"
+    body: |
+      
 ---
 

@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6031efad6121e851b6b068a7f1f5167b"
 tabs:
   - title: "Why Football Darts?"
+    image: "/images/products/football-darts/football-darts-3.jpg"
     body: |
       # Football Darts
       
@@ -88,5 +89,16 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
+  - title: "How It Works"
+    image: "/images/products/football-darts/football-darts-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/football-darts/football-darts-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

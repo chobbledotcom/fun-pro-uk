@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6077efacc4e14ad1b6936f122b6d75f0"
 tabs:
   - title: "Why Pig Roast?"
+    image: "/images/products/pig-roast/pig-roast-3.jpg"
     body: |
       # Pig Roast
       
@@ -76,5 +77,16 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/pig-roast/pig-roast-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/pig-roast/pig-roast-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

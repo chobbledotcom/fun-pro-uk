@@ -46,6 +46,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a"
 tabs:
   - title: "Why Hook A Duck?"
+    image: "/images/products/hook-a-duck/hook-a-duck-1.jpg"
     body: |
       # Hook A Duck
       
@@ -96,5 +97,14 @@ tabs:
       Brand the rear half wall of the inside of the stall with your brand from:
       
       **£195**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

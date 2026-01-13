@@ -6,7 +6,7 @@ order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"
 meta_description: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/grab-a-grand.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -61,6 +61,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/380c932e88e1d86366d0c8481137025b"
 tabs:
   - title: "Why Reindeer Nosenado (Christmas Ballnado Hire )?"
+    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
     body: |
       # Reindeer Nosenado (Christmas Ballnado Hire )
       
@@ -158,5 +159,17 @@ tabs:
       **Header Branding panels**
       
       **£175**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-2.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
+    body: |
+      
 ---
 

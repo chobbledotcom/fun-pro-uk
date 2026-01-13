@@ -80,6 +80,7 @@ faqs:
     answer: "Yes, we can take care of all the logistics for you. Our professional team will deliver the air hockey table directly to your venue, carefully set it up, and test the equipment to ensure everything is functioning perfectly."
 tabs:
   - title: "Why Air Hockey Table Hire?"
+    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-9.jpg"
     body: |
       # Air Hockey Table Hire
       
@@ -124,7 +125,7 @@ tabs:
         
       [Conferences and trade shows](/events/conference-idea/#content)  
       [Product launch parties](/promotional-event-games/#content)  
-      [Company wide retreats](/team-building-activities/#content)  
+      [Company wide retreats](/team-building-ideas/#content)  
       [Awards ceremonies](/events/company-award-ceremonies/#content)  
       Corporate anniversary celebrations  
       Client and partner events  
@@ -190,5 +191,17 @@ tabs:
       ### **Is the equipment maintained and cleaned by Fun Pro UK?**
       
       Yes! We prioritise safety and hygiene to deliver a flawless experience for our clients. Every air hockey table is thoroughly inspected, cleaned, and maintained before each hire. We follow strict cleaning and maintenance protocols to guarantee that the equipment is spotless and in excellent working condition when it arrives at your event.
+  - title: "How It Works"
+    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-8.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-7.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-6.jpg"
+    body: |
+      
 ---
 

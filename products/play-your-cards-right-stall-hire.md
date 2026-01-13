@@ -68,6 +68,7 @@ faqs:
     answer: "Yes, absolutely. We can fully customise the game to match your brand or event."
 tabs:
   - title: "Why Play Your Cards Right Stall Hire?"
+    image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg"
     body: |
       # Play Your Cards Right Stall Hire
       
@@ -168,5 +169,15 @@ tabs:
       (One time use only)
       
       Brand the rear half wall of the side stall with your brand from
+  - title: "How It Works"
+    image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-1.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 
