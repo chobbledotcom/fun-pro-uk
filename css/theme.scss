@@ -79,6 +79,14 @@
   padding: var(--section-padding) 0;
 }
 
+@mixin heading {
+  font-size: 44px;
+  font-weight: 500;
+  line-height: 58px;
+  margin: 0;
+  padding: 0;
+}
+
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
@@ -1024,11 +1032,7 @@ body.horizontal-nav main {
     text-align: left;
   }
   h1 {
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
-    margin: 0;
-    padding: 0;
+    @include heading;
   }
   a.button {
     margin-top: var(--gap-items);
@@ -1039,11 +1043,8 @@ body.horizontal-nav main {
 .testimonials-slider {
   @include section-padding;
   h2 {
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
+    @include heading;
   }
-  h2,
   p {
     margin: 0;
     padding: 0;
@@ -1319,10 +1320,7 @@ body.reviews {
       align-items: center;
     }
     h2 {
-      font-size: 44px;
-      line-height: 58px;
-      padding: 0;
-      margin: 0;
+      @include heading;
     }
     ol {
       @include timeline-list;
@@ -1440,9 +1438,8 @@ body.reviews {
   @include section-padding;
   background: #fff;
   h2 {
-    font-size: 44px;
-    line-height: 58px;
-    margin: 0 0 16px;
+    @include heading;
+    margin-bottom: 16px;
   }
   p {
     margin: 0 0 64px;
@@ -1475,8 +1472,7 @@ body.reviews {
     color: #fff;
   }
   h2 {
-    font-size: 44px;
-    line-height: 58px;
+    @include heading;
   }
   a.button {
     background-color: #fff;
@@ -1503,10 +1499,8 @@ body.reviews {
   text-align: center;
   @include section-padding;
   h2 {
-    margin: 0 0 16px;
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
+    @include heading;
+    margin-bottom: 16px;
   }
   p {
     display: flex;
@@ -1680,11 +1674,9 @@ ol.steps {
 .faqs-container {
   @include section-padding;
   h2 {
+    @include heading;
     text-align: center;
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
-    margin: 0 0 64px;
+    margin-bottom: 64px;
   }
 }
 
@@ -1692,9 +1684,7 @@ ol.steps {
   background: #fdfdfd;
   @include section-padding;
   h2 {
-    font-size: 44px;
-    padding: 0;
-    margin: 0;
+    @include heading;
     display: flex;
     gap: calc(var(--gap-items) * 2);
     align-items: center;
@@ -1726,10 +1716,7 @@ ol.steps {
     flex-direction: column;
   }
   h2 {
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
-    margin: 0;
+    @include heading;
   }
   h3 {
     font-size: 20px;
@@ -1779,11 +1766,9 @@ ol.steps {
     align-items: center;
   }
   h2 {
+    @include heading;
     text-align: center;
-    font-size: 44px;
-    font-weight: 500;
-    line-height: 58px;
-    margin: 0 0 calc(var(--gap-items) * 2);
+    margin-bottom: calc(var(--gap-items) * 2);
   }
   ul {
     list-style: none;
