@@ -1052,11 +1052,10 @@ body.reviews {
     padding: 0;
     gap: var(--gap-items);
     flex-direction: row;
-    width: 458px !important;
     li {
       @include card;
       gap: 16px;
-      width: 340px;
+      width: 458px !important;
       display: grid;
       grid-template-areas: "rating" "content" "name" "avatar";
 
