@@ -521,6 +521,10 @@ body {
   }
 }
 
+.quote-footer {
+  padding: var(--gap-items);
+}
+
 .quote-steps-progress {
   background: white;
   --color-bg: #009dd7;
@@ -562,6 +566,12 @@ body {
   }
 }
 
+body.one-column .quote-sidebar {
+  @include breakpoints.up("lg") {
+    width: 430px;
+  }
+}
+
 .quote-steps-nav {
   border: none;
   margin: 0;
@@ -576,7 +586,7 @@ body {
 .quote-price {
   padding: 0;
   & > li {
-    padding: 8px 16px;
+    padding: calc(var(--gap-items) / 2) var(--gap-items);
     &:first-child {
       background: #009dd7;
       color: #fff;
