@@ -630,6 +630,15 @@ body {
   }
 }
 
+.quote-step-fields {
+  gap: var(--gap-items);
+  @include breakpoints.up("sm") {
+    @media screen and (min-width: 651px) {
+      width: calc(50% - (calc(var(--gap-items) / 2)));
+    }
+  }
+}
+
 body.one-column .quote-sidebar {
   @include breakpoints.up("lg") {
     width: 430px;
