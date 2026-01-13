@@ -960,6 +960,7 @@ body.horizontal-nav main {
   .button {
     background: transparent;
     border-color: var(--color-border);
+    @include button-white;
   }
   .items {
     li {
@@ -1492,7 +1493,7 @@ body.reviews {
 }
 
 .contact-form {
-  field {
+  label {
     margin-bottom: var(--gap-items);
   }
 }
