@@ -711,8 +711,11 @@ body.horizontal-nav main {
   & > nav {
     border: 0;
     font-size: 14px;
-    font-weight: 500;
+    font-size: 14px;
     display: grid;
+    a:hover {
+      font-weight: 500;
+    }
 
     #logo {
       grid-area: logo;
@@ -1085,7 +1088,8 @@ body.reviews {
   ul.items {
     display: flex;
     list-style-type: none;
-    padding: 0;
+    padding: var(--gap-items) 0 calc(var(--gap-items) / 2);
+    margin: 0 0 calc(var(--gap-items) / 2);
     gap: var(--gap-items);
     flex-direction: row;
     li {
