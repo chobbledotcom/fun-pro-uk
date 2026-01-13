@@ -2104,6 +2104,13 @@ div.fun-pro-item {
   .item-cart-buttons {
     grid-area: cart-buttons;
     margin-bottom: var(--gap-items);
+
+    .add-to-cart {
+      width: 100%;
+      color: #fff;
+      background-color: #ee3324;
+      border-color: #fff;
+    }
   }
   .item-gallery {
     grid-area: gallery;
