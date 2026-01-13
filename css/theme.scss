@@ -87,6 +87,36 @@
   padding: 0;
 }
 
+@mixin button-blue {
+  color: #fafafa;
+  background: #1c54e3;
+  border: none;
+  box-shadow: none;
+  svg {
+    fill: #fafafa;
+  }
+}
+
+@mixin button-red {
+  color: #fafafa;
+  background: #ee3324;
+  border: none;
+  box-shadow: none;
+  svg {
+    fill: #fafafa;
+  }
+}
+
+@mixin button-white {
+  color: #181a1f;
+  background: #fff;
+  border: none;
+  box-shadow: none;
+  svg {
+    fill: #181a1f;
+  }
+}
+
 @font-face {
   font-family: "DM Sans";
   font-style: normal;
@@ -303,40 +333,28 @@ input[type="submit"] {
   gap: 16px;
   align-items: center;
   border-radius: 16px;
-  border: 1px solid transparent;
+  border: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   background: transparent;
   white-space: nowrap;
-  box-shadow: 0 0px 2px black;
+  box-shadow: none;
 
   &:hover {
-    background: transparent;
-    border-width: 1px;
     text-decoration: none;
   }
 
   &.white {
-    svg {
-      fill: #181a1f;
-    }
+    @include button-white;
   }
 
   &.red {
-    color: #fafafa;
-    background: #ee3324;
-    border: none;
-    box-shadow: 0 0px 2px #ee332496;
-    svg {
-      fill: #fafafa;
-    }
+    @include button-red;
   }
 
   &.blue {
-    color: #fafafa;
-    background: #1c54e3;
-    box-shadow: 0 0px 2px #1c54e396;
+    @include button-blue;
   }
 }
 
@@ -618,9 +636,7 @@ body.one-column .quote-sidebar {
   margin: 0;
   padding: 0;
   a.button.quote-step-next {
-    background: #ee3324;
-    color: #fff;
-    box-shadow: none;
+    @include button-red;
   }
 }
 
@@ -663,19 +679,13 @@ body.one-column .quote-sidebar {
     .quote-cart-item-actions {
       button,
       input {
-        border-color: #ccc;
-        box-shadow: none;
+        border: 1px solid #ccc;
       }
     }
   }
   .quote-cart-actions {
     a.button {
-      border-radius: 16px;
-      color: white;
-      background: #ee3324;
-      font-weight: 500;
-      border: none;
-      box-shadow: none;
+      @include button-red;
     }
   }
 }
@@ -759,11 +769,9 @@ body.horizontal-nav main {
       bottom: auto;
       left: auto;
       padding: 0;
-      border: none;
       background: transparent;
       color: #ee3324;
       align-self: center;
-      box-shadow: none;
       span:not(.cart-count) {
         display: none;
       }
@@ -1039,7 +1047,6 @@ body.horizontal-nav main {
     @include heading;
   }
   a.button {
-    margin-top: var(--gap-items);
     width: 303px;
   }
 }
@@ -1331,14 +1338,8 @@ body.reviews {
       @include timeline-list;
       margin: 0;
     }
-    a {
-      margin: 0;
-      box-shadow: none;
-      background: white;
-      color: #181a1f;
-      svg {
-        fill: #181a1f;
-      }
+    a.button {
+      @include button-white;
     }
     .image-wrapper {
       img {
@@ -1480,13 +1481,14 @@ body.reviews {
     @include heading;
   }
   a.button {
-    background-color: #fff;
+    @include button-white;
     color: #ee3324;
-    border-color: transparent;
+    svg {
+      fill: #ee3324;
+    }
     &.red {
-      color: #fff;
-      background-color: #ee3324;
-      border-color: #fff;
+      @include button-red;
+      border: 1px solid #fff;
     }
   }
   .actions {
@@ -1593,12 +1595,7 @@ ul.items {
     padding: 32px;
   }
   .add-to-cart {
-    border-radius: 16px;
-    background: #ee3324;
-    box-shadow: none;
-    border: none;
-    color: #fff;
-    font-weight: 500;
+    @include button-red;
     width: 100%;
   }
 }
@@ -2106,10 +2103,8 @@ div.fun-pro-item {
     margin-bottom: var(--gap-items);
 
     .add-to-cart {
+      @include button-red;
       width: 100%;
-      color: #fff;
-      background-color: #ee3324;
-      border-color: #fff;
     }
   }
   .item-gallery {
