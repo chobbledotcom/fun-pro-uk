@@ -69,6 +69,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
 tabs:
   - title: "Why Pix N Mix Hire?"
+    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg"
     body: |
       # Pix N Mix Hire
       
@@ -148,5 +149,17 @@ tabs:
       **Fully Branded**
       
       **£145**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-7.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-6.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-5.jpg"
+    body: |
+      
 ---
 

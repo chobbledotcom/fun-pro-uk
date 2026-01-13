@@ -77,6 +77,7 @@ faqs:
     answer: "Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart's exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process."
 tabs:
   - title: "Why Candy Floss Cart Hire?"
+    image: "/images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg"
     body: |
       # Candy Floss Cart Hire
       
@@ -192,5 +193,14 @@ tabs:
       **Side Panels**
       
       **£90 + Vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

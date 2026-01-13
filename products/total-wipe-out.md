@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b857fd4a67fed05224b0f7ed7dc24e36"
 tabs:
   - title: "Why TOTAL WIPE OUT?"
+    image: "/images/products/total-wipe-out/total-wipe-out-3.jpg"
     body: |
       # TOTAL WIPE OUT
       
@@ -151,5 +152,16 @@ tabs:
       Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](/products/inflatable-assault-courses/#content) and our crazy [human table football](/products/human-table-football/#content).
       
       If you're planning a event, talk to our team today for the best [company fun day ideas](/categories/fun-days/#content) and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
+  - title: "How It Works"
+    image: "/images/products/total-wipe-out/total-wipe-out-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/total-wipe-out/total-wipe-out-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

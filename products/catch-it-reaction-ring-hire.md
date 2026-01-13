@@ -88,6 +88,7 @@ faqs:
     answer: "We recommend booking as early as possible, especially for peak event seasons and major exhibition dates."
 tabs:
   - title: "Why Catch it Reaction Ring Hire?"
+    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg"
     body: |
       # Catch it Reaction Ring Hire
       
@@ -228,5 +229,17 @@ tabs:
       **Front and side **panel** branding**
       
       **£195**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-9.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-8.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-7.jpg"
+    body: |
+      
 ---
 

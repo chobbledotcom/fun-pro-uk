@@ -6,7 +6,7 @@ order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
 categories: ["categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -85,6 +85,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4e258fa20804dd835c8ae6e52f2501ae"
 tabs:
   - title: "Why RETRO ARCADE GAMES?"
+    image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
     body: |
       # RETRO ARCADE GAMES
       
@@ -198,5 +199,17 @@ tabs:
       **Branded Front & Sides Panels**
       
       **£295**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/retro-arcade-games/retro-arcade-games-15.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/retro-arcade-games/retro-arcade-games-14.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/retro-arcade-games/retro-arcade-games-13.jpg"
+    body: |
+      
 ---
 

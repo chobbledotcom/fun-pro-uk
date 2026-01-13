@@ -75,6 +75,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30d70c3f03c771d66088d5c82fe34cc8"
 tabs:
   - title: "Why FOOTBALL TABLES?"
+    image: "/images/products/football-tables/football-tables-11.jpg"
     body: |
       # FOOTBALL TABLES
       
@@ -229,5 +230,17 @@ tabs:
       Full Branded
       
       **£**225** + vat
+  - title: "How It Works"
+    image: "/images/products/football-tables/football-tables-10.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/football-tables/football-tables-9.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/football-tables/football-tables-8.jpg"
+    body: |
+      
 ---
 

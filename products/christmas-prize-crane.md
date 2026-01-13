@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Prize Crane - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Prize Crane is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
 tabs:
   - title: "Why Christmas Prize Crane?"
+    image: "/images/products/christmas-prize-crane/christmas-prize-crane-1.jpg"
     body: |
       # Christmas Prize Crane
       
@@ -105,5 +106,14 @@ tabs:
       **Full branding**
       
       **£475**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

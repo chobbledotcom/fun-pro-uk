@@ -65,6 +65,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f0f13d02b59bf579c6ed081c4d9416f6"
 tabs:
   - title: "Why GOLD CUP HORSE RACING?"
+    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg"
     body: |
       # GOLD CUP HORSE RACING
       
@@ -175,5 +176,17 @@ tabs:
       Guests place their legs either side of their chosen horse &' each player can pick from green, red, yellow and blue, holding on to the handle players gallop their way to the finishing line. The faster you gallop, the quicker you'll be crowned the ultimate jockey.
       
       This game is not just fun for those playing, it will draw the crowds to watch others take on the test to become the winner.
+  - title: "How It Works"
+    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg"
+    body: |
+      
 ---
 

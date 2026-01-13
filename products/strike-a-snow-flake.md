@@ -6,7 +6,7 @@ order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -72,6 +72,7 @@ faqs:
     answer: "The game comes complete with bright LED lights, festive snowflake-themed decorations, and built-in sound effects. It includes a sturdy table or stand to ensure stability and accessibility during play. Our professional team handles delivery, setup, and collection, providing a hassle-free experience for event organisers."
 tabs:
   - title: "Why Strike A Snow Flake?"
+    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-6.jpg"
     body: |
       # Strike A Snow Flake
       
@@ -88,7 +89,7 @@ tabs:
         
       ✓ Corporate Christmas parties  
       ✓ Holiday themed [team building events  
-      ](/team-building-activities/#content)✓ Christmas funfairs  
+      ](/team-building-ideas/#content)✓ Christmas funfairs  
       ✓ [Family gatherings](http://)  
         
       ...and more!
@@ -190,5 +191,17 @@ tabs:
       £420 + vat
       
       ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
+  - title: "How It Works"
+    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-5.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-4.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-3.jpg"
+    body: |
+      
 ---
 

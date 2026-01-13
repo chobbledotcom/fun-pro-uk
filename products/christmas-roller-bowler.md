@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Roller Bowler - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Roller Bowler is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -77,6 +77,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5aff31f5e8c040102b6f02a0a43d0a32"
 tabs:
   - title: "Why Christmas Roller Bowler?"
+    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-16.jpg"
     body: |
       # Christmas Roller Bowler
       
@@ -112,7 +113,7 @@ tabs:
       
       ## Why Choose Roller Bowler for Your Next Event?
       
-      At [Fun Pro UK](/our-story/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
+      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
       
       *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
           
@@ -291,5 +292,17 @@ tabs:
       **Extra information**
       
       Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
+  - title: "How It Works"
+    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-15.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-14.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-13.jpg"
+    body: |
+      
 ---
 

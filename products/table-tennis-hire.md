@@ -62,6 +62,7 @@ faqs:
     answer: "Our minimum hire period is 2 hours, with flexible options available for longer events. Whether you need the tables for a single day or a week, we can accommodate your needs."
 tabs:
   - title: "Why Table Tennis Hire?"
+    image: "/images/products/table-tennis-hire/table-tennis-hire-1.jpg"
     body: |
       # Table Tennis Hire
       
@@ -170,5 +171,14 @@ tabs:
       *   [Lights Out](/categories/interactive-game-hire/#content)
       *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

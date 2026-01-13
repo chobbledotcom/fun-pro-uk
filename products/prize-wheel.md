@@ -61,6 +61,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0"
 tabs:
   - title: "Why Prize Wheel?"
+    image: "/images/products/prize-wheel/prize-wheel-4.jpg"
     body: |
       # Prize Wheel
       
@@ -190,5 +191,17 @@ tabs:
       **Full Branding**
       
       **£190**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/prize-wheel/prize-wheel-3.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/prize-wheel/prize-wheel-2.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/prize-wheel/prize-wheel-1.jpg"
+    body: |
+      
 ---
 

@@ -107,6 +107,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b5861f56d5ce65d2e5da34b6d79b942"
 tabs:
   - title: "Why Whack A Mole game hire?"
+    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
     body: |
       # Whack A Mole game hire
       
@@ -182,5 +183,17 @@ tabs:
       **Fully Branded**
       
       **£445**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-26.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-25.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-24.jpg"
+    body: |
+      
 ---
 

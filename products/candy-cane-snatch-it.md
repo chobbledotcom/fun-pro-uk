@@ -6,7 +6,7 @@ order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
 categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -69,6 +69,7 @@ faqs:
     answer: "The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns."
 tabs:
   - title: "Why Candy Cane Snatch it?"
+    image: "/images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg"
     body: |
       # Candy Cane Snatch it
       
@@ -194,5 +195,14 @@ tabs:
       **Branded Plinth**
       
       **£245**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

@@ -61,6 +61,7 @@ faqs:
     answer: "Yes, comprehensive branding options are available, including header panels, side panels, and playfield graphics. Our in-house design team can create custom artwork incorporating your logo, colours, and messaging. Branding typically requires 2-3 weeks' notice."
 tabs:
   - title: "Why Roller Bowler?"
+    image: "/images/products/roller-bowler/roller-bowler-1.jpg"
     body: |
       # Roller Bowler
       
@@ -88,7 +89,7 @@ tabs:
       
       ## Why Choose Roller Bowler for Your Next Event?
       
-      At [Fun Pro UK](/our-story/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
+      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
       
       *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
           
@@ -203,5 +204,14 @@ tabs:
       We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability.
       
       ### **Can the Roller Bowler be branded with our company logo?**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

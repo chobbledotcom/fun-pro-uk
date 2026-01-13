@@ -96,6 +96,7 @@ faqs:
     answer: "Yes. Our Batak Pro hire comes with a range of customisation options, so you can really tailor it to your brand."
 tabs:
   - title: "Why Batak Pro?"
+    image: "/images/products/batak-pro/batak-pro-14.jpg"
     body: |
       # Batak Pro
       
@@ -107,7 +108,7 @@ tabs:
       
       Batak Pro is the full-scale version of the popular reaction speed game, [Batak Lite](/products/batak-lite/#content), designed to test and improve hand-eye coordination, reflexes, and stamina. With its dynamic illuminated targets, players are challenged to hit as many of the targets as possible within a set time, making it a thrilling game for participants and spectators alike.
       
-      Highly popular at many types of [corporate events](/categories/corporate-entertainment/#content) like [team building](/team-building-activities/#content) days, exhibitions, trade shows, and [brand activations](/promotional-event-games/#content), Batak Pro draws crowds and creates a buzz around your brand.
+      Highly popular at many types of [corporate events](/categories/corporate-entertainment/#content) like [team building](/team-building-ideas/#content) days, exhibitions, trade shows, and [brand activations](/promotional-event-games/#content), Batak Pro draws crowds and creates a buzz around your brand.
       
       ## Why Choose Batak Pro for Your Next Event?
       
@@ -213,5 +214,17 @@ tabs:
       ## Hire Batak Pro for Your Next Event
       
       Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Pro hire today!
+  - title: "How It Works"
+    image: "/images/products/batak-pro/batak-pro-13.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/batak-pro/batak-pro-12.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/batak-pro/batak-pro-11.jpg"
+    body: |
+      
 ---
 

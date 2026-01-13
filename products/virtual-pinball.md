@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
 tabs:
   - title: "Why Virtual Pinball?"
+    image: "/images/products/virtual-pinball/virtual-pinball-1.jpg"
     body: |
       # Virtual Pinball
       
@@ -93,5 +94,14 @@ tabs:
       Our service covers multiple locations, so no matter where you are in the UK, we can bring the pinball action to you. Whether it's the vibrant streets of London, the cultural hub of Birmingham, the historic charm of Nottingham, or the bustling cities of Coventry and Northampton, we've got the perfect pinball machine waiting for you.  
         
       Ready to level up your event with our pinball game hire? Contact us now to discuss your requirements and secure your booking. Our friendly team is here to assist you every step of the way, ensuring a seamless and unforgettable experience. Let the games begin!
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

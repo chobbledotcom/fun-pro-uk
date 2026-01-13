@@ -64,6 +64,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ade8fb53c3007acd88df47339ae09d4e"
 tabs:
   - title: "Why INFLATABLE ASSAULT COURSES?"
+    image: "/images/products/inflatable-assault-courses/inflatable-assault-courses-10.jpg"
     body: |
       # INFLATABLE ASSAULT COURSES
       
@@ -237,5 +238,17 @@ tabs:
       Our inflatable assault courses for hire are available nationwide, and we can also supply a range of other fun day inflatables too, from [adult bouncy castles](/products/large-bouncy-castles/#content) to [gladiator duels](/products/gladiator-duel/#content).
       
       Our team will be happy to help organise a memorable company fun day for you. Just tell us your venue and budget and we'll take care of everything you need.
+  - title: "How It Works"
+    image: "/images/products/inflatable-assault-courses/inflatable-assault-courses-9.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/inflatable-assault-courses/inflatable-assault-courses-8.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/inflatable-assault-courses/inflatable-assault-courses-7.jpg"
+    body: |
+      
 ---
 

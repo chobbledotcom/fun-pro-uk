@@ -83,6 +83,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8cc4bae778ba19a7414fcd30b95be4aa"
 tabs:
   - title: "Why GIANT BUZZ WIRE?"
+    image: "/images/products/giant-buzz-wire/giant-buzz-wire-15.jpg"
     body: |
       # GIANT BUZZ WIRE
       
@@ -190,5 +191,17 @@ tabs:
       ## **Your own company carnival**
       
       You can hire the mega buzz wire challenge on its own, or use it as part of your own company fun day fairground, along with our t[win basketball challenge](/products/electronic-basket-ball-hire/#content), a twist on the classic [pluck a duck](/products/pluck-a-duck-racing/#content) or even a giant version of Operation. Our experienced event organisers will be happy to work with your PR or HR team to put together a truly memorable package of fun and games for any kind of function. Contact us today and we'll take care of everything. We deliver UK-wide including Warwickshire, Nottinghamshire, Leicestershire and as far afield as London and Manchester.
+  - title: "How It Works"
+    image: "/images/products/giant-buzz-wire/giant-buzz-wire-14.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/giant-buzz-wire/giant-buzz-wire-13.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/giant-buzz-wire/giant-buzz-wire-12.jpg"
+    body: |
+      
 ---
 

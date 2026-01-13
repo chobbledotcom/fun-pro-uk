@@ -244,7 +244,7 @@ meta_description: "${metadata.meta_description || ""}"`;
 /**
  * Format tabs as YAML for frontmatter
  * Uses literal block scalar (|) for multi-line body content
- * @param {Array<Object>} tabs - Tabs array with title and body properties
+ * @param {Array<Object>} tabs - Tabs array with title, body, and optional image properties
  * @returns {string} YAML formatted tabs string (without leading newline)
  */
 const formatTabsYaml = (tabs) => {
@@ -254,8 +254,14 @@ const formatTabsYaml = (tabs) => {
   for (const tab of tabs) {
     const title = (tab.title || "").replace(/"/g, '\\"');
     const body = tab.body || "";
+    const image = tab.image || "";
 
     yaml += `\n  - title: "${title}"`;
+
+    // Add image if present
+    if (image) {
+      yaml += `\n    image: "${image}"`;
+    }
 
     // Always use literal block scalar for body content to preserve formatting
     // Indent each line by 4 spaces (2 for list item, 2 for body property content)
@@ -447,14 +453,41 @@ ${optionsYaml}`;
     frontmatter += "\n" + faqsYaml;
   }
 
-  // Add body content as a tab with title "Why <Product Name>?"
-  if (bodyContent && bodyContent.trim()) {
-    const tabTitle = `Why ${productName}?`;
-    const tabs = [{ title: tabTitle, body: bodyContent.trim() }];
-    const tabsYaml = formatTabsYaml(tabs);
-    if (tabsYaml) {
-      frontmatter += "\n" + tabsYaml;
-    }
+  // Add tabs - "Why <Product Name>?" with content, plus 3 empty tabs
+  // Each tab gets an image from the gallery (counting from the end)
+  const gallery = images?.existingGallery || [];
+  const getImageFromEnd = (index) => {
+    // index 0 = last image, index 1 = second to last, etc.
+    const idx = gallery.length - 1 - index;
+    return idx >= 0 ? gallery[idx] : "";
+  };
+
+  const tabs = [
+    {
+      title: `Why ${productName}?`,
+      body: (bodyContent && bodyContent.trim()) || "",
+      image: getImageFromEnd(0), // last image
+    },
+    {
+      title: "How It Works",
+      body: "",
+      image: getImageFromEnd(1), // second to last
+    },
+    {
+      title: "Why It's A Crowd Favourite",
+      body: "",
+      image: getImageFromEnd(2), // third to last
+    },
+    {
+      title: "Delivery",
+      body: "",
+      image: getImageFromEnd(3), // fourth to last
+    },
+  ];
+
+  const tabsYaml = formatTabsYaml(tabs);
+  if (tabsYaml) {
+    frontmatter += "\n" + tabsYaml;
   }
 
   frontmatter += "\n---";

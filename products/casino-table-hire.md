@@ -6,7 +6,7 @@ order: 50
 meta_title: "Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party"
 meta_description: "Host a thrilling casino night with our casino party hire. Perfect for corporate events, fun days, and parties. Casino tables delivered UK-wide. Call now!"
 categories: ["categories/pub-games.md", "categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -62,6 +62,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3067b61de26eb5bc63a3a7da3ae8e1e6"
 tabs:
   - title: "Why CASINO TABLE HIRE?"
+    image: "/images/products/casino-table-hire/casino-table-hire-9.jpg"
     body: |
       # CASINO TABLE HIRE
       
@@ -136,5 +137,17 @@ tabs:
       **Book now to secure your tables for your next event.**
       
       Do you want me to write a **short punchy version** too (for social media or flyer-style ads) alongside this full description?
+  - title: "How It Works"
+    image: "/images/products/casino-table-hire/casino-table-hire-8.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/casino-table-hire/casino-table-hire-7.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/casino-table-hire/casino-table-hire-6.jpg"
+    body: |
+      
 ---
 

@@ -55,6 +55,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
 tabs:
   - title: "Why Crazy Golf?"
+    image: "/images/products/crazy-golf/crazy-golf-1.jpg"
     body: |
       # Crazy Golf
       
@@ -115,5 +116,14 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required 2200mm deep
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

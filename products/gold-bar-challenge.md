@@ -58,6 +58,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f4cdfe2aaf74a7d0869d3b00e470de8a"
 tabs:
   - title: "Why Gold Bar Challenge?"
+    image: "/images/products/gold-bar-challenge/gold-bar-challenge-7.jpg"
     body: |
       # Gold Bar Challenge
       
@@ -138,5 +139,17 @@ tabs:
       **Branded all sides**
       
       **£195**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/gold-bar-challenge/gold-bar-challenge-6.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/gold-bar-challenge/gold-bar-challenge-5.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/gold-bar-challenge/gold-bar-challenge-4.jpg"
+    body: |
+      
 ---
 

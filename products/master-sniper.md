@@ -94,5 +94,14 @@ tabs:
       **DELIVERY**
       
       This item can not be carry up or down any stairs.
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

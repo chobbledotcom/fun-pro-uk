@@ -67,6 +67,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85"
 tabs:
   - title: "Why High Striker?"
+    image: "/images/products/high-striker/high-striker-7.jpg"
     body: |
       # High Striker
       
@@ -153,5 +154,17 @@ tabs:
       **Branding the High Strike**
       
       **£145**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/high-striker/high-striker-6.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/high-striker/high-striker-5.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/high-striker/high-striker-4.jpg"
+    body: |
+      
 ---
 

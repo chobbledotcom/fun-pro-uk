@@ -59,6 +59,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/50395536024ba9fc15eb752613165cb5"
 tabs:
   - title: "Why TOP DOC OPERATION GAME?"
+    image: "/images/products/top-doc-operation-game/top-doc-operation-game-3.jpg"
     body: |
       # TOP DOC OPERATION GAME
       
@@ -154,5 +155,16 @@ tabs:
       Branded Plinth
       
       £**245** + Vat
+  - title: "How It Works"
+    image: "/images/products/top-doc-operation-game/top-doc-operation-game-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/top-doc-operation-game/top-doc-operation-game-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

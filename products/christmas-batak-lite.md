@@ -6,7 +6,7 @@ order: 50
 meta_title: "Christmas Batak Lite - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Batak Lite is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: []
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -85,6 +85,7 @@ faqs:
     answer: "Batak Lite is as popular as mince pies in December — so we always recommend **booking early** to secure your date! Once you've set your festive plans, let us know, and we'll make sure the fun is reserved just for you."
 tabs:
   - title: "Why Christmas Batak Lite?"
+    image: "/images/products/christmas-batak-lite/christmas-batak-lite-12.jpg"
     body: |
       # Christmas Batak Lite
       
@@ -188,5 +189,17 @@ tabs:
       **8 x Branded Button Surrounds**
       
       **£**125** + vat**
+  - title: "How It Works"
+    image: "/images/products/christmas-batak-lite/christmas-batak-lite-11.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-batak-lite/christmas-batak-lite-10.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/christmas-batak-lite/christmas-batak-lite-9.jpg"
+    body: |
+      
 ---
 

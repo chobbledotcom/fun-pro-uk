@@ -64,6 +64,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65a14af4364b497717c424304c8d4f80"
 tabs:
   - title: "Why Corn Hole?"
+    image: "/images/products/corn-hole/corn-hole-10.jpg"
     body: |
       # Corn Hole
       
@@ -242,5 +243,17 @@ tabs:
       **Front panel branding Per unit**
       
       **£110**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/corn-hole/corn-hole-9.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/corn-hole/corn-hole-8.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/corn-hole/corn-hole-7.jpg"
+    body: |
+      
 ---
 

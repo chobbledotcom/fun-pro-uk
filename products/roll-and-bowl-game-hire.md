@@ -117,6 +117,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b37db6331e249d685ef03fdbfdf5648"
 tabs:
   - title: "Why Roll And Bowl Game Hire?"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
     body: |
       # Roll And Bowl Game Hire
       
@@ -237,5 +238,17 @@ tabs:
       **Fully branded**
       
       **£1020**\+ vat**
+  - title: "How It Works"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-31.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-30.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg"
+    body: |
+      
 ---
 

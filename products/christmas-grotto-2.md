@@ -54,6 +54,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a85b357e890eba2ea8ef201ac0f0c093"
 tabs:
   - title: "Why CHRISTMAS GROTTO 2?"
+    image: "/images/products/christmas-grotto-2/christmas-grotto-2-5.jpg"
     body: |
       # CHRISTMAS GROTTO 2
       
@@ -124,5 +125,17 @@ tabs:
       Our choice of inflatable Christmas grottoes are just part of our seasonal selection, which also includes [festive themed photo booths](/products/christmas-photo-booths/#content), and even [adult sized bouncy castles](/products/large-bouncy-castles/#content) to really add bounce to your company party. So whatever you've got planned for your company celebrations, contact us today for the best choice and value for your Christmas fun. Our elves can deliver all over the UK, just like Santa himself, from London to Liverpool, Birmingham to Brighton, but be warned, these items book up fast, so contact us today to reserve your date.
       
       **Christmas Grotto available to hire Through out the UK**
+  - title: "How It Works"
+    image: "/images/products/christmas-grotto-2/christmas-grotto-2-4.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/christmas-grotto-2/christmas-grotto-2-3.jpg"
+    body: |
+      
+  - title: "Delivery"
+    image: "/images/products/christmas-grotto-2/christmas-grotto-2-2.jpg"
+    body: |
+      
 ---
 

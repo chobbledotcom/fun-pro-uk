@@ -55,6 +55,7 @@ faqs:
     answer: "If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote."
 tabs:
   - title: "Why Coconut Shy Stall Hire?"
+    image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
     body: |
       # Coconut Shy Stall Hire
       
@@ -147,5 +148,14 @@ tabs:
       Brand the rear half wall of the inside of the stall with your brand from:
       
       **£195**\+ vat**
+  - title: "How It Works"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 

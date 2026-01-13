@@ -50,6 +50,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e6f61bfa03a9dd6854c94b7c7daa283"
 tabs:
   - title: "Why Pizza?"
+    image: "/images/products/pizza/pizza-3.jpg"
     body: |
       # Pizza
       
@@ -76,5 +77,16 @@ tabs:
       **We are able to cover the whole of the UK on request.**
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+  - title: "How It Works"
+    image: "/images/products/pizza/pizza-2.jpg"
+    body: |
+      
+  - title: "Why It's A Crowd Favourite"
+    image: "/images/products/pizza/pizza-1.jpg"
+    body: |
+      
+  - title: "Delivery"
+    body: |
+      
 ---
 
