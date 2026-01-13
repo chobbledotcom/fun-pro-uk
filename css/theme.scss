@@ -2093,6 +2093,9 @@ div.fun-pro-item {
   .item-specs {
     grid-area: specs;
     margin-bottom: var(--gap-items);
+    dl {
+      margin: 0;
+    }
   }
   .item-features {
     grid-area: features;
