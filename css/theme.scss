@@ -2082,38 +2082,38 @@ div.fun-pro-item {
 
   .item-breadcrumbs {
     grid-area: breadcrumbs;
-    margin-bottom: calc(var(--gap-items) / 2);
+    margin: 0 0 calc(var(--gap-items) / 2);
   }
   .item-reviews-header {
     grid-area: reviews-header;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
   }
   .item-title {
     grid-area: title;
-    margin-bottom: calc(var(--gap-items) / 4);
+    margin: 0 0 calc(var(--gap-items) / 4);
   }
   .item-subtitle {
     grid-area: subtitle;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
   }
   .item-price {
     grid-area: price;
-    margin-bottom: calc(var(--gap-items) / 2);
+    margin: 0 0 calc(var(--gap-items) / 2);
   }
   .item-specs {
     grid-area: specs;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
     dl {
       margin: 0;
     }
   }
   .item-features {
     grid-area: features;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
   }
   .item-cart-buttons {
     grid-area: cart-buttons;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
 
     .add-to-cart {
       @include button-red;
@@ -2122,23 +2122,23 @@ div.fun-pro-item {
   }
   .item-gallery {
     grid-area: gallery;
-    margin-bottom: var(--section-padding-half);
+    margin: 0 0 var(--section-padding-half);
   }
   .item-description {
     grid-area: description;
-    margin-bottom: var(--gap-items);
+    margin: 0 0 var(--gap-items);
   }
   .item-tabs {
     grid-area: tabs;
-    margin-bottom: var(--section-padding);
+    margin: 0 0 var(--section-padding);
   }
   .item-reviews {
     grid-area: reviews;
-    margin-bottom: var(--section-padding);
+    margin: 0 0 var(--section-padding);
   }
   .item-faqs {
     grid-area: faqs;
-    margin-bottom: var(--section-padding);
+    margin: 0 0 var(--section-padding);
   }
 
   .inner {
