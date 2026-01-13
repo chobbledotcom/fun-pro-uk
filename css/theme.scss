@@ -657,6 +657,14 @@ body.one-column .quote-sidebar {
       padding: var(--gap-items) var(--gap-items) calc(var(--gap-items) / 2);
       flex-direction: column;
       align-items: center;
+      margin-bottom: var(--gap-items);
+      ul {
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        gap: 16px;
+      }
     }
     & > ul {
       display: flex;
