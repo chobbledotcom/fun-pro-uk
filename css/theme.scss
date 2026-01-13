@@ -1257,6 +1257,11 @@ body.reviews {
         width: 50%;
       }
     }
+    @include breakpoints.up("md") {
+      .left {
+        padding-left: var(--section-padding);
+      }
+    }
   }
 }
 .delivery-row {
@@ -1838,6 +1843,15 @@ ol.steps {
   .faqs-column {
     flex: 1;
     margin: 0;
+
+    @include breakpoints.up("lg") {
+      &:nth-child(1) {
+        padding-left: calc(var(--section-padding) * 2);
+      }
+      &:nth-child(2) {
+        padding-right: calc(var(--section-padding) * 2);
+      }
+    }
   }
 
   details {
