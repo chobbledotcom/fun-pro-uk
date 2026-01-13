@@ -13,7 +13,14 @@
   "contact_form_target": "https://auto.chobble.com/webhooks/flows/7293ba6f-810a-4dd0-99fb-462ea365d3cd/sync",
   "products": { "item_list_aspect_ratio": "4/3" },
   "timezone": "Europe/London",
-  "list_item_fields": ["link", "subtitle", "thumbnail", "price", "cart-button"],
+  "list_item_fields": [
+    "link",
+    "subtitle",
+    "thumbnail",
+    "price",
+    "specs",
+    "cart-button"
+  ],
   "navigation_content_anchor": true,
   "category_order": [
     "products-header.html",
