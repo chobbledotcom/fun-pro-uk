@@ -479,13 +479,13 @@ body {
         }
         @include breakpoints.up("md") {
           grid-area: left;
-          padding-right: 64px;
+          padding-right: var(--section-padding-half);
           display: flex;
           flex-direction: column;
           align-items: end;
           div,
           h2 {
-            width: min(860px, 50vw);
+            width: min(700px, calc(50vw - (var(--section-padding-half) * 2)));
             color: white;
           }
         }
@@ -500,7 +500,7 @@ body {
           flex-direction: column;
           justify-content: center;
           li {
-            width: min(860px, 50vw);
+            width: min(700px, calc(50vw - (var(--section-padding-half) * 2)));
           }
         }
       }
