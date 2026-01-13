@@ -11,6 +11,7 @@
     &:hover,
     &:active {
       color: #fafafa;
+      font-weight: inherit !important;
     }
     &.button {
       border-color: #fafafa;
@@ -306,7 +307,9 @@ article#content,
 
   & > *:not(.breakout, .full-width) {
     grid-column: content;
-    max-width: min(1400px, calc(100vw - 128px));
+    @include breakpoints.up("sm") {
+      max-width: min(1400px, calc(100vw - 128px));
+    }
     min-width: 0;
   }
   & > .breakout {
@@ -360,6 +363,7 @@ input[type="submit"] {
 
 body {
   --color-text: #181a1f;
+  background: #fafafa;
   font-family: "DM Sans";
   font-size: 16px;
   font-style: normal;
@@ -1054,6 +1058,7 @@ body.horizontal-nav main {
 .item-reviews {
   h2 {
     @include heading;
+    margin-bottom: var(--section-padding-half);
   }
   p {
     margin: 0;
@@ -1873,7 +1878,7 @@ ol.steps {
   }
 
   #footer-socials {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 18px;
     display: flex;
     align-items: center;
@@ -1969,7 +1974,7 @@ ol.steps {
     flex: 1;
     margin: 0;
 
-    @include breakpoints.up("lg") {
+    @include breakpoints.up("xl") {
       &:nth-child(1) {
         padding-left: calc(var(--section-padding) * 2);
       }
