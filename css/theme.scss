@@ -1475,7 +1475,7 @@ body.reviews {
 }
 
 ul.items {
-  gap: var(--gap-items);
+  gap: calc(var(--gap-items) / 2);
   margin: var(--section-padding-half) 0;
   li {
     display: flex;
@@ -1483,6 +1483,7 @@ ul.items {
     align-items: flex-start;
     gap: 8px;
     border-radius: 8px;
+    width: 380px;
     & > * {
       margin: 0;
     }
