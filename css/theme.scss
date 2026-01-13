@@ -185,7 +185,7 @@ article#content {
   --color-link: #0e5ba7;
   border: none;
   @include breakpoints.up("sm") {
-    scroll-padding-top: 40px;
+    scroll-padding-top: 80px;
   }
 }
 
