@@ -467,6 +467,7 @@ body {
         }
       }
       .big-specs {
+        grid-column: full-width;
         background-color: #009dd7;
         color: white;
         @include section-padding;
@@ -505,6 +506,7 @@ body {
         }
       }
       .big-features {
+        grid-column: full-width;
         @include section-padding;
         line-height: 32px;
         @include breakpoints.up("md") {
@@ -2243,7 +2245,15 @@ div.fun-pro-item {
   }
 
   .inner {
+    grid-column: full-width;
+    padding: 0 8px;
+
+    @include breakpoints.up("sm") {
+      padding: 0 16px;
+    }
+
     @include breakpoints.up("lg") {
+      padding: 0 32px;
       display: grid;
       gap: 0 64px;
       grid-template-columns: 1fr 1fr;
