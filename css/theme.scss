@@ -468,6 +468,7 @@ body {
       }
       .big-specs {
         grid-column: full-width;
+        max-width: none;
         background-color: #009dd7;
         color: white;
         @include section-padding;
@@ -510,6 +511,7 @@ body {
       }
       .big-features {
         grid-column: full-width;
+        max-width: none;
         @include section-padding;
         padding-left: var(--gap-items);
         padding-right: var(--gap-items);
@@ -1622,6 +1624,7 @@ body.reviews {
 #footer-contact-block {
   background-color: white;
   text-align: center;
+  max-width: none;
   @include section-padding;
   h2 {
     @include heading;
@@ -1636,6 +1639,16 @@ body.reviews {
     margin: 0 auto;
     a {
       margin: 0;
+    }
+  }
+  ol.steps {
+    max-width: none;
+    @include breakpoints.down("lg") {
+      padding-left: 0;
+      padding-right: 0;
+      li {
+        border-radius: 0;
+      }
     }
   }
 }
