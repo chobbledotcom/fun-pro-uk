@@ -2173,8 +2173,8 @@ ol.steps {
   padding-bottom: var(--gap-items);
 }
 
-// Prevent horizontal overflow from grid children (sliders)
-article#content {
+// Prevent horizontal overflow on mobile
+body {
   overflow-x: hidden;
 }
 
