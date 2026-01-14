@@ -1,4 +1,4 @@
 {
-  "layout": "page.html",
-  "tags": ["events", "event"]
+	"layout": "page.html",
+	"tags": ["events"]
 }
