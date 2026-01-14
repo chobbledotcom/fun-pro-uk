@@ -7,8 +7,6 @@ eleventyExcludeFromCollections: true
 # Missing Information Report
 Generated: 14 January 2026
 
-[Download CSV](/assets/files/missing.csv)
-
 ## Summary
 
 | Section | Issues |
