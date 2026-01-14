@@ -273,14 +273,50 @@ const extractSpecs = (htmlContent) => {
   if (accessValue) specs.access = accessValue;
 
   // Extract Players from description text
-  // Patterns like "2-8 players", "1-2 players", "4 players"
-  const playersMatch = htmlContent.match(/(\d+(?:\s*-\s*\d+)?)\s*players/i);
-  if (playersMatch) {
-    specs.players = playersMatch[1].replace(/\s+/g, '');
-    // Add "players" suffix for clarity
-    if (!specs.players.includes('player')) {
-      specs.players = specs.players + ' players';
+  // Handles various patterns: "2-8 players", "4 player", "up to four players", etc.
+  const wordToNum = {
+    'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
+    'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10',
+    'eleven': '11', 'twelve': '12'
+  };
+
+  // Try multiple patterns in order of specificity
+  let playersValue = null;
+
+  // Pattern 1: "X-Y players" or "X to Y players" (numeric)
+  const rangeMatch = htmlContent.match(/(\d+)\s*(?:[-–]|to)\s*(\d+)\s*players?/i);
+  if (rangeMatch) {
+    playersValue = `${rangeMatch[1]}-${rangeMatch[2]}`;
+  }
+
+  // Pattern 2: "up to X players" with written numbers
+  if (!playersValue) {
+    const upToWordMatch = htmlContent.match(/up\s+to\s+(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\s+players?/i);
+    if (upToWordMatch) {
+      const num = wordToNum[upToWordMatch[1].toLowerCase()];
+      playersValue = `1-${num}`;
     }
+  }
+
+  // Pattern 3: "X player" standalone (numeric, including "4 player, 4 lane" style)
+  if (!playersValue) {
+    const singleNumMatch = htmlContent.match(/(\d+)\s*players?(?:\s|,|$)/i);
+    if (singleNumMatch) {
+      playersValue = singleNumMatch[1];
+    }
+  }
+
+  // Pattern 4: Written number + players (e.g., "four players")
+  if (!playersValue) {
+    const wordMatch = htmlContent.match(/(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\s+players?/i);
+    if (wordMatch) {
+      playersValue = wordToNum[wordMatch[1].toLowerCase()];
+    }
+  }
+
+  if (playersValue) {
+    // Add "players" suffix for clarity
+    specs.players = playersValue.includes('-') ? `${playersValue} players` : `${playersValue} players`;
   }
 
   // Extract Setup time from FAQ or description

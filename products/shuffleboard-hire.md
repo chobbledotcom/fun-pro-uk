@@ -14,7 +14,7 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "4 players"
+    value: "2 players"
   - name: "Space Required"
     value: "1000mm Width x 3000mm Depth, Allowing for the person to stand at the front"
   - name: "Power"
@@ -35,7 +35,7 @@ filter_attributes:
   - name: "Power Required"
     value: "TBD"
   - name: "Player Count"
-    value: "4 players"
+    value: "2 players"
 options:
   - name: "1 Day"
     unit_price: 495
