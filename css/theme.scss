@@ -87,41 +87,50 @@
   padding: 0;
 }
 
+@mixin button-base {
+  box-shadow: none;
+  font-weight: 500;
+  &:hover {
+    box-shadow: none;
+    font-weight: 500;
+  }
+}
+
 @mixin button-blue {
+  @include button-base;
   color: #fafafa;
   background: #1c54e3;
   border: none;
-  box-shadow: none;
   svg {
     fill: #fafafa;
   }
 }
 
 @mixin button-red {
+  @include button-base;
   color: #fafafa;
   background: #ee3324;
   border: none;
-  box-shadow: none;
   svg {
     fill: #fafafa;
   }
 }
 
 @mixin button-white {
+  @include button-base;
   color: #181a1f;
   background: #fff;
   border: 1px solid #babbbc;
-  box-shadow: none;
   svg {
     fill: #181a1f;
   }
 }
 
 @mixin button-white-transparent {
+  @include button-base;
   color: #fff;
   background: transparent;
   border: 1px solid #fff;
-  box-shadow: none;
   svg {
     fill: #fff;
   }
