@@ -390,6 +390,7 @@ body {
   font-weight: 400;
   line-height: normal;
   padding: 0;
+  overflow-x: hidden;
   &.item {
     article#content {
       background: #fafafa;
@@ -1393,15 +1394,26 @@ body.reviews {
 
   .row {
     display: flex;
-    flex-direction: row;
-    gap: var(--section-padding);
+    flex-direction: column;
+    gap: var(--section-padding-half);
     margin: 0 auto;
     width: 100%;
+
+    @include breakpoints.up("md") {
+      flex-direction: row;
+      gap: var(--section-padding);
+    }
+
     .left {
       display: flex;
       flex-direction: column;
       gap: var(--section-padding-half);
-      width: 50%;
+      width: 100%;
+
+      @include breakpoints.up("md") {
+        width: 50%;
+      }
+
       h2,
       ol {
         max-width: 695px;
@@ -1409,10 +1421,14 @@ body.reviews {
     }
     .image {
       display: flex;
-      width: 50%;
+      width: 100%;
       margin: 0;
       justify-content: center;
       align-items: center;
+
+      @include breakpoints.up("md") {
+        width: 50%;
+      }
     }
     h2 {
       @include heading;
