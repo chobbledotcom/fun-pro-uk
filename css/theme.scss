@@ -2243,7 +2243,7 @@ div.fun-pro-item {
   }
 
   .inner {
-    @include breakpoints.up("md") {
+    @include breakpoints.up("lg") {
       display: grid;
       gap: 0 64px;
       grid-template-columns: 1fr 1fr;
