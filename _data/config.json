@@ -21,6 +21,7 @@
 	"navigation_content_anchor": true,
 	"category_order": [
 		"products-header.html",
+		"products-filter.html",
 		"category-products.html",
 		"category-subcategories.html",
 		"category-content.html",
