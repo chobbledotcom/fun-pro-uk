@@ -14,7 +14,7 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "4 players"
   - name: "Space Required"
     value: "9800mm Width x 9800mm Depth"
   - name: "Power"
@@ -34,6 +34,8 @@ filter_attributes:
     value: "TBD"
   - name: "Power Required"
     value: "TBD"
+  - name: "Player Count"
+    value: "4 players"
 options:
   - name: "1 Day"
     unit_price: 495

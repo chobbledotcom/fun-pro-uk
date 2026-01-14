@@ -421,7 +421,9 @@ filter_attributes:
   - name: "Game Length"
     value: "TBD"
   - name: "Power Required"
-    value: "TBD"
+    value: "TBD"${playersValue !== "TBD" ? `
+  - name: "Player Count"
+    value: "${playersValue}"` : ""}
 options:
 ${optionsYaml}`;
 
