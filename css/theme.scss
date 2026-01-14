@@ -1457,7 +1457,8 @@ body.reviews {
     @include breakpoints.up("sm") {
       .left {
         width: 60%;
-        padding: var(--section-padding) 0 var(--section-padding) var(--gap-items);
+        padding: var(--section-padding) 0 var(--section-padding)
+          var(--gap-items);
       }
       img {
         display: block;
@@ -2312,7 +2313,7 @@ div.fun-pro-item {
     background: white;
     height: 550px;
 
-    ul {
+    & > ul {
       height: 100%;
       grid-template-rows: 32px 1fr;
       padding: 0;
