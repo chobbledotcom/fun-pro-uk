@@ -82,31 +82,11 @@ const generateReport = async () => {
   return issues;
 };
 
-const generateCsv = (issues) => {
-  const rows = [["Type", "Issue", "Name", "File", "Details"]];
-
-  for (const item of issues.products.tbdSpecs) rows.push(["Product", "TBD Specs", item.name, item.file, item.specs.join("; ")]);
-  for (const item of issues.products.tbdFilterAttributes) rows.push(["Product", "TBD Filter Attributes", item.name, item.file, item.attributes.join("; ")]);
-  for (const item of issues.products.missingFeatures) rows.push(["Product", "Missing Features", item.name, item.file, ""]);
-  for (const item of issues.products.missingFaqs) rows.push(["Product", "Missing FAQs", item.name, item.file, ""]);
-  for (const item of issues.categories.missingFaqs) rows.push(["Category", "Missing FAQs", item.name, item.file, ""]);
-  for (const item of issues.categories.emptyBody) rows.push(["Category", "Empty Body", item.name, item.file, ""]);
-  for (const item of issues.events.missingFaqs) rows.push(["Event", "Missing FAQs", item.name, item.file, ""]);
-  for (const item of issues.events.emptyBody) rows.push(["Event", "Empty Body", item.name, item.file, ""]);
-  for (const item of issues.events.missingThumbnail) rows.push(["Event", "Missing Thumbnail", item.name, item.file, ""]);
-  for (const item of issues.locations.emptyBody) rows.push(["Location", "Empty Body", item.name, item.file, ""]);
-  for (const item of issues.locations.missingThumbnail) rows.push(["Location", "Missing Thumbnail", item.name, item.file, ""]);
-  for (const item of issues.locations.missingFaqs) rows.push(["Location", "Missing FAQs", item.name, item.file, ""]);
-
-  return rows.map((row) => row.map((cell) => `"${cell.replace(/"/g, '""')}"`).join(",")).join("\n");
-};
-
 const formatReport = (issues) => {
   const lines = [];
   const date = new Date().toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
 
   lines.push(`# Missing Information Report`, `Generated: ${date}\n`);
-  lines.push(`[Download CSV](/assets/files/missing.csv)\n`);
   lines.push(`## Summary\n`);
 
   const counts = {
@@ -159,16 +139,13 @@ const main = async () => {
 
   const issues = await generateReport();
   const report = formatReport(issues);
-  const csv = generateCsv(issues);
 
   console.log(report);
 
   if (process.argv.includes("--save")) {
     const content = `---\ntitle: "Missing Information Report"\nno_index: true\neleventyExcludeFromCollections: true\n---\n\n${report}\n`;
     await write(path("pages", "missing.md"), content);
-    await write(path("assets", "files", "missing.csv"), csv);
     console.log(`\nReport saved to: pages/missing.md`);
-    console.log(`CSV saved to: assets/files/missing.csv`);
   } else {
     console.log("\nTip: Run with --save to output to pages/missing.md");
   }
