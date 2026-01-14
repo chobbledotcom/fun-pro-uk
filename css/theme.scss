@@ -1668,6 +1668,9 @@ ul.items {
   gap: calc(var(--gap-items) / 2);
   margin: var(--section-padding-half) 0;
   --color-link: #111;
+  @include breakpoints.down("sm") {
+    gap: var(--gap-items);
+  }
   li {
     display: flex;
     flex-direction: column;
