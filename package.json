@@ -15,6 +15,10 @@
 		"fetch-google-reviews": "bun scripts/fetch-google-reviews.js",
 		"screenshot": "bun scripts/screenshot.js",
 		"clean": "rm -rf .build _site",
-		"test": "bun scripts/test.js"
+		"test": "bun scripts/test.js",
+		"missing-info": "bun scripts/missing-info-report.js"
+	},
+	"dependencies": {
+		"yaml": "^2.8.2"
 	}
 }
