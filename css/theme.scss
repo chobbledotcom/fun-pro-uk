@@ -232,8 +232,9 @@ h3 {
 article#content {
   --color-link: #0e5ba7;
   border: none;
-  @include breakpoints.up("sm") {
-    scroll-padding-top: 120px;
+  // Offset for anchor links to #content when sticky nav is present
+  @include breakpoints.up("md") {
+    scroll-margin-top: 120px;
   }
 }
 
