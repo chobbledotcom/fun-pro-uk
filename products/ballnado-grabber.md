@@ -34,6 +34,8 @@ filter_attributes:
     value: "TBD"
   - name: "Power Required"
     value: "TBD"
+  - name: "Player Count"
+    value: "4-12 players"
 options:
   - name: "1 Day"
     unit_price: 495
