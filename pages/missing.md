@@ -1,0 +1,868 @@
+---
+title: "Missing Information Report"
+no_index: true
+eleventyExcludeFromCollections: true
+---
+
+# Missing Information Report
+Generated: 14 January 2026
+
+## Summary
+
+| Section | Issues |
+|---------|--------|
+| Products | 338 |
+| Categories | 14 |
+| Events | 36 |
+| Locations | 147 |
+| **Total** | **535** |
+
+## Products
+
+### TBD Specs (90 products)
+
+- **8 Lane Reindeer Racing** (products/8-lane-reindeer-racing.md)
+  - Missing: Players, Setup time
+- **8 Lane Roll & Bowl Donkey Derby** (products/8-lane-roll-and-bowl-donkey-derby.md)
+  - Missing: Players, Setup time
+- **Air Hockey Table Hire** (products/air-hockey-table-hire.md)
+  - Missing: Players, Setup time
+- **Ballnado Grabber** (products/ballnado-grabber.md)
+  - Missing: Setup time
+- **Batak Lite** (products/batak-lite.md)
+  - Missing: Players, Setup time
+- **Batak Pro** (products/batak-pro.md)
+  - Missing: Players, Setup time
+- **BBQ** (products/bbq.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Beat The Buzzer** (products/beat-the-buzzer.md)
+  - Missing: Players, Setup time
+- **Bespoke Photo Booth Hire** (products/bespoke-photo-booth-hire.md)
+  - Missing: Players, Setup time
+- **Branded Capsule Bin** (products/branded-capsule-bin.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Bungee Run** (products/bungee-run.md)
+  - Missing: Players, Setup time
+- **Candy Cane Megawire** (products/candy-cane-megawire.md)
+  - Missing: Setup time
+- **Candy Cane Snatch it** (products/candy-cane-snatch-it.md)
+  - Missing: Setup time, Equipment Size
+- **Candy Floss Cart Hire** (products/candy-floss-cart-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **CASH GRABBER MACHINE HIRE** (products/cash-grabber-machine-hire.md)
+  - Missing: Players, Setup time
+- **CASINO TABLE HIRE** (products/casino-table-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Catch it Reaction Ring Hire** (products/catch-it-reaction-ring-hire.md)
+  - Missing: Players, Setup time
+- **Christmas Batak Lite** (products/christmas-batak-lite.md)
+  - Missing: Players, Setup time, Equipment Size
+- **Christmas Batak Pro** (products/christmas-batak-pro.md)
+  - Missing: Players, Setup time
+- **Christmas Corn Holes** (products/christmas-corn-holes.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **CHRISTMAS GROTTO 1** (products/christmas-grotto-1.md)
+  - Missing: Players, Setup time, Equipment Size
+- **CHRISTMAS GROTTO 2** (products/christmas-grotto-2.md)
+  - Missing: Players, Setup time, Equipment Size
+- **CHRISTMAS PHOTO BOOTHS** (products/christmas-photo-booths.md)
+  - Missing: Players, Setup time
+- **Christmas Prize Crane** (products/christmas-prize-crane.md)
+  - Missing: Players, Setup time
+- **Christmas Roller Bowler** (products/christmas-roller-bowler.md)
+  - Missing: Players, Setup time, Equipment Size
+- **CLASSIC PHOTO BOOTHS** (products/classic-photo-booths.md)
+  - Missing: Players, Setup time
+- **Climbing Wall** (products/climbing-wall.md)
+  - Missing: Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Coconut Shy Stall Hire** (products/coconut-shy-stall-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Corn Hole** (products/corn-hole.md)
+  - Missing: Power, Setup time, Equipment Size, Suitability, Access
+- **Crack The Code safe cracker** (products/crack-the-code-safe-cracker.md)
+  - Missing: Players, Setup time
+- **Crazy Golf** (products/crazy-golf.md)
+  - Missing: Players, Space Required, Setup time
+- **Dance Machine** (products/dance-machine.md)
+  - Missing: Players, Setup time
+- **Danger-zone-strike-a-light-game-hire** (products/danger-zone-strike-a-light-game-hire.md)
+  - Missing: Setup time
+- **Dash & Grab / Hungry Hippo Inflatable Game** (products/dash-and-grab-hungry-hippo-inflatable-game.md)
+  - Missing: Setup time
+- **ELECTRONIC BASKET BALL HIRE** (products/electronic-basket-ball-hire.md)
+  - Missing: Setup time
+- **Electronic Dart Board** (products/electronic-dart-board.md)
+  - Missing: Setup time
+- **Football Darts** (products/football-darts.md)
+  - Missing: Players, Setup time
+- **FOOTBALL TABLES** (products/football-tables.md)
+  - Missing: Setup time
+- **GIANT BUZZ WIRE** (products/giant-buzz-wire.md)
+  - Missing: Players, Setup time
+- **Giant Connect 4 Game Hire** (products/giant-connect-4-game-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Giant Deck Chair Hire** (products/giant-deck-chair-hire.md)
+  - Missing: Players, Setup time
+- **Giant Jenga Hire** (products/giant-jenga-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **GLADIATOR DUEL** (products/gladiator-duel.md)
+  - Missing: Players, Setup time
+- **Gold Bar Challenge** (products/gold-bar-challenge.md)
+  - Missing: Players, Setup time
+- **GOLD CUP HORSE RACING** (products/gold-cup-horse-racing.md)
+  - Missing: Setup time
+- **GREEN SCREEN PHOTO BOOTHS** (products/green-screen-photo-booths.md)
+  - Missing: Players, Setup time
+- **High Striker** (products/high-striker.md)
+  - Missing: Players, Setup time
+- **Hook A Duck** (products/hook-a-duck.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **HUMAN TABLE FOOTBALL** (products/human-table-football.md)
+  - Missing: Setup time
+- **Ice Cream van Hire** (products/ice-cream-van-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **INFLATABLE ASSAULT COURSES** (products/inflatable-assault-courses.md)
+  - Missing: Setup time
+- **LARGE BOUNCY CASTLES** (products/large-bouncy-castles.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **LEADER BOARD** (products/leader-board.md)
+  - Missing: Players, Setup time
+- **MAGIC MIRROR** (products/magic-mirror.md)
+  - Missing: Players, Setup time
+- **Master Sniper** (products/master-sniper.md)
+  - Missing: Setup time, Equipment Size
+- **Mega Wire - Branded Game Hire (stand alone)** (products/mega-wire-branded-game-hire-stand-alone.md)
+  - Missing: Players, Setup time
+- **PAELLA** (products/paella.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Pig Roast** (products/pig-roast.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Pix N Mix Hire** (products/pix-n-mix-hire.md)
+  - Missing: Players, Setup time
+- **Pizza** (products/pizza.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Play Your Cards Right Stall Hire** (products/play-your-cards-right-stall-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Plinko Game Hire** (products/plinko-game-hire.md)
+  - Missing: Players, Setup time
+- **PLUCK A DUCK RACING** (products/pluck-a-duck-racing.md)
+  - Missing: Players, Setup time
+- **Popcorn Machine Cart Hire** (products/popcorn-machine-cart-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Prize Crane Arcade Grabber** (products/prize-crane-arcade-grabber.md)
+  - Missing: Players, Setup time
+- **Prize Wheel** (products/prize-wheel.md)
+  - Missing: Players, Setup time
+- **Racing Car Simulators** (products/racing-car-simulators.md)
+  - Missing: Players, Setup time
+- **RED CARPET & 4 GOLD STANCHIONS** (products/red-carpet-and-4-gold-stanchions.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **Reindeer Nosenado (Christmas Ballnado Hire )** (products/reindeer-nosenado-christmas-ballnado-hire.md)
+  - Missing: Players, Power, Setup time, Equipment Size
+- **RETRO ARCADE GAMES** (products/retro-arcade-games.md)
+  - Missing: Setup time
+- **Rodeo Bull** (products/rodeo-bull.md)
+  - Missing: Players, Setup time
+- **Roll & Bowl Donkey Derby** (products/roll-and-bowl-donkey-derby.md)
+  - Missing: Players, Setup time
+- **Roll And Bowl Game Hire** (products/roll-and-bowl-game-hire.md)
+  - Missing: Setup time
+- **Roll And Bowl Reindeer Racing Game Hire** (products/roll-and-bowl-reindeer-racing-game-hire.md)
+  - Missing: Setup time, Equipment Size
+- **Roller Bowler** (products/roller-bowler.md)
+  - Missing: Players, Setup time, Equipment Size
+- **Scalextric Slot Car Racing** (products/scalextric-slot-car-racing.md)
+  - Missing: Players, Setup time
+- **Shuffleboard Hire** (products/shuffleboard-hire.md)
+  - Missing: Setup time
+- **Snatch It** (products/snatch-it.md)
+  - Missing: Setup time
+- **Strike A Snow Flake** (products/strike-a-snow-flake.md)
+  - Missing: Setup time, Equipment Size
+- **SUPER SLIDES** (products/super-slides.md)
+  - Missing: Players, Setup time
+- **Table Tennis Hire** (products/table-tennis-hire.md)
+  - Missing: Players, Setup time
+- **Target Ring Toss Hire** (products/target-ring-toss-hire.md)
+  - Missing: Players, Space Required, Power, Setup time, Equipment Size, Suitability, Access
+- **The Vault** (products/the-vault.md)
+  - Missing: Setup time
+- **TOP DOC OPERATION GAME** (products/top-doc-operation-game.md)
+  - Missing: Players, Setup time
+- **TOTAL WIPE OUT** (products/total-wipe-out.md)
+  - Missing: Players, Setup time
+- **Twin Axe throwing** (products/twin-axe-throwing.md)
+  - Missing: Players
+- **Virtual Pinball** (products/virtual-pinball.md)
+  - Missing: Players, Setup time
+- **VR Race Car Simulator** (products/vr-race-car-simulator.md)
+  - Missing: Players, Setup time
+- **Whack A Mole game hire** (products/whack-a-mole-game-hire.md)
+  - Missing: Players, Setup time
+- **Whack an Elf** (products/whack-an-elf.md)
+  - Missing: Players, Setup time, Equipment Size
+
+### TBD Filter Attributes (90 products)
+
+- **8 Lane Reindeer Racing** (products/8-lane-reindeer-racing.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **8 Lane Roll & Bowl Donkey Derby** (products/8-lane-roll-and-bowl-donkey-derby.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Air Hockey Table Hire** (products/air-hockey-table-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Ballnado Grabber** (products/ballnado-grabber.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Batak Lite** (products/batak-lite.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Batak Pro** (products/batak-pro.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **BBQ** (products/bbq.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Beat The Buzzer** (products/beat-the-buzzer.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Bespoke Photo Booth Hire** (products/bespoke-photo-booth-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Branded Capsule Bin** (products/branded-capsule-bin.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Bungee Run** (products/bungee-run.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Candy Cane Megawire** (products/candy-cane-megawire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Candy Cane Snatch it** (products/candy-cane-snatch-it.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Candy Floss Cart Hire** (products/candy-floss-cart-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CASH GRABBER MACHINE HIRE** (products/cash-grabber-machine-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CASINO TABLE HIRE** (products/casino-table-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Catch it Reaction Ring Hire** (products/catch-it-reaction-ring-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Christmas Batak Lite** (products/christmas-batak-lite.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Christmas Batak Pro** (products/christmas-batak-pro.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Christmas Corn Holes** (products/christmas-corn-holes.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CHRISTMAS GROTTO 1** (products/christmas-grotto-1.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CHRISTMAS GROTTO 2** (products/christmas-grotto-2.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CHRISTMAS PHOTO BOOTHS** (products/christmas-photo-booths.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Christmas Prize Crane** (products/christmas-prize-crane.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Christmas Roller Bowler** (products/christmas-roller-bowler.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **CLASSIC PHOTO BOOTHS** (products/classic-photo-booths.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Climbing Wall** (products/climbing-wall.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Coconut Shy Stall Hire** (products/coconut-shy-stall-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Corn Hole** (products/corn-hole.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Crack The Code safe cracker** (products/crack-the-code-safe-cracker.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Crazy Golf** (products/crazy-golf.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Dance Machine** (products/dance-machine.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Danger-zone-strike-a-light-game-hire** (products/danger-zone-strike-a-light-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Dash & Grab / Hungry Hippo Inflatable Game** (products/dash-and-grab-hungry-hippo-inflatable-game.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **ELECTRONIC BASKET BALL HIRE** (products/electronic-basket-ball-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Electronic Dart Board** (products/electronic-dart-board.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Football Darts** (products/football-darts.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **FOOTBALL TABLES** (products/football-tables.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **GIANT BUZZ WIRE** (products/giant-buzz-wire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Giant Connect 4 Game Hire** (products/giant-connect-4-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Giant Deck Chair Hire** (products/giant-deck-chair-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Giant Jenga Hire** (products/giant-jenga-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **GLADIATOR DUEL** (products/gladiator-duel.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Gold Bar Challenge** (products/gold-bar-challenge.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **GOLD CUP HORSE RACING** (products/gold-cup-horse-racing.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **GREEN SCREEN PHOTO BOOTHS** (products/green-screen-photo-booths.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **High Striker** (products/high-striker.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Hook A Duck** (products/hook-a-duck.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **HUMAN TABLE FOOTBALL** (products/human-table-football.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Ice Cream van Hire** (products/ice-cream-van-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **INFLATABLE ASSAULT COURSES** (products/inflatable-assault-courses.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **LARGE BOUNCY CASTLES** (products/large-bouncy-castles.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **LEADER BOARD** (products/leader-board.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **MAGIC MIRROR** (products/magic-mirror.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Master Sniper** (products/master-sniper.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Mega Wire - Branded Game Hire (stand alone)** (products/mega-wire-branded-game-hire-stand-alone.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **PAELLA** (products/paella.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Pig Roast** (products/pig-roast.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Pix N Mix Hire** (products/pix-n-mix-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Pizza** (products/pizza.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Play Your Cards Right Stall Hire** (products/play-your-cards-right-stall-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Plinko Game Hire** (products/plinko-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **PLUCK A DUCK RACING** (products/pluck-a-duck-racing.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Popcorn Machine Cart Hire** (products/popcorn-machine-cart-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Prize Crane Arcade Grabber** (products/prize-crane-arcade-grabber.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Prize Wheel** (products/prize-wheel.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Racing Car Simulators** (products/racing-car-simulators.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **RED CARPET & 4 GOLD STANCHIONS** (products/red-carpet-and-4-gold-stanchions.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Reindeer Nosenado (Christmas Ballnado Hire )** (products/reindeer-nosenado-christmas-ballnado-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **RETRO ARCADE GAMES** (products/retro-arcade-games.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Rodeo Bull** (products/rodeo-bull.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Roll & Bowl Donkey Derby** (products/roll-and-bowl-donkey-derby.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Roll And Bowl Game Hire** (products/roll-and-bowl-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Roll And Bowl Reindeer Racing Game Hire** (products/roll-and-bowl-reindeer-racing-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Roller Bowler** (products/roller-bowler.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Scalextric Slot Car Racing** (products/scalextric-slot-car-racing.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Shuffleboard Hire** (products/shuffleboard-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Snatch It** (products/snatch-it.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Strike A Snow Flake** (products/strike-a-snow-flake.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **SUPER SLIDES** (products/super-slides.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Table Tennis Hire** (products/table-tennis-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Target Ring Toss Hire** (products/target-ring-toss-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **The Vault** (products/the-vault.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **TOP DOC OPERATION GAME** (products/top-doc-operation-game.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **TOTAL WIPE OUT** (products/total-wipe-out.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Twin Axe throwing** (products/twin-axe-throwing.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Virtual Pinball** (products/virtual-pinball.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **VR Race Car Simulator** (products/vr-race-car-simulator.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Whack A Mole game hire** (products/whack-a-mole-game-hire.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+- **Whack an Elf** (products/whack-an-elf.md)
+  - Missing: Guest Capacity, Game Length, Power Required
+
+### Missing FAQs (68 products)
+
+- **8 Lane Reindeer Racing** (products/8-lane-reindeer-racing.md)
+- **8 Lane Roll & Bowl Donkey Derby** (products/8-lane-roll-and-bowl-donkey-derby.md)
+- **BBQ** (products/bbq.md)
+- **Beat The Buzzer** (products/beat-the-buzzer.md)
+- **Bespoke Photo Booth Hire** (products/bespoke-photo-booth-hire.md)
+- **Branded Capsule Bin** (products/branded-capsule-bin.md)
+- **Bungee Run** (products/bungee-run.md)
+- **CASH GRABBER MACHINE HIRE** (products/cash-grabber-machine-hire.md)
+- **CASINO TABLE HIRE** (products/casino-table-hire.md)
+- **Christmas Corn Holes** (products/christmas-corn-holes.md)
+- **CHRISTMAS GROTTO 1** (products/christmas-grotto-1.md)
+- **CHRISTMAS GROTTO 2** (products/christmas-grotto-2.md)
+- **Christmas Prize Crane** (products/christmas-prize-crane.md)
+- **Christmas Roller Bowler** (products/christmas-roller-bowler.md)
+- **CLASSIC PHOTO BOOTHS** (products/classic-photo-booths.md)
+- **Climbing Wall** (products/climbing-wall.md)
+- **Corn Hole** (products/corn-hole.md)
+- **Crack The Code safe cracker** (products/crack-the-code-safe-cracker.md)
+- **Crazy Golf** (products/crazy-golf.md)
+- **Dance Machine** (products/dance-machine.md)
+- **Danger-zone-strike-a-light-game-hire** (products/danger-zone-strike-a-light-game-hire.md)
+- **Dash & Grab / Hungry Hippo Inflatable Game** (products/dash-and-grab-hungry-hippo-inflatable-game.md)
+- **ELECTRONIC BASKET BALL HIRE** (products/electronic-basket-ball-hire.md)
+- **Football Darts** (products/football-darts.md)
+- **FOOTBALL TABLES** (products/football-tables.md)
+- **GIANT BUZZ WIRE** (products/giant-buzz-wire.md)
+- **Giant Connect 4 Game Hire** (products/giant-connect-4-game-hire.md)
+- **Giant Deck Chair Hire** (products/giant-deck-chair-hire.md)
+- **Giant Jenga Hire** (products/giant-jenga-hire.md)
+- **GLADIATOR DUEL** (products/gladiator-duel.md)
+- **Gold Bar Challenge** (products/gold-bar-challenge.md)
+- **GOLD CUP HORSE RACING** (products/gold-cup-horse-racing.md)
+- **GREEN SCREEN PHOTO BOOTHS** (products/green-screen-photo-booths.md)
+- **High Striker** (products/high-striker.md)
+- **Hook A Duck** (products/hook-a-duck.md)
+- **HUMAN TABLE FOOTBALL** (products/human-table-football.md)
+- **Ice Cream van Hire** (products/ice-cream-van-hire.md)
+- **INFLATABLE ASSAULT COURSES** (products/inflatable-assault-courses.md)
+- **LARGE BOUNCY CASTLES** (products/large-bouncy-castles.md)
+- **LEADER BOARD** (products/leader-board.md)
+- **MAGIC MIRROR** (products/magic-mirror.md)
+- **Master Sniper** (products/master-sniper.md)
+- **Mega Wire - Branded Game Hire (stand alone)** (products/mega-wire-branded-game-hire-stand-alone.md)
+- **PAELLA** (products/paella.md)
+- **Pig Roast** (products/pig-roast.md)
+- **Pix N Mix Hire** (products/pix-n-mix-hire.md)
+- **Pizza** (products/pizza.md)
+- **Plinko Game Hire** (products/plinko-game-hire.md)
+- **PLUCK A DUCK RACING** (products/pluck-a-duck-racing.md)
+- **Prize Crane Arcade Grabber** (products/prize-crane-arcade-grabber.md)
+- **Prize Wheel** (products/prize-wheel.md)
+- **Racing Car Simulators** (products/racing-car-simulators.md)
+- **RED CARPET & 4 GOLD STANCHIONS** (products/red-carpet-and-4-gold-stanchions.md)
+- **Reindeer Nosenado (Christmas Ballnado Hire )** (products/reindeer-nosenado-christmas-ballnado-hire.md)
+- **RETRO ARCADE GAMES** (products/retro-arcade-games.md)
+- **Rodeo Bull** (products/rodeo-bull.md)
+- **Roll & Bowl Donkey Derby** (products/roll-and-bowl-donkey-derby.md)
+- **Roll And Bowl Game Hire** (products/roll-and-bowl-game-hire.md)
+- **Roll And Bowl Reindeer Racing Game Hire** (products/roll-and-bowl-reindeer-racing-game-hire.md)
+- **Snatch It** (products/snatch-it.md)
+- **SUPER SLIDES** (products/super-slides.md)
+- **The Vault** (products/the-vault.md)
+- **TOP DOC OPERATION GAME** (products/top-doc-operation-game.md)
+- **TOTAL WIPE OUT** (products/total-wipe-out.md)
+- **Virtual Pinball** (products/virtual-pinball.md)
+- **VR Race Car Simulator** (products/vr-race-car-simulator.md)
+- **Whack A Mole game hire** (products/whack-a-mole-game-hire.md)
+- **Whack an Elf** (products/whack-an-elf.md)
+
+### Empty Tabs (90 products)
+
+- **8 Lane Reindeer Racing** (products/8-lane-reindeer-racing.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **8 Lane Roll & Bowl Donkey Derby** (products/8-lane-roll-and-bowl-donkey-derby.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Air Hockey Table Hire** (products/air-hockey-table-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Ballnado Grabber** (products/ballnado-grabber.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Batak Lite** (products/batak-lite.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Batak Pro** (products/batak-pro.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **BBQ** (products/bbq.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Beat The Buzzer** (products/beat-the-buzzer.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Bespoke Photo Booth Hire** (products/bespoke-photo-booth-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Branded Capsule Bin** (products/branded-capsule-bin.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Bungee Run** (products/bungee-run.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Candy Cane Megawire** (products/candy-cane-megawire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Candy Cane Snatch it** (products/candy-cane-snatch-it.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Candy Floss Cart Hire** (products/candy-floss-cart-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CASH GRABBER MACHINE HIRE** (products/cash-grabber-machine-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CASINO TABLE HIRE** (products/casino-table-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Catch it Reaction Ring Hire** (products/catch-it-reaction-ring-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Christmas Batak Lite** (products/christmas-batak-lite.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Christmas Batak Pro** (products/christmas-batak-pro.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Christmas Corn Holes** (products/christmas-corn-holes.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CHRISTMAS GROTTO 1** (products/christmas-grotto-1.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CHRISTMAS GROTTO 2** (products/christmas-grotto-2.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CHRISTMAS PHOTO BOOTHS** (products/christmas-photo-booths.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Christmas Prize Crane** (products/christmas-prize-crane.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Christmas Roller Bowler** (products/christmas-roller-bowler.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **CLASSIC PHOTO BOOTHS** (products/classic-photo-booths.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Climbing Wall** (products/climbing-wall.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Coconut Shy Stall Hire** (products/coconut-shy-stall-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Corn Hole** (products/corn-hole.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Crack The Code safe cracker** (products/crack-the-code-safe-cracker.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Crazy Golf** (products/crazy-golf.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Dance Machine** (products/dance-machine.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Danger-zone-strike-a-light-game-hire** (products/danger-zone-strike-a-light-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Dash & Grab / Hungry Hippo Inflatable Game** (products/dash-and-grab-hungry-hippo-inflatable-game.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **ELECTRONIC BASKET BALL HIRE** (products/electronic-basket-ball-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Electronic Dart Board** (products/electronic-dart-board.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Football Darts** (products/football-darts.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **FOOTBALL TABLES** (products/football-tables.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **GIANT BUZZ WIRE** (products/giant-buzz-wire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Giant Connect 4 Game Hire** (products/giant-connect-4-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Giant Deck Chair Hire** (products/giant-deck-chair-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Giant Jenga Hire** (products/giant-jenga-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **GLADIATOR DUEL** (products/gladiator-duel.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Gold Bar Challenge** (products/gold-bar-challenge.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **GOLD CUP HORSE RACING** (products/gold-cup-horse-racing.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **GREEN SCREEN PHOTO BOOTHS** (products/green-screen-photo-booths.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **High Striker** (products/high-striker.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Hook A Duck** (products/hook-a-duck.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **HUMAN TABLE FOOTBALL** (products/human-table-football.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Ice Cream van Hire** (products/ice-cream-van-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **INFLATABLE ASSAULT COURSES** (products/inflatable-assault-courses.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **LARGE BOUNCY CASTLES** (products/large-bouncy-castles.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **LEADER BOARD** (products/leader-board.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **MAGIC MIRROR** (products/magic-mirror.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Master Sniper** (products/master-sniper.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Mega Wire - Branded Game Hire (stand alone)** (products/mega-wire-branded-game-hire-stand-alone.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **PAELLA** (products/paella.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Pig Roast** (products/pig-roast.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Pix N Mix Hire** (products/pix-n-mix-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Pizza** (products/pizza.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Play Your Cards Right Stall Hire** (products/play-your-cards-right-stall-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Plinko Game Hire** (products/plinko-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **PLUCK A DUCK RACING** (products/pluck-a-duck-racing.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Popcorn Machine Cart Hire** (products/popcorn-machine-cart-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Prize Crane Arcade Grabber** (products/prize-crane-arcade-grabber.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Prize Wheel** (products/prize-wheel.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Racing Car Simulators** (products/racing-car-simulators.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **RED CARPET & 4 GOLD STANCHIONS** (products/red-carpet-and-4-gold-stanchions.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Reindeer Nosenado (Christmas Ballnado Hire )** (products/reindeer-nosenado-christmas-ballnado-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **RETRO ARCADE GAMES** (products/retro-arcade-games.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Rodeo Bull** (products/rodeo-bull.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Roll & Bowl Donkey Derby** (products/roll-and-bowl-donkey-derby.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Roll And Bowl Game Hire** (products/roll-and-bowl-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Roll And Bowl Reindeer Racing Game Hire** (products/roll-and-bowl-reindeer-racing-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Roller Bowler** (products/roller-bowler.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Scalextric Slot Car Racing** (products/scalextric-slot-car-racing.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Shuffleboard Hire** (products/shuffleboard-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Snatch It** (products/snatch-it.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Strike A Snow Flake** (products/strike-a-snow-flake.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **SUPER SLIDES** (products/super-slides.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Table Tennis Hire** (products/table-tennis-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Target Ring Toss Hire** (products/target-ring-toss-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **The Vault** (products/the-vault.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **TOP DOC OPERATION GAME** (products/top-doc-operation-game.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **TOTAL WIPE OUT** (products/total-wipe-out.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Twin Axe throwing** (products/twin-axe-throwing.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Virtual Pinball** (products/virtual-pinball.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **VR Race Car Simulator** (products/vr-race-car-simulator.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Whack A Mole game hire** (products/whack-a-mole-game-hire.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+- **Whack an Elf** (products/whack-an-elf.md)
+  - Missing: How It Works, Why It's A Crowd Favourite, Delivery
+
+## Categories
+
+### Missing FAQs (13 categories)
+
+- **Branded Exhibition Games** (categories/branded-exhibition-games.md)
+- **Christmas Games** (categories/christmas-games.md)
+- **Christmas Grotto Hire** (categories/christmas-grotto-hire.md)
+- **Corporate Entertainment** (categories/corporate-entertainment.md)
+- **Exhibition Games** (categories/exhibition-games.md)
+- **Fun Days** (categories/fun-days.md)
+- **Fun Foods** (categories/fun-foods.md)
+- **Grab A Grand** (categories/grab-a-grand.md)
+- **Photo Booths & Magic Mirrors** (categories/photo-booths-and-magic-mirrors.md)
+- **Prize Games** (categories/prize-games.md)
+- **Pub Games** (categories/pub-games.md)
+- **Roll & Bowl** (categories/roll-and-bowl.md)
+- **Weddings** (categories/weddings.md)
+
+### Empty/Minimal Body (1 categories)
+
+- **Christmas Games** (categories/christmas-games.md)
+
+## Events
+
+### Missing FAQs (18 events)
+
+- **Brand Activation** (events/brand-activation.md)
+- **Celebrations & Parties** (events/celebrations-and-parties.md)
+- **Christmas Entertainment** (events/christmas-entertainment.md)
+- **Circus Skills Workshop** (events/circus-skills-workshop.md)
+- **College Entertainment** (events/college-entertainment.md)
+- **Award Ceremonies** (events/company-award-ceremonies.md)
+- **Conference Production** (events/conference-idea.md)
+- **Corporate Events** (events/corporate-events.md)
+- **Educational & Community** (events/educational-and-community.md)
+- **Evening Entertainment** (events/evening-entertainment.md)
+- **Exhibition Games** (events/exhibition-games.md)
+- **Family Fun Days** (events/family-fun-days.md)
+- **Fundraising Events** (events/fundraising-events.md)
+- **Office Entertainment** (events/office-entertainment.md)
+- **School Entertainment** (events/school-entertainment.md)
+- **Corporate Wellbeing Days** (events/staff-wellbeing-days.md)
+- **Summer Entertainment** (events/summer-entertainment.md)
+- **University Events** (events/university-events.md)
+
+### Empty/Minimal Body (5 events)
+
+- **Celebrations & Parties** (events/celebrations-and-parties.md)
+- **Corporate Events** (events/corporate-events.md)
+- **Educational & Community** (events/educational-and-community.md)
+- **Office Entertainment** (events/office-entertainment.md)
+- **University Events** (events/university-events.md)
+
+### Missing Thumbnail (13 events)
+
+- **Brand Activation** (events/brand-activation.md)
+- **Conference Production** (events/conference-idea.md)
+- **Corporate Events** (events/corporate-events.md)
+- **Educational & Community** (events/educational-and-community.md)
+- **Evening Entertainment** (events/evening-entertainment.md)
+- **Exhibition Games** (events/exhibition-games.md)
+- **Family Fun Days** (events/family-fun-days.md)
+- **Fundraising Events** (events/fundraising-events.md)
+- **Office Entertainment** (events/office-entertainment.md)
+- **School Entertainment** (events/school-entertainment.md)
+- **Corporate Wellbeing Days** (events/staff-wellbeing-days.md)
+- **Summer Entertainment** (events/summer-entertainment.md)
+- **University Events** (events/university-events.md)
+
+## Locations
+
+### Empty/Minimal Body (8 locations)
+
+- **Birmingham** (locations/birmingham.md)
+- **Bristol** (locations/bristol.md)
+- **Coventry** (locations/coventry.md)
+- **Leeds** (locations/leeds.md)
+- **Leicester** (locations/leicester.md)
+- **London** (locations/london.md)
+- **Manchester** (locations/manchester.md)
+- **Northampton** (locations/northampton.md)
+
+### Missing Thumbnail (60 locations)
+
+- **Ballnado Game Hire for Corporate Events in Birmingham** (locations/birmingham/ballnado-hire.md)
+- **Brand Activation & Promotional Game Hire in Birmingham** (locations/birmingham/brand-promotional-event-hire.md)
+- **Christmas Game Hire &ndash; Birmingham's Premier Festive Entertainment Specialists** (locations/birmingham/christmas-game-hire.md)
+- **Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success** (locations/birmingham/conference-and-event-hire.md)
+- **Crack The Code Game Hire - Perfect for All Birmingham Events** (locations/birmingham/crack-the-code-hire.md)
+- **Hilton Birmingham Metropole** (locations/birmingham/hilton-metropole.md)
+- **Magic Mirror Hire Birmingham for Corporate Events** (locations/birmingham/magic-mirror-hire.md)
+- **Mega wire Hire Birmingham** (locations/birmingham/mega-wire-hire.md)
+- **Plinko Game Hire for Birmingham Corporate Events** (locations/birmingham/plinko-hire.md)
+- **Prize Crane Hire Birmingham** (locations/birmingham/prize-crane-hire.md)
+- **Roll and Bowl Hire Birmingham** (locations/birmingham/roll-and-bowl-hire.md)
+- **Strike a light-Danger Zone Hire Birmingham** (locations/birmingham/strike-a-light-danger-zone-hire.md)
+- **Whack a Mole Hire Birmingham** (locations/birmingham/whack-a-mole-hire.md)
+- **Fun Pro UK the corporate entertainment agency for Bristol!** (locations/bristol/corporate-event-hire.md)
+- **Batak Lite &ndash; A Dynamic Interactive Game for Exhibitions & Corporate Events in Coventry** (locations/coventry/batak-lite.md)
+- **Create Buzz At Your Next Event With Our Brand Activation Game Hire in Coventry** (locations/coventry/brand-promotional-event-hire.md)
+- **Cash Grabber Hire Coventry** (locations/coventry/cash-grabber-hire.md)
+- **Christmas Game Hire &ndash; Coventry's Premier Festive Entertainment Specialists** (locations/coventry/christmas-game-hire.md)
+- **Conference Event Hire in Coventry** (locations/coventry/conference-event-hire.md)
+- **Dance Machine Hire for Coventry Events** (locations/coventry/dance-machine-hire.md)
+- **High Striker Hire in Coventry from Fun Pro** (locations/coventry/high-striker.md)
+- **Hire a Magic Mirror in Coventry for your next event!** (locations/coventry/magic-mirror-hire.md)
+- **Mega Wire Hire Coventry** (locations/coventry/mega-wire-hire.md)
+- **Pick n Mix Sweet Cart Hire in Coventry** (locations/coventry/pick-n-mix-hire.md)
+- **Hire Plinko Games for Your Coventry Event** (locations/coventry/plinko-hire.md)
+- **Prize Crane Game Hire for Coventry Events** (locations/coventry/prize-crane-hire.md)
+- **Prize Wheel Hire in Coventry from Fun Pro** (locations/coventry/prize-wheel-hire.md)
+- **Race Car Simulator Hire in Coventry for Events of All Sizes** (locations/coventry/race-car-simulators.md)
+- **Roll and Bowl Hire Coventry** (locations/coventry/roll-and-bowl-hire.md)
+- **Safe Cracker Game Hire for Coventry Events** (locations/coventry/safe-cracker-hire.md)
+- **Table Football Hire Coventry** (locations/coventry/table-football-hire.md)
+- **Vault Game Hire in Coventry from Fun Pro** (locations/coventry/vault-game-hire.md)
+- **Whack A Mole Hire Coventry** (locations/coventry/whack-a-mole-hire.md)
+- **Corporate Event hire Leeds** (locations/leeds/corporate-event-hire.md)
+- **Corporate Event hire Leicester** (locations/leicester/corporate-event-hire.md)
+- **Photo booth Hire Leicester** (locations/leicester/photo-booth-hire.md)
+- **Leicester** (locations/leicester.md)
+- **Brand Activation & Promotional Game Hire in London** (locations/london/brand-promotional-event-hire.md)
+- **Christmas Game Hire &ndash; London's Leading Festive Entertainment Providers** (locations/london/christmas-game-hire.md)
+- **Corporate Event Hire London: Interactive Games & Entertainment** (locations/london/corporate-event-hire-interactive-games-and-entertainment.md)
+- **Corporate Event Hire London: Interactive Games & Entertainment** (locations/london/corporate-event-hire.md)
+- **Excel London Game Hire** (locations/london/excel.md)
+- **Freshers Game Hire London: Interactive Entertainment for University Welcome Week** (locations/london/freshers-entertainment.md)
+- **Photo booth Hire London** (locations/london/photo-booth-hire.md)
+- **Batak Lite hire Manchester** (locations/manchester/batak-lite-hire.md)
+- **Batak Pro Hire Manchester** (locations/manchester/batak-pro-hire.md)
+- **Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions** (locations/manchester/brand-activation-games.md)
+- **Trusted Corporate Event Game Hire In Manchester** (locations/manchester/corporate-event-hire.md)
+- **Corporate Event Hire in Manchester: Professional Entertainment Solutions** (locations/manchester/corporate-events.md)
+- **Fun Pro UK - the Corporate Entertainment agency for Milton Keynes** (locations/milton-keynes/corporate-event-hire.md)
+- **Milton Keynes** (locations/milton-keynes.md)
+- **Batak Lite Hire Northampton** (locations/northampton/batak-lite-hire.md)
+- **Batak Pro Hire Northampton** (locations/northampton/batak-pro-hire.md)
+- **Corporate Event Hire Northampton** (locations/northampton/corporate-event-hire.md)
+- **Northampton** (locations/northampton.md)
+- **Corporate Event Hire Nottingham** (locations/nottingham/corporate-event-hire.md)
+- **Nottingham** (locations/nottingham.md)
+- **The corporate event entertainment company for Sheffield!** (locations/sheffield/corporate-event-hire-2.md)
+- **Corporate Event Hire Sheffield | Interactive Games** (locations/sheffield/corporate-event-hire.md)
+- **Sheffield** (locations/sheffield.md)
+
+### Missing FAQs (79 locations)
+
+- **Ballnado Game Hire for Corporate Events in Birmingham** (locations/birmingham/ballnado-hire.md)
+- **Batak Lite &ndash; An Interactive Game for Exhibitions & Corporate Events in Birmingham** (locations/birmingham/batak-lite-hire.md)
+- **Batak Pro &ndash; The Ultimate Interactive Game for Corporate & Private Events in Birmingham** (locations/birmingham/batak-pro-hire.md)
+- **Brand Activation & Promotional Game Hire in Birmingham** (locations/birmingham/brand-promotional-event-hire.md)
+- **Christmas Game Hire &ndash; Birmingham's Premier Festive Entertainment Specialists** (locations/birmingham/christmas-game-hire.md)
+- **Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success** (locations/birmingham/conference-and-event-hire.md)
+- **Corporate Event Hire Birmingham** (locations/birmingham/corporate-event-hire.md)
+- **Crack The Code Game Hire - Perfect for All Birmingham Events** (locations/birmingham/crack-the-code-hire.md)
+- **ICC Birmingham** (locations/birmingham/game-hire-icc.md)
+- **Hilton Birmingham Metropole** (locations/birmingham/hilton-metropole.md)
+- **Magic Mirror Hire Birmingham for Corporate Events** (locations/birmingham/magic-mirror-hire.md)
+- **Mega wire Hire Birmingham** (locations/birmingham/mega-wire-hire.md)
+- **Trusted Birmingham Event Game Hire** (locations/birmingham/nec.md)
+- **Plinko Game Hire for Birmingham Corporate Events** (locations/birmingham/plinko-hire.md)
+- **Prize Crane Hire Birmingham** (locations/birmingham/prize-crane-hire.md)
+- **Roll and Bowl Hire Birmingham** (locations/birmingham/roll-and-bowl-hire.md)
+- **Strike a light-Danger Zone Hire Birmingham** (locations/birmingham/strike-a-light-danger-zone-hire.md)
+- **Whack a Mole Hire Birmingham** (locations/birmingham/whack-a-mole-hire.md)
+- **Birmingham** (locations/birmingham.md)
+- **Fun Pro UK the corporate entertainment agency for Bristol!** (locations/bristol/corporate-event-hire.md)
+- **Bristol** (locations/bristol.md)
+- **Fun Pro Ballnado Hire for Your Next Event in Coventry** (locations/coventry/ballnado-hire.md)
+- **Batak Lite &ndash; A Dynamic Interactive Game for Exhibitions & Corporate Events in Coventry** (locations/coventry/batak-lite.md)
+- **Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry** (locations/coventry/batak-pro-hire.md)
+- **Batak Pro Office Funday Coventry** (locations/coventry/batak-pro-office-funday.md)
+- **Create Buzz At Your Next Event With Our Brand Activation Game Hire in Coventry** (locations/coventry/brand-promotional-event-hire.md)
+- **Cash Grabber Hire Coventry** (locations/coventry/cash-grabber-hire.md)
+- **Christmas Game Hire &ndash; Coventry's Premier Festive Entertainment Specialists** (locations/coventry/christmas-game-hire.md)
+- **Conference Event Hire in Coventry** (locations/coventry/conference-event-hire.md)
+- **Corporate Event Hire in Coventry** (locations/coventry/corporate-event-hire.md)
+- **Dance Machine Hire for Coventry Events** (locations/coventry/dance-machine-hire.md)
+- **Danger Zone -Strike a Light Hire Coventry** (locations/coventry/danger-zone-strike-a-light-hire.md)
+- **High Striker Hire in Coventry from Fun Pro** (locations/coventry/high-striker.md)
+- **Hire a Magic Mirror in Coventry for your next event!** (locations/coventry/magic-mirror-hire.md)
+- **Mega Wire Hire Coventry** (locations/coventry/mega-wire-hire.md)
+- **Photo Booth Hire Coventry** (locations/coventry/photo-booth-hire.md)
+- **Pick n Mix Sweet Cart Hire in Coventry** (locations/coventry/pick-n-mix-hire.md)
+- **Hire Plinko Games for Your Coventry Event** (locations/coventry/plinko-hire.md)
+- **Prize Crane Game Hire for Coventry Events** (locations/coventry/prize-crane-hire.md)
+- **Prize Wheel Hire in Coventry from Fun Pro** (locations/coventry/prize-wheel-hire.md)
+- **Race Car Simulator Hire in Coventry for Events of All Sizes** (locations/coventry/race-car-simulators.md)
+- **Roll and Bowl Hire Coventry** (locations/coventry/roll-and-bowl-hire.md)
+- **Safe Cracker Game Hire for Coventry Events** (locations/coventry/safe-cracker-hire.md)
+- **Table Football Hire Coventry** (locations/coventry/table-football-hire.md)
+- **Vault Game Hire in Coventry from Fun Pro** (locations/coventry/vault-game-hire.md)
+- **Whack A Mole Hire Coventry** (locations/coventry/whack-a-mole-hire.md)
+- **Coventry** (locations/coventry.md)
+- **Corporate Event hire Leeds** (locations/leeds/corporate-event-hire.md)
+- **Leeds** (locations/leeds.md)
+- **Corporate Event hire Leicester** (locations/leicester/corporate-event-hire.md)
+- **Photo booth Hire Leicester** (locations/leicester/photo-booth-hire.md)
+- **Leicester** (locations/leicester.md)
+- **Brand Activation & Promotional Game Hire in London** (locations/london/brand-promotional-event-hire.md)
+- **Christmas Game Hire &ndash; London's Leading Festive Entertainment Providers** (locations/london/christmas-game-hire.md)
+- **Trusted Corporate Event Entertainment, London** (locations/london/conference-game-hire.md)
+- **Corporate Event Hire London: Interactive Games & Entertainment** (locations/london/corporate-event-hire-interactive-games-and-entertainment.md)
+- **Corporate Event Hire London: Interactive Games & Entertainment** (locations/london/corporate-event-hire.md)
+- **Excel London Game Hire** (locations/london/excel.md)
+- **Freshers Game Hire London: Interactive Entertainment for University Welcome Week** (locations/london/freshers-entertainment.md)
+- **Photo booth Hire London** (locations/london/photo-booth-hire.md)
+- **London** (locations/london.md)
+- **Batak Lite hire Manchester** (locations/manchester/batak-lite-hire.md)
+- **Batak Pro Hire Manchester** (locations/manchester/batak-pro-hire.md)
+- **Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions** (locations/manchester/brand-activation-games.md)
+- **Manchester Central Convention Complex** (locations/manchester/central-convention-complex.md)
+- **Trusted Corporate Event Game Hire In Manchester** (locations/manchester/corporate-event-hire.md)
+- **Corporate Event Hire in Manchester: Professional Entertainment Solutions** (locations/manchester/corporate-events.md)
+- **Manchester** (locations/manchester.md)
+- **Fun Pro UK - the Corporate Entertainment agency for Milton Keynes** (locations/milton-keynes/corporate-event-hire.md)
+- **Milton Keynes** (locations/milton-keynes.md)
+- **Batak Lite Hire Northampton** (locations/northampton/batak-lite-hire.md)
+- **Batak Pro Hire Northampton** (locations/northampton/batak-pro-hire.md)
+- **Corporate Event Hire Northampton** (locations/northampton/corporate-event-hire.md)
+- **Northampton** (locations/northampton.md)
+- **Corporate Event Hire Nottingham** (locations/nottingham/corporate-event-hire.md)
+- **Nottingham** (locations/nottingham.md)
+- **The corporate event entertainment company for Sheffield!** (locations/sheffield/corporate-event-hire-2.md)
+- **Corporate Event Hire Sheffield | Interactive Games** (locations/sheffield/corporate-event-hire.md)
+- **Sheffield** (locations/sheffield.md)
+
