@@ -2334,7 +2334,8 @@ div.fun-pro-item {
       }
     }
     .body {
-      height: calc(100% - 64px);
+      height: calc(100% - var(--section-padding-half));
+      gap: var(--section-padding-half);
     }
   }
 }
