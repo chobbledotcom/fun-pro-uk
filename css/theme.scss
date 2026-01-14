@@ -390,7 +390,6 @@ body {
   font-weight: 400;
   line-height: normal;
   padding: 0;
-  overflow-x: hidden;
   &.item {
     article#content {
       background: #fafafa;
@@ -1184,13 +1183,20 @@ body.reviews {
     margin: 0 0 calc(var(--gap-items) / 2);
     gap: var(--gap-items);
     flex-direction: row;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100vw;
     li {
       @include card;
       border-radius: 16px;
       border: 1px solid #989898;
       background: #f3f3f3;
       gap: 16px;
-      width: 458px !important;
+      // Width: viewport minus padding minus gap for peeking next card
+      width: calc(100vw - var(--section-padding) - var(--gap-items));
+      max-width: 458px;
+      flex-shrink: 0;
       display: grid;
       grid-template-areas: "rating" "content" "name" "avatar";
 
@@ -1394,26 +1400,15 @@ body.reviews {
 
   .row {
     display: flex;
-    flex-direction: column;
-    gap: var(--section-padding-half);
+    flex-direction: row;
+    gap: var(--section-padding);
     margin: 0 auto;
     width: 100%;
-
-    @include breakpoints.up("md") {
-      flex-direction: row;
-      gap: var(--section-padding);
-    }
-
     .left {
       display: flex;
       flex-direction: column;
       gap: var(--section-padding-half);
-      width: 100%;
-
-      @include breakpoints.up("md") {
-        width: 50%;
-      }
-
+      width: 50%;
       h2,
       ol {
         max-width: 695px;
@@ -1421,14 +1416,10 @@ body.reviews {
     }
     .image {
       display: flex;
-      width: 100%;
+      width: 50%;
       margin: 0;
       justify-content: center;
       align-items: center;
-
-      @include breakpoints.up("md") {
-        width: 50%;
-      }
     }
     h2 {
       @include heading;
@@ -1690,7 +1681,6 @@ ul.items {
     align-items: flex-start;
     gap: 8px;
     border-radius: 8px;
-    width: 380px !important;
     text-align: left;
     & > * {
       margin: 0;
@@ -1896,7 +1886,8 @@ ol.steps {
       justify-content: flex-start;
     }
     li {
-      width: 370px;
+      width: calc(100vw - var(--section-padding) - var(--gap-items));
+      max-width: 370px;
     }
   }
 }
@@ -2187,6 +2178,44 @@ ol.steps {
 
 .slider {
   padding-bottom: var(--gap-items);
+}
+
+// Ensure all sections with sliders have proper overflow containment
+// Use !important to override grid/full-width layouts
+.testimonials-slider,
+.homepage-header,
+.homepage-products,
+.homepage-events,
+.item-reviews {
+  overflow: hidden !important;
+  max-width: 100vw !important;
+  min-width: 0 !important; // Prevent grid blowout
+
+  // All children must also constrain their width
+  > * {
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
+
+.slider-container {
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+}
+
+ul.items.slider {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  flex-wrap: nowrap;
+
+  > li {
+    flex-shrink: 0;
+    // Use calc to account for container padding (16px each side = 32px) plus gap for peek
+    width: calc(100vw - var(--section-padding) - var(--gap-items));
+    max-width: 380px;
+  }
 }
 
 .slider-nav {
