@@ -467,9 +467,13 @@ body {
         }
       }
       .big-specs {
+        grid-column: full-width;
+        max-width: none;
         background-color: #009dd7;
         color: white;
         @include section-padding;
+        padding-left: var(--gap-items);
+        padding-right: var(--gap-items);
         line-height: 32px;
         h2 {
           color: white;
@@ -491,8 +495,9 @@ body {
             text-align: left;
           }
         }
-        @include breakpoints.up("md") {
+        @include breakpoints.up("lg") {
           grid-area: left;
+          padding-left: var(--gap-items);
           padding-right: var(--section-padding-half);
           display: flex;
           flex-direction: column;
@@ -505,11 +510,16 @@ body {
         }
       }
       .big-features {
+        grid-column: full-width;
+        max-width: none;
         @include section-padding;
+        padding-left: var(--gap-items);
+        padding-right: var(--gap-items);
         line-height: 32px;
-        @include breakpoints.up("md") {
+        @include breakpoints.up("lg") {
           grid-area: right;
           padding-left: 64px;
+          padding-right: var(--gap-items);
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -1432,28 +1442,40 @@ body.reviews {
     margin: 0 0 16px;
   }
   .row {
+    position: relative;
+    overflow: hidden;
+
     img {
       display: none;
     }
     .left {
       text-align: left;
       align-content: center;
-      padding: var(--section-padding) 0;
+      padding: var(--section-padding) var(--gap-items);
     }
     @include breakpoints.up("sm") {
-      display: flex;
-      position: relative;
       .left {
-        width: 50%;
+        width: 60%;
+        padding: var(--section-padding) 0 var(--section-padding) var(--gap-items);
       }
       img {
         display: block;
-        width: 50%;
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 45%;
+        height: auto;
+        object-fit: contain;
       }
     }
-    @include breakpoints.up("md") {
+    @include breakpoints.up("lg") {
       .left {
+        width: 50%;
         padding-left: var(--section-padding);
+      }
+      img {
+        width: 40%;
       }
     }
   }
@@ -1602,6 +1624,7 @@ body.reviews {
 #footer-contact-block {
   background-color: white;
   text-align: center;
+  max-width: none;
   @include section-padding;
   h2 {
     @include heading;
@@ -1616,6 +1639,16 @@ body.reviews {
     margin: 0 auto;
     a {
       margin: 0;
+    }
+  }
+  ol.steps {
+    max-width: none;
+    @include breakpoints.down("lg") {
+      padding-left: 0;
+      padding-right: 0;
+      li {
+        border-radius: 0;
+      }
     }
   }
 }
@@ -2243,7 +2276,16 @@ div.fun-pro-item {
   }
 
   .inner {
-    @include breakpoints.up("md") {
+    grid-column: full-width;
+    padding: 0 8px;
+    max-width: none;
+
+    @include breakpoints.up("sm") {
+      padding: 0 16px;
+    }
+
+    @include breakpoints.up("lg") {
+      padding: 0 32px;
       display: grid;
       gap: 0 64px;
       grid-template-columns: 1fr 1fr;
