@@ -8,7 +8,7 @@ redirect_from:
   - "/pages/educational-and-community/"
 eleventyNavigation:
   key: "Educational & Community"
-  parent: "Event Type"
+  parent: "What's your event?"
   order: 3
 ---
 

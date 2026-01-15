@@ -8,7 +8,7 @@ redirect_from:
   - "/pages/corporate-events/"
 eleventyNavigation:
   key: "Corporate Events"
-  parent: "Event Type"
+  parent: "What's your event?"
   order: 1
 ---
 

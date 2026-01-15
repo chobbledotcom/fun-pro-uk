@@ -236,7 +236,7 @@ const NAVIGATION_STRUCTURE = {
   topLevel: [
     { key: "Home", order: 1, isDropdown: false },
     { key: "How We Help", order: 2, isDropdown: true },
-    { key: "Event Type", order: 3, isDropdown: true },
+    { key: "What's your event?", order: 3, isDropdown: true },
     { key: "Entertainment Hire", order: 4, isDropdown: true },
     { key: "About Us", order: 5, isDropdown: true },
   ],
@@ -252,7 +252,7 @@ const NAVIGATION_STRUCTURE = {
       { slug: "christmas-entertainment", text: "Christmas Entertainment", order: 6, type: "event" },
     ],
 
-    "Event Type": [
+    "What's your event?": [
       // Parent events
       { slug: "corporate-events", text: "Corporate Events", order: 1, type: "event" },
       { slug: "celebrations-and-parties", text: "Celebrations & Parties", order: 2, type: "event" },
