@@ -1,6 +1,7 @@
 {
 	"name": "Fun Pro UK Ltd",
 	"url": "https://fun-pro-uk.b-cdn.net",
+	"description": "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK.",
 	"socials": {
 		"Facebook": "https://www.facebook.com/funprouk/",
 		"Instagram": "https://www.instagram.com/funprouk.co.uk/",
@@ -14,6 +15,7 @@
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
+	"opening_times": null,
 	"cms_config": {
 		"collections": [
 			"pages",
