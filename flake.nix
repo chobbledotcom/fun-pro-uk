@@ -27,7 +27,6 @@
         in
         pkgs.mkShell {
           buildInputs = [
-            pkgs.nodejs_24
             pkgs.bun
             bunScripts
             pkgs.pandoc
