@@ -141,7 +141,7 @@
     width: calc(100vw - 220px);
     left: 80px;
     position: fixed;
-    top: 80px;
+    top: var(--nav-bottom, 80px);
     gap: 16px;
     flex-wrap: wrap;
     flex-direction: row;
@@ -946,26 +946,62 @@ body.horizontal-nav main {
           mask-size: contain;
           mask-repeat: no-repeat;
           opacity: 0.6;
-          transition: opacity 0.2s ease-in-out;
+          transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
         }
 
         & > li:has(> ul):hover > a::after {
           opacity: 1;
+          transform: rotate(180deg);
         }
 
-        & > li:has(a[href="/how-we-help/#content"]):hover {
-          @include mega-menu-columns(3);
+        // Base styles for mega-menu dropdowns (always rendered, but hidden)
+        & > li:has(> ul) > ul {
+          display: flex !important;
+          position: fixed;
+          top: var(--nav-bottom, 80px);
+          left: 80px;
+          opacity: 0;
+          transform: translateY(-10px);
+          pointer-events: none;
+          transition: opacity 0.25s ease-out, transform 0.25s ease-out;
+          z-index: 99;
+          background: #fff;
+          border-radius: 8px;
+          box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+          padding: 16px;
         }
 
-        & > li:has(a[href="/products/#content"]):hover {
-          @include mega-menu-columns(4);
+        // Slide-in animation on hover
+        & > li:has(> ul):hover > ul {
+          opacity: 1;
+          transform: translateY(0);
+          pointer-events: auto;
         }
 
-        & > li:has(a[href="/events/#content"]):hover {
+        & > li:has(a[href="/how-we-help/#content"]) {
           & > ul {
-            display: flex;
-            flex-direction: row;
+            width: calc(100vw - 220px);
+          }
+          &:hover {
+            @include mega-menu-columns(3);
+          }
+        }
+
+        & > li:has(a[href="/products/#content"]) {
+          & > ul {
+            width: calc(100vw - 220px);
+          }
+          &:hover {
+            @include mega-menu-columns(4);
+          }
+        }
+
+        & > li:has(a[href="/events/#content"]) {
+          & > ul {
             width: 660px;
+          }
+          &:hover > ul {
+            flex-direction: row;
             justify-content: space-between;
             & > li > a {
               font-weight: 500;
@@ -979,6 +1015,11 @@ body.horizontal-nav main {
               padding: 0;
               border: 0;
               font-weight: 400;
+              background: transparent;
+              box-shadow: none;
+              opacity: 1;
+              transform: none;
+              pointer-events: auto;
               .image-wrapper {
                 display: none;
               }
