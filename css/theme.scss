@@ -965,8 +965,11 @@ body.horizontal-nav main {
           & > ul {
             display: flex;
             flex-direction: row;
-            width: 590px;
+            width: 660px;
             justify-content: space-between;
+            & > li > a {
+              font-weight: 500;
+            }
             & > li > ul {
               display: block;
               position: relative;
