@@ -681,7 +681,7 @@ eleventyNavigation:
 
     // Determine the parent:
     // - If navParent is set, use that (for "How We Help" events)
-    // - Parent categories have "Event Type" as their parent
+    // - Parent categories have "What's your event?" as their parent
     // - Child events have their parent category title as parent
     if (hierarchyInfo.navParent) {
       // Custom navigation parent (e.g., "How We Help" for brand-activation, christmas-entertainment)
@@ -689,9 +689,9 @@ eleventyNavigation:
   parent: "${escapeYamlString(hierarchyInfo.navParent)}"`;
     } else if (hierarchyInfo.isParent) {
       // This is a parent category (e.g., "Corporate Events")
-      // Its parent is "Event Type" (the main dropdown)
+      // Its parent is "What's your event?" (the main dropdown)
       frontmatter += `
-  parent: "Event Type"`;
+  parent: "What's your event?"`;
     } else if (hierarchyInfo.parentTitle) {
       // This is a child event (e.g., "Award Ceremonies")
       // Its parent is the parent category title (e.g., "Corporate Events")

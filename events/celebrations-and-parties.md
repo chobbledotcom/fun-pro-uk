@@ -9,7 +9,7 @@ redirect_from:
   - "/pages/celebrations-and-parties/"
 eleventyNavigation:
   key: "Celebrations & Parties"
-  parent: "Event Type"
+  parent: "What's your event?"
   order: 2
 ---
 

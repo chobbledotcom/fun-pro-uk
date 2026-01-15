@@ -228,10 +228,10 @@ const getNavigationForSlug = (navigation, slug) => {
   // Map old slug to new slug if needed
   const actualSlug = OLD_SLUG_TO_NEW[slug] || slug;
 
-  // Check if this slug is a top-level dropdown parent (e.g., "events" matches "Event Type")
+  // Check if this slug is a top-level dropdown parent (e.g., "events" matches "What's your event?")
   // Note: Special handling for event-type -> events rename
   if (actualSlug === 'event-type' || actualSlug === 'events') {
-    const topLevelItem = NAVIGATION_STRUCTURE.topLevel.find(item => item.key === "Event Type");
+    const topLevelItem = NAVIGATION_STRUCTURE.topLevel.find(item => item.key === "What's your event?");
     if (topLevelItem) {
       return {
         parent: null,
