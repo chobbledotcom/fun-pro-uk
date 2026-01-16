@@ -2407,8 +2407,13 @@ body {
             border-radius: 2px;
             background: #e5e5e5;
           }
-          &.active::before {
-            background: #333;
+          &.active {
+            padding: 0;
+            background: none;
+            color: var(--color-link);
+            &::before {
+              background: #333;
+            }
           }
         }
       }
