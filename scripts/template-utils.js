@@ -1,5 +1,5 @@
 import { join, relative, basename } from "node:path";
-import { mkdtempSync, readdirSync, statSync, existsSync, cpSync, readFileSync, writeFileSync } from "node:fs";
+import { mkdtempSync, readdirSync, statSync, existsSync, cpSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { fs, git, bun, path } from "./utils.js";
 import { templateRepo } from "./consts.js";
@@ -117,26 +117,6 @@ export const mergeSiteContent = (templateDir) => {
 };
 
 /**
- * Patches browser-utils.js to add --single-process flag for Playwright
- * This fixes browser crashes in certain environments
- * @param {string} templateDir - The template directory
- */
-const patchBrowserUtils = (templateDir) => {
-  const browserUtilsPath = join(templateDir, "src/_lib/media/browser-utils.js");
-  if (!existsSync(browserUtilsPath)) return;
-
-  const content = readFileSync(browserUtilsPath, "utf-8");
-  if (content.includes("--single-process")) return; // Already patched
-
-  const patched = content.replace(
-    '"--no-zygote",',
-    '"--no-zygote",\n  "--single-process",'
-  );
-  writeFileSync(browserUtilsPath, patched);
-  console.log("Patched browser-utils.js for Playwright compatibility");
-};
-
-/**
  * Cleans up a temporary directory
  * @param {string} dir - Directory to remove
  */
@@ -168,9 +148,6 @@ export const setupTemplate = async (opts = {}) => {
     if (install) {
       installDeps(tempDir);
     }
-
-    // Patch browser-utils.js to fix Playwright in certain environments
-    patchBrowserUtils(tempDir);
 
     return {
       tempDir,

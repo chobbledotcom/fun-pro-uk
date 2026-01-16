@@ -2,7 +2,7 @@ import { watch } from "node:fs";
 import { root, debounce } from "./utils.js";
 import { sync } from "./prepare-dev.js";
 
-const ignored = [".build", "node_modules", ".git"];
+const ignored = [".build", ".direnv", "node_modules", ".git"];
 
 const debouncedSync = debounce(sync, 5000);
 
