@@ -582,13 +582,6 @@ body {
       }
     }
   }
-  &.products,
-  &.category {
-    article#content ul.items li {
-      @include card;
-      padding: var(--space-4);
-    }
-  }
   &.locations {
     article#content .cities-we-serve ul.items li {
       @include card;
@@ -1834,7 +1827,7 @@ body.reviews {
 }
 
 ul.items {
-  gap: calc(var(--gap-items) / 2);
+  gap: calc(var(--gap-items) calc(var(--gap-items) / 2);
   margin: var(--section-padding-half) 0;
   --color-link: #111;
   @include breakpoints.down("sm") {
@@ -2422,6 +2415,9 @@ body {
     }
     .products-content {
       max-width: 1172px;
+      ul.items li {
+        @include card;
+      }
     }
   }
 }
