@@ -1025,7 +1025,6 @@ body.horizontal-nav main {
           display: flex !important;
           position: fixed;
           top: var(--nav-bottom, 80px);
-          left: 80px;
           opacity: 0;
           transform: translateY(-10px);
           pointer-events: none;
