@@ -1024,7 +1024,6 @@ body.horizontal-nav main {
         & > li:has(> ul) > ul {
           display: flex !important;
           opacity: 0;
-          transform: translateY(-10px);
           pointer-events: none;
           transition:
             opacity 0.25s ease-out,
