@@ -879,7 +879,7 @@ body.horizontal-nav main {
       input {
         border: 1px solid #babbbc;
         border-right: none;
-        border-radius: 5000px 0 0 5000px;
+        border-radius: 8px 0 0 8px;
         padding: 6px 12px;
         font-size: 14px;
         line-height: 20px;
@@ -900,8 +900,8 @@ body.horizontal-nav main {
       button {
         border: 1px solid #babbbc;
         border-left: none;
-        border-radius: 0 5000px 5000px 0;
-        background: #f5f5f5;
+        border-radius: 0 8px 8px 0;
+        background: #fff;
         padding: 6px 10px;
         cursor: pointer;
         display: flex;
