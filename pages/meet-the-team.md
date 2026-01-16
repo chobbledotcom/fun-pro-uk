@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/meet-the-team/"
 eleventyNavigation:
   key: "Meet The Team"
-  parent: "About Us"
+  parent: "About us"
   order: 3
 ---
 

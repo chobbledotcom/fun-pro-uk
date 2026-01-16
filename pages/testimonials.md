@@ -7,7 +7,7 @@ redirect_from:
   - "/pages/testimonials/"
 eleventyNavigation:
   key: "Testimonials"
-  parent: "About Us"
+  parent: "About us"
   order: 1
 ---
 

@@ -7,7 +7,7 @@ redirect_from:
   - "/category/pub-games/"
 eleventyNavigation:
   key: "Pub Games"
-  parent: "Entertainment Hire"
+  parent: "Entertainment hire"
   order: 3
 ---
 
@@ -25,14 +25,14 @@ Eager to find out more! Get in touch with Fun Pro UK to explore how our pub game
 
 Just some of our popular pub game hire options include:
 
-*   [Air Hockey Table](/products/air-hockey-table-hire/#content): Fast-paced and competitive, air hockey is a pub favourite that offers endless fun and excitement for patrons of all ages.
-*   [Casino Tables](/products/casino-table-hire/#content): Add a touch of sophistication with casino games like blackjack and roulette, perfect for themed nights and to bring the spirit of Vegas to your establishment.
-*   [Dance Machine](/products/dance-machine/#content): Get your patrons moving with a dance machine, a lively addition that brings energy to any space.
-*   [Basketball Shootout](/products/electronic-basket-ball-hire/#content): A great way to incorporate some sportsmanship and active fun, electronic basketball is an engaging game that guests can enjoy solo or in groups.
-*   [Table Football](/products/football-tables/#content): A classic pub staple, football tables (or foosball) are perfect for friendly competition and socialising among guests.
-*   [Horse Racing Simulators](/products/gold-cup-horse-racing/#content): These racing games add excitement and a competitive edge to your pub, offering a unique entertainment option.
-*   [Plinko](/products/plinko-game-hire/#content): A game of chance that's easy to play and addictive, Plinko is perfect for adding a casual gaming option to your establishment.
-*   [Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/#content): Let your patrons try their luck at winning prizes, making for a memorable and enjoyable experience.
-*   [Prize Wheel](/products/prize-wheel/#content): Create a buzz with this [prize game](/categories/prize-games/#content); it's ideal for special events or promotions. Watch as patrons eagerly anticipate their win!
-*   [Arcade Games](/categories/arcade-games/#content): Bring nostalgia into your pub with classic arcade games, a hit with patrons who enjoy a trip down memory lane.
-*   [Table Tennis](/products/table-tennis-hire/#content): For a more active entertainment option, table tennis is a fantastic choice, fostering friendly matches and plenty of low-stakes competitive fun.
+- [Air Hockey Table](/products/air-hockey-table-hire/#content): Fast-paced and competitive, air hockey is a pub favourite that offers endless fun and excitement for patrons of all ages.
+- [Casino Tables](/products/casino-table-hire/#content): Add a touch of sophistication with casino games like blackjack and roulette, perfect for themed nights and to bring the spirit of Vegas to your establishment.
+- [Dance Machine](/products/dance-machine/#content): Get your patrons moving with a dance machine, a lively addition that brings energy to any space.
+- [Basketball Shootout](/products/electronic-basket-ball-hire/#content): A great way to incorporate some sportsmanship and active fun, electronic basketball is an engaging game that guests can enjoy solo or in groups.
+- [Table Football](/products/football-tables/#content): A classic pub staple, football tables (or foosball) are perfect for friendly competition and socialising among guests.
+- [Horse Racing Simulators](/products/gold-cup-horse-racing/#content): These racing games add excitement and a competitive edge to your pub, offering a unique entertainment option.
+- [Plinko](/products/plinko-game-hire/#content): A game of chance that's easy to play and addictive, Plinko is perfect for adding a casual gaming option to your establishment.
+- [Prize Crane Arcade Grabber](/products/prize-crane-arcade-grabber/#content): Let your patrons try their luck at winning prizes, making for a memorable and enjoyable experience.
+- [Prize Wheel](/products/prize-wheel/#content): Create a buzz with this [prize game](/categories/prize-games/#content); it's ideal for special events or promotions. Watch as patrons eagerly anticipate their win!
+- [Arcade Games](/categories/arcade-games/#content): Bring nostalgia into your pub with classic arcade games, a hit with patrons who enjoy a trip down memory lane.
+- [Table Tennis](/products/table-tennis-hire/#content): For a more active entertainment option, table tennis is a fantastic choice, fostering friendly matches and plenty of low-stakes competitive fun.

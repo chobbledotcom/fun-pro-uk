@@ -42,7 +42,7 @@ permalink: "/news/"
 layout: news-archive.html
 eleventyNavigation:
   key: News
-  parent: "About Us"
+  parent: "About us"
   order: 6
 ---
 
