@@ -1023,8 +1023,6 @@ body.horizontal-nav main {
         // Base styles for mega-menu dropdowns (always rendered, but hidden)
         & > li:has(> ul) > ul {
           display: flex !important;
-          position: fixed;
-          top: var(--nav-bottom, 80px);
           opacity: 0;
           transform: translateY(-10px);
           pointer-events: none;

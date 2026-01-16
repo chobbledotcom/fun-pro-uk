@@ -8,7 +8,7 @@ const dev = path(buildDir, "dev");
 
 const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*"];
 const rootExcludes = [
-  ".git", "*.nix", "README.md", buildDir, "scripts",
+  ".git", ".direnv", "*.nix", "README.md", buildDir, "scripts",
   "node_modules", "package*.json", "bun.lock", "old_site",
 ];
 
