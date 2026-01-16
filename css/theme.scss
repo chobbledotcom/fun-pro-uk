@@ -1017,7 +1017,9 @@ body.horizontal-nav main {
           mask-size: contain;
           mask-repeat: no-repeat;
           opacity: 0.6;
-          transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
+          transition:
+            opacity 0.2s ease-in-out,
+            transform 0.2s ease-in-out;
         }
 
         & > li:has(> ul):hover > a::after {
@@ -1034,7 +1036,9 @@ body.horizontal-nav main {
           opacity: 0;
           transform: translateY(-10px);
           pointer-events: none;
-          transition: opacity 0.25s ease-out, transform 0.25s ease-out;
+          transition:
+            opacity 0.25s ease-out,
+            transform 0.25s ease-out;
           z-index: 99;
           background: #fff;
           border-radius: 8px;
@@ -2389,28 +2393,35 @@ body {
 }
 
 @include breakpoints.up("lg") {
-  .item-filter {
-    border: 0;
-    padding: 0;
-    .filter-groups > li > ul {
-      flex-direction: column;
-      li {
-        display: flex;
-        border: none;
-        align-items: center;
-        font-size: 14px;
-        &::before {
-          content: "";
-          display: inherit;
-          width: 14px;
-          height: 14px;
-          border-radius: 2px;
-          background: #e5e5e5;
-        }
-        &.active::before {
-          background: #333;
+  .products-layout {
+    justify-content: space-between;
+    .item-filter {
+      border: 0;
+      padding: 0;
+      width: 170px;
+      .filter-groups > li > ul {
+        flex-direction: column;
+        li {
+          display: flex;
+          border: none;
+          align-items: center;
+          font-size: 14px;
+          &::before {
+            content: "";
+            display: inherit;
+            width: 14px;
+            height: 14px;
+            border-radius: 2px;
+            background: #e5e5e5;
+          }
+          &.active::before {
+            background: #333;
+          }
         }
       }
+    }
+    .products-content {
+      max-width: 1172px;
     }
   }
 }
