@@ -1826,7 +1826,7 @@ body.reviews {
 }
 
 ul.items {
-  gap: var(--gap-items) calc(var(--gap-items) / 2);
+  gap: calc(var(--gap-items) / 2);
   margin: var(--section-padding-half) 0;
   --color-link: #111;
   @include breakpoints.down("sm") {
