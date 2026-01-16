@@ -1,27 +1,2 @@
 <link rel="icon" type="image/png" href="/assets/favicon/favicon.png">
-<meta name="turbo-refresh-method" content="morph">
-<script>
-// Set --nav-bottom CSS variable based on actual nav position
-// This ensures mega-menu dropdowns are positioned correctly
-(function() {
-  function updateNavPosition() {
-    const nav = document.querySelector('nav.site-header');
-    if (nav) {
-      const rect = nav.getBoundingClientRect();
-      const navBottom = rect.bottom;
-      document.documentElement.style.setProperty('--nav-bottom', navBottom + 'px');
-    }
-  }
-
-  // Update on load
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', updateNavPosition);
-  } else {
-    updateNavPosition();
-  }
-
-  // Update on resize and scroll (for sticky nav)
-  window.addEventListener('resize', updateNavPosition);
-  window.addEventListener('scroll', updateNavPosition);
-})();
-</script>
+<script src="/assets/js/nav.js" async defer></script>
