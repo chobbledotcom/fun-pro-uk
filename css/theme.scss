@@ -2450,11 +2450,27 @@ div.fun-pro-item {
   }
   .item-subtitle {
     grid-area: subtitle;
-    margin: 0 0 var(--gap-items);
   }
   .item-price {
     grid-area: price;
     margin: 0 0 calc(var(--gap-items) / 2);
+    h2 {
+      margin: 0 0 calc(var(--gap-items) / 2);
+      color: #009dd7;
+      font-family: "DM Sans";
+      font-size: 44px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+      small {
+        color: #181a1f;
+        font-size: 18px;
+        font-weight: 400;
+      }
+    }
+    p {
+      margin: 0 0 var(--gap-items);
+    }
   }
   .item-specs {
     grid-area: specs;
