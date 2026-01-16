@@ -10,3 +10,4 @@ yarn-error.log*
 .claude
 .image-cache/*.jpeg
 .image-cache/*.webp
+screenshots/
