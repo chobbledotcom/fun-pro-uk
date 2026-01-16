@@ -15,7 +15,8 @@
 		"screenshot": "bun scripts/screenshot.js",
 		"clean": "rm -rf .build _site",
 		"test": "bun scripts/test.js",
-		"missing-info": "bun scripts/missing-info-report.js"
+		"missing-info": "bun scripts/missing-info-report.js",
+		"update-scripts": "bun scripts/update-scripts.js"
 	},
 	"dependencies": {
 		"yaml": "^2.8.2"
