@@ -2395,6 +2395,9 @@ body {
           border: none;
           align-items: center;
           font-size: 14px;
+          a {
+            padding: 8px !important;
+          }
           &::before {
             content: "";
             display: inherit;
