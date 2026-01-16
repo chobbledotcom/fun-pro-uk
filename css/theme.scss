@@ -2388,6 +2388,33 @@ body {
   }
 }
 
+@include breakpoints.up("lg") {
+  .item-filter {
+    border: 0;
+    padding: 0;
+    .filter-groups > li > ul {
+      flex-direction: column;
+      li {
+        display: flex;
+        border: none;
+        align-items: center;
+        font-size: 14px;
+        &::before {
+          content: "";
+          display: inherit;
+          width: 14px;
+          height: 14px;
+          border-radius: 2px;
+          background: #e5e5e5;
+        }
+        &.active::before {
+          background: #333;
+        }
+      }
+    }
+  }
+}
+
 div.fun-pro-item {
   background: #fafafa;
 
