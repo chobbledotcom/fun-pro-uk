@@ -7,7 +7,7 @@ redirect_from:
   - "/category/grab-a-grand/"
 eleventyNavigation:
   key: "Grab A Grand"
-  parent: "Entertainment Hire"
+  parent: "Entertainment hire"
   order: 4
 ---
 

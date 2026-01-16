@@ -7,7 +7,7 @@ redirect_from:
   - "/category/christmas-grotto-hire/"
 eleventyNavigation:
   key: "Christmas Grotto Hire"
-  parent: "Entertainment Hire"
+  parent: "Entertainment hire"
   order: 9
 ---
 
@@ -63,7 +63,7 @@ If you’re ready to surprise your clients and employees with a lobby or confere
 
 At Fun Pro UK, we love the festive season, and our elves have got lots of great company Christmas party ideas to get your staff rockin around the Christmas tree. Call or email now, or complete the contact form below and we'll call you.
 
-*   Tel: 02476 629197
-*   Mob: 07769 979676
-*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-*   Contact form
+- Tel: 02476 629197
+- Mob: 07769 979676
+- Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+- Contact form

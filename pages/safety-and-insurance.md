@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/safety-and-insurance/"
 eleventyNavigation:
   key: "Safety & Insurance"
-  parent: "About Us"
+  parent: "About us"
   order: 4
 ---
 

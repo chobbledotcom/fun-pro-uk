@@ -8,7 +8,7 @@ redirect_from:
   - "/category/arcade-games/2/lights-out-game/"
 eleventyNavigation:
   key: "Arcade Games"
-  parent: "Entertainment Hire"
+  parent: "Entertainment hire"
   order: 1
 faqs:
   - question: "What's included in our arcade machine hire service?"
@@ -18,24 +18,24 @@ faqs:
   - question: "Which arcade machines are the most frequently rented?"
     answer: |
       Some of our most popular arcade machines are:
-      
+
       * [Electronic Basketball](/products/electronic-basket-ball-hire/#content): Transform any space into a basketball court with this portable machine. * Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys. * [Twin Race Car Simulators](/products/racing-car-simulators/#content): Take the thrill of the race track to your events and let your guests enjoy immersive experiences. * [Dance Machine](/products/dance-machine/#content): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances. * [Lights Out](/categories/arcade-games/#content): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
-      
+
       If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/#content) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
-      
+
       You can always find the perfect video game machine rental for you.
   - question: "What types of events are ideal for including arcade games?"
     answer: |
       There's no such thing as an event that's too posh for classic arcade games!
-      
+
       Whatever event you're hosting, our arcade game hire adds a fun, nostalgic, and interactive element that draws crowds and entertains your guests.
-      
+
       Bust out the beloved arcade game machines at:
-      
+
       * [Corporate outings](/news/benefits-of-team-building-days/#content) * Product launches * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/#content) and conferences * Birthday parties * [Weddings](/news/wedding-fair-at-ettington-park/#content) and anniversaries * Family reunions * Festivals and fairs * Grand openings * [Community events](/categories/fun-days/#content) * Gaming conventions
-      
+
       ...and so much more!
-      
+
       Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
 ---
 
@@ -55,12 +55,12 @@ Compact and stylish, our collection of classic arcade machines come with great v
 
 We specialise in small and large events such as:
 
-*   [Weddings](/categories/weddings/#content)
-*   [Exhibitions](/categories/exhibition-games/#content)
-*   [Corporate Entertainment](/categories/corporate-entertainment/#content)
-*   [Company Award Ceremonies](/events/company-award-ceremonies/#content)
-*   [Fun days](/categories/fun-days/#content)
-*   And much more!
+- [Weddings](/categories/weddings/#content)
+- [Exhibitions](/categories/exhibition-games/#content)
+- [Corporate Entertainment](/categories/corporate-entertainment/#content)
+- [Company Award Ceremonies](/events/company-award-ceremonies/#content)
+- [Fun days](/categories/fun-days/#content)
+- And much more!
 
 Whatever you're celebrating, our arcade [game hire services](/#content) are here to bring a lively atmosphere and endless fun to any event.
 
@@ -118,18 +118,4 @@ Don't miss out on the opportunity to make every event unforgettable. Contact us 
 
 If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk/#content)
 
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-*   Grand openings
-    
-    
+- Grand openings

@@ -7,7 +7,7 @@ redirect_from:
   - "/category/photo-booths-and-magic-mirrors/"
 eleventyNavigation:
   key: "Photo Booths & Magic Mirrors"
-  parent: "Entertainment Hire"
+  parent: "Entertainment hire"
   order: 11
 ---
 
@@ -94,6 +94,6 @@ Stratford up on Avon
 
 For advice on the best corporate photo booth hire for your event, your audience and your budget, talk to our friendly team today. Call or email now, or complete the contact form below and we'll call you.
 
-*   Tel: 02477220701
-*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-*   [Contact form](/contact-fun-pro-uk/#content)
+- Tel: 02477220701
+- Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+- [Contact form](/contact-fun-pro-uk/#content)
