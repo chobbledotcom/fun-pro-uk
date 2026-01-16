@@ -2450,6 +2450,7 @@ div.fun-pro-item {
   }
   .item-subtitle {
     grid-area: subtitle;
+    margin: 0 0 calc(var(--gap-items) / 4);
     font-size: 16px;
     font-weight: 400;
   }
