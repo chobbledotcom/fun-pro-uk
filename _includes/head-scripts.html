@@ -1,2 +1,16 @@
 <link rel="icon" type="image/png" href="/assets/favicon/favicon.png">
+
+<!-- Preload fonts -->
+<link rel="preload" href="/assets/fonts/dm-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/dm-sans-latin-400-normal.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/fonts/dm-sans-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/dm-sans-latin-500-normal.woff" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/assets/fonts/dm-sans-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/dm-sans-latin-700-normal.woff" as="font" type="font/woff" crossorigin>
+
+{% if layout == "home" %}
+<!-- Preload homepage header background image -->
+<link rel="preload" href="/assets/homepage-header-background.jpg" as="image" fetchpriority="high">
+{% endif %}
+
 <script src="/assets/js/nav.js" async defer></script>
