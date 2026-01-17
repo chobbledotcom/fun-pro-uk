@@ -1,6 +1,7 @@
 @charset "utf-8";
 @use "sass:color";
 @use "breakpoints";
+@use "fonts";
 
 @mixin themed-section() {
   background: var(--background);
