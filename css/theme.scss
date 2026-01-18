@@ -1331,11 +1331,14 @@ body.reviews {
 
 .brands {
   background: #fafafa;
+  max-width: 100vw;
+  overflow: hidden;
 
   .row {
     display: flex;
     flex-direction: row;
     align-items: center;
+    flex-wrap: wrap;
   }
 
   @include breakpoints.down("md") {
