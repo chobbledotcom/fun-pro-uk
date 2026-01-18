@@ -78,9 +78,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: combined/.image-cache
-          key: images-${{ hashFiles('source/images/**/*') }}
+          key: img-cache-${{ hashFiles('source/images/**/*') }}
           restore-keys: |
-            images-
+            img-cache-
 
       - name: Build with Bun
         run: |
