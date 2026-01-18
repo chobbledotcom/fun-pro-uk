@@ -1961,11 +1961,7 @@ ol.steps {
 
 .homepage-events {
   background: #fafafa;
-  > div {
-    display: flex;
-    margin: 0 auto;
-    flex-direction: column;
-  }
+  @include section-padding;
   h2 {
     @include heading;
   }
