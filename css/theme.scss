@@ -1267,6 +1267,9 @@ body.horizontal-nav main {
     margin: 0 0 16px;
     padding: 0;
   }
+  .slider-container {
+    max-width: calc(100vw - var(--gap-items));
+  }
   ul.items.slider {
     margin: var(--gap-items) 0 calc(var(--gap-items) / 2);
   }
