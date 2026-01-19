@@ -2019,6 +2019,9 @@ ol.steps {
     text-align: center;
     margin-bottom: calc(var(--gap-items) * 2);
   }
+  strong {
+    font-weight: 500;
+  }
   ul {
     list-style: none;
     padding: 0;
