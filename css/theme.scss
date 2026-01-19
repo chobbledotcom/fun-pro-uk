@@ -485,7 +485,7 @@ body {
         div {
           display: flex;
           flex-direction: row;
-          gap: 16px;
+          gap: var(--gap-items);
           & > dt,
           & > dd {
             padding: 0;
