@@ -79,7 +79,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: combined/.image-cache
-          key: img-cache-${{ hashFiles('source/images/**/*') }}
+          key: img-cache-${{ hashFiles('source/images/**/*', 'source/_data/config.json') }}
           restore-keys: |
             img-cache-
 
