@@ -588,6 +588,7 @@ body {
   p {
     padding: 0;
     margin: 0;
+    font-size: 14px;
   }
   a {
     width: 100%;
@@ -720,15 +721,24 @@ body.one-column .quote-sidebar {
         margin: 0;
         padding: 0;
         gap: 8px;
-
-        span[data-field="name"] {
-          font-weight: 500;
-        }
-        span[data-field="total"] {
-          font-size: 24px;
-          font-weight: 700;
-        }
       }
+    }
+  }
+  span[data-field="name"] {
+    font-weight: 500;
+  }
+  span[data-field="total"] {
+    font-size: 24px;
+    font-weight: 700;
+    display: inline-block;
+    &::before {
+      content: "From";
+      font-size: 24px;
+      font-weight: 700;
+    }
+    &::after {
+      font-size: 16px;
+      font-weight: 400;
     }
   }
 }
