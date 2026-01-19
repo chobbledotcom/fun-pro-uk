@@ -2053,7 +2053,6 @@ ol.steps {
   h2 {
     @include heading;
     text-align: center;
-    margin-bottom: calc(var(--gap-items) * 2);
   }
   strong {
     font-weight: 500;
@@ -2186,7 +2185,7 @@ ol.steps {
   @include flex-column;
   h2 {
     padding: 0;
-    margin: 0 0 16px;
+    margin: 0;
   }
   ul {
     @include list-reset;
