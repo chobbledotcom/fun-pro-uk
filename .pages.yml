@@ -18,17 +18,12 @@ content:
       fields:
         - permalink
         - meta_title
-        - header_text
-      primary: header_text
+      primary: meta_title
       sort:
-        - header_text
+        - meta_title
     fields:
       - { name: subtitle, type: string, label: Subtitle }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
@@ -41,6 +36,7 @@ content:
           - { name: key, type: string }
           - { name: order, type: number }
       - { name: layout, type: string }
+      - { name: no_index, type: boolean, label: Hide from listings }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -74,6 +70,15 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
+      - name: events
+        label: Events
+        type: reference
+        options:
+          collection: events
+          multiple: true
+          search: title
+          value: "{path}"
+          label: "{title}"
       - name: options
         label: Product Options
         type: object
@@ -97,11 +102,7 @@ content:
         fields:
           - { name: name, type: string, label: Name, required: true }
           - { name: value, type: string, label: Value, required: true }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
@@ -135,11 +136,7 @@ content:
         fields:
           - { name: title, type: string, label: Title, required: true }
           - { name: image, type: image, label: Image }
-          - name: body
-            label: Body
-            type: code
-            options:
-              language: markdown
+          - { name: body, label: Body, type: rich-text, required: true }
   - name: categories
     label: Categories
     path: categories
@@ -149,11 +146,7 @@ content:
     fields:
       - { name: title, type: string, label: Title }
       - { name: thumbnail, type: image, label: Thumbnail }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: featured, type: boolean, label: Featured }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
@@ -193,16 +186,13 @@ content:
           value: "{path}"
           label: "{title}"
       - { name: subtitle, type: string, label: Subtitle }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
         label: Meta Description
         maxlength: 155
+      - { name: no_index, type: boolean, label: Hide from listings }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -225,6 +215,7 @@ content:
     filename: "{primary}.md"
     view:
       fields:
+        - thumbnail
         - title
       primary: title
       sort:
@@ -234,11 +225,7 @@ content:
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
@@ -269,11 +256,7 @@ content:
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: snippet, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
-      - name: body
-        label: Biography
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Biography, type: rich-text }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -298,11 +281,7 @@ content:
       - { name: url, type: string, label: URL }
       - { name: rating, type: number, label: Rating }
       - { name: thumbnail, type: image, label: Reviewer Photo }
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - name: products
         label: Products
         type: reference
@@ -329,6 +308,7 @@ content:
     filename: "{primary}.md"
     view:
       fields:
+        - thumbnail
         - title
         - subtitle
       primary: title
@@ -348,11 +328,7 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
-      - name: body
-        label: Body
-        type: code
-        options:
-          language: markdown
+      - { name: body, label: Body, type: rich-text }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string

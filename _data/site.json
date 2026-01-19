@@ -34,10 +34,12 @@
 			"galleries": true,
 			"header_images": false,
 			"external_navigation_urls": false,
+			"use_visual_editor": true,
 			"specs": true,
 			"features": true,
 			"external_purchases": false,
-			"event_locations_and_dates": false
+			"event_locations_and_dates": false,
+			"no_index": true
 		},
 		"hasSrcFolder": false,
 		"customHomePage": true
