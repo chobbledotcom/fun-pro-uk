@@ -90,6 +90,7 @@
 
 @mixin button-base {
   box-shadow: none;
+  margin: 0;
   font-weight: 500 !important;
   &:hover {
     box-shadow: none;
@@ -443,7 +444,8 @@ body {
       .features ul,
       .big-features ul {
         list-style-type: none;
-        padding-left: 0;
+        padding: 0;
+        margin: 0 0 var(--gap-items);
         li {
           padding-left: 40px;
           padding-bottom: 8px;
@@ -474,7 +476,11 @@ body {
         padding-right: var(--gap-items);
         line-height: 32px;
         h2 {
+          margin: 0 0 var(--gap-items);
           color: white;
+          font-size: 44px;
+          font-weight: 500;
+          line-height: 58px;
         }
         div {
           display: flex;
@@ -508,6 +514,15 @@ body {
         }
       }
       .big-features {
+        h2 {
+          margin: 0 0 var(--gap-items);
+          font-size: 44px;
+          font-weight: 500;
+          line-height: 58px;
+        }
+        p {
+          margin: 0 0 var(--section-padding-half);
+        }
         grid-column: full-width;
         max-width: none;
         @include section-padding;
