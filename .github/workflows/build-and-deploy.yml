@@ -33,6 +33,7 @@ jobs:
             flake.lock
             bin
             src
+            packages
 
       - name: Copy template files to combined dir
         run: |
