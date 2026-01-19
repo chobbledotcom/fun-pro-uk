@@ -574,6 +574,9 @@ const FIND_REPLACES = {
   "tel:02477220701": "tel:02477220701",
   "tel:+02477220701": "tel:+442477220701",
 
+  // Fix contact page link
+  "](/contact/)": "](/contact-fun-pro-uk/)",
+
   // Fix broken links to non-existent products (link to category instead)
   // These need to match the full path as it appears after other transforms
   "/category/arcade-games/2/lights-out-game/": "/categories/arcade-games/",
