@@ -1289,6 +1289,7 @@ body.reviews {
     flex-direction: row;
     li {
       @include card;
+      padding: 24px;
       border-radius: 16px;
       border: 1px solid #989898;
       background: #f3f3f3;
@@ -1314,6 +1315,9 @@ body.reviews {
         line-height: 20px; /* 125% */
         height: 135px;
         overflow-y: auto;
+        & > p {
+          margin: 0 0 calc(var(--gap-items) / 2);
+        }
       }
       & > img {
         grid-area: avatar;
