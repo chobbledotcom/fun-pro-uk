@@ -701,6 +701,14 @@ body.one-column .quote-sidebar {
         margin: 0;
         gap: 16px;
       }
+      strong {
+        font-size: 24px;
+        font-weight: 500;
+        line-height: 32px;
+      }
+      small {
+        font-size: 16px;
+      }
     }
     & > ul {
       display: flex;
