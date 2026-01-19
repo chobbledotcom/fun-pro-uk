@@ -1,5 +1,5 @@
 import { join } from "node:path";
-import { bun, read, write, exists, path } from "./utils.js";
+import { bun, fs, read, write, exists, path } from "./utils.js";
 import { setupTemplate, runTemplateScript } from "./template-utils.js";
 
 const TEMPLATE_RAW_URL =
@@ -19,6 +19,12 @@ const customisePages = async () => {
   const { tempDir, cleanup } = await setupTemplate({ mergeSite: false });
 
   try {
+    // Remove template's page-layouts to avoid interference with customisation
+    // (but keep an empty directory so pageLayouts.js doesn't fail)
+    const templatePageLayouts = join(tempDir, "src", "_data", "page-layouts");
+    fs.rm(templatePageLayouts);
+    fs.mkdir(templatePageLayouts);
+
     // Copy local site.json and .pages.yml to the template so customise-cms uses them as defaults
     const localSiteJson = path("_data", "site.json");
     const localPagesYml = path(".pages.yml");
