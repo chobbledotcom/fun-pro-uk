@@ -1900,6 +1900,9 @@ ol.steps {
     p {
       padding: 0;
       margin: var(--gap-xs);
+      font-size: 14px;
+      line-height: 24px;
+      letter-spacing: 0.3px;
     }
     @include breakpoints.down("lg") {
       display: grid;
@@ -2072,7 +2075,7 @@ ol.steps {
   display: grid;
   grid-template-columns: 50px 1fr;
   gap: 0 var(--gap-sm);
-  font-weight: 700;
+  font-weight: 500;
   padding: var(--section-padding-half) 0;
 
   #footer-logo {
@@ -2118,7 +2121,7 @@ ol.steps {
   }
 
   #footer-socials {
-    font-weight: 700;
+    font-weight: 500;
     font-size: 18px;
     display: flex;
     align-items: center;
