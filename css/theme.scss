@@ -2225,7 +2225,7 @@ ol.steps {
   }
 
   details {
-    margin: 0;
+    margin: 0 0 var(--gap-items);
 
     &::details-content {
       display: block;
@@ -2285,7 +2285,7 @@ ol.steps {
   }
 
   p {
-    margin: 0 0 var(--gap-items);
+    margin: 0;
   }
 }
 
