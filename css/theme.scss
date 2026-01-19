@@ -554,7 +554,8 @@ body {
 }
 
 .quote-header {
-  @include section-padding;
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding-half);
   text-align: center;
   margin: 0 auto;
   max-width: 500px;
@@ -919,7 +920,7 @@ body.horizontal-nav main {
 
     @include breakpoints.up("md") {
       // sticky desktop nav
-      padding: 8px;
+      padding: 8px 16px;
       margin: 32px;
       position: sticky;
       top: 16px;
