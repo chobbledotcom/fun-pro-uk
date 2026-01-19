@@ -2389,7 +2389,7 @@ body {
   }
 }
 
-@include breakpoints.up("lg") {
+@include breakpoints.up("md") {
   .products-layout {
     justify-content: space-between;
     .item-filter {
@@ -2428,10 +2428,12 @@ body {
     }
     .products-content {
       max-width: 1172px;
-      ul.items li {
-        @include card;
-      }
     }
+  }
+}
+.products-content {
+  ul.items li {
+    @include card;
   }
 }
 
