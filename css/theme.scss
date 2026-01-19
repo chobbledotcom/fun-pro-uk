@@ -2201,7 +2201,7 @@ ol.steps {
   display: flex;
   flex-direction: column;
   gap: var(--section-padding-half);
-  padding-bottom: var(--section-padding-half);
+  padding: 0 0 var(--section-padding-half);
   @include breakpoints.up("md") {
     flex-direction: row;
     justify-content: space-between;
