@@ -228,6 +228,7 @@ h3 {
 article#content {
   --color-link: #0e5ba7;
   border: none;
+  margin: 0;
   // Offset for anchor links to #content when sticky nav is present
   @include breakpoints.up("md") {
     scroll-margin-top: 120px;
@@ -1926,6 +1927,8 @@ ol.steps {
 }
 
 .faqs-container {
+  @include section-padding;
+  background-color: #fff;
   h2 {
     @include heading;
     text-align: center;
@@ -2021,6 +2024,16 @@ ol.steps {
   }
   strong {
     font-weight: 500;
+    display: block;
+    margin-bottom: 8px;
+  }
+  br {
+    display: none;
+  }
+  span {
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.3px;
   }
   ul {
     list-style: none;
