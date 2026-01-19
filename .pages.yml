@@ -149,7 +149,6 @@ content:
             type: code
             options:
               language: markdown
-            required: true
   - name: categories
     label: Categories
     path: categories

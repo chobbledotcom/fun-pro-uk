@@ -2495,6 +2495,7 @@ div.fun-pro-item {
     @include card;
     background: white;
     height: 550px;
+    margin: 0;
 
     & > ul {
       height: 100%;
