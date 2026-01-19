@@ -732,11 +732,12 @@ body.one-column .quote-sidebar {
     font-weight: 700;
     display: inline-block;
     &::before {
-      content: "From";
+      content: "From ";
       font-size: 24px;
       font-weight: 700;
     }
     &::after {
+      content: " exc VAT";
       font-size: 16px;
       font-weight: 400;
     }
