@@ -2462,7 +2462,8 @@ div.fun-pro-item {
   .inner {
     grid-column: full-width;
     padding: 0 8px;
-    max-width: none;
+    max-width: 1400px;
+    margin: 0 auto;
 
     @include breakpoints.up("sm") {
       padding: 0 16px;
