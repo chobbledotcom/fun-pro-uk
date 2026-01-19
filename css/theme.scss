@@ -2338,7 +2338,8 @@ body {
           border: none;
           align-items: center;
           font-size: 14px;
-          a {
+          a,
+          span {
             padding: 8px !important;
           }
           &::before {
