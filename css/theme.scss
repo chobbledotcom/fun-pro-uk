@@ -3,6 +3,75 @@
 @use "breakpoints";
 @use "fonts";
 
+// ============================================
+// Utility Mixins
+// ============================================
+
+@mixin list-reset {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin flex-column($gap: var(--gap-items)) {
+  display: flex;
+  flex-direction: column;
+  gap: $gap;
+}
+
+@mixin flex-row($gap: var(--gap-items)) {
+  display: flex;
+  flex-direction: row;
+  gap: $gap;
+}
+
+@mixin absolute-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@mixin icon-list-item {
+  padding-left: 40px;
+  position: relative;
+  &::before {
+    content: "";
+    width: 24px;
+    height: 24px;
+    display: block;
+    background-image: url("/assets/icons/tick.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #e1f1f6;
+    border-radius: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+
+@mixin button-colored($bg, $color, $border: none) {
+  @include button-base;
+  color: $color;
+  background: $bg;
+  border: $border;
+  svg {
+    fill: $color;
+  }
+}
+
+// ============================================
+// Theme Mixins
+// ============================================
+
 @mixin themed-section() {
   background: var(--background);
   color: #fdfdfd;
@@ -41,7 +110,7 @@
 }
 
 @mixin timeline-list($dot-color: #009dd7, $dot-size: 16px) {
-  list-style-type: none;
+  @include list-reset;
   padding: 0 0 0 10px;
   position: relative;
 
@@ -99,43 +168,19 @@
 }
 
 @mixin button-blue {
-  @include button-base;
-  color: #fafafa;
-  background: #1c54e3;
-  border: none;
-  svg {
-    fill: #fafafa;
-  }
+  @include button-colored(#1c54e3, #fafafa);
 }
 
 @mixin button-red {
-  @include button-base;
-  color: #fafafa;
-  background: #ee3324;
-  border: none;
-  svg {
-    fill: #fafafa;
-  }
+  @include button-colored(#ee3324, #fafafa);
 }
 
 @mixin button-white {
-  @include button-base;
-  color: #181a1f;
-  background: #fff;
-  border: 1px solid #babbbc;
-  svg {
-    fill: #181a1f;
-  }
+  @include button-colored(#fff, #181a1f, 1px solid #babbbc);
 }
 
 @mixin button-white-transparent {
-  @include button-base;
-  color: #fff;
-  background: transparent;
-  border: 1px solid #fff;
-  svg {
-    fill: #fff;
-  }
+  @include button-colored(transparent, #fff, 1px solid #fff);
 }
 
 @mixin mega-menu-columns($columns) {
@@ -156,11 +201,7 @@
         border-radius: 8px;
 
         .image-wrapper {
-          position: absolute;
-          left: 0;
-          top: 0;
-          width: 100%;
-          height: 100%;
+          @include absolute-fill;
         }
         span {
           position: absolute;
@@ -443,27 +484,11 @@ body {
       }
       .features ul,
       .big-features ul {
-        list-style-type: none;
-        padding: 0;
+        @include list-reset;
         margin: 0 0 var(--gap-items);
         li {
-          padding-left: 40px;
+          @include icon-list-item;
           padding-bottom: 8px;
-          position: relative;
-          &::before {
-            content: "";
-            width: 24px;
-            height: 24px;
-            display: block;
-            background-image: url("/assets/icons/tick.svg");
-            background-position: center center;
-            background-repeat: no-repeat;
-            background-color: #e1f1f6;
-            border-radius: 100%;
-            position: absolute;
-            left: 0;
-            top: 0;
-          }
         }
       }
       .big-specs {
@@ -580,10 +605,8 @@ body {
 }
 
 .quote-footer {
+  @include flex-column;
   padding: var(--gap-items);
-  display: flex;
-  flex-direction: column;
-  gap: var(--gap-items);
   ul,
   p {
     padding: 0;
@@ -595,24 +618,10 @@ body {
     @include button-white;
   }
   ul {
-    list-style-type: none;
+    @include list-reset;
     li {
+      @include icon-list-item;
       padding: 0 0 8px 40px;
-      position: relative;
-      &::before {
-        content: "";
-        width: 24px;
-        height: 24px;
-        display: block;
-        background-image: url("/assets/icons/tick.svg");
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-color: #e1f1f6;
-        border-radius: 100%;
-        position: absolute;
-        left: 0;
-        top: 0;
-      }
     }
   }
 }
@@ -765,10 +774,8 @@ body.one-column .quote-sidebar {
 }
 
 #top-bar {
-  display: flex;
+  @include flex-center;
   padding: 3px;
-  justify-content: center;
-  align-items: center;
   gap: 16px;
   background: #ee3324;
   color: #fff;
@@ -1118,9 +1125,7 @@ body.horizontal-nav main {
   padding-bottom: 0; // handled by slider margin
 
   .homepage-header-inner {
-    display: flex;
-    flex-direction: column;
-    gap: 0;
+    @include flex-column(0);
 
     & > * {
       padding: 0;
@@ -1319,12 +1324,10 @@ body.horizontal-nav main {
 .item-reviews,
 body.reviews {
   ul.items {
-    display: flex;
-    list-style-type: none;
+    @include list-reset;
+    @include flex-row;
     padding: var(--gap-items) 0 calc(var(--gap-items) / 2);
     margin: 0 0 calc(var(--gap-items) / 2);
-    gap: var(--gap-items);
-    flex-direction: row;
     li {
       @include card;
       padding: 24px;
@@ -1459,12 +1462,8 @@ body.reviews {
   }
 
   ul {
-    display: flex;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    flex-direction: row;
-    gap: 96px;
+    @include list-reset;
+    @include flex-row(96px);
     flex-shrink: 0;
 
     li {
@@ -1541,15 +1540,11 @@ body.reviews {
   @include themed-section;
 
   .row {
-    display: flex;
-    flex-direction: row;
-    gap: var(--section-padding);
+    @include flex-row(var(--section-padding));
     margin: 0 auto;
     width: 100%;
     .left {
-      display: flex;
-      flex-direction: column;
-      gap: var(--section-padding-half);
+      @include flex-column(var(--section-padding-half));
       width: 50%;
       h2,
       ol {
@@ -1557,11 +1552,9 @@ body.reviews {
       }
     }
     .image {
-      display: flex;
+      @include flex-center;
       width: 50%;
       margin: 0;
-      justify-content: center;
-      align-items: center;
     }
     h2 {
       @include heading;
@@ -1702,9 +1695,7 @@ body.reviews {
 }
 
 .contact-split {
-  display: flex;
-  flex-direction: column;
-  gap: var(--section-padding-half);
+  @include flex-column(var(--section-padding-half));
   padding: var(--section-padding-half) 0;
 
   .contact-content {
@@ -1744,13 +1735,11 @@ body.reviews {
 
 .coverage-warning {
   @include section-padding;
+  @include flex-column;
   background: #ee3324;
   color: #fff;
-  display: flex;
-  flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: var(--gap-items);
   h2,
   p {
     margin: 0;
@@ -1772,12 +1761,9 @@ body.reviews {
     }
   }
   .actions {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 16px;
+    @include flex-row(16px);
+    @include flex-center;
     flex-wrap: wrap;
-    flex-direction: row;
   }
 }
 
@@ -1896,11 +1882,10 @@ ul.items {
 }
 
 ol.steps {
+  @include list-reset;
   display: flex;
   gap: calc(var(--gap-items) / 2);
-  list-style-type: none;
   flex-wrap: wrap;
-  margin: 0;
   padding: calc(var(--section-padding) / 2) 0;
   justify-content: center;
 
@@ -2064,15 +2049,13 @@ ol.steps {
   @include section-padding;
   background: #fafafa;
   & > div {
+    @include flex-column;
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
     align-items: center;
   }
   h2 {
     @include heading;
     text-align: center;
-    margin-bottom: calc(var(--gap-items) * 2);
   }
   strong {
     font-weight: 500;
@@ -2088,12 +2071,10 @@ ol.steps {
     letter-spacing: 0.3px;
   }
   ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+    @include list-reset;
+    display: flex;
     flex-wrap: wrap;
     gap: calc(var(--gap-items) * 2);
-    display: flex;
     justify-content: center;
     align-items: flex-start;
     align-self: stretch;
@@ -2184,12 +2165,8 @@ ol.steps {
     }
 
     .socials {
-      display: flex;
-      padding: 0;
-      margin: 0;
-      flex-direction: row;
-      gap: 8px;
-      list-style-type: none;
+      @include list-reset;
+      @include flex-row(8px);
       img {
         width: 26px;
       }
@@ -2198,10 +2175,8 @@ ol.steps {
 }
 
 #footer-links-row {
-  display: flex;
-  flex-direction: column;
-  gap: var(--section-padding-half);
-  padding: 0 0 var(--section-padding-half);
+  @include flex-column(var(--section-padding-half));
+  padding-top: 0;
   @include breakpoints.up("md") {
     flex-direction: row;
     justify-content: space-between;
@@ -2210,18 +2185,14 @@ ol.steps {
 }
 
 #footer-links {
-  display: flex;
-  flex-direction: column;
+  @include flex-column;
   h2 {
     padding: 0;
-    margin: 0 0 16px;
+    margin: 0;
   }
   ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
+    @include list-reset;
+    @include flex-column(16px);
   }
   @include breakpoints.up("md") {
     justify-content: flex-start;
@@ -2231,13 +2202,9 @@ ol.steps {
 }
 
 .footer-address {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: row;
+  @include list-reset;
+  @include flex-row(8px);
   flex-wrap: wrap;
-  gap: 8px;
   font-size: 14px;
   li {
     &:not(:first-child, :last-child) {
@@ -2351,12 +2318,10 @@ body {
 }
 
 .slider-nav {
-  display: flex;
-  flex-direction: row;
-  gap: 16px;
+  @include flex-row(16px);
   margin: 0;
   a {
-    display: block;
+    @include flex-center;
     width: 66px;
     height: 66px;
     font-size: 20px;
@@ -2375,9 +2340,6 @@ body {
     color: #181a1f;
     border-radius: 100%;
     border: 1px solid #babbbc;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
     &:hover {
       border-color: #181a1f;
