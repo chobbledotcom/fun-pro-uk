@@ -1,33 +1,5 @@
 <ul>
-  <li><img widths="50,100,150" src="/images/partners/adidas.svg" alt="Adidas"></li>
-  <li><img widths="50,100,150" src="/images/partners/amazon.svg" alt="Amazon"></li>
-  <li><img widths="50,100,150" src="/images/partners/boots.svg" alt="Boots"></li>
-  <li><img widths="50,100,150" src="/images/partners/bristol-street-motors.png" alt="Bristol Street Motors"></li>
-  <li><img widths="50,100,150" src="/images/partners/british-telecoms.svg" alt="British Telecoms"></li>
-  <li><img widths="50,100,150" src="/images/partners/coventry-city-football-club.svg" alt="Coventry City Football Club"></li>
-  <li><img widths="50,100,150" src="/images/partners/coventry-university.png" alt="Coventry University"></li>
-  <li><img widths="50,100,150" src="/images/partners/eucerin.svg" alt="Eucerin"></li>
-  <li><img widths="50,100,150" src="/images/partners/forever-living.png" alt="Forever Living"></li>
-  <li><img widths="50,100,150" src="/images/partners/jaguar.svg" alt="Jaguar"></li>
-  <li><img widths="50,100,150" src="/images/partners/jd-sports.svg" alt="JD Sports"></li>
-  <li><img widths="50,100,150" src="/images/partners/jlr.png" alt="JLR"></li>
-  <li><img widths="50,100,150" src="/images/partners/kpmg.png" alt="KPMG"></li>
-  <li><img widths="50,100,150" src="/images/partners/land-rover.svg" alt="Land Rover"></li>
-  <li><img widths="50,100,150" src="/images/partners/mib.png" alt="MIB"></li>
-  <li><img widths="50,100,150" src="/images/partners/move-reports.png" alt="Move Reports"></li>
-  <li><img widths="50,100,150" src="/images/partners/nfu-mutual.jpg" alt="NFU Mutual"></li>
-  <li><img widths="50,100,150" src="/images/partners/o2.svg" alt="O2"></li>
-  <li><img widths="50,100,150" src="/images/partners/plumbase.png" alt="Plumbase"></li>
-  <li><img widths="50,100,150" src="/images/partners/rant-and-rave.png" alt="Rant and Rave"></li>
-  <li><img widths="50,100,150" src="/images/partners/red-bull-racing.svg" alt="Red Bull Racing"></li>
-  <li><img widths="50,100,150" src="/images/partners/rolls-royce.svg" alt="Rolls-Royce"></li>
-  <li><img widths="50,100,150" src="/images/partners/selfridges-and-co.png" alt="Selfridges and Co"></li>
-  <li><img widths="50,100,150" src="/images/partners/sheffield-auto-spares.png" alt="Sheffield Auto Spares"></li>
-  <li><img widths="50,100,150" src="/images/partners/stuart-turner.png" alt="Stuart Turner"></li>
-  <li><img widths="50,100,150" src="/images/partners/suzuki.svg" alt="Suzuki"></li>
-  <li><img widths="50,100,150" src="/images/partners/the-university-of-warwick.png" alt="The University of Warwick"></li>
-  <li><img widths="50,100,150" src="/images/partners/ubisoft.png" alt="Ubisoft"></li>
-  <li><img widths="50,100,150" src="/images/partners/virgin-media-o2.svg" alt="Virgin Media O2"></li>
-  <li><img widths="50,100,150" src="/images/partners/virgin-trains.svg" alt="Virgin Trains"></li>
-  <li><img widths="50,100,150" src="/images/partners/wasps.png" alt="Wasps"></li>
+  {% for brand in site.data.brands.brands %}
+  <li><img widths="50,100,150" src="{{ brand.path }}" alt="{{ brand.alt_text }}" chobble:no-lqip></li>
+  {% endfor %}
 </ul>
