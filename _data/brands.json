@@ -16,7 +16,7 @@
       "alt_text": "Coventry City Football Club"
     },
     {
-      "path": "/images/partners/coventry-university.png",
+      "path": "/images/partners/coventry-university.svg",
       "alt_text": "Coventry University"
     },
     { "path": "/images/partners/eucerin.svg", "alt_text": "Eucerin" },
@@ -31,7 +31,7 @@
     { "path": "/images/partners/land-rover.svg", "alt_text": "Land Rover" },
     { "path": "/images/partners/mib.png", "alt_text": "MIB" },
     { "path": "/images/partners/move-reports.png", "alt_text": "Move Reports" },
-    { "path": "/images/partners/nfu-mutual.jpg", "alt_text": "NFU Mutual" },
+    { "path": "/images/partners/nfu-mutual.png", "alt_text": "NFU Mutual" },
     { "path": "/images/partners/o2.svg", "alt_text": "O2" },
     { "path": "/images/partners/plumbase.png", "alt_text": "Plumbase" },
     {
@@ -60,7 +60,7 @@
       "path": "/images/partners/the-university-of-warwick.png",
       "alt_text": "The University of Warwick"
     },
-    { "path": "/images/partners/ubisoft.png", "alt_text": "Ubisoft" },
+    { "path": "/images/partners/ubisoft.svg", "alt_text": "Ubisoft" },
     {
       "path": "/images/partners/virgin-media-o2.svg",
       "alt_text": "Virgin Media O2"
