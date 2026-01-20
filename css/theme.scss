@@ -1284,7 +1284,7 @@ body.horizontal-nav main {
 
 .testimonials-slider {
   @include section-padding;
-  padding-bottom: calc(var(--section-padding) - (var(--gap-items) / 2)));
+  padding-bottom: calc(var(--section-padding) - (var(--gap-items) / 2));
   h2 {
     @include heading;
     margin: 0 0 calc(var(--gap-items) / 2);
