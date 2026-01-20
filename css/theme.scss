@@ -1212,12 +1212,14 @@ body.horizontal-nav main {
         color: #fafafa;
         position: absolute;
         font-size: 20px;
-        line-height: 14px;
-        bottom: 0;
-        left: 0;
-        right: 0;
+        line-height: 20px;
+        height: 20px;
+        bottom: 32px;
+        left: 32px;
+        right: 32px;
         width: auto;
-        padding: 8px 16px 0;
+        overflow: hidden;
+        padding: 0;
         min-height: 0;
         height: 30px;
         z-index: 5;
@@ -1282,19 +1284,21 @@ body.horizontal-nav main {
 
 .testimonials-slider {
   @include section-padding;
+  padding-bottom: calc(var(--section-padding) - (var(--gap-items) / 2)));
   h2 {
     @include heading;
+    margin: 0 0 calc(var(--gap-items) / 2);
   }
-  p {
+  h3 {
+    margin: 0 0 calc(var(--gap-items) / 2);
+    padding: 0;
+  }
+  p.rating {
     margin: 0;
     padding: 0;
   }
-  h3 {
-    margin: 0 0 16px;
-    padding: 0;
-  }
-  ul.items.slider {
-    margin: var(--gap-items) 0 calc(var(--gap-items) / 2);
+  .slider-container {
+    margin: calc(var(--gap-items) / 2) 0;
   }
   @include breakpoints.up("sm") {
     display: grid;
