@@ -1,35 +1,74 @@
 {
-  "brands": [
-    {"path": "/images/partners/adidas.svg", "alt_text": "Adidas"},
-    {"path": "/images/partners/amazon.svg", "alt_text": "Amazon"},
-    {"path": "/images/partners/boots.svg", "alt_text": "Boots"},
-    {"path": "/images/partners/bristol-street-motors.png", "alt_text": "Bristol Street Motors"},
-    {"path": "/images/partners/british-telecoms.svg", "alt_text": "British Telecoms"},
-    {"path": "/images/partners/coventry-city-football-club.svg", "alt_text": "Coventry City Football Club"},
-    {"path": "/images/partners/coventry-university.png", "alt_text": "Coventry University"},
-    {"path": "/images/partners/eucerin.svg", "alt_text": "Eucerin"},
-    {"path": "/images/partners/forever-living.png", "alt_text": "Forever Living"},
-    {"path": "/images/partners/jaguar.svg", "alt_text": "Jaguar"},
-    {"path": "/images/partners/jd-sports.svg", "alt_text": "JD Sports"},
-    {"path": "/images/partners/jlr.png", "alt_text": "JLR"},
-    {"path": "/images/partners/kpmg.png", "alt_text": "KPMG"},
-    {"path": "/images/partners/land-rover.svg", "alt_text": "Land Rover"},
-    {"path": "/images/partners/mib.png", "alt_text": "MIB"},
-    {"path": "/images/partners/move-reports.png", "alt_text": "Move Reports"},
-    {"path": "/images/partners/nfu-mutual.jpg", "alt_text": "NFU Mutual"},
-    {"path": "/images/partners/o2.svg", "alt_text": "O2"},
-    {"path": "/images/partners/plumbase.png", "alt_text": "Plumbase"},
-    {"path": "/images/partners/rant-and-rave.png", "alt_text": "Rant and Rave"},
-    {"path": "/images/partners/red-bull-racing.svg", "alt_text": "Red Bull Racing"},
-    {"path": "/images/partners/rolls-royce.svg", "alt_text": "Rolls-Royce"},
-    {"path": "/images/partners/selfridges-and-co.png", "alt_text": "Selfridges and Co"},
-    {"path": "/images/partners/sheffield-auto-spares.png", "alt_text": "Sheffield Auto Spares"},
-    {"path": "/images/partners/stuart-turner.png", "alt_text": "Stuart Turner"},
-    {"path": "/images/partners/suzuki.svg", "alt_text": "Suzuki"},
-    {"path": "/images/partners/the-university-of-warwick.png", "alt_text": "The University of Warwick"},
-    {"path": "/images/partners/ubisoft.png", "alt_text": "Ubisoft"},
-    {"path": "/images/partners/virgin-media-o2.svg", "alt_text": "Virgin Media O2"},
-    {"path": "/images/partners/virgin-trains.svg", "alt_text": "Virgin Trains"},
-    {"path": "/images/partners/wasps.png", "alt_text": "Wasps"}
+  "icons": [
+    { "path": "/images/partners/adidas.svg", "alt_text": "Adidas" },
+    { "path": "/images/partners/amazon.svg", "alt_text": "Amazon" },
+    { "path": "/images/partners/boots.svg", "alt_text": "Boots" },
+    {
+      "path": "/images/partners/bristol-street-motors.png",
+      "alt_text": "Bristol Street Motors"
+    },
+    {
+      "path": "/images/partners/british-telecoms.svg",
+      "alt_text": "British Telecoms"
+    },
+    {
+      "path": "/images/partners/coventry-city-football-club.svg",
+      "alt_text": "Coventry City Football Club"
+    },
+    {
+      "path": "/images/partners/coventry-university.png",
+      "alt_text": "Coventry University"
+    },
+    { "path": "/images/partners/eucerin.svg", "alt_text": "Eucerin" },
+    {
+      "path": "/images/partners/forever-living.png",
+      "alt_text": "Forever Living"
+    },
+    { "path": "/images/partners/jaguar.svg", "alt_text": "Jaguar" },
+    { "path": "/images/partners/jd-sports.svg", "alt_text": "JD Sports" },
+    { "path": "/images/partners/jlr.png", "alt_text": "JLR" },
+    { "path": "/images/partners/kpmg.png", "alt_text": "KPMG" },
+    { "path": "/images/partners/land-rover.svg", "alt_text": "Land Rover" },
+    { "path": "/images/partners/mib.png", "alt_text": "MIB" },
+    { "path": "/images/partners/move-reports.png", "alt_text": "Move Reports" },
+    { "path": "/images/partners/nfu-mutual.jpg", "alt_text": "NFU Mutual" },
+    { "path": "/images/partners/o2.svg", "alt_text": "O2" },
+    { "path": "/images/partners/plumbase.png", "alt_text": "Plumbase" },
+    {
+      "path": "/images/partners/rant-and-rave.png",
+      "alt_text": "Rant and Rave"
+    },
+    {
+      "path": "/images/partners/red-bull-racing.svg",
+      "alt_text": "Red Bull Racing"
+    },
+    { "path": "/images/partners/rolls-royce.svg", "alt_text": "Rolls-Royce" },
+    {
+      "path": "/images/partners/selfridges-and-co.png",
+      "alt_text": "Selfridges and Co"
+    },
+    {
+      "path": "/images/partners/sheffield-auto-spares.png",
+      "alt_text": "Sheffield Auto Spares"
+    },
+    {
+      "path": "/images/partners/stuart-turner.png",
+      "alt_text": "Stuart Turner"
+    },
+    { "path": "/images/partners/suzuki.svg", "alt_text": "Suzuki" },
+    {
+      "path": "/images/partners/the-university-of-warwick.png",
+      "alt_text": "The University of Warwick"
+    },
+    { "path": "/images/partners/ubisoft.png", "alt_text": "Ubisoft" },
+    {
+      "path": "/images/partners/virgin-media-o2.svg",
+      "alt_text": "Virgin Media O2"
+    },
+    {
+      "path": "/images/partners/virgin-trains.svg",
+      "alt_text": "Virgin Trains"
+    },
+    { "path": "/images/partners/wasps.png", "alt_text": "Wasps" }
   ]
 }
