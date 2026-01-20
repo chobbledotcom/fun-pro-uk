@@ -14,7 +14,20 @@ layout: base
     {%- include "google-rating.html" -%}
     {%- assign categories = collections.categories | getFeaturedCategories |
     slice: 0, 3 -%}
-    {%- include "items.html", items: categories, horizontal: true -%}
+    <div class="slider-container">
+      <ul class="items slider">
+        {%- for item in categories -%}
+          {%- include "homepage-category-item.html" -%}
+        {%- endfor -%}
+        <li class="all-categories">
+          <a class="image-link" href="/categories/#content" aria-hidden="true" tabindex="-1">
+            {% image "products/the-vault/the-vault-1.jpg", "", "", "", "", config.products.item_list_aspect_ratio %}
+          </a>
+          <h3><a href="/categories/">View All Categories</a></h3>
+        </li>
+      </ul>
+      {% include "slider-nav.html" %}
+    </div>
   </div>
 </section>
 
