@@ -795,6 +795,7 @@ body.horizontal-nav main {
   padding: 0;
   border: none;
   width: 100%;
+  margin: 0 auto;
 
   article {
     padding: 0;
@@ -961,7 +962,7 @@ body.horizontal-nav main {
 
     @include breakpoints.up("md") {
       // sticky desktop nav
-      padding: 8px 16px;
+      padding: 8px;
       margin: 32px;
       position: sticky;
       top: 16px;
@@ -973,7 +974,7 @@ body.horizontal-nav main {
         "logo links links links links links links"
         "logo .     search phone email quote cart";
       align-items: center;
-      width: min(1920px, 100vw);
+      width: min(1920px, calc(100vw - (var(--gap-items) / 2)));
       margin: 22px auto;
     }
 
@@ -1089,15 +1090,15 @@ body.horizontal-nav main {
 
 .google {
   display: grid;
-  grid-template-columns: 40px 1fr;
+  grid-template-columns: 60px 1fr;
   gap: 0 8px;
   grid-template-areas: "logo header" "logo rating" "logo count";
-  font-size: 10px;
-  line-height: 15px;
+  font-size: 14px;
+  line-height: 20px;
   svg {
     grid-area: logo;
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     align-self: center;
   }
   strong {
@@ -1108,6 +1109,7 @@ body.horizontal-nav main {
   }
   a {
     grid-area: count;
+    font-size: 12px;
   }
 }
 
@@ -1169,11 +1171,6 @@ body.horizontal-nav main {
         left: 0;
         padding: 0;
         margin: 0;
-        background: linear-gradient(
-          180deg,
-          rgba(0, 0, 0, 0) 0%,
-          rgba(0, 0, 0, 0.8) 100%
-        );
         &::before {
           content: "";
           display: block;
@@ -1183,16 +1180,19 @@ body.horizontal-nav main {
           width: 270px;
           height: 270px;
           z-index: 2;
-          opacity: 0;
-          transition: opacity 0.3s ease-in-out;
+          transition: background 0.3s ease-in-out;
+          background: linear-gradient(
+            180deg,
+            rgba(0, 0, 0, 0) 0%,
+            rgba(0, 0, 0, 0.8) 100%
+          );
+        }
+        &.all-categories::before {
           background: linear-gradient(
             180deg,
             rgba(238, 51, 36, 0) 0%,
             #ee3324c7 100%
           );
-        }
-        &:hover::before {
-          opacity: 1;
         }
       }
       .image-wrapper,
