@@ -65,6 +65,8 @@
   border: $border;
   svg {
     fill: $color;
+    height: 16px;
+    width: 16px;
   }
 }
 
@@ -975,7 +977,7 @@ body.horizontal-nav main {
         "logo .     search phone email quote cart";
       align-items: center;
       width: min(1920px, calc(100vw - (var(--gap-items) / 2)));
-      margin: 22px auto;
+      margin: 0 auto;
     }
 
     ul & > li & > ul a {
@@ -1187,13 +1189,13 @@ body.horizontal-nav main {
             rgba(0, 0, 0, 0.8) 100%
           );
         }
-        &.all-categories::before {
-          background: linear-gradient(
-            180deg,
-            rgba(238, 51, 36, 0) 0%,
-            #ee3324c7 100%
-          );
-        }
+      }
+      &.all-categories .image-link::before {
+        background: linear-gradient(
+          180deg,
+          rgba(238, 51, 36, 0) 0%,
+          #ee3324c7 100%
+        );
       }
       .image-wrapper,
       img {
@@ -1569,6 +1571,7 @@ body.reviews {
     }
     a.button {
       @include button-white;
+      border-color: transparent;
     }
     .image-wrapper {
       img {
@@ -2109,7 +2112,7 @@ ol.steps {
   display: grid;
   grid-template-columns: 50px 1fr;
   gap: 0 var(--gap-sm);
-  font-weight: 500;
+  font-weight: 700;
   padding: var(--section-padding-half) 0;
 
   #footer-logo {
@@ -2192,7 +2195,7 @@ ol.steps {
   @include flex-column;
   h2 {
     padding: 0;
-    margin: 0;
+    margin: 0 0 16px;
   }
   ul {
     @include list-reset;
