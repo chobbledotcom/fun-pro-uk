@@ -11,7 +11,7 @@ concurrency:
 jobs:
   setup:
     name: Build & Deploy to Bunny
-    runs-on: ubuntu-latest
+    runs-on: ubicloud-standard-2
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
