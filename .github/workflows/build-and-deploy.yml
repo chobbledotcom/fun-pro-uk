@@ -11,7 +11,7 @@ concurrency:
 jobs:
   setup:
     name: Build & Deploy to Bunny
-    runs-on: ubicloud-standard-2
+    runs-on: ubicloud-standard-16
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -76,7 +76,7 @@ jobs:
           bun-version: latest
 
       - name: Restore image cache
-        uses: actions/cache@v4
+        uses: ubicloud/cache@v4
         with:
           path: combined/.image-cache
           key: images-${{ hashFiles('source/images/**/*', 'source/_data/config.json') }}
