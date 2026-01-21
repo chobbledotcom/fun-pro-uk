@@ -114,7 +114,7 @@ jobs:
           storage-endpoint: ${{ steps.deployment_env.outputs.storage_endpoint }}
           storage-zone-name: ${{ steps.deployment_env.outputs.storage_zone_name }}
           storage-zone-password: ${{ steps.deployment_env.outputs.storage_zone_password }}
-          concurrency: "40"
+          concurrency: "100"
           enable-delete-action: true
           enable-purge-pull-zone: true
           pull-zone-id: ${{ steps.deployment_env.outputs.pull_zone_id_deploy }}
