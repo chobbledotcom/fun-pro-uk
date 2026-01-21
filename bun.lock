@@ -4,11 +4,19 @@
   "workspaces": {
     "": {
       "dependencies": {
+        "@nfrasser/simple-html-tokenizer": "^0.5.11-4",
+        "linkify-html": "^4.3.2",
         "yaml": "^2.8.2",
       },
     },
   },
   "packages": {
+    "@nfrasser/simple-html-tokenizer": ["@nfrasser/simple-html-tokenizer@0.5.11-4", "", {}, "sha512-FnGmaXkWqJZU0cNhgIvOfv6L7XYIe5pqJlAQpMK4HzrRSnNDBl9+28U0nilSLw4X0B81rrmJDTm2m6aT6p3kYA=="],
+
+    "linkify-html": ["linkify-html@4.3.2", "", { "peerDependencies": { "linkifyjs": "^4.0.0" } }, "sha512-RozNgrfSFrNQlprJSZIN7lF+ZVPj5Pz8POQcu1PYGAUhL9tKtvtWcOXOmlXjuGGEWHtC6gt6Q2U4+VUq9ELmng=="],
+
+    "linkifyjs": ["linkifyjs@4.3.2", "", {}, "sha512-NT1CJtq3hHIreOianA8aSXn6Cw0JzYOuDQbOrSPe7gqFnCpKP++MQe3ODgO3oh2GJFORkAAdqredOa60z63GbA=="],
+
     "yaml": ["yaml@2.8.2", "", { "bin": { "yaml": "bin.mjs" } }, "sha512-mplynKqc1C2hTVYxd0PU2xQAc22TI1vShAYGksCCfxbn/dFwnHTNi1bvYsBTkhdUNtGIf5xNOg938rrSSYvS9A=="],
   }
 }
