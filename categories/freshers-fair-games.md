@@ -24,6 +24,8 @@ With over 15 years of experience working with universities across the UK, we und
 
 Our interactive games provide the perfect solution for bringing people together during those crucial first weeks. Whether you're planning indoor activities for student union buildings or outdoor entertainment for campus events, we'll help you create an engaging programme that encourages genuine connections and builds that important sense of belonging.
 
+[Read more..]
+
 ## Why Interactive Games Matter for Freshers Week Success
 
 Starting university is one of life's biggest transitions, and freshers week sets the tone for students' entire university experience. Interactive games create natural conversation starters that help break down social barriers between people who might otherwise feel shy or overwhelmed.
