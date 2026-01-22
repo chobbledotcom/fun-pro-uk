@@ -2,7 +2,6 @@
 	"has_products_filter": true,
 	"botpoison_public_key": "pk_bbb182a9-1ff3-4d9a-839c-06e45f41a6e6",
 	"sticky_mobile_nav": true,
-	"show_breadcrumbs": true,
 	"collapse_mobile_menu": true,
 	"horizontal_nav": true,
 	"show_breadcrumbs": true,
@@ -25,9 +24,9 @@
 	"navigation_content_anchor": true,
 	"category_order": [
 		"products-header.html",
+		"category-content.html",
 		"category-products.html",
 		"category-subcategories.html",
-		"category-content.html",
 		"what-you-get.html",
 		"faq.html"
 	],
