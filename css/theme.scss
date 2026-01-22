@@ -1236,7 +1236,6 @@ body.horizontal-nav main {
     a {
       background-color: #fdfdfd;
       color: #111;
-      font-size: 36px;
     }
     @include breakpoints.up("md") {
       position: absolute;
@@ -2330,7 +2329,7 @@ body {
     @include flex-center;
     width: 66px;
     height: 66px;
-    font-size: 20px;
+    font-size: 30px;
     font-family:
       system-ui,
       -apple-system,
