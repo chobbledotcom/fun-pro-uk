@@ -25,6 +25,8 @@ When you want to add some fun to your office party or corporate event, ask the e
 
 We have a range of exciting corporate team building event ideas to help you create a memorable and engaging experience for your employees or clients. If you see anything you like, please feel free to [contact us](/contact-fun-pro-uk/#content) if you'd like any more information!
 
+[Read more..]
+
 ## Corporate Office Party Hire Ideas
 
 Get the competitive juices flowing with our [Beat the Buzzer](/products/beat-the-buzzer/#content) or our [Giant Buzz Wire](/products/giant-buzz-wire/#content), and see if you can reach the end before the buzzer goes off. Anyone who wins gets the next morning off! Or test your reflexes with [Danger Zone Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content), a fast-paced two-player game where you have to hit as many lights as possible before they disappear. Can you get a higher score than your colleagues?  
