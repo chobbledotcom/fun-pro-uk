@@ -43,6 +43,8 @@ faqs:
 
 Thinking of bringing the fun of the arcade to your guests? We have a range of classic arcade machine games available for hire through the UK. Like all of our products, our arcade rentals are securely stored, tested and maintained in our headquarters in the West Midlands, but we're happy to deliver them to events throughout the country.
 
+[Read more..]
+
 ## Our Arcade Game Collection
 
 No one can resist the nostalgic appeal of winning games to collect tickets in exchange for prizes, so why not bring the atmosphere of the arcade with you? We've got a [retro gaming arcade](/products/retro-arcade-games/#content), [tabletop games](/products/air-hockey-table-hire/#content), [gambling games](/products/casino-table-hire/#content), [games of skill](/products/crack-the-code-safe-cracker/#content), and many more.

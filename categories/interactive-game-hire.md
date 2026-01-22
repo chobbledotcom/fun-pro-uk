@@ -28,6 +28,8 @@ faqs:
 
 Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/categories/grab-a-grand/#content). Fun Pro offers entertainment that suits any audience and any occasion.
 
+[Read more..]
+
 ## **Our Interactive Game Collection**
 
 Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](/products/retro-arcade-games/#content). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it’s over, everyone can walk away with exciting memories and fun experiences they won’t forget.
