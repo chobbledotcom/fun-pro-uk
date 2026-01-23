@@ -459,15 +459,16 @@ body {
           span {
             grid-area: icon;
             justify-self: center;
-            align-self: center;
+            align-self: baseline;
             display: flex;
-            height: 14px;
-            width: 14px;
+            width: 48px;
+            height: 48px;
             border-radius: 4px;
             background: #fafafa;
-            border: 13px solid #fafafa;
             box-sizing: content-box;
             color: #ee3324;
+            justify-content: center;
+            align-items: center;
           }
           & > dt,
           & > dd {
@@ -2495,6 +2496,11 @@ div.fun-pro-item {
   .item-faqs {
     grid-area: faqs;
     margin: 0 0 var(--section-padding);
+    h2 {
+      @include heading;
+      text-align: center;
+      margin-bottom: 64px;
+    }
   }
 
   .inner {
@@ -2558,6 +2564,20 @@ div.fun-pro-item {
     .body {
       height: calc(100% - var(--section-padding-half));
       gap: var(--section-padding-half);
+    }
+  }
+}
+
+.design-system {
+  background: none;
+  .breadcrumbs {
+    padding: 0;
+    margin: 0 0 calc(var(--gap-items) / 2);
+    li {
+      margin: 0;
+    }
+    a {
+      color: #181a1f;
     }
   }
 }
