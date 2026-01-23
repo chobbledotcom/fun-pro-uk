@@ -1862,6 +1862,8 @@ ul.items {
         flex-direction: row;
         svg {
           width: 40px;
+          border-radius: 40px;
+          background: #f6f6f6;
         }
         span {
           max-width: 180px;
