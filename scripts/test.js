@@ -1,5 +1,5 @@
-import { path, fs, bun } from "./utils.js";
 import { prep } from "./prepare-dev.js";
+import { bun, fs, path } from "./utils.js";
 
 const templateTest = path(".build", "template", "test");
 const devTest = path(".build", "dev", "test");
