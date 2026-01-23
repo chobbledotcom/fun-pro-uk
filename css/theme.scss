@@ -455,17 +455,18 @@ body {
           gap: 0 16px;
           border-radius: 8px;
           background: #efefef;
+          align-content: center;
           span {
             grid-area: icon;
             justify-self: center;
             align-self: center;
             display: flex;
-            height: 22px;
+            height: 14px;
+            width: 14px;
             border-radius: 4px;
             background: #fafafa;
-            border: 10px solid #fafafa;
+            border: 13px solid #fafafa;
             box-sizing: content-box;
-            width: 22px;
             color: #ee3324;
           }
           & > dt,
