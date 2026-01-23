@@ -4,6 +4,7 @@
   "sticky_mobile_nav": true,
   "collapse_mobile_menu": true,
   "horizontal_nav": true,
+  "default_max_quantity": 10,
   "template_repo_url": "https://github.com/chobbledotcom/chobble-template",
   "chobble_link": "https://chobble.com/services/chobble-template/",
   "cart_mode": "quote",
