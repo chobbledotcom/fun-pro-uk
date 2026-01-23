@@ -1,7 +1,7 @@
+import { cpSync, readdirSync } from "node:fs";
 import { join } from "node:path";
-import { readdirSync, cpSync } from "node:fs";
-import { fs, bun, path } from "./utils.js";
 import { setupTemplate } from "./template-utils.js";
+import { bun, fs, path } from "./utils.js";
 
 const USAGE = `
 Usage: bun run screenshot [options] [page-paths...]
@@ -39,7 +39,7 @@ const runScreenshots = async (tempDir, args) => {
 
   // Determine final output directory
   let finalOutputDir = path("screenshots");
-  const outputIdx = args.findIndex(a => a === "-d" || a === "--output-dir");
+  const outputIdx = args.findIndex((a) => a === "-d" || a === "--output-dir");
   if (outputIdx !== -1 && args[outputIdx + 1]) {
     const outputPath = args[outputIdx + 1];
     finalOutputDir = outputPath.startsWith("/") ? outputPath : path(outputPath);
@@ -63,7 +63,7 @@ const runScreenshots = async (tempDir, args) => {
   }
 
   // Default to homepage if no pages specified
-  const hasPages = args.some(a => a.startsWith("/"));
+  const hasPages = args.some((a) => a.startsWith("/"));
   if (!hasPages) {
     scriptArgs.push("/");
   }

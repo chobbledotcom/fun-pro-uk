@@ -1,6 +1,6 @@
 import { join } from "node:path";
-import { root, path, fs, git, rsync, bun, find } from "./utils.js";
 import { buildDir, templateRepo } from "./consts.js";
+import { bun, find, fs, git, path, root, rsync } from "./utils.js";
 
 const build = path(buildDir);
 const template = path(buildDir, "template");
@@ -8,8 +8,16 @@ const dev = path(buildDir, "dev");
 
 const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*"];
 const rootExcludes = [
-  ".git", ".direnv", "*.nix", "README.md", buildDir, "scripts",
-  "node_modules", "package*.json", "bun.lock", "old_site",
+  ".git",
+  ".direnv",
+  "*.nix",
+  "README.md",
+  buildDir,
+  "scripts",
+  "node_modules",
+  "package*.json",
+  "bun.lock",
+  "old_site",
 ];
 
 export const prep = () => {

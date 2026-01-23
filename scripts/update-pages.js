@@ -1,6 +1,6 @@
 import { join } from "node:path";
-import { bun, fs, read, write, exists, path } from "./utils.js";
-import { setupTemplate, runTemplateScript } from "./template-utils.js";
+import { setupTemplate } from "./template-utils.js";
+import { bun, exists, fs, path, read, write } from "./utils.js";
 
 const TEMPLATE_RAW_URL =
   "https://raw.githubusercontent.com/chobbledotcom/chobble-template/refs/heads/main/.pages.yml";
@@ -38,7 +38,13 @@ const customisePages = async () => {
     if (await exists(localPagesYml)) {
       console.log("Copying local .pages.yml to template...");
       // Add src/ prefix back when copying to template
-      await write(templatePagesYml, (await read(localPagesYml)).replace(/^(\s+folder:\s*)(?!src\/)/gm, "$1src/"));
+      await write(
+        templatePagesYml,
+        (await read(localPagesYml)).replace(
+          /^(\s+folder:\s*)(?!src\/)/gm,
+          "$1src/",
+        ),
+      );
     }
 
     console.log("\nStarting CMS customisation TUI...\n");
@@ -55,7 +61,10 @@ const customisePages = async () => {
     }
 
     // Copy amended files back
-    await write(".pages.yml", (await read(templatePagesYml)).replace(/src\//g, ""));
+    await write(
+      ".pages.yml",
+      (await read(templatePagesYml)).replace(/src\//g, ""),
+    );
     await write(localSiteJson, await read(templateSiteJson));
 
     console.log("Updated .pages.yml and site.json with your customisations");

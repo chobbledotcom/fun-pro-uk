@@ -1,6 +1,6 @@
 import { join } from "node:path";
-import { path, fs, bun } from "./utils.js";
 import { prep } from "./prepare-dev.js";
+import { bun, fs, path } from "./utils.js";
 
 const dev = path(".build", "dev");
 const output = path("_site");

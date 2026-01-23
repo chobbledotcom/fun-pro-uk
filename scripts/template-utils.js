@@ -1,12 +1,19 @@
-import { join, relative, basename } from "node:path";
-import { mkdtempSync, readdirSync, statSync, existsSync, cpSync } from "node:fs";
+import { cpSync, existsSync, mkdtempSync, readdirSync } from "node:fs";
 import { tmpdir } from "node:os";
-import { fs, git, bun, path } from "./utils.js";
+import { join } from "node:path";
 import { templateRepo } from "./consts.js";
+import { bun, fs, git, path } from "./utils.js";
 
 const rootExcludes = [
-  ".git", "*.nix", "README.md", ".build", "scripts",
-  "node_modules", "package.json", "bun.lock", "old_site",
+  ".git",
+  "*.nix",
+  "README.md",
+  ".build",
+  "scripts",
+  "node_modules",
+  "package.json",
+  "bun.lock",
+  "old_site",
 ];
 
 /**
