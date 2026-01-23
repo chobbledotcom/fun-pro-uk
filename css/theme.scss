@@ -469,6 +469,9 @@ body {
             color: #ee3324;
             justify-content: center;
             align-items: center;
+            svg {
+              height: 22px;
+            }
           }
           & > dt,
           & > dd {
