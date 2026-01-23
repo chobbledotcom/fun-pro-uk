@@ -13,7 +13,7 @@ eleventyNavigation:
 
 # Fun Food Hire
 
-There is nothing better than the smell of a sizzling BBQ, the taste of a hog roast with crispy crackling or freshly oven baked pizza with lots of melted cheese at your Summer get together. This is where Fun Pro UK can help arrange not only your fun entertainment but fun food as well!
+There is nothing better than the smell of a sizzling BBQ, the taste of a hog roast with crispy crackling or freshly oven baked pizza with lots of melted cheese at your Summer get together. [Read more..] This is where Fun Pro UK can help arrange not only your fun entertainment but fun food as well!
 
 Whether you are seeking hot dogs and burgers, hog roasts, delicious fresh pizzas or an ice cream van for your event, then let us know and we can supply tasty offerings which will happily fill all those hungry tummies at your do! Click on the photos below for more information.
 
