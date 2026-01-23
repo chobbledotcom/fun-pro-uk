@@ -441,7 +441,7 @@ body {
       .specs dl {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 8px;
+        gap: calc(var(--gap-items) / 2);
 
         @include breakpoints.up("lg") {
           grid-template-columns: 1fr 1fr;
@@ -2430,10 +2430,11 @@ div.fun-pro-item {
   .item-title {
     grid-area: title;
     margin: 0 0 calc(var(--gap-items) / 4);
+    font-size: 32px;
   }
   .item-subtitle {
     grid-area: subtitle;
-    margin: 0 0 calc(var(--gap-items) / 4);
+    margin: 0 0 var(--gap-items);
     font-size: 16px;
     font-weight: 400;
   }
@@ -2442,11 +2443,8 @@ div.fun-pro-item {
     h2 {
       margin: 0 0 calc(var(--gap-items) / 2);
       color: #009dd7;
-      font-family: "DM Sans";
       font-size: 44px;
-      font-style: normal;
       font-weight: 700;
-      line-height: normal;
       small {
         color: #181a1f;
         font-size: 18px;
@@ -2454,6 +2452,7 @@ div.fun-pro-item {
       }
     }
     p {
+      font-size: 14px;
       margin: 0 0 var(--gap-items);
     }
   }
@@ -2466,7 +2465,6 @@ div.fun-pro-item {
   }
   .item-features {
     grid-area: features;
-    margin: 0 0 var(--gap-items);
   }
   .item-cart-buttons {
     grid-area: cart-buttons;
@@ -2483,7 +2481,6 @@ div.fun-pro-item {
   }
   .item-description {
     grid-area: description;
-    margin: 0 0 var(--gap-items);
   }
   .item-tabs {
     grid-area: tabs;
