@@ -13,7 +13,7 @@ eleventyNavigation:
 
 # Prize Games Hire UK
 
-Looking to dial up the fun at your next event? Fun Pro UK has you covered with an exciting range of Prize Games, perfect for [exhibitions](/categories/exhibition-games/#content), trade shows, [corporate events](/categories/corporate-entertainment/#content), or even [weddings](/categories/weddings/#content). These prize games for hire blend the thrill of luck with the joy of skill-based challenges, promising a day filled with interactive fun.
+Looking to dial up the fun at your next event? Fun Pro UK has you covered with an exciting range of Prize Games, perfect for [exhibitions](/categories/exhibition-games/#content), trade shows, [corporate events](/categories/corporate-entertainment/#content), or even [weddings](/categories/weddings/#content). [Read more..] These prize games for hire blend the thrill of luck with the joy of skill-based challenges, promising a day filled with interactive fun.
 
 Look through our huge range below, and when you're ready, make a booking online, or speak with our team for more information. You know you're in safe hands with Fun Pro UK!
 
