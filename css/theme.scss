@@ -1893,21 +1893,21 @@ ul.items {
     margin: 0;
     width: 100%;
     gap: calc(var(--gap-items) / 2);
+  }
+}
 
-    .list-item-quantity {
-      height: 100%;
-      border-radius: 16px;
-      border: 1px solid #e6e6e6;
-      background: #fff;
-      .quantity-input {
-        border: none;
-        box-shadow: none;
-      }
-      button,
-      input {
-        height: 100%;
-      }
-    }
+.item-quantity {
+  height: 100%;
+  border-radius: 16px;
+  border: 1px solid #e6e6e6;
+  background: #fff;
+  .quantity-input {
+    border: none;
+    box-shadow: none;
+  }
+  button,
+  input {
+    height: 100%;
   }
 }
 
