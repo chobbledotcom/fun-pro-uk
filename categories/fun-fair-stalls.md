@@ -32,9 +32,9 @@ faqs:
 
 # Best Fun Fair Stalls in the UK!
 
-Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](/categories/fun-foods/#content) and interactive activities to entertain guests of all ages. These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
+Create the atmosphere of a traditional fairground at your event with a selection of classic games, [food carts](/categories/fun-foods/#content) and interactive activities to entertain guests of all ages. [Read more..] These fair stalls are a great way to ensure everyone feels included and enjoys themselves.
 
-Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it’s a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
+Guests can take part in games with prizes or enjoy a variety of tasty snacks served from colourful food carts. Whether it's a corporate event, or family fun day, these stalls add something fun and memorable for everyone.
 
 ## Hire Fun Fair Stalls for Your Next Event!
 

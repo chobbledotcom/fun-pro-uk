@@ -13,9 +13,9 @@ eleventyNavigation:
 
 # **UK wide Christmas grotto hire**
 
-Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
+Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, [Read more..] you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
 
-**Christmas grotto hire  
+**Christmas grotto hire
 **From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming Christmas grotto will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.

@@ -28,7 +28,7 @@ faqs:
 
 # Batak Game Hire - Interactive Games to Make Your Next Event Unforgettable
 
-Are you planning an event and looking for some fun activities that everyone can enjoy? Batak games are a high-energy, interactive and fun way to bring people together and get everyone involved at events like [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), conferences, trade shows, and more.
+Are you planning an event and looking for some fun activities that everyone can enjoy? Batak games are a high-energy, interactive and fun way to [Read more..] bring people together and get everyone involved at events like [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), conferences, trade shows, and more.
 
 ## Why Choose Batak Games for Your Event?
 
