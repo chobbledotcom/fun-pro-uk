@@ -455,7 +455,7 @@ body {
           gap: 0 16px;
           border-radius: 8px;
           background: #efefef;
-          align-content: center;
+          align-content: flex-start;
           span {
             grid-area: icon;
             justify-self: center;
