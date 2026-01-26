@@ -1,0 +1,16 @@
+<h2>Hire Prices</h2>
+<ul>
+  {%- for rate in options -%}
+    <li>
+      {%- if rate.days == 1 -%}
+        Hire from
+      {%- else -%}
+        {{ rate.days }} day hire from
+      {%- endif -%}
+      <span class="price">
+        &pound;{{ rate.unit_price }}
+        <small>+ vat</small>
+      </span>
+    </li>
+  {%- endfor -%}
+</ul>
