@@ -2594,6 +2594,8 @@ div.fun-pro-item {
       width: fit-content;
       align-content: center;
       a {
+        font-weight: 500;
+        color: #181a1f;
         border-bottom: 2px solid transparent;
         transition: border-color 0.3s ease-in-out;
       }
@@ -2607,6 +2609,16 @@ div.fun-pro-item {
     .body {
       height: calc(100% - var(--section-padding-half));
       gap: var(--section-padding-half);
+      h1,
+      h2,
+      h3,
+      p {
+        margin-top: 0;
+      }
+      .image-wrapper {
+        height: auto;
+        width: 387px;
+      }
     }
   }
 }
