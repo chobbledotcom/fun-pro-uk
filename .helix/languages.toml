@@ -1,0 +1,16 @@
+[language-server.shopify-theme-check]
+command = "shopify"
+args = ["theme", "language-server"]
+
+[[language]]
+name = "liquid"
+scope = "source.liquid"
+file-types = ["liquid", "html"]
+injection-regex = "^liquid$"
+indent = { tab-width = 2, unit = "  " }
+language-servers = ["shopify-theme-check"]
+block-comment-tokens = { start = "{% comment %}", end = "{% endcomment %}" }
+
+[[grammar]]
+name = "liquid"
+source = { git = "https://github.com/hankthetank27/tree-sitter-liquid", rev = "d269f4d52cd08f6cbc6636ee23cc30a9f6c32e42" }
