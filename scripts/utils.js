@@ -62,6 +62,9 @@ export const rsync = (src, dest, opts = {}) =>
     ...(opts.delete ? ["--delete"] : []),
     ...rsyncExcludes(opts.exclude || []),
     ...rsyncIncludes(opts.include || []),
+    // When using includes, add --exclude='*' at the end to make includes act as filters
+    // Without this, rsync transfers all files not in the excludes list
+    ...(opts.include?.length ? ["--exclude", "*"] : []),
     src.endsWith("/") ? src : `${src}/`,
     dest.endsWith("/") ? dest : `${dest}/`,
   ]);
