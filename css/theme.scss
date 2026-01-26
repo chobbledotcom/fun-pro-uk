@@ -452,7 +452,7 @@ body {
           grid-template-columns: 48px 1fr;
           grid-template-areas: "icon key" "icon value";
           padding: 8px;
-          gap: 0 16px;
+          gap: calc(var(--gap-items) / 4) calc(var(--gap-items) / 2);
           border-radius: 8px;
           background: #efefef;
           align-content: flex-start;
@@ -480,6 +480,7 @@ body {
           }
           & > dt {
             grid-area: key;
+            font-weight: 400;
             font-size: 14px;
           }
           & > dd {
@@ -492,10 +493,16 @@ body {
       .features ul,
       .big-features ul {
         @include list-reset;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
         margin: 0 0 var(--gap-items);
         li {
           @include icon-list-item;
           padding-bottom: 8px;
+          min-height: 24px;
+          align-content: center;
+          display: flex;
         }
       }
       .big-specs {
@@ -2509,6 +2516,9 @@ div.fun-pro-item {
     .add-to-cart {
       @include button-red;
       width: 100%;
+    }
+    .item-quantity {
+      height: 48px;
     }
   }
   .item-gallery {
