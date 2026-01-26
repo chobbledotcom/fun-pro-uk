@@ -2458,16 +2458,16 @@ div.fun-pro-item {
   .item-reviews-header {
     grid-area: reviews-header;
     display: flex;
+    margin: 0 0 var(--gap-items);
     gap: calc(var(--gap-items) / 2);
-    a {
+    svg,
+    strong {
       color: #009dd7;
+      font-weight: 500;
     }
     .all {
       color: var(--color-text);
       text-decoration: underline;
-    }
-    p {
-      margin: 0 0 var(--gap-items);
     }
   }
   .item-title {

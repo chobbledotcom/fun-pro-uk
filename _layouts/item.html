@@ -18,7 +18,8 @@ layout: base
       {% assign rating = collections.reviews | getRating: page.fileSlug, tags %}
       {% include "item-reviews-count.html" %}
       {%- if rating -%}
-        <p><a href="#reviews" class="all">See all reviews</a></p>
+        <span>{{ rating | ratingToStars }} <strong>{{ rating }} stars</strong> ({{ reviews.size }} reviews)</span>
+        <span><a href="#reviews" class="all">See all reviews</a></span>
       {%- endif -%}
     </div>
     <div class="item-price">
