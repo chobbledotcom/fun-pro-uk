@@ -2450,6 +2450,15 @@ div.fun-pro-item {
   }
   .item-reviews-header {
     grid-area: reviews-header;
+    display: flex;
+    gap: calc(var(--gap-items) / 2);
+    a {
+      color: #009dd7;
+    }
+    .all {
+      color: var(--color-text);
+      text-decoration: underline;
+    }
     p {
       margin: 0 0 var(--gap-items);
     }
