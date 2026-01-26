@@ -150,7 +150,10 @@ tabs:
       Lift required
   - title: How It Works
     image: /images/products/football-darts/football-darts-2.jpg
+    body: ""
   - title: Why It's A Crowd Favourite
     image: /images/products/football-darts/football-darts-1.jpg
+    body: ""
   - title: Delivery
+    body: ""
 ---
