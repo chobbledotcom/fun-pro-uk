@@ -1483,6 +1483,7 @@ body.reviews {
       .image-wrapper {
         height: 50px;
         width: auto;
+        border-radius: none;
         object-fit: contain;
         transition: all 0.3s ease;
         align-content: center;
@@ -2601,6 +2602,9 @@ div.fun-pro-item {
     }
     a {
       color: #181a1f;
+    }
+    span[aria-current] {
+      font-weight: 400;
     }
   }
 }

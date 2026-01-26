@@ -15,6 +15,7 @@ layout: base
     </div>
     <div class="item-reviews-header">
       {% include "item-reviews-count.html" %}
+      <a href="#reviews">See all reviews</a>
     </div>
     <div class="item-price">
       <h2>From {{ price }} <small>exc. VAT</small></h2>
@@ -36,13 +37,13 @@ layout: base
       {% include "tabs.html" %}
     </div>
     <div class="item-reviews">
+      {% assign reviews = collections.reviews | getReviewsFor: page.fileSlug, reviewsField %}
       <h2>Hear What Our Clients Have To Say</h2>
       <h3>Customer Reviews on Google</h3>
       <p>
         ⭐⭐⭐⭐ 5.0 rating -
-        <a href="/testimonials/">{{ collections.reviews.size }} reviews</a>
+        <a href="/testimonials/">{{ reviews.size }} reviews</a>
       </p>
-      {% assign reviews = collections.reviews | getReviewsFor: page.fileSlug, reviewsField %}
       <div class="slider-container">
         <ul class="items slider">
           {%- include "homepage-testimonials.html" -%}
