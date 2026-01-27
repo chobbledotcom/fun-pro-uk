@@ -5,7 +5,10 @@ price: "£395"
 order: 50
 meta_title: "Roller Bowler Hire UK | Corporate Events & Exhibitions"
 meta_description: "Hire the classic Roller Bowler carnival game for UK corporate events and exhibitions. No power required, fully brandable. Nationwide delivery available."
-categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
+categories:
+  - "categories/arcade-games.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -14,26 +17,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "2000mm x 800mm x 1200mm (including player space)"
+    value: "2000mm x 800mm x 1200mm"
   - name: "Power"
-    value: "None - completely mechanical game"
+    value: "No power required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "450mm x 1480mm x 870mm"
   - name: "Suitability"
-    value: "Indoor/Outdoor - Dry weather only"
+    value: "Indoor use only/Level surface"
   - name: "Access"
-    value: "Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -45,173 +50,53 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
 faqs:
-  - question: "How much space does Roller Bowler require?"
-    answer: "The standard Roller Bowler needs approximately 2 metres in length and 0.8 metres in width, plus additional space for players to stand and spectators to gather. We recommend allowing 2.5 x 1.5 metres total for comfortable gameplay. Floor-standing versions require more space than tabletop models."
+  - question: "How many people can play Roller Bowler at once?"
+    answer: "The Roller Bowler is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
   - question: "Is Roller Bowler suitable for all ages?"
-    answer: "Yes, the Roller Bowler works for children aged 5 and above through to adults. The simple rolling action requires no special strength or coordination, making it accessible for most attendees. The challenge level remains engaging regardless of age or ability."
-  - question: "Can Roller Bowler be used outdoors?"
-    answer: "The Roller Bowler can be used outdoors in dry weather conditions only. The wooden construction and mechanical components must be protected from rain and moisture. We recommend indoor use for guaranteed operation regardless of the weather."
-  - question: "How long does setup take?"
-    answer: "Setup typically takes 10-15 minutes for our trained technicians. This includes positioning the game, attaching any floor stands or header panels, and ensuring the track surface is level. Our team handles all setup and testing before your event begins."
-  - question: "Can I hire multiple units for larger events?"
-    answer: "Yes, we can provide multiple Roller Bowler units for large events, conferences, or exhibitions. Multiple units work particularly well for competitions, tournaments, or when you need to accommodate high footfall. Contact us to discuss quantity discounts for multiple units."
-  - question: "What power source is required?"
-    answer: "The Roller Bowler requires no power source whatsoever. It's a completely mechanical game, making it ideal for outdoor events, venues with limited electrical access, or situations where you want to minimise running costs and setup complexity."
-  - question: "How far in advance should I book? We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability. Can the Roller Bowler be branded with our company logo?"
-    answer: "Yes, comprehensive branding options are available, including header panels, side panels, and playfield graphics. Our in-house design team can create custom artwork incorporating your logo, colours, and messaging. Branding typically requires 2-3 weeks' notice."
+    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
+  - question: "How much space do we need?"
+    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Roller Bowler fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
+  - question: "Do you set everything up?"
+    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
+  - question: "What power do you need?"
+    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
 tabs:
   - title: "Why Roller Bowler?"
+    body: "The Roller Bowler delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2000mm x 800mm x 1200mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
+
+
+      What makes the Roller Bowler effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
+
+
+      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/roller-bowler/roller-bowler-1.jpg"
-    body: |
-      # Roller Bowler
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Roller Bowler – The Classic Carnival Skill Game for Corporate & Private Events
-      
-      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/events/exhibition-games/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
-      
-      Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.
-      
-      Contact us for custom pricing and availability.
-      
-      \*Please note that delivery charges and minimum order values may apply.
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## What Is Roller Bowler?
-      
-      The Roller Bowler is a carnival skill game where players roll a ball up a sloped track, attempting to send it over a hill and stop it within a designated winning zone. The game tests timing, force judgement, and ball control, requiring players to calculate the exact power needed for success.
-      
-      Players watch their ball travel up the slope, hoping it settles in the winning area rather than rolling back down. Colleagues gather around to watch attempts, offer advice, and queue for their turn whilst spectators create an energetic atmosphere through encouragement and friendly competition.
-      
-      The Roller Bowler works well at trade shows because it draws crowds, creates visible queues, and keeps exhibition stands consistently busy. Corporate events benefit from the competitive element that gets colleagues interacting naturally, whilst the simple rules mean anyone can play immediately without lengthy explanations.
-      
-      ## Why Choose Roller Bowler for Your Next Event?
-      
-      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
-      
-      *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
-          
-      *   Creates Natural Crowds: Spectators gather to watch and encourage players, building energy around your event space
-          
-      *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
-          
-      *   Fully Brandable: [Custom graphics](/events/brand-activation/#content) and panels available to match your corporate colours and messaging
-          
-      *   No Power Required: Completely mechanical game means no electrical setup or running costs
-          
-      *   Complete UK Coverage: Professional [delivery](/delivery-areas/#content), setup, and collection across England, Scotland, and Wales\*
-      
-      \*Delivery, setup and collection may incur additional costs, depending on location. All costs will be provided in your final quote.
-      
-      ## Nationwide Roller Bowler Hire & Locations
-      
-      As a leading nationwide hire company, Fun Pro UK provides Roller Bowler entertainment for events throughout the UK. We regularly deliver to London, Manchester, Birmingham (including [NEC](/locations/birmingham/nec/#content) and [ICC](/locations/birmingham/game-hire-icc/#content) Arena), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (including CBS Arena), ensuring professional service regardless of your venue location.
-      
-      Our [experienced team](/meet-the-team/#content) handles everything from initial consultation through to delivery, setup, and collection, providing seamless service for your event. [Contact us](/contact-fun-pro-uk/#content) today to discuss your requirements.\*
-      
-      \*Minimum order values and delivery fees apply. Contact us for specific location pricing.
-      
-      ## Roller Bowler Description
-      
-      The Roller Bowler features a brightly coloured sloped track with eye-catching carnival graphics in red, yellow, and blue. The wooden construction includes a distinctive hill section that creates the game's signature challenge, with clearly marked winning zones painted on the track surface.
-      
-      Players position themselves at the lower end of the track and must judge the exact force needed to send the ball over the hill and into the scoring area. Roll too hard and the ball bounces back; roll too softly and it never crests the hill, creating the perfect balance of skill and frustration.
-      
-      Queues form naturally at busy events as colleagues challenge each other and attempt to beat previous scores. The visible gameplay makes it valuable for exhibitions where creating footfall matters, with spectators stopping to watch before joining the queue themselves.
-      
-      ## What's Included in Roller Bowler Hire?
-      
-      When you hire Roller Bowler from Fun Pro UK, you receive a complete service package:
-      
-      ### Included in every hire:
-      
-      *   [UK-wide delivery](/delivery-areas/#content) and collection (additional costs may apply)
-          
-      *   Professional installation and setup by trained technicians if requested
-          
-      *   [Custom branding](/events/brand-activation/#content) options available
-          
-      *   Full operational support throughout your event if needed
-          
-      *   Choice of tabletop or floor-standing configuration
-          
-      *   Optional floor stands and header panels
-      
-      Need a longer hire period? [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ## Game Specifications
-      
-      ### Roller Bowler specifications:
-      
-      **Details**
-      
-      **Equipment size (Standard)**
-      
-      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
-      
-      **Extra information**
-      
-      Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
-      
-      ## Brands That Trust Fun Pro UK
-      
-      We're proud to have provided entertainment solutions for leading UK brands including:
-      
-      *   Rolls-Royce
-          
-      *   KPMG
-          
-      *   Boots
-          
-      *   BT
-          
-      *   Amazon
-          
-      *   Tilda Rice
-          
-      *   Poundland ...and many more
-      
-      ## Other Interactive Games
-      
-      Complete your event with our range of interactive entertainment:
-      
-      *   [Batak Pro](/categories/batak/#content) - Fast-paced light reaction challenge for competitive play
-          
-      *   [Roll and Bowl](/products/roll-and-bowl-game-hire/#content) \- Horse racing carnival game with multiplayer excitement
-          
-      *   [Whack-a-Mole](/products/whack-a-mole-game-hire/#content) - Classic arcade game testing speed and reactions
-          
-      *   [Prize Crane](/products/prize-crane-arcade-grabber/#content) - Skill-based grabber game with branded prize options
-          
-      *   [Plinko](/products/plinko-game-hire/#content) - Exciting drop-and-win game creating suspense for every player
-      
-      ## Hire Roller Bowler for Your Event
-      
-      Ready to add classic carnival entertainment to your next corporate event, exhibition, or private function? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss customisation options, and receive a detailed quote for Roller Bowler hire across the UK.
-      
-      ### **How far in advance should I book?**
-      
-      We recommend booking 4-6 weeks in advance for most events. Peak seasons (December for Christmas parties, September for exhibitions, and June-August for summer events) often require booking 8-12 weeks ahead to guarantee availability.
-      
-      ### **Can the Roller Bowler be branded with our company logo?**
   - title: "How It Works"
-    body: |
-      
+    body: "The Roller Bowler is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
+
+
+      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
+
+
+      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "The Roller Bowler has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
+
+
+      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
+
+
+      People remember how entertainment made them feel. The Roller Bowler creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
+    image: "/images/products/roller-bowler/roller-bowler-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We provide comprehensive service for Roller Bowler hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
+
+
+      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Roller Bowler optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
+
+
+      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
+
+
+      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
 ---
 

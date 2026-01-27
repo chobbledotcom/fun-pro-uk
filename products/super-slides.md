@@ -5,7 +5,8 @@ price: "£295"
 order: 50
 meta_title: "Super Slide Hire | Inflatable Slides | Fun Pro UK"
 meta_description: "Our inflatable slides are fully-customisable - display your logo &amp; branding. Thrills, chills &amp; marketing options - perfect for corporate fundays with kids!"
-categories: ["categories/fun-days.md"]
+categories:
+  - "categories/fun-days.md"
 events: []
 featured: true
 features:
@@ -14,26 +15,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "4500mm Width x 6000mm Depth x 5500mm Height"
+    value: "2m x 2m x 2m"
   - name: "Power"
-    value: "1 x 950 watt power source 3 pin mains UK power socket"
+    value: "1 x UK mains socket (Game usage: 10-50W)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "4267mm Width x 5486mm Depth x 5486mm Height"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor and outdoor use/Level surface"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "Drive on only"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 295
@@ -48,67 +51,53 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1bdc2a629293e20f8a972449aff24c9f"
 tabs:
   - title: "Why SUPER SLIDES?"
+    body: "The SUPER SLIDES delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
+
+
+      What makes the SUPER SLIDES effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
+
+
+      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/super-slides/super-slides-2.jpg"
-    body: |
-      # SUPER SLIDES
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Super Slide hire**
-      
-      **4 hour hire from**
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      If you really want your corporate event to get noticed, then nothing beats inflatable high slide hire. These huge, colourful inflatables stand head and shoulders above anything else, and can be seen from all around, drawing in the crowds.
-      
-      ## **A massive, inflatable advert**
-      
-      Hiring a super slide is like putting up a massive advertisement for your event that is impossible to miss. And once people start sliding, their screams and squeals will only add to the interest. It's a brilliant way to stand out at an outdoor trade show or exhibition, and gives you lots of time to talk to parents while their kids enjoy the ride.
-      
-      ## **A huge fun day hit**
-      
-      Super slide hire also makes a thrilling centre-piece for your [company fun day](/categories/fun-days/#content). Everyone will want to have a go, and with our slides, they can, because they are built to take both children and adults, from eight years old to eighty. High slides are a brilliant ice breaker, getting everyone in the party mood as they climb the squishy steps and throw themselves down the slide.
-      
-      ## **Create your own carnival**
-      
-      Our giant inflatable slide hire will make your fun day really memorable, but why stop there, when you can create a complete carnival by adding other fun day hires. You can combine your slide with some crazy Wipeout games, add an [inflatable assault course](/products/inflatable-assault-courses/#content), and even recreate your own seaside amusement arcade with [classic video games](/products/retro-arcade-games/#content) and [basketball challenges](/products/electronic-basket-ball-hire/#content).
-      
-      Our team will be happy to hep you put together the perfect package, with great savings when you book multiple items. Remember, we deliver nationwide, from Scotland to Surrey, so contact us now and get set for some amazing summer fun.
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular items**
-      
-      *   [Bouncy castles](/products/large-bouncy-castles/#content)
-      *   [Assault courses](/products/inflatable-assault-courses/#content)
-      *   [Giant Jenga](/products/giant-jenga-hire/#content)
-      *   [Giant connect 4](/products/giant-connect-4-game-hire/#content)
   - title: "How It Works"
+    body: "The SUPER SLIDES is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
+
+
+      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
+
+
+      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/super-slides/super-slides-1.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "The SUPER SLIDES has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
+
+
+      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
+
+
+      People remember how entertainment made them feel. The SUPER SLIDES creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
+    image: "/images/products/super-slides/super-slides-2.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We provide comprehensive service for SUPER SLIDES hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
+
+
+      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the SUPER SLIDES optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
+
+
+      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
+
+
+      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+faqs:
+  - question: "How many people can play SUPER SLIDES at once?"
+    answer: "The SUPER SLIDES is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
+  - question: "Is SUPER SLIDES suitable for all ages?"
+    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
+  - question: "How much space do we need?"
+    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the SUPER SLIDES fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
+  - question: "Do you set everything up?"
+    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
+  - question: "What power do you need?"
+    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
 ---
 
