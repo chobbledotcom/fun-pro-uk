@@ -1,4 +1,0 @@
-[[language]]
-name = "liquid"
-scope = "source.liquid"
-file-types = ["liquid", "html"]
