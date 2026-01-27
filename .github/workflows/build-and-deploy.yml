@@ -18,10 +18,10 @@ jobs:
         with:
           path: source
           fetch-depth: 1
-          sparse-checkout-cone-mode: true
+          sparse-checkout-cone-mode: false
           sparse-checkout: |
             /*
-            !old_site
+            !old_site/
 
       - name: Checkout Chobble Template
         uses: actions/checkout@v4
