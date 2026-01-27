@@ -53,6 +53,17 @@ gallery:
   - "/images/products/christmas-prize-crane/christmas-prize-crane-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Internal back wall"
+      price: 95
+    - name: "Branded Front panel"
+      price: 125
+    - name: "Branded side panels"
+      price: 255
+    - name: "Full branding"
+      price: 475
 tabs:
   - title: "Why Christmas Prize Crane?"
     image: "/images/products/christmas-prize-crane/christmas-prize-crane-1.jpg"
@@ -84,28 +95,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Internal back wall**
-      
-      **£95**\+ vat**
-      
-      **Branded Front panel**
-      
-      **£125**\+ vat**
-      
-      **Branded side panels**
-      
-      **£255**\+ vat**
-      
-      **Full branding**
-      
-      **£475**\+ vat**
   - title: "How It Works"
     body: |
       

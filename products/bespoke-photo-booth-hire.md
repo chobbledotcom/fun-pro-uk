@@ -48,6 +48,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/24c0c248921be81d95b0e363d4fd6ca0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/023f5fff1deda24f0283d2072b3fec45"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956"
+add_ons:
+  options:
+    - name: "Front panel branding"
+      price: 110
+    - name: "Back full length panel branding"
+      price: 145
+    - name: "Header Branding panels"
+      price: 175
+    - name: "Fully Branded"
+      price: 430
+    - name: "Branded Notes"
+      price: 150
 tabs:
   - title: "Why Bespoke Photo Booth Hire?"
     image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg"
@@ -61,10 +73,6 @@ tabs:
       All packages include delivery, setup, and removal by our professional team.
       
       You can rest assured that the Ballnado grabber and other equipment will arrive in top condition, and ready-for-use at your event.
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
       
       Need a longer hire period?
       
@@ -94,28 +102,6 @@ tabs:
       *   [Lights Out](/categories/interactive-game-hire/#content)
       *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
       *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ### **Branding Prices from:**
-      
-      **Front panel branding**
-      
-      **£110**\+ vat**
-      
-      **Back full length panel branding**
-      
-      **£145**\+ vat**
-      
-      **Header Branding panels**
-      
-      **£175**\+ vat**
-      
-      **Fully Branded**
-      
-      **£430**\+ vat**
-      
-      **Branded Notes**
-      
-      **£150**\+ vat for 300 notes**
       
       **Bespoke photo booths for hire through out Coventry, Birmingham, London and Milton Keynes**
       

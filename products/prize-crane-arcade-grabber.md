@@ -83,6 +83,16 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/62ad0282349c253c7c1ab05488efa064"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bbbcf1346752f88829d8a25fc8a47d47"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f91f72bcf85902969c123ef0d4910d23"
+add_ons:
+  options:
+    - name: "Internal back wall"
+      price: 95
+    - name: "Branded Front panel"
+      price: 125
+    - name: "Branded side panels"
+      price: 255
+    - name: "Full branding"
+      price: 475
 tabs:
   - title: "Why Prize Crane Arcade Grabber?"
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-16.jpg"
@@ -167,27 +177,9 @@ tabs:
       
       Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry, plus anywhere in the West Midlands and Milton Keynes, so book now and add some real excitement to your next event.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Internal back wall**
-      
-      **£95**\+ vat**
-      
-      **Branded Front panel**
-      
-      **£125**\+ vat**
-      
-      **Branded side panels**
-      
-      **£255**\+ vat**
-      
-      **Full branding**
-      
-      **£475**\+ vat**
   - title: "How It Works"
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-15.jpg"
     body: |

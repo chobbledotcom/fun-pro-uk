@@ -97,6 +97,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e29420d3695e93ae19a85b1dc096251e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3763e55f1d3b2617c604ae358f2a9c9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f85ead60e61ec6515af5b5928af0abd1"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded front panels"
+      price: 95
+    - name: "Branded all sides"
+      price: 195
 tabs:
   - title: "Why Crack The Code safe cracker?"
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-23.jpg"
@@ -214,20 +221,6 @@ tabs:
       ### HOW TO HIRE
       
       If you wish to find out more details for hiring this fantastic Safe Cracker - Crack The Code game for your next event, ensuring great footfall and increasing your brand awareness then drop our team an email. We will be happy to send you a competitive quote.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded front panels**
-      
-      **£95**\+ vat**
-      
-      **Branded all sides**
-      
-      **£195**\+ vat**
   - title: "How It Works"
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-22.jpg"
     body: |

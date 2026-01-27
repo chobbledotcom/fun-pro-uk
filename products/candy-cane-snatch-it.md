@@ -69,6 +69,13 @@ faqs:
       For a smooth setup, we recommend an indoor location that meets our space and access requirements.
   - question: "How many people can play the Candy Cane Snatch It game at once?"
     answer: "The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded top Panel"
+      price: 175
+    - name: "Branded Plinth"
+      price: 245
 tabs:
   - title: "Why Candy Cane Snatch it?"
     image: "/images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg"
@@ -106,11 +113,7 @@ tabs:
       Delivered [](#specification)and [](#specification)installed on site by our trained team
       
       You can rest assured that the Candy Cane Snatch It and other equipment will arrive in top condition, and ready for use at your event.  
-        
-      In-house branding available. We print, apply, and remove them after each event.  
-        
-      (One time use only)  
-        
+      
       Need a longer hire period? Contact us for custom pricing and availability.  
       
       \*Delivery [](#specification)Charges & Minimum order value may apply
@@ -183,20 +186,6 @@ tabs:
       ### **Can I customise the game for my event?**
       
       Yes! We offer in-house branding options to personalise the Candy Cane Snatch It game for your event. You can add your logo, event theme, or festive holiday message to the game. Doing this will make it a memorable and [immersive brand experience](/promotional-event-games/#content) for guests. Our team will handle the application and removal of branding after the event.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded top Panel**
-      
-      **£175**\+ vat**
-      
-      **Branded Plinth**
-      
-      **£245**\+ vat**
   - title: "How It Works"
     body: |
       

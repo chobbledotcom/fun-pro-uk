@@ -68,6 +68,10 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7d4c6028bf92864ddda090b32ba909d0"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
+add_ons:
+  options:
+    - name: "Fully Branded Leader Board"
+      price: 135
 tabs:
   - title: "Why LEADER BOARD?"
     image: "/images/products/leader-board/leader-board-13.jpg"
@@ -124,12 +128,6 @@ tabs:
       Want to add a leader board to make your hire more competitive, then look no further!  
         
       You can keep the score with any of the interactive games including the timing for our world class Race simulators or to count the dollars collected in our Grab a Grand.
-      
-      **Branding Prices from:**
-      
-      **Fully Branded Leader Board**
-      
-      **£135**\+ vat**
   - title: "How It Works"
     image: "/images/products/leader-board/leader-board-12.jpg"
     body: |

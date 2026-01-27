@@ -66,6 +66,11 @@ faqs:
     answer: "We provide everything you need to play the game and get set up, including helping with customisation if needed. The only thing you'll provide is extra prizes if you want more than what's included."
   - question: "Can the Play Your Cards Right stall be themed to match our event decor?"
     answer: "Yes, absolutely. We can fully customise the game to match your brand or event."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "&pound;195"
+      price: 195
 tabs:
   - title: "Why Play Your Cards Right Stall Hire?"
     image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg"
@@ -161,12 +166,6 @@ tabs:
       ## Ready to Book Our Play Your Cards Right Stall Hire?
       
       Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
       
       Brand the rear half wall of the side stall with your brand from
   - title: "How It Works"

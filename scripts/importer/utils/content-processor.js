@@ -423,6 +423,66 @@ const processContent = (markdown, contentType, htmlContent = null) => {
   return cleaned;
 };
 
+/**
+ * Strip branding prices section from markdown content
+ * Removes the "Branding Prices" heading, intro text, and price items
+ * @param {string} content - Markdown content
+ * @param {Object} brandingPrices - Extracted branding prices {intro, options: [{name, price}]}
+ * @returns {string} Content with branding prices section removed
+ */
+const stripBrandingPricesSection = (content, brandingPrices = {}) => {
+  // If no branding prices were extracted, nothing to strip
+  if (!brandingPrices.options || brandingPrices.options.length === 0) {
+    return content;
+  }
+
+  // Remove "Branding Prices" heading (various formats)
+  // Matches: **Branding Prices from:** or ## Branding Prices or similar
+  content = content.replace(/^(?:#{2,3}\s*)?\*{0,2}Branding\s+Prices?\s*(?:from)?:?\*{0,2}\s*$/gim, '');
+
+  // Remove the intro text if present
+  if (brandingPrices.intro) {
+    // Escape special regex chars in the intro
+    const escapedIntro = escapeRegex(brandingPrices.intro);
+    content = content.replace(new RegExp(`^${escapedIntro}.*$`, 'gim'), '');
+  }
+  // Also remove common branding intro phrases (including escaped dashes from markdown)
+  // The markdown may have backslash-escaped hyphens like "In\-house"
+  // Handles variations like:
+  // - "In-house branding available. We print, apply, and remove them after each event."
+  // - "In\-house branding available Printed, applied & removed after each event"
+  content = content.replace(/^\s*In\\?-?house branding available[^\n]*$/gim, '');
+
+  // Remove "(One time use only)" note (may have leading/trailing whitespace)
+  content = content.replace(/^\s*\(?One\s+time\s+use\s+only\)?\.?\s*$/gim, '');
+
+  // Remove each branding option name and price
+  for (const option of brandingPrices.options) {
+    const escapedName = escapeRegex(option.name);
+    const price = option.price;
+
+    // Match patterns like:
+    // **Branded top Panel**
+    // **£175** + vat
+    // Or on same line: **Branded top Panel** **£175** + vat
+    const patterns = [
+      // Name on its own line
+      new RegExp(`^\\*{0,2}${escapedName}\\*{0,2}\\s*$`, 'gim'),
+      // Price line with + vat
+      new RegExp(`^\\*{0,2}£${price}\\*{0,2}.*(?:\\+\\s*vat)?.*$`, 'gim'),
+      // Name followed by price on next lines
+      new RegExp(`^\\*{0,2}${escapedName}\\*{0,2}\\s*\\n\\n?\\*{0,2}£${price}\\*{0,2}.*$`, 'gim'),
+    ];
+
+    for (const pattern of patterns) {
+      content = content.replace(pattern, '');
+    }
+  }
+
+  // Clean up multiple blank lines
+  return content.replace(/\n{3,}/g, '\n\n');
+};
+
 module.exports = {
   extractMainContent,
   cleanContent,
@@ -430,5 +490,6 @@ module.exports = {
   stripFAQSection,
   hasFAQSection,
   stripHirePricesSection,
-  stripSpecificationSection
+  stripSpecificationSection,
+  stripBrandingPricesSection
 };

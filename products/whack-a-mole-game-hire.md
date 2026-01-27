@@ -105,6 +105,16 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6834ec1ea28dbb69d3eaaf624c69a49e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5791f3ec1efafd00ffde4b3c9f1c0158"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b5861f56d5ce65d2e5da34b6d79b942"
+add_ons:
+  options:
+    - name: "Game Playing Panel"
+      price: 145
+    - name: "Branded base"
+      price: 175
+    - name: "Branded back panel"
+      price: 125
+    - name: "Fully Branded"
+      price: 445
 tabs:
   - title: "Why Whack A Mole game hire?"
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
@@ -162,27 +172,9 @@ tabs:
       
       So, why wait? Contact us today to book our Branded Whack-a-Mole game for your upcoming event. Let us help you create an unforgettable experience that will leave your guests smiling and talking about it for years to come. Get ready to whack those moles and make your event a smashing success!??
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Game Playing Panel**
-      
-      **£145**\+ vat**
-      
-      **Branded base**
-      
-      **£175**\+ vat**
-      
-      **Branded back panel**
-      
-      **£125**\+ vat**
-      
-      **Fully Branded**
-      
-      **£445**\+ vat**
   - title: "How It Works"
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-26.jpg"
     body: |

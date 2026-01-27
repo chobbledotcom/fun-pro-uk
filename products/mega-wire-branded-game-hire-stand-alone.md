@@ -73,6 +73,10 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba184cd9c00a1bafd743c7ae4dbc08c5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ce4cf8b82b69e9b638784c17496e4f5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9e354f2397c4ff3191e9b73b395f10b"
+add_ons:
+  options:
+    - name: "Branded panel front and Back"
+      price: 145
 tabs:
   - title: "Why Mega Wire - Branded Game Hire (stand alone)?"
     image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-11.jpg"
@@ -157,15 +161,9 @@ tabs:
       
       Our team are able to brand the rectangular base with your company image, logo or promotional message for all to see at your event. This will ensure the branded game advertises your company exhibition stand or trade show stall and will not only increase footfall marketing for your brand but will also entice new clientele for your business.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Branded panel front and Back**
-      
-      **£145**\+ vat**
   - title: "How It Works"
     image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-10.jpg"
     body: |

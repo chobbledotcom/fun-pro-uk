@@ -44,6 +44,11 @@ gallery:
   - "/images/products/hook-a-duck/hook-a-duck-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "&pound;195"
+      price: 195
 tabs:
   - title: "Why Hook A Duck?"
     image: "/images/products/hook-a-duck/hook-a-duck-1.jpg"
@@ -88,15 +93,7 @@ tabs:
       
       Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
       
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
       Brand the rear half wall of the inside of the stall with your brand from:
-      
-      **£195**\+ vat**
   - title: "How It Works"
     body: |
       

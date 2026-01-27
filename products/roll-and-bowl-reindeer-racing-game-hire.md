@@ -69,6 +69,20 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae81d36b7516b31ae338e74c40365556"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b0050ef79059165761352e6f1f1faf44"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b214072e0f34616bd4f63462501cceb0"
+add_ons:
+  options:
+    - name: "Playing Field x 4"
+      price: 320
+    - name: "Back board"
+      price: 195
+    - name: "Game skirt"
+      price: 195
+    - name: "Waves section"
+      price: 145
+    - name: "Characters x 4"
+      price: 165
+    - name: "Fully branded"
+      price: 1020
 tabs:
   - title: "Why Roll And Bowl Reindeer Racing Game Hire?"
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
@@ -151,35 +165,9 @@ tabs:
       
       Reindeer racing is available in Manchester, Coventry, Nottingham, Leicester, London, Milton Keynes, Birmingham, Northampton, Bristol, Doncaster, Gloucester, Leeds, Liverpool, Newport, Oxford, Salford, Sheffield, Southampton, Stoke-on-Trent, Wakefield, Westminster, Wolverhampton, Worcester, York, Wrexham, Kingston upon Hull and the whole of the UK
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Playing Field x 4**
-      
-      **£320**\+ vat**
-      
-      **Back board**
-      
-      **£195**\+ vat**
-      
-      **Game skirt**
-      
-      **£195**\+ vat**
-      
-      **Waves section**
-      
-      **£145**\+ vat**
-      
-      **Characters x 4**
-      
-      **£165**\+ vat**
-      
-      **Fully branded**
-      
-      **£1020**\+ vat**
   - title: "How It Works"
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-7.jpg"
     body: |

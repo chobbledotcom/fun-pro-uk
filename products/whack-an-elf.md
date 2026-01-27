@@ -53,6 +53,16 @@ gallery:
   - "/images/products/whack-an-elf/whack-an-elf-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
+add_ons:
+  options:
+    - name: "Game Playing Panel"
+      price: 145
+    - name: "Branded base"
+      price: 175
+    - name: "Branded back panel"
+      price: 125
+    - name: "Fully Branded"
+      price: 445
 tabs:
   - title: "Why Whack an Elf?"
     image: "/images/products/whack-an-elf/whack-an-elf-1.jpg"
@@ -112,27 +122,9 @@ tabs:
         
       So, what are you waiting for? Bring the excitement of Whack An Elf to your next event in Coventry, Birmingham, Nottingham, Milton Keynes and and of the UK
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Game Playing Panel**
-      
-      **£145**\+ vat**
-      
-      **Branded base**
-      
-      **£175**\+ vat**
-      
-      **Branded back panel**
-      
-      **£125**\+ vat**
-      
-      **Fully Branded**
-      
-      **£445**\+ vat**
   - title: "How It Works"
     body: |
       

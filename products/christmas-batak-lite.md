@@ -83,6 +83,13 @@ faqs:
     answer: "Yes! Add your **logo**, **brand colours**, or even a **festive Christmas design** to make the game truly yours. Perfect for **holiday brand activations**, **corporate parties**, or **seasonal campaigns** that spread cheer while promoting your message."
   - question: "How soon should I book Batak Lite for my Christmas event?"
     answer: "Batak Lite is as popular as mince pies in December — so we always recommend **booking early** to secure your date! Once you've set your festive plans, let us know, and we'll make sure the fun is reserved just for you."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded back panel"
+      price: 145
+    - name: "8 x Branded Button Surrounds"
+      price: 125
 tabs:
   - title: "Why Christmas Batak Lite?"
     image: "/images/products/christmas-batak-lite/christmas-batak-lite-12.jpg"
@@ -175,18 +182,6 @@ tabs:
       ## Batak Lite Branding and Customisation Options
       
       Our Batak Lite hire comes with the option to have your game fully customised with your brand logo, colours, or even the event branding if you prefer. This allows you to make the interactive games you choose fully represent your brand and create a positive experience for your customers and target audience.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded back panel**
-      
-      **£145**\+ vat**
-      
-      **8 x Branded Button Surrounds**
       
       **£**125** + vat**
   - title: "How It Works"

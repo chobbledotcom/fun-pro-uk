@@ -75,6 +75,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6086e149ece4804518ac2b5778d1294a"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3585f13bb7c65c405209e00945573707"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30d70c3f03c771d66088d5c82fe34cc8"
+add_ons:
+  intro: "In-house branding available Printed, applied & removed after each event"
+  options:
+    - name: "Branded Goal ends"
+      price: 75
+    - name: "Branded Side"
+      price: 165
+    - name: "&pound;"
+      price: 225
 tabs:
   - title: "Why FOOTBALL TABLES?"
     image: "/images/products/football-tables/football-tables-11.jpg"
@@ -215,19 +224,7 @@ tabs:
       
       This table football is perfect for company fun days, award night and even breakout sessions within your conference. Giving your guests the chance to be the top of the leader board and show their true skills as the next best footballer! Who will win? Hire and find out.
       
-      **Branding Prices from:**
-      
-      In-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      **Branded Goal ends**
-      
       £**75** + vat
-      
-      **Branded Side**
-      
-      **£165**\+ vat**
       
       Full Branded
       

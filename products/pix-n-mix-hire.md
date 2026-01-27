@@ -67,6 +67,10 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/cb3fbb8fc719828d9ef3eb6bb6056b63"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
+add_ons:
+  options:
+    - name: "Fully Branded"
+      price: 145
 tabs:
   - title: "Why Pix N Mix Hire?"
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg"
@@ -140,15 +144,9 @@ tabs:
       
       Pick N Mix sweet stand hire is very popular with both children and adults. Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Fully Branded**
-      
-      **£145**\+ vat**
   - title: "How It Works"
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-7.jpg"
     body: |

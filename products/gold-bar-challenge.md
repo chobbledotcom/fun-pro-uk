@@ -56,6 +56,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b1d7ba23acc16c203d3e7745a00700fe"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/de37ea1991d0016ffa5d100bc9ab7a01"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f4cdfe2aaf74a7d0869d3b00e470de8a"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded front panels"
+      price: 95
+    - name: "Branded all sides"
+      price: 195
 tabs:
   - title: "Why Gold Bar Challenge?"
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-7.jpg"
@@ -125,20 +132,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded front panels**
-      
-      **£95**\+ vat**
-      
-      **Branded all sides**
-      
-      **£195**\+ vat**
   - title: "How It Works"
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-6.jpg"
     body: |
