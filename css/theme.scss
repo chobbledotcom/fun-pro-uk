@@ -2513,12 +2513,19 @@ div.fun-pro-item {
     grid-area: cart-buttons;
     margin: 0 0 var(--gap-items);
 
+    a.button {
+      @include button-white;
+      width: 100%;
+    }
     .add-to-cart {
       @include button-red;
       width: 100%;
     }
     .item-quantity {
       height: 48px;
+    }
+    .list-item-cart-controls {
+      padding: 0;
     }
   }
   .item-gallery {
