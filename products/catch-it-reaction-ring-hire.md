@@ -86,6 +86,11 @@ faqs:
     answer: "The game requires one standard UK power socket. Power consumption is minimal, making it suitable for most venue electrical systems."
   - question: "How far in advance should I book?"
     answer: "We recommend booking as early as possible, especially for peak event seasons and major exhibition dates."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Front and side panel"
+      price: 195
 tabs:
   - title: "Why Catch it Reaction Ring Hire?"
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg"
@@ -220,15 +225,7 @@ tabs:
       
       **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
       
-      ### **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
       **Front and side **panel** branding**
-      
-      **£195**\+ vat**
   - title: "How It Works"
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-9.jpg"
     body: |

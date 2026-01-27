@@ -53,6 +53,11 @@ faqs:
     answer: "No, we provide everything needed for the Target Ring Toss game, including all rings and equipment. We also offer the option of a trained attendant for up to 4 hours to organise the game and ensure smooth operation. If you don't require an attendant, we'll provide easy-to-follow game instructions."
   - question: "What is your coverage area for delivery?"
     answer: "We deliver to our customers all over the UK."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "&pound;195"
+      price: 195
 tabs:
   - title: "Why Target Ring Toss Hire?"
     image: "/images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg"
@@ -149,15 +154,7 @@ tabs:
       
       The Target Ring Toss game is versatile and can be easily moved indoors if weather conditions aren't favourable. During the booking process, we'll discuss contingency plans for outdoor events to ensure your guests can enjoy the game regardless of the weather. Our team will work with you to identify suitable indoor spaces as a backup.
       
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
       Brand the rear half wall of the inside of the stall with your brand from:
-      
-      **£195**\+ vat**
   - title: "How It Works"
     body: |
       

@@ -94,6 +94,13 @@ faqs:
     answer: "Yes, Batak Pro is perfect for larger events like conferences."
   - question: "Is Batak Pro customisable with branding options?"
     answer: "Yes. Our Batak Pro hire comes with a range of customisation options, so you can really tailor it to your brand."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded back panels"
+      price: 195
+    - name: "12 x Branded Button Surrounds"
+      price: 175
 tabs:
   - title: "Why Batak Pro?"
     image: "/images/products/batak-pro/batak-pro-14.jpg"
@@ -164,18 +171,6 @@ tabs:
       ## Batak Pro Branding and Customisation Options
       
       Make Batak Pro a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded back panels**
-      
-      **£195**\+ vat**
-      
-      **12 x Branded Button Surrounds**
       
       **£**175** + vat**
       

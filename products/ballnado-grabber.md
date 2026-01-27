@@ -114,6 +114,19 @@ faqs:
     answer: "In general, the Ballnado grabber is quick to set up. It usually takes around 15-20 minutes to assemble the machine, load the balls, and prepare the playing area."
   - question: "Does the Ballnado grabber come with someone to run the activity?"
     answer: "Our team will be at your venue to deliver, set up, and retrieve the Ballnado grabber after the event is done."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Front panel branding"
+      price: 110
+    - name: "Back full length panel branding"
+      price: 145
+    - name: "Header Branding panels"
+      price: 175
+    - name: "Fully Branded"
+      price: 430
+    - name: "Branded Notes"
+      price: 150
 tabs:
   - title: "Why Ballnado Grabber?"
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg"
@@ -141,10 +154,6 @@ tabs:
       All packages include delivery, setup, and removal by our professional team.
       
       You can rest assured that the Ballnado grabber and other equipment will arrive in top condition, and ready-for-use at your event.
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
       
       Need a longer hire period?
       
@@ -236,32 +245,6 @@ tabs:
       ### Conferences, Exhibitions and Trade Shows
       
       Whether you are seeking interactive game hire for your up and coming trade show or conference then we can help. We are able to deliver the day before your show to set up and then return after your event to de-rig. Drop our team a line for a competitive detailed quote for interactive game hire.
-      
-      ### **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Front panel branding**
-      
-      **£110**\+ vat**
-      
-      **Back full length panel branding**
-      
-      **£145**\+ vat**
-      
-      **Header Branding panels**
-      
-      **£175**\+ vat**
-      
-      **Fully Branded**
-      
-      **£430**\+ vat**
-      
-      **Branded Notes**
-      
-      **£150**\+ vat for 300 notes**
   - title: "How It Works"
     image: "/images/products/ballnado-grabber/ballnado-grabber-20.jpg"
     body: |

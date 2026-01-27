@@ -2,9 +2,9 @@ const fs = require('node:fs');
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
-const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
+const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs, extractBrandingPrices } = require('../utils/metadata-extractor');
 const { faqPatterns } = require('../utils/html-patterns');
-const { stripFAQSection, hasFAQSection, stripHirePricesSection, stripSpecificationSection } = require('../utils/content-processor');
+const { stripFAQSection, hasFAQSection, stripHirePricesSection, stripSpecificationSection, stripBrandingPricesSection } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadProductGallery, downloadEmbeddedImages } = require('../utils/image-downloader');
 const { getProductCategoriesMap, getProductEventsMap } = require('../utils/category-scanner');
@@ -117,6 +117,7 @@ const { convertSingle, convertBatch } = createConverter({
     productHeading: (htmlContent) => extractContentHeading(htmlContent),
     images: (htmlContent) => extractProductImages(htmlContent),
     faqs: (htmlContent) => extractFAQs(htmlContent),
+    brandingPrices: (htmlContent) => extractBrandingPrices(htmlContent),
     // Check if HTML has FAQ section (for validation)
     hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
@@ -138,6 +139,8 @@ const { convertSingle, convertBatch } = createConverter({
     // Pass multi-day prices and specs
     const multiDayPrices = extracted.multiDayPrices || {};
     const specs = extracted.specs || {};
+    // Pass branding prices (add-ons)
+    const brandingPrices = extracted.brandingPrices || {};
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -151,7 +154,8 @@ const { convertSingle, convertBatch } = createConverter({
       faqs,
       bodyContent,
       multiDayPrices,
-      specs
+      specs,
+      brandingPrices
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {
@@ -193,6 +197,11 @@ const { convertSingle, convertBatch } = createConverter({
 
     // Strip specification section (now in frontmatter specs)
     content = stripSpecificationSection(content, extracted.specs);
+
+    // Strip branding prices section (now in frontmatter add_ons)
+    if (extracted.brandingPrices?.options?.length > 0) {
+      content = stripBrandingPricesSection(content, extracted.brandingPrices);
+    }
 
     // Store the body content for inclusion as a tab in frontmatter
     extracted.bodyContent = content;

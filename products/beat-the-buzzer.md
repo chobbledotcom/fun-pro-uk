@@ -59,6 +59,13 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1a4783076d56fc7c297e9c428093db22"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a43735801d6ad804b83ddf3faf67401f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e106ad1fd91ab1543095e494fc82eb39"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Back panel"
+      price: 145
+    - name: "Sides of Body"
+      price: 95
 tabs:
   - title: "Why Beat The Buzzer?"
     image: "/images/products/beat-the-buzzer/beat-the-buzzer-4.jpg"
@@ -128,17 +135,7 @@ tabs:
       
       Beat the Bleep and its larger brother the Giant Buzz Wire are great games to hire for Family Fun Days along with our large inflatables such as our 70 ft Assault Course, Hungry Hippos game, Human Football to name but a few! Everyone loves to take part in Team Building games at Office Fun Days, Family Days and Corporate events. Hire you games from Fun Pro UK today and ensure your event is one to be remembered!
       
-      **Branding price from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Back panel**
-      
       **£**145** + Vat
-      
-      **Sides of Body**
       
       **£**95** + Vat
   - title: "How It Works"

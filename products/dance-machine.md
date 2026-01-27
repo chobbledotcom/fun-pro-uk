@@ -63,6 +63,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9ffe337784d4e06f07fca722555b700"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2aa1748f44f3c088f79a4369fb3815f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d58541b87ff7a3f90066201d269239cf"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded Side Panels"
+      price: 110
+    - name: "Branded front panels"
+      price: 220
+    - name: "Branded sides & front Panel"
+      price: 330
 tabs:
   - title: "Why Dance Machine?"
     image: "/images/products/dance-machine/dance-machine-6.jpg"
@@ -171,24 +180,6 @@ tabs:
       Dance machine rental is a great way to add some fun to your next party. But be sure to book soon, as we only have limited dance machine rentals available.
       
       As soon as you have your party booked and your guests confirmed, then you should call us. Soon you and your friends will be busting out your best dance moves on the dance floor!
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded Side Panels**
-      
-      **£110**\+ vat**
-      
-      **Branded front panels**
-      
-      **£220**\+ vat**
-      
-      **Branded sides & front Panel**
-      
-      **£330**\+ vat**
   - title: "How It Works"
     image: "/images/products/dance-machine/dance-machine-5.jpg"
     body: |

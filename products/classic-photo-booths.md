@@ -5,8 +5,8 @@ price: "£450"
 order: 50
 meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"
 meta_description: "Customisable corporate photo booth hire for events, perfect for branding your business. Nationwide delivery. Affordable and fun! Book your booth now!"
-categories: ["categories/photo-booths-and-magic-mirrors.md"]
-events: ["events/company-award-ceremonies.md"]
+categories: ["categories/company-award-ceremonies.md", "categories/photo-booths-and-magic-mirrors.md"]
+events: []
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -46,6 +46,11 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/21ae0df6a7d235dcfe780f2c9a1dc963"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded full wrap"
+      price: 750
 tabs:
   - title: "Why CLASSIC PHOTO BOOTHS?"
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
@@ -68,8 +73,6 @@ tabs:
       
       In[\-](#specification)house branding available Printed[,](#specification) applied & removed after each event
       
-      (One time use only)
-      
       \*Delivery Charges & Minimum order value may apply
       
       [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
@@ -87,16 +90,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded full wrap**
-      
-      **£750**\+ vat**
       
       ## A choice of photo booths
       

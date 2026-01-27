@@ -645,6 +645,86 @@ const extractFaviconLinks = (htmlContent) => {
   return faviconLinks;
 };
 
+/**
+ * Extract branding prices (Custom Branding add-ons) from HTML content
+ * Looks for "Branding Prices" section with pricing table
+ * @param {string} htmlContent - HTML content to extract branding prices from
+ * @returns {Object} Object with intro text and options array [{name, price}]
+ */
+const extractBrandingPrices = (htmlContent) => {
+  const result = {
+    intro: '',
+    options: []
+  };
+
+  // Look for the branding prices section
+  // Pattern: "Branding Prices" heading followed by intro text and a table
+  const brandingSectionRegex = /(?:<[^>]*>)*\s*Branding\s+Prices?\s*(?:from)?:?\s*(?:<[^>]*>)*\s*([\s\S]*?)(<table[^>]*>[\s\S]*?<\/table>)/i;
+  const sectionMatch = htmlContent.match(brandingSectionRegex);
+
+  if (!sectionMatch) {
+    return result;
+  }
+
+  // Extract intro text (between heading and table)
+  const introContent = sectionMatch[1];
+  // Extract common intro phrases
+  const introMatch = introContent.match(/In-house branding available[^<]*/i);
+  if (introMatch) {
+    result.intro = introMatch[0]
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .trim();
+  }
+
+  // Parse the branding options table
+  const tableContent = sectionMatch[2];
+
+  // Extract each table cell (td) that contains a branding option
+  const tdRegex = /<td[^>]*>([\s\S]*?)<\/td>/gi;
+  let tdMatch;
+
+  while ((tdMatch = tdRegex.exec(tableContent)) !== null) {
+    const cellContent = tdMatch[1];
+
+    // Skip empty cells
+    if (!cellContent.trim() || cellContent.trim() === '&nbsp;' || cellContent.trim() === ' ') {
+      continue;
+    }
+
+    // Extract the name (usually in <strong> or <b> tags)
+    // Pattern: <strong>Branded top Panel</strong> or <strong><span>Branded top Panel</span></strong>
+    // The text might be directly in strong/b, or inside nested span tags
+    const nameMatch = cellContent.match(/<(?:strong|b)[^>]*>([\s\S]*?)<\/(?:strong|b)>/i);
+    if (!nameMatch) continue;
+
+    // Strip any inner tags and extract just the text
+    let name = nameMatch[1]
+      .replace(/<[^>]+>/g, '')  // Remove any nested HTML tags
+      .replace(/&nbsp;/g, ' ')
+      .replace(/&amp;/g, '&')
+      .replace(/&ndash;/g, '–')
+      .replace(/&mdash;/g, '—')
+      .replace(/\s+/g, ' ')     // Normalize whitespace
+      .trim();
+
+    // Skip if the name looks like a price (starts with £)
+    if (name.startsWith('£') || name.match(/^[\d,]+$/)) continue;
+
+    // Extract the price (£XXX pattern)
+    // Price can be: &pound;XXX or £XXX, possibly with span tags in between
+    const priceMatch = cellContent.match(/(?:&pound;|£)\s*(?:<[^>]*>)*\s*([\d,]+)/i);
+    if (!priceMatch) continue;
+
+    const price = parseInt(priceMatch[1].replace(/,/g, ''), 10);
+    if (isNaN(price) || price === 0) continue;
+
+    result.options.push({ name, price });
+  }
+
+  return result;
+};
+
 module.exports = {
   extractBreadcrumbText,
   extractContentHeading,
@@ -661,5 +741,6 @@ module.exports = {
   extractBlogImage,
   extractFaviconLinks,
   extractPageListingProducts,
-  extractFAQs
+  extractFAQs,
+  extractBrandingPrices
 };

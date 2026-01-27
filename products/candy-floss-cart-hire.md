@@ -75,6 +75,13 @@ faqs:
     answer: "Talk to us through [our website](/#content), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
   - question: "Are there any customisation options for flavours or colours?"
     answer: "Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart's exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Front panel branding"
+      price: 195
+    - name: "Side Panels"
+      price: 90
 tabs:
   - title: "Why Candy Floss Cart Hire?"
     image: "/images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg"
@@ -181,18 +188,6 @@ tabs:
       ## Ready to take your corporate event to the next level?
       
       Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/contact-fun-pro-uk/#content) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
-      
-      ### **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Front panel branding**
-      
-      **Side Panels**
-      
-      **£90 + Vat**
   - title: "How It Works"
     body: |
       

@@ -117,6 +117,20 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9cccff9f5b65a5e7e2ebe2ad96f28cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9755f4f730c3ec04b906e423ff89c58"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b37db6331e249d685ef03fdbfdf5648"
+add_ons:
+  options:
+    - name: "Playing Field x 4"
+      price: 320
+    - name: "Back board"
+      price: 195
+    - name: "Game skirt"
+      price: 195
+    - name: "Waves section"
+      price: 145
+    - name: "Characters x 4"
+      price: 165
+    - name: "Fully branded"
+      price: 1020
 tabs:
   - title: "Why Roll And Bowl Game Hire?"
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
@@ -211,35 +225,9 @@ tabs:
       
       Here at Fun Pro we have the ability to brand your game hire with your company logo, increasing footfall to your exhibition stand, instore promotion and event ensuring you reach the engagement with future clients that your competitors won't. For more information and pricing on branding please email our team.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Playing Field x 4**
-      
-      **£320**\+ vat**
-      
-      **Back board**
-      
-      **£195**\+ vat**
-      
-      **Game skirt**
-      
-      **£195**\+ vat**
-      
-      **Waves section**
-      
-      **£145**\+ vat**
-      
-      **Characters x 4**
-      
-      **£165**\+ vat**
-      
-      **Fully branded**
-      
-      **£1020**\+ vat**
   - title: "How It Works"
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-31.jpg"
     body: |

@@ -87,6 +87,19 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/88e64775e5560390943b89cfbc4375ab"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9f43013316995f1fc851f5941569070"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Front panel branding"
+      price: 110
+    - name: "Back full length panel branding"
+      price: 145
+    - name: "Header Branding panels"
+      price: 175
+    - name: "Fully Branded"
+      price: 430
+    - name: "Branded Notes"
+      price: 150
 tabs:
   - title: "Why CASH GRABBER MACHINE HIRE?"
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg"
@@ -114,10 +127,6 @@ tabs:
       Don't miss out on the chance to make your event stand out with Cash Grabber Machine Hire. Contact us today to book the Cash Grabber Machine for your next event!
       
       Delivered and installed on site by our trained team
-      
-      In-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
       
       \*Delivery Charges & Minimum order value may apply
       
@@ -204,32 +213,6 @@ tabs:
       ### **Endless options**
       
       We've got so many options when it comes to [interactive game hire](/categories/interactive-game-hire/#content), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Front panel branding**
-      
-      **£110**\+ vat**
-      
-      **Back full length panel branding**
-      
-      **£145**\+ vat**
-      
-      **Header Branding panels**
-      
-      **£175**\+ vat**
-      
-      **Fully Branded**
-      
-      **£430**\+ vat**
-      
-      **Branded Notes**
-      
-      **£150**\+ vat for 300 notes**
   - title: "How It Works"
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg"
     body: |

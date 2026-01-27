@@ -65,6 +65,12 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/732ee488455051d1ff58b96c4d853aed"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0b095d30ba2bec214846406e561a9b6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba0f9e064a6ee5454a6055e08564aa1a"
+add_ons:
+  options:
+    - name: "Branded top Panel"
+      price: 175
+    - name: "Branded Plinth"
+      price: 245
 tabs:
   - title: "Why Snatch It?"
     image: "/images/products/snatch-it/snatch-it-6.jpg"
@@ -103,19 +109,9 @@ tabs:
       
       Lift required
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Branded top Panel**
-      
-      **£175**\+ vat**
-      
-      **Branded Plinth**
-      
-      **£245**\+ vat**
       
       The rules for SNATCH IT are straightforward:
       
