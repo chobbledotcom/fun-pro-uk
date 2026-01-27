@@ -2577,6 +2577,9 @@ div.fun-pro-item {
         "reviews     reviews"
         "faqs        faqs";
     }
+    @include breakpoints.up("xl") {
+      padding: 0;
+    }
   }
   #tabs {
     @include card;
