@@ -37,6 +37,13 @@ content:
           - { name: order, type: number }
       - { name: layout, type: string }
       - { name: no_index, type: boolean, label: Hide from listings }
+      - name: videos
+        label: Videos
+        type: object
+        list: true
+        fields:
+          - { name: id, type: string, label: YouTube Video ID, required: true }
+          - { name: title, type: string, label: Title, required: true }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
@@ -148,7 +155,7 @@ content:
         fields:
           - { name: title, type: string, label: Title, required: true }
           - { name: image, type: image, label: Image }
-          - { name: body, type: rich-text, label: Body }
+          - { name: body, type: rich-text, label: Body, required: true }
   - name: categories
     label: Categories
     path: categories

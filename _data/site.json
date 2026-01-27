@@ -41,7 +41,8 @@
 			"event_locations_and_dates": false,
 			"no_index": true,
 			"parent_categories": false,
-			"add_ons": true
+			"add_ons": true,
+			"videos": true
 		},
 		"hasSrcFolder": false,
 		"customHomePage": true
