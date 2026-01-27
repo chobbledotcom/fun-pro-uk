@@ -289,6 +289,7 @@ const formatTabsYaml = (tabs) => {
  * @param {string} bodyContent - Markdown body content to include as a tab
  * @param {Object} multiDayPrices - Multi-day hire prices (price_2_days, price_3_days, etc.)
  * @param {Object} specs - Extracted specs (players, space_required, power, setup_time)
+ * @param {Object} brandingPrices - Branding prices add-ons {intro, options: [{name, price}]}
  * @returns {string} Frontmatter YAML
  */
 const generateProductFrontmatter = (
@@ -305,6 +306,7 @@ const generateProductFrontmatter = (
   bodyContent = "",
   multiDayPrices = {},
   specs = {},
+  brandingPrices = {},
 ) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories)
@@ -453,6 +455,19 @@ ${optionsYaml}`;
   const faqsYaml = formatFaqsYaml(faqs);
   if (faqsYaml) {
     frontmatter += "\n" + faqsYaml;
+  }
+
+  // Add add_ons (branding prices) if present
+  if (brandingPrices?.options && brandingPrices.options.length > 0) {
+    frontmatter += "\nadd_ons:";
+    if (brandingPrices.intro) {
+      frontmatter += `\n  intro: "${escapeYamlString(brandingPrices.intro)}"`;
+    }
+    frontmatter += "\n  options:";
+    for (const option of brandingPrices.options) {
+      frontmatter += `\n    - name: "${escapeYamlString(option.name)}"`;
+      frontmatter += `\n      price: ${option.price}`;
+    }
   }
 
   // Add tabs - "Why <Product Name>?" with content, plus 3 empty tabs

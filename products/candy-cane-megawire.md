@@ -66,6 +66,11 @@ faqs:
     answer: "Yes, the Christmas Candy Cane Mega Wire Game is suitable for both children and adults. The game has a simple yet engaging concept and it ensures that players of all ages can participate and enjoy."
   - question: "How many people can play the game at an event?"
     answer: "Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded panel front and Back"
+      price: 145
 tabs:
   - title: "Why Candy Cane Megawire?"
     image: "/images/products/candy-cane-megawire/candy-cane-megawire-3.jpg"
@@ -104,9 +109,6 @@ tabs:
       All packages include setup and removal by our professional events team, ensuring the Christmas Candy Cane Mega Wire game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
       
       You can rest assured that the Candy Cane Mega Wire and other equipment will arrive in perfect condition, and ready for use at your event.
-      
-      In-house branding available. We print, apply, and remove them after each event.  
-      (One time use only)
       
       Need a longer hire period? Contact us for custom pricing and availability.
       
@@ -160,16 +162,6 @@ tabs:
       Make your holiday event unforgettable with our Candy Cane Mega Wire game hire service. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
       
       ### **Can the game be hired for both indoor and outdoor events?**
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded panel front and Back**
-      
-      **£145**\+ vat**
   - title: "How It Works"
     image: "/images/products/candy-cane-megawire/candy-cane-megawire-2.jpg"
     body: |

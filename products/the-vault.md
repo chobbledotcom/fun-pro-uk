@@ -69,6 +69,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91f65dadeb0447a0791a32822b9c935e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4ae30fbbd6c20dac5b9f223a33fdd84"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4867e072d6e414cffd2322e7197d37b2"
+add_ons:
+  options:
+    - name: "Branded Plinth"
+      price: 245
+    - name: "Branded Game Front"
+      price: 150
+    - name: "Branded Top Header"
+      price: 75
 tabs:
   - title: "Why The Vault?"
     image: "/images/products/the-vault/the-vault-8.jpg"
@@ -155,23 +163,11 @@ tabs:
       
       Why not hire our scoreboard and keep a record of times from your contestants and see who can open the Vault in the quickest time!
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
       
-      **Branded Plinth**
-      
-      **£245**\+ vat**
-      
-      **Branded Game Front**
-      
       **£**150.00**+ Vat**
-      
-      **Branded Top Header**
-      
-      **£75.00 + Vat**
   - title: "How It Works"
     image: "/images/products/the-vault/the-vault-7.jpg"
     body: |

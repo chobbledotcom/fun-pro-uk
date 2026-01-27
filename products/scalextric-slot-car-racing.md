@@ -103,6 +103,10 @@ faqs:
     answer: "The setup and takedown time for a Scalextric slot car racing setup can typically be completed within 30 minutes to an hour."
   - question: "How far in advance should I book the slot car racing setup?"
     answer: "We recommend booking the Scalextric slot car racing setup well in advance, especially if you're holding events during peak seasons. Booking 1-2 weeks in advance can help ensure availability. And if you need help planning your event, our team can help you with that too."
+add_ons:
+  options:
+    - name: "Branded Skirt - Crash Barriers"
+      price: 495
 tabs:
   - title: "Why Scalextric Slot Car Racing?"
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
@@ -130,8 +134,6 @@ tabs:
       You can rest assured that the scalextric slot car racing hire and other equipment will arrive in top condition, and ready-for-use at your event.
       
       In-house [exhibition game branding service](/categories/branded-exhibition-games/#content) is available. We will print, apply, and remove them after each event.
-      
-      (One time use only)
       
       Need a longer hire period?
       
@@ -210,15 +212,9 @@ tabs:
       
       Don't miss out on the opportunity to upgrade your event with our Scalextric slot car racing hire service. [Contact us today](/contact-fun-pro-uk/#content) to book our equipment for your next event in Birmingham, Leicester, London, or any other location in the UK!
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Branded Skirt - Crash Barriers**
-      
-      **£495**\+ vat**
   - title: "How It Works"
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-17.jpg"
     body: |

@@ -63,6 +63,10 @@ faqs:
     answer: "2-8 players per game can play depending on mode. For larger groups, consider multiple units or tournament formats where players rotate."
   - question: "How far in advance should we book?"
     answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/#content) for last-minute availability."
+add_ons:
+  options:
+    - name: "&pound;195 + VAT"
+      price: 195
 tabs:
   - title: "Why Electronic Dart Board?"
     image: "/images/products/electronic-dart-board/electronic-dart-board-3.jpg"
@@ -160,10 +164,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      BRANDING PRICES FROM
-      
-      **£195 + VAT**
       
       ## Book Electronic Dart Board Hire
       

@@ -44,6 +44,20 @@ gallery:
   - "/images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/758621f53627ec37fb3d3d83bf81fe6d"
+add_ons:
+  options:
+    - name: "Playing Field x 4"
+      price: 320
+    - name: "Back board"
+      price: 390
+    - name: "Game skirt"
+      price: 390
+    - name: "Waves section"
+      price: 290
+    - name: "Characters x 4"
+      price: 330
+    - name: "Fully branded"
+      price: 2000
 tabs:
   - title: "Why 8 Lane Roll & Bowl Donkey Derby?"
     image: "/images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg"
@@ -77,32 +91,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Branding Prices from:**
-      
-      **Playing Field x 4**
-      
-      **£320**\+ vat**
-      
-      **Back board**
-      
-      **£390**\+ vat**
-      
-      **Game skirt**
-      
-      **£390**\+ vat**
-      
-      **Waves section**
-      
-      **£290**\+ vat**
-      
-      **Characters x 4**
-      
-      **£330**\+ vat**
-      
-      **Fully branded**
-      
-      **£2000**\+ vat**
   - title: "How It Works"
     body: |
       

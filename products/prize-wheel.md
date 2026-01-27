@@ -59,6 +59,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f8b8eec90251a65de225e06ff29111cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0"
+add_ons:
+  options:
+    - name: "Branded Wheel"
+      price: 140
+    - name: "Branded Base"
+      price: 50
+    - name: "Full Branding"
+      price: 190
 tabs:
   - title: "Why Prize Wheel?"
     image: "/images/products/prize-wheel/prize-wheel-4.jpg"
@@ -92,10 +100,6 @@ tabs:
       **£**395**\+ vat**
       
       Delivered and installed on site by our trained team
-      
-      In-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
       
       \*Delivery Charges & Minimum order value may apply
       
@@ -174,23 +178,9 @@ tabs:
       
       Searching for popular branded prize game hire for your next corporate exhibition or sales event? Look no further, contact us via email today.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Branded Wheel**
-      
-      **£140**\+ vat**
-      
-      **Branded Base**
-      
-      **£50**\+ vat**
-      
-      **Full Branding**
-      
-      **£190**\+ vat**
   - title: "How It Works"
     image: "/images/products/prize-wheel/prize-wheel-3.jpg"
     body: |

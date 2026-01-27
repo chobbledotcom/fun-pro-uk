@@ -64,6 +64,11 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/309c7ca51daa303ee58db79c226d1e97"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/09d9245a0dfcaf880507a4ab7a20d7b4"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/65a14af4364b497717c424304c8d4f80"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Front panel branding Per unit"
+      price: 110
 tabs:
   - title: "Why Corn Hole?"
     image: "/images/products/corn-hole/corn-hole-10.jpg"
@@ -235,16 +240,6 @@ tabs:
       **Staffing**
       
       Optional (self-explanatory game, but staff available)
-      
-      **Branding prices**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Front panel branding Per unit**
-      
-      **£110**\+ vat**
   - title: "How It Works"
     image: "/images/products/corn-hole/corn-hole-9.jpg"
     body: |

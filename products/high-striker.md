@@ -65,6 +65,11 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1e28d14c512b85a5e654a0da1b28a2c3"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30512d60bf22e6fa6d8e85b889855315"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branding the High Strike"
+      price: 145
 tabs:
   - title: "Why High Striker?"
     image: "/images/products/high-striker/high-striker-7.jpg"
@@ -144,16 +149,6 @@ tabs:
       **Branding**
       
       As with many of our games we stock, the High Striker game can be branded in your company colours and Logo's. The game can either be fully wrapped or the front panel can be printed in house for your corporate event or brand activation.
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branding the High Strike**
-      
-      **£145**\+ vat**
   - title: "How It Works"
     image: "/images/products/high-striker/high-striker-6.jpg"
     body: |

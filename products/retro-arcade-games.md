@@ -85,6 +85,12 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6e09e805472eec594f4e7d5d67b866a7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0a49f02511e4d6e1e274f842897006b5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4e258fa20804dd835c8ae6e52f2501ae"
+add_ons:
+  options:
+    - name: "Front panel"
+      price: 150
+    - name: "Branded Front & Sides Panels"
+      price: 295
 tabs:
   - title: "Why RETRO ARCADE GAMES?"
     image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
@@ -191,16 +197,6 @@ tabs:
       **Some of the areas we deliver to  
         
       West Midlands, Manchester, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering,, Hinckley, Solihull, Stratford up on Avon**
-      
-      **Branding Prices from:**
-      
-      **Front panel**
-      
-      **£150**\+ vat**
-      
-      **Branded Front & Sides Panels**
-      
-      **£295**\+ vat**
   - title: "How It Works"
     image: "/images/products/retro-arcade-games/retro-arcade-games-15.jpg"
     body: |

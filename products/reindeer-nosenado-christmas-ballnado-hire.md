@@ -59,6 +59,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fe6d7d6cc66710102e63af66df0639d1"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/dd71299eb71e6110c5f31856fefa1325"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/380c932e88e1d86366d0c8481137025b"
+add_ons:
+  options:
+    - name: "Front panel branding"
+      price: 110
+    - name: "Back full length panel branding"
+      price: 145
+    - name: "Header Branding panels"
+      price: 175
 tabs:
   - title: "Why Reindeer Nosenado (Christmas Ballnado Hire )?"
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
@@ -142,23 +150,9 @@ tabs:
       
       Check out our other popular Christmas party game hire products for your forthcoming parties.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Front panel branding**
-      
-      **£110**\+ vat**
-      
-      **Back full length panel branding**
-      
-      **£145**\+ vat**
-      
-      **Header Branding panels**
-      
-      **£175**\+ vat**
   - title: "How It Works"
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
     body: |

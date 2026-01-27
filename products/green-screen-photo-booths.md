@@ -94,6 +94,11 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22f81d05da8f53be1f43d5f2efbd805"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/11c1ef42f97c72071d5cc5cccfdf7818"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db"
+add_ons:
+  intro: "In-house branding available Printed, applied & removed after each event"
+  options:
+    - name: "Branded back panels"
+      price: 650
 tabs:
   - title: "Why GREEN SCREEN PHOTO BOOTHS?"
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg"
@@ -214,16 +219,6 @@ tabs:
       If you want your event to be truly memorable, then green screen dream machine hire is just what you are looking for to get your guests talking, and keep them talking for weeks to come. We deliver nationwide, just let us know where you need us.
       
       Naturally, this top of the range photo booth is extremely popular, so book now to secure your preferred date, or talk to our team for expert events planning advice.
-      
-      **Branding Prices from:**
-      
-      In-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      **Branded back panels**
-      
-      **£650**\+ vat**
   - title: "How It Works"
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-25.jpg"
     body: |

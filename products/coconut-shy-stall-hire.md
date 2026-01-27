@@ -53,6 +53,11 @@ faqs:
     answer: "Yes, absolutely. All of our products, including the Coconut Shy Stall can be fully customised with your company or event branding, logo and colours."
   - question: "Are staff provided to manage the Coconut Shy stall during events?"
     answer: "If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "&pound;195"
+      price: 195
 tabs:
   - title: "Why Coconut Shy Stall Hire?"
     image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
@@ -139,15 +144,7 @@ tabs:
       
       No. You can offer a variety of prizes when playing this game during your event.
       
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
       Brand the rear half wall of the inside of the stall with your brand from:
-      
-      **£195**\+ vat**
   - title: "How It Works"
     body: |
       

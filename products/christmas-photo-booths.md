@@ -82,6 +82,11 @@ faqs:
       It's the best way to spread the holiday cheer and share the fun of your event with their friends and followers online. Plus, it also creates a lively social media presence for your brand or event.
   - question: "How long can we hire the Christmas photo booth for our event?"
     answer: "We offer flexible [game hire options](/#content) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Branded full wrap"
+      price: 750
 tabs:
   - title: "Why CHRISTMAS PHOTO BOOTHS?"
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
@@ -135,9 +140,7 @@ tabs:
       Rest assured that our Christmas photo booth hire and its other accessories will arrive in top condition, and ready-for-use at your event.
       
       In-house photo booth branding is available. We will print, apply, and remove them after each event.  
-        
-      (One time use only)  
-        
+      
       Need a longer hire period?  
         
       Contact us for custom pricing and availability.
@@ -196,16 +199,6 @@ tabs:
       *   [Dance machine](/products/dance-machine/#content)
       *   [Retro arcade machine](/products/retro-arcade-games/#content)
       *   [Giant buzz wire](/products/giant-buzz-wire/#content)
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Branded full wrap**
-      
-      **£750**\+ vat**
   - title: "How It Works"
     image: "/images/products/christmas-photo-booths/christmas-photo-booths-2.jpg"
     body: |

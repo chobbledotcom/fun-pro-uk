@@ -69,6 +69,12 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1e3a673d1f71f8426434cf9e66bd146"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5463ebf2f6ee8ba66947266f9e8cf317"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b"
+add_ons:
+  options:
+    - name: "Branded back panels"
+      price: 125
+    - name: "Branded Discs"
+      price: 50
 tabs:
   - title: "Why Plinko Game Hire?"
     image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
@@ -127,17 +133,9 @@ tabs:
         
       The Plinko Game is available in the standard red and white design alternatively, you can opt to brand your own Plinko Game by using your company logo design to be fitted on the backboard of the game underneath the pins which will ensure to enhance your brand activation matching the colours of your stand and promotional products.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Branded back panels**
-      
-      **£125**\+ vat**
-      
-      **Branded Discs**
       
       **£**50** + vat
   - title: "How It Works"

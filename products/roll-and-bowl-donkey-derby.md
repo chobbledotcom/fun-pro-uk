@@ -63,6 +63,20 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/abb56c4961cc314e9a5a0194b7dbbb5e"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ae3e390984baa36de60da48a2a2e4ef"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a"
+add_ons:
+  options:
+    - name: "Playing Field x 4"
+      price: 320
+    - name: "Back board"
+      price: 195
+    - name: "Game skirt"
+      price: 195
+    - name: "Waves section"
+      price: 145
+    - name: "Characters x 4"
+      price: 165
+    - name: "Fully branded"
+      price: 1020
 tabs:
   - title: "Why Roll & Bowl Donkey Derby?"
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg"
@@ -127,35 +141,9 @@ tabs:
       
       For a no-obligation quote or to make your order, simply contact Fun Pro UK today. We can't wait to hear from you.
       
-      **Branding Prices from:**
-      
       In\-house branding available Printed, applied & removed after each event
       
       (One time use only)
-      
-      **Playing Field x 4**
-      
-      **£320**\+ vat**
-      
-      **Back board**
-      
-      **£195**\+ vat**
-      
-      **Game skirt**
-      
-      **£195**\+ vat**
-      
-      **Waves section**
-      
-      **£145**\+ vat**
-      
-      **Characters x 4**
-      
-      **£165**\+ vat**
-      
-      **Fully branded**
-      
-      **£1020**\+ vat**
   - title: "How It Works"
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-28.jpg"
     body: |

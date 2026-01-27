@@ -44,6 +44,21 @@ gallery:
   - "/images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg"
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
+add_ons:
+  intro: "In-house branding available. We print, apply, and remove them after each event."
+  options:
+    - name: "Playing Field x 4"
+      price: 320
+    - name: "Back board"
+      price: 390
+    - name: "Game skirt"
+      price: 390
+    - name: "Waves section"
+      price: 290
+    - name: "Characters x 4"
+      price: 330
+    - name: "Fully branded"
+      price: 2000
 tabs:
   - title: "Why 8 Lane Reindeer Racing?"
     image: "/images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg"
@@ -77,36 +92,6 @@ tabs:
       Can not be carried up or down flights of stairs.
       
       Lift required
-      
-      **Branding Prices from:**
-      
-      In-house branding available. We print, apply, and remove them after each event.
-      
-      (One time use only)
-      
-      **Playing Field x 4**
-      
-      **£320**\+ vat**
-      
-      **Back board**
-      
-      **£390**\+ vat**
-      
-      **Game skirt**
-      
-      **£390**\+ vat**
-      
-      **Waves section**
-      
-      **£290**\+ vat**
-      
-      **Characters x 4**
-      
-      **£330**\+ vat**
-      
-      **Fully branded**
-      
-      **£2000**\+ vat**
   - title: "How It Works"
     body: |
       
