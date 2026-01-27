@@ -152,6 +152,11 @@ const scanProductCategories = () => {
       }
     }
 
+    // Skip if this is an event category (these are handled by scanEventProducts)
+    if (EVENT_CATEGORIES.includes(categorySlug)) {
+      return;
+    }
+
     // Add each found product to the map with this category
     foundSlugs.forEach(productSlug => {
       if (!productCategoriesMap.has(productSlug)) {
@@ -179,7 +184,7 @@ const scanProductCategories = () => {
 const scanProductCategoriesFromFileStructure = () => {
   const productCategoriesMap = new Map();
   const { listHtmlFilesRecursive } = require('./filesystem');
-  
+
   const categoryDir = path.join(config.OLD_SITE_PATH, 'category');
   const allFiles = listHtmlFilesRecursive(categoryDir);
 
@@ -192,6 +197,11 @@ const scanProductCategoriesFromFileStructure = () => {
     if (parts.length >= 2) {
       const categorySlug = parts[0]; // e.g., "arcade-games"
       const productSlug = parts[parts.length - 1].replace('.html', ''); // e.g., "roller-bowler"
+
+      // Skip if this is an event category (these are handled by scanEventProducts)
+      if (EVENT_CATEGORIES.includes(categorySlug)) {
+        return;
+      }
 
       if (!productCategoriesMap.has(productSlug)) {
         productCategoriesMap.set(productSlug, []);
@@ -231,6 +241,49 @@ const mergeCategoryMaps = (map1, map2) => {
   });
 
   return merged;
+};
+
+/**
+ * Scan product files in EVENT_CATEGORIES directories to get event assignments
+ * based on where the product file physically resides
+ * @returns {Map<string, string[]>} Map of product slug to array of event paths
+ */
+const scanEventProductsFromFileStructure = () => {
+  const productEventsMap = new Map();
+  const { listHtmlFilesRecursive } = require('./filesystem');
+
+  const categoryDir = path.join(config.OLD_SITE_PATH, 'category');
+  const allFiles = listHtmlFilesRecursive(categoryDir);
+
+  // Filter out top-level category files (keep only product files in subdirectories)
+  const productFiles = allFiles.filter(f => f.relativePath.includes(path.sep));
+
+  productFiles.forEach(fileInfo => {
+    // Extract category and product slug from path like "company-award-ceremonies/11/classic-photo-booths.html"
+    const parts = fileInfo.relativePath.split(path.sep);
+    if (parts.length >= 2) {
+      const categorySlug = parts[0]; // e.g., "company-award-ceremonies"
+      const productSlug = parts[parts.length - 1].replace('.html', ''); // e.g., "classic-photo-booths"
+
+      // Only process if this is an event category
+      if (!EVENT_CATEGORIES.includes(categorySlug)) {
+        return;
+      }
+
+      if (!productEventsMap.has(productSlug)) {
+        productEventsMap.set(productSlug, []);
+      }
+
+      const events = productEventsMap.get(productSlug);
+      // Use events/slug.md format
+      const eventPath = `events/${categorySlug}.md`;
+      if (!events.includes(eventPath)) {
+        events.push(eventPath);
+      }
+    }
+  });
+
+  return productEventsMap;
 };
 
 /**
@@ -347,14 +400,47 @@ const getProductCategoriesMap = () => {
 };
 
 /**
+ * Merge two event maps, combining events for each product
+ * @param {Map<string, string[]>} map1
+ * @param {Map<string, string[]>} map2
+ * @returns {Map<string, string[]>} Merged map
+ */
+const mergeEventMaps = (map1, map2) => {
+  const merged = new Map(map1);
+
+  map2.forEach((events, productSlug) => {
+    if (!merged.has(productSlug)) {
+      merged.set(productSlug, []);
+    }
+    const existingEvents = merged.get(productSlug);
+    events.forEach(evt => {
+      if (!existingEvents.includes(evt)) {
+        existingEvents.push(evt);
+      }
+    });
+  });
+
+  return merged;
+};
+
+/**
  * Get the product-to-events mapping
+ * Combines file structure analysis with event page link scanning
  * @returns {Map<string, string[]>} Map of product slug to array of event paths
  */
 const getProductEventsMap = () => {
+  console.log('  Scanning event categories from file structure...');
+  const structureMap = scanEventProductsFromFileStructure();
+  console.log(`    Found ${structureMap.size} products from event category file structure`);
+
   console.log('  Scanning event pages for product links...');
-  const eventsMap = scanEventProducts();
-  console.log(`    Found ${eventsMap.size} products linked from events`);
-  return eventsMap;
+  const linksMap = scanEventProducts();
+  console.log(`    Found ${linksMap.size} products linked from event pages`);
+
+  const merged = mergeEventMaps(structureMap, linksMap);
+  console.log(`  Total: ${merged.size} products with event mappings`);
+
+  return merged;
 };
 
 /**
@@ -384,6 +470,7 @@ module.exports = {
   scanCategoryProducts,
   scanProductCategoriesFromFileStructure,
   scanEventProducts,
+  scanEventProductsFromFileStructure,
   getProductCategoriesMap,
   getProductEventsMap,
   extractProductSlug
