@@ -40,7 +40,8 @@
 			"external_purchases": false,
 			"event_locations_and_dates": false,
 			"no_index": true,
-			"parent_categories": false
+			"parent_categories": false,
+			"add_ons": true
 		},
 		"hasSrcFolder": false,
 		"customHomePage": true
