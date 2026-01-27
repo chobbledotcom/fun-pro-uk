@@ -17,6 +17,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: source
+          fetch-depth: 1
+          sparse-checkout-cone-mode: true
+          sparse-checkout: |
+            /*
+            !old_site
 
       - name: Checkout Chobble Template
         uses: actions/checkout@v4
@@ -24,6 +29,7 @@ jobs:
           repository: chobble-mirror/chobble-template
           ref: main
           path: template
+          fetch-depth: 1
           sparse-checkout-cone-mode: false
           sparse-checkout: |
             .eleventy.js
