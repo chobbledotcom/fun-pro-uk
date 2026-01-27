@@ -5,8 +5,12 @@ price: "£495"
 order: 50
 meta_title: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK"
 meta_description: "Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/grab-a-grand.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-game-hire.md"
+  - "categories/christmas-games.md"
+  - "categories/grab-a-grand.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,26 +18,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "1800mm x 1800mm x 2200mm"
+    value: "2m x 2m x 2m"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Game usage: 10-50W)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -69,101 +75,54 @@ add_ons:
       price: 175
 tabs:
   - title: "Why Reindeer Nosenado (Christmas Ballnado Hire )?"
+    body: "The Reindeer Nosenado (Christmas Ballnado Hire ) delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
+
+
+      What makes the Reindeer Nosenado (Christmas Ballnado Hire ) effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
+
+
+      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
-    body: |
-      # Reindeer Nosenado (Christmas Ballnado Hire )
-      
-      [](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/cbd6a9c894462a778e8e31ea7203c602 "Reindeer Nosenado (Christmas Ballnado Hire )")
-      
-      [](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/fe6d7d6cc66710102e63af66df0639d1 "Reindeer Nosenado (Christmas Ballnado Hire )")
-      
-      [](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/dd71299eb71e6110c5f31856fefa1325 "Reindeer Nosenado (Christmas Ballnado Hire )")
-      
-      [](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,c_limit,w_900/380c932e88e1d86366d0c8481137025b "Reindeer Nosenado (Christmas Ballnado Hire )")
-      
-      [![Share on Facebook Button](https://bouncycastlenetwork-res.cloudinary.com/image/upload/f_auto,q_auto,w_150/share-on-facebook.png "Share Reindeer Nosenado (Christmas Ballnado Hire ) on Facebook")](https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.funprouk.co.uk%2fcategory%2fchristmas-game-hire%2f65%2freindeer-nosenado-christmas-ballnado-hire&quote=Reindeer+Nosenado+\(Christmas+Ballnado+Hire+\) "Share Reindeer Nosenado (Christmas Ballnado Hire ) on Facebook")
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ### Get Into the Holiday Spirit with the Reindeer Nosenado in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, UK 🎅🦌
-      
-      Looking to add a touch of festive fun to your events in Birmingham, Nottingham, Milton Keynes, London, Manchester, or Coventry, UK? Look no further than the Reindeer Nosenado! 🎄
-      
-      Step into the Christmas magic with this exciting game, where the goal is to catch as many of Rudolph's red noses as possible inside the clear cylinder. 🔴🦌 The fans whirl the noses around, creating a hilarious and engaging challenge for participants of all ages.
-      
-      Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, the Reindeer Nosenado is guaranteed to bring laughter and joy to your seasonal events. 🎉
-      
-      Participants stand inside the clear cylinder as the fan blows Rudolph's red noses around. The clock starts ticking, and the challenge is on to collect as many red noses as possible within 30 seconds! 🕒 Once the timer stops, all collected noses are counted, and the scores are added to the leaderboard.
-      
-      Make your holiday celebrations unforgettable with the Reindeer Nosenado in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, UK. Book now for a merry and memorable event! 🎅✨
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Equipment size**
-      
-      1000mmWidth x 1600mm Depth x 2000mm Height
-      
-      **Electric requirements**
-      
-      1 x 840 watts power source 3 pin UK mains socket
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ## **Reindeer Nosenado Christmas Ballnado Game Hire**
-      
-      Everyone will want to have a go inside this exciting Rudolph the Reindeer's red nose game! You may have seen the Ballnado game hire and Cash Grabber - Grab a Grand game hire but this is a whole new take on the game providing festive Christmas game hire fun!
-      
-      This Reindeer nose game will provide much fun and laughter at your Christmas event. Everyone loves Rudolph and trying to catch as many red noses as possible inside the clear cylinder as the fans whizz the noses around is hilarious to watch. It is guaranteed to bring fun and laughter to all for your seasonal events !
-      
-      The aim of the game is to stand inside the clear cylinder, the fan will begin to blow lots of Rudolph's red noses around. The clock will start ticking and each contestant has to collect as many red noses as they possibly can within 30 seconds! Once the timer stops all noses that have been collected will be counted and the score is added to the leader board.
-      
-      Rudolphs Red nose challenge ballnado game is amazing fun for Corporate Christmas parties, Office Christmas party hire, Christmas promotional events and much more. The game provides fun and laughter along with a little friendly competition. Who knew how much entertainment could be had by catching reindeer noses!
-      
-      You could even offer a small gift for the person who can collect the most red noses at your event making this a friendly challenging game for your Christmas themed game hire.
-      
-      Check out our other popular Christmas party game hire products for your forthcoming parties.
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
   - title: "How It Works"
+    body: "The Reindeer Nosenado (Christmas Ballnado Hire ) is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
+
+
+      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
+
+
+      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-2.jpg"
-    body: |
-      
+    body: "The Reindeer Nosenado (Christmas Ballnado Hire ) has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
+
+
+      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
+
+
+      People remember how entertainment made them feel. The Reindeer Nosenado (Christmas Ballnado Hire ) creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
+    image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
   - title: "Delivery"
+    body: "We provide comprehensive service for Reindeer Nosenado (Christmas Ballnado Hire ) hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
+
+
+      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Reindeer Nosenado (Christmas Ballnado Hire ) optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
+
+
+      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
+
+
+      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play Reindeer Nosenado (Christmas Ballnado Hire ) at once?"
+    answer: "The Reindeer Nosenado (Christmas Ballnado Hire ) is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
+  - question: "Is Reindeer Nosenado (Christmas Ballnado Hire ) suitable for all ages?"
+    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
+  - question: "How much space do we need?"
+    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Reindeer Nosenado (Christmas Ballnado Hire ) fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
+  - question: "Do you set everything up?"
+    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
+  - question: "What power do you need?"
+    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
 ---
 

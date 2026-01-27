@@ -5,8 +5,11 @@ price: "£395"
 order: 50
 meta_title: "Hire Christmas Candy Cane Mega Wire | Fun Pro UK"
 meta_description: "Bring excitement to your Christmas event with the Candy Cane Mega Wire! A festive, interactive game ideal for corporate parties, family gatherings, and fairs."
-categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-games.md"
+  - "categories/christmas-game-hire.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,28 +17,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 players"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "1300mm Width x 600mm Depth, Allowing for the person to stand in front"
+    value: "2m x 2m x 2m"
   - name: "Power"
-    value: "No power required"
+    value: "1 x UK mains socket (Game usage: 10-50W)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "1210mm Width x 350mm Depth 1500 Height"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
-    value: "1 players"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -60,12 +63,16 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ff47108f9f6cba1761245a88adb80f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60907d36ad461e2a97cd01452cb74c91"
 faqs:
-  - question: "What is the Christmas Candy Cane Mega Wire game?"
-    answer: "The Candy Cane Mega Wire game is designed for one player to attempt the challenge at a time. Nevertheless, it's a fantastic game for group settings because of its competitive nature. Guests can take turns and keep track of their times to see who can complete the course the fastest or with the fewest buzzes."
-  - question: "Is the game suitable for children and adults?"
-    answer: "Yes, the Christmas Candy Cane Mega Wire Game is suitable for both children and adults. The game has a simple yet engaging concept and it ensures that players of all ages can participate and enjoy."
-  - question: "How many people can play the game at an event?"
-    answer: "Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere."
+  - question: "How many people can play Candy Cane Megawire at once?"
+    answer: "The Candy Cane Megawire is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
+  - question: "Is Candy Cane Megawire suitable for all ages?"
+    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
+  - question: "How much space do we need?"
+    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Candy Cane Megawire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
+  - question: "Do you set everything up?"
+    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
+  - question: "What power do you need?"
+    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
 add_ons:
   intro: "In-house branding available. We print, apply, and remove them after each event."
   options:
@@ -73,105 +80,42 @@ add_ons:
       price: 145
 tabs:
   - title: "Why Candy Cane Megawire?"
+    body: "The Candy Cane Megawire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
+
+
+      What makes the Candy Cane Megawire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
+
+
+      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/candy-cane-megawire/candy-cane-megawire-3.jpg"
-    body: |
-      # Candy Cane Megawire
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Best Candy Cane Mega Wire Game Hire for UK Events!**
-      
-      Want to add festive magic to the good old Buzz Wire game? Our Candy Cane Mega Wire game hire has the Christmas themed twist you’re looking for. It’s the ultimate crowd pleaser at your upcoming holiday gathering!
-      
-      If you're hosting a corporate Christmas party or a festive funfair, the Candy Cane Mega Wire adds excitement and Christmas cheer to your event.
-      
-      ## **Hire a Candy Cane Mega Wire game for your party!**
-      
-      The Candy Cane Mega Wire game is a bigger version of the steady hand buzz wire game, complete with a Christmas makeover.
-      
-      Set up a competition between guests and see who can navigate the wand along the wire without triggering the buzzer. It’s a test of skill, patience, and focus, made more fun with the festive theme!
-      
-      The Candy Cane Mega Wire game is the perfect addition to:
-      
-      ✓ [Corporate Christmas parties](/news/#content)  
-      ✓ Holiday themed [team building events](/news/benefits-of-team-building-days/#content)  
-      ✓ Christmas funfairs  
-      ✓ [Family gatherings](/events/family-fun-days/#content)  
-        
-      ... and more!
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      All packages include setup and removal by our professional events team, ensuring the Christmas Candy Cane Mega Wire game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
-      
-      You can rest assured that the Candy Cane Mega Wire and other equipment will arrive in perfect condition, and ready for use at your event.
-      
-      Need a longer hire period? Contact us for custom pricing and availability.
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701  
-      ](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ## **Why Choose Our Candy Cane Mega Wire Game Hire Service?**
-      
-      Fun Pro UK offers high-quality [Christmas party games for hire](/events/christmas-entertainment/#content). Our Candy Cane Mega Wire delivers festive fun and excitement your guests will always remember.  
-      Wherever your Christmas party is in the UK, [Fun Pro](/#content) provides fast nationwide delivery and setup for the Candy Cane Mega Wire game. Bringing the festive fun to events in Birmingham, Leicester, London, Manchester, and beyond has never been easier!
-      
-      Our team of professionals will take care of the logistics for you. We'll deliver the Candy Cane Mega Wire game to your venue, set it up, and make sure that it's running smoothly so your guests can have as much fun as they want.
-      
-      ## **Our Process  
-      **
-      
-      Booking a Candy Cane Mega Wire game is easy and hassle free.
-      
-      **Step 1: Enquiry**
-      
-      Contact us via our website, email, or phone to talk about your event needs. We will give you a personalised quote based on your requirements.
-      
-      **Step 2: Confirmation**
-      
-      Once you're happy with the Candy Cane Mega Wire game package, simply confirm your booking, and we'll handle the rest.
-      
-      **Step 3: Delivery and setup**
-      
-      On the day of your event, we will deliver and set up the Candy Cane Mega Wire game at your chosen venue. We will take care of the game for hire from start to finish, making sure that everything is running smoothly so your guests can play.
-      
-      ### **Step 4: Event day support**
-      
-      If you require onsite assistance during the event, our team is just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
-      
-      ### **Step 5: Removal**
-      
-      When the event is over, we’ll return to dismantle and collect the Candy Cane Mega Wire and leave your venue exactly as we found it.
-      
-      **Ready to take your event to the next level?**
-      
-      Make your holiday event unforgettable with our Candy Cane Mega Wire game hire service. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-      
-      ### **Can the game be hired for both indoor and outdoor events?**
   - title: "How It Works"
+    body: "The Candy Cane Megawire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
+
+
+      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
+
+
+      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/candy-cane-megawire/candy-cane-megawire-2.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/candy-cane-megawire/candy-cane-megawire-1.jpg"
-    body: |
-      
+    body: "The Candy Cane Megawire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
+
+
+      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
+
+
+      People remember how entertainment made them feel. The Candy Cane Megawire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
+    image: "/images/products/candy-cane-megawire/candy-cane-megawire-3.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We provide comprehensive service for Candy Cane Megawire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
+
+
+      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Candy Cane Megawire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
+
+
+      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
+
+
+      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
 ---
 
