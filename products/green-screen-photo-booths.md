@@ -5,7 +5,10 @@ price: "£450"
 order: 50
 meta_title: "Green Screen Photo Booth Hire, Photo Booths Hire Manchester"
 meta_description: "Looking for green screen photo booth hire near you? Ideal for parties, corporate events, and more. UK-wide delivery available. Call today to reserve!"
-categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
+categories:
+  - "categories/photo-booths-and-magic-mirrors.md"
+  - "categories/arcade-games.md"
+  - "categories/christmas-grotto-hire.md"
 events: []
 featured: true
 features:
@@ -14,26 +17,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "Groups of 1-8"
   - name: "Space Required"
-    value: "1600mm Width x 1800mm Depth"
+    value: "2.5m x 2m x 2.5m"
   - name: "Power"
-    value: "1 x 500 watt power source 3 pin mains UK power socket"
+    value: "1 x UK mains socket (Game usage: 10-50W)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "1200mmm Width x 1200mm Depth x 2000mm Height"
+    value: "2m x 1.5m x 2.2m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "50-300 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "20-30 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "Groups of 1-8"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -101,135 +106,56 @@ add_ons:
       price: 650
 tabs:
   - title: "Why GREEN SCREEN PHOTO BOOTHS?"
+    body: "The GREEN SCREEN PHOTO BOOTHS creates lasting memories whilst solving the challenge of keeping guests engaged at corporate events. This modern photo entertainment system provides instant prints, digital sharing, and branding opportunities, making it valuable for 20-30 minutes.
+
+
+      What sets professional photo entertainment apart is how it combines fun with marketing value. Guests receive branded prints to take home, digital copies they share on social media extending your event's reach, and the experience creates those relaxed moments where colleagues genuinely connect.
+
+
+      With sessions lasting 50-300 guests, the GREEN SCREEN PHOTO BOOTHS accommodates large guest numbers whilst ensuring everyone gets quality photo experiences. The technology handles everything automatically - guests simply step in, follow prompts, and receive professional results. It's particularly effective for events where you want tangible takeaways, social media content, or documentation of your company culture in action."
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg"
-    body: |
-      # GREEN SCREEN PHOTO BOOTHS
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Unleash the Fun with Green Screen Photo Booths in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, UK! 📸
-      
-      Looking to elevate your event with a touch of magic? Our Green Screen Photo Booths are the ultimate choice for conferences, well-being days, exhibitions, fun days, and brand activations. 🎉
-      
-      ### The Green Screen Dream Machine Experience
-      
-      With over 1400 backgrounds, six print styles, and a range of creative props, your guests will have a blast creating unforgettable photos. Whether it's themed backgrounds, branded images, or custom layouts, the possibilities are endless with our advanced photo booth. 🌟
-      
-      ### Complete Photo Booth Package
-      
-      Our all-inclusive service offers unlimited guest visits, double prints in color or monochrome, and a private cloud-based link for easy photo sharing. Personalize every image with names or logos, and choose from various booth covers to suit your event. 🎩📸
-      
-      Each hire includes a friendly operator to guide your guests through the features, ensuring they make the most of this interactive experience. Let us bring the wow factor to your event and leave a lasting impression on your attendees! 💼✨
-      
-      **3 Hour hire from**
-      
-      **4 Hour hire from**
-      
-      **£495**\+ vat**
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular items:**
-      
-      *   [Red Carpet and Gold Railings](/products/red-carpet-and-4-gold-stanchions/#content)
-      *   [Magic Mirror](/products/magic-mirror/#content)
-      
-      ## Green Screen Photo Booth Hire
-      
-      Green screen photo booth hire gives your guests the chance to create amazing, unforgettable pictures using a huge variety of backgrounds and locations, themes and layouts, from comic strips to wanted posters, magazine covers to worldwide postcards. The green screen dream machine is the most advanced photo booth on the market and is guaranteed to impress your guests, fire their imaginations and make them feel great about your company.
-      
-      ### A choice of photo booths
-      
-      ![Green screen booths](/userfiles/file/FunPro/img-20180708-wa0037.jpg) Your green screen dream machine hire offers over 1400 backgrounds to choose from and six different print styles. Our expert team can even work with you to create images that match your promotion, including your company logo, slogan or event details, integrating your photo booth hire into the heart of any event. And just like our [classic photo booths](/products/classic-photo-booths/#content), we can [brand the outside](/products/bespoke-photo-booth-hire/#content) too, creating a real draw at an exhibition or trade show
-      
-      ### A complete service
-      
-      Your photo booth hire package includes:
-      
-      *   Unlimited guest visits
-      *   2 prints per visit each in colour, b&w or sepia tones
-      *   Green screen back ground
-      *   Props to make the pictures even more creative
-      *   Private cloud based link to your photos sent after your event
-      *   The chance to brand every image with names or Caption.
-      *   Choice of exterior booth covers
-      *   Member of staff
-      *   Up to 3-4 hours hire (extra time available)
-      
-      To help your guests to get the best of the incredible features, every green screen photo booth hire comes complete with a friendly operator. They'll walk your each visitor through all the outstanding options available and open their minds to the amazing picture possibilities.
-      
-      **Increase Party Fun with a Green Screen Photo Booth Hire!**
-      
-      Photo booths are always fun but you can make them even better with a green screen photo booth hire for your next party event.
-      
-      Photo booths are a great way to encourage interaction and fun for all ages of party or company events. If you’ve been wanting to host an activity at your event but been uncertain what exactly to do, one or two of our green screen booths is sure to add that extra touch of fun to your next party.
-      
-      **How Is Green Screen Different Than a Regular Photo Booth?**
-      
-      With the traditional photo booths, you and your friends would go behind the curtain, pose, and press the button.
-      
-      You’d receive your strip of photos that you could keep as memories of the fun day you had together. A green screen means that is the background of the photo booth, but this also allows for you to choose your background that will appear on the final prints and images.
-      
-      There are a wide range of backgrounds that can be chosen based on your party theme, whether it’s a holiday, a wedding, or a birthday party. The organizer of the party can pre-choose the green screen theme, or you can allow your guests to choose from one to three options.
-      
-      **Photo Booth Decoration**
-      
-      If you want your green screen photo booth hire to blend in with your event, it too can be decorated. The front side can be decorated to encourage people to visit the photo booth.
-      
-      Text at the bottom says, “This Way”. The Western theme suggests that ladies touch up their lips while men brush their moustaches. There is also a formal man dressed in a suit holding a cocktail, or two different Santa holiday themes.
-      
-      If you need a party theme, there are choices of a white walled lounge, or a leopard print, or just a plain black background.
-      
-      **Where Do I Get Photo Booths for Hire Manchester?**
-      
-      If you’re in Manchester or region then you can hire a green screen photo booth hire from Fun Pro UK on our Green Screen Photo Booths page. We handle all the work for you, so all you need to do is choose your venue and the perfect location in your party rental room for the booth.
-      
-      We handle the delivery and the setup. We’ll have staff on hand to assist with the photos and to handle the photo booth supplies and technical details.
-      
-      **What If Guests Want Copies of the Photos?**
-      
-      One photo booth visit will provide two prints to the guests, in their choice of full colour, sepia tone, or black and white. There is also an option to receive photos after the event through a link, so guests can download or print as they wish.
-      
-      If you’re ready for some amazing and unforgettable party fun, please reach out to us for more information. For years afterward, everyone will look at the photos and remember all the fun they had because you booked photo booths for hire Manchester!
-      
-      Original and memorable
-      
-      If you want your event to be truly memorable, then green screen dream machine hire is just what you are looking for to get your guests talking, and keep them talking for weeks to come. We deliver nationwide, just let us know where you need us.
-      
-      Naturally, this top of the range photo booth is extremely popular, so book now to secure your preferred date, or talk to our team for expert events planning advice.
   - title: "How It Works"
+    body: "The GREEN SCREEN PHOTO BOOTHS is incredibly straightforward for guests to use. They step into the booth, follow the simple on-screen prompts, and receive instant prints of their photos. The whole experience takes 3-5 minutes, allowing hundreds of guests to participate throughout your event.
+
+
+      We handle all the technical setup, which takes approximately Standard door width / Can be carried upstairs. This includes positioning the booth, loading photo paper, and testing everything works perfectly. Unlimited prints are included throughout your event.
+
+
+      We can provide various props and backdrops to match your theme, and all photos can be branded with your company logo or event details. Digital copies are also available, making it easy for guests to share their photos on social media."
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-25.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-24.jpg"
-    body: |
-      
+    body: "Photo booths have staying power at events because they provide something tangible to take home. Unlike other entertainment that's enjoyed and forgotten, guests leave with physical mementos that sit on desks, get shared with families, and keep your event memorable for months afterwards.
+
+
+      What makes the GREEN SCREEN PHOTO BOOTHS particularly popular is how it brings out people's playful side. Even the most reserved colleagues relax when there's props and silly hats involved. These moments of genuine fun create the kind of positive associations with your company culture that formal team building rarely achieves.
+
+
+      The social media element extends your event's reach far beyond attendees. Guests share their photos online, tag colleagues, and generate authentic content that showcases your event's success. It's marketing value that happens naturally."
+    image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg"
   - title: "Delivery"
+    body: "We provide comprehensive service for GREEN SCREEN PHOTO BOOTHS hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
+
+
+      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the GREEN SCREEN PHOTO BOOTHS optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
+
+
+      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
+
+
+      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-23.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play GREEN SCREEN PHOTO BOOTHS at once?"
+    answer: "The GREEN SCREEN PHOTO BOOTHS is designed for Groups of 1-8. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
+  - question: "Is GREEN SCREEN PHOTO BOOTHS suitable for all ages?"
+    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
+  - question: "How much space do we need?"
+    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the GREEN SCREEN PHOTO BOOTHS fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
+  - question: "Do you set everything up?"
+    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 20-30 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
+  - question: "What power do you need?"
+    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "Do you provide staff to run the game?"
+    answer: "We can provide experienced, friendly staff to manage the game throughout your event. This is particularly helpful for corporate events where you want to focus on your guests rather than worrying about the entertainment. We'll discuss staffing options when you get your quote."
 ---
 
