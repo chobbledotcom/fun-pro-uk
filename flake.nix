@@ -14,6 +14,7 @@
             "sync-files" = "bun scripts/sync-files.js";
             watch = "bun scripts/watch.js";
             "update-pages" = "bun scripts/update-pages.js";
+            "update-scripts" = "bun scripts/update-scripts.js";
             "fetch-google-reviews" = "bun scripts/fetch-google-reviews.js";
             "optimize-images" = "./scripts/optimize-images.sh";
             clean = "rm -rf .build";
