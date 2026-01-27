@@ -1,7 +1,7 @@
 ---
 title: "CHRISTMAS GROTTO 1"
 subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
-price: ""
+price: "£695"
 order: 50
 meta_title: "Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK"
 meta_description: "Blow-up Santa&#39;s Grotto for Christmas! Perfect for places with a lot of children&#39;s footfall - suitable for fundraisers, shopping centres, schools &amp; more."
@@ -39,7 +39,7 @@ filter_attributes:
     value: "Individual visits"
 options:
   - name: "1 Day"
-    unit_price: 0
+    unit_price: 695
     days: 1
 redirect_from:
   - "/category/christmas-grotto-hire/17/christmas-grotto-1/"
