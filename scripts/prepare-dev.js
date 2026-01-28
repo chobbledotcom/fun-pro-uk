@@ -5,6 +5,7 @@ import { bun, find, fs, git, path, root, rsync } from "./utils.js";
 const build = path(buildDir);
 const template = path(buildDir, "template");
 const dev = path(buildDir, "dev");
+const localTemplate = join(root, "..", "chobble-template");
 
 const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*", ".image-cache"];
 const rootExcludes = [
@@ -24,7 +25,10 @@ export const prep = () => {
   console.log("Preparing build...");
   fs.mkdir(build);
 
-  if (!fs.exists(join(template, ".git"))) {
+  if (fs.exists(localTemplate)) {
+    console.log("Using local template from ../chobble-template...");
+    rsync(localTemplate, template, { delete: true, exclude: [".git", "node_modules"] });
+  } else if (!fs.exists(join(template, ".git"))) {
     console.log("Cloning template...");
     fs.rm(template);
     git.clone(templateRepo, template);
