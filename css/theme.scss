@@ -2516,6 +2516,7 @@ div.fun-pro-item {
     a.button {
       @include button-white;
       width: 100%;
+      margin-bottom: calc(var(--gap-items) / 2);
     }
     .add-to-cart {
       @include button-red;
