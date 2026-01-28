@@ -2592,34 +2592,26 @@ div.fun-pro-item {
   #tabs {
     @include card;
     background: white;
-    height: 550px;
     margin: 0;
 
     & > ul {
-      height: 100%;
-      grid-template-rows: 32px 1fr;
-      padding: 0;
-    }
-
-    .tab {
-      width: fit-content;
-      align-content: center;
-      a {
-        font-weight: 500;
-        color: #181a1f;
-        border-bottom: 2px solid transparent;
-        transition: border-color 0.3s ease-in-out;
-      }
-      &.active a,
-      a:active,
-      a:hover {
-        border-bottom-color: #009dd7;
-        text-decoration: none;
+      li {
+        a {
+          font-weight: 500;
+          color: #181a1f;
+          border-bottom: 2px solid transparent;
+          transition: border-color 0.3s ease-in-out;
+        }
+        &.active a,
+        a:active,
+        a:hover {
+          border-bottom-color: #009dd7;
+          text-decoration: none;
+        }
       }
     }
-    .body {
+    & > div {
       height: calc(100% - var(--section-padding-half));
-      gap: var(--section-padding-half);
       h1,
       h2,
       h3,
