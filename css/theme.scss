@@ -607,7 +607,8 @@ body {
         ul {
           @include list-reset;
           @include flex-row(var(--section-padding));
-          margin: var(--section-padding-half) 0;
+          margin: var(--section-padding-half) 0 0;
+          justify-content: center;
 
           strong {
             font-size: 16px;

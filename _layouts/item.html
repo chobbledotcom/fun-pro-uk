@@ -66,9 +66,9 @@ layout: base
   </div>
 </div>
 
-<div class="add-ons">
+{% if add_on and add_on.length > 0 %}
   {% include "product-add-ons.html" %}
-</div>
+{% endif %}
 
 {%- if specs -%}
   <div class="big-specs">
