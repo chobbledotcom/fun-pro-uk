@@ -614,6 +614,8 @@ body {
             font-size: 16px;
             font-weight: 500;
             line-height: normal;
+            display: block;
+            margin-bottom: calc(var(--gap-items) / 2);
           }
           .price {
             color: #009dd7;
