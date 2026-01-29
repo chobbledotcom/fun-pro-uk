@@ -5,13 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire"
 meta_description: "Book the Gold Cup horse race simulator for your events, parties, and fun days. We deliver across the UK. Contact us today to reserve your spot and get started!"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/christmas-grotto-hire.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/prize-games.md"
-  - "categories/pub-games.md"
+categories: ["categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -20,28 +14,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-2 players"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "2500mm x 3500mm x 1200mm"
+    value: "2500mm Width x 3500mm Depth, Allowing for 4 people to stand at the front"
   - name: "Power"
-    value: "1 x mains UK power socket (Wattage usage 5-16 watts)"
+    value: "1 x mains UK power socket (Wattage usage 5-16 watts"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "2000mm x 2500mm x 1200mm"
+    value: "2000mm Width x 2500mm Depth 1200 Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "5-16W"
+    value: "TBD"
   - name: "Player Count"
-    value: "1-2 players"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -73,54 +67,128 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f0f13d02b59bf579c6ed081c4d9416f6"
 tabs:
   - title: "Why GOLD CUP HORSE RACING?"
-    body: "The GOLD CUP HORSE RACING brings realistic racing action to corporate events, offering genuine driving simulation that creates competitive excitement. With professional-grade controls and immersive displays, this entertainment suits 15-20 minutes whilst delivering authentic experiences.
-
-
-      What makes racing simulators compelling is their dual appeal - providing genuine challenge for enthusiasts whilst remaining accessible for casual players. The realistic physics create satisfying gameplay, 20-200 guests allows meaningful competition, and the leaderboard system generates ongoing engagement throughout your event.
-
-
-      The spectator experience is equally important - watching colleagues navigate challenging corners, celebrate overtakes, and occasionally crash spectacularly creates entertainment for everyone, not just the person playing. This makes racing simulators particularly valuable for longer events where you need entertainment that maintains energy levels and gives people reasons to gather and socialise."
     image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg"
+    body: |
+      # GOLD CUP HORSE RACING
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Hire Gold Cup Horse Racing through the UK including Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry
+      
+      🐎 Are you looking to add a touch of excitement and fun to your next event? Look no further than our exhilarating Gold Cup Horse Racing simulation! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, this interactive experience is sure to engage your guests and leave a lasting impression.
+      
+      ### Experience the Thrill of Horse Racing:
+      
+      Each jockey picks their horse, gripping the handles on the horse's head, ready to race to victory! 🏆 Pump those arms and watch your trusty steed charge along the racing table with authentic grass texture, creating a true equestrian atmosphere. With realistic horse racing commentary adding to the excitement, the competition heats up as four lifelike horses await their brave jockeys.
+      
+      ### Benefits of Hiring Gold Cup Horse Racing:
+      
+      ⭐ Increase attendee engagement and create memorable experiences  
+      ⭐ Boost brand visibility and customer interaction  
+      ⭐ Drive footfall and enhance event participation  
+      ⭐ Offer a unique and entertaining activity for all ages
+      
+      Don't miss out on the opportunity to elevate your event with the Gold Cup Horse Racing experience! Hire now to ensure a day filled with laughter, competition, and unforgettable moments for your guests.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      Popular items:
+      
+      *   [Race Car Simulators](/products/racing-car-simulators/#content)
+      *   [Top Doc](/products/top-doc-operation-game/#content)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Pick N Mix](/products/pix-n-mix-hire/#content)
+      
+      ## **Gold Cup Horse Racing Hire**
+      
+      Have you ever wanted to be a jockey? Well now you can let your guests test out their horse racing skills with up to four players at the time racing to the finish line.
+      
+      ## Perfect for any horse racing event
+      
+      Fun Pro UK's Gold Cup Horse Racing Game is essential at any horse racing event. Alongside exhibitions, team building events and award nights. Each race is quick allowing high footfall to your stall at shows or more turns for each guest at a private event.
+      
+      **Bring Horse Racing to Your Next Event**
+      
+      It’s fun to go to the races but if you have a special event planned, whether family-oriented, or a corporate or company party, then you likely have several activities planned.
+      
+      Horse races are fun, but you need to figure out a way to bring them to your event, rather than having your guests travel to the race track.
+      
+      Did you know that you can book a horse racing simulator hire for your event that will be fun for everyone?
+      
+      **Why Arcade Game Hire Is the Best**
+      
+      Going to the races may be simple, but it may be hard to coordinate such an event at your local racetrack.
+      
+      You’ll have to worry about getting everyone there and organized. Instead, the gold cup horse racing arcade game hire can be delivered to your corporate headquarters or rental meeting room.
+      
+      This game is set within a white fence in a rectangular shape. This protects the game. There are 4 coloured “horses” or long paddles that the player stands over. Each of four spots is for one player, so up to four players can play at once.
+      
+      **How Can You Do Horse Racing Inside?**
+      
+      There is actually a big screen at the end of the game set. At each of the four spots is also a black arcade game controller. You press the buttons to move and get ahead.
+      
+      The progress of you as the horse jockey on your horse is shown on the screen. But there’s no need to head to the outdoors which may have bad weather, and no need to climb up onto a horse and try to figure out how to ride. Instead, you can play this horse racing simulator hire from a small location indoors.
+      
+      **How to Book Gold Cup Horse Racing?**
+      
+      You can hire gold cup horse racing game by visiting our Fun Pro UK site. There are various communication methods so you can choose whichever one you prefer.
+      
+      We also have more than the hire gold cup horse racing game, we have various other floor or tabletop types of games you can rent or hire too.
+      
+      If you’re hosting a larger event, then you’ll want to have several activities to keep people entertained, and to avoid any long lineups to play the games. We can also answer any questions you may have.
+      
+      You’ll want to ensure you have plenty of space to place this game on the floor at your venue, with room at front with your four players, and perhaps some space for onlookers to watch. Please consider additional room in case you have a long lineup!
+      
+      When you hire gold cup horse racing game everyone can have fun at the event. Best of all, four people can play at the same time, so you won’t have to worry about a super long line forming.
+      
+      Be sure to book early for your Christmas party or other event because this is a popular option at conventions, parties, and other gatherings!
+      
+      Funpro UK offer our horse racing game for hire service in your area
+      
+      Here are just some of the local areas we deliver to not forgetting we cover the whole of the UK:
+      
+      And if you don’t see your area in our list below give us a call to find out if we can still help.
+      
+      West Midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, Stratford up on Avon
+      
+      ## How to win!
+      
+      Guests place their legs either side of their chosen horse &' each player can pick from green, red, yellow and blue, holding on to the handle players gallop their way to the finishing line. The faster you gallop, the quicker you'll be crowned the ultimate jockey.
+      
+      This game is not just fun for those playing, it will draw the crowds to watch others take on the test to become the winner.
   - title: "How It Works"
-    body: "The GOLD CUP HORSE RACING provides realistic racing experiences with proper steering wheels, pedals, and immersive displays. Players choose their vehicle and track, then compete for the fastest lap times. Each race typically lasts 2-5 minutes, allowing good throughput at events.
-
-
-      We handle professional setup, which takes around Minimum door width 0.6m. This includes positioning the simulator, testing all controls, and ensuring perfect calibration. The system runs continuously throughout your event with minimal supervision needed.
-
-
-      For competitive events, we can display live leaderboards showing the fastest times. This creates ongoing excitement as players try to beat each other's records. We can also provide staff to manage the simulator if you'd prefer hands-off entertainment."
     image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-5.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Racing simulators tap into something universally appealing - the thrill of competition and the satisfaction of mastering a skill. Even people who've never played racing games find themselves drawn in, trying just one more lap to beat their personal best.
-
-
-      What makes the GOLD CUP HORSE RACING a crowd favourite is the spectator experience. Watching colleagues navigate challenging corners, celebrating impressive overtakes, and witnessing spectacular crashes creates shared entertainment that involves everyone, not just the person currently playing.
-
-
-      The competitive element means people return throughout your event. They check the leaderboard, try to improve their position, and recruit supporters to cheer them on. This ongoing engagement keeps energy levels high and gives structure to longer events."
-    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg"
+    image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-4.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for GOLD CUP HORSE RACING hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the GOLD CUP HORSE RACING optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg"
-faqs:
-  - question: "How many people can play GOLD CUP HORSE RACING at once?"
-    answer: "The GOLD CUP HORSE RACING is designed for 1-2 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is GOLD CUP HORSE RACING suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the GOLD CUP HORSE RACING fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

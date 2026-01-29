@@ -5,17 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"
 meta_description: "Retro Arcade Games Machines To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/christmas-game-hire.md"
-  - "categories/christmas-games.md"
-  - "categories/christmas-grotto-hire.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/pub-games.md"
-events:
-  - "events/christmas-entertainment-game-hire.md"
+categories: ["categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/christmas-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -23,28 +14,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "2 players"
   - name: "Space Required"
-    value: "1000mm x 1500mm x 1700mm"
+    value: "1000mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 22-26)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "600mm x 750mm x 1700mm"
+    value: "600mm Width x 750mm Depth x 1400mm Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
+    value: "TBD"
   - name: "Player Count"
-    value: "1-4 players"
+    value: "2 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -95,6 +86,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0a49f02511e4d6e1e274f842897006b5"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4e258fa20804dd835c8ae6e52f2501ae"
 add_ons:
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Front panel"
       price: 150
@@ -102,54 +102,121 @@ add_ons:
       price: 295
 tabs:
   - title: "Why RETRO ARCADE GAMES?"
-    body: "The RETRO ARCADE GAMES delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1000mm x 1500mm x 1700mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the RETRO ARCADE GAMES effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
+    body: |
+      # RETRO ARCADE GAMES
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Unleash Nostalgia with RETRO ARCADE GAMES Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry 🕹️
+      
+      Looking to add a touch of fun to your next event or corporate gathering? Our RETRO ARCADE GAMES hire service is the perfect choice! 🎮
+      
+      ### What We Offer:
+      
+      Our classic arcade hire is an excellent addition to conferences, well-being days, exhibitions, and fun days, enhancing engagement and excitement. With a two-player option, your team can compete head-to-head, fostering team spirit and friendly competition. Choose from a library of up to 60 iconic games including Pac Man, Space Invaders, Frogger, 1944, pinball, Galaxian, and Donkey Kong, ensuring endless entertainment for all participants. 🚀
+      
+      ### Why Choose Us:
+      
+      By opting for our RETRO ARCADE GAMES hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, or Coventry, you not only elevate the entertainment factor of your event but also create lasting memories for attendees. The immersive gaming experience is a sure way to increase engagement, boost morale, and encourage interaction among guests. 🎉
+      
+      Ready to level up your event with RETRO ARCADE GAMES hire? Contact us today to bring the nostalgic charm of arcade gaming to your next gathering! 🌟
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      Popular items:
+      
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   [Race Car Simulators](/products/racing-car-simulators/#content)
+      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/#content)
+      *   [Pic N Mix](/products/pix-n-mix-hire/#content)
+      
+      ## **Retro Arcade** Games Hire
+      
+      **Ready Player One?**
+      
+      Remember the golden age of video games, when you and your mates crowded round the big, boxy games machine at your local arcade, to zap flying saucers and chase dots with voracious Pac Men? Well now you can relive those nostalgic challenges with our retro arcade games for hire.
+      
+      **Arcade Machines Are Ideal For Exhibitions**
+      
+      With loads of lights and colour, bleeps and blasts, your classic arcade console is certainly going to get the attention of anyone and everyone at your trade show or exhibition. It's small enough to fit on almost any stand, but can make a big impact on visitor numbers and overall engagement.
+      
+      **One or two players**
+      
+      Our classic arcade hire is also a great investment for company fun days too, with the two player option allowing your team to go head to head with their colleagues or take on their rivals and play their way to the top. There are up to 60 different games to choose from, from Pac Man, Space invaders, Frogger, 1944 to pinball, Galaxian to Donkey Kong, so you'll never run out of ideas for what to play next
+      
+      **Arcade Game Hire Is Addictive Fun**
+      
+      Classic video game hire will be a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or [corporate event](/categories/corporate-entertainment/#content), or for bringing in new clients and customers at an open day.
+      
+      **Get Arcade Games Hire for Your Next Special Event**
+      
+      It may not be feasible to have your party visit an arcade to play fun retro video games, but they can certainly come to you instead.
+      
+      Everyone remembers the fun arcade games of the 80s, and many are still around today. Going to an arcade used to be a fun way to entertain ourselves, and also offered a way to play against a friend or two.
+      
+      If you’re trying to think up unique ways to keep people entertained at your next big indoor event, an arcade games for rent may be what you’ve been seeking.
+      
+      **What Kinds of Arcade Games Can We Play?**
+      
+      If you’re seeking retro arcade machines for hire, then there are many options. Our company offers for rental retro arcade games that have been proven to be addictive over the past few decades.
+      
+      You can choose from one or all of the following: Pac Man, Pinball, Galaxian, and Donkey Kong. And if that’s not enough, we also have the Cash Grabber, sporting games such as Electronic Basketball, and the Dance Machine.
+      
+      There is plenty to keep your guests amused for an hour or two. These arcade games are suitable for one single player, but since you’re hiring for an event, two players should be encouraged for each game. You may want to offer a small prize for each winner too.
+      
+      **How Do I Get Retro Arcade Games to My Next Event?**
+      
+      If you love the idea of retro games machines to rent but don’t believe you have room in your car to collect the game and bring to your event, then don’t worry.
+      
+      We handle the transportation for you, as well as the setup and then the removal at the end of the event. What we do need to ensure though is that there is a proper power outlet so your game or games can be plugged in.
+      
+      Most of the arcade machines for hire also need to be indoors, but if you are having an outdoor event we can provide some suggestions, or offer something that’s going to be under cover of a tent.
+      
+      You can find arcade games for hire here on our Fun Pro UK website, and then the specific arcade games at the Retro Games Rental page.
+      
+      You can message or call us for more details. Please note that we do book up fast, so the sooner you know your corporate event dates or party event dates, the sooner we can get our arcade games hire reserved for you.
+      
+      Please reach out to us now so that we can provide a quote to you. The quote includes everything you need, including the equipment delivery and set up, staff, and even special rates for multiple days or double or more item hires.
+      
+      Arcades games are for everyone to play. If you’re uncertain how many arcades you need, please reach out to us and we can offer an estimate based on how many people you have attending your next big event.
+      
+      Why not create your own amusement arcade by adding our [twin basketball challenge game](/products/electronic-basket-ball-hire/#content) or our authentic [racing car simulators](/products/racing-car-simulators/#content) for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event. Just tell us what you need and we we'll take care of all the details. We deliver UK wide including Birmingham, Coventry, Leicester, Milton Keynes, Manchester and London.
+      
+      **Where Do I Get Arcade Games Hire?**
+      
+      **Some of the areas we deliver to  
+        
+      West Midlands, Manchester, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering,, Hinckley, Solihull, Stratford up on Avon**
   - title: "How It Works"
-    body: "The RETRO ARCADE GAMES is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/retro-arcade-games/retro-arcade-games-15.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The RETRO ARCADE GAMES has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The RETRO ARCADE GAMES creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
+    image: "/images/products/retro-arcade-games/retro-arcade-games-14.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for RETRO ARCADE GAMES hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the RETRO ARCADE GAMES optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/retro-arcade-games/retro-arcade-games-13.jpg"
-faqs:
-  - question: "How many people can play RETRO ARCADE GAMES at once?"
-    answer: "The RETRO ARCADE GAMES is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is RETRO ARCADE GAMES suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the RETRO ARCADE GAMES fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

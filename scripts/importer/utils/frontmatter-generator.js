@@ -460,9 +460,15 @@ ${optionsYaml}`;
   // Add add_ons (branding prices) if present
   if (brandingPrices?.options && brandingPrices.options.length > 0) {
     frontmatter += "\nadd_ons:";
-    if (brandingPrices.intro) {
-      frontmatter += `\n  intro: "${escapeYamlString(brandingPrices.intro)}"`;
-    }
+    frontmatter += `\n  intro: |`;
+    frontmatter += `\n    ## {{ title }} Branding and Customisation Options`;
+    frontmatter += `\n`;
+    frontmatter += `\n    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.`;
+    frontmatter += `\n`;
+    frontmatter += `\n    ### Branding Prices From`;
+    frontmatter += `\n`;
+    frontmatter += `\n    In-house branding available. We print, apply, and remove them after each event.`;
+    frontmatter += `\n    (One time use only)`;
     frontmatter += "\n  options:";
     for (const option of brandingPrices.options) {
       frontmatter += `\n    - name: "${escapeYamlString(option.name)}"`;

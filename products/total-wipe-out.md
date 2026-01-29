@@ -5,9 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, UK"
 meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories:
-  - "categories/corporate-entertainment.md"
-  - "categories/fun-days.md"
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features:
@@ -16,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "2m x 2m x 2m"
+    value: "7000mm Width x 7000mm Depth x 2000mm Height"
   - name: "Power"
-    value: "1 x UK mains socket (Game usage: 10-50W)"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1.5m x 1.5m x 1.8m"
+    value: "6400mm Width x 6400mm Depth 2000 Height"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor or outdoor use, only Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Drive on access"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -54,53 +50,118 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b857fd4a67fed05224b0f7ed7dc24e36"
 tabs:
   - title: "Why TOTAL WIPE OUT?"
-    body: "The TOTAL WIPE OUT delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the TOTAL WIPE OUT effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/total-wipe-out/total-wipe-out-3.jpg"
+    body: |
+      # TOTAL WIPE OUT
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## **Total Wipeout Game Hire**
+      
+      **3 hour hire from**
+      
+      **4 hour hire from**
+      
+      **£550**\+ vat**
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular items**
+      
+      *   [Hungry hippo/ Dash and Grab](/products/dash-and-grab-hungry-hippo-inflatable-game/#content)
+      *   [Human football](/products/human-table-football/#content)
+      *   [75ft Assault](/products/inflatable-assault-courses/#content)
+      *   [Bungee run](/products/bungee-run/#content)
+      
+      ## **Total Wipeout**
+      
+      The amazing Wipeout swinging arm game is inspired by the likes of TVs 'It's a Knockout' and 'Total Wipeout'. You can almost hear Richard Hammond crying with laughter as your team try their luck, only to get knocked for six by the swinging arms.
+      
+      Wipeout challenge hire will get everyone involved in the fun, whether they are taking part or just taking pictures, making it a huge hit on your company fun day for colleagues, families and guests alike.
+      
+      **Here it comes!**
+      
+      The idea is simple, just jump or duck as the two arms swing past, to avoid getting knocked off your podium. But don't worry if you do get dislodged, because there's a soft landing guaranteed on our squidgy inflatable floor.
+      
+      The total Wipeout for hire game takes up to six contestants at a time, so you can play winner stays on, or put winners through to a grand final to decide the overall champion.
+      
+      **Brilliant team building**
+      
+      It may seem like a solo game, but wipe out challenge hire is actually great for team building, with your teammates shouting instructions from the side lines to warn you what is coming. You can even get teams of four to work together in the same round, calling the shots as the arms swings round to see how long they can last against the clock.
+      
+      **Hire Total Wipeout Party Game**
+      
+      Many party goers want to do more than simply lazing around drinking soft drinks and eating foods, they want to do activities too.
+      
+      But instead of your standard arcade games or playing football, you can up the stakes with a total wipeout hire. If you haven’t seen this game before, then your friends and family are going to have a whole lot of fun, and you can even offer a prize for the team who wins.
+      
+      **What is the Total Wipeout Game?**
+      
+      This game involves the total wipe out inflatable. You may have also heard it called the last man standing inflatable game.
+      
+      It involves a big inflatable that looks like a pool, but that isn’t filled with water. Instead, you and other people stand in the middle, trying to avoid two long poles that swing back and forth.
+      
+      Each person stands on a small blue or red circular platform, without touching the “water” or blue base of the game. To avoid the poles, each player must either duck or jump over the poles.
+      
+      If the poles hit them, knocking them into the “pool” then they’re out of the game. The game is played until there is only one person left standing.
+      
+      **Can You Be In Teams?**
+      
+      If you’re considering getting a total Wipeout hire then you’re probably wondering if this game can be played in teams.
+      
+      Yes, it can be. You can have two team mates on each side. Each person can watch out for their partner, offering a warning when the poles are heading back their way. Team mates can assist each other so the game lasts longer.
+      
+      ## **Is the Total Wipeout Inflatable Game Fun?**
+      
+      Yes, this is a fun game for children (aged eight plus years), teens and adults. The inflatable padded part of the game provides protection from injuries while still giving players a chance to avoid being hit by the poles.
+      
+      But if you are hit, then you can have fine falling down into the inflatable pit. It can be fun and entertaining watching the other team lose too.
+      
+      **How to Rent the Last Man Standing Inflatable Game?**
+      
+      You can browse our Fun Pro UK website and head to our Total Wipeout game page. Here you’ll find out information about how the game works, and the specifications for your event and also how to hire the total wipeout game
+      
+      At the bottom of the page is an enquiry form so you can send your questions or a message that you’re ready to book for your next event or party.
+      
+      The more information you can supply to us, such as event dates and times, the better we’ll be able to assist you in booking the inflatable total wipeout for hire at your next big party event.
+      
+      If you believe that our total wipe out hire will be the perfect party hire for your next event, please reach out to us to discover the next step.
+      
+      Soon everyone will be looking forward to your next company or family event. It will certainly be one to remember when people have fun on the total Wipeout hire game.
+      
+      **Hilarious fun**
+      
+      Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a wipe out game a real winner all round for your company fun day. You can even add to the excitement with other fun day inflatables for hire, including a choice of two [inflatable assault courses](/products/inflatable-assault-courses/#content) and our crazy [human table football](/products/human-table-football/#content).
+      
+      If you're planning a event, talk to our team today for the best [company fun day ideas](/categories/fun-days/#content) and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
   - title: "How It Works"
-    body: "The TOTAL WIPE OUT is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/total-wipe-out/total-wipe-out-2.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The TOTAL WIPE OUT has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The TOTAL WIPE OUT creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/total-wipe-out/total-wipe-out-3.jpg"
+    image: "/images/products/total-wipe-out/total-wipe-out-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for TOTAL WIPE OUT hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the TOTAL WIPE OUT optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
-faqs:
-  - question: "How many people can play TOTAL WIPE OUT at once?"
-    answer: "The TOTAL WIPE OUT is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is TOTAL WIPE OUT suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the TOTAL WIPE OUT fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

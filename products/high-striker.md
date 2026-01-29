@@ -5,12 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Hire High Striker, Fairground Game High Striker To Rent, UK"
 meta_description: "Hire Our High Striker Game For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/prize-games.md"
+categories: ["categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:
@@ -19,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "800mm x 1600mm x 3100mm"
+    value: "800mm Width x 1.600mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "No power"
+    value: "No power required"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "600mm x 600mm x 3100mm"
+    value: "600mm Width x 600mm Depth x 3100mm Height"
   - name: "Suitability"
-    value: "Level surface"
+    value: "Indoor or Outdoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -73,60 +66,108 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30512d60bf22e6fa6d8e85b889855315"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85"
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Branding the High Strike"
       price: 145
 tabs:
   - title: "Why High Striker?"
-    body: "The High Striker delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 800mm x 1600mm x 3100mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the High Striker effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/high-striker/high-striker-7.jpg"
+    body: |
+      # High Striker
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      **Try Something New with our High Striker Games for Rent**
+      
+      If you’re seeking to book games rentals for your next big event then you should include some old favourites from fairs and adventure parks, as well as some other games they won’t be expecting.
+      
+      You can hire high striker, which is also a traditional fair game, but likely not one that your attendees will be expecting!
+      
+      Corporate events can be tedious, but just imagine the surprise on their faces when they see that there are some fun events to try during breaks, or for a fun and eventful afternoon.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **What Is the Hire High Striker Game?**
+      
+      You’ve probably seen the high striker game before. It’s a common activity at festivals, fairs, and exhibitions. It is in the form of a tall red structure. There is a bell at the top, and a circular base.
+      
+      There are progressive measurements along the vertical column. The focus of a high striker game to rent is for the participant to hold a heavy hammer in their hands. They swing the black hammer at the circular striking point on the base.
+      
+      The lever slides up. If a player is accurate and strong, the level may go all the way up and hit the bell. That’s the winner! If the lever doesn’t make its way all the way up, the player can record how far they did get on the measurements scale.
+      
+      **Where Can I Find a UK Striker Game Rental?**
+      
+      This is a fun game for all ages to play. You can hire high striker for your next corporate event if your company is located within the UK.
+      
+      This game takes a minimum amount of time to play, so you won’t have any long line ups, such as with some of the other electronic arcade games. It also takes up a minimum of space on the floor.
+      
+      The high striker game to rent is the perfect way to add some additional fun to your next big event!
+      
+      **Can I Customise the High Striker Game?**
+      
+      Yes, if you are going to be at an exhibition with other exhibitors then you will want to customise your high striker game.
+      
+      As long as you give us plenty of notice, we can brand it in your company colours and logos. You have the option to have the entire game fully wrapped (don’t worry, it’s removable after your event), or to just have the front panel printed.
+      
+      We have in-house printers who can create the graphics and install the wrap for you. Whether you’re at an exhibition, or you have your own corporate event, this is a great way to add some recognition to your brand.
+      
+      If you’re ready to add some fun to your next event, you’ll want to hire fairground high striker game right now! As soon as the date is confirmed for your next corporate event you’ll want to book with us to avoid disappointment.
+      
+      Your next event is going to be so much fun that everyone will be looking forward to the next one!
+      
+      **Who can ring the bell?**
+      
+      Test your ultimate strength with this all new game from Fun Pro UK. The High Striker is a popular fun fair game ensuring everyone will want a go!
+      
+      Every man woman and child will be raring to have a go and prove just how strong they are or aren't!
+      
+      Simply hold the heavy hammer and hit the base of the High Striker game. Watch the striker rise up the tall 10 foot pole. Can you get it to the top and ring that bell?.
+      
+      The High Striker fun fair game is a popular attraction for both adults and children, it is guaranteed to bring out everyone's competitive streak!
+      
+      This game works as a great crowd pleasure leading it to be a popular exhibition stand game, product launch addition and brand activation tool.
+      
+      **Branding**
+      
+      As with many of our games we stock, the High Striker game can be branded in your company colours and Logo's. The game can either be fully wrapped or the front panel can be printed in house for your corporate event or brand activation.
   - title: "How It Works"
-    body: "The High Striker is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/high-striker/high-striker-6.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The High Striker has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The High Striker creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/high-striker/high-striker-7.jpg"
+    image: "/images/products/high-striker/high-striker-5.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for High Striker hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the High Striker optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/high-striker/high-striker-4.jpg"
-faqs:
-  - question: "How many people can play High Striker at once?"
-    answer: "The High Striker is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is High Striker suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the High Striker fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

@@ -5,14 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Hire Table Football, Football Tables For Rent Near Me, UK"
 meta_description: "Table Football For Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979676"
-categories:
-  - "categories/corporate-entertainment.md"
-  - "categories/arcade-games.md"
-  - "categories/christmas-grotto-hire.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/pub-games.md"
+categories: ["categories/corporate-entertainment.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -23,24 +16,24 @@ specs:
   - name: "Players"
     value: "2-4 players"
   - name: "Space Required"
-    value: "1600mm x 1000mm x 880mm"
+    value: "1600mm Length x 1000mm Width , Allowing for the persons to stand either end"
   - name: "Power"
-    value: "No power required"
+    value: "No Power required"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "570mm x 1444mm x 880mm"
+    value: "1444mm Length x 570mm Width x 880mm Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
+    value: "TBD"
   - name: "Player Count"
     value: "2-4 players"
 options:
@@ -83,7 +76,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3585f13bb7c65c405209e00945573707"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/30d70c3f03c771d66088d5c82fe34cc8"
 add_ons:
-  intro: "In-house branding available Printed, applied & removed after each event"
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Branded Goal ends"
       price: 75
@@ -93,54 +94,160 @@ add_ons:
       price: 225
 tabs:
   - title: "Why FOOTBALL TABLES?"
-    body: "The FOOTBALL TABLES delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1600mm x 1000mm x 880mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the FOOTBALL TABLES effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/football-tables/football-tables-11.jpg"
+    body: |
+      # FOOTBALL TABLES
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## FOOTBALL TABLES for Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, UK
+      
+      **Bring the fun and excitement of table football to your next event with our top-of-the-line Football Tables for hire!** 🎉
+      
+      ### Experience the Thrill of Table Football 🥅
+      
+      Also known as foosball, table football is a fast-paced game that is perfect for 2-4 players. With twist handles to control the players and guide the ball into the opponent's goal, the competitive spirit is always high! ⚽
+      
+      ### Professional Tournament Quality 🏆
+      
+      Our tournament-quality football tables feature a super-fast glass playfield, providing the ultimate playing experience for enthusiasts and amateurs alike. 🌟
+      
+      ### Perfect for Every Occasion 🎉
+      
+      Whether you're hosting a corporate event, a conference after-party, a fun-filled retro games night, or a promotion, our full-size foosball tables are sure to be a hit! 🎈
+      
+      ### Custom Branding Available 🎨
+      
+      Take your event to the next level by branding our football tables with your logo or design. Perfect for increasing brand visibility and engagement at exhibitions, fun days, and brand activations. 🚀
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular items Hire along side**
+      
+      *   **[Race cars simulators](/products/racing-car-simulators/#content)**
+      *   **[Batak Pro](/products/batak-pro/#content)**
+      *   **[Dance Machine](/products/dance-machine/#content)**
+      *   **[Pix N Mix](/products/pix-n-mix-hire/#content)**
+      
+      ## Nationwide Football Table Hire
+      
+      Think you are the next Cristiano Ronaldo? How about the next Gareth Bale?
+      
+      You can now put your skills to the test against your opponent in a thrilling, heart pounding match of table football! Playing in a 1-2-5-3 formation, get your backs to pass forwards dodging your opponent with your striker ready to boot into the back of the net.
+      
+      ## Bring Table Football to Your Indoor Event
+      
+      Playing football may sound like a fun activity for your next big corporate or family event, but you may realize that you simply don’t have the outdoor space to do so.
+      
+      There may also be no guarantees that the weather will be nice in the fall or winter, so an indoor event is a better option. The next best idea is to hire table football for your next event.
+      
+      This is a great way to provide entertainment for your guests, but doesn’t take up a lot of space in your conference or meeting room.
+      
+      ## What Are Football Tables for Rent?
+      
+      If you’ve ever been to an arcade or a fair then you may have played the football table.
+      
+      This is a game that is set up on a table, with several rubber paddles that are attached to poles that can be pulled in or out and be twisted around in a clockwise or counterclockwise direction.
+      
+      There are four poles for each player. The other player doesn’t have access to the other player’s controls. Unlike some of the other modern versions of this game, this is completely manual, not electronic, making it much funnier to play.
+      
+      The goal of the game is to play your opponent with a round of football. There is a small football in the game that you must get to your competitor’s goal to win the game.
+      
+      But just like in real football, your opponent can block you with their plastic paddles, or they can also aim for your own goal to win the game. When the winner scores a goal, the ball will flow through the goalpost and then fall down into a hole.
+      
+      The loser can retrieve the ball from the bottom side for another round.
+      
+      ### **Table Football for Hire Fun**
+      
+      People want to do more at events than sit around at tables, listening to seminars or eating and drinking.
+      
+      There should be some opportunities for them to get up and move around. You should have games, such as when you hire table football for your event.
+      
+      The game doesn’t take up much space, and two opponents can play each other. You can even add in an incentive, such as a small prize, that the winner can receive after a few winning rounds.
+      
+      ### **Where Can I Find Table Football for Hire?**
+      
+      You can find table football for hire here at our Fun Pro UK website if your company or event is held within our region.
+      
+      You can visit our site and try our online chat function, send a message, or give us a call. We also have many different types of indoor tabletop games so you can book several games for your next event.
+      
+      If you’re uncertain what to book, please reach out to us and we can provide some assistance.
+      
+      Once you’ve booked your venue you can contact us for your hire table football rental. You should book early, because we have only a limited quantity of these tables.
+      
+      More gatherings are happening this year and next, so avoid disappointment and book a football table now.
+      
+      Fun Pro UK offer our football tables for hire service in your area
+      
+      Here are just some of the local areas we deliver to not forgetting we cover the whole of the UK:
+      
+      And if you don’t see your area in our list below give us a call to find out if we can still help.
+      
+      *   West midlands
+      *   Birmingham
+      *   Coventry
+      *   Warwick
+      *   Warwickshire
+      *   Kenilworth
+      *   Leamington Spa
+      *   Rugby
+      *   Leicester
+      *   Nottingham
+      *   Derby
+      *   Northampton
+      *   Loughborough
+      *   Nuneaton
+      *   Kettering
+      *   Hinckley
+      *   Solihull
+      *   Stratford up on Avon
+      
+      #### Quality product with a quality service
+      
+      The finish of this table gives a smooth feel with the curved wooden frame. With sturdy legs meaning there is no wobbling of the table while playing. The rubber handles provide comfort and control allowing precision play of either of your chosen team - red or black.
+      
+      #### Perfect to keep all your guests entertained
+      
+      This table football is perfect for company fun days, award night and even breakout sessions within your conference. Giving your guests the chance to be the top of the leader board and show their true skills as the next best footballer! Who will win? Hire and find out.
+      
+      £**75** + vat
+      
+      Full Branded
+      
+      **£**225** + vat
   - title: "How It Works"
-    body: "The FOOTBALL TABLES is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/football-tables/football-tables-10.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The FOOTBALL TABLES has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The FOOTBALL TABLES creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/football-tables/football-tables-11.jpg"
+    image: "/images/products/football-tables/football-tables-9.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for FOOTBALL TABLES hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the FOOTBALL TABLES optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/football-tables/football-tables-8.jpg"
-faqs:
-  - question: "How many people can play FOOTBALL TABLES at once?"
-    answer: "The FOOTBALL TABLES is designed for 2-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is FOOTBALL TABLES suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the FOOTBALL TABLES fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 
