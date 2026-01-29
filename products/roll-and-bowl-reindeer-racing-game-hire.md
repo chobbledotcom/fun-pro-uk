@@ -71,9 +71,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b214072e0f34616bd4f63462501cceb0"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Roll And Bowl Reindeer Racing Game Hire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Roll And Bowl Reindeer Racing Game Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

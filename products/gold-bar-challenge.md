@@ -58,9 +58,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f4cdfe2aaf74a7d0869d3b00e470de8a"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Gold Bar Challenge Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Gold Bar Challenge a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

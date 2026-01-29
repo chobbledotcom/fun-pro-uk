@@ -67,9 +67,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba0f9e064a6ee5454a6055e08564aa1a"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Snatch It Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Snatch It a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

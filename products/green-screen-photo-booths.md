@@ -96,9 +96,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## GREEN SCREEN PHOTO BOOTHS Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make GREEN SCREEN PHOTO BOOTHS a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

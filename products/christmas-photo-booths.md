@@ -84,9 +84,9 @@ faqs:
     answer: "We offer flexible [game hire options](/#content) You can choose from our standard packages, which are available for 3 or 4-hour hires, or contact us to arrange a custom hire period if your event requires extended booth use. ."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## CHRISTMAS PHOTO BOOTHS Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make CHRISTMAS PHOTO BOOTHS a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

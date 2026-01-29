@@ -68,9 +68,9 @@ faqs:
     answer: "Yes, absolutely. We can fully customise the game to match your brand or event."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Play Your Cards Right Stall Hire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Play Your Cards Right Stall Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

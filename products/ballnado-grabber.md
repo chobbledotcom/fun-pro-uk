@@ -116,9 +116,9 @@ faqs:
     answer: "Our team will be at your venue to deliver, set up, and retrieve the Ballnado grabber after the event is done."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Ballnado Grabber Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Ballnado Grabber a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

@@ -65,9 +65,9 @@ faqs:
     answer: "4-6 weeks for most events. December and summer months (peak seasons) need 8-12 weeks' notice. [Contact us](/contact-fun-pro-uk/#content) for last-minute availability."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Electronic Dart Board Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Electronic Dart Board a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

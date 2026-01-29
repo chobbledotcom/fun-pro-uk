@@ -50,9 +50,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Bespoke Photo Booth Hire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Bespoke Photo Booth Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 
