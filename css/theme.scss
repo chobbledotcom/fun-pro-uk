@@ -2069,7 +2069,7 @@ ol.steps {
 }
 
 .red-blue-bar {
-  height: 4px;
+  height: 8px;
   background: #009dd7;
   border-bottom: 4px solid #ff0004;
 }
@@ -2437,6 +2437,11 @@ body {
             span {
               padding: 8px !important;
             }
+            span {
+              font-weight: 500;
+              font-size: 18px;
+              line-height: 28px;
+            }
             &::before {
               content: "";
               display: inherit;
@@ -2469,8 +2474,11 @@ body {
     margin: 0 0 8px;
   }
 
-  ul.items li {
-    @include card;
+  ul.items {
+    margin-top: 0;
+    li {
+      @include card;
+    }
   }
 }
 
