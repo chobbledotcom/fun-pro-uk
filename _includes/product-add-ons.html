@@ -2,11 +2,11 @@
   <div class="inner">
     {{ add_ons.intro }}
     <ul>
-      {%- for option in add_ons.options -%}
+      {%- for add_on_option in add_ons.options -%}
         <li>
-          <strong>{{ option.name }}</strong>
+          <strong>{{ add_on_option.name }}</strong>
           <span class="price">
-            £{{ option.price }}
+            £{{ add_on_option.price }}
             <small>+ VAT</small>
           </span>
         </li>
