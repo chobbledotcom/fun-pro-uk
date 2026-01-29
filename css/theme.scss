@@ -655,7 +655,7 @@ body {
     }
   }
   &.category {
-    article#content {
+    .category-content {
       h1 {
         margin: var(--section-padding-half) 0 8px 0;
       }
@@ -702,6 +702,8 @@ body {
   --border: 2px solid #009dd7;
   --color-text: #fff;
   @include card;
+  margin: 0;
+  background: #fff;
   ul {
     justify-content: space-between;
     align-items: flex-end;
@@ -826,6 +828,13 @@ body.one-column .quote-sidebar {
 .quote-cart {
   @include card;
   background-color: white;
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    margin: 0 0 var(--gap-items);
+  }
   .quote-cart-item {
     background: #fafafa;
     border: none;

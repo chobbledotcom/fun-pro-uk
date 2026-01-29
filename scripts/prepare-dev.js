@@ -37,7 +37,7 @@ export const prep = () => {
     console.log("Using local template from ../chobble-template...");
     copyDir(localTemplate, template, {
       delete: true,
-      exclude: [".git", "node_modules"],
+      exclude: [".git", ".direnv", "node_modules"],
     });
   } else if (!fs.exists(join(template, ".git"))) {
     console.log("Cloning template...");
