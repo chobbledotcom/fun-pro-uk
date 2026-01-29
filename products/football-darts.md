@@ -5,8 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Velcro Football Dartboard Hire | Exhibition Stand Games | UK"
 meta_description: "Hire a Velcro Football Dartboard for your next event! Perfect for exhibitions, parties, and corporate fun days across the UK. Discover our quality services."
-categories:
-  - "categories/fun-days.md"
+categories: ["categories/fun-days.md"]
 events: []
 featured: true
 features:
@@ -15,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "1600mm x 1000mm x 880mm"
+    value: "7m Width x 5.5M Height,"
   - name: "Power"
-    value: "No power required"
+    value: "1 X MAIN POWER REQUIRED"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "570mm x 1444mm x 880mm"
+    value: "5.5m Width x 5.5M Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -49,50 +46,52 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6031efad6121e851b6b068a7f1f5167b"
 tabs:
   - title: "Why Football Darts?"
-    body: "The Football Darts delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1600mm x 1000mm x 880mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Football Darts effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
+    body: |
+      # Football Darts
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      **Velcro Football Dartboard Hire: Kick, Stick, and Score!**
+      
+      Add a unique and thrilling activity to your next event with our Velcro Football Dartboard. Known also as kick and stick dartboard or football darts, this [inflatable game](/categories/interactive-game-hire/#content) combines the skill of football with the classic challenge of darts. Participants will enjoy the fun twist of kicking a velcro football towards a giant dartboard, aiming to hit the highest scores possible.
+      
+      The football dartboard is ideal for all kinds of events. Hire it for a corporate [exhibition](/categories/exhibition-games/#content), a private party, or any event looking for a bit of competitive fun. Whatever you're hosting or participating in, we're confiden our Velcro Football Dartboard is an excellent choice. It's not just about scoring points—this game is a fantastic icebreaker and a crowd-puller, ensuring guests of all ages are engaged and entertained.
+      
+      *   **Versatile Entertainment:** Ideal for a wide range of events, from [Corporate Entertainment](/categories/corporate-entertainment/#content) to [Fun Days](/categories/fun-days/#content) and private celebrations, the velcro football dartboard will have people lining up to try their luck.
+      *   **Engaging Competition:** This football dartboard also offers you a fun and interactive way to encourage friendly competition among guests.
+      *   **High-Quality Service:** At Fun Pro UK, we pride ourselves on delivering top-quality services, ensuring that every aspect of your event game hire is handled professionally.
+      
+      Operating across the UK, Fun Pro UK delivers exceptional entertainment options from London to Glasgow, and everywhere in between. Just tell us where you need us, and our dedicated team will ensure that the Velcro Football Dartboard and any other requested services are delivered on time and set up to meet your specific needs.
+      
+      We also offer a range of other engaging activities and games for hire. From [Batak](/categories/batak/#content) to [Fun Foods](/categories/fun-foods/#content), we have everything you need to make your event all you need it to be. Explore the possibilities with Fun Pro UK and ensure your next event is amazing - just make an order with us today.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
   - title: "How It Works"
-    body: "The Football Darts is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Football Darts has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Football Darts creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Football Darts hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Football Darts optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
-faqs:
-  - question: "How many people can play Football Darts at once?"
-    answer: "The Football Darts is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Football Darts suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Football Darts fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

@@ -5,10 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK"
 meta_description: "Magic mirror hire for parties, exhibitions, or corporate events. We deliver across the UK! Call today for stylish photo mirror rental at your next event."
-categories:
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/arcade-games.md"
-  - "categories/christmas-grotto-hire.md"
+categories: ["categories/photo-booths-and-magic-mirrors.md", "categories/arcade-games.md", "categories/christmas-grotto-hire.md"]
 events: []
 featured: true
 features:
@@ -17,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "Groups of 1-8"
+    value: "TBD"
   - name: "Space Required"
-    value: "2000mm x 2000mm x 1600mm"
+    value: "2000mm Width x 2000mm Depth, Allowing for People to stand at the front"
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 190-210"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1000mm x 1000mm x 1600mm"
+    value: "1000mm Width x 1000mm Depth x 1600mm Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "50-300 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "20-30 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "Groups of 1-8"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -81,56 +76,167 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/647885a269118a3d197a6802d107be08"
 tabs:
   - title: "Why MAGIC MIRROR?"
-    body: "The MAGIC MIRROR creates lasting memories whilst solving the challenge of keeping guests engaged at corporate events. This modern photo entertainment system provides instant prints, digital sharing, and branding opportunities, making it valuable for 20-30 minutes.
-
-
-      What sets professional photo entertainment apart is how it combines fun with marketing value. Guests receive branded prints to take home, digital copies they share on social media extending your event's reach, and the experience creates those relaxed moments where colleagues genuinely connect.
-
-
-      With sessions lasting 50-300 guests, the MAGIC MIRROR accommodates large guest numbers whilst ensuring everyone gets quality photo experiences. The technology handles everything automatically - guests simply step in, follow prompts, and receive professional results. It's particularly effective for events where you want tangible takeaways, social media content, or documentation of your company culture in action."
     image: "/images/products/magic-mirror/magic-mirror-16.jpg"
+    body: |
+      # MAGIC MIRROR
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Magic Mirror Hire in Coventry, Birmingham, Manchester, London, Nottingham, Milton Keynes, and Across the UK
+      
+      Bring the magic to your events with our interactive and engaging Magic Mirror Hire service. Perfect for weddings, conferences, well-being days, exhibitions, fun days, and brand activations, the Magic Mirror adds a fun and memorable touch to any occasion.
+      
+      ### What is the Magic Mirror?
+      
+      The Magic Mirror is a cutting-edge photo booth experience that captures the essence of your event in a unique way. Guests can strike a pose in front of the mirror, and with a click, the mirror captures their best moments. The mirror's interactive features allow guests to customize their photos with fun props and digital backgrounds for a truly personalized experience.
+      
+      ### Why Choose Our Magic Mirror Hire?
+      
+      With our Magic Mirror Hire, you can elevate your event and create lasting memories for your guests. Whether you're hosting a corporate event or a private celebration, the Magic Mirror adds a touch of fun and excitement that keeps guests entertained throughout the event.
+      
+      ### Key Features:
+      
+      *   Interactive and engaging Magic Mirror experience
+      *   props
+      *   Branded prints with company logos for corporate events
+      *   On-site attendant for assistance
+      *   Available for hire in Coventry, Birmingham, Manchester, London, Nottingham, Milton Keynes, and nationwide
+      
+      Add a touch of magic to your next event with our Magic Mirror Hire. Contact us today to reserve the Magic Mirror experience for your event!
+      
+      **3 hour hire from**
+      
+      **4 hour hire from**
+      
+      **£495**\+ vat**
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular items:**
+      
+      *   [Red Carpet and Gold Rope barriers](/products/red-carpet-and-4-gold-stanchions/#content)
+      *   [Race car Simulators](/products/racing-car-simulators/#content)
+      *   [Gold Cup Horse Racing](/products/gold-cup-horse-racing/#content)
+      
+      ## Magic Selfie Mirror Hire
+      
+      The magic selfie mirror is an original and unusual photo machine that will really make your company stand out from the crowd at any trade show, exhibition or product promotion. Plus it's great fun for your company [Christmas party](/categories/christmas-grotto-hire/#content) or annual awards night.
+      
+      Compact enough to fit on to any exhibition stand or promo stage, yet big enough and bright enough to make a real impact, the magic selfie mirror is a great way to show the fun side of your company and attract interest from all ages at any event.
+      
+      ![](/userfiles/file/FunPro/nec-brill-17-310.jpg)
+      
+      **Fun for Everyone with the Magic Mirror Hire**
+      
+      No matter how much time you spend in choosing your arcade games and tabletop games, you’ll want to consider games for everyone.
+      
+      Some people enjoy arcade-style games, some want to get in on the action, while others want something simple that reminds them of the fun days they had with friends or family. Our magic mirror for hire is a great way to add some additional fun to your event.
+      
+      **What Is the Magic Selfie Mirror Hire?**
+      
+      The magic mirror hire is basically a photo booth where you and your friends stand in front of, while the booth’s camera takes fun photos. You’ll get a few printed photos to take home with you, plus a link so you can order or download more for everyone in your group. But there is also an additional purpose.
+      
+      The computer adds in a fun background and other fun graphics, such as confetti, balloons, and also corporate logos, contact information, or the names of the party hosts.
+      
+      **Can We Still Wear Fun Costume Props?**
+      
+      Yes, the guests can still wear fun costume props too, that you can have ready at a table near the magic mirror hire. Some ideas include: sunglasses, hats, feather boas, and magic wands.
+      
+      Guests can choose what they want to include. For the selfie photos, there can be a stand out selfie mirror with gilt frame that is imprinted onto the image. If you are hosting a company event, then you can also add in company messages or add the company logo or website to every print that comes out.
+      
+      And don’t worry about programming in these options, as we do it for you.
+      
+      There will be an attendee who will assist with the photos and help to replace any paper or ink as required.
+      
+      **What If Guests Want More Photos?**
+      
+      For each visit of the magic selfie mirror hire the guests will receive two prints and use of the fun photo props.
+      
+      There is also the option to visit the website with the download link to get the photos too, which you can send to any photo print place and get as many copies as you wish. There are also unlimited visits, so the guests can go back and get some more magic mirror shots if they wish.
+      
+      **How Do I Book Magic M**irror**Photo Booth Rental?**
+      
+      This photo booth with a twist is a fun way to have guests interact with each other at a party. You can visit the Fun Pro UK website to book the magic mirror hire for your next party event.
+      
+      You can book online, or give us a call. We can also answer any questions on how the mirror hire works, and where the best spot to set it up will be.
+      
+      You’ll give your partygoers and guests something to talk about in the years ahead when you book a magic selfie mirror hire for your event. And even better, they’ll be able to look at the fun photographs from the event and smile!
+      
+      Funpro UK offer our magic mirrors for hire service in your area
+      
+      Here are just some of the local areas we deliver to:
+      
+      And if you don’t see your area in our list below give us a call to find out if we can still help.
+      
+      *   West midlands
+      *   Birmingham
+      *   Coventry
+      *   Warwick
+      *   warwickshire
+      *   Kenilworth
+      *   Leamington Spa
+      *   Rugby
+      *   leicester
+      *   Nottingham
+      *   Derby
+      *   Northampton
+      *   Loughborough
+      *   Nuneaton
+      *   Kettering
+      *   Hinckley
+      *   Solihull
+      *   Stratford up on Avon
+      
+      ## The mirror that says it all
+      
+      The magic selfie mirror not only takes great pictures of your guests, but also pays them a cheeky compliment too, with messages written on the mirror and spoken in the voice of your choice. We can even personalise your magic mirror to match your event, giving it a real wow factor that will stick in the minds of your potential clients and customers, subtly reinforcing your sales message.
+      
+      ### A complete magic selfie mirror package
+      
+      Your photo booth hire package includes :
+      
+      *   Stand out selfie mirror with guilt frame
+      *   2 prints per visit
+      *   Unlimited visits
+      *   Fun photo props
+      *   Download link to all your photos sent after your event
+      *   The option of adding company messages or logos to every print
+      *   Member of staff
+      
+      ### Personal service
+      
+      Your hire package also includes a friendly operator to really take care of your guests. They will make sure everyone enjoys the experience and gets the perfect picture. Each operator is fully trained and never forgets that they are representing your company.
+      
+      We can deliver the magic selfie mirror anywhere in the UK, with reliable service that will never let your company down. However, this is a highly popular item, so book now to guarantee your preferred date.
   - title: "How It Works"
-    body: "The MAGIC MIRROR is incredibly straightforward for guests to use. They step into the booth, follow the simple on-screen prompts, and receive instant prints of their photos. The whole experience takes 3-5 minutes, allowing hundreds of guests to participate throughout your event.
-
-
-      We handle all the technical setup, which takes approximately Minimum door width 0.6m. This includes positioning the booth, loading photo paper, and testing everything works perfectly. Unlimited prints are included throughout your event.
-
-
-      We can provide various props and backdrops to match your theme, and all photos can be branded with your company logo or event details. Digital copies are also available, making it easy for guests to share their photos on social media."
     image: "/images/products/magic-mirror/magic-mirror-15.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Photo booths have staying power at events because they provide something tangible to take home. Unlike other entertainment that's enjoyed and forgotten, guests leave with physical mementos that sit on desks, get shared with families, and keep your event memorable for months afterwards.
-
-
-      What makes the MAGIC MIRROR particularly popular is how it brings out people's playful side. Even the most reserved colleagues relax when there's props and silly hats involved. These moments of genuine fun create the kind of positive associations with your company culture that formal team building rarely achieves.
-
-
-      The social media element extends your event's reach far beyond attendees. Guests share their photos online, tag colleagues, and generate authentic content that showcases your event's success. It's marketing value that happens naturally."
-    image: "/images/products/magic-mirror/magic-mirror-16.jpg"
+    image: "/images/products/magic-mirror/magic-mirror-14.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for MAGIC MIRROR hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the MAGIC MIRROR optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/magic-mirror/magic-mirror-13.jpg"
-faqs:
-  - question: "How many people can play MAGIC MIRROR at once?"
-    answer: "The MAGIC MIRROR is designed for Groups of 1-8. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is MAGIC MIRROR suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the MAGIC MIRROR fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 20-30 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
-  - question: "Do you provide staff to run the game?"
-    answer: "We can provide experienced, friendly staff to manage the game throughout your event. This is particularly helpful for corporate events where you want to focus on your guests rather than worrying about the entertainment. We'll discuss staffing options when you get your quote."
+    body: |
+      
 ---
 

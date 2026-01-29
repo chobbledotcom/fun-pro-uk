@@ -5,9 +5,7 @@ price: "£295"
 order: 50
 meta_title: "Adult Bouncy Castle Hire | Fun Pro UK | Fun Days"
 meta_description: "Adult bouncy castles let your inner child free! These inflatables are roomy &amp; durable - perfect for bouncing grown-ups at birthdays, office parties &amp; more."
-categories:
-  - "categories/corporate-entertainment.md"
-  - "categories/fun-days.md"
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features:
@@ -16,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "8m x 6m x 4m"
+    value: "TBD"
   - name: "Power"
-    value: "1 x UK mains socket (Blower: 750W continuous)"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "7m x 5m x 3.5m"
+    value: "TBD"
   - name: "Suitability"
-    value: "Indoor or outdoor use / Level surface"
+    value: "TBD"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "45-60 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "750W continuous"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 295
@@ -52,53 +48,54 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/839e7cf60d154d27c83b2be6dc991796"
 tabs:
   - title: "Why LARGE BOUNCY CASTLES?"
-    body: "The LARGE BOUNCY CASTLES creates high-energy entertainment that works for 45-60 minutes at family fun days, corporate celebrations, and community events. This professional-grade inflatable is regularly safety tested and designed for reliable operation throughout your event.
-
-
-      What makes inflatable entertainment valuable is its visual impact and cross-generational appeal. The inflatable creates an immediate festival atmosphere, children love the physical challenge, adults enjoy the nostalgic fun, and everyone appreciates entertainment that doesn't require complicated rules or skills.
-
-
-      The LARGE BOUNCY CASTLES excels at creating those memorable moments people photograph and share - colleagues attempting challenges they'd never normally try, families playing together, and spontaneous laughter that defines successful events. With professional installation and safety management included, you get impressive entertainment without the stress of managing complex equipment."
     image: "/images/products/large-bouncy-castles/large-bouncy-castles-2.jpg"
+    body: |
+      # LARGE BOUNCY CASTLES
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## **Large Event castle hire**
+      
+      **4 hour hire from**
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      If you've ever watched your kids having the time of their lives on a bouncy castle, and longed to have a go, then this is the perfect hire for you. Our adult bouncy castles for hire are specially designed for grown-ups, so everyone from the managing director to the intern can bounce their way back to that wonderful free feeling of childhood.
+      
+      ## **Tough enough for anyone  
+      **
+      
+      Unlike most bouncy castles, which have an age or weight limit, bouncy castles for adults are made from stronger canvas, with specially reinforced seams, so all ages can join the fun.
+      
+      Adult bouncy castle hire is a great ice breaker for your [company fun day,](/categories/fun-days/#content) getting everyone in the mood for fun as they fly around in complete safety. They're especially good for company events where the whole family is invited, because they allow mums and dads to share the excitement with their kids welcoming everyone to the party. There's just no better way to build morale and thank your team for all their hard work.
+      
+      ## **Top quality castles  
+      **
+      
+      We use only the best bouncy castles available, and thoroughly check and test them after every hire, so you can be sure they are clean, safe and will reflect well on your company. You can even go one better and hire a disco dome for your company fun day, adding a built-in sound and light show for your guests to enjoy.
+      
+      We can deliver your bouncy castle anywhere in the country. Just let us know what you want and where you want it and we'll take care of everything for you, to guarantee a great day for all concerned.
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
   - title: "How It Works"
-    body: "The LARGE BOUNCY CASTLES is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/large-bouncy-castles/large-bouncy-castles-1.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The LARGE BOUNCY CASTLES has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The LARGE BOUNCY CASTLES creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/large-bouncy-castles/large-bouncy-castles-2.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for LARGE BOUNCY CASTLES hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the LARGE BOUNCY CASTLES optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
-faqs:
-  - question: "How many people can play LARGE BOUNCY CASTLES at once?"
-    answer: "The LARGE BOUNCY CASTLES is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is LARGE BOUNCY CASTLES suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the LARGE BOUNCY CASTLES fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 45-60 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

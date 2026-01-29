@@ -5,10 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"
 meta_description: "Elevate your event with Twin Axe Throwing hire from Fun Pro UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for a quote today."
-categories:
-  - "categories/freshers-fair-games.md"
-  - "categories/fun-days.md"
-  - "categories/fun-fair-stalls.md"
+categories: ["categories/freshers-fair-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:
@@ -17,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "2m x 2m x 2m"
+    value: "4m x 6.1m x 3m (L x W x H)"
   - name: "Power"
-    value: "1 x UK mains socket (Game usage: 10-50W)"
+    value: "1 x UK power socket"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "30 minutes"
   - name: "Equipment Size"
-    value: "1.5m x 1.5m x 1.8m"
+    value: "3m x 5.1m x 2.95m (L x W x H)"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor or outdoor use only/Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -50,53 +45,109 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
 faqs:
-  - question: "How many people can play Twin Axe throwing at once?"
-    answer: "The Twin Axe throwing is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Twin Axe throwing suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Twin Axe throwing fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "Is Twin Axe Throwing suitable for all ages?"
+    answer: "While the soft foam axes make the game safe for most participants, we recommend a minimum age of 12 years old. Adult supervision is required for all players under 18."
+  - question: "How long does it take to set up and take down?"
+    answer: "Setup typically takes around 30 minutes, with a similar timeframe for breakdown."
+  - question: "Do you provide all necessary equipment?"
+    answer: "Yes, we supply everything needed for the game, including the inflatable unit, and foam axes."
 tabs:
   - title: "Why Twin Axe throwing?"
-    body: "The Twin Axe throwing delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Twin Axe throwing effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
+    body: |
+      # Twin Axe throwing
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Twin Axe Throwing – The Ultimate Interactive Game for Corporate Events & Parties
+      
+      ## Why Choose Twin Axe Throwing for Your Next Event?
+      
+      Transform your [corporate event](/categories/corporate-entertainment/#content), [exhibition](/events/exhibition-games/#content), or [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to:
+      
+      *   Boost engagement among your team
+          
+      *   Provide a unique team-building activity that promotes healthy competition
+          
+      *   Offer a safe and exciting challenge suitable for all skill levels
+          
+      *   Create lasting memories and talking points for your guests
+      
+      Our premium Twin Axe Throwing game features two lanes, allowing multiple players to compete simultaneously, fostering a sense of friendly rivalry and adding an extra layer of excitement to any event.
+      
+      Moreover, our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.  
+      
+      You can trust that all our air hockey tables and equipment will arrive in excellent condition, fully prepared and ready for use at your event.  
+      
+      Need to extend your hire period? Simply let us know, and we’ll do our best to accommodate your needs.  
+      
+      **Contact us for custom pricing and availability.**
+      
+      \*Please note that delivery charges and minimum order values may apply.
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Twin Axe Throwing Game Description
+      
+      Step into the world of axe throwing with our state-of-the-art Twin Axe Throwing game. This inflatable soft foam axe throwing game offers all the excitement of traditional axe throwing in a safe, controlled environment. Players take turns throwing soft foam axes at the target, competing to score the most points or hit the elusive "Killshot" for maximum bragging rights.
+      
+      **The game features:**
+      
+      *   Two lanes for simultaneous play
+          
+      *   Soft foam axes for safety
+          
+      *   Inflatable design for easy setup and transportation
+          
+      *   Professional-grade targets
+      
+      ## What's Included in Twin Axe Throwing Hire?
+      
+      When you hire our Twin Axe Throwing game, you'll receive:
+      
+      *   Fully inflatable Twin Axe Throwing game unit
+          
+      *   Set of soft foam axes
+          
+      *   Professional setup and breakdown by our experienced team
+          
+      *   Dedicated event support
+      
+      **Check our Axe throwing specifications:**
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      ## Other Interactive Games
+      
+      Enhance your event further with our range of complementary games:
+      
+      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/#content)
+          
+      *   [Batak](/categories/batak/#content)
+          
+      *   [](/categories/batak/#content)[Virtual Reality Experiences](/products/vr-race-car-simulator/#content)
+      
+      ## Hire Twin Axe Throwing for Your Event
+      
+      Ready to elevate your event with the excitement of Twin Axe Throwing? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today for a personalised quote and expert advice on creating an unforgettable experience for your guests.
   - title: "How It Works"
-    body: "The Twin Axe throwing is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Twin Axe throwing has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Twin Axe throwing creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Twin Axe throwing hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Twin Axe throwing optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+    body: |
+      
 ---
 

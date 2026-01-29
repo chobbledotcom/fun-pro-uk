@@ -5,13 +5,7 @@ price: "£550"
 order: 50
 meta_title: "Pick A Mix hire UK"
 meta_description: "Pick A Mix hire UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories:
-  - "categories/fun-foods.md"
-  - "categories/arcade-games.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/pub-games.md"
+categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -20,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "Individual servings"
+    value: "TBD"
   - name: "Space Required"
-    value: "1350mm x 1250mm x 1300mm"
+    value: "1350mm Width x 1250mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "No power required"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1000mm x 500mm x 1300mm"
+    value: "1000mm Width x 500mm Depth x 1300 Height"
   - name: "Suitability"
-    value: "Level surface"
+    value: "Indoor or outdoor use/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "Individual servings"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 550
@@ -76,59 +68,105 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/51a3b1ed7d3cd82cf27b8a7fec19ad93"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd23e05dbd80d11bdf2a28cbc47d2cc3"
 add_ons:
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Fully Branded"
       price: 145
 tabs:
   - title: "Why Pix N Mix Hire?"
-    body: "The Pix N Mix Hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1350mm x 1250mm x 1300mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Pix N Mix Hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg"
+    body: |
+      # Pix N Mix Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Pix N Mix Hire for Unforgettable Events
+      
+      ### Bring the Sweetest Treats to Your Event with Pix N Mix Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry and the whole UK
+      
+      Indulge your guests in a delightful array of sweet treats with our Pix N Mix Hire service! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Pix N Mix stands offer a mouth-watering selection of candies that will leave everyone with a sugar rush of happiness! 🍬🍭
+      
+      Our Pix N Mix stands come fully loaded with a whopping 19 trays of assorted sweets, ensuring there's plenty to go around for all your attendees. Each stand features 19 clear dispensers, allowing guests to pick and mix their favourite treats with ease. The stand is also equipped with paper bags, tongs, and scoops, making the experience both convenient and enjoyable for all. 🛍️✨
+      
+      Whether you're looking to attract more footfall to your booth at an exhibition, add a sweet touch to a corporate event, or surprise your employees with a delectable treat at the office, our Pix N Mix Hire service is guaranteed to sweeten the deal! Our team will deliver, set up, and fill the dispensers with your chosen sweets, ensuring a hassle-free experience from start to finish. 🚚🍬
+      
+      Make your event a memorable one with Pix N Mix Hire – the ultimate sweet sensation that promises to enhance any occasion! Book now for an unforgettable experience in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry. 🎉🍭
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ## **Popular items:**
+      
+      *   [Grab A Grand](/products/cash-grabber-machine-hire/#content)
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   Lights Out
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
+      ## Pick N Mix Hire Throughout The UK
+      
+      Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy! Ensuring there will be lots to go around for all of your guests!
+      
+      Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
+      
+      The sweet stand hire is a huge attraction for corporate events, fun days, exhibition stands along with brand activations.
+      
+      Branding Your Pick N Mix Stand
+      
+      Our Pick N Mix stands have the ability to be personalised with your company name and logo in the colours you desire both at the sides and the top of the stand.
+      
+      Branding this sweet stand along with our range of interactive games will ensure your company stands out from the crowd at exhibitions and promotional events. For further information on branding the Sweet Stand please contact out team.
+      
+      There is a whole range of sweets to choose from for the Pick N Mix Sweet stand hire such as Jelly Beans, Cola bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoam's and much more! ( All sweets are subject to availability).
+      
+      Each stand has a total of 19 separate clear dispensers. All the contents can be seen clearly and will engage your guests immediately as their favourite sweet catches their eye!
+      
+      Our team will deliver the sweet stand to your destination. They will set up, filling the separate dispensers with your choice of sweets prior to the beginning of your event. Once your hire is complete we will then return to collect and pack down the stand.
+      
+      Pick N Mix sweet stand hire is very popular with both children and adults. Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
   - title: "How It Works"
-    body: "The Pix N Mix Hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-7.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Pix N Mix Hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Pix N Mix Hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg"
+    image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-6.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Pix N Mix Hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Pix N Mix Hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-5.jpg"
-faqs:
-  - question: "How many people can play Pix N Mix Hire at once?"
-    answer: "The Pix N Mix Hire is designed for Individual servings. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Pix N Mix Hire suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Pix N Mix Hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

@@ -5,11 +5,7 @@ price: "£475"
 order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"
 meta_description: "Looking to hire a dance machine for exhibitions, parties, events, or fun days? We deliver dance machine hire nationwide. Contact us today to book yours!"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/pub-games.md"
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -18,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "2000mm x 1400mm x 1700mm"
+    value: "2000mm Width x 1400mm Depth, Allowing for the persons to stand in front"
   - name: "Power"
     value: "1 x 3 pin mains UK power socket (Wattage usage 60-77 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "600mm x 600mm x 1700mm"
+    value: "600mm Width x 600mm Depth 1700mm Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "60-77W"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 475
@@ -70,7 +64,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2aa1748f44f3c088f79a4369fb3815f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d58541b87ff7a3f90066201d269239cf"
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Branded Side Panels"
       price: 110
@@ -80,54 +82,123 @@ add_ons:
       price: 330
 tabs:
   - title: "Why Dance Machine?"
-    body: "The Dance Machine delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2000mm x 1400mm x 1700mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Dance Machine effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/dance-machine/dance-machine-6.jpg"
+    body: |
+      # Dance Machine
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Dance Machine Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, UK
+      
+      Get the party started with our Dance Machine hire service in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, and across the UK! 🎉
+      
+      ### About Our Dance Machine Hire Service
+      
+      At Fun Pro UK, we offer the ultimate Dance Machine experience that will have your guests grooving all night long. Our Dance Machine hire includes an authentic retro arcade cabinet with a high-definition display screen, two arcade-style disco dance mats for a dance-off or side-by-side routines, a powered PA system, and ultra-bright colour change lights.
+      
+      With the latest software featuring disco dance classics and current chart hits, our Dance Machine is perfect for conferences, well-being days, exhibitions, fun days, and brand activations. 🎶
+      
+      ### Why Choose Our Dance Machine Hire?
+      
+      Our Dance Machine is a surefire way to increase engagement and create a lively atmosphere at your event. Whether you want to get the crowd moving or host a friendly dance competition, our Dance Machine is the perfect entertainment option.
+      
+      Don't miss out on the opportunity to bring arcade action to your event with our Dance Machine hire service. Contact us today to book the ultimate dance experience in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere in the UK!
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular items order along side our Dance Machines are**
+      
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Twin race car simulators](/products/racing-car-simulators/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+      *   Lights Out
+      
+      ## Arcade Dance Machine Hire - Twin Player
+      
+      We are so excited with our newest game, do you remember the classic arcade dance machines, the ones where you had to follow steps on the screen?
+      
+      ### Get your Groove On
+      
+      Fun Pro UK can bring that arcade action right to your event, get your boogie on and your guests grooving to the tunes and dancing the night away.
+      
+      Your hire comes with one HD display screen in an authentic retro arcade cabinet and two arcade style disco dances mats so you can have a dance off or try out a side by side routine. It comes with a powered PA system, ultra bright colour change lights and the latest software featuring disco dance classics and current chart hits.
+      
+      ### Bust out your Best Moves
+      
+      We don't want to make a song and dance out of it but the Dance Machine game is great fun and will guarantee to get everyone dancing, both adult and children alike. This highly visual interactive game is also fantastic for spectators to watch the players bust out their best dance moves!
+      
+      The arcade style twin dance machines are a proven party favourite, ideal for office parties, corporate events, product launches and promotions. As with many of our interactive games our Fun Pro team can brand the dance machines with your own logo or design to match your promotion.
+      
+      Our twin dance machine is self operating, one of our trained staff will deliver, set up and install the machine on site. Alternatively, we can arrange for professional promotional staff to attend and run the game for you.
+      
+      **Hire a Dance Machine to Liven Up Your Party**
+      
+      Are you trying to think up ways to bring some extra fun to your future party? You’re going to have to be extra clever as some people aren’t ready to leave their homes yet. One great idea to pursue is to hire dance machine rental.
+      
+      Not only will this bring music to your party but it will also encourage people to get up and dance. If you haven’t heard of this before, it’s simple to hire dance machine rental.
+      
+      **How Does Dance Machine Rental Work?**
+      
+      A hire dance machine actually looks a lot like your standard arcade machine. You may even have seen them inside an arcade business but didn’t give it a try during your last visit.
+      
+      Basically, one or two people stand in the middle of the mat and watch the movements on the arcade screen. They move their feet to the left, right, up or down, according to the instructions.
+      
+      While they’re dancing, music is also playing. Party goers may feel a bit awkward at first, but soon they’ll get the hang of the dance steps and be ready to jump aside and let someone else practice.
+      
+      **Should I Hire Dance Machine?**
+      
+      A dance machine can be rented from our company. Not only is it fun, but it’s also a great way to get people to participate at a party.
+      
+      Often people are hesitant to dance. Sometimes all it takes is to get one or two people up on the dance floor to get started, then others will join in. The first two people at the dance machine will encourage others to hop onto the dance floor and get moving.
+      
+      It’s also a great way to relieve stress from the past week. Dancing can take away the daily pressures so you can have some fun. Today, it’s encouraged to get up and move, rather than sitting for hours eating fatty sugary foods. Your dance machine rental will encourage people to get active, and help them feel a little less guilty about eating all that wonderful food and drink you’ll also be supplying at the party.
+      
+      **Where Can I Find A Arcade Dance Machine To Hire?**
+      
+      Some of the local areas we deliver to but not forgetting we cover the whole of the UK
+      
+      West Midlands, Manchester, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, Stratford up on Avon
+      
+      Our dancing machine rentals are suitable for all ages – children, teens, and adults. Even if someone doesn’t want in on the action, they’ll still have fun watching the dancers on the party floor.
+      
+      You can find dance machine rentals at the Fun Pro UK site. Rent one dance machine, two, or some of the other arcade games too! After the party you’ll have friends and family asking when you’ll be doing it again.
+      
+      Dance machine rental is a great way to add some fun to your next party. But be sure to book soon, as we only have limited dance machine rentals available.
+      
+      As soon as you have your party booked and your guests confirmed, then you should call us. Soon you and your friends will be busting out your best dance moves on the dance floor!
   - title: "How It Works"
-    body: "The Dance Machine is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/dance-machine/dance-machine-5.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Dance Machine has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Dance Machine creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/dance-machine/dance-machine-6.jpg"
+    image: "/images/products/dance-machine/dance-machine-4.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Dance Machine hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Dance Machine optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/dance-machine/dance-machine-3.jpg"
-faqs:
-  - question: "How many people can play Dance Machine at once?"
-    answer: "The Dance Machine is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Dance Machine suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Dance Machine fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

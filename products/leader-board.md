@@ -5,10 +5,7 @@ price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
-categories:
-  - "categories/interactive-game-hire.md"
-  - "categories/arcade-games.md"
-  - "categories/prize-games.md"
+categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:
@@ -17,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "400mm x 650mm x 1500mm"
+    value: "400mm Width x 650mm Depth, Allowing for the person to stand in front"
   - name: "Power"
-    value: "No power"
+    value: "No power required"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "300mm x 600mm x 1500mm"
+    value: "300mm Width x 600mm Depth x 1500mm Height"
   - name: "Suitability"
-    value: "Level surface"
+    value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 75
@@ -74,59 +69,85 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
 add_ons:
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Fully Branded Leader Board"
       price: 135
 tabs:
   - title: "Why LEADER BOARD?"
-    body: "The LEADER BOARD delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 400mm x 650mm x 1500mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the LEADER BOARD effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/leader-board/leader-board-13.jpg"
+    body: |
+      # LEADER BOARD
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Get Your Event Buzzing with Our LEADER BOARD Hire in Conferences, Well being days, Exhibitions, Fun days and More! 🏆🎉
+      
+      Looking to add a fun and interactive element to your event? Our LEADER BOARD is the perfect solution! Ideal for conferences, well-being days, exhibitions, fun days, and more, this top-gear style magnetic lead board will keep your attendees engaged and entertained throughout.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ### Why Choose Our LEADER BOARD Hire?
+      
+      Whether you're in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere else in the UK, our LEADER BOARD is a must-have addition to your event. Track the top scorer, promote healthy competition, and create a buzz that will have everyone talking.
+      
+      Supplied with 12 white magnet strips and a whiteboard marker, our LEADER BOARD is ready to go and can be personalized with your branding for that extra touch of professionalism. Pair it with one of our branded games for a complete interactive experience that will leave a lasting impression on your guests.
+      
+      ### Maximize Engagement and Brand Activation
+      
+      Our LEADER BOARD is not just a fun addition to your event—it's a tool to increase engagement, drive sales, and activate your brand. Keep attendees coming back for more, boost participation, and create memorable experiences that will set your event apart.
+      
+      Popular items:
+      
+      *   [Race car Simulators](/products/racing-car-simulators/#content)
+      *   [Grab a Grand](/products/cash-grabber-machine-hire/#content)
+      *   Lights Out
+      *   [Pluck A Duck Racing](/products/pluck-a-duck-racing/#content)
+      
+      Want to add a leader board to make your hire more competitive, then look no further!  
+        
+      You can keep the score with any of the interactive games including the timing for our world class Race simulators or to count the dollars collected in our Grab a Grand.
   - title: "How It Works"
-    body: "The LEADER BOARD is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/leader-board/leader-board-12.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The LEADER BOARD has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The LEADER BOARD creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/leader-board/leader-board-13.jpg"
+    image: "/images/products/leader-board/leader-board-11.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for LEADER BOARD hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the LEADER BOARD optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/leader-board/leader-board-10.jpg"
-faqs:
-  - question: "How many people can play LEADER BOARD at once?"
-    answer: "The LEADER BOARD is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is LEADER BOARD suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the LEADER BOARD fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 

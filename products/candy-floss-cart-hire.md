@@ -5,13 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Candy Floss Cart Hire - Sweet Treats for Every Events"
 meta_description: "Add fun to your event with our candy floss cart hire. Bespoke branding, staffed service, and freshly spun candy floss will delight guests every time!"
-categories:
-  - "categories/fun-foods.md"
-  - "categories/arcade-games.md"
-  - "categories/fun-days.md"
-  - "categories/fun-fair-stalls.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/prize-games.md"
+categories: ["categories/fun-foods.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/fun-fair-stalls.md", "categories/interactive-game-hire.md", "categories/prize-games.md"]
 events: []
 featured: true
 features:
@@ -20,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "Individual servings"
+    value: "TBD"
   - name: "Space Required"
-    value: "1250mm x 850mm x 1310mm"
+    value: "TBD"
   - name: "Power"
-    value: "1 x mains UK power socket (Wattage usage 190-210"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1200mm x 810mm x 1310mm"
+    value: "TBD"
   - name: "Suitability"
-    value: "Level surface"
+    value: "TBD"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "50-300 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "Individual servings"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -62,14 +54,37 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
 faqs:
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Candy Floss Cart Hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "Is it suitable for both indoor and outdoor events?"
+    answer: |
+      Yes, our candy floss cart is perfect for both indoor and outdoor events.
+      
+      For indoor venues, the compact size and clean operation make it easy to set up without any mess or disruption. Outdoors, the cart operates smoothly as long as there is a sheltered or covered area to protect it from rain or strong winds.
+      
+      If necessary, we can provide additional cover or recommend placement to make sure the candy floss machine works efficiently in all weather conditions.
+  - question: "How far in advance should I book to ensure availability?"
+    answer: |
+      We recommend booking as early as possible, especially for peak seasons like summer, holidays, and weekends.
+      
+      To secure your preferred date, it's best to book at least 4 to 6 weeks in advance. For larger events, consider booking even earlier to avoid disappointment. Last minute bookings are possible but subject to availability, so contacting us well in advance ensures we can fully accommodate your needs.
+  - question: "Do you provide all the necessary ingredients and equipment?"
+    answer: |
+      Yes! Our candy floss cart hire supplies everything needed for a successful candy floss experience. We provide the candy floss machine, sugar, and sticks. A trained team member will also be present to operate the machine and serve guests for up to 4 hours.
+      
+      Our hassle free service ensures that you don't need to worry about sourcing ingredients or managing the equipment – we handle it all from start to finish.
+  - question: "Can I hire multiple carts for larger events or different locations?"
+    answer: "Talk to us through [our website](/#content), email, or phone number so we can understand your event requirements and tailor our service to fit your needs."
+  - question: "Are there any customisation options for flavours or colours?"
+    answer: "Yes, we provide a range of customisation options to match your event theme or brand colours. If you have specific branding needs, we can customise the cart's exterior with logos, graphics, or promotional materials. Custom flavours and colours may require advance notice, so let us know your preferences during the booking process."
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Front panel branding"
       price: 195
@@ -77,41 +92,118 @@ add_ons:
       price: 90
 tabs:
   - title: "Why Candy Floss Cart Hire?"
-    body: "The Candy Floss Cart Hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1250mm x 850mm x 1310mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Candy Floss Cart Hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 50-300 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg"
+    body: |
+      # Candy Floss Cart Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Best Candy Floss Cart Hire for Fun Events in the UK!
+      
+      If you're looking to add fun and nostalgia to your event, our candy floss cart is a great way to entertain guests at staff summer BBQs, village fetes, [family fun days](/events/family-fun-days/#content), school fetes, and more.  
+        
+      The bright colours and spinning sugar draw in guests of all ages, making it a simple yet eye-catching addition to your gathering. It’s an easy way to make your event stand out and create sweet, lasting memories for everyone who attends.
+      
+      ## Hire a candy floss cart for your next gathering!
+      
+      The candy floss cart is a great addition to any event, whether indoors or outdoors.
+      
+      Its red and white design brings a classic funfair feel, adding character to [staff summer parties](/events/summer-entertainment/#content), [school fun days](/events/school-entertainment/#content), [promotional fairs](/promotional-event-games/#content), [corporate gatherings](/office-and-corporate-entertainment/#content), and more. It’s a popular choice alongside side stall games like Coconut Shy, Ring Toss, or Play Your Cards Right.
+      
+      Our candy floss cart hire doesn’t just serve sweet treats – it can also be customised to reflect your brand or event theme. You can add company logos, campaign messages, or event-specific designs to the cart’s exterior, helping to increase brand visibility and leave a lasting impression on your guests.
+      
+      The candy floss cart hire service includes:
+      
+      *   1 red and white candy floss cart
+          
+      *   1 candy floss machine
+          
+      *   1 trained team member to serve freshly made candy floss for up to 4 hours
+      
+      **Hiring Periods and Pricing**
+      
+      **2 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      **3 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      **7 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      ![](/userfiles/file/FunPro/Images/specification.png)
+      
+      Our services cover full setup and removal by our professional team, ensuring everything runs smoothly from start to finish. Delivery is not included in the price and will be charged separately.
+      
+      You can rely on our candy floss cart and equipment to arrive in excellent condition, fully prepared and ready for your event.
+      
+      If you need to extend the hire period, just let us know, and we’ll do our best to meet your requirements.
+      
+      Get in touch for custom pricing and availability.  
+      
+      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ### **Popular Items:**
+      
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
+      ## Why Choose Our Candy Floss Cart Hire Service?
+      
+      Fun Pro UK's candy floss cart hire adds entertainment and creates a space for guests to gather, chat, and enjoy a nostalgic treat. The cart is a simple way to bring people together and keeps guests coming back for more throughout the event.
+      
+      Event planners trust us for reliable service, with timely delivery and collection every time. Our candy floss cart hire works well for both indoor and [outdoor events](/news/top-5-most-popular-interactive-outdoor-games-for-corporates/#content), and we handle each detail with care and professionalism to ensure everything runs smoothly.
+      
+      From setup to service, our team is committed to making the entire process easy and enjoyable. We manage the logistics, so you can focus on organising your event and making sure your guests have a great time.
+      
+      ## Our Process
+      
+      Booking the candy floss cart hire with us is quick and stress free.
+      
+      ### Step 1: Enquiry
+      
+      Contact us through our website, email, or phone to talk about your event needs. Our team will provide a personalised quote based on your requirements.
+      
+      ### Step 2: Confirmation
+      
+      When you’re happy with the candy floss cart hiring period, just confirm your booking, and we'll take care of the rest.
+      
+      ### Step 3: Delivery and setup
+      
+      On the day of your event, we will deliver and set up the candy floss cart at your venue. Our team of professionals will handle the logistics for you from start to finish to make sure that everything is running smoothly.
+      
+      ### Step 4: Event day support
+      
+      If you need additional assistance during the event, we are just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
+      
+      ### Step 5: Removal
+      
+      When the event ends, we’ll return to collect the candy floss cart, and leave your venue exactly as we found it.
+      
+      ## Ready to take your corporate event to the next level?
+      
+      Don’t miss the chance to make your event unforgettable with our candy floss cart hire service. [Contact us today](/contact-fun-pro-uk/#content) to book this cart for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
   - title: "How It Works"
-    body: "The Candy Floss Cart Hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Candy Floss Cart Hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Candy Floss Cart Hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Candy Floss Cart Hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Candy Floss Cart Hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+    body: |
+      
 ---
 

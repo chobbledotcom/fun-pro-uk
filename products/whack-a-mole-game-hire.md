@@ -5,10 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK"
 meta_description: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/pub-games.md"
+categories: ["categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -17,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "1500mm x 1500mm x 1470mm"
+    value: "1500mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 45-48 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1300mm x 700mm x 1470mm"
+    value: "1300mm Width x 700mm Depth 1470 Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "45-48W"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -111,6 +106,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5791f3ec1efafd00ffde4b3c9f1c0158"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b5861f56d5ce65d2e5da34b6d79b942"
 add_ons:
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Game Playing Panel"
       price: 145
@@ -122,54 +126,75 @@ add_ons:
       price: 445
 tabs:
   - title: "Why Whack A Mole game hire?"
-    body: "The Whack A Mole game hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1500mm x 1500mm x 1470mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Whack A Mole game hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
+    body: |
+      # Whack A Mole game hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## WHACK A MOLE BRANDED GAME HIRE UK
+      
+      Get ready to take your event to the next level with our exciting Branded Whack-a-Mole game hire! Whether you're hosting a corporate event, trade show, or family gathering, this interactive game is guaranteed to bring a smile to everyone's face.??
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular Items:**
+      
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
+      **Whack A Mole Game Hire**
+      
+      Our Branded Whack-a-Mole game combines the nostalgic charm of the classic arcade game with a personalized touch. Picture yourself in a vibrant venue like Coventry Arena, NEC, London Excel, Manchester Central, or Telford Arena, surrounded by the sounds of laughter and the thrill of competition.
+      
+      What sets our game apart is the opportunity to showcase your branding. We understand the importance of making a lasting impression, so we offer customization options to display your company logo, event name, or any other design on the game machine. This not only adds a touch of professionalism but also creates a memorable experience for your guests.
+      
+      Booking our Branded Whack-a-Mole game is a breeze. Simply reach out to our friendly team, provide us with your event details, including the desired venue, and we'll handle the rest. Our experienced staff will ensure that the game is delivered, set up, and ready for action at your chosen location. All you have to do is get ready to have a blast!??
+      
+      The fun doesn't stop there. Our Branded Whack-a-Mole game offers an excellent opportunity for friendly competition and team-building. Challenge your colleagues, friends, or family members to see who can whack the most moles and achieve the highest score. It's a fantastic way to create lasting memories and foster a sense of camaraderie among your guests.
+      
+      No matter where you're located in the UK, we've got you covered. From Coventry Arena to NEC, London Excel to Manchester Central, and Telford Arena to many more venues, we'll bring the excitement of our Branded Whack-a-Mole game to your doorstep.
+      
+      So, why wait? Contact us today to book our Branded Whack-a-Mole game for your upcoming event. Let us help you create an unforgettable experience that will leave your guests smiling and talking about it for years to come. Get ready to whack those moles and make your event a smashing success!??
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
   - title: "How It Works"
-    body: "The Whack A Mole game hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-26.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Whack A Mole game hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Whack A Mole game hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
+    image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-25.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Whack A Mole game hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Whack A Mole game hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-24.jpg"
-faqs:
-  - question: "How many people can play Whack A Mole game hire at once?"
-    answer: "The Whack A Mole game hire is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Whack A Mole game hire suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Whack A Mole game hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 
