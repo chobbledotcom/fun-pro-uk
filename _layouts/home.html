@@ -14,11 +14,10 @@ layout: base
       </a>
     </p>
     {%- include "google-rating.html" -%}
-    {%- assign categories = collections.categories | getFeatured |
     slice: 0, 3 -%}
     <div class="slider-container">
       <ul class="items slider">
-        {%- for item in categories -%}
+        {%- for item in collections.featuredCategories -%}
           {%- include "homepage-category-item.html" -%}
         {%- endfor -%}
         <li class="all-categories">
@@ -110,8 +109,7 @@ layout: base
       View All Games {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
   </h2>
-  {%- assign products = collections.products | getFeatured -%}
-  {%- include "items.html", items: products, horizontal: true -%}
+  {%- include "items.html", items: collections.featuredProducts, horizontal: true -%}
 </section>
 
 <section class="homepage-events full-width">
