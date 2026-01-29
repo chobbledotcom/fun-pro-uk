@@ -114,6 +114,5 @@ layout: base
 
 <section class="homepage-events full-width">
   <h2>What Kind of Event Are You Planning?</h2>
-  {%- assign events = collections.events | getFeatured -%}
-  {%- include "items.html", items: events, horizontal: true -%}
+  {%- include "items.html", items: collections.featuredEvents, horizontal: true -%}
 </section>
