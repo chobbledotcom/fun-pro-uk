@@ -41,9 +41,6 @@ layout: base
     <div class="item-tabs">
       {% include "tabs.html" %}
     </div>
-    <div class="hire-prices">
-      {% include "hire-prices.html" %}
-    </div>
     <div class="item-reviews">
       {%- if rating -%}
         <h2>Hear What Our Clients Have To Say</h2>
@@ -69,7 +66,9 @@ layout: base
   </div>
 </div>
 
-{%- include "product-location.html" -%}
+<div class="add-ons">
+  {% include "product-add-ons.html" %}
+</div>
 
 {%- if specs -%}
   <div class="big-specs">
@@ -101,3 +100,5 @@ layout: base
     </p>
   </div>
 {%- endif -%}
+
+{%- include "product-location.html" -%}

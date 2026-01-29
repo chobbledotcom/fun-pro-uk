@@ -1,0 +1,17 @@
+<div class="inner">
+  <h2>{{ title }} Branding and Customisation Options</h2>
+  <p>Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.</p>
+  <h3>Branding Prices From</h3>
+  <p>In-house branding available. We print, apply, and remove them after each event.<br>(One time use only)</p>
+  <ul>
+    {%- for add_on in add_ons -%}
+      <li>
+        <strong>{{ add_on.name }}</strong>
+        <span class="price">
+          £{{ add_on.unit_price }}
+          <small>+ vat</small>
+        </span>
+      </li>
+    {%- endfor -%}
+  </ul>
+</div>
