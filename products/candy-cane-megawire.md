@@ -68,9 +68,9 @@ faqs:
     answer: "Yes, the Candy Cane Mega Wire Game is great for both indoor and outdoor events. Because of its versatile setup, you can place it on various surfaces. As long as the area is level and secure, the game can be set up almost anywhere."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Candy Cane Megawire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Candy Cane Megawire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

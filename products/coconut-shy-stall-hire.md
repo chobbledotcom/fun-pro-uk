@@ -55,9 +55,9 @@ faqs:
     answer: "If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Coconut Shy Stall Hire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Coconut Shy Stall Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

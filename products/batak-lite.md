@@ -76,9 +76,9 @@ faqs:
     answer: "Yes. You can have your Batak Lite game fully customised with your company branding, logo and colours, or even event branding if you prefer."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Batak Lite Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Batak Lite a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

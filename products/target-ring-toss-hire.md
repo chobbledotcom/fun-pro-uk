@@ -55,9 +55,9 @@ faqs:
     answer: "We deliver to our customers all over the UK."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Target Ring Toss Hire Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Target Ring Toss Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

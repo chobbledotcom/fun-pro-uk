@@ -61,9 +61,9 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/380c932e88e1d86366d0c8481137025b"
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Reindeer Nosenado (Christmas Ballnado Hire ) Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Reindeer Nosenado (Christmas Ballnado Hire ) a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 
