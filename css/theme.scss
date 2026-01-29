@@ -2068,7 +2068,7 @@ ol.steps {
   }
 }
 
-.footer-bar {
+.red-blue-bar {
   height: 4px;
   background: #009dd7;
   border-bottom: 4px solid #ff0004;
@@ -2076,6 +2076,25 @@ ol.steps {
 
 .products-header {
   padding: var(--section-padding-half) 0;
+
+  h1 {
+    font-size: 52px;
+    font-weight: 500;
+    line-height: 76px;
+    margin: 0 0 calc(var(--gap-items) / 2);
+  }
+
+  p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 35px;
+    margin: 0 0 var(--section-padding-half);
+  }
+
+  ol.steps {
+    padding-left: 0;
+    padding-right: 0;
+  }
 
   h1,
   p {
@@ -2402,31 +2421,37 @@ body {
       border: 0;
       padding: 0;
       width: 170px;
-      .filter-groups > li > ul {
-        flex-direction: column;
-        li {
-          display: flex;
-          border: none;
-          align-items: center;
-          font-size: 14px;
-          a,
-          span {
-            padding: 8px !important;
-          }
-          &::before {
-            content: "";
-            display: inherit;
-            width: 14px;
-            height: 14px;
-            border-radius: 2px;
-            background: #e5e5e5;
-          }
-          &.active {
-            padding: 0;
-            background: none;
-            color: var(--color-link);
+      a {
+        color: #181a1f;
+      }
+      .filter-groups > li {
+        margin-bottom: var(--gap-items);
+        & > ul {
+          flex-direction: column;
+          li {
+            display: flex;
+            border: none;
+            align-items: center;
+            font-size: 14px;
+            a,
+            span {
+              padding: 8px !important;
+            }
             &::before {
-              background: #333;
+              content: "";
+              display: inherit;
+              width: 14px;
+              height: 14px;
+              border-radius: 2px;
+              background: #e5e5e5;
+            }
+            &.active {
+              padding: 0;
+              background: none;
+              color: var(--color-link);
+              &::before {
+                background: #333;
+              }
             }
           }
         }
@@ -2438,6 +2463,12 @@ body {
   }
 }
 .products-content {
+  margin-bottom: var(--section-padding-half);
+  h1 {
+    font-size: 44px;
+    margin: 0 0 8px;
+  }
+
   ul.items li {
     @include card;
   }
