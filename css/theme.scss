@@ -2690,18 +2690,24 @@ div.fun-pro-item {
     margin: 0;
 
     & > ul {
+      gap: calc(var(--gap-items) / 2);
+      justify-content: space-around;
       li {
+        width: calc(25% - calc((var(--gap-items) / 2) * 0.75));
+        text-align: center;
         a {
           font-weight: 500;
+          display: block;
           color: #181a1f;
           border-bottom: 2px solid transparent;
           transition: border-color 0.3s ease-in-out;
-        }
-        &.active a,
-        a:active,
-        a:hover {
-          border-bottom-color: #009dd7;
-          text-decoration: none;
+          &.active,
+          &:active,
+          &:hover {
+            font-weight: 500;
+            border-bottom-color: #009dd7;
+            text-decoration: none;
+          }
         }
       }
     }
