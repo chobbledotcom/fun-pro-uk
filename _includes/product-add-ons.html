@@ -1,6 +1,6 @@
 <div class="add-ons full-width">
   <div class="inner">
-    {{ add_ons.intro }}
+    {% renderTemplate "md" %}{{ add_ons.intro }}{% endrenderTemplate %}
     <ul>
       {%- for add_on_option in add_ons.options -%}
         <li>
