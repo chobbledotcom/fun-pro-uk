@@ -96,9 +96,9 @@ faqs:
     answer: "Yes. Our Batak Pro hire comes with a range of customisation options, so you can really tailor it to your brand."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Batak Pro Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Batak Pro a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 

@@ -461,9 +461,9 @@ ${optionsYaml}`;
   if (brandingPrices?.options && brandingPrices.options.length > 0) {
     frontmatter += "\nadd_ons:";
     frontmatter += `\n  intro: |`;
-    frontmatter += `\n    ## {{ title }} Branding and Customisation Options`;
+    frontmatter += `\n    ## ${productName} Branding and Customisation Options`;
     frontmatter += `\n`;
-    frontmatter += `\n    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.`;
+    frontmatter += `\n    Make ${productName} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.`;
     frontmatter += `\n`;
     frontmatter += `\n    ### Branding Prices From`;
     frontmatter += `\n`;

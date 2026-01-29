@@ -85,9 +85,9 @@ faqs:
     answer: "Batak Lite is as popular as mince pies in December — so we always recommend **booking early** to secure your date! Once you've set your festive plans, let us know, and we'll make sure the fun is reserved just for you."
 add_ons:
   intro: |
-    ## {{ title }} Branding and Customisation Options
+    ## Christmas Batak Lite Branding and Customisation Options
 
-    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+    Make Christmas Batak Lite a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
     ### Branding Prices From
 
