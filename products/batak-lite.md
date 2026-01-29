@@ -5,13 +5,7 @@ price: "£445"
 order: 1
 meta_title: "Batak Lite Game Hire | Interactive Game | Corporate Engagement"
 meta_description: "Hire Batak Lite for exhibitions, corporate events &amp; parties. Engage guests with this fast-paced reaction game. Book now for a fun, competitive experience!"
-categories:
-  - "categories/exhibition-games.md"
-  - "categories/arcade-games.md"
-  - "categories/batak.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/batak.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
 events: []
 featured: true
 features:
@@ -20,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 player at a time"
+    value: "TBD"
   - name: "Space Required"
-    value: "1400mm x 1600mm x 1800mm"
+    value: "1400mm Width x 1600mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x 500 watt power source 3 pin mains UK power socket (Game wattage usage 2-8 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1200mm x 950mm x 1800mm"
+    value: "1200mm Width x 950mm Depth 1800 Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "500W"
-  - name: "Player Count"
-    value: "1 player at a time"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 445
@@ -68,18 +60,30 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0af8fcfb7abbbac66dc49d09f355b339"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3e033bfa85836ad1c2ece822c5632840"
 faqs:
-  - question: "How many people can play Batak Lite at once?"
-    answer: "The Batak Lite is designed for 1 player at a time. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
+  - question: "How much space is needed to set up Batak Lite?"
+    answer: "To allow for enough space around the Batak Lite game, you will need a minimum of 1.4 metres at either side, and 1.6 metres at the front."
   - question: "Is Batak Lite suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Batak Lite fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    answer: "Batak Lite is suitable for those 8 years of age and up, making it ideal for a range of different events."
+  - question: "Can Batak Lite be used outdoors?"
+    answer: "No. Batak Lite is only suitable for indoor use."
+  - question: "How long does the hire period last?"
+    answer: "Our Batak Lite game hire is flexible depending on how long you need it for. Some people hire Batak games for a day, while others may need them for a week. If you have a different requirement, [contact us for a free quote](/contact-fun-pro-uk/#content)."
+  - question: "Is Batak Lite easy to transport and set up?"
+    answer: "Yes. Thanks to the end to end service offered by Fun Pro, we take care of this for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the set up, and will even collect it when you're finished."
+  - question: "What power source is required for the game?"
+    answer: "Batak Lite requires a single UK socket where it can be plugged in."
+  - question: "Can I customise the game with my company's branding?"
+    answer: "Yes. You can have your Batak Lite game fully customised with your company branding, logo and colours, or even event branding if you prefer."
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Branded back panel"
       price: 145
@@ -87,39 +91,122 @@ add_ons:
       price: 125
 tabs:
   - title: "Why Batak Lite?"
-    body: "The Batak Lite is the perfect introduction to reaction gaming for corporate events. This compact version of our professional Batak system tests hand-eye coordination and reaction speed, creating addictive competitive gameplay that suits 15-20 minutes.
-
-
-      What sets Batak Lite apart is its accessible design - 1400mm x 1600mm x 1800mm can challenge themselves without feeling intimidated by complex equipment. The illuminated targets are clear and responsive, the scoring system is instantly understandable, and 20-200 guests means everyone gets quick turns whilst queues move efficiently.
-
-
-      This version works brilliantly for tighter spaces and smaller budgets whilst delivering the same competitive energy as larger reaction games. It's particularly popular at brand activations where you need high-throughput entertainment, and at corporate events where you want something engaging without dominating your entire venue. The data tracking means you can run leaderboard competitions throughout your event."
+    body: |
+      # Batak Lite
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Batak Lite – The Perfect Interactive Game for Exhibitions & Corporate Events
+      
+      Whether you’re looking to boost employee engagement at your next [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) or want a fun and different way to showcase your brand at a product launch, Batak Lite game hire is the perfect way to bring people together and get them talking.
+      
+      ## What Is Batak Lite?
+      
+      A more compact and portable version of [Batak Pro](/products/batak-pro/#content), our Batak Lite games are a highly interactive, high-energy activity that everyone can enjoy. The game itself features illuminated targets that are designed to test reaction speed levels, improve stamina and hand eye coordination in those who play.
+      
+      Promotional games like Batak Lite are always a hit at events like [team building](/team-building-ideas/#content) days, [conferences](/conference-game-hire/#content), [brand activation events](/promotional-event-games/#content), and many more because they’re a fun way to break the ice and get everyone involved in a bit of healthy competition.
+      
+      ## Why Choose Batak Lite For Your Next Event?
+      
+      At Fun Pro, our Batak Lite game hire is hugely popular and works for all kinds of [corporate events](/categories/corporate-entertainment/#content). Here are just a few of the reasons why you should choose Batak Lite for your next event:
+      
+      *   **High-Impact Engagement**: Draws attention and keeps players entertained.
+          
+      *   **Ideal for Competitive Play**: Encourages friendly competition and audience participation.
+          
+      *   **Perfect for Building Brand Awareness**: Fully customisable to align with your corporate identity.
+          
+      *   **Nationwide Delivery & Setup**: We handle everything from start to finish.
+          
+      *   **Suitable for Various Events**: Great for conferences, exhibitions, product launches, and more.
+      
+      ## What’s Included In Batak Lite Hire From Fun Pro?
+      
+      At Fun Pro, we like to make our [interactive game hire](/categories/interactive-game-hire/#content) services as easy as possible for you, so we include everything you need to make your event unforgettable for all the right reasons.
+      
+      When you hire Batak Lite from Fun Pro, the following is included:
+      
+      UK-wide delivery and collection\*
+      
+      Installation and set up by our trained team
+      
+      Customisation to match your brand
+      
+      \*Delivery fees may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ## Popular items:
+      
+      *   [Retro arcade machine](/products/retro-arcade-games/#content)
+      *   [Batak Pro](/products/batak-pro/#content)
+      *   [Dance Machine](/products/dance-machine/#content)
+      *   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      
+      ## Batak Lite Branding and Customisation Options
+      
+      Our Batak Lite hire comes with the option to have your game fully customised with your brand logo, colours, or even the event branding if you prefer. This allows you to make the interactive games you choose fully represent your brand and create a positive experience for your customers and target audience.
+      
+      **£**125** + vat**
+      
+      ### How soon should I book Batak Lite for my event?
+      
+      Our Batak Lite games are highly popular, so it’s always best to book as far ahead as you can when starting to plan your event.
+      
+      ## Brands That Have Trusted Us For Their Corporate Events
+      
+      Fun Pro has a long established history of providing interactive and promotional games for all kinds of corporate events, and we’re proud to have worked with some of the biggest brands in the UK, including:
+      
+      **Virgin Trains**
+      
+      **Bristol Street Motors**
+      
+      **BT**
+      
+      ...and many more.
+      
+      ## Other Fun Pro Interactive Games and Products
+      
+      Whether you’re looking for something a little different or want to offer a range of fun activities at your next event, here are just a few of the options available for interactive game hire at Fun Pro.
+      
+      [Arcade Games](/categories/arcade-games/#content)
+      
+      [Prize Games](/categories/prize-games/#content)
+      
+      [Pub Games](/categories/pub-games/#content)
+      
+      [Roll and Bowl](/categories/roll-and-bowl/#content)
+      
+      [Crazy Golf](/products/crazy-golf/#content)
+      
+      [View all our event hire products and games here](/products/#content)
+      
+      ## Hire Batak Lite For Your Next Event
+      
+      [Contact us today to check availability, discuss customisation options, and get a competitive quote for Batak Lite hire today](/contact-fun-pro-uk/#content).
   - title: "How It Works"
-    body: "The Batak Lite is beautifully simple. Players stand in front of the reaction board and hit illuminated targets as quickly as possible. The game measures reaction time and creates a score, making it perfect for friendly competition and leaderboards.
-
-
-      Setup takes around Minimum door width 0.6m, and we handle everything from delivery through to collection. The game runs continuously throughout your event, with each round lasting 30-60 seconds. This means you can accommodate hundreds of players across a typical event.
-
-
-      We can provide experienced staff to manage the game and leaderboard if you'd prefer. This keeps queues moving smoothly and takes the responsibility off your team, allowing you to focus on your guests rather than managing entertainment logistics."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Batak Lite creates those water-cooler moments that people talk about for weeks after events. There's something universally appealing about the challenge of beating your own score or competing against colleagues.
-
-
-      What makes it a crowd favourite is how it naturally draws spectators. People gather round to watch, creating an atmosphere of support and friendly competition. The person normally quiet in meetings becomes the unexpected champion, creating talking points and breaking down social barriers.
-
-
-      We often find that the queue for the Batak becomes a networking opportunity in itself. People chat whilst waiting their turn, discuss tactics, and build the kind of informal connections that make team dynamics stronger. It's entertainment that keeps giving long after your event ends."
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Batak Lite hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Batak Lite optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+    body: |
+      
 ---
 

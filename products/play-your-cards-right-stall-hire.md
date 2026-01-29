@@ -5,8 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Event"
 meta_description: "Hire a Play Your Cards Right stall for your next event. Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today."
-categories:
-  - "categories/fun-fair-stalls.md"
+categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:
@@ -15,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "1850mm x 1850mm x 2134mm"
+    value: "TBD"
   - name: "Power"
-    value: "No power"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1829mm x 1829mm x 2134mm"
+    value: "TBD"
   - name: "Suitability"
-    value: "Level Surface"
+    value: "TBD"
   - name: "Access"
     value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -59,59 +56,135 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218"
 faqs:
-  - question: "How many people can play Play Your Cards Right Stall Hire at once?"
-    answer: "The Play Your Cards Right Stall Hire is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Play Your Cards Right Stall Hire suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Play Your Cards Right Stall Hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "Can the Play Your Cards Right stall be used for team-building exercises?"
+    answer: "Yes, the Play Your Cards Right stall is perfect for events like team-building days, staff parties and more. It's a fun and engaging way to bring people together and encourage natural interaction among teams who might not otherwise have the chance to spend much time together or get to know each other."
+  - question: "Are there any additional costs for extended rental periods or overtime?"
+    answer: "We offer hire periods from one day up to one week, which usually meets the needs of most customers. However, if you have a different requirement, please reach out to us for a free custom quote."
+  - question: "Are there any special packages or discounts for long-term rentals?"
+    answer: "For any custom pricing or hire periods, it's always best to contact us and we'll be able to review your needs and provide you with a quote."
+  - question: "Are the cards and other materials provided, or do we need to supply them?"
+    answer: "We provide everything you need to play the game and get set up, including helping with customisation if needed. The only thing you'll provide is extra prizes if you want more than what's included."
+  - question: "Can the Play Your Cards Right stall be themed to match our event decor?"
+    answer: "Yes, absolutely. We can fully customise the game to match your brand or event."
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "&pound;195"
       price: 195
 tabs:
   - title: "Why Play Your Cards Right Stall Hire?"
-    body: "The Play Your Cards Right Stall Hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1850mm x 1850mm x 2134mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Play Your Cards Right Stall Hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg"
+    body: |
+      # Play Your Cards Right Stall Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Play Your Cards Right Stall Hire for Corporate Events Across the UK
+      
+      ## The Best Play Your Cards Right Stall Hire for All UK Events
+      
+      Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this [interactive game](/categories/interactive-game-hire/#content) creates a thrilling atmosphere, making it an ideal addition to [corporate events](/categories/corporate-entertainment/#content), fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), and more.
+      
+      ## Hire a Play Your Cards Right Stall for Your Next Event
+      
+      Simple yet highly engaging, Play Your Cards Right is a fantastic game that suits events of all sizes. Whether your event is indoors or outdoors, this game is easy to set up and will keep guests entertained for hours.
+      
+      For corporate clients, this game offers a great branding opportunity. Customise the stall with your company’s logo, slogans, or unique design to align with your event’s theme. Guests will enjoy an exciting challenge while your branding takes centre stage.
+      
+      ## Our Play Your Cards Right Stall Hire Includes:
+      
+      A professionally designed Play Your Cards Right game stall
+      
+      50 fun prizes
+      
+      Large, high-quality playing cards for maximum visibility
+      
+      Easy-to-follow game instructions
+      
+      Optional trained host to manage the game (up to 4 hours)
+      
+      Suitable for both indoor and outdoor use
+      
+      ## Play Your Cards Right Stall Hire Pricing
+      
+      **2 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      **3 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      **7 day hire from**
+      
+      **CONTACT US FOR PRICE**
+      
+      Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. As a nationwide hire company, we deliver across the UK on request. Minimum order values and delivery fees apply.
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Why Choose Our Play Your Cards Right Stall Hire Service?
+      
+      Fun Pro UK is a trusted provider of high-quality game hires for events across the UK. By choosing our Play Your Cards Right stall, you’re guaranteeing reliability, quality, and an engaging experience for your guests.
+      
+      This game is ideal for a range of events, including corporate team-building days, community fairs, product launch events, and more.
+      
+      We provide a seamless service from start to finish, handling delivery, setup, and collection.
+      
+      If required, we also offer an event host to ensure smooth gameplay throughout your event.  
+      
+      ## Hiring A Play Your Cards Right Stall: Our Process
+      
+      Booking a Target Ring Toss hire service from Fun Pro is simple and stress-free.
+      
+      ### **Step 1: Enquiry**
+      
+      Contact us via our website, email, or phone to discuss your event needs. Our team will provide a personalised quote based on your requirements.
+      
+      ### **Step 2: Confirmation**
+      
+      Once you're happy with the Target Ring Toss hire service, simply confirm your booking, and we'll handle the rest.
+      
+      ### **Step 3: Delivery and setup**
+      
+      On the day of your event, we will deliver and set up the Target Ring Toss game at your chosen venue. We ensure everything is running smoothly for maximum enjoyment.
+      
+      ### **Step 4: Event day support**
+      
+      If you require additional onsite assistance during the event, our team is just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
+      
+      #### **Step 5: Removal**
+      
+      Once the event is over, we’ll return to collect the Target Ring Toss game, leaving your venue exactly as we found it.
+      
+      ## Ready to Book Our Play Your Cards Right Stall Hire?
+      
+      Don't miss the opportunity to enhance your event with our Play Your Cards Right stall. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
+      
+      Brand the rear half wall of the side stall with your brand from
   - title: "How It Works"
-    body: "The Play Your Cards Right Stall Hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes nan. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-1.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Play Your Cards Right Stall Hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Play Your Cards Right Stall Hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Play Your Cards Right Stall Hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Play Your Cards Right Stall Hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes nan.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+    body: |
+      
 ---
 

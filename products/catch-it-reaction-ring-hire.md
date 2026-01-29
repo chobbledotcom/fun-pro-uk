@@ -5,11 +5,7 @@ price: "£445"
 order: 50
 meta_title: "Catch It Reaction Game Hire | Corporate Event Entertainment"
 meta_description: "Hire Catch It Reaction games for corporate events &amp; exhibitions. Nationwide delivery, custom branding, professional setup. Get your quote today."
-categories:
-  - "categories/exhibition-games.md"
-  - "categories/arcade-games.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/pub-games.md"
+categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -18,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 player at a time"
+    value: "TBD"
   - name: "Space Required"
     value: "1500mm x 1600mm x 2010mm"
   - name: "Power"
     value: "1 x UK mains socket (Game wattage usage 5-8 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1460mm x 1460mm x 2004mm"
+    value: "1460mm Width x 1460mm Depth x 2004mm Height"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "5-8W"
-  - name: "Player Count"
-    value: "1 player at a time"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 445
@@ -78,60 +72,179 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3c93aa83238a4cbe6b49ca47994bffa"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/acac488e1411bebfcbda5b0f50eae099"
 faqs:
-  - question: "How many people can play Catch it Reaction Ring Hire at once?"
-    answer: "The Catch it Reaction Ring Hire is designed for 1 player at a time. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Catch it Reaction Ring Hire suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Catch it Reaction Ring Hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "How much space does Catch It Reaction require?"
+    answer: "The game requires a minimum 2m x 2m area with additional space for queue formation. We recommend allowing 3m x 3m for optimal player movement and spectator viewing."
+  - question: "Is Catch It Reaction suitable for all ages?"
+    answer: "Yes, the game is designed for participants aged 8 and above. The adjustable difficulty settings make it engaging for both children and adults."
+  - question: "Can Catch It Reaction be used outdoors?"
+    answer: "No. Catch It Reaction is designed for indoor use only."
+  - question: "How long does setup take?"
+    answer: "Our professional technicians typically complete setup within 30-45 minutes, including testing and calibration."
+  - question: "Can I hire multiple units for larger events?"
+    answer: "Absolutely! Multiple Catch It Reaction units are perfect for large conferences and exhibitions with high footfall."
+  - question: "What power source is required?"
+    answer: "The game requires one standard UK power socket. Power consumption is minimal, making it suitable for most venue electrical systems."
+  - question: "How far in advance should I book?"
+    answer: "We recommend booking as early as possible, especially for peak event seasons and major exhibition dates."
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "Front and side panel"
       price: 195
 tabs:
   - title: "Why Catch it Reaction Ring Hire?"
-    body: "The Catch it Reaction Ring Hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1500mm x 1600mm x 2010mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Catch it Reaction Ring Hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg"
+    body: |
+      # Catch it Reaction Ring Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Catch It Reaction Game Hire – The Ultimate Interactive Game for Corporate & Private Events
+      
+      Our Catch It Reaction Game hire is the perfect high-energy activity to create excitement and draw crowds at your next corporate event, exhibition, or private function. This thrilling reaction-based game challenges players to catch rings at lightning speed, making it an ideal centrepiece for team building days, product launches, and [brand activations](/promotional-event-games/#content).
+      
+      ## What Is Catch It Reaction?
+      
+      Catch It Reaction is an engaging interactive game that tests players' reflexes, hand-eye coordination, and reaction speed. Players must catch rings that are released at timed intervals, with the challenge increasing as the game progresses.
+      
+      The fast-paced nature of the game creates an exciting atmosphere for both participants and spectators, making it perfect for drawing crowds and creating memorable experiences at corporate events and exhibitions.
+      
+      Popular at trade shows, conferences, and [team building events](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), Catch It Reaction generates buzz around your brand while encouraging friendly competition among participants.
+      
+      ## Why Choose Catch It Reaction Game Hire for Your Next Event?
+      
+      At Fun Pro UK, our Catch It Reaction game hire delivers exceptional value for corporate events nationwide. Here's why event planners continue to choose us:
+      
+      *   High-Impact Engagement: Creates instant excitement and draws crowds to your exhibition stand
+          
+      *   Perfect for All Skill Levels: Easy to learn but challenging to master, suitable for everyone
+          
+      *   Boosts Brand Visibility: Fully customisable to match your corporate or event branding and colours
+          
+      *   Professional Nationwide Service: Complete delivery, setup, and removal across the UK
+          
+      *   Competitive Pricing: Premium equipment at market-leading rates
+          
+      *   Ideal for Multiple Event Types: Perfect for conferences, exhibitions, corporate parties, and team building
+      
+      ## Nationwide Catch It Reaction Game Hire & Locations
+      
+      As a leading nationwide hire company, Fun Pro UK delivers Catch It Reaction games throughout the UK. We provide professional service to major cities including London, Manchester, Birmingham (including NEC and ICC Arena), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (including CBS Arena).
+      
+      Our experienced team handles everything from initial consultation to delivery and post-event collection, ensuring your Catch It Reaction game hire runs seamlessly regardless of location\*.
+      
+      \*Minimum order values and delivery fees apply. Contact us for specific location pricing.
+      
+      ## Catch It Reaction Game Hire Game Description
+      
+      The Catch It Reaction game features a sleek, modern design that immediately attracts attention at any event. Players stand in front of the machine and prepare to catch rings that are released at varying intervals and speeds.
+      
+      The game's intelligent timing system ensures each round presents a unique challenge, keeping participants engaged and spectators entertained.
+      
+      With its intuitive gameplay and competitive scoring system, Catch It Reaction encourages multiple attempts and creates natural queue formation at exhibitions and trade shows.
+      
+      ## **What's Included in Catch It Reaction Game Hire?**
+      
+      When you hire Catch It Reaction from Fun Pro UK, you receive a complete service package:
+      
+      Included in every hire:
+      
+      *   UK-wide delivery and collection (delivery costs may apply)
+          
+      *   Professional installation and setup by trained technicians
+          
+      *   Custom branding options available
+          
+      *   Full operational support
+      
+      Need a longer hire period? Contact us for custom pricing and availability.
+      
+      ## Game Specifications
+      
+      Ring Reaction specifications:
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Branding Options & Pricing**
+      
+      Transform Catch It Reaction into a powerful marketing tool with our comprehensive branding options:
+      
+      Our in-house design team prints, applies, and removes all branding elements after your event. All branding is single-use only to ensure premium quality for each client.
+      
+      Custom branding options for your Catch It Reaction Game hire starts at £195+ VAT.
+      
+      **Brands That Trust Fun Pro UK**
+      
+      We're proud to have provided entertainment solutions for leading UK brands including:
+      
+      *   Rolls-Royce
+          
+      *   Boots
+          
+      *   BT
+          
+      *   Amazon
+          
+      *   ...and many more
+      
+      ## Other Interactive Games
+      
+      Enhance your event with our complete range of interactive entertainment:
+      
+      *   [Batak Pro](/products/batak-pro/#content) - Reaction speed challenge
+          
+      *   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire/#content) - Test your strength game
+          
+      *   [Arcade Games](/categories/arcade-games/#content) - Classic gaming entertainment
+          
+      *   [Prize Games](/categories/prize-games/#content) - Win exciting rewards
+      
+      ## **Hire Catch It Reaction Game for Your Event**
+      
+      Ready to add excitement to your next corporate event or exhibition? [Contact Fun Pro UK](/contact-fun-pro-uk/#content) today to check availability, discuss customisation options, and receive a competitive quote for Catch It Reaction game hire across the UK.
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      All packages include delivery, setup, and removal by our professional team.
+      
+      You can rest assured that the Catch it and other equipment will arrive in top condition, and ready-for-use at your event.
+      
+      Need a longer hire period?
+      
+      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
+      
+      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      **Front and side **panel** branding**
   - title: "How It Works"
-    body: "The Catch it Reaction Ring Hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Minimum door width 0.6m. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-9.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Catch it Reaction Ring Hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Catch it Reaction Ring Hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg"
+    image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-8.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Catch it Reaction Ring Hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Catch it Reaction Ring Hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Minimum door width 0.6m.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-7.jpg"
+    body: |
+      
 ---
 

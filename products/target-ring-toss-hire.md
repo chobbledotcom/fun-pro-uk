@@ -5,8 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Target Ring Toss Hire | Fun & Interactive Game for UK Events"
 meta_description: "Hire a Target Ring Toss game for your next event! Perfect for corporate events, fairs, and parties. Nationwide delivery &amp; setup available. Book today"
-categories:
-  - "categories/fun-fair-stalls.md"
+categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:
@@ -15,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "1850mm x 1850mm x 2134mm"
+    value: "TBD"
   - name: "Power"
-    value: "No power"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1829mm x 1829mm x 2134mm"
+    value: "TBD"
   - name: "Suitability"
-    value: "Level Surface"
+    value: "TBD"
   - name: "Access"
     value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -48,58 +45,132 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
 faqs:
-  - question: "How many people can play Target Ring Toss Hire at once?"
-    answer: "The Target Ring Toss Hire is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is Target Ring Toss Hire suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the Target Ring Toss Hire fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+  - question: "How long does it take to set up the Target Ring Toss game?"
+    answer: "Our professional team handles the complete set-up process, which typically takes 20-30 minutes. We arrive with plenty of time before your event begins to ensure everything is prepared for your guests to enjoy. The game can be set up both indoors and outdoors, depending on your venue requirements."
+  - question: "Can I customise the Target Ring Toss game with my company branding?"
+    answer: "Yes! We offer customisation options that allow you to incorporate your company's logo, slogans, or specific design elements onto the game stand. This is particularly popular for corporate events and product launches, providing excellent brand visibility whilst guests enjoy the game."
+  - question: "Do I need to provide any additional equipment or staff?"
+    answer: "No, we provide everything needed for the Target Ring Toss game, including all rings and equipment. We also offer the option of a trained attendant for up to 4 hours to organise the game and ensure smooth operation. If you don't require an attendant, we'll provide easy-to-follow game instructions."
+  - question: "What is your coverage area for delivery?"
+    answer: "We deliver to our customers all over the UK."
 add_ons:
-  intro: "In-house branding available. We print, apply, and remove them after each event."
+  intro: |
+    ## {{ title }} Branding and Customisation Options
+
+    Make {{ title }} a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
+
+    ### Branding Prices From
+
+    In-house branding available. We print, apply, and remove them after each event.
+    (One time use only)
   options:
     - name: "&pound;195"
       price: 195
 tabs:
   - title: "Why Target Ring Toss Hire?"
-    body: "The Target Ring Toss Hire delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 1850mm x 1850mm x 2134mm, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the Target Ring Toss Hire effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg"
+    body: |
+      # Target Ring Toss Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Target Ring Toss Hire For Corporate Events Across The UK
+      
+      ## The Best Target Ring Toss Hire for All UK Events
+      
+      Are you looking for some fun, [interactive games](/categories/interactive-game-hire/#content) and activities to include in your next corporate event? Our Target Ring Toss hire is a fantastic choice that guarantees hours of fun for guests of all ages.
+      
+      Perfect for [corporate events](/categories/corporate-entertainment/#content), school fairs, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), and more, this classic game brings friendly competition and laughter to any gathering.
+      
+      ## Hire a Target Ring Toss Game For Your Next Event
+      
+      This timeless game offers a simple yet engaging experience that fits a variety of events, big and small. Whether played indoors or outdoors, the Target Ring Toss game is easy to set up and keeps guests entertained for hours.
+      
+      For businesses, this game provides an excellent opportunity for brand exposure. Customise the stand with your company’s logo, slogans, or unique designs to align with your event’s theme. Guests can engage in a fun challenge while your branding takes centre stage.
+      
+      ## Our Target Ring Toss Hire Includes:
+      
+      1 sturdy and visually appealing Target Ring Toss game setup
+      
+      Multiple rings for gameplay
+      
+      50 fun prizes
+      
+      Easy-to-follow game instructions
+      
+      Optional trained attendant to manage the game (up to 4 hours)
+      
+      Suitable for both indoor and outdoor use
+      
+      ## Target Ring Toss Hire Pricing
+      
+      Our services include full setup and removal by our professional team, making the process smooth and hassle-free. Please note that delivery is not included in the price and will be charged separately.
+      
+      You can trust that our Target Ring Toss game and all related equipment will arrive in excellent condition, fully prepared and ready for use at your event.
+      
+      As a nationwide hire company, we can provide everything you need for your party or event. We offer delivery throughout the UK on request,
+      
+      Minimum order value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back to you.
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Why Choose Our Target Ring Toss Hire Service?
+      
+      Fun Pro UK is a trusted provider of high-quality game hires for any event. Choosing our Target Ring Toss hire means choosing reliability, quality, and a fun-filled experience for your guests. We are committed to delivering an exceptional service that integrates seamlessly into your event.
+      
+      Target Ring Toss is a fantastic game that suits every occasion, from corporate team-building days, community fairs, product launch events, and more.
+      
+      We provide hassle-free services from start to finish. We deliver and set up the equipment, offer assistance during the event (if required), and manage removal afterward. All you need to do is enjoy the fun.
+      
+      Let us help make your event unforgettable with a Target Ring Toss game that brings excitement and enjoyment to your guests.
+      
+      ## Hiring Target Ring Toss Games: Our Process
+      
+      Booking a Target Ring Toss hire service from Fun Pro is simple and stress-free.
+      
+      #### **Step 1: Enquiry**
+      
+      Contact us via our website, email, or phone to discuss your event needs. Our team will provide a personalised quote based on your requirements.
+      
+      #### **Step 2: Confirmation**
+      
+      Once you're happy with the Target Ring Toss hire service, simply confirm your booking, and we'll handle the rest.
+      
+      #### **Step 3: Delivery and setup**
+      
+      On the day of your event, we will deliver and set up the Target Ring Toss game at your chosen venue. We ensure everything is running smoothly for maximum enjoyment.
+      
+      #### **Step 4: Event day support**
+      
+      If you require additional onsite assistance during the event, our team is just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
+      
+      #### **Step 5: Removal**
+      
+      Once the event is over, we’ll return to collect the Target Ring Toss game, leaving your venue exactly as we found it.
+      
+      ## Ready to Book Our Target Ring Toss Hire?
+      
+      Don't miss the chance to upgrade your event with our Target Ring Toss Hire. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
+      
+      ### What happens if there's poor weather on the day of my outdoor event?
+      
+      The Target Ring Toss game is versatile and can be easily moved indoors if weather conditions aren't favourable. During the booking process, we'll discuss contingency plans for outdoor events to ensure your guests can enjoy the game regardless of the weather. Our team will work with you to identify suitable indoor spaces as a backup.
+      
+      Brand the rear half wall of the inside of the stall with your brand from:
   - title: "How It Works"
-    body: "The Target Ring Toss Hire is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes nan. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The Target Ring Toss Hire has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The Target Ring Toss Hire creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for Target Ring Toss Hire hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the Target Ring Toss Hire optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes nan.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
+    body: |
+      
 ---
 

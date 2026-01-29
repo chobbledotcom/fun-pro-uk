@@ -5,9 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Gladiator Duel Hire | Inflatable Games | Fun Pro UK"
 meta_description: "Strap on the bungee cords and race to the end! Gladiator duels are as fun to watch as they are to play - laughter guaranteed! Available for hire nationwide."
-categories:
-  - "categories/corporate-entertainment.md"
-  - "categories/fun-days.md"
+categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
 events: []
 featured: true
 features:
@@ -16,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "2m x 2m x 2m"
+    value: "5200mm Width x 6500mm Depth"
   - name: "Power"
-    value: "1 x UK mains socket (Game usage: 10-50W)"
+    value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1.5m x 1.5m x 1.8m"
+    value: "4900mm Width x 5500mm Depth"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor and outdoor use/Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Drive on only"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -58,54 +54,78 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e47337c283900e9bd8067d6f29d8de25"
 tabs:
   - title: "Why GLADIATOR DUEL?"
-    body: "The GLADIATOR DUEL delivers engaging entertainment for 15-20 minutes at corporate events, celebrations, and brand activations. Suitable for 2m x 2m x 2m, this professionally maintained equipment creates the competitive energy and social interaction that makes events memorable.
-
-
-      What makes the GLADIATOR DUEL effective is its combination of accessibility and engagement. The straightforward gameplay means everyone can participate regardless of ability, 20-200 guests keeps queues moving efficiently, and the competitive element creates natural enthusiasm without requiring complex organization.
-
-
-      This entertainment works particularly well when you need reliable engagement that appeals across different personalities and comfort levels. Some colleagues throw themselves enthusiastically into competition whilst others enjoy watching and supporting - both types of engagement create the social atmosphere you want at successful events. With professional delivery, setup, and collection included, you get impressive entertainment without logistical complications."
     image: "/images/products/gladiator-duel/gladiator-duel-5.jpg"
+    body: |
+      # GLADIATOR DUEL
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## **Gladiator Duel Hire**
+      
+      **4 hour hire from**
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular Products:**
+      
+      *   **[Human Football](/products/human-table-football/#content)**
+      *   **[75ft Assault course](/products/inflatable-assault-courses/#content)**
+      *   **[Hungry Hippos](/products/dash-and-grab-hungry-hippo-inflatable-game/#content)**
+      *   **[Bungee run](/products/bungee-run/#content)**
+      *   **[Total Wipeout](/products/total-wipe-out/#content)**
+      
+      ## **Gladiator Duel Hire**
+      
+      Whether you are playing for fun or out for revenge on the workmate who stole your sandwiches from the office fridge, our gladiator duel is a great way to release any pent up tension during your office fun day, and have enormous fun doing it.
+      
+      After all, it's not every day you get to bash the boss or clobber a colleague, so the gladiator duel is your big chance.
+      
+      ### The ultimate challenge
+      
+      Who will survive the pummelling and stay on their podium while knocking their opponent for six? Who has the best balance and the fastest swing? You'll be surprised at what you find out about your fellow workers when they let their hair down and really go for it, and the quietest secretary often turns out to be a secret Sparticus!
+      
+      ### First class fun
+      
+      Gladiator duel game hire includes a top quality inflatable battle zone, to guarantee a soft landing when you get knocked down. You'll also get a pair of padded fighting sticks, just like the Gladiators on TV, plus a pair of head protectors to stop you getting hit too hard.
+      
+      It's always a massive success at any kind of [company fun day](/categories/fun-days/#content), creating a queue of challengers and a huge crowd cheering them on, or perhaps willing them to fall.
+      
+      ### A fantastic fun day range
+      
+      The gladiator duel is just part of our company fun day hire range, available for delivery across the UK. Why not add the hilarious mayhem of [human table football](/products/human-table-football/#content), or the skill and timing of the [wipeout swinging arm game](/products/total-wipe-out/#content).
+      
+      Talk to our friendly team and we'll create the perfect package to suit your theme, your venue and your budget, with everything carefully planned to make your whole day hassle free.
+      
+      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
   - title: "How It Works"
-    body: "The GLADIATOR DUEL is designed to be immediately accessible for all your guests. There's no complicated setup or rules to learn - people can simply start playing and enjoying themselves.
-
-
-      We handle delivery and professional setup, which typically takes Standard door width / Can be carried upstairs. This includes positioning the game optimally for your venue, ensuring everything works flawlessly, and making any final adjustments needed for your space.
-
-
-      The game runs continuously throughout your event with minimal supervision required. For larger events, we can provide experienced staff to manage the game, keep queues moving, and ensure everyone gets fair turns."
     image: "/images/products/gladiator-duel/gladiator-duel-4.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The GLADIATOR DUEL has proven itself across thousands of events because it delivers what event planners actually need: genuine engagement, inclusive entertainment, and memorable experiences that people enjoy discussing afterwards.
-
-
-      What makes it a crowd favourite is its accessibility. There's no skill barrier that excludes less confident colleagues, no complicated rules that create confusion, and no pressure that makes participation uncomfortable. Everyone can engage at their own level.
-
-
-      People remember how entertainment made them feel. The GLADIATOR DUEL creates positive associations with your event and, by extension, your company culture. These emotional connections often prove more valuable than the formal objectives listed in your event brief."
-    image: "/images/products/gladiator-duel/gladiator-duel-5.jpg"
+    image: "/images/products/gladiator-duel/gladiator-duel-3.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We provide comprehensive service for GLADIATOR DUEL hire, handling everything from delivery through to collection. This takes the logistical stress out of your event planning whilst ensuring everything works flawlessly from arrival through to departure.
-
-
-      Our professional team arrives at your venue with adequate time for setup before your event begins. We position the GLADIATOR DUEL optimally for your space, test everything thoroughly, and make any final adjustments needed. Setup typically takes Standard door width / Can be carried upstairs.
-
-
-      Delivery, setup, and collection are all included in the hire price. We work nationwide throughout the UK from our Midlands base, providing the same professional service regardless of your location. For larger events or when you'd prefer hands-off entertainment, we can provide experienced staff to manage the game throughout your occasion.
-
-
-      When you get your quote, we'll discuss your specific venue requirements including access, power availability, and positioning. Our experience with venues across the UK means we can advise on logistics and ensure smooth delivery that doesn't disrupt your event schedule."
     image: "/images/products/gladiator-duel/gladiator-duel-2.jpg"
-faqs:
-  - question: "How many people can play GLADIATOR DUEL at once?"
-    answer: "The GLADIATOR DUEL is designed for 1-4 players. This helps manage queues at your event whilst ensuring everyone gets a fair turn. We can recommend additional games if you're expecting larger numbers."
-  - question: "Is GLADIATOR DUEL suitable for all ages?"
-    answer: "Yes, this game is suitable for ages 5 and above. It's designed to be inclusive and enjoyable for mixed-age groups, making it perfect for corporate events, family fun days, and community celebrations where you'll have attendees of different ages and abilities."
-  - question: "How much space do we need?"
-    answer: "We'll need approximately the equipment size plus comfortable clearance for players and spectators. Before your event, we'll discuss your venue layout to ensure the GLADIATOR DUEL fits comfortably and safely. It's worth measuring your space beforehand, and we're happy to advise on the best positioning."
-  - question: "Do you set everything up?"
-    answer: "Yes, absolutely. We handle delivery, professional setup (which takes around 15-20 minutes), and collection after your event. This is all included in the hire price, taking one less thing off your mind during event planning."
-  - question: "What power do you need?"
-    answer: "We'll let you know the specific requirements when you book. If mains power is needed, we just require access to a standard UK socket within reasonable distance. If you're unsure about power availability at your venue, mention this when you contact us and we can discuss alternatives."
+    body: |
+      
 ---
 
