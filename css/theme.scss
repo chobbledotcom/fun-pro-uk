@@ -792,6 +792,12 @@ body.one-column .quote-sidebar {
         font-size: 16px;
       }
     }
+    &.total {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      margin-top: calc(var(--gap-items) / 2);
+    }
     & > ul {
       display: flex;
       flex-direction: column;
@@ -829,20 +835,61 @@ body.one-column .quote-sidebar {
   @include card;
   background-color: white;
   h1 {
-    text-align: center;
     font-size: 24px;
     font-weight: 500;
     line-height: 32px;
-    margin: 0 0 var(--gap-items);
+    margin: 0;
+  }
+  hr {
+    background: #e6e6e6;
+    margin: var(--gap-items) 0;
+  }
+  .quote-cart-items {
+    padding: 0;
+    gap: calc(var(--gap-items) / 2);
   }
   .quote-cart-item {
     background: #fafafa;
+    padding: var(--gap-items) calc(var(--gap-items) / 2);
     border: none;
+    & > ul {
+      gap: calc(var(--gap-items) / 2);
+    }
+    .quote-cart-item-info {
+      order: 0;
+      margin: 0;
+      font-size: 20px;
+      font-weight: 500;
+      line-height: 32px;
+      display: flex;
+      justify-content: space-between;
+      min-width: 100%;
+      span[data-field="price"] {
+        font-size: 24px;
+        line-height: normal;
+        &::before {
+          content: "From ";
+        }
+        &::after {
+          content: " exc. VAT";
+          font-size: 16px;
+          font-weight: 400;
+        }
+      }
+    }
+    .quote-cart-item-subtitle {
+      order: 1;
+      flex-grow: 1;
+    }
     .quote-cart-item-actions {
+      order: 2;
       button,
       input {
         border: 1px solid #ccc;
       }
+    }
+    .quote-cart-item-specs {
+      order: 3;
     }
   }
   .quote-cart-actions {
