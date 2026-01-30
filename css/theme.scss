@@ -1140,9 +1140,6 @@ body.horizontal-nav main {
           display: flex !important;
           opacity: 0;
           pointer-events: none;
-          transition:
-            opacity 0.25s ease-out,
-            transform 0.25s ease-out;
           z-index: 99;
           background: #fff;
           border-radius: 8px;
@@ -1155,6 +1152,9 @@ body.horizontal-nav main {
           opacity: 1;
           transform: translateY(0);
           pointer-events: auto;
+          transition:
+            opacity 0.25s ease-out,
+            transform 0.25s ease-out;
         }
 
         & > li:has(a[href="/how-we-help/#content"]) {
