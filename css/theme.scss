@@ -2570,7 +2570,7 @@ body {
             span {
               font-weight: 500;
               color: #181a1f;
-              a::before {
+              &::before {
                 background: #333;
               }
             }
