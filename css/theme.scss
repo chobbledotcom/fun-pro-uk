@@ -2770,16 +2770,16 @@ div.fun-pro-item {
       }
     }
     & > div {
-      height: calc(100% - var(--section-padding-half));
+      gap: var(--gap-items);
       h1,
       h2,
       h3,
       p {
         margin-top: 0;
       }
-      .image-wrapper {
-        height: auto;
-        width: 387px;
+      .image {
+        min-width: 327px;
+        flex: inherit;
       }
     }
   }
