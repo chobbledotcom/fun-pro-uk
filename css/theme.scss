@@ -2534,7 +2534,10 @@ body {
       border: 0;
       padding: 0;
       width: 170px;
-      top: 100px;
+      top: 130px;
+      @include breakpoints.up("xl") {
+        top: 100px;
+      }
       a {
         color: #181a1f;
       }
@@ -2549,26 +2552,30 @@ body {
             font-size: 14px;
             a,
             span {
-              padding: 8px !important;
+              padding: 8px 8px 8px 22px !important;
+              display: block;
+              position: relative;
+              &::before {
+                content: "";
+                display: inherit;
+                width: 14px;
+                height: 14px;
+                border-radius: 2px;
+                background: #e5e5e5;
+                position: absolute;
+                top: 10px;
+                left: 0;
+              }
             }
             span {
               font-weight: 500;
-              font-size: 18px;
               line-height: 28px;
+              color: #181a1f;
             }
-            &::before {
-              content: "";
-              display: inherit;
-              width: 14px;
-              height: 14px;
-              border-radius: 2px;
-              background: #e5e5e5;
-            }
-            &.active {
-              padding: 0;
+            span {
               background: none;
               color: var(--color-link);
-              &::before {
+              a::before {
                 background: #333;
               }
             }
