@@ -2569,15 +2569,14 @@ body {
             }
             span {
               font-weight: 500;
-              line-height: 28px;
               color: #181a1f;
-            }
-            span {
-              background: none;
-              color: var(--color-link);
               a::before {
                 background: #333;
               }
+            }
+            &.active {
+              background: none;
+              padding: 0;
             }
           }
         }
@@ -2785,7 +2784,7 @@ div.fun-pro-item {
         margin-top: 0;
       }
       .image {
-        min-width: 327px;
+        width: 327px;
         flex: inherit;
       }
     }
