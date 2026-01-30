@@ -41,8 +41,8 @@ layout: base
     <div class="item-tabs">
       {% include "tabs.html" %}
     </div>
+    {%- if reviews.size > 0 -%}
     <div class="item-reviews">
-      {%- if rating -%}
         <h2>Hear What Our Clients Have To Say</h2>
         <h3>Customer Reviews on Google</h3>
         <p>
@@ -58,11 +58,13 @@ layout: base
             <a href="#" class="slider-next">→</a>
           </p>
         </div>
-      {%- endif -%}
     </div>
+    {%- endif -%}
+    {%- if faqs.size > 0 -%}
     <div class="item-faqs">
       {%- include "faq.html" -%}
     </div>
+    {%- endif -%}
   </div>
 </div>
 
