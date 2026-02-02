@@ -5,8 +5,11 @@ price: "£495"
 order: 50
 meta_title: "Christmas Prize Crane - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Prize Crane is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-game-hire.md"
+  - "categories/christmas-games.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,13 +17,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "800mm Width x 1200mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 42-148 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "600mm Width x 600mm Depth x 1900 Height"
   - name: "Suitability"
@@ -29,11 +32,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -54,15 +59,18 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2d8c6c3f00bc9398a74cd2465780c220"
 add_ons:
-  intro: |
-    ## Christmas Prize Crane Branding and Customisation Options
+  intro: "## Christmas Prize Crane Branding and Customisation Options
+
 
     Make Christmas Prize Crane a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Internal back wall"
       price: 95
@@ -74,43 +82,59 @@ add_ons:
       price: 475
 tabs:
   - title: "Why Christmas Prize Crane?"
+    body: "The Christmas Prize Crane brings arcade excitement with festive theming to corporate Christmas parties and seasonal celebrations. The familiar crane format creates genuine engagement whilst the Christmas theming ensures it fits seasonal events.
+
+
+      For parties where you want entertainment that combines fun with potential prizes, crane games deliver the addictive challenge that keeps guests coming back. The skill element means wins feel earned rather than randomly distributed.
+
+
+      Capacity suits events of 20-200 guests, with the prize element maintaining interest throughout. Mains power required for operation."
     image: "/images/products/christmas-prize-crane/christmas-prize-crane-1.jpg"
-    body: |
-      # Christmas Prize Crane
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
   - title: "How It Works"
-    body: |
-      
+    body: "Players control the crane using joystick controls, positioning it over prizes before lowering the claw to grab. The familiar arcade format needs no explanation and creates immediately engaging gameplay.
+
+
+      Prizes can be customised to suit your event and budget. The crane operates continuously with guests taking turns as they wish.
+
+
+      Setup takes approximately 15-20 minutes and requires mains power. The Christmas theming adds seasonal atmosphere without changing the core gameplay."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Crane games are genuinely addictive. The near-misses, the strategy of positioning, the genuine satisfaction when the claw grabs successfully. It's arcade psychology perfected over decades, and it works at events just as it does in entertainment venues.
+
+
+      The prize element adds stakes that pure games lack. Guests aren't just playing for points but for tangible rewards. That changes engagement levels noticeably.
+
+
+      Christmas theming makes it seasonally appropriate whilst the festive prizes create gift-like wins that enhance the party atmosphere."
+    image: "/images/products/christmas-prize-crane/christmas-prize-crane-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can play Christmas Prize Crane at once?</h3>"
+    answer: "One player operates the crane at a time, with the addictive format keeping queues engaged as they watch and plan their own attempts.
+
+
+      <h3>Q: Can we choose the prizes?</h3>
+
+      A: Yes, prizes can be customised to suit your event and budget. We'll discuss options when you enquire, from branded items to premium products.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, the familiar arcade crane format appeals to all ages. The skill-based challenge creates genuine excitement when players grab prizes successfully.
+
+
+      <h3>Q: What power do you need?</h3>
+
+      A: Mains power is required for the crane mechanism and lighting."
 ---
 

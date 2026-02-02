@@ -5,7 +5,8 @@ price: "£450"
 order: 50
 meta_title: "Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Hook A Duck is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/fun-fair-stalls.md"]
+categories:
+  - "categories/fun-fair-stalls.md"
 events: []
 featured: true
 features:
@@ -14,26 +15,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "nan x nan x nan"
   - name: "Power"
-    value: "TBD"
+    value: "No power required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "nan x nan x nan"
   - name: "Suitability"
-    value: "TBD"
+    value: "Level surface"
   - name: "Access"
-    value: "TBD"
+    value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
     value: "TBD"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -45,71 +48,76 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a"
 add_ons:
-  intro: |
-    ## Hook A Duck Branding and Customisation Options
+  intro: "## Hook A Duck Branding and Customisation Options
+
 
     Make Hook A Duck a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "&pound;195"
       price: 195
 tabs:
   - title: "Why Hook A Duck?"
+    body: "Hook a Duck brings classic fairground nostalgia to corporate events, family days, and summer celebrations. The familiar format needs no explanation, lowers barriers to participation, and carries positive associations for most guests.
+
+
+      For events where you want accessible, relaxed entertainment that works across ages and abilities, hook a duck delivers without complication. The familiar format feels like a treat rather than corporate entertainment.
+
+
+      No power required means flexible positioning, with capacity for 20-200 guests. Setup takes approximately 15-20 minutes."
     image: "/images/products/hook-a-duck/hook-a-duck-1.jpg"
-    body: |
-      # Hook A Duck
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Hook A Duck Stall Hire for Corporate Events Across the UK
-      
-      ## The Best Hook A Duck Stall Hire for All UK Events
-      
-      **Looking to bring a touch of classic fairground fun to your next corporate event?** Our **Hook A Duck** game hire is the perfect way to engage and entertain guests while adding a nostalgic vibe to any occasion.
-      
-      A staple of traditional fairs and fun days, this popular game challenges players to hook a floating duck from the water using a fishing rod to win a prize. Perfect for [corporate events](/categories/fun-fair-stalls/#content), fairs [staff parties](/events/summer-entertainment/#content), product launches, and family fun days, the **Hook A Duck** game is sure to attract a crowd and keep everyone having fun.
-      
-      ## Hire a Hook A Duck Stall for Your Next Event
-      
-      Simple yet highly engaging, **Hook A Duck** is a timeless fairground attraction that works for events of all sizes. Whether indoors or outdoors, this compact and easy-to-set-up game provides hours of competitive fun.
-      
-      For corporate clients, the **Hook A Duck** game offers fantastic branding opportunities. Customise the game with your company logo, event slogan, or unique design to elevate your brand presence while your guests enjoy the fun!
-      
-      ### Our Hook A Duck Stall Hire Includes:
-      
-      ### A professionally designed Hook A Duck game unit with a vibrant 4ft x 2ft setup
-      
-      50 fun prizes
-      
-      Easy-to-follow instructions suitable for players of all age
-      
-      Option to fully customise the game with your branding
-      
-      Suitable for both indoor and outdoor use
-      
-      ## Hook A Duck Stall Hire Pricing
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      Brand the rear half wall of the inside of the stall with your brand from:
   - title: "How It Works"
-    body: |
-      
+    body: "Players use hooks to catch floating ducks from the water, with different ducks representing different prizes or scores. The familiar fairground format is immediately understandable.
+
+
+      The game runs continuously with guests stepping up as they wish. The casual format suits events where entertainment should complement socialising rather than demand attention.
+
+
+      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Hook a duck works because nostalgia is powerful. For anyone who remembers fairground visits, the format triggers genuine warm associations. That emotional connection distinguishes it from novel entertainment that lacks those memories.
+
+
+      The accessibility matters too. No skill required, no performance anxiety, no learning curve. Guests simply hook ducks and enjoy the simple pleasure of it. Sometimes that's exactly what events need.
+
+
+      For family days and mixed events, the cross-generational appeal is valuable. Children and grandparents engage equally, creating shared experiences across age groups."
+    image: "/images/products/hook-a-duck/hook-a-duck-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can play Hook a Duck at once?</h3>"
+    answer: "The game accommodates 1-4 players hooking simultaneously, with the familiar fairground format keeping things moving efficiently.
+
+
+      <h3>Q: Is Hook a Duck suitable for all ages?</h3>
+
+      A: Yes, the classic format is accessible for all ages. It's one of our most universally appealing games, perfect for family days and mixed events.
+
+
+      <h3>Q: Are prizes included?</h3>
+
+      A: Prizes can be arranged depending on your requirements. We'll discuss options when you enquire about your event.
+
+
+      <h3>Q: Does it need power?</h3>
+
+      A: No, Hook a Duck requires no power, giving you complete flexibility with positioning."
 ---
 

@@ -5,8 +5,14 @@ price: "£695"
 order: 50
 meta_title: "Scalextric Slot Car Racing - Arcade Games Hire UK"
 meta_description: "Experience the thrill of Scalextric Slot Car Racing! Perfect for UK corporate events, parties, and more. Hire this exciting arcade game for your next event."
-categories: ["categories/christmas-games.md", "categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-games.md"
+  - "categories/arcade-games.md"
+  - "categories/christmas-game-hire.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/pub-games.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,13 +20,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-2 players"
   - name: "Space Required"
     value: "2000mm Width x 2500mm Length, Allowing for the people to stand in around the game"
   - name: "Power"
     value: "1 x UK power socket (Game wattage usage 30 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "1200mm Width x 2400mm Length x 90mm Height"
   - name: "Suitability"
@@ -29,11 +35,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-2 players"
 options:
   - name: "1 Day"
     unit_price: 695
@@ -88,153 +96,78 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f31e5f8d4725356e44179fbc2c44825"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86e1d66080707189aeb325a5d52af14e"
 faqs:
-  - question: "How much space is required for the Scalextric slot car racing setup?"
-    answer: "The space you need for a Scalextric slot car racing setup depends on the size of the track and the number of cars. Our basic setup requires a space of 2,000mm Width x 2,500mm Length. This setup lets your guests stand in around the game."
-  - question: "Can the track or cars be customised for my event or stand?"
-    answer: |
-      Yes! We understand that every event is unique, and your exhibition stands need to be unique from the rest. This is why we give you the option to adorn each game with custom visuals. If the slot car tracks will be used for [corporate entertainment](/categories/corporate-entertainment/#content), we can customise the game rental with your company colours and logos.
-      
-      Whether you're hosting a conference or a fun party, the Scalextric slot car racing hire can be customised to suit the look and theme of your event.
-  - question: "Do you provide staff to operate the equipment?"
-    answer: "We can provide staff onsite upon your request. This will be included in your quotation. Our team of professionals can help operate the Scalextric slot car racing rental for you, and ensure that the game works smoothly."
-  - question: "What is included in the Scalextric sets for hire?"
-    answer: "Our Scalextric slot car racing hire includes the game's tracks and accessories, slot cars, controllers, and power supply. We will also take care of the whole logistics process from start to finish, so you don't have to worry about the games you hired, and focus on planning an exciting and enjoyable event."
-  - question: "How long does it take to set up and take down?"
-    answer: "The setup and takedown time for a Scalextric slot car racing setup can typically be completed within 30 minutes to an hour."
-  - question: "How far in advance should I book the slot car racing setup?"
-    answer: "We recommend booking the Scalextric slot car racing setup well in advance, especially if you're holding events during peak seasons. Booking 1-2 weeks in advance can help ensure availability. And if you need help planning your event, our team can help you with that too."
+  - question: "How many people can race Scalextric at once?</h3>"
+    answer: "Multiple lanes allow simultaneous racing, with the number of competitors depending on track configuration. Head-to-head racing creates natural rivalry.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, slot car racing appeals to ages 8 and above. The nostalgic format engages those who raced as children whilst introducing younger guests to the classic experience.
+
+
+      <h3>Q: Do you provide the track?</h3>
+
+      A: Yes, we provide complete track setup including cars and controllers. Configuration options can be discussed when you enquire.
+
+
+      <h3>Q: Does it need power?</h3>
+
+      A: Yes, mains power is required for the track and car systems."
 add_ons:
-  intro: |
-    ## Scalextric Slot Car Racing Branding and Customisation Options
+  intro: "## Scalextric Slot Car Racing Branding and Customisation Options
+
 
     Make Scalextric Slot Car Racing a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded Skirt - Crash Barriers"
       price: 495
 tabs:
   - title: "Why Scalextric Slot Car Racing?"
+    body: "Scalextric brings nostalgic racing entertainment to corporate events, team building days, and celebrations. The familiar slot car format triggers memories for many guests whilst offering genuine competitive racing.
+
+
+      For events where you want entertainment that combines nostalgia with competition, Scalextric delivers both. The racing format creates natural rivalry whilst the familiar format lowers barriers to participation.
+
+
+      Multiple lanes allow head-to-head racing, with capacity for 20-200 guests throughout events. Setup and track configuration handled by our team."
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
-    body: |
-      # Scalextric Slot Car Racing
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Best Scalextric Slot Car Racing Hire for Events in the UK!
-      
-      Want to attract more visitors to your exhibition stand? Our Scalextric slot car racing hire is the perfect addition and a great attraction to keep your guests engaged. Book this interactive game for your next [exhibition hire in London](/locations/london/conference-game-hire/#content), Leicester, Nottingham, Milton Keynes, Birmingham, Manchester, Coventry, and across the UK.
-      
-      Offer the thrill of a high-speed racing game and your guests will never want to leave. Create a memorable experience that sets your stand apart from the rest. Your participants get to relive their childhood joys while competing and your brand gets to stay at the forefront of their minds.
-      
-      ## Why Choose Our Scalextric Slot Car Racing Hire Service?
-      
-      [Fun Pro](/#content) is the leading provider of high-quality [arcade game hires](/products/retro-arcade-games/#content) in the UK. Our Scalextric slot cars are a completely immersive and nostalgic experience.
-      
-      The Scalextric tracks and cars provide exciting, competitive, and engaging gameplay for you and your guests. It’s one of our best games that keep your guests entertained for hours on end. Both racing enthusiasts and casual participants can enjoy this mini version of a high stakes racing track.
-      
-      Our team of professionals will take care of the logistics for you. Booking and delivery is easy and stress-free. We can also be onsite at your request to help with the Scalextric slot cars during the event, and ensure that everything goes off without a single hitch.
-      
-      All packages include delivery, setup, and removal by our professional team.
-      
-      You can rest assured that the scalextric slot car racing hire and other equipment will arrive in top condition, and ready-for-use at your event.
-      
-      In-house [exhibition game branding service](/categories/branded-exhibition-games/#content) is available. We will print, apply, and remove them after each event.
-      
-      Need a longer hire period?
-      
-      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      Check our Scalextric Slot Car Racing specifications:
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required 1300mm deep
-      
-      ### **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ## Hire Scalextric Slot Cars for your next event!
-      
-      3… 2… 1… GO! Buckle up for a good old entertaining game of slot car racing. Your guests will love this mini-version of a high-speed race track. Bring back childhood memories and set up exciting and memorable racing competitions to keep everyone glued to your stand.
-      
-      We do plenty of events around the UK. Hire our Scalextric slot car racing for:
-      
-      Corporate events
-      
-      Exhibitions
-      
-      [Family fun days](/categories/fun-days/#content)
-      
-      Brand activations
-      
-      Conferences and trade shows
-      
-      [Fundraisers](/events/fundraising-events/#content)
-      
-      ... and more!
-      
-      ## Our Process
-      
-      Booking slot cars and tracks for your next event is easy and stress-free.
-      
-      ### Step 1: Enquiry
-      
-      Reach out to us through our website, email, or phone to talk about your event needs. We will provide a personalised quote based on your requirements.
-      
-      ### Step 2: Confirmation
-      
-      Once you're happy with the custom Scalextric slot car racing hire package, just confirm your booking, and we'll take care of the rest.
-      
-      ### Step 3: Delivery and setup
-      
-      On the day of your event, we will deliver and set up the slot car racing game at your venue. We’ll handle the logistics for you from start to finish to ensure that everything is running smoothly..
-      
-      ### Step 4: Event day support
-      
-      If you need assistance during the event, our team of professionals are just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
-      
-      ### Step 5: Removal
-      
-      After the event, we’ll return to dismantle and collect the Scalextric slot car racing game, and leave your venue exactly as we found it.
-      
-      ## Ready to take your corporate event to the next level?
-      
-      Don't miss out on the opportunity to upgrade your event with our Scalextric slot car racing hire service. [Contact us today](/contact-fun-pro-uk/#content) to book our equipment for your next event in Birmingham, Leicester, London, or any other location in the UK!
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
   - title: "How It Works"
+    body: "Players control slot cars using hand-held throttles, racing around the track against opponents. Speed management matters as cars can fly off corners if pushed too hard.
+
+
+      Multiple lanes allow simultaneous racing, creating direct competition. Races can run as individual challenges or tournament formats for team building.
+
+
+      Our team handles track setup and configuration. The system runs continuously once operational."
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-17.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-16.jpg"
-    body: |
-      
+    body: "Scalextric carries genuine nostalgia for anyone who raced slot cars as a child. That emotional connection creates immediate engagement and enthusiasm that novel entertainment doesn't achieve.
+
+
+      The racing itself remains compelling. Managing speed through corners, battling for position, the satisfaction of clean overtakes. The gameplay holds up regardless of memories.
+
+
+      For corporate events, the competitive element works brilliantly. Colleagues race head-to-head, rivalries develop, and the measurable results create clear champions."
+    image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-15.jpg"
-    body: |
-      
 ---
 

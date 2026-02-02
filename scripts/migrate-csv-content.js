@@ -103,6 +103,7 @@ function parseCSV(content) {
  */
 function nameToSlug(name) {
   return name
+    .replace(/<[^>]*>/g, "") // Remove HTML tags
     .toLowerCase()
     .replace(/['']/g, "") // Remove apostrophes
     .replace(/[()]/g, "") // Remove parentheses
@@ -312,7 +313,7 @@ async function migrate(dryRun = false) {
 
   // Process each CSV row
   for (const row of rows) {
-    const productName = row["Product Name"];
+    const productName = row["Title"]?.replace(/<[^>]*>/g, "")?.trim();
     if (!productName) continue;
 
     const slug = nameToSlug(productName);

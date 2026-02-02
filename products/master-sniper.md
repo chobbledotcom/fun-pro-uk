@@ -5,7 +5,9 @@ price: "£1295"
 order: 50
 meta_title: "Master Sniper - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Master Sniper is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/interactive-game-hire.md", "categories/arcade-games.md"]
+categories:
+  - "categories/interactive-game-hire.md"
+  - "categories/arcade-games.md"
 events: []
 featured: true
 features:
@@ -20,20 +22,20 @@ specs:
   - name: "Power"
     value: "1 X Mains power socket 2700w"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1370mm x 2420mm x 2490mm"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6M"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
     value: "2 players"
 options:
@@ -48,62 +50,57 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3331f041195b8aff043935aa1f8ff5b6"
 tabs:
   - title: "Why Master Sniper?"
-    body: |
-      # Master Sniper
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      # 🎯 **Master Sniper – The Ultimate Arcade Shooting Game for Precision and Action**
-      
-      Experience fast-paced, high-impact gameplay in **Master Sniper**, the arcade shooting game designed for players who crave accuracy, excitement, and nonstop action. Take on thrilling missions filled with moving targets, challenging enemies, and explosive bonus rounds that put your sniper skills to the test.
-      
-      With smooth controls, sharp graphics, and a competitive leader board, **Master Sniper** delivers an immersive shooting experience perfect for casual players and elite sharpshooters alike. Master long-range shots, improve your reaction time, and climb the ranks as you prove you’re the top sniper in the arcade.
-      
-      🕶️ **Play Master Sniper today and discover the most addictive precision-shooting arcade game on the market!**
-      
-      Prices from
-      
-      If more days are required please contact us.
-      
-      Delivered and installed on site by our trained team
-      
-      In[\-](/products/prize-crane-arcade-grabber/#content)house branding available Printed[,](/products/prize-crane-arcade-grabber/#content) applied & removed after each event
-      
-      (One time use only)
-      
-      \*Delivery Charges & Minimum order value may apply
-      
-      [**Email:**](/products/prize-crane-arcade-grabber/#content) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Master Sniper Sizes**
-      
-      **EQUIPMENT SIZE**
-      
-      Length 2420mm - Width 1370mm - Height 2490mm
-      
-      **USER**
-      
-      1 or 2 Players
-      
-      **DELIVERY**
-      
-      This item can not be carry up or down any stairs.
+    body: "Master Sniper brings target shooting entertainment to corporate events, team building days, and celebrations. The precision-based challenge appeals to guests who enjoy focused skill games over reaction or physical entertainment.
+
+
+      For events where you want variety in entertainment types, shooting games offer something different. The concentration required creates focused engagement, whilst the competitive element generates natural rivalry.
+
+
+      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady engagement. Setup takes approximately 15-20 minutes."
   - title: "How It Works"
-    body: |
-      
+    body: "Players aim at targets and attempt to hit with precision. The game tracks accuracy, scoring successful hits and building totals throughout sessions.
+
+
+      The format suits informal play or structured competitions with leaderboards tracking best scores. Multiple players can engage simultaneously for head-to-head challenges.
+
+
+      Setup requirements and power needs vary by specific configuration. We'll confirm details when you enquire."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Shooting games create focused engagement because they require concentration. Unlike games you can play whilst chatting, precision targeting demands attention. That focus creates memorable experiences and genuine satisfaction when accuracy improves.
+
+
+      The competitive element works well for corporate events. Leaderboards develop, colleagues challenge each other, and the measurable scoring creates clear bragging rights.
+
+
+      It also appeals to guests who might not engage with physical or reaction games. Steady aim and patience matter more than speed or strength, broadening participation."
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can play Master Sniper at once?</h3>"
+    answer: "The game accommodates 1-4 players, with the precision shooting format creating focused competition and natural leaderboards.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, the target shooting format suits ages 10 and above. Accuracy and patience matter more than speed or strength.
+
+
+      <h3>Q: Is it safe?</h3>
+
+      A: Absolutely. This is precision target entertainment designed for events, not actual weapons. The format creates competitive fun without any safety concerns.
+
+
+      <h3>Q: What power do you need?</h3>
+
+      A: Power requirements vary by configuration. We'll confirm details when discussing your event."
 ---
 

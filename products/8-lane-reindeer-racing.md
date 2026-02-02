@@ -5,8 +5,11 @@ price: "£1695"
 order: 50
 meta_title: "8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "8 Lane Reindeer Racing is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-game-hire.md"
+  - "categories/christmas-games.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,13 +17,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "Up to 8 players"
   - name: "Space Required"
     value: "5800mm Width x 3000mm Depth, Allowing for people to stand in front"
   - name: "Power"
     value: "2 x mains UK power socket (Wattage usage 180-230 watts per socket)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "5600mm x 4600mm 2100mm (W/D/H)"
   - name: "Suitability"
@@ -29,11 +32,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "50-500+ guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "Up to 8 players"
 options:
   - name: "1 Day"
     unit_price: 1695
@@ -45,15 +50,18 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7"
 add_ons:
-  intro: |
-    ## 8 Lane Reindeer Racing Branding and Customisation Options
+  intro: "## 8 Lane Reindeer Racing Branding and Customisation Options
+
 
     Make 8 Lane Reindeer Racing a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Playing Field x 4"
       price: 320
@@ -69,45 +77,59 @@ add_ons:
       price: 2000
 tabs:
   - title: "Why 8 Lane Reindeer Racing?"
+    body: "Eight Lane Reindeer Racing brings festive excitement to Christmas parties and seasonal corporate events with competitive racing action. Multiple players compete simultaneously, creating spectacle and natural team rivalry that draws crowds.
+
+
+      For Christmas events where you want entertainment that accommodates groups and generates energy, eight-lane racing delivers throughput and excitement. The festive theming ensures seasonal appropriateness whilst the racing format creates genuine competition.
+
+
+      Capacity suits events of 20-200 guests, with the multi-lane format maintaining excellent throughput. The scale creates visual impact that makes it an event centrepiece."
     image: "/images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg"
-    body: |
-      # 8 Lane Reindeer Racing
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      # 8 Lane Reindeer Racing
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
   - title: "How It Works"
-    body: |
-      
+    body: "Up to eight players compete simultaneously, racing their reindeer along parallel lanes. The format creates direct competition and allows team heats or individual championships.
+
+
+      Races run quickly, maintaining throughput whilst delivering exciting finishes. The multi-lane setup means groups can compete together rather than waiting for individual turns.
+
+
+      Setup requirements vary by configuration. The festive theming adds Christmas atmosphere without complicating the racing mechanics."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Multi-lane racing creates drama that single-player games don't match. Eight competitors means eight chances for victory, close finishes, and upset results. That unpredictability generates excitement.
+
+
+      The Christmas theming adds seasonal relevance, making the entertainment feel appropriate for festive occasions. Guests appreciate when activities acknowledge the celebration.
+
+
+      For team building, the format enables departmental competitions or group challenges. Racing as teams creates shared investment in outcomes and natural bonding."
+    image: "/images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can race at once?</h3>"
+    answer: "Up to 8 players compete simultaneously across parallel lanes, creating exciting multi-competitor races and excellent spectator entertainment.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, the roll-and-race format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events.
+
+
+      <h3>Q: How does the racing work?</h3>
+
+      A: Players roll balls to advance their reindeer along the track. The multi-lane format creates genuine competition and dramatic finishes.
+
+
+      <h3>Q: Does it need power?</h3>
+
+      A: Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

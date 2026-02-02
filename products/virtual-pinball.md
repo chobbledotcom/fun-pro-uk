@@ -5,7 +5,11 @@ price: "£495"
 order: 50
 meta_title: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK"
 meta_description: "Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
+categories:
+  - "categories/exhibition-games.md"
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
 events: []
 featured: true
 features:
@@ -14,13 +18,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "700mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x 500 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "560mm Width x 1120mm Length x 1530mm Height"
   - name: "Suitability"
@@ -29,11 +33,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -55,53 +61,59 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
 tabs:
   - title: "Why Virtual Pinball?"
+    body: "Virtual pinball combines classic arcade entertainment with modern technology, offering multiple tables and games in a single impressive cabinet. The format appeals to nostalgia whilst delivering variety that physical machines can't match.
+
+
+      For events where you want entertainment that serves as a talking point whilst providing genuine gameplay, virtual pinball delivers. The visual impact attracts attention whilst the game selection keeps players engaged.
+
+
+      Capacity suits events of 20-200 guests, with games running continuously. Mains power required for operation."
     image: "/images/products/virtual-pinball/virtual-pinball-1.jpg"
-    body: |
-      # Virtual Pinball
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ## Virtual Pinball Hire
-      
-      Get ready for an electrifying experience with our pinball game hire service! Whether you're in Coventry, Birmingham, London, Nottingham, Northampton, or anywhere else in the UK, we've got you covered!  
-        
-      Step into the world of arcade nostalgia as we bring the excitement of pinball right to your event. Our extensive collection features a wide range of classic and modern pinball machines, ensuring there's something for everyone to enjoy. From retro-themed tables to cutting-edge designs, we've got it all!  
-        
-      Picture the thrill of launching the steel ball, hearing it ricochet off bumpers, and racking up those high scores. With our top-notch pinball machines, you'll be transported back to the golden era of arcade gaming. It's a guaranteed blast from the past that will leave your guests buzzing with excitement!  
-        
-      Planning a corporate event, birthday party, or any special occasion? Our pinball game hire is the perfect addition to amp up the fun factor. Create a retro-inspired ambiance that will have everyone immersed in the world of flashing lights and captivating sounds. It's a surefire way to make lasting memories and keep your guests entertained throughout the event.  
-        
-      Our service covers multiple locations, so no matter where you are in the UK, we can bring the pinball action to you. Whether it's the vibrant streets of London, the cultural hub of Birmingham, the historic charm of Nottingham, or the bustling cities of Coventry and Northampton, we've got the perfect pinball machine waiting for you.  
-        
-      Ready to level up your event with our pinball game hire? Contact us now to discuss your requirements and secure your booking. Our friendly team is here to assist you every step of the way, ensuring a seamless and unforgettable experience. Let the games begin!
   - title: "How It Works"
-    body: |
-      
+    body: "Players select from multiple pinball tables simulated on the virtual platform. Physical flipper buttons provide authentic feel whilst the digital format enables variety and features beyond mechanical limitations.
+
+
+      Games run independently with players selecting tables and competing for high scores. The cabinet format creates a natural focal point for guests.
+
+
+      Setup requires mains power and takes approximately 15-20 minutes."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Pinball carries genuine nostalgia for anyone who remembers arcades, pubs, and entertainment venues before screens dominated. That emotional connection creates immediate engagement.
+
+
+      The virtual format adds value through variety. Instead of a single table, guests can try different games, find favourites, and explore options. The selection keeps interest high throughout events.
+
+
+      For corporate entertainment, the cabinet also serves as a visual element. It looks impressive, draws attention, and signals that entertainment was carefully considered rather than hastily arranged."
+    image: "/images/products/virtual-pinball/virtual-pinball-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "What games are available on the Virtual Pinball?</h3>"
+    answer: "The virtual platform offers multiple classic pinball tables, giving players variety that a single physical machine couldn't match.
+
+
+      <h3>Q: How many people can play at once?</h3>
+
+      A: One player per machine, with the authentic flipper controls providing genuine pinball gameplay. Multiple machines can be hired for larger events.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, pinball appeals across generations. The format is immediately understandable, and the multiple table options keep things interesting.
+
+
+      <h3>Q: What power do you need?</h3>
+
+      A: Mains power is required for the cabinet display and flipper mechanisms."
 ---
 

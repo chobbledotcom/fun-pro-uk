@@ -5,7 +5,8 @@ price: "£395"
 order: 50
 meta_title: "Velcro Football Dartboard Hire | Exhibition Stand Games | UK"
 meta_description: "Hire a Velcro Football Dartboard for your next event! Perfect for exhibitions, parties, and corporate fun days across the UK. Discover our quality services."
-categories: ["categories/fun-days.md"]
+categories:
+  - "categories/fun-days.md"
 events: []
 featured: true
 features:
@@ -14,13 +15,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "7m Width x 5.5M Height,"
   - name: "Power"
     value: "1 X MAIN POWER REQUIRED"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "5.5m Width x 5.5M Height"
   - name: "Suitability"
@@ -29,11 +30,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -46,52 +49,57 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6031efad6121e851b6b068a7f1f5167b"
 tabs:
   - title: "Why Football Darts?"
-    body: |
-      # Football Darts
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      **Velcro Football Dartboard Hire: Kick, Stick, and Score!**
-      
-      Add a unique and thrilling activity to your next event with our Velcro Football Dartboard. Known also as kick and stick dartboard or football darts, this [inflatable game](/categories/interactive-game-hire/#content) combines the skill of football with the classic challenge of darts. Participants will enjoy the fun twist of kicking a velcro football towards a giant dartboard, aiming to hit the highest scores possible.
-      
-      The football dartboard is ideal for all kinds of events. Hire it for a corporate [exhibition](/categories/exhibition-games/#content), a private party, or any event looking for a bit of competitive fun. Whatever you're hosting or participating in, we're confiden our Velcro Football Dartboard is an excellent choice. It's not just about scoring points—this game is a fantastic icebreaker and a crowd-puller, ensuring guests of all ages are engaged and entertained.
-      
-      *   **Versatile Entertainment:** Ideal for a wide range of events, from [Corporate Entertainment](/categories/corporate-entertainment/#content) to [Fun Days](/categories/fun-days/#content) and private celebrations, the velcro football dartboard will have people lining up to try their luck.
-      *   **Engaging Competition:** This football dartboard also offers you a fun and interactive way to encourage friendly competition among guests.
-      *   **High-Quality Service:** At Fun Pro UK, we pride ourselves on delivering top-quality services, ensuring that every aspect of your event game hire is handled professionally.
-      
-      Operating across the UK, Fun Pro UK delivers exceptional entertainment options from London to Glasgow, and everywhere in between. Just tell us where you need us, and our dedicated team will ensure that the Velcro Football Dartboard and any other requested services are delivered on time and set up to meet your specific needs.
-      
-      We also offer a range of other engaging activities and games for hire. From [Batak](/categories/batak/#content) to [Fun Foods](/categories/fun-foods/#content), we have everything you need to make your event all you need it to be. Explore the possibilities with Fun Pro UK and ensure your next event is amazing - just make an order with us today.
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
+    body: "Football Darts combines football with darts scoring for unique sports entertainment at corporate events, team building days, and celebrations. Players kick velcro footballs at a giant dartboard, scoring points based on where they land.
+
+
+      For events where you want active entertainment that feels fresh and creates natural competition, football darts delivers. The format appeals to football fans whilst remaining accessible to everyone.
+
+
+      The large-scale setup creates visual impact and draws attention. Capacity suits events of 20-200 guests with good throughput."
   - title: "How It Works"
-    body: |
-      
+    body: "Players kick velcro footballs at the oversized dartboard target. Balls stick where they land, with points awarded based on the dartboard zones hit.
+
+
+      The format accommodates various skill levels as accuracy matters more than kicking power. Games can run as individual challenges or team competitions.
+
+
+      Setup requires adequate space for kicking distance. Our team handles all positioning and equipment management."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Football darts works because it combines two things people enjoy into something new. The familiarity of both elements makes it immediately understandable whilst the combination creates novelty.
+
+
+      The physical element gets people active, which shifts energy at events. Kicking footballs feels different from standing around with drinks, and that activity improves atmosphere.
+
+
+      For corporate events, the sport connection appeals widely whilst the darts scoring creates measurable competition. It works for casual fun and structured tournaments."
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can play Football Darts at once?</h3>"
+    answer: "The game accommodates 1-4 players, with the kicking format keeping throughput steady whilst creating competitive entertainment.
+
+
+      <h3>Q: Is it suitable for all ages?</h3>
+
+      A: Yes, the format suits ages 8 and above. Accuracy matters more than kicking power, making it accessible beyond just football enthusiasts.
+
+
+      <h3>Q: How does scoring work?</h3>
+
+      A: Players kick velcro footballs at a giant dartboard, scoring points based on where they land. Standard dartboard zones apply.
+
+
+      <h3>Q: What space do you need?</h3>
+
+      A: Adequate kicking distance is required between player position and target. We'll discuss your venue when planning."
 ---
 
