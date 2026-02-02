@@ -1,10 +1,14 @@
 {
-  "players": { "icon": "players.svg", "highlight": true, "list_items": true },
-  "power": { "icon": "power.svg", "highlight": true },
-  "space required": {
-    "icon": "space.svg",
-    "highlight": true,
-    "list_items": true
-  },
-  "setup time": { "icon": "time.svg", "highlight": true }
+	"players": {
+		"icon": "/assets/icons/players.svg",
+		"highlight": true,
+		"list_items": true
+	},
+	"power": { "icon": "/assets/icons/power.svg", "highlight": true },
+	"space required": {
+		"icon": "/assets/icons/space.svg",
+		"highlight": true,
+		"list_items": true
+	},
+	"setup time": { "icon": "/assets/icons/time.svg", "highlight": true }
 }
