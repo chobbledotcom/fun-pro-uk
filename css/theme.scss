@@ -2189,6 +2189,34 @@ ol.steps {
   }
 }
 
+.item-events {
+  background: #fff;
+  @include section-padding;
+  h2 {
+    @include heading;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+  }
+  p {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  ul.items {
+    gap: var(--gap-items);
+    &.slider > * {
+      justify-content: flex-start;
+    }
+    li {
+      width: 370px;
+    }
+  }
+}
+
 .red-blue-bar {
   height: 8px;
   background: #009dd7;
