@@ -126,22 +126,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/beat-the-buzzer/beat-the-buzzer-1.jpg"
 faqs:
-  - question: "How many people can play Beat the Buzzer at once?</h3>"
-    answer: "The game accommodates 1-4 players, with the countdown format creating visible tension for players and spectators alike.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the timed challenge format suits ages 10 and above. The pressure of the countdown creates excitement regardless of the specific challenge.
-
-
-      <h3>Q: What kind of challenges are involved?</h3>
-
-      A: Challenges can be configured to suit your event and audience. We'll discuss options when you enquire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the timer and buzzer systems."
+  - question: "How many people can play Beat the Buzzer at once?"
+    answer: "The game accommodates 1-4 players, with the countdown format creating visible tension for players and spectators alike."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the timed challenge format suits ages 10 and above. The pressure of the countdown creates excitement regardless of the specific challenge."
+  - question: "What kind of challenges are involved?"
+    answer: "Challenges can be configured to suit your event and audience. We'll discuss options when you enquire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the timer and buzzer systems."
 ---
 

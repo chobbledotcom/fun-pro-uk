@@ -106,23 +106,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/88e64775e5560390943b89cfbc4375ab"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
 faqs:
-  - question: "How many people can play Ballnado at once?</h3>"
-    answer: "One player grabs at a time, with sessions running for set periods whilst spectators watch the frantic action.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the grab-the-balls format suits ages 8 and above. The chaotic nature creates entertainment for participants and spectators alike.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Balls swirl in an air chamber, and players reach in to grab as many as possible within their time. Different coloured balls may represent different values.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the air system that keeps balls swirling."
+  - question: "How many people can play Ballnado at once?"
+    answer: "One player grabs at a time, with sessions running for set periods whilst spectators watch the frantic action."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the grab-the-balls format suits ages 8 and above. The chaotic nature creates entertainment for participants and spectators alike."
+  - question: "How does it work?"
+    answer: "Balls swirl in an air chamber, and players reach in to grab as many as possible within their time. Different coloured balls may represent different values."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the air system that keeps balls swirling."
 add_ons:
   intro: "## Ballnado Grabber Branding and Customisation Options
 

@@ -189,22 +189,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg"
 faqs:
-  - question: "How many people can play Roll and Bowl at once?</h3>"
-    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently at events of 20-200 guests.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed events and family days.
-
-
-      <h3>Q: How does scoring work?</h3>
-
-      A: Players roll balls towards scoring zones, with different areas representing different point values. The format suits casual play or competition.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Roll and Bowl requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Roll and Bowl at once?"
+    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently at events of 20-200 guests."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed events and family days."
+  - question: "How does scoring work?"
+    answer: "Players roll balls towards scoring zones, with different areas representing different point values. The format suits casual play or competition."
+  - question: "Does it need power?"
+    answer: "No, Roll and Bowl requires no power, giving you complete flexibility with positioning."
 ---
 

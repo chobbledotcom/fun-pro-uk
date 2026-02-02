@@ -125,22 +125,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/corn-hole/corn-hole-7.jpg"
 faqs:
-  - question: "How many people can play Corn Hole at once?</h3>"
-    answer: "The game accommodates 2-4 players, typically in teams of two competing against each other. The format encourages socialising between throws.
-
-
-      <h3>Q: Is Corn Hole suitable for all ages?</h3>
-
-      A: Yes, the bean bag tossing format is accessible for all ages. It's particularly effective at events where you want entertainment that encourages conversation.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: Corn hole requires space for the two boards plus throwing distance between them. We'll discuss positioning when planning your event.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Corn Hole requires no power at all, giving you complete flexibility with positioning."
+  - question: "How many people can play Corn Hole at once?"
+    answer: "The game accommodates 2-4 players, typically in teams of two competing against each other. The format encourages socialising between throws."
+  - question: "Is Corn Hole suitable for all ages?"
+    answer: "Yes, the bean bag tossing format is accessible for all ages. It's particularly effective at events where you want entertainment that encourages conversation."
+  - question: "How much space do you need?"
+    answer: "Corn hole requires space for the two boards plus throwing distance between them. We'll discuss positioning when planning your event."
+  - question: "Does it need power?"
+    answer: "No, Corn Hole requires no power at all, giving you complete flexibility with positioning."
 ---
 

@@ -85,22 +85,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Christmas Corn Holes at once?</h3>"
-    answer: "The game accommodates 2-4 players, typically in teams of two competing against each other. The format encourages socialising between throws.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the bean bag tossing format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players toss bean bags towards the sloped board, scoring points for landing on the board and higher points for getting bags in the hole.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Christmas Corn Holes requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Christmas Corn Holes at once?"
+    answer: "The game accommodates 2-4 players, typically in teams of two competing against each other. The format encourages socialising between throws."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the bean bag tossing format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events."
+  - question: "How does it work?"
+    answer: "Players toss bean bags towards the sloped board, scoring points for landing on the board and higher points for getting bags in the hole."
+  - question: "Does it need power?"
+    answer: "No, Christmas Corn Holes requires no power, giving you complete flexibility with positioning."
 ---
 

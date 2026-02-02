@@ -63,23 +63,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1ff47108f9f6cba1761245a88adb80f9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60907d36ad461e2a97cd01452cb74c91"
 faqs:
-  - question: "How many people can play Candy Cane Mega Wire at once?</h3>"
-    answer: "One player navigates the wire at a time, with spectators gathering to watch the tension as players attempt to avoid triggering the buzzer.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience rather than strength, making it genuinely accessible.
-
-
-      <h3>Q: What makes it different from regular Mega Wire?</h3>
-
-      A: The candy cane theming makes it perfect for Christmas events. The gameplay is the same satisfying buzz wire challenge with festive styling.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the buzzer system."
+  - question: "How many people can play Candy Cane Mega Wire at once?"
+    answer: "One player navigates the wire at a time, with spectators gathering to watch the tension as players attempt to avoid triggering the buzzer."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience rather than strength, making it genuinely accessible."
+  - question: "What makes it different from regular Mega Wire?"
+    answer: "The candy cane theming makes it perfect for Christmas events. The gameplay is the same satisfying buzz wire challenge with festive styling."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the buzzer system."
 add_ons:
   intro: "## Candy Cane Megawire Branding and Customisation Options
 

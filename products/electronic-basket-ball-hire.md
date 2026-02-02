@@ -112,22 +112,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-3.jpg"
 faqs:
-  - question: "How many people can play Electronic Basketball at once?</h3>"
-    answer: "Typically 1-2 players can shoot simultaneously depending on the unit configuration. The fast-paced format keeps queues moving at events of 20-200 guests.
-
-
-      <h3>Q: Is Electronic Basketball suitable for all ages?</h3>
-
-      A: Yes, the game is accessible for ages 8 and above. The familiar basketball format means everyone understands it immediately, and the arcade style makes it less intimidating than real basketball.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, the Electronic Basketball is battery powered, giving you complete flexibility with positioning. No trailing cables or proximity to power sockets required.
-
-
-      <h3>Q: Do you handle setup?</h3>
-
-      A: Yes, we handle delivery, setup, and collection. Setup takes approximately 15-20 minutes, and everything is included in the hire price."
+  - question: "How many people can play Electronic Basketball at once?"
+    answer: "Typically 1-2 players can shoot simultaneously depending on the unit configuration. The fast-paced format keeps queues moving at events of 20-200 guests."
+  - question: "Is Electronic Basketball suitable for all ages?"
+    answer: "Yes, the game is accessible for ages 8 and above. The familiar basketball format means everyone understands it immediately, and the arcade style makes it less intimidating than real basketball."
+  - question: "Does it need power?"
+    answer: "No, the Electronic Basketball is battery powered, giving you complete flexibility with positioning. No trailing cables or proximity to power sockets required."
+  - question: "Do you handle setup?"
+    answer: "Yes, we handle delivery, setup, and collection. Setup takes approximately 15-20 minutes, and everything is included in the hire price."
 ---
 

@@ -153,22 +153,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/retro-arcade-games/retro-arcade-games-13.jpg"
 faqs:
-  - question: "What games are included with Retro Arcade Games?</h3>"
-    answer: "The cabinets feature classic titles from the golden age of arcades, including games like Pac-Man, Space Invaders, and similar favourites. Multiple games are typically available on each cabinet.
-
-
-      <h3>Q: How many people can play at once?</h3>
-
-      A: Each cabinet accommodates 1-2 players depending on the game selected. For larger events, multiple cabinets can be hired to increase capacity.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, retro arcade games appeal across generations. Older guests enjoy the nostalgia whilst younger attendees appreciate the vintage gaming experience.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for each cabinet. We'll discuss positioning and power access when planning your event."
+  - question: "What games are included with Retro Arcade Games?"
+    answer: "The cabinets feature classic titles from the golden age of arcades, including games like Pac-Man, Space Invaders, and similar favourites. Multiple games are typically available on each cabinet."
+  - question: "How many people can play at once?"
+    answer: "Each cabinet accommodates 1-2 players depending on the game selected. For larger events, multiple cabinets can be hired to increase capacity."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, retro arcade games appeal across generations. Older guests enjoy the nostalgia whilst younger attendees appreciate the vintage gaming experience."
+  - question: "What power do you need?"
+    answer: "Mains power is required for each cabinet. We'll discuss positioning and power access when planning your event."
 ---
 

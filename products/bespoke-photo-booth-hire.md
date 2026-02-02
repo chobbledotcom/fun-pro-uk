@@ -116,22 +116,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "What can be customised on the Bespoke Photo Booth?</h3>"
-    answer: "Customisation options include branded backdrops, custom photo overlays, themed props, and designed outputs. We work with you to align the booth with your event objectives.
-
-
-      <h3>Q: How many people can use it at once?</h3>
-
-      A: Groups of 1-8 can use the booth together. The open or enclosed format can be specified based on your preference.
-
-
-      <h3>Q: How long does customisation take?</h3>
-
-      A: We'll need advance notice to prepare custom elements. Timelines depend on the complexity of branding required. Contact us early in your planning process.
-
-
-      <h3>Q: What's included in the outputs?</h3>
-
-      A: Instant prints and digital copies are included. Branded elements appear on all outputs, extending your brand reach beyond the event itself."
+  - question: "What can be customised on the Bespoke Photo Booth?"
+    answer: "Customisation options include branded backdrops, custom photo overlays, themed props, and designed outputs. We work with you to align the booth with your event objectives."
+  - question: "How many people can use it at once?"
+    answer: "Groups of 1-8 can use the booth together. The open or enclosed format can be specified based on your preference."
+  - question: "How long does customisation take?"
+    answer: "We'll need advance notice to prepare custom elements. Timelines depend on the complexity of branding required. Contact us early in your planning process."
+  - question: "What's included in the outputs?"
+    answer: "Instant prints and digital copies are included. Branded elements appear on all outputs, extending your brand reach beyond the event itself."
 ---
 

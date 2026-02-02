@@ -97,22 +97,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/gladiator-duel/gladiator-duel-2.jpg"
 faqs:
-  - question: "How many people can play Gladiator Duel at once?</h3>"
-    answer: "Two competitors battle at a time on raised podiums. The head-to-head format creates natural drama and excellent spectator entertainment.
-
-
-      <h3>Q: Is Gladiator Duel safe?</h3>
-
-      A: Yes, competitors use padded pugil sticks and the podiums are designed for safe dismounting. Our team supervises all bouts to ensure fair, safe competition.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The game suits ages 12 and above due to the physical competition element. It's particularly popular at corporate team building events.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Requirements vary by setup. We'll confirm details when discussing your event."
+  - question: "How many people can play Gladiator Duel at once?"
+    answer: "Two competitors battle at a time on raised podiums. The head-to-head format creates natural drama and excellent spectator entertainment."
+  - question: "Is Gladiator Duel safe?"
+    answer: "Yes, competitors use padded pugil sticks and the podiums are designed for safe dismounting. Our team supervises all bouts to ensure fair, safe competition."
+  - question: "Is it suitable for all ages?"
+    answer: "The game suits ages 12 and above due to the physical competition element. It's particularly popular at corporate team building events."
+  - question: "What power do you need?"
+    answer: "Requirements vary by setup. We'll confirm details when discussing your event."
 ---
 

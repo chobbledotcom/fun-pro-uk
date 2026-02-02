@@ -75,23 +75,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c1874ccd55999ce3c98f6e844459f7d7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ad94d78d0415483d74811f294d4c6ab"
 faqs:
-  - question: "How many people can play Christmas Batak Pro at once?</h3>"
-    answer: "One player competes at a time, facing faster sequences and more complex patterns than standard Batak.
-
-
-      <h3>Q: What's different about the Pro version?</h3>
-
-      A: Christmas Batak Pro offers enhanced challenge with faster targets and more demanding patterns, plus festive theming for seasonal events.
-
-
-      <h3>Q: Is it suitable for all skill levels?</h3>
-
-      A: The Pro version challenges even experienced Batak players. That increased difficulty creates more exciting competition at corporate events.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the lighting and scoring systems."
+  - question: "How many people can play Christmas Batak Pro at once?"
+    answer: "One player competes at a time, facing faster sequences and more complex patterns than standard Batak."
+  - question: "What's different about the Pro version?"
+    answer: "Christmas Batak Pro offers enhanced challenge with faster targets and more demanding patterns, plus festive theming for seasonal events."
+  - question: "Is it suitable for all skill levels?"
+    answer: "The Pro version challenges even experienced Batak players. That increased difficulty creates more exciting competition at corporate events."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the lighting and scoring systems."
 tabs:
   - title: "Why Christmas Batak Pro?"
     body: "Christmas Batak Pro delivers premium reaction gaming with festive theming for Christmas parties and seasonal corporate events. The enhanced pro version offers more challenging gameplay than the standard Batak, suited to events where you want serious competition.

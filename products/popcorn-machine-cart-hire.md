@@ -48,23 +48,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e"
 faqs:
-  - question: "How many guests can the Popcorn Cart serve?</h3>"
-    answer: "The cart comfortably serves events of 50-300 guests, with continuous production ensuring fresh popcorn is always available.
-
-
-      <h3>Q: Is it suitable for indoor events?</h3>
-
-      A: Yes, the popcorn cart works well indoors. The aroma actually enhances indoor events, drawing guests towards the cart naturally.
-
-
-      <h3>Q: What flavours are available?</h3>
-
-      A: Classic salted and sweet popcorn are typically available. Additional flavouring options can be discussed when you enquire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The cart requires mains power (approximately 190-210W) for the popping mechanism."
+  - question: "How many guests can the Popcorn Cart serve?"
+    answer: "The cart comfortably serves events of 50-300 guests, with continuous production ensuring fresh popcorn is always available."
+  - question: "Is it suitable for indoor events?"
+    answer: "Yes, the popcorn cart works well indoors. The aroma actually enhances indoor events, drawing guests towards the cart naturally."
+  - question: "What flavours are available?"
+    answer: "Classic salted and sweet popcorn are typically available. Additional flavouring options can be discussed when you enquire."
+  - question: "What power do you need?"
+    answer: "The cart requires mains power (approximately 190-210W) for the popping mechanism."
 tabs:
   - title: "Why Popcorn Machine Cart Hire?"
     body: "A popcorn cart brings cinema nostalgia and live food preparation to corporate events, celebrations, and family days. The familiar aroma creates atmosphere whilst the visual theatre of popping corn draws guests naturally.

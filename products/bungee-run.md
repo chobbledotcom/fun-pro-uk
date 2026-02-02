@@ -87,22 +87,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can use the Bungee Run at once?</h3>"
-    answer: "Two players typically race simultaneously on parallel lanes, creating head-to-head competition and excellent spectator entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The bungee run suits ages 10 and above due to the physical nature. It's particularly popular with adults at corporate team building events.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, the inflatable surface is designed for safe play, and the bungee provides controlled resistance. Our team provides safety briefings and supervision.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Bungee runs require significant space for the inflatable lanes. We'll discuss your venue when you enquire."
+  - question: "How many people can use the Bungee Run at once?"
+    answer: "Two players typically race simultaneously on parallel lanes, creating head-to-head competition and excellent spectator entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "The bungee run suits ages 10 and above due to the physical nature. It's particularly popular with adults at corporate team building events."
+  - question: "Is it safe?"
+    answer: "Yes, the inflatable surface is designed for safe play, and the bungee provides controlled resistance. Our team provides safety briefings and supervision."
+  - question: "What space do you need?"
+    answer: "Bungee runs require significant space for the inflatable lanes. We'll discuss your venue when you enquire."
 ---
 

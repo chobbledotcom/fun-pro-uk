@@ -156,22 +156,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/racing-car-simulators/racing-car-simulators-25.jpg"
 faqs:
-  - question: "How many people can use the Racing Car Simulators at once?</h3>"
-    answer: "Typically 1-2 drivers per simulator depending on configuration. Multiple simulators can be hired for larger events requiring more throughput.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The simulators suit ages 12 and above. The realistic controls and physics appeal particularly to car enthusiasts but remain accessible to beginners.
-
-
-      <h3>Q: Do people need driving experience?</h3>
-
-      A: No, our staff help newcomers get started. The racing format is intuitive, and most people find their rhythm within a few laps.
-
-
-      <h3>Q: What tracks and cars are available?</h3>
-
-      A: Multiple tracks and vehicles are typically available. We can discuss options when planning your event."
+  - question: "How many people can use the Racing Car Simulators at once?"
+    answer: "Typically 1-2 drivers per simulator depending on configuration. Multiple simulators can be hired for larger events requiring more throughput."
+  - question: "Is it suitable for all ages?"
+    answer: "The simulators suit ages 12 and above. The realistic controls and physics appeal particularly to car enthusiasts but remain accessible to beginners."
+  - question: "Do people need driving experience?"
+    answer: "No, our staff help newcomers get started. The racing format is intuitive, and most people find their rhythm within a few laps."
+  - question: "What tracks and cars are available?"
+    answer: "Multiple tracks and vehicles are typically available. We can discuss options when planning your event."
 ---
 

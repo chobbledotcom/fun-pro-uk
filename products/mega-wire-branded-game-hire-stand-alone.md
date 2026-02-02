@@ -137,22 +137,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-8.jpg"
 faqs:
-  - question: "How many people can play Mega Wire at once?</h3>"
-    answer: "The game accommodates 1-4 players taking turns. One player navigates the wire at a time, creating focused moments whilst spectators watch the tension build.
-
-
-      <h3>Q: Is Mega Wire suitable for all ages?</h3>
-
-      A: Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience and steadiness rather than strength or speed, making it accessible for everyone.
-
-
-      <h3>Q: Can the game be branded?</h3>
-
-      A: Yes, this is our branded version designed for corporate events and brand activations. We can discuss branding options when you enquire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the buzzer and any electronic elements."
+  - question: "How many people can play Mega Wire at once?"
+    answer: "The game accommodates 1-4 players taking turns. One player navigates the wire at a time, creating focused moments whilst spectators watch the tension build."
+  - question: "Is Mega Wire suitable for all ages?"
+    answer: "Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience and steadiness rather than strength or speed, making it accessible for everyone."
+  - question: "Can the game be branded?"
+    answer: "Yes, this is our branded version designed for corporate events and brand activations. We can discuss branding options when you enquire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the buzzer and any electronic elements."
 ---
 

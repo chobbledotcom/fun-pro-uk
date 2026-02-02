@@ -119,22 +119,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Whack an Elf at once?</h3>"
-    answer: "The game accommodates 1-4 players depending on configuration, with the classic whack-a-mole format keeping energy high.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the simple hit-the-target format suits ages 5 and above. The Christmas theming adds festive fun without complicating the gameplay.
-
-
-      <h3>Q: What makes it different from regular Whack a Mole?</h3>
-
-      A: The Christmas elf theming makes it perfect for festive events. The satisfying gameplay remains the same with seasonal styling.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the pop-up mechanism and scoring."
+  - question: "How many people can play Whack an Elf at once?"
+    answer: "The game accommodates 1-4 players depending on configuration, with the classic whack-a-mole format keeping energy high."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the simple hit-the-target format suits ages 5 and above. The Christmas theming adds festive fun without complicating the gameplay."
+  - question: "What makes it different from regular Whack a Mole?"
+    answer: "The Christmas elf theming makes it perfect for festive events. The satisfying gameplay remains the same with seasonal styling."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the pop-up mechanism and scoring."
 ---
 

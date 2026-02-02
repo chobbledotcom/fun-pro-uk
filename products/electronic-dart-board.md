@@ -54,23 +54,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7583188346656eeb69819340c82d7c95"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c7fc643c4a7c8f49a59224a9bf7e3f64"
 faqs:
-  - question: "How many people can play Electronic Darts at once?</h3>"
-    answer: "Typically 2-4 players per board, with games running to standard dart formats. Multiple boards can be hired for larger events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, electronic darts suits ages 10 and above. The automatic scoring removes maths barriers and the soft-tip format is safer than steel tips.
-
-
-      <h3>Q: What game modes are available?</h3>
-
-      A: Various game modes including 501, cricket, and other variants are available. The electronic board manages scoring and turn tracking automatically.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the electronic scoring display."
+  - question: "How many people can play Electronic Darts at once?"
+    answer: "Typically 2-4 players per board, with games running to standard dart formats. Multiple boards can be hired for larger events."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, electronic darts suits ages 10 and above. The automatic scoring removes maths barriers and the soft-tip format is safer than steel tips."
+  - question: "What game modes are available?"
+    answer: "Various game modes including 501, cricket, and other variants are available. The electronic board manages scoring and turn tracking automatically."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the electronic scoring display."
 add_ons:
   intro: "## Electronic Dart Board Branding and Customisation Options
 

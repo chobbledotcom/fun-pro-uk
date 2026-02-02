@@ -128,22 +128,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/prize-wheel/prize-wheel-1.jpg"
 faqs:
-  - question: "How many people can spin the Prize Wheel at once?</h3>"
-    answer: "One spinner at a time, with the quick format maintaining good throughput whilst creating drama as the wheel slows.
-
-
-      <h3>Q: Can we customise the segments?</h3>
-
-      A: Yes, wheel segments can be configured with your prizes or branding. We'll discuss options when planning your event.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the spin-and-win format is universally accessible and creates excitement regardless of age.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Typically no for manual wheels, though lit versions may require power. We'll confirm based on your requirements."
+  - question: "How many people can spin the Prize Wheel at once?"
+    answer: "One spinner at a time, with the quick format maintaining good throughput whilst creating drama as the wheel slows."
+  - question: "Can we customise the segments?"
+    answer: "Yes, wheel segments can be configured with your prizes or branding. We'll discuss options when planning your event."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the spin-and-win format is universally accessible and creates excitement regardless of age."
+  - question: "Does it need power?"
+    answer: "Typically no for manual wheels, though lit versions may require power. We'll confirm based on your requirements."
 ---
 

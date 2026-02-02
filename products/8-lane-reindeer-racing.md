@@ -114,22 +114,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can race at once?</h3>"
-    answer: "Up to 8 players compete simultaneously across parallel lanes, creating exciting multi-competitor races and excellent spectator entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the roll-and-race format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events.
-
-
-      <h3>Q: How does the racing work?</h3>
-
-      A: Players roll balls to advance their reindeer along the track. The multi-lane format creates genuine competition and dramatic finishes.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Power requirements vary by configuration. We'll confirm when discussing your event."
+  - question: "How many people can race at once?"
+    answer: "Up to 8 players compete simultaneously across parallel lanes, creating exciting multi-competitor races and excellent spectator entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-and-race format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events."
+  - question: "How does the racing work?"
+    answer: "Players roll balls to advance their reindeer along the track. The multi-lane format creates genuine competition and dramatic finishes."
+  - question: "Does it need power?"
+    answer: "Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

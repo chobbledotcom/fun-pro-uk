@@ -127,22 +127,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-11.jpg"
 faqs:
-  - question: "How many people can use the VR Race Car Simulator at once?</h3>"
-    answer: "Typically 1-2 participants depending on configuration, with sessions running for set periods to maintain good throughput at events of 20-200 guests.
-
-
-      <h3>Q: Is VR suitable for everyone?</h3>
-
-      A: VR racing suits most people aged 12 and above. Some individuals may experience motion sensitivity. Our staff can adjust settings to improve comfort.
-
-
-      <h3>Q: Do people need VR experience?</h3>
-
-      A: No, our staff guide first-time VR users through the basics. The racing format is intuitive, and most people adapt quickly.
-
-
-      <h3>Q: What power and space do you need?</h3>
-
-      A: Mains power is required for the simulator rig and VR equipment. We'll discuss space requirements when planning your event."
+  - question: "How many people can use the VR Race Car Simulator at once?"
+    answer: "Typically 1-2 participants depending on configuration, with sessions running for set periods to maintain good throughput at events of 20-200 guests."
+  - question: "Is VR suitable for everyone?"
+    answer: "VR racing suits most people aged 12 and above. Some individuals may experience motion sensitivity. Our staff can adjust settings to improve comfort."
+  - question: "Do people need VR experience?"
+    answer: "No, our staff guide first-time VR users through the basics. The racing format is intuitive, and most people adapt quickly."
+  - question: "What power and space do you need?"
+    answer: "Mains power is required for the simulator rig and VR equipment. We'll discuss space requirements when planning your event."
 ---
 

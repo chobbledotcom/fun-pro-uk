@@ -112,22 +112,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/casino-table-hire/casino-table-hire-6.jpg"
 faqs:
-  - question: "How many people can play at the Casino Tables at once?</h3>"
-    answer: "Each table accommodates 6-8 players depending on the game. Multiple tables can be hired for larger casino night setups.
-
-
-      <h3>Q: What games are available?</h3>
-
-      A: We offer professional tables for blackjack, roulette, poker, and other casino favourites. We can discuss the best mix for your event.
-
-
-      <h3>Q: Is real money involved?</h3>
-
-      A: No, casino nights typically use fun money, maintaining the excitement of betting whilst keeping things social. Prizes can be awarded to top chip holders.
-
-
-      <h3>Q: Are croupiers included?</h3>
-
-      A: Yes, professional croupiers manage the tables, explain rules to newcomers, and keep games running smoothly."
+  - question: "How many people can play at the Casino Tables at once?"
+    answer: "Each table accommodates 6-8 players depending on the game. Multiple tables can be hired for larger casino night setups."
+  - question: "What games are available?"
+    answer: "We offer professional tables for blackjack, roulette, poker, and other casino favourites. We can discuss the best mix for your event."
+  - question: "Is real money involved?"
+    answer: "No, casino nights typically use fun money, maintaining the excitement of betting whilst keeping things social. Prizes can be awarded to top chip holders."
+  - question: "Are croupiers included?"
+    answer: "Yes, professional croupiers manage the tables, explain rules to newcomers, and keep games running smoothly."
 ---
 

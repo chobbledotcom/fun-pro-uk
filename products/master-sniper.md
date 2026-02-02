@@ -85,22 +85,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Master Sniper at once?</h3>"
-    answer: "The game accommodates 1-4 players, with the precision shooting format creating focused competition and natural leaderboards.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the target shooting format suits ages 10 and above. Accuracy and patience matter more than speed or strength.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Absolutely. This is precision target entertainment designed for events, not actual weapons. The format creates competitive fun without any safety concerns.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Power requirements vary by configuration. We'll confirm details when discussing your event."
+  - question: "How many people can play Master Sniper at once?"
+    answer: "The game accommodates 1-4 players, with the precision shooting format creating focused competition and natural leaderboards."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the target shooting format suits ages 10 and above. Accuracy and patience matter more than speed or strength."
+  - question: "Is it safe?"
+    answer: "Absolutely. This is precision target entertainment designed for events, not actual weapons. The format creates competitive fun without any safety concerns."
+  - question: "What power do you need?"
+    answer: "Power requirements vary by configuration. We'll confirm details when discussing your event."
 ---
 

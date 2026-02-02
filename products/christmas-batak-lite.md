@@ -72,23 +72,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f89666d5ba3ab8f73f619f0942417051"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a15ae37dadccb9acea9726796a6f403"
 faqs:
-  - question: "How many people can play Christmas Batak Lite at once?</h3>"
-    answer: "One player competes at a time, hitting illuminated targets as quickly as possible. This creates focused competitive moments with clear scores for leaderboards.
-
-
-      <h3>Q: Is Christmas Batak Lite suitable for all ages?</h3>
-
-      A: Yes, the reaction-based gameplay suits ages 10 and above. The simple hit-the-lights format is immediately understandable with no learning curve.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The equipment measures 1200mm x 950mm x 1800mm. We recommend additional clearance for comfortable play and spectator viewing.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The Batak requires 500W, so a dedicated mains socket is needed. We'll confirm power positioning when discussing your venue."
+  - question: "How many people can play Christmas Batak Lite at once?"
+    answer: "One player competes at a time, hitting illuminated targets as quickly as possible. This creates focused competitive moments with clear scores for leaderboards."
+  - question: "Is Christmas Batak Lite suitable for all ages?"
+    answer: "Yes, the reaction-based gameplay suits ages 10 and above. The simple hit-the-lights format is immediately understandable with no learning curve."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 1200mm x 950mm x 1800mm. We recommend additional clearance for comfortable play and spectator viewing."
+  - question: "What power do you need?"
+    answer: "The Batak requires 500W, so a dedicated mains socket is needed. We'll confirm power positioning when discussing your venue."
 add_ons:
   intro: "## Christmas Batak Lite Branding and Customisation Options
 

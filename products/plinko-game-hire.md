@@ -135,22 +135,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/plinko-game-hire/plinko-game-hire-6.jpg"
 faqs:
-  - question: "How many people can play Plinko at once?</h3>"
-    answer: "One player drops discs at a time, with the quick format maintaining good throughput whilst creating drama for spectators watching where discs land.
-
-
-      <h3>Q: Can we customise the prizes?</h3>
-
-      A: Yes, prize slots can be configured to suit your event. We'll discuss options when you enquire about your requirements.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the drop-and-watch format is accessible for all ages. Everyone understands the game instantly, and the random bouncing creates genuine excitement.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Plinko requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Plinko at once?"
+    answer: "One player drops discs at a time, with the quick format maintaining good throughput whilst creating drama for spectators watching where discs land."
+  - question: "Can we customise the prizes?"
+    answer: "Yes, prize slots can be configured to suit your event. We'll discuss options when you enquire about your requirements."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the drop-and-watch format is accessible for all ages. Everyone understands the game instantly, and the random bouncing creates genuine excitement."
+  - question: "Does it need power?"
+    answer: "No, Plinko requires no power, giving you flexibility with positioning."
 ---
 

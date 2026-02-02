@@ -80,22 +80,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "What is the Branded Capsule Bin used for?</h3>"
-    answer: "The Branded Capsule Bin is used for prize distribution and promotional giveaways. Guests retrieve capsules containing prizes, offers, or messages, creating interactive engagement with your brand.
-
-
-      <h3>Q: Can the capsules be customised?</h3>
-
-      A: Yes, capsules can be branded and filled with prizes, vouchers, or promotional materials relevant to your campaign. We'll discuss customisation options when you enquire.
-
-
-      <h3>Q: How much space does it need?</h3>
-
-      A: The Branded Capsule Bin measures approximately 400mm x 400mm x 662mm and requires only a level surface for positioning. No power is needed.
-
-
-      <h3>Q: Is it suitable for all event types?</h3>
-
-      A: Yes, the Branded Capsule Bin works well for brand activations, exhibitions, corporate events, and promotional campaigns where you want interactive prize distribution."
+  - question: "What is the Branded Capsule Bin used for?"
+    answer: "The Branded Capsule Bin is used for prize distribution and promotional giveaways. Guests retrieve capsules containing prizes, offers, or messages, creating interactive engagement with your brand."
+  - question: "Can the capsules be customised?"
+    answer: "Yes, capsules can be branded and filled with prizes, vouchers, or promotional materials relevant to your campaign. We'll discuss customisation options when you enquire."
+  - question: "How much space does it need?"
+    answer: "The Branded Capsule Bin measures approximately 400mm x 400mm x 662mm and requires only a level surface for positioning. No power is needed."
+  - question: "Is it suitable for all event types?"
+    answer: "Yes, the Branded Capsule Bin works well for brand activations, exhibitions, corporate events, and promotional campaigns where you want interactive prize distribution."
 ---
 

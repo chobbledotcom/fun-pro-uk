@@ -123,22 +123,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-4.jpg"
 faqs:
-  - question: "How many people can play Gold Bar Challenge at once?</h3>"
-    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the challenge and retrieve the gold bar.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges over physical games.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players attempt to solve the puzzle to retrieve the gold bar from its secured display. The heist-style format creates engaging entertainment.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Power requirements vary by configuration. We'll confirm when discussing your event."
+  - question: "How many people can play Gold Bar Challenge at once?"
+    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the challenge and retrieve the gold bar."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges over physical games."
+  - question: "How does it work?"
+    answer: "Players attempt to solve the puzzle to retrieve the gold bar from its secured display. The heist-style format creates engaging entertainment."
+  - question: "What power do you need?"
+    answer: "Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

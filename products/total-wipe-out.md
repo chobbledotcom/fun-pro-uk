@@ -92,22 +92,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Total Wipe Out at once?</h3>"
-    answer: "The game accommodates 1-4 players depending on the challenge configuration. The format creates natural spectator entertainment as colleagues tackle the obstacles.
-
-
-      <h3>Q: Is Total Wipe Out suitable for all ages?</h3>
-
-      A: The game suits ages 12 and above due to the physical challenge elements. It's particularly popular with adults at corporate team building events.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, the equipment is professionally maintained and designed for safe play. Our team provides supervision and safety briefings. It's challenging entertainment without genuine risk.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required. We'll discuss positioning and power access when planning your event."
+  - question: "How many people can play Total Wipe Out at once?"
+    answer: "The game accommodates 1-4 players depending on the challenge configuration. The format creates natural spectator entertainment as colleagues tackle the obstacles."
+  - question: "Is Total Wipe Out suitable for all ages?"
+    answer: "The game suits ages 12 and above due to the physical challenge elements. It's particularly popular with adults at corporate team building events."
+  - question: "Is it safe?"
+    answer: "Yes, the equipment is professionally maintained and designed for safe play. Our team provides supervision and safety briefings. It's challenging entertainment without genuine risk."
+  - question: "What power do you need?"
+    answer: "Mains power is required. We'll discuss positioning and power access when planning your event."
 ---
 

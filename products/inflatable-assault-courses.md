@@ -107,22 +107,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/inflatable-assault-courses/inflatable-assault-courses-7.jpg"
 faqs:
-  - question: "How many people can use Inflatable Assault Courses at once?</h3>"
-    answer: "Multiple participants can race through simultaneously depending on the course configuration, creating head-to-head competition and spectator entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The assault courses suit ages 8 and above. The physical nature means they're particularly popular with adults at corporate team building events.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, inflatable assault courses are designed for safe competitive play. Our team handles safety briefings and supervision throughout your event.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Space requirements vary by course configuration. Assault courses typically need significant outdoor or large indoor space. We'll discuss your venue when you enquire."
+  - question: "How many people can use Inflatable Assault Courses at once?"
+    answer: "Multiple participants can race through simultaneously depending on the course configuration, creating head-to-head competition and spectator entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "The assault courses suit ages 8 and above. The physical nature means they're particularly popular with adults at corporate team building events."
+  - question: "Is it safe?"
+    answer: "Yes, inflatable assault courses are designed for safe competitive play. Our team handles safety briefings and supervision throughout your event."
+  - question: "What space do you need?"
+    answer: "Space requirements vary by course configuration. Assault courses typically need significant outdoor or large indoor space. We'll discuss your venue when you enquire."
 ---
 

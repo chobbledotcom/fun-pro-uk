@@ -130,22 +130,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/leader-board/leader-board-10.jpg"
 faqs:
-  - question: "What does the Leader Board do?</h3>"
-    answer: "The Leader Board is a digital display that tracks and shows scores from various games throughout your event. It creates ongoing competition and encourages repeat participation as guests compete for top positions.
-
-
-      <h3>Q: Which games does it work with?</h3>
-
-      A: The Leader Board can integrate with various games and activities we provide. We'll discuss compatible options and setup when you enquire about your event.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Yes, the Leader Board requires mains power for the digital display.
-
-
-      <h3>Q: Can prizes be awarded based on the Leader Board?</h3>
-
-      A: Absolutely. Many clients use the Leader Board to run event-wide competitions with prizes for top performers. It provides clear, visible rankings that make prize-giving straightforward."
+  - question: "What does the Leader Board do?"
+    answer: "The Leader Board is a digital display that tracks and shows scores from various games throughout your event. It creates ongoing competition and encourages repeat participation as guests compete for top positions."
+  - question: "Which games does it work with?"
+    answer: "The Leader Board can integrate with various games and activities we provide. We'll discuss compatible options and setup when you enquire about your event."
+  - question: "Does it need power?"
+    answer: "Yes, the Leader Board requires mains power for the digital display."
+  - question: "Can prizes be awarded based on the Leader Board?"
+    answer: "Absolutely. Many clients use the Leader Board to run event-wide competitions with prizes for top performers. It provides clear, visible rankings that make prize-giving straightforward."
 ---
 

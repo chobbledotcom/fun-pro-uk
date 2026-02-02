@@ -106,22 +106,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can use the Classic Photo Booth at once?</h3>"
-    answer: "Groups of 1-8 can squeeze in together, with the enclosed format encouraging sillier poses than open photo stations.
-
-
-      <h3>Q: What's included?</h3>
-
-      A: The booth includes instant prints, digital copies, props, and typically a guestbook option. Full specification confirmed when you enquire.
-
-
-      <h3>Q: How long does each session take?</h3>
-
-      A: Sessions typically allow time for multiple photo strips without creating long queues. The enclosed format keeps things moving.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the camera, lighting, and printing equipment."
+  - question: "How many people can use the Classic Photo Booth at once?"
+    answer: "Groups of 1-8 can squeeze in together, with the enclosed format encouraging sillier poses than open photo stations."
+  - question: "What's included?"
+    answer: "The booth includes instant prints, digital copies, props, and typically a guestbook option. Full specification confirmed when you enquire."
+  - question: "How long does each session take?"
+    answer: "Sessions typically allow time for multiple photo strips without creating long queues. The enclosed format keeps things moving."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the camera, lighting, and printing equipment."
 ---
 

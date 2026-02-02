@@ -91,22 +91,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many guests can the Pig Roast serve?</h3>"
-    answer: "Our Pig Roast service caters for 50-500+ guests, making it ideal for larger corporate events, summer parties, and celebrations. We'll discuss your guest numbers when you enquire to ensure we provide the right amount of food.
-
-
-      <h3>Q: Is the Pig Roast suitable for indoor venues?</h3>
-
-      A: The Pig Roast requires adequate ventilation, so it's typically suited to outdoor events or indoor venues with appropriate extraction facilities. We'll discuss your venue setup when you get in touch to confirm suitability.
-
-
-      <h3>Q: Do you provide staff to serve?</h3>
-
-      A: Yes, absolutely. Our team handles everything from setup through cooking to serving and packdown. This is all included, so you can focus on your guests rather than catering logistics.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: We require approximately 2m x 2m for the cooking setup, plus clearance for service. We'll discuss your venue layout beforehand to ensure everything fits comfortably and safely."
+  - question: "How many guests can the Pig Roast serve?"
+    answer: "Our Pig Roast service caters for 50-500+ guests, making it ideal for larger corporate events, summer parties, and celebrations. We'll discuss your guest numbers when you enquire to ensure we provide the right amount of food."
+  - question: "Is the Pig Roast suitable for indoor venues?"
+    answer: "The Pig Roast requires adequate ventilation, so it's typically suited to outdoor events or indoor venues with appropriate extraction facilities. We'll discuss your venue setup when you get in touch to confirm suitability."
+  - question: "Do you provide staff to serve?"
+    answer: "Yes, absolutely. Our team handles everything from setup through cooking to serving and packdown. This is all included, so you can focus on your guests rather than catering logistics."
+  - question: "How much space do you need?"
+    answer: "We require approximately 2m x 2m for the cooking setup, plus clearance for service. We'll discuss your venue layout beforehand to ensure everything fits comfortably and safely."
 ---
 

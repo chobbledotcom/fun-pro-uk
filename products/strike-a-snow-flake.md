@@ -69,23 +69,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34d530d279cd8b0bea0a45ccd98bcd67"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b82605d2431b4c3d7601597127dd9ef0"
 faqs:
-  - question: "How many people can play Strike a Snowflake at once?</h3>"
-    answer: "One player competes at a time, with games running through timed sessions. This creates focused entertainment moments whilst spectators gather to watch.
-
-
-      <h3>Q: Is Strike a Snowflake suitable for all ages?</h3>
-
-      A: Yes, the target-striking format is accessible for ages 8 and above. No special skills are required, making it genuinely inclusive for corporate Christmas events.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The equipment measures 1.5m x 1.5m x 1.8m. We'll discuss your venue layout to ensure comfortable positioning with room for players and spectators.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required. We just need access to a standard UK socket within reasonable distance of the game position."
+  - question: "How many people can play Strike a Snowflake at once?"
+    answer: "One player competes at a time, with games running through timed sessions. This creates focused entertainment moments whilst spectators gather to watch."
+  - question: "Is Strike a Snowflake suitable for all ages?"
+    answer: "Yes, the target-striking format is accessible for ages 8 and above. No special skills are required, making it genuinely inclusive for corporate Christmas events."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 1.5m x 1.5m x 1.8m. We'll discuss your venue layout to ensure comfortable positioning with room for players and spectators."
+  - question: "What power do you need?"
+    answer: "Mains power is required. We just need access to a standard UK socket within reasonable distance of the game position."
 tabs:
   - title: "Why Strike A Snow Flake?"
     body: "Strike a Snowflake offers winter-themed entertainment that suits Christmas parties, seasonal celebrations, and winter-themed corporate events. At 1.5m x 1.5m x 1.8m, it makes a visual impact whilst remaining manageable for most indoor venues.

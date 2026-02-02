@@ -50,23 +50,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be"
 faqs:
-  - question: "How many people can play Twin Axe Throwing at once?</h3>"
-    answer: "The twin setup allows 2 players to compete head-to-head simultaneously, with capacity for 1-4 players rotating through. This creates natural competition and doubles throughput.
-
-
-      <h3>Q: Is Twin Axe Throwing safe?</h3>
-
-      A: Yes, this is an electronic simulation rather than actual axe throwing. Players experience the competitive challenge without any safety concerns, making it suitable for corporate events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The game suits ages 12 and above. The competitive format appeals particularly to adults at corporate events and team building days.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the electronic scoring and display systems."
+  - question: "How many people can play Twin Axe Throwing at once?"
+    answer: "The twin setup allows 2 players to compete head-to-head simultaneously, with capacity for 1-4 players rotating through. This creates natural competition and doubles throughput."
+  - question: "Is Twin Axe Throwing safe?"
+    answer: "Yes, this is an electronic simulation rather than actual axe throwing. Players experience the competitive challenge without any safety concerns, making it suitable for corporate events."
+  - question: "Is it suitable for all ages?"
+    answer: "The game suits ages 12 and above. The competitive format appeals particularly to adults at corporate events and team building days."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the electronic scoring and display systems."
 tabs:
   - title: "Why Twin Axe throwing?"
     body: "Twin Axe Throwing taps into the axe-throwing trend that's swept the UK in recent years, bringing that experience to your event in a safe, electronic format. The head-to-head setup means two players compete simultaneously, which naturally creates more spectator interest and faster throughput.

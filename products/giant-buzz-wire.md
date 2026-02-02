@@ -131,22 +131,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/giant-buzz-wire/giant-buzz-wire-12.jpg"
 faqs:
-  - question: "How many people can play Giant Buzz Wire at once?</h3>"
-    answer: "One player navigates the wire at a time, with spectators gathering to watch the tension as attempts progress.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience rather than strength, making it accessible for everyone.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players guide a loop along the twisted wire path without touching. Contact triggers a buzz, adding pressure and spectator drama.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Typically no for the basic buzzer, though configuration may vary. We'll confirm when discussing your event."
+  - question: "How many people can play Giant Buzz Wire at once?"
+    answer: "One player navigates the wire at a time, with spectators gathering to watch the tension as attempts progress."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the steady-hand challenge suits ages 8 and above. Success depends on patience rather than strength, making it accessible for everyone."
+  - question: "How does it work?"
+    answer: "Players guide a loop along the twisted wire path without touching. Contact triggers a buzz, adding pressure and spectator drama."
+  - question: "Does it need power?"
+    answer: "Typically no for the basic buzzer, though configuration may vary. We'll confirm when discussing your event."
 ---
 

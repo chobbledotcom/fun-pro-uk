@@ -121,22 +121,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-13.jpg"
 faqs:
-  - question: "How many people can play Christmas Roller Bowler at once?</h3>"
-    answer: "The game accommodates 1-4 players taking turns, with the compact format keeping queues moving at events of 20-200 guests.
-
-
-      <h3>Q: Is Christmas Roller Bowler suitable for all ages?</h3>
-
-      A: Yes, the simple roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed corporate Christmas parties.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The equipment measures 450mm x 1480mm x 870mm, making it one of our more compact options that fits easily into most venue spaces.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Christmas Roller Bowler requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Christmas Roller Bowler at once?"
+    answer: "The game accommodates 1-4 players taking turns, with the compact format keeping queues moving at events of 20-200 guests."
+  - question: "Is Christmas Roller Bowler suitable for all ages?"
+    answer: "Yes, the simple roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed corporate Christmas parties."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 450mm x 1480mm x 870mm, making it one of our more compact options that fits easily into most venue spaces."
+  - question: "Does it need power?"
+    answer: "No, Christmas Roller Bowler requires no power, giving you complete flexibility with positioning."
 ---
 

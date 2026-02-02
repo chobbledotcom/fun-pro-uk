@@ -62,23 +62,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433"
 faqs:
-  - question: "How many guests can the Candy Floss Cart serve?</h3>"
-    answer: "The cart serves events of 50-300 guests, with continuous production keeping fresh candy floss available throughout.
-
-
-      <h3>Q: Is it suitable for indoor events?</h3>
-
-      A: Yes, the candy floss cart works well indoors. Guests enjoy watching the spinning process as part of the experience.
-
-
-      <h3>Q: What colours and flavours are available?</h3>
-
-      A: Various colours can typically be provided. We'll discuss options when you enquire about your event.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The cart requires mains power (approximately 190-210W) for the spinning mechanism."
+  - question: "How many guests can the Candy Floss Cart serve?"
+    answer: "The cart serves events of 50-300 guests, with continuous production keeping fresh candy floss available throughout."
+  - question: "Is it suitable for indoor events?"
+    answer: "Yes, the candy floss cart works well indoors. Guests enjoy watching the spinning process as part of the experience."
+  - question: "What colours and flavours are available?"
+    answer: "Various colours can typically be provided. We'll discuss options when you enquire about your event."
+  - question: "What power do you need?"
+    answer: "The cart requires mains power (approximately 190-210W) for the spinning mechanism."
 add_ons:
   intro: "## Candy Floss Cart Hire Branding and Customisation Options
 

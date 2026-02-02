@@ -59,23 +59,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
 faqs:
-  - question: "How many people can play Candy Cane Snatch It at once?</h3>"
-    answer: "One player competes at a time, which creates focused moments whilst spectators watch and cheer. For events of 20-200 guests, this format maintains steady throughput without long waits.
-
-
-      <h3>Q: Is Candy Cane Snatch It suitable for all ages?</h3>
-
-      A: Yes, the reaction-based gameplay is accessible for ages 8 and above. The simple format means anyone can understand and enjoy it, making it perfect for corporate Christmas parties with mixed groups.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The equipment measures 1200mm x 600mm x 900mm. We recommend allowing additional clearance around the unit for comfortable play and spectators.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The game requires just 5-12W, so a standard UK mains socket is all that's needed. We'll confirm positioning and power requirements when discussing your venue."
+  - question: "How many people can play Candy Cane Snatch It at once?"
+    answer: "One player competes at a time, which creates focused moments whilst spectators watch and cheer. For events of 20-200 guests, this format maintains steady throughput without long waits."
+  - question: "Is Candy Cane Snatch It suitable for all ages?"
+    answer: "Yes, the reaction-based gameplay is accessible for ages 8 and above. The simple format means anyone can understand and enjoy it, making it perfect for corporate Christmas parties with mixed groups."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 1200mm x 600mm x 900mm. We recommend allowing additional clearance around the unit for comfortable play and spectators."
+  - question: "What power do you need?"
+    answer: "The game requires just 5-12W, so a standard UK mains socket is all that's needed. We'll confirm positioning and power requirements when discussing your venue."
 add_ons:
   intro: "## Candy Cane Snatch it Branding and Customisation Options
 

@@ -91,22 +91,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many guests can the Paella service cater for?</h3>"
-    answer: "Our Paella service caters for 50-500+ guests, making it perfect for larger corporate events, summer celebrations, and team gatherings. We'll discuss your guest numbers when you enquire.
-
-
-      <h3>Q: Is Paella suitable for indoor venues?</h3>
-
-      A: Yes, the Paella service is suitable for indoor venues with a level surface. We require approximately 2m x 2m of space for the cooking setup and standard door width access for equipment.
-
-
-      <h3>Q: Do you cater for dietary requirements?</h3>
-
-      A: We can discuss dietary requirements when you enquire. Traditional paella contains seafood and meat, but alternatives may be available with advance notice.
-
-
-      <h3>Q: Is the cooking done on site?</h3>
-
-      A: Yes, the paella is prepared fresh at your event. The live cooking becomes part of the entertainment, with guests able to watch the preparation and enjoy the theatre of it."
+  - question: "How many guests can the Paella service cater for?"
+    answer: "Our Paella service caters for 50-500+ guests, making it perfect for larger corporate events, summer celebrations, and team gatherings. We'll discuss your guest numbers when you enquire."
+  - question: "Is Paella suitable for indoor venues?"
+    answer: "Yes, the Paella service is suitable for indoor venues with a level surface. We require approximately 2m x 2m of space for the cooking setup and standard door width access for equipment."
+  - question: "Do you cater for dietary requirements?"
+    answer: "We can discuss dietary requirements when you enquire. Traditional paella contains seafood and meat, but alternatives may be available with advance notice."
+  - question: "Is the cooking done on site?"
+    answer: "Yes, the paella is prepared fresh at your event. The live cooking becomes part of the entertainment, with guests able to watch the preparation and enjoy the theatre of it."
 ---
 

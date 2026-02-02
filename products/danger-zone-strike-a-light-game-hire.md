@@ -121,22 +121,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-8.jpg"
 faqs:
-  - question: "How many people can play Danger Zone Strike-a-Light at once?</h3>"
-    answer: "One player competes at a time, striking illuminated targets as they light up. This creates focused competitive moments with clear scoring.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the strike-the-target format is accessible for ages 10 and above. Speed and reactions matter, but anyone can play and achieve satisfying scores.
-
-
-      <h3>Q: How does scoring work?</h3>
-
-      A: The game tracks speed and accuracy as players strike targets, building scores throughout timed sessions. Results feed naturally into leaderboards and competitions.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the lighting and scoring systems."
+  - question: "How many people can play Danger Zone Strike-a-Light at once?"
+    answer: "One player competes at a time, striking illuminated targets as they light up. This creates focused competitive moments with clear scoring."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the strike-the-target format is accessible for ages 10 and above. Speed and reactions matter, but anyone can play and achieve satisfying scores."
+  - question: "How does scoring work?"
+    answer: "The game tracks speed and accuracy as players strike targets, building scores throughout timed sessions. Results feed naturally into leaderboards and competitions."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the lighting and scoring systems."
 ---
 

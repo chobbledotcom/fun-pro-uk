@@ -112,22 +112,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg"
 faqs:
-  - question: "How many people can participate in Gold Cup Horse Racing?</h3>"
-    answer: "Multiple guests can bet on each race, making it ideal for group entertainment. The format encourages spectator participation and betting excitement.
-
-
-      <h3>Q: Is real money involved in the betting?</h3>
-
-      A: No, betting typically uses fun money or tokens. The excitement comes from backing horses and watching races, with prizes for successful bettors.
-
-
-      <h3>Q: How do the races work?</h3>
-
-      A: Guests place bets on their chosen horses, then watch the race play out with commentary. Results determine betting payouts.
-
-
-      <h3>Q: What power and space do you need?</h3>
-
-      A: Requirements vary by setup. We'll discuss your venue when planning your event."
+  - question: "How many people can participate in Gold Cup Horse Racing?"
+    answer: "Multiple guests can bet on each race, making it ideal for group entertainment. The format encourages spectator participation and betting excitement."
+  - question: "Is real money involved in the betting?"
+    answer: "No, betting typically uses fun money or tokens. The excitement comes from backing horses and watching races, with prizes for successful bettors."
+  - question: "How do the races work?"
+    answer: "Guests place bets on their chosen horses, then watch the race play out with commentary. Results determine betting payouts."
+  - question: "What power and space do you need?"
+    answer: "Requirements vary by setup. We'll discuss your venue when planning your event."
 ---
 

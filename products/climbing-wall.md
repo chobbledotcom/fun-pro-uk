@@ -87,22 +87,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can use the Climbing Wall at once?</h3>"
-    answer: "Typically 1-2 climbers at a time, with our trained staff managing harnesses and belaying. This ensures safe operation whilst maintaining good throughput.
-
-
-      <h3>Q: Is the Climbing Wall suitable for all ages?</h3>
-
-      A: Yes, the wall suits ages 5 and above with routes of varying difficulty. Both children and adults can find appropriate challenges.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Absolutely. All participants wear safety harnesses, and our trained staff handle all belaying and safety supervision. Equipment is professionally maintained to rigorous standards.
-
-
-      <h3>Q: What space and setup do you need?</h3>
-
-      A: Requirements vary by wall configuration. We'll discuss your venue, ceiling height, and ground surface when you enquire to confirm suitability."
+  - question: "How many people can use the Climbing Wall at once?"
+    answer: "Typically 1-2 climbers at a time, with our trained staff managing harnesses and belaying. This ensures safe operation whilst maintaining good throughput."
+  - question: "Is the Climbing Wall suitable for all ages?"
+    answer: "Yes, the wall suits ages 5 and above with routes of varying difficulty. Both children and adults can find appropriate challenges."
+  - question: "Is it safe?"
+    answer: "Absolutely. All participants wear safety harnesses, and our trained staff handle all belaying and safety supervision. Equipment is professionally maintained to rigorous standards."
+  - question: "What space and setup do you need?"
+    answer: "Requirements vary by wall configuration. We'll discuss your venue, ceiling height, and ground surface when you enquire to confirm suitability."
 ---
 

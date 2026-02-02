@@ -48,23 +48,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
 faqs:
-  - question: "How many people can play Coconut Shy at once?</h3>"
-    answer: "Multiple players can throw simultaneously depending on the stall configuration, with the classic format keeping queues moving efficiently.
-
-
-      <h3>Q: Is Coconut Shy suitable for all ages?</h3>
-
-      A: Yes, the simple throwing format is accessible for all ages. It's a traditional favourite that works for family days and corporate events alike.
-
-
-      <h3>Q: Are prizes included?</h3>
-
-      A: Prizes for successful throws can be arranged depending on your requirements. We'll discuss options when you enquire.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Coconut Shy requires no power, giving you complete flexibility with outdoor or indoor positioning."
+  - question: "How many people can play Coconut Shy at once?"
+    answer: "Multiple players can throw simultaneously depending on the stall configuration, with the classic format keeping queues moving efficiently."
+  - question: "Is Coconut Shy suitable for all ages?"
+    answer: "Yes, the simple throwing format is accessible for all ages. It's a traditional favourite that works for family days and corporate events alike."
+  - question: "Are prizes included?"
+    answer: "Prizes for successful throws can be arranged depending on your requirements. We'll discuss options when you enquire."
+  - question: "Does it need power?"
+    answer: "No, Coconut Shy requires no power, giving you complete flexibility with outdoor or indoor positioning."
 add_ons:
   intro: "## Coconut Shy Stall Hire Branding and Customisation Options
 

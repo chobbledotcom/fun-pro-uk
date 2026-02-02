@@ -102,22 +102,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Hook a Duck at once?</h3>"
-    answer: "The game accommodates 1-4 players hooking simultaneously, with the familiar fairground format keeping things moving efficiently.
-
-
-      <h3>Q: Is Hook a Duck suitable for all ages?</h3>
-
-      A: Yes, the classic format is accessible for all ages. It's one of our most universally appealing games, perfect for family days and mixed events.
-
-
-      <h3>Q: Are prizes included?</h3>
-
-      A: Prizes can be arranged depending on your requirements. We'll discuss options when you enquire about your event.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Hook a Duck requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Hook a Duck at once?"
+    answer: "The game accommodates 1-4 players hooking simultaneously, with the familiar fairground format keeping things moving efficiently."
+  - question: "Is Hook a Duck suitable for all ages?"
+    answer: "Yes, the classic format is accessible for all ages. It's one of our most universally appealing games, perfect for family days and mixed events."
+  - question: "Are prizes included?"
+    answer: "Prizes can be arranged depending on your requirements. We'll discuss options when you enquire about your event."
+  - question: "Does it need power?"
+    answer: "No, Hook a Duck requires no power, giving you complete flexibility with positioning."
 ---
 

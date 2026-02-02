@@ -59,23 +59,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218"
 faqs:
-  - question: "How many people can play Play Your Cards Right at once?</h3>"
-    answer: "One contestant plays at a time, but the format naturally involves spectators who call out predictions and react to card reveals.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the higher-or-lower format is accessible for all ages and requires no special knowledge or skills.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Contestants predict whether the next card will be higher or lower than the current one. Correct guesses advance them towards prizes.
-
-
-      <h3>Q: Can we provide our own prizes?</h3>
-
-      A: Yes, prizes can be discussed when planning your event. The format works well for prize distribution at corporate functions."
+  - question: "How many people can play Play Your Cards Right at once?"
+    answer: "One contestant plays at a time, but the format naturally involves spectators who call out predictions and react to card reveals."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the higher-or-lower format is accessible for all ages and requires no special knowledge or skills."
+  - question: "How does it work?"
+    answer: "Contestants predict whether the next card will be higher or lower than the current one. Correct guesses advance them towards prizes."
+  - question: "Can we provide our own prizes?"
+    answer: "Yes, prizes can be discussed when planning your event. The format works well for prize distribution at corporate functions."
 add_ons:
   intro: "## Play Your Cards Right Stall Hire Branding and Customisation Options
 

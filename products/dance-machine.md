@@ -130,22 +130,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/dance-machine/dance-machine-3.jpg"
 faqs:
-  - question: "How many people can play the Dance Machine at once?</h3>"
-    answer: "The Dance Machine accommodates 1-4 players depending on configuration. Head-to-head battles are popular for creating competitive entertainment.
-
-
-      <h3>Q: Is the Dance Machine suitable for all ages?</h3>
-
-      A: Yes, multiple difficulty levels mean both beginners and experienced players can enjoy appropriate challenges. It's accessible for ages 8 and above.
-
-
-      <h3>Q: Will people actually use it at corporate events?</h3>
-
-      A: Absolutely. Dance machines are consistently popular because they give people permission to be silly. Once a few brave souls start, others follow quickly.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The Dance Machine requires 60-77W of mains power."
+  - question: "How many people can play the Dance Machine at once?"
+    answer: "The Dance Machine accommodates 1-4 players depending on configuration. Head-to-head battles are popular for creating competitive entertainment."
+  - question: "Is the Dance Machine suitable for all ages?"
+    answer: "Yes, multiple difficulty levels mean both beginners and experienced players can enjoy appropriate challenges. It's accessible for ages 8 and above."
+  - question: "Will people actually use it at corporate events?"
+    answer: "Absolutely. Dance machines are consistently popular because they give people permission to be silly. Once a few brave souls start, others follow quickly."
+  - question: "What power do you need?"
+    answer: "The Dance Machine requires 60-77W of mains power."
 ---
 

@@ -161,22 +161,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-15.jpg"
 faqs:
-  - question: "How many people can use the Cash Grabber at once?</h3>"
-    answer: "One participant enters the machine at a time, with timed sessions creating frantic entertainment for players and spectators.
-
-
-      <h3>Q: What can go in the machine?</h3>
-
-      A: Cash, vouchers, branded items, or prize tickets can be loaded. We'll discuss options to suit your event and budget.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the grab-what-you-can format suits ages 10 and above. The excitement is universal regardless of what's being grabbed.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the air system that keeps items swirling."
+  - question: "How many people can use the Cash Grabber at once?"
+    answer: "One participant enters the machine at a time, with timed sessions creating frantic entertainment for players and spectators."
+  - question: "What can go in the machine?"
+    answer: "Cash, vouchers, branded items, or prize tickets can be loaded. We'll discuss options to suit your event and budget."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the grab-what-you-can format suits ages 10 and above. The excitement is universal regardless of what's being grabbed."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the air system that keeps items swirling."
 ---
 

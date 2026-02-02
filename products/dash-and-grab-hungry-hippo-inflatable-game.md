@@ -92,22 +92,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Hungry Hippos at once?</h3>"
-    answer: "Typically 4 players compete simultaneously, racing to grab balls whilst attached to bungees. The format creates excellent spectator entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The inflatable version suits ages 10 and above due to the physical nature. It's particularly popular with adults at corporate events.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, the inflatable surface is designed for safe play and the bungees provide controlled resistance. Our team supervises throughout.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: The inflatable requires significant floor space. We'll discuss your venue requirements when you enquire."
+  - question: "How many people can play Hungry Hippos at once?"
+    answer: "Typically 4 players compete simultaneously, racing to grab balls whilst attached to bungees. The format creates excellent spectator entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "The inflatable version suits ages 10 and above due to the physical nature. It's particularly popular with adults at corporate events."
+  - question: "Is it safe?"
+    answer: "Yes, the inflatable surface is designed for safe play and the bungees provide controlled resistance. Our team supervises throughout."
+  - question: "What space do you need?"
+    answer: "The inflatable requires significant floor space. We'll discuss your venue requirements when you enquire."
 ---
 

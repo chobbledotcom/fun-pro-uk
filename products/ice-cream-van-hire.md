@@ -91,22 +91,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many guests can you serve?</h3>"
-    answer: "Our Ice Cream Van service comfortably caters for 50-300 guests. The individual serving format keeps queues moving whilst giving each guest a moment of personal service.
-
-
-      <h3>Q: What ice cream options are available?</h3>
-
-      A: We offer a range of classic ice cream options including various flavours and toppings. Dietary alternatives can often be accommodated with advance notice. We'll discuss the full menu when you enquire.
-
-
-      <h3>Q: Is the Ice Cream Van suitable for indoor events?</h3>
-
-      A: Yes, our ice cream service unit is designed for indoor use and requires only a level surface and mains power. Minimum door width of 0.6m is needed for access.
-
-
-      <h3>Q: Do you handle everything?</h3>
-
-      A: Yes, we handle delivery, setup, serving throughout your event, and collection afterwards. This is all included in the hire price."
+  - question: "How many guests can you serve?"
+    answer: "Our Ice Cream Van service comfortably caters for 50-300 guests. The individual serving format keeps queues moving whilst giving each guest a moment of personal service."
+  - question: "What ice cream options are available?"
+    answer: "We offer a range of classic ice cream options including various flavours and toppings. Dietary alternatives can often be accommodated with advance notice. We'll discuss the full menu when you enquire."
+  - question: "Is the Ice Cream Van suitable for indoor events?"
+    answer: "Yes, our ice cream service unit is designed for indoor use and requires only a level surface and mains power. Minimum door width of 0.6m is needed for access."
+  - question: "Do you handle everything?"
+    answer: "Yes, we handle delivery, setup, serving throughout your event, and collection afterwards. This is all included in the hire price."
 ---
 

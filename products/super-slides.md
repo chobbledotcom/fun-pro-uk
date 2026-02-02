@@ -89,22 +89,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can use the Super Slides at once?</h3>"
-    answer: "Multiple users can slide in sequence, with the large scale creating impressive throughput and continuous entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, sliding appeals across ages 5 and above. The simple format means anyone can enjoy the experience.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, the inflatable slides are designed for safe use with appropriate supervision. Our team manages the slide throughout your event.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Large slides require significant space, typically outdoors. We'll discuss your venue suitability when you enquire."
+  - question: "How many people can use the Super Slides at once?"
+    answer: "Multiple users can slide in sequence, with the large scale creating impressive throughput and continuous entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, sliding appeals across ages 5 and above. The simple format means anyone can enjoy the experience."
+  - question: "Is it safe?"
+    answer: "Yes, the inflatable slides are designed for safe use with appropriate supervision. Our team manages the slide throughout your event."
+  - question: "What space do you need?"
+    answer: "Large slides require significant space, typically outdoors. We'll discuss your venue suitability when you enquire."
 ---
 

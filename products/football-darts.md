@@ -84,22 +84,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Football Darts at once?</h3>"
-    answer: "The game accommodates 1-4 players, with the kicking format keeping throughput steady whilst creating competitive entertainment.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the format suits ages 8 and above. Accuracy matters more than kicking power, making it accessible beyond just football enthusiasts.
-
-
-      <h3>Q: How does scoring work?</h3>
-
-      A: Players kick velcro footballs at a giant dartboard, scoring points based on where they land. Standard dartboard zones apply.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Adequate kicking distance is required between player position and target. We'll discuss your venue when planning."
+  - question: "How many people can play Football Darts at once?"
+    answer: "The game accommodates 1-4 players, with the kicking format keeping throughput steady whilst creating competitive entertainment."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the format suits ages 8 and above. Accuracy matters more than kicking power, making it accessible beyond just football enthusiasts."
+  - question: "How does scoring work?"
+    answer: "Players kick velcro footballs at a giant dartboard, scoring points based on where they land. Standard dartboard zones apply."
+  - question: "What space do you need?"
+    answer: "Adequate kicking distance is required between player position and target. We'll discuss your venue when planning."
 ---
 

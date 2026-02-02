@@ -163,22 +163,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-20.jpg"
 faqs:
-  - question: "How many people can play Crack the Code at once?</h3>"
-    answer: "The game accommodates 1-4 players, with individuals or small groups working together to crack the safe combination within the time limit.
-
-
-      <h3>Q: Is Crack the Code suitable for all ages?</h3>
-
-      A: Yes, the puzzle-solving format suits ages 10 and above. It appeals particularly to guests who enjoy mental challenges over physical games.
-
-
-      <h3>Q: How does the game work?</h3>
-
-      A: Players attempt to work out the correct combination to open the safe before time runs out. It's a puzzle challenge that rewards logic and observation.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The game requires minimal power at just 15W, so a standard UK mains socket is all that's needed."
+  - question: "How many people can play Crack the Code at once?"
+    answer: "The game accommodates 1-4 players, with individuals or small groups working together to crack the safe combination within the time limit."
+  - question: "Is Crack the Code suitable for all ages?"
+    answer: "Yes, the puzzle-solving format suits ages 10 and above. It appeals particularly to guests who enjoy mental challenges over physical games."
+  - question: "How does the game work?"
+    answer: "Players attempt to work out the correct combination to open the safe before time runs out. It's a puzzle challenge that rewards logic and observation."
+  - question: "What power do you need?"
+    answer: "The game requires minimal power at just 15W, so a standard UK mains socket is all that's needed."
 ---
 

@@ -114,22 +114,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/rodeo-bull/rodeo-bull-10.jpg"
 faqs:
-  - question: "How many people can ride the Rodeo Bull at once?</h3>"
-    answer: "One rider at a time, with timed sessions determining success. The format creates excellent spectator entertainment as colleagues attempt to stay mounted.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, the inflatable surround provides safe dismounting, and our operators adjust difficulty to suit each rider. Professional supervision is provided throughout.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The rodeo bull suits ages 12 and above due to the physical nature. It's particularly popular with adults at corporate events.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: The bull and inflatable surround require significant space. We'll discuss your venue requirements when you enquire."
+  - question: "How many people can ride the Rodeo Bull at once?"
+    answer: "One rider at a time, with timed sessions determining success. The format creates excellent spectator entertainment as colleagues attempt to stay mounted."
+  - question: "Is it safe?"
+    answer: "Yes, the inflatable surround provides safe dismounting, and our operators adjust difficulty to suit each rider. Professional supervision is provided throughout."
+  - question: "Is it suitable for all ages?"
+    answer: "The rodeo bull suits ages 12 and above due to the physical nature. It's particularly popular with adults at corporate events."
+  - question: "What space do you need?"
+    answer: "The bull and inflatable surround require significant space. We'll discuss your venue requirements when you enquire."
 ---
 

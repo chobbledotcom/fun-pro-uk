@@ -68,23 +68,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0af8fcfb7abbbac66dc49d09f355b339"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3e033bfa85836ad1c2ece822c5632840"
 faqs:
-  - question: "How many people can play Batak Lite at once?</h3>"
-    answer: "One player competes at a time, hitting illuminated targets as quickly as possible. This focused format creates clear scoring for competitions and leaderboards.
-
-
-      <h3>Q: Is Batak Lite suitable for all ages?</h3>
-
-      A: Yes, the reaction-based gameplay suits ages 10 and above. The simple format is immediately understandable with no learning curve required.
-
-
-      <h3>Q: What's the difference between Batak Lite and Batak Pro?</h3>
-
-      A: Batak Lite offers the classic reaction challenge that's made Batak a corporate event favourite. Batak Pro provides faster sequences and more complex patterns for events wanting additional challenge.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Batak Lite requires 500W of mains power."
+  - question: "How many people can play Batak Lite at once?"
+    answer: "One player competes at a time, hitting illuminated targets as quickly as possible. This focused format creates clear scoring for competitions and leaderboards."
+  - question: "Is Batak Lite suitable for all ages?"
+    answer: "Yes, the reaction-based gameplay suits ages 10 and above. The simple format is immediately understandable with no learning curve required."
+  - question: "What's the difference between Batak Lite and Batak Pro?"
+    answer: "Batak Lite offers the classic reaction challenge that's made Batak a corporate event favourite. Batak Pro provides faster sequences and more complex patterns for events wanting additional challenge."
+  - question: "What power do you need?"
+    answer: "Batak Lite requires 500W of mains power."
 add_ons:
   intro: "## Batak Lite Branding and Customisation Options
 

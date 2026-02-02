@@ -98,22 +98,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Giant Connect 4 at once?</h3>"
-    answer: "Two players or teams compete at a time, with the turn-based format drawing spectators as games progress.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the familiar Connect 4 rules apply regardless of scale. Anyone who knows the game can play immediately.
-
-
-      <h3>Q: How big is the giant version?</h3>
-
-      A: The oversized format creates visual impact whilst maintaining the strategic gameplay. Exact dimensions can be confirmed when you enquire.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Giant Connect 4 requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Giant Connect 4 at once?"
+    answer: "Two players or teams compete at a time, with the turn-based format drawing spectators as games progress."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the familiar Connect 4 rules apply regardless of scale. Anyone who knows the game can play immediately."
+  - question: "How big is the giant version?"
+    answer: "The oversized format creates visual impact whilst maintaining the strategic gameplay. Exact dimensions can be confirmed when you enquire."
+  - question: "Does it need power?"
+    answer: "No, Giant Connect 4 requires no power, giving you flexibility with positioning."
 ---
 

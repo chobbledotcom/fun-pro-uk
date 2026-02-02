@@ -48,23 +48,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae"
 faqs:
-  - question: "How many people can play Target Ring Toss at once?</h3>"
-    answer: "The game accommodates 1-4 players simultaneously, making it social whilst keeping games moving efficiently at events of 20-200 guests.
-
-
-      <h3>Q: Is Target Ring Toss suitable for all ages?</h3>
-
-      A: Yes, the classic fairground format is accessible for all ages. The simple throwing mechanic means anyone can participate and enjoy themselves.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The setup requires approximately 1850mm x 1850mm x 2134mm. We'll discuss your venue layout to ensure comfortable positioning.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Target Ring Toss requires no power at all, giving you complete flexibility with positioning anywhere in your venue."
+  - question: "How many people can play Target Ring Toss at once?"
+    answer: "The game accommodates 1-4 players simultaneously, making it social whilst keeping games moving efficiently at events of 20-200 guests."
+  - question: "Is Target Ring Toss suitable for all ages?"
+    answer: "Yes, the classic fairground format is accessible for all ages. The simple throwing mechanic means anyone can participate and enjoy themselves."
+  - question: "How much space do you need?"
+    answer: "The setup requires approximately 1850mm x 1850mm x 2134mm. We'll discuss your venue layout to ensure comfortable positioning."
+  - question: "Does it need power?"
+    answer: "No, Target Ring Toss requires no power at all, giving you complete flexibility with positioning anywhere in your venue."
 add_ons:
   intro: "## Target Ring Toss Hire Branding and Customisation Options
 

@@ -61,23 +61,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a"
 faqs:
-  - question: "How many people can play Table Tennis at once?</h3>"
-    answer: "Each table accommodates 2-4 players for singles or doubles games. Multiple tables can be hired for larger events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, table tennis suits all ages and skill levels. The familiar format means most people can participate immediately.
-
-
-      <h3>Q: Do you provide everything needed?</h3>
-
-      A: Yes, bats and balls are included with the table hire. Everything needed for play is provided.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, table tennis requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Table Tennis at once?"
+    answer: "Each table accommodates 2-4 players for singles or doubles games. Multiple tables can be hired for larger events."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, table tennis suits all ages and skill levels. The familiar format means most people can participate immediately."
+  - question: "Do you provide everything needed?"
+    answer: "Yes, bats and balls are included with the table hire. Everything needed for play is provided."
+  - question: "Does it need power?"
+    answer: "No, table tennis requires no power, giving you flexibility with positioning."
 tabs:
   - title: "Why Table Tennis Hire?"
     body: "Table tennis brings active, competitive entertainment to corporate events, team building days, and celebrations. The familiar format needs no explanation whilst offering genuine skill progression for engaged players.

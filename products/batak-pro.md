@@ -88,23 +88,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2e0e12a2e91aad8b4696c0d45dcd8f7"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1150d0087e5b784a4feb7234eebf6960"
 faqs:
-  - question: "How many people can play Batak Pro at once?</h3>"
-    answer: "One player competes at a time, facing faster sequences and more complex patterns than the standard Lite version.
-
-
-      <h3>Q: What's the difference from Batak Lite?</h3>
-
-      A: Batak Pro offers increased challenge with faster target sequences and more demanding patterns. It's the choice for events where you want serious competition.
-
-
-      <h3>Q: Is it suitable for all skill levels?</h3>
-
-      A: Yes, though the Pro version will challenge even those experienced with standard Batak. That's part of what makes it engaging for competitive corporate events.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Batak Pro requires mains power. We'll confirm specific requirements when discussing your event."
+  - question: "How many people can play Batak Pro at once?"
+    answer: "One player competes at a time, facing faster sequences and more complex patterns than the standard Lite version."
+  - question: "What's the difference from Batak Lite?"
+    answer: "Batak Pro offers increased challenge with faster target sequences and more demanding patterns. It's the choice for events where you want serious competition."
+  - question: "Is it suitable for all skill levels?"
+    answer: "Yes, though the Pro version will challenge even those experienced with standard Batak. That's part of what makes it engaging for competitive corporate events."
+  - question: "What power do you need?"
+    answer: "Batak Pro requires mains power. We'll confirm specific requirements when discussing your event."
 add_ons:
   intro: "## Batak Pro Branding and Customisation Options
 

@@ -53,23 +53,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d50c886298f4ec06f0531c8726285a9"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a"
 faqs:
-  - question: "How many people can use the Christmas Photo Booth at once?</h3>"
-    answer: "Groups of 1-8 can use the booth together, making it perfect for team photos and group shots at corporate Christmas parties.
-
-
-      <h3>Q: What's included?</h3>
-
-      A: The booth includes festive props, Christmas-themed backdrops, instant prints, and digital copies for sharing. Everything needed for memorable festive photos.
-
-
-      <h3>Q: How long does each session take?</h3>
-
-      A: Sessions typically run 20-30 minutes per group, allowing time for multiple poses and prop changes without creating long queues.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The photo booth requires 500W of mains power for the camera, lighting, and printing equipment."
+  - question: "How many people can use the Christmas Photo Booth at once?"
+    answer: "Groups of 1-8 can use the booth together, making it perfect for team photos and group shots at corporate Christmas parties."
+  - question: "What's included?"
+    answer: "The booth includes festive props, Christmas-themed backdrops, instant prints, and digital copies for sharing. Everything needed for memorable festive photos."
+  - question: "How long does each session take?"
+    answer: "Sessions typically run 20-30 minutes per group, allowing time for multiple poses and prop changes without creating long queues."
+  - question: "What power do you need?"
+    answer: "The photo booth requires 500W of mains power for the camera, lighting, and printing equipment."
 add_ons:
   intro: "## CHRISTMAS PHOTO BOOTHS Branding and Customisation Options
 

@@ -126,22 +126,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
 faqs:
-  - question: "How many people can play Reindeer Nosenado at once?</h3>"
-    answer: "One player grabs at a time, with sessions running for set periods whilst spectators watch the chaotic action.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the grab-from-the-air format suits ages 8 and above. The Christmas theming adds festive fun to the frantic gameplay.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Reindeer noses swirl in an air chamber, and players reach in to grab as many as possible within their time. It's brilliantly chaotic.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the air system that keeps items swirling."
+  - question: "How many people can play Reindeer Nosenado at once?"
+    answer: "One player grabs at a time, with sessions running for set periods whilst spectators watch the chaotic action."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the grab-from-the-air format suits ages 8 and above. The Christmas theming adds festive fun to the frantic gameplay."
+  - question: "How does it work?"
+    answer: "Reindeer noses swirl in an air chamber, and players reach in to grab as many as possible within their time. It's brilliantly chaotic."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the air system that keeps items swirling."
 ---
 

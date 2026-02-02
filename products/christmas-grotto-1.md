@@ -98,22 +98,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/christmas-grotto-1/christmas-grotto-1-3.jpg"
 faqs:
-  - question: "How big is the Christmas Grotto?</h3>"
-    answer: "Size varies by configuration. We'll discuss your available space and the scale of grotto experience you're looking for.
-
-
-      <h3>Q: What's included?</h3>
-
-      A: The grotto includes all theming elements, lighting, and atmospheric touches. Specific inclusions depend on configuration.
-
-
-      <h3>Q: How long does setup take?</h3>
-
-      A: Setup typically takes 60-90 minutes to create the full atmospheric effect. We arrive with plenty of time before your event.
-
-
-      <h3>Q: Is it suitable for adult corporate events?</h3>
-
-      A: Absolutely. Christmas grottos create magical photo opportunities and festive atmosphere that adults genuinely enjoy."
+  - question: "How big is the Christmas Grotto?"
+    answer: "Size varies by configuration. We'll discuss your available space and the scale of grotto experience you're looking for."
+  - question: "What's included?"
+    answer: "The grotto includes all theming elements, lighting, and atmospheric touches. Specific inclusions depend on configuration."
+  - question: "How long does setup take?"
+    answer: "Setup typically takes 60-90 minutes to create the full atmospheric effect. We arrive with plenty of time before your event."
+  - question: "Is it suitable for adult corporate events?"
+    answer: "Absolutely. Christmas grottos create magical photo opportunities and festive atmosphere that adults genuinely enjoy."
 ---
 

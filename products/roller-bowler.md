@@ -50,23 +50,14 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e"
 faqs:
-  - question: "How many people can play Roller Bowler at once?</h3>"
-    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it genuinely inclusive.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players roll balls up the ramp, aiming to land in scoring zones. The satisfying roll-and-settle mechanic creates simple but enjoyable gameplay.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Roller Bowler requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Roller Bowler at once?"
+    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it genuinely inclusive."
+  - question: "How does it work?"
+    answer: "Players roll balls up the ramp, aiming to land in scoring zones. The satisfying roll-and-settle mechanic creates simple but enjoyable gameplay."
+  - question: "Does it need power?"
+    answer: "No, Roller Bowler requires no power, giving you complete flexibility with positioning."
 tabs:
   - title: "Why Roller Bowler?"
     body: "Roller Bowler offers accessible skill-based entertainment that works across event types and audiences. Players roll balls up a ramp, aiming to land them in scoring zones. The simple format ensures immediate engagement without complicated explanations.

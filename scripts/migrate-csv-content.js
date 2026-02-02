@@ -122,13 +122,13 @@ function parseFAQs(faqText) {
 
   const faqs = [];
 
-  // Match Q:/A: pairs - handles multi-paragraph answers
-  const regex = /Q:\s*(.+?)\s*\n\s*A:\s*([\s\S]*?)(?=\n\s*Q:|$)/g;
+  // Match Q:/A: pairs - questions may be wrapped in <h3> tags
+  const regex = /<h3>\s*Q:\s*([\s\S]*?)<\/h3>\s*\n\s*A:\s*([\s\S]*?)(?=\s*<h3>\s*Q:|$)/g;
   let match;
 
   while ((match = regex.exec(faqText)) !== null) {
-    const question = match[1].trim();
-    const answer = match[2].trim();
+    const question = match[1].replace(/<[^>]*>/g, "").trim();
+    const answer = match[2].replace(/<[^>]*>/g, "").trim();
 
     if (question && answer) {
       faqs.push({ question, answer });

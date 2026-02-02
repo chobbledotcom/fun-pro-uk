@@ -96,23 +96,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f31e5f8d4725356e44179fbc2c44825"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86e1d66080707189aeb325a5d52af14e"
 faqs:
-  - question: "How many people can race Scalextric at once?</h3>"
-    answer: "Multiple lanes allow simultaneous racing, with the number of competitors depending on track configuration. Head-to-head racing creates natural rivalry.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, slot car racing appeals to ages 8 and above. The nostalgic format engages those who raced as children whilst introducing younger guests to the classic experience.
-
-
-      <h3>Q: Do you provide the track?</h3>
-
-      A: Yes, we provide complete track setup including cars and controllers. Configuration options can be discussed when you enquire.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Yes, mains power is required for the track and car systems."
+  - question: "How many people can race Scalextric at once?"
+    answer: "Multiple lanes allow simultaneous racing, with the number of competitors depending on track configuration. Head-to-head racing creates natural rivalry."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, slot car racing appeals to ages 8 and above. The nostalgic format engages those who raced as children whilst introducing younger guests to the classic experience."
+  - question: "Do you provide the track?"
+    answer: "Yes, we provide complete track setup including cars and controllers. Configuration options can be discussed when you enquire."
+  - question: "Does it need power?"
+    answer: "Yes, mains power is required for the track and car systems."
 add_ons:
   intro: "## Scalextric Slot Car Racing Branding and Customisation Options
 

@@ -132,22 +132,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/pix-n-mix-hire/pix-n-mix-hire-5.jpg"
 faqs:
-  - question: "How many guests can the Pick N Mix serve?</h3>"
-    answer: "Our Pick N Mix display comfortably serves events of 20-200 guests. The self-service format keeps things moving whilst allowing guests to choose their favourites.
-
-
-      <h3>Q: What sweets are included?</h3>
-
-      A: We provide a fully stocked display with a variety of classic pick n mix sweets. The selection can be discussed when you enquire, and we can cater to specific preferences where possible.
-
-
-      <h3>Q: Do you keep it stocked throughout the event?</h3>
-
-      A: We ensure the display remains well-stocked throughout your event. Restocking is handled as part of the service.
-
-
-      <h3>Q: Is any power required?</h3>
-
-      A: No, the Pick N Mix display doesn't require power. It just needs a suitable table or surface for positioning."
+  - question: "How many guests can the Pick N Mix serve?"
+    answer: "Our Pick N Mix display comfortably serves events of 20-200 guests. The self-service format keeps things moving whilst allowing guests to choose their favourites."
+  - question: "What sweets are included?"
+    answer: "We provide a fully stocked display with a variety of classic pick n mix sweets. The selection can be discussed when you enquire, and we can cater to specific preferences where possible."
+  - question: "Do you keep it stocked throughout the event?"
+    answer: "We ensure the display remains well-stocked throughout your event. Restocking is handled as part of the service."
+  - question: "Is any power required?"
+    answer: "No, the Pick N Mix display doesn't require power. It just needs a suitable table or surface for positioning."
 ---
 

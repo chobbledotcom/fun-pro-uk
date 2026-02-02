@@ -86,22 +86,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "What length is the red carpet?</h3>"
-    answer: "We can discuss carpet length options when you enquire. The setup can be configured to suit your venue entrance and the impression you want to create.
-
-
-      <h3>Q: Is it suitable for indoor and outdoor use?</h3>
-
-      A: The Red Carpet setup is primarily designed for indoor use on level surfaces. Outdoor use may be possible depending on conditions. We'll discuss your venue when you enquire.
-
-
-      <h3>Q: Do you set it up?</h3>
-
-      A: Yes, we handle delivery, setup, and collection. The red carpet and stanchions will be positioned to create maximum impact at your venue entrance.
-
-
-      <h3>Q: Can it be branded?</h3>
-
-      A: Branding options can be discussed when you enquire. For corporate events and brand activations, customisation may be available."
+  - question: "What length is the red carpet?"
+    answer: "We can discuss carpet length options when you enquire. The setup can be configured to suit your venue entrance and the impression you want to create."
+  - question: "Is it suitable for indoor and outdoor use?"
+    answer: "The Red Carpet setup is primarily designed for indoor use on level surfaces. Outdoor use may be possible depending on conditions. We'll discuss your venue when you enquire."
+  - question: "Do you set it up?"
+    answer: "Yes, we handle delivery, setup, and collection. The red carpet and stanchions will be positioned to create maximum impact at your venue entrance."
+  - question: "Can it be branded?"
+    answer: "Branding options can be discussed when you enquire. For corporate events and brand activations, customisation may be available."
 ---
 

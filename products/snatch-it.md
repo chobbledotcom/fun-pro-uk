@@ -129,22 +129,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/snatch-it/snatch-it-3.jpg"
 faqs:
-  - question: "How many people can play Snatch It at once?</h3>"
-    answer: "Typically 1-4 players depending on configuration, with the reaction-based format creating focused competitive moments.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the grab-the-light format suits ages 8 and above. Speed and reactions matter, but anyone can play and improve with practice.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Targets illuminate randomly and players snatch them before they disappear. The game tracks successful grabs throughout timed sessions.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the lighting and scoring systems."
+  - question: "How many people can play Snatch It at once?"
+    answer: "Typically 1-4 players depending on configuration, with the reaction-based format creating focused competitive moments."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the grab-the-light format suits ages 8 and above. Speed and reactions matter, but anyone can play and improve with practice."
+  - question: "How does it work?"
+    answer: "Targets illuminate randomly and players snatch them before they disappear. The game tracks successful grabs throughout timed sessions."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the lighting and scoring systems."
 ---
 

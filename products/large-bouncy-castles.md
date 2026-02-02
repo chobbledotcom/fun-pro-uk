@@ -90,22 +90,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can use the Bouncy Castle at once?</h3>"
-    answer: "Capacity depends on the specific castle size and user ages. Our team manages numbers to ensure safe, enjoyable bouncing.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, bouncy castles suit ages 3 and above with appropriate supervision. Different sizes suit different age groups and events.
-
-
-      <h3>Q: Is it safe?</h3>
-
-      A: Yes, our inflatables are regularly inspected and maintained to rigorous safety standards. Supervision is provided throughout your event.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Large bouncy castles require significant outdoor or indoor space with adequate ceiling height. We'll discuss your venue when you enquire."
+  - question: "How many people can use the Bouncy Castle at once?"
+    answer: "Capacity depends on the specific castle size and user ages. Our team manages numbers to ensure safe, enjoyable bouncing."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, bouncy castles suit ages 3 and above with appropriate supervision. Different sizes suit different age groups and events."
+  - question: "Is it safe?"
+    answer: "Yes, our inflatables are regularly inspected and maintained to rigorous safety standards. Supervision is provided throughout your event."
+  - question: "What space do you need?"
+    answer: "Large bouncy castles require significant outdoor or indoor space with adequate ceiling height. We'll discuss your venue when you enquire."
 ---
 

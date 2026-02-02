@@ -173,22 +173,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-24.jpg"
 faqs:
-  - question: "How many people can play Whack a Mole at once?</h3>"
-    answer: "The game accommodates 1-4 players depending on configuration, with the classic arcade format keeping energy high and queues moving.
-
-
-      <h3>Q: Is Whack a Mole suitable for all ages?</h3>
-
-      A: Yes, the simple see-it-hit-it format is accessible for ages 5 and above. It's one of our most inclusive games, perfect for mixed-age events.
-
-
-      <h3>Q: Do you provide the mallets?</h3>
-
-      A: Yes, padded mallets are included with the game. Everything needed for play is provided as part of the hire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The game requires 45-48W of mains power."
+  - question: "How many people can play Whack a Mole at once?"
+    answer: "The game accommodates 1-4 players depending on configuration, with the classic arcade format keeping energy high and queues moving."
+  - question: "Is Whack a Mole suitable for all ages?"
+    answer: "Yes, the simple see-it-hit-it format is accessible for ages 5 and above. It's one of our most inclusive games, perfect for mixed-age events."
+  - question: "Do you provide the mallets?"
+    answer: "Yes, padded mallets are included with the game. Everything needed for play is provided as part of the hire."
+  - question: "What power do you need?"
+    answer: "The game requires 45-48W of mains power."
 ---
 

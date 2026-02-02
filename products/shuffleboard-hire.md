@@ -79,23 +79,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/26339feadbd714699309beea753efe57"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/026e38cde243bde47c078e8f3ebd99fc"
 faqs:
-  - question: "How many people can play Shuffleboard at once?</h3>"
-    answer: "The game accommodates 2-4 players, with the turn-based format allowing conversation between plays. It's ideal for networking events.
-
-
-      <h3>Q: Is Shuffleboard suitable for all ages?</h3>
-
-      A: Yes, the sliding puck format is accessible for all ages and requires no special skills. Strategy develops with play, but beginners can enjoy it immediately.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The shuffleboard table requires floor space plus comfortable room around it for players. We'll discuss positioning when planning your event.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Shuffleboard requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Shuffleboard at once?"
+    answer: "The game accommodates 2-4 players, with the turn-based format allowing conversation between plays. It's ideal for networking events."
+  - question: "Is Shuffleboard suitable for all ages?"
+    answer: "Yes, the sliding puck format is accessible for all ages and requires no special skills. Strategy develops with play, but beginners can enjoy it immediately."
+  - question: "How much space do you need?"
+    answer: "The shuffleboard table requires floor space plus comfortable room around it for players. We'll discuss positioning when planning your event."
+  - question: "Does it need power?"
+    answer: "No, Shuffleboard requires no power, giving you flexibility with positioning."
 tabs:
   - title: "Why Shuffleboard Hire?"
     body: "Shuffleboard brings classic pub-style entertainment to corporate events, networking functions, and celebrations. The game offers strategic depth whilst remaining accessible to complete beginners, hitting the balance between competitive and social.

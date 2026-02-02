@@ -115,22 +115,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-5.jpg"
 faqs:
-  - question: "How many people can play Pluck a Duck Racing at once?</h3>"
-    answer: "The game accommodates 1-2 players racing simultaneously, with the competitive format creating natural excitement.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the hook-a-duck format is accessible for all ages, making it perfect for family days and mixed corporate events.
-
-
-      <h3>Q: How does the racing work?</h3>
-
-      A: Players use hooks to grab ducks, with each successful grab advancing their position in the race. First to finish wins.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Pluck a Duck Racing requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Pluck a Duck Racing at once?"
+    answer: "The game accommodates 1-2 players racing simultaneously, with the competitive format creating natural excitement."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the hook-a-duck format is accessible for all ages, making it perfect for family days and mixed corporate events."
+  - question: "How does the racing work?"
+    answer: "Players use hooks to grab ducks, with each successful grab advancing their position in the race. First to finish wins."
+  - question: "Does it need power?"
+    answer: "No, Pluck a Duck Racing requires no power, giving you flexibility with positioning."
 ---
 

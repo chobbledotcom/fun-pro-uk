@@ -103,22 +103,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Top Doc Operation at once?</h3>"
-    answer: "The game accommodates 1-4 players taking turns. One person operates at a time whilst spectators watch the tension build.
-
-
-      <h3>Q: Is it like the board game?</h3>
-
-      A: Yes, it's a scaled-up version of the classic Operation game. Players use oversized tweezers to remove pieces without touching the sides and triggering the buzzer.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the familiar format suits ages 8 and above. Anyone who played the board game will understand immediately, and newcomers learn in seconds.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the buzzer and electronic elements."
+  - question: "How many people can play Top Doc Operation at once?"
+    answer: "The game accommodates 1-4 players taking turns. One person operates at a time whilst spectators watch the tension build."
+  - question: "Is it like the board game?"
+    answer: "Yes, it's a scaled-up version of the classic Operation game. Players use oversized tweezers to remove pieces without touching the sides and triggering the buzzer."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the familiar format suits ages 8 and above. Anyone who played the board game will understand immediately, and newcomers learn in seconds."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the buzzer and electronic elements."
 ---
 

@@ -140,22 +140,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-5.jpg"
 faqs:
-  - question: "How many people can play Reindeer Racing at once?</h3>"
-    answer: "The game accommodates 1-2 players racing simultaneously, with the festive format perfect for Christmas corporate events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the roll-and-race format is accessible for all ages. The reindeer theming adds Christmas fun without complicating gameplay.
-
-
-      <h3>Q: How does the racing work?</h3>
-
-      A: Players roll balls to advance their reindeer along the track. The first to cross the finish line wins.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Roll and Bowl Reindeer Racing requires no power, giving you flexibility with positioning."
+  - question: "How many people can play Reindeer Racing at once?"
+    answer: "The game accommodates 1-2 players racing simultaneously, with the festive format perfect for Christmas corporate events."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-and-race format is accessible for all ages. The reindeer theming adds Christmas fun without complicating gameplay."
+  - question: "How does the racing work?"
+    answer: "Players roll balls to advance their reindeer along the track. The first to cross the finish line wins."
+  - question: "Does it need power?"
+    answer: "No, Roll and Bowl Reindeer Racing requires no power, giving you flexibility with positioning."
 ---
 

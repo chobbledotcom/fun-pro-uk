@@ -99,22 +99,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Crazy Golf at once?</h3>"
-    answer: "Typically 1-4 players per hole at once, with multiple holes enabling good throughput. The format suits casual play alongside conversation.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, crazy golf is accessible for all ages. The creative obstacles add fun without requiring genuine golf skills.
-
-
-      <h3>Q: How many holes can you provide?</h3>
-
-      A: Courses can be configured with various numbers of holes depending on your space and event duration. We'll discuss options when you enquire.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: Typically no, though some special features may require power. We'll confirm based on your configuration."
+  - question: "How many people can play Crazy Golf at once?"
+    answer: "Typically 1-4 players per hole at once, with multiple holes enabling good throughput. The format suits casual play alongside conversation."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, crazy golf is accessible for all ages. The creative obstacles add fun without requiring genuine golf skills."
+  - question: "How many holes can you provide?"
+    answer: "Courses can be configured with various numbers of holes depending on your space and event duration. We'll discuss options when you enquire."
+  - question: "Does it need power?"
+    answer: "Typically no, though some special features may require power. We'll confirm based on your configuration."
 ---
 

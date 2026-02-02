@@ -143,22 +143,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/football-tables/football-tables-8.jpg"
 faqs:
-  - question: "How many people can play Football Tables at once?</h3>"
-    answer: "Each table accommodates 2-4 players for singles or doubles games. Multiple tables can be hired for larger events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, football tables suit ages 8 and above. The familiar format means most people can play immediately.
-
-
-      <h3>Q: Do you provide everything needed?</h3>
-
-      A: Yes, balls are included with the table hire. Everything needed for play is provided.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, football tables require no power, giving you flexibility with positioning."
+  - question: "How many people can play Football Tables at once?"
+    answer: "Each table accommodates 2-4 players for singles or doubles games. Multiple tables can be hired for larger events."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, football tables suit ages 8 and above. The familiar format means most people can play immediately."
+  - question: "Do you provide everything needed?"
+    answer: "Yes, balls are included with the table hire. Everything needed for play is provided."
+  - question: "Does it need power?"
+    answer: "No, football tables require no power, giving you flexibility with positioning."
 ---
 

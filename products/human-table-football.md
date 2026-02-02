@@ -103,22 +103,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/human-table-football/human-table-football-5.jpg"
 faqs:
-  - question: "How many people can play Human Table Football at once?</h3>"
-    answer: "Two teams of 2-4 players typically compete, creating 4-8 participants per match with plenty of spectator appeal.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: The game suits ages 12 and above due to the physical coordination required. It's particularly popular at corporate team building events.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players are connected to poles like foosball figures, moving together to kick the ball. Communication and coordination are essential.
-
-
-      <h3>Q: What space do you need?</h3>
-
-      A: Human Table Football requires significant flat space. We'll discuss your venue when you enquire."
+  - question: "How many people can play Human Table Football at once?"
+    answer: "Two teams of 2-4 players typically compete, creating 4-8 participants per match with plenty of spectator appeal."
+  - question: "Is it suitable for all ages?"
+    answer: "The game suits ages 12 and above due to the physical coordination required. It's particularly popular at corporate team building events."
+  - question: "How does it work?"
+    answer: "Players are connected to poles like foosball figures, moving together to kick the ball. Communication and coordination are essential."
+  - question: "What space do you need?"
+    answer: "Human Table Football requires significant flat space. We'll discuss your venue when you enquire."
 ---
 

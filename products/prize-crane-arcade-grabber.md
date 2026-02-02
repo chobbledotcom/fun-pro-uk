@@ -154,22 +154,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-13.jpg"
 faqs:
-  - question: "How many people can play the Prize Crane at once?</h3>"
-    answer: "One player operates the crane at a time. The addictive format keeps queues engaged as they watch others and plan their own attempts.
-
-
-      <h3>Q: Can we choose the prizes?</h3>
-
-      A: Yes, prizes can be customised to suit your event and budget. We'll discuss options from branded items to premium products.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the familiar arcade format appeals to all ages. The skill-based challenge creates genuine satisfaction when players grab prizes.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the crane mechanism and cabinet lighting."
+  - question: "How many people can play the Prize Crane at once?"
+    answer: "One player operates the crane at a time. The addictive format keeps queues engaged as they watch others and plan their own attempts."
+  - question: "Can we choose the prizes?"
+    answer: "Yes, prizes can be customised to suit your event and budget. We'll discuss options from branded items to premium products."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the familiar arcade format appeals to all ages. The skill-based challenge creates genuine satisfaction when players grab prizes."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the crane mechanism and cabinet lighting."
 ---
 

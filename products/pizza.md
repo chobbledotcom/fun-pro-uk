@@ -91,22 +91,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many guests can the Pizza service cater for?</h3>"
-    answer: "Our Pizza service caters for 50-500+ guests, with continuous production maintaining availability throughout your event. We'll discuss your guest numbers when you enquire.
-
-
-      <h3>Q: Is it cooked fresh on site?</h3>
-
-      A: Yes, pizzas are prepared and cooked fresh at your event. Guests can watch the preparation and even choose their toppings, making it an interactive catering experience.
-
-
-      <h3>Q: Can you accommodate dietary requirements?</h3>
-
-      A: We can discuss dietary requirements when you enquire. Vegetarian options are typically available, and other dietary needs can often be accommodated with advance notice.
-
-
-      <h3>Q: What space and facilities do you need?</h3>
-
-      A: We require approximately 2m x 2m of space with standard door access for equipment. The pizza service uses gas, so we'll discuss venue suitability when you get in touch."
+  - question: "How many guests can the Pizza service cater for?"
+    answer: "Our Pizza service caters for 50-500+ guests, with continuous production maintaining availability throughout your event. We'll discuss your guest numbers when you enquire."
+  - question: "Is it cooked fresh on site?"
+    answer: "Yes, pizzas are prepared and cooked fresh at your event. Guests can watch the preparation and even choose their toppings, making it an interactive catering experience."
+  - question: "Can you accommodate dietary requirements?"
+    answer: "We can discuss dietary requirements when you enquire. Vegetarian options are typically available, and other dietary needs can often be accommodated with advance notice."
+  - question: "What space and facilities do you need?"
+    answer: "We require approximately 2m x 2m of space with standard door access for equipment. The pizza service uses gas, so we'll discuss venue suitability when you get in touch."
 ---
 

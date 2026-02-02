@@ -97,22 +97,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How big is the Giant Deck Chair?</h3>"
-    answer: "The Giant Deck Chair is significantly oversized to create visual impact and photo opportunities. Exact dimensions can be confirmed when you enquire.
-
-
-      <h3>Q: Is it suitable for indoor use?</h3>
-
-      A: Yes, the Giant Deck Chair works indoors provided you have adequate ceiling height and floor space. It's also great for outdoor summer events.
-
-
-      <h3>Q: Can multiple people sit in it?</h3>
-
-      A: Yes, the Giant Deck Chair is designed for group photos with multiple people. It's a popular feature for creating shareable social media content.
-
-
-      <h3>Q: Do you deliver and set it up?</h3>
-
-      A: Yes, delivery, positioning, and collection are all included. We'll place it for maximum visual impact and photo opportunities."
+  - question: "How big is the Giant Deck Chair?"
+    answer: "The Giant Deck Chair is significantly oversized to create visual impact and photo opportunities. Exact dimensions can be confirmed when you enquire."
+  - question: "Is it suitable for indoor use?"
+    answer: "Yes, the Giant Deck Chair works indoors provided you have adequate ceiling height and floor space. It's also great for outdoor summer events."
+  - question: "Can multiple people sit in it?"
+    answer: "Yes, the Giant Deck Chair is designed for group photos with multiple people. It's a popular feature for creating shareable social media content."
+  - question: "Do you deliver and set it up?"
+    answer: "Yes, delivery, positioning, and collection are all included. We'll place it for maximum visual impact and photo opportunities."
 ---
 

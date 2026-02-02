@@ -98,22 +98,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "How many people can play Giant Jenga at once?</h3>"
-    answer: "The game accommodates 2-4 players taking turns, though larger groups often gather to watch as towers grow increasingly unstable.
-
-
-      <h3>Q: Is Giant Jenga suitable for all ages?</h3>
-
-      A: Yes, the block-stacking format is accessible for all ages. The familiar rules mean everyone can participate immediately.
-
-
-      <h3>Q: How tall does the tower get?</h3>
-
-      A: The giant format means towers grow impressively tall as games progress, creating genuine tension as players remove blocks from increasingly precarious structures.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Giant Jenga requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Giant Jenga at once?"
+    answer: "The game accommodates 2-4 players taking turns, though larger groups often gather to watch as towers grow increasingly unstable."
+  - question: "Is Giant Jenga suitable for all ages?"
+    answer: "Yes, the block-stacking format is accessible for all ages. The familiar rules mean everyone can participate immediately."
+  - question: "How tall does the tower get?"
+    answer: "The giant format means towers grow impressively tall as games progress, creating genuine tension as players remove blocks from increasingly precarious structures."
+  - question: "Does it need power?"
+    answer: "No, Giant Jenga requires no power, giving you complete flexibility with positioning."
 ---
 

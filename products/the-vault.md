@@ -136,22 +136,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/the-vault/the-vault-5.jpg"
 faqs:
-  - question: "How many people can play The Vault at once?</h3>"
-    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the vault and claim the contents.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges and heist-style entertainment.
-
-
-      <h3>Q: Can prizes be placed inside the vault?</h3>
-
-      A: Yes, the vault can contain prizes for successful crackers. We'll discuss options when planning your event.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Power requirements vary by configuration. We'll confirm when discussing your event."
+  - question: "How many people can play The Vault at once?"
+    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the vault and claim the contents."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges and heist-style entertainment."
+  - question: "Can prizes be placed inside the vault?"
+    answer: "Yes, the vault can contain prizes for successful crackers. We'll discuss options when planning your event."
+  - question: "What power do you need?"
+    answer: "Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

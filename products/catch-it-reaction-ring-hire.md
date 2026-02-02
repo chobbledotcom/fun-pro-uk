@@ -78,23 +78,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f3c93aa83238a4cbe6b49ca47994bffa"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/acac488e1411bebfcbda5b0f50eae099"
 faqs:
-  - question: "How many people can play Catch It Reaction Ring at once?</h3>"
-    answer: "One player competes at a time, with precise reaction times measured for each attempt. This creates clear results for competitions and leaderboards.
-
-
-      <h3>Q: Is Catch It suitable for all ages?</h3>
-
-      A: Yes, the simple catch-the-ring format suits ages 8 and above. The straightforward mechanic means anyone can participate immediately.
-
-
-      <h3>Q: How does it work?</h3>
-
-      A: Players wait with their hand positioned around the ring. When the light signal activates, they catch the ring as quickly as possible. Reaction time is measured precisely.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: The game requires minimal power at just 5-8W."
+  - question: "How many people can play Catch It Reaction Ring at once?"
+    answer: "One player competes at a time, with precise reaction times measured for each attempt. This creates clear results for competitions and leaderboards."
+  - question: "Is Catch It suitable for all ages?"
+    answer: "Yes, the simple catch-the-ring format suits ages 8 and above. The straightforward mechanic means anyone can participate immediately."
+  - question: "How does it work?"
+    answer: "Players wait with their hand positioned around the ring. When the light signal activates, they catch the ring as quickly as possible. Reaction time is measured precisely."
+  - question: "What power do you need?"
+    answer: "The game requires minimal power at just 5-8W."
 add_ons:
   intro: "## Catch it Reaction Ring Hire Branding and Customisation Options
 

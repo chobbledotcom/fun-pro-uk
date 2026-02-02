@@ -129,22 +129,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/high-striker/high-striker-4.jpg"
 faqs:
-  - question: "How many people can play the High Striker at once?</h3>"
-    answer: "One player swings at a time, creating focused moments whilst spectators watch and anticipate whether they'll ring the bell.
-
-
-      <h3>Q: Is the High Striker suitable for all ages?</h3>
-
-      A: Yes, the classic fairground format suits ages 10 and above. Technique matters as much as strength, so results often surprise people.
-
-
-      <h3>Q: How much space do you need?</h3>
-
-      A: The High Striker needs adequate height clearance and surrounding space for safe swinging. We'll discuss your venue when you enquire.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, the High Striker requires no power, giving you flexibility with positioning."
+  - question: "How many people can play the High Striker at once?"
+    answer: "One player swings at a time, creating focused moments whilst spectators watch and anticipate whether they'll ring the bell."
+  - question: "Is the High Striker suitable for all ages?"
+    answer: "Yes, the classic fairground format suits ages 10 and above. Technique matters as much as strength, so results often surprise people."
+  - question: "How much space do you need?"
+    answer: "The High Striker needs adequate height clearance and surrounding space for safe swinging. We'll discuss your venue when you enquire."
+  - question: "Does it need power?"
+    answer: "No, the High Striker requires no power, giving you flexibility with positioning."
 ---
 

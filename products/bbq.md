@@ -94,22 +94,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/bbq/bbq-1.jpg"
 faqs:
-  - question: "How many guests can the BBQ service cater for?</h3>"
-    answer: "Our BBQ service caters for 50-500+ guests, scaling to suit your event size. We'll discuss your guest numbers and menu requirements when you enquire.
-
-
-      <h3>Q: Is the BBQ suitable for indoor venues?</h3>
-
-      A: BBQ service typically requires outdoor space or indoor venues with appropriate ventilation and extraction. We'll discuss your venue setup when you get in touch to confirm suitability.
-
-
-      <h3>Q: What food options are available?</h3>
-
-      A: We offer a range of BBQ options including meat, vegetarian, and other dietary alternatives. The full menu can be discussed when you enquire, and we can tailor offerings to suit your event.
-
-
-      <h3>Q: Do you provide staff?</h3>
-
-      A: Yes, our team handles all cooking and serving throughout your event. Setup and packdown are also included, so you can focus on your guests."
+  - question: "How many guests can the BBQ service cater for?"
+    answer: "Our BBQ service caters for 50-500+ guests, scaling to suit your event size. We'll discuss your guest numbers and menu requirements when you enquire."
+  - question: "Is the BBQ suitable for indoor venues?"
+    answer: "BBQ service typically requires outdoor space or indoor venues with appropriate ventilation and extraction. We'll discuss your venue setup when you get in touch to confirm suitability."
+  - question: "What food options are available?"
+    answer: "We offer a range of BBQ options including meat, vegetarian, and other dietary alternatives. The full menu can be discussed when you enquire, and we can tailor offerings to suit your event."
+  - question: "Do you provide staff?"
+    answer: "Yes, our team handles all cooking and serving throughout your event. Setup and packdown are also included, so you can focus on your guests."
 ---
 

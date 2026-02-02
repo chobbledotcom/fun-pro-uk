@@ -98,22 +98,13 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 faqs:
-  - question: "What games are available on the Virtual Pinball?</h3>"
-    answer: "The virtual platform offers multiple classic pinball tables, giving players variety that a single physical machine couldn't match.
-
-
-      <h3>Q: How many people can play at once?</h3>
-
-      A: One player per machine, with the authentic flipper controls providing genuine pinball gameplay. Multiple machines can be hired for larger events.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, pinball appeals across generations. The format is immediately understandable, and the multiple table options keep things interesting.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the cabinet display and flipper mechanisms."
+  - question: "What games are available on the Virtual Pinball?"
+    answer: "The virtual platform offers multiple classic pinball tables, giving players variety that a single physical machine couldn't match."
+  - question: "How many people can play at once?"
+    answer: "One player per machine, with the authentic flipper controls providing genuine pinball gameplay. Multiple machines can be hired for larger events."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, pinball appeals across generations. The format is immediately understandable, and the multiple table options keep things interesting."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the cabinet display and flipper mechanisms."
 ---
 

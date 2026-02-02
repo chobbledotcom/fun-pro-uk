@@ -156,22 +156,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-23.jpg"
 faqs:
-  - question: "How many people can use the Green Screen Photo Booth at once?</h3>"
-    answer: "Groups of 1-8 can be photographed together, with the green screen enabling any background to be added.
-
-
-      <h3>Q: What backgrounds are available?</h3>
-
-      A: Multiple backgrounds can be configured, from branded environments to fantasy locations. Custom backgrounds can be created for your event.
-
-
-      <h3>Q: Is it different from a regular photo booth?</h3>
-
-      A: Yes, the green screen technology enables guests to appear in any setting. This creates more impressive, shareable images than standard booth shots.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the camera, lighting, and printing equipment."
+  - question: "How many people can use the Green Screen Photo Booth at once?"
+    answer: "Groups of 1-8 can be photographed together, with the green screen enabling any background to be added."
+  - question: "What backgrounds are available?"
+    answer: "Multiple backgrounds can be configured, from branded environments to fantasy locations. Custom backgrounds can be created for your event."
+  - question: "Is it different from a regular photo booth?"
+    answer: "Yes, the green screen technology enables guests to appear in any setting. This creates more impressive, shareable images than standard booth shots."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the camera, lighting, and printing equipment."
 ---
 

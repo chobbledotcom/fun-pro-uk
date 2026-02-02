@@ -120,22 +120,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/magic-mirror/magic-mirror-13.jpg"
 faqs:
-  - question: "How many people can use the Magic Mirror at once?</h3>"
-    answer: "Groups of 1-8 can use the mirror together, with the full-length format perfect for showing off outfits and creating group photos.
-
-
-      <h3>Q: What makes it different from a regular photo booth?</h3>
-
-      A: The Magic Mirror features a full-length touchscreen mirror with interactive games, animations, and signing features. It creates a more engaging experience than traditional booths.
-
-
-      <h3>Q: What's included?</h3>
-
-      A: The mirror includes interactive features, instant prints, digital sharing, and typically props. We'll confirm the full specification when you enquire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the mirror display and printing equipment."
+  - question: "How many people can use the Magic Mirror at once?"
+    answer: "Groups of 1-8 can use the mirror together, with the full-length format perfect for showing off outfits and creating group photos."
+  - question: "What makes it different from a regular photo booth?"
+    answer: "The Magic Mirror features a full-length touchscreen mirror with interactive games, animations, and signing features. It creates a more engaging experience than traditional booths."
+  - question: "What's included?"
+    answer: "The mirror includes interactive features, instant prints, digital sharing, and typically props. We'll confirm the full specification when you enquire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the mirror display and printing equipment."
 ---
 

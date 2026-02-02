@@ -140,22 +140,13 @@ tabs:
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-3.jpg"
 faqs:
-  - question: "How many people can play Roll & Bowl Donkey Derby at once?</h3>"
-    answer: "The game accommodates 1-4 players racing simultaneously, creating head-to-head competition that draws spectators.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, the roll-the-ball format is accessible for all ages. The racing element adds excitement whilst the mechanics remain simple enough for anyone.
-
-
-      <h3>Q: How does the racing work?</h3>
-
-      A: Players roll balls to advance their donkeys along the track. Successful rolls move you forward, with the first to cross the finish line winning.
-
-
-      <h3>Q: Does it need power?</h3>
-
-      A: No, Roll & Bowl Donkey Derby requires no power, giving you complete flexibility with positioning."
+  - question: "How many people can play Roll & Bowl Donkey Derby at once?"
+    answer: "The game accommodates 1-4 players racing simultaneously, creating head-to-head competition that draws spectators."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-the-ball format is accessible for all ages. The racing element adds excitement whilst the mechanics remain simple enough for anyone."
+  - question: "How does the racing work?"
+    answer: "Players roll balls to advance their donkeys along the track. Successful rolls move you forward, with the first to cross the finish line winning."
+  - question: "Does it need power?"
+    answer: "No, Roll & Bowl Donkey Derby requires no power, giving you complete flexibility with positioning."
 ---
 

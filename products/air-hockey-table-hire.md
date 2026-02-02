@@ -78,23 +78,14 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180c197ab2df6df453b18683e8250e6"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae8ccde974a8b3d7efec6e29fb60cbbb"
 faqs:
-  - question: "How many people can play Air Hockey at once?</h3>"
-    answer: "Two players compete head-to-head at each table. Multiple tables can be hired for larger events requiring more throughput.
-
-
-      <h3>Q: Is it suitable for all ages?</h3>
-
-      A: Yes, air hockey suits ages 8 and above. The fast-paced format appeals widely, and the familiar arcade style makes it immediately accessible.
-
-
-      <h3>Q: Do you provide everything needed?</h3>
-
-      A: Yes, mallets and pucks are included. Everything required for play comes with the table hire.
-
-
-      <h3>Q: What power do you need?</h3>
-
-      A: Mains power is required for the air cushion system that enables rapid puck movement."
+  - question: "How many people can play Air Hockey at once?"
+    answer: "Two players compete head-to-head at each table. Multiple tables can be hired for larger events requiring more throughput."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, air hockey suits ages 8 and above. The fast-paced format appeals widely, and the familiar arcade style makes it immediately accessible."
+  - question: "Do you provide everything needed?"
+    answer: "Yes, mallets and pucks are included. Everything required for play comes with the table hire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the air cushion system that enables rapid puck movement."
 tabs:
   - title: "Why Air Hockey Table Hire?"
     body: "Air hockey brings fast-paced competitive entertainment to corporate events, team building days, and celebrations. The familiar arcade format needs no explanation whilst delivering genuine competitive gameplay.
