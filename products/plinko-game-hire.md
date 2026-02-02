@@ -5,7 +5,12 @@ price: "£395"
 order: 50
 meta_title: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK"
 meta_description: "Plinko Game Hire – Interactive Entertainment | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/prize-games.md", "categories/pub-games.md"]
+categories:
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/prize-games.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -14,13 +19,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "1000mm Width x 1000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "No power required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "900mm Width x 500mm Depth x 1500mm Height"
   - name: "Suitability"
@@ -29,11 +34,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -70,15 +77,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5463ebf2f6ee8ba66947266f9e8cf317"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b"
 add_ons:
-  intro: |
-    ## Plinko Game Hire Branding and Customisation Options
+  intro: "## Plinko Game Hire Branding and Customisation Options
+
 
     Make Plinko Game Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded back panels"
       price: 125
@@ -86,78 +96,52 @@ add_ons:
       price: 50
 tabs:
   - title: "Why Plinko Game Hire?"
+    body: "Plinko brings the television game show format to corporate events, celebrations, and brand activations. The familiar format, where discs bounce down through pegs into prize slots, creates genuine excitement and works well for prize-giving entertainment.
+
+
+      For events where you want entertainment that combines participation with prize distribution, Plinko delivers both. The visible randomness creates drama, whilst the format ensures fair distribution without awkward selection processes.
+
+
+      No power required means flexible positioning, with capacity for 20-200 guests. Setup takes approximately 15-20 minutes."
     image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
-    body: |
-      # Plinko Game Hire
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Hire Our Exciting Plinko Game for Your Next Event in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, UK
-      
-      🎉 Make your event unforgettable with our Giant Plinko Game hire service! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Plinko Game is a surefire way to increase engagement and entertainment.
-      
-      ### Interactive Fun for All Ages
-      
-      🏆 The Plinko board game is a crowd-pleaser that guarantees a memorable experience for participants of all ages. Simply drop a Plinko disc in the top of the game and watch as it bounces down, zigzagging between the pins until it lands on a prize section at the bottom.
-      
-      ### Customisable Prizes to Suit Your Event
-      
-      🎁 Want to showcase your own prizes or brand offerings? No problem! Our Plinko Game allows you to personalize the prize sections with your own branding, making it the ideal attraction for exhibition stands, trade show stalls, and promotional events.
-      
-      Don't miss out on the fun – book our Giant Plinko Game for your next event in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere in the UK!
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ## Plinko Board Game Hire
-      
-      Looking for a prize game with a difference? Look no further than our all new Giant Plinko Game to hire.  
-      The Plinko board game is a large floor mounted game where each contestant can win a prize!  
-      A fantastic attraction for exhibition stands trade show stalls and brand promotions. This amazing game will attract a crowd to see who can win which prize.  
-        
-      Just drop a Plinko disc in the top of the game and watch as it easily travels from top to bottom. The Plinko discs will bounce between  
-      the pins on the game until it reaches the prize sections which run along the bottom of the game.  
-      Each prize section is numbered however you can brand the Plinko game with your own prizes.  
-        
-      The Plinko Game is available in the standard red and white design alternatively, you can opt to brand your own Plinko Game by using your company logo design to be fitted on the backboard of the game underneath the pins which will ensure to enhance your brand activation matching the colours of your stand and promotional products.
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      **£**50** + vat
   - title: "How It Works"
+    body: "Players drop discs from the top of the Plinko board, watching as they bounce through pegs before landing in prize slots at the bottom. Different slots represent different prizes or scores.
+
+
+      The format is immediately understandable and creates visible drama as discs bounce unpredictably. Games run quickly, maintaining throughput.
+
+
+      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
     image: "/images/products/plinko-game-hire/plinko-game-hire-8.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/plinko-game-hire/plinko-game-hire-7.jpg"
-    body: |
-      
+    body: "Plinko works because watching those discs bounce is genuinely exciting. The randomness, the near-misses, the final slot. It creates drama that static prize draws don't match.
+
+
+      The television association helps too. Guests know the format, understand the stakes, and engage with the familiarity. That recognition lowers barriers to participation.
+
+
+      For prize distribution specifically, Plinko feels fair and entertaining rather than arbitrary. Winners feel lucky rather than selected, which avoids the awkwardness of obvious favouritism."
+    image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/plinko-game-hire/plinko-game-hire-6.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play Plinko at once?"
+    answer: "One player drops discs at a time, with the quick format maintaining good throughput whilst creating drama for spectators watching where discs land."
+  - question: "Can we customise the prizes?"
+    answer: "Yes, prize slots can be configured to suit your event. We'll discuss options when you enquire about your requirements."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the drop-and-watch format is accessible for all ages. Everyone understands the game instantly, and the random bouncing creates genuine excitement."
+  - question: "Does it need power?"
+    answer: "No, Plinko requires no power, giving you flexibility with positioning."
 ---
 

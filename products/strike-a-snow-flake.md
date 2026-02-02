@@ -5,8 +5,11 @@ price: "£395"
 order: 50
 meta_title: "Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK"
 meta_description: "Hire the Strike A Snow Flake Game for interactive fun at your event! Perfect for Christmas parties, team buildings, and school fairs. Book with Fun Pro UK today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-game-hire.md"
+  - "categories/christmas-games.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,20 +23,20 @@ specs:
   - name: "Power"
     value: "1 x UK mains socket (Wattage usage 9-14 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
     value: "2 players"
 options:
@@ -66,144 +69,53 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/34d530d279cd8b0bea0a45ccd98bcd67"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b82605d2431b4c3d7601597127dd9ef0"
 faqs:
-  - question: "What are the age requirements for playing Strike a Snow Flake?"
-    answer: "The Strike a Snowflake game is suitable for participants of all ages. Both children and adults can enjoy the competitive, fast-paced gameplay. Younger children can join in under supervision to ensure a safe and enjoyable experience for everyone."
-  - question: "How long does each round of the game last?"
-    answer: "Each round lasts approximately 30 seconds, making the game ideal for events with large crowds. The quick gameplay keeps the excitement high, encourages repeat plays, and creates a lively atmosphere."
-  - question: "What equipment is included when hiring the Strike a Snow Flake game?"
-    answer: "The game comes complete with bright LED lights, festive snowflake-themed decorations, and built-in sound effects. It includes a sturdy table or stand to ensure stability and accessibility during play. Our professional team handles delivery, setup, and collection, providing a hassle-free experience for event organisers."
+  - question: "How many people can play Strike a Snowflake at once?"
+    answer: "One player competes at a time, with games running through timed sessions. This creates focused entertainment moments whilst spectators gather to watch."
+  - question: "Is Strike a Snowflake suitable for all ages?"
+    answer: "Yes, the target-striking format is accessible for ages 8 and above. No special skills are required, making it genuinely inclusive for corporate Christmas events."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 1.5m x 1.5m x 1.8m. We'll discuss your venue layout to ensure comfortable positioning with room for players and spectators."
+  - question: "What power do you need?"
+    answer: "Mains power is required. We just need access to a standard UK socket within reasonable distance of the game position."
 tabs:
   - title: "Why Strike A Snow Flake?"
+    body: "Strike a Snowflake offers winter-themed entertainment that suits Christmas parties, seasonal celebrations, and winter-themed corporate events. At 1.5m x 1.5m x 1.8m, it makes a visual impact whilst remaining manageable for most indoor venues.
+
+
+      The game creates competitive moments without requiring athletic ability, making it genuinely accessible across different age groups and fitness levels. For events where you're bringing together diverse teams or mixed audiences, this kind of inclusive entertainment often proves more valuable than options that favour certain participants.
+
+
+      Requiring mains power and around 15-20 minutes for setup, it's straightforward to accommodate in most venue spaces. The seasonal theming gives it natural relevance during the winter months when generic entertainment can feel out of step with the occasion."
     image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-6.jpg"
-    body: |
-      # Strike A Snow Flake
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Best Strike a Snow Flake Game Hire for Events in the UK!**
-      
-      Add some festive fun to your next event with the Strike a Snowflake game. This Christmas-themed version of the classic Strike a Light game is a great choice for holiday gatherings. It's perfect for entertaining guests at [corporate Christmas parties](/news/#content) or festive funfairs.  
-      
-      ## **Hire a Strike a Snow Flake game for your holiday party!**
-      
-      Looking for a festive challenge? Strike a Snowflake is a fast-paced, reaction-based game that puts your speed, accuracy, and focus to the test. Two players compete head-to-head, racing to hit the glowing snowflake lights as they appear. The player with the quickest reactions and highest score takes the win!  
-      With its vibrant Christmas theme and engaging gameplay, Strike a Snowflake is ideal for:  
-        
-      ✓ Corporate Christmas parties  
-      ✓ Holiday themed [team building events  
-      ](/team-building-ideas/#content)✓ Christmas funfairs  
-      ✓ [Family gatherings](http://)  
-        
-      ...and more!
-      
-      **Equipment size**
-      
-      1100mm Length x 900mm Depth
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ## **Packages and Pricing**
-      
-      Take a look at our hire packages and find the perfect option to suit your event and budget.  
-      
-      All packages include setup and removal by our professional events team, ensuring the Strike a Snowflake game and any additional equipment are in perfect condition and ready to use at your event. Delivery is not included and is charged separately.
-      
-      In-house branding is available. We handle the printing, application, and removal after each event. (One-time use only.)
-      
-      If you need a longer hire period, get in touch for custom pricing and availability.
-      
-      \*Please note that delivery charges and minimum order values may apply.
-      
-      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ## **Why Choose Our Strike a Snow Flake Game Hire Service?**
-      
-      Fun Pro UK is the leading provider of [Christmas party games for hire](/events/christmas-entertainment/#content) in the UK. Our Strike a Snowflake game offers an interactive and unforgettable experience for any festive event.
-      
-      Wherever your Christmas party is located, [Fun Pro](/#content) ensures fast nationwide delivery and professional setup for the Strike a Snowflake game. From Birmingham to Leicester, London, Manchester, and beyond, we bring holiday cheer to events across the country.
-      
-      Whether your event is indoors or outdoors, our expert team handles delivery, setup, and operation, ensuring everything runs smoothly. With a hassle-free booking process, we’ll make sure the Strike a Snowflake game is ready for your guests to enjoy all day or night.
-      
-      ## **How to Book the Strike a Snowflake Game**
-      
-      Booking the Strike a Snow Flake game is easy and stress free.
-      
-      ### **Step 1: Enquiry**
-      
-      Contact us via our website, email, or phone to discuss your event requirements. We'll provide you with a personalised quote.
-      
-      ### **Step 2: Confirmation**
-      
-      Once you're happy with the package, confirm your booking, and we'll take care of the rest.
-      
-      ### **Step 3: Delivery and setup**
-      
-      On the day of your event, we’ll deliver and set up the Strike a Snowflake game at your chosen venue. Our team will ensure everything is ready and running smoothly so your guests can enjoy the game.
-      
-      ### **Step 4: Event day support**
-      
-      If you need assistance during the event, our team is just a call away. Reach us on 0247 7220 701. We’re committed to making your event a success.
-      
-      ### **Step 5: Removal**
-      
-      After the event, we’ll return to dismantle and collect the Strike a Snowflake game, leaving your venue just as we found it.  
-      
-      ## **Ready to take your event to the next level?**
-      
-      Make your Christmas celebration truly memorable with our Strike a Snowflake game hire service. [Contact Fun Pro UK today](/contact-fun-pro-uk/#content) to book this exciting game for your next event in Birmingham, Leicester, Nottingham, or anywhere across the UK!
-      
-      ### **Can the game be customised with branding or event themes?**
-      
-      Yes, the Strike a Snowflake game can be customised to match your event’s branding or theme. You can add logos, slogans, or event-specific graphics to the game console or surrounding area.
-      
-      These customisation options make the game perfect for brand activations, trade shows, and promotional events, ensuring your brand stands out while guests enjoy the festive fun.
-      
-      **Branding Prices from:**
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      Branded Top Panel
-      
-      £175 + vat
-      
-      ![](/userfiles/file/FunPro/Stike%20a%20light/20230921-100741.jpg)
-      
-      Branded side panels
-      
-      £250 + vat
-      
-      ![](/userfiles/file/FunPro/Stike%20a%20light/img-20230619-wa0011.jpg)
-      
-      Fully Branded panels
-      
-      £420 + vat
-      
-      ![](/userfiles/file/FunPro/Stike%20a%20light/20230920-143400.jpg)
   - title: "How It Works"
+    body: "Players aim to strike illuminated snowflake targets as they light up across the game surface. Speed and accuracy both count, with the game tracking scores automatically throughout each timed session.
+
+
+      The targets light up in varying patterns, keeping players engaged and preventing the gameplay from becoming predictable. Each turn runs for a set duration, creating natural breaks for the next player and making it easy to manage throughput at busy events.
+
+
+      Setup requires access to mains power and takes approximately 15-20 minutes. Once running, the game operates continuously and can be left for guests to use independently, though staff supervision is available for larger events where you'd prefer managed entertainment."
     image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-5.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-4.jpg"
-    body: |
-      
+    body: "Strike a Snowflake earns its popularity through straightforward, satisfying gameplay that people understand immediately. There's no explanation needed. Targets light up, you hit them, scores go up.
+
+
+      The physical element matters here. In an era of screens and virtual everything, games that involve actual movement and hand-eye coordination feel refreshing at events. People engage differently when their body's involved, and that translates to better energy in the room.
+
+
+      The winter theming also helps at seasonal events. It contributes to the atmosphere rather than feeling disconnected from it. Guests appreciate when entertainment feels considered rather than generic."
+    image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-6.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/strike-a-snow-flake/strike-a-snow-flake-3.jpg"
-    body: |
-      
 ---
 
