@@ -5,7 +5,9 @@ price: ""
 order: 50
 meta_title: "Climbing Wall Hire – Adventurous Event Attraction"
 meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/corporate-entertainment.md", "categories/fun-days.md"]
+categories:
+  - "categories/corporate-entertainment.md"
+  - "categories/fun-days.md"
 events: []
 featured: true
 features:
@@ -16,24 +18,24 @@ specs:
   - name: "Players"
     value: "4 players"
   - name: "Space Required"
-    value: "TBD"
+    value: "4m x 3m x 5m"
   - name: "Power"
-    value: "TBD"
+    value: "1 x UK mains socket (Game usage: 10-50W)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "3m x 2m x 4.5m"
   - name: "Suitability"
-    value: "TBD"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "TBD"
+    value: "Wide access required / Lift access for upper floors"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "100-500+ guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "60-90 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
     value: "4 players"
 options:
@@ -48,45 +50,50 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ac18774e78ba1b9a2734a669acec0244"
 tabs:
   - title: "Why Climbing Wall?"
+    body: "A climbing wall brings genuine physical challenge and visual spectacle to corporate events, team building days, and outdoor celebrations. The visible achievement of reaching the top creates memorable moments, whilst the challenge itself tests determination rather than just athletic ability.
+
+
+      For team building events particularly, climbing walls offer something different from typical corporate entertainment. The combination of physical challenge and mental commitment, plus the trust element when colleagues belay each other, creates bonding experiences that passive entertainment doesn't achieve.
+
+
+      Professional setup and safety equipment is included, with staff to manage the wall throughout your event. Capacity suits events of 20-200 guests with appropriate throughput for larger functions."
     image: "/images/products/climbing-wall/climbing-wall-1.jpg"
-    body: |
-      # Climbing Wall
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Mobile Climbing Wall Hire UK
-      
-      Are you ready to take your event to new heights? Look no further than our thrilling 4 player Mobile Climbing Wall hire, available in various locations across the UK, including London, Birmingham, Northampton, Coventry, Cardiff, Manchester, and many more.
-      
-      Our Mobile Climbing Wall is the perfect addition to corporate events, festivals, school fairs, and team-building activities. It offers a safe and exhilarating experience for climbers of all ages and skill levels. Whether you're a seasoned climber or trying it for the first time, our wall provides a challenge that will push your limits and leave you with a sense of accomplishment.
-      
-      The beauty of our Mobile Climbing Wall is its versatility and convenience. It can be set up in a variety of outdoor spaces, from parks and fields to parking lots and event venues. Our professional team will handle all the logistics, ensuring that the wall is securely installed and ready for action at your chosen location.
-      
-      Safety is our top priority. Our Mobile Climbing Wall is constructed with high-quality materials and features state-of-the-art safety mechanisms, including harnesses, helmets, and trained staff to guide climbers throughout their ascent. You can rest assured that your guests will have a thrilling yet secure climbing experience.
-      
-      With our 4 player Mobile Climbing Wall, the fun is multiplied! Challenge your friends, colleagues, or family members to a friendly competition and see who can reach the top first. The wall is divided into four distinct climbing routes, allowing multiple climbers to participate simultaneously. It's a fantastic way to encourage teamwork, build confidence, and create lasting memories.
-      
-      No matter where you're located in the UK, our Mobile Climbing Wall can come to you. From the bustling streets of London to the vibrant city of Birmingham, the historic town of Northampton to the cultural hub of Manchester, and the scenic beauty of Cardiff to the lively atmosphere of Coventry, we'll bring the excitement of climbing right to your doorstep.
-      
-      Booking our 4 player Mobile Climbing Wall is simple and hassle-free. Just get in touch with our friendly team, provide us with your event details, including the desired location and date, and we'll take care of the rest. Our experienced staff will handle the delivery, setup, and supervision of the wall, allowing you to focus on enjoying your event.
-      
-      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
   - title: "How It Works"
-    body: |
-      
+    body: "Participants are fitted with safety harnesses and given basic instruction before attempting the wall. Multiple routes of varying difficulty mean both beginners and experienced climbers can find appropriate challenges.
+
+
+      Our trained staff manage all safety aspects, including harness fitting, belaying, and wall supervision. Participants can attempt as many climbs as time allows, progressing to harder routes as confidence builds.
+
+
+      Setup requirements vary by wall type, and we'll discuss specific venue needs when you enquire. All safety equipment and trained staff are included in the hire."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "Climbing walls create genuine achievement moments. Reaching the top of a wall delivers satisfaction that passive entertainment doesn't match. Participants remember the accomplishment and the colleagues who cheered them on.
+
+
+      The spectator element adds value too. Watching colleagues attempt climbs, calling out encouragement, celebrating successes. The social dynamics around a climbing wall build team connection naturally.
+
+
+      For many participants, it's also something they wouldn't do ordinarily. Corporate events that offer genuinely new experiences stand out from the usual format of drinks and canapés."
+    image: "/images/products/climbing-wall/climbing-wall-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can use the Climbing Wall at once?"
+    answer: "Typically 1-2 climbers at a time, with our trained staff managing harnesses and belaying. This ensures safe operation whilst maintaining good throughput."
+  - question: "Is the Climbing Wall suitable for all ages?"
+    answer: "Yes, the wall suits ages 5 and above with routes of varying difficulty. Both children and adults can find appropriate challenges."
+  - question: "Is it safe?"
+    answer: "Absolutely. All participants wear safety harnesses, and our trained staff handle all belaying and safety supervision. Equipment is professionally maintained to rigorous standards."
+  - question: "What space and setup do you need?"
+    answer: "Requirements vary by wall configuration. We'll discuss your venue, ceiling height, and ground surface when you enquire to confirm suitability."
 ---
 

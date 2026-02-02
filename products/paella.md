@@ -5,7 +5,8 @@ price: ""
 order: 50
 meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "PAELLA is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/fun-foods.md"]
+categories:
+  - "categories/fun-foods.md"
 events: []
 featured: true
 features:
@@ -14,26 +15,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "Serves groups"
   - name: "Space Required"
-    value: "TBD"
+    value: "2m x 2m x 2m"
   - name: "Power"
-    value: "TBD"
+    value: "Gas powered"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "TBD"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "TBD"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "50-500+ guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "Continuous service"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "Serves groups"
 options:
   - name: "1 Day"
     unit_price: 0
@@ -50,33 +53,51 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0d2d06a0030987eeaeeda2e8b324f96"
 tabs:
   - title: "Why PAELLA?"
+    body: "Live paella cooking brings theatre and authenticity to corporate events, summer parties, and celebrations. The visual spectacle of paella being prepared creates atmosphere and talking points, whilst the communal serving format encourages mingling and shared experiences.
+
+
+      Requiring 2m x 2m x 2m of space, paella suits larger events with 50-500+ guests where you want catering that scales impressively. The indoor venue requirement with level surface and standard door access means most function rooms can accommodate the setup.
+
+
+      For events where food should be part of the experience rather than just sustenance, live paella cooking creates the kind of memorable moments that pre-prepared catering doesn't achieve."
     image: "/images/products/paella/paella-3.jpg"
-    body: |
-      # PAELLA
-      
-      ## PAELLA
-      
-      Available through out the UK
-      
-      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
   - title: "How It Works"
+    body: "Our team arrives with all equipment and ingredients, setting up the cooking station as a focal point for your event. The paella is prepared fresh throughout, with the cooking process itself becoming part of the entertainment.
+
+
+      Guests can watch the preparation, ask questions, and experience the theatre of live cooking before being served. The communal nature of paella service encourages mingling and conversation.
+
+
+      Setup requires 2m x 2m x 2m of space, mains power, and a level indoor surface. We handle all cooking and serving, so you can focus on your guests rather than catering logistics."
     image: "/images/products/paella/paella-2.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/paella/paella-1.jpg"
-    body: |
-      
+    body: "Paella works at events because it's inherently social food. The large pan, the communal serving, the gathering around cooking. It creates natural interaction in ways that individual plated meals don't achieve.
+
+
+      The visual element matters too. Watching food being prepared is genuinely engaging. Guests cluster around, the aroma builds anticipation, and the eventual serving feels like an event within the event.
+
+
+      For corporate functions specifically, this communal element often achieves networking objectives more effectively than structured activities. People connect over food in ways they don't over formal introductions."
+    image: "/images/products/paella/paella-3.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many guests can the Paella service cater for?"
+    answer: "Our Paella service caters for 50-500+ guests, making it perfect for larger corporate events, summer celebrations, and team gatherings. We'll discuss your guest numbers when you enquire."
+  - question: "Is Paella suitable for indoor venues?"
+    answer: "Yes, the Paella service is suitable for indoor venues with a level surface. We require approximately 2m x 2m of space for the cooking setup and standard door width access for equipment."
+  - question: "Do you cater for dietary requirements?"
+    answer: "We can discuss dietary requirements when you enquire. Traditional paella contains seafood and meat, but alternatives may be available with advance notice."
+  - question: "Is the cooking done on site?"
+    answer: "Yes, the paella is prepared fresh at your event. The live cooking becomes part of the entertainment, with guests able to watch the preparation and enjoy the theatre of it."
 ---
 

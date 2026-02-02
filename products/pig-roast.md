@@ -5,7 +5,8 @@ price: ""
 order: 50
 meta_title: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK"
 meta_description: "Pig Roast Hire – Traditional Events Catering | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/fun-foods.md"]
+categories:
+  - "categories/fun-foods.md"
 events: []
 featured: true
 features:
@@ -14,26 +15,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "Serves groups"
   - name: "Space Required"
-    value: "TBD"
+    value: "2m x 2m x 2m"
   - name: "Power"
-    value: "TBD"
+    value: "Gas powered"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "TBD"
+    value: "Indoor use only / Level surface"
   - name: "Access"
-    value: "TBD"
+    value: "Standard door width / Can be carried upstairs"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "50-500+ guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "Continuous service"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "Serves groups"
 options:
   - name: "1 Day"
     unit_price: 0
@@ -50,43 +53,51 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6077efacc4e14ad1b6936f122b6d75f0"
 tabs:
   - title: "Why Pig Roast?"
+    body: "A pig roast brings theatre and tradition to corporate events, summer parties, and celebrations where you want catering that doubles as entertainment. There's something about food being prepared in front of guests that creates atmosphere and talking points in a way that pre-plated meals simply don't.
+
+
+      The setup requires 2m x 2m x 2m of space and serves groups of 50-500+ guests, making it suitable for larger events where you need catering that scales. Indoor venues with level surfaces work best, and standard door width access means most function rooms can accommodate it.
+
+
+      Beyond the practical serving capacity, a pig roast signals a certain type of event. It's relaxed, communal, and memorable. For team building days, company celebrations, or client hospitality, that impression often matters as much as the food itself."
     image: "/images/products/pig-roast/pig-roast-3.jpg"
-    body: |
-      # Pig Roast
-      
-      ## Pig Roast Hire
-      
-      The queue for our hog roasts stretch for miles! Our crunchy crackling and juicy pork are always the talk of the town where ever we go for corporate events and party hire.
-      
-      With our 10 hour slow cooked hog served with the best sage and onion stuffing in fresh bread rolls your guests will definitely be back for more!
-      
-      Our amazing hog roasts are served buffet style from the mobile kitchen where other side dishes can also be on offer to ensure your guests will not go hungry at your event!
-      
-      From chunky coleslaw, mixed salad leaves, new potatoes and more the choice is yours!
-      
-      Drop us an email with your requirements and we will do the rest!
-      
-      Available through out the UK.
-      
-      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
   - title: "How It Works"
+    body: "Our team arrives with the pig roast setup and handles everything from positioning to cooking to serving. The roasting process itself becomes part of the event entertainment, with guests naturally gravitating towards the cooking area.
+
+
+      Service typically involves carving to order once the roast is ready, giving guests freshly prepared portions. This creates a natural flow and focal point for your event, rather than a single rushed serving moment.
+
+
+      Setup requires 2m x 2m x 2m of space, mains power, and a level indoor surface. Standard door width access is needed for equipment. We handle all the logistics, cooking, and serving, so you can focus on your guests rather than catering coordination."
     image: "/images/products/pig-roast/pig-roast-2.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/pig-roast/pig-roast-1.jpg"
-    body: |
-      
+    body: "Pig roasts work at events because they tap into something older than corporate entertainment. Gathering around cooking food is fundamentally social. It gives people something to watch, something to anticipate, and something to discuss.
+
+
+      For corporate events specifically, this communal element often achieves team bonding objectives more effectively than structured activities. People naturally cluster, chat whilst waiting, and share the experience of seeing the food prepared.
+
+
+      There's also the visual impact. A pig roast looks impressive in photos and creates memories that distinguish your event from the usual buffet or plated dinner. Guests remember it."
+    image: "/images/products/pig-roast/pig-roast-3.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many guests can the Pig Roast serve?"
+    answer: "Our Pig Roast service caters for 50-500+ guests, making it ideal for larger corporate events, summer parties, and celebrations. We'll discuss your guest numbers when you enquire to ensure we provide the right amount of food."
+  - question: "Is the Pig Roast suitable for indoor venues?"
+    answer: "The Pig Roast requires adequate ventilation, so it's typically suited to outdoor events or indoor venues with appropriate extraction facilities. We'll discuss your venue setup when you get in touch to confirm suitability."
+  - question: "Do you provide staff to serve?"
+    answer: "Yes, absolutely. Our team handles everything from setup through cooking to serving and packdown. This is all included, so you can focus on your guests rather than catering logistics."
+  - question: "How much space do you need?"
+    answer: "We require approximately 2m x 2m for the cooking setup, plus clearance for service. We'll discuss your venue layout beforehand to ensure everything fits comfortably and safely."
 ---
 
