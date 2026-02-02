@@ -185,6 +185,8 @@
   @include button-colored(transparent, #fff, 1px solid #fff);
 }
 
+--nav-bottom: 0;
+
 @mixin mega-menu-columns($columns) {
   & > ul {
     width: calc(100vw - 220px);
