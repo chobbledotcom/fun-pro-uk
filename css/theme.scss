@@ -2494,11 +2494,6 @@ ol.steps {
   padding-bottom: var(--gap-items);
 }
 
-// Prevent horizontal overflow on mobile
-body {
-  overflow-x: hidden;
-}
-
 .slider-nav {
   @include flex-row(16px);
   margin: 0;
