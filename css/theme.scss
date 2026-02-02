@@ -610,7 +610,8 @@ body {
 
         ul {
           @include list-reset;
-          @include flex-row(var(--section-padding));
+          @include flex-row(var(--gap-items) var(--section-padding));
+          flex-wrap: wrap;
           margin: var(--section-padding-half) 0 0;
           justify-content: center;
 
@@ -625,6 +626,10 @@ body {
             color: #009dd7;
             font-size: 32px;
             font-weight: 500;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
             small {
               color: #898a8c;
               font-size: 16px;
