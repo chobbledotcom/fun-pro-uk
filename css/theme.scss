@@ -185,8 +185,6 @@
   @include button-colored(transparent, #fff, 1px solid #fff);
 }
 
---nav-bottom: 0;
-
 @mixin mega-menu-columns($columns) {
   & > ul {
     width: calc(100vw - 220px);
@@ -244,6 +242,8 @@
   /* Section Padding */
   --section-padding: var(--space-16);
   --section-padding-half: var(--space-8);
+
+  --nav-bottom: 0;
 
   @include breakpoints.down("sm") {
     --gap-items: var(--space-2);
