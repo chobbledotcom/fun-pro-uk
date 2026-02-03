@@ -3,6 +3,13 @@
 layout: base
 ---
 
+{% assign reviews = collections.reviews | getReviewsFor: page.fileSlug, tags %}
+{% assign rating = collections.reviews | getRating: page.fileSlug, tags %}
+{% if reviews.size == 0 %}
+  {% assign reviews = collections.reviews %}
+{% endif %}
+
+
 <div class="full-width fun-pro-item">
   <div class="inner">
     <div class="item-breadcrumbs">
@@ -14,8 +21,6 @@ layout: base
       {% include "item-gallery.html" %}
     </div>
     <div class="item-reviews-header">
-      {% assign reviews = collections.reviews | getReviewsFor: page.fileSlug, tags %}
-      {% assign rating = collections.reviews | getRating: page.fileSlug, tags %}
       {%- if rating -%}
         <span>{{ rating | ratingToStars }} <strong>{{ rating }} stars</strong> ({{ reviews.size }} reviews)</span>
         <span><a href="#reviews" class="all">See all reviews</a></span>

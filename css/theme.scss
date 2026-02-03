@@ -1732,7 +1732,14 @@ body.reviews {
   background: #fafafa;
   position: relative;
   h2 {
-    margin: 0 0 16px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+  }
+  h2,
+  p {
+    margin: 0;
+    padding: 0;
   }
   .row {
     overflow: hidden;
@@ -1744,6 +1751,9 @@ body.reviews {
       text-align: left;
       align-content: center;
       padding-left: var(--section-padding);
+      display: flex;
+      flex-direction: column;
+      gap: var(--gap-items);
     }
     @include breakpoints.up("sm") {
       .left {
@@ -1754,6 +1764,7 @@ body.reviews {
       img {
         display: block;
         position: absolute;
+        top: 0;
         right: 0;
         left: 50%;
         width: auto;
