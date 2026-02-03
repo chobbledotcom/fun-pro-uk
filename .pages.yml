@@ -369,7 +369,7 @@ content:
           multiple: true
   - name: snippets
     label: Snippets
-    path: src/snippets
+    path: snippets
     type: collection
     subfolders: false
     filename: "{primary}.md"
