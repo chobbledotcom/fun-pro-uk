@@ -725,6 +725,40 @@ const extractBrandingPrices = (htmlContent) => {
   return result;
 };
 
+/**
+ * Extract YouTube video embeds from HTML content
+ * Finds all <iframe> tags with YouTube URLs and extracts video IDs
+ * Supports both youtube.com/embed/ and youtube-nocookie.com/embed/ URLs
+ * @param {string} htmlContent - HTML content to extract videos from
+ * @returns {Array<Object>} Array of video objects with id and title
+ */
+const extractYouTubeVideos = (htmlContent) => {
+  const videos = [];
+  const seenIds = new Set();
+
+  // Match iframe tags with YouTube embed URLs
+  const iframeRegex = /<iframe[^>]*\ssrc=["']https?:\/\/(?:www\.)?youtube(?:-nocookie)?\.com\/embed\/([^?"'&]+)[^"']*["'][^>]*>/gi;
+
+  let match;
+  while ((match = iframeRegex.exec(htmlContent)) !== null) {
+    const id = match[1];
+
+    // Skip duplicates within the same page
+    if (seenIds.has(id)) continue;
+    seenIds.add(id);
+
+    // Skip Google Tag Manager iframes (not YouTube videos)
+    if (match[0].includes('googletagmanager')) continue;
+
+    videos.push({
+      id,
+      title: ''
+    });
+  }
+
+  return videos;
+};
+
 module.exports = {
   extractBreadcrumbText,
   extractContentHeading,
@@ -742,5 +776,6 @@ module.exports = {
   extractFaviconLinks,
   extractPageListingProducts,
   extractFAQs,
-  extractBrandingPrices
+  extractBrandingPrices,
+  extractYouTubeVideos
 };

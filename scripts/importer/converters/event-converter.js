@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const config = require('../config');
 const { listHtmlFiles, prepDir, slugFromFilename, writeMarkdownFile } = require('../utils/filesystem');
-const { extractCategoryName, extractContentHeading, extractMetadata } = require('../utils/metadata-extractor');
+const { extractCategoryName, extractContentHeading, extractMetadata, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { generateEventFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 const { getNavigation, getNavigationForSlug } = require('../utils/navigation-extractor');
@@ -15,7 +15,8 @@ const { convertSingle, convertBatch } = createConverter({
   contentType: 'event',
   extractors: {
     eventName: (htmlContent) => extractCategoryName(htmlContent),
-    eventHeading: (htmlContent) => extractContentHeading(htmlContent)
+    eventHeading: (htmlContent) => extractContentHeading(htmlContent),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     if (extracted.eventName) {
@@ -24,7 +25,8 @@ const { convertSingle, convertBatch } = createConverter({
     // Use hierarchy info from context if available
     const hierarchyInfo = context.hierarchyInfo || null;
     const sourceType = context.sourceType || 'category';
-    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, hierarchyInfo, sourceType);
+    const videos = extracted.videos || [];
+    return generateEventFrontmatter(metadata, slug, extracted.eventHeading, context.eventIndex, hierarchyInfo, sourceType, videos);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Validate that no "More Details" links remain in content
@@ -121,6 +123,7 @@ const convertEventFromOldSite = async (eventInfo, outputDir) => {
     // Extract additional info
     const eventName = extractCategoryName(htmlContent);
     const eventHeading = extractContentHeading(htmlContent);
+    const videos = extractYouTubeVideos(htmlContent);
 
     if (eventName) {
       metadata.title = eventName;
@@ -150,7 +153,8 @@ const convertEventFromOldSite = async (eventInfo, outputDir) => {
       eventHeading,
       eventInfo.order,
       hierarchyInfo,
-      sourceType
+      sourceType,
+      videos
     );
 
     const fullContent = `${frontmatter}\n\n${content}`;

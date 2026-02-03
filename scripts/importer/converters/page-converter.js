@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir, slugFromFilename, writeMarkdownFile } = require('../utils/filesystem');
-const { extractContentHeading } = require('../utils/metadata-extractor');
+const { extractContentHeading, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { generatePageFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter } = require('../utils/base-converter');
@@ -20,14 +20,16 @@ const EXCLUDED_PAGES = [
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'page',
   extractors: {
-    pageHeading: (htmlContent) => extractContentHeading(htmlContent)
+    pageHeading: (htmlContent) => extractContentHeading(htmlContent),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     const { OLD_SLUG_TO_NEW } = require('../constants');
     // Get navigation info using the new slug (after any renaming)
     const lookupSlug = OLD_SLUG_TO_NEW[slug] || slug;
     const navInfo = context.navigation ? getNavigationForSlug(context.navigation, lookupSlug) : null;
-    return generatePageFrontmatter(metadata, slug, extracted.pageHeading, navInfo);
+    const videos = extracted.videos || [];
+    return generatePageFrontmatter(metadata, slug, extracted.pageHeading, navInfo, videos);
   },
   beforeWrite: async (content, extracted, slug) => content // Skip image downloads for now
 });

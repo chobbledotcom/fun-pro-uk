@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, prepDir } = require('../utils/filesystem');
-const { extractCategoryName, extractContentHeading, extractFAQs } = require('../utils/metadata-extractor');
+const { extractCategoryName, extractContentHeading, extractFAQs, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { faqPatterns } = require('../utils/html-patterns');
 const { stripFAQSection, hasFAQSection } = require('../utils/content-processor');
 const { generateCategoryFrontmatter } = require('../utils/frontmatter-generator');
@@ -16,6 +16,7 @@ const { convertSingle, convertBatch } = createConverter({
     categoryName: (htmlContent) => extractCategoryName(htmlContent),
     categoryHeading: (htmlContent) => extractContentHeading(htmlContent),
     faqs: (htmlContent) => extractFAQs(htmlContent),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent),
     // Check if HTML has FAQ section (for validation)
     hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
@@ -31,7 +32,8 @@ const { convertSingle, convertBatch } = createConverter({
     const navInfo = context.navigation ? getNavigationForSlug(context.navigation, lookupSlug) : null;
     // Pass FAQs extracted from old site
     const faqs = extracted.faqs || [];
-    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs, metaTitle);
+    const videos = extracted.videos || [];
+    return generateCategoryFrontmatter(metadata, slug, extracted.categoryHeading, context.categoryIndex, navInfo, faqs, metaTitle, videos);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Validate FAQ extraction: if HTML has FAQ section, we must have extracted FAQs

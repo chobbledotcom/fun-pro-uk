@@ -1,7 +1,7 @@
 const path = require('path');
 const config = require('../config');
 const { listHtmlFilesRecursive, prepDir } = require('../utils/filesystem');
-const { extractContentHeading, extractBlogImage } = require('../utils/metadata-extractor');
+const { extractContentHeading, extractBlogImage, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { generateBlogFrontmatter } = require('../utils/frontmatter-generator');
 const { downloadProductImage, downloadEmbeddedImages, downloadNewsEmbeddedImages } = require('../utils/image-downloader');
 const { createConverter, resetClaimedPaths } = require('../utils/base-converter');
@@ -117,7 +117,8 @@ const { convertSingle, convertBatch } = createConverter({
     date: (htmlContent, markdown, slug, context) => context.dateFromPath || null,
     blogHeading: (htmlContent) => extractContentHeading(htmlContent),
     blogImage: (htmlContent, markdown) => extractBlogImage(markdown),
-    subtitle: (htmlContent, markdown) => extractSubtitle(markdown)
+    subtitle: (htmlContent, markdown) => extractSubtitle(markdown),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent)
   },
   beforeWrite: async (content, extracted, slug) => {
     // Use original URL directly (skip downloading for now)
@@ -135,7 +136,7 @@ const { convertSingle, convertBatch } = createConverter({
     return content;
   },
   frontmatterGenerator: (metadata, slug, extracted) => ({
-    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath, extracted.subtitle),
+    frontmatter: generateBlogFrontmatter(metadata, slug, extracted.date, extracted.blogHeading, extracted.localImagePath, extracted.subtitle, extracted.videos || []),
     filename: `${extracted.date}-${slug}.md`
   })
 });

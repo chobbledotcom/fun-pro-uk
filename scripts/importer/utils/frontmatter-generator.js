@@ -50,6 +50,7 @@ const generatePageFrontmatter = (
   slug,
   pageHeading = null,
   navInfo = null,
+  videos = [],
 ) => {
   const { OLD_SLUG_TO_NEW } = require("../constants");
   const pageConfig = PAGE_CONFIG[slug] || {};
@@ -105,6 +106,12 @@ eleventyNavigation:
   order: ${navInfo.order}`;
   }
 
+  // Add videos if present
+  const videosYaml = formatVideosYaml(videos);
+  if (videosYaml) {
+    frontmatter += "\n" + videosYaml;
+  }
+
   frontmatter += "\n---";
 
   // If page is renamed, return object with custom filename
@@ -126,6 +133,24 @@ eleventyNavigation:
 const escapeYamlString = (str) => {
   if (!str) return "";
   return str.replace(/"/g, '\\"');
+};
+
+/**
+ * Format YouTube videos as YAML for frontmatter
+ * @param {Array<Object>} videos - Videos array with id and title properties
+ * @returns {string} YAML formatted videos string (without leading newline)
+ */
+const formatVideosYaml = (videos) => {
+  if (!videos || videos.length === 0) return "";
+
+  let yaml = "videos:";
+  for (const video of videos) {
+    const id = (video.id || "").replace(/"/g, '\\"');
+    const title = (video.title || "").replace(/"/g, '\\"');
+    yaml += `\n  - id: "${id}"`;
+    yaml += `\n    title: "${title}"`;
+  }
+  return yaml;
 };
 
 /**
@@ -208,6 +233,7 @@ const generateBlogFrontmatter = (
   blogHeading = null,
   localImagePath = null,
   subtitle = null,
+  videos = [],
 ) => {
   // Use H1 heading for the post title (not the meta title from <title> tag)
   const postTitle =
@@ -235,6 +261,12 @@ meta_description: "${metadata.meta_description || ""}"`;
   // Add gallery with the downloaded image
   if (localImagePath) {
     frontmatter += `\ngallery:\n  - "${localImagePath}"`;
+  }
+
+  // Add videos if present
+  const blogVideosYaml = formatVideosYaml(videos);
+  if (blogVideosYaml) {
+    frontmatter += "\n" + blogVideosYaml;
   }
 
   frontmatter += "\n---";
@@ -307,6 +339,7 @@ const generateProductFrontmatter = (
   multiDayPrices = {},
   specs = {},
   brandingPrices = {},
+  videos = [],
 ) => {
   // Ensure categories is an array
   const categoryArray = Array.isArray(categories)
@@ -476,6 +509,12 @@ ${optionsYaml}`;
     }
   }
 
+  // Add videos if present
+  const productVideosYaml = formatVideosYaml(videos);
+  if (productVideosYaml) {
+    frontmatter += "\n" + productVideosYaml;
+  }
+
   // Add tabs - "Why <Product Name>?" with content, plus 3 empty tabs
   // Each tab gets an image from the gallery (counting from the end)
   const gallery = images?.existingGallery || [];
@@ -546,6 +585,7 @@ const generateCategoryFrontmatter = (
   navInfo = null,
   faqs = [],
   metaTitle = null,
+  videos = [],
 ) => {
   // No permalink - let it be dynamically calculated
   // Old URL was /category/{slug}/, new URL is /categories/{slug}/ - need redirect
@@ -601,6 +641,12 @@ eleventyNavigation:
     frontmatter += "\n" + faqsYaml;
   }
 
+  // Add videos if present
+  const categoryVideosYaml = formatVideosYaml(videos);
+  if (categoryVideosYaml) {
+    frontmatter += "\n" + categoryVideosYaml;
+  }
+
   frontmatter += "\n---";
   return frontmatter;
 };
@@ -639,6 +685,7 @@ const generateEventFrontmatter = (
   eventIndex = 0,
   hierarchyInfo = null,
   sourceType = null,
+  videos = [],
 ) => {
   // Use title from hierarchy info if available, otherwise fall back to metadata
   const title = hierarchyInfo?.title || metadata.title || "";
@@ -724,6 +771,12 @@ eleventyNavigation:
   order: ${hierarchyInfo.order || eventIndex + 1}`;
   }
 
+  // Add videos if present
+  const eventVideosYaml = formatVideosYaml(videos);
+  if (eventVideosYaml) {
+    frontmatter += "\n" + eventVideosYaml;
+  }
+
   frontmatter += "\n---";
   return frontmatter;
 };
@@ -767,6 +820,7 @@ const generateLocationFrontmatter = (
   strippedSlug = null,
   thumbnail = null,
   hadRootLevelUrl = false,
+  videos = [],
 ) => {
   // Use the heading or title for the location title
   const title = locationHeading || metadata.header_text || metadata.title || "";
@@ -807,6 +861,12 @@ meta_description: "${escapeYamlString(metadata.meta_description || "")}"`;
   // For sub-pages, add thumbnail if extracted from content
   if (town && strippedSlug && thumbnail) {
     frontmatter += `\nthumbnail: "${thumbnail}"`;
+  }
+
+  // Add videos if present
+  const locationVideosYaml = formatVideosYaml(videos);
+  if (locationVideosYaml) {
+    frontmatter += "\n" + locationVideosYaml;
   }
 
   frontmatter += "\n---";

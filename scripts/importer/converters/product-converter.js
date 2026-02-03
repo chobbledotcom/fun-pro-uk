@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('path');
 const config = require('../config');
 const { listHtmlFiles, listHtmlFilesRecursive, prepDir, writeMarkdownFile } = require('../utils/filesystem');
-const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs, extractBrandingPrices } = require('../utils/metadata-extractor');
+const { extractPrice, extractMultiDayPrices, extractSpecs, extractReviews, extractProductName, extractProductImages, extractContentHeading, extractFAQs, extractBrandingPrices, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { faqPatterns } = require('../utils/html-patterns');
 const { stripFAQSection, hasFAQSection, stripHirePricesSection, stripSpecificationSection, stripBrandingPricesSection } = require('../utils/content-processor');
 const { generateProductFrontmatter, generateReviewFrontmatter } = require('../utils/frontmatter-generator');
@@ -118,6 +118,7 @@ const { convertSingle, convertBatch } = createConverter({
     images: (htmlContent) => extractProductImages(htmlContent),
     faqs: (htmlContent) => extractFAQs(htmlContent),
     brandingPrices: (htmlContent) => extractBrandingPrices(htmlContent),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent),
     // Check if HTML has FAQ section (for validation)
     hasFAQSection: (htmlContent) => faqPatterns.htmlHasFAQSection.test(htmlContent)
   },
@@ -141,6 +142,8 @@ const { convertSingle, convertBatch } = createConverter({
     const specs = extracted.specs || {};
     // Pass branding prices (add-ons)
     const brandingPrices = extracted.brandingPrices || {};
+    // Pass YouTube videos
+    const videos = extracted.videos || [];
     return generateProductFrontmatter(
       metadata,
       slug,
@@ -155,7 +158,8 @@ const { convertSingle, convertBatch } = createConverter({
       bodyContent,
       multiDayPrices,
       specs,
-      brandingPrices
+      brandingPrices,
+      videos
     );
   },
   beforeWrite: async (content, extracted, slug, context) => {

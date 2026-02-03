@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const config = require('../config');
 const { listHtmlFiles, ensureDir, slugFromFilename } = require('../utils/filesystem');
-const { extractContentHeading } = require('../utils/metadata-extractor');
+const { extractContentHeading, extractYouTubeVideos } = require('../utils/metadata-extractor');
 const { generateLocationFrontmatter, generateLocationRootFrontmatter } = require('../utils/frontmatter-generator');
 const { createConverter } = require('../utils/base-converter');
 const { isLocationPage, extractTownFromSlug, stripTownFromSlug, LOCATION_TOWNS } = require('../constants');
@@ -11,14 +11,16 @@ const { copyLocalEmbeddedImages } = require('../utils/image-downloader');
 const { convertSingle, convertBatch } = createConverter({
   contentType: 'location',
   extractors: {
-    locationHeading: (htmlContent) => extractContentHeading(htmlContent)
+    locationHeading: (htmlContent) => extractContentHeading(htmlContent),
+    videos: (htmlContent) => extractYouTubeVideos(htmlContent)
   },
   frontmatterGenerator: (metadata, slug, extracted, context) => {
     // Get town and stripped slug from context
     const { town, strippedSlug, hadRootLevelUrl } = context;
     // Get thumbnail from extracted data (set by beforeWrite)
     const thumbnail = extracted.thumbnail || null;
-    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug, thumbnail, hadRootLevelUrl);
+    const videos = extracted.videos || [];
+    return generateLocationFrontmatter(metadata, slug, extracted.locationHeading, town, strippedSlug, thumbnail, hadRootLevelUrl, videos);
   },
   beforeWrite: async (content, extracted, slug) => {
     // Copy /userfiles/ images from old_site and update paths in content
