@@ -4,6 +4,9 @@ meta_title: "Batak Pro Hire Northampton | Exhibition Stand Games | Events"
 meta_description: "For the best in Batak Pro hire in Northampton, choose our professional team! Make an order for exhibition stands, trade shows, events and much more."
 redirect_from:
   - "/pages/batak-pro-hire-northampton/"
+videos:
+  - id: "https://player.vimeo.com/video/858450355"
+    title: Batak Pro
 ---
 
 # Batak Pro Hire Northampton

@@ -142,5 +142,8 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-7.jpg"
+videos:
+  - id: 1iV0_xaw_og
+    title: Catch It Reaction Ring
 ---
 

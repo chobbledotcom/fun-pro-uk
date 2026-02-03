@@ -5,6 +5,9 @@ meta_description: "Exhibitions, corporate events and fun days in Coventry can al
 redirect_from:
   - "/pages/ballnado-hire-coventry/"
 thumbnail: "/images/locations/ballnadov2.jpg"
+videos:
+  - id: "https://player.vimeo.com/video/685582415"
+    title: Ballnado
 ---
 
 # Fun Pro Ballnado Hire for Your Next Event in Coventry

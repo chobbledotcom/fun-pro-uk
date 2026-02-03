@@ -10,6 +10,9 @@ eleventyNavigation:
   key: "School Entertainment"
   parent: "Educational & Community"
   order: 4
+videos:
+  - id: NtWF3ajxGYo
+    title: School Fun Day
 ---
 
 # School Fun Day Entertainment Hire

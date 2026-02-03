@@ -164,5 +164,8 @@ faqs:
     answer: "No, our staff help newcomers get started. The racing format is intuitive, and most people find their rhythm within a few laps."
   - question: "What tracks and cars are available?"
     answer: "Multiple tracks and vehicles are typically available. We can discuss options when planning your event."
+videos:
+  - id: "https://player.vimeo.com/video/858250745"
+    title: Race Car Simulator
 ---
 
