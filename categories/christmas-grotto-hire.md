@@ -7,15 +7,15 @@ redirect_from:
   - "/category/christmas-grotto-hire/"
 eleventyNavigation:
   key: "Christmas Grotto Hire"
-  parent: "Entertainment hire"
+  parent: "Entertainment Hire"
   order: 9
 ---
 
 # **UK wide Christmas grotto hire**
 
-Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, [Read more..] you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
+Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
 
-**Christmas grotto hire
+**Christmas grotto hire  
 **From the snow on the roof, deep and crisp and even, to the enchanting lights at the windows, our charming Christmas grotto will surprise and delight children of all ages. It's the perfect home for your company Santa Claus, and it can be set up almost anywhere, from your head office reception area to your staff social club.
 
 Finished in the finest detail, right down to the white picket fence around the snowman filled garden, this Christmas grotto for hire in Coventry, Birmingham and across the West Midlands is an absolute gift at the price.
@@ -63,7 +63,7 @@ If you’re ready to surprise your clients and employees with a lobby or confere
 
 At Fun Pro UK, we love the festive season, and our elves have got lots of great company Christmas party ideas to get your staff rockin around the Christmas tree. Call or email now, or complete the contact form below and we'll call you.
 
-- Tel: 02476 629197
-- Mob: 07769 979676
-- Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-- Contact form
+*   Tel: 02476 629197
+*   Mob: 07769 979676
+*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   Contact form

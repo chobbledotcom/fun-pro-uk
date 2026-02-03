@@ -5,12 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"
 meta_description: "Snatch It Game Hire – Event Game Rental | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/prize-games.md"
-  - "categories/pub-games.md"
+categories: ["categories/arcade-games.md", "categories/prize-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -25,7 +20,7 @@ specs:
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
     value: "1200mm Width x 600mm Depth 900 Height"
   - name: "Suitability"
@@ -34,11 +29,11 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
+    value: "TBD"
   - name: "Player Count"
     value: "2 players"
 options:
@@ -71,18 +66,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0b095d30ba2bec214846406e561a9b6f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ba0f9e064a6ee5454a6055e08564aa1a"
 add_ons:
-  intro: "## Snatch It Branding and Customisation Options
-
+  intro: |
+    ## Snatch It Branding and Customisation Options
 
     Make Snatch It a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "Branded top Panel"
       price: 175
@@ -90,52 +82,90 @@ add_ons:
       price: 245
 tabs:
   - title: "Why Snatch It?"
-    body: "Snatch It challenges players to grab illuminated targets before they disappear, creating fast-paced reaction entertainment that generates energy at corporate events, team building days, and celebrations.
-
-
-      The competitive format creates natural rivalry whilst the physical gameplay gets participants active and engaged. For events where you want entertainment that raises energy levels, reaction games deliver consistently.
-
-
-      With capacity for 20-200 guests and straightforward setup, it suits most corporate event configurations. The game creates focused moments whilst spectators gather and watch."
     image: "/images/products/snatch-it/snatch-it-6.jpg"
+    body: |
+      # Snatch It
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## SNATCH IT GAME HIRE
+      
+      Who can SNATCH the rods first??
+      
+      SNATCH IT is new to the interactive game hire world, and FUN PRO UK have one that you can hire today. SNATCH IT is a fabulous 2 PLAYER fun game to not only play, but to watch, laugh and cheer on the players for a little bit of friendly competition and claim the victory. It will test your hand and eye co-ordination, speed and some anticipation as to which rod to snatch first.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
+      
+      The rules for SNATCH IT are straightforward:
+      
+      1\. Players stand opposite each other.  
+      
+      2\. Place both hands on buttons  
+      
+      3\. When both players are ready, ALL 5 rods will light up.  
+      
+      4\. As soon as the rod light turns off, the player to SNATCH IT scores a point.  
+      
+      5\. The next 4 rods will randomly have the lights turn off, and again the player to be the first to SNATCH IT, will score a point.  
+      
+      6\. If you move too soon, you will lose.  
+      
+      7\. If a rod gets knocked over or off the table, that round has no winner.  
+      
+      Note: There is no scoring with this game. The game can be played with just 1 round, or to build the excitement you could play the best 2 out of 3 rounds. A TWO player game and suitable for all ages.  
+      
+      SNATCH IT will draw attention to your exhibition stand, brand activation, team building, wellbeing event, trade stand, in fact any event. You will have people queuing to play as everyone is sure to want to give it a try, whilst others stand to watch this fun and interactive game being played.  
+      
+      We can offer branding options on SNATCH IT, with not only the sides, but the top can be custom branded to meet your marketing needs. Our in-house printing team very much enjoy working on unique and bespoke branding to help you stand out and provide that immersive experience for players.  
+      
+      The Fun Pro UK team are here to support you from initial planning to execution of your event, have a look on our Facebook and LinkedIn pages to see our games in action and bespoke branding ideas.  
+      
+      Be quick to hire our game, as it gets SNATCHED quickly!! If you like playing speed reaction games, take a look at BATAK, STRIKE A LIGHT, DANGER ZONE, STRIKE A LIGHT  
+      
+      Contact us today for more information:  
+        
+      [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
+      Tel: 0247 7220 701  
+      [www.funprouk.co.uk](/#content)
+      
+      Don't miss out on the chance to bring the thrill of ‘Snatch It’ to your next event. Available for game hire in the UK, including Exeter, Cardiff, Bristol, Birmingham, NEC, ICC Arena, Reading, Oxford, Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton Keynes, Sheffield, and more!
   - title: "How It Works"
-    body: "Players stand ready as targets illuminate randomly. When a light activates, they snatch it before it disappears, scoring points for successful grabs. Speed and reactions determine success.
-
-
-      The game runs timed sessions with scores tracked for competition and leaderboards. The format is immediately understandable with no learning curve required.
-
-
-      Setup requirements include mains power. Games run continuously once operational."
     image: "/images/products/snatch-it/snatch-it-5.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Reaction games tap into competitive instincts that most people discover they have. The pressure of the timer, the physical movement, the satisfaction of successful grabs. It engages on a primal level.
-
-
-      Spectators get drawn in too. Watching someone compete against the clock creates tension that spreads. That shared experience builds atmosphere.
-
-
-      For corporate events, the physical activity shifts energy. After a few rounds of Snatch It, the room has more buzz than it started with."
-    image: "/images/products/snatch-it/snatch-it-6.jpg"
+    image: "/images/products/snatch-it/snatch-it-4.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/snatch-it/snatch-it-3.jpg"
-faqs:
-  - question: "How many people can play Snatch It at once?"
-    answer: "Typically 1-4 players depending on configuration, with the reaction-based format creating focused competitive moments."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the grab-the-light format suits ages 8 and above. Speed and reactions matter, but anyone can play and improve with practice."
-  - question: "How does it work?"
-    answer: "Targets illuminate randomly and players snatch them before they disappear. The game tracks successful grabs throughout timed sessions."
-  - question: "What power do you need?"
-    answer: "Mains power is required for the lighting and scoring systems."
+    body: |
+      
 ---
 

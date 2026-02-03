@@ -4,6 +4,10 @@ meta_description: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK -
 layout: page
 redirect_from:
   - "/pages/wedding-entertainment/"
+eleventyNavigation:
+  key: "Luxury Wedding Entertainment"
+  parent: "How We Help"
+  order: 2
 ---
 
 # **Wedding Entertainment for Guests**

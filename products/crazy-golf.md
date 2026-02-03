@@ -5,12 +5,7 @@ price: "£495"
 order: 50
 meta_title: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK"
 meta_description: "Crazy Golf Hire – Mini Golf Fun For Events | Fun Pro UK is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories:
-  - "categories/fun-days.md"
-  - "categories/arcade-games.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/pub-games.md"
+categories: ["categories/fun-days.md", "categories/arcade-games.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
 events: []
 featured: true
 features:
@@ -19,13 +14,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players per hole"
+    value: "TBD"
   - name: "Space Required"
-    value: "2m x 2m x 2m"
+    value: "TBD"
   - name: "Power"
     value: "None required"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
     value: "1900mm long x 600mm wide"
   - name: "Suitability"
@@ -34,13 +29,11 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "50-500+ guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "30-45 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players per hole"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -62,50 +55,75 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085"
 tabs:
   - title: "Why Crazy Golf?"
-    body: "Crazy golf brings relaxed competitive entertainment to corporate events, team building days, and summer celebrations. The familiar format needs no explanation whilst offering gentle competition that suits networking and socialising.
-
-
-      For events where you want activity that encourages conversation rather than demanding full attention, crazy golf hits the balance perfectly. Players chat whilst putting, making it ideal for networking events.
-
-
-      Multiple holes can be configured to suit space and event duration. The format works indoors and outdoors depending on venue."
     image: "/images/products/crazy-golf/crazy-golf-1.jpg"
+    body: |
+      # Crazy Golf
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Exciting Crazy Golf Hire in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, UK 🏌️‍♂️
+      
+      Looking to add a touch of fun and entertainment to your corporate event or family fun day? Fun Pro UK offers Crazy Golf hire services nationwide, including in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry. Our vibrant and engaging Crazy Golf courses are perfect for indoor and outdoor settings, creating a lively atmosphere for all occasions.
+      
+      ### Corporate Events and Team-Building Fun 🏢
+      
+      For conferences, well-being days, exhibitions, and fun days, Crazy Golf is the ideal way to enhance the experience and increase engagement. Incorporating our Crazy Golf hire services in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry can elevate your event and leave a lasting impression on attendees. It's not just about putting; it's about boosting team morale and encouraging friendly competition among colleagues.
+      
+      Bring a unique and interactive element to your corporate gathering with our 9-hole Crazy Golf game. Whether it's a brand activation event, team-building day, or office party, our Crazy Golf hire services will create a fun and relaxed environment for everyone to enjoy.
+      
+      Book our Crazy Golf hire services today in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Coventry, and let the games begin! 🎉
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Crazy golf hire UK
+      
+      Crazy golf is an awesome addition to corporate events, office fun days, and family fundays. It's a fantastic way to add some fun and entertainment to any gathering. Fun Pro UK offers crazy golf hire nationwide, making it super convenient for all kinds of events. The colourful and exciting courses create a lively and engaging atmosphere, perfect for indoor or outdoor settings.
+      
+      For corporate events, crazy golf hire can bring a unique and interactive element to the occasion. It's a great way to encourage team building and friendly competition among colleagues. Whether it's a company retreat, team-building day, or office party, crazy golf provides a fun and relaxed environment for employees to enjoy.
+      
+      Office fun days are all about creating a vibrant and enjoyable experience for employees. Crazy golf hire can transform the office space into a mini-golf paradise, offering a refreshing break from the daily routine. It's a fantastic way to boost morale and create a memorable and enjoyable day for everyone.
+      
+      When it comes to family fundays, crazy golf is a hit with both kids and adults. The exciting and colourful courses provide hours of entertainment for families to enjoy together. Whether it's a community fair, summer festival, or outdoor gathering, crazy golf can add a playful and engaging activity to the event.
+      
+      Conference entertainment is an essential part of keeping attendees engaged and energized. Crazy golf hire offers a fun and interactive experience for conference delegates during breaks or networking sessions. It's a great way to create a relaxed and enjoyable atmosphere, allowing participants to unwind and connect with each other.
+      
+      The flexibility of crazy golf hire allows you to create a customized experience that complements the overall vibe of your event.
+      
+      In addition to providing entertainment, crazy golf is a practical and versatile activity that can be enjoyed by people of all ages. It's a great way to encourage friendly competition and social interaction, making it an inclusive and engaging choice for event entertainment.
+      
+      With nationwide crazy golf hire from Fun Pro UK, you can elevate the experience of your event and create a memorable setting for your guests. The convenience of having crazy golf courses delivered and set up at your chosen venue simplifies the planning process, allowing you to focus on other aspects of event coordination.
+      
+      **Check our Crazy Golf specifications:**
+      
+      **Space require**
+      
+      2000mm Long x 700mm wide
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required 2200mm deep
   - title: "How It Works"
-    body: "Players work through a course of creative holes, each presenting different putting challenges. Standard mini golf rules apply, with lowest scores winning.
-
-
-      The course can be configured with various numbers of holes depending on space and how long you want games to last. Themed obstacles add visual interest.
-
-
-      Setup includes course configuration and obstacle positioning. We handle all layout to maximise both challenge and space efficiency."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Crazy golf works because it combines activity with socialising perfectly. The gaps between shots allow conversation, whilst the gentle competition keeps things interesting. That balance suits corporate networking better than games demanding full attention.
-
-
-      The familiar format also lowers barriers. Most people have played mini golf at some point and can participate comfortably without instruction.
-
-
-      For corporate events, the relaxed pace enables natural relationship building. Colleagues who might not otherwise connect find conversation opportunities whilst playing."
-    image: "/images/products/crazy-golf/crazy-golf-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
-faqs:
-  - question: "How many people can play Crazy Golf at once?"
-    answer: "Typically 1-4 players per hole at once, with multiple holes enabling good throughput. The format suits casual play alongside conversation."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, crazy golf is accessible for all ages. The creative obstacles add fun without requiring genuine golf skills."
-  - question: "How many holes can you provide?"
-    answer: "Courses can be configured with various numbers of holes depending on your space and event duration. We'll discuss options when you enquire."
-  - question: "Does it need power?"
-    answer: "Typically no, though some special features may require power. We'll confirm based on your configuration."
+    body: |
+      
 ---
 

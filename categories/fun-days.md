@@ -9,9 +9,7 @@ redirect_from:
 
 # Family Fun Days - Benefits and Planning
 
-A family fun day is a great way to provide families a day of entertainment and enjoyment. The day is a blend of activities, food, entertainment and GAMES, [Read more..] all to achieve the aim to have some FUN in an informal setting, where employees and their families come together and enjoy themselves.
-
-When you invest in a family fun day, there are many benefits for all:-
+A family fun day is a great way to provide families a day of entertainment and enjoyment. The day is a blend of activities, food, entertainment and GAMES, all to achieve the aim to have some FUN in an informal setting, where employees and their families come together and enjoy themselves. When you invest in a family fun day, there are many benefits for all:-
 
 1.  Boost morale
 2.  A sense of belonging

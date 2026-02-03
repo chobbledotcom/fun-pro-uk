@@ -4,7 +4,7 @@ meta_description: "Primarily servicing Coventry, Birmingham and London, we deliv
 layout: locations
 eleventyNavigation:
   key: "Coverage Areas"
-  parent: "About us"
+  parent: "About Us"
   order: 3
 ---
 
@@ -34,41 +34,55 @@ At Fun Pro, we offer a selection of games for hire when planning an event in Cov
 
 #### Interactive Games
 
-- [Batak Pro](/locations/coventry/batak-pro-hire/#content)
-- [Batak Lite](/locations/coventry/batak-lite/#content)
-- [High Striker](/locations/coventry/high-striker/#content)
-- [Whack A Mole](/locations/coventry/whack-a-mole-hire/#content)
-- [Table Football](/locations/coventry/table-football-hire/#content)
-- [Dance Machine](/locations/coventry/dance-machine-hire/#content)
+*   [Batak Pro](/locations/coventry/batak-pro-hire/#content)
+    
+*   [Batak Lite](/locations/coventry/batak-lite/#content)
+    
+*   [High Striker](/locations/coventry/high-striker/#content)
+    
+*   [Whack A Mole](/locations/coventry/whack-a-mole-hire/#content)
+    
+*   [Table Football](/locations/coventry/table-football-hire/#content)
+    
+*   [Dance Machine](/locations/coventry/dance-machine-hire/#content)
 
 #### Prize Games
 
-- [Prize Crane](/locations/coventry/prize-crane-hire/#content)
-- [Cash Grabber](/locations/coventry/cash-grabber-hire/#content)
-- [Plinko](/locations/coventry/plinko-hire/#content)
-- [Pick N Mix](/locations/coventry/pick-n-mix-hire/#content)
+*   [Prize Crane](/locations/coventry/prize-crane-hire/#content)
+    
+*   [Cash Grabber](/locations/coventry/cash-grabber-hire/#content)
+    
+*   [Plinko](/locations/coventry/plinko-hire/#content)
+    
+*   [Pick N Mix](/locations/coventry/pick-n-mix-hire/#content)
 
 #### Strategy & Challenge Games
 
-- [Safe Cracker](/locations/coventry/roll-and-bowl-hire/#content)
-- [Vault Game](/locations/coventry/vault-game-hire/#content)
+*   [Safe Cracker](/locations/coventry/roll-and-bowl-hire/#content)
+    
+*   [Vault Game](/locations/coventry/vault-game-hire/#content)
 
 #### Simulation Games
 
-- [Race Car Simulators](/locations/coventry/race-car-simulators/#content)
-- [Ballando](/locations/coventry/ballnado-hire/#content)
+*   [Race Car Simulators](/locations/coventry/race-car-simulators/#content)
+    
+*   [Ballando](/locations/coventry/ballnado-hire/#content)
 
 #### Photo & Entertainment Games
 
-- [Photo Booth](/locations/coventry/photo-booth-hire/#content)
-- [Magic Mirror](/locations/coventry/magic-mirror-hire/#content)
+*   [Photo Booth](/locations/coventry/photo-booth-hire/#content)
+    
+*   [Magic Mirror](/locations/coventry/magic-mirror-hire/#content)
 
 ### Popular Venues in Coventry for Corporate Events
 
-- CBS Arena
-- Coventry Cathedral
-- Coombe Abbey Hotel
-- CLM Coventry
+*   CBS Arena
+    
+*   Coventry Cathedral
+    
+*   Coombe Abbey Hotel
+    
+*   CLM Coventry
 
 ## Game Hire for Corporate Events in Birmingham
 
@@ -84,37 +98,47 @@ Our [event game hire](/locations/birmingham/corporate-event-hire/#content) servi
 
 #### Interactive Games
 
-- [Batak Pro](/locations/birmingham/batak-pro-hire/#content)
-- [Batak Lite](/locations/birmingham/batak-lite-hire/#content)
-- [Strike a Light Danger Zone](/locations/birmingham/strike-a-light-danger-zone-hire/#content)
-- [Whack a Mole](/locations/birmingham/whack-a-mole-hire/#content)
+*   [Batak Pro](/locations/birmingham/batak-pro-hire/#content)
+    
+*   [Batak Lite](/locations/birmingham/batak-lite-hire/#content)
+    
+*   [Strike a Light Danger Zone](/locations/birmingham/strike-a-light-danger-zone-hire/#content)
+    
+*   [Whack a Mole](/locations/birmingham/whack-a-mole-hire/#content)
 
 #### Skill & Precision Games
 
-- [Mega Wire](/locations/birmingham/mega-wire-hire/#content)
-- [Roll and Bowl](/locations/birmingham/roll-and-bowl-hire/#content)
-- [Ballnado](/locations/birmingham/ballnado-hire/#content)
+*   [Mega Wire](/locations/birmingham/mega-wire-hire/#content)
+    
+*   [Roll and Bowl](/locations/birmingham/roll-and-bowl-hire/#content)
+    
+*   [Ballnado](/locations/birmingham/ballnado-hire/#content)
 
 #### Prize Games
 
-- [Plinko](/locations/birmingham/plinko-hire/#content)
+*   [Plinko](/locations/birmingham/plinko-hire/#content)
 
 #### Strategy & Challenge Games
 
-- [Crack the Code](/locations/birmingham/crack-the-code-hire/#content)
+*   [Crack the Code](/locations/birmingham/crack-the-code-hire/#content)
 
 #### Photo & Entertainment Games
 
-- [Magic Mirror](/locations/birmingham/magic-mirror-hire/#content)
+*   [Magic Mirror](/locations/birmingham/magic-mirror-hire/#content)
 
 ### Premier Corporate Event Venues in Birmingham
 
-- [Hilton Birmingham Metropole](/locations/birmingham/hilton-metropole/#content)
-- [ICC Birmingham](/locations/birmingham/game-hire-icc/#content)
-- [NEC Birmingham](/locations/birmingham/nec/#content)
-- [Aston Villa Football Club](/aston-villa/#content)
-- [Edgbaston Cricket Stadium](/edgbaston/#content)
-- NIA Birmingham
+*   [Hilton Birmingham Metropole](/locations/birmingham/hilton-metropole/#content)
+    
+*   [ICC Birmingham](/locations/birmingham/game-hire-icc/#content)
+    
+*   [NEC Birmingham](/locations/birmingham/nec/#content)
+    
+*   [Aston Villa Football Club](/aston-villa/#content)
+    
+*   [Edgbaston Cricket Stadium](/edgbaston/#content)
+    
+*   NIA Birmingham
 
 ## Interactive Games Hire in London
 
@@ -128,35 +152,49 @@ Break the monotony of traditional [conference events](/locations/london/conferen
 
 ### Games for Hire in London
 
-- [Photo Booth Hire](/locations/london/photo-booth-hire/#content)
+*   [Photo Booth Hire](/locations/london/photo-booth-hire/#content)
 
 ### Popular Event Venues in London
 
-- [ExCeL London](/locations/london/excel/#content)
+*   [ExCeL London](/locations/london/excel/#content)
 
 ## Additional UK Venues We Service
 
 Beyond our primary locations, FunPro UK has brought interactive entertainment to numerous venues across the country:
 
-- CBS Arena
-- Doncaster Exhibition Centre
-- Stoneleigh Park Kenilworth
-- G-MEX Manchester
-- Liverpool Exhibition Centre
-- Midlands Exhibition Centre Nottingham
-- [The International Centre Telford](/telford-international-centre/#content)
-- [Manchester Central Convention Complex](/locations/manchester/central-convention-complex/#content)
-- Warwickshire Exhibition Centre
-- [Manufacturing Technology Centre](/mtc-events/#content)
-- [Cranmore Park](/cranmore-park-conference-venue/#content)
+*   CBS Arena
+    
+*   Doncaster Exhibition Centre
+    
+*   Stoneleigh Park Kenilworth
+    
+*   G-MEX Manchester
+    
+*   Liverpool Exhibition Centre
+    
+*   Midlands Exhibition Centre Nottingham
+    
+*   [The International Centre Telford](/telford-international-centre/#content)
+    
+*   [Manchester Central Convention Complex](/locations/manchester/central-convention-complex/#content)
+    
+*   Warwickshire Exhibition Centre
+    
+*   [Manufacturing Technology Centre](/mtc-events/#content)
+    
+*   [Cranmore Park](/cranmore-park-conference-venue/#content)
 
 ## Why Choose FunPro UK for Your Event Entertainment?
 
-- Nationwide Coverage - We bring our interactive games to venues across the UK
-- Experienced Team - Professional staff with years of event experience
-- Diverse Game Selection - Something to suit every event type and audience
-- Fully Insured - Complete peace of mind for your event
-- Customisation Options - Branding and personalisation available for corporate clients
+*   Nationwide Coverage - We bring our interactive games to venues across the UK
+    
+*   Experienced Team - Professional staff with years of event experience
+    
+*   Diverse Game Selection - Something to suit every event type and audience
+    
+*   Fully Insured - Complete peace of mind for your event
+    
+*   Customisation Options - Branding and personalisation available for corporate clients
 
 [Contact us](/contact-fun-pro-uk/#content) today to discuss how we can make your next event unforgettable with our interactive game hire services.
 
@@ -164,15 +202,24 @@ Beyond our primary locations, FunPro UK has brought interactive entertainment to
 
 Not in one of our key delivery areas? That’s not a problem. Although we’re based in Coventry, Fun Pro UK delivers across the UK.\*
 
-- Birmingham
-- Cardiff
-- London
-- Manchester
-- Liverpool
-- Leeds
-- Sheffield
-- Nottingham
-- Glasgow
-- Nationwide coverage
+*   Birmingham
+    
+*   Cardiff
+    
+*   London
+    
+*   Manchester
+    
+*   Liverpool
+    
+*   Leeds
+    
+*   Sheffield
+    
+*   Nottingham
+    
+*   Glasgow
+    
+*   Nationwide coverage
 
 **Delivery may incur extra costs. Please contact us for a full quote.**

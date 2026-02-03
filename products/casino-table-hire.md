@@ -5,17 +5,8 @@ price: ""
 order: 50
 meta_title: "Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party"
 meta_description: "Host a thrilling casino night with our casino party hire. Perfect for corporate events, fun days, and parties. Casino tables delivered UK-wide. Call now!"
-categories:
-  - "categories/pub-games.md"
-  - "categories/arcade-games.md"
-  - "categories/christmas-game-hire.md"
-  - "categories/christmas-games.md"
-  - "categories/christmas-grotto-hire.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/photo-booths-and-magic-mirrors.md"
-  - "categories/prize-games.md"
-events:
-  - "events/christmas-entertainment-game-hire.md"
+categories: ["categories/pub-games.md", "categories/prize-games.md", "categories/christmas-grotto-hire.md", "categories/arcade-games.md", "categories/christmas-game-hire.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/christmas-games.md"]
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -23,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "6-8 players per table"
+    value: "TBD"
   - name: "Space Required"
-    value: "1220mm x 3000mm x 800mm"
+    value: "TBD"
   - name: "Power"
-    value: "1 x UK power socket (Game wattage usage 70-80 watts)"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1210mm x 2140mm x 800mm"
+    value: "TBD"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "TBD"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "50-500+ guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "30-45 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "6-8 players per table"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 0
@@ -73,52 +62,92 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/3067b61de26eb5bc63a3a7da3ae8e1e6"
 tabs:
   - title: "Why CASINO TABLE HIRE?"
-    body: "Casino tables bring sophisticated entertainment to corporate events, celebrations, and themed parties. Professional tables for blackjack, roulette, poker, and other games create authentic casino atmosphere whilst fun money keeps things social.
-
-
-      For events where you want entertainment that feels premium and creates natural gathering points, casino nights deliver. The format encourages interaction, creates competitive moments, and suits networking events particularly well.
-
-
-      Multiple tables available for larger events, with professional croupiers ensuring smooth operation and authentic experience."
     image: "/images/products/casino-table-hire/casino-table-hire-9.jpg"
+    body: |
+      # CASINO TABLE HIRE
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      **Hire from**
+      
+      **Please contact us**
+      
+      Delivered and installed on site by our trained team
+      
+      In-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
+      
+      \*Delivery Charges & Minimum order value may apply
+      
+      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Casino Table Hire – Bring the Thrill of Vegas to Your Event
+      
+      Step into the glamour and excitement of a real casino with our **professional casino table hire service**. Perfect for parties, weddings, corporate functions, and themed nights, our tables deliver all the fun of a casino without the risk of losing a fortune.
+      
+      ### Available Tables
+      
+      *   **Roulette Table** – Watch the wheel spin and place your bets for a classic casino experience.
+          
+      *   **Blackjack Table** – Go head-to-head with the dealer in the most popular card game of all time.
+          
+      *   **Poker Table** – Ideal for tournaments, corporate events, or a fun game night with friends.
+          
+      *   **Craps Table** – High-energy dice action to get the crowd cheering.
+      
+      ### Why Hire Our Casino Tables?
+      
+      **Authentic Casino Experience** – Professional tables, chips, cards, and layouts.  
+      **Friendly Croupiers** – Experienced dealers to host games, explain rules, and entertain guests.  
+      **Flexible Packages** – Hire by the hour, evening, or full event.  
+      **Engaging Entertainment** – Keep guests entertained with competitive fun and prizes.  
+      **No Gambling Licenses Required** – All play is for fun with chips provided (prizes optional).
+      
+      ### Perfect For:
+      
+      Private Parties  
+      Weddings  
+      Corporate Events & Networking  
+      Fundraisers  
+      Themed Nights (Vegas, James Bond, Gatsby, etc.)
+      
+      ### Hire Includes:
+      
+      *   Choice of casino tables (Roulette, Blackjack, Poker, Craps)
+          
+      *   Professional chips, cards, and accessories
+          
+      *   Trained croupiers (optional)
+          
+      *   Delivery, setup & collection
+          
+      *   Flexible rental packages
+      
+      Turn your venue into a mini Vegas and give your guests an unforgettable night of entertainment with our **Casino Table Hire**!
+      
+      **Book now to secure your tables for your next event.**
+      
+      Do you want me to write a **short punchy version** too (for social media or flyer-style ads) alongside this full description?
   - title: "How It Works"
-    body: "Professional casino tables are set up with all necessary equipment, operated by experienced croupiers who manage games and assist guests with rules.
-
-
-      Fun money is typically used, maintaining the excitement of betting whilst removing actual financial stakes. Prizes can be awarded to top chip holders at the end.
-
-
-      Setup includes table positioning, equipment preparation, and croupier briefing. Our team manages all gameplay throughout your event."
     image: "/images/products/casino-table-hire/casino-table-hire-8.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Casino nights work because they create the excitement of gambling without the downsides. The betting, the anticipation, the wins and losses. All the drama with fun money keeping it social.
-
-
-      The social format suits corporate networking. Tables create natural gathering points, games encourage interaction between strangers, and the shared experience of wins and losses builds connection.
-
-
-      The premium feel also signals investment in event quality. Professional tables and croupiers create impression that distinguishes events from standard functions."
-    image: "/images/products/casino-table-hire/casino-table-hire-9.jpg"
+    image: "/images/products/casino-table-hire/casino-table-hire-7.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/casino-table-hire/casino-table-hire-6.jpg"
-faqs:
-  - question: "How many people can play at the Casino Tables at once?"
-    answer: "Each table accommodates 6-8 players depending on the game. Multiple tables can be hired for larger casino night setups."
-  - question: "What games are available?"
-    answer: "We offer professional tables for blackjack, roulette, poker, and other casino favourites. We can discuss the best mix for your event."
-  - question: "Is real money involved?"
-    answer: "No, casino nights typically use fun money, maintaining the excitement of betting whilst keeping things social. Prizes can be awarded to top chip holders."
-  - question: "Are croupiers included?"
-    answer: "Yes, professional croupiers manage the tables, explain rules to newcomers, and keep games running smoothly."
+    body: |
+      
 ---
 

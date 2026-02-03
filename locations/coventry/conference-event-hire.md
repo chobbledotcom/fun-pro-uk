@@ -10,7 +10,7 @@ redirect_from:
 
 Planning a [conference](/events/conference-idea/#content) means juggling countless details whilst ensuring your people stay engaged throughout the day. Long presentations, back-to-back sessions, and networking expectations can leave attendees feeling overwhelmed rather than energised. That's where thoughtfully chosen entertainment makes a real difference.
 
-At [Fun Pro UK](/our-story/#content), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/office-and-corporate-entertainment/#content) training days and trade shows to [award ceremonies](/award-ceremonies/#content) and multi-day conferences, we provide [interactive games](/categories/interactive-game-hire/#content) and entertainment that bring people together and keep people talking long after your event ends.
+At [Fun Pro UK](/about-corporate-entertainment-hire/#content), we're corporate event specialists with over 15 years of experience helping conference organisers in Coventry create memorable, engaging events. From [corporate](/office-and-corporate-entertainment/#content) training days and trade shows to [award ceremonies](/award-ceremonies/#content) and multi-day conferences, we provide [interactive games](/categories/interactive-game-hire/#content) and entertainment that bring people together and keep people talking long after your event ends.
 
 ## Why Conference Entertainment Matters
 

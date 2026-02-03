@@ -5,12 +5,7 @@ price: "£895"
 order: 10
 meta_title: "Roll And Bowl Hire, Rent Roll A Ball Kentucky Derby, UK"
 meta_description: "Hire Our Roll And Bowl Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
-categories:
-  - "categories/arcade-games.md"
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/prize-games.md"
-  - "categories/roll-and-bowl.md"
+categories: ["categories/arcade-games.md", "categories/prize-games.md", "categories/fun-days.md", "categories/roll-and-bowl.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:
@@ -25,7 +20,7 @@ specs:
   - name: "Power"
     value: "2 x mains UK power socket (Wattage usage 180-230 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
     value: "2300mm Width x 2300mm Depth 2100 Height"
   - name: "Suitability"
@@ -34,11 +29,11 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
+    value: "TBD"
   - name: "Player Count"
     value: "1-4 players"
 options:
@@ -123,18 +118,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9755f4f730c3ec04b906e423ff89c58"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b37db6331e249d685ef03fdbfdf5648"
 add_ons:
-  intro: "## Roll And Bowl Game Hire Branding and Customisation Options
-
+  intro: |
+    ## Roll And Bowl Game Hire Branding and Customisation Options
 
     Make Roll And Bowl Game Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "Playing Field x 4"
       price: 320
@@ -150,52 +142,112 @@ add_ons:
       price: 1020
 tabs:
   - title: "Why Roll And Bowl Game Hire?"
-    body: "Roll and Bowl offers accessible skill-based entertainment that works for corporate events, family days, and celebrations. Players roll balls towards targets, with the simple format ensuring immediate understanding whilst offering genuine skill progression.
-
-
-      For events where you want entertainment that works across ages and abilities without complicated explanations, roll and bowl delivers reliably. The format accommodates casual play and competitive tournaments equally well.
-
-
-      With 1-4 player capacity, no power required, and 20-200 guest throughput, it offers flexibility for various event configurations."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
+    body: |
+      # Roll And Bowl Game Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Roll And Bowl Game Hire in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry and all of the UK
+      
+      Looking to add a touch of excitement to your upcoming event? Consider the Roll And Bowl Game Hire for a unique and engaging experience! Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, this game is sure to be a crowd-pleaser.
+      
+      ### What Is the Roll and Bowl Hire?
+      
+      Get ready for a thrilling horse racing experience like no other! Players choose their horse colour, roll and bowl the ball to make their horse race down the course. The more points you score, the faster your horse runs towards victory. With a built-in PA system, full running commentary, sound effects, and LED lighting, the atmosphere is set for an unforgettable event.
+      
+      ### Why Choose Roll And Bowl Game Hire?
+      
+      Whether you're hosting a party, promotional event, team-building day, or any gathering, the Roll And Bowl Game Hire is a surefire way to keep your guests entertained and engaged. With its interactive gameplay and lively features, this game will attract a crowd and create lasting memories for everyone involved.
+      
+      Don't settle for the ordinary – elevate your event with the Roll And Bowl Game Hire in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, and Coventry. Book now and make your event a winner!
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      ## Roll And Bowl Exhibition Game Hire
+      
+      **Roll up Roll up** and take the reins ready to ride our fun interactive roll and bowl Derby. Can you get your horse to the finish line?
+      
+      This amazing 4 player, 4 lane fairground game appears to be an easy win but go steady Eddy!
+      
+      Whether you are planning a party, promotional event, Christmas get together or team building day, this game will get everyone cheering the jockeys on to get their horse across the line and win the Race!
+      
+      **What Is the Roll and Bowl Hire?**
+      
+      Each player chooses which colour horse they wish to ride, they take their stand and wait for the race to begin. Before you know it they are under starters orders and they're off! To get your horse to giddy up down the course you have to roll and bowl that ball but gently does it! The more points you score by getting your ball into the holes the faster your horse will run and win that race!
+      
+      The roll and bowl Derby horse racing game has a built in PA system with full running commentary, sound effects along with LED lighting ensuring the atmospherics aren't horse play but make your event an excellent realistic experience that everyone will shout about.
+      
+      Why not hire the roll and bowl Derby horse racing game for your next instore promotion exhibition stand, party or brand activation. We guarantee it will attract a crowd and enable you to engage with your clients, it's a real winner!
+      
+      Are you planning a big event for your clients, employees, or the general public? You want to hire some fun games rentals, but you want to do something different so your participants stay happy and engaged.
+      
+      The roll and bowl hire is a fun option that not everyone may be familiar with just yet. The game has a built-in PA system and LED lighting to add an additional element of fun. This game will add some fun to your next big event!
+      
+      This is a physical game that up to four people can play, with some additional lights and sounds to allow participants to enjoy the fun.
+      
+      Two players or up to four players stand in front of the gameplay area. Ahead is a big screen that displays player names and scorecards. Each player has access to one small red “bowling ball”.
+      
+      This ball is gently tossed down the “alley” to aim at one of the six holes in the base. Each of these holes involves different scores, depending on the complexity of their location in the alley. When the ball hits the hole, one of the horses at the top moves forward.
+      
+      Each player gets to play a round. The player who collects the most points, or has their horse hit the finish line first, is the winner! The person supervising the game can offer a small prize to the winner, or a prize to the highest scoring winner at the end of the event.
+      
+      **Is the Rent Roll a Ball Kentucky Derby Easy to Play?**
+      
+      At first glance, it looks like it may be easy to play. When the game starts, you choose the colour of horse you want.
+      
+      You stand side by side and roll your ball. The horse advances. But you have to be sure that you aim accurately for the holes. You are competing against three other people, so you’ll have to aim accurately to get your horse across the finish line so you win the race.
+      
+      But you can’t toss it too hard or that won’t work. The more points you get by aiming for the higher scoring holes will also make your horse move more quickly.
+      
+      **Where Do I find a Roll and Bowl Hire?**
+      
+      More information about a roll a ball hire can be found on our Fun Pro UK website.
+      
+      You’ll find information all about the game, how it works, and how to book it. Book early, because summer is ahead and this fun game is sure to book up fast for the coming summer events!
+      
+      The roll a ball hire is a great way to bring people together to play a fun game. Many other fun game hires are solo, but the roll a ball hire is a great way to play with your colleagues or friends during an exhibition, corporate party, or even new brand activation!
+      
+      Try something new to keep your clients and employees fully engaged!
+      
+      Here at Fun Pro we have the ability to brand your game hire with your company logo, increasing footfall to your exhibition stand, instore promotion and event ensuring you reach the engagement with future clients that your competitors won't. For more information and pricing on branding please email our team.
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
   - title: "How It Works"
-    body: "Players roll balls towards scoring zones, with different areas representing different point values. The format is immediately understandable and allows continuous play.
-
-
-      Games can run casually with guests playing as they wish, or as structured competitions with scores tracked. The simple mechanics suit both approaches.
-
-
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-31.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Roll and bowl games work because they're satisfying in a simple way. The roll, the anticipation, the landing. It's uncomplicated but genuinely enjoyable, which is why similar formats have entertained for centuries.
-
-
-      The accessibility is key for event success. No instructions needed, no special skills required, no intimidating learning curve. Guests simply roll and enjoy.
-
-
-      For mixed audiences particularly, the format works across ages. Children and adults engage equally, creating shared experiences at family events."
-    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
+    image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-30.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg"
-faqs:
-  - question: "How many people can play Roll and Bowl at once?"
-    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently at events of 20-200 guests."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed events and family days."
-  - question: "How does scoring work?"
-    answer: "Players roll balls towards scoring zones, with different areas representing different point values. The format suits casual play or competition."
-  - question: "Does it need power?"
-    answer: "No, Roll and Bowl requires no power, giving you complete flexibility with positioning."
+    body: |
+      
 ---
 

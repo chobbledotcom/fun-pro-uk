@@ -74,7 +74,7 @@ The solution needed to work on multiple levels. Visually, it had to be striking 
 
 The custom branding extended beyond aesthetics to functionality. The wheel segments were designed to align with Poundland's product ranges and promotional offers, creating natural connections between the game experience and actual shopping opportunities. This approach meant the activation wasn't just entertainment - it was a genuine marketing tool that could drive both immediate sales and longer-term customer relationships.
 
-[FunPro's team](/our-story/#content) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
+[FunPro's team](/about-corporate-entertainment-hire/#content) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
 
 ## Implementation and Immediate Impact
 

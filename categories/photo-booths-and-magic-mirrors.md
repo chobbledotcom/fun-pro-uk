@@ -7,15 +7,16 @@ redirect_from:
   - "/category/photo-booths-and-magic-mirrors/"
 eleventyNavigation:
   key: "Photo Booths & Magic Mirrors"
-  parent: "Entertainment hire"
+  parent: "Entertainment Hire"
   order: 11
+videos:
+  - id: "Vimt2N89xKw"
+    title: ""
 ---
 
 # **Nationwide Photo Booth Hire**
 
 Whatever your event, make sure you make it truly memorable by adding corporate photo booth hire, so everyone can put themselves in the picture, both in print and online. We're a West Midlands photo booth and magic mirror hire company based in Birmingham and Coventry, but we operate all over the UK!
-
-[Read more..]
 
 **Picture perfect photo booths  
 **Booth hire is always a huge hit, giving your guests the chance to save and share their fun, and giving you a unique record of every picture taken. We offer a huge choice, from the classic 'passport-style' photo booths and green screen machines, to the very latest social media booths and hash tag print stations that offer an instant upload to the internet.
@@ -96,6 +97,6 @@ Stratford up on Avon
 
 For advice on the best corporate photo booth hire for your event, your audience and your budget, talk to our friendly team today. Call or email now, or complete the contact form below and we'll call you.
 
-- Tel: 02477220701
-- Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-- [Contact form](/contact-fun-pro-uk/#content)
+*   Tel: 02477220701
+*   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+*   [Contact form](/contact-fun-pro-uk/#content)

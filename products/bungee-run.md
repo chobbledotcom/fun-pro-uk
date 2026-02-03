@@ -5,9 +5,7 @@ price: "£395"
 order: 50
 meta_title: "Bungee Run | Corporate Entertainment | Fun Pro UK"
 meta_description: "Exciting and intense competitive fun! Strap on the bungee rope and see who can reach the other side of the inflatable first. Hilarious for spectators too!"
-categories:
-  - "categories/fun-days.md"
-  - "categories/interactive-game-hire.md"
+categories: ["categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:
@@ -16,13 +14,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 player at a time"
+    value: "TBD"
   - name: "Space Required"
     value: "13000mm Width x 4000mm Depth"
   - name: "Power"
     value: "1 x 950 watt power source 3 pin mains UK power socket"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
     value: "10700mm Width x 3400mm Depth x 2630mm Height"
   - name: "Suitability"
@@ -31,13 +29,11 @@ specs:
     value: "Drive on only"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1 player at a time"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -50,50 +46,66 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9026b3b054043ba3d2a8e851df214bc3"
 tabs:
   - title: "Why Bungee Run?"
-    body: "The bungee run brings high-energy physical entertainment to corporate events, team building days, and outdoor celebrations. Players race down the inflatable lane whilst attached to bungee cords, placing markers as far as possible before being pulled back.
-
-
-      For events where you want entertainment that creates spectacle, generates laughter, and gets people genuinely active, bungee runs deliver memorable moments.
-
-
-      The competitive format creates natural rivalry whilst the visual comedy of participants being pulled backwards generates entertainment for spectators. Setup requires adequate space and is handled entirely by our team."
     image: "/images/products/bungee-run/bungee-run-1.jpg"
+    body: |
+      # Bungee Run
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Bungee Run Hire
+      
+      ## FANCY A CHALLENGE?
+      
+      Fancy a challenge? Grab a partner and form an orderly queue to take part in the Bungee Run Challenge!
+      
+      It's time to see who has eaten their Weetabix! Our Bungee Run is not for the fainthearted, it will put your strength and speed to the test like nothing else!
+      
+      **4 hour hire from**
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## LETS GET STARTED!
+      
+      Each player takes their starting position on their inflatable brightly coloured lane. Our Fun Experts will be there waiting to help you into your bungee run belt which is attached to the back of the inflatable run. When both contestants are ready to begin the challenge, each player will run as fast as their legs will carry them along the bungee until they can't get any further. They then place a marker on the side of the track. Just when you think you have finished the bungee cord will drag you back to the start to begin all over again!
+      
+      Everyone can play and test their strength and speed whether it's children against adults or kids v's kids - we can alter the tensions of the bungee cords depending on the players.
+      
+      Our Bungee Run Hire is great to use at a variety of events. Activity and team building days are a fabulous way to build relationships with work colleagues. Lots of fun can be had whether it is a Sporting Event or a Private party. Maybe you are arranging a Charity Event or Promotion. What ever your celebration this will sure draw a happy crowd!
+      
+      ## WHAT'S INCLUDED:
+      
+      *   Bungee Run
+      *   2 markers
+      *   2 Bungee Belts
+      *   Safety Mats
+      *   Inflatable blower
+      *   Power leads
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
   - title: "How It Works"
-    body: "Players attach to bungee cords and race down parallel lanes, attempting to place their marker as far as possible before the elastic tension pulls them back. The furthest marker wins.
-
-
-      Head-to-head racing creates direct competition and spectator drama. The physical nature means participants genuinely exert themselves, which adds to the entertainment value.
-
-
-      Our team handles all setup, safety briefings, and supervision throughout your event."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Bungee runs create genuine hilarity. Watching colleagues strain against elastic before being yanked backwards is inherently funny. The combination of effort and inevitable failure generates laughter that spreads through spectators.
-
-
-      The competition remains meaningful despite the comedy. Participants genuinely try to place markers furthest, creating real rivalry and celebrating victories.
-
-
-      For team building specifically, the slight vulnerability of being pulled backwards whilst colleagues watch creates bonding moments. Shared laughter at collective silliness builds connection."
-    image: "/images/products/bungee-run/bungee-run-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
-faqs:
-  - question: "How many people can use the Bungee Run at once?"
-    answer: "Two players typically race simultaneously on parallel lanes, creating head-to-head competition and excellent spectator entertainment."
-  - question: "Is it suitable for all ages?"
-    answer: "The bungee run suits ages 10 and above due to the physical nature. It's particularly popular with adults at corporate team building events."
-  - question: "Is it safe?"
-    answer: "Yes, the inflatable surface is designed for safe play, and the bungee provides controlled resistance. Our team provides safety briefings and supervision."
-  - question: "What space do you need?"
-    answer: "Bungee runs require significant space for the inflatable lanes. We'll discuss your venue when you enquire."
+    body: |
+      
 ---
 

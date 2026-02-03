@@ -21,7 +21,7 @@ Batak Pro is the gold standard in reaction testing games, beloved by people of a
 
 This addictively simple concept creates natural and healthy competition as participants try to beat their colleagues' scores or claim the top spot on the leaderboard. The sleek, professional design makes it a perfect centrepiece for:
 
-*   Corporate events and [team-building](/team-building-activities/#content) exercises
+*   Corporate events and [team-building](/team-building-ideas/#content) exercises
     
 *   Exhibition stands to increase footfall
     

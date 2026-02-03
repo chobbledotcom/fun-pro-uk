@@ -1,7 +1,6 @@
 {
 	"name": "Fun Pro UK Ltd",
 	"url": "https://fun-pro-uk.b-cdn.net",
-	"description": "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK.",
 	"socials": {
 		"Facebook": "https://www.facebook.com/funprouk/",
 		"Instagram": "https://www.instagram.com/funprouk.co.uk/",
@@ -14,37 +13,5 @@
 	},
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
-	"opening_times": null,
-	"cms_config": {
-		"collections": [
-			"pages",
-			"products",
-			"categories",
-			"news",
-			"events",
-			"team",
-			"reviews",
-			"locations"
-		],
-		"features": {
-			"permalinks": true,
-			"redirects": true,
-			"faqs": true,
-			"galleries": true,
-			"header_images": false,
-			"external_navigation_urls": false,
-			"use_visual_editor": true,
-			"specs": true,
-			"features": true,
-			"external_purchases": false,
-			"event_locations_and_dates": false,
-			"no_index": true,
-			"parent_categories": false,
-			"add_ons": true,
-			"videos": true
-		},
-		"hasSrcFolder": false,
-		"customHomePage": true
-	}
+	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
 }

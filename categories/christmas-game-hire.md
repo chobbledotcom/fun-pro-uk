@@ -24,7 +24,7 @@ faqs:
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
-Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) [Read more..] create unforgettable experiences that boost engagement and bring teams together during the festive season.
+Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) create unforgettable experiences that boost engagement and bring teams together during the festive season.
 
 ## Nationwide Christmas Game Hire & Locations
 

@@ -7,7 +7,7 @@ redirect_from:
   - "/event-type/"
 eleventyNavigation:
   key: "What's your event?"
-  order: 2
+  order: 3
 ---
 
 # Event Type

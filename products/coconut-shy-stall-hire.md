@@ -5,8 +5,7 @@ price: "£450"
 order: 50
 meta_title: "Coconut Shy Stall Hire | Classic Fairground Game for UK Events"
 meta_description: "Hire a Coconut Shy stall for your next event. A fun and interactive game perfect for fairs, corporate events, and parties. Nationwide delivery &amp; setup available. Book today."
-categories:
-  - "categories/fun-fair-stalls.md"
+categories: ["categories/fun-fair-stalls.md"]
 events: []
 featured: true
 features:
@@ -15,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
-    value: "1850mm x 1850mm x 2134mm"
+    value: "TBD"
   - name: "Power"
-    value: "No power"
+    value: "TBD"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1829mm x 1829mm x 2134mm"
+    value: "TBD"
   - name: "Suitability"
-    value: "Level Surface"
+    value: "TBD"
   - name: "Access"
-    value: "Standard door width"
+    value: "TBD"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 450
@@ -48,67 +45,122 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d1ceaa7507b6ffdebe5f230288fd824f"
 faqs:
-  - question: "How many people can play Coconut Shy at once?"
-    answer: "Multiple players can throw simultaneously depending on the stall configuration, with the classic format keeping queues moving efficiently."
-  - question: "Is Coconut Shy suitable for all ages?"
-    answer: "Yes, the simple throwing format is accessible for all ages. It's a traditional favourite that works for family days and corporate events alike."
-  - question: "Are prizes included?"
-    answer: "Prizes for successful throws can be arranged depending on your requirements. We'll discuss options when you enquire."
-  - question: "Does it need power?"
-    answer: "No, Coconut Shy requires no power, giving you complete flexibility with outdoor or indoor positioning."
+  - question: "What is included in the Coconut Shy stall rental package?"
+    answer: "Our Coconut Shy Stall rental includes everything you need for hours of fun, including delivery, set up by our trained team, all the equipment you need, and then we'll come and collect when you're done. Please note that delivery and set up fees may incur additional charges."
+  - question: "Is the Coconut Shy stall suitable for outdoor events in various weather conditions?"
+    answer: "Although the Coconut Shy Stall can be used both indoors and outdoors, for the enjoyment of those playing, we recommend that you use it only in dry conditions and avoid extreme weather conditions such as wind or heavy rain."
+  - question: "Can we customise the Coconut Shy stall with our branding or theme?"
+    answer: "Yes, absolutely. All of our products, including the Coconut Shy Stall can be fully customised with your company or event branding, logo and colours."
+  - question: "Are staff provided to manage the Coconut Shy stall during events?"
+    answer: "If you would like to have someone to manage the stall and provide instructions during the event, this is something we can provide. Please contact us for a quote."
 add_ons:
-  intro: "## Coconut Shy Stall Hire Branding and Customisation Options
-
+  intro: |
+    ## Coconut Shy Stall Hire Branding and Customisation Options
 
     Make Coconut Shy Stall Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "&pound;195"
       price: 195
 tabs:
   - title: "Why Coconut Shy Stall Hire?"
-    body: "The coconut shy brings traditional fairground entertainment to corporate events, summer fetes, and celebrations. The familiar throwing format needs no explanation whilst carrying nostalgic associations that guests appreciate.
-
-
-      For events where you want accessible, relaxed entertainment with universal appeal, the coconut shy delivers. The format works across ages and abilities, creating inclusive entertainment without complicated rules.
-
-
-      No power required means flexible positioning, with capacity for 20-200 guests. Setup takes approximately 15-20 minutes."
     image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
+    body: |
+      # Coconut Shy Stall Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Coconut Shy Stall Hire for Corporate Events Across the UK
+      
+      ## The Best Coconut Shy Stall Hire for All UK Events
+      
+      Looking to bring a touch of classic fairground fun to your next [corporate event](/categories/corporate-entertainment/#content)? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist.
+      
+      A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls. Perfect for corporate events, [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), [family fun days](/events/family-fun-days/#content), and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere.
+      
+      ## Hire a Coconut Shy Stall for Your Next Event
+      
+      Simple yet highly engaging, the Coconut Shy stall is a timeless fairground attraction that suits events of all sizes. Whether you’re hosting an indoor or outdoor event, this game is easy to set up and provides hours of competitive entertainment.
+      
+      For corporate clients, the Coconut Shy stall presents a fantastic branding opportunity. Customise the stall with your company’s logo, event slogan, or bespoke design to increase brand visibility while your guests enjoy the challenge.
+      
+      ### Our Coconut Shy Stall Hire Includes:
+      
+      High-quality wooden balls for fair and safe gameplay
+      
+      50 fun prizes
+      
+      A professionally designed Coconut Shy game stall with a classic red and white striped canopy
+      
+      Easy-to-follow game instructions for players of all ages
+      
+      Optional trained host to manage the game (up to 4 hours)
+      
+      Suitable for both indoor and outdoor use
+      
+      ## Coconut Shy Stall Hire Pricing
+      
+      Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. As a nationwide hire company, we deliver across the UK on request. Minimum order values and delivery fees apply.
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      ## Why Choose Our Coconut Shy Stall Hire Service?
+      
+      Fun Pro UK is a leading provider of high-quality game hires for events across the UK. By choosing our Coconut Shy stall, you’re guaranteeing reliability, quality, and a truly engaging experience for your guests.
+      
+      This classic fairground game is ideal for a wide range of events, including corporate fun days, school fetes, product launches, and more. We take care of everything from delivery and setup to collection, ensuring a smooth and stress-free experience.
+      
+      If needed, we also offer an event host to oversee the game, ensuring fair play and maximum enjoyment for participants.
+      
+      ## Hiring A Coconut Shy Stall: Our Process
+      
+      #### **Step 1: Enquiry**
+      
+      Contact us via our website, email, or phone to discuss your event needs. Our team will provide a personalised quote based on your requirements.
+      
+      #### **Step 2: Confirmation**
+      
+      Once you're happy with the details, confirm your booking, and we'll take care of the rest.
+      
+      #### **Step 3: Delivery and setup**
+      
+      On the day of your event, we will deliver and set up the Coconut Shy stall at your chosen venue. We ensure everything is running smoothly for maximum enjoyment.
+      
+      #### **Step 4: Event day support**
+      
+      If you opt for a trained host, they will be on hand to manage the game and engage participants. If not, we provide clear game instructions for seamless operation.
+      
+      #### **Step 5: Removal**
+      
+      Once the event is over, we’ll return to collect the stall, leaving your venue exactly as we found it.
+      
+      ## Ready to Book Our Coconut Shy Stall Hire?
+      
+      Don't miss the opportunity to bring the fun of the fair to your event with our Coconut Shy stall. [Contact us today](/contact-fun-pro-uk/#content) to book for your next event anywhere in the UK.
+      
+      ### Are there any restrictions on the types of prizes that can be used with the Coconut Shy stall?
+      
+      No. You can offer a variety of prizes when playing this game during your event.
+      
+      Brand the rear half wall of the inside of the stall with your brand from:
   - title: "How It Works"
-    body: "Players throw balls at coconuts balanced on stands, aiming to knock them off. Traditional prizes reward successful throws, creating tangible wins.
-
-
-      The format is immediately understandable and allows continuous play as guests cycle through. The throwing element adds physicality without requiring athletic ability.
-
-
-      Setup takes approximately 15-20 minutes and requires only level ground. No power needed."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "The coconut shy works because it taps into fairground nostalgia. For anyone who's visited fetes and fairs, the format carries positive associations. That emotional connection creates engagement before the first throw.
-
-
-      The prize element adds stakes that pure games lack. Throwing becomes meaningful when there's something to win, changing engagement levels noticeably.
-
-
-      The physicality matters too. Actually throwing, the satisfaction of contact, the visible result of knocked coconuts. It's tangible in ways that screen-based games aren't."
-    image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+    body: |
+      
 ---
 

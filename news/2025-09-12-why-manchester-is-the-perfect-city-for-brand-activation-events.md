@@ -49,7 +49,7 @@ Manchester's venue landscape offers remarkable flexibility for different types o
 
 ### The city centre business district
 
-This key area provides modern conference facilities and corporate spaces that work perfectly for professional brand activations focused on B2B networking, product launches for business audiences, or [team-building](/team-building-activities/#content) experiences that need to maintain a corporate feel whilst introducing interactive entertainment elements.
+This key area provides modern conference facilities and corporate spaces that work perfectly for professional brand activations focused on B2B networking, product launches for business audiences, or [team-building](/team-building-ideas/#content) experiences that need to maintain a corporate feel whilst introducing interactive entertainment elements.
 
 For brands seeking more creative and memorable environments,
 

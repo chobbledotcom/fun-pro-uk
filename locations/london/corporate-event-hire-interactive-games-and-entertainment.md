@@ -30,7 +30,7 @@ London venues often come with unique constraints – limited loading access, str
 
 ### Understanding Your Investment
 
-Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](/team-building-activities/#content), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
+Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](/team-building-ideas/#content), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
 
 ## Types of Corporate Events We Support Across London
 

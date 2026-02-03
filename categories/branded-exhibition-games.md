@@ -13,8 +13,6 @@ Looking for branded games to showcase your company at large events? Fun Pro UK i
 
 We deliver branded exhibition entertainment to all kinds of occasions. Trade shows, conferences, job fairs, product launches, brand activations and more; whatever you're appearing at, we're ready to help.
 
-[Read more..]
-
 Our range of corporate event equipment for hire is endless. Just some of our most popular [interactive games](/categories/interactive-game-hire/#content) with branding options include:
 
 *   [Batak Pro](/products/batak-pro/#content): This high-octane game sees participants lunging towards the buttons as they light up. Originally designed to train sports stars and athletes, the Batak game has become a staple of exhibitions and trade shows in the UK. People relish the opportunity for some energetic entertainment at these events!

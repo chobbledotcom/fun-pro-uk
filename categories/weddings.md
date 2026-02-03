@@ -9,7 +9,7 @@ redirect_from:
 
 # **Wedding Entertainment for Guests**
 
-Planning a wedding takes time, and there is so much you can do to make the wedding reception even more memorable with wedding game hire. [Read more..] Wedding reception games are becoming more and more popular to keep quests entertained throughout the day and night.
+Planning a wedding takes time, and there is so much you can do to make the wedding reception even more memorable with wedding game hire. Wedding reception games are becoming more and more popular to keep quests entertained throughout the day and night. .
 
 We provide many games options for wedding entertainment hire for both indoors and outdoors, for adults and children. Our wedding games for guests are at home in beautifully restored old barns by [Cripps & Co](https://crippsandco.com/) as they are in the historic buildings, such as [Coombe Abbey](https://www.coombeabbey.com/venue/weddings/), Coventry.
 

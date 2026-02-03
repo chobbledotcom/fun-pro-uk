@@ -5,11 +5,8 @@ price: "£495"
 order: 50
 meta_title: "Christmas Game Hire UK"
 meta_description: "For The Best Christmas Game Hire, Contact Us Today."
-categories:
-  - "categories/christmas-games.md"
-  - "categories/christmas-game-hire.md"
-events:
-  - "events/christmas-entertainment-game-hire.md"
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -17,28 +14,26 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
     value: "1500mm Width x 1500mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 45-48 watts)"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "1.5m x 1.5m x 1.8m"
+    value: "TBD"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -59,18 +54,15 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e"
 add_ons:
-  intro: "## Whack an Elf Branding and Customisation Options
-
+  intro: |
+    ## Whack an Elf Branding and Customisation Options
 
     Make Whack an Elf a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "Game Playing Panel"
       price: 145
@@ -82,50 +74,74 @@ add_ons:
       price: 445
 tabs:
   - title: "Why Whack an Elf?"
-    body: "Whack an Elf brings the classic whack-a-mole format to Christmas events with festive theming. Players compete to whack emerging elves, creating energetic entertainment that suits corporate Christmas parties and seasonal celebrations.
-
-
-      The familiar arcade format ensures immediate understanding whilst the Christmas theming makes it seasonally appropriate. For events where you want festive entertainment with genuine engagement, the combination works effectively.
-
-
-      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady engagement. Mains power required."
     image: "/images/products/whack-an-elf/whack-an-elf-1.jpg"
+    body: |
+      # Whack an Elf
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Equipment size**
+      
+      1300mm Width x 700mm Depth 1470 Height
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular Items:**
+      
+      *   [Leaded Board](/products/leader-board/#content)
+      *   [Lights Out](/categories/interactive-game-hire/#content)
+      *   [Reindeer Roll an Bowl](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
+      *   [Raindeer Nosenado](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
+      
+      **Whack An Elf Christmas Game Hire**
+      
+      Whack An Elf is an incredibly entertaining Christmas themed game that you can hire for various events across the UK. It's a classic arcade-style game that guarantees loads of fun and excitement for players of all ages throughout the festive period. The concept is simple yet addictive – you have to whack those mischievous Elves as they pop up from their hiding spots.  
+        
+      Imagine being at a Christmas party, corporate event, or seasonal celebration, surrounded by laughter and cheers as everyone takes turns trying to whack as many Elves as possible. It's a fantastic way to engage your guests and create unforgettable memories. The game is suitable for indoor venues.  
+        
+      Now, let's talk about the locations where you can hire the Whack An Elf Christmas themed game. Coventry, known for its rich history and vibrant atmosphere, is a fantastic city to host events. Birmingham, the bustling metropolis, offers a diverse range of venues and a lively crowd. Nottingham, famous for its legendary tales of Robin Hood, provides a unique backdrop for your event. Milton Keynes, with its modern infrastructure and cultural attractions, is an ideal location to entertain your guests. And lastly, Leicester, a city steeped in history and multiculturalism, offers a vibrant setting for your event.  
+        
+      When you hire the Whack An Elf game, you'll receive a complete package that includes the game machine, all necessary equipment, and an enthusiastic attendant to guide players and ensure everyone has a fantastic time. The game is designed to be user-friendly, allowing players of all skill levels to participate and enjoy themselves.  
+        
+      Whether you're hosting a Christmas party, a team-building event, a school fair, or a community gathering, Whack An Elf is guaranteed to be a crowd-pleaser. It brings people together, promotes friendly competition, and creates an atmosphere of pure joy and laughter.  
+        
+      To book the Whack An Elf game hire for your event, simply reach out to us here at Fun Pro UK, our team will provide you with all the necessary information, including pricing, availability, and any additional services we offer. Make sure to book in advance to secure your desired date and time.  
+        
+      So, what are you waiting for? Bring the excitement of Whack An Elf to your next event in Coventry, Birmingham, Nottingham, Milton Keynes and and of the UK
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
   - title: "How It Works"
-    body: "Elves pop up randomly across the game surface and players whack them with padded mallets before they disappear. The game tracks successful hits, building scores throughout timed sessions.
-
-
-      The familiar whack-a-mole mechanic needs no explanation. Multiple players can compete side by side, adding competitive energy. Christmas theming adds seasonal relevance.
-
-
-      Setup requires mains power and takes approximately 15-20 minutes."
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Whack games are satisfying in a primal way. See target, hit target. The tactile feedback, the speed challenge, the visible scoring. It engages on a basic level that more complex games don't always match.
-
-
-      The Christmas theming adds value for seasonal events. Entertainment that acknowledges the occasion feels considered rather than generic, and guests notice the difference.
-
-
-      The physical element also gets energy levels up. After a few sessions of whacking elves, the room has more energy than it did before. That atmosphere shift benefits overall event success."
-    image: "/images/products/whack-an-elf/whack-an-elf-1.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
-faqs:
-  - question: "How many people can play Whack an Elf at once?"
-    answer: "The game accommodates 1-4 players depending on configuration, with the classic whack-a-mole format keeping energy high."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the simple hit-the-target format suits ages 5 and above. The Christmas theming adds festive fun without complicating the gameplay."
-  - question: "What makes it different from regular Whack a Mole?"
-    answer: "The Christmas elf theming makes it perfect for festive events. The satisfying gameplay remains the same with seasonal styling."
-  - question: "What power do you need?"
-    answer: "Mains power is required for the pop-up mechanism and scoring."
+    body: |
+      
 ---
 

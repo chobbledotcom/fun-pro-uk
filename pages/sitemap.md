@@ -27,7 +27,7 @@ redirect_from:
 *   [](/locations/northampton/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire](/locations/nottingham/corporate-event-hire/#content) [Nottingham](/locations/nottingham/corporate-event-hire/#content)
 *   [](/locations/nottingham/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Oxford](/oxford-corporate-event-hire/#content)
 *   [](/oxford-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Reading](/reading-corporate-event-hire/#content)
-*   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire-2/#content)
+*   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire/#content)
 
 ## **Insurance**
 
@@ -47,8 +47,8 @@ redirect_from:
 *   [Case Studies - Corporate Event hire in Nationwide](/case-studies/#content)
 *   [Why hire corporate entertainment with Fun Pro UK? - Corporate Event hire in Nationwide](/news/why-hire-corporate-entertainment-with-fun-pro-uk/#content)
 *   [](/news/why-hire-corporate-entertainment-with-fun-pro-uk/#content)[Award ceremony London - Corporate Event hire in Nationwide](/news/award-ceremony-london/#content)
-*   [](/news/award-ceremony-london/#content)[Christmas parties are go! - Corporate Event hire in Nationwide](/news/christmas-parties-are-go-2/#content)
-*   [](/news/christmas-parties-are-go-2/#content)[Award ceremony season is fast approaching! - Corporate Event hire in Nationwide](/news/award-ceremony-season-is-fast-approaching/#content)
+*   [](/news/award-ceremony-london/#content)[Christmas parties are go! - Corporate Event hire in Nationwide](/news/christmas-parties-are-go/#content)
+*   [](/news/christmas-parties-are-go/#content)[Award ceremony season is fast approaching! - Corporate Event hire in Nationwide](/news/award-ceremony-season-is-fast-approaching/#content)
 *   [](/news/award-ceremony-season-is-fast-approaching/#content)[Continually Working to Deliver a Quality Service! - Corporate Event hire in Nationwide](/news/continually-working-to-deliver-a-quality-service/#content)
 *   [](/news/continually-working-to-deliver-a-quality-service/#content)[Ho Ho Ho it's Christmas! - Corporate Event hire in Nationwide](/news/ho-ho-ho-its-christmas/#content)
 *   [](/news/ho-ho-ho-its-christmas/#content)[Mirror, Mirror out at Wasps, where will I go next? - Corporate Event hire in Nationwide](/news/mirror-mirror-out-at-wasps-where-will-i-go-next/#content)
@@ -73,8 +73,8 @@ redirect_from:
 *   [](/news/saturday-night-selfies-at-milton-keynes/#content)[Ansty Hall this Sunday! - Corporate Event hire in Nationwide](/news/ansty-hall-this-sunday/#content)
 *   [](/news/ansty-hall-this-sunday/#content)[Is it Christmas already - Corporate Event hire in Nationwide](/news/is-it-christmas-already/#content)
 *   [](/news/is-it-christmas-already/#content)[Christmas Parties with the NEC - Corporate Event hire in Nationwide](/news/christmas-parties-with-the-nec/#content)
-*   [](/news/christmas-parties-with-the-nec/#content)[Christmas Parties are Go! - Corporate Event hire in Nationwide](/news/christmas-parties-are-go/#content)
-*   [](/news/christmas-parties-are-go/#content)[Christmas in October! - Corporate Event hire in Nationwide](/news/christmas-in-october/#content)
+*   [](/news/christmas-parties-with-the-nec/#content)[Christmas Parties are Go! - Corporate Event hire in Nationwide](/news/christmas-parties-are-go-2/#content)
+*   [](/news/christmas-parties-are-go-2/#content)[Christmas in October! - Corporate Event hire in Nationwide](/news/christmas-in-october/#content)
 *   [](/news/christmas-in-october/#content)[Wedding Fair at Ettington Park - Corporate Event hire in Nationwide](/news/wedding-fair-at-ettington-park/#content)
 *   [](/news/wedding-fair-at-ettington-park/#content)[Sunday's Wedding Fair - Corporate Event hire in Nationwide](/news/sundays-wedding-fair/#content)
 *   [](/news/sundays-wedding-fair/#content)[Weekend of 29th July 2017 - Corporate Event hire in Nationwide](/news/weekend-of-29th-july-2017/#content)

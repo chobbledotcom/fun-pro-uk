@@ -17,7 +17,7 @@ If you're looking to bring excitement and engagement to your next [corporate eve
 
 Batak Lite is a portable, fast-paced reaction game designed to challenge reflexes and coordination. Featuring a panel of illuminated targets, players must strike the lights as quickly as possible, making it an engaging and thrilling activity for guests of all ages.
 
-This interactive game is a fantastic addition to events such as trade shows, [team-building days](/team-building-activities/#content), [promotional brand events](/promotion-event-games/#content), and networking events. It provides a fun and competitive atmosphere, ensuring active participation.
+This interactive game is a fantastic addition to events such as trade shows, [team-building days](/team-building-ideas/#content), [promotional brand events](/promotion-event-games/#content), and networking events. It provides a fun and competitive atmosphere, ensuring active participation.
 
 ## Why Choose Batak Lite For Your Event in Birmingham?
 

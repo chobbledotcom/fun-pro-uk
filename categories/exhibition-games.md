@@ -11,8 +11,6 @@ redirect_from:
 
 Exhibiting at trade shows and exhibitions can be a great way to showcase your business and attract new customers. With so many other businesses vying for attention, it can be challenging to stand out from the crowd. That's where Fun Pro UK comes in! We offer a wide range of exhibition game hire options that are sure to draw a crowd and keep them engaged. Check out some exhibition stand entertainment ideas below!
 
-[Read more..]
-
 ## Trade Show and Expo Entertainment Ideas
 
 [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/#content) and [Buzz Wire](/products/giant-buzz-wire/#content) are some of our most popular games. This is a steady hand game that challenges players to navigate a wire loop without touching it.  

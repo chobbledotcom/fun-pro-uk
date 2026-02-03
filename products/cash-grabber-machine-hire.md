@@ -5,14 +5,7 @@ price: "£495"
 order: 5
 meta_title: "Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine"
 meta_description: "Hire Our Cash Cube Machine For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories:
-  - "categories/exhibition-games.md"
-  - "categories/arcade-games.md"
-  - "categories/christmas-grotto-hire.md"
-  - "categories/fun-days.md"
-  - "categories/grab-a-grand.md"
-  - "categories/interactive-game-hire.md"
-  - "categories/prize-games.md"
+categories: ["categories/exhibition-games.md", "categories/prize-games.md", "categories/christmas-grotto-hire.md", "categories/grab-a-grand.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
 events: []
 featured: true
 features:
@@ -21,13 +14,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1-4 players"
+    value: "TBD"
   - name: "Space Required"
     value: "1800mm x 1800mm x 2200mm"
   - name: "Power"
     value: "1 x 900 watts power source 3 pin UK mains socket"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
     value: "1000mm Width x 1600mm Depth x 2000mm Height"
   - name: "Suitability"
@@ -36,13 +29,11 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
-  - name: "Player Count"
-    value: "1-4 players"
+    value: "TBD"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -97,18 +88,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9f43013316995f1fc851f5941569070"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186"
 add_ons:
-  intro: "## CASH GRABBER MACHINE HIRE Branding and Customisation Options
-
+  intro: |
+    ## CASH GRABBER MACHINE HIRE Branding and Customisation Options
 
     Make CASH GRABBER MACHINE HIRE a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "Front panel branding"
       price: 110
@@ -120,54 +108,133 @@ add_ons:
       price: 430
     - name: "Branded Notes"
       price: 150
+videos:
+  - id: "ARn3iIOfFXw"
+    title: ""
 tabs:
   - title: "Why CASH GRABBER MACHINE HIRE?"
-    body: "Cash grabber machines create excitement as participants try to grab swirling cash or vouchers in the time allowed. The format delivers genuine engagement and works well for promotions, prize distribution, and brand activations.
-
-
-      For events where you want entertainment that creates drama and provides tangible rewards, cash grabbers deliver. The visible scramble, the countdown pressure, and the potential prizes generate energy.
-
-
-      The format suits events of 20-200 guests, with the prize element maintaining high engagement throughout. Mains power required."
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg"
+    body: |
+      # CASH GRABBER MACHINE HIRE
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Make Your Event Unforgettable with Cash Grabber Machine Hire through out the UK including Birmingham, Nottingham, Milton Keynes, London and Manchester 🎉
+      
+      Looking to add some excitement to your event? Our Cash Grabber Machine Hire is the perfect choice for conferences, well-being days, exhibitions, fun days, and brand activation events. Step into the Grab 'A' Grand Cash Cube and experience the thrill of grabbing as many vouchers or money notes as you can in just 30 seconds!
+      
+      ### Why Choose Cash Grabber Machine Hire?
+      
+      With our Cash Grabber Machine, you can create a buzz at your event and engage your guests in a fun and interactive way. Whether you want to increase sales, promote your brand, or simply entertain your guests, our Cash Grabber Machine is guaranteed to leave a lasting impression.
+      
+      ### Memorable Experience for Your Guests
+      
+      Give your guests the opportunity to step into the Cash Grabber Machine and enjoy the thrill of trying to grab as many tokens as possible in a limited time. It's a high-energy activity that will keep your guests entertained and excited throughout the event.
+      
+      ### Delivery Areas
+      
+      We offer Cash Grabber Machine Hire services in Birmingham, Nottingham, Milton Keynes, London, Manchester, and across the UK. Wherever your event is taking place, we can bring the Cash Grabber Machine to you and ensure that your guests have an unforgettable experience.
+      
+      Don't miss out on the chance to make your event stand out with Cash Grabber Machine Hire. Contact us today to book the Cash Grabber Machine for your next event!
+      
+      Delivered and installed on site by our trained team
+      
+      \*Delivery Charges & Minimum order value may apply
+      
+      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular Items:**
+      
+      [Leaded Board](/products/leader-board/#content)
+      
+      Lights Out
+      
+      [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      
+      [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
+      **Grab A Grand Hire For Corporate Events:**
+      
+      ### **Also Known as Cash Grabber**
+      
+      Whether you fill it with tokens or actual hard cash, there's no thrill like stepping into the grab a grand machine and trying to snag as much swag as you can as the clock ticks down.
+      
+      Everyone know the score, so you can be sure your grab a grand machine will be a huge draw for your event, wherever you set it up.
+      
+      ### **An amazing attraction**
+      
+      From a shopping centre sales promotion, to your annual company awards, the grab a grand machine will always be the centre of attention. With its swirling notes and ticking clock it's almost as much fun to watch as it is to play.
+      
+      Compact yet hard to ignore, it works like a magnet on your exhibition stand or in your trade show space, really making you stand out from the crowd.
+      
+      ### **The prize is up to you**
+      
+      You can play for fun or add some serious prizes to a random selection of tickets among the swirling whirlwind to add to the excitement for both spectators and players. You could even let your top performers play for a real cash bonus as part of your annual awards night or company fun day.
+      
+      Whichever kind of prize you choose, the grab a grand machine is top class corporate entertainment that will really lift the image of your company and get people engaged with your brand and your sales message.
+      
+      While it can be fun to win stuffed toys and stationery at a corporate seminar, reunion, or other company parties, you’ll really be upping the stakes when you offer the hire cash cube machine for your next big event!
+      
+      You can even let your guest list know ahead of time, so if they have any other plans that weekend, they’ll soon be canceling them to join you on this special day!
+      
+      **What Is the Hire Grab a Grand Machine?**
+      
+      You’ve likely seen these cash grabber machines on television or at fun fairs in the past.
+      
+      It has some different names, such as cash cube machine, cash grabber, or grand machine, but basically, you step inside a large circular clear plexiglass tube.
+      
+      The door is closed and there is a light above to light up the game. When the action starts, cash bills are released into the air, and a fan blows them around.
+      
+      There are some rules to the game, such as you can’t open up your shirt and let the money drop in, nor can you scoop up money off the floor. You must grab the cash when it’s spinning around in the air. What you can grab is yours!
+      
+      **Can I Fill the Game with Real Cash?**
+      
+      If your company is interested in the hire cash cube machine then you may be curious if you can fill it up with real cash bills.
+      
+      Yes, you can, and we hope that is the main point of this game! This adds an additional level of fun!
+      
+      You may not want to fill it completely with £50 notes, but we do recommend a mix of £5, £10, £20, and £50 notes. You could toss in some fake notes too, just to increase the excitement, so the player knows they should be grabbing as many as they can, because there may just be a few real £50 notes in there!
+      
+      **Where to Rent the Cash Grabber Machine?**
+      
+      If you think that the hire grab a grand machine will be the perfect entertainment for your next big event then please fill out the online contact form on our Fun Pro UK website now.
+      
+      We service most regions in the UK. Just imagine the fun and excitement of the hire vault game when you tell your clients and colleagues what you have planned for the next big event!
+      
+      Book now to avoid disappointment! And start gathering together the prizes for the hire cash grab machine so you have plenty of money to fill it up. Even better, offer that £1000 grand prize near the end for players who have managed to grab the highest denomination of bank notes!
+      
+      When you book the hire cash grabber machine you’re going to discover that it’s one of the most popular attractions at your next big event.
+      
+      We suggest that you add some extra fun to this game, such as a name draw for who gets to go first. Maybe you should book more than one from our Fun Pro UK site, just so you can keep the crowds moving!
+      
+      ### **Endless options**
+      
+      We've got so many options when it comes to [interactive game hire](/categories/interactive-game-hire/#content), so talk to our team for the best advice and the best value package for your next event. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry and Milton Keynes, so book now and add some real excitement to your next event.
   - title: "How It Works"
-    body: "Participants enter the machine as cash, vouchers, or prizes swirl around them in the air current. They have a set time to grab as much as they can, creating frantic, entertaining scrambles.
-
-
-      The timer adds pressure whilst spectators watch and react. Whatever participants grab, they keep, creating tangible wins.
-
-
-      Setup requires mains power and takes approximately 15-20 minutes. Prize loading and rules can be customised to suit your event."
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Cash grabbers create genuine excitement because the stakes feel real. Grabbing actual prizes rather than scoring points changes engagement levels. Participants genuinely try, and that effort creates entertaining scrambles.
-
-
-      The spectator element is excellent. Watching colleagues frantically grab at swirling prizes generates reactions that spread energy through the room.
-
-
-      The tangible rewards also create memorable takeaways. Guests remember what they won and associate that success with your event."
-    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg"
+    image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-16.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-15.jpg"
-faqs:
-  - question: "How many people can use the Cash Grabber at once?"
-    answer: "One participant enters the machine at a time, with timed sessions creating frantic entertainment for players and spectators."
-  - question: "What can go in the machine?"
-    answer: "Cash, vouchers, branded items, or prize tickets can be loaded. We'll discuss options to suit your event and budget."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the grab-what-you-can format suits ages 10 and above. The excitement is universal regardless of what's being grabbed."
-  - question: "What power do you need?"
-    answer: "Mains power is required for the air system that keeps items swirling."
+    body: |
+      
 ---
 

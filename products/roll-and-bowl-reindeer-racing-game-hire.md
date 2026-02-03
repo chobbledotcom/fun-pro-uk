@@ -5,12 +5,8 @@ price: "£895"
 order: 50
 meta_title: "Reindeer Racing UK"
 meta_description: "Contact fun Pro UK today to book your next Christmas event."
-categories:
-  - "categories/christmas-games.md"
-  - "categories/christmas-game-hire.md"
-  - "categories/roll-and-bowl.md"
-events:
-  - "events/christmas-entertainment-game-hire.md"
+categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md", "categories/roll-and-bowl.md"]
+events: ["events/christmas-entertainment-game-hire.md"]
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -24,20 +20,20 @@ specs:
   - name: "Power"
     value: "1 x mains UK power socket Wattage usage 180-230 watts"
   - name: "Setup time"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Equipment Size"
-    value: "2300mm x 2300mm x 2100mm"
+    value: "TBD"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "20-200 guests"
+    value: "TBD"
   - name: "Game Length"
-    value: "15-20 minutes"
+    value: "TBD"
   - name: "Power Required"
-    value: "Mains power required"
+    value: "TBD"
   - name: "Player Count"
     value: "1-4 players"
 options:
@@ -74,18 +70,15 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b0050ef79059165761352e6f1f1faf44"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b214072e0f34616bd4f63462501cceb0"
 add_ons:
-  intro: "## Roll And Bowl Reindeer Racing Game Hire Branding and Customisation Options
-
+  intro: |
+    ## Roll And Bowl Reindeer Racing Game Hire Branding and Customisation Options
 
     Make Roll And Bowl Reindeer Racing Game Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
-
     ### Branding Prices From
 
-
     In-house branding available. We print, apply, and remove them after each event.
-
-    (One time use only)\n"
+    (One time use only)
   options:
     - name: "Playing Field x 4"
       price: 320
@@ -101,52 +94,100 @@ add_ons:
       price: 1020
 tabs:
   - title: "Why Roll And Bowl Reindeer Racing Game Hire?"
-    body: "Roll and Bowl Reindeer Racing combines competitive racing with accessible roll-the-ball gameplay, themed for Christmas events. Players roll balls to advance their reindeer, creating head-to-head competition that suits festive corporate parties.
-
-
-      For Christmas events where you want entertainment that works across abilities whilst creating genuine competition, themed racing delivers. The familiar format needs no explanation whilst the festive styling adds seasonal appropriateness.
-
-
-      With 1-4 player capacity and no power required, it offers flexibility for various venue configurations."
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
+    body: |
+      # Roll And Bowl Reindeer Racing Game Hire
+      
+      "Please Note Leader Boards are not included unless requested"
+      
+      ## Roll And Bowl Reindeer Racing Game Hire in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, Coventry, UK 🦌🎄
+      
+      Looking for a unique and exciting addition to your Christmas event or office party? Our Roll And Bowl Reindeer Racing game is the perfect choice for adding fun and interactive entertainment to your gatherings. Get ready to experience the thrill of reindeer racing as players roll their balls up the playfield, aiming to score points and move their reindeer towards victory.
+      
+      ### Exciting Features:
+      
+      *   Portable and easy to set up
+      *   LED lighting for a visually stunning experience
+      *   PA system for clear sound effects and commentary
+      *   Fast-paced gameplay that keeps players engaged
+      *   Perfect for team building, office parties, and Christmas events
+      
+      Our Kentucky Derby Reindeer game is designed for up to four players, each racing their reindeer to be the first across the finish line. With vibrant colors, engaging gameplay, and interactive features, this game is sure to be a hit at any event.
+      
+      Whether you're planning a corporate conference, a well-being day, or a fun exhibition, our Roll And Bowl Reindeer Racing game hire is the ideal choice to increase excitement and engagement. Make your brand stand out with this unique and entertaining experience that is guaranteed to leave a lasting impression on your guests.
+      
+      Let our trained staff handle the delivery, setup, and installation of the game at your chosen location in Birmingham, Leicester, Nottingham, Milton Keynes, London, Manchester, or Coventry. Sit back, relax, and enjoy the festive spirit as your guests compete in a friendly and competitive reindeer race like no other.
+      
+      Delivered [](#specification)and [](#specification)installed on site by our trained team
+      
+      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
+      
+      (One [](#specification)time [](#specification)use [](#specification)only)
+      
+      \*Delivery [](#specification)Charges & Minimum order value may apply
+      
+      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      **Discounted rates** available for **Multiple Days &**Additional items**
+      
+      Please contact us to find out more
+      
+      **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+      
+      ## As a nationwide hire company, we can provide everything you need for your party or event.
+      
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      
+      **We are able to cover the whole of the UK on request.**
+      
+      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
+      
+      **Equipment size**
+      
+      1300mm Width x 700mm Depth 1470 Height
+      
+      **Extra information**
+      
+      Can not be carried up or down flights of stairs.
+      
+      Lift required
+      
+      **Popular Items:**
+      
+      [Leaded Board](/products/leader-board/#content)
+      
+      Lights Out
+      
+      [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+      
+      [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+      
+      ## Roll And Bowl Reindeer Racing
+      
+      The [Roll And Bowl](/products/#content) Reindeer Racing game is fully portable and requires the players to roll their balls up the playfield and through the coloured and numbered holes to score points. The more points they score, the further their horse, reindeer or themed character will move along the track. Our [Kentucky Derby](/products/#content) Reindeer game comes with built in LED lighting, a PA system, automated sound effects and commentary. A fast paced game, great fun, highly interactive and guaranteed to create excitement and attention.
+      
+      Roll and Bowl Reindeer Racing game is a fun and exciting challenge for four players. Race the red, green, yellow and blue reindeer around the track to see who can get their reindeer across the finish line first.
+      
+      Reindeer Racing Roll and Bowl is available for you to enjoy at your next Christmas event, Christmas staff party of for unique office fun game hire.
+      
+      Our trained staff will deliver, set up and install the game on site for you, your own team or 'brand ambassadors' to easily operate and run. Alternatively we can arrange for professional promotional staff to attend and run the game.
+      
+      Reindeer racing is available in Manchester, Coventry, Nottingham, Leicester, London, Milton Keynes, Birmingham, Northampton, Bristol, Doncaster, Gloucester, Leeds, Liverpool, Newport, Oxford, Salford, Sheffield, Southampton, Stoke-on-Trent, Wakefield, Westminster, Wolverhampton, Worcester, York, Wrexham, Kingston upon Hull and the whole of the UK
+      
+      In\-house branding available Printed, applied & removed after each event
+      
+      (One time use only)
   - title: "How It Works"
-    body: "Players roll balls to advance their reindeer along the racing track. Successful rolls move competitors closer to the finish line, with the first to complete the course winning.
-
-
-      Multiple players compete side by side, making each race a shared experience. The format is immediately understandable, so guests can engage without lengthy explanations.
-
-
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-7.jpg"
+    body: |
+      
   - title: "Why It's A Crowd Favourite"
-    body: "Racing games create natural drama that other formats don't match. The head-to-head competition, the close finishes, the satisfaction of victory. That competitive energy generates engagement.
-
-
-      The Christmas theming adds value for seasonal events. Reindeer racing feels appropriate for the occasion whilst delivering the same competitive fun as non-themed versions.
-
-
-      The accessibility matters too. Anyone can roll balls, regardless of age or ability. That inclusivity ensures broader participation at mixed events."
-    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg"
+    image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-6.jpg"
+    body: |
+      
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
-
-
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
-
-
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-5.jpg"
-faqs:
-  - question: "How many people can play Reindeer Racing at once?"
-    answer: "The game accommodates 1-2 players racing simultaneously, with the festive format perfect for Christmas corporate events."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the roll-and-race format is accessible for all ages. The reindeer theming adds Christmas fun without complicating gameplay."
-  - question: "How does the racing work?"
-    answer: "Players roll balls to advance their reindeer along the track. The first to cross the finish line wins."
-  - question: "Does it need power?"
-    answer: "No, Roll and Bowl Reindeer Racing requires no power, giving you flexibility with positioning."
+    body: |
+      
 ---
 

@@ -89,7 +89,7 @@ Absolutely! We understand that personalisation adds a unique touch to your event
 
 ### How far in advance should I book to secure the equipment I want?
 
-To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/events/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/team-building-activities/#content) periods.
+To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/events/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/team-building-ideas/#content) periods.
 
 If your event is approaching quickly, contact Fun Pro UK as soon as possible. We will do our best to accommodate late requests based on availability.
 
