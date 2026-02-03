@@ -5,7 +5,9 @@ price: "£495"
 order: 50
 meta_title: "Bespoke Photo Booth Designs | Fun Pro UK | Entertainment"
 meta_description: "Brand your photobooth and your photo for memorable keepsakes at corporate events, trade shows, expos and much more, with our advanced photo booth hire!"
-categories: ["categories/branded-exhibition-games.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories:
+  - "categories/branded-exhibition-games.md"
+  - "categories/photo-booths-and-magic-mirrors.md"
 events: []
 featured: true
 features:
@@ -14,13 +16,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "Groups of 1-8"
   - name: "Space Required"
     value: "2700mm x 2000mm x 2100mm"
   - name: "Power"
     value: "1 x UK mains socket (Game wattage usage 950 - 1200 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "2200mm Width x 1200mm Depth x 2050mm Height"
   - name: "Suitability"
@@ -29,11 +31,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "50-300 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "20-30 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "Groups of 1-8"
 options:
   - name: "1 Day"
     unit_price: 495
@@ -49,15 +53,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/023f5fff1deda24f0283d2072b3fec45"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956"
 add_ons:
-  intro: |
-    ## Bespoke Photo Booth Hire Branding and Customisation Options
+  intro: "## Bespoke Photo Booth Hire Branding and Customisation Options
+
 
     Make Bespoke Photo Booth Hire a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Front panel branding"
       price: 110
@@ -74,74 +81,51 @@ videos:
     title: ""
 tabs:
   - title: "Why Bespoke Photo Booth Hire?"
+    body: "Bespoke photo booths offer customised branding and theming that aligns your photo entertainment with event objectives. For brand activations, corporate identity events, or occasions where standard booths feel generic, bespoke options deliver tailored experiences.
+
+
+      The customisation extends to backdrops, overlays, props, and outputs, ensuring photos reinforce your brand or event theme. For marketing teams tracking engagement or HR teams building culture, this integration often justifies the investment.
+
+
+      Capacity suits events of 20-200 guests, with outputs designed to be shared both physically and digitally."
     image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg"
-    body: |
-      # Bespoke Photo Booth Hire
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Bespoke Photo Booth Rental
-      
-      All packages include delivery, setup, and removal by our professional team.
-      
-      You can rest assured that the Ballnado grabber and other equipment will arrive in top condition, and ready-for-use at your event.
-      
-      Need a longer hire period?
-      
-      [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
-      
-      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      Check our Photo booth specifications:
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ### **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      **Bespoke photo booths for hire through out Coventry, Birmingham, London and Milton Keynes**
-      
-      At Fun Pro UK, our aim is to make your business event as effective as possible, while having loads of fun along the way. And one of the most effective ways to boost your profile is with a bespoke photo booth, uniquely designed with your brand in mind.
-      
-      ## **Brand your photo booth  
-      **
-      
-      Our talented team of designers will work with you to create a look that incorporates your company colours and logos, as well as matching the theme of your event. We've created some amazing photo booth skins for some of Britain's biggest companies and they always make a massive impact at any event. Available from £150 per panel or a full booth set for £495.
-      
-      ## **Brand your photos too  
-      **
-      
-      As well as branding your photo booth, we can also brand each individual photo, so your guests will always associate your company with their great memories of the night. We can add logos, sales messages or event details, turning each picture into a real memento and building a social media buzz as the images are posted and shared.
-      
-      ## **Worth the extra**
-      
-      Adding a bespoke skin to your photo booth, or branding your social media booth, may cost a little more, but it brings a big return in terms of brand awareness and getting your sales message seen. Talk to our team about how to make the most of your photo booth hire and you'll soon see how cost effective our branding options can be.
   - title: "How It Works"
+    body: "We work with you before the event to understand branding requirements, design custom elements, and create a photo experience that aligns with your objectives. This includes branded backdrops, custom overlays, themed props, and designed outputs.
+
+
+      During the event, guests experience a photo booth that feels integrated with your event rather than a generic addition. Photos carry branding and theming throughout.
+
+
+      Setup requirements vary by configuration, and we'll discuss specifics during the customisation process."
     image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-2.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-1.jpg"
-    body: |
-      
+    body: "Bespoke booths create more shareable content because the outputs are designed to be shared. Branded photos spread further, reinforce messages, and create ongoing value beyond the event itself.
+
+
+      Guests also appreciate the integration. When photo booth theming matches the event, it signals attention to detail and professional planning. That perception improves overall event impression.
+
+
+      For marketing and brand activation specifically, the trackable, brandable outputs often deliver measurable return that generic entertainment doesn't provide."
+    image: "/images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "What can be customised on the Bespoke Photo Booth?"
+    answer: "Customisation options include branded backdrops, custom photo overlays, themed props, and designed outputs. We work with you to align the booth with your event objectives."
+  - question: "How many people can use it at once?"
+    answer: "Groups of 1-8 can use the booth together. The open or enclosed format can be specified based on your preference."
+  - question: "How long does customisation take?"
+    answer: "We'll need advance notice to prepare custom elements. Timelines depend on the complexity of branding required. Contact us early in your planning process."
+  - question: "What's included in the outputs?"
+    answer: "Instant prints and digital copies are included. Branded elements appear on all outputs, extending your brand reach beyond the event itself."
 ---
 

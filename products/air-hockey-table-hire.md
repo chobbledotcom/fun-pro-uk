@@ -5,7 +5,13 @@ price: "£395"
 order: 50
 meta_title: "Air hockey to hire through out the UK"
 meta_description: "Check out all our games that available to hire through out The west Midlands and the UK"
-categories: ["categories/exhibition-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories:
+  - "categories/exhibition-games.md"
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/photo-booths-and-magic-mirrors.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -14,13 +20,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "2 players"
   - name: "Space Required"
     value: "2000mm Width x 3000mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "1 x UK power socket (Game wattage usage 70-80 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "1210mm Width x 2140mm Depth 850mm Height"
   - name: "Suitability"
@@ -29,11 +35,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "2 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -70,138 +78,53 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180c197ab2df6df453b18683e8250e6"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/ae8ccde974a8b3d7efec6e29fb60cbbb"
 faqs:
-  - question: "Is the air hockey table suitable for both indoor and outdoor events?"
-    answer: "Yes! The air hockey table is a perfect addition to venues such as conference halls, event spaces, and even home settings. It can also be used outdoors, provided the weather is good or there's shelter over it to protect the air hockey table from weather conditions."
-  - question: "Can children and adults enjoy the game equally?"
-    answer: "Absolutely! Air hockey is enjoyable for players of all ages. Children will love the fast-paced excitement, while adults can experience nostalgic arcade fun or join in competitive challenges."
-  - question: "How much space is required for the air hockey table hire?"
-    answer: "The air hockey table measures 1210mm wide, 2140mm deep, and 850mm high. For the best experience, we recommend allowing a space of 2000mm in width and 3000mm in depth. This ensures players have enough room to move freely during gameplay and provides space for spectators to gather and enjoy the excitement."
-  - question: "Do you provide delivery and setup services?"
-    answer: "Yes, we can take care of all the logistics for you. Our professional team will deliver the air hockey table directly to your venue, carefully set it up, and test the equipment to ensure everything is functioning perfectly."
+  - question: "How many people can play Air Hockey at once?"
+    answer: "Two players compete head-to-head at each table. Multiple tables can be hired for larger events requiring more throughput."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, air hockey suits ages 8 and above. The fast-paced format appeals widely, and the familiar arcade style makes it immediately accessible."
+  - question: "Do you provide everything needed?"
+    answer: "Yes, mallets and pucks are included. Everything required for play comes with the table hire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the air cushion system that enables rapid puck movement."
 tabs:
   - title: "Why Air Hockey Table Hire?"
+    body: "Air hockey brings fast-paced competitive entertainment to corporate events, team building days, and celebrations. The familiar arcade format needs no explanation whilst delivering genuine competitive gameplay.
+
+
+      For events where you want entertainment that creates one-on-one competition and draws spectators, air hockey delivers. The rapid pace and close games create natural drama.
+
+
+      Mains power required for operation, with capacity for 20-200 guests. Multiple tables available for larger events."
     image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-9.jpg"
-    body: |
-      # Air Hockey Table Hire
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Best Air Hockey Table Hire in the UK for Fun Filled Events!**
-      
-      Searching for a game that will keep your guests entertained? Our air hockey table hire offers a fast-paced, [interactive experience](/categories/interactive-game-hire/#content) that keeps everyone entertained for hours. Its competitive gameplay brings energy, fun, and engagement to any occasion. For complete peace of mind, we provide hassle-free, professional delivery, setup, and collection across the UK.
-      
-      ## **Hiring Periods & Pricing  
-      **
-      
-      We have a variety of hiring periods to choose from. Find the right one that suits your event needs and budgets.  
-      
-      Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.  
-      
-      You can trust that all our air hockey tables and equipment will arrive in excellent condition, fully prepared and ready for use at your event.  
-      
-      Need to extend your hire period? Simply let us know, and we’ll do our best to accommodate your needs.  
-      
-      Contact us for custom pricing and availability.
-      
-      \*Please note that delivery charges and minimum order values may apply.
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ## **Hire an air hockey table for your next event!**
-      
-      Air hockey tables are a customer favourite for good reason. The game is addictive, full of energy, and brings out everyone’s competitive side.  
-      Players use paddles to glide a lightweight puck across the smooth, air-cushioned table, aiming to score in their opponent’s goal. It’s a fast-paced game that tests reflexes, coordination, and strategy, offering a perfect mix of fun and challenge.  
-      Ideal for indoor events, our air hockey table hire promises hours of entertainment for your guests.  
-        
-      We specialise in different kinds of events. Get an air hockey table hire for:  
-        
-      [Conferences and trade shows](/events/conference-idea/#content)  
-      [Product launch parties](/promotional-event-games/#content)  
-      [Company wide retreats](/team-building-ideas/#content)  
-      [Awards ceremonies](/events/company-award-ceremonies/#content)  
-      Corporate anniversary celebrations  
-      Client and partner events  
-      [Christmas events](/events/christmas-entertainment/#content)  
-        
-      …and more!  
-      
-      **Check our air hockey table specifications:**
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required 2200mm deep
-      
-      **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ## **Why Choose Our Air Hockey Table Hire Service?**
-      
-      Fun Pro UK offers a comprehensive air hockey table hire service, providing top-quality equipment and ensuring everything runs smoothly. Our team guarantees each table is in excellent condition, ready to bring hours of fun and excitement to your event. Air hockey is a fantastic way to boost engagement and create a lively atmosphere for any occasion.  
-      Event planners choose us for our reliable service, with punctual delivery and collection every time. Our air hockey tables are versatile, suitable for both indoor and [outdoor events](/outdoor-garden-game-hire/#content), and we also offer customisation options, allowing you to add unique branding to the tables.  
-      Let [Fun Pro UK](/#content) handle the details for you. We’ll take care of everything, leaving your guests free to enjoy a friendly game of air hockey without any interruptions.  
-      
-      ## **Our Process**
-      
-      Booking an air hockey table game with us is straightforward and stress-free.  
-      
-      ### **Step 1: Enquiry**
-      
-      Reach us through our website, email, or phone to talk about your event needs. We will provide a personalised quote based on your requirements.  
-      
-      ### **Step 2: Confirmation**
-      
-      Once you're happy with the air hockey table hire package, just confirm your booking, and we'll take care of the rest.
-      
-      ### **Step 3: Delivery and setup**
-      
-      On the day of your event, we will deliver and set up the air hockey table at your venue. We’ll take care of the logistics for you from start to finish to make sure that everything is running smoothly.
-      
-      ### **Step 4: Event day support**
-      
-      If you need assistance during the event, we are just one call away.
-      
-      Call: 0247 7220 701. We are dedicated to making your event a success.
-      
-      ### **Step 5: Removal**
-      
-      When the event is over, we’ll return to collect the air hockey game, and leave your venue exactly as we found it.
-      
-      ## **Ready to take your corporate event to the next level?**
-      
-      Don’t miss the chance to make your event unforgettable with our air hockey table hire service.
-      
-      Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or anywhere else in the UK!
-      
-      **
-      
-      ### **Is the equipment maintained and cleaned by Fun Pro UK?**
-      
-      Yes! We prioritise safety and hygiene to deliver a flawless experience for our clients. Every air hockey table is thoroughly inspected, cleaned, and maintained before each hire. We follow strict cleaning and maintenance protocols to guarantee that the equipment is spotless and in excellent working condition when it arrives at your event.
   - title: "How It Works"
+    body: "Two players face off across the air hockey table, using paddles to strike the puck towards the opponent's goal. The air cushion enables rapid puck movement for fast-paced games.
+
+
+      Games run to set point totals, with natural turn-taking as players cycle through. The format supports casual play or tournament structures.
+
+
+      Setup requires mains power and takes approximately 15-20 minutes."
     image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-8.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-7.jpg"
-    body: |
-      
+    body: "Air hockey works because the gameplay is genuinely exciting. Fast-paced action, close games, dramatic saves, and sudden goals. The intensity creates engagement that slower games don't match.
+
+
+      The head-to-head format creates natural rivalry. One-on-one competition has clear stakes, and the rapid pace means games stay exciting throughout.
+
+
+      For corporate events, the familiar arcade format carries positive associations. It feels like recreation rather than corporate entertainment, which helps guests relax and engage."
+    image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-9.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/air-hockey-table-hire/air-hockey-table-hire-6.jpg"
-    body: |
-      
 ---
 

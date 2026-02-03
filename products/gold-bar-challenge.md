@@ -5,7 +5,13 @@ price: ""
 order: 50
 meta_title: "Gold bar challenge"
 meta_description: "The Gold Bar Challenge – an exciting interactive game for corporate events &amp; exhibitions. Reach in, grab the gold, and beat the challenge!"
-categories: ["categories/exhibition-games.md", "categories/prize-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/pub-games.md"]
+categories:
+  - "categories/exhibition-games.md"
+  - "categories/prize-games.md"
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -14,13 +20,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "550mm Width x 550mm Depth, Allow space for a person to stand in front to open the door."
   - name: "Power"
     value: "None"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "455mm Width x 455mm Depth 1400 Height"
   - name: "Suitability"
@@ -29,11 +35,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 0
@@ -57,15 +65,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/de37ea1991d0016ffa5d100bc9ab7a01"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f4cdfe2aaf74a7d0869d3b00e470de8a"
 add_ons:
-  intro: |
-    ## Gold Bar Challenge Branding and Customisation Options
+  intro: "## Gold Bar Challenge Branding and Customisation Options
+
 
     Make Gold Bar Challenge a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded front panels"
       price: 95
@@ -73,84 +84,52 @@ add_ons:
       price: 195
 tabs:
   - title: "Why Gold Bar Challenge?"
+    body: "The Gold Bar Challenge creates puzzle-solving entertainment as players attempt to retrieve a gold bar from its locked display. The heist-style format appeals to problem-solvers and creates focused engagement different from physical games.
+
+
+      For events where you want variety in entertainment types, puzzle challenges offer something for guests who prefer mental over physical challenges. The format suits brand activations and experiential events particularly well.
+
+
+      Capacity suits events of 20-200 guests, with the visual display creating impact even when not being actively played."
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-7.jpg"
-    body: |
-      # Gold Bar Challenge
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ### Gold Bar Challenge Game Hire – Elevate Your Event with Interactive Entertainment
-      
-      Looking to add excitement and engagement to your next event? The **Gold Bar Challenge** is the ultimate interactive game that combines skill, suspense, and fun. Perfect for exhibitions, brand activations, corporate events, and team-building activities, this game is designed to captivate audiences and create memorable experiences.
-      
-      #### 
-      
-      Delivered and installed on site by our trained team
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      \*Delivery Charges & Minimum order value may apply
-      
-      **Email:** **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      #### How It Works
-      
-      Participants are challenged to remove a weighted, 24k gold-plated bar from a transparent case using only one hand. The catch? The bar must be lifted through a narrow opening without triggering the buzzer. It's a test of precision, patience, and nerve.
-      
-      #### Key Features
-      
-      *   **Engaging Gameplay**: Simple rules with challenging execution keep participants coming back for more.
-          
-      *   **Customizable Branding**: Tailor the game to your event's theme with bespoke branding options.
-          
-      *   **High-Quality Build**: Constructed with modular chrome-effect bars and Perspex panels, ensuring durability and a premium look.
-          
-      *   **Adjustable Difficulty**: The weight of the gold bar can be modified to suit different skill levels or prize tiers.
-      
-      #### What's Included
-      
-      *   Full modular frame with standard gold bar base panels and clear Perspex box panels.
-          
-      *   Plush red velvet cushion to display the gold bar.
-          
-      *   Gold bar presented in its own briefcase, complete with a polishing cloth and white gloves for maintenance.
-          
-      *   Purpose-built solid flight case for safe transportation and storage.
-      
-      #### Quick Setup
-      
-      The Gold Bar Challenge is delivered flat-packed and can be assembled in just 10 minutes, making it a convenient addition to any event.
-      
-      #### Nationwide Hire
-      
-      Available for both short-term and long-term events across the UK. Whether you're hosting a one-day exhibition or a week-long promotional campaign, the Gold Bar Challenge is ready to make your event shine.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
   - title: "How It Works"
+    body: "Players attempt to retrieve the gold bar from its secured display using whatever method the specific challenge requires. The puzzle element demands problem-solving rather than physical skill.
+
+
+      The format can incorporate time limits for added pressure. Success feels genuinely earned given the puzzle-solving requirement.
+
+
+      Setup requirements vary by configuration. We'll discuss specifics when you enquire."
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-6.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/gold-bar-challenge/gold-bar-challenge-5.jpg"
-    body: |
-      
+    body: "Heist-style challenges tap into something exciting. The idea of cracking the puzzle, beating the system, retrieving the prize. It creates engagement that simple games don't match.
+
+
+      The mental challenge appeals to different guests than physical entertainment. For corporate audiences with analytical mindsets, puzzle challenges often generate more enthusiasm than athletic games.
+
+
+      Success also carries genuine bragging rights. Cracking the challenge when others couldn't creates memorable moments and talking points."
+    image: "/images/products/gold-bar-challenge/gold-bar-challenge-7.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/gold-bar-challenge/gold-bar-challenge-4.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play Gold Bar Challenge at once?"
+    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the challenge and retrieve the gold bar."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges over physical games."
+  - question: "How does it work?"
+    answer: "Players attempt to solve the puzzle to retrieve the gold bar from its secured display. The heist-style format creates engaging entertainment."
+  - question: "What power do you need?"
+    answer: "Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

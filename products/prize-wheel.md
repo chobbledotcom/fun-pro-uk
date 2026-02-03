@@ -5,7 +5,13 @@ price: "£395"
 order: 50
 meta_title: "Spin the wheel Hire, Prize Wheel of Fortune Game Hire, UK"
 meta_description: "Hire Our Spin The Wheel Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/prize-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories:
+  - "categories/prize-games.md"
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/photo-booths-and-magic-mirrors.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -14,13 +20,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "1100mm x 1100mm"
   - name: "Power"
     value: "None required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "1000mm Width x 1000mm Depth x 1900mm Height"
   - name: "Suitability"
@@ -29,11 +35,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -60,15 +68,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f8b8eec90251a65de225e06ff29111cc"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0"
 add_ons:
-  intro: |
-    ## Prize Wheel Branding and Customisation Options
+  intro: "## Prize Wheel Branding and Customisation Options
+
 
     Make Prize Wheel a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded Wheel"
       price: 140
@@ -78,129 +89,52 @@ add_ons:
       price: 190
 tabs:
   - title: "Why Prize Wheel?"
+    body: "Prize wheels bring game show entertainment to corporate events, brand activations, and celebrations. The spinning wheel format creates drama whilst providing fair, visible prize distribution that guests understand immediately.
+
+
+      For events where you need to distribute prizes in an engaging way, prize wheels deliver both entertainment and function. The format is universally understood and creates genuine anticipation.
+
+
+      The wheel can be customised with your prizes, branding, or segments. Setup is straightforward and suits events of all sizes."
     image: "/images/products/prize-wheel/prize-wheel-4.jpg"
-    body: |
-      # Prize Wheel
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Exciting Prize Wheel Hire for Events in Birmingham, London, Nottingham, and More!
-      
-      🎉 Looking to add a touch of excitement to your event? Our branded Prize Wheel is the perfect choice! 🎁 Guaranteed to be a crowd pleaser, this amazing game will entice clients to your exhibition stand, trade show booth, or in-store promotional event.
-      
-      ### Customisable and Fun for All Ages
-      
-      The Prize Wheel, also known as the Spinning Wheel, is an easy and engaging game for everyone. Each user spins the wheel to see where it lands - will it be a prize, reward, or forfeit? With customizable panels featuring your logo, slogan, or prizes, the Prize Wheel can be tailored to fit your event theme perfectly.
-      
-      ### Drive Engagement and Footfall
-      
-      Whether you're hosting a conference, wellbeing day, exhibition, or fun day, the Prize Wheel is a fantastic way to increase footfall and engage with potential clients. Watch as the excitement builds and your brand is seen far and wide throughout the event!
-      
-      ### Perfect for Family-Friendly Events
-      
-      Planning a family-friendly event? The Spin the Wheel game is a great choice for all ages. It doesn't require physical agility, just a whole lot of luck! Keep the fun going and the smiles flowing with our interactive Prize Wheel.
-      
-      ### Make Your Event Unforgettable
-      
-      With delivery available in Birmingham, London, Nottingham, Milton Keynes, Manchester, Northampton, Telford, and more, our Prize Wheel hire service is here to make your event unforgettable. Add a touch of fun and excitement that will have guests lining up for a spin!
-      
-      **Hire from**
-      
-      **£**395**\+ vat**
-      
-      Delivered and installed on site by our trained team
-      
-      \*Delivery Charges & Minimum order value may apply
-      
-      **Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ## Prize Wheel
-      
-      Guaranteed to be a crowd pleaser, this amazing branded prize wheel game will entice clients to your exhibition stand, trade show booth and instore promotional event. All you have to do is spin it to win it!
-      
-      The Wheel of Fortune is an easy game to play, each user spins the wheel to see where it stops and lands - will it be a prize, reward or a forfeit? Each panel can be customised to fit your theme and design detailing your chosen slogan, prize or logo. Whether you require 10, 15 or 30 sections to the prize wheel hire then this can be designed to meet your specification.
-      
-      The Exhibition Prize Wheel also known as the [Spinng Wheel](#content), works exceedingly well at any corporate event where you wish to increase footfall for your company thus enabling you to interact with potential new clients through a heap of competitive fun. Promotional branded game hire is a real win win for everyone with your brand being seen far and wide throughout your exhibition event or instore promotion. We can guarantee to have a queue out of your door!
-      
-      Are you planning a family-friendly event but don’t think that everyone will be excited to jump on the bouncy castle?
-      
-      The solution is a fun game that everyone can play, no matter their age.
-      
-      The Spin the Wheel hire game is a great choice for when you want a game that doesn’t require physical agility but just a whole lot of luck!
-      
-      **What Is the Wheel of Fortune Hire?**
-      
-      The Spin the wheel hire is similar to your favourite game show, or the wheel game at a circus or party.
-      
-      You’ve most likely played this game before. It involves a circular wheel on a stand. The player stands near it, gently grabs the side and makes it spin. The wheels spins until it stops.
-      
-      What makes it extra fun is that the wheel is divided up into coloured sections, such as white, blue, and red. Each section has a corresponding dollar amount to it.
-      
-      When the wheel stops spinning, the arrow at the top of the stand will point to a prize number. This number can correspond to a prize list.
-      
-      **What Kinds of Prizes Can Our Business Offer?**
-      
-      If you’re wanting to hire prize wheel game fun then you can customise the game to your preferences.
-      
-      You can create a separate poster that lists all the prizes for the numbers from 1 to 30. These numbers can correspond to numbers on the poster. The even numbers can result in a no-win, while the odd numbers can result in a win.
-      
-      Smaller numbers can involve a small prize, while the big number “30” could win the player some cash!
-      
-      Another tip you could use for your Wheel of Fortune hire is that the numbers could correspond to numbered bags which could contain a small prize.
-      
-      Ideas could include branded company merchandise, such as a pen, pencil, notebook, key ring, and more! One of the bags could also contain a big prize, such as a gift certificate to a local restaurant or shop.
-      
-      **Where Can I Find the Spin the Wheel Hire?**
-      
-      If you’re organising a big summer event for your company, business, corporation, or another type of organisation then you may be interested in booking the Spin the Wheel hire.
-      
-      You can visit our Fun Pro UK website to learn more about how to book this game for your next big event.
-      
-      You can book for a few hours or one day. If you have a multi-day event, then you can contact us to learn more about our discounted rates. When you’re ready, you can email or call us to provide a quote.
-      
-      The Wheel of Fortune hire is a great way to add some fun to your next big event! If your event is full of talks and seminars, having the participants do a spin for a prize is a great way to provide fun and relaxation during break time.
-      
-      It can also be a great way to provide some promotion and marketing to your company as a trade exhibition stand game!
-      
-      Our corporate game hire delivery team will deliver and set up to your stand, store or venue whether it be in London, Manchester, Nottingham Birmingham or further afield
-      
-      Searching for popular branded prize game hire for your next corporate exhibition or sales event? Look no further, contact us via email today.
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
   - title: "How It Works"
+    body: "Participants spin the wheel and win whatever prize the pointer lands on. The spinning creates anticipation whilst the random outcome ensures fair distribution.
+
+
+      Prizes, segments, and branding can be customised to suit your event. The format works for giveaways, promotions, or entertainment prizes.
+
+
+      Setup takes approximately 15-20 minutes. The wheel can run continuously or for scheduled prize-giving moments."
     image: "/images/products/prize-wheel/prize-wheel-3.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/prize-wheel/prize-wheel-2.jpg"
-    body: |
-      
+    body: "Prize wheels work because the format is inherently dramatic. The spinning, the slowing, the final landing. Even knowing it's random, the anticipation is genuine.
+
+
+      The television association helps too. Game show wheels are familiar, and that recognition creates immediate engagement. People understand the format and get excited by it.
+
+
+      For prize distribution specifically, the wheel format feels fair and entertaining. Winners feel lucky rather than selected, which avoids awkwardness."
+    image: "/images/products/prize-wheel/prize-wheel-4.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/prize-wheel/prize-wheel-1.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can spin the Prize Wheel at once?"
+    answer: "One spinner at a time, with the quick format maintaining good throughput whilst creating drama as the wheel slows."
+  - question: "Can we customise the segments?"
+    answer: "Yes, wheel segments can be configured with your prizes or branding. We'll discuss options when planning your event."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the spin-and-win format is universally accessible and creates excitement regardless of age."
+  - question: "Does it need power?"
+    answer: "Typically no for manual wheels, though lit versions may require power. We'll confirm based on your requirements."
 ---
 

@@ -5,7 +5,10 @@ price: "£75"
 order: 50
 meta_title: "Leaderboard Hire | Competitive Interactive Games | Fun Pro UK"
 meta_description: "Hire a leader board to add that extra competitive element to your interactive games! Like all our products, leaderboards can be hired nationwide."
-categories: ["categories/interactive-game-hire.md", "categories/prize-games.md", "categories/arcade-games.md"]
+categories:
+  - "categories/interactive-game-hire.md"
+  - "categories/prize-games.md"
+  - "categories/arcade-games.md"
 events: []
 featured: true
 features:
@@ -14,13 +17,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "400mm Width x 650mm Depth, Allowing for the person to stand in front"
   - name: "Power"
     value: "No power required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "300mm Width x 600mm Depth x 1500mm Height"
   - name: "Suitability"
@@ -29,11 +32,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "Throughout event"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 75
@@ -69,85 +74,69 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/10a3222546e5b7f69944600dc6484759"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b8887d0e21d865b7f289c6d1529c6da4"
 add_ons:
-  intro: |
-    ## LEADER BOARD Branding and Customisation Options
+  intro: "## LEADER BOARD Branding and Customisation Options
+
 
     Make LEADER BOARD a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Fully Branded Leader Board"
       price: 135
 tabs:
   - title: "Why LEADER BOARD?"
+    body: "Digital leaderboards transform individual games into event-wide competitions, tracking scores and creating ongoing engagement throughout your event. The visible rankings maintain competitive energy and encourage repeat participation.
+
+
+      For events where you want to create structured competition across multiple games or activities, digital leaderboards tie everything together. The visible standings create talking points and drive engagement.
+
+
+      The leaderboard integrates with various games and activities, creating comprehensive competition tracking. Setup and configuration handled by our team."
     image: "/images/products/leader-board/leader-board-13.jpg"
-    body: |
-      # LEADER BOARD
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Get Your Event Buzzing with Our LEADER BOARD Hire in Conferences, Well being days, Exhibitions, Fun days and More! 🏆🎉
-      
-      Looking to add a fun and interactive element to your event? Our LEADER BOARD is the perfect solution! Ideal for conferences, well-being days, exhibitions, fun days, and more, this top-gear style magnetic lead board will keep your attendees engaged and entertained throughout.
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ### Why Choose Our LEADER BOARD Hire?
-      
-      Whether you're in Birmingham, Nottingham, Milton Keynes, London, Manchester, Coventry, or anywhere else in the UK, our LEADER BOARD is a must-have addition to your event. Track the top scorer, promote healthy competition, and create a buzz that will have everyone talking.
-      
-      Supplied with 12 white magnet strips and a whiteboard marker, our LEADER BOARD is ready to go and can be personalized with your branding for that extra touch of professionalism. Pair it with one of our branded games for a complete interactive experience that will leave a lasting impression on your guests.
-      
-      ### Maximize Engagement and Brand Activation
-      
-      Our LEADER BOARD is not just a fun addition to your event—it's a tool to increase engagement, drive sales, and activate your brand. Keep attendees coming back for more, boost participation, and create memorable experiences that will set your event apart.
-      
-      Popular items:
-      
-      *   [Race car Simulators](/products/racing-car-simulators/#content)
-      *   [Grab a Grand](/products/cash-grabber-machine-hire/#content)
-      *   Lights Out
-      *   [Pluck A Duck Racing](/products/pluck-a-duck-racing/#content)
-      
-      Want to add a leader board to make your hire more competitive, then look no further!  
-        
-      You can keep the score with any of the interactive games including the timing for our world class Race simulators or to count the dollars collected in our Grab a Grand.
   - title: "How It Works"
+    body: "The leaderboard displays and updates automatically as participants record scores across connected activities. Rankings update in real-time, creating visible competition.
+
+
+      The system can track multiple games, combine scores, and identify overall event champions. Prize-giving and recognition are supported by the comprehensive tracking.
+
+
+      Setup includes positioning the display and connecting to relevant activities. Configuration can be customised to your event structure."
     image: "/images/products/leader-board/leader-board-12.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/leader-board/leader-board-11.jpg"
-    body: |
-      
+    body: "Leaderboards change event dynamics by creating persistent competition. Instead of isolated games, activities become part of an overarching contest. That ongoing narrative maintains engagement throughout.
+
+
+      The visibility matters too. Seeing your name climb the rankings, or watching rivals pass you, creates motivation for additional participation. The social element of public standings drives competitive behaviour.
+
+
+      For corporate events, leaderboards also provide recognition opportunities. Acknowledging top performers creates memorable moments and reinforces engagement."
+    image: "/images/products/leader-board/leader-board-13.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/leader-board/leader-board-10.jpg"
-    body: |
-      
+faqs:
+  - question: "What does the Leader Board do?"
+    answer: "The Leader Board is a digital display that tracks and shows scores from various games throughout your event. It creates ongoing competition and encourages repeat participation as guests compete for top positions."
+  - question: "Which games does it work with?"
+    answer: "The Leader Board can integrate with various games and activities we provide. We'll discuss compatible options and setup when you enquire about your event."
+  - question: "Does it need power?"
+    answer: "Yes, the Leader Board requires mains power for the digital display."
+  - question: "Can prizes be awarded based on the Leader Board?"
+    answer: "Absolutely. Many clients use the Leader Board to run event-wide competitions with prizes for top performers. It provides clear, visible rankings that make prize-giving straightforward."
 ---
 

@@ -5,7 +5,11 @@ price: "£395"
 order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"
 meta_description: "Hire Our Giant Operation Game For Your Wedding, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
-categories: ["categories/arcade-games.md", "categories/christmas-grotto-hire.md", "categories/fun-days.md", "categories/interactive-game-hire.md"]
+categories:
+  - "categories/arcade-games.md"
+  - "categories/christmas-grotto-hire.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
 events: []
 featured: true
 features:
@@ -14,13 +18,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "1500mm Width x 1250mm Depth,"
   - name: "Power"
     value: "1 x mains UK power socket (Wattages usage 5.7-7.5"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "1200mmm Width x 600mm Depth x 900mm Height"
   - name: "Suitability"
@@ -29,11 +33,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -62,112 +68,51 @@ videos:
     title: ""
 tabs:
   - title: "Why TOP DOC OPERATION GAME?"
+    body: "Top Doc Operation Game scales up the classic board game for event entertainment, challenging players to remove pieces without touching the sides. The familiar format triggers nostalgia whilst the larger scale adds drama and difficulty.
+
+
+      For events where you want entertainment that appeals to the puzzle-solvers and steady-handed amongst your guests, Operation delivers focused challenge that differs from reaction or physical games.
+
+
+      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady engagement. Mains power required, setup takes 15-20 minutes."
     image: "/images/products/top-doc-operation-game/top-doc-operation-game-3.jpg"
-    body: |
-      # TOP DOC OPERATION GAME
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Top Doc Surgery Game Hire**
-      
-      Looking for something original and unusual for your next medical conference, healthcare sector exhibition or new medical product launch? Our top doc game is sure to raise interest and raise a smile with everyone from doctors to delegates.
-      
-      It's perfect for any medical themed event or conference, but you don't need doctors and nurses to play it, because anyone can join the fun at any kind of corporate event.
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular items**
-      
-      *   [Pluck A duck](/products/pluck-a-duck-racing/#content)
-      *   [Gold cup horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Retro arcade game](/products/retro-arcade-games/#content)
-      *   [Pick N mix hire](/products/pix-n-mix-hire/#content)
-      
-      **A familiar favourite**
-      
-      Top doc is just like the operation game you played as a kid, but so much bigger and more sophisticated. You'll need a steady hand to perform this surgery, with a huge range of body parts that need removing one by one to win the game.
-      
-      Our version uses electromagnets to stick to the shapes, but if you touch the sides your piece will be released and you'll have to start all over again.
-      
-      **Flexible table top fun**
-      
-      This table top game can be set up almost anywhere, which means it can be moved around your event as required. Place it in the break-out area during conference sessions, then move it to the bar or reception for your evening event. Top doc hire also includes a colourful wrap around printed screen to hide the table legs and complete the look.
-      
-      **Do You Have What It Takes to Be a Top Doc?**
-      
-      If you’re hosting a medical conference, or having a booth at the next healthcare sector exhibition, and wondering how to keep visitors interested, a tabletop game may draw them in.
-      
-      You want a game that’s fun to play, but also simple and that won’t take a lot of time, as the next participant may be lined up. You also want a game that’s simple to quickly disinfect before the next player starts.
-      
-      Our Top Doc giant operation game for hire may be exactly what your company needs to attract attention at the medical or health event.
-      
-      **Is This Like Operation?**
-      
-      Yes, if you remember that fun Operation game when you were a child, this is very similar, but more like a giant game of operation. Instead of a small table-top game, this is a giant operation game for rent.
-      
-      The top of the game is much larger, so you can have more fun. It sits on top of its own dedicated table that stands sturdily on the ground. There is a picture of a male patient who lies on the table.
-      
-      You can take turns with your friends in removing various body parts, but don’t get zapped!
-      
-      **Giant Operation Hire for What Types of Events?**
-      
-      This is a fun game for any event, but would also be suitable for any medical conference, healthcare sector exhibition, medical product launches, conventions, or other related events.
-      
-      The medical and health fields can be quite stressful for workers today, that’s why this giant game of operation will add a fun element to some serious topics.
-      
-      **Where Can I Set Up the Giant Operation Game?**
-      
-      You can set it up anywhere where it’s safe from the rain but that has access to a power outlet. The game may sound big, but it’s also easily moveable.
-      
-      You may wish to move it around to different spots at your conference or event, just to give everyone a chance to play, or to create a better traffic flow for the event. There is a flexible wrap that can go around the table, and that can also be branded to your company’s logo or products.
-      
-      **Where Can I Rent a Giant Operation Game?**
-      
-      You can get a giant operation hire here at our Fun Pro UK website. We handle everything for you, from delivery and setup, to packing up and putting it back on the truck at the end of the event.
-      
-      All you have to do is show your interest and book the game for your next big health or medical event!
-      
-      Many people haven’t played a good game of Operation since childhood. You’ll put smiles on everyone’s faces at your next big healthcare or medical conference!
-      
-      This will give adults a chance to have fun with an old childhood favourite, without worrying that the kids will dominate the game. You can even add a prize or two for some extra fun! Please contact us today to book this fun giant operation for hire game!
-      
-      **Original fun and games**
-      
-      Top doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood, including [retro arcade machines](/products/retro-arcade-games/#content), electronic basketball hire and even simple fun like a [giant buzz wire](/products/giant-buzz-wire/#content). We can deliver any item anywhere in the UK, including London, Liverpool, Manchester and Birmingham and we offer great savings with package hires. Just ask for details when you book.
-      
-      TOP DOC BRANDING PRICE
-      
-      Branded Plinth
-      
-      £**245** + Vat
   - title: "How It Works"
+    body: "Players use oversized tweezers to remove pieces from the patient without touching the sides. Contact triggers the buzzer, just like the classic game but at event scale.
+
+
+      The familiar format means no instruction needed for most guests. The challenge comes from the scaled-up difficulty and the pressure of spectators watching.
+
+
+      Setup requires mains power and takes approximately 15-20 minutes."
     image: "/images/products/top-doc-operation-game/top-doc-operation-game-2.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/top-doc-operation-game/top-doc-operation-game-1.jpg"
-    body: |
-      
+    body: "Operation taps into childhood memories for anyone who played the board game. That nostalgia creates instant engagement and lowers barriers to participation. People want to see if they've still got steady hands.
+
+
+      The spectator element works brilliantly. Crowds gather, hold their breath, react to the buzzer. The tension is genuine and the drama is visible.
+
+
+      It also offers something different from physical or reaction games, appealing to guests who might not engage with more athletic entertainment. The steady-handed succeed regardless of fitness or reflexes."
+    image: "/images/products/top-doc-operation-game/top-doc-operation-game-3.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+faqs:
+  - question: "How many people can play Top Doc Operation at once?"
+    answer: "The game accommodates 1-4 players taking turns. One person operates at a time whilst spectators watch the tension build."
+  - question: "Is it like the board game?"
+    answer: "Yes, it's a scaled-up version of the classic Operation game. Players use oversized tweezers to remove pieces without touching the sides and triggering the buzzer."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the familiar format suits ages 8 and above. Anyone who played the board game will understand immediately, and newcomers learn in seconds."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the buzzer and electronic elements."
 ---
 

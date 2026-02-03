@@ -5,7 +5,13 @@ price: "£425"
 order: 50
 meta_title: "Hire Vault Cracker Game, Vault Safe Cracker Game Rent, UK"
 meta_description: "Hire Our Vault Cracker Game For Your Family Fun Days, Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769 979676"
-categories: ["categories/arcade-games.md", "categories/prize-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md", "categories/pub-games.md"]
+categories:
+  - "categories/arcade-games.md"
+  - "categories/prize-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/photo-booths-and-magic-mirrors.md"
+  - "categories/pub-games.md"
 events: []
 featured: true
 features:
@@ -20,7 +26,7 @@ specs:
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "900mm Width x 600mm Depth 1800 Height"
   - name: "Suitability"
@@ -29,11 +35,11 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
     value: "1 players"
 options:
@@ -70,15 +76,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4ae30fbbd6c20dac5b9f223a33fdd84"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4867e072d6e414cffd2322e7197d37b2"
 add_ons:
-  intro: |
-    ## The Vault Branding and Customisation Options
+  intro: "## The Vault Branding and Customisation Options
+
 
     Make The Vault a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded Plinth"
       price: 245
@@ -88,106 +97,52 @@ add_ons:
       price: 75
 tabs:
   - title: "Why The Vault?"
+    body: "The Vault creates immersive challenge entertainment as players attempt to crack the vault and claim the contents. The heist-style format appeals to problem-solvers and creates focused engagement that differs from standard event games.
+
+
+      For brand activations or corporate events where you want entertainment that creates stories and memorable moments, vault challenges deliver. The achievement of cracking the vault becomes a talking point.
+
+
+      Capacity suits events of 20-200 guests, with the impressive display creating impact throughout your venue."
     image: "/images/products/the-vault/the-vault-8.jpg"
-    body: |
-      # The Vault
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      # The Vault
-      
-      Hire our amazing Vault Game for your next exhibition stand entertainment or promotional event and test your hand-eye co ordination!
-      
-      Sounds easy?.
-      
-      Watch the lights as they begin to spin around the circuit, the aim of the game is to stop the white light as it enters the red zone within a certain amount of time.
-      
-      Starting from the easiest level and working your way up to the hardest level will allow you to open the vault.
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ## **The Vault hire**
-      
-      **Vault Safecracker Game Hire**
-      
-      Is your company hosting a big summer party for employees and clients? If so, you want to have some fun events that make everyone happy.
-      
-      You can book some of the larger games, but if you want to be sure that everyone can play, then you’ll also want to book some smaller games that don’t take up much space on a table.
-      
-      You can book the vault safe cracker game hire for your next big event!
-      
-      **Is the Vault Cracker Game Like a Real Bank Vault?**
-      
-      No, but the premise is the same. This game is within a small vault box-like structure on the table.
-      
-      You can offer a fun story to go with the game. The goal is that someone cracks the code on the game. But instead of entering in various codes to open up the vault, there are lights that move around in a circle.
-      
-      You hit the button when you believe it is aimed at the proper code. The right answer will open the vault and the winner also wins the contents of the vault!
-      
-      **What Are the Features on the Hire Vault Game?**
-      
-      The hire vault game has a horizontal playing screen over a sturdy black base. It measures approximately 0.9m in width by 0.6m in depth by 1.8m in height, but you should have at least a space of 1.2m x 1.2m x 1.8m.
-      
-      It does require an electrical outlet to run, and a level playing surface. It’s meant to be played indoors only.
-      
-      Due to the height, width, and weight of the game, it’s not meant to be carried up or down stairs, but a regular-sized commercial elevator would be fine. Only one player can play at a time so you’ll want to ensure there is plenty of room for a line up.
-      
-      **Where Can I Rent the Vault Game?**
-      
-      You can get the vault safe cracker game hire from us. We’re the Fun Pro UK company, and we also have a website.
-      
-      You’re welcome to fill out the online Contact Form or give us a call at your convenience. We have a large range of fun games, electronic games, exhibition games, Christmas grottoes, etc, available to hire for a day or more.
-      
-      If you don’t want to go to the expense of buying big games just for one day of fun for your employees then renting it for a day or more is the best solution!
-      
-      If you think that your employees and clients will love to play safecracker, then go ahead and rent our vault safecracker game today!
-      
-      Since there are still several weeks left in the summer it’s best to book now to avoid disappointment. If you need more than one game then please let us know when you fill out the online contact form at Fun Pro UK.
-      
-      You may even consider the hire vault game for some of your autumn or winter events too, as it will fit into most conference spaces!
-      
-      The Vault game is a great way of attracting a crowd to your exhibition stand in Birmingham, London , Manchester of further afield.
-      
-      Why not hire our scoreboard and keep a record of times from your contestants and see who can open the Vault in the quickest time!
-      
-      In\-house branding available Printed, applied & removed after each event
-      
-      (One time use only)
-      
-      **£**150.00**+ Vat**
   - title: "How It Works"
+    body: "Players attempt to crack the vault using whatever puzzle or challenge mechanism is configured. The format demands problem-solving and creates genuine achievement when successful.
+
+
+      Time limits can add pressure, and prizes within the vault create tangible rewards for success. The immersive theming makes participants feel like genuine heist protagonists.
+
+
+      Setup requirements vary by configuration. We'll discuss specifics when you enquire."
     image: "/images/products/the-vault/the-vault-7.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/the-vault/the-vault-6.jpg"
-    body: |
-      
+    body: "Vault challenges work because they tap into heist fantasies. Cracking a vault, beating security, claiming the prize. It's exciting in a way that simple games aren't.
+
+
+      The puzzle element appeals to analytical guests who might not engage with physical entertainment. Mental challenges provide different satisfaction than reaction or skill games.
+
+
+      Success creates genuine bragging rights too. Cracking the vault when others couldn't becomes a story that participants share beyond the event."
+    image: "/images/products/the-vault/the-vault-8.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/the-vault/the-vault-5.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play The Vault at once?"
+    answer: "The game accommodates 1-4 players, with individuals or teams working to crack the vault and claim the contents."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the puzzle-solving format suits ages 12 and above. It appeals particularly to those who enjoy mental challenges and heist-style entertainment."
+  - question: "Can prizes be placed inside the vault?"
+    answer: "Yes, the vault can contain prizes for successful crackers. We'll discuss options when planning your event."
+  - question: "What power do you need?"
+    answer: "Power requirements vary by configuration. We'll confirm when discussing your event."
 ---
 

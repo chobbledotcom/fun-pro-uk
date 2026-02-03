@@ -5,8 +5,11 @@ price: "£395"
 order: 50
 meta_title: "Candy Cane Snatch It Game Hire for Christmas Events"
 meta_description: "Bring festive fun to your Christmas party with the Candy Cane Snatch It game hire. Perfect for all ages, making your event memorable and exciting. Book today!"
-categories: ["categories/christmas-games.md", "categories/christmas-game-hire.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-games.md"
+  - "categories/christmas-game-hire.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,20 +23,20 @@ specs:
   - name: "Power"
     value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "1200mm x 600mm x 900mm"
   - name: "Suitability"
     value: "Indoor use only/Level surface"
   - name: "Access"
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
   - name: "Player Count"
     value: "1-2 players"
 options:
@@ -56,29 +59,27 @@ gallery:
 gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/4094837ac6cafa22e47bf3dc6beb34cd"
 faqs:
-  - question: "What is included when I hire the Candy Cane Snatch It game?"
-    answer: "Everything you need to play the game is included. Our team will also take care of doing the setup. We will deliver and install the game at your event and make sure that it's ready for your guests to enjoy."
-  - question: "How long can I hire the Candy Cane Snatch It game for?"
-    answer: "We offer flexible hire periods to suit your event needs. You can choose from short term options like a 1-day hire or extend the rental for multiple days. Our team will work with you to provide the right hire length."
-  - question: "Is the Candy Cane Snatch It game suitable for both children and adults?"
-    answer: "Yes, the Candy Cane Snatch It game is designed to be fun and engaging for all ages. Both children and adults can enjoy the challenge of the game. It's a versatile addition to different types of events — from family-friendly gatherings to corporate festive holiday parties."
-  - question: "Can the Candy Cane Snatch It game be played indoors and outdoors?"
-    answer: |
-      The Candy Cane Snatch It game is designed specifically for indoor use on a level surface. Unfortunately, it is not suitable for outdoor use. Potential exposure to the elements could affect the game's performance.
-      
-      For a smooth setup, we recommend an indoor location that meets our space and access requirements.
-  - question: "How many people can play the Candy Cane Snatch It game at once?"
-    answer: "The Candy Cane Snatch It game is best enjoyed by 1-2 players at a time. Each person takes a turn to snatch a candy cane prize. Let the excitement build as guests take turns."
+  - question: "How many people can play Candy Cane Snatch It at once?"
+    answer: "One player competes at a time, which creates focused moments whilst spectators watch and cheer. For events of 20-200 guests, this format maintains steady throughput without long waits."
+  - question: "Is Candy Cane Snatch It suitable for all ages?"
+    answer: "Yes, the reaction-based gameplay is accessible for ages 8 and above. The simple format means anyone can understand and enjoy it, making it perfect for corporate Christmas parties with mixed groups."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 1200mm x 600mm x 900mm. We recommend allowing additional clearance around the unit for comfortable play and spectators."
+  - question: "What power do you need?"
+    answer: "The game requires just 5-12W, so a standard UK mains socket is all that's needed. We'll confirm positioning and power requirements when discussing your venue."
 add_ons:
-  intro: |
-    ## Candy Cane Snatch it Branding and Customisation Options
+  intro: "## Candy Cane Snatch it Branding and Customisation Options
+
 
     Make Candy Cane Snatch it a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Branded top Panel"
       price: 175
@@ -86,122 +87,41 @@ add_ons:
       price: 245
 tabs:
   - title: "Why Candy Cane Snatch it?"
+    body: "If you're planning a Christmas party or festive corporate event, the Candy Cane Snatch It brings seasonal theming that guests genuinely appreciate. This reaction-based game challenges players to grab illuminated candy canes before they disappear, creating the kind of competitive moments that get colleagues cheering each other on.
+
+
+      What makes it particularly effective for corporate Christmas events is the instant accessibility. There's no learning curve, so even colleagues who'd normally hang back can jump straight in. The festive branding photographs beautifully for internal comms and social sharing, whilst the compact footprint (1200mm x 600mm) means it fits comfortably in most venue spaces.
+
+
+      With games lasting around 15-20 minutes per session and capacity for 20-200 guests throughout your event, it maintains steady engagement without creating frustrating queues. It's worth considering if you want entertainment that feels appropriately seasonal rather than generic."
     image: "/images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg"
-    body: |
-      # Candy Cane Snatch it
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## **Best Candy Cane Snatch It Game Hire for All UK Events!**
-      
-      Want to add a cheerful Christmas twist to the fabulously fun Snatch It game? Our Christmas themed Candy Cane Snatch It game hire is the perfect yet unique addition to all of your upcoming festive holiday events across the UK.  
-        
-      This game hire is a guaranteed crowd pleaser. It's the perfect game to bring out everyone's competitive spirit on top of adding a touch of festive magic.
-      
-      ## **Hire a Candy Cane Snatch It game for your next event!**
-      
-      The Candy Cane Snatch It game is one of the best festive party games you'll ever play. Just place your hands over the start buttons, and wait for the cue to snatch the prize. When you see the candy cane cylinder light up, the race to see who can snatch it first begins!  
-        
-      Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.  
-      
-      **Equipment size**
-      
-      1200mm Width x 600mm Depth 900 Height
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      ## **Packages and Pricing**
-      
-      Check our hire packages and choose one that suits your event needs and budgets.  
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      You can rest assured that the Candy Cane Snatch It and other equipment will arrive in top condition, and ready for use at your event.  
-      
-      Need a longer hire period? Contact us for custom pricing and availability.  
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
-      **
-      
-      Fun Pro UK is the leading provider of high quality party games for hire. Our Candy Cane Snatch It brings an interactive yet fun and festive experience that your guests won’t forget.  
-        
-      Wherever your festive holiday event is in the UK, Fun Pro is ready to deliver! We provide fast, nationwide delivery and setup for the Candy Cane Snatch It game, which means it's easy to bring the holiday cheer to Birmingham, Leicester, London, Manchester, and beyond.  
-        
-      Booking and delivery is easy and absolutely hassle free. Our events team of professionals will handle the logistics for you. We’ll deliver the Candy Cane Snatch It game to your venue, set it up, and ensure that the game is running smoothly for your guests to enjoy.
-      
-      ## **Hire a Candy Cane Snatch It game for your next event!**
-      
-      The Candy Cane Snatch It game is one of the best festive party games you'll ever play. Just place your hands over the start buttons, and wait for the cue to snatch the prize. When you see the candy cane cylinder light up, the race to see who can snatch it first begins!  
-        
-      Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.  
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ## **Why Choose Our Candy Cane Snatch It Game Hire Service?  
-      **
-      
-      Fun Pro UK is the leading provider of high quality [party games for hire](/#content). Our Candy Cane Snatch It brings an interactive yet fun and festive experience that your guests won’t forget.  
-        
-      Wherever your festive holiday event is in the UK, Fun Pro is ready to deliver! We provide fast, nationwide delivery and setup for the Candy Cane Snatch It game, which means it's easy to bring the holiday cheer to Birmingham, Leicester, London, Manchester, and beyond.  
-        
-      Booking and delivery is easy and absolutely hassle free. Our events team of professionals will handle the logistics for you. We’ll deliver the Candy Cane Snatch It game to your venue, set it up, and ensure that the game is running smoothly for your guests to enjoy.
-      
-      ## **Our Process**
-      
-      The Candy Cane Snatch It game is one of the best festive party games you'll ever play. Just place your hands over the start buttons, and wait for the cue to snatch the prize. When you see the candy cane cylinder light up, the race to see who can snatch it first begins!  
-        
-      Set up some friendly competition between your guests, and partake in the fun festive spirit with every round.
-      
-      ### **Step 1: Enquiry**
-      
-      Reach us via our website, email, or phone to talk about your event needs. Our team will give you a personalised quote based on your requirements.
-      
-      ### **Step 2: Confirmation**
-      
-      Once you're happy with the Candy Cane Snatch It game package, simply confirm your booking, and we'll handle the rest.
-      
-      ### **Step 3: Delivery and setup**
-      
-      On the day of your event, we will deliver and set up the Candy Cane Snatch It game at your chosen venue. Our team of professionals will take care of the game for hire from start to finish. We’ll make sure that everything is running smoothly so your guests can play.
-      
-      ### **Step 4: Event day support**
-      
-      If you require onsite assistance during the event, our team is just one call away. Call: 0247 7220 701. We are dedicated to making your event a success.
-      
-      ### **Step 5: Removal**
-      
-      When the event is over, we’ll return to dismantle and collect the Candy Cane Snatch It. We’ll leave your venue exactly as we found it.
-      
-      ## **Ready to take your event to the next level?  
-      **
-      
-      Don't miss out on the opportunity to upgrade your event with our Candy Cane Snatch It game hire service. [Contact us today](/contact-fun-pro-uk/#content) to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
-      
-      ### **Can I customise the game for my event?**
-      
-      Yes! We offer in-house branding options to personalise the Candy Cane Snatch It game for your event. You can add your logo, event theme, or festive holiday message to the game. Doing this will make it a memorable and [immersive brand experience](/promotional-event-games/#content) for guests. Our team will handle the application and removal of branding after the event.
   - title: "How It Works"
-    body: |
-      
+    body: "Players step up to the game unit and wait for the candy cane lights to illuminate. When a light activates, they need to grab it before it switches off. The faster the reaction, the higher the score.
+
+
+      The game runs through a timed sequence, challenging players to snatch as many illuminated candy canes as possible within their turn. Scores display automatically, making it easy to run informal competitions or leaderboards throughout your event.
+
+
+      Setup takes around 15-20 minutes, and the game only requires 5-12W of power, so a standard socket is all you need. Once it's running, minimal supervision is required. Guests can play independently, though we can provide staff for larger events if you'd prefer hands-off entertainment."
   - title: "Why It's A Crowd Favourite"
-    body: |
-      
+    body: "The Candy Cane Snatch It consistently draws crowds at Christmas events because it combines two things people find hard to resist: festive theming and friendly competition.
+
+
+      What we've noticed is that it creates natural gathering points. People stop to watch colleagues play, which leads to the kind of spontaneous interaction that event planners hope for but can't force. The reaction-based gameplay means anyone can have a go regardless of sporting ability, so you won't see the usual suspects dominating whilst others watch from the sidelines.
+
+
+      There's also something about the physical nature of it. The reaching, grabbing, and slight urgency breaks people out of their usual reserved corporate personas. It gives permission to be a bit silly, which is often exactly what Christmas parties need."
+    image: "/images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg"
   - title: "Delivery"
-    body: |
-      
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
 ---
 

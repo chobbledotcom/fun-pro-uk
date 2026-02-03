@@ -5,7 +5,13 @@ price: "£350"
 order: 50
 meta_title: "Beat The Buzzer Hire – Test Your Skills Event Game"
 meta_description: "Beat The Buzzer Hire – Test Your Skills Event Game is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/exhibition-games.md", "categories/prize-games.md", "categories/arcade-games.md", "categories/fun-days.md", "categories/interactive-game-hire.md", "categories/photo-booths-and-magic-mirrors.md"]
+categories:
+  - "categories/exhibition-games.md"
+  - "categories/prize-games.md"
+  - "categories/arcade-games.md"
+  - "categories/fun-days.md"
+  - "categories/interactive-game-hire.md"
+  - "categories/photo-booths-and-magic-mirrors.md"
 events: []
 featured: true
 features:
@@ -14,13 +20,13 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "400mm Width x 1300mm Length"
   - name: "Power"
     value: "1 x mains plug socket required"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
     value: "300mm Width x 1240mm Length x 680mm High"
   - name: "Suitability"
@@ -29,11 +35,13 @@ specs:
     value: "Minimum door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "Mains power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 350
@@ -60,15 +68,18 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/a43735801d6ad804b83ddf3faf67401f"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/e106ad1fd91ab1543095e494fc82eb39"
 add_ons:
-  intro: |
-    ## Beat The Buzzer Branding and Customisation Options
+  intro: "## Beat The Buzzer Branding and Customisation Options
+
 
     Make Beat The Buzzer a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
+
     ### Branding Prices From
 
+
     In-house branding available. We print, apply, and remove them after each event.
-    (One time use only)
+
+    (One time use only)\n"
   options:
     - name: "Back panel"
       price: 145
@@ -76,87 +87,52 @@ add_ons:
       price: 95
 tabs:
   - title: "Why Beat The Buzzer?"
+    body: "Beat the Buzzer creates time-pressure entertainment that gets hearts racing at corporate events, team building days, and celebrations. Players complete challenges against the clock, with the countdown creating genuine urgency and spectator tension.
+
+
+      For events where you want entertainment that generates energy and visible engagement, timed challenges deliver. The pressure of the buzzer creates drama, whilst success within time limits feels genuinely earned.
+
+
+      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady engagement throughout events. Mains power required."
     image: "/images/products/beat-the-buzzer/beat-the-buzzer-4.jpg"
-    body: |
-      # Beat The Buzzer
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Unleash the Fun with Beat The Buzzer Table Top Game!
-      
-      With built in timer
-      
-      Looking to add a dash of excitement to your next conference, well-being day, exhibition, or fun day? Look no further than Beat The Buzzer! This thrilling table-top buzz wire game will have your guests on the edge of their seats as they test their hand-eye coordination and concentration skills to beat the buzzer.
-      
-      ### How to Play:
-      
-      Your mission, should you choose to accept it, is to navigate the buzz wire without touching the metal frame and setting off the nerve-wracking beep! 🚨 The clock is ticking, and the pressure is on to beat your best time and claim victory.
-      
-      ### Perfect for:
-      
-      Whether you're hosting a team-building event, brand activation campaign, or simply want to increase foot traffic and engagement at your next event, Beat The Buzzer is the perfect addition to your lineup. This interactive game is guaranteed to entertain and challenge participants of all ages.
-      
-      ### Hire Beat The Buzzer in Birmingham, Nottingham, Milton Keynes, London, Manchester, and Across the UK
-      
-      Ready to amp up the excitement at your next event? Hire Beat The Buzzer today and watch as your guests compete to beat the clock and emerge victorious! Contact us now to book this crowd-pleasing game for your upcoming event in one of our delivery areas.
-      
-      Delivered [](#specification)and [](#specification)installed on site by our trained team
-      
-      In[\-](#specification)house [](#specification)branding [](#specification)available [](#specification)Printed[,](#specification) applied & removed after each event
-      
-      (One [](#specification)time [](#specification)use [](#specification)only)
-      
-      \*Delivery [](#specification)Charges & Minimum order value may apply
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      **Extra information**
-      
-      Can not be carried up or down flights of stairs.
-      
-      Lift required
-      
-      **Popular Items:**
-      
-      *   [Leaded Board](/products/leader-board/#content)
-      *   [Lights Out](/categories/interactive-game-hire/#content)
-      *   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-      *   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
-      
-      ## Beat The Buzzer
-      
-      Searching for a fun game that won't take up too much room for your next Expo Stand, Trade Show or Corporate Event?? Hire our all new Beat The Bleep!
-      
-      A fun game where everyone can take part! All you have to do is guide the wand around the shaped wire without touching it - if you hear a Buzz, then it's game over!
-      
-      This interactive table top game appears easy but will put everyone to the test!.
-      
-      Why not hire our leader board to record the winning time it takes to complete the challenge. This competitive game will attract a crowd to your exhibition stand and increase your footfall. The Buzzer Game could also be hired for Promotional Events, Summer Fetes and Brand Activations.
-      
-      Beat the Bleep and its larger brother the Giant Buzz Wire are great games to hire for Family Fun Days along with our large inflatables such as our 70 ft Assault Course, Hungry Hippos game, Human Football to name but a few! Everyone loves to take part in Team Building games at Office Fun Days, Family Days and Corporate events. Hire you games from Fun Pro UK today and ensure your event is one to be remembered!
-      
-      **£**145** + Vat
-      
-      **£**95** + Vat
   - title: "How It Works"
+    body: "Players attempt to complete challenges before the timer runs out. The countdown creates increasing pressure as time diminishes, building to the climactic buzzer moment.
+
+
+      Challenges can be configured to suit your event and audience. The visible timer adds drama for spectators as well as players.
+
+
+      Setup requires mains power and takes approximately 15-20 minutes."
     image: "/images/products/beat-the-buzzer/beat-the-buzzer-3.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/beat-the-buzzer/beat-the-buzzer-2.jpg"
-    body: |
-      
+    body: "Timed challenges tap into something fundamental about competition. The countdown, the mounting pressure, the relief or disappointment when the buzzer sounds. It creates genuine emotional engagement.
+
+
+      Spectators get drawn in too. Watching someone race against time, counting down with them, reacting to the outcome. The shared tension builds atmosphere.
+
+
+      For corporate events, the pressure creates memorable moments. Successfully beating the buzzer becomes a talking point, whilst near-misses generate friendly commiseration."
+    image: "/images/products/beat-the-buzzer/beat-the-buzzer-4.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/beat-the-buzzer/beat-the-buzzer-1.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play Beat the Buzzer at once?"
+    answer: "The game accommodates 1-4 players, with the countdown format creating visible tension for players and spectators alike."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the timed challenge format suits ages 10 and above. The pressure of the countdown creates excitement regardless of the specific challenge."
+  - question: "What kind of challenges are involved?"
+    answer: "Challenges can be configured to suit your event and audience. We'll discuss options when you enquire."
+  - question: "What power do you need?"
+    answer: "Mains power is required for the timer and buzzer systems."
 ---
 

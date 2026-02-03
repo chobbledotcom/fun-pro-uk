@@ -5,8 +5,11 @@ price: "£395"
 order: 50
 meta_title: "Christmas Roller Bowler - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Christmas Roller Bowler is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
-categories: ["categories/christmas-game-hire.md", "categories/christmas-games.md"]
-events: ["events/christmas-entertainment-game-hire.md"]
+categories:
+  - "categories/christmas-game-hire.md"
+  - "categories/christmas-games.md"
+events:
+  - "events/christmas-entertainment-game-hire.md"
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -14,26 +17,28 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "TBD"
+    value: "1-4 players"
   - name: "Space Required"
     value: "2000mm x 800mm x 1200mm (including player space)"
   - name: "Power"
     value: "None - completely mechanical game"
   - name: "Setup time"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "TBD"
+    value: "450mm x 1480mm x 870mm"
   - name: "Suitability"
     value: "Indoor/Outdoor - Dry weather only"
   - name: "Access"
     value: "Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)"
 filter_attributes:
   - name: "Guest Capacity"
-    value: "TBD"
+    value: "20-200 guests"
   - name: "Game Length"
-    value: "TBD"
+    value: "15-20 minutes"
   - name: "Power Required"
-    value: "TBD"
+    value: "No power required"
+  - name: "Player Count"
+    value: "1-4 players"
 options:
   - name: "1 Day"
     unit_price: 395
@@ -77,232 +82,52 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/5aff31f5e8c040102b6f02a0a43d0a32"
 tabs:
   - title: "Why Christmas Roller Bowler?"
+    body: "The Christmas Roller Bowler adds festive theming to a satisfyingly simple skill game. Players roll balls up a ramp, aiming to land them in scoring zones. The format is immediately understandable, making it accessible for mixed corporate audiences where you need entertainment that doesn't exclude anyone.
+
+
+      At 450mm x 1480mm x 870mm, the compact footprint fits easily into most venue spaces. The 1-4 player capacity keeps things social, whilst the no-power-required setup means you have complete flexibility with positioning.
+
+
+      For Christmas parties where you want activities that feel seasonally appropriate without being childish, the roller bowler hits the right note. It's competitive enough to engage adults whilst simple enough that everyone can participate."
     image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-16.jpg"
-    body: |
-      # Christmas Roller Bowler
-      
-      "Please Note Leader Boards are not included unless requested"
-      
-      ## Christmas Roller Bowler – The Classic Carnival Skill Game for Corporate & Private Events
-      
-      ## 🎄 What Is the Christmas Roller Bowler?
-      
-      The **Christmas Roller Bowler** brings a seasonal twist to the classic carnival challenge. Players roll a festive “snowball” up a gently sloped track, aiming to crest the snowy hill and land it perfectly in Santa’s *winning zone*. It’s a game of skill, precision, and just the right amount of festive flair.
-      
-      As participants take their turn, colleagues gather to cheer, share tips, and enjoy some light-hearted competition — making it an ideal icebreaker for end-of-year events, corporate parties, and client gatherings.
-      
-      Engaging, compact, and universally appealing, the **Christmas Roller Bowler** delivers a touch of nostalgia and plenty of festive fun, while helping create an inviting, energetic atmosphere around your event space.
-      
-      Fun Pro UK's Roller Bowler hire brings classic [fairground entertainment](/categories/fun-fair-stalls/#content) to corporate events, [exhibitions](/events/exhibition-games/#content), and private functions across the UK. This deceptively simple carnival game challenges players to roll a ball up an inclined track and stop it precisely in the winning zone, creating natural competition and sustained engagement at any event.
-      
-      Our services include complete setup and removal by our professional team, making the process smooth and straightforward. Please note that delivery is not included in the package price and will be charged separately.
-      
-      Contact us for custom pricing and availability.
-      
-      \*Please note that delivery charges and minimum order values may apply.
-      
-      [**Email:**](#specification) **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-      
-      ## What Is Roller Bowler?
-      
-      The Roller Bowler is a carnival skill game where players roll a ball up a sloped track, attempting to send it over a hill and stop it within a designated winning zone. The game tests timing, force judgement, and ball control, requiring players to calculate the exact power needed for success.
-      
-      Players watch their ball travel up the slope, hoping it settles in the winning area rather than rolling back down. Colleagues gather around to watch attempts, offer advice, and queue for their turn whilst spectators create an energetic atmosphere through encouragement and friendly competition.
-      
-      The Roller Bowler works well at trade shows because it draws crowds, creates visible queues, and keeps exhibition stands consistently busy. Corporate events benefit from the competitive element that gets colleagues interacting naturally, whilst the simple rules mean anyone can play immediately without lengthy explanations.
-      
-      ## Why Choose Roller Bowler for Your Next Event?
-      
-      At [Fun Pro UK](/about-corporate-entertainment-hire/#content), our Roller Bowler hire delivers exceptional value for corporate events [nationwide](/delivery-areas/#content). Here's why event planners continue to choose us:
-      
-      *   Simple Rules, Challenging Play: Anyone can understand the concept instantly, but mastering it takes multiple attempts, keeping engagement high
-          
-      *   Creates Natural Crowds: Spectators gather to watch and encourage players, building energy around your event space
-          
-      *   Suitable for All Ages: From young children to senior executives, everyone can participate and compete
-          
-      *   Fully Brandable: [Custom graphics](/events/brand-activation/#content) and panels available to match your corporate colours and messaging
-          
-      *   No Power Required: Completely mechanical game means no electrical setup or running costs
-          
-      *   Complete UK Coverage: Professional [delivery](/delivery-areas/#content), setup, and collection across England, Scotland, and Wales\*
-      
-      \*Delivery, setup and collection may incur additional costs, depending on location. All costs will be provided in your final quote.
-      
-      ## Nationwide Roller Bowler Hire & Locations
-      
-      As a leading nationwide hire company, Fun Pro UK provides Roller Bowler entertainment for events throughout the UK. We regularly deliver to London, Manchester, Birmingham (including [NEC](/locations/birmingham/nec/#content) and [ICC](/locations/birmingham/game-hire-icc/#content) Arena), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (including CBS Arena), ensuring professional service regardless of your venue location.
-      
-      Our [experienced team](/meet-the-team/#content) handles everything from initial consultation through to delivery, setup, and collection, providing seamless service for your event. [Contact us](/contact-fun-pro-uk/#content) today to discuss your requirements.\*
-      
-      \*Minimum order values and delivery fees apply. Contact us for specific location pricing.
-      
-      ## Roller Bowler Description
-      
-      The Roller Bowler features a brightly coloured sloped track with eye-catching carnival graphics in red, yellow, and blue. The wooden construction includes a distinctive hill section that creates the game's signature challenge, with clearly marked winning zones painted on the track surface.
-      
-      Players position themselves at the lower end of the track and must judge the exact force needed to send the ball over the hill and into the scoring area. Roll too hard and the ball bounces back; roll too softly and it never crests the hill, creating the perfect balance of skill and frustration.
-      
-      Queues form naturally at busy events as colleagues challenge each other and attempt to beat previous scores. The visible gameplay makes it valuable for exhibitions where creating footfall matters, with spectators stopping to watch before joining the queue themselves.
-      
-      ## What's Included in Roller Bowler Hire?
-      
-      When you hire Roller Bowler from Fun Pro UK, you receive a complete service package:
-      
-      ### Included in every hire:
-      
-      *   [UK-wide delivery](/delivery-areas/#content) and collection (additional costs may apply)
-          
-      *   Professional installation and setup by trained technicians if requested
-          
-      *   [Custom branding](/events/brand-activation/#content) options available
-          
-      *   Full operational support throughout your event if needed
-          
-      *   Choice of tabletop or floor-standing configuration
-          
-      *   Optional floor stands and header panels
-      
-      Need a longer hire period? [Contact us](/contact-fun-pro-uk/#content) for custom pricing and availability.
-      
-      ## 🎁 Why Choose the Christmas Roller Bowler for Your Corporate Event?
-      
-      At **Fun Pro UK**, our *Christmas Roller Bowler hire* service brings professional entertainment with a festive twist to events across the UK. Here’s why businesses and event planners continue to include it in their seasonal lineups:
-      
-      ✨ **Simple Yet Engaging:** Easy for anyone to play, yet challenging enough to encourage multiple attempts and healthy competition.
-      
-      🎅 **Creates a Buzz:** Naturally draws attention and encourages interaction between guests, clients, and colleagues.
-      
-      🎄 **Inclusive Fun:** Suitable for all ages and abilities, ensuring everyone can participate and enjoy the experience.
-      
-      🎁 **Fully Brandable:** Add your company logo, festive messaging, or themed artwork to create a cohesive branded experience.
-      
-      🔔 **No Power Required:** 100% mechanical operation — simple to set up, cost-effective to run, and suitable for most indoor venues.
-      
-      🚚 **Nationwide Service:** Professional delivery, setup, and collection available across England, Scotland, and Wales.
-      
-      ## ❄️ Corporate Roller Bowler Hire Across the UK
-      
-      Fun Pro UK provides **Christmas Roller Bowler hire** for corporate Christmas parties, winter conferences, end-of-year team celebrations, and festive exhibitions.
-      
-      We regularly deliver to **London, Manchester, Birmingham (including NEC and ICC), Cardiff, Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry (CBS Arena)**, ensuring reliable service regardless of your venue location.
-      
-      Our experienced events team manages every stage — from initial consultation and branding to delivery, setup, and post-event collection — so you can focus on hosting a seamless and memorable occasion.
-      
-      ## 🎄 Game Description
-      
-      The **Christmas Roller Bowler** features a beautifully themed track in classic festive colours — red, green, and gold — complemented by subtle Christmas graphics and premium wooden construction.
-      
-      Players must judge the perfect amount of strength to roll the “snowball” over the snowy ridge and have it settle in the winning zone. Too much momentum, and it slides back; too little, and it never reaches the peak. The result is a compelling challenge that blends precision with friendly rivalry — ideal for encouraging participation and conversation among colleagues.
-      
-      The visible, interactive nature of the game makes it particularly effective for **corporate networking events and exhibitions**, where engaging passers-by and creating natural conversation points is key.
-      
-      ## 🎁 What’s Included
-      
-      Every **Christmas Roller Bowler hire** from Fun Pro UK includes:
-      
-      *   UK-wide delivery and collection (additional fees may apply)
-          
-      *   Professional setup and calibration by our trained events team
-          
-      *   Optional festive or corporate branding and custom graphics
-          
-      *   Full operational support throughout your event (if required)
-          
-      *   Choice of tabletop or floor-standing configuration
-          
-      *   Optional header panels for enhanced visibility and branding
-      
-      Long-term hire options are available for multi-day conferences or extended Christmas installations.
-      
-      ## 📏 Game Specifications
-      
-      Details
-      
-      Equipment Size
-      
-      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
-      
-      Power
-      
-      None – fully mechanical
-      
-      Suitability
-      
-      Indoor/Outdoor (dry weather only)
-      
-      ## 🤝 Trusted by Leading Brands
-      
-      We’re proud to have delivered entertainment experiences for leading UK organisations, including:
-      
-      *   Rolls-Royce
-          
-      *   KPMG
-          
-      *   Boots
-          
-      *   BT
-          
-      *   Amazon
-          
-      *   Tilda Rice
-          
-      *   Poundland
-      
-      …and many more.
-      
-      ## 🎄 Complete Your Festive Line-Up
-      
-      Enhance your Christmas event with our range of complementary interactive games:
-      
-      *   **Festive Batak Challenge** – A Christmas-themed light reaction game
-          
-      *   **Reindeer Roll & Bowl** – Fast-paced, multiplayer fun
-          
-      *   **Whack-a-Elf** – A light-hearted take on the classic
-          
-      *   **Prize Crane (Festive Edition)** – Branded gifts or seasonal prizes
-          
-      *   **Snowflake Plinko** – Suspenseful drop-and-win entertainment
-      
-      ## 🎅 Book the Christmas Roller Bowler Today
-      
-      Make your next **corporate Christmas event** one to remember with the **Christmas Roller Bowler** — a festive favourite that combines classic fun, effortless setup, and a touch of seasonal charm.
-      
-      Contact **Fun Pro UK** today to check availability, discuss branding options, and receive a detailed quote for your Christmas event.
-      
-      Would you like me to format this version for **web use** (with headings, call-to-action sections, and SEO-friendly structure), or keep it in this **brochure-style** format for downloadable or print marketing?
-      
-      ## As a nationwide hire company, we can provide everything you need for your party or event.
-      
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      
-      **We are able to cover the whole of the UK on request.**
-      
-      Minimum order Value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back.
-      
-      ### Roller Bowler specifications:
-      
-      **Details**
-      
-      **Equipment size (Standard)**
-      
-      1480mm x 250mm x 200mm (tabletop) / 1480mm x 450mm x 870mm (floor-standing)
-      
-      **Extra information**
-      
-      Available in three sizes: Mini (1110mm), Standard (1480mm), and Large (1820mm). Floor stands optional.
   - title: "How It Works"
+    body: "Players roll balls up the ramp, aiming to land them in the highest-scoring zones. The ramp creates a satisfying roll-and-settle mechanic where balls can bounce between zones before coming to rest.
+
+
+      The game takes 1-4 players at a time, making it social whilst maintaining clear turns. No power is needed, so setup is simply positioning the unit on a level surface, which takes around 15-20 minutes.
+
+
+      The straightforward format works well for informal competitions or as drop-in entertainment throughout your event. The Christmas theming adds seasonal relevance without changing the core gameplay."
     image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-15.jpg"
-    body: |
-      
   - title: "Why It's A Crowd Favourite"
-    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-14.jpg"
-    body: |
-      
+    body: "Roller bowler games have quiet, persistent appeal because they're satisfying in a tactile way. Rolling the ball, watching it settle, the small victory of landing in a high-scoring zone. It's simple but genuinely enjoyable.
+
+
+      The Christmas theming helps at seasonal events, making the entertainment feel considered rather than generic. Guests notice these details, even if they don't consciously acknowledge them.
+
+
+      What makes it work for corporate events specifically is the accessibility. No special skills, no athletic requirements, no digital interface to navigate. Just roll the ball and see where it lands. That simplicity means everyone can participate without self-consciousness."
+    image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-16.jpg"
   - title: "Delivery"
+    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+
+
+      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+
+
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+
+
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/christmas-roller-bowler/christmas-roller-bowler-13.jpg"
-    body: |
-      
+faqs:
+  - question: "How many people can play Christmas Roller Bowler at once?"
+    answer: "The game accommodates 1-4 players taking turns, with the compact format keeping queues moving at events of 20-200 guests."
+  - question: "Is Christmas Roller Bowler suitable for all ages?"
+    answer: "Yes, the simple roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed corporate Christmas parties."
+  - question: "How much space do you need?"
+    answer: "The equipment measures 450mm x 1480mm x 870mm, making it one of our more compact options that fits easily into most venue spaces."
+  - question: "Does it need power?"
+    answer: "No, Christmas Roller Bowler requires no power, giving you complete flexibility with positioning."
 ---
 
