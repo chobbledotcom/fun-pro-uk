@@ -1728,12 +1728,13 @@ body.reviews {
 }
 
 .product-delivery-row {
+  @include section-padding;
   background: #fafafa;
+  position: relative;
   h2 {
     margin: 0 0 16px;
   }
   .row {
-    position: relative;
     overflow: hidden;
 
     img {
@@ -1742,7 +1743,7 @@ body.reviews {
     .left {
       text-align: left;
       align-content: center;
-      padding: var(--section-padding) var(--gap-items);
+      padding-left: var(--section-padding);
     }
     @include breakpoints.up("sm") {
       .left {
@@ -1754,20 +1755,15 @@ body.reviews {
         display: block;
         position: absolute;
         right: 0;
-        top: 50%;
-        transform: translateY(-50%);
-        width: 45%;
-        height: auto;
+        left: 50%;
+        width: auto;
+        height: 100%;
         object-fit: contain;
       }
     }
     @include breakpoints.up("lg") {
       .left {
         width: 50%;
-        padding-left: var(--section-padding);
-      }
-      img {
-        width: 40%;
       }
     }
   }
