@@ -1,3 +1,7 @@
+---
+name: Footer links
+---
+
 <div>
 
 ## Entertainment Hire
