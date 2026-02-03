@@ -137,5 +137,8 @@ faqs:
     answer: "Targets illuminate randomly and players snatch them before they disappear. The game tracks successful grabs throughout timed sessions."
   - question: "What power do you need?"
     answer: "Mains power is required for the lighting and scoring systems."
+videos:
+  - id: "https://player.vimeo.com/video/936765558"
+    title: Snatch It
 ---
 

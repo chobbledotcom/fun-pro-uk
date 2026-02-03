@@ -148,5 +148,8 @@ faqs:
     answer: "Players roll balls to advance their donkeys along the track. Successful rolls move you forward, with the first to cross the finish line winning."
   - question: "Does it need power?"
     answer: "No, Roll & Bowl Donkey Derby requires no power, giving you complete flexibility with positioning."
+videos:
+  - id: "https://player.vimeo.com/video/645516022"
+    title: Roll and Bowl
 ---
 

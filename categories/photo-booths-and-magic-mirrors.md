@@ -9,6 +9,9 @@ eleventyNavigation:
   key: "Photo Booths & Magic Mirrors"
   parent: "Entertainment hire"
   order: 11
+videos:
+  - id: Vimt2N89xKw
+    title: Photo Booth
 ---
 
 # **Nationwide Photo Booth Hire**

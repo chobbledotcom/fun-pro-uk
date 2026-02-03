@@ -181,5 +181,8 @@ faqs:
     answer: "Yes, padded mallets are included with the game. Everything needed for play is provided as part of the hire."
   - question: "What power do you need?"
     answer: "The game requires 45-48W of mains power."
+videos:
+  - id: "https://player.vimeo.com/video/858447773"
+    title: Whack a Mole
 ---
 

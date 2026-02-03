@@ -138,5 +138,8 @@ faqs:
     answer: "Absolutely. Dance machines are consistently popular because they give people permission to be silly. Once a few brave souls start, others follow quickly."
   - question: "What power do you need?"
     answer: "The Dance Machine requires 60-77W of mains power."
+videos:
+  - id: 7N5e7JZEdGg
+    title: Dance Machine
 ---
 

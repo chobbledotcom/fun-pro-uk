@@ -9,6 +9,13 @@ eleventyNavigation:
 redirect_from:
   - "/pages/a-z-of-all-games/"
   - "/category/all-products/"
+videos:
+  - id: z15sN_PUarw
+    title: Customer Testimonial
+  - id: 6weHC62YBdU
+    title: Customer Testimonial
+  - id: "-tDg084T_ZQ"
+    title: Customer Testimonial
 ---
 
 # Interactive Game Hire

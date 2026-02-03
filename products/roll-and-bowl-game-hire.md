@@ -197,5 +197,8 @@ faqs:
     answer: "Players roll balls towards scoring zones, with different areas representing different point values. The format suits casual play or competition."
   - question: "Does it need power?"
     answer: "No, Roll and Bowl requires no power, giving you complete flexibility with positioning."
+videos:
+  - id: "https://player.vimeo.com/video/645516022"
+    title: Roll and Bowl
 ---
 

@@ -9,6 +9,9 @@ redirect_from:
   - "/news/2020-01-20/all-work-no-play-we-really-need-to-talk-about-that/"
 gallery:
   - "/images/news/20180616-152805.jpg"
+videos:
+  - id: NtWF3ajxGYo
+    title: School Fun Day
 ---
 
 ## All work, no play? We really need to talk about that!!

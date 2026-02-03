@@ -164,5 +164,8 @@ faqs:
     answer: "Yes, the green screen technology enables guests to appear in any setting. This creates more impressive, shareable images than standard booth shots."
   - question: "What power do you need?"
     answer: "Mains power is required for the camera, lighting, and printing equipment."
+videos:
+  - id: MxIWzTz38Mw
+    title: Green Screen Photo Booth
 ---
 

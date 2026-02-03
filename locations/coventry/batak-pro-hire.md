@@ -5,6 +5,9 @@ meta_description: "Hire Batak Pro in Coventry for events, staff parties, and con
 redirect_from:
   - "/pages/batak-pro-hire-coventry/"
 thumbnail: "/images/locations/img-20221207-wa0005.jpg"
+videos:
+  - id: "https://player.vimeo.com/video/858450355"
+    title: Batak Pro
 ---
 
 # Batak Pro - A Fun, Interactive Game for Exhibitions & Corporate Events in Coventry

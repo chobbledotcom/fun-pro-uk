@@ -178,5 +178,8 @@ tabs:
 
       All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/ballnado-grabber/ballnado-grabber-18.jpg"
+videos:
+  - id: ARn3iIOfFXw
+    title: Bespoke Photo Booth
 ---
 

@@ -169,5 +169,8 @@ faqs:
     answer: "Yes, the grab-what-you-can format suits ages 10 and above. The excitement is universal regardless of what's being grabbed."
   - question: "What power do you need?"
     answer: "Mains power is required for the air system that keeps items swirling."
+videos:
+  - id: ARn3iIOfFXw
+    title: Bespoke Photo Booth
 ---
 
