@@ -135,5 +135,8 @@ faqs:
     answer: "No, our staff guide first-time VR users through the basics. The racing format is intuitive, and most people adapt quickly."
   - question: "What power and space do you need?"
     answer: "Mains power is required for the simulator rig and VR equipment. We'll discuss space requirements when planning your event."
+videos:
+  - id: "https://player.vimeo.com/video/858250745"
+    title: Race Car Simulator
 ---
 

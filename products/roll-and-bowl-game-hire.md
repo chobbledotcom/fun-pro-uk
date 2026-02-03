@@ -229,17 +229,15 @@ tabs:
       giving you complete peace of mind. When your event wraps up, we handle the
       packdown and collection, leaving you free to focus on your guests.
 faqs:
-  - question: How many people can play Roll and Bowl at once?
-    answer: The game accommodates 1-4 players taking turns, with the simple format
-      keeping queues moving efficiently at events of 20-200 guests.
-  - question: Is it suitable for all ages?
-    answer: Yes, the roll-the-ball format is accessible for all ages. No special
-      skills required, making it perfect for mixed events and family days.
-  - question: How does scoring work?
-    answer: Players roll balls towards scoring zones, with different areas
-      representing different point values. The format suits casual play or
-      competition.
-  - question: Does it need power?
-    answer: No, Roll and Bowl requires no power, giving you complete flexibility
-      with positioning.
+  - question: "How many people can play Roll and Bowl at once?"
+    answer: "The game accommodates 1-4 players taking turns, with the simple format keeping queues moving efficiently at events of 20-200 guests."
+  - question: "Is it suitable for all ages?"
+    answer: "Yes, the roll-the-ball format is accessible for all ages. No special skills required, making it perfect for mixed events and family days."
+  - question: "How does scoring work?"
+    answer: "Players roll balls towards scoring zones, with different areas representing different point values. The format suits casual play or competition."
+  - question: "Does it need power?"
+    answer: "No, Roll and Bowl requires no power, giving you complete flexibility with positioning."
+videos:
+  - id: "https://player.vimeo.com/video/645516022"
+    title: Roll and Bowl
 ---

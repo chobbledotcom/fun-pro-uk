@@ -4,6 +4,9 @@ meta_title: "Whack a Mole Hire Coventry"
 meta_description: "Looking to hire your next interactive game? Contact Fun Pro UK today"
 redirect_from:
   - "/pages/whack-a-mole-hire-coventry/"
+videos:
+  - id: "https://player.vimeo.com/video/858447773"
+    title: Whack a Mole
 ---
 
 # Whack A Mole Hire Coventry

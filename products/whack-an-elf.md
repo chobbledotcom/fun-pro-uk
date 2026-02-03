@@ -127,5 +127,8 @@ faqs:
     answer: "The Christmas elf theming makes it perfect for festive events. The satisfying gameplay remains the same with seasonal styling."
   - question: "What power do you need?"
     answer: "Mains power is required for the pop-up mechanism and scoring."
+videos:
+  - id: "https://player.vimeo.com/video/858447773"
+    title: Whack a Mole
 ---
 

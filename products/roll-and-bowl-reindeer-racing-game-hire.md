@@ -148,5 +148,8 @@ faqs:
     answer: "Players roll balls to advance their reindeer along the track. The first to cross the finish line wins."
   - question: "Does it need power?"
     answer: "No, Roll and Bowl Reindeer Racing requires no power, giving you flexibility with positioning."
+videos:
+  - id: "https://player.vimeo.com/video/645516022"
+    title: Roll and Bowl
 ---
 

@@ -124,5 +124,8 @@ faqs:
     answer: "We'll need advance notice to prepare custom elements. Timelines depend on the complexity of branding required. Contact us early in your planning process."
   - question: "What's included in the outputs?"
     answer: "Instant prints and digital copies are included. Branded elements appear on all outputs, extending your brand reach beyond the event itself."
+videos:
+  - id: ARn3iIOfFXw
+    title: Bespoke Photo Booth
 ---
 

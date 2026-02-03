@@ -4,6 +4,9 @@ meta_title: "Batak Pro Hire Manchester | Exhibition Stand Games | Interactive"
 meta_description: "Make your Manchester event amazing with Batak Pro hire from the UK&#39;s exhibition and trade show stand entertainment experts! Book your spot with us now."
 redirect_from:
   - "/pages/batak-pro-hire-manchester/"
+videos:
+  - id: "https://player.vimeo.com/video/858450355"
+    title: Batak Pro
 ---
 
 # Batak Pro Hire Manchester
