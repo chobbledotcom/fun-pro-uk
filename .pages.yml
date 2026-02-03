@@ -367,6 +367,15 @@ content:
         label: Gallery
         options:
           multiple: true
+  - name: snippets
+    label: Snippets
+    path: src/snippets
+    type: collection
+    subfolders: false
+    filename: "{primary}.md"
+    fields:
+      - { name: name, type: string, label: Name }
+      - { name: body, type: rich-text, label: Body }
   - name: site
     label: Site Configuration
     type: file
