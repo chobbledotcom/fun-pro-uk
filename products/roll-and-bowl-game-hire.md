@@ -150,43 +150,43 @@ add_ons:
       price: 1020
 tabs:
   - title: "Why Roll And Bowl Game Hire?"
-    body: "Roll and Bowl offers accessible skill-based entertainment that works for corporate events, family days, and celebrations. Players roll balls towards targets, with the simple format ensuring immediate understanding whilst offering genuine skill progression.
+    body: "Looking to add a touch of excitement to your upcoming event? The Roll and Bowl is a fun, interactive horse racing game that's perfect for conferences, well-being days, exhibitions, fun days, brand activations, and Christmas get-togethers. Whether you're hosting a party, promotional event, or team-building day, this game is a surefire way to keep your guests entertained and engaged.
 
 
-      For events where you want entertainment that works across ages and abilities without complicated explanations, roll and bowl delivers reliably. The format accommodates casual play and competitive tournaments equally well.
+      This amazing 4-player, 4-lane fairground game appears to be an easy win, but go steady Eddy! It gets everyone cheering the jockeys on to get their horse across the line and win the race. It's a real winner for in-store promotions, exhibition stands, and brand activations, attracting a crowd and helping you engage with your clients.
 
 
-      With 1-4 player capacity, no power required, and 20-200 guest throughput, it offers flexibility for various event configurations."
+      With custom branding options available, you can add your company logo to the game, increasing footfall to your exhibition stand and ensuring you reach the engagement with future clients that your competitors won't."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
   - title: "How It Works"
-    body: "Players roll balls towards scoring zones, with different areas representing different point values. The format is immediately understandable and allows continuous play.
+    body: "Each player chooses which colour horse they wish to ride, then takes their stand and waits for the race to begin. Before you know it, they're under starter's orders and they're off! To get your horse to giddy up down the course, you have to roll and bowl that ball, but gently does it. The more points you score by getting your ball into the holes, the faster your horse will run.
 
 
-      Games can run casually with guests playing as they wish, or as structured competitions with scores tracked. The simple mechanics suit both approaches.
+      Two to four players stand in front of the gameplay area, each with a small red bowling ball. Ahead is a big screen displaying player names and scorecards. The ball is gently tossed down the alley to aim at one of six holes in the base, each worth different scores depending on their location. When the ball hits a hole, your horse moves forward. The player who collects the most points, or has their horse hit the finish line first, wins the race.
 
 
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
+      At first glance it looks easy, but you have to aim accurately for the holes while competing against three other players. You can't toss it too hard, and aiming for the higher-scoring holes will make your horse move more quickly. The game has a built-in PA system with full running commentary, sound effects, and LED lighting, creating an excellent realistic atmosphere that everyone will shout about."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-31.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Roll and bowl games work because they're satisfying in a simple way. The roll, the anticipation, the landing. It's uncomplicated but genuinely enjoyable, which is why similar formats have entertained for centuries.
+    body: "The Roll and Bowl works because it's satisfying in a simple way. The roll, the anticipation, the commentary, the cheering. It's uncomplicated but genuinely exciting, and the horse racing format adds drama that keeps spectators as engaged as the players.
 
 
-      The accessibility is key for event success. No instructions needed, no special skills required, no intimidating learning curve. Guests simply roll and enjoy.
+      The accessibility is key for event success. No instructions needed, no special skills required, no intimidating learning curve. Guests simply roll and enjoy. The format works brilliantly for mixed audiences, with children and adults engaging equally to create shared experiences at family events and corporate days alike.
 
 
-      For mixed audiences particularly, the format works across ages. Children and adults engage equally, creating shared experiences at family events."
+      While many fun game hires are solo, the Roll and Bowl brings people together. Up to four players compete side by side, and the built-in commentary and sound effects turn every game into a spectacle. It's a great way to play with colleagues or friends, and it keeps participants happy and engaged in a way that feels like genuine recreation rather than corporate entertainment."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: "We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. Our trained team will deliver and install everything on site.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham (including the NEC and ICC Arena), Reading, Oxford, Swindon, London, Coventry (including the CBS Arena), Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. Free delivery is included within Coventry, Warwickshire, and the wider Midlands region, with competitive delivery rates for venues elsewhere.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule. Please note the equipment cannot be carried up or down flights of stairs and a lift is required where applicable.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. Minimum order value and delivery fees may apply. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
     image: "/images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg"
 faqs:
   - question: "How many people can play Roll and Bowl at once?"
