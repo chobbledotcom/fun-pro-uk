@@ -112,10 +112,10 @@ gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186
 add_ons:
   intro: >-
-    ## CASH GRABBER MACHINE HIRE Branding and Customisation Options
+    ## Cash Grabber Machine Branding and Customisation Options
 
 
-    Make CASH GRABBER MACHINE HIRE a powerful marketing tool with full
+    Make our cash grabber machine a powerful marketing tool with full
     customisation options, including your brand logo, corporate colours, or
     event-specific designs. Personalising the game ensures a memorable
     experience for your guests while reinforcing your brand presence.
@@ -138,7 +138,7 @@ add_ons:
     - name: Branded Notes
       price: 150
 tabs:
-  - title: Why CASH GRABBER MACHINE HIRE?
+  - title: Why Cash Grabber Machine?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
     body: >-
       Cash grabber machines create excitement as participants try to grab
