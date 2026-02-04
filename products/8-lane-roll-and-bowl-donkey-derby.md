@@ -1,5 +1,5 @@
 ---
-title: 8 Lane Roll & Bowl Donkey Derby
+title: 8 Lane Roll & Bowl Donkey Derby Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £1695
 order: 50
