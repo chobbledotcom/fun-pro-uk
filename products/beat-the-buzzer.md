@@ -1,5 +1,5 @@
 ---
-title: Beat The Buzzer hire
+title: Beat The Buzzer Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £350
 order: 50
