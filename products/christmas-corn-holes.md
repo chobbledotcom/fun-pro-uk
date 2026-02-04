@@ -20,7 +20,7 @@ specs:
   - name: Players
     value: 2-4 players
   - name: Space Required
-    value: 2.0m x 2.0m x 1.0m (W/D/H)
+    value: 2.0m x 2.0m x 0.5m (W/D/H)
   - name: Power
     value: No power required
   - name: Setup time
