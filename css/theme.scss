@@ -1139,7 +1139,8 @@ body.horizontal-nav main {
             transform 0.2s ease-in-out;
         }
 
-        & > li:has(> ul):hover > a::after {
+        & > li:has(> ul):hover > a::after,
+        & > li.expanded > a::after {
           opacity: 1;
           transform: rotate(180deg);
         }
@@ -1156,8 +1157,20 @@ body.horizontal-nav main {
           padding: 16px;
         }
 
-        // Slide-in animation on hover
+        // Slide-in animation on hover (non-clicky only)
         & > li:has(> ul):hover > ul {
+          body:not(.clicky-nav) & {
+            opacity: 1;
+            transform: translateY(0);
+            pointer-events: auto;
+            transition:
+              opacity 0.25s ease-out,
+              transform 0.25s ease-out;
+          }
+        }
+
+        // Slide-in animation on click (clicky-nav)
+        & > li.expanded > ul {
           opacity: 1;
           transform: translateY(0);
           pointer-events: auto;
@@ -1171,6 +1184,11 @@ body.horizontal-nav main {
             width: calc(100vw - 220px);
           }
           &:hover {
+            body:not(.clicky-nav) & {
+              @include mega-menu-columns(3);
+            }
+          }
+          &.expanded {
             @include mega-menu-columns(3);
           }
         }
@@ -1180,6 +1198,11 @@ body.horizontal-nav main {
             width: calc(100vw - 220px);
           }
           &:hover {
+            body:not(.clicky-nav) & {
+              @include mega-menu-columns(4);
+            }
+          }
+          &.expanded {
             @include mega-menu-columns(4);
           }
         }
@@ -1189,6 +1212,33 @@ body.horizontal-nav main {
             width: 660px;
           }
           &:hover > ul {
+            body:not(.clicky-nav) & {
+              flex-direction: row;
+              justify-content: space-between;
+              & > li > a {
+                font-weight: 500;
+              }
+              & > li > ul {
+                display: block;
+                position: relative;
+                left: auto;
+                top: auto;
+                margin: 0;
+                padding: 0;
+                border: 0;
+                font-weight: 400;
+                background: transparent;
+                box-shadow: none;
+                opacity: 1;
+                transform: none;
+                pointer-events: auto;
+                .image-wrapper {
+                  display: none;
+                }
+              }
+            }
+          }
+          &.expanded > ul {
             flex-direction: row;
             justify-content: space-between;
             & > li > a {
