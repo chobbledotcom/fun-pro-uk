@@ -1,5 +1,5 @@
 ---
-title: LARGE BOUNCY CASTLES
+title: Large Bouncy Castle
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £295
 order: 50
