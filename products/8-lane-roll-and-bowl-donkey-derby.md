@@ -12,8 +12,13 @@ categories:
   - categories/arcade-games.md
   - categories/fun-days.md
   - categories/prize-games.md
+  - categories/freshers-fair-games.md
+  - categories/interactive-game-hire.md
 events:
   - events/celebrations-and-parties.md
+  - events/company-award-ceremonies.md
+  - events/corporate-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - Delivery, setup, and collection included
@@ -23,13 +28,13 @@ specs:
   - name: Players
     value: Up to 8 players
   - name: Space Required
-    value: 5800mm Width x 3000mm Depth, Allowing for people to stand in front
+    value: 5.8m x 3m , Allowing for people to stand in front (W/D)
   - name: Power
     value: 2 x mains UK power socket (Wattage usage 180-230 watts per socket)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 5600mm x 4600mm 2100mm (W/D/H)
+    value: 5.6m x 4.6m x 2.1m (W/D/H)
   - name: Suitability
     value: Indoor use only/Level surface
   - name: Access
