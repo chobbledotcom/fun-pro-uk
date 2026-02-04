@@ -1,5 +1,5 @@
 ---
-title: Human Tanle Football
+title: Human Table Football
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £495
 order: 50
