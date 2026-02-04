@@ -1,97 +1,131 @@
 ---
-title: "Christmas Corn Holes"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
-price: ""
+title: Christmas Corn Holes
+subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 order: 50
-meta_title: "Christmas Corn Holes - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "Christmas Corn Holes is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
+meta_title: Christmas Corn Holes - Exhibition and Game Hire in Nationwide | Fun Pro UK
+meta_description: Christmas Corn Holes is one of the wide range of products
+  available from Fun Pro UK events experts. Contact us today!
 categories:
-  - "categories/christmas-game-hire.md"
-  - "categories/christmas-games.md"
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
 events:
-  - "events/christmas-entertainment-game-hire.md"
+  - events/christmas-entertainment-game-hire.md
+  - events/christmas-entertainment.md
 featured: true
 features:
-  - "Delivery, setup, and collection included"
-  - "Public liability insurance included"
-  - "Custom branding options available"
+  - Delivery, setup, and collection included
+  - Public liability insurance included
+  - Custom branding options available
 specs:
-  - name: "Players"
-    value: "2-4 players"
-  - name: "Space Required"
-    value: "2m x 2m x 2m"
-  - name: "Power"
-    value: "No power required"
-  - name: "Setup time"
-    value: "15-20 minutes"
-  - name: "Equipment Size"
-    value: "1.5m x 1.5m x 1.8m"
-  - name: "Suitability"
-    value: "Indoor use only / Level surface"
-  - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+  - name: Players
+    value: 2-4 players
+  - name: Space Required
+    value: 2.0m x 2.0m x 1.0m (W/D/H)
+  - name: Power
+    value: No power required
+  - name: Setup time
+    value: 15-20 minutes
+  - name: Equipment Size
+    value: 1.2m x 0.9m x 0.3m (W/D/H)
+  - name: Suitability
+    value: Indoor use only / Level surface
+  - name: Access
+    value: Standard door width / Can be carried upstairs
 filter_attributes:
-  - name: "Guest Capacity"
-    value: "20-200 guests"
-  - name: "Game Length"
-    value: "15-20 minutes"
-  - name: "Power Required"
-    value: "No power required"
-  - name: "Player Count"
-    value: "2-4 players"
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: 15-20 minutes
+  - name: Power Required
+    value: No power required
+  - name: Player Count
+    value: 2-4 players
 options:
-  - name: "1 Day"
-    unit_price: 0
+  - name: 1 Day
+    max_quantity: 10
+    unit_price: 293
     days: 1
 redirect_from:
-  - "/category/christmas-game-hire/113/christmas-corn-holes/"
+  - /category/christmas-game-hire/113/christmas-corn-holes/
 gallery_cloudinary:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/85159f7364b19ffe91e6e219e36f103c"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a8b02eb68235f110ee2afd43c849254"
+  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/85159f7364b19ffe91e6e219e36f103c
+  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a8b02eb68235f110ee2afd43c849254
 tabs:
-  - title: "Why Christmas Corn Holes?"
-    body: "Christmas corn holes bring festive theming to the popular bean bag tossing game, creating relaxed competitive entertainment for Christmas parties and seasonal corporate events.
+  - title: Why Christmas Corn Holes?
+    body: >-
+      Christmas corn holes bring festive theming to the popular bean bag tossing
+      game, creating relaxed competitive entertainment for Christmas parties and
+      seasonal corporate events.
 
 
-      For Christmas events where you want entertainment that encourages conversation whilst providing gentle competition, themed corn hole delivers. The format is accessible, social, and appropriately festive.
+      For Christmas events where you want entertainment that encourages
+      conversation whilst providing gentle competition, themed corn hole
+      delivers. The format is accessible, social, and appropriately festive.
 
 
-      No power required means flexible positioning, with capacity for 20-200 guests. The Christmas styling adds seasonal relevance without changing the proven gameplay."
-  - title: "How It Works"
-    body: "Players take turns tossing bean bags towards the sloped board, aiming to land bags on the board for points or in the hole for higher scores. Standard corn hole rules apply with festive-themed equipment.
+      No power required means flexible positioning, with capacity for 20-200
+      guests. The Christmas styling adds seasonal relevance without changing the
+      proven gameplay.
+  - title: How It Works
+    body: >-
+      Players take turns tossing bean bags towards the sloped board, aiming to
+      land bags on the board for points or in the hole for higher scores.
+      Standard corn hole rules apply with festive-themed equipment.
 
 
-      The format needs no explanation for most guests, and newcomers learn in seconds. Games run continuously with natural turn-taking.
+      The format needs no explanation for most guests, and newcomers learn in
+      seconds. Games run continuously with natural turn-taking.
 
 
-      Setup takes approximately 15-20 minutes and requires only level ground. No power needed."
-  - title: "Why It's A Crowd Favourite"
-    body: "Corn hole works because it balances activity with socialising. You can hold a drink, chat with colleagues, and still participate. That accessibility matters at networking events and Christmas parties.
+      Setup takes approximately 15-20 minutes and requires only level ground. No
+      power needed.
+  - title: Why It's A Crowd Favourite
+    body: >-
+      Corn hole works because it balances activity with socialising. You can
+      hold a drink, chat with colleagues, and still participate. That
+      accessibility matters at networking events and Christmas parties.
 
 
-      The Christmas theming adds seasonal appropriateness. Entertainment that acknowledges the festive occasion feels more considered than generic options.
+      The Christmas theming adds seasonal appropriateness. Entertainment that
+      acknowledges the festive occasion feels more considered than generic
+      options.
 
 
-      The social format encourages mingling too. Partners strategise together, conversations happen between throws, and the relaxed pace allows natural interaction."
-  - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+      The social format encourages mingling too. Partners strategise together,
+      conversations happen between throws, and the relaxed pace allows natural
+      interaction.
+  - title: Delivery
+    body: >-
+      We will handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, with free
+      delivery within Coventry, Warwickshire, and the wider Midlands region. For
+      venues elsewhere, we provide competitive delivery rates and the same
+      professional service regardless of location.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Our team arrives with adequate time before your event to position and test
+      everything, ensuring it's ready for your first guests. We're flexible with
+      timing, whether you need an office-hours setup or late-night collection
+      after an evening event. We'll work around your schedule.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind. When your event wraps up, we handle the
+      packdown and collection, leaving you free to focus on your guests.
 faqs:
-  - question: "How many people can play Christmas Corn Holes at once?"
-    answer: "The game accommodates 2-4 players, typically in teams of two competing against each other. The format encourages socialising between throws."
-  - question: "Is it suitable for all ages?"
-    answer: "Yes, the bean bag tossing format is accessible for all ages. The Christmas theming adds festive fun for seasonal corporate events."
-  - question: "How does it work?"
-    answer: "Players toss bean bags towards the sloped board, scoring points for landing on the board and higher points for getting bags in the hole."
-  - question: "Does it need power?"
-    answer: "No, Christmas Corn Holes requires no power, giving you complete flexibility with positioning."
+  - question: How many people can play Christmas Corn Holes at once?
+    answer: The game accommodates 2-4 players, typically in teams of two competing
+      against each other. The format encourages socialising between throws.
+  - question: Is it suitable for all ages?
+    answer: Yes, the bean bag tossing format is accessible for all ages. The
+      Christmas theming adds festive fun for seasonal corporate events.
+  - question: How does it work?
+    answer: Players toss bean bags towards the sloped board, scoring points for
+      landing on the board and higher points for getting bags in the hole.
+  - question: Does it need power?
+    answer: No, Christmas Corn Holes requires no power, giving you complete
+      flexibility with positioning.
 ---
-
