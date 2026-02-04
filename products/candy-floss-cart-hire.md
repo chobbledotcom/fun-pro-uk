@@ -1,5 +1,5 @@
 ---
-title: Candy Floss Cart Hire
+title: Candy Floss Cart
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £450
 order: 50
