@@ -1,5 +1,5 @@
 ---
-title: Batak Lite
+title: Batak Lite Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £445
 order: 1
