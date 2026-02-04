@@ -1,5 +1,5 @@
 ---
-title: 8 Lane Reindeer Racing
+title: 8 Lane Reindeer Racing Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £1695
 order: 50
