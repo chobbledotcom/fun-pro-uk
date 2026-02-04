@@ -1,5 +1,5 @@
 ---
-title: Batak Pro
+title: Batak Pro Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £495
 order: 2
