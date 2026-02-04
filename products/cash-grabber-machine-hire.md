@@ -1,5 +1,5 @@
 ---
-title: CASH GRABBER MACHINE HIRE
+title: Cash Grabber Machine Hire
 subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
 price: £495
 order: 5
