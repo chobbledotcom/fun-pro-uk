@@ -1516,7 +1516,7 @@ body.base {
     @include flex-row;
     padding: var(--gap-items) 0 calc(var(--gap-items) / 2);
     margin: 0 0 calc(var(--gap-items) / 2);
-    li {
+    > li {
       @include card;
       padding: 24px;
       border-radius: 16px;
