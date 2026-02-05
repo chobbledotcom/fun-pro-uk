@@ -1509,7 +1509,8 @@ body.horizontal-nav main {
 
 .testimonials-slider,
 .item-reviews,
-body.reviews {
+body.reviews,
+body.base {
   ul.items {
     @include list-reset;
     @include flex-row;
@@ -2010,6 +2011,7 @@ ul.items {
     border-radius: 8px;
     width: 380px !important;
     text-align: left;
+    justify-content: start;
     & > * {
       margin: 0;
     }
