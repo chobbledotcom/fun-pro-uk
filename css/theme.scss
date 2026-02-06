@@ -451,20 +451,16 @@ body {
           grid-template-columns: 1fr 1fr;
         }
 
-        & > div {
-          display: grid;
-          grid-template-columns: 48px 1fr;
-          grid-template-areas: "icon key" "icon value";
+        .spec-badge {
           padding: 8px;
           gap: calc(var(--gap-items) / 4) calc(var(--gap-items) / 2);
+          border: none;
           border-radius: 8px;
           background: #efefef;
-          align-content: flex-start;
-          span {
-            grid-area: icon;
+          align-items: flex-start;
+          .icon {
             justify-self: center;
             align-self: baseline;
-            display: flex;
             width: 48px;
             height: 48px;
             border-radius: 4px;
@@ -478,20 +474,16 @@ body {
               height: 22px;
             }
           }
-          & > dt,
-          & > dd {
-            padding: 0;
-            margin: 0;
-          }
-          & > dt {
-            grid-area: key;
-            font-weight: 400;
-            font-size: 14px;
-          }
-          & > dd {
-            grid-area: value;
-            font-size: 18px;
-            font-weight: 500;
+          .spec-content {
+            gap: 8px;
+            dt {
+              font-size: 14px;
+              font-weight: 400;
+            }
+            dd {
+              font-size: 18px;
+              font-weight: 500;
+            }
           }
         }
       }
