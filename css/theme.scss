@@ -1155,7 +1155,7 @@ body.horizontal-nav main {
             transform 0.25s ease-out;
         }
 
-        & > li:has(a[href="/how-we-help/#content"]) {
+        & > li:has(a[href="/how-we-help/"]) {
           & > ul {
             width: calc(100vw - 220px);
           }
@@ -1169,7 +1169,7 @@ body.horizontal-nav main {
           }
         }
 
-        & > li:has(a[href="/products/#content"]) {
+        & > li:has(a[href="/products/"]) {
           & > ul {
             width: calc(100vw - 220px);
           }
@@ -1183,7 +1183,7 @@ body.horizontal-nav main {
           }
         }
 
-        & > li:has(a[href="/events/#content"]) {
+        & > li:has(a[href="/events/"]) {
           & > ul {
             width: 660px;
           }
