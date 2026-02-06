@@ -24,7 +24,7 @@
 		"cart-button"
 	],
 	"default_image_widths": [225, 450, 650, 1600],
-	"navigation_content_anchor": true,
+	"navigation_content_anchor": false,
 	"category_order": [
 		"breadcrumbs.html",
 		"products-header.html",
