@@ -1121,30 +1121,6 @@ body.horizontal-nav main {
       & > ul {
         justify-content: flex-start !important;
 
-        // Dropdown caret icons for nav items with submenus
-        & > li:has(> ul) > a::after {
-          content: "";
-          display: inline-block;
-          width: 10px;
-          height: 6px;
-          margin-left: 6px;
-          vertical-align: middle;
-          background-color: currentColor;
-          mask-image: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M9.86941 0.148912C9.68892 -0.0425287 9.38702 -0.0496575 9.19653 0.130338L4.99976 4.10614L0.803467 0.130358C0.612983 -0.0501261 0.311545 -0.0425093 0.130592 0.148931C-0.0503606 0.339884 -0.0422749 0.641322 0.148697 0.822275L4.67261 5.10809C4.76404 5.19477 4.88214 5.23858 4.99976 5.23858C5.11737 5.23858 5.23594 5.19477 5.32738 5.10809L9.8513 0.822275C10.0423 0.641303 10.0504 0.339884 9.86941 0.148912Z' fill='black'/%3E%3C/svg%3E");
-          mask-size: contain;
-          mask-repeat: no-repeat;
-          opacity: 0.6;
-          transition:
-            opacity 0.2s ease-in-out,
-            transform 0.2s ease-in-out;
-        }
-
-        & > li:has(> ul):hover > a::after,
-        & > li.expanded > a::after {
-          opacity: 1;
-          transform: rotate(180deg);
-        }
-
         // Base styles for mega-menu dropdowns (always rendered, but hidden)
         & > li:has(> ul) > ul {
           display: flex !important;
