@@ -44,8 +44,8 @@
   position: relative;
   &::before {
     content: "";
-    width: 24px;
-    height: 24px;
+    width: 8px;
+    height: 8px;
     display: block;
     background-image: url("/assets/icons/tick.svg");
     background-position: center center;
@@ -55,6 +55,7 @@
     position: absolute;
     left: 0;
     top: 0;
+    border: 8px solid #e1f1f6;
   }
 }
 
