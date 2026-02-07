@@ -2879,4 +2879,25 @@ div.fun-pro-item {
   ul.items > li .image-link {
     margin: 0;
   }
+  .search-box {
+    max-width: 300px;
+    margin: 0 auto;
+    border: none;
+    input[type="search"] {
+      height: 36px;
+      height: 36px;
+      border: 1px solid #ccc;
+      border-right: 0;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    button {
+      padding: 10px;
+      background: #009dd7;
+      border: none;
+      &:hover {
+        background: #009dd7;
+      }
+    }
+  }
 }
