@@ -7,7 +7,13 @@ meta_title: "Best Popcorn Machine Cart Hire for All UK Events"
 meta_description: "Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Book today!"
 categories:
   - "categories/fun-fair-stalls.md"
-events: []
+events:
+  - events/circus-skills-workshop.md
+  - events/celebrations-and-parties.md
+  - events/family-fun-days.md
+  - events/fundraising-events.md
+  - events/summer-entertainment.md
+  - events/school-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -19,7 +25,7 @@ specs:
   - name: "Space Required"
     value: "2m x 2m x 2m"
   - name: "Power"
-    value: "1 x UK mains socket (190-210W)"
+    value: "1 x Power Socket (190-210W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
@@ -27,7 +33,7 @@ specs:
   - name: "Suitability"
     value: "Indoor or outdoor use"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Standard door width"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-300 guests"

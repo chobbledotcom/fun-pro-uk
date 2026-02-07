@@ -26,19 +26,19 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: N/A - Display item
+    value: N/A
   - name: Space Required
-    value: 1.6m x 1.9m x 2.0m (W/D/H)
+    value: 1.6m x 1.9m x 2.0m
   - name: Power
-    value: None required
+    value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.46m x 1.76m x 1.92m (W/D/H)
+    value: 1.46m x 1.76m x 1.92m
   - name: Suitability
-    value: Indoor and outdoor use/Level surface
+    value: Indoor and outdoor / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

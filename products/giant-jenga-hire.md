@@ -22,6 +22,7 @@ events:
   - events/family-fun-days.md
   - events/office-entertainment.md
   - events/educational-and-community.md
+  - events/circus-skills-workshop.md
 featured: true
 features:
   - Delivery, setup, and collection included
@@ -31,17 +32,17 @@ specs:
   - name: Players
     value: 2-4 players
   - name: Space Required
-    value: 1.6m x 1.9m x 2.0m (W/D/H)
+    value: 1.6m x 1.9m x 2.0m
   - name: Power
-    value: No power
+    value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.46m x 1.76m x 1.92m (W/D/H)
+    value: 1.46m x 1.76m x 1.92m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

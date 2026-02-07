@@ -11,7 +11,12 @@ categories:
   - "categories/interactive-game-hire.md"
   - "categories/photo-booths-and-magic-mirrors.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/staff-wellbeing-days.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -23,15 +28,15 @@ specs:
   - name: "Space Required"
     value: "2m x 2m x 2m"
   - name: "Power"
-    value: "None required"
+    value: "No power required"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "1900mm long x 600mm wide"
+    value: "1.9m x 0.6m"
   - name: "Suitability"
     value: "Indoor or outside use"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-500+ guests"

@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/645516022"
     title: Roll and Bowl
+thumbnail: /images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-1.jpg
 ---
 
 # Roll and Bowl Hire Coventry

@@ -4,6 +4,7 @@ subtitle: "Games and activities for office parties and corporate functions"
 meta_title: "Office & Corporate Game Entertainment Ideas | Party Hire | UK"
 meta_description: "Looking for fun entertainment for office parties &amp; corporate events? Check out some of the ideas our experts have: photo booths to arcade games &amp; more."
 featured: true
+thumbnail: /images/products/gold-bar-challenge/gold-bar-challenge-1.jpg
 redirect_from:
   - "/category/corporate-entertainment/"
 eleventyNavigation:

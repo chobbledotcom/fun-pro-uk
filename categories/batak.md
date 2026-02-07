@@ -4,6 +4,7 @@ subtitle: "Reaction-speed target games with scoring and leaderboards"
 meta_title: "Batak Game Hire | Interactive Games for Events - Fun Pro UK"
 meta_description: "Hire a Batak game for your event. Fun Pro UK offers Batak Games for corporate events, exhibitions &amp; team-building nationwide. Get a quote today."
 featured: true
+thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 redirect_from:
   - "/category/batak/"
 eleventyNavigation:

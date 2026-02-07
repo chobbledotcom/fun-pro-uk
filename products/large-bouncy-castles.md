@@ -25,17 +25,17 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 8m x 6m x 4m (W/D/H)
+    value: 8m x 6m x 4m
   - name: Power
-    value: "1 x UK mains socket (Blower: 750W continuous)"
+    value: "1 x Power Socket (750W continuous)"
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 7m x 5m x 3.5m (W/D/H)
+    value: 7m x 5m x 3.5m
   - name: Suitability
-    value: Indoor or outdoor use / Level surface
+    value: Indoor or outdoor / Level surface
   - name: Access
-    value: Standard door width / Can be carried upstairs
+    value: Standard door width
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

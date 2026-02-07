@@ -8,7 +8,12 @@ meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of
 categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/university-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,13 +25,13 @@ specs:
   - name: "Space Required"
     value: "4m x 3m x 5m"
   - name: "Power"
-    value: "1 x UK mains socket (Game usage: 10-50W)"
+    value: "1 x Power Socket (10-50W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
     value: "3m x 2m x 4.5m"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
     value: "Wide access required / Lift access for upper floors"
 filter_attributes:

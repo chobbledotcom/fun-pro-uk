@@ -11,7 +11,7 @@ categories:
   - categories/christmas-games.md
   - categories/christmas-game-hire.md
 events:
-  - events/christmas-entertainment-game-hire.md
+  - events/christmas-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
@@ -21,17 +21,17 @@ specs:
   - name: Players
     value: 1-2 players
   - name: Space Required
-    value: 1.5m x 1.25m, Allowing for the person to stand ether side (W/D)
+    value: 1.5m x 1.25m
   - name: Power
-    value: 1 x mains UK power socket (Wattage usage 5-12 watts)
+    value: 1 x Power Socket (5-12W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.2m x 0.6m x 0.9m (W/D/H)
+    value: 1.2m x 0.6m x 0.9m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

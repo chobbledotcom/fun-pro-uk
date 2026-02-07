@@ -7,7 +7,12 @@ meta_title: "Ice Cream Van Hire – Sweet Treats For Every Occasion"
 meta_description: "Ice Cream Van Hire – Sweet Treats For Every Occasion is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories:
   - "categories/fun-foods.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/school-entertainment.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -17,17 +22,17 @@ specs:
   - name: "Players"
     value: "Individual servings"
   - name: "Space Required"
-    value: "600mm x 1200mm x 1900mm"
+    value: "0.6m x 1.2m x 1.9m"
   - name: "Power"
-    value: "1 x mains UK power socket (Wattage usage 42-148 watts)"
+    value: "1 x Power Socket (42-148W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "600mm x 600mm x 1900mm"
+    value: "0.6m x 0.6m x 1.9m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-300 guests"

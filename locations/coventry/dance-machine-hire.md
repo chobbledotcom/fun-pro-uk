@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: 7N5e7JZEdGg
     title: Dance Machine
+thumbnail: /images/products/dance-machine/dance-machine-1.jpg
 ---
 
 # Dance Machine Hire for Coventry Events

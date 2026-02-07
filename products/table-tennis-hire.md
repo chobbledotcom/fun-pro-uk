@@ -11,7 +11,12 @@ categories:
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/office-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/college-entertainment.md
+  - events/university-events.md
+  - events/celebrations-and-parties.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -21,17 +26,17 @@ specs:
   - name: "Players"
     value: "2 players"
   - name: "Space Required"
-    value: "2000mm Width x 3000mm Depth, Allowing for the people to stand both ends"
+    value: "2m x 3m"
   - name: "Power"
     value: "No power required"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "1520mm Width x 2740mm Depth x 760mm Height"
+    value: "1.52m x 2.74m x 0.76m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

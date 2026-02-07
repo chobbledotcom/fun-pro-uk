@@ -39,17 +39,17 @@ specs:
   - name: Players
     value: Individual servings
   - name: Space Required
-    value: 1.35m x 1.25m (W/D)
+    value: 1.35m x 1.25m
   - name: Power
     value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.0m x 0.5m x 1.3m (W/D/H)
+    value: 1.0m x 0.5m x 1.3m
   - name: Suitability
-    value: Indoor or outdoor use/Level surface
+    value: Indoor or outdoor / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

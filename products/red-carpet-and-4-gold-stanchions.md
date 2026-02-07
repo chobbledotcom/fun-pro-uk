@@ -7,7 +7,11 @@ meta_title: "Red Carpet & Gold Stanchions | Red Carpet Events | Fun Pro UK"
 meta_description: "There&#39;s nothing more traditionally classy than a red carpet! This is perfect alongside photobooth hire or as a party extra. Bring Hollywood to your event!"
 categories:
   - "categories/photo-booths-and-magic-mirrors.md"
-events: []
+events:
+  - events/evening-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -15,7 +19,7 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "N/A - Display item"
+    value: "N/A"
   - name: "Space Required"
     value: "2m x 2m x 2m"
   - name: "Power"
@@ -25,9 +29,9 @@ specs:
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Standard door width"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

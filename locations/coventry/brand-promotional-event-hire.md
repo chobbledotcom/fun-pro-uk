@@ -4,6 +4,7 @@ meta_title: "Brand Activation & Promotional Game Hire in London"
 meta_description: "Host engaging London corporate events with premium promotional game rentals to boost engagement, capture leads, and create unforgettable experiences."
 redirect_from:
   - "/pages/brand-promotional-event-hire-coventry/"
+thumbnail: /images/products/ballnado-grabber/ballnado-grabber-1.jpg
 ---
 
 # Create Buzz At Your Next Event With Our Brand Activation Game Hire in Coventry

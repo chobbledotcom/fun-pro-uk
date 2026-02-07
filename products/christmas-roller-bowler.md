@@ -10,7 +10,7 @@ categories:
   - categories/christmas-game-hire.md
   - categories/christmas-games.md
 events:
-  - events/christmas-entertainment-game-hire.md
+  - events/christmas-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
@@ -20,17 +20,17 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 2000mm x 800mm x 1200mm (including player space)
+    value: 2m x 0.8m x 1.2m
   - name: Power
-    value: None - completely mechanical game
+    value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 450mm x 1480mm x 870mm
+    value: 0.45m x 1.48m x 0.87m
   - name: Suitability
-    value: Indoor/Outdoor - Dry weather only
+    value: Indoor or outdoor / Dry weather only
   - name: Access
-    value: Minimum door width 0.5m (tabletop) / 0.8m (floor-standing)
+    value: Min. door width 0.5m (tabletop) / 0.8m (floor-standing)
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

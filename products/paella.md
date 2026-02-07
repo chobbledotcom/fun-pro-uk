@@ -7,7 +7,11 @@ meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "PAELLA is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories:
   - "categories/fun-foods.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/family-fun-days.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -25,9 +29,9 @@ specs:
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Standard door width"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-500+ guests"

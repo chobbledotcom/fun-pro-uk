@@ -16,7 +16,6 @@ categories:
   - categories/photo-booths-and-magic-mirrors.md
   - categories/prize-games.md
 events:
-  - events/christmas-entertainment-game-hire.md
   - events/celebrations-and-parties.md
   - events/christmas-entertainment.md
   - events/company-award-ceremonies.md
@@ -30,17 +29,17 @@ specs:
   - name: Players
     value: 6-8 players per table
   - name: Space Required
-    value: 1.22m x 3.0m x 0.8m (W/D/H)
+    value: 1.22m x 3.0m x 0.8m
   - name: Power
-    value: 1 x UK power socket (Game wattage usage 70-80 watts)
+    value: 1 x Power Socket (70-80W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.22m x 3.0m x 0.8m (W/D/H)
+    value: 1.22m x 3.0m x 0.8m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests

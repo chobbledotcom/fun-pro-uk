@@ -19,17 +19,17 @@ specs:
   - name: Players
     value: Individual visits
   - name: Space Required
-    value: 7.2m x 6m x 4m (W/D/H)
+    value: 7.2m x 6m x 4m
   - name: Power
-    value: 4 X 13amp socket
+    value: 4 x 13A Sockets
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 5.2m x 4.6m x 3.81m (W/D/H)
+    value: 5.2m x 4.6m x 3.81m
   - name: Suitability
-    value: Indoor and Outdoor use on Grass/Level surface
+    value: Indoor and outdoor / Level surface
   - name: Access
-    value: Drive on access required
+    value: Drive-on access
 filter_attributes:
   - name: Guest Capacity
     value: 100-500+ guests

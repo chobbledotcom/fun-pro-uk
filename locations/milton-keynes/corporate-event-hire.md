@@ -4,6 +4,7 @@ meta_title: "Fun Pro UK - Corporate Entertainment Hire | Milton Keynes"
 meta_description: "Original corporate entertainment ideas &amp; first-class service. Choose Fun Pro UK for events in Milton Keynes for interactive games, photo booths &amp; much more."
 redirect_from:
   - "/pages/milton-keynes-corporate-event-hire/"
+thumbnail: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
 ---
 
 # Fun Pro UK - the Corporate Entertainment agency for Milton Keynes

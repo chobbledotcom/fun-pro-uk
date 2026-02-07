@@ -31,19 +31,19 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1 player at a time
+    value: 1 player
   - name: "Space Required "
-    value: 1.5m x 1.6m x 2.1m (W/D/H)
+    value: 1.5m x 1.6m x 2.1m
   - name: Power
-    value: 1 x UK mains socket (Game wattage usage 5-8 watts)
+    value: 1 x Power Socket (5-8W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.46m x 1.46m x 2.04m (W/D/H)
+    value: 1.46m x 1.46m x 2.04m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

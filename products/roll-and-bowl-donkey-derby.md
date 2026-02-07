@@ -14,7 +14,12 @@ categories:
   - "categories/prize-games.md"
   - "categories/pub-games.md"
   - "categories/roll-and-bowl.md"
-events: []
+events:
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/family-fun-days.md
+  - events/exhibition-games.md
+  - events/evening-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -24,17 +29,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "2900mm Width x 3000mm Depth, Allowing for people to stand in front"
+    value: "2.9m x 3m"
   - name: "Power"
-    value: "2 x mains UK power socket (Wattage usage 180-230 watts)"
+    value: "2 x Power Socket (180-230W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "2300mm Width x 2300mm Depth 2100 Height"
+    value: "2.3m x 2.3m x 2.1m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

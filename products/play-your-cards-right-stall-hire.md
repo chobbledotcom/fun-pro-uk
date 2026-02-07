@@ -24,13 +24,13 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 1.85m x 1.85m x 2.35m (W/D/H)
+    value: 1.85m x 1.85m x 2.35m
   - name: Power
-    value: No power
+    value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.83m x 1.83m x 2.14 (W/D/H)
+    value: 1.83m x 1.83m x 2.14m
   - name: Suitability
     value: Level Surface
   - name: Access

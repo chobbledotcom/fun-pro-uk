@@ -35,17 +35,17 @@ specs:
   - name: Players
     value: 4-12 players
   - name: Space Required
-    value: 1.8m x 1.8m x 2.2m (W/D/H)
+    value: 1.8m x 1.8m x 2.2m
   - name: Power
-    value: 1 x UK mains socket (Game wattage usage 950-1200 watts)
+    value: 1 x Power Socket (950-1200W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1m x 1.6m x 2m (W/D/H)
+    value: 1m x 1.6m x 2m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

@@ -4,6 +4,7 @@ subtitle: "Mechanical roll-and-bowl racing lane games"
 meta_title: "Roll & Bowl Hire | Arcade Bowling Derby Horse Race Game | UK"
 meta_description: "Roll and Bowl sees participants attempting to propel their horse forward by bowling balls into scored holes. Hire this competitive arcade classic today!"
 featured: true
+thumbnail: /images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-1.jpg
 redirect_from:
   - "/category/roll-and-bowl/"
 eleventyNavigation:
