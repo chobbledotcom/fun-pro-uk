@@ -25,19 +25,19 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1 player at a time
+    value: 1 player
   - name: Space Required
-    value: 13.0m x 4.0m (W/D)
+    value: 13.0m x 4.0m
   - name: Power
-    value: 1 x 950 watt power source 3 pin mains UK power socket
+    value: 1 x Power Socket (950W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 10.7m x 3.4m x 2.63m (W/D/H)
+    value: 10.7m x 3.4m x 2.63m
   - name: Suitability
-    value: Indoor and outdoor use/Level surface
+    value: Indoor and outdoor / Level surface
   - name: Access
-    value: Drive on only
+    value: Drive-on access
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

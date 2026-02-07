@@ -19,7 +19,7 @@ specs:
   - name: "Space Required"
     value: "2m x 2m x 2m"
   - name: "Power"
-    value: "1 x UK mains socket (190-210W)"
+    value: "1 x Power Socket (190-210W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
@@ -27,7 +27,7 @@ specs:
   - name: "Suitability"
     value: "Indoor or outdoor use"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Standard door width"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-300 guests"
