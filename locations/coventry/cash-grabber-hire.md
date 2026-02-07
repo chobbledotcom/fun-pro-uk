@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/685582415"
     title: Ballnado
+thumbnail: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
 ---
 
 # Cash Grabber Hire Coventry

@@ -4,6 +4,7 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Evening Entertainment"
 meta_description: "Looking for fun entertainment for evening parties? Check out some of our ideas, from photo booths to rodeo bulls &amp; from arcade games to casino table rentals."
 featured: true
+thumbnail: /images/products/green-screen-photo-booths/green-screen-photo-booths-1.jpg
 redirect_from:
   - "/pages/evening-entertainment/"
 eleventyNavigation:

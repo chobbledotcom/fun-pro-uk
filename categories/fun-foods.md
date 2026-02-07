@@ -3,6 +3,7 @@ title: "Fun Foods"
 meta_title: "Fun Foods Hire – Delicious Event Catering Solutions"
 meta_description: "Fun Foods Hire – Delicious Event Catering Solutions equipment experts from Fun Pro UK will help organise your event in Nationwide. Contact us today!"
 featured: true
+thumbnail: /images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg
 redirect_from:
   - "/category/fun-foods/"
 eleventyNavigation:

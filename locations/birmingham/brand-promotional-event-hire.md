@@ -4,6 +4,7 @@ meta_title: "Brand Activation & Promotional Game Hire in Birmingham"
 meta_description: "Transform your Birmingham corporate events with interactive promotional game hire. Boost engagement, generate leads &amp; create memorable brand experiences."
 redirect_from:
   - "/pages/brand-promotional-event-hire-birmingham/"
+thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 ---
 
 # Brand Activation & Promotional Game Hire in Birmingham

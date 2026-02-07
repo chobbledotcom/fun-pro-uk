@@ -4,6 +4,7 @@ meta_title: "Brand Activation & Promotional Game Hire in London"
 meta_description: "Host engaging London corporate events with premium promotional game rentals to boost engagement, capture leads, and create unforgettable experiences."
 redirect_from:
   - "/pages/brand-promotional-event-hire-london/"
+thumbnail: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
 ---
 
 # Brand Activation & Promotional Game Hire in London
