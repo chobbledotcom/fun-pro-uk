@@ -1,8 +1,4 @@
 {
-  "show_products": true,
-  "show_menus": false,
-  "show_news": true,
-  "show_recurring_events": false,
   "header": {
     "subtitle": "What's your next event?",
     "title": "Corporate Event Hire Across the UK",

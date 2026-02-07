@@ -450,10 +450,6 @@ content:
     type: file
     path: _data/homepage.json
     fields:
-      - { name: show_products, type: boolean, label: Show Products }
-      - { name: show_menus, type: boolean, label: Show Menus }
-      - { name: show_news, type: boolean, label: Show News }
-      - { name: show_recurring_events, type: boolean, label: Show Recurring Events }
       - name: header
         label: Header
         type: object
