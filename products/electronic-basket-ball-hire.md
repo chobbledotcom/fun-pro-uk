@@ -12,7 +12,14 @@ categories:
   - "categories/interactive-game-hire.md"
   - "categories/photo-booths-and-magic-mirrors.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/celebrations-and-parties.md
+  - events/college-entertainment.md
+  - events/corporate-events.md
+  - events/evening-entertainment.md
+  - events/family-fun-days.md
+  - events/office-entertainment.md
+  - events/university-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

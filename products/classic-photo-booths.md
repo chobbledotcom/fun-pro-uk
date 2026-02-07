@@ -8,7 +8,10 @@ meta_description: "Customisable corporate photo booth hire for events, perfect f
 categories:
   - "categories/photo-booths-and-magic-mirrors.md"
 events:
-  - "events/company-award-ceremonies.md"
+  - events/company-award-ceremonies.md
+  - events/evening-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

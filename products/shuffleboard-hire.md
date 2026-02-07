@@ -13,7 +13,12 @@ categories:
   - "categories/photo-booths-and-magic-mirrors.md"
   - "categories/prize-games.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/evening-entertainment.md
+  - events/office-entertainment.md
+  - events/staff-wellbeing-days.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
