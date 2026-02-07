@@ -4,7 +4,7 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "College Entertainment"
 meta_description: "Looking for ways to keep college and university students entertained at Fresher&#39;s week, extravs or any similar event? Get ideas from the UK party hire experts!"
 featured: true
-thumbnail: /images/placeholders/university.png
+thumbnail: /images/events/college-entertainment.jpg
 redirect_from:
   - "/pages/college-and-university-entertainment/"
 eleventyNavigation:
