@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/858250745"
     title: Race Car Simulator
+thumbnail: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
 ---
 
 # Race Car Simulator Hire in Coventry for Events of All Sizes

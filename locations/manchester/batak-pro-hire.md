@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/858450355"
     title: Batak Pro
+thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 ---
 
 # Batak Pro Hire Manchester

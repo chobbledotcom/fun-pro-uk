@@ -4,6 +4,7 @@ meta_title: "Conference Event Hire Coventry | Fun Pro UK"
 meta_description: "Conference game hire in Coventry. Interactive entertainment for corporate events, exhibitions, and trade shows. Professional delivery and setup included."
 redirect_from:
   - "/pages/conference-event-hire-coventry/"
+thumbnail: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
 ---
 
 # Conference Event Hire in Coventry

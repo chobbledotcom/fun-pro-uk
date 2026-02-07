@@ -4,6 +4,7 @@ meta_title: "Fun Pro UK - Corporate Entertainment Hire | Sheffield"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Choose Fun Pro UK for Sheffield events - interactive games, photo booths &amp; much more."
 redirect_from:
   - "/pages/sheffield-corporate-event-hire/"
+thumbnail: /images/products/air-hockey-table-hire/air-hockey-table-hire-1.jpg
 ---
 
 # The corporate event entertainment company for Sheffield!

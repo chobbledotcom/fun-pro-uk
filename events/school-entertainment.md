@@ -4,6 +4,7 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "School Entertainment"
 meta_description: "Looking for games and entertainment for school fun days? Check out what Fun Pro UK has! The best fun for pupils, teachers &amp; more, available nationwide!"
 featured: true
+thumbnail: /images/products/gladiator-duel/gladiator-duel-1.jpg
 redirect_from:
   - "/pages/school-fun-day-entertainment-hire/"
 eleventyNavigation:
