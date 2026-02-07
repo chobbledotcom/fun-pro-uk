@@ -1,6 +1,6 @@
 ---
 title: "TOP DOC OPERATION GAME"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Giant version of the classic Operation board game"
 price: "£395"
 order: 50
 meta_title: "Giant Operation Hire, Giant Operation Game For Rent, UK"

@@ -1,6 +1,6 @@
 ---
 title: "Popcorn Machine Cart Hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Freshly popped popcorn served from a traditional cart"
 price: "£450"
 order: 50
 meta_title: "Best Popcorn Machine Cart Hire for All UK Events"

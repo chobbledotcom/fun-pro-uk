@@ -1,6 +1,6 @@
 ---
 title: "University Events"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Entertainment hire for university events and student socials"
 meta_title: "University Events"
 meta_description: "University Events entertainment and event hire services from Fun Pro UK."
 featured: true

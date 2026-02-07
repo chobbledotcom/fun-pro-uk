@@ -1,6 +1,6 @@
 ---
 title: "Scalextric Slot Car Racing"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Multi-lane Scalextric track for slot car racing"
 price: "£695"
 order: 50
 meta_title: "Scalextric Slot Car Racing - Arcade Games Hire UK"

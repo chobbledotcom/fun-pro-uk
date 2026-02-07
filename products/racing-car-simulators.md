@@ -1,6 +1,6 @@
 ---
 title: "Racing Car Simulators"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Seated racing simulator with steering wheel and pedals"
 price: "£475"
 order: 50
 meta_title: "Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK"

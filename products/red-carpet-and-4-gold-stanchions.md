@@ -1,6 +1,6 @@
 ---
 title: "RED CARPET & 4 GOLD STANCHIONS"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Red carpet entrance with four gold rope stanchions"
 price: ""
 order: 50
 meta_title: "Red Carpet & Gold Stanchions | Red Carpet Events | Fun Pro UK"

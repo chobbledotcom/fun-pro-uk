@@ -1,6 +1,6 @@
 ---
 title: Leader Board
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Digital leaderboard add-on for competitive game hire"
 price: £75
 order: 50
 meta_title: Leaderboard Hire | Competitive Interactive Games | Fun Pro UK

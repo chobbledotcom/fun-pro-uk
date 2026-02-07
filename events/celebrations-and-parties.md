@@ -1,6 +1,6 @@
 ---
 title: "Celebrations & Parties"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Entertainment hire for private parties and celebrations"
 meta_title: "Celebrations & Parties"
 meta_description: "Celebrations &amp; Parties - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 featured: true

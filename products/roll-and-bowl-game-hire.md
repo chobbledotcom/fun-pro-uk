@@ -1,6 +1,6 @@
 ---
 title: Roll And Bowl Game Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Arcade-style roll-and-bowl lane game"
 price: £895
 order: 10
 meta_title: Roll And Bowl Hire, Rent Roll A Ball Kentucky Derby, UK

@@ -1,5 +1,6 @@
 ---
 title: "Corporate Entertainment"
+subtitle: "Games and activities for office parties and corporate functions"
 meta_title: "Office & Corporate Game Entertainment Ideas | Party Hire | UK"
 meta_description: "Looking for fun entertainment for office parties &amp; corporate events? Check out some of the ideas our experts have: photo booths to arcade games &amp; more."
 featured: true

@@ -1,6 +1,6 @@
 ---
 title: "Whack an Elf"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Festive-themed whack-a-mole game"
 price: "£495"
 order: 50
 meta_title: "Christmas Game Hire UK"

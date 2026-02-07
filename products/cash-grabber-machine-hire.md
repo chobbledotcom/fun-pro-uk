@@ -1,6 +1,6 @@
 ---
 title: Cash Grabber Machine
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Enclosed wind booth for grabbing flying vouchers or cash"
 price: £495
 order: 5
 meta_title: Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine

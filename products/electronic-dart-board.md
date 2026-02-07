@@ -1,6 +1,6 @@
 ---
 title: "Electronic Dart Board"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Soft-tip electronic dartboard with automatic scoring"
 price: "£495"
 order: 50
 meta_title: "Electronic Dart Board Hire UK | Corporate Events | Fun Pro"

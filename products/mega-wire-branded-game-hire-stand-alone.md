@@ -1,6 +1,6 @@
 ---
 title: "Mega Wire "
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Branded steady-hand wire loop game for exhibitions"
 price: £395
 order: 50
 meta_title: Mega wire hire Uk

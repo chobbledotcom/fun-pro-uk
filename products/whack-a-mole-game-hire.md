@@ -1,6 +1,6 @@
 ---
 title: "Whack A Mole game hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Classic arcade whack-a-mole target game"
 price: "£495"
 order: 50
 meta_title: "Whack A Mole Game Hire – Game Hire Service| Fun Pro UK"

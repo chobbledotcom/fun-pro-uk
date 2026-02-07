@@ -1,6 +1,6 @@
 ---
 title: "BBQ"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Gas-powered BBQ catering for event guests"
 price: ""
 order: 50
 meta_title: "BBQ - Exhibition and Game Hire in Nationwide | Fun Pro UK"

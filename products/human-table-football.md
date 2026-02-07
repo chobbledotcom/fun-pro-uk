@@ -1,6 +1,6 @@
 ---
 title: Human Table Football
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Life-size inflatable table football for up to 10 players"
 price: £495
 order: 50
 meta_title: Human Table Football Game | Corporate Events | Fun Pro UK

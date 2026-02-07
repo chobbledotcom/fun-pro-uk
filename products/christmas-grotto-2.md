@@ -1,6 +1,6 @@
 ---
 title: Christmas Grotto 2
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Inflatable walk-in Santa's grotto, 7.2m x 6m"
 order: 50
 meta_title: Santas Grotto Hire | Christmas Entertainment | Fun Pro UK
 meta_description: Santas Grotto Hire | Christmas Entertainment | Fun Pro UK is

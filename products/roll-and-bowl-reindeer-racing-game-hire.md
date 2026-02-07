@@ -1,6 +1,6 @@
 ---
 title: "Roll And Bowl Reindeer Racing Game Hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Festive-themed roll-and-bowl racing game"
 price: "£895"
 order: 50
 meta_title: "Reindeer Racing UK"

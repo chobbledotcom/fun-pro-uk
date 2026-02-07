@@ -1,6 +1,6 @@
 ---
 title: Table Football
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Classic foosball table for two or four players"
 price: £295
 order: 50
 meta_title: Hire Table Football, Football Tables For Rent Near Me, UK

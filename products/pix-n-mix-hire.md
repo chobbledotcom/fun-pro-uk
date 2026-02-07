@@ -1,6 +1,6 @@
 ---
 title: Pick N Mix Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Pick and mix sweet stand with branded display options"
 price: £550
 order: 50
 meta_title: Pick A Mix hire UK

@@ -1,6 +1,6 @@
 ---
 title: "College Entertainment"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Interactive games and activities for college events"
 meta_title: "College Entertainment"
 meta_description: "Looking for ways to keep college and university students entertained at Fresher&#39;s week, extravs or any similar event? Get ideas from the UK party hire experts!"
 featured: true

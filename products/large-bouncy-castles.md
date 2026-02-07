@@ -1,6 +1,6 @@
 ---
 title: Large Bouncy Castle
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Adult-sized bouncy castle, 8m x 6m"
 price: £295
 order: 50
 meta_title: Adult Bouncy Castle Hire | Fun Pro UK | Fun Days

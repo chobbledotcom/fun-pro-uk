@@ -1,6 +1,6 @@
 ---
 title: "Ice Cream van Hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Ice cream van serving guests at your event"
 price: ""
 order: 50
 meta_title: "Ice Cream Van Hire – Sweet Treats For Every Occasion"
