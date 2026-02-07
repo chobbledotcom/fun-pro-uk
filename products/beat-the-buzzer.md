@@ -34,17 +34,17 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 1.3m x 0.4m (W/D)
+    value: 1.3m x 0.4m
   - name: Power
-    value: 1 x mains plug socket required
+    value: 1 x Power Socket
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: " 1.24m x 0.3m x 0.68m (W/D/H)"
+    value: "1.24m x 0.3m x 0.68m"
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
