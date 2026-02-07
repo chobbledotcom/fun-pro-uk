@@ -22,6 +22,7 @@ events:
   - events/family-fun-days.md
   - events/office-entertainment.md
   - events/educational-and-community.md
+  - events/circus-skills-workshop.md
 featured: true
 features:
   - Delivery, setup, and collection included

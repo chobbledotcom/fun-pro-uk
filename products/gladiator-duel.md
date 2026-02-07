@@ -14,6 +14,7 @@ events:
   - events/summer-entertainment.md
   - events/family-fun-days.md
   - events/fundraising-events.md
+  - events/school-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included

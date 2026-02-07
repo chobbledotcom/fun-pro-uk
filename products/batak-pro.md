@@ -23,6 +23,12 @@ events:
   - events/evening-entertainment.md
   - events/university-events.md
   - events/exhibition-games.md
+  - events/christmas-entertainment.md
+  - events/conference-idea.md
+  - events/office-entertainment.md
+  - events/school-entertainment.md
+  - events/family-fun-days.md
+  - events/fundraising-events.md
 featured: true
 features:
   - Delivery, setup, and collection included

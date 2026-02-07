@@ -8,7 +8,12 @@ meta_description: "Climbing Wall Hire – Adventurous Event Attraction is one of
 categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/university-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

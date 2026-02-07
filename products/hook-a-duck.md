@@ -20,6 +20,7 @@ events:
   - events/school-entertainment.md
   - events/staff-wellbeing-days.md
   - events/educational-and-community.md
+  - events/circus-skills-workshop.md
 featured: true
 features:
   - Delivery, setup, and collection included

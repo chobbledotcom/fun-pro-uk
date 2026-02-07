@@ -10,7 +10,12 @@ categories:
   - "categories/arcade-games.md"
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
-events: []
+events:
+  - events/corporate-events.md
+  - events/exhibition-games.md
+  - events/evening-entertainment.md
+  - events/college-entertainment.md
+  - events/office-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
