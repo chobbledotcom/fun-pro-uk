@@ -3,6 +3,7 @@ title: "Prize Games"
 meta_title: "Prize Games Hire | London, Manchester, Birmingham & UK"
 meta_description: "Roll up and win a prize! From spin the wheel to grab a grand and the arcade claw grabber machine, we have it all at Fun Pro UK. Book your spot today!"
 featured: true
+thumbnail: /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-1.jpg
 redirect_from:
   - "/category/prize-games/"
 eleventyNavigation:

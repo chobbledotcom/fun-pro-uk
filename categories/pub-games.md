@@ -3,6 +3,7 @@ title: "Pub Games"
 meta_title: "Pub Game Hire | London, Birmingham, Manchester, Leeds & UK"
 meta_description: "Hire your own pub games for your next big event with Fun Pro UK! Table tennis, arcade machines, horse racing roll and bowl and much more. Book online!"
 featured: true
+thumbnail: /images/products/shuffleboard-hire/shuffleboard-hire-1.jpg
 redirect_from:
   - "/category/pub-games/"
 eleventyNavigation:
