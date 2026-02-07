@@ -1,6 +1,6 @@
 ---
 title: "Corporate Wellbeing Days"
-subtitle: "Relaxed games and activities for employee wellbeing days"
+subtitle: "Relaxed games and activities to hire for employee wellbeing days"
 meta_title: "Corporate Wellbeing Days"
 meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
 featured: true

@@ -1,6 +1,6 @@
 ---
 title: "Evening Entertainment"
-subtitle: "Photo booths, casino tables and games for evening functions"
+subtitle: "Photo booths, casino tables and games to hire for evening functions"
 meta_title: "Evening Entertainment"
 meta_description: "Looking for fun entertainment for evening parties? Check out some of our ideas, from photo booths to rodeo bulls &amp; from arcade games to casino table rentals."
 featured: true
