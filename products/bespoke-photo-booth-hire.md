@@ -1,6 +1,6 @@
 ---
 title: Bespoke Photo Booth Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Custom-branded photo booth with prints and digital sharing"
 price: £495
 order: 50
 meta_title: Bespoke Photo Booth Designs | Fun Pro UK | Entertainment

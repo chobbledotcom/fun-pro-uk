@@ -1,6 +1,6 @@
 ---
 title: "Snatch It"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Two-player reaction game — grab the lit cylinder first"
 price: "£395"
 order: 50
 meta_title: "Snatch It Game Hire – Event Game Rental | Fun Pro UK"

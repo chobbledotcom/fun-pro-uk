@@ -1,6 +1,6 @@
 ---
 title: "RETRO ARCADE GAMES"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Classic retro arcade cabinet with multiple games"
 price: "£395"
 order: 50
 meta_title: "Arcade Games Hire, Retro Arcade Machine Games For Rent UK"

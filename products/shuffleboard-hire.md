@@ -1,6 +1,6 @@
 ---
 title: "Shuffleboard Hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Tabletop shuffleboard for two players"
 price: "£495"
 order: 50
 meta_title: "Shuffleboard Hire | Fun Pro UK"

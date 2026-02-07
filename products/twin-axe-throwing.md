@@ -1,6 +1,6 @@
 ---
 title: "Twin Axe throwing"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Dual-lane axe throwing game"
 price: "£395"
 order: 50
 meta_title: "Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games"

@@ -1,6 +1,6 @@
 ---
 title: Candy Cane Megawire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Festive steady-hand wire loop game"
 price: £395
 order: 50
 meta_title: Hire Christmas Candy Cane Mega Wire | Fun Pro UK

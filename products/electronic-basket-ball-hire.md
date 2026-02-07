@@ -1,6 +1,6 @@
 ---
 title: "ELECTRONIC BASKET BALL HIRE"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Arcade-style basketball shooting game for two players"
 price: "£295"
 order: 50
 meta_title: "Hire Basketball Arcade Game, Rent Electronic Basketball Game"

@@ -1,6 +1,6 @@
 ---
 title: "Table Tennis Hire"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Full-size table tennis table for events"
 price: "£395"
 order: 50
 meta_title: "Best Table Tennis Hire in the UK | Fun Pro UK"

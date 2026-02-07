@@ -1,5 +1,6 @@
 ---
 title: "Interactive Game Hire"
+subtitle: "Hands-on competitive games for events of all sizes"
 meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
 featured: true
