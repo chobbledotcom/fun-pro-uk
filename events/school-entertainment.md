@@ -1,6 +1,6 @@
 ---
 title: "School Entertainment"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Games and inflatables to hire for school events"
 meta_title: "School Entertainment"
 meta_description: "Looking for games and entertainment for school fun days? Check out what Fun Pro UK has! The best fun for pupils, teachers &amp; more, available nationwide!"
 featured: true

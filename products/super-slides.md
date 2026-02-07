@@ -1,6 +1,6 @@
 ---
 title: "SUPER SLIDES"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Large inflatable slide, available with branding"
 price: "£295"
 order: 50
 meta_title: "Super Slide Hire | Inflatable Slides | Fun Pro UK"

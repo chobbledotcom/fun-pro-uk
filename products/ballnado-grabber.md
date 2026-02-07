@@ -1,6 +1,6 @@
 ---
 title: Ballnado Grabber Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Enclosed wind machine where players grab flying balls"
 price: £495
 order: 3
 meta_title: Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me

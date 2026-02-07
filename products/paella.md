@@ -1,6 +1,6 @@
 ---
 title: "PAELLA"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Freshly cooked paella catering for event guests"
 price: ""
 order: 50
 meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
