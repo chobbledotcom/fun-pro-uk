@@ -123,43 +123,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/de6d71f2db77ded29dce8f85f4745c2b"
 tabs:
   - title: "Why Racing Car Simulators?"
-    body: "Racing car simulators bring professional-grade driving experiences to corporate events, team building days, and brand activations. The realistic format appeals to car enthusiasts whilst remaining accessible to complete beginners.
+    body: >-
+      Get ready to rev up your event with our adrenaline-pumping Racing Car Simulators. Our state-of-the-art simulators are designed to immerse users in the excitement of racing, offering a realistic and dynamic driving experience. Whether you're looking to boost brand activation or simply provide entertainment for your guests, our simulators are guaranteed to make a lasting impression.
 
 
-      For events where you want impressive technology that creates genuine excitement, racing simulators deliver. The realistic physics, responsive controls, and competitive format generate the kind of engagement that simpler entertainment doesn't match.
+      With a choice of tracks and off-road tests for a customised experience, the Racing Car Simulators are perfect for engaging attendees at product launches and sales promotions, drawing crowds at exhibitions and trade shows, and enhancing the fun at driving-themed events like new model launches.
 
 
-      Capacity suits events of 20-200 guests, with multiple simulators available for larger events. Staff supervision ensures smooth operation."
+      You can hire between one and four car simulators to suit the size of your event. Each racing car simulator comes complete with a contoured racing seat, smart steering wheel, and authentic pedals, with an LCD screen to display your chosen circuit or course.
     image: "/images/products/racing-car-simulators/racing-car-simulators-28.jpg"
   - title: "How It Works"
-    body: "Participants take their place in the simulator cockpit, complete with realistic controls and displays. Racing across various tracks, they experience responsive physics that simulate real driving dynamics.
+    body: >-
+      Participants take their place in the simulator cockpit, complete with realistic controls and responsive physics that simulate real driving dynamics. With a choice of tracks and off-road tests, each session delivers a customised racing experience. It's one of the most realistic racing games on the market, so it's sure to impress your guests.
 
 
-      Sessions run for set periods, giving each participant meaningful racing time. Lap times and positions create natural competition and leaderboard opportunities.
+      Sessions run for set periods, giving each participant meaningful racing time. Lap times and positions create natural competition and leaderboard opportunities. The two-player option allows your team to go head to head, fostering team spirit and friendly competition.
 
 
-      Setup includes positioning the simulator units and ensuring all technical elements function correctly. Our team manages operation throughout your event."
+      Setup includes positioning the simulator units and ensuring all technical elements function correctly. Each car requires one mains UK power socket. Our team manages operation throughout your event, ensuring smooth running from start to finish.
     image: "/images/products/racing-car-simulators/racing-car-simulators-27.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Racing simulators create genuine excitement because the immersion is convincing. Players lean into corners, fight for position, and experience the tension of close racing. That engagement produces memorable experiences.
+    body: >-
+      The racing car simulator is a guaranteed way to draw the crowds, not just to drive but also to watch the action as it unfolds. Players lean into corners, fight for position, and experience the tension of close racing. The cutting-edge experience leaves guests in awe and delivers the ultimate driving thrill.
 
 
-      The competitive element develops naturally. Lap times become challenges, colleagues compete for track records, and rivalries develop throughout events. The measurable performance creates clear bragging rights.
+      The competitive element develops naturally. Lap times become challenges, colleagues compete for track records, and rivalries develop throughout events. It's a great ice-breaker in between conference sessions and adds extra excitement at any company awards night or Christmas dinner.
 
 
-      For spectators, watching colleagues race is entertaining in itself. Near-misses, overtakes, and crashes generate reactions that spread energy through the room."
+      For spectators, watching colleagues race is entertaining in itself. Near-misses, overtakes, and crashes generate reactions that spread energy through the room. Not only is this a fun way to provide entertainment for your guests, but it will also help to make your next event more memorable.
     image: "/images/products/racing-car-simulators/racing-car-simulators-28.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We make all the arrangements for you, so you don't have to worry about how to transport a racing car simulator to your venue. Our team will do the installation and ensure that the machine is fully operational and ready for the first rider. At the end of the event, our team will show up and take it away.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We deliver to the whole of the UK including Coventry, Birmingham, Leicester, Milton Keynes, London and Manchester.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note this equipment cannot be carried up or down flights of stairs. A lift is required for upper floors. Minimum order value and delivery fees may apply to all locations.
     image: "/images/products/racing-car-simulators/racing-car-simulators-25.jpg"
 faqs:
   - question: "How many people can use the Racing Car Simulators at once?"

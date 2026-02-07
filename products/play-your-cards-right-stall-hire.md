@@ -105,68 +105,43 @@ tabs:
   - title: Why Play Your Cards Right Stall Hire?
     image: /images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg
     body: >-
-      Play Your Cards Right brings television game show entertainment to
-      corporate events, celebrations, and parties. The familiar higher-or-lower
-      format creates immediate engagement whilst prizes add tangible stakes.
+      Looking to add an element of excitement and friendly competition to your next corporate event? Our Play Your Cards Right stall hire is the perfect choice for entertaining guests of all ages. Inspired by the classic TV game show, this interactive game creates a thrilling atmosphere, making it an ideal addition to corporate events, fairs, staff parties, and more.
 
 
-      For events where you want entertainment that creates drama and works for
-      prize distribution, the card game format delivers. The visible decisions
-      and crowd participation create atmosphere.
+      Simple yet highly engaging, Play Your Cards Right is a fantastic game that suits events of all sizes. Whether your event is indoors or outdoors, this game is easy to set up and will keep guests entertained for hours.
 
 
-      The format suits events of 20-200 guests, with the game show elements
-      encouraging spectator participation alongside contestants.
+      For corporate clients, this game offers a great branding opportunity. Customise the stall with your company's logo, slogans, or unique design to align with your event's theme. Guests will enjoy an exciting challenge while your branding takes centre stage.
   - title: How It Works
     image: /images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-1.jpg
     body: >-
-      Contestants predict whether the next card will be higher or lower than the
-      current one. Correct guesses advance them towards prizes whilst wrong
-      answers end their run.
+      Our Play Your Cards Right stall hire includes a professionally designed game stall, 50 fun prizes, large high-quality playing cards for maximum visibility, and easy-to-follow game instructions. An optional trained host to manage the game for up to 4 hours is also available. The stall is suitable for both indoor and outdoor use.
 
 
-      The format naturally involves spectators, who call out predictions and
-      react to reveals. This audience participation creates atmosphere beyond
-      just the contestants.
+      Contestants predict whether the next card will be higher or lower than the current one. Correct guesses advance them towards prizes whilst wrong answers end their run. The format naturally involves spectators, who call out predictions and react to reveals.
 
 
-      Setup includes the card display and any prize structures. The game can run
-      as continuous entertainment or focused rounds.
+      Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. If required, we also offer an event host to ensure smooth gameplay throughout your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg
     body: >-
-      Play Your Cards Right works because the format is familiar and the
-      decisions feel consequential. Will they go higher or lower? The
-      anticipation of the card reveal creates genuine drama.
+      Play Your Cards Right works because the format is familiar and the decisions feel consequential. Will they go higher or lower? The anticipation of the card reveal creates genuine drama that keeps guests engaged.
 
 
-      The crowd participation element is crucial. Spectators shouting advice,
-      groaning at bad luck, celebrating wins. The shared experience creates
-      atmosphere that individual games don't achieve.
+      The crowd participation element is crucial. Spectators shouting advice, groaning at bad luck, celebrating wins. It is a fun and engaging way to bring people together and encourage natural interaction among teams who might not otherwise have the chance to spend much time together or get to know each other.
 
 
-      The television association helps too. People know the format, understand
-      the stakes, and engage with the familiarity. That recognition lowers
-      barriers to participation.
+      This game is ideal for a range of events, including corporate team-building days, community fairs, product launch events, and more. The television association helps too. People know the format, understand the stakes, and engage with the familiarity, which lowers barriers to participation.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests. We are flexible with timing, whether you need an office-hours setup or late-night collection after an evening event.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
 ---

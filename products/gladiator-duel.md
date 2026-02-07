@@ -4,9 +4,9 @@ subtitle: "Inflatable podium jousting game for two players"
 price: £395
 order: 50
 meta_title: Gladiator Duel Hire | Inflatable Games | Fun Pro UK
-meta_description: Strap on the bungee cords and race to the end! Gladiator duels
-  are as fun to watch as they are to play - laughter guaranteed! Available for
-  hire nationwide.
+meta_description: Bash the boss or clobber a colleague in our inflatable gladiator
+  duel! Two players joust on podiums with padded sticks — as fun to watch as it
+  is to play. Available for hire nationwide.
 categories:
   - categories/fun-days.md
   - categories/weddings.md
@@ -67,76 +67,84 @@ tabs:
   - title: Why GLADIATOR DUEL?
     image: /images/products/gladiator-duel/gladiator-duel-5.jpg
     body: >-
-      Gladiator Duel brings competitive one-on-one entertainment to corporate
-      events, team building days, and celebrations. Two competitors battle on
-      podiums with padded pugil sticks, trying to knock each other off balance.
-      It's entertainment that creates memorable moments.
+      Whether you are playing for fun or out for revenge on the workmate who
+      stole your sandwiches from the office fridge, our Gladiator Duel is a
+      great way to release any pent up tension during your office fun day, and
+      have enormous fun doing it. After all, it's not every day you get to bash
+      the boss or clobber a colleague, so the gladiator duel is your big chance.
 
 
-      For events where you want something more engaging than passive
-      entertainment, gladiator duels deliver visible drama and genuine
-      competition. Colleagues face off, crowds gather to watch, and the format
-      creates talking points that continue after the event.
+      It's always a massive success at any kind of company fun day, creating a
+      queue of challengers and a huge crowd cheering them on, or perhaps willing
+      them to fall. The gladiator duel is just part of our company fun day hire
+      range, available for delivery across the UK.
 
 
-      The 1-4 player capacity keeps throughput moving for events of 20-200
-      guests. Setup is handled by our team, with supervision throughout to
-      ensure safe, fair competition.
+      Talk to our friendly team and we'll create the perfect package to suit
+      your theme, your venue and your budget, with everything carefully planned
+      to make your whole day hassle free.
   - title: How It Works
     image: /images/products/gladiator-duel/gladiator-duel-4.jpg
     body: >-
-      Two competitors stand on raised podiums facing each other, armed with
-      padded pugil sticks. The objective is to knock your opponent off balance
-      whilst defending yourself. Clear rules ensure fair, safe competition.
+      Gladiator duel game hire includes a top quality inflatable battle zone,
+      to guarantee a soft landing when you get knocked down. You'll also get a
+      pair of padded fighting sticks, just like the Gladiators on TV, plus a
+      pair of head protectors to stop you getting hit too hard.
 
 
-      Bouts run for set time periods or until one competitor dismounts.
-      Tournament formats work well for team building, with colleagues competing
-      through rounds to reach finals.
+      Who will survive the pummelling and stay on their podium while knocking
+      their opponent for six? Who has the best balance and the fastest swing?
+      You'll be surprised at what you find out about your fellow workers when
+      they let their hair down and really go for it.
 
 
-      Our team handles setup and provides supervision throughout, ensuring bouts
-      remain safe and competitive. All equipment is professionally maintained
-      and safety-tested.
+      Our team handles the full setup and provides supervision throughout,
+      ensuring bouts remain safe and competitive. All equipment is
+      professionally maintained and safety-tested.
   - title: Why It's A Crowd Favourite
     image: /images/products/gladiator-duel/gladiator-duel-5.jpg
     body: >-
-      Gladiator duels create genuine spectacle. Two colleagues battling with
-      padded sticks is inherently entertaining to watch. Crowds gather
-      naturally, pick sides, and react to the action. The social dynamics
-      develop without needing to be orchestrated.
+      It's always a massive success at any kind of company fun day, creating a
+      queue of challengers and a huge crowd cheering them on, or perhaps willing
+      them to fall. The head-to-head format creates real drama and genuine
+      competition that team games don't quite match.
 
 
-      The head-to-head format creates drama that team games don't quite match.
-      There's a clear winner and loser, real tension during bouts, and the kind
-      of memorable moments that become office legends.
+      You'll be surprised at what you find out about your fellow workers when
+      they let their hair down and really go for it, and the quietest secretary
+      often turns out to be a secret Sparticus! Unexpected winners create the
+      best stories.
 
 
       It's also surprisingly accessible. The padded equipment and balanced
       podiums mean size and strength matter less than balance and technique.
-      Unexpected winners create the best stories.
+      Those upsets create the memorable moments that guests talk about
+      afterwards.
   - title: Delivery
     image: /images/products/gladiator-duel/gladiator-duel-2.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. Our team arrives with
+      adequate time before your event to position and test everything, ensuring
+      it's ready for your first guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request, with free delivery
+      within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment requires drive-on access and cannot be carried up or down
+      flights of stairs. A lift is required for upper floors. We'll confirm
+      access requirements when discussing your venue.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can play Gladiator Duel at once?
     answer: Two competitors battle at a time on raised podiums. The head-to-head

@@ -75,70 +75,78 @@ tabs:
   - title: Why Giant Deck Chair Hire?
     image: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
     body: >-
-      Giant deck chairs create instant photo opportunities and relaxed
-      atmosphere at summer events, beach-themed parties, and outdoor
-      celebrations. The oversized format draws attention and generates social
-      media content naturally.
+      Looking to add a touch of fun and relaxation to your event? Our Giant
+      Deck Chair Hire provides a vibrant and inviting seating option for your
+      guests. Whether it's a family fun day, corporate event, or summer fete,
+      these stylish and colourful deck chairs create a festive atmosphere and
+      offer a comfortable spot for attendees to sit back and enjoy the
+      festivities.
 
 
-      For events where you want visual elements that encourage photos and create
-      talking points, giant deck chairs deliver. The unusual scale creates
-      memorable images that guests share.
+      For family fun days, the bright and cheerful colours of the deck chairs
+      enhance the overall ambiance, creating a welcoming environment for
+      families to unwind and have a great time. Whether it's a community fair,
+      carnival, or outdoor festival, deck chairs contribute to the festive
+      atmosphere.
 
 
-      The setup works for various outdoor and indoor venues with adequate
-      ceiling height. The chairs become natural gathering points and photo
-      stations.
+      When it comes to corporate events, deck chair hire can transform any
+      outdoor space into a comfortable and stylish setting, perfect for
+      team-building days, company picnics, or outdoor networking events.
   - title: How It Works
     body: >-
-      The oversized deck chair is positioned as a feature element, creating
-      immediate visual impact. Guests climb in for photos, often in groups,
-      creating shareable content.
+      The Giant Deck Chair is positioned as a feature element at your event,
+      creating immediate visual impact. Guests climb in for photos, often in
+      groups, creating shareable social media content that extends your event's
+      reach.
 
 
-      The chair serves as both photo opportunity and conversation starter. It
-      can be branded for corporate events requiring visual branding elements.
+      Summer fetes are all about enjoying the outdoors and embracing the
+      spirit of the season. The deck chair provides a classic and charming
+      seating solution, adding a touch of nostalgia and elegance. Guests can
+      bask in the sunshine and savour the delightful atmosphere.
 
 
-      Setup requires adequate space for the chair and surrounding photo area. We
-      handle positioning for maximum impact.
+      We offer a wide range of deck chair options to suit different event
+      themes and preferences, from traditional striped designs to modern and
+      vibrant patterns. The flexibility allows you to create a customised
+      seating area that complements the overall aesthetic of your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
     body: >-
-      Giant furniture creates photos that stand out. The scale contrast of
-      normal people in oversized chairs produces images that people actually
-      want to share. That shareability extends event reach.
+      Deck chair hire is a fantastic addition to any event. The colourful and
+      stylish deck chairs create a vibrant and inviting atmosphere, perfect
+      for outdoor events, and provide a comfortable seating option for guests
+      to relax and enjoy the festivities.
 
 
-      The novelty factor draws engagement. Guests naturally want to try the
-      giant chair, creating natural traffic to the feature. The experience is
-      simple but memorable.
+      The deck chairs are practical and versatile. They can be easily arranged
+      to accommodate varying group sizes and seating arrangements, making them
+      an adaptable choice for different event layouts. Whether you're planning
+      a small intimate gathering or a large-scale event, deck chair hire
+      offers a convenient seating solution.
 
 
       For summer events specifically, the deck chair carries positive
       associations with relaxation and holidays. Those connections transfer to
-      your event atmosphere.
+      your event atmosphere, creating a memorable setting for your guests.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install on site with our trained team, so there's nothing
+      for you to coordinate on the day. With nationwide delivery, our Giant
+      Deck Chair Hire service is convenient and hassle-free.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note this equipment cannot be carried up or down flights of
+      stairs -- a lift is required for upper floors. Delivery charges and
+      minimum order value may apply to all locations.
 faqs:
   - question: How big is the Giant Deck Chair?
     answer: The Giant Deck Chair is significantly oversized to create visual impact

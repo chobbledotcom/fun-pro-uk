@@ -70,43 +70,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/50395536024ba9fc15eb752613165cb5"
 tabs:
   - title: "Why TOP DOC OPERATION GAME?"
-    body: "Top Doc Operation Game scales up the classic board game for event entertainment, challenging players to remove pieces without touching the sides. The familiar format triggers nostalgia whilst the larger scale adds drama and difficulty.
+    body: >-
+      Looking for something original and unusual for your next medical conference, healthcare sector exhibition, or new medical product launch? Our Top Doc game is sure to raise interest and raise a smile with everyone from doctors to delegates. It's perfect for any medical themed event or conference, but you don't need doctors and nurses to play it, because anyone can join the fun at any kind of corporate event.
 
 
-      For events where you want entertainment that appeals to the puzzle-solvers and steady-handed amongst your guests, Operation delivers focused challenge that differs from reaction or physical games.
+      Top Doc is just like the operation game you played as a kid, but so much bigger and more sophisticated. You'll need a steady hand to perform this surgery, with a huge range of body parts that need removing one by one to win the game. Our version uses electromagnets to stick to the shapes, but if you touch the sides your piece will be released and you'll have to start all over again.
 
 
-      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady engagement. Mains power required, setup takes 15-20 minutes."
+      Top Doc game hire is not only great for conferences and exhibitions, it's also hugely popular as part of your company fun day or open day event. We'll help you create a real slice of nostalgia with your own games arcade packed with classic challenges from your childhood.
     image: "/images/products/top-doc-operation-game/top-doc-operation-game-3.jpg"
   - title: "How It Works"
-    body: "Players use oversized tweezers to remove pieces from the patient without touching the sides. Contact triggers the buzzer, just like the classic game but at event scale.
+    body: >-
+      Players use oversized tweezers to remove body parts from the patient without touching the sides. Our version uses electromagnets to stick to the shapes, but if you touch the sides your piece will be released and you'll have to start all over again, just like the classic game but at event scale.
 
 
-      The familiar format means no instruction needed for most guests. The challenge comes from the scaled-up difficulty and the pressure of spectators watching.
+      This table top game can be set up almost anywhere, which means it can be moved around your event as required. Place it in the break-out area during conference sessions, then move it to the bar or reception for your evening event. Top Doc hire also includes a colourful wrap around printed screen to hide the table legs and complete the look.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes."
+      Setup requires mains power and takes approximately 15-20 minutes. The game is a fun challenge that's simple and won't take a lot of time, as the next participant may be lined up, and it's easy to quickly prepare before the next player starts.
     image: "/images/products/top-doc-operation-game/top-doc-operation-game-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Operation taps into childhood memories for anyone who played the board game. That nostalgia creates instant engagement and lowers barriers to participation. People want to see if they've still got steady hands.
+    body: >-
+      If you remember that fun Operation game when you were a child, this giant version brings it all back. Many people haven't played a good game of Operation since childhood, and you'll put smiles on everyone's faces at your next big event. This gives adults a chance to have fun with an old childhood favourite.
 
 
-      The spectator element works brilliantly. Crowds gather, hold their breath, react to the buzzer. The tension is genuine and the drama is visible.
+      The spectator element works brilliantly. Crowds gather, hold their breath, and react when someone gets zapped. You can take turns with your friends in removing various body parts, but don't get zapped! You can even add a prize or two for some extra fun.
 
 
-      It also offers something different from physical or reaction games, appealing to guests who might not engage with more athletic entertainment. The steady-handed succeed regardless of fitness or reflexes."
+      The medical and health fields can be quite stressful for workers today, and that's why this giant game of operation will add a fun element to some serious topics. It also offers something different from physical or reaction games, appealing to guests who might not engage with more athletic entertainment.
     image: "/images/products/top-doc-operation-game/top-doc-operation-game-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle everything for you, from delivery and setup, to packing up and putting it back on the truck at the end of the event. All you have to do is show your interest and book the game for your next big event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We can deliver any item anywhere in the UK, including Liverpool and Manchester, and we offer great savings with package hires.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note the equipment cannot be carried up or down flights of stairs; a lift is required for upper floors. Indoor use only on a level surface, with a minimum door width of 0.6m required for access.
 faqs:
   - question: "How many people can play Top Doc Operation at once?"
     answer: "The game accommodates 1-4 players taking turns. One person operates at a time whilst spectators watch the tension build."

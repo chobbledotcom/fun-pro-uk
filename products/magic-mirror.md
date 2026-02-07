@@ -99,75 +99,89 @@ tabs:
   - title: Why MAGIC MIRROR?
     image: /images/products/magic-mirror/magic-mirror-16.jpg
     body: >-
-      Magic mirror photo booths bring modern technology and interactive features
-      to corporate events, celebrations, and brand activations. The full-length
-      mirror format with touchscreen interaction creates a more sophisticated
-      photo experience than traditional booths.
+      Bring the magic to your events with our interactive and engaging Magic
+      Mirror Hire service. Perfect for weddings, conferences, well-being days,
+      exhibitions, fun days, and brand activations, the Magic Mirror adds a fun
+      and memorable touch to any occasion.
 
 
-      For events where you want photo entertainment that feels premium and
-      creates impressive outputs, magic mirrors deliver. The larger format means
-      better full-length shots, whilst interactive features like animations,
-      signing, and games add engagement beyond standard photo taking.
+      The Magic Mirror is a cutting-edge photo booth experience that captures
+      the essence of your event in a unique way. This original and unusual photo
+      machine will really make your company stand out from the crowd at any
+      trade show, exhibition, or product promotion. Compact enough to fit on to
+      any exhibition stand or promo stage, yet big enough and bright enough to
+      make a real impact.
 
 
-      Capacity suits events of 20-200 guests, with throughput maintained through
-      the open format that keeps sessions moving.
+      With our Magic Mirror Hire, you can elevate your event and create lasting
+      memories for your guests. Whether you're hosting a corporate event or a
+      private celebration, the Magic Mirror adds a touch of fun and excitement
+      that keeps guests entertained throughout the event.
   - title: How It Works
     image: /images/products/magic-mirror/magic-mirror-15.jpg
     body: >-
-      Guests approach the mirror and interact with the touchscreen interface,
-      which guides them through various poses and options. The full-length
-      mirror shows guests in real-time whilst adding effects, animations, and
-      graphics.
+      Guests strike a pose in front of the mirror, and with a click, the mirror
+      captures their best moments. The mirror's interactive features allow
+      guests to customise their photos with fun props and digital backgrounds
+      for a truly personalised experience.
 
 
-      Photos print immediately and can be shared digitally. The interactive
-      elements, including games, signing on screen, and animated prompts, create
-      more engaging sessions than static photo taking.
+      The computer adds in fun backgrounds and other graphics, such as
+      confetti, balloons, and also corporate logos, contact information, or the
+      names of the party hosts. For each visit, guests receive two prints and
+      use of the fun photo props, with unlimited visits throughout your event.
+      There is also the option to visit a website with a download link to get
+      all the photos after the event.
 
 
-      Setup requires mains power and approximately 15-20 minutes. The open
-      format suits various venue layouts.
+      Guests can still wear fun costume props too, with options including
+      sunglasses, hats, feather boas, and magic wands. For corporate events,
+      you can add company messages or logos to every print. We handle all the
+      programming for you, and an attendant will assist with the photos and
+      help to replace any paper or ink as required.
   - title: Why It's A Crowd Favourite
     image: /images/products/magic-mirror/magic-mirror-16.jpg
     body: >-
-      Magic mirrors create more memorable photo experiences because they're
-      genuinely interactive rather than passive. Guests engage with the mirror,
-      react to animations, and play games whilst capturing photos. That
-      engagement produces better images and more memorable experiences.
+      The magic selfie mirror not only takes great pictures of your guests, but
+      also pays them a cheeky compliment too, with messages written on the
+      mirror and spoken in the voice of your choice. We can even personalise
+      your magic mirror to match your event, giving it a real wow factor that
+      will stick in the minds of your potential clients and customers, subtly
+      reinforcing your sales message.
 
 
-      The full-length format matters too. People want to show off outfits at
-      events, and standard booths often crop awkwardly. The mirror shows
-      everything, producing photos guests actually want to share.
+      Your hire package includes a friendly operator to really take care of
+      your guests. They will make sure everyone enjoys the experience and gets
+      the perfect picture. Each operator is fully trained and never forgets
+      that they are representing your company.
 
 
-      The technology also impresses. First-time users are visibly delighted by
-      the interactive elements. That wow factor generates buzz and encourages
-      more guests to participate.
+      Some people enjoy arcade-style games, some want to get in on the action,
+      while others want something simple that reminds them of the fun days they
+      had with friends or family. The magic mirror is a great way to add some
+      additional fun to your event, and you'll give your partygoers something
+      to talk about in the years ahead.
   - title: Delivery
     image: /images/products/magic-mirror/magic-mirror-13.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install the Magic Mirror on site with our trained team, so
+      there's nothing for you to coordinate on the day. We offer delivery
+      throughout the UK on request, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry which includes the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes, and Sheffield.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Here are just some of the local areas we deliver to: West Midlands,
+      Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa,
+      Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton,
+      Kettering, Hinckley, Solihull, and Stratford upon Avon. We are able to
+      cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note, the Magic Mirror cannot be carried up or down flights of
+      stairs. A lift is required for upper floors. Minimum door width is 0.6m.
+      Delivery charges and minimum order value may apply.
 faqs:
   - question: How many people can use the Magic Mirror at once?
     answer: Groups of 1-8 can use the mirror together, with the full-length format

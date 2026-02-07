@@ -82,43 +82,89 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/f54b18f1dc6509f96c728ad6d8b7eded"
 tabs:
   - title: "Why Rodeo Bull?"
-    body: "Rodeo bull riding brings high-energy entertainment and guaranteed spectacle to corporate events, team building days, and celebrations. The challenge of staying mounted whilst the bull bucks creates drama that draws crowds.
+    body: >-
+      Experience the thrill of the rodeo right at your next event with our
+      Rodeo Bull hire. Whether it's a fun-filled birthday party, a festive
+      Christmas celebration, a corporate Christmas party, business convention,
+      or a big family reunion, our Rodeo Bull will guarantee non-stop
+      entertainment and laughter for all ages.
 
 
-      For events where you want entertainment that creates memorable moments and generates energy, rodeo bulls deliver. The visible challenge, the inevitable dismounts, and the cheering crowds create atmosphere.
+      Have you ever felt envious when watching the participants at a rodeo?
+      There is zero chance you'd get to ride a real bull, but there is a fun
+      way that you and your guests can do that at your next big event, and it
+      doesn't even involve a real bull! Our rodeo bull features realistic
+      bucking and bouncing motions for an authentic rodeo experience that draws
+      crowds and creates unforgettable moments.
 
 
-      Professional setup and supervision ensures safe operation. Capacity suits events of 20-200 guests with excellent spectator entertainment value."
+      Safe and enjoyable for adults and children over 5 years old, with an
+      attendant on-site for supervision and control of the bull, and a soft
+      and spongy inflatable pool for a secure landing in case of a fall.
     image: "/images/products/rodeo-bull/rodeo-bull-13.jpg"
   - title: "How It Works"
-    body: "Participants mount the mechanical bull and attempt to stay on whilst it bucks and spins. The difficulty can be adjusted to suit different experience levels and event requirements.
+    body: >-
+      The player hops on top of the bull, holds on, the button is pressed,
+      and the bull bucks and bounces you around while you try to hold on. You
+      actually enter a circular inflatable pool with the bull in the centre,
+      so if you lose control and fall off, there is a soft and spongy surface
+      that will stop your fall, preventing any injuries.
 
 
-      Timed rides determine success, with riders competing for longest survival times. The spectacle creates natural gathering points with crowds cheering and reacting.
+      There will be an attendant on site to spot the players who can stop the
+      bull from running at any time. The difficulty can be adjusted to suit
+      different experience levels and event requirements. Adults and children
+      over the ages of 5 years old can play.
 
 
-      Our team handles setup and operates the bull throughout your event, adjusting difficulty and ensuring safe dismounts."
+      We do most of the work for you, while your guests have fun at the event.
+      Our team handles setup and operates the bull throughout, adjusting
+      difficulty and ensuring safe dismounts.
     image: "/images/products/rodeo-bull/rodeo-bull-12.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Rodeo bulls create genuine spectacle. Watching colleagues attempt to stay mounted, the increasing difficulty, the inevitable dismount. It's inherently entertaining in a way that generates natural crowd energy.
+    body: >-
+      Get ready to hold on tight as the Rodeo Bull bucks and spins,
+      challenging your riding skills and endurance. Watching colleagues attempt
+      to stay mounted, the increasing difficulty, the inevitable dismount --
+      it guarantees non-stop entertainment and laughter for everyone watching.
 
 
-      The challenge element appeals to competitive types. Staying on longer than colleagues becomes a point of pride, driving participation and repeat attempts.
+      The challenge element appeals to competitive types. Staying on longer
+      than colleagues becomes a point of pride, driving participation and
+      repeat attempts. People will be queuing up to have a go while others
+      cheer them on.
 
 
-      For corporate events, the slight vulnerability of being bucked off whilst colleagues watch creates bonding moments. Shared laughter at collective experiences builds connection."
+      For corporate events, the slight vulnerability of being bucked off
+      whilst colleagues watch creates bonding moments. Shared laughter at
+      collective experiences builds connection, and it's a fun way for your
+      guests and attendees to have fun while staying safe and secure within
+      the inflatable structure.
     image: "/images/products/rodeo-bull/rodeo-bull-13.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. All you have to do is
+      choose your venue and wait while your rodeo bull is delivered and set up.
+      At the end of the event, we come and take it away.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Please note that the equipment cannot be carried up or down flights of
+      stairs -- lift access is required. Minimum order value and delivery fees
+      apply to all locations.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind. Our team arrives with adequate time
+      before your event to position and test everything, ensuring it's ready
+      for your first guests.
     image: "/images/products/rodeo-bull/rodeo-bull-10.jpg"
 faqs:
   - question: "How many people can ride the Rodeo Bull at once?"

@@ -50,68 +50,74 @@ redirect_from:
 tabs:
   - title: Why Branded Capsule Bin?
     body: >-
-      Branded capsule bins offer customised prize distribution that reinforces
-      your brand throughout the experience. Guests retrieve capsules containing
-      prizes, messages, or offers, creating interactive engagement with branded
-      touchpoints.
+      Keep your exhibition stand organised and engaging with our
+      custom-branded capsule bin, designed specifically to collect all prize
+      capsules from your crane machine or claw game. This eye-catching bin
+      not only keeps your event space tidy but also reinforces your brand
+      presence with full-colour graphics and custom logos.
 
 
-      For brand activations or marketing events where you want entertainment
-      that delivers brand exposure alongside engagement, capsule bins integrate
-      messaging naturally into the fun.
+      Perfect for trade shows, promotional events, and experiential marketing
+      campaigns, the capsule bin provides a clean, professional way to manage
+      capsule returns while maintaining a fun and interactive atmosphere.
 
 
-      The customisation options suit various marketing objectives, from prize
-      distribution to coupon delivery to brand message reinforcement.
+      Make your stand memorable and organised — choose a branded capsule
+      collection bin that's as stylish as it is practical.
   - title: How It Works
     body: >-
-      Capsules are branded and loaded with prizes, offers, or messages relevant
-      to your campaign. Guests interact with the bin to receive capsules,
-      creating engagement moments.
+      The branded capsule bin is designed to fit seamlessly with our prize
+      crane machines. Built from durable, lightweight materials, it's easy
+      to transport, assemble, and position beside your prize crane or
+      vending unit.
 
 
-      The format can be configured for random distribution, earned rewards, or
-      other mechanisms depending on your objectives. Each capsule carries
-      branding and content.
+      Custom branding with your company logo and colours means every
+      interaction reinforces your brand presence. The bin encourages capsule
+      recycling and re-use, keeping your event space tidy throughout the day.
 
 
-      Setup requirements vary by configuration. We'll discuss specifics when you
-      enquire.
+      No power is required and the compact size of 400mm x 400mm x 620mm
+      means it fits easily into any stand layout. Simply position it beside
+      your crane machine and you're ready to go.
   - title: Why It's A Crowd Favourite
     body: >-
-      Capsule prizes create excitement because the mystery of what's inside
-      drives engagement. The anticipation of opening, the reveal of contents,
-      the comparison with others' prizes. It generates buzz naturally.
+      The capsule bin enhances brand visibility and event aesthetics while
+      keeping your stand looking clean and professional. Guests naturally
+      interact with it after collecting their prizes, creating additional
+      brand touchpoints throughout the experience.
 
 
-      The branded elements ensure marketing objectives are met alongside
-      entertainment. Every capsule reinforces messaging and creates brand
-      touchpoints.
+      The eye-catching custom design with full-colour graphics and logos
+      draws attention and reinforces your presence on the exhibition floor.
+      It's a practical addition that works hard for your brand without
+      requiring any additional staffing or power.
 
 
-      For experiential marketing specifically, the format delivers trackable,
-      tangible engagement that demonstrates campaign reach and impact.
+      For experiential marketing campaigns specifically, the branded capsule
+      bin completes the prize crane experience, ensuring a polished,
+      professional look from first interaction to capsule return.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
+      We handle delivery, setup, and collection as part of your hire, so
       there's nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which include the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Built from durable, lightweight materials, the capsule bin is easy to
+      transport and assemble. No power is required and the compact size
+      means it fits through standard door widths with ease.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Minimum order value and delivery fees apply to all locations. For all
+      enquiries please complete our enquiry form and one of our team will
+      get back to you.
 faqs:
   - question: What is the Branded Capsule Bin used for?
     answer: The Branded Capsule Bin is used for prize distribution and promotional

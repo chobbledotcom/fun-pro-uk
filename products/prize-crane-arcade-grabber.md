@@ -122,43 +122,44 @@ add_ons:
       price: 475
 tabs:
   - title: "Why Prize Crane Arcade Grabber?"
-    body: "Prize crane machines bring authentic arcade entertainment to corporate events, celebrations, and brand activations. The familiar grab-the-prize format creates genuine engagement whilst the potential for wins maintains interest throughout.
+    body: >-
+      Looking to add a touch of fun and excitement to your next event or marketing campaign? Our Arcade Prize Grabber Crane for hire provides a unique and interactive way to engage with your guests and create lasting memories. Perfect for conferences, well-being days, exhibitions, and fun days, the Prize Crane Arcade Grabber is a sure way to increase brand activation and drive engagement.
 
 
-      For events where you want entertainment that combines skill, luck, and tangible rewards, crane machines deliver. The addictive format keeps guests coming back, whilst prizes create memorable takeaways.
+      With its fully customisable design featuring bespoke graphics and artwork, the Arcade Grabber Crane always stands out and catches the eye of attendees. Whether you're looking to attract crowds at a trade show or create a buzz at a company event, this game delivers on both fun and visual appeal.
 
 
-      Capacity suits events of 20-200 guests, with the prize element maintaining high engagement levels. Mains power required."
+      Easy to play and suitable for all ages, the Prize Crane Arcade Grabber challenges players to guide the claw over their desired prize and hit the release button. Will they be a winner? The excitement of every attempt keeps guests coming back.
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-16.jpg"
   - title: "How It Works"
-    body: "Players control the crane using joystick controls, positioning it over prizes before lowering the claw to attempt a grab. The familiar arcade format needs no explanation.
+    body: >-
+      Each visitor uses the joystick to move the crane, then drops it down to grab onto a capsule. Once successfully captured, the crane lifts up and aims for the drop zone. The capsule is released, drops through the tunnel to the exit, and the player grabs it to see what they won. We suggest filling each plastic capsule with small items such as keyrings, stickers, badges, pins, or figurines.
 
 
-      Prizes can be customised to suit your event and budget, from branded items to premium products. The machine operates continuously with guests playing as they wish.
+      Our grabber machine hire is a game with a difference. Since this is designed for exhibitions, there are no coins required. The theme is "Prize Every Time" - each player wins a prize, regardless of how long they take to play. There is no countdown clock; instead, the player can still have fun and play at their own pace.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes."
+      The cabinet features a simple white design to fit all brand or event themes, with a front button and joystick. You can control it through wireless credits, and there is internal lighting and fun music to attract the attention of players. You can have the prize crane branded with a wrap too. If you don't have small items, we can provide pre-filled capsules containing a variety of small toys or mini plush teddies.
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-15.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Crane machines are genuinely addictive. The positioning, the drop, the near-misses, the eventual wins. The format has been perfected over decades in arcades because it simply works.
+    body: >-
+      You'll be providing fun entertainment for everyone, while offering them an opportunity to win a prize. You can even add small branded promotional items for your exhibition stand or conference booth. The addictive nature of the claw machine keeps guests queuing up for another go.
 
 
-      The prize element adds stakes that pure games lack. Playing for something tangible changes engagement levels. Guests persist through failures for the satisfaction of eventual success.
+      The items can be bright and colourful to entice players. Players see something they like, move the joystick in that direction, and the excitement builds with every attempt. Near-misses generate reactions, and successful grabs deliver genuine satisfaction that guests remember and associate with your event.
 
 
-      Wins also create memorable moments. Successfully grabbing a prize delivers genuine satisfaction that guests remember and associate with your event."
+      Don't forget our arcade style claw grabber for hire is great for exhibitions and promotions, plus all those fun party events all year round. You can even fill the capsules with gift vouchers or tokens that correspond to a list of prizes, making every grab count.
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-16.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Our fully trained staff will deliver, set up, and remove your exhibition prize crane on your event day. It's up to you whether you want your own team to run the game, or hire one of our promotional staff to do so.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. Our dependable delivery stretches the length and breadth of the country, including London, Liverpool and Leeds, Birmingham, Coventry, plus anywhere in the West Midlands. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note this equipment cannot be carried up or down flights of stairs. A lift is required for upper floors. Minimum order value and delivery fees may apply to all locations.
     image: "/images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-13.jpg"
 faqs:
   - question: "How many people can play the Prize Crane at once?"

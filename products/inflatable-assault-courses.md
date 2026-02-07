@@ -79,76 +79,91 @@ tabs:
   - title: Why INFLATABLE ASSAULT COURSES?
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-10.jpg
     body: >-
-      Inflatable assault courses bring high-energy physical entertainment to
-      corporate events, team building days, and outdoor celebrations. The
-      competitive racing format creates spectacle and generates the kind of
-      memorable moments that guests talk about afterwards.
+      Your company fun day is all about getting your team out of the office
+      and off the factory floor to let their hair down and try something
+      new. And there's no better way to bring out the big kid in the most
+      serious staff member than one of our incredible inflatable assault
+      courses.
 
 
-      For events where you want to get people active and laughing together,
-      assault courses deliver with remarkable effectiveness. The visible
-      challenge draws crowds, colleagues race each other, and the inevitable
-      stumbles create shared comedy.
+      Packed with obstacles from end to end, these big, bright and
+      colourful inflatables will really stand out at any company fun day,
+      drawing crowds and laying down the challenge to your colleagues. They
+      are the perfect choice for injecting thrills and challenges into your
+      event.
 
 
-      Capacity suits events of 20-200 guests, with multiple participants racing
-      simultaneously for maximum entertainment value. Setup requires adequate
-      space and is handled entirely by our team.
+      An inflatable obstacle course is a much safer version of your usual
+      obstacle course. Instead of having the hard ground beneath you, there
+      are inflatables protecting everyone from injury, making them ideal
+      for adults and older children alike.
   - title: How It Works
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-9.jpg
     body: >-
-      Participants race through the inflatable obstacle course, climbing,
-      crawling, and bouncing their way to the finish line. Multiple lanes allow
-      head-to-head racing, adding competitive drama.
+      You can leave your guests to have fun, exploring the assault course
+      in their own way, or you can really get organised and turn it into a
+      tournament. Race staff against management, head to head to see who
+      emerges first at the other end, or race each competitor against the
+      clock to see who is the fastest overall on the day.
 
 
-      Participants can race in heats, with fastest times progressing to finals
-      for larger events. The format creates natural tournament structures for
-      team building.
+      A referee can be on hand to time two players, or to make a record of
+      various players' time through the course. A prize can be offered to
+      the winner at the end. Up to six to eight people at a time can be on
+      the course. You can even allow a few rounds just for fun before the
+      real competition begins.
 
 
-      Our team handles all setup, inflation, and supervision throughout your
-      event. Safety briefings ensure participants understand how to navigate
-      obstacles safely.
+      Our staff will deliver to your location, set them up, inflate with
+      air, and ensure they're fully cleaned and disinfected. There will be
+      an attendant on hand to ensure that everyone uses the obstacle course
+      safely.
   - title: Why It's A Crowd Favourite
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-10.jpg
     body: >-
-      Assault courses work because they're genuinely fun in an uncomplicated
-      way. Bouncing through inflatable obstacles, racing colleagues, the slight
-      ridiculousness of adults on bouncy structures. It creates laughter and
-      energy that formal entertainment doesn't match.
+      Inflatable assault courses are fantastic for team building. Simply
+      split your staff into teams, or pit department against department,
+      and arrange relay races. You'll love the rivalry and bonding that
+      goes on as your staff scream encouragement to each other.
 
 
-      The spectator element is excellent. Crowds gather to watch races, cheer
-      competitors, and anticipate who'll stumble. That shared experience builds
-      team connection naturally.
+      You'll be surprised who turns out to be a closet Laura Croft or
+      undercover Indiana Jones. Whether you want to see who emerges as the
+      quickest through the course or encourage departmental rivalry through
+      relay races, these courses provide a dynamic and engaging experience
+      for all participants.
 
 
-      There's also something levelling about assault courses. Job titles don't
-      matter when you're climbing inflatable walls. The MD racing the graduate
-      creates memorable moments and loosens workplace hierarchies.
+      The spectator element is excellent. Crowds gather to watch races,
+      cheer competitors, and enjoy the mayhem. There's also something
+      levelling about assault courses. Job titles don't matter when you're
+      climbing inflatable walls, and that creates memorable moments that
+      everyone talks about afterwards.
   - title: Delivery
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-7.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We handle
+      delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able
+      to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment requires drive-on access only and cannot be carried up
+      or down flights of stairs. A lift is required for upper floors. At
+      the end of the party, the inflatable will be cleaned, deflated, and
+      packed up, then removed from the site. You don't need to do any of
+      the work.
 
 
       All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      giving you complete peace of mind. Minimum order value and delivery
+      charges may apply to all locations.
 faqs:
   - question: How many people can use Inflatable Assault Courses at once?
     answer: Multiple participants can race through simultaneously depending on the

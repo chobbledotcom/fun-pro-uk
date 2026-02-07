@@ -58,43 +58,86 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90b4b5513e5607d3ffbd949904c3bb60"
 tabs:
   - title: "Why Ice Cream van Hire?"
-    body: "An ice cream van brings instant nostalgia and genuine delight to corporate events, summer parties, and family days. The familiar format needs no explanation, and there's something about being served from a van that feels more special than a standard dessert station.
+    body: >-
+      Mr Whippy ice cream is amazing on a hot summers day! Whether it is a
+      99 with a chocolate flake and gooey strawberry sauce or an electric
+      blue bubble gum ice lolly to cool you down, having an Ice Cream Van at
+      your event will definitely create happy faces. What is not to love
+      about ice cream?
 
 
-      At 600mm x 600mm x 1900mm for the serving unit, it's surprisingly manageable for indoor venues with minimum 0.6m door access. The 50-300 guest capacity suits medium to large events, and the individual serving format keeps queues moving whilst giving each person a moment of personal service.
+      Our ice cream vans will attend your event ready to serve your guests
+      and stay for the duration of the party. Whether you are catering for
+      50 or 500, just let us know your requirements and we will do the rest
+      for you.
 
 
-      For events where you want to create a genuinely positive atmosphere, ice cream consistently delivers. It works across ages, dietary options are available, and the treat element signals that this is an event worth attending."
+      Available throughout the UK, ice cream van hire brings instant
+      nostalgia and genuine delight to corporate events, summer parties, and
+      family days. There's something about being served from a van that
+      feels more special than a standard dessert station.
     image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-3.jpg"
   - title: "How It Works"
-    body: "The ice cream station is set up and staffed by our team, who handle serving throughout your event. Guests approach, choose from available options, and receive their ice cream directly. The individual service format creates moments of interaction rather than anonymous buffet grazing.
+    body: >-
+      Our ice cream vans will attend your event ready to serve your guests
+      and stay for the duration of the party. Guests approach, choose from
+      available options, and receive their ice cream directly. The individual
+      service format creates moments of interaction rather than anonymous
+      buffet grazing.
 
 
-      The unit requires mains power (42-148W) and a level indoor surface. Minimum door width of 0.6m is needed for access. Setup takes 15-20 minutes, after which the station runs continuously throughout your event.
+      Whether you are catering for 50 or 500, we handle everything for you.
+      The unit requires mains power and a level indoor surface. Setup takes
+      15-20 minutes, after which the station runs continuously throughout
+      your event.
 
 
-      For larger events, we can discuss serving arrangements to manage throughput whilst maintaining the personal service element that makes ice cream vans special."
+      For larger events, we can discuss serving arrangements to manage
+      throughput whilst maintaining the personal service element that makes
+      ice cream vans special.
     image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Ice cream vans trigger genuine emotional responses in ways that most event entertainment doesn't. For anyone who grew up hearing that jingle, there's real nostalgia attached. For everyone else, there's the simple pleasure of unexpected treats.
+    body: >-
+      What is not to love about ice cream? Having an Ice Cream Van at your
+      event will definitely create happy faces. Ice cream vans trigger
+      genuine emotional responses in ways that most event entertainment
+      doesn't. For anyone who grew up hearing that jingle, there's real
+      nostalgia attached. For everyone else, there's the simple pleasure of
+      unexpected treats.
 
 
-      At corporate events, this matters more than you might think. Creating moments of genuine delight, rather than just filling an entertainment checklist, affects how people feel about your organisation. Ice cream achieves this with remarkable consistency.
+      At corporate events, this matters more than you might think. Creating
+      moments of genuine delight, rather than just filling an entertainment
+      checklist, affects how people feel about your organisation. Ice cream
+      achieves this with remarkable consistency.
 
 
-      The queueing actually helps here. Brief waits create anticipation, conversations happen in line, and the eventual ice cream feels earned rather than just available. It's simple psychology, but it works."
+      The queueing actually helps here. Brief waits create anticipation,
+      conversations happen in line, and the eventual ice cream feels earned
+      rather than just available. It's simple psychology, but it works.
     image: "/images/products/ice-cream-van-hire/ice-cream-van-hire-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Delivered and installed on site by our trained team. We handle
+      delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Minimum order value and delivery charges may apply to all locations.
+      Our team arrives with adequate time before your event to position and
+      set everything up, ensuring it's ready for your first guests.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind. When your event wraps up, we handle
+      the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: "How many guests can you serve?"
     answer: "Our Ice Cream Van service comfortably caters for 50-300 guests. The individual serving format keeps queues moving whilst giving each guest a moment of personal service."

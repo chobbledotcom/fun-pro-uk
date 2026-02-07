@@ -96,70 +96,87 @@ tabs:
   - title: Why Christmas Batak Pro?
     image: /images/products/christmas-batak-pro/christmas-batak-pro-9.jpg
     body: >-
-      Christmas Batak Pro delivers premium reaction gaming with festive theming
-      for Christmas parties and seasonal corporate events. The enhanced pro
-      version offers more challenging gameplay than the standard Batak, suited
-      to events where you want serious competition.
+      Looking to add some sparkle and excitement to your Christmas party or
+      festive corporate event? Batak Pro is the ultimate high-energy game to
+      get everyone laughing, cheering, and joining in the holiday spirit.
+      Whether it's your end-of-year staff party, a winter product launch, or
+      a festive team-building day, Batak Pro brings people together like
+      nothing else.
 
 
-      For Christmas events where entertainment quality matters as much as
-      seasonal theming, the Pro version delivers both. The faster sequences and
-      more demanding gameplay challenge even experienced players.
+      Batak Pro is a full-sized, fast-paced reaction game that lights up the
+      room, literally. With its glowing illuminated targets, players race
+      against the clock to hit as many as they can before time runs out.
+      It's a test of reflexes, coordination, and Christmas cheer, guaranteed
+      to get hearts racing and faces smiling.
 
 
-      One player at a time creates focused competition, with capacity for 20-200
-      guests. Setup takes 15-20 minutes with mains power required.
+      From Christmas parties and winter fairs to festive exhibitions and
+      brand activations, Batak Pro draws a merry crowd and spreads joy
+      wherever it goes. Festive engagement, friendly competition, and custom
+      branding options make it the perfect choice this season.
   - title: How It Works
     image: /images/products/christmas-batak-pro/christmas-batak-pro-8.jpg
     body: >-
-      Players face the Batak Pro unit as targets illuminate in rapid succession.
-      The pro version offers faster, more complex patterns that challenge even
-      those familiar with standard Batak.
+      Players face the Batak Pro unit as its glowing targets illuminate in
+      rapid succession. Racing against the clock, they hit as many targets
+      as they can before time runs out. The full-sized unit offers faster,
+      more complex patterns that challenge even experienced players, making
+      it a true test of reflexes and coordination.
 
 
-      Precise scoring tracks performance throughout timed sessions. The
-      Christmas theming adds seasonal atmosphere without reducing the challenge.
+      Precise scoring tracks performance throughout each timed session,
+      making it easy to run competitions and leaderboards. One player
+      competes at a time, which creates focused moments of drama as
+      spectators watch and react to each attempt.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes.
+      We make interactive game hire as seamless as possible, providing
+      everything you need for an unforgettable experience. Our team handles
+      complete installation and setup, with custom branding options available
+      to showcase your company identity.
   - title: Why It's A Crowd Favourite
     image: /images/products/christmas-batak-pro/christmas-batak-pro-9.jpg
     body: >-
-      Batak Pro creates more intense competition than standard versions. The
-      increased difficulty means even experienced players are challenged,
-      levelling competition and creating more dramatic moments.
+      Batak Pro gets guests off their seats and into the holiday spirit like
+      nothing else. Whether it's a first-time player or a seasoned pro, the
+      game is easy to learn and heaps of fun. It's a game that brings
+      everyone together, ideal for festive team challenges, Christmas
+      competitions, or just spreading a little holiday joy.
 
 
-      The Christmas theming makes it seasonally appropriate for festive events.
-      Entertainment that acknowledges the occasion feels more considered than
-      generic alternatives.
+      The friendly competition is perfect for Christmas tournaments or staff
+      challenges, and the increased difficulty of the Pro version means even
+      experienced players are genuinely challenged. High scores become
+      seriously impressive, and the drama of each attempt keeps the crowd
+      engaged.
 
 
-      For corporate events with competitive cultures, the Pro version delivers
-      the challenge that keeps achievers engaged. High scores become genuinely
-      impressive.
+      We're proud to have brought festive fun and cheer to some of the UK's
+      biggest names, including Rolls-Royce, Boots, and Virgin Media. Make
+      your Christmas celebration unforgettable and let the lights, laughter,
+      and festive fun begin.
   - title: Delivery
     image: /images/products/christmas-batak-pro/christmas-batak-pro-6.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, with
+      complete installation by our trained professionals. We offer delivery
+      throughout the UK, including Exeter, Cardiff, Bristol, Birmingham
+      including the NEC and ICC Arena, Reading, Oxford, Swindon, London,
+      Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Minimum order value and delivery fees may apply to all locations. Our
+      team arrives with adequate time before your event to position and test
+      everything, ensuring it's ready for your first guests.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note the Batak Pro cannot be carried up or down flights of
+      stairs. A lift is required (minimum 1600mm deep x 1500mm high).
+      Minimum door width is 0.6m. The equipment requires indoor use only on
+      a level surface, with one standard UK power socket.
 videos:
   - id: https://player.vimeo.com/video/858450355
     title: Batak Pro

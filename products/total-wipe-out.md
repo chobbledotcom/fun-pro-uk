@@ -59,43 +59,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/b857fd4a67fed05224b0f7ed7dc24e36"
 tabs:
   - title: "Why TOTAL WIPE OUT?"
-    body: "Total Wipe Out brings the high-energy challenge of the television show format to corporate events, team building days, and celebrations. Players face obstacle-style challenges that test balance, timing, and reactions.
+    body: >-
+      The amazing Wipeout swinging arm game is inspired by the likes of TV's 'It's a Knockout' and 'Total Wipeout'. You can almost hear Richard Hammond crying with laughter as your team try their luck, only to get knocked for six by the swinging arms.
 
 
-      For events where you want entertainment that creates spectacle and generates laughter, Total Wipe Out delivers the kind of memorable moments that guests talk about afterwards. The visible challenge draws crowds, and inevitable stumbles create shared comedy.
+      Wipeout challenge hire will get everyone involved in the fun, whether they are taking part or just taking pictures, making it a huge hit on your company fun day for colleagues, families and guests alike. Many party goers want to do more than simply lazing around, they want to do activities too.
 
 
-      With 1-4 player capacity, 15-20 minute sessions, and capacity for 20-200 guests, it maintains good throughput whilst creating focused entertainment moments. Mains power required, setup takes 15-20 minutes."
+      Instead of your standard arcade games or playing football, you can up the stakes with a Total Wipeout hire. If you haven't seen this game before, then your friends and family are going to have a whole lot of fun, and you can even offer a prize for the team who wins.
     image: "/images/products/total-wipe-out/total-wipe-out-3.jpg"
   - title: "How It Works"
-    body: "Players take on the Total Wipe Out challenge, navigating obstacles that test their balance and timing. The format draws from the familiar television concept, making it immediately understandable.
+    body: >-
+      The idea is simple: just jump or duck as the two arms swing past, to avoid getting knocked off your podium. But don't worry if you do get dislodged, because there's a soft landing guaranteed on our squidgy inflatable floor. Each person stands on a small circular platform, and the game is played until there is only one person left standing.
 
 
-      The 1-4 player capacity means multiple colleagues can compete together, adding to the entertainment value. Sessions run 15-20 minutes, giving each participant time to engage properly with the challenges.
+      The Total Wipeout game takes up to six contestants at a time, so you can play winner stays on, or put winners through to a grand final to decide the overall champion. You can also play in teams, with two team mates on each side watching out for their partner, offering a warning when the poles are heading back their way.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. For larger events, staff supervision helps maintain energy and manage participant safety."
+      Setup requires mains power and drive-on access for delivery. The game is suitable for indoor or outdoor use on a level surface, requiring a space of approximately 7m x 7m.
     image: "/images/products/total-wipe-out/total-wipe-out-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Total Wipe Out works because it taps into television familiarity whilst delivering genuine physical challenge. Guests know the format, understand the stakes, and enjoy watching colleagues attempt what they've seen on screen.
+    body: >-
+      Everyone loves to see the office wide-boys brought down a peg or two, or their managers toppled from their pedestal, which makes hiring a Wipe Out game a real winner all round for your company fun day. The spectator value is exceptional, with crowds gathering naturally and anticipating the stumbles.
 
 
-      The spectator value is exceptional. Crowds gather naturally, anticipating stumbles and celebrating successes. The shared laughter when someone wobbles creates bonding moments that formal team activities rarely achieve.
+      It may seem like a solo game, but Wipeout challenge hire is actually great for team building, with your teammates shouting instructions from the sidelines to warn you what is coming. You can even get teams of four to work together in the same round, calling the shots as the arms swing round to see how long they can last against the clock.
 
 
-      There's also something liberating about physical challenge at corporate events. It's a break from the usual controlled interactions, and guests often appreciate the opportunity to be silly in a structured way."
+      This is a fun game for children aged eight plus years, teens, and adults. The inflatable padded floor provides protection whilst still giving players a chance to avoid being hit by the poles. It can be fun and entertaining watching the other team lose too.
     image: "/images/products/total-wipe-out/total-wipe-out-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. If you're planning an event, talk to our team today for the best company fun day ideas and dependable delivery across the UK. We'll take care of everything to make sure you have unforgettable fun.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      The equipment requires drive-on access for delivery and cannot be carried up or down flights of stairs. Suitable for indoor or outdoor use on a level surface. Mains power is required (1 x 950W power socket).
 faqs:
   - question: "How many people can play Total Wipe Out at once?"
     answer: "The game accommodates 1-4 players depending on the challenge configuration. The format creates natural spectator entertainment as colleagues tackle the obstacles."

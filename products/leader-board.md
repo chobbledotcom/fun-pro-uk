@@ -122,73 +122,83 @@ tabs:
   - title: Why LEADER BOARD?
     image: /images/products/leader-board/leader-board-13.jpg
     body: >-
-      Digital leaderboards transform individual games into event-wide
-      competitions, tracking scores and creating ongoing engagement throughout
-      your event. The visible rankings maintain competitive energy and encourage
-      repeat participation.
+      Looking to add a fun and interactive element to your event? Our
+      Leader Board is the perfect solution! Ideal for conferences,
+      well-being days, exhibitions, fun days, and more, this top-gear
+      style magnetic leader board will keep your attendees engaged and
+      entertained throughout.
 
 
-      For events where you want to create structured competition across multiple
-      games or activities, digital leaderboards tie everything together. The
-      visible standings create talking points and drive engagement.
+      Track the top scorer, promote healthy competition, and create a buzz
+      that will have everyone talking. Supplied with 12 white magnet strips
+      and a whiteboard marker, our Leader Board is ready to go and can be
+      personalised with your branding for that extra touch of
+      professionalism.
 
 
-      The leaderboard integrates with various games and activities, creating
-      comprehensive competition tracking. Setup and configuration handled by our
-      team.
+      Pair it with one of our branded games for a complete interactive
+      experience that will leave a lasting impression on your guests.
   - title: How It Works
     image: /images/products/leader-board/leader-board-12.jpg
     body: >-
-      The leaderboard displays and updates automatically as participants record
-      scores across connected activities. Rankings update in real-time, creating
-      visible competition.
+      Supplied with 12 white magnet strips and a whiteboard marker, our
+      Leader Board is ready to go. Want to add a leader board to make your
+      hire more competitive? Then look no further! You can keep the score
+      with any of the interactive games including the timing for our world
+      class Race simulators or to count the dollars collected in our Grab
+      a Grand.
 
 
-      The system can track multiple games, combine scores, and identify overall
-      event champions. Prize-giving and recognition are supported by the
-      comprehensive tracking.
+      The Leader Board can be personalised with your branding for that
+      extra touch of professionalism. Pair it with one of our branded
+      games for a complete interactive experience.
 
 
-      Setup includes positioning the display and connecting to relevant
-      activities. Configuration can be customised to your event structure.
+      Setup includes positioning the board at your venue. The system
+      requires no power and is suitable for indoor use on a level surface.
+      Configuration can be customised to your event structure.
   - title: Why It's A Crowd Favourite
     image: /images/products/leader-board/leader-board-13.jpg
     body: >-
-      Leaderboards change event dynamics by creating persistent competition.
-      Instead of isolated games, activities become part of an overarching
-      contest. That ongoing narrative maintains engagement throughout.
+      Our Leader Board is not just a fun addition to your event - it's a
+      tool to increase engagement, drive sales, and activate your brand.
+      Keep attendees coming back for more, boost participation, and create
+      memorable experiences that will set your event apart.
 
 
-      The visibility matters too. Seeing your name climb the rankings, or
-      watching rivals pass you, creates motivation for additional participation.
-      The social element of public standings drives competitive behaviour.
+      Track the top scorer, promote healthy competition, and create a buzz
+      that will have everyone talking. The visibility of public standings
+      drives competitive behaviour, and seeing your name climb the rankings
+      creates motivation for additional participation.
 
 
-      For corporate events, leaderboards also provide recognition opportunities.
-      Acknowledging top performers creates memorable moments and reinforces
-      engagement.
+      For corporate events, the Leader Board also provides recognition
+      opportunities. Acknowledging top performers creates memorable moments
+      and reinforces engagement throughout the day.
   - title: Delivery
     image: /images/products/leader-board/leader-board-10.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We handle
+      delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment requires a minimum door width of 0.6m and cannot be
+      carried up or down flights of stairs. A lift is required for upper
+      floors. It is suitable for indoor use only on a level surface.
+      Minimum order value and delivery charges may apply to all locations.
 
 
       All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      giving you complete peace of mind. When your event wraps up, we handle
+      the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: What does the Leader Board do?
     answer: The Leader Board is a digital display that tracks and shows scores from

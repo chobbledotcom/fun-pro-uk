@@ -102,43 +102,44 @@ add_ons:
       price: 75
 tabs:
   - title: "Why The Vault?"
-    body: "The Vault creates immersive challenge entertainment as players attempt to crack the vault and claim the contents. The heist-style format appeals to problem-solvers and creates focused engagement that differs from standard event games.
+    body: >-
+      Hire our amazing Vault Game for your next exhibition stand entertainment, promotional event, or corporate party and test your hand-eye coordination! Is your company hosting a big event for employees and clients? The Vault is a great way of attracting a crowd to your exhibition stand and making sure everyone can play.
 
 
-      For brand activations or corporate events where you want entertainment that creates stories and memorable moments, vault challenges deliver. The achievement of cracking the vault becomes a talking point.
+      The game sits within a compact vault box-like structure, making it perfect for exhibition stands, conference break-out areas, and reception spaces. You can offer a fun story to go with the game, with the goal being to crack the code on the vault and win the contents inside.
 
 
-      Capacity suits events of 20-200 guests, with the impressive display creating impact throughout your venue."
+      Whether it's a summer party, product launch, or trade show in Birmingham, London, Manchester or further afield, the Vault game is sure to raise interest and raise a smile with everyone from delegates to directors.
     image: "/images/products/the-vault/the-vault-8.jpg"
   - title: "How It Works"
-    body: "Players attempt to crack the vault using whatever puzzle or challenge mechanism is configured. The format demands problem-solving and creates genuine achievement when successful.
+    body: >-
+      Watch the lights as they begin to spin around the circuit. The aim of the game is to stop the white light as it enters the red zone within a certain amount of time. You hit the button when you believe it is aimed at the proper code. Sounds easy?
 
 
-      Time limits can add pressure, and prizes within the vault create tangible rewards for success. The immersive theming makes participants feel like genuine heist protagonists.
+      Starting from the easiest level and working your way up to the hardest level will allow you to open the vault. The right answer will open the vault and the winner also wins the contents! Only one player can play at a time, so you'll want to ensure there is plenty of room for a queue.
 
 
-      Setup requirements vary by configuration. We'll discuss specifics when you enquire."
+      The game features a horizontal playing screen over a sturdy black base. It requires one mains power socket and a level playing surface, and is meant to be played indoors only. Why not hire our scoreboard and keep a record of times from your contestants to see who can open the Vault in the quickest time!
     image: "/images/products/the-vault/the-vault-7.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Vault challenges work because they tap into heist fantasies. Cracking a vault, beating security, claiming the prize. It's exciting in a way that simple games aren't.
+    body: >-
+      The Vault is a great way of attracting a crowd to your exhibition stand. The heist-style premise captures people's imagination - everyone wants to see if they can crack the code and open the vault. It's a game that's fun to play, but also simple and won't take a lot of time, so the queue keeps moving.
 
 
-      The puzzle element appeals to analytical guests who might not engage with physical entertainment. Mental challenges provide different satisfaction than reaction or skill games.
+      The compact design means it fits into most conference spaces and can be moved around your event as required. Place it in the break-out area during conference sessions, then move it to the bar or reception for your evening event. That flexibility makes it a versatile choice for multi-part events.
 
 
-      Success creates genuine bragging rights too. Cracking the vault when others couldn't becomes a story that participants share beyond the event."
+      If you don't want to go to the expense of buying big games just for one day of fun for your employees then renting it for a day or more is the best solution. You may even consider the Vault game for some of your autumn or winter events too, as it will fit into most conference spaces!
     image: "/images/products/the-vault/the-vault-8.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. We handle everything for you, from delivery and setup, to packing up and putting it back on the truck at the end of the event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note the equipment cannot be carried up or down flights of stairs, but a regular-sized commercial lift is fine. Indoor use only on a level surface, with a minimum door width of 0.6m required for access.
     image: "/images/products/the-vault/the-vault-5.jpg"
 faqs:
   - question: "How many people can play The Vault at once?"

@@ -95,25 +95,25 @@ tabs:
       interaction.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. We offer delivery
+      throughout the UK, including Exeter, Cardiff, Bristol, Birmingham
+      including the NEC and ICC Arena, Reading, Oxford, Swindon, London,
+      Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Minimum order value and delivery fees may apply to all locations. Our
+      team arrives with adequate time before your event to position and test
+      everything, ensuring it's ready for your first guests.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Christmas Corn Holes requires no power and fits through standard door
+      widths, making positioning straightforward. The equipment is suitable
+      for indoor use only on a level surface. When your event wraps up, we
+      handle the packdown and collection, leaving you free to focus on your
+      guests.
 faqs:
   - question: How many people can play Christmas Corn Holes at once?
     answer: The game accommodates 2-4 players, typically in teams of two competing

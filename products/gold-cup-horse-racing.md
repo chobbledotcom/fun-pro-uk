@@ -94,73 +94,91 @@ tabs:
   - title: Why GOLD CUP HORSE RACING?
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg
     body: >-
-      Gold Cup Horse Racing brings the excitement of the track to corporate
-      events, celebrations, and themed parties. Players bet on races, cheer
-      their selections, and experience the drama of racing in an engaging social
-      format.
+      Are you looking to add a touch of excitement and fun to your next event?
+      Our exhilarating Gold Cup Horse Racing simulation is perfect for
+      conferences, well-being days, exhibitions, fun days, and brand
+      activations. This interactive experience is sure to engage your guests
+      and leave a lasting impression.
 
 
-      For events where you want entertainment that creates shared experiences
-      and natural excitement, horse racing delivers. The format encourages group
-      participation, creates talking points, and suits events where you want
-      guests mingling.
+      Have you ever wanted to be a jockey? Well now you can let your guests
+      test out their horse racing skills with up to four players at a time
+      racing to the finish line. Fun Pro UK's Gold Cup Horse Racing Game is
+      essential at any horse racing event, alongside exhibitions, team building
+      events and award nights.
 
 
-      Capacity suits events of 20-200 guests, with races creating focused
-      entertainment moments throughout.
+      Each race is quick allowing high footfall to your stall at shows or more
+      turns for each guest at a private event. Don't miss out on the
+      opportunity to elevate your event with the Gold Cup Horse Racing
+      experience.
   - title: How It Works
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-5.jpg
     body: >-
-      Races are run with guests placing bets on their chosen horses. The race
-      plays out with commentary, creating genuine drama as horses compete to the
-      finish line.
+      Each jockey picks their horse, gripping the handles on the horse's head,
+      ready to race to victory. Pump those arms and watch your trusty steed
+      charge along the racing table with authentic grass texture, creating a
+      true equestrian atmosphere. With realistic horse racing commentary adding
+      to the excitement, the competition heats up as four lifelike horses await
+      their brave jockeys.
 
 
-      Betting is typically handled with fun money or tokens, maintaining
-      excitement whilst keeping things social. Prizes can be awarded based on
-      betting success.
+      Guests place their legs either side of their chosen horse, and each
+      player can pick from green, red, yellow and blue. Holding on to the
+      handle, players gallop their way to the finishing line. The faster you
+      gallop, the quicker you'll be crowned the ultimate jockey.
 
 
-      Setup and operation is handled by our team, including race management and
-      results tracking.
+      There is a big screen at the end of the game set showing the progress of
+      each jockey on their horse. Setup and operation is handled by our team.
   - title: Why It's A Crowd Favourite
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-6.jpg
     body: >-
-      Horse racing works at events because the format is inherently exciting.
-      Picking a horse, watching the race, cheering for your selection. The
-      shared experience creates energy that spreads through the room.
+      This game is not just fun for those playing, it will draw the crowds to
+      watch others take on the test to become the winner. The shared experience
+      of watching the race, cheering for your selection, creates energy that
+      spreads through the room.
 
 
-      The betting element adds engagement without serious stakes. When you've
-      got something riding on the outcome, even fun money, you pay more
-      attention and care more about results.
+      It's fun to go to the races but if you have a special event planned,
+      whether family-oriented, or a corporate or company party, this brings the
+      horse racing to you rather than having your guests travel to the race
+      track. The format encourages mixing as strangers compare selections,
+      celebrate wins together, and commiserate losses.
 
 
-      For corporate events, the format also encourages mixing. Strangers compare
-      selections, celebrate wins together, and commiserate losses. Those
-      interactions build connections.
+      With up to four players at once, you won't have to worry about a super
+      long line forming. Each race is quick, keeping the entertainment moving
+      and the energy high. Be sure to book early because this is a popular
+      option at conventions, parties, and other gatherings.
   - title: Delivery
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. Our team arrives with
+      adequate time before your event to position and test everything, ensuring
+      it's ready for your first guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield.
+      Local areas include West Midlands, Warwick, Warwickshire, Kenilworth,
+      Leamington Spa, Rugby, Derby, Northampton, Loughborough, Nuneaton,
+      Kettering, Hinckley, Solihull, and Stratford upon Avon.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment is indoor use only and requires a minimum door width of
+      0.6m. It cannot be carried up or down flights of stairs, so a lift is
+      required for upper floors. You'll want to ensure you have plenty of
+      space at the front for your four players, and perhaps some space for
+      onlookers to watch.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can participate in Gold Cup Horse Racing?
     answer: Multiple guests can bet on each race, making it ideal for group

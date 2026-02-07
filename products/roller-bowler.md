@@ -65,41 +65,88 @@ faqs:
     answer: "No, Roller Bowler requires no power, giving you complete flexibility with positioning."
 tabs:
   - title: "Why Roller Bowler?"
-    body: "Roller Bowler offers accessible skill-based entertainment that works across event types and audiences. Players roll balls up a ramp, aiming to land them in scoring zones. The simple format ensures immediate engagement without complicated explanations.
+    body: >-
+      Fun Pro UK's Roller Bowler hire brings classic fairground entertainment
+      to corporate events, exhibitions, and private functions across the UK.
+      This deceptively simple carnival game challenges players to roll a ball
+      up an inclined track and stop it precisely in the winning zone, creating
+      natural competition and sustained engagement at any event.
 
 
-      For events where you want entertainment that accommodates all ages and abilities, roller bowler delivers reliably. The format works for casual drop-in play and competitive tournaments equally well.
+      Simple rules, challenging play -- anyone can understand the concept
+      instantly, but mastering it takes multiple attempts, keeping engagement
+      high. The Roller Bowler works well at trade shows because it draws
+      crowds, creates visible queues, and keeps exhibition stands consistently
+      busy.
 
 
-      No power required means flexible positioning, with 1-4 players and capacity for 20-200 guests."
+      No power required means completely flexible positioning. Suitable for
+      all ages from children aged 5 through to adults, and fully brandable
+      with custom graphics and panels to match your corporate colours and
+      messaging.
     image: "/images/products/roller-bowler/roller-bowler-1.jpg"
   - title: "How It Works"
-    body: "Players roll balls up the ramp, aiming to land in high-scoring zones. The ramp creates a satisfying roll-and-settle mechanic where balls bounce between zones before coming to rest.
+    body: >-
+      The Roller Bowler is a carnival skill game where players roll a ball up
+      a sloped track, attempting to send it over a hill and stop it within a
+      designated winning zone. The game tests timing, force judgement, and
+      ball control, requiring players to calculate the exact power needed for
+      success.
 
 
-      Games take 1-4 players at a time with natural turn-taking. The format needs no explanation, so guests can engage immediately.
+      Players watch their ball travel up the slope, hoping it settles in the
+      winning area rather than rolling back down. Roll too hard and the ball
+      bounces back; roll too softly and it never crests the hill, creating the
+      perfect balance of skill and frustration.
 
 
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
+      Available in three sizes -- Mini, Standard, and Large -- with the option
+      of tabletop or floor-standing configuration. Floor stands and header
+      panels are optional. No power source is required whatsoever.
   - title: "Why It's A Crowd Favourite"
-    body: "Roller bowler games persist because they're satisfying in a simple way. The roll, the bounce, the settling. It's uncomplicated but genuinely enjoyable, which is why similar formats have entertained for generations.
+    body: >-
+      Colleagues gather around to watch attempts, offer advice, and queue for
+      their turn whilst spectators create an energetic atmosphere through
+      encouragement and friendly competition. Queues form naturally at busy
+      events as colleagues challenge each other and attempt to beat previous
+      scores.
 
 
-      The accessibility matters for events. No instructions needed, no special skills required. Anyone can have a go and enjoy themselves.
+      The visible gameplay makes it valuable for exhibitions where creating
+      footfall matters, with spectators stopping to watch before joining the
+      queue themselves. Corporate events benefit from the competitive element
+      that gets colleagues interacting naturally, whilst the simple rules mean
+      anyone can play immediately without lengthy explanations.
 
 
-      For mixed audiences, the cross-generational appeal is valuable. Children and adults engage equally, creating shared experiences that other entertainment might not achieve."
+      The simple rolling action requires no special strength or coordination,
+      making it accessible for most attendees. The challenge level remains
+      engaging regardless of age or ability.
     image: "/images/products/roller-bowler/roller-bowler-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire. Our
+      services include complete setup and removal by our professional team,
+      making the process smooth and straightforward.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      As a leading nationwide hire company, Fun Pro UK provides Roller Bowler
+      entertainment for events throughout the UK. We regularly deliver to
+      London, Manchester, Birmingham including the NEC and ICC Arena, Cardiff,
+      Bristol, Leeds, Sheffield, Nottingham, Leicester, and Coventry including
+      the CBS Arena, ensuring professional service regardless of your venue
+      location.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      The Roller Bowler can be used outdoors in dry weather conditions only.
+      The wooden construction must be protected from rain and moisture.
+      Minimum door width 0.5m for tabletop, 0.8m for floor-standing. Please
+      note that delivery charges and minimum order values may apply.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind. Our team arrives with adequate time
+      before your event to position and test everything, ensuring it's ready
+      for your first guests.
 ---
 
