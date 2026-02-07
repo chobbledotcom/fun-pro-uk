@@ -1,6 +1,6 @@
 ---
 title: Master Sniper
-subtitle: "Interactive target shooting game with realistic rifle"
+subtitle: Interactive target shooting game with realistic rifle
 price: £1295
 order: 50
 meta_title: Master Sniper - Exhibition and Game Hire in Nationwide | Fun Pro UK
@@ -75,38 +75,37 @@ tabs:
 
 
       With smooth controls, sharp graphics, and a competitive leader board,
-      Master Sniper delivers an immersive shooting experience perfect for
-      casual players and elite sharpshooters alike. Master long-range shots,
-      improve your reaction time, and climb the ranks as you prove you're the
-      top sniper in the arcade.
+      Master Sniper delivers an immersive shooting experience perfect for casual
+      players and elite sharpshooters alike. Master long-range shots, improve
+      your reaction time, and climb the ranks as you prove you're the top sniper
+      in the arcade.
 
 
       Play Master Sniper today and discover the most addictive
       precision-shooting arcade game on the market.
   - title: How It Works
     body: >-
-      Players take on thrilling missions filled with moving targets,
-      challenging enemies, and explosive bonus rounds. The smooth controls and
-      sharp graphics create an immersive experience as you aim, fire, and
-      score.
+      Players take on thrilling missions filled with moving targets, challenging
+      enemies, and explosive bonus rounds. The smooth controls and sharp
+      graphics create an immersive experience as you aim, fire, and score.
 
 
-      The game supports 1 or 2 players and features a competitive leader
-      board, allowing contestants to track their progress and compete for the
-      top spot. Master long-range shots, improve your reaction time, and climb
-      the ranks throughout your event.
+      The game supports 1 or 2 players and features a competitive leader board,
+      allowing contestants to track their progress and compete for the top spot.
+      Master long-range shots, improve your reaction time, and climb the ranks
+      throughout your event.
 
 
-      The unit requires 1 mains power socket (2700W) and is suitable for
-      indoor use only on a level surface. Setup takes approximately 15-20
-      minutes by our trained team.
+      The unit requires 1 mains power socket (2700W) and is suitable for indoor
+      use only on a level surface. Setup takes approximately 15-20 minutes by
+      our trained team.
   - title: Why It's A Crowd Favourite
     body: >-
-      Master Sniper delivers fast-paced, high-impact gameplay that draws
-      crowds. The precision-shooting format is genuinely addictive, keeping
-      players coming back to improve their scores and climb the leader board.
-      Spectators gather to watch the action unfold on screen, creating a
-      buzzing atmosphere around the unit.
+      Master Sniper delivers fast-paced, high-impact gameplay that draws crowds.
+      The precision-shooting format is genuinely addictive, keeping players
+      coming back to improve their scores and climb the leader board. Spectators
+      gather to watch the action unfold on screen, creating a buzzing atmosphere
+      around the unit.
 
 
       The competitive leader board is what really drives engagement at events.
@@ -126,17 +125,17 @@ tabs:
       provide everything you need for your party or event.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which includes the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
-      are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which includes the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
       Please note, this item cannot be carried up or down any stairs. Minimum
-      door width is 0.6m. In-house branding is available, printed, applied,
-      and removed after each event (one time use only). Delivery charges and
-      minimum order value may apply.
+      door width is 0.6m. In-house branding is available, printed, applied, and
+      removed after each event (one time use only). Delivery charges and minimum
+      order value may apply.
 faqs:
   - question: How many people can play Master Sniper at once?
     answer: The game accommodates 1-4 players, with the precision shooting format
@@ -151,4 +150,7 @@ faqs:
   - question: What power do you need?
     answer: Power requirements vary by configuration. We'll confirm details when
       discussing your event.
+thumbnail: /images/Screenshot 2025-12-01 092954.jpg
+gallery:
+  - /images/products/Master sniper/Size.png
 ---
