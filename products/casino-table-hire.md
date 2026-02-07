@@ -1,6 +1,6 @@
 ---
 title: Casino Tables
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Roulette, blackjack and poker tables with optional croupiers"
 order: 50
 meta_title: Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party
 meta_description: Host a thrilling casino night with our casino party hire.

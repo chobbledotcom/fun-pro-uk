@@ -1,5 +1,5 @@
 ---
-title: "ICC Birmingham"
+title: "ICC Game Hire"
 meta_title: "ICC Birmingham Exhibition Hire | Branded Games | Event Rentals"
 meta_description: "Are you showcasing your products and services at the ICC Birmingham? Choose us for branded exhibition stand entertainment! Huge range of activities."
 redirect_from:

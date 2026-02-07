@@ -1,6 +1,6 @@
 ---
 title: Giant Buzz Wire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Oversized steady-hand wire loop game"
 price: £395
 order: 50
 meta_title: Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent

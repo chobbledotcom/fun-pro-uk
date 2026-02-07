@@ -1,5 +1,5 @@
 ---
-title: "Batak Pro Office Funday Coventry"
+title: "Batak Pro Office Funday"
 meta_title: "Batak Pro Office Funday Coventry | Exhibition Stand Game Hire"
 meta_description: "Hire Batak Pro from our Coventry head office and enjoy event entertainment that will keep your guests happy. Book your spot with our team today!"
 redirect_from:

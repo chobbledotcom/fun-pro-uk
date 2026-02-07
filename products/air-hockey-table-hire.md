@@ -1,6 +1,6 @@
 ---
 title: Air Hockey Table Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Classic two-player air hockey table"
 price: £395
 order: 50
 meta_title: Air hockey to hire through out the UK

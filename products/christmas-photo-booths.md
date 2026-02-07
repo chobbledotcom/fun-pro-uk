@@ -1,6 +1,6 @@
 ---
 title: Christmas Photo Booth
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Festive-themed photo booth with props and prints"
 price: £450
 order: 50
 meta_title: Christmas Photo Booths | Photobooth Hire | Pro Fun UK

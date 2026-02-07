@@ -1,5 +1,5 @@
 ---
-title: "Photo Booth Hire Coventry"
+title: "Photo Booth Hire"
 meta_title: "Photo Booth Hire | Coventry | Fun Pro UK"
 meta_description: "If you&#39;re looking to hire a photo booth in Coventry, Fun Pro UK are unbeatable! Get in touch to find out why we&#39;re Coventry&#39;s photobooth experts."
 redirect_from:

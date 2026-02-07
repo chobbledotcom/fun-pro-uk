@@ -3,7 +3,7 @@ title: "Nottingham"
 meta_title: "Event Hire Nottingham | Fun Pro UK"
 meta_description: "Professional event hire and entertainment services in Nottingham. Interactive games, photo booths and more for corporate events, weddings and parties."
 layout: location
-subtitle: Subtitle subtitle subtitle subtitle
+subtitle: "Stealing the show from Sherwood to the Lace Market"
 thumbnail: "images/locations/nottingham.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Batak Pro Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Advanced reaction-speed target game with leaderboard"
 price: £495
 order: 2
 meta_title: Batak Pro Game Hire | Corporate Engagement | Interactive Game

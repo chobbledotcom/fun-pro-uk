@@ -1,6 +1,6 @@
 ---
 title: Gold Bar Challenge
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Timed safe-cracking challenge with gold bar theme"
 order: 50
 meta_title: Gold bar challenge
 meta_description: The Gold Bar Challenge – an exciting interactive game for

@@ -1,5 +1,5 @@
 ---
-title: "Corporate Event Hire Birmingham"
+title: "Corporate Event Hire"
 meta_title: "Corporate Event Hire Birmingham"
 meta_description: "Looking for corporate event hire in Birmingham? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:

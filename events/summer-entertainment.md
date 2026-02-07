@@ -1,10 +1,10 @@
 ---
 title: "Summer Entertainment"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Outdoor games and inflatables to hire"
 meta_title: "Summer Entertainment"
 meta_description: "Enjoy summertime parties with Fun Pro UK! We have some summer entertainment ideas for all outdoor events in the warm weather. Hire all you need online!"
 featured: true
-thumbnail: /images/products/super-slides/super-slides-1.jpg
+thumbnail: /images/events/summer-entertainment.jpg
 redirect_from:
   - "/pages/summer-entertainment/"
 eleventyNavigation:

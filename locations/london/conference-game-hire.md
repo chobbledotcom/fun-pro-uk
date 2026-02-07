@@ -1,5 +1,5 @@
 ---
-title: "Trusted Corporate Event Entertainment, London"
+title: "Conference Game Hire"
 meta_title: "Conference Game Hire London – Interactive Fun | Fun Pro UK"
 meta_description: "Looking to hire games for events that will make your conference unforgettable? Our event game hire adds excitement and fun to any gathering. Book today!"
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 title: "Roller Bowler"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Mechanical ball-rolling skill game, no power needed"
 price: "£395"
 order: 50
 meta_title: "Roller Bowler Hire UK | Corporate Events & Exhibitions"

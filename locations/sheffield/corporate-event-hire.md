@@ -1,5 +1,5 @@
 ---
-title: "Corporate Event Hire Sheffield | Interactive Games"
+title: "Corporate Event Hire"
 meta_title: "Corporate Event Hire Sheffield | Interactive Games"
 meta_description: "Corporate event hire in Sheffield from Fun Pro UK. Interactive games, photo booths and entertainment for conferences, team building and staff parties."
 redirect_from:

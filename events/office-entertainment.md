@@ -1,10 +1,10 @@
 ---
 title: "Office Entertainment"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Compact games and activities that fit in the workplace"
 meta_title: "Office Entertainment"
 meta_description: "Office Entertainment - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 featured: true
-thumbnail: /images/products/air-hockey-table-hire/air-hockey-table-hire-1.jpg
+thumbnail: /images/events/office-entertainment.jpg
 redirect_from:
   - "/pages/office-entertainment/"
 eleventyNavigation:

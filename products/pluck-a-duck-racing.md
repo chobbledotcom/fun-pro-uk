@@ -1,6 +1,6 @@
 ---
 title: "PLUCK A DUCK RACING"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Competitive duck-plucking reaction game for two players"
 price: "£395"
 order: 50
 meta_title: "Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire"

@@ -1,6 +1,6 @@
 ---
 title: "CLASSIC PHOTO BOOTHS"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Traditional enclosed photo booth with instant prints"
 price: "£450"
 order: 50
 meta_title: "Classic Photo Booth Hire For Corporate Parties | Fun Pro UK"

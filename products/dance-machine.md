@@ -1,6 +1,6 @@
 ---
 title: "Dance Machine"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Arcade-style dance pad game with on-screen routines"
 price: "£475"
 order: 50
 meta_title: "Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK"

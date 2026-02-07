@@ -1,5 +1,5 @@
 ---
-title: "Strike a light-Danger Zone Hire Birmingham"
+title: "Strike a Light Danger Zone Hire"
 meta_title: "Strike a light-Danger Zone Hire Birmingham - Exhibition and Game Hire in Nationwide | Fun Pro UK"
 meta_description: "Strike a light-Danger Zone Hire Birmingham - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:

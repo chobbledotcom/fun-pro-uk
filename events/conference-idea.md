@@ -1,10 +1,10 @@
 ---
 title: "Conference Production"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Interactive games to keep delegates engaged between sessions"
 meta_title: "Conference Production"
 meta_description: "Keep spirits up during conferences and similar events with Fun Pro UK! We have a stunning array of quality party supplies and products available. Book now!"
 featured: true
-thumbnail: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
+thumbnail: /images/events/conference-idea.jpg
 redirect_from:
   - "/pages/conference-idea/"
 eleventyNavigation:

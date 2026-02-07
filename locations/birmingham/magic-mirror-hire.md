@@ -1,5 +1,5 @@
 ---
-title: "Magic Mirror Hire Birmingham for Corporate Events"
+title: "Magic Mirror Hire"
 meta_title: "Fun Pro UK | Top-Quality Magic Mirror Hire In Birmingham"
 meta_description: "For magic mirror hire in Birmingham, choose Fun Pro UK! These magic mirror photo booths are a great addition for corporate events, weddings and much more."
 redirect_from:

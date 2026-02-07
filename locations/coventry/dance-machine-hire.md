@@ -1,5 +1,5 @@
 ---
-title: "Dance Machine Hire for Coventry Events"
+title: "Dance Machine Hire"
 meta_title: "Dance Machine Hire Coventry | Arcade Games | Event Rentals"
 meta_description: "Looking for dance machine hire in Coventry? Look no further - book all the best retro arcade games with Fun Pro UK! Tell us where you need us today!"
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 title: 8 Lane Roll & Bowl Donkey Derby Hire
-subtitle: Subtitle subtitle subtitle subtitle subtitle subtitle
+subtitle: "Roll-and-bowl racing game for up to 8 players"
 price: £1695
 order: 50
 meta_title: 8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in

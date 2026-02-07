@@ -1,6 +1,6 @@
 ---
 title: "Pizza"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Freshly made pizza catering for event guests"
 price: ""
 order: 50
 meta_title: "Pizza - Exhibition and Game Hire in Nationwide | Fun Pro UK"

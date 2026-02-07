@@ -1,10 +1,10 @@
 ---
 title: "Corporate Wellbeing Days"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Relaxed games and activities to hire for your team"
 meta_title: "Corporate Wellbeing Days"
 meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
 featured: true
-thumbnail: /images/products/football-tables/football-tables-1.jpg
+thumbnail: /images/events/staff-wellbeing-days.jpg
 redirect_from:
   - "/category/staff-wellbeing-days/"
 eleventyNavigation:

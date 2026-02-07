@@ -1,6 +1,6 @@
 ---
 title: "Climbing Wall"
-subtitle: "Subtitle subtitle subtitle subtitle subtitle subtitle"
+subtitle: "Portable four-lane climbing wall"
 price: ""
 order: 50
 meta_title: "Climbing Wall Hire – Adventurous Event Attraction"
