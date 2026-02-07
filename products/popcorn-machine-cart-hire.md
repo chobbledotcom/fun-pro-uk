@@ -64,41 +64,42 @@ faqs:
     answer: "The cart requires mains power (approximately 190-210W) for the popping mechanism."
 tabs:
   - title: "Why Popcorn Machine Cart Hire?"
-    body: "A popcorn cart brings cinema nostalgia and live food preparation to corporate events, celebrations, and family days. The familiar aroma creates atmosphere whilst the visual theatre of popping corn draws guests naturally.
+    body: >-
+      Looking to make your event unforgettable? Our popcorn machine cart hire adds a fun and welcoming touch that guests of all ages will love. Perfect for school fairs, corporate events, or family fun days, the cart adds a classic and crowd-pleasing feature to your event. The sight and aroma of fresh popcorn bring a nostalgic charm that's hard to resist.
 
 
-      For events where refreshments should contribute to atmosphere rather than just satisfy hunger, popcorn delivers. The sensory experience, smell and sight alongside taste, creates more impact than static catering.
+      This popcorn machine doubles as a snack station and a versatile feature that fits different kinds of events ranging from casual gatherings to corporate functions. Whether placed indoors or outdoors, the cart is designed to complement your event's setting and keeps guests coming back for more.
 
 
-      Capacity suits events of 50-300 guests, with continuous production maintaining availability. Setup and operation handled by our team."
+      Our popcorn machine cart hire includes one red and white popcorn cart, one popcorn warming machine, one trained team member to staff and serve freshly made popcorn for up to four hours, and approximately 200 servings of hot, delicious popcorn.
     image: "/images/products/popcorn-machine-cart-hire/popcorn-machine-cart-hire-1.jpg"
   - title: "How It Works"
-    body: "The popcorn cart arrives complete with all supplies and is operated by our team throughout your event. Fresh popcorn is produced continuously, ensuring guests receive warm servings.
+    body: >-
+      Booking is simple and stress-free. Talk to us via our website, email, or phone to discuss your event needs, and our team will give you a personalised quote. Once you're happy, confirm your booking and we'll handle the rest.
 
 
-      The cart creates a natural focal point and the production process itself becomes part of the entertainment. The aroma spreads through venues, drawing guests towards the cart.
+      On the day of your event, we deliver and set up the popcorn machine cart at your chosen venue. A professional and friendly team member manages the cart for up to four hours, handling the popping and serving so you can focus on enjoying the event. Fresh popcorn is produced continuously, ensuring guests receive warm servings throughout.
 
 
-      Setup takes approximately 15-20 minutes with mains power required for operation."
+      For businesses, this cart offers a unique way to showcase your brand. Customise it with logos, slogans, or designs to align with your event theme or corporate identity. Guests enjoy fresh, warm popcorn served with care, while your branding takes centre stage.
   - title: "Why It's A Crowd Favourite"
-    body: "Popcorn carts work because they engage multiple senses. The smell alone creates atmosphere and anticipation. The sight of popping corn adds visual interest. The taste delivers on the promise.
+    body: >-
+      Popcorn is a wonderful treat that suits every occasion, from corporate team building days and summer fairs to weddings and birthday parties. The aroma alone creates atmosphere and anticipation, drawing guests towards the cart naturally. The sight of popping corn adds visual interest, and the taste delivers on the promise.
 
 
-      The nostalgia element helps too. Popcorn carries associations with treats, entertainment, and special occasions. Those connections transfer to your event.
+      The nostalgia element helps too. Popcorn carries associations with treats, entertainment, and special occasions. Those connections transfer to your event, making it feel more special from the moment the first kernel pops.
 
 
-      For practical purposes, popcorn also serves as conversation lubricant. Guests approach the cart, wait briefly together, receive their servings. Those moments enable natural interaction."
+      For practical purposes, popcorn also serves as conversation fuel. Guests approach the cart, wait briefly together, receive their servings. Those moments enable natural interaction that more formal catering simply doesn't create.
     image: "/images/products/popcorn-machine-cart-hire/popcorn-machine-cart-hire-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Our services include complete setup and removal by our professional team, making the process smooth and straightforward. You can trust that our popcorn machine cart and all related equipment will arrive in excellent condition, fully prepared and ready for use at your event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      On the day of your event, we deliver and set up at your chosen venue, taking care of everything from start to finish. When the event is over, we return to collect the popcorn machine cart and leave your venue exactly as we found it. Need to extend your hire period? Simply let us know, and we'll do our best to accommodate your needs.
 ---
 

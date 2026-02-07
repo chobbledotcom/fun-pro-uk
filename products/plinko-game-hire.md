@@ -102,43 +102,47 @@ add_ons:
       price: 50
 tabs:
   - title: "Why Plinko Game Hire?"
-    body: "Plinko brings the television game show format to corporate events, celebrations, and brand activations. The familiar format, where discs bounce down through pegs into prize slots, creates genuine excitement and works well for prize-giving entertainment.
+    body: >-
+      Make your event unforgettable with our Giant Plinko Game hire service. Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Plinko Game is a surefire way to increase engagement and entertainment.
 
 
-      For events where you want entertainment that combines participation with prize distribution, Plinko delivers both. The visible randomness creates drama, whilst the format ensures fair distribution without awkward selection processes.
+      The Plinko board game is a crowd-pleaser that guarantees a memorable experience for participants of all ages. Want to showcase your own prizes or brand offerings? No problem. Our Plinko Game allows you to personalise the prize sections with your own branding, making it the ideal attraction for exhibition stands, trade show stalls, and promotional events.
 
 
-      No power required means flexible positioning, with capacity for 20-200 guests. Setup takes approximately 15-20 minutes."
+      The Plinko Game is available in the standard red and white design. Alternatively, you can opt to brand your own Plinko Game by using your company logo design to be fitted on the backboard of the game underneath the pins, which will enhance your brand activation matching the colours of your stand and promotional products.
     image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
   - title: "How It Works"
-    body: "Players drop discs from the top of the Plinko board, watching as they bounce through pegs before landing in prize slots at the bottom. Different slots represent different prizes or scores.
+    body: >-
+      The Plinko board game is a large floor mounted game where each contestant can win a prize. Simply drop a Plinko disc in the top of the game and watch as it bounces down, zigzagging between the pins until it lands on a prize section at the bottom.
 
 
-      The format is immediately understandable and creates visible drama as discs bounce unpredictably. Games run quickly, maintaining throughput.
+      The Plinko discs will bounce between the pins on the game until it reaches the prize sections which run along the bottom of the game. Each prize section is numbered, however you can brand the Plinko game with your own prizes. The format is immediately understandable and creates visible drama as discs bounce unpredictably.
 
 
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
+      Setup takes approximately 15-20 minutes and requires only a level surface. No power is needed, giving you flexibility with positioning.
     image: "/images/products/plinko-game-hire/plinko-game-hire-8.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Plinko works because watching those discs bounce is genuinely exciting. The randomness, the near-misses, the final slot. It creates drama that static prize draws don't match.
+    body: >-
+      Plinko works because watching those discs bounce is genuinely exciting. The randomness, the near-misses, the final slot. It creates drama that static prize draws simply do not match. A fantastic attraction for exhibition stands, trade show stalls, and brand promotions, this amazing game will attract a crowd to see who can win which prize.
 
 
-      The television association helps too. Guests know the format, understand the stakes, and engage with the familiarity. That recognition lowers barriers to participation.
+      The Plinko board game is a crowd-pleaser that guarantees a memorable experience for participants of all ages. The television association helps too. Guests know the format, understand the stakes, and engage with the familiarity, which lowers barriers to participation.
 
 
-      For prize distribution specifically, Plinko feels fair and entertaining rather than arbitrary. Winners feel lucky rather than selected, which avoids the awkwardness of obvious favouritism."
+      For prize distribution specifically, Plinko feels fair and entertaining rather than arbitrary. Winners feel lucky rather than selected, which avoids the awkwardness of obvious favouritism.
     image: "/images/products/plinko-game-hire/plinko-game-hire-9.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      As a nationwide hire company, we can provide everything you need for your party or event. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Please note the Plinko game cannot be carried up or down flights of stairs and a lift is required for upper floors. Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
     image: "/images/products/plinko-game-hire/plinko-game-hire-6.jpg"
 faqs:
   - question: "How many people can play Plinko at once?"

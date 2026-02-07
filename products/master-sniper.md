@@ -67,70 +67,76 @@ gallery_cloudinary:
 tabs:
   - title: Why Master Sniper?
     body: >-
-      Master Sniper brings target shooting entertainment to corporate events,
-      team building days, and celebrations. The precision-based challenge
-      appeals to guests who enjoy focused skill games over reaction or physical
-      entertainment.
+      Experience fast-paced, high-impact gameplay in Master Sniper, the arcade
+      shooting game designed for players who crave accuracy, excitement, and
+      nonstop action. Take on thrilling missions filled with moving targets,
+      challenging enemies, and explosive bonus rounds that put your sniper
+      skills to the test.
 
 
-      For events where you want variety in entertainment types, shooting games
-      offer something different. The concentration required creates focused
-      engagement, whilst the competitive element generates natural rivalry.
+      With smooth controls, sharp graphics, and a competitive leader board,
+      Master Sniper delivers an immersive shooting experience perfect for
+      casual players and elite sharpshooters alike. Master long-range shots,
+      improve your reaction time, and climb the ranks as you prove you're the
+      top sniper in the arcade.
 
 
-      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest
-      throughput, it maintains steady engagement. Setup takes approximately
-      15-20 minutes.
+      Play Master Sniper today and discover the most addictive
+      precision-shooting arcade game on the market.
   - title: How It Works
     body: >-
-      Players aim at targets and attempt to hit with precision. The game tracks
-      accuracy, scoring successful hits and building totals throughout sessions.
+      Players take on thrilling missions filled with moving targets,
+      challenging enemies, and explosive bonus rounds. The smooth controls and
+      sharp graphics create an immersive experience as you aim, fire, and
+      score.
 
 
-      The format suits informal play or structured competitions with
-      leaderboards tracking best scores. Multiple players can engage
-      simultaneously for head-to-head challenges.
+      The game supports 1 or 2 players and features a competitive leader
+      board, allowing contestants to track their progress and compete for the
+      top spot. Master long-range shots, improve your reaction time, and climb
+      the ranks throughout your event.
 
 
-      Setup requirements and power needs vary by specific configuration. We'll
-      confirm details when you enquire.
+      The unit requires 1 mains power socket (2700W) and is suitable for
+      indoor use only on a level surface. Setup takes approximately 15-20
+      minutes by our trained team.
   - title: Why It's A Crowd Favourite
     body: >-
-      Shooting games create focused engagement because they require
-      concentration. Unlike games you can play whilst chatting, precision
-      targeting demands attention. That focus creates memorable experiences and
-      genuine satisfaction when accuracy improves.
+      Master Sniper delivers fast-paced, high-impact gameplay that draws
+      crowds. The precision-shooting format is genuinely addictive, keeping
+      players coming back to improve their scores and climb the leader board.
+      Spectators gather to watch the action unfold on screen, creating a
+      buzzing atmosphere around the unit.
 
 
-      The competitive element works well for corporate events. Leaderboards
-      develop, colleagues challenge each other, and the measurable scoring
-      creates clear bragging rights.
+      The competitive leader board is what really drives engagement at events.
+      Colleagues and friends challenge each other, scores are compared, and
+      bragging rights are fiercely contested. The measurable scoring creates
+      clear winners and keeps the rivalry going all day.
 
 
-      It also appeals to guests who might not engage with physical or reaction
-      games. Steady aim and patience matter more than speed or strength,
-      broadening participation.
+      It appeals to casual players and elite sharpshooters alike. Whether your
+      guests are seasoned gamers or picking up the controller for the first
+      time, the intuitive controls and exciting gameplay ensure everyone has a
+      great time.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team, so there's nothing
+      for you to coordinate on the day. As a nationwide hire company, we can
+      provide everything you need for your party or event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which includes the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note, this item cannot be carried up or down any stairs. Minimum
+      door width is 0.6m. In-house branding is available, printed, applied,
+      and removed after each event (one time use only). Delivery charges and
+      minimum order value may apply.
 faqs:
   - question: How many people can play Master Sniper at once?
     answer: The game accommodates 1-4 players, with the precision shooting format

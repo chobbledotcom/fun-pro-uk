@@ -120,43 +120,44 @@ add_ons:
       price: 295
 tabs:
   - title: "Why RETRO ARCADE GAMES?"
-    body: "Retro arcade games tap into genuine nostalgia whilst remaining accessible to younger colleagues who enjoy the vintage aesthetic. The classic cabinet format is instantly recognisable and draws people in without needing explanation or encouragement.
+    body: >-
+      Remember the golden age of video games, when you and your mates crowded round the big, boxy games machine at your local arcade, to zap flying saucers and chase dots with voracious Pac Men? Now you can relive those nostalgic challenges with our retro arcade games for hire. With a two-player option, your team can compete head to head, fostering team spirit and friendly competition.
 
 
-      What makes this particularly effective for corporate events is the natural conversation it generates. People share memories, discover common ground, and engage in ways that feel organic rather than forced. For team building or networking events, that social lubrication often proves more valuable than the games themselves.
+      With loads of lights and colour, bleeps and blasts, your classic arcade console is certainly going to get the attention of anyone and everyone at your trade show or exhibition. It's small enough to fit on almost any stand, but can make a big impact on visitor numbers and overall engagement.
 
 
-      With capacity for 20-200 guests and games lasting 15-20 minutes per session, the format suits extended events where you want entertainment running in the background. The mains power requirement is the only practical consideration for most venues."
+      Choose from a library of up to 60 iconic games including Pac Man, Space Invaders, Frogger, 1944, pinball, Galaxian, and Donkey Kong, ensuring endless entertainment for all participants at your event.
     image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
   - title: "How It Works"
-    body: "Classic arcade cabinets featuring games from the golden age of arcades. Think Pac-Man, Space Invaders, and similar titles that defined the genre. Players use traditional joystick and button controls, just as the games were designed to be played.
+    body: >-
+      Our classic arcade hire features cabinets from the golden age of video games. Players use traditional joystick and button controls, just as the games were designed to be played. Each cabinet offers up to 60 different game options, giving players variety without needing additional equipment.
 
 
-      Each cabinet typically offers multiple game options, giving players variety without needing additional equipment. Games run independently once set up, with players able to start and play without assistance.
+      Games run independently once set up, with players able to start and play without assistance. The two-player option allows your team to go head to head with their colleagues or take on their rivals and play their way to the top. You'll never run out of ideas for what to play next.
 
 
-      Setup takes around 15-20 minutes per cabinet, with mains power required for operation. The self-service nature means minimal supervision is needed. Guests naturally take turns and the games manage themselves. For larger setups with multiple cabinets, staff can help maintain engagement and manage any informal tournaments."
+      Setup takes around 15-20 minutes per cabinet, with mains power required for operation. Most arcade machines need to be indoors, but if you are having an outdoor event we can provide suggestions or offer something under cover of a tent. The self-service nature means minimal supervision is needed.
     image: "/images/products/retro-arcade-games/retro-arcade-games-15.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Retro arcade games work at events because they come pre-loaded with positive associations. For anyone who grew up with arcades, there's genuine emotional resonance. For younger attendees, there's the appeal of experiencing gaming history firsthand.
+    body: >-
+      Classic video game hire is a hit with young and old alike, making it ideal for your team in the office, for their family and friends at a function or corporate event, or for bringing in new clients and customers at an open day. The immersive gaming experience creates lasting memories and encourages interaction among guests.
 
 
-      The format also encourages organic social behaviour. People cluster around cabinets, offer advice, celebrate high scores, and naturally rotate through. Unlike entertainment that requires formal structure, arcade games create their own social dynamics.
+      The format encourages organic social behaviour. People cluster around cabinets, offer advice, celebrate high scores, and naturally rotate through. Unlike entertainment that requires formal structure, arcade games create their own social dynamics. There's also no performance anxiety - the games are meant to be hard, dying is expected, and nobody judges you for losing to Pac-Man.
 
 
-      There's also no performance anxiety. The games are meant to be hard, dying is expected, and nobody judges you for losing to Pac-Man. That low-stakes environment helps people relax and actually enjoy themselves."
+      Why not create your own amusement arcade by adding our twin basketball challenge game or our authentic racing car simulators for hire? Our team have years of experience in putting together the perfect corporate fun hire package for any kind of event.
     image: "/images/products/retro-arcade-games/retro-arcade-games-16.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle the transportation, setup, and removal at the end of the event, so there's nothing for you to coordinate on the day. What we do need to ensure is that there is a proper power outlet so your game or games can be plugged in.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver UK wide, including West Midlands, Manchester, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, and Stratford upon Avon. We also offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Telford, Leeds, Milton Keynes and Sheffield.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note this equipment cannot be carried up or down flights of stairs. A lift is required for upper floors. We do book up fast, so the sooner you know your event dates, the sooner we can get our arcade games reserved for you.
     image: "/images/products/retro-arcade-games/retro-arcade-games-13.jpg"
 faqs:
   - question: "What games are included with Retro Arcade Games?"

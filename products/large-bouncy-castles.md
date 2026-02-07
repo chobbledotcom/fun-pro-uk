@@ -62,68 +62,82 @@ tabs:
   - title: Why LARGE BOUNCY CASTLES?
     image: /images/products/large-bouncy-castles/large-bouncy-castles-2.jpg
     body: >-
-      Large bouncy castles bring high-energy entertainment and visual impact to
-      corporate family days, summer celebrations, and outdoor events. The scale
-      creates spectacle whilst the bouncing delivers pure, uncomplicated fun.
+      If you've ever watched your kids having the time of their lives on a
+      bouncy castle, and longed to have a go, then this is the perfect hire
+      for you. Our adult bouncy castles for hire are specially designed for
+      grown-ups, so everyone from the managing director to the intern can
+      bounce their way back to that wonderful free feeling of childhood.
 
 
-      For events with mixed ages where you want entertainment that works for
-      children and creates energy for adults, large inflatables deliver. The
-      format needs no explanation and generates natural enthusiasm.
+      Unlike most bouncy castles, which have an age or weight limit, bouncy
+      castles for adults are made from stronger canvas, with specially
+      reinforced seams, so all ages can join the fun.
 
 
-      Setup requires adequate outdoor space and is handled entirely by our team.
-      The scale makes bouncy castles effective centrepiece entertainment.
+      Adult bouncy castle hire is a great ice breaker for your company fun
+      day, getting everyone in the mood for fun as they fly around in
+      complete safety. There's just no better way to build morale and thank
+      your team for all their hard work.
   - title: How It Works
     image: /images/products/large-bouncy-castles/large-bouncy-castles-1.jpg
     body: >-
       The bouncy castle inflates to create a large enclosed bouncing area.
-      Participants enter and bounce, with the straightforward format needing no
-      instruction.
+      Unlike most bouncy castles, which have an age or weight limit, our
+      adult bouncy castles are made from stronger canvas, with specially
+      reinforced seams, so all ages can join the fun.
 
 
-      Capacity depends on the specific castle size. Safety supervision ensures
-      appropriate use and manages numbers throughout your event.
+      We use only the best bouncy castles available, and thoroughly check
+      and test them after every hire, so you can be sure they are clean,
+      safe and will reflect well on your company.
 
 
-      Our team handles all setup, inflation, and supervision. Weather
-      considerations apply for outdoor use.
+      Our team handles all setup, inflation, and supervision throughout
+      your event. You can even go one better and hire a disco dome for your
+      company fun day, adding a built-in sound and light show for your
+      guests to enjoy.
   - title: Why It's A Crowd Favourite
     image: /images/products/large-bouncy-castles/large-bouncy-castles-2.jpg
     body: >-
-      Bouncy castles work because bouncing is fundamentally fun. It's
-      uncomplicated physical enjoyment that appeals across ages, even if adults
-      sometimes need permission or encouragement to join in.
+      They're especially good for company events where the whole family is
+      invited, because they allow mums and dads to share the excitement
+      with their kids, welcoming everyone to the party. There's just no
+      better way to build morale and thank your team for all their hard
+      work.
 
 
-      For family events, the entertainment bridges generations. Children bounce
-      enthusiastically whilst adults rediscover the simple pleasure of it. That
-      shared experience creates positive event memories.
+      Adult bouncy castle hire is a great ice breaker for your company fun
+      day, getting everyone in the mood for fun as they fly around in
+      complete safety. Everyone from the managing director to the intern
+      can bounce their way back to that wonderful free feeling of
+      childhood.
 
 
       The visual impact also matters. A large inflatable transforms venue
-      appearance and creates clear activity zones that draw participation.
+      appearance and creates clear activity zones that draw participation,
+      and the straightforward format needs no explanation.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We can deliver your bouncy castle anywhere in the country. Just let
+      us know what you want and where you want it and we'll take care of
+      everything for you, to guarantee a great day for all concerned.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Minimum order value and delivery charges may apply to all locations.
+      Our team arrives with adequate time before your event to position and
+      set everything up, ensuring it's ready for your first guests.
 
 
       All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      giving you complete peace of mind. When your event wraps up, we handle
+      the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: How many people can use the Bouncy Castle at once?
     answer: Capacity depends on the specific castle size and user ages. Our team

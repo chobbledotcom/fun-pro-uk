@@ -81,43 +81,47 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/02abf64c290b623f1e4cf05c3c474759"
 tabs:
   - title: "Why PLUCK A DUCK RACING?"
-    body: "Pluck a Duck Racing combines the familiar hook-a-duck format with competitive racing excitement. Players grab ducks to advance their position, creating head-to-head competition that draws spectators and generates natural entertainment.
+    body: >-
+      Looking to liven up your event with a classic fairground game that promises endless fun and excitement? Our Pluck a Duck Racing game is just what you need. Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, this game is a surefire way to increase engagement and boost morale.
 
 
-      For family-friendly events or corporate functions with mixed audiences, the accessible format works across ages whilst maintaining engagement. The racing element adds competitive tension that pure hook-a-duck lacks.
+      The Pluck a Duck Racing game is not just about entertainment; it also offers a range of benefits. Whether you're hosting a team-building event or a family fun day, this game can help enhance patience, concentration, and teamwork skills. It's a fantastic way to create lasting memories and strengthen relationships among participants.
 
 
-      The 1-4 player format keeps games social, no power required means flexible positioning, and capacity suits events of 20-200 guests."
+      With its nostalgic charm and versatile applications, Pluck a Duck Racing is a must-have addition to any event. Whether you're aiming to engage employees or simply add a touch of whimsy to your gathering, this game delivers on all fronts.
     image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-8.jpg"
   - title: "How It Works"
-    body: "Players use hooks to grab floating ducks, with each successful grab advancing their position in the race. The first to complete the course wins, creating clear competitive moments.
+    body: >-
+      It takes a steady hand and nerves of steel to free our five ducks from their slots and have a chance to claim the start and stop the clock. And when you're playing head to head against your opponent, it takes concentration too, to keep calm and not panic as they pull ahead.
 
 
-      Multiple players compete simultaneously, making each race a shared experience with spectator appeal. The familiar hooking mechanic needs no explanation.
+      You pick up each duck with the electro magnet on your pole, but if it touches the sides, the connection is lost and the duck drops back down. It's a tantalising twist on the classic Operation game that really tests your skill.
 
 
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
+      The game helps develop hand-eye coordination, patience, confidence, and analytical thinking. Players learn to analyse their moves and determine the most appropriate course of action, all while having a brilliant time.
     image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-7.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Duck racing games work because they combine nostalgia with competition. The hook-a-duck format carries positive associations for most people, whilst the racing element adds tension and stakes that pure fairground versions lack.
+    body: >-
+      Very silly and highly addictive, Pluck a Duck Racing gets everyone involved and rooting for their team mates. It's a terrific team builder that will have the whole room watching and cheering. The head-to-head format creates natural drama that spreads energy through any event.
 
 
-      The head-to-head format creates natural drama. Races have clear winners, near-finishes generate reactions, and the competitive element encourages repeat plays to settle scores.
+      Hooking a duck is one of those games we all know and love from our childhoods, bringing back memories of fairgrounds and holidays. That nostalgic charm means people are drawn in without needing any encouragement, and the competitive twist keeps them coming back for more.
 
 
-      It's also genuinely accessible. Young children and adult colleagues can compete meaningfully. That cross-generational appeal makes it valuable for family days and mixed events."
+      Don't forget: it's just great fun. We all need a little time to relax now and then, after all. Whether it's for your school, your family, or your staff, pluck-a-duck game hire is surprisingly versatile for so many different occasions.
     image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-8.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We deliver and set up on site as part of your hire, so there's nothing for you to coordinate on the day. Pluck a Duck can be set up in almost any venue; all you need is a plug socket and enough space for the folding table.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      From a single item to a whole company fun day carnival, our team have the experience and expertise to create the perfect corporate entertainment hire package for your event. We're the team to trust for reliable, reputable, quality entertainment equipment hire, delivered promptly and professionally right across the country, from London to Leeds, Birmingham to Bristol.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note this equipment cannot be carried up or down flights of stairs. A lift is required for upper floors.
     image: "/images/products/pluck-a-duck-racing/pluck-a-duck-racing-5.jpg"
 faqs:
   - question: "How many people can play Pluck a Duck Racing at once?"

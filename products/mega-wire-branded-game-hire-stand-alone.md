@@ -124,78 +124,88 @@ tabs:
   - title: Why Mega Wire - Branded Game Hire (stand alone)?
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-11.jpg
     body: >-
-      Mega Wire takes the classic buzz wire concept and scales it up for event
-      impact. Players guide a loop along a twisted wire path without touching
-      the sides. The tension builds naturally, spectators gather to watch, and
-      the inevitable buzzes create shared moments of drama.
+      Looking to elevate your next event and leave a lasting impression on
+      attendees? This stand-alone Buzz Wire game is not only a fun addition to
+      your event but also offers a brilliant space for showcasing your
+      company's branding, making it a perfect fit for exhibitions, conferences,
+      well-being days, and more.
 
 
-      As a standalone branded unit, it's designed to make an impression. For
-      brand activations or corporate events where you want entertainment that
-      creates talking points, the visible challenge draws crowds and generates
-      the kind of engagement that passive displays don't achieve.
+      The Mega Wire game may seem deceptively simple at first glance, but it
+      brings a whole new level of challenge and excitement to the table. Test
+      your hand-eye coordination as you navigate the wand around the intricate
+      metal shape, trying to avoid the dreaded buzz sound that signals a
+      misstep. It's a game that promises thrills and spills for players of all
+      ages.
 
 
-      With 1-4 player capacity and 15-20 minute game sessions, it maintains
-      steady throughput for events of 20-200 guests. Mains power is required,
-      but setup is straightforward at 15-20 minutes.
+      Whether you're hosting a corporate event, exhibition stand game, product
+      launch, school fun day, or party, the Mega Wire is sure to draw a crowd
+      and keep them entertained. Its interactive nature and competitive spirit
+      make it an ideal choice for increasing engagement and leaving a lasting
+      impression on your guests.
   - title: How It Works
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-10.jpg
     body: >-
-      Players hold a loop on a handle and attempt to guide it along a twisted
-      wire path from start to finish without the loop touching the wire. Contact
-      triggers a buzz, adding pressure and creating spectator moments.
+      The large metal shape may look easy to navigate the wand around but
+      don't be caught out - just as you think you have a steady hand and will
+      be the winner of the game you may accidentally catch the side and that
+      mega buzz wire sound will tell everyone! The buzz wire is a simple game
+      which brings its own challenges to all who play.
 
 
-      The game challenges 1-4 players at a time, with the visible progress
-      creating natural tension that draws onlookers. The branding options make
-      it suitable for corporate events where you want the entertainment to align
-      with your visual identity.
+      Why not supply a prize for the winning contestant and make it a friendly
+      competition? Whoever can complete the game without the buzzer sounding or
+      whoever can complete the game in the shortest time! We can even supply
+      branded leader boards for each contestant to record their times.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. Once
-      running, the game is largely self-explanatory, though staff can be
-      provided for larger events where you'd prefer managed entertainment.
+      Our Mega Wire is a great interactive game that doesn't need a power
+      supply. The game is run off a single battery, meaning the game can be
+      placed indoors or outdoors, providing the game is in a watertight setup.
+      Our team are able to brand the rectangular base with your company image,
+      logo, or promotional message for all to see at your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-11.jpg
     body: >-
-      Buzz wire games create tension in a way that few other activities manage.
-      The slow, careful progress. The held breath. The inevitable slip and the
-      buzz that follows. It's genuinely dramatic, even when you're watching
-      someone else.
+      The Mega Wire is a great attraction that draws a crowd and keeps them
+      entertained. Whether you are arranging a University Freshers event, new
+      product promotion, school fun day, or exhibition and trade show event,
+      this game will ensure you stand out from the crowd.
 
 
-      For corporate events, this spectator element is valuable. People gather
-      around, offer advice, groan at near-misses. The social dynamics emerge
-      naturally rather than needing to be orchestrated.
+      Make your event even more engaging by offering prizes for the quickest
+      completion time or for successfully navigating the wire without setting
+      off the buzzer. You can even opt for branded leader boards to allow
+      contestants to track their progress and compete for the top spot.
 
 
-      There's also an equalising quality. Buzz wire success depends on
-      steadiness and patience, not strength or prior knowledge. The colleague
-      who seems least likely might turn out to have surgeon-steady hands. Those
-      surprises create memorable moments.
+      The branded game advertises your company exhibition stand or trade show
+      stall and will not only increase footfall marketing for your brand but
+      will also entice new clientele for your business. It's a game that
+      promises thrills and spills for players of all ages, making it an ideal
+      choice for increasing engagement and leaving a lasting impression on
+      your guests.
   - title: Delivery
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-8.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team, so there's nothing
+      for you to coordinate on the day. As a nationwide hire company, we can
+      provide everything you need for your party or event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which includes the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note, the Mega Wire cannot be carried up or down flights of
+      stairs. A lift is required for upper floors. Minimum door width is 0.6m.
+      In-house branding is available, printed, applied, and removed after each
+      event (one time use only). Delivery charges and minimum order value may
+      apply.
 faqs:
   - question: How many people can play Mega Wire at once?
     answer: The game accommodates 1-4 players taking turns. One player navigates the

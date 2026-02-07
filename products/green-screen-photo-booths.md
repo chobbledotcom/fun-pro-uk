@@ -141,72 +141,94 @@ tabs:
   - title: Why Green screen photo booths?
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg
     body: >-
-      enable customised backgrounds and creative outputs that standard booths
-      can't match. Guests can appear in any setting, from branded environments
-      to fantasy locations, creating more memorable and shareable images.
+      Green screen photo booth hire gives your guests the chance to create
+      amazing, unforgettable pictures using a huge variety of backgrounds and
+      locations, themes and layouts, from comic strips to wanted posters,
+      magazine covers to worldwide postcards. The green screen dream machine is
+      the most advanced photo booth on the market and is guaranteed to impress
+      your guests, fire their imaginations and make them feel great about your
+      company.
 
 
-      For brand activations or themed events where you want photo entertainment
-      that reinforces messages and creates impressive outputs, green screen
-      technology delivers flexibility that traditional booths lack.
+      With over 1400 backgrounds, six print styles, and a range of creative
+      props, your guests will have a blast creating unforgettable photos.
+      Whether it's themed backgrounds, branded images, or custom layouts, the
+      possibilities are endless with our advanced photo booth.
 
 
-      Capacity suits events of 20-200 guests, with the creative possibilities
-      often generating more engagement than standard photo setups.
+      If you want your event to be truly memorable, then green screen dream
+      machine hire is just what you are looking for to get your guests talking,
+      and keep them talking for weeks to come. We deliver nationwide, just let
+      us know where you need us.
   - title: How It Works
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-25.jpg
     body: >-
-      Guests pose in front of the green screen whilst the system captures
-      images. Software replaces the green background with selected images,
-      placing guests into customised scenes.
+      With the traditional photo booths, you and your friends would go behind
+      the curtain, pose, and press the button. A green screen means the
+      background of the photo booth allows you to choose your background that
+      will appear on the final prints and images. There are a wide range of
+      backgrounds that can be chosen based on your party theme, whether it's
+      a holiday, a wedding, or a birthday party.
 
 
-      Multiple background options can be available, allowing guests to choose
-      settings that appeal. Outputs print immediately and can be shared
-      digitally.
+      Your photo booth hire package includes unlimited guest visits, two prints
+      per visit in colour, black and white or sepia tones, a green screen
+      background, props to make the pictures even more creative, a private
+      cloud-based link to your photos sent after your event, the chance to
+      brand every image with names or captions, and a choice of exterior booth
+      covers.
 
 
-      Setup requires mains power and approximately 15-20 minutes. Background
-      selection is configured before your event.
+      To help your guests get the best of the incredible features, every green
+      screen photo booth hire comes complete with a friendly operator. They'll
+      walk each visitor through all the outstanding options available and open
+      their minds to the amazing picture possibilities.
   - title: Why It's A Crowd Favourite
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg
     body: >-
-      Green screen booths generate excitement because the possibilities are
-      genuinely impressive. Guests appearing on tropical beaches, in movie
-      scenes, or branded environments creates photos that stand out from
-      standard booth shots.
+      Photo booths are always fun but you can make them even better with a
+      green screen photo booth hire for your next party event. Photo booths are
+      a great way to encourage interaction and fun for all ages of party or
+      company events. Our green screen booths are sure to add that extra touch
+      of fun to your next party.
 
 
-      The novelty drives engagement. First-time users are visibly impressed by
-      the results, and enthusiasm spreads as photos circulate. The wow factor
-      generates participation.
+      Our expert team can work with you to create images that match your
+      promotion, including your company logo, slogan or event details,
+      integrating your photo booth hire into the heart of any event. We can
+      brand the outside too, creating a real draw at an exhibition or trade
+      show.
 
 
-      For branded events specifically, the ability to place guests within custom
-      environments creates outputs that continue marketing beyond the event
-      itself.
+      Naturally, this top of the range photo booth is extremely popular, so
+      book now to secure your preferred date, or talk to our team for expert
+      events planning advice.
   - title: Delivery
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-23.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. We'll have staff on
+      hand to assist with the photos and to handle the photo booth supplies
+      and technical details.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request, with free delivery
+      within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment is indoor use only and requires a minimum door width of
+      0.6m. It cannot be carried up or down flights of stairs, so a lift is
+      required for upper floors. All you need to do is choose your venue and
+      the perfect location in your party room for the booth.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can use the Green Screen Photo Booth at once?
     answer: Groups of 1-8 can be photographed together, with the green screen

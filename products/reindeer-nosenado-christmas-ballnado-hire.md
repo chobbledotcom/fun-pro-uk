@@ -87,43 +87,44 @@ add_ons:
       price: 175
 tabs:
   - title: "Why Reindeer Nosenado (Christmas Ballnado Hire )?"
-    body: "Reindeer Nosenado brings festive theming to the chaotic ballnado format, with players grabbing reindeer noses from the swirling air chamber. The Christmas styling suits seasonal parties whilst the gameplay creates energy and laughter.
+    body: >-
+      Looking to add a touch of festive fun to your Christmas events? Step into the Christmas magic with the Reindeer Nosenado, where the goal is to catch as many of Rudolph's red noses as possible inside the clear cylinder. The fans whirl the noses around, creating a hilarious and engaging challenge for participants of all ages.
 
 
-      For Christmas events where you want entertainment that's both festive and genuinely engaging, the themed ballnado delivers. The visual spectacle draws attention whilst the grabbing challenge creates genuine fun.
+      You may have seen the Ballnado game hire and Cash Grabber, but this is a whole new take on the game providing festive Christmas game hire fun. Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, the Reindeer Nosenado is guaranteed to bring fun and laughter to all for your seasonal events.
 
 
-      Capacity suits events of 20-200 guests. The festive theming makes it seasonally appropriate without changing the proven gameplay."
+      This Reindeer Nose game will provide much fun and laughter at your Christmas event. Everyone loves Rudolph, and trying to catch as many red noses as possible is hilarious to watch and even more fun to play.
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
   - title: "How It Works"
-    body: "Players reach into the chamber to grab reindeer noses as they swirl in the air current. The challenge combines speed and timing with the slight chaos of swirling objects.
+    body: >-
+      The aim of the game is to stand inside the clear cylinder as the fan begins to blow lots of Rudolph's red noses around. The clock starts ticking and each contestant has to collect as many red noses as they possibly can within 30 seconds.
 
 
-      Sessions run for set periods, with players competing for most successful grabs. The frantic nature creates entertainment for spectators as well as participants.
+      Once the timer stops, all noses that have been collected will be counted and the score is added to the leader board. The frantic nature creates entertainment for spectators as well as participants, with everyone cheering on the person inside the cylinder.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes."
+      You could even offer a small gift for the person who can collect the most red noses at your event, making this a friendly challenging game for your Christmas themed game hire.
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-3.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "The ballnado format works because it's inherently chaotic and fun. Arms reaching into swirling objects, the visible scramble, the satisfaction of successful grabs. It engages on a simple, physical level.
+    body: >-
+      Rudolph's Red Nose Challenge Ballnado game is amazing fun for corporate Christmas parties, office Christmas party hire, Christmas promotional events, and much more. The game provides fun and laughter along with a little friendly competition. Who knew how much entertainment could be had by catching reindeer noses!
 
 
-      The Christmas theming adds seasonal relevance. Entertainment that acknowledges the festive occasion feels more considered than generic options, and guests appreciate the thought.
+      The Christmas theming adds seasonal relevance. Entertainment that acknowledges the festive occasion feels more considered than generic options, and guests appreciate the thought. Everyone will want to have a go inside this exciting game.
 
 
-      For corporate Christmas parties, the slight silliness helps. Adults grabbing reindeer noses creates laughter and loosens professional reserve."
+      For corporate Christmas parties, the slight silliness helps. Adults grabbing reindeer noses creates laughter and loosens professional reserve. The visible scramble inside the cylinder, the cheering spectators, the satisfaction of a high score - it all adds up to a memorable festive experience.
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-4.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We deliver and install on site as part of your hire, so there's nothing for you to coordinate on the day. Our trained team handles all setup and removal of the Reindeer Nosenado.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note this equipment cannot be carried up or down flights of stairs. A lift is required for upper floors. Minimum order value and delivery fees may apply to all locations.
     image: "/images/products/reindeer-nosenado-christmas-ballnado-hire/reindeer-nosenado-christmas-ballnado-hire-1.jpg"
 faqs:
   - question: "How many people can play Reindeer Nosenado at once?"
