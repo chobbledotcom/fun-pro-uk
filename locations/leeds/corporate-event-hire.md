@@ -1,5 +1,5 @@
 ---
-title: "Corporate Event hire Leeds"
+title: "Corporate Event Hire"
 meta_title: "Fun Pro UK - Corporate Entertainment Hire | Leeds"
 meta_description: "Original corporate entertainment ideas backed by first-class service. Fun Pro UK - for Leeds events. Interactive games, photo booths, magic mirrors &amp; more."
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Batak Pro Hire Manchester"
+title: "Batak Pro Hire"
 meta_title: "Batak Pro Hire Manchester | Exhibition Stand Games | Interactive"
 meta_description: "Make your Manchester event amazing with Batak Pro hire from the UK&#39;s exhibition and trade show stand entertainment experts! Book your spot with us now."
 redirect_from:

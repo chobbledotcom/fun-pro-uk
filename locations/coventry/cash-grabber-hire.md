@@ -1,5 +1,5 @@
 ---
-title: "Cash Grabber Hire Coventry"
+title: "Cash Grabber Hire"
 meta_title: "Cash Grabber Hire Coventry | Grab a Grand Cube | Event Rental"
 meta_description: "Grab a grand with the Cash Grabber cube, available to hire in Coventry and beyond with your local event rental experts. Book your spot with our team now!"
 redirect_from:

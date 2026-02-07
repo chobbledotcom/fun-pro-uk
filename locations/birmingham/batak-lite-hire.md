@@ -1,5 +1,5 @@
 ---
-title: "Batak Lite &ndash; An Interactive Game for Exhibitions & Corporate Events in Birmingham"
+title: "Batak Lite Hire"
 meta_title: "Batak Lite Hire Birmingham | Exhibition Stand Games | Interactive"
 meta_description: "Experience the best in Batak Lite in Birmingham and the West Midlands with the exhibition stand and event hire experts! Book your spot online today."
 redirect_from:
