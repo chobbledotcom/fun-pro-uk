@@ -1,5 +1,5 @@
 ---
-title: "Conference Event Hire in Coventry"
+title: "Conference Event Hire"
 meta_title: "Conference Event Hire Coventry | Fun Pro UK"
 meta_description: "Conference game hire in Coventry. Interactive entertainment for corporate events, exhibitions, and trade shows. Professional delivery and setup included."
 redirect_from:

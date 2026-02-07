@@ -1,5 +1,5 @@
 ---
-title: "Corporate Event Hire in Coventry"
+title: "Corporate Event Hire"
 meta_title: "Corporate Event Hire Coventry | Interactive Games"
 meta_description: "Professional corporate event hire in Coventry. Interactive games, team building activities and exhibition entertainment for conferences."
 redirect_from:

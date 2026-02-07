@@ -1,6 +1,6 @@
 ---
-title: "Trusted Birmingham Event Game Hire"
-meta_title: "Game Hire At The NEC"
+title: "NEC Game Hire"
+meta_title: "NEC Birmingham Game Hire | Exhibition Stand Entertainment"
 meta_description: "Looking for the number one supplier of games for your exhibition stand at the NEC. Visit Fun Pro UK"
 redirect_from:
   - "/pages/nec-birmingham/"

@@ -1,5 +1,5 @@
 ---
-title: "Plinko Game Hire for Birmingham Corporate Events"
+title: "Plinko Game Hire"
 meta_title: "Plinko Hire Birmingham"
 meta_description: "Contact Fun Pro UK today to Hire our fully Branded Plinko"
 redirect_from:

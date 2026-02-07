@@ -1,5 +1,5 @@
 ---
-title: "Hire Plinko Games for Your Coventry Event"
+title: "Plinko Game Hire"
 meta_title: "Plinko Hire Coventry"
 meta_description: "Looking to hire an interactive game from Fun Pro UK today. Give us a call on 02477220701"
 redirect_from:

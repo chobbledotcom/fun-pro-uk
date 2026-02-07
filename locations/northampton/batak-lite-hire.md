@@ -1,5 +1,5 @@
 ---
-title: "Batak Lite Hire Northampton"
+title: "Batak Lite Hire"
 meta_title: "Batak Lite Hire Northampton | Exhibition Stand Games | Events"
 meta_description: "The Batak Lite game could be just what you need for your upcoming exhibition, trade show or event in Northampton. Secure your spot now with Fun Pro UK!"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Batak Lite &ndash; A Dynamic Interactive Game for Exhibitions & Corporate Events in Coventry"
+title: "Batak Lite Hire"
 meta_title: "Batak Lite Game Hire Coventry | Interactive Game | Corporate Engagemen"
 meta_description: "Hire Batak Lite in Coventry for exhibitions, corporate events and product launches. Keep your guests engaged with this fast-paced reaction challenge. Book today for an exciting, competitive experience."
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Photo booth Hire Leicester"
+title: "Photo Booth Hire"
 meta_title: "Photo Booth Hire | Leicester | Fun Pro UK"
 meta_description: "For Leicester photo booth hire, choose Fun Pro UK! You&#39;ll love our wide range of green screen photo booths, our incredible value and our unbeatable service."
 redirect_from:
