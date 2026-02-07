@@ -30,9 +30,9 @@ specs:
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only / Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Standard door width / Can be carried upstairs"
+    value: "Standard door width"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-500+ guests"

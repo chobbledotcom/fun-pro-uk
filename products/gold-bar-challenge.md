@@ -37,18 +37,17 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 0.55m x 0.55m, Allow space for a person to stand in front to open the
-      door. (W/D)
+    value: 0.55m x 0.55m
   - name: Power
-    value: None
+    value: No power required
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 0.46m x 0.46m x 1.4m (W/D/H)
+    value: 0.46m x 0.46m x 1.4m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
