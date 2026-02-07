@@ -1,6 +1,6 @@
 ---
 title: "Brand Activation"
-subtitle: "Custom-branded games to hire for marketing events and experiential campaigns"
+subtitle: "Custom-branded games to hire for experiential campaigns"
 meta_title: "Brand Activation"
 meta_description: "We have a wonderful selection of branded games to hire for all kinds of corporate events. Brand activations, exhibitions, trade shows &amp; much more. UK-wide."
 featured: true

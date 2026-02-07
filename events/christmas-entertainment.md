@@ -1,6 +1,6 @@
 ---
 title: "Christmas Entertainment"
-subtitle: "Festive-themed games and equipment to hire for Christmas events"
+subtitle: "Festive-themed games and equipment to hire"
 meta_title: "Christmas Entertainment"
 meta_description: "Professional Christmas game hire across the UK. Branded festive entertainment for corporate events, parties &amp; exhibitions. Get a no-obligation quote today."
 featured: true

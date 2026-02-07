@@ -1,6 +1,6 @@
 ---
 title: "Circus Skills Workshop"
-subtitle: "Juggling, plate spinning and circus skills workshop to book for events"
+subtitle: "Bookable juggling, plate spinning and balancing tuition"
 meta_title: "Circus Skills Workshop"
 meta_description: "Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing."
 featured: true

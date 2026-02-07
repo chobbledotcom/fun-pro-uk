@@ -1,6 +1,6 @@
 ---
 title: "Exhibition Games"
-subtitle: "Interactive stand games to hire for trade shows and expos"
+subtitle: "Interactive games to hire for stands and expos"
 meta_title: "Exhibition Games"
 meta_description: "Find entertainment and games for exhibition stands with Fun Pro UK! We&#39;re operating all over the UK for trade shows, expos and all other events. Order now!"
 featured: true
