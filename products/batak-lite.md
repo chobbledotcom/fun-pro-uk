@@ -1,6 +1,6 @@
 ---
 title: Batak Lite Hire
-subtitle: "Reaction-speed target game with scoring"
+subtitle: Reaction-speed target game with scoring
 price: £445
 order: 1
 meta_title: Batak Lite Game Hire | Interactive Game | Corporate Engagement
@@ -122,38 +122,79 @@ add_ons:
 tabs:
   - title: Why Batak Lite?
     body: >-
-      Whether you're looking to boost employee engagement at your next staff party or want a fun and different way to showcase your brand at a product launch, Batak Lite game hire is the perfect way to bring people together and get them talking.
+      Whether you're looking to boost employee engagement at your next staff
+      party or want a fun and different way to showcase your brand at a product
+      launch, Batak Lite game hire is the perfect way to bring people together
+      and get them talking.
 
 
-      A more compact and portable version of Batak Pro, our Batak Lite games are a highly interactive, high-energy activity that everyone can enjoy. The game features illuminated targets designed to test reaction speed levels, improve stamina and hand-eye coordination in those who play.
+      A more compact and portable version of Batak Pro, our Batak Lite games are
+      a highly interactive, high-energy activity that everyone can enjoy. The
+      game features illuminated targets designed to test reaction speed levels,
+      improve stamina and hand-eye coordination in those who play.
 
 
-      Promotional games like Batak Lite are always a hit at events like team building days, conferences, brand activation events, and many more because they're a fun way to break the ice and get everyone involved in a bit of healthy competition.
+      Promotional games like Batak Lite are always a hit at events like team
+      building days, conferences, brand activation events, and many more because
+      they're a fun way to break the ice and get everyone involved in a bit of
+      healthy competition.
   - title: How It Works
     body: >-
-      Players stand in front of the Batak Lite unit as illuminated targets light up randomly around them. The game is designed to test reaction speed, and players hit each target as quickly as possible, scoring points for speed and accuracy throughout a timed session.
+      Players stand in front of the Batak Lite unit as illuminated targets light
+      up randomly around them. The game is designed to test reaction speed, and
+      players hit each target as quickly as possible, scoring points for speed
+      and accuracy throughout a timed session.
 
 
-      The game tracks precise scores, making it easy to run competitions and maintain leaderboards throughout your event. One player competes at a time, creating clear moments for spectators to gather and watch, building anticipation for their own turns.
+      The game tracks precise scores, making it easy to run competitions and
+      maintain leaderboards throughout your event. One player competes at a
+      time, creating clear moments for spectators to gather and watch, building
+      anticipation for their own turns.
 
 
-      Batak Lite is suitable for those 8 years of age and up, making it ideal for a range of different events. Setup requires a single UK power socket and takes approximately 15-20 minutes.
+      Batak Lite is suitable for those 8 years of age and up, making it ideal
+      for a range of different events. Setup requires a single UK power socket
+      and takes approximately 15-20 minutes.
   - title: Why It's A Crowd Favourite
     body: >-
-      Batak Lite draws attention and keeps players entertained with high-impact engagement. It encourages friendly competition and audience participation, making it ideal for competitive play at corporate events, exhibitions, and product launches.
+      Batak Lite draws attention and keeps players entertained with high-impact
+      engagement. It encourages friendly competition and audience participation,
+      making it ideal for competitive play at corporate events, exhibitions, and
+      product launches.
 
 
-      The reaction-based format appeals across demographics. Reflexes matter, but practice within a session yields visible improvement. Players often want another go to beat their previous score, creating natural repeat engagement. Our Batak Lite hire comes with the option to have your game fully customised with your brand logo, colours, or even event branding.
+      The reaction-based format appeals across demographics. Reflexes matter,
+      but practice within a session yields visible improvement. Players often
+      want another go to beat their previous score, creating natural repeat
+      engagement. Our Batak Lite hire comes with the option to have your game
+      fully customised with your brand logo, colours, or even event branding.
 
 
-      Brands like Virgin Trains, Bristol Street Motors, and BT have trusted us for their corporate events. For team building specifically, Batak creates talking points that continue after the game ends. High scores become office legends, and the shared experience of competing provides common ground for colleagues who might not otherwise connect.
+      Brands like Virgin Trains, Bristol Street Motors, and BT have trusted us
+      for their corporate events. For team building specifically, Batak creates
+      talking points that continue after the game ends. High scores become
+      office legends, and the shared experience of competing provides common
+      ground for colleagues who might not otherwise connect.
   - title: Delivery
     body: >-
-      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
+      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry which include the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      Thanks to the end-to-end service offered by Fun Pro, we take care of everything for you. Your Batak Lite will be delivered to wherever your venue is in the UK, our team will then handle the setup, and will even collect it when you're finished.
+      Thanks to the end-to-end service offered by Fun Pro, we take care of
+      everything for you. Your Batak Lite will be delivered to wherever your
+      venue is in the UK, our team will then handle the setup, and will even
+      collect it when you're finished.
 
 
-      Please note that the Batak Lite cannot be carried up or down flights of stairs. A lift is required. Minimum door width is 0.6m. All equipment is PAT tested and maintained to professional standards, and delivery fees may apply depending on location.
+      Please note that the Batak Lite cannot be carried up or down flights of
+      stairs. A lift is required. Minimum door width is 0.6m. All equipment is
+      PAT tested and maintained to professional standards, and delivery fees may
+      apply depending on location.
+thumbnail: /images/products/batak-lite/batak-lite-1.jpg
+gallery:
+  - /images/products/batak-lite/batak-lite-16.jpg
 ---
