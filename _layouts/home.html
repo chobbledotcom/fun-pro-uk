@@ -6,11 +6,11 @@ layout: base
 
 <section class="homepage-header full-width">
   <div class="homepage-header-inner">
-    <p>What's your next event?</p>
-    <h1>Corporate Event Hire Across the UK</h1>
+    <p>{{ homepage.header.subtitle }}</p>
+    <h1>{{ homepage.header.title }}</h1>
     <p>
-      <a href="/contact-fun-pro-uk/" class="button">
-        Get Started {{ "icons/up-right-arrow.svg" | inline_asset }}
+      <a href="{{ homepage.header.button_url }}" class="button">
+        {{ homepage.header.button_text }} {{ "icons/up-right-arrow.svg" | inline_asset }}
       </a>
     </p>
     {%- include "google-rating.html" -%}
@@ -20,10 +20,10 @@ layout: base
           {%- include "homepage-category-item.html" -%}
         {%- endfor -%}
         <li class="all-categories">
-          <a class="image-link" href="/categories/#content" aria-hidden="true" tabindex="-1">
-            {% image "products/the-vault/the-vault-1.jpg", "", "", "", "", config.products.item_list_aspect_ratio %}
+          <a class="image-link" href="{{ homepage.header.all_categories_url }}#content" aria-hidden="true" tabindex="-1">
+            {% image homepage.header.all_categories_image, "", "", "", "", config.products.item_list_aspect_ratio %}
           </a>
-          <h3><a href="/categories/">View All Categories</a></h3>
+          <h3><a href="{{ homepage.header.all_categories_url }}">{{ homepage.header.all_categories_text }}</a></h3>
         </li>
       </ul>
       {% include "slider-nav.html" %}
@@ -32,20 +32,13 @@ layout: base
 </section>
 
 <section class="homepage-intro">
-  <h1>Get in Touch</h1>
+  <h1>{{ homepage.intro.title }}</h1>
+  {% assign paragraphs = homepage.intro.text | split: "\n\n" %}
+  {% for paragraph in paragraphs %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
   <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat.
-  </p>
-  <p>
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-  <p>
-    <a href="/products/" class="button red">View Games</a>
+    <a href="{{ homepage.intro.button_url }}" class="button red">{{ homepage.intro.button_text }}</a>
   </p>
 </section>
 
@@ -56,52 +49,36 @@ layout: base
 <section class="full-width homepage-how-it-works">
   <div class="row">
     <div class="left">
-      <h2>How it Works</h2>
+      <h2>{{ homepage.how_it_works.title }}</h2>
       <ol>
+        {%- for step in homepage.how_it_works.steps -%}
         <li>
-          <h3>Browse our Games</h3>
-          <p>
-            Explore our full range of interactive games, photo experiences, and
-            entertainment options. Filter by event type or guest numbers to find
-            your perfect fit.
-          </p>
+          <h3>{{ step.title }}</h3>
+          <p>{{ step.text }}</p>
         </li>
-        <li>
-          <h3>Build Your Quote Request</h3>
-          <p>
-            Add your favourite games to your quote basket. Include your event
-            date, venue details, and any special requirements you have in mind.
-          </p>
-        </li>
-        <li>
-          <h3>Receive Your Quote</h3>
-          <p>
-            We'll send you a detailed quote within 24 hours. No obligation, no
-            pressure, just straightforward pricing for your event.
-          </p>
-        </li>
+        {%- endfor -%}
       </ol>
-      <a href="/contact-fun-pro-uk/" class="button white">
-        Get in Touch {{ "icons/up-right-arrow.svg" | inline_asset }}
+      <a href="{{ homepage.how_it_works.button_url }}" class="button white">
+        {{ homepage.how_it_works.button_text }} {{ "icons/up-right-arrow.svg" | inline_asset }}
       </a>
     </div>
     <div class="image">
-      <img src="/images/placeholders/homepage-machines.png" alt="" />
+      <img src="{{ homepage.how_it_works.image }}" alt="" />
     </div>
   </div>
 </section>
 
 <section class="homepage-products full-width">
   <h2>
-    <span>Popular Games</span>
-    <a href="/products/">
-      View All Games {{ "icons/up-right-arrow.svg" | inline_asset }}
+    <span>{{ homepage.popular_games.title }}</span>
+    <a href="{{ homepage.popular_games.link_url }}">
+      {{ homepage.popular_games.link_text }} {{ "icons/up-right-arrow.svg" | inline_asset }}
     </a>
   </h2>
   {%- include "items.html", items: collections.featuredProducts, horizontal: true -%}
 </section>
 
 <section class="homepage-events full-width">
-  <h2>What Kind of Event Are You Planning?</h2>
+  <h2>{{ homepage.events.title }}</h2>
   {%- include "items.html", items: collections.featuredEvents, horizontal: true -%}
 </section>
