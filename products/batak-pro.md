@@ -147,76 +147,43 @@ tabs:
   - title: Why Batak Pro?
     image: /images/products/batak-pro/batak-pro-14.jpg
     body: >-
-      Batak Pro is the premium version of the reaction game that's become
-      synonymous with corporate events and team building. The enhanced features
-      and more challenging gameplay suit events where you want serious
-      competition and impressive equipment.
+      Batak Pro is the perfect high-energy activity to help create a buzz and bring people together at your next corporate event, staff party or product launch. It's the full-scale version of the popular reaction speed game, designed to test and improve hand-eye coordination, reflexes, and stamina.
 
 
-      For corporate clients who've experienced standard Batak and want something
-      more, the Pro version delivers additional challenge and more sophisticated
-      tracking. It's the choice for events where entertainment quality matters
-      as much as entertainment presence.
+      With its dynamic illuminated targets, players are challenged to hit as many targets as possible within a set time, making it a thrilling game for participants and spectators alike. Highly popular at corporate events like team building days, exhibitions, trade shows, and brand activations, Batak Pro draws crowds and creates a buzz around your brand.
 
 
-      The one-player format creates focused competition, with capacity for
-      20-200 guests through the event. Setup takes 15-20 minutes with mains
-      power required.
+      At Fun Pro, our Batak Pro game hire is suitable for many types of events. It encourages friendly competition and audience participation, and is fully customisable to align with your corporate identity.
   - title: How It Works
     image: /images/products/batak-pro/batak-pro-13.jpg
     body: >-
-      Players face the Batak Pro unit as targets illuminate in rapid succession.
-      The enhanced version offers faster sequences and more complex patterns
-      than the standard Lite version, challenging even experienced players.
+      Players face the Batak Pro unit as targets illuminate in rapid succession. The full-scale version offers faster sequences and more complex patterns than Batak Lite, challenging even experienced players to test their reaction speed, stamina, and hand-eye coordination.
 
 
-      Precise scoring tracks performance throughout timed sessions, feeding into
-      leaderboards and competitions. The professional-grade equipment delivers
-      consistent, reliable operation throughout events.
+      Precise scoring tracks performance throughout timed sessions, feeding into leaderboards and competitions. Batak Pro is suitable for all skill levels and is easy to learn, so it's ideal for lots of different events and is a game that everyone can enjoy.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. Staff
-      supervision ensures smooth operation and helps maintain competitive
-      energy.
+      Setup requires a single UK power socket and takes approximately 15-20 minutes. Our customers typically hire Batak Pro anywhere from one day up to a week.
   - title: Why It's A Crowd Favourite
     image: /images/products/batak-pro/batak-pro-14.jpg
     body: >-
-      Batak Pro earns its premium position because the enhanced challenge
-      creates more dramatic entertainment. The faster sequences push players
-      harder, create more visible effort, and generate bigger reactions from
-      spectators.
+      Batak Pro draws attention and keeps players entertained with high-impact engagement. The faster sequences push players harder, create more visible effort, and generate bigger reactions from spectators. It's ideal for competitive play at conferences, exhibitions, product launches, and more.
 
 
-      For corporate audiences who've encountered Batak before, the Pro version
-      offers fresh challenge. Previous high scorers find themselves tested,
-      levelling competition and creating new opportunities for colleagues to
-      shine.
+      Brands like Rolls-Royce, Boots, and Virgin Media have trusted us for their corporate events. For corporate audiences who've encountered Batak before, the Pro version offers fresh challenge. Previous high scorers find themselves tested, levelling competition and creating new opportunities for colleagues to shine.
 
 
-      The professional-grade equipment also signals investment in event quality.
-      Guests notice when entertainment feels premium rather than standard.
+      Make Batak Pro a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
   - title: Delivery
     image: /images/products/batak-pro/batak-pro-11.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      When you hire Batak Pro from Fun Pro, we provide complete installation and setup by our trained professionals, along with UK-wide delivery and collection. We handle everything from start to finish so you can focus on your event.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note that the Batak Pro cannot be carried up or down flights of stairs. A lift is required with a minimum depth of 1600mm and height of 1500mm. Minimum door width is 0.6m. All equipment is PAT tested and maintained to professional standards, and delivery fees may apply depending on location.
 videos:
   - id: https://player.vimeo.com/video/858450355
     title: Batak Pro

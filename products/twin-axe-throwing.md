@@ -65,41 +65,42 @@ faqs:
     answer: "Mains power is required for the electronic scoring and display systems."
 tabs:
   - title: "Why Twin Axe throwing?"
-    body: "Twin Axe Throwing taps into the axe-throwing trend that's swept the UK in recent years, bringing that experience to your event in a safe, electronic format. The head-to-head setup means two players compete simultaneously, which naturally creates more spectator interest and faster throughput.
+    body: >-
+      Transform your corporate event, exhibition, or staff party into an unforgettable experience with our Twin Axe Throwing game. This thrilling, interactive attraction is guaranteed to boost engagement among your team, provide a unique team-building activity that promotes healthy competition, and create lasting memories and talking points for your guests.
 
 
-      For team building events particularly, this competitive element proves valuable. Colleagues facing off against each other generates the kind of memorable moments that people actually talk about afterwards. It's entertainment that creates stories, not just fills time.
+      Our premium Twin Axe Throwing game features two lanes, allowing multiple players to compete simultaneously, fostering a sense of friendly rivalry and adding an extra layer of excitement to any event. This inflatable soft foam axe throwing game offers all the excitement of traditional axe throwing in a safe, controlled environment.
 
 
-      The 1-4 player capacity keeps things moving whilst the 15-20 minute game sessions give participants enough time to develop technique and achieve satisfying scores. If you're looking for something with more edge than traditional corporate entertainment, this delivers without the insurance concerns of actual axes."
+      Players take turns throwing soft foam axes at the target, competing to score the most points or hit the elusive "Killshot" for maximum bragging rights. If you're looking for something with more edge than traditional corporate entertainment, this delivers without the safety concerns of actual axes.
     image: "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
   - title: "How It Works"
-    body: "Two players stand at adjacent throwing positions and launch virtual axes at their respective targets. Sensors track accuracy and scoring, with results displaying on screen so both competitors and spectators can follow the action.
+    body: >-
+      Step into the world of axe throwing with our state-of-the-art Twin Axe Throwing game. Two players stand at adjacent throwing positions and launch soft foam axes at professional-grade targets. The game features two lanes for simultaneous play, soft foam axes for safety, and an inflatable design for easy setup.
 
 
-      The game guides players through the throwing motion, making it accessible even for complete beginners. Scores accumulate through each round, with the head-to-head format creating natural tension and encouraging friendly rivalry.
+      When you hire our Twin Axe Throwing game, you receive the fully inflatable game unit, a set of soft foam axes, professional setup and breakdown by our experienced team, and dedicated event support. We supply everything needed for the game.
 
 
-      Mains power is required for operation. The twin setup means you're getting double the throughput of single-player games, which helps manage queues at busier events. Staff supervision is recommended for optimal engagement, though the game can run independently for more casual setups."
+      Setup typically takes around 30 minutes, with a similar timeframe for breakdown. Mains power is required for operation. The game is suitable for indoor or outdoor use on a level surface, with a minimum door width of 0.6m required for access.
   - title: "Why It's A Crowd Favourite"
-    body: "Axe throwing has genuine appeal right now. It feels current and slightly unexpected at corporate events, which counts for more than you might think. Guests notice when entertainment feels fresh rather than the same options they've seen at every function.
+    body: >-
+      Axe throwing has genuine cultural appeal right now. It feels current and slightly unexpected at corporate events, which counts for more than you might think. Guests notice when entertainment feels fresh rather than the same options they've seen at every function.
 
 
-      The head-to-head format transforms it from individual activity into spectator entertainment. People gather to watch colleagues compete, pick sides, and react to near-misses and bullseyes. That social dynamic is exactly what you want at events designed to bring people together.
+      The head-to-head format transforms it from an individual activity into spectator entertainment. People gather to watch colleagues compete, pick sides, and react to near-misses and bullseyes. That social dynamic is exactly what you want at events designed to bring people together. The soft foam axes make the game safe for most participants whilst keeping all the excitement.
 
 
-      It also levels the playing field in interesting ways. Previous experience barely matters, so the MD has no particular advantage over the newest team member. That equalising effect can be surprisingly valuable for workplace dynamics."
+      It also levels the playing field in interesting ways. Previous experience barely matters with soft foam axes, so the MD has no particular advantage over the newest team member. We recommend a minimum age of 12 years old, with adult supervision required for all players under 18.
     image: "/images/products/twin-axe-throwing/twin-axe-throwing-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. Our experienced team manages professional setup and breakdown, ensuring the inflatable game unit is ready for your first guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      The equipment cannot be carried up or down flights of stairs. Indoor or outdoor use on a level surface, with a minimum door width of 0.6m required for access. Mains power is required for operation.
 ---
 

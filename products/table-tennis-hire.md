@@ -76,41 +76,42 @@ faqs:
     answer: "No, table tennis requires no power, giving you flexibility with positioning."
 tabs:
   - title: "Why Table Tennis Hire?"
-    body: "Table tennis brings active, competitive entertainment to corporate events, team building days, and celebrations. The familiar format needs no explanation whilst offering genuine skill progression for engaged players.
+    body: >-
+      Do you want to add a touch of excitement and competitiveness to your upcoming conference, well-being day, exhibition, or fun day? Our table tennis hire is the perfect solution. Who doesn't love a good back and forth run on the classic ping pong table where the stakes are always high and the fun never ends?
 
 
-      For events where you want entertainment that gets people moving and competing, table tennis delivers reliable engagement. The format suits both casual rallying and serious competition, adapting to guest preferences.
+      Set up a gripping table tennis match for your corporate guests and host a gathering that no one is forgetting anytime soon. We specialise in large scale corporate events, including conferences and trade shows, product launch parties, company-wide retreats, awards ceremonies, corporate anniversary celebrations, client and partner events, and leadership conferences.
 
 
-      No power required means flexible positioning, with capacity for events of 20-200 guests. Multiple tables available for larger functions."
+      Our high-quality full-size table tennis tables are ideal for boosting engagement and creating a lively atmosphere at your event. Whether you're aiming to increase sales, promote brand activation, or simply provide entertainment, our table tennis hire is sure to impress your guests and leave a lasting impact.
     image: "/images/products/table-tennis-hire/table-tennis-hire-1.jpg"
   - title: "How It Works"
-    body: "Players use paddles to rally the ball across the net, with standard table tennis rules applying. Games can run casually or as scored matches depending on player preferences.
+    body: >-
+      Each hire package includes full-size competition-level tables, bats, balls, and nets, perfect whether you want casual games or to host a mini tournament during your event. No power is required, so you have complete flexibility with positioning anywhere with adequate floor space.
 
 
-      The format supports singles or doubles play, allowing flexibility in how guests engage. Tournament structures work well for team building events.
+      Our trained team handles delivery, setup, and removal, so you don't have to worry about anything. All ping pong tables and equipment arrive in top condition, ready for use at your event. You can just have fun at your own event.
 
 
-      Setup takes approximately 15-20 minutes per table and requires only adequate floor space. No power needed."
+      The tables support both singles and doubles play, adapting to however your guests want to engage. Any additional accessories needed or custom setups can be arranged upon request.
   - title: "Why It's A Crowd Favourite"
-    body: "Table tennis works because it's genuinely good fun. The back-and-forth rallying, the satisfying contact, the competitive edge of close games. The format has endured for a century because it simply works.
+    body: >-
+      Who doesn't love a good back and forth run on the classic ping pong table where the stakes are always high and the fun never ends? Fun Pro UK offers more than just table tennis equipment - we're giving you a complete experience that gets people moving, competing, and connecting.
 
 
-      The accessibility matters too. Most people have played at some point and can participate immediately. The learning curve is gentle, so beginners can enjoy themselves whilst experienced players find genuine challenge.
+      The familiar format needs no explanation. Most people have played at some point and can participate immediately. Beginners enjoy themselves whilst experienced players find genuine challenge, making it ideal for boosting engagement and creating a lively atmosphere at your event.
 
 
-      For corporate events, the physical activity shifts energy. Players are moving, reacting, competing. That active engagement creates different atmosphere than passive entertainment."
+      For corporate events, the physical activity shifts the energy in the room. Players are moving, reacting, competing. With our convenient delivery and set-up options, you can easily incorporate this classic game into your event schedule without any hassle.
     image: "/images/products/table-tennis-hire/table-tennis-hire-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. Our professional team will deliver the ping pong tables to your venue, set them up, and ensure that everything is in place for your guests to enjoy.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      When the event is over, we'll return to dismantle and collect the tables, leaving your venue exactly as we found it. Please note the equipment cannot be carried up or down flights of stairs; a lift is required for upper floors.
 ---
 

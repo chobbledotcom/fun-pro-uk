@@ -71,43 +71,84 @@ add_ons:
       price: 750
 tabs:
   - title: "Why CLASSIC PHOTO BOOTHS?"
-    body: "Classic photo booths deliver reliable photo entertainment with the familiar enclosed format that guests understand instantly. The traditional booth experience creates privacy for silly poses whilst producing quality prints.
+    body: >-
+      Adding a photo booth to your corporate event is a sound investment,
+      because not only does it give your guests something to remember your
+      event and your company by, it also gives your PR team loads of great
+      shots to use in future publicity.
 
 
-      For events where you want proven photo entertainment without complicated technology, classic booths deliver. The format works, guests know how to use it, and the outputs create lasting memories.
+      Fun Pro UK offer classic photo booths for hire, with a choice of print
+      styles, including the old school photo strip, one large and three small
+      to share with friends and family, or a large 6x4 portrait. We can even
+      brand every picture with your logo and slogan, or details of your
+      event, so everyone goes home with your message as part of their
+      pictures.
 
 
-      Capacity suits events of 20-200 guests, with the enclosed format maintaining steady throughput whilst giving each group meaningful photo time."
+      As well as branding your pictures, we can brand the booth itself with
+      your company logos and corporate colours. Alternatively, you can choose
+      from a range of stylish skins to match your event and venue.
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
   - title: "How It Works"
-    body: "Groups enter the enclosed booth, select options, and pose for a series of photos. Prints produce immediately, with digital copies available for sharing.
+    body: >-
+      Your photo booth hire includes unlimited visits and two prints per
+      visit in colour or black and white, optional video messaging from
+      your guests, a fun filled prop box, a direct download link to your
+      photos sent after your event, and your company messages or logos on
+      every print.
 
 
-      The enclosed format gives groups privacy to be silly without audience pressure. Props are typically provided to enhance photo variety.
+      Your photo booth hire comes complete with a polite, professional
+      operator, who will ensure that every guest gets the best from their
+      pictures. It is an important feature that really reflects well on
+      your company, showing how well you look after your customers. Just
+      like the booths, your operator will be happy to sport your company
+      logo while they are representing your brand.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. The booth operates with minimal supervision once running."
+      Setup requires mains power and takes approximately 15-20 minutes. The
+      enclosed format gives groups privacy to be silly without audience
+      pressure whilst producing quality prints.
     image: "/images/products/classic-photo-booths/classic-photo-booths-1.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Classic photo booths endure because the format simply works. The privacy encourages sillier poses, the prints provide tangible takeaways, and the experience creates shared memories for groups who squeeze in together.
+    body: >-
+      Corporate photo booth hire is an essential extra for all kinds of
+      corporate events, from product launches to annual awards, exhibition
+      stands to company fun days. Plus it is a handy way for people to get
+      a selfie with your star guest without all that messing around with
+      mobile phones.
 
 
-      The enclosed format matters. Something about the contained space and the countdown creates a different dynamic than open photo stations. Groups commit to poses in ways they might not publicly.
+      The enclosed format matters. Something about the contained space and
+      the countdown creates a different dynamic than open photo stations.
+      Groups commit to poses in ways they might not publicly, and the
+      prints provide tangible takeaways that guests treasure.
 
 
-      For events, photo booths also generate content that extends impact. Prints go on fridges and desks, digital copies get shared online. The memories and brand exposure continue long after the event."
+      For events, photo booths also generate content that extends impact.
+      Prints go on fridges and desks, digital copies get shared online. The
+      memories and brand exposure continue long after the event.
     image: "/images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Delivered and installed on site by our trained team as part of your
+      hire, so there is nothing for you to coordinate on the day. We offer
+      reputable, reliable delivery right across the UK, so wherever your
+      next event is, book your photo booth today.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able
+      to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note that the photo booth cannot be carried up or down flights
+      of stairs, so a lift is required if the setup location is not on the
+      ground floor. The booth must be placed on a level indoor surface with
+      at least one UK power socket within reach.
 faqs:
   - question: "How many people can use the Classic Photo Booth at once?"
     answer: "Groups of 1-8 can squeeze in together, with the enclosed format encouraging sillier poses than open photo stations."

@@ -140,43 +140,44 @@ add_ons:
       price: 445
 tabs:
   - title: "Why Whack A Mole game hire?"
-    body: "Whack a Mole brings classic arcade entertainment to corporate events, team building days, and celebrations. The format is instantly recognisable, lowering barriers to participation, whilst the physical gameplay gets energy levels up.
+    body: >-
+      Get ready to take your event to the next level with our exciting Whack-a-Mole game hire! Whether you're hosting a corporate event, trade show, or family gathering, this interactive game is guaranteed to bring a smile to everyone's face. Our Whack-a-Mole game combines the nostalgic charm of the classic arcade game with a personalised touch.
 
 
-      The satisfying simplicity of whacking emerging targets creates genuine engagement. For events where you want entertainment that feels fun rather than corporate, arcade classics like this deliver without needing explanation or encouragement.
+      Picture yourself in a vibrant venue like Coventry Arena, NEC, London Excel, Manchester Central, or Telford Arena, surrounded by the sounds of laughter and the thrill of competition. What sets our game apart is the opportunity to showcase your branding, with customisation options to display your company logo, event name, or any other design on the game machine.
 
 
-      With 1-4 player capacity, 15-20 minute sessions, and 20-200 guest throughput, it maintains steady participation. The 45-48W power requirement is minimal, with setup taking approximately 15-20 minutes."
+      This not only adds a touch of professionalism but also creates a memorable experience for your guests. The game offers an excellent opportunity for friendly competition and team-building. Challenge your colleagues, friends, or family members to see who can whack the most moles and achieve the highest score.
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
   - title: "How It Works"
-    body: "Moles pop up randomly from holes across the game surface, and players whack them with padded mallets before they disappear. The game tracks how many successful hits are achieved within the timed session.
+    body: >-
+      Moles pop up randomly from holes across the game surface, and players whack them with padded mallets before they disappear. The game tracks how many successful hits are achieved within the timed session. Multiple players can compete side by side, adding competitive energy.
 
 
-      Multiple players can compete side by side, adding competitive energy. The format requires no explanation and players can start immediately upon approaching the game.
+      Booking our Whack-a-Mole game hire is a breeze. Simply reach out to our friendly team, provide us with your event details, including the desired venue, and we'll handle the rest. Our experienced staff will ensure that the game is delivered, set up, and ready for action at your chosen location.
 
 
-      Setup requires mains power (45-48W) and takes approximately 15-20 minutes. The game runs continuously with minimal supervision needed."
+      Setup requires mains power (45-48W) and takes approximately 15-20 minutes. Indoor use only on a level surface. The game runs continuously with minimal supervision needed, and all you have to do is get ready to have a blast!
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-26.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Whack a Mole endures because it's genuinely satisfying. There's something primal about the see-target-hit-target loop that engages people regardless of age or gaming experience. The tactile feedback of a successful whack is simply fun.
+    body: >-
+      Whack-a-Mole endures because it's genuinely satisfying. There's something primal about the see-target-hit-target loop that engages people regardless of age or gaming experience. It's a fantastic way to create lasting memories and foster a sense of camaraderie among your guests.
 
 
-      For corporate events, the physical element matters. It gets people moving, creates visible energy, and generates the kind of laughter that spreadsheets and presentations don't achieve.
+      The fun doesn't stop at the game itself. Our Whack-a-Mole game offers an excellent opportunity for friendly competition and team-building. Challenge your colleagues, friends, or family members to see who can whack the most moles and achieve the highest score. High scores become talking points that continue long after the game ends.
 
 
-      The competitive element emerges naturally when colleagues play side by side. Friendly rivalry develops without needing to be structured, and high scores become talking points that continue after the game ends."
+      No matter where you're located in the UK, we've got you covered. Let us help you create an unforgettable experience that will leave your guests smiling and talking about it for years to come. Get ready to whack those moles and make your event a smashing success!
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. From Coventry Arena to the NEC, London Excel to Manchester Central, and Telford Arena to many more venues, we'll bring the excitement of our Whack-a-Mole game to your doorstep.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note the equipment cannot be carried up or down flights of stairs; a lift is required for upper floors. Indoor use only on a level surface, with a minimum door width of 0.6m required for access.
     image: "/images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-24.jpg"
 faqs:
   - question: "How many people can play Whack a Mole at once?"

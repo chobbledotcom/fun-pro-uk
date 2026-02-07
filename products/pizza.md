@@ -58,43 +58,47 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e6f61bfa03a9dd6854c94b7c7daa283"
 tabs:
   - title: "Why Pizza?"
-    body: "Live pizza making brings theatre and authentic Italian food to corporate events, celebrations, and parties. The visible preparation creates entertainment whilst guests receive freshly made pizza to their preferences.
+    body: >-
+      Having a fresh pizza oven at your event will ensure everyone is kept happy and we know that everyone adores pizza. Available throughout the UK, our stone baked pizza service brings theatre and authentic Italian food to corporate events, celebrations, and parties.
 
 
-      For events where you want catering that doubles as entertainment, pizza making delivers. The theatre of dough tossing and topping selection creates engagement whilst the food itself is universally appealing.
+      Our selected pizza chefs will make their special fresh semolina pizza dough for your party, then handcraft each pizza using the freshest ingredients including delicious juicy tomato and basil sauce before adding your favourite pizza toppings, not forgetting the most important ingredient - cheese.
 
 
-      Capacity suits events of 50-500+ guests, with continuous production maintaining availability. Our team handles all preparation and serving."
+      Whether your favourite pizza is pepperoni, BBQ chicken, veggie lover or the classic margherita, our pizza kitchen will fulfil each guest's requirement. As a nationwide hire company, we can provide everything you need for your party or event.
     image: "/images/products/pizza/pizza-3.jpg"
   - title: "How It Works"
-    body: "Our team arrives with pizza-making equipment and handles all preparation throughout your event. Guests can watch dough preparation and topping application before receiving their freshly made pizzas.
+    body: >-
+      Our selected pizza chefs make their special fresh semolina pizza dough for your party, then handcraft each pizza using the freshest ingredients including delicious juicy tomato and basil sauce before adding your favourite pizza toppings. Your fresh crispy crust pizza will then be baked in front of you in the onsite pizzeria.
 
 
-      The interactive element allows guests to select toppings, creating personalised pizzas. The cooking process itself becomes part of the event entertainment.
+      Whether your favourite pizza is pepperoni, BBQ chicken, veggie lover or the classic margherita, our pizza kitchen will fulfil each guest's requirement. Guests can watch dough preparation and topping application before receiving their freshly made pizzas.
 
 
-      Setup requires adequate space and appropriate venue facilities. We'll discuss specific requirements when you enquire."
+      We can also supply amazing tasty side dishes too. Choose from skinny fries, BBQ chicken wings and freshly mixed salads. We handle all preparation and serving so you can focus on your guests.
     image: "/images/products/pizza/pizza-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Live pizza making engages because the process is fascinating to watch. The dough stretching, the sauce spreading, the topping arrangement. It transforms food from sustenance to entertainment.
+    body: >-
+      Everyone adores pizza, and having it made fresh at your event keeps everyone happy. The theatre of watching dough being stretched, sauce being spread, and toppings being arranged transforms food from sustenance into entertainment.
 
 
-      The personalisation adds value too. Choosing your own toppings creates engagement and ensures everyone gets something they enjoy. That customisation improves satisfaction.
+      The personalisation adds real value. Whether your favourite is pepperoni, BBQ chicken, veggie lover or the classic margherita, choosing your own toppings creates engagement and ensures everyone gets something they enjoy.
 
 
-      For corporate events, pizza also creates the right atmosphere. Relaxed, communal, unpretentious. It signals that this is an enjoyable occasion rather than a formal obligation."
+      For corporate events, pizza creates the right atmosphere. Relaxed, communal, and unpretentious. It signals that this is an enjoyable occasion rather than a formal obligation, and your fresh crispy crust pizza baked in front of you in the onsite pizzeria will be the talk of the event.
     image: "/images/products/pizza/pizza-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      As a nationwide hire company, we can provide everything you need for your party or event. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests. We are flexible with timing, whether you need an office-hours setup or late-night collection after an evening event.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: "How many guests can the Pizza service cater for?"
     answer: "Our Pizza service caters for 50-500+ guests, with continuous production maintaining availability throughout your event. We'll discuss your guest numbers when you enquire."

@@ -94,43 +94,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6eed1c0ff69c19d17b01bc0fb8210c5"
 tabs:
   - title: "Why VR Race Car Simulator?"
-    body: "VR race car simulators bring cutting-edge technology and genuine excitement to corporate events, team building days, and brand activations. The immersive racing experience appeals to car enthusiasts whilst remaining accessible to complete beginners.
+    body: >-
+      Experience this incredible all new Virtual Reality Racing Car Simulator like no other! Put your driving skills to the test with a choice of tracks whilst sitting in a specially formulated racing seat. If you feel the need for speed, why not step it up a gear with our VR racing simulator hire game. You will have your fans cheering you to the finish line as they watch your moves on the monitor!
 
 
-      For events where you want entertainment that feels current and impressive, VR simulators deliver the wow factor that traditional games don't match. The technology creates talking points, whilst the competitive racing format generates natural engagement.
+      Stand out from the crowd with our VR race car simulator! As the growing crowd at your stand or trade show watches with excitement to see who will take pole position, this is the perfect time to engage and build new relationships for your business. Whether you are holding a product launch, promotion, or new vehicle sales event, this simulator hire ensures you stand out from the crowd.
 
 
-      The simulator suits events of 20-200 guests, with throughput managed through timed sessions. Staff supervision ensures smooth operation and helps first-time users get the most from the experience."
+      Either one car or two car simulators can be hired, making it perfect for head-to-head racing at corporate events, exhibitions, Christmas parties, and conferences.
     image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-14.jpg"
   - title: "How It Works"
-    body: "Participants put on the VR headset and find themselves in the driver's seat of a race car. The simulator tracks head movement and steering inputs, creating an immersive racing experience across various tracks and vehicles.
+    body: >-
+      Each specially formulated racing car seat comes with a leather contoured steering wheel, authentic pedals, a VR headset, and an LCD monitor. Nobody will miss your tricks as you fly round the track! The player sits comfortably in the seat, and the game appears on the screen as they navigate through a choice of tracks.
 
 
-      Sessions run for set time periods, giving each participant a meaningful racing experience whilst maintaining throughput. Staff assist with headset fitting and guide first-time VR users through the basics.
+      Impress the onlookers with your skill behind the wheel and enjoy the thrill our virtual reality graphics bring to this game. You can even turn it into a contest and provide a prize trophy for the one who has accumulated the most points by the end of the day.
 
 
-      Setup requirements include mains power and adequate space for the simulator rig. Our team handles all setup and operation throughout your event."
+      Setup requires one mains power socket per car and takes approximately 15-20 minutes. Indoor use only on a level surface. Either one or two car simulators can be hired to suit your event requirements.
     image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-13.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "VR racing creates genuine excitement because the immersion is remarkable. Participants lean into corners, flinch at near-misses, and experience racing in a way that flat screens don't achieve. That visceral engagement translates to memorable experiences.
+    body: >-
+      The VR racing car simulators with their built-in virtual reality features and specially designed seat offer fun-filled entertainment at your next event. Whether it's a Christmas party, entertainment for a conference, or fun at the office, the simulator hire is a real winner.
 
 
-      The technology also generates talking points. Colleagues who've tried it share the experience with those waiting, building anticipation. The wow factor of modern VR impresses even tech-savvy guests.
+      A racing simulator hire is the perfect way to break up a monotonous day of corporate meetings and activities. The car simulator hire may be a great option if your corporation is related to the automobile industry, but it can also be booked for all types of corporations. Your participants will have the opportunity to take a break and clear their mind.
 
 
-      For competitive types, lap times and race positions add measurable competition. Leaderboards develop naturally, and colleagues challenge each other to beat times throughout the event."
+      After they play a fun round of racing cars, they'll be ready for the rest of the corporate events ahead. You can even add some corporate branding to the racing car simulator game, with signage that is fully removable at the end of the event.
     image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-14.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. This ensures that your game rentals are delivered on time, that they actually work, and that your games will be removed at the end of the event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note the equipment cannot be carried up or down flights of stairs; a lift is required for upper floors. Indoor use only on a level surface, with a minimum door width of 0.6m required for access.
     image: "/images/products/vr-race-car-simulator/vr-race-car-simulator-11.jpg"
 faqs:
   - question: "How many people can use the VR Race Car Simulator at once?"

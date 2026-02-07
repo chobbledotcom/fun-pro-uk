@@ -105,71 +105,82 @@ tabs:
   - title: Why Gold Bar Challenge?
     image: /images/products/gold-bar-challenge/gold-bar-challenge-7.jpg
     body: >-
-      The Gold Bar Challenge creates puzzle-solving entertainment as players
-      attempt to retrieve a gold bar from its locked display. The heist-style
-      format appeals to problem-solvers and creates focused engagement different
-      from physical games.
+      Looking to add excitement and engagement to your next event? The Gold Bar
+      Challenge is the ultimate interactive game that combines skill, suspense,
+      and fun. Perfect for exhibitions, brand activations, corporate events,
+      and team-building activities, this game is designed to captivate audiences
+      and create memorable experiences.
 
 
-      For events where you want variety in entertainment types, puzzle
-      challenges offer something for guests who prefer mental over physical
-      challenges. The format suits brand activations and experiential events
-      particularly well.
+      Constructed with modular chrome-effect bars and Perspex panels, the Gold
+      Bar Challenge ensures durability and a premium look. The weight of the
+      gold bar can be modified to suit different skill levels or prize tiers,
+      making it versatile for any event format.
 
 
-      Capacity suits events of 20-200 guests, with the visual display creating
-      impact even when not being actively played.
+      Available for both short-term and long-term events across the UK. Whether
+      you're hosting a one-day exhibition or a week-long promotional campaign,
+      the Gold Bar Challenge is ready to make your event shine.
   - title: How It Works
     image: /images/products/gold-bar-challenge/gold-bar-challenge-6.jpg
     body: >-
-      Players attempt to retrieve the gold bar from its secured display using
-      whatever method the specific challenge requires. The puzzle element
-      demands problem-solving rather than physical skill.
+      Participants are challenged to remove a weighted, 24k gold-plated bar
+      from a transparent case using only one hand. The catch? The bar must be
+      lifted through a narrow opening without triggering the buzzer. It's a
+      test of precision, patience, and nerve.
 
 
-      The format can incorporate time limits for added pressure. Success feels
-      genuinely earned given the puzzle-solving requirement.
+      Simple rules with challenging execution keep participants coming back for
+      more. The full modular frame comes with standard gold bar base panels
+      and clear Perspex box panels, with the gold bar presented on a plush red
+      velvet cushion.
 
 
-      Setup requirements vary by configuration. We'll discuss specifics when you
-      enquire.
+      The Gold Bar Challenge is delivered flat-packed and can be assembled in
+      just 10 minutes, making it a convenient addition to any event.
   - title: Why It's A Crowd Favourite
     image: /images/products/gold-bar-challenge/gold-bar-challenge-7.jpg
     body: >-
-      Heist-style challenges tap into something exciting. The idea of cracking
-      the puzzle, beating the system, retrieving the prize. It creates
-      engagement that simple games don't match.
+      The Gold Bar Challenge is designed to captivate audiences. The heist-style
+      concept of reaching in, grabbing the gold, and beating the challenge
+      creates engagement that simple games don't match. Simple rules with
+      challenging execution keep participants coming back for more.
 
 
       The mental challenge appeals to different guests than physical
-      entertainment. For corporate audiences with analytical mindsets, puzzle
-      challenges often generate more enthusiasm than athletic games.
+      entertainment. For corporate audiences with analytical mindsets, this
+      test of precision, patience, and nerve often generates more enthusiasm
+      than athletic games.
 
 
-      Success also carries genuine bragging rights. Cracking the challenge when
-      others couldn't creates memorable moments and talking points.
+      Success carries genuine bragging rights. Cracking the challenge when
+      others couldn't creates memorable moments and talking points that
+      continue long after the event.
   - title: Delivery
     image: /images/products/gold-bar-challenge/gold-bar-challenge-4.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. The Gold Bar Challenge
+      is delivered flat-packed and can be assembled in just 10 minutes, making
+      it a convenient addition to any event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request, with free delivery
+      within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment is indoor use only and requires a minimum door width of
+      0.6m. It cannot be carried up or down flights of stairs, so a lift is
+      required for upper floors.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can play Gold Bar Challenge at once?
     answer: The game accommodates 1-4 players, with individuals or teams working to

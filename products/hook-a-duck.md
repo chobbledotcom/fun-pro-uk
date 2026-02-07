@@ -84,45 +84,58 @@ tabs:
   - title: Why Hook A Duck?
     image: /images/products/hook-a-duck/hook-a-duck-1.jpg
     body: >-
-      Hook a Duck brings classic fairground nostalgia to corporate events,
-      family days, and summer celebrations. The familiar format needs no
-      explanation, lowers barriers to participation, and carries positive
-      associations for most guests.
+      Looking to bring a touch of classic fairground fun to your next corporate
+      event? Our Hook A Duck game hire is the perfect way to engage and
+      entertain guests while adding a nostalgic vibe to any occasion. A staple
+      of traditional fairs and fun days, this popular game challenges players
+      to hook a floating duck from the water using a fishing rod to win a
+      prize.
 
 
-      For events where you want accessible, relaxed entertainment that works
-      across ages and abilities, hook a duck delivers without complication. The
-      familiar format feels like a treat rather than corporate entertainment.
+      Perfect for corporate events, fairs, staff parties, product launches, and
+      family fun days, the Hook A Duck game is sure to attract a crowd and keep
+      everyone having fun. For corporate clients, the Hook A Duck game offers
+      fantastic branding opportunities. Customise the game with your company
+      logo, event slogan, or unique design to elevate your brand presence while
+      your guests enjoy the fun.
 
 
-      No power required means flexible positioning, with capacity for 20-200
-      guests. Setup takes approximately 15-20 minutes.
+      Simple yet highly engaging, Hook A Duck is a timeless fairground
+      attraction that works for events of all sizes. Whether indoors or
+      outdoors, this compact and easy-to-set-up game provides hours of
+      competitive fun.
   - title: How It Works
     body: >-
-      Players use hooks to catch floating ducks from the water, with different
-      ducks representing different prizes or scores. The familiar fairground
-      format is immediately understandable.
+      Our Hook A Duck stall hire includes a professionally designed game unit
+      with a vibrant setup, 50 fun prizes, and easy-to-follow instructions
+      suitable for players of all ages. The familiar fairground format is
+      immediately understandable, with players using fishing rods to hook
+      floating ducks from the water to win a prize.
 
 
       The game runs continuously with guests stepping up as they wish. The
       casual format suits events where entertainment should complement
-      socialising rather than demand attention.
+      socialising rather than demand attention. It's suitable for both indoor
+      and outdoor use.
 
 
       Setup takes approximately 15-20 minutes and requires only a level surface.
-      No power needed.
+      No power needed, giving you complete flexibility with positioning.
   - title: Why It's A Crowd Favourite
     image: /images/products/hook-a-duck/hook-a-duck-1.jpg
     body: >-
-      Hook a duck works because nostalgia is powerful. For anyone who remembers
-      fairground visits, the format triggers genuine warm associations. That
-      emotional connection distinguishes it from novel entertainment that lacks
-      those memories.
+      Hook A Duck works because nostalgia is powerful. A staple of traditional
+      fairs and fun days, this popular game is sure to attract a crowd and keep
+      everyone having fun. For anyone who remembers fairground visits, the
+      format triggers genuine warm associations. That emotional connection
+      distinguishes it from novel entertainment that lacks those memories.
 
 
       The accessibility matters too. No skill required, no performance anxiety,
       no learning curve. Guests simply hook ducks and enjoy the simple pleasure
-      of it. Sometimes that's exactly what events need.
+      of it. Sometimes that's exactly what events need. Simple yet highly
+      engaging, Hook A Duck is a timeless fairground attraction that works for
+      events of all sizes.
 
 
       For family days and mixed events, the cross-generational appeal is
@@ -130,25 +143,28 @@ tabs:
       experiences across age groups.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. Our team arrives with
+      adequate time before your event to position and test everything, ensuring
+      it's ready for your first guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request, with free delivery
+      within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment requires a minimum door width of 0.6m and a level
+      surface. It is suitable for both indoor and outdoor use. No power is
+      required, giving you complete flexibility with positioning.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can play Hook a Duck at once?
     answer: The game accommodates 1-4 players hooking simultaneously, with the

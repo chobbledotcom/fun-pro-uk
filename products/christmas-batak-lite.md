@@ -113,81 +113,82 @@ tabs:
   - title: Why Christmas Batak Lite?
     image: /images/products/christmas-batak-lite/christmas-batak-lite-12.jpg
     body: >-
-      The Christmas Batak Lite combines the proven engagement of reaction-based
-      gaming with festive theming that suits Christmas parties and seasonal
-      corporate events. Players compete to hit illuminated targets as quickly as
-      possible, creating the kind of competitive energy that gets colleagues
-      cheering and comparing scores.
+      Looking to sprinkle some excitement and friendly competition into your
+      Christmas party, winter exhibition, or seasonal product launch? Batak
+      Lite is the perfect festive game to bring colleagues, clients, and
+      guests together for some fast-paced fun that's guaranteed to spread
+      Christmas cheer.
 
 
-      At 1200mm x 950mm x 1800mm, it's substantial enough to create a focal
-      point but manageable for most indoor venues. The one-player-at-a-time
-      format keeps games focused whilst spectators gather round, creating
-      natural social moments.
+      Whether it's your company's end-of-year celebration or a festive brand
+      activation, Batak Lite hire brings laughter, energy, and a touch of
+      sparkle to any event. As the compact and portable version of our
+      full-sized Batak Pro, it's ideal for venues big or small.
 
 
-      With capacity for 20-200 guests and setup taking 15-20 minutes, it's
-      straightforward to incorporate into your event. The 500W power requirement
-      means a standard mains socket is all you need. For Christmas events where
-      you want entertainment that feels seasonally appropriate rather than
-      generic, this delivers both the theming and the engagement.
+      Eye-catching lights and fast action get everyone in the Christmas
+      spirit, making it ideal for team challenges, office tournaments, or
+      party entertainment. From winter exhibitions and Christmas markets to
+      end-of-year corporate galas, Batak Lite is the perfect festive
+      addition.
   - title: How It Works
     image: /images/products/christmas-batak-lite/christmas-batak-lite-11.jpg
     body: >-
-      Players stand in front of the Batak unit and wait for targets to
-      illuminate. When a light activates, they hit it as quickly as possible
-      before the next one lights up. Speed and accuracy both count towards the
-      final score.
+      Batak Lite features bright, illuminated targets and fast-paced gameplay.
+      Players race against the clock to hit as many lights as they can,
+      testing their reflexes, hand-eye coordination, and holiday stamina in a
+      quick-fire challenge.
 
 
-      The game runs timed sessions, challenging players to hit as many targets
-      as possible within their turn. Scores display automatically, making it
-      easy to track high scores and run competitions throughout your event.
+      It's a game that keeps both players and spectators entertained. One
+      player competes at a time, creating focused moments of competition
+      while everyone else watches, cheers, and waits for their turn to beat
+      the high score.
 
 
-      Setup takes 15-20 minutes and requires 500W mains power. One player
-      competes at a time, which keeps games focused and creates clear moments
-      for spectators to watch and react. The Christmas theming adds seasonal
-      relevance without changing the core gameplay that makes Batak so
-      effective.
+      Our team handles full setup and pack-down, with all equipment ready to
+      go. Just plug in and play. The Christmas theming adds festive
+      atmosphere without changing the fast-paced gameplay that makes Batak so
+      engaging.
   - title: Why It's A Crowd Favourite
     image: /images/products/christmas-batak-lite/christmas-batak-lite-12.jpg
     body: >-
-      Batak has been a corporate event staple for years because reaction games
-      tap into something primal. The pressure of the countdown, the physical
-      movement, the visible scoring. It creates genuine excitement that's hard
-      to manufacture with passive entertainment.
+      Batak Lite always gets people laughing, cheering, and connecting.
+      Perfect for Christmas team-building days, office parties, winter
+      exhibitions, and more, the eye-catching lights and fast action draw a
+      crowd and get everyone in the Christmas spirit.
 
 
-      The Christmas theming adds another layer for seasonal events. Guests
-      appreciate when entertainment feels considered rather than just available.
-      It signals that thought went into the event planning.
+      The friendly competition is ideal for team challenges and office
+      tournaments, and the scoring creates natural rivalry that keeps people
+      coming back for another go. It's the kind of game where people who'd
+      normally avoid activities end up joining in, because hitting lights when
+      they come on needs no explanation.
 
 
-      What consistently surprises event planners is how people who'd normally
-      avoid games end up joining in. The simplicity removes barriers. You hit
-      lights when they come on. Anyone can understand that, and anyone can have
-      a go.
+      We've had the pleasure of bringing festive fun to some of the UK's
+      biggest brands, including Virgin Trains, Bristol Street Motors, and BT.
+      Pair Batak Lite with one of our other interactive festive games for an
+      event that keeps spirits bright all season long.
   - title: Delivery
     image: /images/products/christmas-batak-lite/christmas-batak-lite-9.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, with
+      everything installed by our trained team. We offer delivery throughout
+      the UK, including Exeter, Cardiff, Bristol, Birmingham including the
+      NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry
+      including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton
+      Keynes, and Sheffield. We are able to cover the whole of the UK on
+      request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Minimum order value and delivery fees may apply to all locations. Our
+      team arrives with adequate time before your event to position and test
+      everything, ensuring it's ready for your first guests.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note the Batak Lite cannot be carried up or down flights of
+      stairs. A lift is required for upper floors. Minimum door width is
+      0.6m. The equipment requires indoor use only on a level surface, with
+      one standard UK power socket.
 ---

@@ -66,42 +66,43 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6"
 tabs:
   - title: "Why Virtual Pinball?"
-    body: "Virtual pinball combines classic arcade entertainment with modern technology, offering multiple tables and games in a single impressive cabinet. The format appeals to nostalgia whilst delivering variety that physical machines can't match.
+    body: >-
+      Get ready for an electrifying experience with our pinball game hire service! Step into the world of arcade nostalgia as we bring the excitement of pinball right to your event. Our collection features a wide range of classic and modern pinball tables, from retro-themed designs to cutting-edge games, ensuring there's something for everyone to enjoy.
 
 
-      For events where you want entertainment that serves as a talking point whilst providing genuine gameplay, virtual pinball delivers. The visual impact attracts attention whilst the game selection keeps players engaged.
+      Picture the thrill of launching the steel ball, hearing it ricochet off bumpers, and racking up those high scores. With our top-notch virtual pinball machine, you'll be transported back to the golden era of arcade gaming. It's a guaranteed blast from the past that will leave your guests buzzing with excitement.
 
 
-      Capacity suits events of 20-200 guests, with games running continuously. Mains power required for operation."
+      Whether you're in Coventry, Birmingham, London, Nottingham, Northampton, or anywhere else in the UK, we've got you covered. Planning a corporate event, birthday party, or any special occasion? Our pinball game hire is the perfect addition to amp up the fun factor.
     image: "/images/products/virtual-pinball/virtual-pinball-1.jpg"
   - title: "How It Works"
-    body: "Players select from multiple pinball tables simulated on the virtual platform. Physical flipper buttons provide authentic feel whilst the digital format enables variety and features beyond mechanical limitations.
+    body: >-
+      Players select from multiple pinball tables simulated on the virtual platform. Physical flipper buttons provide authentic feel whilst the digital format enables variety and features beyond mechanical limitations. The cabinet recreates the classic arcade experience with modern technology.
 
 
-      Games run independently with players selecting tables and competing for high scores. The cabinet format creates a natural focal point for guests.
+      Games run independently with players selecting tables and competing for high scores. The range spans classic and modern pinball designs, so guests can try different games, find favourites, and explore options throughout your event.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes."
+      Setup requires one mains power socket and takes approximately 15-20 minutes. Indoor use only on a level surface. The cabinet measures 0.56m x 1.12m x 1.53m with a minimum door width of 0.6m required for access.
   - title: "Why It's A Crowd Favourite"
-    body: "Pinball carries genuine nostalgia for anyone who remembers arcades, pubs, and entertainment venues before screens dominated. That emotional connection creates immediate engagement.
+    body: >-
+      Pinball carries genuine nostalgia for anyone who remembers arcades, pubs, and entertainment venues before screens dominated. That emotional connection creates immediate engagement. Create a retro-inspired ambiance that will have everyone immersed in the world of flashing lights and captivating sounds.
 
 
-      The virtual format adds value through variety. Instead of a single table, guests can try different games, find favourites, and explore options. The selection keeps interest high throughout events.
+      The virtual format adds value through variety. Instead of a single table, guests can try different games, find favourites, and explore options. The selection keeps interest high throughout events and it's a surefire way to make lasting memories and keep your guests entertained.
 
 
-      For corporate entertainment, the cabinet also serves as a visual element. It looks impressive, draws attention, and signals that entertainment was carefully considered rather than hastily arranged."
+      For corporate entertainment, the cabinet also serves as a visual element. It looks impressive, draws attention, and signals that entertainment was carefully considered. Ready to level up your event with our pinball game hire? It's a guaranteed blast from the past that will leave your guests buzzing with excitement.
     image: "/images/products/virtual-pinball/virtual-pinball-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day. Our service covers multiple locations, so no matter where you are in the UK, we can bring the pinball action to you.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note the equipment cannot be carried up or down flights of stairs; a lift is required for upper floors. Indoor use only on a level surface, with a minimum door width of 0.6m required for access.
 faqs:
   - question: "What games are available on the Virtual Pinball?"
     answer: "The virtual platform offers multiple classic pinball tables, giving players variety that a single physical machine couldn't match."

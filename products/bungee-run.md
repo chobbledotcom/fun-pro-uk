@@ -25,7 +25,7 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1 player
+    value: 2 players
   - name: Space Required
     value: 13.0m x 4.0m
   - name: Power
@@ -62,73 +62,88 @@ tabs:
   - title: Why Bungee Run?
     image: /images/products/bungee-run/bungee-run-1.jpg
     body: >-
-      The bungee run brings high-energy physical entertainment to corporate
-      events, team building days, and outdoor celebrations. Players race down
-      the inflatable lane whilst attached to bungee cords, placing markers as
-      far as possible before being pulled back.
+      Fancy a challenge? Grab a partner and form an orderly queue to take part
+      in the Bungee Run Challenge!
 
 
-      For events where you want entertainment that creates spectacle, generates
-      laughter, and gets people genuinely active, bungee runs deliver memorable
-      moments.
+      It's time to see who has eaten their Weetabix! Our Bungee Run is not for
+      the fainthearted — it will put your strength and speed to the test like
+      nothing else. Two players strap in and race down parallel inflatable
+      lanes, fighting against the bungee cord to place their marker as far as
+      possible before being yanked back to the start.
 
 
-      The competitive format creates natural rivalry whilst the visual comedy of
-      participants being pulled backwards generates entertainment for
-      spectators. Setup requires adequate space and is handled entirely by our
-      team.
+      Our Bungee Run Hire is great to use at a variety of events. Activity and
+      team building days are a fabulous way to build relationships with work
+      colleagues. Lots of fun can be had whether it's a sporting event, a
+      private party, a charity event, or a promotion. Whatever your
+      celebration, this will sure draw a happy crowd!
   - title: How It Works
     body: >-
-      Players attach to bungee cords and race down parallel lanes, attempting to
-      place their marker as far as possible before the elastic tension pulls
-      them back. The furthest marker wins.
+      Each player takes their starting position on their inflatable brightly
+      coloured lane. Our Fun Experts will be there waiting to help you into
+      your bungee run belt, which is attached to the back of the inflatable
+      run.
 
 
-      Head-to-head racing creates direct competition and spectator drama. The
-      physical nature means participants genuinely exert themselves, which adds
-      to the entertainment value.
+      When both contestants are ready to begin the challenge, each player will
+      run as fast as their legs will carry them along the bungee until they
+      can't get any further. They then place a marker on the side of the track.
+      Just when you think you've finished, the bungee cord will drag you back
+      to the start to begin all over again!
 
 
-      Our team handles all setup, safety briefings, and supervision throughout
-      your event.
+      Everyone can play and test their strength and speed — whether it's
+      children against adults or kids versus kids. We can alter the tension of
+      the bungee cords depending on the players, so it's a fair fight every
+      time.
+
+
+      Your hire includes the Bungee Run, two markers, two bungee belts, safety
+      mats, an inflatable blower, and power leads. Our team handles all setup,
+      safety briefings, and supervision throughout your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/bungee-run/bungee-run-1.jpg
     body: >-
-      Bungee runs create genuine hilarity. Watching colleagues strain against
-      elastic before being yanked backwards is inherently funny. The combination
-      of effort and inevitable failure generates laughter that spreads through
-      spectators.
+      Watching colleagues strain against the bungee before being yanked
+      backwards is inherently funny. The combination of genuine effort and
+      inevitable elastic defeat generates laughter that spreads through the
+      crowd — it's entertainment for spectators as much as the players
+      themselves.
 
 
-      The competition remains meaningful despite the comedy. Participants
-      genuinely try to place markers furthest, creating real rivalry and
-      celebrating victories.
+      The competition stays meaningful despite the comedy. Players genuinely
+      try to place their markers the furthest, creating real rivalry and
+      celebrating victories. The head-to-head format means there's always a
+      clear winner and the drama builds with every run.
 
 
       For team building specifically, the slight vulnerability of being pulled
-      backwards whilst colleagues watch creates bonding moments. Shared laughter
-      at collective silliness builds connection.
+      backwards whilst your colleagues watch creates bonding moments. Shared
+      laughter at collective silliness builds connection. Whatever your
+      celebration, the Bungee Run is sure to draw a happy crowd!
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
+      Our Bungee Run is delivered and installed on site by our trained team, so
       there's nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      As a nationwide hire company, we can provide everything you need for your
+      party or event. We offer delivery throughout the UK on request, including
+      Exeter, Cardiff, Bristol, Birmingham (including the NEC and ICC Arena),
+      Reading, Oxford, Swindon, London, Coventry (including the CBS Arena),
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Please note the Bungee Run cannot be carried up or down flights of
+      stairs — a lift is required for upper-floor venues. It needs drive-on
+      access for delivery and a level surface for setup, suitable for both
+      indoor and outdoor use.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Minimum order value and delivery charges may apply depending on your
+      location. For all enquiries, please complete our enquiry form and one of
+      our team will get back to you.
 faqs:
   - question: How many people can use the Bungee Run at once?
     answer: Two players typically race simultaneously on parallel lanes, creating

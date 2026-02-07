@@ -115,47 +115,55 @@ tabs:
   - title: Why High Striker?
     image: /images/products/high-striker/high-striker-7.jpg
     body: >-
-      The high striker brings classic fairground entertainment to corporate
-      events, team building days, and celebrations. Players swing the mallet to
-      ring the bell at the top, creating visible moments of triumph that draw
-      crowds and generate energy.
+      If you're seeking to book games rentals for your next big event then you
+      should include some old favourites from fairs and adventure parks, as
+      well as some other games they won't be expecting. You can hire high
+      striker, which is also a traditional fair game, but likely not one that
+      your attendees will be expecting!
 
 
-      The format is instantly recognisable and appeals to the competitive streak
-      in most people. For events where you want entertainment that creates
-      talking points and encourages friendly rivalry, the high striker delivers
-      with satisfying simplicity.
+      Corporate events can be tedious, but just imagine the surprise on their
+      faces when they see that there are some fun events to try during breaks,
+      or for a fun and eventful afternoon. The High Striker is a popular fun
+      fair game ensuring everyone will want a go!
 
 
-      No power required means complete positioning flexibility, whilst the
-      20-200 guest capacity suits most corporate event sizes. Setup takes
-      approximately 15-20 minutes.
+      This game takes a minimum amount of time to play, so you won't have any
+      long line ups. It also takes up a minimum of space on the floor. The
+      high striker game is the perfect way to add some additional fun to your
+      next big event.
   - title: How It Works
     image: /images/products/high-striker/high-striker-6.jpg
     body: >-
-      Players swing the mallet onto the lever, sending the puck up the tower
-      towards the bell at the top. Stronger, more accurate swings send the puck
-      higher, with ringing the bell representing the ultimate success.
+      You've probably seen the high striker game before. It's a common activity
+      at festivals, fairs, and exhibitions. It is in the form of a tall red
+      structure. There is a bell at the top, and a circular base. There are
+      progressive measurements along the vertical column.
 
 
-      The game takes one player at a time, creating focused moments whilst
-      spectators watch and anticipate. The format needs no explanation and
-      players can participate immediately.
+      Simply hold the heavy hammer and hit the base of the High Striker game.
+      Watch the striker rise up the tall 10 foot pole. Can you get it to the
+      top and ring that bell? If the lever doesn't make its way all the way
+      up, the player can record how far they did get on the measurements scale.
 
 
       Setup requires a level surface and approximately 15-20 minutes. No power
-      needed means flexible positioning wherever suits your venue.
+      needed means flexible positioning wherever suits your venue, indoors or
+      outdoors.
   - title: Why It's A Crowd Favourite
     image: /images/products/high-striker/high-striker-7.jpg
     body: >-
-      High strikers endure because they tap into something primal. The desire to
-      ring that bell, to prove your strength, to succeed where the previous
-      person didn't. It's simple psychology, but remarkably effective.
+      Test your ultimate strength with this all new game from Fun Pro UK. Every
+      man, woman and child will be raring to have a go and prove just how
+      strong they are or aren't! The High Striker fun fair game is a popular
+      attraction for both adults and children, it is guaranteed to bring out
+      everyone's competitive streak.
 
 
-      The spectator element adds value. Crowds gather to watch attempts, react
-      to near-misses, and celebrate when someone rings the bell. That shared
-      anticipation builds atmosphere.
+      This game works as a great crowd pleaser leading it to be a popular
+      exhibition stand game, product launch addition and brand activation tool.
+      Crowds gather to watch attempts, react to near-misses, and celebrate
+      when someone rings the bell. That shared anticipation builds atmosphere.
 
 
       It's also surprisingly inclusive. Technique matters as much as raw
@@ -164,25 +172,29 @@ tabs:
   - title: Delivery
     image: /images/products/high-striker/high-striker-4.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. Our team arrives with
+      adequate time before your event to position and test everything, ensuring
+      it's ready for your first guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver nationwide across the UK from our Midlands base, including
+      Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
+      Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
+      are able to cover the whole of the UK on request, with free delivery
+      within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      This equipment is suitable for indoor or outdoor use and requires a
+      minimum door width of 0.6m. It cannot be carried up or down flights of
+      stairs, so a lift is required for upper floors. No power is needed,
+      giving you complete flexibility with positioning.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards.
+      When your event wraps up, we handle the packdown and collection, leaving
+      you free to focus on your guests.
 faqs:
   - question: How many people can play the High Striker at once?
     answer: One player swings at a time, creating focused moments whilst spectators

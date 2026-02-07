@@ -3,9 +3,10 @@ title: Pick N Mix Hire
 subtitle: "Pick and mix sweet stand with branded display options"
 price: £550
 order: 50
-meta_title: Pick A Mix hire UK
-meta_description: Pick A Mix hire UK is one of the wide range of products
-  available from Fun Pro UK events experts. Contact us today!
+meta_title: Pick N Mix Hire | Sweet Stand Hire | Fun Pro UK
+meta_description: Hire our Pick N Mix sweet stand with 19 trays of assorted sweets
+  for corporate events, fun days, and exhibitions. Branded display options
+  available. UK wide delivery.
 categories:
   - categories/fun-foods.md
   - categories/arcade-games.md
@@ -119,72 +120,46 @@ tabs:
   - title: Why Pix N Mix Hire?
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg
     body: >-
-      Pick n mix brings sweet shop nostalgia and treat-yourself indulgence to
-      corporate events, celebrations, and family days. The self-serve format
-      creates interaction whilst the familiar concept needs no explanation.
+      Indulge your guests in a delightful array of sweet treats with our Pix N Mix Hire service. Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Pix N Mix stands offer a mouth-watering selection of candies that will leave everyone with a sugar rush of happiness.
 
 
-      For events where you want refreshments that double as entertainment, pick
-      n mix delivers both. Guests enjoy choosing their selections, the display
-      looks impressive, and the treat element adds to overall event atmosphere.
+      Our Pix N Mix stands come fully loaded with a whopping 19 trays of assorted sweets, ensuring there is plenty to go around for all your attendees. Each stand features 19 clear dispensers, allowing guests to pick and mix their favourite treats with ease. The stand is also equipped with paper bags, tongs, and scoops, making the experience both convenient and enjoyable for all.
 
 
-      Capacity suits events of 20-200 guests, with the self-serve format
-      maintaining throughput. Setup and presentation is handled by our team.
+      Make your event a memorable one with Pix N Mix Hire, the ultimate sweet sensation that promises to enhance any occasion. Pick N Mix sweet stand hire is very popular with both children and adults alike.
   - title: How It Works
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-7.jpg
     body: >-
-      We provide a fully stocked pick n mix display with a range of sweet
-      options. Guests serve themselves, selecting their favourites into provided
-      containers.
+      Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy, ensuring there will be lots to go around for all of your guests. Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
 
 
-      The display can be styled to match event theming and restocked throughout
-      to ensure availability. We handle setup and presentation to create maximum
-      visual impact.
+      There is a whole range of sweets to choose from such as Jelly Beans, Cola bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoams and much more. All sweets are subject to availability. Each stand has a total of 19 separate clear dispensers and all the contents can be seen clearly.
 
 
-      Requirements vary by display size and event scale. We'll discuss specifics
-      when you enquire.
+      Our team will deliver the sweet stand to your destination. They will set up, filling the separate dispensers with your choice of sweets prior to the beginning of your event. Once your hire is complete we will then return to collect and pack down the stand.
   - title: Why It's A Crowd Favourite
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg
     body: >-
-      Pick n mix works because it's fundamentally joyful. The abundance of
-      choices, the permission to indulge, the nostalgia of sweet shop visits. It
-      creates genuine happiness that contributes to overall event atmosphere.
+      The sweet stand hire is a huge attraction for corporate events, fun days, exhibition stands along with brand activations. All the contents can be seen clearly and will engage your guests immediately as their favourite sweet catches their eye.
 
 
-      The interactive element matters too. Guests choosing their own selection
-      creates engagement beyond passive refreshment. The decisions, the
-      searching, the building of personal collections. It's more memorable than
-      pre-prepared alternatives.
+      Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
 
 
-      For corporate events, the treat element signals that this is an occasion,
-      not just another meeting. Guests appreciate the indulgence and associate
-      it with the host's generosity.
+      Our Pick N Mix stands have the ability to be personalised with your company name and logo in the colours you desire both at the sides and the top of the stand. Branding this sweet stand along with our range of interactive games will ensure your company stands out from the crowd at exhibitions and promotional events.
   - title: Delivery
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-5.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      As a nationwide hire company, we can provide everything you need for your party or event. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Please note the stand cannot be carried up or down flights of stairs and a lift is required for upper floors. Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: How many guests can the Pick N Mix serve?
     answer: Our Pick N Mix display comfortably serves events of 20-200 guests. The

@@ -3,8 +3,10 @@ title: "BBQ"
 subtitle: "Gas-powered BBQ catering for event guests"
 price: ""
 order: 50
-meta_title: "BBQ - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "BBQ is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
+meta_title: "BBQ Catering Hire | Event Catering | Fun Pro UK"
+meta_description: "Freshly grilled BBQ catering for corporate fun days, summer
+  parties, and celebrations. Butchers sausages, beef burgers, and all the
+  trimmings. UK wide delivery."
 categories:
   - "categories/fun-foods.md"
 events:
@@ -29,7 +31,7 @@ specs:
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor only / Level surface"
+    value: "Outdoor / Level surface"
   - name: "Access"
     value: "Standard door width"
 filter_attributes:
@@ -59,43 +61,82 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/9d541ccf1f9524822bb3e39ec948517d"
 tabs:
   - title: "Why BBQ?"
-    body: "A professional BBQ setup brings casual atmosphere and quality catering to summer events, team celebrations, and outdoor corporate functions. The familiar format creates the relaxed, social environment that many corporate events aim for but struggle to achieve.
+    body: >-
+      Everyone adores eating BBQ food. It tastes even better when you are
+      outside in the lovely warm summer sunshine having fun at a Summer Family
+      Day with your nearest and dearest.
 
 
-      Live cooking adds theatre and creates natural gathering points. Guests cluster around the BBQ, chat whilst waiting, and experience the event as participants rather than passive attendees.
+      Our Summer BBQ food can cater for everyone. Our trained friendly chefs
+      will freshly grill your desired menu in front of your friends, family
+      and work colleagues, offering them only the best quality butchers
+      sausages and pure beef burgers with fresh bread rolls and all of the
+      accompaniments a great BBQ has to offer.
 
 
-      For events of 50-500+ guests where you want catering that scales whilst maintaining quality and atmosphere, professional BBQ service delivers both the practical capacity and the social dynamics that make events memorable."
+      We can also serve fresh tasty vegetable kebabs, fajita chicken and
+      amazing sides that everyone adores such as salad, fried onions, coleslaw
+      and potatoes. Are you hungry yet?
     image: "/images/products/bbq/bbq-4.jpg"
   - title: "How It Works"
-    body: "Our team arrives with professional BBQ equipment and handles all cooking throughout your event. Food is prepared fresh and served continuously, creating a relaxed grazing format rather than formal meal service.
+    body: >-
+      Our trained friendly chefs arrive with professional BBQ equipment and
+      handle all the cooking throughout your event. Food is freshly grilled
+      in front of your guests, creating a relaxed grazing format rather than
+      formal meal service.
 
 
-      The setup requires 2m x 2m x 2m of space with standard door access for equipment. We handle everything from setup through cooking to packdown, so you can focus on your guests.
+      The menu includes the best quality butchers sausages, pure beef burgers
+      with fresh bread rolls, and all of the accompaniments a great BBQ has
+      to offer. We can also serve fresh tasty vegetable kebabs, fajita
+      chicken, and amazing sides such as salad, fried onions, coleslaw and
+      potatoes.
 
 
-      Indoor venues with appropriate ventilation or outdoor spaces both work, depending on your event setup. We'll discuss specific requirements when you enquire."
+      We handle everything from setup through cooking to packdown, so you
+      can focus on your guests. Just drop us your requirements and we can do
+      the rest.
     image: "/images/products/bbq/bbq-3.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "BBQs work at events because they change the atmosphere. The smell of cooking, the casual service format, the gathering around the grill. It signals relaxation in a way that formal catering doesn't.
+    body: >-
+      Everyone adores eating BBQ food, and it tastes even better when you
+      are outside in the lovely warm summer sunshine. The smell of fresh
+      grilling, the casual service format, the gathering around the BBQ —
+      it signals relaxation in a way that formal catering simply doesn't.
 
 
-      For corporate events specifically, this relaxed format often achieves team bonding objectives more effectively than structured activities. People connect over food, conversations happen naturally whilst waiting, and the shared informal experience builds relationships.
+      For corporate events and Family Fun Days, this relaxed format brings
+      people together naturally. Conversations happen whilst waiting, and
+      the shared informal experience of freshly cooked food builds
+      relationships between friends, family and work colleagues.
 
 
-      There's also the quality element. Freshly prepared food tastes better and feels more special than pre-prepared alternatives. Guests notice and appreciate the difference."
+      There's also the quality element. Freshly grilled food from our
+      trained chefs tastes better and feels more special than pre-prepared
+      alternatives. Guests notice and appreciate the difference.
     image: "/images/products/bbq/bbq-4.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which include the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Minimum order value and delivery fees apply to all locations. For all
+      enquiries please complete our enquiry form and one of our team will
+      get back to you.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Our team arrives with adequate time before your event to set up and
+      ensure everything is ready for your first guests. When your event wraps
+      up, we handle the packdown and collection, leaving you free to focus
+      on your guests.
     image: "/images/products/bbq/bbq-1.jpg"
 faqs:
   - question: "How many guests can the BBQ service cater for?"

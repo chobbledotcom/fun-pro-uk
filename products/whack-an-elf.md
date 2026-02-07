@@ -3,8 +3,10 @@ title: "Whack an Elf"
 subtitle: "Festive-themed whack-a-mole game"
 price: "£495"
 order: 50
-meta_title: "Christmas Game Hire UK"
-meta_description: "For The Best Christmas Game Hire, Contact Us Today."
+meta_title: "Whack An Elf | Christmas Game Hire | Fun Pro UK"
+meta_description: "Hire our festive Whack an Elf game for Christmas parties and
+  seasonal events. A Christmas twist on the classic whack-a-mole — fun for all
+  ages! UK wide delivery."
 categories:
   - "categories/christmas-games.md"
   - "categories/christmas-game-hire.md"

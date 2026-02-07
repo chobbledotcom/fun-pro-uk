@@ -1,5 +1,5 @@
 ---
-title: "Danger-zone-strike-a-light-game-hire"
+title: "Danger Zone Strike A Light Game Hire"
 subtitle: "Two-player light-up target striking game"
 price: "£395"
 order: 50
@@ -87,44 +87,45 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8d15110c6c895667155e1cfb54ca0d94"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2d10d72d7226f4555647271ca52d623"
 tabs:
-  - title: "Why Danger-zone-strike-a-light-game-hire?"
-    body: "Danger Zone Strike-a-Light delivers high-intensity reaction gaming that gets competitive juices flowing at corporate events, team building days, and celebrations. Players strike illuminated targets as they light up, with speed and accuracy both counting towards scores.
+  - title: "Why Danger Zone Strike A Light Game Hire?"
+    body: >-
+      Looking for a thrilling and competitive game to keep your guests entertained? Our Danger Zone Strike a Light Game is a highly addictive crowd favourite, guaranteeing hours of fun and excitement for players of all ages.
 
 
-      The format creates natural spectacle, drawing crowds who watch players compete against the clock. For events where you want entertainment that generates energy rather than just filling time, reaction games like this consistently deliver.
+      Get ready for heart-pounding action as two players go head-to-head in a battle of speed and reaction time. With two exciting game modes to choose from, the fun never stops. The Strike A Light game is thrilling, competitive and fun to play, offering excitement as the players try to react as quickly as possible and play head to head.
 
 
-      With 15-20 minute sessions, 20-200 guest capacity, and straightforward mains power requirements, it's practical for most corporate event setups. Setup takes approximately 15-20 minutes."
+      The game is set on a table, with a blue zone and a red zone. There are several buttons on the table that light up, along with a small score board. It's simple for your friends, family, or co-workers to learn, making it perfect for parties, events, and corporate gatherings.
     image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-11.jpg"
   - title: "How It Works"
-    body: "Players face an array of targets that illuminate randomly. When a light activates, they strike it as quickly as possible before moving to the next. The game tracks speed and accuracy, building scores throughout timed sessions.
+    body: >-
+      The Strike A Light game is a 1 or 2 player speed reaction table top game. When the button lights on the game board light up within your zone (red or blue), you tap them as fast as you can.
 
 
-      The format is immediately understandable with no learning curve needed. Players simply react to lights and compete for the highest scores, making it accessible for all guests.
+      Standard Mode: Test your skills in a solo challenge or go head-to-head against a friend. Race against the clock to extinguish as many lights as possible in just 30 seconds. The faster you press, the quicker the lit buttons refresh, leading to fast and furious gameplay that will keep you on the edge of your seat.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. The game runs continuously once set up, with natural turn-taking as players compete for leaderboard positions."
+      Battle Mode: Challenge a friend to an intense showdown where strategy and quick thinking are key. Each player starts with the same number of lit buttons, but every press transfers a light to the opponent's side. The goal is to outsmart your opponent and transfer all your lights to their side to claim victory. It's a test of skill and wit that is sure to keep you coming back for more.
     image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-10.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Strike-a-light games create genuine excitement because they're viscerally satisfying. The physical act of hitting targets, the urgency of the timer, the visible progress through scores. It engages in ways that passive entertainment doesn't.
+    body: >-
+      The Danger Zone Strike a Light Game is a crowd favourite at Fun Pro UK. The game offers different ways to play. The first option is Strike the Light, where you go head to head and the highest score wins. Players have only thirty seconds to tap as many lights to get them to turn off, with scores tallied at the end of the game.
 
 
-      For corporate events, the spectator element adds particular value. Colleagues gather to watch, cheer good performances, and challenge each other to do better. That social dynamic emerges naturally without needing to be orchestrated.
+      The second option is Strike Back, also played by two people. The one with the fastest hand turns off the lights first to win. Both modes create intense, competitive moments that draw spectators and keep the energy high at any event.
 
 
-      The format also works across different fitness levels and ages. Speed helps, but anyone can play and achieve satisfying scores. That accessibility means broader participation than more physically demanding games."
+      The Strike A Light game will provide plenty of entertainment for your next big event. This game is extremely popular, and will enable the players to enter the danger zone for fun and excitement. You can also add your company branding to the game with our in-house custom full colour branding options for graphics surrounding the table base.
     image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-11.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Our delivery team will deliver and set up your game nationwide. Whether your event is in Glasgow, Manchester, Birmingham, Leicester, London or Bristol we will bring our interactive game hire to your location.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note that the equipment cannot be carried up or down flights of stairs and a lift is required. Minimum door width is 0.6m. The game is for indoor use only on a level surface. Minimum order value and delivery fees apply to all locations.
     image: "/images/products/danger-zone-strike-a-light-game-hire/danger-zone-strike-a-light-game-hire-8.jpg"
 faqs:
   - question: "How many people can play Danger Zone Strike-a-Light at once?"

@@ -94,43 +94,86 @@ faqs:
     answer: "No, Shuffleboard requires no power, giving you flexibility with positioning."
 tabs:
   - title: "Why Shuffleboard Hire?"
-    body: "Shuffleboard brings classic pub-style entertainment to corporate events, networking functions, and celebrations. The game offers strategic depth whilst remaining accessible to complete beginners, hitting the balance between competitive and social.
+    body: >-
+      Want to add a fun and friendly competition to your next event? A classic
+      game of shuffleboard is the perfect addition you're looking for! Fun
+      Pro's shuffleboard hire is an ideal choice for plenty of occasions.
 
 
-      For events where you want entertainment that encourages conversation whilst providing activity, shuffleboard excels. The turn-based format allows chatting between plays, whilst the strategic elements keep competitive guests engaged.
+      Shuffleboard has stood the test of time as one of the most beloved
+      games from people's childhoods. Set up exciting matches that blend skill
+      and strategy together -- see who can land the highest scores! Perfect
+      for all ages, our shuffleboard table, complete with paddles and pucks,
+      keeps your guests entertained and engaged.
 
 
-      No power required means flexible positioning, and the game suits events of 20-200 guests. The table creates a natural gathering point for networking."
+      We specialise in a large variety of events -- corporate events,
+      exhibitions, family fun days, weddings, college and university events,
+      conferences and trade shows, fundraisers, and more!
     image: "/images/products/shuffleboard-hire/shuffleboard-hire-9.jpg"
   - title: "How It Works"
-    body: "Players slide weighted pucks down the shuffleboard, aiming to land in high-scoring zones whilst potentially knocking opponents' pucks away. Games run to set point totals with alternating turns.
+    body: >-
+      Shuffleboard is a game of patience, tactics, and sleight of hand. You
+      can set up one-on-one games or create a team. Players slide weighted
+      pucks down the shuffleboard, aiming to land in high-scoring zones
+      whilst potentially knocking opponents' pucks away.
 
 
-      The format rewards accuracy and strategy whilst remaining accessible to beginners. The social pace allows conversation between shots, making it ideal for networking events.
+      Since only one person at a time can take a shot on the shuffleboard,
+      everyone else who is in the game can enjoy their food or drinks, mingle,
+      relax, and cheer on their team mates. Shuffleboard can be played with
+      either 2 or 4 players -- one-on-one or two teams of two.
 
 
-      Setup takes approximately 15-20 minutes and requires only a level surface. No power needed."
+      Our shuffleboard table is maintained meticulously, so you receive it in
+      top condition during the event. Aside from being fully functional, it is
+      also visually appealing and guaranteed to be highly entertaining for
+      your guests.
     image: "/images/products/shuffleboard-hire/shuffleboard-hire-8.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Shuffleboard works at events because it perfectly balances competition with socialising. You can play, chat, hold a drink, and still be genuinely engaged. That combination suits corporate networking better than games demanding full attention.
+    body: >-
+      Because anyone can play it! Shuffleboard is a game of patience, tactics,
+      and sleight of hand. You can set up one-on-one games or create a team.
+      And since only one person at a time can take a shot, everyone else can
+      enjoy their food or drinks, mingle, relax, and cheer on their team
+      mates.
 
 
-      The strategic element appeals to guests who might not engage with pure reaction games. Planning shots, defensive positioning, the satisfaction of a well-executed knock. It rewards thinking whilst remaining accessible.
+      The strategic element appeals to guests who might not engage with pure
+      reaction games. Planning shots, defensive positioning, the satisfaction
+      of a well-executed knock. It rewards thinking whilst remaining
+      accessible. No matter what type of event you're hosting, shuffleboard
+      meets yours and your guests' expectations.
 
 
-      The table also creates natural gathering points. People cluster around, watch games, offer advice. For events where you want to encourage mingling, shuffleboard achieves it organically."
+      The table also creates natural gathering points. People cluster around,
+      watch games, offer advice. For events where you want to encourage
+      mingling, shuffleboard achieves it organically.
     image: "/images/products/shuffleboard-hire/shuffleboard-hire-9.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      The price includes delivery, setup, and removal by our professional
+      team. Our team of trained professionals will take care of the logistics
+      for you. We'll deliver the shuffleboard table to your venue, set it up,
+      and make sure that everything is up and running for your guests.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Please note that the shuffleboard is heavy and the case needs to be
+      wheeled into position. The equipment cannot be carried up or down
+      flights of stairs -- lift access is required. Minimum order value and
+      delivery fees apply to all locations.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      When the event ends, we'll come back to collect the shuffleboard,
+      leaving your venue exactly as we found it. All equipment is PAT tested
+      and maintained to professional standards.
     image: "/images/products/shuffleboard-hire/shuffleboard-hire-6.jpg"
 ---
 

@@ -122,43 +122,88 @@ add_ons:
       price: 495
 tabs:
   - title: "Why Scalextric Slot Car Racing?"
-    body: "Scalextric brings nostalgic racing entertainment to corporate events, team building days, and celebrations. The familiar slot car format triggers memories for many guests whilst offering genuine competitive racing.
+    body: >-
+      Want to attract more visitors to your exhibition stand? Our Scalextric
+      slot car racing hire is the perfect addition and a great attraction to
+      keep your guests engaged. Offer the thrill of a high-speed racing game
+      and your guests will never want to leave.
 
 
-      For events where you want entertainment that combines nostalgia with competition, Scalextric delivers both. The racing format creates natural rivalry whilst the familiar format lowers barriers to participation.
+      Create a memorable experience that sets your stand apart from the rest.
+      Your participants get to relive their childhood joys while competing
+      and your brand gets to stay at the forefront of their minds. The
+      Scalextric tracks and cars provide exciting, competitive, and engaging
+      gameplay for you and your guests.
 
 
-      Multiple lanes allow head-to-head racing, with capacity for 20-200 guests throughout events. Setup and track configuration handled by our team."
+      It's one of our best games that keep your guests entertained for hours
+      on end. Both racing enthusiasts and casual participants can enjoy this
+      mini version of a high-stakes racing track. Our team of professionals
+      will take care of the logistics for you.
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
   - title: "How It Works"
-    body: "Players control slot cars using hand-held throttles, racing around the track against opponents. Speed management matters as cars can fly off corners if pushed too hard.
+    body: >-
+      3... 2... 1... GO! Buckle up for a good old entertaining game of slot
+      car racing. Your guests will love this mini-version of a high-speed
+      race track. Bring back childhood memories and set up exciting and
+      memorable racing competitions to keep everyone glued to your stand.
 
 
-      Multiple lanes allow simultaneous racing, creating direct competition. Races can run as individual challenges or tournament formats for team building.
+      Players control slot cars using hand-held throttles, racing around the
+      track against opponents. Speed management matters as cars can fly off
+      corners if pushed too hard. Multiple lanes allow simultaneous racing,
+      creating direct competition.
 
 
-      Our team handles track setup and configuration. The system runs continuously once operational."
+      Our Scalextric slot car racing hire includes the game's tracks and
+      accessories, slot cars, controllers, and power supply. We take care of
+      the whole logistics process from start to finish, so you don't have to
+      worry about the games you hired.
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-17.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Scalextric carries genuine nostalgia for anyone who raced slot cars as a child. That emotional connection creates immediate engagement and enthusiasm that novel entertainment doesn't achieve.
+    body: >-
+      Scalextric carries genuine nostalgia for anyone who raced slot cars as
+      a child. That emotional connection creates immediate engagement and
+      enthusiasm that novel entertainment doesn't achieve. Your participants
+      get to relive their childhood joys while competing.
 
 
-      The racing itself remains compelling. Managing speed through corners, battling for position, the satisfaction of clean overtakes. The gameplay holds up regardless of memories.
+      We do plenty of events around the UK -- corporate events, exhibitions,
+      family fun days, brand activations, conferences and trade shows,
+      fundraisers, and more. The racing itself remains compelling. Managing
+      speed through corners, battling for position, the satisfaction of clean
+      overtakes.
 
 
-      For corporate events, the competitive element works brilliantly. Colleagues race head-to-head, rivalries develop, and the measurable results create clear champions."
+      For corporate events, the competitive element works brilliantly.
+      Colleagues race head-to-head, rivalries develop, and the measurable
+      results create clear champions. It's a completely immersive and
+      nostalgic experience.
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-18.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      All packages include delivery, setup, and removal by our professional
+      team. You can rest assured that the Scalextric slot car racing hire and
+      other equipment will arrive in top condition and ready-for-use at your
+      event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Please note that the equipment cannot be carried up or down flights of
+      stairs -- lift access is required (1300mm deep). Minimum order value and
+      delivery fees apply to all locations.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      On the day of your event, we deliver and set up the slot car racing game
+      at your venue. We handle the logistics from start to finish. After the
+      event, we return to dismantle and collect, leaving your venue exactly as
+      we found it.
     image: "/images/products/scalextric-slot-car-racing/scalextric-slot-car-racing-15.jpg"
 videos:
   - id: qH4HJeoLCAg

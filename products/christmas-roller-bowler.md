@@ -86,79 +86,85 @@ tabs:
   - title: Why Christmas Roller Bowler?
     image: /images/products/christmas-roller-bowler/christmas-roller-bowler-16.jpg
     body: >-
-      The Christmas Roller Bowler adds festive theming to a satisfyingly simple
-      skill game. Players roll balls up a ramp, aiming to land them in scoring
-      zones. The format is immediately understandable, making it accessible for
-      mixed corporate audiences where you need entertainment that doesn't
-      exclude anyone.
+      The Christmas Roller Bowler brings a seasonal twist to the classic
+      carnival challenge. Players roll a festive "snowball" up a gently
+      sloped track, aiming to crest the snowy hill and land it perfectly in
+      Santa's winning zone. It is a game of skill, precision, and just the
+      right amount of festive flair.
 
 
-      At 450mm x 1480mm x 870mm, the compact footprint fits easily into most
-      venue spaces. The 1-4 player capacity keeps things social, whilst the
-      no-power-required setup means you have complete flexibility with
-      positioning.
+      As participants take their turn, colleagues gather to cheer, share
+      tips, and enjoy some light-hearted competition, making it an ideal
+      icebreaker for end-of-year events, corporate parties, and client
+      gatherings.
 
 
-      For Christmas parties where you want activities that feel seasonally
-      appropriate without being childish, the roller bowler hits the right note.
-      It's competitive enough to engage adults whilst simple enough that
-      everyone can participate.
+      Engaging, compact, and universally appealing, the Christmas Roller
+      Bowler delivers a touch of nostalgia and plenty of festive fun, while
+      helping create an inviting, energetic atmosphere around your event
+      space.
   - title: How It Works
     image: /images/products/christmas-roller-bowler/christmas-roller-bowler-15.jpg
     body: >-
-      Players roll balls up the ramp, aiming to land them in the highest-scoring
-      zones. The ramp creates a satisfying roll-and-settle mechanic where balls
-      can bounce between zones before coming to rest.
+      The Roller Bowler is a carnival skill game where players roll a ball
+      up a sloped track, attempting to send it over a hill and stop it
+      within a designated winning zone. The game tests timing, force
+      judgement, and ball control, requiring players to calculate the exact
+      power needed for success.
 
 
-      The game takes 1-4 players at a time, making it social whilst maintaining
-      clear turns. No power is needed, so setup is simply positioning the unit
-      on a level surface, which takes around 15-20 minutes.
+      Players watch their ball travel up the slope, hoping it settles in
+      the winning area rather than rolling back down. Roll too hard and the
+      ball bounces back; roll too softly and it never crests the hill,
+      creating the perfect balance of skill and frustration.
 
 
-      The straightforward format works well for informal competitions or as
-      drop-in entertainment throughout your event. The Christmas theming adds
-      seasonal relevance without changing the core gameplay.
+      The Christmas Roller Bowler features a beautifully themed track in
+      classic festive colours of red, green, and gold, complemented by
+      subtle Christmas graphics and premium wooden construction. Available
+      in tabletop or floor-standing configuration with no power required.
   - title: Why It's A Crowd Favourite
     image: /images/products/christmas-roller-bowler/christmas-roller-bowler-16.jpg
     body: >-
-      Roller bowler games have quiet, persistent appeal because they're
-      satisfying in a tactile way. Rolling the ball, watching it settle, the
-      small victory of landing in a high-scoring zone. It's simple but genuinely
-      enjoyable.
+      Anyone can understand the concept instantly, but mastering it takes
+      multiple attempts, keeping engagement high. Spectators gather to watch
+      and encourage players, building energy around your event space and
+      creating natural crowds.
 
 
-      The Christmas theming helps at seasonal events, making the entertainment
-      feel considered rather than generic. Guests notice these details, even if
-      they don't consciously acknowledge them.
+      The Roller Bowler works well at trade shows because it draws crowds,
+      creates visible queues, and keeps exhibition stands consistently busy.
+      Corporate events benefit from the competitive element that gets
+      colleagues interacting naturally, whilst the simple rules mean anyone
+      can play immediately without lengthy explanations.
 
 
-      What makes it work for corporate events specifically is the accessibility.
-      No special skills, no athletic requirements, no digital interface to
-      navigate. Just roll the ball and see where it lands. That simplicity means
-      everyone can participate without self-consciousness.
+      Queues form naturally at busy events as colleagues challenge each
+      other and attempt to beat previous scores. The visible gameplay makes
+      it valuable for exhibitions where creating footfall matters, with
+      spectators stopping to watch before joining the queue themselves.
+      Suitable for all ages, from young children to senior executives.
   - title: Delivery
     image: /images/products/christmas-roller-bowler/christmas-roller-bowler-13.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Every hire includes UK-wide delivery and collection, professional
+      installation and setup by our trained technicians, and full
+      operational support throughout your event if needed. We handle
+      everything from start to finish so there is nothing for you to
+      coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We regularly deliver to London, Manchester, Birmingham including the
+      NEC and ICC Arena, Cardiff, Bristol, Leeds, Sheffield, Nottingham,
+      Leicester, Coventry including the CBS Arena, Exeter, Reading, Oxford,
+      Swindon, Telford, and Milton Keynes. We are able to cover the whole
+      of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      The Christmas Roller Bowler is available in three sizes: Mini
+      (1110mm), Standard (1480mm), and Large (1820mm). Floor stands are
+      optional. Choose from tabletop or floor-standing configuration to
+      suit your venue space.
 faqs:
   - question: How many people can play Christmas Roller Bowler at once?
     answer: The game accommodates 1-4 players taking turns, with the compact format

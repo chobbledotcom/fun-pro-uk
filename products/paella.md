@@ -1,10 +1,12 @@
 ---
-title: "PAELLA"
+title: "Paella"
 subtitle: "Freshly cooked paella catering for event guests"
 price: ""
 order: 50
-meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "PAELLA is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
+meta_title: "Paella Catering Hire | Event Catering | Fun Pro UK"
+meta_description: "Live paella cooking for corporate events, summer parties, and
+  celebrations. Freshly prepared on site by our chefs, serving 50-500+ guests.
+  UK wide delivery."
 categories:
   - "categories/fun-foods.md"
 events:
@@ -56,44 +58,48 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/582963d4ce14c598e749cccc85e59c60"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0d2d06a0030987eeaeeda2e8b324f96"
 tabs:
-  - title: "Why PAELLA?"
-    body: "Live paella cooking brings theatre and authenticity to corporate events, summer parties, and celebrations. The visual spectacle of paella being prepared creates atmosphere and talking points, whilst the communal serving format encourages mingling and shared experiences.
+  - title: "Why Paella?"
+    body: >-
+      Paella is available throughout the UK for corporate events, summer parties, and celebrations. Live paella cooking brings theatre and authenticity to any occasion, with the visual spectacle of preparation creating atmosphere and talking points whilst the communal serving format encourages mingling and shared experiences.
 
 
-      Requiring 2m x 2m x 2m of space, paella suits larger events with 50-500+ guests where you want catering that scales impressively. The indoor venue requirement with level surface and standard door access means most function rooms can accommodate the setup.
+      As a nationwide hire company, we can provide everything you need for your party or event. The setup suits larger events with 50-500+ guests where you want catering that scales impressively.
 
 
-      For events where food should be part of the experience rather than just sustenance, live paella cooking creates the kind of memorable moments that pre-prepared catering doesn't achieve."
+      For events where food should be part of the experience rather than just sustenance, live paella cooking creates the kind of memorable moments that pre-prepared catering simply cannot achieve.
     image: "/images/products/paella/paella-3.jpg"
   - title: "How It Works"
-    body: "Our team arrives with all equipment and ingredients, setting up the cooking station as a focal point for your event. The paella is prepared fresh throughout, with the cooking process itself becoming part of the entertainment.
+    body: >-
+      Our team arrives with all equipment and ingredients, setting up the cooking station as a focal point for your event. The paella is prepared fresh throughout, with the cooking process itself becoming part of the entertainment.
 
 
       Guests can watch the preparation, ask questions, and experience the theatre of live cooking before being served. The communal nature of paella service encourages mingling and conversation.
 
 
-      Setup requires 2m x 2m x 2m of space, mains power, and a level indoor surface. We handle all cooking and serving, so you can focus on your guests rather than catering logistics."
+      Setup requires 2m x 2m x 2m of space and a level indoor surface. We handle all cooking and serving, so you can focus on your guests rather than catering logistics.
     image: "/images/products/paella/paella-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Paella works at events because it's inherently social food. The large pan, the communal serving, the gathering around cooking. It creates natural interaction in ways that individual plated meals don't achieve.
+    body: >-
+      Paella works at events because it is inherently social food. The large pan, the communal serving, the gathering around cooking. It creates natural interaction in ways that individual plated meals simply do not achieve.
 
 
       The visual element matters too. Watching food being prepared is genuinely engaging. Guests cluster around, the aroma builds anticipation, and the eventual serving feels like an event within the event.
 
 
-      For corporate functions specifically, this communal element often achieves networking objectives more effectively than structured activities. People connect over food in ways they don't over formal introductions."
+      For corporate functions specifically, this communal element often achieves networking objectives more effectively than structured activities. People connect over food in ways they do not over formal introductions.
     image: "/images/products/paella/paella-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      As a nationwide hire company, we can provide everything you need for your party or event. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests. We are flexible with timing, whether you need an office-hours setup or late-night collection after an evening event.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: "How many guests can the Paella service cater for?"
     answer: "Our Paella service caters for 50-500+ guests, making it perfect for larger corporate events, summer celebrations, and team gatherings. We'll discuss your guest numbers when you enquire."
