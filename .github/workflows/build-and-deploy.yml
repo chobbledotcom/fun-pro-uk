@@ -39,6 +39,7 @@ jobs:
             flake.nix
             flake.lock
             bin
+            scripts
             src
             packages
 
@@ -95,7 +96,7 @@ jobs:
         run: |
           cd combined
           bun install --frozen-lockfile
-          bun ./node_modules/@11ty/eleventy/cmd.cjs
+          bun scripts/eleventy-build.js
           mkdir -p ../_site
           mv _site/* ../_site/
 
