@@ -1,6 +1,6 @@
 ---
 title: "Fundraising Events"
-subtitle: "Equipment hire to draw crowds and boost donations"
+subtitle: "Games that draw crowds and boost donations"
 meta_title: "Fundraising Events"
 meta_description: "Make fundraising fun with Fun Pro UK! We have plenty of entertainment options and party games that could appeal to your upcoming charity event. Book now!"
 featured: true

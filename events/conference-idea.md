@@ -1,6 +1,6 @@
 ---
 title: "Conference Production"
-subtitle: "Equipment hire to engage delegates between sessions"
+subtitle: "Interactive games to keep delegates engaged between sessions"
 meta_title: "Conference Production"
 meta_description: "Keep spirits up during conferences and similar events with Fun Pro UK! We have a stunning array of quality party supplies and products available. Book now!"
 featured: true
