@@ -477,12 +477,15 @@ body {
           }
           .spec-content {
             gap: 8px;
+            align-self: center;
             dt {
               font-size: 14px;
+              line-height: 14px;
               font-weight: 400;
             }
             dd {
               font-size: 18px;
+              line-height: 18px;
               font-weight: 500;
             }
           }
