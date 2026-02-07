@@ -95,43 +95,84 @@ add_ons:
       price: 245
 tabs:
   - title: "Why Snatch It?"
-    body: "Snatch It challenges players to grab illuminated targets before they disappear, creating fast-paced reaction entertainment that generates energy at corporate events, team building days, and celebrations.
+    body: >-
+      Who can SNATCH the rods first? SNATCH IT is new to the interactive game
+      hire world, and FUN PRO UK have one that you can hire today. SNATCH IT
+      is a fabulous 2-player fun game to not only play, but to watch, laugh,
+      and cheer on the players for a little bit of friendly competition and
+      claim the victory.
 
 
-      The competitive format creates natural rivalry whilst the physical gameplay gets participants active and engaged. For events where you want entertainment that raises energy levels, reaction games deliver consistently.
+      It will test your hand and eye co-ordination, speed, and some
+      anticipation as to which rod to snatch first. SNATCH IT will draw
+      attention to your exhibition stand, brand activation, team building,
+      wellbeing event, trade stand -- in fact any event.
 
 
-      With capacity for 20-200 guests and straightforward setup, it suits most corporate event configurations. The game creates focused moments whilst spectators gather and watch."
+      You will have people queuing to play as everyone is sure to want to give
+      it a try, whilst others stand to watch this fun and interactive game
+      being played.
     image: "/images/products/snatch-it/snatch-it-6.jpg"
   - title: "How It Works"
-    body: "Players stand ready as targets illuminate randomly. When a light activates, they snatch it before it disappears, scoring points for successful grabs. Speed and reactions determine success.
+    body: >-
+      Players stand opposite each other and place both hands on buttons. When
+      both players are ready, all 5 rods will light up. As soon as a rod light
+      turns off, the player to SNATCH IT scores a point. The next 4 rods will
+      randomly have the lights turn off, and the player to be first to SNATCH
+      IT will score a point.
 
 
-      The game runs timed sessions with scores tracked for competition and leaderboards. The format is immediately understandable with no learning curve required.
+      If you move too soon, you will lose. If a rod gets knocked over or off
+      the table, that round has no winner. The game can be played with just
+      1 round, or to build the excitement you could play the best 2 out of 3
+      rounds.
 
 
-      Setup requirements include mains power. Games run continuously once operational."
+      A two-player game suitable for all ages. There is no electronic scoring
+      with this game -- it's pure reaction speed and anticipation.
     image: "/images/products/snatch-it/snatch-it-5.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Reaction games tap into competitive instincts that most people discover they have. The pressure of the timer, the physical movement, the satisfaction of successful grabs. It engages on a primal level.
+    body: >-
+      SNATCH IT is a fabulous game to not only play, but to watch, laugh, and
+      cheer on the players. It will draw attention to your exhibition stand,
+      brand activation, team building, wellbeing event, or trade stand. You
+      will have people queuing to play as everyone is sure to want to give it
+      a try.
 
 
-      Spectators get drawn in too. Watching someone compete against the clock creates tension that spreads. That shared experience builds atmosphere.
+      We can offer branding options on SNATCH IT, with not only the sides but
+      the top custom branded to meet your marketing needs. Our in-house
+      printing team very much enjoy working on unique and bespoke branding to
+      help you stand out and provide that immersive experience for players.
 
 
-      For corporate events, the physical activity shifts energy. After a few rounds of Snatch It, the room has more buzz than it started with."
+      Be quick to hire our game, as it gets SNATCHED quickly! If you like
+      playing speed reaction games, take a look at our BATAK, STRIKE A LIGHT,
+      and DANGER ZONE games too.
     image: "/images/products/snatch-it/snatch-it-6.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. Delivered and
+      installed on site by our trained team.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      Available for game hire across the UK, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry, Nottingham, Leicester, Telford, Leeds, Milton
+      Keynes, Sheffield, and more. We are able to cover the whole of the UK
+      on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
+      Please note that the equipment cannot be carried up or down flights of
+      stairs -- lift access is required. Minimum order value and delivery fees
+      apply to all locations.
 
 
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      All equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind. Our team arrives with adequate time
+      before your event to position and test everything, ensuring it's ready
+      for your first guests.
     image: "/images/products/snatch-it/snatch-it-3.jpg"
 faqs:
   - question: "How many people can play Snatch It at once?"
