@@ -1,5 +1,5 @@
 ---
-title: "ELECTRONIC BASKET BALL HIRE"
+title: "Electronic Basketball Hire"
 subtitle: "Arcade-style basketball shooting game for two players"
 price: "£295"
 order: 50
@@ -79,7 +79,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/1dbcc4ea9f0c532acdf5511c1beddd7c"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d7e33f6201a361d074013a6b2cd5c30e"
 tabs:
-  - title: "Why ELECTRONIC BASKET BALL HIRE?"
+  - title: "Why Electronic Basketball Hire?"
     body: >-
       Looking to add an extra element of excitement and friendly competition to your next event? Our Electronic Basketball Hire is the perfect addition for conferences, well-being days, exhibitions, and fun days. This self-contained arcade game features two hoops, allowing players to go head-to-head or participate in a knockout competition.
 

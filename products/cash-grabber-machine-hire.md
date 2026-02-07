@@ -236,5 +236,5 @@ faqs:
     answer: Mains power is required for the air system that keeps items swirling.
 videos:
   - id: ARn3iIOfFXw
-    title: Bespoke Photo Booth
+    title: Cash Grabber Machine
 ---

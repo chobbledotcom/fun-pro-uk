@@ -3,8 +3,10 @@ title: "BBQ"
 subtitle: "Gas-powered BBQ catering for event guests"
 price: ""
 order: 50
-meta_title: "BBQ - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "BBQ is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
+meta_title: "BBQ Catering Hire | Event Catering | Fun Pro UK"
+meta_description: "Freshly grilled BBQ catering for corporate fun days, summer
+  parties, and celebrations. Butchers sausages, beef burgers, and all the
+  trimmings. UK wide delivery."
 categories:
   - "categories/fun-foods.md"
 events:
@@ -29,7 +31,7 @@ specs:
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor only / Level surface"
+    value: "Outdoor / Level surface"
   - name: "Access"
     value: "Standard door width"
 filter_attributes:

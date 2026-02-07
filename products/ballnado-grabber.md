@@ -205,5 +205,5 @@ tabs:
       Please note that the Ballnado grabber cannot be carried up or down flights of stairs. A lift is required. Minimum door width is 0.6m. All equipment is PAT tested and maintained to professional standards, and delivery fees may apply depending on location.
 videos:
   - id: ARn3iIOfFXw
-    title: Bespoke Photo Booth
+    title: Ballnado Grabber
 ---

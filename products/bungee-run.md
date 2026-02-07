@@ -25,7 +25,7 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1 player
+    value: 2 players
   - name: Space Required
     value: 13.0m x 4.0m
   - name: Power

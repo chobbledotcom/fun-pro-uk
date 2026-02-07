@@ -1,10 +1,12 @@
 ---
-title: "PAELLA"
+title: "Paella"
 subtitle: "Freshly cooked paella catering for event guests"
 price: ""
 order: 50
-meta_title: "PAELLA - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "PAELLA is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
+meta_title: "Paella Catering Hire | Event Catering | Fun Pro UK"
+meta_description: "Live paella cooking for corporate events, summer parties, and
+  celebrations. Freshly prepared on site by our chefs, serving 50-500+ guests.
+  UK wide delivery."
 categories:
   - "categories/fun-foods.md"
 events:
@@ -56,7 +58,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/582963d4ce14c598e749cccc85e59c60"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/c0d2d06a0030987eeaeeda2e8b324f96"
 tabs:
-  - title: "Why PAELLA?"
+  - title: "Why Paella?"
     body: >-
       Paella is available throughout the UK for corporate events, summer parties, and celebrations. Live paella cooking brings theatre and authenticity to any occasion, with the visual spectacle of preparation creating atmosphere and talking points whilst the communal serving format encourages mingling and shared experiences.
 

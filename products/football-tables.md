@@ -127,7 +127,7 @@ add_ons:
     - name: Fully Branded
       price: 225
 tabs:
-  - title: Why FOOTBALL TABLES?
+  - title: Why Table Football?
     image: /images/products/football-tables/football-tables-11.jpg
     body: >-
       Bring the fun and excitement of table football to your next event with

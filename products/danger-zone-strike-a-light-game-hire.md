@@ -1,5 +1,5 @@
 ---
-title: "Danger-zone-strike-a-light-game-hire"
+title: "Danger Zone Strike A Light Game Hire"
 subtitle: "Two-player light-up target striking game"
 price: "£395"
 order: 50
@@ -87,7 +87,7 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8d15110c6c895667155e1cfb54ca0d94"
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2d10d72d7226f4555647271ca52d623"
 tabs:
-  - title: "Why Danger-zone-strike-a-light-game-hire?"
+  - title: "Why Danger Zone Strike A Light Game Hire?"
     body: >-
       Looking for a thrilling and competitive game to keep your guests entertained? Our Danger Zone Strike a Light Game is a highly addictive crowd favourite, guaranteeing hours of fun and excitement for players of all ages.
 
