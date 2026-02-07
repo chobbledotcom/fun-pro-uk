@@ -14,6 +14,8 @@ content:
     path: pages
     type: collection
     subfolders: false
+    exclude:
+      - home.md
     view:
       fields:
         - permalink
@@ -443,6 +445,61 @@ content:
                 type: string
                 label: Available Languages
                 list: true
+  - name: homepage
+    label: Homepage
+    type: file
+    path: _data/homepage.json
+    fields:
+      - { name: show_products, type: boolean, label: Show Products }
+      - { name: show_menus, type: boolean, label: Show Menus }
+      - { name: show_news, type: boolean, label: Show News }
+      - { name: show_recurring_events, type: boolean, label: Show Recurring Events }
+      - name: header
+        label: Header
+        type: object
+        fields:
+          - { name: subtitle, type: string, label: Subtitle }
+          - { name: title, type: string, label: Title }
+          - { name: button_text, type: string, label: Button Text }
+          - { name: button_url, type: string, label: Button URL }
+          - { name: all_categories_text, type: string, label: All Categories Text }
+          - { name: all_categories_url, type: string, label: All Categories URL }
+          - { name: all_categories_image, type: image, label: All Categories Image }
+      - name: intro
+        label: Intro Section
+        type: object
+        fields:
+          - { name: title, type: string, label: Title }
+          - { name: text, type: text, label: Text }
+          - { name: button_text, type: string, label: Button Text }
+          - { name: button_url, type: string, label: Button URL }
+      - name: how_it_works
+        label: How It Works
+        type: object
+        fields:
+          - { name: title, type: string, label: Title }
+          - { name: image, type: image, label: Image }
+          - { name: button_text, type: string, label: Button Text }
+          - { name: button_url, type: string, label: Button URL }
+          - name: steps
+            label: Steps
+            type: object
+            list: true
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: text, type: string, label: Text, required: true }
+      - name: popular_games
+        label: Popular Games Section
+        type: object
+        fields:
+          - { name: title, type: string, label: Title }
+          - { name: link_text, type: string, label: Link Text }
+          - { name: link_url, type: string, label: Link URL }
+      - name: events
+        label: Events Section
+        type: object
+        fields:
+          - { name: title, type: string, label: Title }
   - name: alt-tags
     label: Image Alt Tags
     type: file

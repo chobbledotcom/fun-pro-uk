@@ -1,6 +1,49 @@
 {
-	"show_products": true,
-	"show_menus": false,
-	"show_news": true,
-	"show_recurring_events": false
+  "show_products": true,
+  "show_menus": false,
+  "show_news": true,
+  "show_recurring_events": false,
+  "header": {
+    "subtitle": "What's your next event?",
+    "title": "Corporate Event Hire Across the UK",
+    "button_text": "Get Started",
+    "button_url": "/contact-fun-pro-uk/",
+    "all_categories_text": "View All Categories",
+    "all_categories_url": "/categories/",
+    "all_categories_image": "products/the-vault/the-vault-1.jpg"
+  },
+  "intro": {
+    "title": "Get in Touch",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "button_text": "View Games",
+    "button_url": "/products/"
+  },
+  "how_it_works": {
+    "title": "How it Works",
+    "image": "/images/placeholders/homepage-machines.png",
+    "button_text": "Get in Touch",
+    "button_url": "/contact-fun-pro-uk/",
+    "steps": [
+      {
+        "title": "Browse our Games",
+        "text": "Explore our full range of interactive games, photo experiences, and entertainment options. Filter by event type or guest numbers to find your perfect fit."
+      },
+      {
+        "title": "Build Your Quote Request",
+        "text": "Add your favourite games to your quote basket. Include your event date, venue details, and any special requirements you have in mind."
+      },
+      {
+        "title": "Receive Your Quote",
+        "text": "We'll send you a detailed quote within 24 hours. No obligation, no pressure, just straightforward pricing for your event."
+      }
+    ]
+  },
+  "popular_games": {
+    "title": "Popular Games",
+    "link_text": "View All Games",
+    "link_url": "/products/"
+  },
+  "events": {
+    "title": "What Kind of Event Are You Planning?"
+  }
 }
