@@ -4,7 +4,7 @@ subtitle: "Games customised with your branding for exhibitions and trade shows"
 meta_title: "Branded Game Hire | Corporate Events | Exhibition | Promotional"
 meta_description: "We have a wonderful selection of branded games to hire for all kinds of corporate events. Brand activations, exhibitions, trade shows &amp; much more. UK-wide."
 featured: true
-thumbnail: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-1.jpg
+thumbnail: /images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-1.jpg
 redirect_from:
   - "/category/branded-exhibition-games/"
 ---
