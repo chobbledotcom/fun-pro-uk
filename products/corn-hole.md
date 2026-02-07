@@ -10,7 +10,13 @@ categories:
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
   - "categories/prize-games.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/corporate-events.md
+  - events/celebrations-and-parties.md
+  - events/office-entertainment.md
+  - events/staff-wellbeing-days.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -22,11 +28,11 @@ specs:
   - name: "Space Required"
     value: "Minimum 2m x 1m playing area"
   - name: "Power"
-    value: "No power"
+    value: "No power required"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "900mm x 1200mm x 300mm"
+    value: "0.9m x 1.2m x 0.3m"
   - name: "Suitability"
     value: "Level Surface"
   - name: "Access"

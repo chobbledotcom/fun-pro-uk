@@ -9,7 +9,12 @@ categories:
   - "categories/freshers-fair-games.md"
   - "categories/fun-days.md"
   - "categories/fun-fair-stalls.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/fundraising-events.md
+  - events/university-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -19,17 +24,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "4m x 6.1m x 3m (L x W x H)"
+    value: "4m x 6.1m x 3m"
   - name: "Power"
-    value: "1 x UK power socket"
+    value: "1 x Power Socket"
   - name: "Setup time"
     value: "30 minutes"
   - name: "Equipment Size"
-    value: "3m x 5.1m x 2.95m (L x W x H)"
+    value: "3m x 5.1m x 2.95m"
   - name: "Suitability"
-    value: "Indoor or outdoor use only/Level surface"
+    value: "Indoor or outdoor / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

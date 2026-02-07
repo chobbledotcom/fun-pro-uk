@@ -37,17 +37,17 @@ specs:
   - name: Players
     value: Groups of 1-8
   - name: Space Required
-    value: 1.6m x 1.8m (W/D)
+    value: 1.6m x 1.8m
   - name: Power
-    value: 1 x 500 watt power source 3 pin mains UK power socket
+    value: 1 x Power Socket (500W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.2 x 1.2m x 2.0m Height (W/D/H)
+    value: 1.2m x 1.2m x 2.0m
   - name: Suitability
-    value: Indoor use only/Level surface
+    value: Indoor only / Level surface
   - name: Access
-    value: Minimum door width 0.6m
+    value: Min. door width 0.6m
 filter_attributes:
   - name: Guest Capacity
     value: 50-300 guests

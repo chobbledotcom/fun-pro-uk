@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/685582415"
     title: Ballnado
+thumbnail: /images/products/ballnado-grabber/ballnado-grabber-1.jpg
 ---
 
 # Ballnado Game Hire for Corporate Events in Birmingham

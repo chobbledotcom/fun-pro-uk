@@ -4,6 +4,7 @@ meta_title: "Plinko Hire Birmingham"
 meta_description: "Contact Fun Pro UK today to Hire our fully Branded Plinko"
 redirect_from:
   - "/pages/plinko-hire-birmingham/"
+thumbnail: /images/products/plinko-game-hire/plinko-game-hire-1.jpg
 ---
 
 # Plinko Game Hire for Birmingham Corporate Events

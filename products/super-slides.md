@@ -7,7 +7,11 @@ meta_title: "Super Slide Hire | Inflatable Slides | Fun Pro UK"
 meta_description: "Our inflatable slides are fully-customisable - display your logo &amp; branding. Thrills, chills &amp; marketing options - perfect for corporate fundays with kids!"
 categories:
   - "categories/fun-days.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -17,17 +21,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "4500mm Width x 6000mm Depth x 5500mm Height"
+    value: "4.5m x 6m x 5.5m"
   - name: "Power"
-    value: "1 x 950 watt power source 3 pin mains UK power socket"
+    value: "1 x Power Socket (950W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "4267mm Width x 5486mm Depth x 5486mm Height"
+    value: "4.267m x 5.486m x 5.486m"
   - name: "Suitability"
-    value: "Indoor and outdoor use/Level surface"
+    value: "Indoor and outdoor / Level surface"
   - name: "Access"
-    value: "Drive on only"
+    value: "Drive-on access"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

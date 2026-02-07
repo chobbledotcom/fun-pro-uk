@@ -9,7 +9,14 @@ categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
   - "categories/photo-booths-and-magic-mirrors.md"
-events: []
+events:
+  - events/conference-idea.md
+  - events/evening-entertainment.md
+  - events/school-entertainment.md
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/university-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -17,19 +24,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 player at a time"
+    value: "1 player"
   - name: "Space Required"
-    value: "4500mm Width x 4500mm Depth"
+    value: "4.5m x 4.5m"
   - name: "Power"
-    value: "1 x 900 watt power source 3 pin mains UK power socket"
+    value: "1 x Power Socket (900W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "4300mm Width x 4300mm Depth"
+    value: "4.3m x 4.3m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

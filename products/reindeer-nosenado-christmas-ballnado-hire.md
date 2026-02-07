@@ -10,7 +10,7 @@ categories:
   - "categories/christmas-games.md"
   - "categories/grab-a-grand.md"
 events:
-  - "events/christmas-entertainment-game-hire.md"
+  - events/christmas-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,17 +20,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "1800mm x 1800mm x 2200mm"
+    value: "1.8m x 1.8m x 2.2m"
   - name: "Power"
-    value: "1 x UK mains socket (Game usage: 10-50W)"
+    value: "1 x Power Socket (10-50W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
     value: "1.5m x 1.5m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

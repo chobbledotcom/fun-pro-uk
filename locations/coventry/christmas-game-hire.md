@@ -4,6 +4,7 @@ meta_title: "Coventry Christmas Game Hire | Festive Corporate Events"
 meta_description: "Book Christmas game hire in Coventry for your next event. Interactive festive entertainment for corporate events &amp; parties. Get your free quote today."
 redirect_from:
   - "/pages/christmas-game-hire-coventry/"
+thumbnail: /images/products/christmas-batak-pro/christmas-batak-pro-1.jpg
 ---
 
 # Christmas Game Hire – Coventry's Premier Festive Entertainment Specialists

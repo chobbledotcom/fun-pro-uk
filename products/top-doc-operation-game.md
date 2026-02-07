@@ -10,7 +10,12 @@ categories:
   - "categories/christmas-grotto-hire.md"
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
-events: []
+events:
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,17 +25,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "1500mm Width x 1250mm Depth,"
+    value: "1.5m x 1.25m"
   - name: "Power"
-    value: "1 x mains UK power socket (Wattages usage 5.7-7.5"
+    value: "1 x Power Socket (5.7-7.5W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "1200mmm Width x 600mm Depth x 900mm Height"
+    value: "1.2m x 0.6m x 0.9m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

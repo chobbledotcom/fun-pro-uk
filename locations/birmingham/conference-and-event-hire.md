@@ -4,6 +4,7 @@ meta_title: "Birmingham Conference Entertainment | Fun Pro UK Event Hire"
 meta_description: "Conference and event hire in Birmingham. Interactive games, expert support, and reliable service for conferences, exhibitions, and corporate events."
 redirect_from:
   - "/pages/conference-and-event-hire-birmingham/"
+thumbnail: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
 ---
 
 # Conference and Event Hire Birmingham: Interactive Entertainment for Corporate Success

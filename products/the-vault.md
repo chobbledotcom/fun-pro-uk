@@ -12,7 +12,12 @@ categories:
   - "categories/photo-booths-and-magic-mirrors.md"
   - "categories/prize-games.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/brand-activation.md
+  - events/exhibition-games.md
+  - events/corporate-events.md
+  - events/evening-entertainment.md
+  - events/celebrations-and-parties.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,19 +25,19 @@ features:
   - "Custom branding options available"
 specs:
   - name: "Players"
-    value: "1 players"
+    value: "1 player"
   - name: "Space Required"
-    value: "1200mm Width x 650mm Depth, Allowing for the person to stand in front"
+    value: "1.2m x 0.65m"
   - name: "Power"
-    value: "1 x mains UK power socket (Wattage usage 5-12 watts)"
+    value: "1 x Power Socket (5-12W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "900mm Width x 600mm Depth 1800 Height"
+    value: "0.9m x 0.6m x 1.8m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

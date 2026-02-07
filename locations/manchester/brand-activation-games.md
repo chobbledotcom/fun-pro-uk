@@ -4,6 +4,7 @@ meta_title: "Brand Activation Games Manchester | Interactive Marketing"
 meta_description: "Professional brand activation game hire in Manchester. Interactive marketing solutions that generate leads, engage audiences &amp; deliver measurable ROI."
 redirect_from:
   - "/pages/brand-activation-games-manchester/"
+thumbnail: /images/products/ballnado-grabber/ballnado-grabber-1.jpg
 ---
 
 # Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions

@@ -4,6 +4,7 @@ meta_title: "Corporate Event Hire Manchester | Professional Entertainment"
 meta_description: "Professional corporate event hire in Manchester. 15+ years experience providing interactive entertainment, team building activities &amp; branded solutions."
 redirect_from:
   - "/pages/corporate-events-manchester/"
+thumbnail: /images/products/air-hockey-table-hire/air-hockey-table-hire-1.jpg
 ---
 
 # Corporate Event Hire in Manchester: Professional Entertainment Solutions

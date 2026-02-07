@@ -26,17 +26,17 @@ specs:
   - name: Players
     value: 2 players
   - name: Space Required
-    value: 4.0m x 25.0m (W/D)
+    value: 4.0m x 25.0m
   - name: Power
-    value: 3 x 800 watt power source 3 pin mains UK power socket
+    value: 3 x Power Socket (800W)
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 28.0m x 21.4m x 3.35m (W/D/H)
+    value: 28.0m x 21.4m x 3.35m
   - name: Suitability
-    value: Indoor or outdoor use/Level surface
+    value: Indoor or outdoor / Level surface
   - name: Access
-    value: Drive on access only
+    value: Drive-on access
 filter_attributes:
   - name: Guest Capacity
     value: 100-500+ guests

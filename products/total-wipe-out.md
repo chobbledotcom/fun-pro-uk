@@ -8,7 +8,12 @@ meta_description: "Hire Our Total Wipeout Inflatable Game For Your Family Fun Da
 categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
-events: []
+events:
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/summer-entertainment.md
+  - events/university-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -18,13 +23,13 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "7000mm Width x 7000mm Depth x 2000mm Height"
+    value: "7m x 7m x 2m"
   - name: "Power"
-    value: "1 x 950 watt power source 3 pin mains UK power socket"
+    value: "1 x Power Socket (950W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "6400mm Width x 6400mm Depth 2000 Height"
+    value: "6.4m x 6.4m x 2m"
   - name: "Suitability"
     value: "Indoor or outdoor use, only Level surface"
   - name: "Access"

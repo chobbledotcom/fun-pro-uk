@@ -10,7 +10,12 @@ categories:
   - "categories/interactive-game-hire.md"
   - "categories/photo-booths-and-magic-mirrors.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/college-entertainment.md
+  - events/evening-entertainment.md
+  - events/exhibition-games.md
+  - events/university-events.md
+  - events/celebrations-and-parties.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
@@ -20,17 +25,17 @@ specs:
   - name: "Players"
     value: "1-4 players"
   - name: "Space Required"
-    value: "2000mm Width x 1400mm Depth, Allowing for the persons to stand in front"
+    value: "2m x 1.4m"
   - name: "Power"
-    value: "1 x 3 pin mains UK power socket (Wattage usage 60-77 watts)"
+    value: "1 x Power Socket (60-77W)"
   - name: "Setup time"
     value: "15-20 minutes"
   - name: "Equipment Size"
-    value: "600mm Width x 600mm Depth 1700mm Height"
+    value: "0.6m x 0.6m x 1.7m"
   - name: "Suitability"
-    value: "Indoor use only/Level surface"
+    value: "Indoor only / Level surface"
   - name: "Access"
-    value: "Minimum door width 0.6m"
+    value: "Min. door width 0.6m"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"
