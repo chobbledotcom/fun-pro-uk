@@ -1,5 +1,5 @@
 ---
-title: "Corporate Event hire Leicester"
+title: "Corporate Event Hire"
 meta_title: "Fun Pro UK - Corporate Entertainment Hire | Leicester"
 meta_description: "Original corporate entertainment ideas and first-class service. Choose Fun Pro UK for events in Leicestershire - interactive games, photo booths &amp; more."
 redirect_from:

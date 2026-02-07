@@ -1,5 +1,5 @@
 ---
-title: "Fun Pro Ballnado Hire for Your Next Event in Coventry"
+title: "Ballnado Hire"
 meta_title: "Ballnado Hire Coventry | Cash Grabber | Grab a Grand Cube"
 meta_description: "Exhibitions, corporate events and fun days in Coventry can all be improved by our Ballnado machine! Hire cash grabbers &amp; grab a grands with our event team."
 redirect_from:

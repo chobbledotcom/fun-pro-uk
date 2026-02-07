@@ -1,5 +1,5 @@
 ---
-title: "Danger Zone -Strike a Light Hire Coventry"
+title: "Danger Zone Strike a Light Hire"
 meta_title: "Danger Zone/Strike a light hire Coventry"
 meta_description: "Contact Fun Pro UK today for your first class service by emailing info@funprouk.co.uk"
 redirect_from:

@@ -1,6 +1,6 @@
 ---
-title: "Create Buzz At Your Next Event With Our Brand Activation Game Hire in Coventry"
-meta_title: "Brand Activation & Promotional Game Hire in London"
+title: "Brand Activation & Promotional Game Hire"
+meta_title: "Brand Activation & Promotional Game Hire Coventry | Fun Pro UK"
 meta_description: "Host engaging London corporate events with premium promotional game rentals to boost engagement, capture leads, and create unforgettable experiences."
 redirect_from:
   - "/pages/brand-promotional-event-hire-coventry/"

@@ -1,5 +1,5 @@
 ---
-title: "Whack A Mole Hire Coventry"
+title: "Whack a Mole Hire"
 meta_title: "Whack a Mole Hire Coventry"
 meta_description: "Looking to hire your next interactive game? Contact Fun Pro UK today"
 redirect_from:

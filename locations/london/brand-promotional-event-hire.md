@@ -1,5 +1,5 @@
 ---
-title: "Brand Activation & Promotional Game Hire in London"
+title: "Brand Activation & Promotional Game Hire"
 meta_title: "Brand Activation & Promotional Game Hire in London"
 meta_description: "Host engaging London corporate events with premium promotional game rentals to boost engagement, capture leads, and create unforgettable experiences."
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Brand Activation & Promotional Game Hire in Manchester: Expert Interactive Marketing Solutions"
+title: "Brand Activation & Promotional Game Hire"
 meta_title: "Brand Activation Games Manchester | Interactive Marketing"
 meta_description: "Professional brand activation game hire in Manchester. Interactive marketing solutions that generate leads, engage audiences &amp; deliver measurable ROI."
 redirect_from:

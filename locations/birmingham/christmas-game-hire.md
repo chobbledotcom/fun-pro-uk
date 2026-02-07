@@ -1,5 +1,5 @@
 ---
-title: "Christmas Game Hire &ndash; Birmingham's Premier Festive Entertainment Specialists"
+title: "Christmas Game Hire"
 meta_title: "Birmingham Christmas Game Hire | Festive Corporate Events"
 meta_description: "Book Christmas game hire in Birmingham for your next event. Interactive festive entertainment for corporate events &amp; parties. Get your free quote today."
 redirect_from:
