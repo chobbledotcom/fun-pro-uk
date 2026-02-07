@@ -1,0 +1,80 @@
+name: Test
+
+on:
+  pull_request:
+  merge_group:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Fast Build Test
+    runs-on: ubicloud-standard-8
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+        with:
+          path: source
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !old_site/
+
+      - name: Checkout Chobble Template
+        uses: actions/checkout@v4
+        with:
+          repository: chobble-mirror/chobble-template
+          ref: main
+          path: template
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            .eleventy.js
+            package.json
+            bun.lockb
+            flake.nix
+            flake.lock
+            bin
+            src
+            packages
+
+      - name: Copy template files to combined dir
+        run: |
+          mkdir -p combined
+          rsync \
+            --recursive \
+            --verbose \
+            --delete \
+            --exclude=".git" \
+            --exclude="*.md" \
+            --exclude="landing-pages" \
+            template/ \
+            combined/
+
+      - name: Overlay our repo files into combined src
+        run: |
+          rsync \
+            --recursive \
+            --verbose \
+            --exclude=".*" \
+            --exclude="README.md" \
+            --exclude="old_site" \
+            --exclude="package.json" \
+            --exclude="package-lock.json" \
+            --exclude="bun.lockb" \
+            source/ \
+            combined/src/
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Fast build
+        run: |
+          cd combined
+          bun install --frozen-lockfile
+          FAST_INACCURATE_BUILDS=1 bun ./node_modules/@11ty/eleventy/cmd.cjs --verbose
