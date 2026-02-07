@@ -16,7 +16,6 @@ categories:
   - categories/photo-booths-and-magic-mirrors.md
   - categories/prize-games.md
 events:
-  - events/christmas-entertainment-game-hire.md
   - events/celebrations-and-parties.md
   - events/christmas-entertainment.md
   - events/company-award-ceremonies.md

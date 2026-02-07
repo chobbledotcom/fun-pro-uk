@@ -7,7 +7,11 @@ meta_title: "Super Slide Hire | Inflatable Slides | Fun Pro UK"
 meta_description: "Our inflatable slides are fully-customisable - display your logo &amp; branding. Thrills, chills &amp; marketing options - perfect for corporate fundays with kids!"
 categories:
   - "categories/fun-days.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

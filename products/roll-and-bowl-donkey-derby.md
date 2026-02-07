@@ -14,7 +14,12 @@ categories:
   - "categories/prize-games.md"
   - "categories/pub-games.md"
   - "categories/roll-and-bowl.md"
-events: []
+events:
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/family-fun-days.md
+  - events/exhibition-games.md
+  - events/evening-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

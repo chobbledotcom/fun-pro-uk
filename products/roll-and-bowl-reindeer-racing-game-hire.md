@@ -10,7 +10,7 @@ categories:
   - "categories/christmas-game-hire.md"
   - "categories/roll-and-bowl.md"
 events:
-  - "events/christmas-entertainment-game-hire.md"
+  - events/christmas-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

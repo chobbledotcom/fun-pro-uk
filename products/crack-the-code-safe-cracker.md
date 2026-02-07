@@ -11,7 +11,13 @@ categories:
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
   - "categories/prize-games.md"
-events: []
+events:
+  - events/brand-activation.md
+  - events/fundraising-events.md
+  - events/exhibition-games.md
+  - events/corporate-events.md
+  - events/celebrations-and-parties.md
+  - events/evening-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
