@@ -141,71 +141,87 @@ tabs:
   - title: Why Cash Grabber Machine?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
     body: >-
-      Cash grabber machines create excitement as participants try to grab
-      swirling cash or vouchers in the time allowed. The format delivers genuine
-      engagement and works well for promotions, prize distribution, and brand
-      activations.
+      Looking to add some excitement to your event? Our Cash Grabber Machine is
+      the perfect choice for conferences, well-being days, exhibitions, fun
+      days, and brand activation events. Step into the Grab 'A' Grand Cash
+      Cube and experience the thrill of grabbing as many vouchers or money
+      notes as you can in just 30 seconds.
 
 
-      For events where you want entertainment that creates drama and provides
-      tangible rewards, cash grabbers deliver. The visible scramble, the
-      countdown pressure, and the potential prizes generate energy.
+      With our Cash Grabber Machine, you can create a buzz at your event and
+      engage your guests in a fun and interactive way. Whether you want to
+      increase sales, promote your brand, or simply entertain your guests, our
+      Cash Grabber Machine is guaranteed to leave a lasting impression.
 
 
-      The format suits events of 20-200 guests, with the prize element
-      maintaining high engagement throughout. Mains power required.
+      Whether you fill it with tokens or actual hard cash, there's no thrill
+      like stepping into the grab a grand machine and trying to snag as much
+      swag as you can as the clock ticks down. Everyone knows the score, so
+      you can be sure your grab a grand machine will be a huge draw for your
+      event, wherever you set it up.
   - title: How It Works
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg
     body: >-
-      Participants enter the machine as cash, vouchers, or prizes swirl around
-      them in the air current. They have a set time to grab as much as they can,
-      creating frantic, entertaining scrambles.
+      You step inside a large circular clear plexiglass tube. The door is
+      closed and there is a light above to light up the game. When the action
+      starts, cash bills are released into the air, and a fan blows them
+      around. You must grab the cash when it's spinning around in the air,
+      and what you can grab is yours.
 
 
-      The timer adds pressure whilst spectators watch and react. Whatever
-      participants grab, they keep, creating tangible wins.
+      There are some rules to the game - you can't open up your shirt and
+      let the money drop in, nor can you scoop up money off the floor. You
+      must catch the notes while they're swirling in the air. The 30-second
+      time limit creates genuine urgency.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes. Prize
-      loading and rules can be customised to suit your event.
+      The prize is up to you. You can play for fun or add some serious prizes
+      to a random selection of tickets among the swirling whirlwind. You could
+      fill it with real cash - we recommend a mix of five, ten, twenty, and
+      fifty pound notes - or toss in some fake notes too, just to increase
+      the excitement.
   - title: Why It's A Crowd Favourite
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
     body: >-
-      Cash grabbers create genuine excitement because the stakes feel real.
-      Grabbing actual prizes rather than scoring points changes engagement
-      levels. Participants genuinely try, and that effort creates entertaining
-      scrambles.
+      From a shopping centre sales promotion to your annual company awards,
+      the grab a grand machine will always be the centre of attention. With
+      its swirling notes and ticking clock, it's almost as much fun to watch
+      as it is to play.
 
 
-      The spectator element is excellent. Watching colleagues frantically grab
-      at swirling prizes generates reactions that spread energy through the
-      room.
+      Compact yet hard to ignore, it works like a magnet on your exhibition
+      stand or in your trade show space, really making you stand out from the
+      crowd. Whichever kind of prize you choose, the grab a grand machine is
+      top class corporate entertainment that will really lift the image of
+      your company and get people engaged with your brand and your sales
+      message.
 
 
-      The tangible rewards also create memorable takeaways. Guests remember what
-      they won and associate that success with your event.
+      You can even let your guest list know ahead of time, so if they have
+      any other plans that weekend, they'll soon be cancelling them to join
+      you on this special day. It's a high-energy activity that will keep
+      your guests entertained and excited throughout the event.
   - title: Delivery
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-15.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We offer delivery
+      throughout the UK on request, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry which include the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Our dependable delivery stretches the length and breadth of the
+      country. Minimum order value and delivery fees apply to all locations.
+      For all enquiries please complete our enquiry form and one of our team
+      will get back to you.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note this equipment cannot be carried up or down flights of
+      stairs. A lift is required for upper floors. The machine requires
+      indoor use only on a level surface, with a minimum door width of 0.6m
+      for access.
 faqs:
   - question: How many people can use the Cash Grabber at once?
     answer: One participant enters the machine at a time, with timed sessions

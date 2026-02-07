@@ -130,71 +130,80 @@ tabs:
   - title: Why FOOTBALL TABLES?
     image: /images/products/football-tables/football-tables-11.jpg
     body: >-
-      Football tables bring classic competitive entertainment to corporate
-      events, team building days, and celebrations. The familiar format needs no
-      explanation whilst delivering genuine competitive gameplay that appeals
-      widely.
+      Bring the fun and excitement of table football to your next event with
+      our top-of-the-line Football Tables for hire. Also known as foosball,
+      table football is a fast-paced game that is perfect for 2-4 players.
+      With twist handles to control the players and guide the ball into the
+      opponent's goal, the competitive spirit is always high.
 
 
-      For events where you want entertainment that creates natural gathering
-      points and competitive moments, table football delivers. The format suits
-      casual play and tournament structures equally well.
+      Our tournament-quality football tables feature a super-fast glass
+      playfield, providing the ultimate playing experience for enthusiasts and
+      amateurs alike. Whether you're hosting a corporate event, a conference
+      after-party, a fun-filled retro games night, or a promotion, our
+      full-size foosball tables are sure to be a hit.
 
 
-      No power required means flexible positioning, with capacity for 20-200
-      guests. Multiple tables available for larger events.
+      Take your event to the next level by branding our football tables with
+      your logo or design, perfect for increasing brand visibility and
+      engagement at exhibitions, fun days, and brand activations.
   - title: How It Works
     image: /images/products/football-tables/football-tables-10.jpg
     body: >-
-      Two teams of one or two players compete, controlling rows of players to
-      strike the ball and score goals. Standard table football rules apply, with
-      games running to set scores.
+      The game is set up on a table, with several rubber paddles attached to
+      poles that can be pulled in or out and twisted around. There are four
+      poles for each player, and the game is completely manual, not electronic,
+      making it much more fun to play.
 
 
-      The format supports casual drop-in play or structured tournaments. The
-      familiar mechanics mean guests can engage immediately.
+      Playing in a 1-2-5-3 formation, get your backs to pass forwards dodging
+      your opponent with your striker ready to boot into the back of the net.
+      The goal is to get the small football past your opponent's defences and
+      into their goal. Your opponent can block you with their paddles, or aim
+      for your own goal to win.
 
 
-      Setup takes approximately 15-20 minutes per table and requires only
-      adequate floor space. No power needed.
+      The finish of this table gives a smooth feel with the curved wooden
+      frame. Sturdy legs mean there is no wobbling while playing, and the
+      rubber handles provide comfort and control allowing precision play.
   - title: Why It's A Crowd Favourite
     image: /images/products/football-tables/football-tables-11.jpg
     body: >-
-      Table football endures because the gameplay is genuinely exciting. Fast
-      action, close games, skilful shots, and dramatic saves. The intensity
-      creates engagement that slower games don't match.
+      Think you are the next Cristiano Ronaldo? How about the next Gareth
+      Bale? You can now put your skills to the test against your opponent in a
+      thrilling, heart-pounding match of table football.
 
 
-      The spectator element works well too. Colleagues gather around matches,
-      react to goals, and wait for their turn. The natural clustering creates
-      conversation and connection.
+      People want to do more at events than sit around at tables, listening to
+      seminars or eating and drinking. Table football gets people up and
+      moving, and two opponents can play each other in fast-paced competitive
+      action. You can even add an incentive, such as a small prize, for the
+      winner.
 
 
-      For corporate events, table football also carries positive associations
-      with breakrooms and relaxation. It feels like recreation rather than
-      corporate entertainment, helping guests unwind.
+      This is a great way to provide entertainment for your guests that
+      doesn't take up a lot of space in your conference or meeting room. The
+      spectator element works well too, with colleagues gathering around
+      matches and waiting for their turn.
   - title: Delivery
     image: /images/products/football-tables/football-tables-8.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install on site with our trained team, so there's nothing
+      for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. Local areas include West Midlands,
+      Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Derby,
+      Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, and
+      Stratford upon Avon.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note this equipment cannot be carried up or down flights of
+      stairs -- a lift is required for upper floors. Delivery charges and
+      minimum order value may apply to all locations.
 faqs:
   - question: How many people can play Football Tables at once?
     answer: Each table accommodates 2-4 players for singles or doubles games.

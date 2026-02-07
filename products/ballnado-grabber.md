@@ -166,69 +166,43 @@ tabs:
   - title: Why Ballnado Grabber?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
     body: >-
-      The Ballnado Grabber creates chaotic, exciting entertainment as players
-      try to grab balls swirling in the air chamber. The visual spectacle draws
-      attention whilst the grabbing challenge creates genuine engagement.
+      Looking for a fun and competitive game that will excite your guests? Our Ballnado grabber for hire is the perfect attraction for your next event. It's more than just a game at a party - it's a complete, interactive experience.
 
 
-      For events where you want entertainment that looks impressive and creates
-      energy, the Ballnado delivers both. The visible action attracts spectators
-      whilst participants enjoy the frantic grabbing challenge.
+      The Ballnado grabber's fun and engaging gameplay is perfect for boosting footfall at your exhibition stand or trade show booth. Capture your guests' attention, increase brand activation, and enhance the overall experience for all your attendees.
 
 
-      Capacity suits events of 20-200 guests, with the visual impact making it
-      effective even when not being actively played. Mains power required.
+      This game features a transparent capsule that can be customised with your company logo and chosen colours, great for making your brand stand out. Booking and delivery is easy and hassle-free, with our team of professionals handling the logistics from start to finish.
   - title: How It Works
     image: /images/products/ballnado-grabber/ballnado-grabber-20.jpg
     body: >-
-      Players reach into the chamber to grab balls as they swirl in the air
-      current. Different coloured balls may represent different values, adding
-      strategy to the frantic grabbing.
+      Contestants step into the clear chrome-framed capsule, the wind fan starts kicking in, and suddenly soft foam balls are in the air. The challenge? Collect as many balls as possible in just 30 seconds. But remember, no sneaky ball-hoarding inside your clothes!
 
 
-      The challenge combines speed, timing, and a bit of luck. Sessions run for
-      set periods, with players competing for most balls grabbed.
+      Why not hire our score board along with the Ballnado game? This way you can keep track of who gathers the most amount of balls in the shortest time. At the end of your event you can see who the winner of the day is and allocate a prize.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes.
+      Your prize could be anything from a bottle of Champagne to be presented at the end of the day, or to add to the excitement, why not add a 'lucky ball' - a ball that carries a special prize. There are no end of options to ensure your company gets the ultimate attention and brand activation at your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
     body: >-
-      The Ballnado works because it looks exciting. Balls swirling, arms
-      reaching, the visible chaos of grabbing. It draws attention from across
-      the room and creates natural spectator interest.
+      The Ballnado grabber is a great way to draw crowds and create some buzz. Set up friendly competitions for your guests, offer up some prizes, and keep everyone entertained with this popular exhibition stand game.
 
 
-      The gameplay is genuinely fun too. The frantic nature, the satisfaction of
-      successful grabs, the competition for high scores. It engages in an
-      uncomplicated, physical way.
+      The game can be played by groups of different sizes, though it's at its most enjoyable between 4-12 players. This is a great number to spark competition and make sure that everyone has a fair chance to catch the balls.
 
 
-      For corporate events, the slight ridiculousness helps. Adults reaching
-      into swirling balls creates laughter and loosens the usual professional
-      reserve.
+      Whether you are seeking interactive game hire for your upcoming trade show or conference, we can help. We are able to deliver the day before your show to set up and then return after your event to de-rig. The Ballnado draws attention from across the room and creates natural spectator interest that loosens the usual professional reserve.
   - title: Delivery
     image: /images/products/ballnado-grabber/ballnado-grabber-18.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver nationwide across the UK, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      On the day of your event, we will deliver and set up the Ballnado game at your chosen venue. We'll take care of the game from start to finish and make sure that everything is running smoothly so your guests can play. When the event is over, we'll return to dismantle and collect the ball grabber machine and leave your venue exactly as we found it.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note that the Ballnado grabber cannot be carried up or down flights of stairs. A lift is required. Minimum door width is 0.6m. All equipment is PAT tested and maintained to professional standards, and delivery fees may apply depending on location.
 videos:
   - id: ARn3iIOfFXw
     title: Bespoke Photo Booth

@@ -80,73 +80,76 @@ tabs:
   - title: Why CASINO TABLE HIRE?
     image: /images/products/casino-table-hire/casino-table-hire-9.jpg
     body: >-
-      Casino tables bring sophisticated entertainment to corporate events,
-      celebrations, and themed parties. Professional tables for blackjack,
-      roulette, poker, and other games create authentic casino atmosphere whilst
-      fun money keeps things social.
+      Step into the glamour and excitement of a real casino with our
+      professional casino table hire service. Perfect for parties, weddings,
+      corporate functions, and themed nights, our tables deliver all the fun
+      of a casino without the risk of losing a fortune.
 
 
-      For events where you want entertainment that feels premium and creates
-      natural gathering points, casino nights deliver. The format encourages
-      interaction, creates competitive moments, and suits networking events
-      particularly well.
+      Choose from Roulette, Blackjack, Poker, and Craps tables for an
+      authentic casino experience. With professional chips, cards, and
+      layouts, plus friendly croupiers to host games and explain rules, your
+      guests will feel like they've stepped into Vegas.
 
 
-      Multiple tables available for larger events, with professional croupiers
-      ensuring smooth operation and authentic experience.
+      No gambling licences are required as all play is for fun with chips
+      provided. Prizes are optional, making it ideal for corporate events
+      and networking, fundraisers, private parties, weddings, and themed
+      nights including Vegas, James Bond, and Gatsby events.
   - title: How It Works
     image: /images/products/casino-table-hire/casino-table-hire-8.jpg
     body: >-
-      Professional casino tables are set up with all necessary equipment,
-      operated by experienced croupiers who manage games and assist guests with
-      rules.
+      Each hire includes your choice of casino tables - Roulette, Blackjack,
+      Poker, or Craps - complete with professional chips, cards, and
+      accessories. Trained croupiers host the games, explain the rules, and
+      keep your guests entertained throughout the evening.
 
 
-      Fun money is typically used, maintaining the excitement of betting whilst
-      removing actual financial stakes. Prizes can be awarded to top chip
-      holders at the end.
+      All play uses fun money, so your guests get the thrill of betting
+      without any real financial risk. You can award prizes to the top chip
+      holders at the end to add a competitive edge.
 
 
-      Setup includes table positioning, equipment preparation, and croupier
-      briefing. Our team manages all gameplay throughout your event.
+      Flexible rental packages are available by the hour, evening, or full
+      event. Our team handles delivery, setup, and collection, so you can
+      focus on enjoying your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/casino-table-hire/casino-table-hire-9.jpg
     body: >-
-      Casino nights work because they create the excitement of gambling without
-      the downsides. The betting, the anticipation, the wins and losses. All the
-      drama with fun money keeping it social.
+      Turn your venue into a mini Vegas and give your guests an unforgettable
+      night of entertainment. The glamour of a real casino creates an
+      atmosphere that feels premium and special, setting your event apart
+      from standard functions.
 
 
-      The social format suits corporate networking. Tables create natural
-      gathering points, games encourage interaction between strangers, and the
-      shared experience of wins and losses builds connection.
+      Casino tables create natural gathering points where guests interact,
+      compete, and share the excitement of wins and losses together. The
+      format works brilliantly for corporate networking and team building,
+      as the shared experience of playing breaks the ice and builds
+      connections.
 
 
-      The premium feel also signals investment in event quality. Professional
-      tables and croupiers create impression that distinguishes events from
-      standard functions.
+      Whether it's watching the roulette wheel spin, going head-to-head
+      with the dealer in blackjack, or the high-energy dice action of
+      craps, casino tables keep guests entertained and engaged all evening.
   - title: Delivery
     image: /images/products/casino-table-hire/casino-table-hire-6.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We offer delivery
+      throughout the UK on request, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry which include the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      Our team handles everything from setup to collection, ensuring your
+      casino night runs seamlessly. Minimum order value and delivery fees
+      apply to all locations.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Tables require indoor use only on a level surface, with a minimum door
+      width of 0.6m for access.
 faqs:
   - question: How many people can play at the Casino Tables at once?
     answer: Each table accommodates 6-8 players depending on the game. Multiple

@@ -80,43 +80,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d7e33f6201a361d074013a6b2cd5c30e"
 tabs:
   - title: "Why ELECTRONIC BASKET BALL HIRE?"
-    body: "Electronic basketball brings authentic arcade energy to corporate events, team building days, and celebrations. The familiar format means everyone immediately understands what to do, whilst the automatic scoring and countdown timers create genuine competitive tension.
+    body: >-
+      Looking to add an extra element of excitement and friendly competition to your next event? Our Electronic Basketball Hire is the perfect addition for conferences, well-being days, exhibitions, and fun days. This self-contained arcade game features two hoops, allowing players to go head-to-head or participate in a knockout competition.
 
 
-      This works particularly well when you need entertainment that appeals to mixed groups. Sports enthusiasts engage with the physical challenge whilst less athletic colleagues enjoy the arcade-style accessibility. It's basketball without the pressure of being judged on actual skill.
+      Transform any space into a basketball court with our hire service. With limited space requirements, you can bring the joy of playing basketball indoors, without the need for a dedicated court. Now there is no need to book a real basketball court, or to even find an available venue with one.
 
 
-      The battery-powered operation gives you flexibility with positioning, so you're not restricted to locations near power sockets. For events with 20-200 guests, the steady throughput keeps queues moving whilst giving each player enough time to find their rhythm and achieve satisfying scores."
+      Whether you're looking to boost team morale at a corporate event, add a fun activity to a family gathering, or entertain conference delegates during a break, our Electronic Basketball Hire is sure to keep everyone entertained. It's suitable for any type of event where people gather together and want to have some fun.
     image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-6.jpg"
   - title: "How It Works"
-    body: "Players grab a basketball and shoot hoops against a countdown timer, with each successful basket adding to their score. The electronic scoring tracks everything automatically, so there are no disputes about whether that last shot counted.
+    body: >-
+      Fancy yourself as the next Michael Jordan? Think you've got the basketball skills of Kobe Bryant? Put your slam-dunk skills to the test with our classic arcade style electronic basketball game. The game has two basketball hoops side-by-side so you can compete against a challenger at the same time, with a big electronic scoreboard counting up the successful shots and counting down the time.
 
 
-      The game typically runs timed rounds, giving players a set window to score as many baskets as possible. This creates natural turn-taking and makes it easy to run tournaments or track high scores throughout your event.
+      This self-contained basketball arcade game creates an instant, pop-up court almost anywhere, with side netting and printed canvas ball catcher to contain the fun. The basketball court is sloped upwards, so once your ball goes through the hoop or you miss the shot, the ball slides back down to the bottom once again.
 
 
-      Because it's battery powered, setup is straightforward with no trailing cables or proximity to power points required. The game runs continuously with minimal supervision, though for larger events or formal tournaments, we can provide staff to manage play and keep energy levels high."
+      The electronic function records the scores automatically when the basketball successfully goes through the hoop, so the two players can have fun and not worry about keeping score. You can take on your challengers head to head or even organise a knockout competition amongst your staff or conference delegates to see who is crowned king, or queen, of the hoops.
     image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-5.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "There's a reason arcade basketball has been a staple of entertainment venues for decades. It just works. The combination of physical activity, time pressure, and visible scoring triggers something competitive in most people.
+    body: >-
+      The crazy competition of the basketball challenge is perfect for your company fun day, and it's a great team builder too. With a big electronic scoreboard counting up the successful shots and counting down the time, everyone can share the excitement - whether they're playing or cheering from the sidelines.
 
 
-      What makes it effective at corporate events specifically is that it gets people moving and laughing in a way that standing around with drinks doesn't. Colleagues who might never interact end up cheering each other on or engaging in friendly rivalry.
+      Our Electronic Basketball Hire is suitable for any type of event where people gather together and want to have some fun, such as a corporate Christmas party, wedding, family reunion, or convention. It's even great for conferences where you can offer some fun during a break, giving attendees some time to refresh their minds and bodies.
 
 
-      The skill ceiling is low enough that anyone can play but high enough that good scores feel earned. That balance is harder to find than you'd think, and it's why basketball consistently outperforms more complicated games in terms of actual participation rates."
+      Add in some other interactive games, such as racing car simulator hire or our strike a light reaction game, and you can really build on the fun. Whatever you've got planned, the basketball challenge will have your guests competing to be crowned king, or queen, of the hoops.
     image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-6.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Delivered and installed on site by our trained team as part of your hire, so there's nothing for you to coordinate on the day. As a nationwide hire company, we can provide everything you need for your party or event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. Local areas include West Midlands, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Derby, Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, and Stratford upon Avon. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      This game requires a minimum door width of 0.6m for access and cannot be carried up or down flights of stairs - a lift is required for upper floors. Indoor use only on a level surface. Minimum order value and delivery fees apply to all locations. Just let us know what you want and where you want it for reliable service that will never let you down.
     image: "/images/products/electronic-basket-ball-hire/electronic-basket-ball-hire-3.jpg"
 faqs:
   - question: "How many people can play Electronic Basketball at once?"

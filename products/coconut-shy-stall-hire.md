@@ -79,41 +79,42 @@ add_ons:
       price: 195
 tabs:
   - title: "Why Coconut Shy Stall Hire?"
-    body: "The coconut shy brings traditional fairground entertainment to corporate events, summer fetes, and celebrations. The familiar throwing format needs no explanation whilst carrying nostalgic associations that guests appreciate.
+    body: >-
+      Looking to bring a touch of classic fairground fun to your next corporate event? Our Coconut Shy stall hire is a fantastic way to entertain guests while adding a nostalgic twist. A staple of traditional fairs and fun days, this exciting game challenges players to knock coconuts off their stands using wooden balls.
 
 
-      For events where you want accessible, relaxed entertainment with universal appeal, the coconut shy delivers. The format works across ages and abilities, creating inclusive entertainment without complicated rules.
+      Perfect for corporate events, staff parties, family fun days, and more, the Coconut Shy stall is sure to draw a crowd and create a lively atmosphere. Simple yet highly engaging, it is a timeless fairground attraction that suits events of all sizes, whether you're hosting an indoor or outdoor event.
 
 
-      No power required means flexible positioning, with capacity for 20-200 guests. Setup takes approximately 15-20 minutes."
+      For corporate clients, the Coconut Shy stall presents a fantastic branding opportunity. Customise the stall with your company's logo, event slogan, or bespoke design to increase brand visibility while your guests enjoy the challenge. No power required means flexible positioning at your venue.
     image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
   - title: "How It Works"
-    body: "Players throw balls at coconuts balanced on stands, aiming to knock them off. Traditional prizes reward successful throws, creating tangible wins.
+    body: >-
+      Players throw wooden balls at coconuts balanced on stands, aiming to knock them off. The format is immediately understandable and provides hours of competitive entertainment for players of all ages.
 
 
-      The format is immediately understandable and allows continuous play as guests cycle through. The throwing element adds physicality without requiring athletic ability.
+      Our Coconut Shy stall hire includes high-quality wooden balls for fair and safe gameplay, 50 fun prizes, a professionally designed game stall with a classic red and white striped canopy, and easy-to-follow game instructions. An optional trained host is available to manage the game for up to 4 hours.
 
 
-      Setup takes approximately 15-20 minutes and requires only level ground. No power needed."
+      The stall is suitable for both indoor and outdoor use. Our hire service includes full setup and removal by our professional team, ensuring a hassle-free experience. Setup takes approximately 15-20 minutes and requires only a level surface with no power needed.
   - title: "Why It's A Crowd Favourite"
-    body: "The coconut shy works because it taps into fairground nostalgia. For anyone who's visited fetes and fairs, the format carries positive associations. That emotional connection creates engagement before the first throw.
+    body: >-
+      The Coconut Shy draws a crowd because it taps into classic fairground nostalgia. For anyone who's visited fetes and fairs, the format carries positive associations that create engagement before the first throw. It is a truly engaging experience that guarantees reliability, quality, and fun for your guests.
 
 
-      The prize element adds stakes that pure games lack. Throwing becomes meaningful when there's something to win, changing engagement levels noticeably.
+      This classic fairground game is ideal for a wide range of events, including corporate fun days, school fetes, product launches, and more. The prize element adds real stakes, with 50 fun prizes rewarding successful throws and changing engagement levels noticeably. If needed, we also offer an event host to oversee the game, ensuring fair play and maximum enjoyment for participants.
 
 
-      The physicality matters too. Actually throwing, the satisfaction of contact, the visible result of knocked coconuts. It's tangible in ways that screen-based games aren't."
+      The Coconut Shy stall can be fully customised with your company or event branding, logo and colours, making it a fantastic branding opportunity alongside genuinely entertaining gameplay. The physicality of actually throwing, the satisfaction of contact, and the visible result of knocked coconuts makes it tangible in ways that screen-based games simply aren't.
     image: "/images/products/coconut-shy-stall-hire/coconut-shy-stall-hire-1.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      On the day of your event, our professional team will deliver and set up the Coconut Shy stall at your chosen venue. We ensure everything is running smoothly for maximum enjoyment. Once the event is over, we'll return to collect the stall, leaving your venue exactly as we found it.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request. Minimum order value and delivery fees apply to all locations.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      The stall requires only standard door width access and a level surface. Our team arrives with adequate time before your event to position and test everything, and we're flexible with timing whether you need an office-hours setup or late-night collection after an evening event.
 ---
 

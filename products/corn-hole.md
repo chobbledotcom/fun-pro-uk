@@ -92,43 +92,44 @@ add_ons:
       price: 110
 tabs:
   - title: "Why Corn Hole?"
-    body: "Corn hole brings relaxed, social entertainment to corporate events, summer parties, and outdoor celebrations. The bean-bag-tossing format is immediately accessible whilst offering enough skill progression to keep competitive types engaged.
+    body: >-
+      Looking for a crowd-pleasing game that combines skill, friendly competition and entertainment for your next event? Our premium Corn Hole hire brings the popular American lawn game to your UK event with professional quality boards, custom branding options, and everything you need for instant entertainment.
 
 
-      For events where you want entertainment that encourages conversation rather than demanding full attention, corn hole hits the right balance. Players chat whilst taking turns, spectators join easily, and the relaxed pace suits networking and social functions.
+      Corn Hole captivates guests of all ages and abilities. It is simple to understand but challenging to master, works brilliantly indoors or outdoors, and requires minimal floor space while delivering maximum entertainment value. The competitive element encourages friendly rivalry with tournament formats, perfect for team building and ice-breaking.
 
 
-      The 1-4 player format keeps games social, with no power required for complete positioning flexibility. Capacity suits events of 20-200 guests with multiple boards available for larger functions."
+      No specialist skills are required, ensuring everyone from CEOs to new employees can participate equally. You can transform our premium boards into powerful marketing tools with your company logos, colours, and messaging, making Corn Hole as much a branding opportunity as it is entertainment.
     image: "/images/products/corn-hole/corn-hole-10.jpg"
   - title: "How It Works"
-    body: "Players take turns tossing bean bags towards the sloped board, aiming to land bags on the board for points or in the hole for higher scores. Games run to set point totals, with players or teams competing head-to-head.
+    body: >-
+      Corn Hole is an addictively simple yet challenging game of skill. Players take turns tossing bean bags at a raised platform with a hole at one end, scoring points for bags that land on the board (1 point) or go through the hole (3 points). The straightforward rules make it instantly accessible, while the skill element ensures repeated plays as participants strive to improve their accuracy.
 
 
-      The format needs no explanation for most guests and those unfamiliar learn in seconds. Multiple boards allow several games to run simultaneously, increasing throughput.
+      Games can be played individually or in teams, making Corn Hole exceptionally versatile for different event formats. Our professional-grade sets feature premium boards with non-slip bases, regulation-size platforms, and durable, colour-coded bean bags that withstand hundreds of tosses while maintaining their shape and weight.
 
 
-      Setup takes approximately 15-20 minutes and requires only level ground. No power needed means complete flexibility with outdoor or indoor positioning."
+      Every hire includes 1 or 2 Corn Hole boards (120cm x 60cm), 8 professional-grade bean bags in two colours, and full setup and breakdown by our experienced team. For larger groups, we recommend hiring multiple sets or implementing a tournament format with rotations.
     image: "/images/products/corn-hole/corn-hole-9.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Corn hole has grown from American tailgate staple to UK event favourite because it perfectly balances activity with socialising. You can hold a drink, chat with colleagues, and still participate. That accessibility matters at networking events.
+    body: >-
+      Corn Hole has taken the events industry by storm because it perfectly balances activity with socialising. You can hold a drink, chat with colleagues, and still participate, which makes it ideal for networking events and corporate functions. Brands including Red Bull Racing, Warwick University, BT, and Amazon have trusted our Corn Hole hire for their events.
 
 
-      The skill progression is well-judged too. Complete beginners can play immediately, but technique development rewards practice. Regular players develop accuracy that feels genuinely earned.
+      The skill progression keeps players coming back. Complete beginners can play immediately, but technique development rewards practice and repeated plays as participants strive to improve their accuracy. Optional event staff can demonstrate the game, organise tournaments, and ensure maximum engagement throughout your event.
 
 
-      For corporate events specifically, the team format works brilliantly. Partners strategise together, victories feel shared, and the relaxed pace allows conversation to flow naturally."
+      Originally an outdoor game, our professional sets are designed to withstand British weather conditions, and we also provide indoor options with non-marking feet for protection of venue flooring. Whether it's a corporate function, wedding, or trade show, Corn Hole creates the kind of relaxed competitive atmosphere where conversation flows naturally.
     image: "/images/products/corn-hole/corn-hole-10.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Fun Pro UK offers premium Corn Hole hire throughout the United Kingdom. Our dedicated team handles all logistics, ensuring seamless delivery, setup and collection at your venue. Whether you're hosting an exhibition at ExCeL London, a corporate function in Manchester's Northern Quarter, or a wedding in the Cotswolds, we deliver directly to your venue with professional installation included.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      Popular hire locations include London and Greater London, Birmingham and West Midlands, Manchester and Northwest, Leeds and Yorkshire, Edinburgh and Scottish Lowlands, Bristol and Southwest, and Cardiff and South Wales. We also cover Exeter, Reading, Oxford, Swindon, Coventry including the CBS Arena, Nottingham, Leicester, Telford, and Milton Keynes. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      The game requires only standard door width access and a level surface, with no power needed. Our team arrives with adequate time before your event to set up, and we handle collection when your event wraps up. Delivery and collection charges and minimum order value may apply.
     image: "/images/products/corn-hole/corn-hole-7.jpg"
 faqs:
   - question: "How many people can play Corn Hole at once?"

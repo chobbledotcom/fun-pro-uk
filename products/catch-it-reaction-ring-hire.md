@@ -131,76 +131,82 @@ tabs:
   - title: Why Catch it Reaction Ring Hire?
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg
     body: >-
-      The Catch It Reaction Ring tests reflexes in a simple, engaging format
-      that works for corporate events, team building, and celebrations. Players
-      respond to light signals by catching the ring before it drops, with
-      reaction times measured precisely.
+      Our Catch It Reaction Game Hire is the perfect high-energy activity to
+      create excitement and draw crowds at your next corporate event,
+      exhibition, or private function. This thrilling reaction-based game
+      challenges players to catch rings at lightning speed, making it an
+      ideal centrepiece for team building days, product launches, and brand
+      activations.
 
 
-      The one-player-at-a-time format creates focused moments whilst spectators
-      watch and anticipate. For events where you want entertainment that
-      generates measurable results for leaderboards or competitions, the precise
-      timing data adds competitive depth.
+      Catch It Reaction is an engaging interactive game that tests players'
+      reflexes, hand-eye coordination, and reaction speed. Easy to learn but
+      challenging to master, it's suitable for everyone and creates instant
+      excitement that draws crowds to your exhibition stand.
 
 
-      At just 5-8W power requirement and 15-20 minutes for setup, it's one of
-      the more practical options for events of 20-200 guests. The simple format
-      means minimal supervision is needed once it's running.
+      Popular at trade shows, conferences, and team building events, Catch
+      It Reaction generates buzz around your brand while encouraging friendly
+      competition among participants. The game is fully customisable to
+      match your corporate or event branding and colours.
   - title: How It Works
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-9.jpg
     body: >-
-      Players wait with their hand positioned around the reaction ring. When the
-      light signal activates, they catch the ring as quickly as possible. The
-      game measures reaction time precisely, giving each player a clear score.
+      The Catch It Reaction game features a sleek, modern design that
+      immediately attracts attention at any event. Players stand in front of
+      the machine and prepare to catch rings that are released at timed
+      intervals, with the challenge increasing as the game progresses.
 
 
-      One player competes at a time, which creates focused moments and clear
-      results. The simple format means no instructions are needed beyond the
-      basic premise.
+      The game's intelligent timing system ensures each round presents a
+      unique challenge, keeping participants engaged and spectators
+      entertained. Players must catch rings at varying intervals and speeds,
+      testing their reflexes and hand-eye coordination.
 
 
-      Setup requires minimal power (5-8W) and takes approximately 15-20 minutes.
-      The game runs independently with players taking turns and comparing times.
+      With its intuitive gameplay and competitive scoring system, Catch It
+      Reaction encourages multiple attempts and creates natural queue
+      formation at exhibitions and trade shows. The fast-paced nature of the
+      game creates an exciting atmosphere for both participants and
+      spectators.
   - title: Why It's A Crowd Favourite
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg
     body: >-
-      Reaction games tap into competitive instincts that most people didn't know
-      they had. Something about measurable reflex times brings out the
-      competitor in colleagues who'd normally hang back from event activities.
+      The fast-paced nature of the game creates an exciting atmosphere for
+      both participants and spectators, making it perfect for drawing crowds
+      and creating memorable experiences at corporate events and exhibitions.
 
 
-      The precision of the timing matters here. Unlike games where scoring is
-      subjective, reaction times are absolute. When someone claims they can do
-      better, they have to prove it. That creates repeat plays and ongoing
-      competition.
+      With its competitive scoring system, Catch It Reaction encourages
+      multiple attempts as players try to beat each other's times. The
+      adjustable difficulty settings make it engaging for both children and
+      adults, keeping the competition alive throughout your event.
 
 
-      The simplicity is also key. No complicated rules, no learning curve. Wait
-      for the light, catch the ring. Anyone can understand it, which removes the
-      barriers that prevent some guests from participating in more complex
-      games.
+      We're proud to have provided entertainment solutions for leading UK
+      brands including Rolls-Royce, Boots, BT, and Amazon. The game's
+      ability to draw crowds and generate buzz makes it a proven choice for
+      brand activations and trade shows alike.
   - title: Delivery
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-7.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      All packages include delivery, setup, and removal by our professional
+      team. You can rest assured that the Catch It and other equipment will
+      arrive in top condition and ready for use at your event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We deliver throughout the UK on request, including London, Manchester,
+      Birmingham including the NEC and ICC Arena, Cardiff, Bristol, Leeds,
+      Sheffield, Nottingham, Leicester, Coventry which include the CBS Arena,
+      Exeter, Reading, Oxford, Swindon, Telford, and Milton Keynes. We are
+      able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note this equipment cannot be carried up or down flights of
+      stairs. A lift is required for upper floors. The game is designed for
+      indoor use only on a level surface, with a minimum door width of 0.6m
+      for access. Minimum order value and delivery fees apply to all
+      locations.
 videos:
   - id: 1iV0_xaw_og
     title: Catch It Reaction Ring

@@ -96,73 +96,82 @@ tabs:
   - title: Why Bespoke Photo Booth Hire?
     image: /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg
     body: >-
-      Bespoke photo booths offer customised branding and theming that aligns
-      your photo entertainment with event objectives. For brand activations,
-      corporate identity events, or occasions where standard booths feel
-      generic, bespoke options deliver tailored experiences.
+      At Fun Pro UK, our aim is to make your business event as effective as
+      possible, while having loads of fun along the way. And one of the most
+      effective ways to boost your profile is with a bespoke photo booth,
+      uniquely designed with your brand in mind.
 
 
-      The customisation extends to backdrops, overlays, props, and outputs,
-      ensuring photos reinforce your brand or event theme. For marketing teams
-      tracking engagement or HR teams building culture, this integration often
-      justifies the investment.
+      Adding a bespoke skin to your photo booth, or branding your social media
+      booth, may cost a little more, but it brings a big return in terms of
+      brand awareness and getting your sales message seen. We've created some
+      amazing photo booth skins for some of Britain's biggest companies and
+      they always make a massive impact at any event.
 
 
-      Capacity suits events of 20-200 guests, with outputs designed to be shared
-      both physically and digitally.
+      Available for hire throughout Coventry, Birmingham, London, Milton Keynes
+      and across the UK, our bespoke photo booths deliver tailored experiences
+      for brand activations, corporate events, and occasions where standard
+      booths just won't do.
   - title: How It Works
     image: /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-2.jpg
     body: >-
-      We work with you before the event to understand branding requirements,
-      design custom elements, and create a photo experience that aligns with
-      your objectives. This includes branded backdrops, custom overlays, themed
-      props, and designed outputs.
+      Our talented team of designers will work with you to create a look
+      that incorporates your company colours and logos, as well as matching
+      the theme of your event. All packages include delivery, setup, and
+      removal by our professional team.
 
 
-      During the event, guests experience a photo booth that feels integrated
-      with your event rather than a generic addition. Photos carry branding and
-      theming throughout.
+      As well as branding your photo booth, we can also brand each individual
+      photo, so your guests will always associate your company with their
+      great memories of the night. We can add logos, sales messages or event
+      details, turning each picture into a real memento.
 
 
-      Setup requirements vary by configuration, and we'll discuss specifics
-      during the customisation process.
+      The booth requires 1 x UK mains socket (950-1200 watts) and cannot be
+      carried up or down flights of stairs — a lift is required. Minimum
+      door width 0.6m for access.
   - title: Why It's A Crowd Favourite
     image: /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg
     body: >-
-      Bespoke booths create more shareable content because the outputs are
-      designed to be shared. Branded photos spread further, reinforce messages,
-      and create ongoing value beyond the event itself.
+      Branded photos build a social media buzz as the images are posted and
+      shared. Each picture becomes a real memento, and your guests will
+      always associate your company with their great memories of the night.
 
 
-      Guests also appreciate the integration. When photo booth theming matches
-      the event, it signals attention to detail and professional planning. That
-      perception improves overall event impression.
+      We've created some amazing photo booth skins for some of Britain's
+      biggest companies and they always make a massive impact at any event.
+      When photo booth theming matches the event, it signals attention to
+      detail and professional planning.
 
 
-      For marketing and brand activation specifically, the trackable, brandable
-      outputs often deliver measurable return that generic entertainment doesn't
-      provide.
+      Talk to our team about how to make the most of your photo booth hire
+      and you'll soon see how cost effective our branding options can be.
+      The trackable, brandable outputs deliver measurable return that
+      generic entertainment simply doesn't provide.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We handle delivery, setup, and collection as part of your hire, so
+      there's nothing for you to coordinate on the day. All packages include
+      delivery, setup, and removal by our professional team.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which include the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
+      We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Please note the equipment cannot be carried up or down flights of
+      stairs — a lift is required. Minimum door width 0.6m for access.
+      Minimum order value and delivery fees apply to all locations.
 
 
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Our team arrives with adequate time before your event to position and
+      test everything, ensuring it's ready for your first guests. All
+      equipment is PAT tested and maintained to professional standards,
+      giving you complete peace of mind.
 faqs:
   - question: What can be customised on the Bespoke Photo Booth?
     answer: Customisation options include branded backdrops, custom photo overlays,

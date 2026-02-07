@@ -112,69 +112,78 @@ tabs:
   - title: Why GIANT BUZZ WIRE?
     image: /images/products/giant-buzz-wire/giant-buzz-wire-15.jpg
     body: >-
-      Giant buzz wire scales up the classic steady-hand challenge for event
-      entertainment. Players guide loops along twisted wire without touching,
-      creating tension and drama that draws spectators and generates engagement.
+      Are you searching for an engaging and interactive way to boost team
+      morale at your next corporate event or well-being day? Our Giant Buzz
+      Wire game is designed to promote strategy, forward planning, and
+      patience, offering a fun twist on traditional team-building exercises.
 
 
-      For events where you want entertainment that creates visible tension and
-      shared moments, buzz wire games deliver. The familiar format needs no
-      explanation whilst the larger scale adds drama.
+      Test your hand-eye coordination and nerve as you attempt to navigate the
+      loop from one end to the other without triggering the buzzer. It's a
+      challenging yet exhilarating experience that keeps participants coming
+      back for more.
 
 
-      With 1-4 player capacity, no power required, and 20-200 guest throughput,
-      it suits most event configurations.
+      Perfect for conferences, exhibitions, fun days, and brand activations,
+      the Giant Buzz Wire will not only entertain your guests but also impart
+      valuable lessons in perseverance and skill development.
   - title: How It Works
     image: /images/products/giant-buzz-wire/giant-buzz-wire-14.jpg
     body: >-
-      Players guide a loop along the twisted wire path from start to finish
-      without the loop touching the wire. Contact triggers a buzz, marking
-      failure at that point.
+      The mega buzz wire game is a giant-sized version of the classic
+      fairground challenge. All you have to do is get the loop from one end to
+      the other without touching the wire and setting off the buzzer. It sounds
+      simple, but it is not as easy as it looks, and it can be really
+      character building to keep going time after time.
 
 
-      The challenge requires steady hands and patience. Spectators gather to
-      watch, adding pressure to already tense attempts.
+      The game stands vertically on floor stands and involves a steady hand,
+      moving the round loop along a metal track. The giant version is much
+      bigger than your fairground game, and the trick is to get the loop from
+      one end to the other without touching the wires in the middle.
 
 
-      Setup takes approximately 15-20 minutes. The giant format creates more
-      visual impact and drama than tabletop versions.
+      Our beat the bleep buzz wire game can be set up almost anywhere, making
+      it one of our most flexible and versatile interactive games for hire.
+      From your trade show stand to the break-out area at your annual
+      conference, it's fast and frustrating fun.
   - title: Why It's A Crowd Favourite
     image: /images/products/giant-buzz-wire/giant-buzz-wire-15.jpg
     body: >-
-      Buzz wire games create genuine tension that few other formats match. The
-      slow progress, the near-touches, the held breath. The drama is real even
-      though the stakes are low.
+      It's a real crowd pleaser, attracting attention as people watch to see
+      if the next contestant will make it or not. Your staff and guests will
+      want to try over and over again until they finally succeed.
 
 
-      Spectators get drawn into the tension too. Watching someone navigate
-      difficult sections, reacting to close calls, celebrating completions. The
-      shared experience builds atmosphere.
+      Whether you want to encourage strategy, forward planning and calm
+      patience amongst your team, or teach them how to learn from mistakes and
+      improve performance, the buzz wire makes learning fun. People of all
+      ages will have a great time with this game.
 
 
-      The scaled-up format adds drama. Giant buzz wire looks impressive and
-      creates more visible entertainment than smaller versions.
+      You can hire the mega buzz wire challenge on its own, or use it as part
+      of your own company fun day fairground. Our experienced event organisers
+      will be happy to work with your team to put together a truly memorable
+      package of fun and games for any kind of function.
   - title: Delivery
     image: /images/products/giant-buzz-wire/giant-buzz-wire-12.jpg
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install on site with our trained team, so there's nothing
+      for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. Local areas include West Midlands,
+      Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Derby,
+      Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, and
+      Stratford upon Avon.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note this equipment cannot be carried up or down flights of
+      stairs -- a lift is required for upper floors. Delivery charges and
+      minimum order value may apply to all locations.
 faqs:
   - question: How many people can play Giant Buzz Wire at once?
     answer: One player navigates the wire at a time, with spectators gathering to

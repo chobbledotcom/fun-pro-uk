@@ -76,69 +76,69 @@ tabs:
   - title: Why Giant Connect 4 Game Hire?
     image: /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg
     body: >-
-      Giant Connect 4 scales up the classic strategy game for impressive visual
-      impact and engaging gameplay. The larger format makes games visible
-      spectacles whilst the familiar rules ensure immediate understanding.
+      Looking to add a fun and engaging activity to your event? Our Giant
+      Connect 4 game is a life-size version of the classic that is suitable
+      for both adults and children, making it a versatile and entertaining
+      option for any gathering.
 
 
-      For events where you want entertainment that encourages strategic thinking
-      and creates natural gathering points, giant Connect 4 delivers. The format
-      suits casual play and tournament structures equally well.
+      Perfect for conferences, well-being days, exhibitions, fun days, and
+      brand activations, the Giant Connect 4 brings a nostalgic touch to your
+      event whilst enhancing teamwork and strategy skills. It engages players
+      of all ages and works for both indoor and outdoor use.
 
 
-      No power required means flexible positioning, with capacity for 20-200
-      guests. The visual impact makes it effective as a venue feature.
+      When you hire our Giant Connect 4 game, you're not just getting a
+      recreational activity -- you're investing in a memorable experience for
+      everyone involved.
   - title: How It Works
     body: >-
-      Two players take turns dropping oversized discs into the frame, aiming to
-      connect four in a row whilst blocking their opponent. Standard Connect 4
-      rules apply.
+      Two players take turns dropping oversized discs into the giant frame,
+      aiming to connect four in a row whilst blocking their opponent. Standard
+      Connect 4 rules apply, so everyone knows how to play straight away.
+
+
+      Plan your moves ahead to outsmart your opponent and focus on creating
+      multiple winning opportunities. Observe your opponent's strategy and
+      adapt accordingly, stay calm under pressure, and maintain a clear focus.
 
 
       The giant format makes games visible to spectators, creating natural
       gathering points. Games run relatively quickly, maintaining good
-      throughput.
-
-
-      Setup takes approximately 15-20 minutes and requires only level ground. No
-      power needed.
+      throughput for events of all sizes.
   - title: Why It's A Crowd Favourite
     image: /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg
     body: >-
-      Giant Connect 4 works because the game itself is excellent. Simple enough
-      for immediate play, strategic enough for genuine depth. The scaling up
-      adds visual impact without changing what makes it good.
+      Giant Connect 4 brings a nostalgic touch to your event that engages
+      players of all ages. The life-size version of the classic game is simple
+      enough for immediate play, yet strategic enough for genuine depth.
 
 
-      The spectator element improves corporate event suitability. Colleagues
+      The spectator element works brilliantly at corporate events. Colleagues
       gather to watch, offer strategic advice, and await their turn. Those
-      interactions happen naturally without forced icebreaking.
+      interactions happen naturally without forced icebreaking, enhancing
+      teamwork and strategy skills along the way.
 
 
       The strategic element also appeals to guests who might not engage with
-      physical games. Mental competition provides different satisfaction than
-      reaction or athletic challenges.
+      physical games. Mental competition provides a different kind of
+      satisfaction, and the giant format creates a visual centrepiece that
+      draws attention across your venue.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install on site with our trained team, so there's nothing
+      for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Delivery charges and minimum order value may apply to all locations.
+      Please note this is an add-on item only.
 faqs:
   - question: How many people can play Giant Connect 4 at once?
     answer: Two players or teams compete at a time, with the turn-based format

@@ -85,42 +85,43 @@ add_ons:
       price: 195
 tabs:
   - title: "Why Electronic Dart Board?"
-    body: "Electronic dart boards bring pub-style entertainment to corporate events, team building days, and celebrations with automatic scoring that removes disputes and enables varied game formats.
+    body: >-
+      Electronic dart boards bring competitive fun to corporate events whilst solving the practical challenges that traditional dartboards create. With automatic scoring, venue-safe soft tip darts, and multiple game modes built in, they're designed for professional events where you need engaging entertainment that works for everyone, from complete beginners to office darts champions.
 
 
-      For events where you want familiar, competitive entertainment that guests can engage with independently, electronic darts deliver. The automatic scoring handles the maths whilst multiple game modes keep things interesting.
+      Venue-safe soft tip darts are the biggest advantage. The plastic-tipped darts register on electronic sensors, which means no steel points piercing walls or furniture. If your venue has expressed concerns about potential damage, soft tip darts remove that worry entirely. Automatic scoring changes the experience significantly too - no mental arithmetic, no disputes, no designated scorekeeper needed.
 
 
-      Mains power required, with capacity for 20-200 guests. The familiar format needs no explanation for most participants."
+      As corporate event specialists with over 15 years of experience, we understand the questions you're asking: Will it damage the venue? Can beginners play? How much space do we need? Beginner-friendly gameplay matters at corporate events where you'll have people with wildly different darts experience, and electronic boards level the playing field because the technology handles the complicated bits.
     image: "/images/products/electronic-dart-board/electronic-dart-board-3.jpg"
   - title: "How It Works"
-    body: "Players throw darts at the electronic board, which registers hits and calculates scores automatically. Various game modes are available, from traditional 501 to cricket and other variants.
+    body: >-
+      Soft tip darts have plastic points that press against electronic sensors when they hit the board. The board instantly calculates scores and displays them digitally. No mathematics required - everyone can focus on throwing and enjoying themselves.
 
 
-      The board manages scoring, tracks turns, and displays standings. This removes disputes and enables guests to focus on playing rather than arithmetic.
+      Multiple built-in game modes include 501 (traditional countdown), Cricket (strategy-based), Around the Clock (hitting numbers in sequence), and practice modes. The board guides players through each game with on-screen instructions, manages turn rotation automatically, and includes sound effects that can be adjusted or muted to suit your event.
 
 
-      Setup requires mains power and takes approximately 15-20 minutes."
+      The board accommodates 2-8 players depending on game mode. Every hire includes a professional electronic dart board with automatic scoring display, multiple sets of soft tip darts in various weights, a free-standing unit with protective backing board, and an oche mat marking the regulation throwing line.
     image: "/images/products/electronic-dart-board/electronic-dart-board-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Darts works at events because it's familiar and social. Most people have played at some point, the format encourages conversation between throws, and the competitive element creates natural rivalry.
+    body: >-
+      Electronic dart boards suit corporate fun days and team building events, creating natural opportunities for friendly competition between departments. At exhibition stands and trade shows, they attract footfall with quick games of 3-5 minutes per person and offer branding opportunities on the dartboard surround.
 
 
-      The electronic scoring improves the experience significantly. No arguments about whether that was a double, no mental arithmetic required. Just throw and let the board handle the rest.
+      For award ceremonies and corporate parties, they provide entertainment during reception drinks or networking periods. At Christmas parties, you can run tournaments with the Luke Littler effect making darts particularly topical right now. The automatic scoring helps beginners feel welcome, and having alternative activities available ensures everyone finds something they're comfortable with.
 
 
-      For corporate events, darts also scales well. Casual games during networking work, but so do tournament formats for team building. The flexibility suits various event structures."
+      For most corporate contexts, electronic boards are the practical choice - they solve venue concerns, welcome beginners, and create smooth gameplay appropriate for professional settings. Whether you're planning a small office party or a major corporate event, the flexibility suits various event structures from casual games during networking to full tournament formats for team building.
     image: "/images/products/electronic-dart-board/electronic-dart-board-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      We provide nationwide coverage from our Coventry base, serving corporate events, exhibitions, and team building activities throughout England, Scotland, and Wales. Delivery, setup, and collection are handled by our trained team as part of your hire.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request. Minimum order value and delivery fees apply to all locations.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      This game requires a minimum door width of 0.6m for access and cannot be carried up or down flights of stairs - a lift is required for upper floors. Indoor use only on a level surface. We recommend booking 4-6 weeks in advance for most events, with December and summer months needing 8-12 weeks' notice. Contact us with your event date, location, and a brief overview of what you're planning for a detailed quote with transparent pricing.
 ---
 

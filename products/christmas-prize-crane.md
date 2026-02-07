@@ -138,25 +138,21 @@ tabs:
       prizes create gift-like wins that enhance the party atmosphere.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team as part of your
+      hire, so there is nothing for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able
+      to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note that the Christmas Prize Crane cannot be carried up or
+      down flights of stairs, so a lift is required if the setup location
+      is not on the ground floor. The unit must be placed on a level indoor
+      surface with at least one UK power socket within reach.
 faqs:
   - question: How many people can play Christmas Prize Crane at once?
     answer: One player operates the crane at a time, with the addictive format

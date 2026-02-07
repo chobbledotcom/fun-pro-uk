@@ -84,72 +84,81 @@ tabs:
   - title: Why 8 Lane Reindeer Racing?
     image: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
     body: >-
-      Eight Lane Reindeer Racing brings festive excitement to Christmas parties
-      and seasonal corporate events with competitive racing action. Multiple
-      players compete simultaneously, creating spectacle and natural team
-      rivalry that draws crowds.
+      Looking for the perfect Christmas party entertainment? Our 8 Lane
+      Reindeer Racing is delivered and installed on site by our trained team,
+      bringing festive excitement and competitive racing action to your
+      seasonal corporate event or Christmas celebration.
 
 
-      For Christmas events where you want entertainment that accommodates groups
-      and generates energy, eight-lane racing delivers throughput and
-      excitement. The festive theming ensures seasonal appropriateness whilst
-      the racing format creates genuine competition.
+      With up to eight players competing simultaneously, this game creates an
+      incredible spectacle and natural team rivalry that draws crowds. It is
+      the ultimate centrepiece for Christmas parties, seasonal corporate
+      events, and festive fun days where you want entertainment that
+      accommodates groups and generates real energy.
 
 
-      Capacity suits events of 20-200 guests, with the multi-lane format
-      maintaining excellent throughput. The scale creates visual impact that
-      makes it an event centrepiece.
+      Please note that leader boards are not included unless requested, so be
+      sure to let us know if you would like one to track the racing results
+      throughout your event.
   - title: How It Works
     body: >-
-      Up to eight players compete simultaneously, racing their reindeer along
-      parallel lanes. The format creates direct competition and allows team
-      heats or individual championships.
+      Up to eight players race their reindeer along parallel lanes at the
+      same time. Players roll balls to advance their reindeer down the track,
+      and the first to cross the finish line wins. The format creates direct
+      competition and allows for team heats or individual championships.
 
 
-      Races run quickly, maintaining throughput whilst delivering exciting
-      finishes. The multi-lane setup means groups can compete together rather
-      than waiting for individual turns.
+      Races run quickly, maintaining excellent throughput whilst delivering
+      exciting photo-finish moments. The multi-lane setup means groups can
+      compete together rather than waiting for individual turns, keeping the
+      energy high and the queues short.
 
 
-      Setup requirements vary by configuration. The festive theming adds
-      Christmas atmosphere without complicating the racing mechanics.
+      The festive reindeer theming adds Christmas atmosphere without
+      complicating the racing mechanics, making it immediately accessible
+      for guests of all ages.
   - title: Why It's A Crowd Favourite
     image: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
     body: >-
-      Multi-lane racing creates drama that single-player games don't match.
       Eight competitors means eight chances for victory, close finishes, and
-      upset results. That unpredictability generates excitement.
+      upset results. That unpredictability generates excitement that
+      single-player games simply cannot match. Spectators naturally gather
+      around to cheer on their favourites, creating a buzzing atmosphere.
 
 
-      The Christmas theming adds seasonal relevance, making the entertainment
-      feel appropriate for festive occasions. Guests appreciate when activities
-      acknowledge the celebration.
+      The Christmas theming makes the entertainment feel perfectly appropriate
+      for festive occasions. Guests love it when activities acknowledge the
+      celebration, and reindeer racing delivers that seasonal charm in spades.
 
 
       For team building, the format enables departmental competitions or group
       challenges. Racing as teams creates shared investment in outcomes and
-      natural bonding.
+      natural bonding amongst colleagues. In-house branding is available too
+      — we print, apply, and remove it after each event.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      As a nationwide hire company, we can provide everything you need for
+      your party or event. Our trained team will deliver, set up, and collect
+      the 8 Lane Reindeer Racing as part of your hire, so there is nothing
+      for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry which include the CBS Arena,
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We
+      are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
+      Please note that this equipment cannot be carried up or down flights of
+      stairs. A lift is required if your venue is not on the ground floor.
+      Minimum door width is 0.6m. The game requires indoor use only on a
+      level surface.
 
 
+      Delivery charges and minimum order values may apply to all locations.
       All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      giving you complete peace of mind.
 faqs:
   - question: How many people can race at once?
     answer: Up to 8 players compete simultaneously across parallel lanes, creating

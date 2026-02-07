@@ -130,43 +130,44 @@ add_ons:
       price: 195
 tabs:
   - title: "Why Crack The Code safe cracker?"
-    body: "Crack the Code Safe Cracker brings puzzle-solving entertainment to corporate events, team building days, and celebrations. Players work against the clock to crack a combination and open the safe, creating the kind of focused challenge that appeals to problem-solvers.
+    body: >-
+      Looking to add an element of thrill and competition to your event? Our Crack The Code Safe Cracker game is the perfect choice for Trade Show stands, Product Launches, Exhibitions, Competitions, and Promotions. This interactive game is guaranteed to attract a crowd and create excitement among your attendees.
 
 
-      The format works particularly well for corporate audiences who enjoy mental challenges alongside physical games. It offers something different for guests who might not engage with reaction or sports-based entertainment, broadening your event's appeal.
+      This all new Safe Cracker game is an extraordinary competitive game where a prize is placed into the clear safe and contestants have to try and crack the 4 digit code. If their code is the correct one, the safe will open and the winner can claim the prize. Whether you're hosting a conference, well-being day, exhibition, or fun day, this game is sure to increase engagement and leave a lasting impression on your guests.
 
 
-      With 1-4 player capacity and 15-20 minute sessions, it suits events of 20-200 guests. The low 15W power requirement means placement is flexible, and setup takes just 15-20 minutes."
+      This is a simple game to play, but extremely hard to win. It involves a wonderful prize that is put on display inside a protective acrylic box seated on a tall stand. Each participant must enter in the correct key code or password that will open the box. This crack the code game is sure to draw many interested participants and be a hit at your event.
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-23.jpg"
   - title: "How It Works"
-    body: "Players attempt to crack the safe's combination within a time limit, using logic and observation to work out the correct sequence. The challenge combines puzzle-solving with time pressure, creating focused engagement.
+    body: >-
+      Participants will be challenged to crack the 4-digit code to unlock the clear safe and claim the prize inside. The aim of the game is for a prize to be placed into the clear safe, and contestants then have to try and crack the 4 digit code. If their code is the correct one, the safe will open and the winner can claim the prize.
 
 
-      The game takes 1-4 players at a time, making it suitable for individuals or small groups working together. The timed element adds urgency without making the challenge impossible for casual players.
+      There are a few ways which a code can be chosen. You could allow each player to select a code from a list of possible winning codes already printed, with the winning code being included. Each player could use their own unique 4 digit number to see if they could be the winner. Or you could invite your guests to an event such as a product launch, with a pre-determined set of 4 numbers inside their invitation to play the game.
 
 
-      Setup requires minimal power (15W) and takes approximately 15-20 minutes. The puzzle-based format means the game largely runs itself once players understand the objective."
+      There are lots of possibilities for prizes - from iPads to new mobile phones, or even a set of car keys if you are feeling lavish. This would be perfect for a new car launch where the winner gets to use the car for a weekend. If you want to ensure there is one winner, you can provide a long list of numbers with the winning number on that list, with each person choosing those numbers once.
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-22.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Safe cracker games appeal to the problem-solvers in your audience who might not engage with physical or reaction-based entertainment. Every corporate event includes people who'd rather think their way through a challenge than compete on reflexes.
+    body: >-
+      The Crack The Code Safe Cracker game is guaranteed to attract a crowd and create excitement as they see who can win the prize. The sight of a wonderful prize on display inside the protective acrylic box draws many interested participants, creating a buzz around your stand or event space.
 
 
-      The format also creates interesting spectator dynamics. Onlookers offer theories, celebrate breakthroughs, and share the tension of time running down. It's collaborative entertainment even when played individually.
+      If you're having a fun corporate event, offering a big grand prize is a brilliant way to drive engagement. The Safe Cracker game offers something far more exciting than a passive prize draw. Players get to physically try their luck at cracking the code, making it an active experience that keeps people coming back for another go.
 
 
-      Success feels genuinely earned because it requires thought rather than luck. Cracking the code delivers a satisfaction that pure chance games don't match, which is why players often want another go."
+      You may not have seen this crack the code game anywhere else, so it's certain to draw in interested people at your next corporate event. You can even offer a wide range of prizes, or include your own company's products too. There are many fun ways that the crack the code game can be used at events.
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-23.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Our event team will deliver the Safe Cracker game to your destination before your event begins in order to set up. We will then give your team members full instructions on how to use the game if you have chosen to supervise the game yourselves. Alternatively, we can supply one of our friendly event team members to remain with the Safe Cracker for the duration of your event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request. We also deliver locally to West Midlands, Birmingham, Coventry, Warwick, Warwickshire, Kenilworth, Leamington Spa, Rugby, Leicester, Nottingham, Derby, Northampton, Loughborough, Nuneaton, Kettering, Hinckley, Solihull, and Stratford upon Avon.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      Please note that the equipment cannot be carried up or down flights of stairs and a lift is required. Minimum door width is 0.6m. Delivery charges and minimum order value may apply to all locations.
     image: "/images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-20.jpg"
 faqs:
   - question: "How many people can play Crack the Code at once?"

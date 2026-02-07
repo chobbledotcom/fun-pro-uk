@@ -59,43 +59,44 @@ gallery_cloudinary:
   - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2e22b07d204cc194cd9dd3cdfa4129f"
 tabs:
   - title: "Why Dash & Grab / Hungry Hippo Inflatable Game?"
-    body: "The Dash and Grab inflatable, also known as Hungry Hippos, brings chaotic competitive entertainment to corporate events and team building days. Players race to grab balls whilst attached to bungee cords, creating frantic action and genuine hilarity.
+    body: >-
+      Do you remember the table top version from the 80's? Where each player would go mad to try and get their hippo to eat the most balls? Our Dash & Grab inflatable, also known as Hungry Hippos, takes that classic game and turns it into a life-sized, hilarious competition for four players at a time.
 
 
-      For events where you want entertainment that generates laughter, creates memorable moments, and gets people active, this inflatable delivers. The format is inherently funny whilst remaining genuinely competitive.
+      This all new 4 player game is fabulous fun and a huge win for any event you may be arranging. It is suitable for indoors and outside events, and both adults and children can play. No matter what type of event you're hosting - corporate BBQ, family fun day, celebration party - this game adds an extra element of excitement to get people attending.
 
 
-      Setup requires adequate space and is handled entirely by our team, with supervision throughout to ensure safe, fair competition."
+      The Hungry Hippos inflatable is great entertainment for Fun Days, Team Building, Sports Events, Birthday Parties along with End of Year Celebrations, Promotional Events and Activity days. It is guaranteed to draw a crowd who will cheer on each contestant so everyone can become involved.
     image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg"
   - title: "How It Works"
-    body: "Players lie on the inflatable and race forward to grab balls, whilst bungee cords pull them back. The objective is to collect more balls than opponents in the time allowed.
+    body: >-
+      The aim of this team game is for each 'hippo' to gather as many balls in their bag as possible. Each player gets strapped into a bungee belt - our fun experts will be on hand to help. Then all 4 contestants run on their separate inflatable beds towards the pool of balls in the middle and pick the balls up in order to feed their hunger and place them inside their bag.
 
 
-      Multiple players compete simultaneously, creating chaotic scrambles for balls. The elasticated pulling creates comedy whilst the ball collection provides genuine competition.
+      Just to make this hilarious game a little harder, the bungee belt attached to each player is trying to pull you back whilst you are racing against your friends. You're tethered to the back rails so you have a limited space to play, which keeps the game safe so you don't bounce into others.
 
 
-      Our team handles all setup, safety briefings, and supervision throughout your event."
+      At the end of the game, all the balls that each 'hippo' collected inside their bag will be counted to see who ate the most! Included in the hire is the inflatable, balls, safety mats, a fan to inflate the surround, four bungee cords, power leads, and a fully trained fun expert to help the contestants during the game.
     image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-2.jpg"
   - title: "Why It's A Crowd Favourite"
-    body: "Hungry Hippos is genuinely hilarious. Adults scrambling for balls whilst being pulled backwards by bungees creates comedy that spreads through spectators. The combination of effort and absurdity generates laughter.
+    body: >-
+      This inflatable hungry hippo is guaranteed to draw a crowd who will cheer on each contestant so everyone can become involved. The sight of adults and children scrambling for balls whilst being pulled backwards by bungees is hilarious, and the competition is real - everyone genuinely wants to eat the most.
 
 
-      The competition remains real despite the comedy. Participants genuinely want to collect more balls, creating rivalry that adds to engagement.
+      The game is suitable for all, with anyone over the age of 5 years old able to play. Whether it's a corporate BBQ, family fun day, or celebration party, you never know - people may cancel prior plans to attend your event instead once they hear the Hungry Hippos are coming!
 
 
-      For team building specifically, the shared ridiculousness builds connection. Colleagues who've scrambled together for plastic balls have a shared experience that breaks down workplace formality."
+      We supply a fun expert who will help the contestants during the game - they are fully trained and will not eat any balls! With four players competing at once and quick rounds, the throughput keeps queues moving and the entertainment flowing throughout your event.
     image: "/images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg"
   - title: "Delivery"
-    body: "We will handle delivery, setup, and collection as part of your hire, so there's nothing for you to coordinate on the day.
+    body: >-
+      Delivered and installed on site by our trained team as part of your hire, so there's nothing for you to coordinate on the day. As a nationwide hire company, we can provide everything you need for your party or event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free delivery within Coventry, Warwickshire, and the wider Midlands region. For venues elsewhere, we provide competitive delivery rates and the same professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test everything, ensuring it's ready for your first guests. We're flexible with timing, whether you need an office-hours setup or late-night collection after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards, giving you complete peace of mind. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests."
+      This inflatable requires drive-on access and cannot be carried up or down flights of stairs - a lift is required for upper floors. Minimum order value and delivery fees apply to all locations. For all enquiries please complete our enquiry form and one of our team will get back to you.
 faqs:
   - question: "How many people can play Hungry Hippos at once?"
     answer: "Typically 4 players compete simultaneously, racing to grab balls whilst attached to bungees. The format creates excellent spectator entertainment."

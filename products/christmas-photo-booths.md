@@ -93,77 +93,84 @@ tabs:
   - title: Why CHRISTMAS PHOTO BOOTHS?
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg
     body: >-
-      Christmas photo booths capture memories whilst adding festive atmosphere
-      to corporate parties and seasonal celebrations. Groups of 1-8 can use the
-      booth together, creating shared moments that guests take away as physical
-      keepsakes or digital shares.
+      Looking for the perfect addition to your Christmas party? Our Christmas
+      photo booth hire brings a dash of holiday magic and a whole lot of fun,
+      making it the ultimate addition to your seasonal celebrations. Add the
+      festive spirit to your next event, and let your guests capture the best
+      Christmas party memories.
 
 
-      For events of 50-300 guests, photo booths maintain steady throughput
-      whilst giving each group a meaningful experience. The 20-30 minute session
-      format allows time for props, poses, and retakes without creating
-      excessive queues.
+      Make your Christmas party truly unforgettable with our green screen
+      Christmas photo booth. Your guests have over 1,000 different backdrops
+      to choose from, plus a large variety of festive themes to keep it
+      interesting and fun. Our photo booths provide high resolution prints in
+      seconds, and guests can instantly share their photos on social media.
 
 
-      The 500W power requirement is the main practical consideration for venues.
-      For Christmas events where you want entertainment that creates lasting
-      memories and social media content, festive photo booths deliver both the
-      seasonal theming and the shareable outcomes.
+      Your hire includes unlimited visits for the duration of the hire, free
+      use of our prop box with wigs, hats, and glasses, free personalisation
+      of photos with event details, a photo booth attendant onsite for
+      assistance, personalised or branded booth exterior, and a digital copy
+      of all photos for lasting memories.
   - title: How It Works
     image: /images/products/christmas-photo-booths/christmas-photo-booths-2.jpg
     body: >-
-      Groups enter the booth area with festive props and backdrops, taking a
-      series of photos that print immediately and can be shared digitally. The
-      enclosed or semi-enclosed format gives groups privacy to be silly with
-      poses.
+      Our Christmas photo booth is equipped with 3D Green Screen technology,
+      featuring holiday-themed backdrops and customisation options that
+      reflect the joy of the season. Guests step in, choose from over 1,000
+      backdrop options, and pose with a wide selection of festive props for
+      high quality photos printed in seconds.
 
 
-      Sessions typically run 20-30 minutes, giving groups time to experiment
-      with different props and arrangements. Prints are produced on the spot,
-      whilst digital copies can be sent for sharing.
+      Booking is quick and hassle free. Contact us to talk about your event
+      needs and we will provide a personalised quote. Once you are happy
+      with the package, confirm your booking and we will take care of the
+      rest. On the day, we deliver and set up the Christmas photo booth at
+      your venue and take care of the logistics from start to finish.
 
 
-      Setup requires 500W mains power and takes approximately 15-20 minutes. The
-      booth can run with minimal supervision once operational, though attendants
-      help with larger events.
+      During the event, our attendant is onsite to help your guests, monitor
+      the equipment, and ensure the booth works smoothly throughout. After
+      the event, we return to collect the Christmas photo booth and leave
+      your venue exactly as we found it.
   - title: Why It's A Crowd Favourite
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg
     body: >-
-      Photo booths work because they give people tangible takeaways from events.
-      A printed photo strip or digital image lasts longer than memories of
-      canapés or background music. It's something concrete that extends the
-      event's impact.
+      Guests receive high quality printed photos instantly after their
+      session, and the quick turnaround lets attendees immediately enjoy
+      their photos and even take additional visits to the booth. It is a
+      fantastic way to keep guests entertained and provide them with a
+      memorable takeaway from the event.
 
 
-      The group format encourages interaction. Colleagues who might not
-      otherwise connect end up squashed into a booth together, holding props and
-      making faces. Those shared silly moments build relationships in ways that
-      formal networking doesn't.
+      Our Christmas photo booth is equipped with instant sharing
+      capabilities, so guests can upload their photos directly to social
+      media. It is the best way to spread the holiday cheer and share the
+      fun of your event with friends and followers online, creating a lively
+      social media presence for your brand or event.
 
 
-      Christmas theming adds seasonal relevance and makes photos feel more
-      special than generic booth shots. Guests appreciate the festive props and
-      backdrops, and the images become holiday keepsakes rather than just event
-      documentation.
+      Photo prints can be branded with your logo or holiday message. For
+      corporate holiday events, this personal touch ensures your brand or
+      event details are front and centre in every photo, making them
+      memorable keepsakes for guests and a fantastic branding opportunity
+      for your company.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      All packages include setup and removal by our professional team. Rest
+      assured that our Christmas photo booth hire and its accessories will
+      arrive in top condition and ready for use at your event.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK on request, including Exeter,
+      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
+      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able
+      to cover the whole of the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Please note that the Christmas photo booth cannot be carried up or
+      down flights of stairs, so a lift is required if the setup location
+      is not on the ground floor. The booth must be placed on a level
+      indoor surface with at least one UK power socket within reach.
 ---

@@ -79,73 +79,72 @@ tabs:
   - title: Why Giant Jenga Hire?
     image: /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg
     body: >-
-      Giant Jenga takes the familiar block-stacking game and scales it up for
-      impressive visual impact and heightened tension. The larger format creates
-      genuine drama as towers grow unstable and players make increasingly risky
-      moves.
+      Giant Jenga is a larger-than-life version of the classic game that
+      guarantees hours of fun for both adults and children. Test your skills
+      by carefully pulling out wooden bricks from the tower without causing it
+      to collapse.
 
 
-      For corporate events where you want entertainment that encourages
-      interaction and builds natural tension, giant Jenga delivers without
-      requiring explanation or instruction. Everyone knows the rules, so guests
-      can engage immediately.
+      Whether you're hosting a corporate event, wellness day, exhibition, or
+      fun day, our Giant Jenga Hire is sure to be a hit with your guests.
+      It's a fantastic way to increase engagement, promote team building, and
+      create a lively atmosphere at your event.
 
 
-      No power required and the 20-200 guest capacity suits most event sizes.
-      The game works for sustained engagement, with matches potentially lasting
-      throughout your event.
+      Our Giant Jenga game can be played both indoors and outdoors, making it
+      a versatile entertainment option for any setting. Add this interactive
+      game to your lineup and watch as your guests are drawn to the challenge
+      of the towering wooden blocks.
   - title: How It Works
     body: >-
-      Players take turns removing blocks from the tower and placing them on top,
-      gradually making the structure taller and more unstable. The player who
-      causes the tower to fall loses.
+      Players take turns carefully pulling out wooden bricks from the tower
+      and placing them on top, gradually making the structure taller and more
+      unstable. The player who causes the tower to collapse loses.
 
 
-      The giant format means players physically reach into the structure,
-      creating more dramatic extraction moments. Games run continuously with
-      players rotating in and out.
+      The giant format means players physically reach into the towering
+      structure, creating dramatic extraction moments as the blocks shift and
+      wobble. Games run continuously with players rotating in and out.
 
 
       Setup takes approximately 15-20 minutes and requires a stable, level
-      surface. No power needed means flexible positioning.
+      surface. No power is needed, making it a versatile entertainment option
+      for any indoor or outdoor setting.
   - title: Why It's A Crowd Favourite
     image: /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg
     body: >-
-      Giant Jenga creates genuine tension that few other games match. As the
-      tower grows taller and more precarious, every move becomes dramatic.
-      Spectators hold their breath, players hesitate, and the eventual collapse
-      generates reactions that spread through the room.
+      Giant Jenga is a fantastic way to increase engagement, promote team
+      building, and create a lively atmosphere. As the tower grows taller and
+      more precarious, every move becomes dramatic. Spectators hold their
+      breath, players hesitate, and the eventual collapse generates reactions
+      that spread through the room.
 
 
       The format encourages natural interaction. Players strategise, spectators
-      offer advice, crowds gather as towers grow unstable. That social dynamic
-      develops without needing to be orchestrated.
+      offer advice, and crowds gather as the towering wooden blocks grow
+      increasingly unstable. That social dynamic develops without needing to
+      be orchestrated.
 
 
-      There's also the scale factor. Giant Jenga is visually impressive in ways
-      the tabletop version isn't. It becomes a focal point, draws attention, and
-      signals that this event has put thought into entertainment.
+      At Fun Pro UK, we specialise in providing top-quality event hire
+      services. Our Giant Jenga Hire is just one of the many ways we can help
+      make your event a success. Let us take care of the entertainment so you
+      can focus on enjoying the festivities.
   - title: Delivery
     body: >-
-      We will handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day.
+      We deliver and install on site with our trained team, so there's nothing
+      for you to coordinate on the day.
 
 
-      We deliver nationwide across the UK from our Midlands base, with free
-      delivery within Coventry, Warwickshire, and the wider Midlands region. For
-      venues elsewhere, we provide competitive delivery rates and the same
-      professional service regardless of location.
+      We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
+      Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
+      London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
+      the UK on request.
 
 
-      Our team arrives with adequate time before your event to position and test
-      everything, ensuring it's ready for your first guests. We're flexible with
-      timing, whether you need an office-hours setup or late-night collection
-      after an evening event. We'll work around your schedule.
-
-
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle the
-      packdown and collection, leaving you free to focus on your guests.
+      Delivery charges and minimum order value may apply to all locations.
+      Please note this is an add-on item only.
 faqs:
   - question: How many people can play Giant Jenga at once?
     answer: The game accommodates 2-4 players taking turns, though larger groups
