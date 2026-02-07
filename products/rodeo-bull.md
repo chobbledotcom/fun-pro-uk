@@ -9,7 +9,14 @@ categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
   - "categories/photo-booths-and-magic-mirrors.md"
-events: []
+events:
+  - events/conference-idea.md
+  - events/evening-entertainment.md
+  - events/school-entertainment.md
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/university-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

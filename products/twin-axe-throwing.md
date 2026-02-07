@@ -9,7 +9,12 @@ categories:
   - "categories/freshers-fair-games.md"
   - "categories/fun-days.md"
   - "categories/fun-fair-stalls.md"
-events: []
+events:
+  - events/summer-entertainment.md
+  - events/family-fun-days.md
+  - events/celebrations-and-parties.md
+  - events/fundraising-events.md
+  - events/university-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

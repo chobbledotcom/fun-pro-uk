@@ -11,7 +11,12 @@ categories:
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
   - "categories/pub-games.md"
-events: []
+events:
+  - events/office-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/college-entertainment.md
+  - events/university-events.md
+  - events/celebrations-and-parties.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

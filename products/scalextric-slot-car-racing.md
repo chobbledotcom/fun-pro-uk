@@ -12,7 +12,7 @@ categories:
   - "categories/interactive-game-hire.md"
   - "categories/pub-games.md"
 events:
-  - "events/christmas-entertainment-game-hire.md"
+  - events/christmas-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

@@ -19,6 +19,7 @@ events:
   - events/college-entertainment.md
   - events/family-fun-days.md
   - events/fundraising-events.md
+  - events/circus-skills-workshop.md
 featured: true
 features:
   - Delivery, setup, and collection included

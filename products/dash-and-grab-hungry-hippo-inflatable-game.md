@@ -8,7 +8,12 @@ meta_description: "This inflatable dash &amp; grab game is great competitive fun
 categories:
   - "categories/corporate-entertainment.md"
   - "categories/fun-days.md"
-events: []
+events:
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/summer-entertainment.md
+  - events/university-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

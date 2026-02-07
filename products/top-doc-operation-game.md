@@ -10,7 +10,12 @@ categories:
   - "categories/christmas-grotto-hire.md"
   - "categories/fun-days.md"
   - "categories/interactive-game-hire.md"
-events: []
+events:
+  - events/family-fun-days.md
+  - events/school-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/corporate-events.md
+  - events/fundraising-events.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

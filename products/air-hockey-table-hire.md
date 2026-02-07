@@ -24,6 +24,7 @@ events:
   - events/school-entertainment.md
   - events/university-events.md
   - events/office-entertainment.md
+  - events/fundraising-events.md
 featured: true
 features:
   - Delivery, setup, and collection included
