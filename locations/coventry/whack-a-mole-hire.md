@@ -7,6 +7,7 @@ redirect_from:
 videos:
   - id: "https://player.vimeo.com/video/858447773"
     title: Whack a Mole
+thumbnail: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-1.jpg
 ---
 
 # Whack A Mole Hire Coventry
