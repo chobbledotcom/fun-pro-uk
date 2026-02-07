@@ -4,7 +4,7 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Christmas Entertainment"
 meta_description: "Professional Christmas game hire across the UK. Branded festive entertainment for corporate events, parties &amp; exhibitions. Get a no-obligation quote today."
 featured: true
-thumbnail: /images/placeholders/christmas-party.png
+thumbnail: /images/events/christmas-entertainment.jpg
 redirect_from:
   - "/pages/christmas-entertainment-game-hire/"
 eleventyNavigation:

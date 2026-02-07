@@ -4,7 +4,7 @@ subtitle: "Subtitle subtitle subtitle subtitle subtitle"
 meta_title: "Fundraising Events"
 meta_description: "Make fundraising fun with Fun Pro UK! We have plenty of entertainment options and party games that could appeal to your upcoming charity event. Book now!"
 featured: true
-thumbnail: /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-1.jpg
+thumbnail: /images/events/fundraising-events.jpg
 redirect_from:
   - "/pages/fundraising-event-ideas/"
 eleventyNavigation:
