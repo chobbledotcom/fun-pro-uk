@@ -1,13 +1,26 @@
 /**
- * Placeholder thumbnails for event pages
- * Maps event slug to placeholder image path
+ * Thumbnails for event pages (sourced from Pexels, free license)
+ * Maps event slug to image path
  */
 const EVENT_THUMBNAILS = {
-  "celebrations-and-parties": "/images/placeholders/outdoor-party.png",
-  "christmas-entertainment": "/images/placeholders/christmas-party.png",
-  "circus-skills-workshop": "/images/placeholders/circus-skills-workshop.png",
-  "college-entertainment": "/images/placeholders/university.png",
-  "company-award-ceremonies": "/images/placeholders/award.png",
+  "brand-activation": "/images/events/brand-activation.jpg",
+  "celebrations-and-parties": "/images/events/celebrations-and-parties.jpg",
+  "christmas-entertainment": "/images/events/christmas-entertainment.jpg",
+  "circus-skills-workshop": "/images/events/circus-skills-workshop.jpg",
+  "college-entertainment": "/images/events/college-entertainment.jpg",
+  "company-award-ceremonies": "/images/events/company-award-ceremonies.jpg",
+  "conference-idea": "/images/events/conference-idea.jpg",
+  "corporate-events": "/images/events/corporate-events.jpg",
+  "educational-and-community": "/images/events/educational-and-community.jpg",
+  "evening-entertainment": "/images/events/evening-entertainment.jpg",
+  "exhibition-games": "/images/events/exhibition-games.jpg",
+  "family-fun-days": "/images/events/family-fun-days.jpg",
+  "fundraising-events": "/images/events/fundraising-events.jpg",
+  "office-entertainment": "/images/events/office-entertainment.jpg",
+  "school-entertainment": "/images/events/school-entertainment.jpg",
+  "staff-wellbeing-days": "/images/events/staff-wellbeing-days.jpg",
+  "summer-entertainment": "/images/events/summer-entertainment.jpg",
+  "university-events": "/images/events/university-events.jpg",
 };
 
 /**
