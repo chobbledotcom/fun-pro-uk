@@ -26,7 +26,7 @@ Photo booth hire in Coventry is popular with weddings, parties and corporate eve
 
 Fun Pro UK are a reliable and reputable company that have been in business for 12 years. We have many clients that come back to us year after year as they know our customer service is 100% from start to finish. Why not check out our [reviews](/testimonials/#content)?
 
-![Photo booth reviews](/images/locations/pair-2.png)
+![Photo booth reviews](/images/locations/pair-2.jpg)
 
 For more information or to book your Photo booth Hire Coventry then contact us via
 
