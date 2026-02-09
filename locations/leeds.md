@@ -5,7 +5,7 @@ meta_description: "Leeds - Fun Pro UK provide the best Exhibition and Game Hire 
 redirect_from:
   - "/pages/leeds/"
 subtitle: "Event hire across God's Own Country"
-thumbnail: "images/locations/leeds.png"
+thumbnail: "images/locations/leeds.jpg"
 ---
 
 # Leeds

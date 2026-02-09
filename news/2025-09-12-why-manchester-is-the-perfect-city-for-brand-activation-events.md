@@ -8,10 +8,10 @@ meta_description: "Discover why Manchester offers better value, engaged audience
 redirect_from:
   - "/news/2025-09-12/why-manchester-is-the-perfect-city-for-brand-activation-events/"
 gallery:
-  - "/images/news/manchester.png"
+  - "/images/news/manchester.jpg"
 ---
 
-![](/images/news/manchester.png)
+![](/images/news/manchester.jpg)
 
 When you're planning a [brand activation event](/locations/manchester/brand-activation-games/#content) that needs to deliver real impact, the choice of location can make or break your campaign's success. Whilst London might seem like the obvious choice, savvy event planners are increasingly discovering that Manchester offers everything you need for memorable brand experiences - often with better value, more authentic engagement, and genuine Northern warmth that helps brands connect with audiences in meaningful ways.
 
@@ -43,7 +43,7 @@ The cultural landmarks throughout Manchester provide unique backdrop opportuniti
 
 ## Diverse Venues to Match Any Brand Activation Goal
 
-![](/images/news/manchester-city.png)
+![](/images/news/manchester-city.jpg)
 
 Manchester's venue landscape offers remarkable flexibility for different types of brand activation events, allowing you to match your space precisely to your campaign objectives and audience expectations.
 

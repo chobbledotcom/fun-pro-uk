@@ -5,7 +5,7 @@ meta_description: "London - Fun Pro UK provide the best Exhibition and Game Hire
 redirect_from:
   - "/pages/london/"
 subtitle: "Event hire across the capital and the Home Counties"
-thumbnail: "images/locations/london.png"
+thumbnail: "images/locations/london.jpg"
 ---
 
 # London

@@ -4,12 +4,12 @@ meta_title: "ICC Birmingham Exhibition Hire | Branded Games | Event Rentals"
 meta_description: "Are you showcasing your products and services at the ICC Birmingham? Choose us for branded exhibition stand entertainment! Huge range of activities."
 redirect_from:
   - "/pages/game-hire-icc-birmingham/"
-thumbnail: "/images/locations/homepage-header.png"
+thumbnail: "/images/locations/homepage-header.jpg"
 ---
 
 # ICC Birmingham
 
-![Game Hire At The ICC](/images/locations/homepage-header.png)
+![Game Hire At The ICC](/images/locations/homepage-header.jpg)
 
 ## Game Hire ICC Birmingham
 
