@@ -21,6 +21,7 @@ events:
   - events/university-events.md
   - events/educational-and-community.md
   - events/staff-wellbeing-days.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
