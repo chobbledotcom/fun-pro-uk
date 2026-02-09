@@ -31,7 +31,7 @@ events:
   - events/university-events.md
   - events/school-entertainment.md
   - events/evening-entertainment.md
-  - events/team-building-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
