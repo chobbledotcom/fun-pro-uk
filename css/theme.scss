@@ -2871,6 +2871,11 @@ div.fun-pro-item {
   }
 }
 
+.video-row {
+  @include section-padding;
+  background: #fafafa;
+}
+
 .design-system {
   background: none;
   ol.breadcrumbs {

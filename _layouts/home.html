@@ -78,6 +78,8 @@ layout: base
   {%- include "items.html", items: collections.featuredProducts, horizontal: true -%}
 </section>
 
+{% include "video-row.html" %}
+
 <section class="homepage-events full-width">
   <h2>{{ homepage.events.title }}</h2>
   {%- include "items.html", items: collections.featuredEvents, horizontal: true -%}
