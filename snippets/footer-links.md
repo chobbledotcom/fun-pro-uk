@@ -44,7 +44,7 @@ name: Footer links
 
 - [Get a Quote](/quote/)
 - [Meet the Team](/meet-the-team/)
-- [Coverage Areas](/delivery-areas/)
+- [Coverage Areas](/locations/)
 - [Christmas Parties](/events/christmas-entertainment/)
 - [News](/news/)
 - [Contact Us](/contact-fun-pro-uk/)
