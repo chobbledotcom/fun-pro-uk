@@ -13,8 +13,7 @@ eleventyNavigation:
   order: 6
 ---
 
-# **Circus Skills Workshop Hire for Your Next Event**
-
+# Circus Skills Workshop Hire for Your Next Event
 ## What Are Circus Skills Workshops?
 
 Are you looking for something a little different for your next event that everyone can enjoy? Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing.

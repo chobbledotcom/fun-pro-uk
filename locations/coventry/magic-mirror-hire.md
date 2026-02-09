@@ -9,8 +9,7 @@ thumbnail: /images/products/magic-mirror/magic-mirror-1.jpg
 
 # Hire a Magic Mirror in Coventry for your next event!
 
-## **Hire a Magic Mirror in Coventry for your next corporate event!  
-**
+## Hire a Magic Mirror in Coventry for your next corporate event!
 
 Only launched in the last couple of years or so, magic mirror hire is the latest photographic craze to sweep the nation!  
   
@@ -20,15 +19,13 @@ It's a way of capturing full-length photos with a touchscreen reflective screen.
   
 Finally, your photos can be printed out within 10 seconds, and the whole thing is really easy to use' guests just have to follow the instructions provided. What's more, you won't need any special equipment on site - just an ordinary source of power. You don't even need a Wi-Fi internet connection!  
 
-## **A magic mirror photo booth Coventry party-goers will love  
-**
+## A magic mirror photo booth Coventry party-goers will love
 
 If you're based in the Coventry area and looking for a mirror photo booth to hire, we at Fun Pro UK can help.  
   
 Covering the whole country, we're a highly experienced corporate entertainment hire specialist, and as a one-shop stop for all things related to corporate entertainment, we've worked with some huge brands, including KPMG and Rolls Royce.  
 
-## **Selfie mirror hire from Fun Pro UK  
-**
+## Selfie mirror hire from Fun Pro UK
 
 Whatever the nature of your event, we can help you stand out from the competition.  
   

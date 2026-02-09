@@ -9,8 +9,7 @@ redirect_from:
   - "/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
 ---
 
-## **What are the benefits of incorporating interactive games and entertainment into your company's events and work place?**
-
+## What are the benefits of incorporating interactive games and entertainment into your company's events and work place?
 Ensuring your employees have sufficient down time is becoming an ever-increasing issue with the drastic changes in technology over the last few decades. Where staff used to work 9 - 5, they are now connected to work emails and phone calls 24/7 with company mobile phones and laptops. This is putting increased pressure on employees and reducing the time they spend switched off from thoughts about work. This can impact your business in a variety of ways from increased employee absence and stress related issues to reduced productivity.
 
 Ensuring the well-being and mental health of all employees is a relatively new concept. However, it was found in a recent Absence Management Survey by the Chartered Institute of Personnel Development (CIPD) that the average employee takes 6.3 working days off each year due to sickness. This costs an astounding £522 per employee per year in lost hours, reduced output and other staff trying to compensate. A potential way of maintaining the well-being of your staff is by rewarding them with staff incentives such as team building days. Engagement with other members of staff enables connections to be built and can act as a stress relief, as well as allowing your staff the chance to get some fresh air in a different environment to their usual office.

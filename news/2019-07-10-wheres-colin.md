@@ -13,24 +13,20 @@ gallery:
 
 ## Summer Event Fun
 
-## **Where's Colin and the Fun Pro UK Team this week?**
-
+## Where's Colin and the Fun Pro UK Team this week?
 Over the last two weeks the Fun Pro team and Colin have been busy travelling from one end of the country to the other (and back again!) there was some serious mileage recorded!
 
-## **Heading for London ![Lights Out](/images/news/20190619-160019.jpg)** 
-
+## Heading for London ![Lights Out](/images/news/20190619-160019.jpg)
 Last Monday saw the Fun Pro team travel to the Excel Centre in London to deliver our Strike a Light - Lights Out game for a corporate client. The game was set up on their exhibition stand for visitors to play as they were passing by. The game was a real winner - everyone loves to compete against a friend or colleague and the Strike a Light' does exactly that! Our electronic game attracted great footfall for our client, helping gain potential new customers for their business.
 
 Before we knew it those few days at the Excel were over and it was time to return to the Big Smoke once again to staff the game for a few hours and then collect the interactive game and head back home!
 
-## **Manchester here we come!**
-
+## Manchester here we come!
 Just so the team didn't think the heat was off, last Friday Colin and the crew set off to Manchester. This was a very early start to beat the traffic and arrive at The Trafford Centre in good time to get set up. A very popular department store was having a staff appreciation day, it's great to see companies recognising the hard work of their staff don't you think.
 
 The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/cash-grabber-machine-hire/#content) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
 
-## **Why Branding is important ![Grab a Grand ](/images/news/blog.jpg)** 
-
+## Why Branding is important ![Grab a Grand ](/images/news/blog.jpg)
 Branding a game with your company name and logo is an effective way to showcase your company and ensure it is recognised by your target market. Brand activation ensures that your name stands out, everyone sees a name and is more likely to remember the visual graphics of an item.
 
 Did you know that humans are more likely to remember an image they have seen? Which means if your brand is at the front of their minds, people will talk about it and share their great memories with friends, colleagues and family. The result is great marketing for your company everyone will get to hear about you!

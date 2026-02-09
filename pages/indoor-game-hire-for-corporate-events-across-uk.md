@@ -96,20 +96,16 @@ Our approach is consultative rather than just taking orders. We ask questions ab
 
 ## Frequently Asked Questions
 
-### **How much space do I need for indoor games?**
-
+### How much space do I need for indoor games?
 Space requirements vary by game type. Most arcade and table games need 2-3 metres of clear floor space, whilst simulators may need more. We assess your venue with you to recommend suitable options.
 
-### **Can indoor games be branded for our company?**
-
+### Can indoor games be branded for our company?
 Yes, we offer branding on most of our games. Lead times vary depending on the customisation required, so get in touch early to discuss your needs.
 
-### **How many games should I hire for my event?**
-
+### How many games should I hire for my event?
 It depends on guest numbers and event duration. As a guide, one game per 20-30 guests works for a 2-hour event. We help you plan the right mix based on your specific situation and budget.
 
-### **What's included in your hire service?**
-
+### What's included in your hire service?
 Our service includes delivery, professional setup, operation if needed, and collection.\* We provide full support throughout the planning process and on the day of your event.
 
 \*Delivery, set up and collection may incur additional fees, depending on your location.

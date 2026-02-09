@@ -16,8 +16,7 @@ videos:
     title: Photo Booth
 ---
 
-# **Nationwide Photo Booth Hire**
-
+# Nationwide Photo Booth Hire
 Whatever your event, make sure you make it truly memorable by adding corporate photo booth hire, so everyone can put themselves in the picture, both in print and online. We're a West Midlands photo booth and magic mirror hire company based in Birmingham and Coventry, but we operate all over the UK!
 
 [Read more..]

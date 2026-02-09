@@ -67,6 +67,5 @@ Please contact us to find out more
 
 **Extra information**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

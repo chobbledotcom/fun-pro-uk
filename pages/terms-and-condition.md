@@ -6,8 +6,7 @@ redirect_from:
   - "/pages/terms-and-condition/"
 ---
 
-# **Terms and Conditions of Hire**
-
+# Terms and Conditions of Hire
 Definitions:
 
 1.1 The 'Client' means the person/s, organisation or company booking the equipment, act or entertainment with the 'Company'

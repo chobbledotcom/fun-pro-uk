@@ -26,8 +26,7 @@ Coventry is a vibrant city with a thriving business community, making it an idea
 
 So, if you're looking for a unique and exciting way to entertain your guests and promote your brand, I highly recommend hiring the Roll n Bowl horse racing Donkey Derby game from Fun Pro UK in Coventry. And don't forget to take advantage of their bespoke branding options to make it truly your own.
 
-## **Donkey Derby Roll And Bowl Hire UK**
-
+## Donkey Derby Roll And Bowl Hire UK
 **Hire **Price** From £895** \+ vat
 
 Delivered and installed on site
@@ -74,6 +73,5 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 1.68m Depth x 0.6m Height**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

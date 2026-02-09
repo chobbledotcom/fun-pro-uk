@@ -25,16 +25,14 @@ Table football is a game that brings people together and fosters a sense of cama
 
 So, if you're looking to add a fun and interactive element to your corporate events in Coventry, I highly recommend hiring a table football game from Fun Pro UK. With the ability to apply your bespoke branding, you can create a branded experience that aligns perfectly with your company's image. Get ready for some friendly competition
 
-## **Table Football Hire UK**
-
-## **Hire **Price** From £295** \+ vat
+## Table Football Hire UK
+## Hire Price From £295 \+ vat
 
 Delivered and installed on site
 
 by our trained team
 
-## **Bespoke Branding Available**
-
+## Bespoke Branding Available
 In-house branding
 
 available Printed, applied & removed after each event (One time use only)
@@ -73,6 +71,5 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height. Weight 70kg**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

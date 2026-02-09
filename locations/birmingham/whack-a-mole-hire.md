@@ -27,14 +27,13 @@ In conclusion, hiring a Whack a Mole game in Birmingham offers a fun and interac
 
 ## WHACK A MOLE BRANDED GAME HIRE UK
 
-## **Hire **Price** From £495** \+ vat
+## Hire Price From £495 \+ vat
 
 Delivered and installed on site
 
 by our trained team
 
-## **Bespoke Branding Available**
-
+## Bespoke Branding Available
 In-house branding
 
 available Printed, applied & removed after each event (One time use only)
@@ -75,10 +74,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 2.5m x 1.3m x 1.0m**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/#content)

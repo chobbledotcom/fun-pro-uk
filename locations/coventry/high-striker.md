@@ -71,6 +71,5 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 1.0m Depth x 1.3m Height**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

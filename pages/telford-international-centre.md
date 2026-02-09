@@ -14,14 +14,12 @@ Fun Pro Uk has a base on the outskirts of the West Midlands which is an ideal co
 
 Our team are located approximately 60 minutes from this superb venue meaning our accessibility is excellent for your corporate event.
 
-## **Brand Activation**
-
+## Brand Activation
 **Conference Game Hire Telford** is a fun filled way to engage with clients during lunch and break times giving individuals the opportunity to build relationships and communicate effectively whilst having fun.
 
 ![Lights Out Game Hire](/userfiles/file/FunPro/Stike%20a%20light/20200219-151000.jpg)
 
-## **Game Hire**
-
+## Game Hire
 When you are searching for Game Hire Telford then Fun Pro Uk is the team you can trust for professionalism, reliability and value for money. We have supplied many corporate event games to Telford and the surrounding area for Trade Show Stands and fun Conference entertainment alike.
 
 Want to attract and influence new clients at your event? Then check out the interactive game hire that Fun Pro Uk can provide.

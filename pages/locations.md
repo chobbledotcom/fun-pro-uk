@@ -77,14 +77,12 @@ At Fun Pro, we offer a selection of games for hire when planning an event in Cov
 
 As the UK's second-largest city, Birmingham serves as a major hub for business activities and events, making it one of the top choices for those planning corporate events of all sizes.
 
-### **Types of Events We Cover in Birmingham**
-
+### Types of Events We Cover in Birmingham
 #### Corporate Events In Birmingham
 
 Our [event game hire](/locations/birmingham/corporate-event-hire/#content) services have been featured at numerous prestigious venues throughout the city, bringing excitement and engagement to corporate events, including exhibitions, and networking events.
 
-### **Event Games for Hire in Birmingham**
-
+### Event Games for Hire in Birmingham
 #### Interactive Games
 
 - [Batak Pro](/locations/birmingham/batak-pro-hire/#content)
