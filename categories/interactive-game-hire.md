@@ -4,7 +4,7 @@ subtitle: "Hands-on competitive games for events of all sizes"
 meta_title: "Interactive Games | Corporate Entertainment | Fun Day UK"
 meta_description: "Interactive games are certain to draw a crowd at corporate events of all kinds. Entertain colleagues, prospects &amp; the public with Fun Pro UK - nationwide!"
 featured: true
-thumbnail: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-1.jpg
+thumbnail: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-3.jpg
 redirect_from:
   - "/category/interactive-game-hire/"
   - "/category/interactive-game-hire/2/lights-out-game/"
