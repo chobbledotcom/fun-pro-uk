@@ -10,8 +10,7 @@ redirect_from:
   - "/pages/team-building-ideas/"
 eleventyNavigation:
   key: "Team Building Entertainment"
-  parent: "Corporate Events"
-  order: 6
+  parent: "How We Help"
 ---
 
 # Team Building Ideas and Equipment Hire
@@ -26,8 +25,8 @@ Team Building Activities for Hire
 
 Choosing the right activities is essential for a successful team building event. We offer a variety of engaging team building activities for hire that encourage healthy competition and cooperative strategy development among teams:
 
-*   [Batak Pro](/products/batak-pro/#content): Challenge your team's reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
+- [Batak Pro](/products/batak-pro/#content): Challenge your team's reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
 
-*   [Ballnado - Ball Grabber](/products/ballnado-grabber/#content): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
+- [Ballnado - Ball Grabber](/products/ballnado-grabber/#content): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
 
-*   [Prize Wheel](/products/prize-wheel/#content): Spin the Wheel of Fortune to add an element of chance to your team building day. It's an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
+- [Prize Wheel](/products/prize-wheel/#content): Spin the Wheel of Fortune to add an element of chance to your team building day. It's an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
