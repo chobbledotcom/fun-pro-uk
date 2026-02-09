@@ -8,10 +8,10 @@ meta_description: "Discover why Birmingham is ideal for your next brand activati
 redirect_from:
   - "/news/2025-12-15/brand-activation-in-birmingham-how-to-make-an-impact-in-one-of-the-uks-fastest-growing-cities/"
 gallery:
-  - "/images/news/city-of-birmingham.png"
+  - "/images/news/city-of-birmingham.jpg"
 ---
 
-![](/images/news/city-of-birmingham.png)
+![](/images/news/city-of-birmingham.jpg)
 
 When marketing professionals think about [brand activations](/locations/birmingham/brand-promotional-event-hire/#content) in the UK, London often dominates the conversation. Yet Birmingham offers something the capital increasingly struggles to provide: significant footfall, diverse demographics, exceptional accessibility, and a business environment where your activation can genuinely stand out.
 
@@ -45,7 +45,7 @@ The ongoing HS2 development will further enhance connectivity, creating a Birmin
 
 ## Top Birmingham Locations for Brand Activations
 
-![](/images/news/birningham-city-for-brand-activations-location.png)
+![](/images/news/birningham-city-for-brand-activations-location.jpg)
 
 ### City Centre Retail Destinations
 

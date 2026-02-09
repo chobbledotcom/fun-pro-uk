@@ -5,7 +5,7 @@ meta_description: "Manchester - Fun Pro UK provide the best Exhibition and Game 
 redirect_from:
   - "/pages/manchester/"
 subtitle: "Event hire for the capital of the North"
-thumbnail: "images/locations/manchester.png"
+thumbnail: "images/locations/manchester.jpg"
 ---
 
 # Manchester
