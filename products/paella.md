@@ -34,6 +34,10 @@ specs:
     value: "Indoor only / Level surface"
   - name: "Access"
     value: "Standard door width"
+  - name: Guest Capacity
+    value: 50-500+ guests
+  - name: Game Length
+    value: Continuous service
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-500+ guests"

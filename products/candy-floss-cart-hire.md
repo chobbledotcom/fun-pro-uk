@@ -46,6 +46,10 @@ specs:
     value: Level surface
   - name: Access
     value: Min. door width 0.6m
+  - name: Guest Capacity
+    value: 50-300 guests
+  - name: Game Length
+    value: Continuous service
 filter_attributes:
   - name: Guest Capacity
     value: 50-300 guests

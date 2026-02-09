@@ -35,6 +35,10 @@ specs:
     value: "Indoor only / Level surface"
   - name: "Access"
     value: "Wide access required / Lift access for upper floors"
+  - name: Guest Capacity
+    value: 100-500+ guests
+  - name: Game Length
+    value: 60-90 minutes
 filter_attributes:
   - name: "Guest Capacity"
     value: "100-500+ guests"

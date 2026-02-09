@@ -38,6 +38,10 @@ specs:
     value: "Indoor only / Level surface"
   - name: "Access"
     value: "Min. door width 0.6m"
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: 15-20 minutes
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"
@@ -46,7 +50,7 @@ filter_attributes:
   - name: "Power Required"
     value: "Mains power required"
   - name: "Player Count"
-    value: "1 players"
+    value: "1 player"
 options:
   - name: "1 Day"
     unit_price: 425

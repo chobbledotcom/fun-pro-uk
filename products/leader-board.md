@@ -55,13 +55,17 @@ specs:
     value: Indoor only / Level surface
   - name: Access
     value: Min. door width 0.6m
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: N/A
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: Throughout event
+    value: N/A
   - name: Power Required
-    value: Mains power required
+    value: No power required
   - name: Player Count
     value: 1-4 players
 options:

@@ -31,6 +31,10 @@ specs:
     value: Indoor or outdoor / Dry weather only
   - name: Access
     value: Min. door width 0.5m (tabletop) / 0.8m (floor-standing)
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: 15-20 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
