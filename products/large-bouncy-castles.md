@@ -36,6 +36,10 @@ specs:
     value: Indoor or outdoor / Level surface
   - name: Access
     value: Standard door width
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: 45-60 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

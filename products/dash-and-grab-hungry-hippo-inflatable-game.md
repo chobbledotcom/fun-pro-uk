@@ -35,6 +35,10 @@ specs:
     value: "Indoor and outdoor / Level surface"
   - name: "Access"
     value: "Drive-on access"
+  - name: "Guest Capacity"
+    value: "100-500+ guests"
+  - name: "Game Length"
+    value: "45-60 minutes"
 filter_attributes:
   - name: "Guest Capacity"
     value: "100-500+ guests"

@@ -52,11 +52,15 @@ specs:
     value: Indoor or outdoor / Level surface
   - name: Access
     value: Min. door width 0.6m
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: Continuous service
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: Self-service
+    value: Continuous service
   - name: Power Required
     value: No power required
   - name: Player Count
