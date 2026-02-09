@@ -13,6 +13,7 @@ events:
   - events/celebrations-and-parties.md
   - events/school-entertainment.md
   - events/fundraising-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

@@ -19,6 +19,7 @@ events:
   - events/brand-activation.md
   - events/college-entertainment.md
   - events/university-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
