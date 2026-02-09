@@ -210,7 +210,7 @@
 @mixin mega-menu-columns($columns) {
   & > ul {
     left: 50%;
-    width: auto;
+    width: calc(100vw - 160px);
     max-width: 1920px;
     transform: translateX(-50%);
     position: fixed;
