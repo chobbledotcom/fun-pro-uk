@@ -1,6 +1,6 @@
 ---
 title: 8 Lane Reindeer Racing Hire
-subtitle: "Festive roll-and-bowl racing for up to 8 players"
+subtitle: Festive roll-and-bowl racing for up to 8 players
 price: £1695
 order: 50
 meta_title: 8 Lane Reindeer Racing - Exhibition and Game Hire in Nationwide | Fun Pro UK
@@ -84,17 +84,17 @@ tabs:
   - title: Why 8 Lane Reindeer Racing?
     image: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
     body: >-
-      Looking for the perfect Christmas party entertainment? Our 8 Lane
-      Reindeer Racing is delivered and installed on site by our trained team,
-      bringing festive excitement and competitive racing action to your
-      seasonal corporate event or Christmas celebration.
+      Looking for the perfect Christmas party entertainment? Our 8 Lane Reindeer
+      Racing is delivered and installed on site by our trained team, bringing
+      festive excitement and competitive racing action to your seasonal
+      corporate event or Christmas celebration.
 
 
       With up to eight players competing simultaneously, this game creates an
-      incredible spectacle and natural team rivalry that draws crowds. It is
-      the ultimate centrepiece for Christmas parties, seasonal corporate
-      events, and festive fun days where you want entertainment that
-      accommodates groups and generates real energy.
+      incredible spectacle and natural team rivalry that draws crowds. It is the
+      ultimate centrepiece for Christmas parties, seasonal corporate events, and
+      festive fun days where you want entertainment that accommodates groups and
+      generates real energy.
 
 
       Please note that leader boards are not included unless requested, so be
@@ -102,10 +102,10 @@ tabs:
       throughout your event.
   - title: How It Works
     body: >-
-      Up to eight players race their reindeer along parallel lanes at the
-      same time. Players roll balls to advance their reindeer down the track,
-      and the first to cross the finish line wins. The format creates direct
-      competition and allows for team heats or individual championships.
+      Up to eight players race their reindeer along parallel lanes at the same
+      time. Players roll balls to advance their reindeer down the track, and the
+      first to cross the finish line wins. The format creates direct competition
+      and allows for team heats or individual championships.
 
 
       Races run quickly, maintaining excellent throughput whilst delivering
@@ -115,8 +115,8 @@ tabs:
 
 
       The festive reindeer theming adds Christmas atmosphere without
-      complicating the racing mechanics, making it immediately accessible
-      for guests of all ages.
+      complicating the racing mechanics, making it immediately accessible for
+      guests of all ages.
   - title: Why It's A Crowd Favourite
     image: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
     body: >-
@@ -133,32 +133,32 @@ tabs:
 
       For team building, the format enables departmental competitions or group
       challenges. Racing as teams creates shared investment in outcomes and
-      natural bonding amongst colleagues. In-house branding is available too
-      — we print, apply, and remove it after each event.
+      natural bonding amongst colleagues. In-house branding is available too —
+      we print, apply, and remove it after each event.
   - title: Delivery
     body: >-
-      As a nationwide hire company, we can provide everything you need for
-      your party or event. Our trained team will deliver, set up, and collect
-      the 8 Lane Reindeer Racing as part of your hire, so there is nothing
-      for you to coordinate on the day.
+      As a nationwide hire company, we can provide everything you need for your
+      party or event. Our trained team will deliver, set up, and collect the 8
+      Lane Reindeer Racing as part of your hire, so there is nothing for you to
+      coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which include the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We
-      are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
       Please note that this equipment cannot be carried up or down flights of
       stairs. A lift is required if your venue is not on the ground floor.
-      Minimum door width is 0.6m. The game requires indoor use only on a
-      level surface.
+      Minimum door width is 0.6m. The game requires indoor use only on a level
+      surface.
 
 
-      Delivery charges and minimum order values may apply to all locations.
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind.
+      Delivery charges and minimum order values may apply to all locations. All
+      equipment is PAT tested and maintained to professional standards, giving
+      you complete peace of mind.
 faqs:
   - question: How many people can race at once?
     answer: Up to 8 players compete simultaneously across parallel lanes, creating
@@ -172,4 +172,5 @@ faqs:
   - question: Does it need power?
     answer: Power requirements vary by configuration. We'll confirm when discussing
       your event.
+thumbnail: /images/products/8-lane-roll-and-bowl-donkey-derby/8 lane.png
 ---
