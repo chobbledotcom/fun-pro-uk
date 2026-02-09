@@ -33,7 +33,7 @@ name: Footer links
 
 - [Our Story](/about-corporate-entertainment-hire/)
 - [Exhibition Stands](/games-for-exhibition-stands-to-hire/)
-- [Team Building](/team-building-ideas/)
+- [Team Building](/events/team-building-entertainment/)
 - [Conferences](/conference-game-hire/)
 - [Family Fun Days](/events/family-fun-days/)
 

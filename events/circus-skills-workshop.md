@@ -19,7 +19,7 @@ eleventyNavigation:
 
 Are you looking for something a little different for your next event that everyone can enjoy? Our circus skills workshops provide people of all ages with a fun and memorable experience that allows them to explore the art of circus performing.
 
-From complete beginners to balance beam pros, these fun workshops are perfect for events like school fetes, corporate [team building days](/team-building-ideas/#content), festivals, and more.
+From complete beginners to balance beam pros, these fun workshops are perfect for events like school fetes, corporate [team building days](/events/team-building-entertainment/#content), festivals, and more.
 
 ### Skills You’ll Learn:
 

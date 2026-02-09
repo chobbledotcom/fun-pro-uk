@@ -24,6 +24,7 @@ events:
   - events/educational-and-community.md
   - events/circus-skills-workshop.md
   - events/wedding-entertainment.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
