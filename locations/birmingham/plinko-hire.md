@@ -21,8 +21,7 @@ To get more specific information about the delivery options and pricing, I recom
   
 I hope this gives you a good idea of what Plinko Hire Birmingham has to offer and how they can make your event even more exciting. If you have any more questions or need further assistance, feel free to ask. I'm here to help you out!
 
-## **Plinko Game Hire UK**
-
+## Plinko Game Hire UK
 **Hire **Price** From £395** \+ vat
 
 Delivered and installed on site

@@ -23,8 +23,7 @@ So, go ahead and make your event unforgettable with [Mega Wire (Buzz Wire) Hire 
   
 I hope this gives you a better idea of what Mega Wire (Buzz Wire) Hire Birmingham has to offer. If you have any more questions or need further assistance, feel free to ask. I'm here to help you out and make sure your event is a buzzing success!
 
-## **Mega Wire Game Hire UK**
-
+## Mega Wire Game Hire UK
 **Hire **Price** From £395** \+ vat
 
 Delivered and installed on site

@@ -26,8 +26,7 @@ Fun Pro UK takes care of the delivery and setup of the Dance Machine, making the
 
 So, if you're looking to add a fun and interactive element to your corporate events in Coventry, I highly recommend hiring the Dance Machine from Fun Pro UK. Your attendees will have a blast, and your event will be a hit. Get ready to dance the night away and create unforgettable memories!
 
-## **Dane Machine Hire Through Out the UK**
-
+## Dane Machine Hire Through Out the UK
 **Hire **Price** From £475** \+ vat
 
 Delivered and installed on site
@@ -72,10 +71,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular items order along side our Dance Machines are**
 
 *   [Retro arcade machine](/products/retro-arcade-games/#content)

@@ -11,20 +11,17 @@ gallery:
   - "/images/news/fundays.png"
 ---
 
-## **Do you appreciate your staff?**
-
+## Do you appreciate your staff?
 Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days/#content)
 
 Inviting staff members to a fun day away from the office is a great idea, but inviting their families along to take part in a family fun day would make your employees feel valued, allow them to have fun and also spend quality time making memories with their loved ones.
 
 In return your staff would feel a sense of loyalty to the company they work for, it would improve colleague relationships and motivate your team
 
-## **Let Fun Pro UK help you!**
-
+## Let Fun Pro UK help you!
 ![Inflatable Fun days](/images/news/fundays.png)Our fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
 
-## **Something For Everyone.**
-
+## Something For Everyone.
 Wondering what to do first when arranging your family fun day? Don't panic, we have a few tips to get everything covered!
 
 **1\. Date** \- What date are you thinking of for your event? - Is it the same date as last year? - Check there aren't any major events happening near by or a sporting event that people will attend rather than your fun day.

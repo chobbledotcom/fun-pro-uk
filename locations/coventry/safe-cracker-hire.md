@@ -21,8 +21,7 @@ Not only will the [safe cracker game in Coventry](/products/crack-the-code-safe-
 
 If you're planning a corporate or promotional event in Coventry, the crack the code safe cracker game hire from Fun Pro UK is a must-have. With the ability to fill it with your company merchandise or exciting prizes, and the option to add bespoke branding, it's a surefire way to make your event a success. Get ready for a fun-filled and memorable event in Coventry, with Fun Pro UK by your side!
 
-## **Crack The Code Game Hire UK**
-
+## Crack The Code Game Hire UK
 **Hire **Price** From £395** \+ vat
 
 Delivered and installed on site
@@ -69,6 +68,5 @@ Please contact us to find out more
 
 **Extra information**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

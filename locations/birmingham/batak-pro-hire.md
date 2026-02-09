@@ -111,12 +111,10 @@ Printed, applied & removed after each event (One time use only)
 
 may apply
 
-#### **Discounted rates** available for **Multiple Days &**Additional items**
-
+#### Discounted rates available for Multiple Days & Additional items
 #### Please contact us to find out more
 
-#### **For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
-
+#### For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or Call: [02477220701](tel:+02477220701)
 ## Frequently Asked Questions
 
 ### How much space does the Batak Pro require?

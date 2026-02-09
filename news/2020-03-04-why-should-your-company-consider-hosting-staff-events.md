@@ -11,8 +11,7 @@ gallery:
   - "/images/news/20190607-142841.jpg"
 ---
 
-## **Why Should Your Company Consider Hosting Staff Events?**
-
+## Why Should Your Company Consider Hosting Staff Events?
 Whether you are considering an annual award ceremony, a dinner or a summer party, there are far greater benefits than just getting your team to let their hair down**.**Everyone loves a good party, right? Well hosting events for your business could be bringing your company benefits that you may not be aware of, including validating your employees, promoting creativity and boosting productivity.
 
 **Validating your Employees**![Human football](/images/news/20190607-142841.jpg)**

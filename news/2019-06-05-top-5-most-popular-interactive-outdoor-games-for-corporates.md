@@ -11,8 +11,7 @@ gallery:
   - "/images/news/team-work.png"
 ---
 
-## **Top 5 Most Popular Interactive Outdoor Games for Corporates**
-
+## Top 5 Most Popular Interactive Outdoor Games for Corporates
 **![Team work](/images/news/team-work.png)**
 
 Are you sat there wondering how to keep your employees motivated and increase employee retention? Well, look no further, as this guide will go through the top 5 most popular team building games for [corporate entertainment hire](/categories/corporate-entertainment/#content), just the thing to engage your staff and say thank you.

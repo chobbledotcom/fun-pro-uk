@@ -163,24 +163,19 @@ Early planning gives you the best outcomes. Reach out 4 to 8 weeks before your c
 
 ## Frequently Asked Questions
 
-### **How many interactive games should I hire for a conference of 150 people?**
-
+### How many interactive games should I hire for a conference of 150 people?
 For a conference of 150 attendees, we typically recommend 4 to 6 interactive games. This provides variety without overcrowding your venue and ensures attendees don't face long waits. The exact number depends on your event duration; a 2-hour networking session needs fewer games than a full-day conference with multiple breaks.
 
-### **What's the minimum space requirement for conference game hire?**
-
+### What's the minimum space requirement for conference game hire?
 Space requirements vary by game type. Compact games like reaction walls need approximately 2m x 2m, whilst racing simulators require around 3m x 3m including space for players and spectators. For small conferences, you can create excellent engagement with as little as 20 square metres dedicated to interactive entertainment. We always recommend sharing your floor plan with us so we can advise on the best layout.
 
-### **Do you deliver and set up equipment for conferences across the UK?**
-
+### Do you deliver and set up equipment for conferences across the UK?
 Yes, Fun Pro provides [nationwide delivery](/delivery-areas/#content), professional setup, and collection across the UK. With over 15 years of experience as corporate event specialists, we handle everything from our Coventry base to venues throughout England, Wales, and Scotland. Setup times are coordinated with your venue to ensure everything's ready before your attendees arrive.
 
-### **Are interactive games suitable for formal corporate conferences?**
-
+### Are interactive games suitable for formal corporate conferences?
 Absolutely. Interactive games work brilliantly at formal conferences by providing natural ice-breakers and networking opportunities. They help colleagues see each other in a different light and create memorable moments that people discuss long after the event. We understand how to provide professional entertainment that enhances rather than detracts from your conference objectives.
 
-### **How far in advance should I book conference entertainment?**
-
+### How far in advance should I book conference entertainment?
 For the best choice of games and guaranteed availability, we recommend booking 4 to 8 weeks before your conference. However, we can often accommodate bookings with shorter notice. Early planning gives you time to discuss your specific requirements with our team and ensures we can recommend the perfect mix of games for your conference size and goals.
 
 Can you cater for attendees with different abilities at conferences?

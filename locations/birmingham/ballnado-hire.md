@@ -58,10 +58,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 1.3m x 1.3m x 1.3m**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/#content)

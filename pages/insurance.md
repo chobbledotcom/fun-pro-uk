@@ -12,14 +12,12 @@ The safety of you and all your guests is paramount of everyone here at Fun Pro U
   
 To ensure that everything is covered for your safety, we have taken the following steps:  
 
-## **Testing our equipment**
-
+## Testing our equipment
 *   All our electrical equipment is annually PAT tested, ensuring all equipment is safe for use.
 *   To ensure your event runs smoothly, we provide full risk assessments, so all potential hazards are thought through. For more details on our risk assessment Email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 *   As much as possible, all our entertainment items are stored and transported in flight cases to ensure they arrive at your event in the best condition.
 
-## **Our insurance**  
-
+## Our insurance
 *   We also carry public liability insurance of £5 million so that we are covered on your behalf.  
     Our staff
 *   For every event we send at least one fully qualified member of staff to install and inspect all equipment on site. So, both you and ourselves have peace of mind that we are doing all we can to safeguard you and your event guests.

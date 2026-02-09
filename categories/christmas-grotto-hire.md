@@ -13,8 +13,7 @@ eleventyNavigation:
   order: 9
 ---
 
-# **UK wide Christmas grotto hire**
-
+# UK wide Christmas grotto hire
 Nothing says fun like the festive season, whether it's your company Christmas party or a special event for your colleagues' kids. And with a little help from Fun Pro UK, [Read more..] you can make whatever they're dreaming of come true quicker than Bing can sing White Christmas.
 
 **Christmas grotto hire

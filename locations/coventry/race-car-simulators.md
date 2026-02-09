@@ -26,8 +26,7 @@ Fun Pro UK takes care of everything and will ensure that the simulators are read
 
 So, if you're looking to add a thrilling and interactive element to your corporate events in Coventry, I highly recommend hiring racing [car simulators Coventry](/products/racing-car-simulators/#content) from Fun Pro UK. Your attendees will have a blast, and your event will be the talk of the town. Get ready to rev up the excitement and create an unforgettable experience!
 
-## **RACE CAR SIMULATORS HIRE UK**
-
+## RACE CAR SIMULATORS HIRE UK
 **Hire between 1 and 4 cars simulators**
 
 **Hire **Price** From £475** \+ vat
@@ -76,6 +75,5 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.65m Width x 1.3m Depth x 1.6m Height**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements
