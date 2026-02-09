@@ -17,6 +17,7 @@ events:
   - events/exhibition-games.md
   - events/celebrations-and-parties.md
   - events/college-entertainment.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

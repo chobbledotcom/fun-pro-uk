@@ -20,6 +20,7 @@ events:
   - events/family-fun-days.md
   - events/office-entertainment.md
   - events/university-events.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

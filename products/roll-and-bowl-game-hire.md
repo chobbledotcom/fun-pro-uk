@@ -15,6 +15,7 @@ categories:
   - categories/roll-and-bowl.md
 events:
   - events/exhibition-games.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
