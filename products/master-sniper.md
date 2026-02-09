@@ -152,5 +152,5 @@ faqs:
       discussing your event.
 thumbnail: /images/Screenshot 2025-12-01 092954.jpg
 gallery:
-  - /images/products/Master sniper/Size.png
+  - /images/products/Master sniper/Size.jpg
 ---
