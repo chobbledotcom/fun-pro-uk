@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<div class="design-system">
+  <div class="stack">
+
+    {% include "news-post-meta.html" %}
+
+    <div class="prose">
+      {% include "news-post-header.html" %}
+      {{ content }}
+    </div>
+
+    {% include "news-post-gallery.html" %}
+  </div>
+</div>
