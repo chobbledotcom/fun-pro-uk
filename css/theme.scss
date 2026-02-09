@@ -2873,31 +2873,7 @@ div.fun-pro-item {
 
 .video-row {
   @include section-padding;
-  background: #fff;
-
-  h2 {
-    @include heading;
-    margin: 0 0 var(--section-padding-half);
-  }
-
-  .video-row-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: var(--gap-items);
-
-    @include breakpoints.up("sm") {
-      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    }
-  }
-
-  .video-row-item {
-    iframe {
-      width: 100%;
-      aspect-ratio: 16/9;
-      border-radius: var(--border-radius);
-      border: none;
-    }
-  }
+  background: #fafafa;
 }
 
 .design-system {
