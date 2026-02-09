@@ -4,7 +4,7 @@ name: Footer links
 
 <div>
 
-## Entertainment Hire
+### Entertainment Hire
 
 - [Interactive Games](/categories/interactive-game-hire/)
 - [Photo Booths](/categories/photo-booths-and-magic-mirrors/)
@@ -16,7 +16,7 @@ name: Footer links
 </div>
 <div>
 
-## Your Event
+### Your Event
 
 - [Award Ceremonies](/award-ceremonies/)
 - [How It Works](/how-we-help/)
@@ -29,7 +29,7 @@ name: Footer links
 </div>
 <div>
 
-## About FunPro
+### About FunPro
 
 - [Our Story](/about-corporate-entertainment-hire/)
 - [Exhibition Stands](/games-for-exhibition-stands-to-hire/)
@@ -40,7 +40,7 @@ name: Footer links
 </div>
 <div>
 
-## Explore
+### Explore
 
 - [Get a Quote](/quote/)
 - [Meet the Team](/meet-the-team/)
