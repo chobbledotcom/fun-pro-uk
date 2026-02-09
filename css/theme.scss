@@ -152,12 +152,33 @@
   padding: var(--section-padding) 0;
 }
 
-@mixin heading {
+@mixin heading-1 {
+  font-size: 52px;
+  font-weight: 500;
+  line-height: 76px;
+  margin: 0;
+  padding: 0;
+}
+
+@mixin heading-2 {
   font-size: 44px;
   font-weight: 500;
   line-height: 58px;
   margin: 0;
   padding: 0;
+}
+
+@mixin heading-3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+  margin: 0;
+  padding: 0;
+}
+
+// Alias for backwards compatibility
+@mixin heading {
+  @include heading-2;
 }
 
 @mixin button-base {
@@ -268,10 +289,16 @@
   --border-radius-small: 8px;
 }
 
-h1,
-h2,
+h1 {
+  @include heading-1;
+}
+
+h2 {
+  @include heading-2;
+}
+
 h3 {
-  font-weight: 500;
+  @include heading-3;
 }
 
 article#content {
