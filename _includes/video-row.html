@@ -1,30 +1,7 @@
-{%- if videos and videos.size > 0 -%}
+{%- if videos.size > 0 -%}
 <section class="full-width video-row">
-  <h2>Videos</h2>
-  <div class="video-row-grid">
-    {%- for video in videos -%}
-      <div class="video-row-item">
-        {%- if video.id contains "vimeo" -%}
-          <iframe
-            src="{{ video.id }}"
-            title="{{ video.title }}"
-            frameborder="0"
-            allow="autoplay; fullscreen; picture-in-picture"
-            allowfullscreen
-            loading="lazy"
-          ></iframe>
-        {%- else -%}
-          <iframe
-            src="https://www.youtube.com/embed/{{ video.id }}"
-            title="{{ video.title }}"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen
-            loading="lazy"
-          ></iframe>
-        {%- endif -%}
-      </div>
-    {%- endfor -%}
+  <div class="inner design-system">
+    {%- include "design-system/video-cards.html", videos: videos -%}
   </div>
 </section>
 {%- endif -%}
