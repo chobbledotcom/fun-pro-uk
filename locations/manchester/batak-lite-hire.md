@@ -25,8 +25,7 @@ The team at Fun Pro UK take care of the delivery, setup, and breakdown of the Ba
 
 By incorporating a Batak Lite game into your exhibition stand at Grand Central, corporate event at Victoria Warehouse, or trade show in Manchester, you'll create an engaging and memorable experience for your guests. The game will attract attention, increase foot traffic to your booth, and create a buzz.
 
-# **Batak Lite Game Hire**
-
+# Batak Lite Game Hire
 **Hire **Price** From £445** \+ vat
 
 Delivered and installed on site
@@ -73,10 +72,8 @@ Please contact us to find out more
 
 **Extra information**
 
-# **Specification**
-
-# **Product requirements**
-
+# Specification
+# Product requirements
 ## Popular items:
 
 *   [Retro arcade machine](/products/retro-arcade-games/#content)

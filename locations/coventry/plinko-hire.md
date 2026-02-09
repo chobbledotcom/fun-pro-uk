@@ -25,8 +25,7 @@ Adding bespoke branding to the Plinko game is a smart investment for your event.
 
 So, if you're looking to increase sales and footfall at your corporate event in Coventry, I highly recommend considering [Plinko game hire Coventry](/products/plinko-game-hire/#content) from Fun Pro UK. With bespoke branding, you'll create a memorable and engaging experience that attendees won't forget.
 
-## **Plinko Game Hire UK**
-
+## Plinko Game Hire UK
 **Hire **Price** From £395** \+ vat
 
 Delivered and installed on site
@@ -71,6 +70,5 @@ Please contact us to find out more
 
 **Extra information**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

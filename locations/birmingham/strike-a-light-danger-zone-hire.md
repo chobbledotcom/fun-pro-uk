@@ -21,16 +21,14 @@ To get more specific information about the delivery options and pricing, I recom
 
 I hope this gives you a good idea of what [Strike Alight/Danger Zone Hire Birmingham](/products/danger-zone-strike-a-light-game-hire/#content) has to offer and how they can make your event even more thrilling. If you have any more questions or need further assistance, feel free to ask. I'm here to help you out!
 
-## **Strike A Light game Hire**
-
-## **Hire **Price** From £395** \+ vat
+## Strike A Light game Hire
+## Hire Price From £395 \+ vat
 
 Delivered and installed on site
 
 by our trained team
 
-## **Bespoke Branding Available**
-
+## Bespoke Branding Available
 In-house branding
 
 available Printed, applied & removed after each event (One time use only)

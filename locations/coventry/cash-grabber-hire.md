@@ -34,10 +34,8 @@ Fun Pro UK takes care of all the logistics when you hire the Cash Grabber game. 
 
 So, whether you're planning an exhibition stand, promotional event, or conference in Coventry, the Cash Grabber game hire from Fun Pro UK is a fantastic choice. It's an exciting and interactive game that will captivate your audience and create a memorable experience. Get ready to grab some cash and make your event a success!
 
-## **CASH GRABBER GAME HIRE**
-
-## **THROUGH OUT THE UK**
-
+## CASH GRABBER GAME HIRE
+## THROUGH OUT THE UK
 **Hire **Price** From £495** \+ vat
 
 Delivered and installed on site
@@ -84,10 +82,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 1.3m x 1.3m x 1.3m**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular Items:**
 
 [Leaded Board](/products/leader-board/#content)

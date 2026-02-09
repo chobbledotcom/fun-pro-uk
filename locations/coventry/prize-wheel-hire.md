@@ -67,10 +67,8 @@ Please contact us to find out more
 
 **This item can be carry up or down a small flight of stairs.**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/#content)

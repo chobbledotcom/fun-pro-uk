@@ -11,8 +11,7 @@ redirect_from:
 *   [Fun Pro UK - Corporate Entertainment Hire](/#content)
 *   [Christmas photo booth hire - Corporate Event hire in Nationwide](/christmas-photo-booth-corporate-event-hire/#content)
 
-## **Cities and Towns**
-
+## Cities and Towns
 *   [Corporate Event Hire For Birmingham | Interactive Games By Fun Pro UK](/locations/birmingham/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire](/locations/bristol/corporate-event-hire/#content) [Bristol](/locations/bristol/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Cambridge](/cambridge-corporate-event-hire/#content)
@@ -29,17 +28,14 @@ redirect_from:
 *   [](/oxford-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Reading](/reading-corporate-event-hire/#content)
 *   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire-2/#content)
 
-## **Insurance**
-
+## Insurance
 *   [Insurance - Corporate Event hire in Nationwide](/insurance/#content)
 
-## **Magic Mirror hire**
-
+## Magic Mirror hire
 *   [Fun Pro UK | Top Quality Magic Mirror Hire For Birmingham](/locations/birmingham/magic-mirror-hire/#content)
 *   [Magic Mirror Hire Coventry | 5\* Corporate &' Private Event Hire](/locations/coventry/magic-mirror-hire/#content)
 
-## **News Blogs**
-
+## News Blogs
 *   [News](/news/#content)
 *   [](/news/#content)[NFU Insurance conference games - Corporate Event hire in Nationwide](/nfu-insurance-conference-games/#content)
 *   [](/nfu-insurance-conference-games/#content)[Putting KPMG in the Picture - Corporate Event hire in Nationwide](/putting-kpmg-in-the-picture/#content)
@@ -119,17 +115,14 @@ redirect_from:
 
 *   [Contact Us - Corporate Event hire in Nationwide](/contact-fun-pro-uk/#content)
 
-## **Delivery area**
-
+## Delivery area
 *   [Delivery Areas - Corporate Event hire in Nationwide](/delivery-areas/#content)
 
-## **Thank you**
-
+## Thank you
 *   [Testimonials - Corporate Event hire in Nationwide](/testimonials/#content)
 *   [](/testimonials/#content)[Thank you! - Corporate Event hire in Nationwide](/news/thank-you/#content)
 
-## **Equipment to hire**
-
+## Equipment to hire
 *   [Fun days - Corporate Event hire in Nationwide](/categories/fun-days/#content)
 *   [](/categories/fun-days/#content)[Interactive game hire - Corporate Event hire in Nationwide](/categories/interactive-game-hire/#content)
 *   [](/categories/interactive-game-hire/#content)[Photo Booths &' Magic Mirrors - Corporate Event hire in Nationwide](/categories/photo-booths-and-magic-mirrors/#content)
@@ -168,6 +161,5 @@ redirect_from:
 *   [](/categories/photo-booths-and-magic-mirrors/#content)[Ultimate Wipeout Game Hire | Interactive Corporate Game Hire](/categories/fun-days/#content)
 *   sitemap - Corporate Event hire in Nationwide
 
-## **Pages**
-
+## Pages
 *   **[Photo hire Coventry](/locations/coventry/photo-booth-hire/#content)**

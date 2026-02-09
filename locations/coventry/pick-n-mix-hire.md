@@ -67,12 +67,9 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
 
-## **Specification**
-
-## **Product requirements**
-
-## **Popular items:**
-
+## Specification
+## Product requirements
+## Popular items:
 *   [Grab A Grand](/products/cash-grabber-machine-hire/#content)
 *   [Batak Pro](/products/batak-pro/#content)
 *   Lights Out

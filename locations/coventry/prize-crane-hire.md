@@ -23,8 +23,7 @@ Another benefit of the prize crane arcade grabber machine is its potential for s
 
 If you're looking to increase footfall to your trade show or conference stand in Coventry, hiring a prize crane arcade grabber machine from Fun Pro UK is a fantastic choice. With its customizable branding options and the excitement it brings, it's sure to make your event a success. Get ready for a fun-filled and successful event in Coventry!
 
-## **PRIZE CRANE GAME HIRE UK**
-
+## PRIZE CRANE GAME HIRE UK
 **Hire **Price** From £495** \+ vat
 
 Delivered and installed on site
@@ -71,6 +70,5 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements, Flight Cased Width 0.6m Length 2m x Drop 0.95m**
 
-## **Specification**
-
-## **Product requirements**
+## Specification
+## Product requirements

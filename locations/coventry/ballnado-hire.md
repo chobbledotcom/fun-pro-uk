@@ -28,8 +28,7 @@ To hire the Ballnado game from Fun Pro UK, simply get in touch with them and let
 
 So, if you're looking to add some excitement and fun to your next event in Coventry, Fun Pro UK and their branded Ballnado game are the way to go. Get ready for an unforgettable experience that will have everyone talking about your event for years to come!
 
-## **BALLNADO GAME HIRE**
-
+## BALLNADO GAME HIRE
 **Hire **Price** From £495** \+ vat
 
 Delivered and installed on site
@@ -76,10 +75,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 1.3m x 1.3m x 1.3m**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 **Popular Items:**
 
 *   [Leaded Board](/products/leader-board/#content)

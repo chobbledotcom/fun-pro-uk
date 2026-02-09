@@ -6,8 +6,7 @@ redirect_from:
   - "/pages/award-ceremonies/"
 ---
 
-# **UK Company Awards Presentation Hire**
-
+# UK Company Awards Presentation Hire
 Your annual awards presentation is a very special night for all concerned, whether you are a winner or just a nominee. So you want the very best in corporate entertainment to match the mood.
 
 **We've got everything covered  

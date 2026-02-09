@@ -95,10 +95,8 @@ Please contact us to find out more
 
 **Extra information**
 
-## **Specification**
-
-## **Product requirements**
-
+## Specification
+## Product requirements
 ## Frequently Asked Questions
 
 ### Is Batak Lite available for last-minute bookings in Birmingham?
