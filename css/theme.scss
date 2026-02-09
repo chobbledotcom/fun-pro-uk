@@ -1158,21 +1158,9 @@ body.horizontal-nav main {
           border-radius: 8px;
           box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
           padding: 16px;
+          transform: translateX(-50%);
         }
 
-        // Slide-in animation on hover (non-clicky only)
-        & > li:has(> ul):hover > ul {
-          body:not(.clicky-nav) & {
-            opacity: 1;
-            transform: translateY(0);
-            pointer-events: auto;
-            transition:
-              opacity 0.25s ease-out,
-              transform 0.25s ease-out;
-          }
-        }
-
-        // Slide-in animation on click (clicky-nav)
         & > li.expanded > ul {
           opacity: 1;
           transform: translateY(0);
