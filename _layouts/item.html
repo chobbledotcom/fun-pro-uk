@@ -20,12 +20,12 @@ layout: base
     <div class="item-gallery">
       {% include "item-gallery.html" %}
     </div>
-    <div class="item-reviews-header">
-      {%- if rating -%}
+    {%- if rating -%}
+      <div class="item-reviews-header">
         <span>{{ rating | ratingToStars }} <strong>{{ rating }} stars</strong> ({{ reviews.size }} reviews)</span>
         <span><a href="#reviews" class="all">See all reviews</a></span>
-      {%- endif -%}
-    </div>
+      </div>
+    {%- endif -%}
     <div class="item-price">
       <h2>From {{ price }} <small>exc. VAT</small></h2>
       <p>Final pricing based on your event date and location</p>

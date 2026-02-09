@@ -291,18 +291,15 @@
   --border-radius-small: 8px;
 }
 
-h1,
-.design-system h1 {
+.prose h1 {
   @include heading-1;
 }
 
-h2,
-.design-system h2 {
+.prose h2 {
   @include heading-2;
 }
 
-h3,
-.design-system h3 {
+.prose h3 {
   @include heading-3;
 }
 
