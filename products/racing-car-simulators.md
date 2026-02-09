@@ -39,6 +39,10 @@ specs:
     value: "Indoor only / Level surface"
   - name: "Access"
     value: "Min. door width 0.6m"
+  - name: "Guest Capacity"
+    value: "20-200 guests"
+  - name: "Game Length"
+    value: "20-30 minutes"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

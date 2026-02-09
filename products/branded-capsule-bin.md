@@ -31,6 +31,10 @@ specs:
     value: Indoor only / Level surface
   - name: Access
     value: Standard door width
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: N/A
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests

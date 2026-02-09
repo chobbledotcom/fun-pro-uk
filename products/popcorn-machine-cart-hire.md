@@ -35,6 +35,10 @@ specs:
     value: "Indoor or outdoor use"
   - name: "Access"
     value: "Standard door width"
+  - name: "Guest Capacity"
+    value: "50-300 guests"
+  - name: "Game Length"
+    value: "Continuous service"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-300 guests"

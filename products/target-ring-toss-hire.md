@@ -34,6 +34,10 @@ specs:
     value: "Level Surface"
   - name: "Access"
     value: "Standard door width"
+  - name: "Guest Capacity"
+    value: "20-200 guests"
+  - name: "Game Length"
+    value: "15-20 minutes"
 filter_attributes:
   - name: "Guest Capacity"
     value: "20-200 guests"

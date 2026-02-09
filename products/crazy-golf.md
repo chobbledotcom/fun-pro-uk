@@ -39,13 +39,17 @@ specs:
     value: "Indoor or outside use"
   - name: "Access"
     value: "Min. door width 0.6m"
+  - name: "Guest Capacity"
+    value: "50-500+ guests"
+  - name: "Game Length"
+    value: "30-45 minutes"
 filter_attributes:
   - name: "Guest Capacity"
     value: "50-500+ guests"
   - name: "Game Length"
     value: "30-45 minutes"
   - name: "Power Required"
-    value: "Mains power required"
+    value: "No power required"
   - name: "Player Count"
     value: "1-4 players per hole"
 options:
