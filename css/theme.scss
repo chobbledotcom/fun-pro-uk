@@ -209,8 +209,10 @@
 
 @mixin mega-menu-columns($columns) {
   & > ul {
-    width: calc(100vw - 220px);
-    left: 80px;
+    left: 50%;
+    width: auto;
+    max-width: 1920px;
+    transform: translateX(-50%);
     position: fixed;
     top: var(--nav-bottom, 80px);
     gap: 16px;
@@ -1181,34 +1183,12 @@ body.horizontal-nav main {
         }
 
         & > li:has(a[href="/how-we-help/"]) {
-          & > ul {
-            left: 50%;
-            width: auto;
-            max-width: 1920px;
-            transform: translateX(-50%);
-          }
-          &:hover {
-            body:not(.clicky-nav) & {
-              @include mega-menu-columns(3);
-            }
-          }
           &.expanded {
             @include mega-menu-columns(3);
           }
         }
 
         & > li:has(a[href="/products/"]) {
-          & > ul {
-            left: 50%;
-            width: auto;
-            max-width: 1920px;
-            transform: translateX(-50%);
-          }
-          &:hover {
-            body:not(.clicky-nav) & {
-              @include mega-menu-columns(4);
-            }
-          }
           &.expanded {
             @include mega-menu-columns(4);
           }
@@ -1217,33 +1197,6 @@ body.horizontal-nav main {
         & > li:has(a[href="/events/"]) {
           & > ul {
             width: 660px;
-          }
-          &:hover > ul {
-            body:not(.clicky-nav) & {
-              flex-direction: row;
-              justify-content: space-between;
-              & > li > a {
-                font-weight: 500;
-              }
-              & > li > ul {
-                display: block;
-                position: relative;
-                left: auto;
-                top: auto;
-                margin: 0;
-                padding: 0;
-                border: 0;
-                font-weight: 400;
-                background: transparent;
-                box-shadow: none;
-                opacity: 1;
-                transform: none;
-                pointer-events: auto;
-                .image-wrapper {
-                  display: none;
-                }
-              }
-            }
           }
           &.expanded > ul {
             flex-direction: row;
