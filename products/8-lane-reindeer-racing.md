@@ -172,5 +172,5 @@ faqs:
   - question: Does it need power?
     answer: Power requirements vary by configuration. We'll confirm when discussing
       your event.
-thumbnail: /images/products/8-lane-roll-and-bowl-donkey-derby/8 lane.png
+thumbnail: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
 ---
