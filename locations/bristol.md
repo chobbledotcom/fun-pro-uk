@@ -5,7 +5,7 @@ meta_description: "Bristol - Fun Pro UK provide the best Exhibition and Game Hir
 redirect_from:
   - "/pages/bristol/"
 subtitle: "Event hire from the Harbourside to the Suspension Bridge"
-thumbnail: "images/locations/bristol.png"
+thumbnail: "images/locations/bristol.jpg"
 ---
 
 # Bristol
