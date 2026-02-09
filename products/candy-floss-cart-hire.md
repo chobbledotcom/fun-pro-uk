@@ -25,6 +25,7 @@ events:
   - events/staff-wellbeing-days.md
   - events/college-entertainment.md
   - events/circus-skills-workshop.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included

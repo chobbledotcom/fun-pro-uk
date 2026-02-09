@@ -31,6 +31,7 @@ events:
   - events/fundraising-events.md
   - events/university-events.md
   - events/summer-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included

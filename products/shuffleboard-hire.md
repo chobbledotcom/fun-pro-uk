@@ -19,6 +19,7 @@ events:
   - events/evening-entertainment.md
   - events/office-entertainment.md
   - events/staff-wellbeing-days.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"

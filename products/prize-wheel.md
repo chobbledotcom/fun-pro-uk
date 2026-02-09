@@ -19,6 +19,7 @@ events:
   - events/celebrations-and-parties.md
   - events/family-fun-days.md
   - events/corporate-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - "Delivery, setup, and collection included"
