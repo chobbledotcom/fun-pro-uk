@@ -1,6 +1,6 @@
 ---
-title: Christmas Prize Crane
-subtitle: "Festive arcade claw machine for prize giveaways"
+title: Christmas Prize Crane Hire
+subtitle: Festive arcade claw machine for prize giveaways
 price: £495
 order: 50
 meta_title: Christmas Prize Crane - Exhibition and Game Hire in Nationwide | Fun Pro UK
@@ -142,21 +142,21 @@ tabs:
       prizes create gift-like wins that enhance the party atmosphere.
   - title: Delivery
     body: >-
-      Delivered and installed on site by our trained team as part of your
-      hire, so there is nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team as part of your hire,
+      so there is nothing for you to coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
-      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able
-      to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes, and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      Please note that the Christmas Prize Crane cannot be carried up or
-      down flights of stairs, so a lift is required if the setup location
-      is not on the ground floor. The unit must be placed on a level indoor
-      surface with at least one UK power socket within reach.
+      Please note that the Christmas Prize Crane cannot be carried up or down
+      flights of stairs, so a lift is required if the setup location is not on
+      the ground floor. The unit must be placed on a level indoor surface with
+      at least one UK power socket within reach.
 faqs:
   - question: How many people can play Christmas Prize Crane at once?
     answer: One player operates the crane at a time, with the addictive format
