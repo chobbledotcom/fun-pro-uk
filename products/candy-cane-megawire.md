@@ -1,6 +1,6 @@
 ---
-title: Candy Cane Megawire
-subtitle: "Festive steady-hand wire loop game"
+title: Candy Cane Megawire Hire
+subtitle: Festive steady-hand wire loop game
 price: £395
 order: 50
 meta_title: Hire Christmas Candy Cane Mega Wire | Fun Pro UK
@@ -107,17 +107,15 @@ tabs:
   - title: Why Candy Cane Megawire?
     image: /images/products/candy-cane-megawire/candy-cane-megawire-3.jpg
     body: >-
-      Want to add festive magic to the good old Buzz Wire game? Our Candy
-      Cane Mega Wire game hire has the Christmas themed twist you're looking
-      for. It's the ultimate crowd pleaser at your upcoming holiday
-      gathering!
+      Want to add festive magic to the good old Buzz Wire game? Our Candy Cane
+      Mega Wire game hire has the Christmas themed twist you're looking for.
+      It's the ultimate crowd pleaser at your upcoming holiday gathering!
 
 
-      If you're hosting a corporate Christmas party or a festive funfair,
-      the Candy Cane Mega Wire adds excitement and Christmas cheer to your
-      event. It's the perfect addition to corporate Christmas parties,
-      holiday themed team building events, Christmas funfairs, and family
-      gatherings.
+      If you're hosting a corporate Christmas party or a festive funfair, the
+      Candy Cane Mega Wire adds excitement and Christmas cheer to your event.
+      It's the perfect addition to corporate Christmas parties, holiday themed
+      team building events, Christmas funfairs, and family gatherings.
 
 
       The game is suitable for both children and adults, with a simple yet
@@ -126,61 +124,61 @@ tabs:
   - title: How It Works
     image: /images/products/candy-cane-megawire/candy-cane-megawire-2.jpg
     body: >-
-      The Candy Cane Mega Wire game is a bigger version of the steady hand
-      buzz wire game, complete with a Christmas makeover. Players navigate a
-      wand along the candy cane shaped wire without triggering the buzzer.
+      The Candy Cane Mega Wire game is a bigger version of the steady hand buzz
+      wire game, complete with a Christmas makeover. Players navigate a wand
+      along the candy cane shaped wire without triggering the buzzer.
 
 
       Set up a competition between guests and see who can navigate the wand
       along the wire without triggering the buzzer. It's a test of skill,
-      patience, and focus, made more fun with the festive theme! Guests can
-      take turns and keep track of their times to see who can complete the
-      course the fastest or with the fewest buzzes.
+      patience, and focus, made more fun with the festive theme! Guests can take
+      turns and keep track of their times to see who can complete the course the
+      fastest or with the fewest buzzes.
 
 
-      The game is designed for one player to attempt the challenge at a
-      time, but it's a fantastic game for group settings because of its
-      competitive nature.
+      The game is designed for one player to attempt the challenge at a time,
+      but it's a fantastic game for group settings because of its competitive
+      nature.
   - title: Why It's A Crowd Favourite
     image: /images/products/candy-cane-megawire/candy-cane-megawire-3.jpg
     body: >-
-      The Candy Cane Mega Wire delivers festive fun and excitement your
-      guests will always remember. It's a fantastic game for group settings
-      because of its competitive nature — guests can take turns and keep
-      track of their times to see who can complete the course the fastest
-      or with the fewest buzzes.
+      The Candy Cane Mega Wire delivers festive fun and excitement your guests
+      will always remember. It's a fantastic game for group settings because of
+      its competitive nature — guests can take turns and keep track of their
+      times to see who can complete the course the fastest or with the fewest
+      buzzes.
 
 
       The game has a simple yet engaging concept that ensures players of all
-      ages can participate and enjoy. Whether at a corporate Christmas party
-      or a family gathering, it brings out everyone's competitive spirit
-      while adding Christmas cheer.
+      ages can participate and enjoy. Whether at a corporate Christmas party or
+      a family gathering, it brings out everyone's competitive spirit while
+      adding Christmas cheer.
 
 
-      Make your holiday event unforgettable with the Candy Cane Mega Wire.
-      It's the perfect way to bring festive excitement to events in
-      Birmingham, Leicester, London, Manchester, and beyond.
+      Make your holiday event unforgettable with the Candy Cane Mega Wire. It's
+      the perfect way to bring festive excitement to events in Birmingham,
+      Leicester, London, Manchester, and beyond.
   - title: Delivery
     body: >-
-      All packages include setup and removal by our professional events
-      team, ensuring the Candy Cane Mega Wire game is in perfect condition
-      and ready to use at your event.
+      All packages include setup and removal by our professional events team,
+      ensuring the Candy Cane Mega Wire game is in perfect condition and ready
+      to use at your event.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which include the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      We are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Our team of professionals will deliver the Candy Cane Mega Wire game
-      to your venue, set it up, and make sure it's running smoothly so your
-      guests can have as much fun as they want. When the event is over,
-      we'll return to dismantle and collect the equipment and leave your
-      venue exactly as we found it.
+      Our team of professionals will deliver the Candy Cane Mega Wire game to
+      your venue, set it up, and make sure it's running smoothly so your guests
+      can have as much fun as they want. When the event is over, we'll return to
+      dismantle and collect the equipment and leave your venue exactly as we
+      found it.
 
 
-      Please note the equipment cannot be carried up or down flights of
-      stairs. A lift is required for upper floor venues.
+      Please note the equipment cannot be carried up or down flights of stairs.
+      A lift is required for upper floor venues.
 ---
