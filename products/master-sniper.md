@@ -1,5 +1,5 @@
 ---
-title: Master Sniper
+title: Master Sniper Hire
 subtitle: Interactive target shooting game with realistic rifle
 price: £1295
 order: 50
