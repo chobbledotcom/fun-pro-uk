@@ -1,6 +1,6 @@
 ---
-title: Hook A Duck
-subtitle: "Traditional fairground duck-hooking stall"
+title: Hook A Duck Hire
+subtitle: Traditional fairground duck-hooking stall
 price: £450
 order: 50
 meta_title: Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK
@@ -91,9 +91,8 @@ tabs:
       Looking to bring a touch of classic fairground fun to your next corporate
       event? Our Hook A Duck game hire is the perfect way to engage and
       entertain guests while adding a nostalgic vibe to any occasion. A staple
-      of traditional fairs and fun days, this popular game challenges players
-      to hook a floating duck from the water using a fishing rod to win a
-      prize.
+      of traditional fairs and fun days, this popular game challenges players to
+      hook a floating duck from the water using a fishing rod to win a prize.
 
 
       Perfect for corporate events, fairs, staff parties, product launches, and
@@ -147,10 +146,10 @@ tabs:
       experiences across age groups.
   - title: Delivery
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. Our team arrives with
-      adequate time before your event to position and test everything, ensuring
-      it's ready for your first guests.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. Our team arrives with adequate
+      time before your event to position and test everything, ensuring it's
+      ready for your first guests.
 
 
       We deliver nationwide across the UK from our Midlands base, including
@@ -161,14 +160,14 @@ tabs:
       within Coventry, Warwickshire, and the wider Midlands region.
 
 
-      This equipment requires a minimum door width of 0.6m and a level
-      surface. It is suitable for both indoor and outdoor use. No power is
-      required, giving you complete flexibility with positioning.
+      This equipment requires a minimum door width of 0.6m and a level surface.
+      It is suitable for both indoor and outdoor use. No power is required,
+      giving you complete flexibility with positioning.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can play Hook a Duck at once?
     answer: The game accommodates 1-4 players hooking simultaneously, with the
