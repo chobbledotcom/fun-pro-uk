@@ -1,6 +1,6 @@
 ---
-title: "Mega Wire "
-subtitle: "Branded steady-hand wire loop game for exhibitions"
+title: Mega Wire Hire
+subtitle: Branded steady-hand wire loop game for exhibitions
 price: £395
 order: 50
 meta_title: Mega wire hire Uk
@@ -130,9 +130,9 @@ tabs:
     body: >-
       Looking to elevate your next event and leave a lasting impression on
       attendees? This stand-alone Buzz Wire game is not only a fun addition to
-      your event but also offers a brilliant space for showcasing your
-      company's branding, making it a perfect fit for exhibitions, conferences,
-      well-being days, and more.
+      your event but also offers a brilliant space for showcasing your company's
+      branding, making it a perfect fit for exhibitions, conferences, well-being
+      days, and more.
 
 
       The Mega Wire game may seem deceptively simple at first glance, but it
@@ -151,11 +151,11 @@ tabs:
   - title: How It Works
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-10.jpg
     body: >-
-      The large metal shape may look easy to navigate the wand around but
-      don't be caught out - just as you think you have a steady hand and will
-      be the winner of the game you may accidentally catch the side and that
-      mega buzz wire sound will tell everyone! The buzz wire is a simple game
-      which brings its own challenges to all who play.
+      The large metal shape may look easy to navigate the wand around but don't
+      be caught out - just as you think you have a steady hand and will be the
+      winner of the game you may accidentally catch the side and that mega buzz
+      wire sound will tell everyone! The buzz wire is a simple game which brings
+      its own challenges to all who play.
 
 
       Why not supply a prize for the winning contestant and make it a friendly
@@ -188,8 +188,8 @@ tabs:
       stall and will not only increase footfall marketing for your brand but
       will also entice new clientele for your business. It's a game that
       promises thrills and spills for players of all ages, making it an ideal
-      choice for increasing engagement and leaving a lasting impression on
-      your guests.
+      choice for increasing engagement and leaving a lasting impression on your
+      guests.
   - title: Delivery
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-8.jpg
     body: >-
@@ -198,18 +198,17 @@ tabs:
       provide everything you need for your party or event.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which includes the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We
-      are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which includes the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes, and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Please note, the Mega Wire cannot be carried up or down flights of
-      stairs. A lift is required for upper floors. Minimum door width is 0.6m.
-      In-house branding is available, printed, applied, and removed after each
-      event (one time use only). Delivery charges and minimum order value may
-      apply.
+      Please note, the Mega Wire cannot be carried up or down flights of stairs.
+      A lift is required for upper floors. Minimum door width is 0.6m. In-house
+      branding is available, printed, applied, and removed after each event (one
+      time use only). Delivery charges and minimum order value may apply.
 faqs:
   - question: How many people can play Mega Wire at once?
     answer: The game accommodates 1-4 players taking turns. One player navigates the
