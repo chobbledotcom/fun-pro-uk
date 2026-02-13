@@ -1,6 +1,6 @@
 ---
-title: Human Table Football
-subtitle: "Life-size inflatable table football for up to 10 players"
+title: Human Table Football Hire
+subtitle: Life-size inflatable table football for up to 10 players
 price: £495
 order: 50
 meta_title: Human Table Football Game | Corporate Events | Fun Pro UK
@@ -79,84 +79,82 @@ tabs:
   - title: Why HUMAN TABLE FOOTBALL?
     image: /images/products/human-table-football/human-table-football-8.jpg
     body: >-
-      Whether you're looking for company team building ideas or searching for
-      an original inflatable for a company fun day, you can't beat the crazy
-      chaos of our human table football hire. It's just like the table top
-      game, except instead of solid plastic players twirling round, you have
-      real people, strapped to the poles, trying to get the ball into the
-      goal.
+      Whether you're looking for company team building ideas or searching for an
+      original inflatable for a company fun day, you can't beat the crazy chaos
+      of our human table football hire. It's just like the table top game,
+      except instead of solid plastic players twirling round, you have real
+      people, strapped to the poles, trying to get the ball into the goal.
 
 
-      This inflatable pitch brings the classic table football game to life
-      in a larger-than-life way. Perfect for fun days, school events, BBQs,
-      and corporate events, human table football is ideal for team building
-      activities, fostering teamwork, communication, and problem-solving
-      skills among participants.
+      This inflatable pitch brings the classic table football game to life in a
+      larger-than-life way. Perfect for fun days, school events, BBQs, and
+      corporate events, human table football is ideal for team building
+      activities, fostering teamwork, communication, and problem-solving skills
+      among participants.
 
 
       Whether you're planning a corporate event, school function, or private
-      party, our human table football hire is guaranteed to be a hit,
-      creating lasting memories for all involved.
+      party, our human table football hire is guaranteed to be a hit, creating
+      lasting memories for all involved.
   - title: How It Works
     image: /images/products/human-table-football/human-table-football-7.jpg
     body: >-
-      Up to ten players (five-a-side) enter the fully enclosed, inflatable
-      pitch via the goal, and strap themselves to the cross poles. Just like
-      the original game, this means they can only move from side to side and
-      they can only kick the ball if it is at their feet.
+      Up to ten players (five-a-side) enter the fully enclosed, inflatable pitch
+      via the goal, and strap themselves to the cross poles. Just like the
+      original game, this means they can only move from side to side and they
+      can only kick the ball if it is at their feet.
 
 
-      Players on the same pole, and on the same team, have to work together
-      to coordinate their movements and get the ball moving in the right
-      direction. Work together with your teammates to strategize and score
-      goals in this exciting challenge.
+      Players on the same pole, and on the same team, have to work together to
+      coordinate their movements and get the ball moving in the right direction.
+      Work together with your teammates to strategize and score goals in this
+      exciting challenge.
 
 
-      You can set up your inflatable football game indoors, in a sports
-      hall, or outside on any level playing surface, and you don't need any
-      special equipment to play. We'll even include a ball to get the game
-      going.
+      You can set up your inflatable football game indoors, in a sports hall, or
+      outside on any level playing surface, and you don't need any special
+      equipment to play. We'll even include a ball to get the game going.
   - title: Why It's A Crowd Favourite
     image: /images/products/human-table-football/human-table-football-8.jpg
     body: >-
-      Human table football hire is a great way to challenge your staff,
-      pitting rival departments and colleagues against each other. It's also
-      brilliant for team building, forcing players to find solutions by
-      working as one, with a focus and a goal.
+      Human table football hire is a great way to challenge your staff, pitting
+      rival departments and colleagues against each other. It's also brilliant
+      for team building, forcing players to find solutions by working as one,
+      with a focus and a goal.
 
 
-      Giant table football hire is great to watch too, with loads of room
-      around the edge of the inflatable football pitch for spectators to
-      stand and enjoy the mayhem within. The lively atmosphere means
-      spectators will cheer on the teams from the sidelines.
+      Giant table football hire is great to watch too, with loads of room around
+      the edge of the inflatable football pitch for spectators to stand and
+      enjoy the mayhem within. The lively atmosphere means spectators will cheer
+      on the teams from the sidelines.
 
 
-      Watch as colleagues bond over friendly competition. It fosters
-      teamwork, communication, and problem-solving skills, and the crazy
-      chaos creates lasting memories that everyone talks about afterwards.
+      Watch as colleagues bond over friendly competition. It fosters teamwork,
+      communication, and problem-solving skills, and the crazy chaos creates
+      lasting memories that everyone talks about afterwards.
   - title: Delivery
     image: /images/products/human-table-football/human-table-football-5.jpg
     body: >-
-      Delivered and installed on site by our trained team. We handle
-      delivery, setup, and collection as part of your hire, so there's
-      nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We handle delivery,
+      setup, and collection as part of your hire, so there's nothing for you to
+      coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
-      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
-      cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      This equipment requires drive-on access only and cannot be carried up
-      or down flights of stairs. A lift is required for upper floors.
-      Minimum order value and delivery charges may apply to all locations.
+      This equipment requires drive-on access only and cannot be carried up or
+      down flights of stairs. A lift is required for upper floors. Minimum order
+      value and delivery charges may apply to all locations.
 
 
       All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind. When your event wraps up, we handle
-      the packdown and collection, leaving you free to focus on your guests.
+      giving you complete peace of mind. When your event wraps up, we handle the
+      packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: How many people can play Human Table Football at once?
     answer: Two teams of 2-4 players typically compete, creating 4-8 participants
