@@ -1,12 +1,12 @@
 ---
-title: Gladiator Duel
-subtitle: "Inflatable podium jousting game for two players"
+title: Gladiator Duel Hire
+subtitle: Inflatable podium jousting game for two players
 price: £395
 order: 50
 meta_title: Gladiator Duel Hire | Inflatable Games | Fun Pro UK
-meta_description: Bash the boss or clobber a colleague in our inflatable gladiator
-  duel! Two players joust on podiums with padded sticks — as fun to watch as it
-  is to play. Available for hire nationwide.
+meta_description: Bash the boss or clobber a colleague in our inflatable
+  gladiator duel! Two players joust on podiums with padded sticks — as fun to
+  watch as it is to play. Available for hire nationwide.
 categories:
   - categories/fun-days.md
   - categories/weddings.md
@@ -91,10 +91,10 @@ tabs:
   - title: How It Works
     image: /images/products/gladiator-duel/gladiator-duel-4.jpg
     body: >-
-      Gladiator duel game hire includes a top quality inflatable battle zone,
-      to guarantee a soft landing when you get knocked down. You'll also get a
-      pair of padded fighting sticks, just like the Gladiators on TV, plus a
-      pair of head protectors to stop you getting hit too hard.
+      Gladiator duel game hire includes a top quality inflatable battle zone, to
+      guarantee a soft landing when you get knocked down. You'll also get a pair
+      of padded fighting sticks, just like the Gladiators on TV, plus a pair of
+      head protectors to stop you getting hit too hard.
 
 
       Who will survive the pummelling and stay on their podium while knocking
@@ -128,10 +128,10 @@ tabs:
   - title: Delivery
     image: /images/products/gladiator-duel/gladiator-duel-2.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. Our team arrives with
-      adequate time before your event to position and test everything, ensuring
-      it's ready for your first guests.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. Our team arrives with adequate
+      time before your event to position and test everything, ensuring it's
+      ready for your first guests.
 
 
       We deliver nationwide across the UK from our Midlands base, including
@@ -147,9 +147,9 @@ tabs:
       access requirements when discussing your venue.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can play Gladiator Duel at once?
     answer: Two competitors battle at a time on raised podiums. The head-to-head
