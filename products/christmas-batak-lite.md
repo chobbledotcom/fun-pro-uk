@@ -1,6 +1,6 @@
 ---
-title: Christmas Batak Lite
-subtitle: "Festive-themed Batak Lite reaction game"
+title: Christmas Batak Lite Hire
+subtitle: Festive-themed Batak Lite reaction game
 price: £445
 order: 50
 meta_title: Christmas Batak Lite - Exhibition and Game Hire in Nationwide | Fun Pro UK
@@ -118,10 +118,10 @@ tabs:
     image: /images/products/christmas-batak-lite/christmas-batak-lite-12.jpg
     body: >-
       Looking to sprinkle some excitement and friendly competition into your
-      Christmas party, winter exhibition, or seasonal product launch? Batak
-      Lite is the perfect festive game to bring colleagues, clients, and
-      guests together for some fast-paced fun that's guaranteed to spread
-      Christmas cheer.
+      Christmas party, winter exhibition, or seasonal product launch? Batak Lite
+      is the perfect festive game to bring colleagues, clients, and guests
+      together for some fast-paced fun that's guaranteed to spread Christmas
+      cheer.
 
 
       Whether it's your company's end-of-year celebration or a festive brand
@@ -130,37 +130,34 @@ tabs:
       full-sized Batak Pro, it's ideal for venues big or small.
 
 
-      Eye-catching lights and fast action get everyone in the Christmas
-      spirit, making it ideal for team challenges, office tournaments, or
-      party entertainment. From winter exhibitions and Christmas markets to
-      end-of-year corporate galas, Batak Lite is the perfect festive
-      addition.
+      Eye-catching lights and fast action get everyone in the Christmas spirit,
+      making it ideal for team challenges, office tournaments, or party
+      entertainment. From winter exhibitions and Christmas markets to
+      end-of-year corporate galas, Batak Lite is the perfect festive addition.
   - title: How It Works
     image: /images/products/christmas-batak-lite/christmas-batak-lite-11.jpg
     body: >-
       Batak Lite features bright, illuminated targets and fast-paced gameplay.
-      Players race against the clock to hit as many lights as they can,
-      testing their reflexes, hand-eye coordination, and holiday stamina in a
-      quick-fire challenge.
+      Players race against the clock to hit as many lights as they can, testing
+      their reflexes, hand-eye coordination, and holiday stamina in a quick-fire
+      challenge.
 
 
-      It's a game that keeps both players and spectators entertained. One
-      player competes at a time, creating focused moments of competition
-      while everyone else watches, cheers, and waits for their turn to beat
-      the high score.
+      It's a game that keeps both players and spectators entertained. One player
+      competes at a time, creating focused moments of competition while everyone
+      else watches, cheers, and waits for their turn to beat the high score.
 
 
-      Our team handles full setup and pack-down, with all equipment ready to
-      go. Just plug in and play. The Christmas theming adds festive
-      atmosphere without changing the fast-paced gameplay that makes Batak so
-      engaging.
+      Our team handles full setup and pack-down, with all equipment ready to go.
+      Just plug in and play. The Christmas theming adds festive atmosphere
+      without changing the fast-paced gameplay that makes Batak so engaging.
   - title: Why It's A Crowd Favourite
     image: /images/products/christmas-batak-lite/christmas-batak-lite-12.jpg
     body: >-
-      Batak Lite always gets people laughing, cheering, and connecting.
-      Perfect for Christmas team-building days, office parties, winter
-      exhibitions, and more, the eye-catching lights and fast action draw a
-      crowd and get everyone in the Christmas spirit.
+      Batak Lite always gets people laughing, cheering, and connecting. Perfect
+      for Christmas team-building days, office parties, winter exhibitions, and
+      more, the eye-catching lights and fast action draw a crowd and get
+      everyone in the Christmas spirit.
 
 
       The friendly competition is ideal for team challenges and office
@@ -170,29 +167,28 @@ tabs:
       they come on needs no explanation.
 
 
-      We've had the pleasure of bringing festive fun to some of the UK's
-      biggest brands, including Virgin Trains, Bristol Street Motors, and BT.
-      Pair Batak Lite with one of our other interactive festive games for an
-      event that keeps spirits bright all season long.
+      We've had the pleasure of bringing festive fun to some of the UK's biggest
+      brands, including Virgin Trains, Bristol Street Motors, and BT. Pair Batak
+      Lite with one of our other interactive festive games for an event that
+      keeps spirits bright all season long.
   - title: Delivery
     image: /images/products/christmas-batak-lite/christmas-batak-lite-9.jpg
     body: >-
       We handle delivery, setup, and collection as part of your hire, with
-      everything installed by our trained team. We offer delivery throughout
-      the UK, including Exeter, Cardiff, Bristol, Birmingham including the
-      NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry
-      including the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton
-      Keynes, and Sheffield. We are able to cover the whole of the UK on
-      request.
+      everything installed by our trained team. We offer delivery throughout the
+      UK, including Exeter, Cardiff, Bristol, Birmingham including the NEC and
+      ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS
+      Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and
+      Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Minimum order value and delivery fees may apply to all locations. Our
-      team arrives with adequate time before your event to position and test
+      Minimum order value and delivery fees may apply to all locations. Our team
+      arrives with adequate time before your event to position and test
       everything, ensuring it's ready for your first guests.
 
 
-      Please note the Batak Lite cannot be carried up or down flights of
-      stairs. A lift is required for upper floors. Minimum door width is
-      0.6m. The equipment requires indoor use only on a level surface, with
-      one standard UK power socket.
+      Please note the Batak Lite cannot be carried up or down flights of stairs.
+      A lift is required for upper floors. Minimum door width is 0.6m. The
+      equipment requires indoor use only on a level surface, with one standard
+      UK power socket.
 ---
