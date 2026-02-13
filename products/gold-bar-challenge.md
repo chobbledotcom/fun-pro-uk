@@ -1,6 +1,6 @@
 ---
-title: Gold Bar Challenge
-subtitle: "Timed safe-cracking challenge with gold bar theme"
+title: Gold Bar Challenge Hire
+subtitle: Timed safe-cracking challenge with gold bar theme
 order: 50
 meta_title: Gold bar challenge
 meta_description: The Gold Bar Challenge – an exciting interactive game for
@@ -112,9 +112,9 @@ tabs:
     body: >-
       Looking to add excitement and engagement to your next event? The Gold Bar
       Challenge is the ultimate interactive game that combines skill, suspense,
-      and fun. Perfect for exhibitions, brand activations, corporate events,
-      and team-building activities, this game is designed to captivate audiences
-      and create memorable experiences.
+      and fun. Perfect for exhibitions, brand activations, corporate events, and
+      team-building activities, this game is designed to captivate audiences and
+      create memorable experiences.
 
 
       Constructed with modular chrome-effect bars and Perspex panels, the Gold
@@ -129,15 +129,15 @@ tabs:
   - title: How It Works
     image: /images/products/gold-bar-challenge/gold-bar-challenge-6.jpg
     body: >-
-      Participants are challenged to remove a weighted, 24k gold-plated bar
-      from a transparent case using only one hand. The catch? The bar must be
-      lifted through a narrow opening without triggering the buzzer. It's a
-      test of precision, patience, and nerve.
+      Participants are challenged to remove a weighted, 24k gold-plated bar from
+      a transparent case using only one hand. The catch? The bar must be lifted
+      through a narrow opening without triggering the buzzer. It's a test of
+      precision, patience, and nerve.
 
 
       Simple rules with challenging execution keep participants coming back for
-      more. The full modular frame comes with standard gold bar base panels
-      and clear Perspex box panels, with the gold bar presented on a plush red
+      more. The full modular frame comes with standard gold bar base panels and
+      clear Perspex box panels, with the gold bar presented on a plush red
       velvet cushion.
 
 
@@ -153,21 +153,21 @@ tabs:
 
 
       The mental challenge appeals to different guests than physical
-      entertainment. For corporate audiences with analytical mindsets, this
-      test of precision, patience, and nerve often generates more enthusiasm
-      than athletic games.
+      entertainment. For corporate audiences with analytical mindsets, this test
+      of precision, patience, and nerve often generates more enthusiasm than
+      athletic games.
 
 
       Success carries genuine bragging rights. Cracking the challenge when
-      others couldn't creates memorable moments and talking points that
-      continue long after the event.
+      others couldn't creates memorable moments and talking points that continue
+      long after the event.
   - title: Delivery
     image: /images/products/gold-bar-challenge/gold-bar-challenge-4.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. The Gold Bar Challenge
-      is delivered flat-packed and can be assembled in just 10 minutes, making
-      it a convenient addition to any event.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. The Gold Bar Challenge is
+      delivered flat-packed and can be assembled in just 10 minutes, making it a
+      convenient addition to any event.
 
 
       We deliver nationwide across the UK from our Midlands base, including
@@ -183,9 +183,9 @@ tabs:
       required for upper floors.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can play Gold Bar Challenge at once?
     answer: The game accommodates 1-4 players, with individuals or teams working to
