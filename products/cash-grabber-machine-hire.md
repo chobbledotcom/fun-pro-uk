@@ -1,6 +1,6 @@
 ---
-title: Cash Grabber Machine
-subtitle: "Enclosed wind booth for grabbing flying vouchers or cash"
+title: Cash Grabber Machine Hire
+subtitle: Enclosed wind booth for grabbing flying vouchers or cash
 price: £495
 order: 5
 meta_title: Hire Cash Cube Machine, Rent A Grand Cash Grabber Machine
@@ -147,9 +147,9 @@ tabs:
     body: >-
       Looking to add some excitement to your event? Our Cash Grabber Machine is
       the perfect choice for conferences, well-being days, exhibitions, fun
-      days, and brand activation events. Step into the Grab 'A' Grand Cash
-      Cube and experience the thrill of grabbing as many vouchers or money
-      notes as you can in just 30 seconds.
+      days, and brand activation events. Step into the Grab 'A' Grand Cash Cube
+      and experience the thrill of grabbing as many vouchers or money notes as
+      you can in just 30 seconds.
 
 
       With our Cash Grabber Machine, you can create a buzz at your event and
@@ -160,51 +160,50 @@ tabs:
 
       Whether you fill it with tokens or actual hard cash, there's no thrill
       like stepping into the grab a grand machine and trying to snag as much
-      swag as you can as the clock ticks down. Everyone knows the score, so
-      you can be sure your grab a grand machine will be a huge draw for your
-      event, wherever you set it up.
+      swag as you can as the clock ticks down. Everyone knows the score, so you
+      can be sure your grab a grand machine will be a huge draw for your event,
+      wherever you set it up.
   - title: How It Works
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg
     body: >-
-      You step inside a large circular clear plexiglass tube. The door is
-      closed and there is a light above to light up the game. When the action
-      starts, cash bills are released into the air, and a fan blows them
-      around. You must grab the cash when it's spinning around in the air,
-      and what you can grab is yours.
+      You step inside a large circular clear plexiglass tube. The door is closed
+      and there is a light above to light up the game. When the action starts,
+      cash bills are released into the air, and a fan blows them around. You
+      must grab the cash when it's spinning around in the air, and what you can
+      grab is yours.
 
 
-      There are some rules to the game - you can't open up your shirt and
-      let the money drop in, nor can you scoop up money off the floor. You
-      must catch the notes while they're swirling in the air. The 30-second
-      time limit creates genuine urgency.
+      There are some rules to the game - you can't open up your shirt and let
+      the money drop in, nor can you scoop up money off the floor. You must
+      catch the notes while they're swirling in the air. The 30-second time
+      limit creates genuine urgency.
 
 
-      The prize is up to you. You can play for fun or add some serious prizes
-      to a random selection of tickets among the swirling whirlwind. You could
-      fill it with real cash - we recommend a mix of five, ten, twenty, and
-      fifty pound notes - or toss in some fake notes too, just to increase
-      the excitement.
+      The prize is up to you. You can play for fun or add some serious prizes to
+      a random selection of tickets among the swirling whirlwind. You could fill
+      it with real cash - we recommend a mix of five, ten, twenty, and fifty
+      pound notes - or toss in some fake notes too, just to increase the
+      excitement.
   - title: Why It's A Crowd Favourite
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
     body: >-
-      From a shopping centre sales promotion to your annual company awards,
-      the grab a grand machine will always be the centre of attention. With
-      its swirling notes and ticking clock, it's almost as much fun to watch
-      as it is to play.
+      From a shopping centre sales promotion to your annual company awards, the
+      grab a grand machine will always be the centre of attention. With its
+      swirling notes and ticking clock, it's almost as much fun to watch as it
+      is to play.
 
 
       Compact yet hard to ignore, it works like a magnet on your exhibition
       stand or in your trade show space, really making you stand out from the
-      crowd. Whichever kind of prize you choose, the grab a grand machine is
-      top class corporate entertainment that will really lift the image of
-      your company and get people engaged with your brand and your sales
-      message.
+      crowd. Whichever kind of prize you choose, the grab a grand machine is top
+      class corporate entertainment that will really lift the image of your
+      company and get people engaged with your brand and your sales message.
 
 
-      You can even let your guest list know ahead of time, so if they have
-      any other plans that weekend, they'll soon be cancelling them to join
-      you on this special day. It's a high-energy activity that will keep
-      your guests entertained and excited throughout the event.
+      You can even let your guest list know ahead of time, so if they have any
+      other plans that weekend, they'll soon be cancelling them to join you on
+      this special day. It's a high-energy activity that will keep your guests
+      entertained and excited throughout the event.
   - title: Delivery
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-15.jpg
     body: >-
@@ -216,16 +215,15 @@ tabs:
       whole of the UK on request.
 
 
-      Our dependable delivery stretches the length and breadth of the
-      country. Minimum order value and delivery fees apply to all locations.
-      For all enquiries please complete our enquiry form and one of our team
-      will get back to you.
+      Our dependable delivery stretches the length and breadth of the country.
+      Minimum order value and delivery fees apply to all locations. For all
+      enquiries please complete our enquiry form and one of our team will get
+      back to you.
 
 
-      Please note this equipment cannot be carried up or down flights of
-      stairs. A lift is required for upper floors. The machine requires
-      indoor use only on a level surface, with a minimum door width of 0.6m
-      for access.
+      Please note this equipment cannot be carried up or down flights of stairs.
+      A lift is required for upper floors. The machine requires indoor use only
+      on a level surface, with a minimum door width of 0.6m for access.
 faqs:
   - question: How many people can use the Cash Grabber at once?
     answer: One participant enters the machine at a time, with timed sessions
