@@ -1,6 +1,6 @@
 ---
-title: Magic Mirror
-subtitle: "Full-length interactive selfie mirror with prints"
+title: Magic Mirror Hire
+subtitle: Full-length interactive selfie mirror with prints
 price: £450
 order: 50
 meta_title: Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK
@@ -131,19 +131,19 @@ tabs:
       for a truly personalised experience.
 
 
-      The computer adds in fun backgrounds and other graphics, such as
-      confetti, balloons, and also corporate logos, contact information, or the
-      names of the party hosts. For each visit, guests receive two prints and
-      use of the fun photo props, with unlimited visits throughout your event.
-      There is also the option to visit a website with a download link to get
-      all the photos after the event.
+      The computer adds in fun backgrounds and other graphics, such as confetti,
+      balloons, and also corporate logos, contact information, or the names of
+      the party hosts. For each visit, guests receive two prints and use of the
+      fun photo props, with unlimited visits throughout your event. There is
+      also the option to visit a website with a download link to get all the
+      photos after the event.
 
 
       Guests can still wear fun costume props too, with options including
-      sunglasses, hats, feather boas, and magic wands. For corporate events,
-      you can add company messages or logos to every print. We handle all the
-      programming for you, and an attendant will assist with the photos and
-      help to replace any paper or ink as required.
+      sunglasses, hats, feather boas, and magic wands. For corporate events, you
+      can add company messages or logos to every print. We handle all the
+      programming for you, and an attendant will assist with the photos and help
+      to replace any paper or ink as required.
   - title: Why It's A Crowd Favourite
     image: /images/products/magic-mirror/magic-mirror-16.jpg
     body: >-
@@ -155,17 +155,17 @@ tabs:
       reinforcing your sales message.
 
 
-      Your hire package includes a friendly operator to really take care of
-      your guests. They will make sure everyone enjoys the experience and gets
-      the perfect picture. Each operator is fully trained and never forgets
-      that they are representing your company.
+      Your hire package includes a friendly operator to really take care of your
+      guests. They will make sure everyone enjoys the experience and gets the
+      perfect picture. Each operator is fully trained and never forgets that
+      they are representing your company.
 
 
       Some people enjoy arcade-style games, some want to get in on the action,
       while others want something simple that reminds them of the fun days they
       had with friends or family. The magic mirror is a great way to add some
-      additional fun to your event, and you'll give your partygoers something
-      to talk about in the years ahead.
+      additional fun to your event, and you'll give your partygoers something to
+      talk about in the years ahead.
   - title: Delivery
     image: /images/products/magic-mirror/magic-mirror-13.jpg
     body: >-
