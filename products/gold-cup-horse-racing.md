@@ -1,6 +1,6 @@
 ---
-title: Gold Cup Horse Racing
-subtitle: "Mechanical horse racing game with rolling balls"
+title: Gold Cup Horse Racing Hire
+subtitle: Mechanical horse racing game with rolling balls
 price: £395
 order: 50
 meta_title: Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire
@@ -102,21 +102,20 @@ tabs:
       Are you looking to add a touch of excitement and fun to your next event?
       Our exhilarating Gold Cup Horse Racing simulation is perfect for
       conferences, well-being days, exhibitions, fun days, and brand
-      activations. This interactive experience is sure to engage your guests
-      and leave a lasting impression.
+      activations. This interactive experience is sure to engage your guests and
+      leave a lasting impression.
 
 
-      Have you ever wanted to be a jockey? Well now you can let your guests
-      test out their horse racing skills with up to four players at a time
-      racing to the finish line. Fun Pro UK's Gold Cup Horse Racing Game is
-      essential at any horse racing event, alongside exhibitions, team building
-      events and award nights.
+      Have you ever wanted to be a jockey? Well now you can let your guests test
+      out their horse racing skills with up to four players at a time racing to
+      the finish line. Fun Pro UK's Gold Cup Horse Racing Game is essential at
+      any horse racing event, alongside exhibitions, team building events and
+      award nights.
 
 
       Each race is quick allowing high footfall to your stall at shows or more
-      turns for each guest at a private event. Don't miss out on the
-      opportunity to elevate your event with the Gold Cup Horse Racing
-      experience.
+      turns for each guest at a private event. Don't miss out on the opportunity
+      to elevate your event with the Gold Cup Horse Racing experience.
   - title: How It Works
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-5.jpg
     body: >-
@@ -128,10 +127,10 @@ tabs:
       their brave jockeys.
 
 
-      Guests place their legs either side of their chosen horse, and each
-      player can pick from green, red, yellow and blue. Holding on to the
-      handle, players gallop their way to the finishing line. The faster you
-      gallop, the quicker you'll be crowned the ultimate jockey.
+      Guests place their legs either side of their chosen horse, and each player
+      can pick from green, red, yellow and blue. Holding on to the handle,
+      players gallop their way to the finishing line. The faster you gallop, the
+      quicker you'll be crowned the ultimate jockey.
 
 
       There is a big screen at the end of the game set showing the progress of
@@ -159,31 +158,31 @@ tabs:
   - title: Delivery
     image: /images/products/gold-cup-horse-racing/gold-cup-horse-racing-3.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. Our team arrives with
-      adequate time before your event to position and test everything, ensuring
-      it's ready for your first guests.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. Our team arrives with adequate
+      time before your event to position and test everything, ensuring it's
+      ready for your first guests.
 
 
       We deliver nationwide across the UK from our Midlands base, including
       Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena,
       Reading, Oxford, Swindon, London, Coventry including the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield.
-      Local areas include West Midlands, Warwick, Warwickshire, Kenilworth,
-      Leamington Spa, Rugby, Derby, Northampton, Loughborough, Nuneaton,
-      Kettering, Hinckley, Solihull, and Stratford upon Avon.
+      Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield. Local
+      areas include West Midlands, Warwick, Warwickshire, Kenilworth, Leamington
+      Spa, Rugby, Derby, Northampton, Loughborough, Nuneaton, Kettering,
+      Hinckley, Solihull, and Stratford upon Avon.
 
 
       This equipment is indoor use only and requires a minimum door width of
       0.6m. It cannot be carried up or down flights of stairs, so a lift is
-      required for upper floors. You'll want to ensure you have plenty of
-      space at the front for your four players, and perhaps some space for
-      onlookers to watch.
+      required for upper floors. You'll want to ensure you have plenty of space
+      at the front for your four players, and perhaps some space for onlookers
+      to watch.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can participate in Gold Cup Horse Racing?
     answer: Multiple guests can bet on each race, making it ideal for group
