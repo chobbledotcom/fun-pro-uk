@@ -1,6 +1,6 @@
 ---
-title: High Striker
-subtitle: "Classic fairground strength-testing hammer game"
+title: High Striker Hire
+subtitle: Classic fairground strength-testing hammer game
 price: £395
 order: 50
 meta_title: Hire High Striker, Fairground Game High Striker To Rent, UK
@@ -37,7 +37,7 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 0.8m x 1.6m
+    value: 0.8m x 1.6m x 3.1m
   - name: Power
     value: No power required
   - name: Setup time
@@ -120,10 +120,10 @@ tabs:
     image: /images/products/high-striker/high-striker-7.jpg
     body: >-
       If you're seeking to book games rentals for your next big event then you
-      should include some old favourites from fairs and adventure parks, as
-      well as some other games they won't be expecting. You can hire high
-      striker, which is also a traditional fair game, but likely not one that
-      your attendees will be expecting!
+      should include some old favourites from fairs and adventure parks, as well
+      as some other games they won't be expecting. You can hire high striker,
+      which is also a traditional fair game, but likely not one that your
+      attendees will be expecting!
 
 
       Corporate events can be tedious, but just imagine the surprise on their
@@ -133,9 +133,9 @@ tabs:
 
 
       This game takes a minimum amount of time to play, so you won't have any
-      long line ups. It also takes up a minimum of space on the floor. The
-      high striker game is the perfect way to add some additional fun to your
-      next big event.
+      long line ups. It also takes up a minimum of space on the floor. The high
+      striker game is the perfect way to add some additional fun to your next
+      big event.
   - title: How It Works
     image: /images/products/high-striker/high-striker-6.jpg
     body: >-
@@ -146,9 +146,9 @@ tabs:
 
 
       Simply hold the heavy hammer and hit the base of the High Striker game.
-      Watch the striker rise up the tall 10 foot pole. Can you get it to the
-      top and ring that bell? If the lever doesn't make its way all the way
-      up, the player can record how far they did get on the measurements scale.
+      Watch the striker rise up the tall 10 foot pole. Can you get it to the top
+      and ring that bell? If the lever doesn't make its way all the way up, the
+      player can record how far they did get on the measurements scale.
 
 
       Setup requires a level surface and approximately 15-20 minutes. No power
@@ -158,16 +158,16 @@ tabs:
     image: /images/products/high-striker/high-striker-7.jpg
     body: >-
       Test your ultimate strength with this all new game from Fun Pro UK. Every
-      man, woman and child will be raring to have a go and prove just how
-      strong they are or aren't! The High Striker fun fair game is a popular
-      attraction for both adults and children, it is guaranteed to bring out
-      everyone's competitive streak.
+      man, woman and child will be raring to have a go and prove just how strong
+      they are or aren't! The High Striker fun fair game is a popular attraction
+      for both adults and children, it is guaranteed to bring out everyone's
+      competitive streak.
 
 
       This game works as a great crowd pleaser leading it to be a popular
       exhibition stand game, product launch addition and brand activation tool.
-      Crowds gather to watch attempts, react to near-misses, and celebrate
-      when someone rings the bell. That shared anticipation builds atmosphere.
+      Crowds gather to watch attempts, react to near-misses, and celebrate when
+      someone rings the bell. That shared anticipation builds atmosphere.
 
 
       It's also surprisingly inclusive. Technique matters as much as raw
@@ -176,10 +176,10 @@ tabs:
   - title: Delivery
     image: /images/products/high-striker/high-striker-4.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. Our team arrives with
-      adequate time before your event to position and test everything, ensuring
-      it's ready for your first guests.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. Our team arrives with adequate
+      time before your event to position and test everything, ensuring it's
+      ready for your first guests.
 
 
       We deliver nationwide across the UK from our Midlands base, including
@@ -192,13 +192,13 @@ tabs:
 
       This equipment is suitable for indoor or outdoor use and requires a
       minimum door width of 0.6m. It cannot be carried up or down flights of
-      stairs, so a lift is required for upper floors. No power is needed,
-      giving you complete flexibility with positioning.
+      stairs, so a lift is required for upper floors. No power is needed, giving
+      you complete flexibility with positioning.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can play the High Striker at once?
     answer: One player swings at a time, creating focused moments whilst spectators
