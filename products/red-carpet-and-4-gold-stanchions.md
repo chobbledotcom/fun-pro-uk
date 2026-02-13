@@ -1,5 +1,5 @@
 ---
-title: Red Carpet & 4 Gold Stanchions
+title: Red Carpet & 4 Gold Stanchions Hire
 subtitle: Red carpet entrance with four gold rope stanchions
 order: 50
 meta_title: Red Carpet & Gold Stanchions | Red Carpet Events | Fun Pro UK
