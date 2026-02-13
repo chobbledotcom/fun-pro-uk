@@ -1,6 +1,6 @@
 ---
-title: Candy Cane Snatch it
-subtitle: "Christmas-themed reaction game for two players"
+title: Candy Cane Snatch it Hire
+subtitle: Christmas-themed reaction game for two players
 price: £395
 order: 50
 meta_title: Candy Cane Snatch It Game Hire for Christmas Events
@@ -110,76 +110,75 @@ tabs:
     image: /images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg
     body: >-
       Want to add a cheerful Christmas twist to the fabulously fun Snatch It
-      game? Our Christmas themed Candy Cane Snatch It game hire is the
-      perfect yet unique addition to all of your upcoming festive holiday
-      events across the UK.
+      game? Our Christmas themed Candy Cane Snatch It game hire is the perfect
+      yet unique addition to all of your upcoming festive holiday events across
+      the UK.
 
 
       This game hire is a guaranteed crowd pleaser. It's the perfect game to
       bring out everyone's competitive spirit on top of adding a touch of
-      festive magic. The Candy Cane Snatch It is designed to be fun and
-      engaging for all ages — both children and adults can enjoy the
-      challenge.
+      festive magic. The Candy Cane Snatch It is designed to be fun and engaging
+      for all ages — both children and adults can enjoy the challenge.
 
 
       It's a versatile addition to different types of events, from
-      family-friendly gatherings to corporate festive holiday parties. The
-      game is designed specifically for indoor use on a level surface.
+      family-friendly gatherings to corporate festive holiday parties. The game
+      is designed specifically for indoor use on a level surface.
   - title: How It Works
     body: >-
       The Candy Cane Snatch It game is one of the best festive party games
-      you'll ever play. Just place your hands over the start buttons, and
-      wait for the cue to snatch the prize. When you see the candy cane
-      cylinder light up, the race to see who can snatch it first begins!
+      you'll ever play. Just place your hands over the start buttons, and wait
+      for the cue to snatch the prize. When you see the candy cane cylinder
+      light up, the race to see who can snatch it first begins!
 
 
-      The game is best enjoyed by 1-2 players at a time. Each person takes
-      a turn to snatch a candy cane prize. Set up some friendly competition
+      The game is best enjoyed by 1-2 players at a time. Each person takes a
+      turn to snatch a candy cane prize. Set up some friendly competition
       between your guests, and partake in the fun festive spirit with every
       round.
 
 
-      Everything you need to play the game is included. Our team will
-      deliver and install the game at your event and make sure that it's
-      ready for your guests to enjoy.
+      Everything you need to play the game is included. Our team will deliver
+      and install the game at your event and make sure that it's ready for your
+      guests to enjoy.
   - title: Why It's A Crowd Favourite
     image: /images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg
     body: >-
       Our Candy Cane Snatch It brings an interactive yet fun and festive
-      experience that your guests won't forget. It's the perfect game to
-      bring out everyone's competitive spirit on top of adding a touch of
-      festive magic.
+      experience that your guests won't forget. It's the perfect game to bring
+      out everyone's competitive spirit on top of adding a touch of festive
+      magic.
 
 
       Both children and adults can enjoy the challenge of the game. It's a
       versatile addition to different types of events — from family-friendly
-      gatherings to corporate festive holiday parties. Let the excitement
-      build as guests take turns.
+      gatherings to corporate festive holiday parties. Let the excitement build
+      as guests take turns.
 
 
       Wherever your festive holiday event is in the UK, Fun Pro is ready to
       deliver, bringing the holiday cheer to Birmingham, Leicester, London,
-      Manchester, and beyond. Booking and delivery is easy and absolutely
-      hassle free.
+      Manchester, and beyond. Booking and delivery is easy and absolutely hassle
+      free.
   - title: Delivery
     body: >-
-      Delivered and installed on site by our trained team. Our events team
-      of professionals will handle the logistics for you. We'll deliver the
-      Candy Cane Snatch It game to your venue, set it up, and ensure that
-      the game is running smoothly for your guests to enjoy.
+      Delivered and installed on site by our trained team. Our events team of
+      professionals will handle the logistics for you. We'll deliver the Candy
+      Cane Snatch It game to your venue, set it up, and ensure that the game is
+      running smoothly for your guests to enjoy.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which include the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      We are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      When the event is over, we'll return to dismantle and collect the
-      Candy Cane Snatch It. We'll leave your venue exactly as we found it.
+      When the event is over, we'll return to dismantle and collect the Candy
+      Cane Snatch It. We'll leave your venue exactly as we found it.
 
 
-      Please note the equipment cannot be carried up or down flights of
-      stairs. A lift is required for upper floor venues.
+      Please note the equipment cannot be carried up or down flights of stairs.
+      A lift is required for upper floor venues.
 ---
