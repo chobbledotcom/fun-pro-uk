@@ -1,6 +1,6 @@
 ---
-title: Bungee Run
-subtitle: "Inflatable bungee-cord racing lane"
+title: Bungee Run Hire
+subtitle: Inflatable bungee-cord racing lane
 price: £395
 order: 50
 meta_title: Bungee Run | Corporate Entertainment | Fun Pro UK
@@ -81,21 +81,20 @@ tabs:
       Our Bungee Run Hire is great to use at a variety of events. Activity and
       team building days are a fabulous way to build relationships with work
       colleagues. Lots of fun can be had whether it's a sporting event, a
-      private party, a charity event, or a promotion. Whatever your
-      celebration, this will sure draw a happy crowd!
+      private party, a charity event, or a promotion. Whatever your celebration,
+      this will sure draw a happy crowd!
   - title: How It Works
     body: >-
       Each player takes their starting position on their inflatable brightly
-      coloured lane. Our Fun Experts will be there waiting to help you into
-      your bungee run belt, which is attached to the back of the inflatable
-      run.
+      coloured lane. Our Fun Experts will be there waiting to help you into your
+      bungee run belt, which is attached to the back of the inflatable run.
 
 
       When both contestants are ready to begin the challenge, each player will
       run as fast as their legs will carry them along the bungee until they
       can't get any further. They then place a marker on the side of the track.
-      Just when you think you've finished, the bungee cord will drag you back
-      to the start to begin all over again!
+      Just when you think you've finished, the bungee cord will drag you back to
+      the start to begin all over again!
 
 
       Everyone can play and test their strength and speed — whether it's
@@ -117,10 +116,10 @@ tabs:
       themselves.
 
 
-      The competition stays meaningful despite the comedy. Players genuinely
-      try to place their markers the furthest, creating real rivalry and
-      celebrating victories. The head-to-head format means there's always a
-      clear winner and the drama builds with every run.
+      The competition stays meaningful despite the comedy. Players genuinely try
+      to place their markers the furthest, creating real rivalry and celebrating
+      victories. The head-to-head format means there's always a clear winner and
+      the drama builds with every run.
 
 
       For team building specifically, the slight vulnerability of being pulled
@@ -140,10 +139,10 @@ tabs:
       Nottingham, Leicester, Telford, Leeds, Milton Keynes, and Sheffield.
 
 
-      Please note the Bungee Run cannot be carried up or down flights of
-      stairs — a lift is required for upper-floor venues. It needs drive-on
-      access for delivery and a level surface for setup, suitable for both
-      indoor and outdoor use.
+      Please note the Bungee Run cannot be carried up or down flights of stairs
+      — a lift is required for upper-floor venues. It needs drive-on access for
+      delivery and a level surface for setup, suitable for both indoor and
+      outdoor use.
 
 
       Minimum order value and delivery charges may apply depending on your
