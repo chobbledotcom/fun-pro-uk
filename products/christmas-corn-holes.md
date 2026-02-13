@@ -1,6 +1,6 @@
 ---
-title: Christmas Corn Holes
-subtitle: "Festive-themed bean bag toss game for 2–4 players"
+title: Christmas Corn Hole Hire
+subtitle: Festive-themed bean bag toss game for 2–4 players
 order: 50
 meta_title: Christmas Corn Holes - Exhibition and Game Hire in Nationwide | Fun Pro UK
 meta_description: Christmas Corn Holes is one of the wide range of products
@@ -99,25 +99,23 @@ tabs:
       interaction.
   - title: Delivery
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. We offer delivery
-      throughout the UK, including Exeter, Cardiff, Bristol, Birmingham
-      including the NEC and ICC Arena, Reading, Oxford, Swindon, London,
-      Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. We offer delivery throughout the
+      UK, including Exeter, Cardiff, Bristol, Birmingham including the NEC and
+      ICC Arena, Reading, Oxford, Swindon, London, Coventry including the CBS
+      Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes, and
+      Sheffield. We are able to cover the whole of the UK on request.
 
 
-      Minimum order value and delivery fees may apply to all locations. Our
-      team arrives with adequate time before your event to position and test
+      Minimum order value and delivery fees may apply to all locations. Our team
+      arrives with adequate time before your event to position and test
       everything, ensuring it's ready for your first guests.
 
 
       Christmas Corn Holes requires no power and fits through standard door
-      widths, making positioning straightforward. The equipment is suitable
-      for indoor use only on a level surface. When your event wraps up, we
-      handle the packdown and collection, leaving you free to focus on your
-      guests.
+      widths, making positioning straightforward. The equipment is suitable for
+      indoor use only on a level surface. When your event wraps up, we handle
+      the packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: How many people can play Christmas Corn Holes at once?
     answer: The game accommodates 2-4 players, typically in teams of two competing
