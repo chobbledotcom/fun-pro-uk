@@ -1,6 +1,6 @@
 ---
-title: Green screen photo booths
-subtitle: "Photo booth with customisable digital backgrounds"
+title: Green screen photo booth hire
+subtitle: Photo booth with customisable digital backgrounds
 price: £450
 order: 50
 meta_title: Green Screen Photo Booth Hire, Photo Booths Hire Manchester
@@ -172,16 +172,15 @@ tabs:
       the curtain, pose, and press the button. A green screen means the
       background of the photo booth allows you to choose your background that
       will appear on the final prints and images. There are a wide range of
-      backgrounds that can be chosen based on your party theme, whether it's
-      a holiday, a wedding, or a birthday party.
+      backgrounds that can be chosen based on your party theme, whether it's a
+      holiday, a wedding, or a birthday party.
 
 
       Your photo booth hire package includes unlimited guest visits, two prints
       per visit in colour, black and white or sepia tones, a green screen
       background, props to make the pictures even more creative, a private
-      cloud-based link to your photos sent after your event, the chance to
-      brand every image with names or captions, and a choice of exterior booth
-      covers.
+      cloud-based link to your photos sent after your event, the chance to brand
+      every image with names or captions, and a choice of exterior booth covers.
 
 
       To help your guests get the best of the incredible features, every green
@@ -191,9 +190,9 @@ tabs:
   - title: Why It's A Crowd Favourite
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg
     body: >-
-      Photo booths are always fun but you can make them even better with a
-      green screen photo booth hire for your next party event. Photo booths are
-      a great way to encourage interaction and fun for all ages of party or
+      Photo booths are always fun but you can make them even better with a green
+      screen photo booth hire for your next party event. Photo booths are a
+      great way to encourage interaction and fun for all ages of party or
       company events. Our green screen booths are sure to add that extra touch
       of fun to your next party.
 
@@ -205,16 +204,16 @@ tabs:
       show.
 
 
-      Naturally, this top of the range photo booth is extremely popular, so
-      book now to secure your preferred date, or talk to our team for expert
-      events planning advice.
+      Naturally, this top of the range photo booth is extremely popular, so book
+      now to secure your preferred date, or talk to our team for expert events
+      planning advice.
   - title: Delivery
     image: /images/products/green-screen-photo-booths/green-screen-photo-booths-23.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. We'll have staff on
-      hand to assist with the photos and to handle the photo booth supplies
-      and technical details.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. We'll have staff on hand to
+      assist with the photos and to handle the photo booth supplies and
+      technical details.
 
 
       We deliver nationwide across the UK from our Midlands base, including
@@ -227,13 +226,13 @@ tabs:
 
       This equipment is indoor use only and requires a minimum door width of
       0.6m. It cannot be carried up or down flights of stairs, so a lift is
-      required for upper floors. All you need to do is choose your venue and
-      the perfect location in your party room for the booth.
+      required for upper floors. All you need to do is choose your venue and the
+      perfect location in your party room for the booth.
 
 
-      All equipment is PAT tested and maintained to professional standards.
-      When your event wraps up, we handle the packdown and collection, leaving
-      you free to focus on your guests.
+      All equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many people can use the Green Screen Photo Booth at once?
     answer: Groups of 1-8 can be photographed together, with the green screen
