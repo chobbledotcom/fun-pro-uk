@@ -17,7 +17,6 @@ categories:
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
-  - events/christmas-entertainment.md
   - events/college-entertainment.md
   - events/company-award-ceremonies.md
   - events/corporate-events.md
