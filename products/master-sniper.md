@@ -37,7 +37,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (2700W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 30-60 minutes
   - name: Equipment Size
     value: 1.37m x 2.42m x 2.49m
   - name: Suitability
@@ -52,7 +52,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -154,7 +154,8 @@ faqs:
   - question: What power do you need?
     answer: Power requirements vary by configuration. We'll confirm details when
       discussing your event.
-thumbnail: /images/Screenshot 2025-12-01 092954.jpg
+thumbnail: /images/products/Master sniper/3BC37FDC26B6775CA58BEB6A698EE204.avif
 gallery:
+  - /images/products/Master sniper/3BC37FDC26B6775CA58BEB6A698EE204.avif
   - /images/products/Master sniper/Size.jpg
 ---
