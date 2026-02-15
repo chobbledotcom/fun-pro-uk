@@ -24,7 +24,7 @@ specs:
   - name: Power
     value: No power required
   - name: Setup time
-    value: 15-20 minutes
+    value: 5-10 minutes
   - name: Equipment Size
     value: 0.4m x 0.4m x 0.62m
   - name: Suitability
