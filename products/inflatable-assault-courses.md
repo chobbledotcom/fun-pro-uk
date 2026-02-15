@@ -1,6 +1,6 @@
 ---
 title: Inflatable Assault Course
-subtitle: "Inflatable obstacle course for racing two at a time"
+subtitle: Inflatable obstacle course for racing two at a time
 price: £450
 order: 50
 meta_title: Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent
@@ -31,7 +31,7 @@ specs:
   - name: Power
     value: 3 x Power Socket (800W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 30-60 minutes
   - name: Equipment Size
     value: 28.0m x 21.4m x 3.35m
   - name: Suitability
@@ -41,7 +41,7 @@ specs:
   - name: Guest Capacity
     value: 100-500+ guests
   - name: Game Length
-    value: 45-60 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 100-500+ guests
@@ -84,86 +84,81 @@ tabs:
   - title: Why INFLATABLE ASSAULT COURSES?
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-10.jpg
     body: >-
-      Your company fun day is all about getting your team out of the office
-      and off the factory floor to let their hair down and try something
-      new. And there's no better way to bring out the big kid in the most
-      serious staff member than one of our incredible inflatable assault
-      courses.
+      Your company fun day is all about getting your team out of the office and
+      off the factory floor to let their hair down and try something new. And
+      there's no better way to bring out the big kid in the most serious staff
+      member than one of our incredible inflatable assault courses.
 
 
-      Packed with obstacles from end to end, these big, bright and
-      colourful inflatables will really stand out at any company fun day,
-      drawing crowds and laying down the challenge to your colleagues. They
-      are the perfect choice for injecting thrills and challenges into your
-      event.
+      Packed with obstacles from end to end, these big, bright and colourful
+      inflatables will really stand out at any company fun day, drawing crowds
+      and laying down the challenge to your colleagues. They are the perfect
+      choice for injecting thrills and challenges into your event.
 
 
       An inflatable obstacle course is a much safer version of your usual
-      obstacle course. Instead of having the hard ground beneath you, there
-      are inflatables protecting everyone from injury, making them ideal
-      for adults and older children alike.
+      obstacle course. Instead of having the hard ground beneath you, there are
+      inflatables protecting everyone from injury, making them ideal for adults
+      and older children alike.
   - title: How It Works
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-9.jpg
     body: >-
-      You can leave your guests to have fun, exploring the assault course
-      in their own way, or you can really get organised and turn it into a
-      tournament. Race staff against management, head to head to see who
-      emerges first at the other end, or race each competitor against the
-      clock to see who is the fastest overall on the day.
+      You can leave your guests to have fun, exploring the assault course in
+      their own way, or you can really get organised and turn it into a
+      tournament. Race staff against management, head to head to see who emerges
+      first at the other end, or race each competitor against the clock to see
+      who is the fastest overall on the day.
 
 
       A referee can be on hand to time two players, or to make a record of
-      various players' time through the course. A prize can be offered to
-      the winner at the end. Up to six to eight people at a time can be on
-      the course. You can even allow a few rounds just for fun before the
-      real competition begins.
+      various players' time through the course. A prize can be offered to the
+      winner at the end. Up to six to eight people at a time can be on the
+      course. You can even allow a few rounds just for fun before the real
+      competition begins.
 
 
-      Our staff will deliver to your location, set them up, inflate with
-      air, and ensure they're fully cleaned and disinfected. There will be
-      an attendant on hand to ensure that everyone uses the obstacle course
-      safely.
+      Our staff will deliver to your location, set them up, inflate with air,
+      and ensure they're fully cleaned and disinfected. There will be an
+      attendant on hand to ensure that everyone uses the obstacle course safely.
   - title: Why It's A Crowd Favourite
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-10.jpg
     body: >-
-      Inflatable assault courses are fantastic for team building. Simply
-      split your staff into teams, or pit department against department,
-      and arrange relay races. You'll love the rivalry and bonding that
-      goes on as your staff scream encouragement to each other.
+      Inflatable assault courses are fantastic for team building. Simply split
+      your staff into teams, or pit department against department, and arrange
+      relay races. You'll love the rivalry and bonding that goes on as your
+      staff scream encouragement to each other.
 
 
-      You'll be surprised who turns out to be a closet Laura Croft or
-      undercover Indiana Jones. Whether you want to see who emerges as the
-      quickest through the course or encourage departmental rivalry through
-      relay races, these courses provide a dynamic and engaging experience
-      for all participants.
+      You'll be surprised who turns out to be a closet Laura Croft or undercover
+      Indiana Jones. Whether you want to see who emerges as the quickest through
+      the course or encourage departmental rivalry through relay races, these
+      courses provide a dynamic and engaging experience for all participants.
 
 
-      The spectator element is excellent. Crowds gather to watch races,
-      cheer competitors, and enjoy the mayhem. There's also something
-      levelling about assault courses. Job titles don't matter when you're
-      climbing inflatable walls, and that creates memorable moments that
-      everyone talks about afterwards.
+      The spectator element is excellent. Crowds gather to watch races, cheer
+      competitors, and enjoy the mayhem. There's also something levelling about
+      assault courses. Job titles don't matter when you're climbing inflatable
+      walls, and that creates memorable moments that everyone talks about
+      afterwards.
   - title: Delivery
     image: /images/products/inflatable-assault-courses/inflatable-assault-courses-7.jpg
     body: >-
-      Delivered and installed on site by our trained team. We handle
-      delivery, setup, and collection as part of your hire, so there's
-      nothing for you to coordinate on the day.
+      Delivered and installed on site by our trained team. We handle delivery,
+      setup, and collection as part of your hire, so there's nothing for you to
+      coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry including the CBS Arena, Nottingham,
-      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able
-      to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry including the CBS Arena, Nottingham, Leicester,
+      Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the
+      whole of the UK on request.
 
 
-      This equipment requires drive-on access only and cannot be carried up
-      or down flights of stairs. A lift is required for upper floors. At
-      the end of the party, the inflatable will be cleaned, deflated, and
-      packed up, then removed from the site. You don't need to do any of
-      the work.
+      This equipment requires drive-on access only and cannot be carried up or
+      down flights of stairs. A lift is required for upper floors. At the end of
+      the party, the inflatable will be cleaned, deflated, and packed up, then
+      removed from the site. You don't need to do any of the work.
 
 
       All equipment is PAT tested and maintained to professional standards,
