@@ -34,7 +34,7 @@ specs:
   - name: Power
     value: No power required
   - name: Setup time
-    value: 15-20 minutes
+    value: 20-60 minutes
   - name: Equipment Size
     value: 1.9m x 0.6m
   - name: Suitability
@@ -44,7 +44,7 @@ specs:
   - name: Guest Capacity
     value: 50-500+ guests
   - name: Game Length
-    value: 30-45 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests
