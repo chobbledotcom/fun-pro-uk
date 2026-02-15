@@ -1,12 +1,12 @@
 ---
 title: Pick N Mix Hire
-subtitle: "Pick and mix sweet stand with branded display options"
+subtitle: Pick and mix sweet stand with branded display options
 price: £550
 order: 50
 meta_title: Pick N Mix Hire | Sweet Stand Hire | Fun Pro UK
-meta_description: Hire our Pick N Mix sweet stand with 19 trays of assorted sweets
-  for corporate events, fun days, and exhibitions. Branded display options
-  available. UK wide delivery.
+meta_description: Hire our Pick N Mix sweet stand with 19 trays of assorted
+  sweets for corporate events, fun days, and exhibitions. Branded display
+  options available. UK wide delivery.
 categories:
   - categories/fun-foods.md
   - categories/arcade-games.md
@@ -45,7 +45,7 @@ specs:
   - name: Power
     value: No power required
   - name: Setup time
-    value: 15-20 minutes
+    value: 15-30 minutes
   - name: Equipment Size
     value: 1.0m x 0.5m x 1.3m
   - name: Suitability
@@ -125,46 +125,90 @@ tabs:
   - title: Why Pix N Mix Hire?
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg
     body: >-
-      Indulge your guests in a delightful array of sweet treats with our Pix N Mix Hire service. Perfect for conferences, well-being days, exhibitions, fun days, and brand activations, our Pix N Mix stands offer a mouth-watering selection of candies that will leave everyone with a sugar rush of happiness.
+      Indulge your guests in a delightful array of sweet treats with our Pix N
+      Mix Hire service. Perfect for conferences, well-being days, exhibitions,
+      fun days, and brand activations, our Pix N Mix stands offer a
+      mouth-watering selection of candies that will leave everyone with a sugar
+      rush of happiness.
 
 
-      Our Pix N Mix stands come fully loaded with a whopping 19 trays of assorted sweets, ensuring there is plenty to go around for all your attendees. Each stand features 19 clear dispensers, allowing guests to pick and mix their favourite treats with ease. The stand is also equipped with paper bags, tongs, and scoops, making the experience both convenient and enjoyable for all.
+      Our Pix N Mix stands come fully loaded with a whopping 19 trays of
+      assorted sweets, ensuring there is plenty to go around for all your
+      attendees. Each stand features 19 clear dispensers, allowing guests to
+      pick and mix their favourite treats with ease. The stand is also equipped
+      with paper bags, tongs, and scoops, making the experience both convenient
+      and enjoyable for all.
 
 
-      Make your event a memorable one with Pix N Mix Hire, the ultimate sweet sensation that promises to enhance any occasion. Pick N Mix sweet stand hire is very popular with both children and adults alike.
+      Make your event a memorable one with Pix N Mix Hire, the ultimate sweet
+      sensation that promises to enhance any occasion. Pick N Mix sweet stand
+      hire is very popular with both children and adults alike.
   - title: How It Works
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-7.jpg
     body: >-
-      Our Pick N Mix stands are delivered with a huge variety of sweets. The sweets that are supplied come to a total whopping weight of 40 kgs of pure candy, ensuring there will be lots to go around for all of your guests. Each of our Pick N Mix stands are supplied with paper bags, tongs and scoops for the sweet treats.
+      Our Pick N Mix stands are delivered with a huge variety of sweets. The
+      sweets that are supplied come to a total whopping weight of 40 kgs of pure
+      candy, ensuring there will be lots to go around for all of your guests.
+      Each of our Pick N Mix stands are supplied with paper bags, tongs and
+      scoops for the sweet treats.
 
 
-      There is a whole range of sweets to choose from such as Jelly Beans, Cola bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoams and much more. All sweets are subject to availability. Each stand has a total of 19 separate clear dispensers and all the contents can be seen clearly.
+      There is a whole range of sweets to choose from such as Jelly Beans, Cola
+      bottles, Marshmallows, Giant Haribo Strawberries, Yellow bellies, Maoams
+      and much more. All sweets are subject to availability. Each stand has a
+      total of 19 separate clear dispensers and all the contents can be seen
+      clearly.
 
 
-      Our team will deliver the sweet stand to your destination. They will set up, filling the separate dispensers with your choice of sweets prior to the beginning of your event. Once your hire is complete we will then return to collect and pack down the stand.
+      Our team will deliver the sweet stand to your destination. They will set
+      up, filling the separate dispensers with your choice of sweets prior to
+      the beginning of your event. Once your hire is complete we will then
+      return to collect and pack down the stand.
   - title: Why It's A Crowd Favourite
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg
     body: >-
-      The sweet stand hire is a huge attraction for corporate events, fun days, exhibition stands along with brand activations. All the contents can be seen clearly and will engage your guests immediately as their favourite sweet catches their eye.
+      The sweet stand hire is a huge attraction for corporate events, fun days,
+      exhibition stands along with brand activations. All the contents can be
+      seen clearly and will engage your guests immediately as their favourite
+      sweet catches their eye.
 
 
-      Whether you wish to attract more footfall to your stand, add our branded sweet stand to a new product launch or offer your employees a sweet surprise at work in the office, we can guarantee this stand will bring the results you require.
+      Whether you wish to attract more footfall to your stand, add our branded
+      sweet stand to a new product launch or offer your employees a sweet
+      surprise at work in the office, we can guarantee this stand will bring the
+      results you require.
 
 
-      Our Pick N Mix stands have the ability to be personalised with your company name and logo in the colours you desire both at the sides and the top of the stand. Branding this sweet stand along with our range of interactive games will ensure your company stands out from the crowd at exhibitions and promotional events.
+      Our Pick N Mix stands have the ability to be personalised with your
+      company name and logo in the colours you desire both at the sides and the
+      top of the stand. Branding this sweet stand along with our range of
+      interactive games will ensure your company stands out from the crowd at
+      exhibitions and promotional events.
   - title: Delivery
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-5.jpg
     body: >-
-      As a nationwide hire company, we can provide everything you need for your party or event. We handle delivery, setup, and collection as part of your hire, so there is nothing for you to coordinate on the day.
+      As a nationwide hire company, we can provide everything you need for your
+      party or event. We handle delivery, setup, and collection as part of your
+      hire, so there is nothing for you to coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter, Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon, London, Coventry which include the CBS Arena, Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Please note the stand cannot be carried up or down flights of stairs and a lift is required for upper floors. Our team arrives with adequate time before your event to position and set up everything, ensuring it is ready for your first guests.
+      Please note the stand cannot be carried up or down flights of stairs and a
+      lift is required for upper floors. Our team arrives with adequate time
+      before your event to position and set up everything, ensuring it is ready
+      for your first guests.
 
 
-      Minimum order value and delivery fees may apply to all locations. All equipment is PAT tested and maintained to professional standards. When your event wraps up, we handle the packdown and collection, leaving you free to focus on your guests.
+      Minimum order value and delivery fees may apply to all locations. All
+      equipment is PAT tested and maintained to professional standards. When
+      your event wraps up, we handle the packdown and collection, leaving you
+      free to focus on your guests.
 faqs:
   - question: How many guests can the Pick N Mix serve?
     answer: Our Pick N Mix display comfortably serves events of 20-200 guests. The
