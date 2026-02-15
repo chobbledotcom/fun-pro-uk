@@ -39,7 +39,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 60-90 minutes
   - name: Power Required
     value: Mains power required
   - name: Player Count
