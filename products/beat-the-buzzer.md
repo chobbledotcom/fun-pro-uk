@@ -1,6 +1,6 @@
 ---
 title: Beat The Buzzer Hire
-subtitle: "Timed skill challenge game with buzzer"
+subtitle: Timed skill challenge game with buzzer
 price: £350
 order: 50
 meta_title: Beat The Buzzer Hire – Test Your Skills Event Game
@@ -41,7 +41,7 @@ specs:
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: "1.24m x 0.3m x 0.68m"
+    value: 1.24m x 0.3m x 0.68m
   - name: Suitability
     value: Indoor only / Level surface
   - name: Access
@@ -49,12 +49,12 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 10-20 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 1-2 minutes
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -121,10 +121,9 @@ tabs:
 
 
       Whether you're hosting a team-building event, brand activation campaign,
-      or simply want to increase foot traffic and engagement at your next
-      event, Beat The Buzzer is the perfect addition to your lineup. This
-      interactive game is guaranteed to entertain and challenge participants
-      of all ages.
+      or simply want to increase foot traffic and engagement at your next event,
+      Beat The Buzzer is the perfect addition to your lineup. This interactive
+      game is guaranteed to entertain and challenge participants of all ages.
 
 
       Searching for a fun game that won't take up too much room for your next
@@ -139,59 +138,59 @@ tabs:
       touching the metal frame and setting off the nerve-wracking beep.
 
 
-      The clock is ticking, and the pressure is on to beat your best time
-      and claim victory. This interactive table top game appears easy but
-      will put everyone to the test!
+      The clock is ticking, and the pressure is on to beat your best time and
+      claim victory. This interactive table top game appears easy but will put
+      everyone to the test!
 
 
       Why not hire our leader board to record the winning time it takes to
-      complete the challenge. The game requires 1 x mains plug socket and
-      cannot be carried up or down flights of stairs — a lift is required
-      for upper floors.
+      complete the challenge. The game requires 1 x mains plug socket and cannot
+      be carried up or down flights of stairs — a lift is required for upper
+      floors.
   - title: Why It's A Crowd Favourite
     image: /images/products/beat-the-buzzer/beat-the-buzzer-4.jpg
     body: >-
-      This competitive game will attract a crowd to your exhibition stand
-      and increase your footfall. Beat The Buzzer is a fun game where
-      everyone can take part, and watching someone race against time creates
-      genuine excitement for spectators counting down with them.
+      This competitive game will attract a crowd to your exhibition stand and
+      increase your footfall. Beat The Buzzer is a fun game where everyone can
+      take part, and watching someone race against time creates genuine
+      excitement for spectators counting down with them.
 
 
       Everyone loves to take part in Team Building games at Office Fun Days,
-      Family Days and Corporate events. Beat The Buzzer and its larger
-      brother the Giant Buzz Wire are great games to hire for Family Fun
-      Days along with our large inflatables.
+      Family Days and Corporate events. Beat The Buzzer and its larger brother
+      the Giant Buzz Wire are great games to hire for Family Fun Days along with
+      our large inflatables.
 
 
-      The shared tension of the countdown, the mounting pressure, the relief
-      or disappointment when the buzzer sounds — it creates memorable
-      moments. Successfully beating the buzzer becomes a talking point,
-      whilst near-misses generate friendly commiseration. Hire your games
-      from Fun Pro UK today and ensure your event is one to be remembered!
+      The shared tension of the countdown, the mounting pressure, the relief or
+      disappointment when the buzzer sounds — it creates memorable moments.
+      Successfully beating the buzzer becomes a talking point, whilst
+      near-misses generate friendly commiseration. Hire your games from Fun Pro
+      UK today and ensure your event is one to be remembered!
   - title: Delivery
     image: /images/products/beat-the-buzzer/beat-the-buzzer-1.jpg
     body: >-
-      We handle delivery, setup, and collection as part of your hire, so
-      there's nothing for you to coordinate on the day. Delivered and
-      installed on site by our trained team.
+      We handle delivery, setup, and collection as part of your hire, so there's
+      nothing for you to coordinate on the day. Delivered and installed on site
+      by our trained team.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which include the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield.
-      We are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
-      Please note the equipment cannot be carried up or down flights of
-      stairs — a lift is required. Minimum door width 0.6m for access.
-      Minimum order value and delivery fees apply to all locations.
+      Please note the equipment cannot be carried up or down flights of stairs —
+      a lift is required. Minimum door width 0.6m for access. Minimum order
+      value and delivery fees apply to all locations.
 
 
-      Our team arrives with adequate time before your event to position and
-      test everything, ensuring it's ready for your first guests. All
-      equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind.
+      Our team arrives with adequate time before your event to position and test
+      everything, ensuring it's ready for your first guests. All equipment is
+      PAT tested and maintained to professional standards, giving you complete
+      peace of mind.
 faqs:
   - question: How many people can play Beat the Buzzer at once?
     answer: The game accommodates 1-4 players, with the countdown format creating
