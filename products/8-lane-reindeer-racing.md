@@ -34,7 +34,7 @@ specs:
   - name: Guest Capacity
     value: 50-500+ guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 1-2 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests
