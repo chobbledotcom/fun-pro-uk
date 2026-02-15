@@ -42,7 +42,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 30-60 seconds
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -72,12 +72,14 @@ options:
 redirect_from:
   - /category/arcade-games/39/dance-machine/
 gallery:
+  - /images/products/dance-machine/18c50e20-bb73-4dfa-b2bf-30f3e77911a5.jpg
   - /images/products/dance-machine/dance-machine-1.jpg
   - /images/products/dance-machine/dance-machine-2.jpg
   - /images/products/dance-machine/dance-machine-3.jpg
   - /images/products/dance-machine/dance-machine-4.jpg
   - /images/products/dance-machine/dance-machine-5.jpg
   - /images/products/dance-machine/dance-machine-6.jpg
+  - /images/products/dance-machine/436373da-031e-49e9-bfd4-c6b1e66fa899.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d84557d92f7aee817cef2f27128f766f
@@ -214,4 +216,5 @@ faqs:
 videos:
   - id: 7N5e7JZEdGg
     title: Dance Machine
+thumbnail: /images/products/dance-machine/dance-machine-1.jpg
 ---
