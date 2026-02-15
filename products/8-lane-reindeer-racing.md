@@ -24,7 +24,7 @@ specs:
   - name: Power
     value: 2 x Power Socket (180-230W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 60-90 minutes
   - name: Equipment Size
     value: 5.6m x 4.6m x 2.1m
   - name: Suitability
@@ -39,7 +39,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests
   - name: Game Length
-    value: 60-90 minutes
+    value: 1 minute
   - name: Power Required
     value: Mains power required
   - name: Player Count
