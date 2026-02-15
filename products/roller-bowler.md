@@ -1,6 +1,6 @@
 ---
 title: Roller Bowler Hire
-subtitle: Mechanical ball-rolling skill game, no power needed
+subtitle: Ball-rolling skill game, no power needed
 price: £395
 order: 50
 meta_title: Roller Bowler Hire UK | Corporate Events & Exhibitions
@@ -40,7 +40,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -59,6 +59,8 @@ redirect_from:
   - /category/arcade-games/111/roller-bowler/
 gallery:
   - /images/products/roller-bowler/roller-bowler-1.jpg
+  - /images/products/roller-bowler/a1ca7603-4f47-43fc-9c0f-bc8b6b7a8835.jpg
+  - /images/products/roller-bowler/IMG-20251110-WA0013.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e
 faqs:
