@@ -82,6 +82,8 @@ gallery:
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-28.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg
+  - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg
+  - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-24.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22aad19e6a06df952e96c67373a98ee
@@ -144,7 +146,7 @@ tabs:
       Roll and Bowl Donkey Derby is a surefire way to leave a lasting
       impression.
   - title: How It Works
-    image: /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-28.jpg
+    image: /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-18.jpg
     body: >-
       Each player selects their favourite donkey, takes their stand, and waits
       for the race to begin. At the starter's order, you'll roll and bowl your
@@ -163,7 +165,7 @@ tabs:
       participant at the end of your event, or just play for fun! People will
       love showing off their skills in this Roll and Bowl game.
   - title: Why It's A Crowd Favourite
-    image: /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg
+    image: /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg
     body: >-
       Roll up and take the reins as you play to win in our fun and interactive
       Roll and Bowl Donkey Derby game. Can you guide your trusty donkey to the
