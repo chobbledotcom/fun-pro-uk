@@ -57,7 +57,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: No power required
   - name: Player Count
@@ -202,4 +202,5 @@ faqs:
   - question: Does it need power?
     answer: Typically no for the basic buzzer, though configuration may vary. We'll
       confirm when discussing your event.
+thumbnail: /images/products/giant-buzz-wire/giant-buzz-wire-1.jpg
 ---
