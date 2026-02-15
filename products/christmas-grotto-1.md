@@ -1,6 +1,6 @@
 ---
 title: Christmas Grotto 1
-subtitle: "Inflatable walk-in Santa's grotto, 9.1m x 6m"
+subtitle: Inflatable walk-in Santa's grotto, 9.1m x 6m
 order: 50
 meta_title: Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK
 meta_description: Blow-up Santa&#39;s Grotto for Christmas! Perfect for places
@@ -23,7 +23,7 @@ specs:
   - name: Power
     value: 4 x 13A Sockets
   - name: Setup time
-    value: 15-20 minutes
+    value: 60-90 minutes
   - name: Equipment Size
     value: 3.5m x 3.5m x 2.8m
   - name: Suitability
@@ -33,7 +33,7 @@ specs:
   - name: Guest Capacity
     value: 100-500+ guests
   - name: Game Length
-    value: 60-90 minutes
+    value: N/A
 filter_attributes:
   - name: Guest Capacity
     value: 100-500+ guests
@@ -69,11 +69,11 @@ tabs:
     image: /images/products/christmas-grotto-1/christmas-grotto-1-6.jpg
     body: >-
       Christmas is a magical time for everyone, from your staff and their
-      families, to your clients and customers. So make sure you put on a
-      great show with our inflatable Santa's grotto for hire, available
-      nationwide. This magnificent grotto will make all their dreams come
-      true, with an enchanting setting for Father Christmas to meet the
-      young and the young at heart.
+      families, to your clients and customers. So make sure you put on a great
+      show with our inflatable Santa's grotto for hire, available nationwide.
+      This magnificent grotto will make all their dreams come true, with an
+      enchanting setting for Father Christmas to meet the young and the young at
+      heart.
 
 
       It's the perfect way to show your appreciation to your team during the
@@ -84,24 +84,24 @@ tabs:
 
 
       Our inflatable festive grotto for hire is finished to a spectacular
-      standard with enchanting artwork. Look out for the elves peeking out
-      of the windows, and gasp in wonder at all the presents stacked up on
-      Santa's sleigh.
+      standard with enchanting artwork. Look out for the elves peeking out of
+      the windows, and gasp in wonder at all the presents stacked up on Santa's
+      sleigh.
   - title: How It Works
     image: /images/products/christmas-grotto-1/christmas-grotto-1-5.jpg
     body: >-
-      Just like your Christmas turkey, our Christmas grotto for hire comes
-      with all the trimmings, which will be set up fully by our team in
-      plenty of time for your event. Outside, the package includes a white
-      picket fence, snow covered trees, a snowman or reindeer, small street
-      lamps, small Christmas trees, sparkling lights, snow effect flooring,
-      and even a red carpet for your guests.
+      Just like your Christmas turkey, our Christmas grotto for hire comes with
+      all the trimmings, which will be set up fully by our team in plenty of
+      time for your event. Outside, the package includes a white picket fence,
+      snow covered trees, a snowman or reindeer, small street lamps, small
+      Christmas trees, sparkling lights, snow effect flooring, and even a red
+      carpet for your guests.
 
 
       Inside is beautifully lit with fairy lights, a twinkling tree, and a
-      special seat for Santa himself. The enchanting artwork and attention
-      to detail create an immersive experience that genuinely transports
-      visitors into a winter wonderland.
+      special seat for Santa himself. The enchanting artwork and attention to
+      detail create an immersive experience that genuinely transports visitors
+      into a winter wonderland.
 
 
       Guests can visit the grotto throughout your event, creating photo
@@ -111,22 +111,22 @@ tabs:
     image: /images/products/christmas-grotto-1/christmas-grotto-1-6.jpg
     body: >-
       Inflatable grotto hire is perfect for your company Christmas party,
-      getting everyone feeling festive. The immersive experience of entering
-      a properly themed grotto feels magical in a way that decorations alone
+      getting everyone feeling festive. The immersive experience of entering a
+      properly themed grotto feels magical in a way that decorations alone
       simply don't achieve. Adults and children alike genuinely enjoy the
       experience.
 
 
-      Don't forget to add a photo booth or a selfie station to your hire,
-      so your guests can get a picture with the big man himself. The grotto
-      photos become holiday keepsakes that guests associate with your
-      organisation, creating lasting memories long after the event.
+      Don't forget to add a photo booth or a selfie station to your hire, so
+      your guests can get a picture with the big man himself. The grotto photos
+      become holiday keepsakes that guests associate with your organisation,
+      creating lasting memories long after the event.
 
 
-      Please note that this is a highly popular hire, so make sure you
-      contact us to book as early as possible to get your preferred date. We
-      can deliver nationwide, just like Santa himself, although we usually
-      use the roads, not the rooftops!
+      Please note that this is a highly popular hire, so make sure you contact
+      us to book as early as possible to get your preferred date. We can deliver
+      nationwide, just like Santa himself, although we usually use the roads,
+      not the rooftops!
   - title: Delivery
     image: /images/products/christmas-grotto-1/christmas-grotto-1-3.jpg
     body: >-
@@ -134,21 +134,21 @@ tabs:
       everything installed on site by our trained team. We offer delivery
       throughout the UK, including Exeter, Cardiff, Bristol, Birmingham
       including the NEC and ICC Arena, Reading, Oxford, Swindon, London,
-      Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      Coventry including the CBS Arena, Nottingham, Leicester, Telford, Leeds,
+      Milton Keynes, and Sheffield. We are able to cover the whole of the UK on
+      request.
 
 
-      Minimum order value and delivery fees may apply to all locations. Our
-      team arrives with adequate time before your event to set up the full
-      grotto experience, including all props and theming, ensuring
-      everything is ready for your first guests.
+      Minimum order value and delivery fees may apply to all locations. Our team
+      arrives with adequate time before your event to set up the full grotto
+      experience, including all props and theming, ensuring everything is ready
+      for your first guests.
 
 
-      The grotto requires 4 x 13A power sockets and is suitable for both
-      indoor and outdoor use on a level surface. Drive-on access is required
-      for delivery. When your event wraps up, we handle the packdown and
-      collection, leaving you free to focus on your guests.
+      The grotto requires 4 x 13A power sockets and is suitable for both indoor
+      and outdoor use on a level surface. Drive-on access is required for
+      delivery. When your event wraps up, we handle the packdown and collection,
+      leaving you free to focus on your guests.
 faqs:
   - question: How big is the Christmas Grotto?
     answer: Size varies by configuration. We'll discuss your available space and the
