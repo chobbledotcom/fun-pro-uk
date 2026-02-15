@@ -44,7 +44,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 5-10 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -207,4 +207,5 @@ faqs:
   - question: Does it need power?
     answer: No, Corn Hole requires no power at all, giving you complete flexibility
       with positioning.
+thumbnail: /images/products/corn-hole/corn-hole-1.jpg
 ---
