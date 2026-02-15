@@ -51,7 +51,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -81,6 +81,8 @@ options:
 redirect_from:
   - /category/arcade-games/48/high-striker/
 gallery:
+  - /images/products/high-striker/WhatsApp Image 2026-02-07 at 6.51.39 PM
+    (2).jpeg
   - /images/products/high-striker/high-striker-1.jpg
   - /images/products/high-striker/high-striker-2.jpg
   - /images/products/high-striker/high-striker-3.jpg
@@ -212,4 +214,5 @@ faqs:
   - question: Does it need power?
     answer: No, the High Striker requires no power, giving you flexibility with
       positioning.
+thumbnail: /images/products/high-striker/high-striker-4.jpg
 ---
