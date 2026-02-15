@@ -44,7 +44,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 20-30 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -133,7 +133,7 @@ gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/de6d71f2db77ded29dce8f85f4745c2b
 tabs:
   - title: Why Racing Car Simulators?
-    image: /images/products/racing-car-simulators/racing-car-simulators-28.jpg
+    image: /images/products/racing-car-simulators/racing-car-simulators-1.jpg
     body: >-
       Get ready to rev up your event with our adrenaline-pumping Racing Car
       Simulators. Our state-of-the-art simulators are designed to immerse users
@@ -155,7 +155,7 @@ tabs:
       seat, smart steering wheel, and authentic pedals, with an LCD screen to
       display your chosen circuit or course.
   - title: How It Works
-    image: /images/products/racing-car-simulators/racing-car-simulators-27.jpg
+    image: /images/products/racing-car-simulators/racing-car-simulators-20.jpg
     body: >-
       Participants take their place in the simulator cockpit, complete with
       realistic controls and responsive physics that simulate real driving
