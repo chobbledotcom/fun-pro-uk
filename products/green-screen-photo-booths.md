@@ -41,7 +41,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (500W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 60-90 minutes
   - name: Equipment Size
     value: 1.2m x 1.2m x 2.0m
   - name: Suitability
@@ -51,7 +51,7 @@ specs:
   - name: Guest Capacity
     value: 50-300 guests
   - name: Game Length
-    value: 20-30 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 50-300 guests
@@ -248,4 +248,5 @@ faqs:
 videos:
   - id: MxIWzTz38Mw
     title: Green Screen Photo Booth
+thumbnail: /images/products/green-screen-photo-booths/green-screen-photo-booths-17.jpg
 ---
