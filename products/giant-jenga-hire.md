@@ -1,6 +1,6 @@
 ---
 title: Giant Jenga Hire
-subtitle: "Large-scale Jenga tower block game"
+subtitle: Large-scale Jenga tower block game
 price: £60
 order: 50
 meta_title: Giant Jenga Hire – Classic Game For All Events | Fun Pro UK
@@ -53,7 +53,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 1-20 minutes
   - name: Power Required
     value: No power required
   - name: Player Count
@@ -86,25 +86,25 @@ tabs:
     image: /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg
     body: >-
       Giant Jenga is a larger-than-life version of the classic game that
-      guarantees hours of fun for both adults and children. Test your skills
-      by carefully pulling out wooden bricks from the tower without causing it
-      to collapse.
+      guarantees hours of fun for both adults and children. Test your skills by
+      carefully pulling out wooden bricks from the tower without causing it to
+      collapse.
 
 
-      Whether you're hosting a corporate event, wellness day, exhibition, or
-      fun day, our Giant Jenga Hire is sure to be a hit with your guests.
-      It's a fantastic way to increase engagement, promote team building, and
-      create a lively atmosphere at your event.
+      Whether you're hosting a corporate event, wellness day, exhibition, or fun
+      day, our Giant Jenga Hire is sure to be a hit with your guests. It's a
+      fantastic way to increase engagement, promote team building, and create a
+      lively atmosphere at your event.
 
 
-      Our Giant Jenga game can be played both indoors and outdoors, making it
-      a versatile entertainment option for any setting. Add this interactive
-      game to your lineup and watch as your guests are drawn to the challenge
-      of the towering wooden blocks.
+      Our Giant Jenga game can be played both indoors and outdoors, making it a
+      versatile entertainment option for any setting. Add this interactive game
+      to your lineup and watch as your guests are drawn to the challenge of the
+      towering wooden blocks.
   - title: How It Works
     body: >-
-      Players take turns carefully pulling out wooden bricks from the tower
-      and placing them on top, gradually making the structure taller and more
+      Players take turns carefully pulling out wooden bricks from the tower and
+      placing them on top, gradually making the structure taller and more
       unstable. The player who causes the tower to collapse loses.
 
 
@@ -128,14 +128,14 @@ tabs:
 
       The format encourages natural interaction. Players strategise, spectators
       offer advice, and crowds gather as the towering wooden blocks grow
-      increasingly unstable. That social dynamic develops without needing to
-      be orchestrated.
+      increasingly unstable. That social dynamic develops without needing to be
+      orchestrated.
 
 
-      At Fun Pro UK, we specialise in providing top-quality event hire
-      services. Our Giant Jenga Hire is just one of the many ways we can help
-      make your event a success. Let us take care of the entertainment so you
-      can focus on enjoying the festivities.
+      At Fun Pro UK, we specialise in providing top-quality event hire services.
+      Our Giant Jenga Hire is just one of the many ways we can help make your
+      event a success. Let us take care of the entertainment so you can focus on
+      enjoying the festivities.
   - title: Delivery
     body: >-
       We deliver and install on site with our trained team, so there's nothing
@@ -145,8 +145,8 @@ tabs:
       We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
       Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
       London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the
+      UK on request.
 
 
       Delivery charges and minimum order value may apply to all locations.
@@ -165,4 +165,5 @@ faqs:
   - question: Does it need power?
     answer: No, Giant Jenga requires no power, giving you complete flexibility with
       positioning.
+thumbnail: /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg
 ---
