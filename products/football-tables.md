@@ -1,6 +1,6 @@
 ---
 title: Table Football
-subtitle: "Classic foosball table for two or four players"
+subtitle: Classic foosball table for two or four players
 price: £295
 order: 50
 meta_title: Hire Table Football, Football Tables For Rent Near Me, UK
@@ -60,7 +60,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: No power required
   - name: Player Count
@@ -135,18 +135,18 @@ tabs:
   - title: Why Table Football?
     image: /images/products/football-tables/football-tables-11.jpg
     body: >-
-      Bring the fun and excitement of table football to your next event with
-      our top-of-the-line Football Tables for hire. Also known as foosball,
-      table football is a fast-paced game that is perfect for 2-4 players.
-      With twist handles to control the players and guide the ball into the
-      opponent's goal, the competitive spirit is always high.
+      Bring the fun and excitement of table football to your next event with our
+      top-of-the-line Football Tables for hire. Also known as foosball, table
+      football is a fast-paced game that is perfect for 2-4 players. With twist
+      handles to control the players and guide the ball into the opponent's
+      goal, the competitive spirit is always high.
 
 
       Our tournament-quality football tables feature a super-fast glass
       playfield, providing the ultimate playing experience for enthusiasts and
       amateurs alike. Whether you're hosting a corporate event, a conference
-      after-party, a fun-filled retro games night, or a promotion, our
-      full-size foosball tables are sure to be a hit.
+      after-party, a fun-filled retro games night, or a promotion, our full-size
+      foosball tables are sure to be a hit.
 
 
       Take your event to the next level by branding our football tables with
@@ -168,28 +168,27 @@ tabs:
       for your own goal to win.
 
 
-      The finish of this table gives a smooth feel with the curved wooden
-      frame. Sturdy legs mean there is no wobbling while playing, and the
-      rubber handles provide comfort and control allowing precision play.
+      The finish of this table gives a smooth feel with the curved wooden frame.
+      Sturdy legs mean there is no wobbling while playing, and the rubber
+      handles provide comfort and control allowing precision play.
   - title: Why It's A Crowd Favourite
     image: /images/products/football-tables/football-tables-11.jpg
     body: >-
-      Think you are the next Cristiano Ronaldo? How about the next Gareth
-      Bale? You can now put your skills to the test against your opponent in a
+      Think you are the next Cristiano Ronaldo? How about the next Gareth Bale?
+      You can now put your skills to the test against your opponent in a
       thrilling, heart-pounding match of table football.
 
 
       People want to do more at events than sit around at tables, listening to
-      seminars or eating and drinking. Table football gets people up and
-      moving, and two opponents can play each other in fast-paced competitive
-      action. You can even add an incentive, such as a small prize, for the
-      winner.
+      seminars or eating and drinking. Table football gets people up and moving,
+      and two opponents can play each other in fast-paced competitive action.
+      You can even add an incentive, such as a small prize, for the winner.
 
 
-      This is a great way to provide entertainment for your guests that
-      doesn't take up a lot of space in your conference or meeting room. The
-      spectator element works well too, with colleagues gathering around
-      matches and waiting for their turn.
+      This is a great way to provide entertainment for your guests that doesn't
+      take up a lot of space in your conference or meeting room. The spectator
+      element works well too, with colleagues gathering around matches and
+      waiting for their turn.
   - title: Delivery
     image: /images/products/football-tables/football-tables-8.jpg
     body: >-
@@ -206,9 +205,9 @@ tabs:
       Stratford upon Avon.
 
 
-      Please note this equipment cannot be carried up or down flights of
-      stairs -- a lift is required for upper floors. Delivery charges and
-      minimum order value may apply to all locations.
+      Please note this equipment cannot be carried up or down flights of stairs
+      -- a lift is required for upper floors. Delivery charges and minimum order
+      value may apply to all locations.
 faqs:
   - question: How many people can play Football Tables at once?
     answer: Each table accommodates 2-4 players for singles or doubles games.
@@ -222,4 +221,5 @@ faqs:
   - question: Does it need power?
     answer: No, football tables require no power, giving you flexibility with
       positioning.
+thumbnail: /images/products/football-tables/football-tables-6.jpg
 ---
