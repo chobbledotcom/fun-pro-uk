@@ -194,5 +194,5 @@ tabs:
       weeks' notice. Contact us with your event date, location, and a brief
       overview of what you're planning for a detailed quote with transparent
       pricing.
-thumbnail: /images/products/electronic-dart-board/a7a32a10-03b6-4ed6-9037-2407777ccf93.jpg
+thumbnail: /images/products/electronic-dart-board/749dae8c-979c-419f-95ab-36555c4c2904.jpg
 ---
