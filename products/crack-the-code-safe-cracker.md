@@ -44,7 +44,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -250,4 +250,5 @@ faqs:
   - question: What power do you need?
     answer: The game requires minimal power at just 15W, so a standard UK mains
       socket is all that's needed.
+thumbnail: /images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-2.jpg
 ---
