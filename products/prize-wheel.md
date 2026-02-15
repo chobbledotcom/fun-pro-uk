@@ -205,6 +205,5 @@ faqs:
     answer: Yes, the spin-and-win format is universally accessible and creates
       excitement regardless of age.
   - question: Does it need power?
-    answer: Typically no for manual wheels, though lit versions may require power.
-      We'll confirm based on your requirements.
+    answer: No
 ---
