@@ -57,7 +57,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: No power required
   - name: Player Count
@@ -108,7 +108,7 @@ add_ons:
       price: 195
 tabs:
   - title: Why Gold Bar Challenge?
-    image: /images/products/gold-bar-challenge/gold-bar-challenge-7.jpg
+    image: /images/products/gold-bar-challenge/b0b84446-7c61-4719-81af-2196adda49b9.png
     body: >-
       Looking to add excitement and engagement to your next event? The Gold Bar
       Challenge is the ultimate interactive game that combines skill, suspense,
@@ -127,7 +127,7 @@ tabs:
       you're hosting a one-day exhibition or a week-long promotional campaign,
       the Gold Bar Challenge is ready to make your event shine.
   - title: How It Works
-    image: /images/products/gold-bar-challenge/gold-bar-challenge-6.jpg
+    image: /images/b0b84446-7c61-4719-81af-2196adda49b9.png
     body: >-
       Participants are challenged to remove a weighted, 24k gold-plated bar from
       a transparent case using only one hand. The catch? The bar must be lifted
@@ -144,7 +144,7 @@ tabs:
       The Gold Bar Challenge is delivered flat-packed and can be assembled in
       just 10 minutes, making it a convenient addition to any event.
   - title: Why It's A Crowd Favourite
-    image: /images/products/gold-bar-challenge/gold-bar-challenge-7.jpg
+    image: /images/b0b84446-7c61-4719-81af-2196adda49b9.png
     body: >-
       The Gold Bar Challenge is designed to captivate audiences. The heist-style
       concept of reaching in, grabbing the gold, and beating the challenge
@@ -199,4 +199,5 @@ faqs:
   - question: What power do you need?
     answer: Power requirements vary by configuration. We'll confirm when discussing
       your event.
+thumbnail: /images/products/gold-bar-challenge/be31229a-e893-4f8b-a594-ca83bdac728d.png
 ---
