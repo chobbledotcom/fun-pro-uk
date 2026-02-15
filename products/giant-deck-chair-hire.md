@@ -1,6 +1,6 @@
 ---
 title: Giant Deck Chair Hire
-subtitle: "Oversized novelty deck chair for photos and display"
+subtitle: Oversized novelty deck chair for photos and display
 price: £195
 order: 50
 meta_title: Giant Deck Chair Hire – Fun Props For Outdoor Events
@@ -74,18 +74,19 @@ redirect_from:
   - /category/corporate-entertainment/74/giant-deck-chair-hire/
 gallery:
   - /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
+  - /images/products/giant-deck-chair-hire/Red and White Traditional Stripes
+    Giant Deckchair.png
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90
 tabs:
   - title: Why Giant Deck Chair Hire?
     image: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
     body: >-
-      Looking to add a touch of fun and relaxation to your event? Our Giant
-      Deck Chair Hire provides a vibrant and inviting seating option for your
-      guests. Whether it's a family fun day, corporate event, or summer fete,
-      these stylish and colourful deck chairs create a festive atmosphere and
-      offer a comfortable spot for attendees to sit back and enjoy the
-      festivities.
+      Looking to add a touch of fun and relaxation to your event? Our Giant Deck
+      Chair Hire provides a vibrant and inviting seating option for your guests.
+      Whether it's a family fun day, corporate event, or summer fete, these
+      stylish and colourful deck chairs create a festive atmosphere and offer a
+      comfortable spot for attendees to sit back and enjoy the festivities.
 
 
       For family fun days, the bright and cheerful colours of the deck chairs
@@ -106,30 +107,30 @@ tabs:
       reach.
 
 
-      Summer fetes are all about enjoying the outdoors and embracing the
-      spirit of the season. The deck chair provides a classic and charming
-      seating solution, adding a touch of nostalgia and elegance. Guests can
-      bask in the sunshine and savour the delightful atmosphere.
+      Summer fetes are all about enjoying the outdoors and embracing the spirit
+      of the season. The deck chair provides a classic and charming seating
+      solution, adding a touch of nostalgia and elegance. Guests can bask in the
+      sunshine and savour the delightful atmosphere.
 
 
-      We offer a wide range of deck chair options to suit different event
-      themes and preferences, from traditional striped designs to modern and
-      vibrant patterns. The flexibility allows you to create a customised
-      seating area that complements the overall aesthetic of your event.
+      We offer a wide range of deck chair options to suit different event themes
+      and preferences, from traditional striped designs to modern and vibrant
+      patterns. The flexibility allows you to create a customised seating area
+      that complements the overall aesthetic of your event.
   - title: Why It's A Crowd Favourite
     image: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
     body: >-
       Deck chair hire is a fantastic addition to any event. The colourful and
-      stylish deck chairs create a vibrant and inviting atmosphere, perfect
-      for outdoor events, and provide a comfortable seating option for guests
-      to relax and enjoy the festivities.
+      stylish deck chairs create a vibrant and inviting atmosphere, perfect for
+      outdoor events, and provide a comfortable seating option for guests to
+      relax and enjoy the festivities.
 
 
       The deck chairs are practical and versatile. They can be easily arranged
       to accommodate varying group sizes and seating arrangements, making them
-      an adaptable choice for different event layouts. Whether you're planning
-      a small intimate gathering or a large-scale event, deck chair hire
-      offers a convenient seating solution.
+      an adaptable choice for different event layouts. Whether you're planning a
+      small intimate gathering or a large-scale event, deck chair hire offers a
+      convenient seating solution.
 
 
       For summer events specifically, the deck chair carries positive
@@ -138,20 +139,20 @@ tabs:
   - title: Delivery
     body: >-
       We deliver and install on site with our trained team, so there's nothing
-      for you to coordinate on the day. With nationwide delivery, our Giant
-      Deck Chair Hire service is convenient and hassle-free.
+      for you to coordinate on the day. With nationwide delivery, our Giant Deck
+      Chair Hire service is convenient and hassle-free.
 
 
       We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
       Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
       London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the
+      UK on request.
 
 
-      Please note this equipment cannot be carried up or down flights of
-      stairs -- a lift is required for upper floors. Delivery charges and
-      minimum order value may apply to all locations.
+      Please note this equipment cannot be carried up or down flights of stairs
+      -- a lift is required for upper floors. Delivery charges and minimum order
+      value may apply to all locations.
 faqs:
   - question: How big is the Giant Deck Chair?
     answer: The Giant Deck Chair is significantly oversized to create visual impact
@@ -167,4 +168,5 @@ faqs:
   - question: Do you deliver and set it up?
     answer: Yes, delivery, positioning, and collection are all included. We'll place
       it for maximum visual impact and photo opportunities.
+thumbnail: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
 ---
