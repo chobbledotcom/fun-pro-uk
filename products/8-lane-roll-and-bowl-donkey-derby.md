@@ -1,6 +1,6 @@
 ---
 title: 8 Lane Roll & Bowl Donkey Derby Hire
-subtitle: "Roll-and-bowl racing game for up to 8 players"
+subtitle: Roll-and-bowl racing game for up to 8 players
 price: £1695
 order: 50
 meta_title: 8 Lane Roll & Bowl Donkey Derby - Exhibition and Game Hire in
@@ -48,7 +48,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 50-500+ guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 60-90 minutes
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -97,11 +97,11 @@ tabs:
   - title: Why 8 Lane Roll & Bowl Donkey Derby?
     image: /images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg
     body: >-
-      Our 8 Lane Roll & Bowl Donkey Derby is delivered and installed on site
-      by our trained team, creating large-scale racing entertainment with
-      capacity for multiple simultaneous competitors. The format suits events
-      where you want group competition, team challenges, and spectator
-      entertainment that really draws a crowd.
+      Our 8 Lane Roll & Bowl Donkey Derby is delivered and installed on site by
+      our trained team, creating large-scale racing entertainment with capacity
+      for multiple simultaneous competitors. The format suits events where you
+      want group competition, team challenges, and spectator entertainment that
+      really draws a crowd.
 
 
       For larger corporate events, team building days, fun days, celebrations,
@@ -115,22 +115,20 @@ tabs:
       throughout your event.
   - title: How It Works
     body: >-
-      Up to eight players compete simultaneously, rolling balls to advance
-      their donkeys along parallel lanes. The first donkey to cross the
-      finish line wins, creating clear and exciting competitive moments that
-      get everyone cheering.
+      Up to eight players compete simultaneously, rolling balls to advance their
+      donkeys along parallel lanes. The first donkey to cross the finish line
+      wins, creating clear and exciting competitive moments that get everyone
+      cheering.
 
 
-      The multi-lane format allows for team heats, department competitions,
-      or individual championships. Races run quickly, maintaining excellent
-      throughput so your guests are never left waiting too long for their
-      turn.
+      The multi-lane format allows for team heats, department competitions, or
+      individual championships. Races run quickly, maintaining excellent
+      throughput so your guests are never left waiting too long for their turn.
 
 
-      In-house branding is available too. We print, apply, and remove it
-      after each event, so you can make the 8 Lane Roll & Bowl a powerful
-      marketing tool with your brand logo, corporate colours, or
-      event-specific designs.
+      In-house branding is available too. We print, apply, and remove it after
+      each event, so you can make the 8 Lane Roll & Bowl a powerful marketing
+      tool with your brand logo, corporate colours, or event-specific designs.
   - title: Why It's A Crowd Favourite
     image: /images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg
     body: >-
@@ -145,34 +143,33 @@ tabs:
       draws attention naturally, making it a true centrepiece for your event.
 
 
-      For team building specifically, group heats create natural structures
-      for departmental competition. Teams bond whilst competing, and the
-      format enables inclusive participation so that everyone can get
-      involved.
+      For team building specifically, group heats create natural structures for
+      departmental competition. Teams bond whilst competing, and the format
+      enables inclusive participation so that everyone can get involved.
   - title: Delivery
     body: >-
-      As a nationwide hire company, we can provide everything you need for
-      your party or event. Our trained team will deliver, set up, and collect
-      the 8 Lane Roll & Bowl Donkey Derby as part of your hire, so there is
-      nothing for you to coordinate on the day.
+      As a nationwide hire company, we can provide everything you need for your
+      party or event. Our trained team will deliver, set up, and collect the 8
+      Lane Roll & Bowl Donkey Derby as part of your hire, so there is nothing
+      for you to coordinate on the day.
 
 
-      We offer delivery throughout the UK on request, including Exeter,
-      Cardiff, Bristol, Birmingham including the NEC and ICC Arena, Reading,
-      Oxford, Swindon, London, Coventry which include the CBS Arena,
-      Nottingham, Leicester, Telford, Leeds, Milton Keynes and Sheffield. We
-      are able to cover the whole of the UK on request.
+      We offer delivery throughout the UK on request, including Exeter, Cardiff,
+      Bristol, Birmingham including the NEC and ICC Arena, Reading, Oxford,
+      Swindon, London, Coventry which include the CBS Arena, Nottingham,
+      Leicester, Telford, Leeds, Milton Keynes and Sheffield. We are able to
+      cover the whole of the UK on request.
 
 
       Please note that this equipment cannot be carried up or down flights of
       stairs. A lift is required if your venue is not on the ground floor.
-      Minimum door width is 0.6m. The game requires indoor use only on a
-      level surface.
+      Minimum door width is 0.6m. The game requires indoor use only on a level
+      surface.
 
 
-      Delivery charges and minimum order values may apply to all locations.
-      All equipment is PAT tested and maintained to professional standards,
-      giving you complete peace of mind.
+      Delivery charges and minimum order values may apply to all locations. All
+      equipment is PAT tested and maintained to professional standards, giving
+      you complete peace of mind.
 faqs:
   - question: How many people can race at once?
     answer: Up to 8 players compete simultaneously across parallel lanes, creating
