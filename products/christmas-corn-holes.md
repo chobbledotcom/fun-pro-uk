@@ -129,4 +129,9 @@ faqs:
   - question: Does it need power?
     answer: No, Christmas Corn Holes requires no power, giving you complete
       flexibility with positioning.
+thumbnail: /images/products/corn-hole/FB_IMG_1764424151627.jpg
+gallery:
+  - /images/products/corn-hole/FB_IMG_1764424151627.jpg
+  - /images/products/corn-hole/FB_IMG_1764424154743.jpg
+  - /images/products/corn-hole/FB_IMG_1764424158096.jpg
 ---
