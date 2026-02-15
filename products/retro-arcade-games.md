@@ -48,7 +48,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -94,6 +94,9 @@ gallery:
   - /images/products/retro-arcade-games/retro-arcade-games-14.jpg
   - /images/products/retro-arcade-games/retro-arcade-games-15.jpg
   - /images/products/retro-arcade-games/retro-arcade-games-16.jpg
+  - /images/products/retro-arcade-games/1cf91c58-1a23-4383-a62b-7dec71cd6944.jpg
+  - /images/products/retro-arcade-games/30fecd1d-a4c7-4d2c-93f7-538fdd87b6c8.jpg
+  - /images/products/retro-arcade-games/IMG-20260212-WA0003.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3ecfc5ae722862476566d15a172358cc
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d0f4a1f69596ec2968a469d2bae7429
