@@ -147,7 +147,7 @@ tabs:
       Setup takes approximately 15-20 minutes and requires only a level surface.
       No power needed.
   - title: Why It's A Crowd Favourite
-    image: /images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-8.jpg
+    image: /images/products/roll-and-bowl-reindeer-racing-game-hire/roll-and-bowl-reindeer-racing-game-hire-1.jpg
     body: >-
       Racing games create natural drama that other formats don't match. The
       head-to-head competition, the close finishes, the satisfaction of victory.
