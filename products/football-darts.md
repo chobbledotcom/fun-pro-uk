@@ -1,6 +1,6 @@
 ---
 title: Football Darts
-subtitle: "Velcro footballs kicked at an inflatable dartboard"
+subtitle: Velcro footballs kicked at an inflatable dartboard
 price: £395
 order: 50
 meta_title: Velcro Football Dartboard Hire | Exhibition Stand Games | UK
@@ -36,12 +36,12 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -63,8 +63,8 @@ tabs:
       Add a unique and thrilling activity to your next event with our Velcro
       Football Dartboard. Also known as kick and stick dartboard or football
       darts, this inflatable game combines the skill of football with the
-      classic challenge of darts. Participants kick a velcro football towards
-      a giant dartboard, aiming to hit the highest scores possible.
+      classic challenge of darts. Participants kick a velcro football towards a
+      giant dartboard, aiming to hit the highest scores possible.
 
 
       The football dartboard is ideal for all kinds of events. Hire it for a
@@ -74,9 +74,9 @@ tabs:
       engaged and entertained.
 
 
-      Ideal for a wide range of events from corporate entertainment to fun
-      days and private celebrations, the velcro football dartboard will have
-      people lining up to try their luck.
+      Ideal for a wide range of events from corporate entertainment to fun days
+      and private celebrations, the velcro football dartboard will have people
+      lining up to try their luck.
   - title: How It Works
     body: >-
       Participants kick a velcro football towards a giant inflatable dartboard
@@ -108,10 +108,9 @@ tabs:
       competitive spirit whilst keeping things lighthearted.
 
 
-      People will be lining up to try their luck, and the spectator element
-      adds to the atmosphere. Watching others kick and score is almost as
-      entertaining as playing, making it a natural gathering point at any
-      event.
+      People will be lining up to try their luck, and the spectator element adds
+      to the atmosphere. Watching others kick and score is almost as
+      entertaining as playing, making it a natural gathering point at any event.
   - title: Delivery
     body: >-
       We deliver and install on site with our trained team, so there's nothing
@@ -121,13 +120,13 @@ tabs:
       We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
       Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
       London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the
+      UK on request.
 
 
-      Please note this equipment cannot be carried up or down flights of
-      stairs -- a lift is required for upper floors. Delivery charges and
-      minimum order value may apply to all locations.
+      Please note this equipment cannot be carried up or down flights of stairs
+      -- a lift is required for upper floors. Delivery charges and minimum order
+      value may apply to all locations.
 faqs:
   - question: How many people can play Football Darts at once?
     answer: The game accommodates 1-4 players, with the kicking format keeping
@@ -141,4 +140,7 @@ faqs:
   - question: What space do you need?
     answer: Adequate kicking distance is required between player position and
       target. We'll discuss your venue when planning.
+thumbnail: /images/products/Giant-dart-board/企业微信截图_17557402689340.png
+gallery:
+  - /images/products/Giant-dart-board/企业微信截图_17557402689340.png
 ---
