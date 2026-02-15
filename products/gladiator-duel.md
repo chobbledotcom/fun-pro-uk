@@ -29,7 +29,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (950W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 15-30 minutes
   - name: Equipment Size
     value: 4.9m x 5.5m
   - name: Suitability
@@ -39,7 +39,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -164,4 +164,5 @@ faqs:
   - question: What power do you need?
     answer: Requirements vary by setup. We'll confirm details when discussing your
       event.
+thumbnail: /images/products/gladiator-duel/gladiator-duel-1.jpg
 ---
