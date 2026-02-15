@@ -42,7 +42,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (5-16W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 15-30 minutes
   - name: Equipment Size
     value: 2.0m x 2.5m x 1.2m
   - name: Suitability
@@ -57,7 +57,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 1-5 minutes
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -198,4 +198,5 @@ faqs:
   - question: What power and space do you need?
     answer: Requirements vary by setup. We'll discuss your venue when planning your
       event.
+thumbnail: /images/products/gold-cup-horse-racing/859e8607-9e4b-4c68-8eba-0b72fc38ad2e.jpg
 ---
