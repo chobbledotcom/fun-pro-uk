@@ -56,6 +56,7 @@ options:
 redirect_from:
   - /category/company-award-ceremonies/11/classic-photo-booths/
 gallery:
+  - /images/products/green-screen-photo-booths/green-screen-photo-booths-20.jpg
   - /images/products/classic-photo-booths/classic-photo-booths-1.jpg
   - /images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg
 gallery_cloudinary:
@@ -170,4 +171,5 @@ faqs:
       long queues. The enclosed format keeps things moving.
   - question: What power do you need?
     answer: Mains power is required for the camera, lighting, and printing equipment.
+thumbnail: /images/products/green-screen-photo-booths/green-screen-photo-booths-18.jpg
 ---
