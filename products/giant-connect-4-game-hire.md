@@ -1,6 +1,6 @@
 ---
 title: Giant Connect 4 Game Hire
-subtitle: "Large-scale Connect 4 board game"
+subtitle: Large-scale Connect 4 board game
 price: £60
 order: 50
 meta_title: Hire Giant Connect 4,Rent Giant Connect 4 Garden Game, UK
@@ -49,7 +49,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: Continuous play
   - name: Power Required
     value: No power required
   - name: Player Count
@@ -82,15 +82,15 @@ tabs:
     image: /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg
     body: >-
       Looking to add a fun and engaging activity to your event? Our Giant
-      Connect 4 game is a life-size version of the classic that is suitable
-      for both adults and children, making it a versatile and entertaining
-      option for any gathering.
+      Connect 4 game is a life-size version of the classic that is suitable for
+      both adults and children, making it a versatile and entertaining option
+      for any gathering.
 
 
-      Perfect for conferences, well-being days, exhibitions, fun days, and
-      brand activations, the Giant Connect 4 brings a nostalgic touch to your
-      event whilst enhancing teamwork and strategy skills. It engages players
-      of all ages and works for both indoor and outdoor use.
+      Perfect for conferences, well-being days, exhibitions, fun days, and brand
+      activations, the Giant Connect 4 brings a nostalgic touch to your event
+      whilst enhancing teamwork and strategy skills. It engages players of all
+      ages and works for both indoor and outdoor use.
 
 
       When you hire our Giant Connect 4 game, you're not just getting a
@@ -104,8 +104,8 @@ tabs:
 
 
       Plan your moves ahead to outsmart your opponent and focus on creating
-      multiple winning opportunities. Observe your opponent's strategy and
-      adapt accordingly, stay calm under pressure, and maintain a clear focus.
+      multiple winning opportunities. Observe your opponent's strategy and adapt
+      accordingly, stay calm under pressure, and maintain a clear focus.
 
 
       The giant format makes games visible to spectators, creating natural
@@ -127,8 +127,8 @@ tabs:
 
       The strategic element also appeals to guests who might not engage with
       physical games. Mental competition provides a different kind of
-      satisfaction, and the giant format creates a visual centrepiece that
-      draws attention across your venue.
+      satisfaction, and the giant format creates a visual centrepiece that draws
+      attention across your venue.
   - title: Delivery
     body: >-
       We deliver and install on site with our trained team, so there's nothing
@@ -138,8 +138,8 @@ tabs:
       We offer delivery throughout the UK, including Exeter, Cardiff, Bristol,
       Birmingham including the NEC and ICC Arena, Reading, Oxford, Swindon,
       London, Coventry including the CBS Arena, Nottingham, Leicester, Telford,
-      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of
-      the UK on request.
+      Leeds, Milton Keynes, and Sheffield. We are able to cover the whole of the
+      UK on request.
 
 
       Delivery charges and minimum order value may apply to all locations.
@@ -157,4 +157,5 @@ faqs:
   - question: Does it need power?
     answer: No, Giant Connect 4 requires no power, giving you flexibility with
       positioning.
+thumbnail: /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg
 ---
