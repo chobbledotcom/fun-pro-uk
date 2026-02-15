@@ -25,7 +25,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (5-12W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 10-30 minutes
   - name: Equipment Size
     value: 1.2m x 0.6m x 0.9m
   - name: Suitability
@@ -35,7 +35,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 30 seconds
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
