@@ -255,4 +255,4 @@ These should either be fleshed out with unique content or removed with redirects
 | 3.1 | **Templated** | 5 pages | Regional corporate entertainment |
 | 4 | **Empty stubs** | 4 pages | Various |
 
-**Total files affected:** ~41 files across categories, events, and pages contain duplicate or heavily overlapping content (4 duplicate pages deleted on 2026-02-16).
+**Total files affected:** ~41 files across categories, events, and pages contain duplicate or heavily overlapping content
