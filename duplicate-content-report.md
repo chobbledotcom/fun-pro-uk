@@ -43,25 +43,25 @@ These are files where the body content is word-for-word identical (or differs on
 
 ---
 
-### 1.4 Summer Entertainment (page vs event)
+### 1.4 Summer Entertainment (page vs event) — RESOLVED
 
-| File | Title |
-|------|-------|
-| `pages/outdoor-garden-game-hire.md` | Summer Entertainment Ideas |
-| `events/summer-entertainment.md` | Summer Entertainment |
+| File | Title | Status |
+|------|-------|--------|
+| ~~`pages/outdoor-garden-game-hire.md`~~ | ~~Summer Entertainment Ideas~~ | **Deleted** |
+| `events/summer-entertainment.md` | Summer Entertainment | **Kept** |
 
-**Verdict:** Same meta_description, same body content. Identical sections on inflatable slides, Human Table Football, Giant Jenga, Giant Connect Four. The event version adds a single contact line at the end.
+**Verdict:** Same meta_description, same body content. Identical sections on inflatable slides, Human Table Football, Giant Jenga, Giant Connect Four. The event version adds a single contact line at the end. Page deleted; event kept as canonical.
 
 ---
 
-### 1.5 Wellbeing Days (page vs event)
+### 1.5 Wellbeing Days (page vs event) — RESOLVED
 
-| File | Title |
-|------|-------|
-| `pages/wellbeing-days.md` | Wellbeing Days and Breakout Room Areas |
-| `events/staff-wellbeing-days.md` | Corporate Wellbeing Days |
+| File | Title | Status |
+|------|-------|--------|
+| ~~`pages/wellbeing-days.md`~~ | ~~Wellbeing Days and Breakout Room Areas~~ | **Deleted** |
+| `events/staff-wellbeing-days.md` | Corporate Wellbeing Days | **Kept** |
 
-**Verdict:** 100% identical body content. Same heading, same paragraphs about breakout rooms, same featured activities (Table Football, Retro Arcade, Pluck a Duck), same 7-step planning list.
+**Verdict:** 100% identical body content. Same heading, same paragraphs about breakout rooms, same featured activities (Table Football, Retro Arcade, Pluck a Duck), same 7-step planning list. Page deleted; event kept as canonical.
 
 ---
 
@@ -240,8 +240,8 @@ These should either be fleshed out with unique content or removed with redirects
 | 1.1 | **Exact duplicate** | 2 pages | Promotional event games |
 | 1.2 | **Exact duplicate** | 1 category + 1 event | Exhibition games |
 | 1.3 | **Exact duplicate** | 1 category + 1 event | Fun days / family fun days |
-| 1.4 | **Exact duplicate** | 1 page + 1 event | Summer entertainment |
-| 1.5 | **Exact duplicate** | 1 page + 1 event | Wellbeing days |
+| 1.4 | ~~Exact duplicate~~ **RESOLVED** | ~~1 page~~ + 1 event | Summer entertainment |
+| 1.5 | ~~Exact duplicate~~ **RESOLVED** | ~~1 page~~ + 1 event | Wellbeing days |
 | 1.6 | ~~Exact duplicate~~ **RESOLVED** | 1 category + ~~1 page~~ | Corporate entertainment |
 | 1.7 | ~~Exact duplicate~~ **RESOLVED** | 1 category + ~~1 page~~ | Weddings |
 | 2.1 | **High overlap** | 5 files | Christmas |
@@ -255,4 +255,4 @@ These should either be fleshed out with unique content or removed with redirects
 | 3.1 | **Templated** | 5 pages | Regional corporate entertainment |
 | 4 | **Empty stubs** | 4 pages | Various |
 
-**Total files affected:** ~43 files across categories, events, and pages contain duplicate or heavily overlapping content (2 duplicate pages deleted on 2026-02-16).
+**Total files affected:** ~43 files across categories, events, and pages contain duplicate or heavily overlapping content (4 duplicate pages deleted on 2026-02-16).
