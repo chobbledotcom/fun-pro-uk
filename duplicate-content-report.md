@@ -43,50 +43,6 @@ These are files where the body content is word-for-word identical (or differs on
 
 ---
 
-### 1.4 Summer Entertainment (page vs event)
-
-| File | Title |
-|------|-------|
-| `pages/outdoor-garden-game-hire.md` | Summer Entertainment Ideas |
-| `events/summer-entertainment.md` | Summer Entertainment |
-
-**Verdict:** Same meta_description, same body content. Identical sections on inflatable slides, Human Table Football, Giant Jenga, Giant Connect Four. The event version adds a single contact line at the end.
-
----
-
-### 1.5 Wellbeing Days (page vs event)
-
-| File | Title |
-|------|-------|
-| `pages/wellbeing-days.md` | Wellbeing Days and Breakout Room Areas |
-| `events/staff-wellbeing-days.md` | Corporate Wellbeing Days |
-
-**Verdict:** 100% identical body content. Same heading, same paragraphs about breakout rooms, same featured activities (Table Football, Retro Arcade, Pluck a Duck), same 7-step planning list.
-
----
-
-### 1.6 Corporate Entertainment (category vs page) — RESOLVED
-
-| File | Title | Status |
-|------|-------|--------|
-| `categories/corporate-entertainment.md` | Corporate Entertainment | **Kept** |
-| ~~`pages/office-and-corporate-entertainment.md`~~ | ~~Office & Corporate Entertainment Ideas~~ | **Deleted** |
-
-**Verdict:** Same meta_title, same meta_description, same body content. Identical game lists (Table Football, Retro Arcade, Prize Wheel, Beat the Buzzer, Batak, etc.). The only differences were minor link targets (the page linked back to the category). Page deleted; category kept as canonical.
-
----
-
-### 1.7 Weddings (category vs page) — RESOLVED
-
-| File | Title | Status |
-|------|-------|--------|
-| `categories/weddings.md` | Weddings | **Kept** |
-| ~~`pages/wedding-entertainment.md`~~ | ~~Wedding Entertainment for Guests~~ | **Deleted** |
-
-**Verdict:** Same meta_title, same meta_description, near-identical body content. Same paragraphs about Giant Jenga, Magic Mirror, Cripps & Co, Coombe Abbey, and the Shustoke Barn testimonial. Page deleted; category kept as canonical.
-
----
-
 ## 2. HIGH OVERLAP — Same Topic, Different Content
 
 These are files covering the same subject from the same angle, but with meaningfully different text. They compete with each other for search rankings and fragment the site's authority on each topic.
