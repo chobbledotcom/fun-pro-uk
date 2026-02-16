@@ -2328,6 +2328,15 @@ ol.steps {
   }
 }
 
+.faqs-container {
+  @include section-padding;
+  h2 {
+    @include heading;
+    text-align: center;
+    margin-bottom: 64px;
+  }
+}
+
 #footer-contact {
   display: grid;
   grid-template-columns: 50px 1fr;
