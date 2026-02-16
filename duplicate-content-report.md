@@ -65,25 +65,25 @@ These are files where the body content is word-for-word identical (or differs on
 
 ---
 
-### 1.6 Corporate Entertainment (category vs page)
+### 1.6 Corporate Entertainment (category vs page) — RESOLVED
 
-| File | Title |
-|------|-------|
-| `categories/corporate-entertainment.md` | Corporate Entertainment |
-| `pages/office-and-corporate-entertainment.md` | Office & Corporate Entertainment Ideas |
+| File | Title | Status |
+|------|-------|--------|
+| `categories/corporate-entertainment.md` | Corporate Entertainment | **Kept** |
+| ~~`pages/office-and-corporate-entertainment.md`~~ | ~~Office & Corporate Entertainment Ideas~~ | **Deleted** |
 
-**Verdict:** Same meta_title, same meta_description, same body content. Identical game lists (Table Football, Retro Arcade, Prize Wheel, Beat the Buzzer, Batak, etc.). The only differences are minor link targets (the page links back to the category).
+**Verdict:** Same meta_title, same meta_description, same body content. Identical game lists (Table Football, Retro Arcade, Prize Wheel, Beat the Buzzer, Batak, etc.). The only differences were minor link targets (the page linked back to the category). Page deleted; category kept as canonical.
 
 ---
 
-### 1.7 Weddings (category vs page)
+### 1.7 Weddings (category vs page) — RESOLVED
 
-| File | Title |
-|------|-------|
-| `categories/weddings.md` | Weddings |
-| `pages/wedding-entertainment.md` | Wedding Entertainment for Guests |
+| File | Title | Status |
+|------|-------|--------|
+| `categories/weddings.md` | Weddings | **Kept** |
+| ~~`pages/wedding-entertainment.md`~~ | ~~Wedding Entertainment for Guests~~ | **Deleted** |
 
-**Verdict:** Same meta_title, same meta_description, near-identical body content. Same paragraphs about Giant Jenga, Magic Mirror, Cripps & Co, Coombe Abbey, and the Shustoke Barn testimonial.
+**Verdict:** Same meta_title, same meta_description, near-identical body content. Same paragraphs about Giant Jenga, Magic Mirror, Cripps & Co, Coombe Abbey, and the Shustoke Barn testimonial. Page deleted; category kept as canonical.
 
 ---
 
@@ -127,29 +127,29 @@ These are files covering the same subject from the same angle, but with meaningf
 
 ---
 
-### 2.3 Corporate / Office Entertainment Cluster (5 files)
+### 2.3 Corporate / Office Entertainment Cluster (4 files remaining)
 
 | File | Title | Angle |
 |------|-------|-------|
 | `categories/corporate-entertainment.md` | Corporate Entertainment | Office party game ideas |
 | `events/corporate-events.md` | Corporate Events | Corporate event game hire (team building, awards, staff parties) |
 | `events/office-entertainment.md` | Office Entertainment | Compact games for workplaces |
-| `pages/office-and-corporate-entertainment.md` | Office & Corporate Entertainment Ideas | **Duplicate of category** |
+| ~~`pages/office-and-corporate-entertainment.md`~~ | ~~Office & Corporate Entertainment Ideas~~ | **Deleted (was duplicate of category)** |
 | `pages/about-corporate-entertainment-hire.md` | About Fun Pro UK | About page with corporate focus |
 
-**Overlap:** The category and the page are duplicates. The corporate-events event and office-entertainment event both target corporate clients with games. The about page also focuses on corporate entertainment.
+**Overlap:** The duplicate page has been deleted. The corporate-events event and office-entertainment event both still target corporate clients with games. The about page also focuses on corporate entertainment.
 
 ---
 
-### 2.4 Wedding Cluster (3 files)
+### 2.4 Wedding Cluster (2 files remaining)
 
 | File | Title | Angle |
 |------|-------|-------|
 | `categories/weddings.md` | Weddings | Wedding game hire |
 | `events/wedding-entertainment.md` | Wedding Entertainment | Wedding reception entertainment (more detailed) |
-| `pages/wedding-entertainment.md` | Wedding Entertainment for Guests | **Duplicate of category** |
+| ~~`pages/wedding-entertainment.md`~~ | ~~Wedding Entertainment for Guests~~ | **Deleted (was duplicate of category)** |
 
-**Overlap:** Three files about wedding entertainment. The event page has genuinely different, more detailed content (garden games, casino tables, evening entertainment, sweet treats). The category and page are near-duplicates.
+**Overlap:** The duplicate page has been deleted. Two files remain — the category and the event page, which has genuinely different, more detailed content (garden games, casino tables, evening entertainment, sweet treats).
 
 ---
 
@@ -242,8 +242,8 @@ These should either be fleshed out with unique content or removed with redirects
 | 1.3 | **Exact duplicate** | 1 category + 1 event | Fun days / family fun days |
 | 1.4 | **Exact duplicate** | 1 page + 1 event | Summer entertainment |
 | 1.5 | **Exact duplicate** | 1 page + 1 event | Wellbeing days |
-| 1.6 | **Exact duplicate** | 1 category + 1 page | Corporate entertainment |
-| 1.7 | **Exact duplicate** | 1 category + 1 page | Weddings |
+| 1.6 | ~~Exact duplicate~~ **RESOLVED** | 1 category + ~~1 page~~ | Corporate entertainment |
+| 1.7 | ~~Exact duplicate~~ **RESOLVED** | 1 category + ~~1 page~~ | Weddings |
 | 2.1 | **High overlap** | 5 files | Christmas |
 | 2.2 | **High overlap** | 6+ files | Exhibition / brand activation |
 | 2.3 | **High overlap** | 5 files | Corporate / office entertainment |
@@ -255,4 +255,4 @@ These should either be fleshed out with unique content or removed with redirects
 | 3.1 | **Templated** | 5 pages | Regional corporate entertainment |
 | 4 | **Empty stubs** | 4 pages | Various |
 
-**Total files affected:** ~45 files across categories, events, and pages contain duplicate or heavily overlapping content.
+**Total files affected:** ~43 files across categories, events, and pages contain duplicate or heavily overlapping content (2 duplicate pages deleted on 2026-02-16).
