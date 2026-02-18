@@ -2768,8 +2768,8 @@ div.fun-pro-item {
     grid-area: reviews;
     margin: 0 0 var(--section-padding);
   }
-  .video-row {
-    margin: 0 0 var(--section-padding);
+  .design-system ul.items.video-cards {
+    margin: var(--gap-items) 0 var(--section-padding);
   }
   .item-faqs {
     grid-area: faqs;

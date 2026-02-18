@@ -44,8 +44,10 @@ layout: base
       <a href="#branding" class="button">+ Add Custom Branding</a>
       {% include "product-options.html" %}
       {%- if videos.size > 0 -%}
-        {%- assign videos = videos | slice: 0, 1 -%}
-        {%- include "design-system/video-cards.html", videos: videos -%}
+        <div class="design-system">
+          {%- assign videos = videos | slice: 0, 1 -%}
+          {%- include "design-system/video-cards.html", videos: videos, expand: true -%}
+        </div>
       {%- endif -%}
     </div>
     <div class="item-tabs">
