@@ -24,6 +24,17 @@ events:
   - events/fundraising-events.md
   - events/circus-skills-workshop.md
   - events/wedding-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/corporate-events.md
+  - events/educational-and-community.md
+  - events/evening-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/exhibition-games.md
+  - events/office-entertainment.md
+  - events/team-building-entertainment.md
+  - events/christmas-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
