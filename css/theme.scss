@@ -2782,7 +2782,7 @@ div.fun-pro-item {
     }
   }
 
-  .inner {
+  & > .inner {
     grid-column: full-width;
     padding: 0 8px;
     max-width: 1400px;
