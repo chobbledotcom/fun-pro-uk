@@ -27,6 +27,16 @@ events:
   - events/office-entertainment.md
   - events/university-events.md
   - events/team-building-entertainment.md
+  - events/christmas-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/educational-and-community.md
+  - events/exhibition-games.md
+  - events/fundraising-events.md
+  - events/school-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/summer-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
