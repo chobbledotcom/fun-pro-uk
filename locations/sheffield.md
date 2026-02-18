@@ -9,4 +9,10 @@ thumbnail: "images/locations/sheffield.jpg"
 
 # Event Hire Sheffield
 
-Browse our event hire services available in Sheffield and the surrounding area.
+Sheffield has a strong events market, supported by its two universities, established corporate sector and growing creative industries. We deliver entertainment hire to venues across the city and South Yorkshire, from Sheffield City Hall and the Crucible area through to corporate offices, university campuses and venues across the region.
+
+Based in Coventry, we reach Sheffield via the M1 — a direct route we've travelled many times over 15 years of business. Every booking includes delivery, setup and collection, with our team available to support throughout your event.
+
+Our range includes [interactive games](/categories/interactive-game-hire/#content) like [Batak](/categories/batak/#content) reaction games, [racing simulators](/products/racing-car-simulators/#content) and [dance machines](/products/dance-machine/#content), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content), [prize games](/categories/prize-games/#content) including [cash grabbers](/products/cash-grabber-machine-hire/#content) and [plinko boards](/products/plinko-game-hire/#content), and [fun food catering](/categories/fun-foods/#content) from hog roasts to candy floss carts. For [exhibitions and promotional events](/categories/branded-exhibition-games/#content), we offer full custom branding on games — designed, printed and applied in-house.
+
+From [corporate events](/categories/corporate-entertainment/#content) and conference entertainment to [fun days](/categories/fun-days/#content), team building and student events, we can recommend what works for your Sheffield venue and audience.
