@@ -1,7 +1,7 @@
 ---
 title: Christmas Grotto 2
 subtitle: Inflatable walk-in Santa's grotto, 7.2m x 6m
-order: 50
+order: 105
 meta_title: Santas Grotto Hire | Christmas Entertainment | Fun Pro UK
 meta_description: Santas Grotto Hire | Christmas Entertainment | Fun Pro UK is
   one of the wide range of products available from Fun Pro UK events experts.
@@ -157,4 +157,5 @@ faqs:
   - question: Is it suitable for adult corporate events?
     answer: Absolutely. Christmas grottos create magical photo opportunities and
       festive atmosphere that adults genuinely enjoy at corporate celebrations.
+price: "595"
 ---
