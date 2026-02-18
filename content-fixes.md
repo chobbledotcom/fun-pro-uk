@@ -1,3 +1,7 @@
+---
+noindex: true
+---
+
 # Content Fixes
 
 ## Done
