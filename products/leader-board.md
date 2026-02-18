@@ -18,6 +18,8 @@ categories:
   - categories/fun-days.md
   - categories/grab-a-grand.md
   - categories/pub-games.md
+  - categories/corporate-entertainment.md
+  - categories/weddings.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
