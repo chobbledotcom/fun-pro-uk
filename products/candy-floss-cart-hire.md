@@ -14,6 +14,10 @@ categories:
   - categories/fun-fair-stalls.md
   - categories/interactive-game-hire.md
   - categories/prize-games.md
+  - categories/branded-exhibition-games.md
+  - categories/exhibition-games.md
+  - categories/freshers-fair-games.md
+  - categories/weddings.md
 events:
   - events/celebrations-and-parties.md
   - events/corporate-events.md
@@ -26,6 +30,14 @@ events:
   - events/college-entertainment.md
   - events/circus-skills-workshop.md
   - events/wedding-entertainment.md
+  - events/christmas-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/educational-and-community.md
+  - events/evening-entertainment.md
+  - events/exhibition-games.md
+  - events/office-entertainment.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
