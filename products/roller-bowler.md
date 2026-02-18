@@ -11,6 +11,13 @@ categories:
   - categories/arcade-games.md
   - categories/interactive-game-hire.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/fun-days.md
+  - categories/weddings.md
 events:
   - events/celebrations-and-parties.md
   - events/corporate-events.md
