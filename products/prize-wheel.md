@@ -14,6 +14,11 @@ categories:
   - categories/interactive-game-hire.md
   - categories/photo-booths-and-magic-mirrors.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/christmas-game-hire.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/weddings.md
 events:
   - events/exhibition-games.md
   - events/brand-activation.md
