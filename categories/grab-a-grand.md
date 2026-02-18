@@ -15,7 +15,7 @@ eleventyNavigation:
 
 # Grab A Grand Machines & Cash Grabbers
 
-Prepare for a whirlwind of excitement at your next event - hire our Cash Cubes and Grab a Grand games, [Read more..] and give participants have the chance to catch flying notes, balls or tokens in a timed challenge.
+Prepare for a whirlwind of excitement at your next event - hire our Cash Cubes and Grab a Grand games, and give participants have the chance to catch flying notes, balls or tokens in a timed challenge.
 
 These [interactive games](/categories/interactive-game-hire/#content) are perfect for [corporate events](/categories/corporate-entertainment/#content), and can even be used to add a spark to [weddings](/categories/weddings/#content). With a special [Christmas event](/categories/christmas-game-hire/#content) version available, you can bring Cash Grabber cheer to your holiday events too, and with custom-branding available, you could even use this as a [branded exhibition game](/categories/branded-exhibition-games/#content) to drum up interest at your stand!
 

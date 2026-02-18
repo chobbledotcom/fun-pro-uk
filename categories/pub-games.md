@@ -15,7 +15,7 @@ eleventyNavigation:
 
 # Pub Games Hire in Birmingham, London, Manchester, Leeds & the UK
 
-Transform your pub or venue into a hub of entertainment with Fun Pro UK's range of classic pub games. These games are a nod to the timeless tradition of pub entertainment, [Read more..] and promise to keep your customers engaged, entertained, and coming back for more.
+Transform your pub or venue into a hub of entertainment with Fun Pro UK's range of classic pub games. These games are a nod to the timeless tradition of pub entertainment, and promise to keep your customers engaged, entertained, and coming back for more.
 
 Whether it's for [branded exhibition entertainment](/categories/branded-exhibition-games/#content), [corporate events](/categories/corporate-entertainment/#content), or just a fun day with friends and family, you can rest assured you're with the right team when you're at Fun Pro UK. All these products are available nationwide, including London, Manchester, Birmingham, Leeds, Glasgow and beyond. Simply tell us where and when you need us and let Fun Pro UK bring the fun!
 
