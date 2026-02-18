@@ -124,5 +124,5 @@ tabs:
       machine on arrival, ensure it’s ready for guests to use, and return to
       collect it once your event is finished—making the whole process simple,
       smooth and hassle-free.
-price: "595"
+price: £595
 ---
