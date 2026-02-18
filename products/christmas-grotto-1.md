@@ -1,7 +1,7 @@
 ---
 title: Christmas Grotto 1
 subtitle: Inflatable walk-in Santa's grotto, 9.1m x 6m
-order: 50
+order: 105
 meta_title: Inflatable Santa's Grotto | Christmas Hire | Fun Pro UK
 meta_description: Blow-up Santa&#39;s Grotto for Christmas! Perfect for places
   with a lot of children&#39;s footfall - suitable for fundraisers, shopping
