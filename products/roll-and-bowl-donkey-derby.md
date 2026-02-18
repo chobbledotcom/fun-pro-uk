@@ -16,6 +16,9 @@ categories:
   - categories/prize-games.md
   - categories/pub-games.md
   - categories/roll-and-bowl.md
+  - categories/corporate-entertainment.md
+  - categories/freshers-fair-games.md
+  - categories/weddings.md
 events:
   - events/celebrations-and-parties.md
   - events/corporate-events.md
