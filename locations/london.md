@@ -1,11 +1,19 @@
 ---
 title: "London"
-meta_title: "London - Exhibition and Game Hire in Nationwide | Fun Pro UK"
-meta_description: "London - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_title: "Event Hire London | Interactive Games & Entertainment | Fun Pro UK"
+meta_description: "Event and game hire in London. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events, conferences and celebrations across the capital."
 redirect_from:
   - "/pages/london/"
 subtitle: "Event hire across the capital and the Home Counties"
 thumbnail: "images/locations/london.jpg"
 ---
 
-# London
+# Event Hire London
+
+London is the UK's largest market for corporate events, exhibitions and conferences, and we deliver there regularly. We've worked at venues across the capital, from [ExCeL London](/locations/london/excel/#content) and Olympia to city centre hotels, office spaces and event venues throughout the Home Counties.
+
+Based in Coventry, we reach London via the M40 — a well-established route that we've run hundreds of times. Our central England location keeps delivery costs lower than London-based competitors for clients who also book events elsewhere in the country. Every booking includes delivery, setup and collection as standard.
+
+Our range covers [interactive games](/categories/interactive-game-hire/#content) like [Batak](/categories/batak/#content) reaction games, [racing simulators](/products/racing-car-simulators/#content) and [danger zone](/products/danger-zone-strike-a-light-game-hire/#content), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content), [prize games](/categories/prize-games/#content) including [cash grabbers](/products/cash-grabber-machine-hire/#content) and [prize wheels](/products/prize-wheel/#content), and [fun food catering](/categories/fun-foods/#content). For London's busy exhibition and trade show circuit, we provide full [custom branding](/categories/branded-exhibition-games/#content) on games — designed, printed and applied in-house.
+
+Whether you're planning a [conference](/locations/london/conference-game-hire/#content), a [brand activation](/locations/london/brand-promotional-event-hire/#content), a [Christmas party](/locations/london/christmas-game-hire/#content) or a corporate team day, we can talk through what works best for your London event.
