@@ -162,4 +162,5 @@ faqs:
   - question: Is it suitable for adult corporate events?
     answer: Absolutely. Christmas grottos create magical photo opportunities and
       festive atmosphere that adults genuinely enjoy.
+price: £695
 ---
