@@ -71,6 +71,7 @@ content:
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
+      - { name: price, type: string, label: Price }
       - name: categories
         label: Categories
         type: reference
