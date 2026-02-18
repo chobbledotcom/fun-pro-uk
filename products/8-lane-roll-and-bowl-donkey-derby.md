@@ -14,6 +14,9 @@ categories:
   - categories/prize-games.md
   - categories/freshers-fair-games.md
   - categories/interactive-game-hire.md
+  - categories/branded-exhibition-games.md
+  - categories/exhibition-games.md
+  - categories/corporate-entertainment.md
 events:
   - events/celebrations-and-parties.md
   - events/company-award-ceremonies.md
