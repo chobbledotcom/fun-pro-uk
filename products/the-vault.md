@@ -14,12 +14,33 @@ categories:
   - categories/photo-booths-and-magic-mirrors.md
   - categories/prize-games.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/freshers-fair-games.md
+  - categories/weddings.md
 events:
   - events/brand-activation.md
   - events/exhibition-games.md
   - events/corporate-events.md
   - events/evening-entertainment.md
   - events/celebrations-and-parties.md
+  - events/christmas-entertainment.md
+  - events/college-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/educational-and-community.md
+  - events/family-fun-days.md
+  - events/fundraising-events.md
+  - events/office-entertainment.md
+  - events/school-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/summer-entertainment.md
+  - events/team-building-entertainment.md
+  - events/university-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
