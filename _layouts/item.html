@@ -40,16 +40,16 @@ layout: base
     <div class="item-description">
       {{ content }}
     </div>
-    {%- if videos.size > 0 -%}
-    <div class="item-videos video-row">
-      <div class="inner design-system">
-        {%- include "design-system/video-cards.html", videos: videos -%}
-      </div>
-    </div>
-    {%- endif -%}
     <div class="item-cart-buttons">
       <a href="#branding" class="button">+ Add Custom Branding</a>
       {% include "product-options.html" %}
+      {%- if videos.size > 0 -%}
+      <div class="video-row">
+        <div class="inner design-system">
+          {%- include "design-system/video-cards.html", videos: videos -%}
+        </div>
+      </div>
+      {%- endif -%}
     </div>
     <div class="item-tabs">
       {% include "tabs.html" %}

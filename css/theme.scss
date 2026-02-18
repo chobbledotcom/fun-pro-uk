@@ -2768,8 +2768,7 @@ div.fun-pro-item {
     grid-area: reviews;
     margin: 0 0 var(--section-padding);
   }
-  .item-videos {
-    grid-area: videos;
+  .video-row {
     margin: 0 0 var(--section-padding);
   }
   .item-faqs {
@@ -2809,7 +2808,6 @@ div.fun-pro-item {
         "gallery     description"
         "gallery     cart-buttons"
         "gallery     ."
-        "videos      videos"
         "tabs        tabs"
         "reviews     reviews"
         "faqs        faqs";
