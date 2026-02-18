@@ -11,7 +11,10 @@ categories:
   - categories/corporate-entertainment.md
   - categories/arcade-games.md
   - categories/fun-days.md
-  - categories/photo-booths-and-magic-mirrors.md
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
+  - categories/freshers-fair-games.md
+  - categories/weddings.md
 events:
   - events/summer-entertainment.md
   - events/school-entertainment.md
