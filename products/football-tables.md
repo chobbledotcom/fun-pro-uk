@@ -18,6 +18,9 @@ categories:
   - categories/branded-exhibition-games.md
   - categories/exhibition-games.md
   - categories/weddings.md
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
+  - categories/freshers-fair-games.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
@@ -35,6 +38,8 @@ events:
   - events/university-events.md
   - events/summer-entertainment.md
   - events/wedding-entertainment.md
+  - events/educational-and-community.md
+  - events/team-building-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
