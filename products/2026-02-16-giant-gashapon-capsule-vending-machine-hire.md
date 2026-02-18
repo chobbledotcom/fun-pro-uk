@@ -65,7 +65,7 @@ filter_attributes:
   - name: Power Required
     value: Mains power required
   - name: Player Count
-    value: "1"
+    value: 1 player
 meta_title: Gum Ball Machine Hire, Claw Machine Rental , Exhibitions, UK
 meta_description: Our arcade style Giant Gashapon for hire is great for
   exhibitions &amp; promotions. Why not fill the Giant Gashapon with your
