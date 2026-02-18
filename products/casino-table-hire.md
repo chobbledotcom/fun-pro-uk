@@ -15,6 +15,10 @@ categories:
   - categories/interactive-game-hire.md
   - categories/photo-booths-and-magic-mirrors.md
   - categories/prize-games.md
+  - categories/corporate-entertainment.md
+  - categories/freshers-fair-games.md
+  - categories/fun-days.md
+  - categories/weddings.md
 events:
   - events/celebrations-and-parties.md
   - events/christmas-entertainment.md
