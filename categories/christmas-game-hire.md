@@ -22,11 +22,65 @@ faqs:
     answer: "Yes, we can supply festive prizes and branded Christmas giveaways to complement your games."
   - question: "Is setup included in the hire price?"
     answer: "Yes, professional delivery, setup, and collection are included in all our Christmas game hire packages, handled by our experienced event team."
+below_products: |
+  ## What's Included in Christmas Game Hire?
+
+  We make festive entertainment hire as seamless as possible, providing everything you need for a memorable Christmas celebration.
+
+  When you hire Christmas games from Fun Pro UK, you receive:
+
+  *   UK-wide delivery and collection by our professional team\*
+      
+  *   Complete installation and setup by trained technicians
+      
+  *   Custom Christmas branding options to showcase your company identity
+      
+  *   On-site support during your event (available on request)
+      
+  *   Flexible hire periods to suit your event schedule
+
+  \*Delivery fees may apply depending on location.
+
+  ## Branding Options & Pricing
+
+  Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+
+  Christmas Branding Options:
+
+  *   Custom festive backdrops
+      
+  *   Branded game panels
+      
+  *   Corporate Christmas messaging
+      
+  *   Full colour logo application
+
+  Transform standard games into branded Christmas entertainment that guests will remember long after your event ends.
+
+  ## Brands That Trust Fun Pro UK
+
+  Fun Pro UK is proud to have provided Christmas entertainment solutions for leading UK organisations, including:
+
+  *   Boots
+      
+  *   Amazon
+      
+  *   Coventry University
+
+  And many more.
+
+  Join hundreds of satisfied corporate clients who trust us to deliver exceptional festive entertainment year after year.
+
+  ## Hire Christmas Games for Your Event
+
+  Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
+
+  Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
 ---
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
-Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) [Read more..] create unforgettable experiences that boost engagement and bring teams together during the festive season.
+Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) create unforgettable experiences that boost engagement and bring teams together during the festive season.
 
 ## Nationwide Christmas Game Hire & Locations
 
@@ -71,57 +125,3 @@ Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birm
 ### Photo & Entertainment Games
 
 *   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
-
-## What's Included in Christmas Game Hire?
-
-We make festive entertainment hire as seamless as possible, providing everything you need for a memorable Christmas celebration.
-
-When you hire Christmas games from Fun Pro UK, you receive:
-
-*   UK-wide delivery and collection by our professional team\*
-    
-*   Complete installation and setup by trained technicians
-    
-*   Custom Christmas branding options to showcase your company identity
-    
-*   On-site support during your event (available on request)
-    
-*   Flexible hire periods to suit your event schedule
-
-\*Delivery fees may apply depending on location.
-
-## Branding Options & Pricing
-
-Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
-
-Christmas Branding Options:
-
-*   Custom festive backdrops
-    
-*   Branded game panels
-    
-*   Corporate Christmas messaging
-    
-*   Full colour logo application
-
-Transform standard games into branded Christmas entertainment that guests will remember long after your event ends.
-
-## Brands That Trust Fun Pro UK
-
-Fun Pro UK is proud to have provided Christmas entertainment solutions for leading UK organisations, including:
-
-*   Boots
-    
-*   Amazon
-    
-*   Coventry University
-
-And many more.
-
-Join hundreds of satisfied corporate clients who trust us to deliver exceptional festive entertainment year after year.
-
-## Hire Christmas Games for Your Event
-
-Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
-
-Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
