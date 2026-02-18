@@ -7,6 +7,13 @@ layout: base
 <div class="design-system">
   <div class="prose">{{ content }}</div>
 </div>
+
 {% include "video-row.html" %}
+
 {%- include "faq.html" -%}
+
 {% include "item-event-products.html" %}
+
+<div class="design-system">
+  <div class="prose">{{ below_products | renderContent: "md" }}</div>
+</div>
