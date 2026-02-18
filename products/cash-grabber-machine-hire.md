@@ -28,6 +28,16 @@ events:
   - events/evening-entertainment.md
   - events/exhibition-games.md
   - events/university-events.md
+  - events/conference-idea.md
+  - events/educational-and-community.md
+  - events/family-fun-days.md
+  - events/fundraising-events.md
+  - events/office-entertainment.md
+  - events/school-entertainment.md
+  - events/summer-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/team-building-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
