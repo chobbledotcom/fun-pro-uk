@@ -200,4 +200,5 @@ faqs:
     answer: Power requirements vary by configuration. We'll confirm when discussing
       your event.
 thumbnail: /images/products/gold-bar-challenge/be31229a-e893-4f8b-a594-ca83bdac728d.png
+price: £495
 ---
