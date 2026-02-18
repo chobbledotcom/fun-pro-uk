@@ -6,10 +6,6 @@ subtitle: "End-to-end event planning and entertainment coordination"
 thumbnail: /images/pages/event-management.jpg
 redirect_from:
   - "/pages/event-management/"
-eleventyNavigation:
-  key: "Event Management"
-  parent: "How We Help"
-  order: 4
 ---
 
 # Event Management
