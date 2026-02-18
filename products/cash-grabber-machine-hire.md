@@ -15,6 +15,10 @@ categories:
   - categories/grab-a-grand.md
   - categories/interactive-game-hire.md
   - categories/prize-games.md
+  - categories/branded-exhibition-games.md
+  - categories/corporate-entertainment.md
+  - categories/pub-games.md
+  - categories/weddings.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
