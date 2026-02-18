@@ -11,6 +11,7 @@ categories:
   - categories/fun-days.md
   - categories/interactive-game-hire.md
   - categories/weddings.md
+  - categories/freshers-fair-games.md
 events:
   - events/family-fun-days.md
   - events/summer-entertainment.md
@@ -19,6 +20,10 @@ events:
   - events/celebrations-and-parties.md
   - events/fundraising-events.md
   - events/team-building-entertainment.md
+  - events/college-entertainment.md
+  - events/corporate-events.md
+  - events/staff-wellbeing-days.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
