@@ -13,6 +13,10 @@ categories:
   - categories/interactive-game-hire.md
   - categories/prize-games.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/weddings.md
 events:
   - events/brand-activation.md
   - events/exhibition-games.md
