@@ -24,6 +24,20 @@ events:
   - events/exhibition-games.md
   - events/family-fun-days.md
   - events/office-entertainment.md
+  - events/brand-activation.md
+  - events/christmas-entertainment.md
+  - events/college-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/educational-and-community.md
+  - events/evening-entertainment.md
+  - events/fundraising-events.md
+  - events/school-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/summer-entertainment.md
+  - events/team-building-entertainment.md
+  - events/university-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
