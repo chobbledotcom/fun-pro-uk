@@ -2881,8 +2881,11 @@ div.fun-pro-item {
       font-weight: 400;
     }
   }
-  ul.items > li .image-link {
+  ul.items {
     margin: 0;
+    & > li .image-link {
+      margin: 0;
+    }
   }
   .search-box {
     max-width: 300px !important;
