@@ -16,6 +16,10 @@ categories:
   - categories/corporate-entertainment.md
   - categories/prize-games.md
   - categories/weddings.md
+  - categories/christmas-game-hire.md
+  - categories/christmas-games.md
+  - categories/freshers-fair-games.md
+  - categories/fun-days.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
@@ -29,6 +33,13 @@ events:
   - events/school-entertainment.md
   - events/university-events.md
   - events/team-building-entertainment.md
+  - events/christmas-entertainment.md
+  - events/educational-and-community.md
+  - events/family-fun-days.md
+  - events/fundraising-events.md
+  - events/staff-wellbeing-days.md
+  - events/summer-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
