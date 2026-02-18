@@ -11,6 +11,13 @@ categories:
   - categories/arcade-games.md
   - categories/interactive-game-hire.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/freshers-fair-games.md
+  - categories/fun-days.md
+  - categories/prize-games.md
+  - categories/weddings.md
 events:
   - events/exhibition-games.md
   - events/brand-activation.md
@@ -19,6 +26,17 @@ events:
   - events/family-fun-days.md
   - events/college-entertainment.md
   - events/team-building-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/conference-idea.md
+  - events/evening-entertainment.md
+  - events/educational-and-community.md
+  - events/fundraising-events.md
+  - events/office-entertainment.md
+  - events/school-entertainment.md
+  - events/staff-wellbeing-days.md
+  - events/summer-entertainment.md
+  - events/university-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
