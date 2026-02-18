@@ -14,6 +14,8 @@ layout: base
 
 {% include "item-event-products.html" %}
 
+{%- if below_products -%}
 <div class="design-system">
   <div class="prose">{{ below_products | renderContent: "md" }}</div>
 </div>
+{%- endif -%}
