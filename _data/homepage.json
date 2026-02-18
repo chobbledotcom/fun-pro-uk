@@ -1,45 +1,43 @@
 {
-  "header": {
-    "subtitle": "What's your next event?",
-    "title": "Corporate Event Hire Across the UK",
-    "button_text": "Get Started",
-    "button_url": "/contact-fun-pro-uk/",
-    "all_categories_text": "View All Categories",
-    "all_categories_url": "/categories/",
-    "all_categories_image": "products/the-vault/the-vault-1.jpg"
-  },
-  "intro": {
-    "title": "Get in Touch",
-    "text": "Fun Pro UK is a family-run corporate entertainment company based in Coventry, the geographic heart of England. For over 16 years, Colin and Liz have been delivering interactive game hire, branded activations, and fun food catering to clients including Rolls-Royce, KPMG, Virgin Media O2, and Amazon.\n\nWith 90+ games for hire, transparent published pricing, and nationwide delivery from our central UK base, we make event planning straightforward. Browse our range, build your quote, and let us handle the rest.",
-    "button_text": "View Games",
-    "button_url": "/products/"
-  },
-  "how_it_works": {
-    "title": "How it Works",
-    "image": "/images/placeholders/homepage-machines.jpg",
-    "button_text": "Get in Touch",
-    "button_url": "/contact-fun-pro-uk/",
-    "steps": [
-      {
-        "title": "Browse our Games",
-        "text": "Explore our full range of interactive games, photo experiences, and entertainment options. Filter by event type or guest numbers to find your perfect fit."
-      },
-      {
-        "title": "Build Your Quote Request",
-        "text": "Add your favourite games to your quote basket. Include your event date, venue details, and any special requirements you have in mind."
-      },
-      {
-        "title": "Receive Your Quote",
-        "text": "We'll send you a detailed quote within 24 hours. No obligation, no pressure, just straightforward pricing for your event."
-      }
-    ]
-  },
-  "popular_games": {
-    "title": "Popular Games",
-    "link_text": "View All Games",
-    "link_url": "/products/"
-  },
-  "events": {
-    "title": "What Kind of Event Are You Planning?"
-  }
+	"header": {
+		"subtitle": "What's your next event?",
+		"title": "Corporate Event Hire Across the UK",
+		"button_text": "Get Started",
+		"button_url": "/contact-fun-pro-uk/",
+		"all_products_image": "products/the-vault/the-vault-1.jpg"
+	},
+	"intro": {
+		"title": "Get in Touch",
+		"text": "Fun Pro UK is a family-run corporate entertainment company based in Coventry, the geographic heart of England. For over 16 years, Colin and Liz have been delivering interactive game hire, branded activations, and fun food catering to clients including Rolls-Royce, KPMG, Virgin Media O2, and Amazon.\n\nWith 90+ games for hire, transparent published pricing, and nationwide delivery from our central UK base, we make event planning straightforward. Browse our range, build your quote, and let us handle the rest.",
+		"button_text": "View Games",
+		"button_url": "/products/"
+	},
+	"how_it_works": {
+		"title": "How it Works",
+		"image": "/images/placeholders/homepage-machines.jpg",
+		"button_text": "Get in Touch",
+		"button_url": "/contact-fun-pro-uk/",
+		"steps": [
+			{
+				"title": "Browse our Games",
+				"text": "Explore our full range of interactive games, photo experiences, and entertainment options. Filter by event type or guest numbers to find your perfect fit."
+			},
+			{
+				"title": "Build Your Quote Request",
+				"text": "Add your favourite games to your quote basket. Include your event date, venue details, and any special requirements you have in mind."
+			},
+			{
+				"title": "Receive Your Quote",
+				"text": "We'll send you a detailed quote within 24 hours. No obligation, no pressure, just straightforward pricing for your event."
+			}
+		]
+	},
+	"popular_games": {
+		"title": "Popular Games",
+		"link_text": "View All Games",
+		"link_url": "/products/"
+	},
+	"events": {
+		"title": "What Kind of Event Are You Planning?"
+	}
 }

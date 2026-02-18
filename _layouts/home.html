@@ -16,15 +16,15 @@ layout: base
     {%- include "google-rating.html" -%}
     <div class="slider-container">
       <ul class="items slider">
+        <li class="all-products">
+          <a class="image-link" href="/products/" aria-hidden="true" tabindex="-1">
+            {% image homepage.header.all_products_image, "", "", "", "", config.products.item_list_aspect_ratio %}
+          </a>
+          <h3><a href="/products/">All Products</a></h3>
+        </li>
         {%- for item in collections.featuredCategories -%}
           {%- include "homepage-category-item.html" -%}
         {%- endfor -%}
-        <li class="all-categories">
-          <a class="image-link" href="{{ homepage.header.all_categories_url }}#content" aria-hidden="true" tabindex="-1">
-            {% image homepage.header.all_categories_image, "", "", "", "", config.products.item_list_aspect_ratio %}
-          </a>
-          <h3><a href="{{ homepage.header.all_categories_url }}">{{ homepage.header.all_categories_text }}</a></h3>
-        </li>
       </ul>
       {% include "slider-nav.html" %}
     </div>
