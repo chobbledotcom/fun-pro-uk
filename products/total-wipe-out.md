@@ -10,6 +10,8 @@ meta_description: Hire Our Total Wipeout Inflatable Game For Your Family Fun
 categories:
   - categories/corporate-entertainment.md
   - categories/fun-days.md
+  - categories/freshers-fair-games.md
+  - categories/weddings.md
 events:
   - events/family-fun-days.md
   - events/school-entertainment.md
@@ -17,6 +19,12 @@ events:
   - events/university-events.md
   - events/fundraising-events.md
   - events/team-building-entertainment.md
+  - events/celebrations-and-parties.md
+  - events/college-entertainment.md
+  - events/corporate-events.md
+  - events/educational-and-community.md
+  - events/staff-wellbeing-days.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
