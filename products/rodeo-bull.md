@@ -11,6 +11,10 @@ categories:
   - categories/corporate-entertainment.md
   - categories/fun-days.md
   - categories/photo-booths-and-magic-mirrors.md
+  - categories/freshers-fair-games.md
+  - categories/fun-fair-stalls.md
+  - categories/pub-games.md
+  - categories/weddings.md
 events:
   - events/conference-idea.md
   - events/evening-entertainment.md
@@ -19,6 +23,14 @@ events:
   - events/family-fun-days.md
   - events/celebrations-and-parties.md
   - events/university-events.md
+  - events/christmas-entertainment.md
+  - events/college-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/educational-and-community.md
+  - events/corporate-events.md
+  - events/staff-wellbeing-days.md
+  - events/team-building-entertainment.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
