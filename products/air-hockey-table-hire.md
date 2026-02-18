@@ -16,6 +16,10 @@ categories:
   - categories/pub-games.md
   - categories/freshers-fair-games.md
   - categories/weddings.md
+  - categories/branded-exhibition-games.md
+  - categories/christmas-game-hire.md
+  - categories/corporate-entertainment.md
+  - categories/christmas-games.md
 events:
   - events/celebrations-and-parties.md
   - events/college-entertainment.md
