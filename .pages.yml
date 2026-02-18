@@ -169,6 +169,9 @@ content:
       - { name: title, type: string, label: Title }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: body, type: rich-text, label: Body }
+      - name: below_products
+        type: rich-text
+        label: Below Products Description
       - { name: featured, type: boolean, label: Featured }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
