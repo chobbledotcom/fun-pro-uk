@@ -82,4 +82,46 @@ faqs:
       challenge creates genuine satisfaction when players pick a capsule prizes.
 gallery:
   - /images/products/Gum Ball Machine/lbr99hchuqc3giznqxu7.webp
+specs:
+  - name: Players
+    value: "1"
+  - name: Space Required
+    value: 1m Sq
+  - name: Power
+    value: 1 x Power Socket (4-8W)
+  - name: Setup time
+    value: 15-20 minutes
+  - name: Equipment Size
+    value: 1.82m x 0.64m x 0.64
+  - name: Suitability
+    value: Indoor only / Level surface
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: Continuous
+tabs:
+  - title: Why Gashapon Capsule Machine | Fun Prize Dispenser for Events
+    body: The Gashapon Dispenser is a fun, interactive capsule-toy machine that lets
+      players turn the handle to release a surprise prize. Each capsule contains
+      a small collectible item, making the game exciting, repeatable and perfect
+      for events, promotions or giveaways. Its bright, eye-catching design draws
+      attention and creates a nostalgic, engaging experience for guests of all
+      ages.
+  - title: How It Works
+    body: Players turn the handle on the Gashapon Dispenser to release a capsule
+      containing a mystery prize. Each turn gives a new surprise, making the
+      game exciting, simple to use and perfect for repeat play at events or
+      promotions.
+  - title: Why It's A Crowd Favourite
+    body: The Gashapon Dispenser is a crowd favourite because everyone loves the
+      excitement of a mystery prize. Its simple turn-and-reveal gameplay is fun
+      for all ages, while the surprise element keeps people coming back for
+      another go. The bright, eye-catching machine adds to the buzz, making it
+      perfect for events, promotions and high-engagement experiences.
+  - title: Delivery
+    body: We deliver the Gashapon Dispenser directly to major cities across the UK,
+      including London, Manchester, and Birmingham. The team will set up the
+      machine on arrival, ensure it’s ready for guests to use, and return to
+      collect it once your event is finished—making the whole process simple,
+      smooth and hassle-free.
 ---
