@@ -44,6 +44,8 @@ layout: base
 
 {% include "testimonials-slider.html" %}
 
+{% include "video-row.html" %}
+
 {% include "brands-slider.html" %}
 
 <section class="full-width homepage-how-it-works">
@@ -77,8 +79,6 @@ layout: base
   </h2>
   {%- include "items.html", items: collections.featuredProducts, horizontal: true -%}
 </section>
-
-{% include "video-row.html" %}
 
 <section class="homepage-events full-width">
   <h2>{{ homepage.events.title }}</h2>
