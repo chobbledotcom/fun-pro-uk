@@ -15,6 +15,7 @@ categories:
   - categories/freshers-fair-games.md
   - categories/exhibition-games.md
   - categories/fun-days.md
+  - categories/weddings.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
