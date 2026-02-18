@@ -30,6 +30,14 @@ events:
   - events/school-entertainment.md
   - events/staff-wellbeing-days.md
   - events/team-building-entertainment.md
+  - events/christmas-entertainment.md
+  - events/company-award-ceremonies.md
+  - events/educational-and-community.md
+  - events/evening-entertainment.md
+  - events/fundraising-events.md
+  - events/summer-entertainment.md
+  - events/university-events.md
+  - events/wedding-entertainment.md
 featured: true
 features:
   - Delivery, setup, and collection included
