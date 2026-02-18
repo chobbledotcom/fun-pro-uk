@@ -1,25 +1,24 @@
 {
-	"language": "en-GB",
-	"organization": {
-		"description": "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK. Book now for guaranteed fun!",
-		"legalName": "Fun Pro UK Ltd",
-		"address": {
-			"streetAddress": "Unit 7, Heath Business Park, Wolston",
-			"addressLocality": "Coventry",
-			"addressRegion": "West Midlands",
-			"postalCode": "CV8 3GB",
-			"addressCountry": "UK"
-		},
-		"contactPoint": [
-			{
-				"telephone": "+442477220701",
-				"contactType": "customer service",
-				"areaServed": "GB",
-				"availableLanguage": [
-					"English"
-				]
-			}
-		],
-		"founders": []
-	}
+  "language": "en-GB",
+  "organization": {
+    "description": "Looking to level up your corporate event, fun day, exhibition, or party? Our exciting game hire brings unbeatable entertainment straight to your venue, anywhere in the UK. Book now for guaranteed fun!",
+    "legalName": "Fun Pro UK Ltd",
+    "address": {
+      "streetAddress": "Unit 3a Ryton Farm",
+      "addressLocality": "Coventry",
+      "addressRegion": "West Midlands",
+      "postalCode": "CV8 3ES",
+      "addressCountry": "UK"
+    },
+    "contactPoint": [
+      {
+        "telephone": "+442477220701",
+        "contactType": "customer service",
+        "areaServed": "GB",
+        "availableLanguage": [
+          "English"
+        ]
+      }
+    ]
+  }
 }
