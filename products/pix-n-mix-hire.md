@@ -18,6 +18,7 @@ categories:
   - categories/weddings.md
   - categories/exhibition-games.md
   - categories/corporate-entertainment.md
+  - categories/christmas-game-hire.md
 events:
   - events/brand-activation.md
   - events/celebrations-and-parties.md
