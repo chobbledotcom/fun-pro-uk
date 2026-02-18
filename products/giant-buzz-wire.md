@@ -15,6 +15,10 @@ categories:
   - categories/photo-booths-and-magic-mirrors.md
   - categories/prize-games.md
   - categories/pub-games.md
+  - categories/branded-exhibition-games.md
+  - categories/corporate-entertainment.md
+  - categories/exhibition-games.md
+  - categories/weddings.md
 events:
   - events/college-entertainment.md
   - events/conference-idea.md
