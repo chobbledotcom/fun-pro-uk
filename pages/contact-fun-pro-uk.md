@@ -14,7 +14,9 @@ We are here to help, please get in touch today!
 
 Sales team hours
 
-**Monday to Thursday: 9am - 5pm Friday 9am - 4pm**
+**Monday to Thursday: 9am - 5pm.**
+
+**Friday 9am - 4pm**
 
 Email address: [**info@funprouk.co.uk**](mailto:info@funprouk.co.uk)
 
