@@ -28,7 +28,7 @@ Company registration name: **Fun Pro UK Ltd**
 
 Company Number: **09559294**
 
-Main office address: Unit 7, Heath Business Park, Coalpit Ln, Wolston, Coventry, CV8 3GB
+Main office address: Unit 3, Ryton Farm, Wolston Ln, Coventry, CV8 3ES
 
 Lets get social, **join us!**
 
