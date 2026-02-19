@@ -55,6 +55,24 @@ add_ons:
       price: 195
     - name: Add a Branded capsule Bin
       price: 195
+  intro: >-
+    ### **Gashapon Machine – Branding & Customisation Options**
+
+
+    ### Elevate your activation with a fully branded gashapon machine. Add your
+    logo, showcase your corporate colours, or create unique event-themed designs
+    to transform the machine into an eye-catching engagement tool. Custom
+    branding enhances customer interaction while delivering strong visual impact
+    for your brand.
+
+
+    ### **Branding Prices – From**
+
+
+    We provide **in-house branding**, including printing, application, and
+    removal after each event.  
+
+    _Please note: branding is designed for one-time use only._
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included
