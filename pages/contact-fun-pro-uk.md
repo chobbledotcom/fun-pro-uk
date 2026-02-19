@@ -1,20 +1,22 @@
 ---
-meta_title: "Contact Us | Fun Pro UK | Speak With Our Experts"
-meta_description: "Get in touch with the team at Fun Pro UK to discuss how we can help you host the best corporate event, whether it&#39;s a product launch, a promo or a party!"
+meta_title: Contact Us | Fun Pro UK | Speak With Our Experts
+meta_description: Get in touch with the team at Fun Pro UK to discuss how we can
+  help you host the best corporate event, whether it&#39;s a product launch, a
+  promo or a party!
 layout: contact.html
 redirect_from:
-  - "/pages/contact-fun-pro-uk/"
+  - /pages/contact-fun-pro-uk/
+no_index: false
 ---
-
 # Contact Us
 
 We are here to help, please get in touch today!
 
 Sales team hours
 
-**Monday to Friday: 10am - 5pm**
+**Monday to Thursday: 9am - 5pm Friday 9am - 4pm**
 
-Email address: **[info@funprouk.co.uk](mailto:info@funprouk.co.uk)**
+Email address: [**info@funprouk.co.uk**](mailto:info@funprouk.co.uk)
 
 Phone number: [**02477220701**](tel:02477220701)
 
@@ -30,4 +32,4 @@ Main office address: Unit 7, Heath Business Park, Coalpit Ln, Wolston, Coventry,
 
 Lets get social, **join us!**
 
-[Visit us on Instagram:](https://www.instagram.com/funprouk.co.uk/) [Like us on Facebook page:](https://www.facebook.com/funprouk/) [](https://www.linkedin.com/company/fun-pro-uk)[Follow us on LinkedIn:](https://www.linkedin.com/company/fun-pro-uk) [Follow us on Twitter:](https://twitter.com/funprouk) [Review us on Google:](https://g.page/Funprouk/review?rc)
+[Visit us on Instagram:](https://www.instagram.com/funprouk.co.uk/) [Like us on Facebook page:](https://www.facebook.com/funprouk/) [Follow us on LinkedIn:](https://www.linkedin.com/company/fun-pro-uk) [Follow us on Twitter:](https://twitter.com/funprouk) [Review us on Google:](https://g.page/Funprouk/review?rc)
