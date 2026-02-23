@@ -1758,6 +1758,7 @@ body.base {
       display: flex;
       flex-direction: column;
       gap: var(--gap-items);
+      width: auto;
     }
     @include breakpoints.up("sm") {
       .left {
@@ -1774,6 +1775,12 @@ body.base {
         width: auto;
         height: 100%;
         object-fit: contain;
+      }
+    }
+    @include breakpoints.up("md") {
+      img {
+        opacity: 0.3;
+        left: 0;
       }
     }
     @include breakpoints.up("lg") {
