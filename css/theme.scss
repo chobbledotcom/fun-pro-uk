@@ -1748,7 +1748,15 @@ body.base {
     overflow: hidden;
 
     img {
-      display: none;
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      width: auto;
+      height: 100%;
+      object-fit: contain;
+      opacity: 0.3;
     }
     .left {
       text-align: left;
@@ -1760,24 +1768,17 @@ body.base {
     }
     @include breakpoints.up("sm") {
       .left {
-        width: 60%;
         padding: var(--section-padding) 0 var(--section-padding)
           var(--gap-items);
-      }
-      img {
-        display: block;
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 50%;
-        width: auto;
-        height: 100%;
-        object-fit: contain;
       }
     }
     @include breakpoints.up("lg") {
       .left {
         width: 50%;
+      }
+      img {
+        opacity: 1;
+        left: 50%;
       }
     }
   }
