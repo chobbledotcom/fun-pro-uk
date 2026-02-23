@@ -1748,7 +1748,8 @@ body.base {
     overflow: hidden;
 
     img {
-      display: none;
+      opacity: 0.3;
+      left: 0;
     }
     .left {
       text-align: left;
