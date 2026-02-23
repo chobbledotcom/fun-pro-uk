@@ -1757,19 +1757,20 @@ body.base {
       height: 100%;
       object-fit: contain;
       opacity: 0.3;
+      z-index: 0;
     }
     .left {
       text-align: left;
       align-content: center;
-      padding-left: var(--section-padding);
+      position: relative;
+      z-index: 1;
       display: flex;
       flex-direction: column;
       gap: var(--gap-items);
     }
     @include breakpoints.up("sm") {
       .left {
-        padding: var(--section-padding) 0 var(--section-padding)
-          var(--gap-items);
+        padding: var(--section-padding) 0 var(--section-padding) 0;
       }
     }
     @include breakpoints.up("lg") {
