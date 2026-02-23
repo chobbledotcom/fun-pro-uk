@@ -2827,7 +2827,7 @@ div.fun-pro-item {
       gap: calc(var(--gap-items) / 2);
       justify-content: space-around;
       li {
-        width: calc(25% - calc((var(--gap-items) / 2) * 0.75));
+        width: fit-content;
         text-align: center;
         a {
           font-weight: 500;
