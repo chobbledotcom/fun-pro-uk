@@ -1681,11 +1681,12 @@ body.base {
 
   .row {
     @include flex-row(var(--section-padding));
+    flex-wrap: wrap;
     margin: 0 auto;
     width: 100%;
     .left {
       @include flex-column(var(--section-padding-half));
-      width: 50%;
+      flex: 1 1 400px;
       h2,
       ol {
         max-width: 695px;
@@ -1693,7 +1694,7 @@ body.base {
     }
     .image {
       @include flex-center;
-      width: 50%;
+      flex: 1 1 400px;
       margin: 0;
     }
     h2 {
