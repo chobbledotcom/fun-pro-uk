@@ -423,11 +423,13 @@ input[type="submit"] {
   gap: 16px;
   align-items: center;
   border-radius: 16px;
-  border: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  /*
   background: transparent;
+  border: none;
+  */
   white-space: nowrap;
   box-shadow: none;
 
