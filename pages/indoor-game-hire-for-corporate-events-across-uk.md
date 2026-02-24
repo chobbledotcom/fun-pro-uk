@@ -8,13 +8,13 @@ redirect_from:
 
 # Indoor Game Hire for Corporate Events Across the UK
 
-Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-idea/#content), [office celebration](/office-and-corporate-entertainment/#content), or [exhibition](/events/exhibition-games/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
+Planning an event in the UK means one thing's almost certain: the weather won't always cooperate. That's where indoor games come in. Whether you're organising a [conference](/events/conference-idea/#content), [office celebration](/events/office-entertainment/#content), or [exhibition](/events/exhibition-games/#content) stand, our indoor entertainment options give you confidence that your event will succeed regardless of what's happening outside. With over 15 years as corporate event specialists, we provide professional-grade games and interactive entertainment with [nationwide delivery](/delivery-areas/#content) from our Coventry base.
 
 ## Why Choose Indoor Games for Your Event
 
 The main benefit of indoor games is straightforward; your event isn't dependent on sunshine. But there's more to it than just weather protection. Indoor venues like hotels, conference centres and office spaces give you control over the environment. You can manage sound levels, lighting and guest comfort more easily than outdoor settings.
 
-For [corporate events](/office-and-corporate-entertainment/#content), indoor games suit the professional setting whilst still creating that sense of fun and engagement you're after. Many of our indoor options have compact footprints too, which matters when you're working with limited floor space at an exhibition stand or in a meeting room. Year-round availability is another consideration since autumn and winter events particularly benefit from weather-proof entertainment.
+For [corporate events](/events/office-entertainment/#content), indoor games suit the professional setting whilst still creating that sense of fun and engagement you're after. Many of our indoor options have compact footprints too, which matters when you're working with limited floor space at an exhibition stand or in a meeting room. Year-round availability is another consideration since autumn and winter events particularly benefit from weather-proof entertainment.
 
 It's worth considering that indoor games work well when you need guests to move between activities without worrying about wet grass, wind, or temperature changes. The controlled environment means people can participate comfortably throughout your event.
 
@@ -40,7 +40,7 @@ Games like [table football](/products/football-tables/#content) and [air hockey]
 
 ### Giant games
 
-These types of games offer visual impact without requiring electronic setup. [Oversized Connect 4](/products/giant-connect-4-game-hire/#content), [Jenga](/products/giant-jenga-hire/#content) and similar options are easy for anyone to join. For evening entertainment at corporate dinners or [awards ceremonies](/award-ceremonies/#content),
+These types of games offer visual impact without requiring electronic setup. [Oversized Connect 4](/products/giant-connect-4-game-hire/#content), [Jenga](/products/giant-jenga-hire/#content) and similar options are easy for anyone to join. For evening entertainment at corporate dinners or [awards ceremonies](/events/company-award-ceremonies/#content),
 
 ### Casino games
 
@@ -66,7 +66,7 @@ These events need games that get people mingling, especially when some team memb
 
 ### Wedding receptions
 
-These benefit from games that suit all ages if you've got families attending. Entertainment during natural lulls (between courses, whilst photos are being taken) keeps guests engaged. Photo opportunities are particularly valued at [weddings](/wedding-entertainment/#content) as people want to take memories home. [Photo booths](/products/classic-photo-booths/#content) are a perfect addition to events like weddings to add some fun to photos.
+These benefit from games that suit all ages if you've got families attending. Entertainment during natural lulls (between courses, whilst photos are being taken) keeps guests engaged. Photo opportunities are particularly valued at [weddings](/events/wedding-entertainment/#content) as people want to take memories home. [Photo booths](/products/classic-photo-booths/#content) are a perfect addition to events like weddings to add some fun to photos.
 
 ## Important Planning Considerations
 

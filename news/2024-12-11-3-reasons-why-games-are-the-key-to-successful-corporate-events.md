@@ -57,7 +57,7 @@ It keeps your guests from being bored, and it creates opportunities for positive
 
 One of the main reasons why games are the popular entertainment choice for event planners and companies is their ability to create memorable experiences. Plus, people always want unique outside-of-the-box experiences, and the right games for corporate events can certainly do that.
 
-[Hired games for corporate events](/office-and-corporate-entertainment/#content) are more than just diversions. They’re a great way to get people excited and leave lasting positive impressions on event attendees.
+[Hired games for corporate events](/events/office-entertainment/#content) are more than just diversions. They’re a great way to get people excited and leave lasting positive impressions on event attendees.
 
 Guests can walk away from the event with the thrill of winning at shuffleboard, the skill it took to conquer the Giant Buzz Wire, the pure fun of playing on the [Dance Machine](/products/dance-machine/#content), or the Race Car Simulators they enjoyed as kids.
 

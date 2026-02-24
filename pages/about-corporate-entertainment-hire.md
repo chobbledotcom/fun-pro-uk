@@ -5,6 +5,7 @@ layout: page
 redirect_from:
   - "/pages/about-corporate-entertainment-hire/"
   - "/pages/our-story/"
+  - "/our-story/"
 eleventyNavigation:
   key: "About us"
   order: 4

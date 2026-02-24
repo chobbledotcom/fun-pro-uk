@@ -15,7 +15,7 @@ gallery:
 
 Planning a [corporate event](/locations/birmingham/conference-and-event-hire/#content) in Birmingham gives you access to the UK's second-largest city with its excellent transport links, diverse venues, and comprehensive range of activities. Whether you're organising a half-day energiser for your Birmingham-based team or bringing colleagues together from across the country for a full away day, understanding your options helps you create an event that genuinely strengthens your team whilst achieving your specific objectives.
 
-The challenge lies not in finding activities, but in choosing the right ones for your particular team dynamics, budget, and goals. This guide walks you through the practical considerations that matter when planning your event in Birmingham, from understanding what different [team building activities](/team-building-activities/#content) are most suitable for your event.
+The challenge lies not in finding activities, but in choosing the right ones for your particular team dynamics, budget, and goals. This guide walks you through the practical considerations that matter when planning your event in Birmingham, from understanding what different [team building activities](/events/team-building-entertainment/#content) are most suitable for your event.
 
 ## Why Birmingham Is Perfect for Team Building Events
 
@@ -31,7 +31,7 @@ Birmingham's hospitality sector has developed to serve its substantial business 
 
 ![](/images/news/people-playing-during-team-building.jpg)
 
-Before exploring specific activities, it's worth considering what you're actually trying to achieve. [Team building events](/team-building-activities/#content) succeed when they match their format to genuine objectives rather than simply booking something that sounds fun.
+Before exploring specific activities, it's worth considering what you're actually trying to achieve. [Team building events](/events/team-building-entertainment/#content) succeed when they match their format to genuine objectives rather than simply booking something that sounds fun.
 
 Are you bringing together a newly formed team that barely knows each other? Your priority might be creating relaxed opportunities for natural conversation. Perhaps you're addressing communication challenges within an established team, which suggests activities requiring collaboration and clear information sharing. If you're celebrating success or thanking your team for a demanding period, the focus shifts towards enjoyment and recognition.
 
@@ -89,7 +89,7 @@ It's worth considering that active outdoor activities require more careful plann
 
 ### Escape rooms
 
-These have become remarkably popular for [corporate team building](/team-building-activities/#content) because they require genuine collaboration under time pressure. Birmingham offers numerous options, from themed rooms in the city centre to mobile escape room providers who bring the experience to your venue. The challenge forces teams to communicate clearly, delegate effectively, and work together, all whilst being genuinely entertaining.
+These have become remarkably popular for [corporate team building](/events/team-building-entertainment/#content) because they require genuine collaboration under time pressure. Birmingham offers numerous options, from themed rooms in the city centre to mobile escape room providers who bring the experience to your venue. The challenge forces teams to communicate clearly, delegate effectively, and work together, all whilst being genuinely entertaining.
 
 ### Crystal Maze-style challenges
 

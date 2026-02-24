@@ -24,7 +24,7 @@ below_products: |
 
   ### Enrichment Days and Fun Days
 
-  These are about participation and getting students out of the classroom. [Giant Garden Games](/categories/garden-games/#content) like [Giant Jenga](/products/giant-jenga-hire/#content) and [Giant Connect 4](/products/giant-connect-4-game-hire/#content) work outdoors on college grounds. [Retro Arcade Games](/products/retro-arcade-games/#content) and [Racing Simulators](/products/racing-car-simulators/#content) draw the students who prefer indoor activities. [Table Football](/products/football-tables/#content) and [Air Hockey](/products/air-hockey-table-hire/#content) are guaranteed crowd-pleasers for this age group.
+  These are about participation and getting students out of the classroom. [Giant Garden Games](/categories/interactive-game-hire/#content) like [Giant Jenga](/products/giant-jenga-hire/#content) and [Giant Connect 4](/products/giant-connect-4-game-hire/#content) work outdoors on college grounds. [Retro Arcade Games](/products/retro-arcade-games/#content) and [Racing Simulators](/products/racing-car-simulators/#content) draw the students who prefer indoor activities. [Table Football](/products/football-tables/#content) and [Air Hockey](/products/air-hockey-table-hire/#content) are guaranteed crowd-pleasers for this age group.
 
   ### Open Days and Recruitment Events
 

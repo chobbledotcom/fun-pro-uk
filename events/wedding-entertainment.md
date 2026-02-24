@@ -8,6 +8,7 @@ thumbnail: /images/pages/hire-outdoor-games-for-weddings.jpg
 redirect_from:
   - "/hire-outdoor-games-for-weddings/"
   - "/pages/hire-outdoor-games-for-weddings/"
+  - "/wedding-entertainment/"
 eleventyNavigation:
   key: "Wedding Entertainment"
   parent: "Celebrations & Parties"

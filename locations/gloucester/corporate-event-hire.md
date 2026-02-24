@@ -10,7 +10,7 @@ redirect_from:
 
 Gloucestershire has a corporate events market that punches well above its weight. Cheltenham Racecourse draws major hospitality events year-round, not just during the famous festival. Gloucester's own conference venues and hotels host a steady programme of business events. And the Cotswolds attract companies looking for countryside retreats and away days with a bit more character than the usual city hotel.
 
-With over 15 years of experience as [corporate event specialists](/our-story/#content), we provide entertainment that works across this range of settings — from the buzzing atmosphere of a racecourse hospitality suite to the refined surroundings of a Cotswolds country house.
+With over 15 years of experience as [corporate event specialists](/about-corporate-entertainment-hire/#content), we provide entertainment that works across this range of settings — from the buzzing atmosphere of a racecourse hospitality suite to the refined surroundings of a Cotswolds country house.
 
 ## Interactive Entertainment for Gloucestershire Corporate Events
 

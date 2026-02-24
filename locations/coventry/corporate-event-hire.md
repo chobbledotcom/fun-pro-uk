@@ -35,7 +35,7 @@ With over 15 years serving corporate clients across the Midlands, including majo
 
 Event planning can be stressful, particularly when you're responsible for keeping colleagues or clients entertained. That's why we take time to understand your specific requirements before recommending any games or activities.
 
-Different corporate events have different entertainment needs. A formal [award ceremony](/award-ceremonies/#content) at St Mary's Guildhall requires different considerations than a casual team-building day or an [exhibition](/events/exhibition-games/#content) stand at the [CBS Arena](/ricoh-arena/#content).
+Different corporate events have different entertainment needs. A formal [award ceremony](/events/company-award-ceremonies/#content) at St Mary's Guildhall requires different considerations than a casual team-building day or an [exhibition](/events/exhibition-games/#content) stand at the [CBS Arena](/ricoh-arena/#content).
 
 [Conference entertainment](/locations/coventry/conference-event-hire/#content) needs to energise attendees without disrupting the schedule, whilst staff parties benefit from games that help people from different departments get to know each other.
 

@@ -71,6 +71,7 @@ options:
     days: 1
 redirect_from:
   - /category/corporate-entertainment/46/rodeo-bull/
+  - /products/rodeo-bull-hire/
 gallery:
   - /images/products/rodeo-bull/rodeo-bull-1.jpg
   - /images/products/rodeo-bull/rodeo-bull-2.jpg

@@ -9,11 +9,11 @@ thumbnail: /images/products/air-hockey-table-hire/air-hockey-table-hire-1.jpg
 
 # Corporate Event Hire in Manchester: Professional Entertainment Solutions
 
-Planning a [corporate event](/office-and-corporate-entertainment/#content) in Manchester? Whether you're organising a team building day, conference entertainment, or company celebration, choosing the right entertainment can make the difference between a memorable experience and a missed opportunity. As corporate event specialists with over 15 years of experience, we understand the unique challenges that Manchester businesses face when planning professional events.
+Planning a [corporate event](/events/office-entertainment/#content) in Manchester? Whether you're organising a team building day, conference entertainment, or company celebration, choosing the right entertainment can make the difference between a memorable experience and a missed opportunity. As corporate event specialists with over 15 years of experience, we understand the unique challenges that Manchester businesses face when planning professional events.
 
 ## Why Manchester Businesses Choose Professional Corporate Event Hire
 
-Manchester's thriving business community deserves entertainment that matches their professional standards. From the bustling city centre to the growing business districts in Salford and Trafford, companies across Greater Manchester are increasingly recognising that [quality corporate entertainment](/office-and-corporate-entertainment/#content) is an investment, not just an expense.
+Manchester's thriving business community deserves entertainment that matches their professional standards. From the bustling city centre to the growing business districts in Salford and Trafford, companies across Greater Manchester are increasingly recognising that [quality corporate entertainment](/events/office-entertainment/#content) is an investment, not just an expense.
 
 The difference between working with corporate event specialists and general party hire companies becomes clear when you consider what's at stake. Your event reflects your company's values and professionalism. When colleagues, clients, or stakeholders attend your event, they form impressions that last long after the day ends. That's why Manchester businesses choose professional corporate event hire - because they understand that expertise, reliability, and quality matter.
 
@@ -25,7 +25,7 @@ Our [nationwide coverage](/delivery-areas/#content) means we serve Manchester ev
 
 ### Team Building Days and Staff Parties
 
-[Team building events](/team-building-activities/#content) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/categories/interactive-game-hire/#content) create natural conversation starters that help colleagues see each other in a completely different light.
+[Team building events](/events/team-building-entertainment/#content) in Manchester need to account for the city's diverse workforce and varying personality types. Not everyone feels comfortable with high-energy activities, whilst others thrive on competition and challenge. Our [interactive games](/categories/interactive-game-hire/#content) create natural conversation starters that help colleagues see each other in a completely different light.
 
 Our professional-grade equipment includes reaction games like [Batak](/categories/batak/#content) units that test reflexes and coordination, encouraging friendly competition without putting anyone on the spot. [Racing simulators](/products/racing-car-simulators/#content) appeal to competitive spirits whilst remaining accessible to different skill levels. For teams that prefer collaborative activities, our [human table football](/products/human-table-football/#content) creates an environment where success depends on working together.
 

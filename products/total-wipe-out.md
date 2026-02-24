@@ -65,6 +65,7 @@ options:
     days: 1
 redirect_from:
   - /category/corporate-entertainment/20/total-wipe-out/
+  - /products/total-wipeout/
 gallery:
   - /images/products/total-wipe-out/total-wipe-out-1.jpg
   - /images/products/total-wipe-out/total-wipe-out-2.jpg

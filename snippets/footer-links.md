@@ -18,7 +18,7 @@ name: Footer links
 
 ### Your Event
 
-- [Award Ceremonies](/award-ceremonies/)
+- [Award Ceremonies](/events/company-award-ceremonies/)
 - [How It Works](/how-we-help/)
 - [FAQs](/frequently-asked-questions/)
 - [Case Studies](/case-studies/)

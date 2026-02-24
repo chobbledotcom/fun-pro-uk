@@ -25,7 +25,7 @@ We've provided student activations in Manchester (including a [branded prize whe
 
 **Open days and recruitment events** — branded games that make your stand or campus tour stick in people's minds. We handle [custom branding](/events/brand-activation/#content) in-house, from design through to print and application.
 
-**Student union socials and fun days** — [giant garden games](/categories/garden-games/#content), [fun food carts](/categories/fun-food/#content) and [inflatables](/categories/inflatables/#content) for outdoor campus events.
+**Student union socials and fun days** — [giant garden games](/categories/interactive-game-hire/#content), [fun food carts](/categories/fun-foods/#content) and [inflatables](/categories/fun-days/#content) for outdoor campus events.
 
 ## Why Universities Book With Us
 

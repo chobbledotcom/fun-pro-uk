@@ -9,7 +9,7 @@ thumbnail: "/images/locations/fun-pro-batak-pro-game.jpg"
 
 # Batak Pro – The Ultimate Interactive Game for Corporate & Private Events in Birmingham
 
-Are you planning a [corporate event](/office-and-corporate-entertainment/#content), [exhibition](/events/exhibition-games/#content), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
+Are you planning a [corporate event](/events/office-entertainment/#content), [exhibition](/events/exhibition-games/#content), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
 
 At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/products/batak-lite/#content), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
 
@@ -21,7 +21,7 @@ Batak Pro is the gold standard in reaction testing games, beloved by people of a
 
 This addictively simple concept creates natural and healthy competition as participants try to beat their colleagues' scores or claim the top spot on the leaderboard. The sleek, professional design makes it a perfect centrepiece for:
 
-*   Corporate events and [team-building](/team-building-activities/#content) exercises
+*   Corporate events and [team-building](/events/team-building-entertainment/#content) exercises
     
 *   Exhibition stands to increase footfall
     

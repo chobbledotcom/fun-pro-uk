@@ -17,7 +17,7 @@ That's where thoughtfully chosen [interactive entertainment](/categories/interac
 
 ## Why Birmingham Businesses Choose Professional Conference Entertainment
 
-Birmingham hosts thousands of [corporate events](/office-and-corporate-entertainment/#content) each year, from intimate team meetings to major trade shows with hundreds of exhibitors. The city's conference infrastructure, particularly venues like the NEC and ICC, means event organisers have access to world-class facilities, but this also means your event is competing for attention in a crowded marketplace.
+Birmingham hosts thousands of [corporate events](/events/office-entertainment/#content) each year, from intimate team meetings to major trade shows with hundreds of exhibitors. The city's conference infrastructure, particularly venues like the NEC and ICC, means event organisers have access to world-class facilities, but this also means your event is competing for attention in a crowded marketplace.
 
 [Interactive games](/categories/interactive-game-hire/#content) and entertainment serve a specific purpose at corporate events. They create natural conversation starters, helping attendees who've never met to break the ice without the awkwardness of forced networking. They provide mental breaks between intensive sessions, which actually helps information retention rather than hindering it. For exhibition stands, they draw footfall and create opportunities for meaningful conversations about your products or services.
 
@@ -35,15 +35,15 @@ It's worth discussing your venue with us early in the planning process. We know 
 
 ### Types of Corporate Events We Support
 
-Different [corporate events](/office-and-corporate-entertainment/#content) have different entertainment needs:
+Different [corporate events](/events/office-entertainment/#content) have different entertainment needs:
 
 [Large conferences](/events/conference-idea/#content) - (500+ attendees) benefit from multiple game stations that can handle high throughput during breaks, ensuring queues don't become frustrating.
 
 [Trade shows and exhibitions](/events/exhibition-games/#content) - need entertainment that stops attendees in their tracks and creates opportunities for your team to start conversations whilst they're engaged with the activity.
 
-[Corporate award ceremonies](/award-ceremonies/#content) - call for entertainment that complements the formality of the occasion; perhaps positioned for pre-dinner drinks rather than during the main programme.
+[Corporate award ceremonies](/events/company-award-ceremonies/#content) - call for entertainment that complements the formality of the occasion; perhaps positioned for pre-dinner drinks rather than during the main programme.
 
-[Team-building days](/team-building-activities/#content) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
+[Team-building days](/events/team-building-entertainment/#content) - allow for more varied and extended engagement with games, where the activity itself becomes part of the team bonding rather than just a break between sessions.
 
 Many types of corporate events often benefit from [branded entertainment](/events/brand-activation/#content) that reinforces your messaging whilst creating shareable moments for social media.
 
@@ -81,7 +81,7 @@ Planning early typically gives you more options and better availability, particu
 
 ## Why Choose Fun Pro for Birmingham Conference Hire
 
-As [corporate event specialists](/our-story/#content) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
+As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand the pressures conference organisers face. Your reputation is on the line with every event, which is why reliability matters just as much as the games themselves.
 
 Our approach focuses on helping you make informed decisions rather than simply pushing equipment. We ask about your venue, your attendees, your goals, and your concerns, because a game that works brilliantly in one context might be entirely wrong for yours.
 

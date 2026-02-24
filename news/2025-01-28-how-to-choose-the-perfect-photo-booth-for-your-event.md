@@ -11,7 +11,7 @@ redirect_from:
 
 When you're hosting a fun and unique event, there needs to be a fine balance between meticulous planning and delivering an experience that guests would find memorable. Attendees should be able to cherish memories of the event for years and years to come.
 
-No wonder photo booths have become a staple at events. These beloved booths offer an exciting way to capture memories while keeping guests entertained. Whether it’s a [wedding](/wedding-entertainment/#content), [corporate event](/office-and-corporate-entertainment/#content), birthday party, or community gathering, a [photo booth hire](/categories/photo-booths-and-magic-mirrors/#content) adds an extra layer of fun.
+No wonder photo booths have become a staple at events. These beloved booths offer an exciting way to capture memories while keeping guests entertained. Whether it’s a [wedding](/events/wedding-entertainment/#content), [corporate event](/events/office-entertainment/#content), birthday party, or community gathering, a [photo booth hire](/categories/photo-booths-and-magic-mirrors/#content) adds an extra layer of fun.
 
 If you’re considering a photo booth for your event, knowing how to choose the perfect one can make all the difference. Let’s explore the best options and essential tips for finding the ideal booth for your needs.
 

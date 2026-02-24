@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2023-04-25/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/"
 ---
 
-As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/office-and-corporate-entertainment/#content) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
+As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/events/office-entertainment/#content) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  
   
 Employee wellbeing is essential for the smooth running of any organisation. Happy employees mean lower staff turnover, higher productivity, and more motivated workers. We have plenty of cool ideas that could help you boost worker satisfaction and keep your business flowing as it should.
 
