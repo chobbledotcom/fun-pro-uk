@@ -42,7 +42,7 @@ Virgin Media O2 understands that their field engineers and operations teams are 
 
 The challenge was clear: how do you create a consistent, memorable experience for teams spread across numerous UK locations? Traditional entertainment solutions often struggle with multi-site deployments. Equipment quality can vary between venues, setup requirements differ, and coordinating multiple suppliers becomes a logistical headache. Virgin Media O2 needed a partner who could deliver the same high-quality entertainment experience whether the event was taking place in a Manchester car park or a Glasgow field, all whilst managing the practical realities of outdoor events under marquees.
 
-The company's initial exploration of interactive entertainment began in 2023 with a single evening event. This trial booking allowed them to assess [FunPro](/our-story/#content) UK's equipment quality, professionalism, and ability to deliver a smooth experience. The success of that first event laid the foundation for a much larger vision: a touring festival programme that would visit multiple Virgin Media O2 bases throughout the summer months, giving every team the same opportunity to enjoy interactive entertainment and celebrate their contributions.
+The company's initial exploration of interactive entertainment began in 2023 with a single evening event. This trial booking allowed them to assess [FunPro](/about-corporate-entertainment-hire/#content) UK's equipment quality, professionalism, and ability to deliver a smooth experience. The success of that first event laid the foundation for a much larger vision: a touring festival programme that would visit multiple Virgin Media O2 bases throughout the summer months, giving every team the same opportunity to enjoy interactive entertainment and celebrate their contributions.
 
 ## Creating a Scalable Festival Experience
 
@@ -96,6 +96,6 @@ The FunPro team's ability to work effectively in outdoor environments, adapt to 
 
 ## Ready to Create Consistent Experiences Across Your Organisation?
 
-If you're planning multi-location corporate events and need an entertainment partner who can deliver consistent quality nationwide, FunPro UK brings the expertise and reliability that comes from over 15 years as [corporate event](/office-and-corporate-entertainment/#content) specialists. [Our team](/meet-the-team/#content) understands the unique challenges of touring programmes and multi-site deployments.
+If you're planning multi-location corporate events and need an entertainment partner who can deliver consistent quality nationwide, FunPro UK brings the expertise and reliability that comes from over 15 years as [corporate event](/events/office-entertainment/#content) specialists. [Our team](/meet-the-team/#content) understands the unique challenges of touring programmes and multi-site deployments.
 
 [Get in touch](/contact-fun-pro-uk/#content) with our friendly team to discuss how we can help create memorable experiences for your distributed workforce, wherever they're based across the UK.

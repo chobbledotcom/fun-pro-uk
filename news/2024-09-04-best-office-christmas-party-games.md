@@ -11,7 +11,7 @@ redirect_from:
 
 Planning an event and want to ensure your guests have an amazing experience? Game rentals are a fantastic way to add fun and interactive elements to any gathering, whether it’s a corporate event, birthday party, convention, or community gathering.
 
-But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/office-and-corporate-entertainment/#content)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
+But there are few corporate events more important than office Christmas parties, and incorporating our game hire ideas can make a big difference to the big day. So create memorable and engaging events for employees with these [office and corporate event hire ideas](/events/office-entertainment/#content)! We have it all at Fun Pro UK, including the Christmas party games and adult party games you need - all you need to do is make a booking.
 
 [<< Return to news](/news/#content)
 
@@ -57,8 +57,8 @@ The best games for your office Christmas party depend on the size of your team, 
 
 The number of game hire options you plan depends on the length of your party and how many guests will be attending. For most office Christmas parties, it’s a good idea to plan for:
 
-*   **2-4 games** for a smaller party or for [wellbeing days](/pages/wellbeing-days ) and [team building days](/pages/team-building-ideas ) lasting 2-3 hours.
-*   **4-6 games** for larger parties, [company award ceremonies](/category/company-award-ceremonies ) or all-day events where you’ll need more activities to keep everyone entertained.
+*   **2-4 games** for a smaller party or for [wellbeing days](/events/staff-wellbeing-days/#content) and [team building days](/events/team-building-entertainment/#content) lasting 2-3 hours.
+*   **4-6 games** for larger parties, [company award ceremonies](/events/company-award-ceremonies/#content) or all-day events where you’ll need more activities to keep everyone entertained.
 
 If your office has a larger team, consider setting up game stations with different activities, allowing groups to rotate through the games over the course of the party. Games like **[Roll And Bowl Reindeer Racing Game Hire](/products/roll-and-bowl-reindeer-racing-game-hire/#content)** are perfect for keeping things varied and fun.
 

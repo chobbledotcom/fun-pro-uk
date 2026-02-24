@@ -14,19 +14,19 @@ redirect_from:
 ## Cities and Towns
 *   [Corporate Event Hire For Birmingham | Interactive Games By Fun Pro UK](/locations/birmingham/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire](/locations/bristol/corporate-event-hire/#content) [Bristol](/locations/bristol/corporate-event-hire/#content)
-*   [Fun Pro UK - Corporate Entertainment Hire Cambridge](/cambridge-corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Cambridge](/locations/cambridge/corporate-event-hire/#content)
 *   [Fun Pro UK | Corporate Event Hire for Coventry](/locations/coventry/corporate-event-hire/#content)
 *   [](/locations/coventry/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire](/gloucester-corporate-event-hire/#content) [Gloucester](/gloucester-corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Leeds](/locations/leeds/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Leicester](/locations/leicester/corporate-event-hire/#content)
-*   [Fun Pro UK - Corporate Entertainment Hire Liverpool](/liverpool-corporate-event-hire/#content)
-*   [](/liverpool-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Manchester](/locations/manchester/corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Liverpool](/locations/liverpool/corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Manchester](/locations/manchester/corporate-event-hire/#content)
 *   [](/locations/manchester/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Milton Keynes](/locations/milton-keynes/corporate-event-hire/#content)
 *   [Fun Pro UK - Corporate Entertainment Hire Northampton](/locations/northampton/corporate-event-hire/#content)
 *   [](/locations/northampton/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire](/locations/nottingham/corporate-event-hire/#content) [Nottingham](/locations/nottingham/corporate-event-hire/#content)
-*   [](/locations/nottingham/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Oxford](/oxford-corporate-event-hire/#content)
-*   [](/oxford-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Reading](/reading-corporate-event-hire/#content)
-*   [](/reading-corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire-2/#content)
+*   [](/locations/nottingham/corporate-event-hire/#content)[Fun Pro UK - Corporate Entertainment Hire Oxford](/locations/oxford/corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Reading](/locations/reading/corporate-event-hire/#content)
+*   [Fun Pro UK - Corporate Entertainment Hire Sheffield](/locations/sheffield/corporate-event-hire-2/#content)
 
 ## Insurance
 *   [Insurance - Corporate Event hire in Nationwide](/insurance/#content)
@@ -108,10 +108,10 @@ redirect_from:
 
 *   [Privacy Policy - Corporate Event hire in Nationwide](/privacy-policy/#content)
 *   [](/privacy-policy/#content)[Terms &' Condition - Corporate Event hire in Nationwide](/terms-and-condition/#content)
-*   [](/terms-and-condition/#content)[About Fun Pro UK | The Corporate Event Specialists](/home/#content)
-*   [](/home/#content)[FAQs - Corporate Event hire in Nationwide](/home/#content)
+*   [](/terms-and-condition/#content)[About Fun Pro UK | The Corporate Event Specialists](/#content)
+*   [FAQs - Corporate Event hire in Nationwide](/#content)
 
-## [](/home/#content)**Contact us**
+## **Contact us**
 
 *   [Contact Us - Corporate Event hire in Nationwide](/contact-fun-pro-uk/#content)
 

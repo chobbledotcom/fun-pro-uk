@@ -21,7 +21,7 @@ We're a family-run business based in Coventry — the geographic centre of Engla
 
 ## What We Regularly Deliver
 
-**Team building days** — [Interactive games](/categories/interactive-game-hire/#content) like [Batak Pro](/products/batak-pro/#content), [Human Table Football](/products/human-table-football/#content) and [Total Wipeout](/products/total-wipeout/#content) that get people away from their desks and actually talking to each other. We've run these at conference centres, office parks and outdoor venues.
+**Team building days** — [Interactive games](/categories/interactive-game-hire/#content) like [Batak Pro](/products/batak-pro/#content), [Human Table Football](/products/human-table-football/#content) and [Total Wipeout](/products/total-wipe-out/#content) that get people away from their desks and actually talking to each other. We've run these at conference centres, office parks and outdoor venues.
 
 **Award ceremonies & corporate parties** — We've supplied [photo booths](/categories/photo-booths-and-magic-mirrors/#content) and games to KPMG's annual awards multiple years running. [Casino tables](/products/casino-table-hire/#content), [retro arcade machines](/products/retro-arcade-games/#content) and [dance machines](/products/dance-machine/#content) fill the gaps between speeches.
 

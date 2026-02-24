@@ -13,9 +13,9 @@ gallery:
 
 ![](/images/news/fun-pro-corporate-event.jpg)
 
-Planning a [corporate event](/office-and-corporate-entertainment/#content) can feel overwhelming, and perhaps no decision carries more weight than selecting the right venue. With over 15 years of experience as corporate event specialists, we understand the pressure you face when choosing a space that needs to impress clients, engage employees, and reflect your company's professionalism. The venue you select will influence everything from attendance rates to the overall success of your event, making this choice one that deserves careful consideration and expert guidance.
+Planning a [corporate event](/events/office-entertainment/#content) can feel overwhelming, and perhaps no decision carries more weight than selecting the right venue. With over 15 years of experience as corporate event specialists, we understand the pressure you face when choosing a space that needs to impress clients, engage employees, and reflect your company's professionalism. The venue you select will influence everything from attendance rates to the overall success of your event, making this choice one that deserves careful consideration and expert guidance.
 
-Whether you're organising a [team-building day](/team-building-activities/#content), client entertainment event, or company [conference](/events/conference-idea/#content), the right venue creates the foundation for memorable experiences that bring people together. Let's explore the essential factors that will help you make this crucial decision with confidence.
+Whether you're organising a [team-building day](/events/team-building-entertainment/#content), client entertainment event, or company [conference](/events/conference-idea/#content), the right venue creates the foundation for memorable experiences that bring people together. Let's explore the essential factors that will help you make this crucial decision with confidence.
 
 ## Why Venue Selection Can Make or Break Your Event
 
@@ -59,7 +59,7 @@ Start with your target attendee list, but apply realistic expectations about act
 
 ### Space Requirements for Different Activities
 
-[Corporate events](/office-and-corporate-entertainment/#content) rarely involve just one type of activity. You might need theatre-style seating for presentations, small group spaces for breakout sessions, and open areas for networking or interactive entertainment. Consider whether your chosen activities require additional ceiling height – this is particularly important if you're planning to include [interactive games](/categories/interactive-game-hire/#content) or technology demonstrations that enhance engagement and team building.
+[Corporate events](/events/office-entertainment/#content) rarely involve just one type of activity. You might need theatre-style seating for presentations, small group spaces for breakout sessions, and open areas for networking or interactive entertainment. Consider whether your chosen activities require additional ceiling height – this is particularly important if you're planning to include [interactive games](/categories/interactive-game-hire/#content) or technology demonstrations that enhance engagement and team building.
 
 ### Layout Flexibility
 

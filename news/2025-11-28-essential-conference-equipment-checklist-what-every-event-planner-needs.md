@@ -69,7 +69,7 @@ Once you've covered the essentials, it's time to think about equipment that take
 
 ### Interactive Entertainment and Networking Equipment
 
-Here's something many event planners overlook: entertainment equipment isn't a nice-to-have extra for conferences. It's an essential tool for achieving your event goals, whether that's networking, [team building](/team-building-activities/#content), or keeping energy levels high throughout a long day.
+Here's something many event planners overlook: entertainment equipment isn't a nice-to-have extra for conferences. It's an essential tool for achieving your event goals, whether that's networking, [team building](/events/team-building-entertainment/#content), or keeping energy levels high throughout a long day.
 
 These serve a real purpose at corporate conferences. They create natural conversation starters, break down the professional barriers that can make networking awkward, and give colleagues a chance to interact in a completely different context. This isn't about being frivolous; it's about recognising that people connect better when they're relaxed and enjoying themselves.
 
@@ -81,7 +81,7 @@ These can be [branded](/events/brand-activation/#content) to match your conferen
 
 Why does this matter? Because conference equipment hire isn't just about having games available, it's about understanding how [interactive entertainment](/categories/interactive-game-hire/#content) fits into your broader event strategy. The right entertainment equipment reduces the dreaded "conference slump" that hits after lunch. It facilitates genuine networking rather than forced small talk. It helps introverted attendees feel more comfortable participating.
 
-At [Fun Pro](/our-story/#content), we've spent over 15 years helping corporate event planners understand which entertainment equipment works for different conference formats. Not every game suits every event, and part of our role is helping you choose equipment that matches your audience, your venue constraints, and your specific objectives.
+At [Fun Pro](/about-corporate-entertainment-hire/#content), we've spent over 15 years helping corporate event planners understand which entertainment equipment works for different conference formats. Not every game suits every event, and part of our role is helping you choose equipment that matches your audience, your venue constraints, and your specific objectives.
 
 ### Catering and Hospitality Equipment
 

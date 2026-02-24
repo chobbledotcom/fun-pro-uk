@@ -9,7 +9,7 @@ thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 
 # Corporate Event Hire London: Interactive Games & Entertainment
 
-Planning a corporate event in London comes with its own set of challenges – from navigating venue restrictions to ensuring your entertainment reflects your company's professional standards. At Fun Pro, we understand these pressures and provide [corporate event hire](/office-and-corporate-entertainment/#content) services that take the stress out of planning whilst creating genuinely memorable experiences for your colleagues, clients, or partners.
+Planning a corporate event in London comes with its own set of challenges – from navigating venue restrictions to ensuring your entertainment reflects your company's professional standards. At Fun Pro, we understand these pressures and provide [corporate event hire](/events/office-entertainment/#content) services that take the stress out of planning whilst creating genuinely memorable experiences for your colleagues, clients, or partners.
 
 As corporate event specialists with over 15 years of experience, we've helped companies across London – from intimate boardroom celebrations to large-scale conferences – create events that people will be talking about long after they've returned to their desks.
 
@@ -23,7 +23,7 @@ When you're hosting an event in London's competitive business environment, the q
 
 ### Breaking Down Workplace Barriers
 
-[Corporate events](/office-and-corporate-entertainment/#content) serve a purpose beyond just celebration – they're opportunities to strengthen relationships, improve team dynamics, and create shared experiences. [Interactive games](/categories/interactive-game-hire/#content) naturally break down the formal barriers that exist in workplace settings, giving colleagues a chance to see each other in a completely different light. We've seen reserved finance directors become competitive [racing game](/products/racing-car-simulators/#content) champions and quiet team members emerge as natural leaders during team challenges.
+[Corporate events](/events/office-entertainment/#content) serve a purpose beyond just celebration – they're opportunities to strengthen relationships, improve team dynamics, and create shared experiences. [Interactive games](/categories/interactive-game-hire/#content) naturally break down the formal barriers that exist in workplace settings, giving colleagues a chance to see each other in a completely different light. We've seen reserved finance directors become competitive [racing game](/products/racing-car-simulators/#content) champions and quiet team members emerge as natural leaders during team challenges.
 
 ### Navigating London's Venue Challenges
 
@@ -31,7 +31,7 @@ London venues often come with unique constraints – limited loading access, str
 
 ### Understanding Your Investment
 
-Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](/team-building-activities/#content), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
+Corporate event entertainment isn't just about having fun – it's an investment in employee engagement, [team building](/events/team-building-entertainment/#content), or client relationships. When chosen thoughtfully, interactive entertainment can significantly improve event satisfaction scores, strengthen team bonds, and create positive associations with your brand.
 
 ## Types of Corporate Events We Support Across London
 
@@ -107,7 +107,7 @@ Many of our games can be customised with your company branding, turning entertai
 
 ### Choosing Games for Your Audience
 
-Corporate audiences are wonderfully diverse, and successful [event entertainment](/office-and-corporate-entertainment/#content) needs to work for everyone attending. We consider factors like age range, physical abilities, personality types, and professional relationships when recommending entertainment options.
+Corporate audiences are wonderfully diverse, and successful [event entertainment](/events/office-entertainment/#content) needs to work for everyone attending. We consider factors like age range, physical abilities, personality types, and professional relationships when recommending entertainment options.
 
 Some colleagues thrive on competitive challenges, whilst others prefer collaborative or observational activities. The key is providing a range of options that allow everyone to participate at their comfort level whilst still creating opportunities for interaction and relationship building.
 
@@ -155,7 +155,7 @@ All our equipment meets professional safety standards and is regularly tested an
 
 ### Comprehensive Service Approach
 
-We handle every aspect of your [entertainment hire](/office-and-corporate-entertainment/#content), from initial consultation through to post-event collection. This comprehensive approach means fewer suppliers to coordinate, clearer communication, and single-point accountability for your entertainment success.
+We handle every aspect of your [entertainment hire](/events/office-entertainment/#content), from initial consultation through to post-event collection. This comprehensive approach means fewer suppliers to coordinate, clearer communication, and single-point accountability for your entertainment success.
 
 ### Understanding Corporate Objectives
 
@@ -165,7 +165,7 @@ Our central location allows us to serve London efficiently whilst our [nationwid
 
 ## Ready to start planning your London corporate event entertainment?
 
-Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](/contact-fun-pro-uk/#content) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/office-and-corporate-entertainment/#content) truly memorable.
+Our friendly team would be happy to discuss your requirements and provide recommendations tailored to your specific needs and objectives. [Contact us](/contact-fun-pro-uk/#content) to arrange a consultation and discover how the right entertainment can make your next [corporate event](/events/office-entertainment/#content) truly memorable.
 
 ## Frequently Asked Questions
 

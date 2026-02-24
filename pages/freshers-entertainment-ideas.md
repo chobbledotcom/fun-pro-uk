@@ -16,7 +16,7 @@ We've been supplying freshers entertainment to universities across the UK since 
 
 Before looking at games and activities, think about who's actually coming. Today's freshers cohorts are diverse: school leavers, mature students, international students, students with disabilities, and students who are deeply nervous about the whole experience. Your entertainment needs to create opportunities for all of these people to feel included.
 
-Games that work across this range tend to share common traits: they're easy to understand without instructions, they create natural conversation, and they don't require physical fitness or cultural knowledge to enjoy. [Giant garden games](/categories/garden-games/#content), [photo booths](/categories/photo-booths-and-magic-mirrors/#content) and [prize games](/categories/prize-games/#content) all tick these boxes.
+Games that work across this range tend to share common traits: they're easy to understand without instructions, they create natural conversation, and they don't require physical fitness or cultural knowledge to enjoy. [Giant garden games](/categories/interactive-game-hire/#content), [photo booths](/categories/photo-booths-and-magic-mirrors/#content) and [prize games](/categories/prize-games/#content) all tick these boxes.
 
 Games that exclude tend to be the ones that assume everyone's confident, sporty or extroverted. The students who most need freshers week to work for them are often the ones who won't voluntarily join a high-energy group activity.
 

@@ -19,13 +19,13 @@ Are you planning a [conference](/events/conference-idea/#content)? One of the mo
 
 Interactive games and entertainment aren't one-size-fits-all. The size of your conference fundamentally changes how you approach entertainment hire, from the types of games you select to how many you need, where you place them, and how your attendees will interact with them.
 
-With over 15 years of experience as [corporate event specialists](/our-story/#content), we've helped event planners [across the UK](/delivery-areas/#content) navigate these decisions for conferences of every size. In this guide, we'll walk you through the key considerations for choosing [interactive entertainment](/categories/interactive-game-hire/#content) based on your conference size, so you can create an engaging experience that achieves your event goals whilst staying within budget.
+With over 15 years of experience as [corporate event specialists](/about-corporate-entertainment-hire/#content), we've helped event planners [across the UK](/delivery-areas/#content) navigate these decisions for conferences of every size. In this guide, we'll walk you through the key considerations for choosing [interactive entertainment](/categories/interactive-game-hire/#content) based on your conference size, so you can create an engaging experience that achieves your event goals whilst staying within budget.
 
 ## Understanding the Key Differences Between Small and Large Conferences
 
 Before we explore specific entertainment choices, it's worth considering what actually defines a small versus large conference, and why size matters so much.
 
-For the purposes of interactive entertainment planning, we typically consider a small [conference](/events/conference-idea/#content) to be anything from 20 to 100 attendees. These events often take place in hotel meeting rooms, small conference centres, or dedicated corporate training facilities. They're usually focused on specific topics, [team building](/team-building-activities/#content), or departmental gatherings where attendees generally know each other or share a common purpose.
+For the purposes of interactive entertainment planning, we typically consider a small [conference](/events/conference-idea/#content) to be anything from 20 to 100 attendees. These events often take place in hotel meeting rooms, small conference centres, or dedicated corporate training facilities. They're usually focused on specific topics, [team building](/events/team-building-entertainment/#content), or departmental gatherings where attendees generally know each other or share a common purpose.
 
 A large conference, on the other hand, typically involves 100 to 500+ attendees. These events take place in convention centres, large hotels, or purpose-built conference venues. They often feature multiple sessions, keynote speakers, and attendees from different departments, companies, or even industries who may be meeting for the first time.
 
@@ -113,7 +113,7 @@ Small conferences often work with tighter per-person budgets. When you're planni
 
 Large conferences can leverage economies of scale. Whilst your absolute entertainment budget is higher, the per-person cost often becomes more manageable as attendee numbers increase. This allows you to create the variety and impact that large conferences demand without the per-person costs becoming prohibitive.
 
-When planning your budget, consider what's included in the hire cost. With [Fun Pro](/our-story/#content), delivery, professional setup, and collection\* are included as part of our [nationwide service](/delivery-areas/#content). There are no surprise costs for installation or equipment testing. This comprehensive approach helps you budget accurately.
+When planning your budget, consider what's included in the hire cost. With [Fun Pro](/about-corporate-entertainment-hire/#content), delivery, professional setup, and collection\* are included as part of our [nationwide service](/delivery-areas/#content). There are no surprise costs for installation or equipment testing. This comprehensive approach helps you budget accurately.
 
 It's worth thinking about entertainment as an investment rather than simply a cost. Interactive games serve multiple purposes: they're ice-breakers, networking facilitators, energy boosters, and memory makers. When attendees leave your conference talking about their experiences, when they've made genuine connections with colleagues; that's the return on your entertainment investment.
 

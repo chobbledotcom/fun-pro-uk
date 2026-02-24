@@ -13,7 +13,7 @@ Finding fun group activities that everyone will enjoy is challenging. How do you
 
 It's true that only a few group activities will satisfy everyone, but finding the right group bonding activities can transform boring gatherings into memorable experiences.
 
-Fun group activities encourage social interaction, build team spirit, and keep everyone entertained in community gatherings, [corporate events](/office-and-corporate-entertainment/#content), festivals, and more.
+Fun group activities encourage social interaction, build team spirit, and keep everyone entertained in community gatherings, [corporate events](/events/office-entertainment/#content), festivals, and more.
 
 Fun Pro UK offers a wide variety of [group party games for hire](/party-games-hire/#content), suitable for any occasion. Our collection includes speed reaction games, interactive challenges, classic arcade games, and activities designed to encourage friendly competition and ensure everyone has an enjoyable experience.
 
@@ -89,7 +89,7 @@ Absolutely! We understand that personalisation adds a unique touch to your event
 
 ### How far in advance should I book to secure the equipment I want?
 
-To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/events/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/team-building-activities/#content) periods.
+To avoid disappointment, we recommend booking at least 4 to 6 weeks in advance, particularly during peak seasons such as [summer festivals](/events/summer-entertainment/#content), [Christmas parties](/news/#content), and [corporate team building](/events/team-building-entertainment/#content) periods.
 
 If your event is approaching quickly, contact Fun Pro UK as soon as possible. We will do our best to accommodate late requests based on availability.
 

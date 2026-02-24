@@ -58,7 +58,7 @@ As told to FunPro by the Poundland Manchester Store Management Team.
 
 The retail team faced a common challenge - recognising the need for experiential marketing but having limited time to implement it. Traditional promotional methods like discounts and flyers were already planned, but they wouldn't create the buzz and engagement necessary to stand out in Manchester's competitive student market.
 
-"We started researching interactive options, and that's when we came across FunPro's [corporate entertainment solutions](/office-and-corporate-entertainment/#content). What immediately caught our attention wasn't just their equipment range, but their ability to work with tight deadlines. When we explained our situation, they didn't just say they could help - they provided specific suggestions about what would work best for our space and audience."
+"We started researching interactive options, and that's when we came across FunPro's [corporate entertainment solutions](/events/office-entertainment/#content). What immediately caught our attention wasn't just their equipment range, but their ability to work with tight deadlines. When we explained our situation, they didn't just say they could help - they provided specific suggestions about what would work best for our space and audience."
 
 The space constraints were significant. Unlike purpose-built event venues, retail stores have limited floor space, safety considerations, and ongoing operational requirements. Any activation needed to enhance rather than hinder the shopping experience whilst creating sufficient impact to draw attention from passing foot traffic.
 
@@ -74,7 +74,7 @@ The solution needed to work on multiple levels. Visually, it had to be striking 
 
 The custom branding extended beyond aesthetics to functionality. The wheel segments were designed to align with Poundland's product ranges and promotional offers, creating natural connections between the game experience and actual shopping opportunities. This approach meant the activation wasn't just entertainment - it was a genuine marketing tool that could drive both immediate sales and longer-term customer relationships.
 
-[FunPro's team](/our-story/#content) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
+[FunPro's team](/about-corporate-entertainment-hire/#content) also provided guidance on optimal positioning within the store, timing considerations for maximum impact, and simple operational procedures that store staff could manage alongside their regular responsibilities. This comprehensive approach meant Poundland could focus on their core business whilst confident that the activation would run smoothly.
 
 ## Implementation and Immediate Impact
 
@@ -106,7 +106,7 @@ Looking ahead, Poundland sees interactive retail experiences as an increasingly 
 
 The Poundland activation showcased FunPro's ability to deliver professional solutions under tight timelines whilst maintaining their signature attention to detail and client service. [Colin Parker](/meet-the-team/#content), FunPro's Managing Director, personally oversaw the project coordination to ensure seamless execution despite the short notice requirements.
 
-The team's expertise in [corporate entertainment](/office-and-corporate-entertainment/#content) proved invaluable in translating retail objectives into engaging interactive experiences. Their understanding of student audiences, combined with technical knowledge of space-efficient interactive solutions, enabled them to recommend and deliver exactly the right solution for Poundland's specific needs.
+The team's expertise in [corporate entertainment](/events/office-entertainment/#content) proved invaluable in translating retail objectives into engaging interactive experiences. Their understanding of student audiences, combined with technical knowledge of space-efficient interactive solutions, enabled them to recommend and deliver exactly the right solution for Poundland's specific needs.
 
 FunPro's custom branding capabilities meant the prize wheel wasn't just functional entertainment - it was a properly integrated brand touchpoint that reinforced Poundland's identity whilst creating positive associations through enjoyable experiences. This attention to brand consistency alongside entertainment value demonstrates the comprehensive approach that sets FunPro apart in the corporate entertainment market.
 

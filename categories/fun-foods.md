@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg
 redirect_from:
   - "/category/fun-foods/"
+  - "/categories/fun-food/"
 eleventyNavigation:
   key: "Fun Foods"
   parent: "Entertainment hire"

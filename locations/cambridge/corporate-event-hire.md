@@ -4,13 +4,14 @@ meta_title: "Corporate Event Hire Cambridge"
 meta_description: "Looking for corporate event hire in Cambridge? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/cambridge-corporate-event-hire/"
+  - "/cambridge-corporate-event-hire/"
 ---
 
 # Corporate Event Hire Cambridge
 
 Cambridge is a city shaped by academic tradition and technological innovation, and its corporate events reflect that mix. Whether you're entertaining delegates at a research conference, rewarding a software team after a product launch, or hosting clients at a formal dinner in a college setting, the right entertainment sets the tone and keeps people engaged.
 
-As [corporate event specialists](/our-story/#content) with over 15 years of experience, we understand that Cambridge events often come with unique considerations — historic venues with access restrictions, audiences that range from international academics to startup founders, and organisers who need entertainment that feels polished without being over the top.
+As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand that Cambridge events often come with unique considerations — historic venues with access restrictions, audiences that range from international academics to startup founders, and organisers who need entertainment that feels polished without being over the top.
 
 ## What We Provide for Cambridge Corporate Events
 
