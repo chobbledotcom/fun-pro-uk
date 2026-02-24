@@ -4,6 +4,8 @@ meta_description: "Boost brand visibility with promotional game hire for corpora
 layout: page
 redirect_from:
   - "/pages/promotional-event-games/"
+  - "/pages/promotion-event-games/"
+  - "/pages/promotion/"
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire

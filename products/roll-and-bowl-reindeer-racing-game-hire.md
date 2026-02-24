@@ -8,7 +8,6 @@ meta_description: Festive-themed roll-and-bowl reindeer racing game for
   Christmas parties and seasonal events. Roll the ball to race your reindeer to
   the finish line! UK wide delivery.
 categories:
-  - categories/christmas-games.md
   - categories/christmas-game-hire.md
   - categories/roll-and-bowl.md
 events:

@@ -55,7 +55,7 @@ Photo & Entertainment Games:
 
 We make the process of hiring festive entertainment effortless, delivering comprehensive packages that ensure your Coventry Christmas event runs flawlessly from start to finish.
 
-When you choose [Christmas games](/categories/christmas-games/#content) from Fun Pro UK, your package includes:
+When you choose [Christmas games](/categories/christmas-game-hire/#content) from Fun Pro UK, your package includes:
 
 *   West Midlands delivery and collection by our professional Coventry-based team\*
     

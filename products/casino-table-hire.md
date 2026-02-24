@@ -10,7 +10,6 @@ categories:
   - categories/pub-games.md
   - categories/arcade-games.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/christmas-grotto-hire.md
   - categories/interactive-game-hire.md
   - categories/photo-booths-and-magic-mirrors.md

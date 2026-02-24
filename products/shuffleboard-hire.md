@@ -17,7 +17,6 @@ categories:
   - categories/pub-games.md
   - categories/branded-exhibition-games.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/corporate-entertainment.md
   - categories/freshers-fair-games.md
   - categories/weddings.md

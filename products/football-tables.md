@@ -19,7 +19,6 @@ categories:
   - categories/exhibition-games.md
   - categories/weddings.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/freshers-fair-games.md
 events:
   - events/brand-activation.md

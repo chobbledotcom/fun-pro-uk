@@ -8,7 +8,6 @@ meta_description: Hire our festive Whack an Elf game for Christmas parties and
   seasonal events. A Christmas twist on the classic whack-a-mole — fun for all
   ages! UK wide delivery.
 categories:
-  - categories/christmas-games.md
   - categories/christmas-game-hire.md
 events:
   - events/christmas-entertainment.md

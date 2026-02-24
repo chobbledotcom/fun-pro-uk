@@ -19,7 +19,7 @@ The right games do more than fill time; they bring people together, encourage co
 
 ## What Makes a Great Christmas Party Game?
 
-Before diving into specific games, it's worth considering what separates memorable entertainment from forgettable filler. The best [Christmas party games](/categories/christmas-games/#content) share a few key characteristics.
+Before diving into specific games, it's worth considering what separates memorable entertainment from forgettable filler. The best [Christmas party games](/categories/christmas-game-hire/#content) share a few key characteristics.
 
 Inclusivity matters. Games should work for different personalities, abilities, and comfort levels, not everyone wants to perform in front of colleagues, whilst others thrive on being centre stage. Think about offering a mix of competitive activities and spectator-friendly options so everyone can participate in ways that suit them.
 

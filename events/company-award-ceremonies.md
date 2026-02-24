@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/events/company-award-ceremonies.jpg
 redirect_from:
   - "/category/company-award-ceremonies/"
+  - "/pages/award-ceremonies/"
 eleventyNavigation:
   key: "Award Ceremonies"
   parent: "Corporate Events"

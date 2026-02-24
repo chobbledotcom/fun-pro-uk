@@ -9,7 +9,6 @@ meta_description: Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK i
   Contact us today!
 categories:
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/grab-a-grand.md
 events:
   - events/christmas-entertainment.md

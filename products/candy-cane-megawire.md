@@ -8,7 +8,6 @@ meta_description: Bring excitement to your Christmas event with the Candy Cane
   Mega Wire! A festive, interactive game ideal for corporate parties, family
   gatherings, and fairs.
 categories:
-  - categories/christmas-games.md
   - categories/christmas-game-hire.md
 events:
   - events/christmas-entertainment.md
