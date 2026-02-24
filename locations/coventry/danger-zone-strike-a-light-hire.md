@@ -27,7 +27,7 @@ Fun Pro UK is your go-to partner for [corporate event game hire in Coventry](/pr
 
 So, if you're looking to add excitement and engagement to your corporate events, exhibitions, or conference game hire in Coventry, the Danger Zone Strike a Light game from Fun Pro UK is the way to go. Don't hesitate to reach out to them via email for further information.
 
-# Strike A Light game Hire
+## Strike A Light game Hire
 **Hire **Price** From £395** \+ vat
 
 Delivered and installed on site

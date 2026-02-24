@@ -117,16 +117,19 @@ below_products: |
 
   You can [hire retro arcade games](/products/retro-arcade-games/#content), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](/products/electronic-basket-ball-hire/#content) that really get the crowd involved.
 
-  **Take a break  
-  **Electronic games hire is ideal for conferences, presentations and training days, giving delegates a chance to relax and unwind during breakout times. Hiring interactive games for the office is also a great way of balancing work and play when your team are under pressure.
+  ### Take a break
+
+  Electronic games hire is ideal for conferences, presentations and training days, giving delegates a chance to relax and unwind during breakout times. Hiring interactive games for the office is also a great way of balancing work and play when your team are under pressure.
 
   Compact and easy to play, our interactive games take up little space and as little time as you have available, while delivering big fun for everyone involved.
 
-  **Classic casino nights  
-  **Our interactive games are ideal for themed corporate event hire too, with something to match almost any occasion from a new car launch to a film premier. Why not add a touch of James Bond sophistication with casino quality gaming tables including roulette table hire and blackjack table hire, complete with professional uniformed croupiers and dealers.
+  ### Classic casino nights
 
-  **Nationwide delivery  
-  **While we specialise in West Midlands corporate entertainment hire, we also deliver event packages across the UK. Ask for details when you make your booking. Call or email now, or complete the contact form below and we'll call you.
+  Our interactive games are ideal for themed corporate event hire too, with something to match almost any occasion from a new car launch to a film premier. Why not add a touch of James Bond sophistication with casino quality gaming tables including roulette table hire and blackjack table hire, complete with professional uniformed croupiers and dealers.
+
+  ### Nationwide delivery
+
+  While we specialise in West Midlands corporate entertainment hire, we also deliver event packages across the UK. Ask for details when you make your booking. Call or email now, or complete the contact form below and we'll call you.
 
   *   Tel: 02477220701
   *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

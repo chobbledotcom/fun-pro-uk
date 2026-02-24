@@ -27,7 +27,7 @@ So, by hiring a Batak Pro along with other interactive games from Fun Pro UK, yo
 
 If you have any more questions or need further assistance about our office fun day game hire then email our team.
 
-# Batak Pro Game Hire UK
+## Batak Pro Game Hire UK
 **Hire **Price** From £495** \+ vat
 
 Delivered and installed on site

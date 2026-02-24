@@ -28,7 +28,7 @@ By incorporating a Batak Pro game into your exhibition stand or corporate event 
 
 So, if you're looking to add a thrilling and competitive element to your exhibition stands, corporate events, or trade shows in Manchester, I highly recommend hiring a Batak Pro game from Fun Pro UK. With the option for bespoke branding, you can create a branded experience that aligns with your company's identity.
 
-# Batak Pro Game Hire UK
+## Batak Pro Game Hire UK
 **Hire **Price** From £495** \+ vat
 
 Delivered and installed on site
@@ -77,8 +77,8 @@ Please contact us to find out more
 
 **This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
 
-# Specification
-# Product requirements
+## Specification
+## Product requirements
 ## Popular items:
 
 *   [Retro arcade machine](/products/retro-arcade-games/#content)

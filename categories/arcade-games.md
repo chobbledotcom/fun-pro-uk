@@ -85,25 +85,25 @@ below_products: |
 
   Booking the arcade video game machines you want with Fun Pro UK is easy and stress-free:
 
-  #### Step 1: Enquiry
+  ### Step 1: Enquiry
 
   Reach out to us via our website, email, or phone to discuss your event needs. Someone from our team will provide a personalised quote based on your requirements.
 
-  #### Step 2: Confirmation
+  ### Step 2: Confirmation
 
   When you're happy with the arcade games for rent, confirm your booking, and we'll take care of the rest.
 
-  #### Step 3: Delivery and setup
+  ### Step 3: Delivery and setup
 
   On the day of the event, we'll take care of delivering and setting up the arcade games at the venue. We'll provide professional staffing when required to ensure that everything goes off without a hitch.
 
-  #### Step 4: Event day support
+  ### Step 4: Event day support
 
   If you need any assistance during the event, our team of professionals are only one call away. Call: 0247 7220 701
 
   We'll make sure everyone gets to enjoy the games you've booked.
 
-  #### Step 5: Removal
+  ### Step 5: Removal
 
   When the event is over, we'll handle the safe and efficient removal of all the arcade games, leaving your venue exactly as we found it.
 
