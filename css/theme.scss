@@ -1085,6 +1085,7 @@ body.horizontal-nav main {
       bottom: auto;
       left: auto;
       padding: 0;
+      border: none;
       background: transparent;
       color: #ee3324;
       align-self: center;
@@ -2001,11 +2002,11 @@ ul.items {
     h3 {
       font-size: 20px;
       line-height: 22px;
-      height: 44px;
+      min-height: 44px;
     }
     p {
       letter-spacing: 0.3px;
-      height: 42px;
+      min-height: 42px;
     }
     .image-link,
     placeholder {
@@ -2715,6 +2716,7 @@ aritcle > .faqs-container {
 
 div.fun-pro-item {
   background: #fafafa;
+  padding-top: var(--gap-items);
 
   & > * {
     padding: 0;
