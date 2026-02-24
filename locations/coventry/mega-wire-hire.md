@@ -25,28 +25,22 @@ Lastly, let's not forget about the potential for social media exposure. People l
 
 If you're looking to add excitement, engagement, and brand promotion to your corporate event in Coventry, hiring a mega Buzz wire game is a fantastic choice.
 
-# Mega Wire Game Hire UK
-**Hire **Price** From £395** \+ vat
+## Mega Wire Game Hire UK
+**Hire Price From £395 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available Printed, applied & removed after each event (One time use only)
+\*Delivery charges & minimum order value may apply.
 
-\*Delivery Charges & Minimum order value
+**Discounted rates** available for **Multiple Days & Additional items**
 
-may apply
+Please contact us to find out more.
 
-**Discounted rates** available for **Multiple Days &**Additional items**
-
-Please contact us to find out more
-
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
 
 **Equipment size**
 
@@ -62,7 +56,7 @@ Please contact us to find out more
 
 **Suitability**
 
-**Indoor door use only/Level surface, Max users 1**
+**Indoor use only/Level surface, Max users 1**
 
 **Access**
 
@@ -72,5 +66,5 @@ Please contact us to find out more
 
 **Branding options available**
 
-# Specification
-# Product requirements
+## Specification
+## Product requirements

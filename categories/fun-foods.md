@@ -60,7 +60,7 @@ below_products: |
 
   Every event needs ice cream right? Whether your favourite is a 99 with sauce and a flake, a bat n ball - lolly and ice cream or you fancy going all out with a double cone and sprinkles, we can supply it all with our fully loaded, top quality, immaculate Mr Whippy ice cream vans. Let us know your date and event then we can do the rest. We cater for School Summer fairs, leavers parties, work parties, summer family fun days and much more.
 
-  To find Out more Contact Fun Pro UK by Emailing [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+  To find out more, contact Fun Pro UK by emailing [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 ---
 
 # Fun Food Hire

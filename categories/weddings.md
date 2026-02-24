@@ -15,15 +15,15 @@ redirect_from:
 ---
 
 # Wedding Entertainment for Guests
-Planning a wedding takes time, and there is so much you can do to make the wedding reception even more memorable with wedding game hire. Wedding reception games are becoming more and more popular to keep quests entertained throughout the day and night.
+Planning a wedding takes time, and there is so much you can do to make the wedding reception even more memorable with wedding game hire. Wedding reception games are becoming more and more popular to keep guests entertained throughout the day and night.
 
 We provide many games options for wedding entertainment hire for both indoors and outdoors, for adults and children. Our wedding games for guests are at home in beautifully restored old barns by [Cripps & Co](https://crippsandco.com/) as they are in the historic buildings, such as [Coombe Abbey](https://www.coombeabbey.com/venue/weddings/), Coventry.
 
-Traditional giant garden games for weddings and a family favourite of [Giant Jenga](/products/giant-jenga-hire/#content), is enjoyed by both adults and children, they'll be hooked on seeing who has the skill to pull out the wooden bricks from the tower without knocking the tower down!
+Traditional giant garden games are a family favourite for weddings. [Giant Jenga](/products/giant-jenga-hire/#content) is enjoyed by both adults and children — they'll be hooked on seeing who has the skill to pull out the wooden bricks from the tower without knocking it down!
 
-Our [Magic Mirror](/products/giant-jenga-hire/#content) really does make people smile, we have plenty of photos that bring 3rd and 4th generations together, giggling as grandma tries on the oversized glasses, whilst dad starts to play the large pink blow up guitar. The photos are instant, and we are more than happy for more photos to be taken, so that the wedding couple can keep a photo for their own memory book.
+Our [Magic Mirror](/products/giant-jenga-hire/#content) really does make people smile. We have plenty of photos that bring 3rd and 4th generations together, giggling as grandma tries on the oversized glasses, whilst dad starts to play the large pink blow up guitar. The photos are instant, and we are more than happy for more photos to be taken, so that the wedding couple can keep a photo for their own memory book.
 
-When you hire wedding games from Fun Pro UK, your guests will be talking about how much fun they had had at your wedding.
+When you hire wedding games from Fun Pro UK, your guests will be talking about how much fun they had at your wedding.
 
 **Have a look at our wedding games** and give the Fun Pro UK events team a call, we are here to make sure your wedding is the most memorable it can be.
 
