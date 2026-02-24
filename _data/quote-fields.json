@@ -42,12 +42,13 @@
 					"label": "Type of event",
 					"required": true,
 					"options": [
-						"Wedding",
 						"Birthday Party",
 						"Corporate Event",
+						"Exhibition",
 						"Festival",
-						"School Fete",
 						"Private Party",
+						"School Fete",
+						"Wedding",
 						"Other"
 					],
 					"note": "Select 'Other' if your event type is not listed"
