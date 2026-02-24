@@ -4,8 +4,6 @@ meta_title: "Event Hire Coventry | Interactive Games & Entertainment | Fun Pro U
 meta_description: "Event and game hire in Coventry from our local base. Interactive games, photo booths, branded exhibition games and catering for corporate events, fun days and celebrations."
 redirect_from:
   - "/pages/coventry/"
-  - "/mtc-events/"
-  - "/pages/mtc-events/"
 subtitle: "Event hire fit for the UK City of Culture"
 thumbnail: "images/locations/coventry.jpg"
 ---
