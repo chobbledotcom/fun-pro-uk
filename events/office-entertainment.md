@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/events/office-entertainment.jpg
 redirect_from:
   - "/pages/office-entertainment/"
+  - "/pages/office-and-corporate-entertainment/"
 eleventyNavigation:
   key: "Office Entertainment"
   parent: "Corporate Events"

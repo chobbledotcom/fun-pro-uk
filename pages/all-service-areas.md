@@ -4,6 +4,7 @@ meta_description: "All Service Areas - Fun Pro UK provide the best Exhibition an
 layout: page
 redirect_from:
   - "/pages/all-service-areas/"
+  - "/pages/delivery-areas/"
 ---
 
 # All Service Areas

@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/events/staff-wellbeing-days.jpg
 redirect_from:
   - "/category/staff-wellbeing-days/"
+  - "/pages/wellbeing-days/"
 eleventyNavigation:
   key: "Corporate Wellbeing Days"
   parent: "Corporate Events"

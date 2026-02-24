@@ -4,6 +4,7 @@ meta_description: "Find out why to choose Fun Pro UK for the entertainment and e
 layout: page
 redirect_from:
   - "/pages/about-corporate-entertainment-hire/"
+  - "/pages/our-story/"
 eleventyNavigation:
   key: "About us"
   order: 4
