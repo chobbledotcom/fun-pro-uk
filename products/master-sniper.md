@@ -158,8 +158,6 @@ faqs:
   - question: What power do you need?
     answer: Power requirements vary by configuration. We'll confirm details when
       discussing your event.
-thumbnail: /images/products/Master sniper/ChatGPT Image Feb 18, 2026, 12_43_34 PM.png
 gallery:
-  - /images/products/Master sniper/Size.jpg
   - /images/products/Master sniper/ChatGPT Image Feb 18, 2026, 12_43_34 PM.png
 ---
