@@ -23,28 +23,22 @@ Fun Pro UK takes care of the delivery, setup, and breakdown of the [Batak Lite H
 
 So, if you're looking to add some excitement to your exhibition venues in Northampton, consider hiring a Batak Lite game from Fun Pro UK. It's a surefire way to make your exhibition stand out. Get ready to showcase your brand and have a blast with the Batak Lite game!
 
-# Batak Lite Game Hire
-**Hire **Price** From £445** \+ vat
+## Batak Lite Game Hire
+**Hire Price From £445 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available Printed, applied & removed after each event (One time use only)
-
-\*Delivery Charges & Minimum order value
-
-may apply
+\*Delivery charges & minimum order value may apply.
 
 **Discounted rates** available for **Multiple Days & Additional items**
 
-Please contact us to find out more
+Please contact us to find out more.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
 
 **[Contact us](/contact-fun-pro-uk/#content)**
 
@@ -62,7 +56,7 @@ Please contact us to find out more
 
 **Suitability**
 
-**Indoor door use only/Level surface**
+**Indoor use only/Level surface**
 
 **Access**
 
@@ -70,8 +64,8 @@ Please contact us to find out more
 
 **Extra information**
 
-# Specification
-# Product requirements
+## Specification
+## Product requirements
 ## Popular items:
 
 *   [Retro arcade machine](/products/retro-arcade-games/#content)

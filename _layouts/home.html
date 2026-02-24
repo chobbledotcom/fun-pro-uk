@@ -39,7 +39,7 @@ layout: base
 </section>
 
 <section class="homepage-intro">
-  <h1>{{ homepage.intro.title }}</h1>
+  <h2>{{ homepage.intro.title }}</h2>
   {% assign paragraphs = homepage.intro.text | split: "\n\n" %}
   {% for paragraph in paragraphs %}
     <p>{{ paragraph }}</p>

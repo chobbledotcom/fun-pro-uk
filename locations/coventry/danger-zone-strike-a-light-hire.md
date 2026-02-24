@@ -7,7 +7,7 @@ redirect_from:
 thumbnail: "/images/locations/20230921-100741.jpg"
 ---
 
-# Danger Zone -Strike a Light Hire Coventry
+# Danger Zone - Strike a Light Hire Coventry
 
 ![Strike a light hire Coventry](/images/locations/20230921-100741.jpg)
 
@@ -27,25 +27,19 @@ Fun Pro UK is your go-to partner for [corporate event game hire in Coventry](/pr
 
 So, if you're looking to add excitement and engagement to your corporate events, exhibitions, or conference game hire in Coventry, the Danger Zone Strike a Light game from Fun Pro UK is the way to go. Don't hesitate to reach out to them via email for further information.
 
-# Strike A Light game Hire
-**Hire **Price** From £395** \+ vat
+## Strike A Light game Hire
+**Hire Price From £395 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available Printed, applied & removed after each event (One time use only)
+\*Delivery charges & minimum order value may apply.
 
-\*Delivery Charges & Minimum order value
+**Discounted rates** available for **Multiple Days & Additional items**
 
-may apply
+Please contact us to find out more.
 
-**Discounted rates** available for **Multiple Days &**Additional items**
-
-Please contact us to find out more
-
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)

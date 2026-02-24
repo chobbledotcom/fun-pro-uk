@@ -38,5 +38,5 @@ Some of our prize game options include:
 - [Plinko](/products/plinko-game-hire/#content): Drop a disc and watch it dance down. Can you land in the win zone?
 - [Prize Crane](/products/prize-crane-arcade-grabber/#content): Manoeuvre the toy crane and claim your prize. You can even stuff the prize tray with branded merch, and brand the crane grabber, too!
 - [Prize Wheel](/products/prize-wheel/#content): Spin to win a range of fantastic prizes, with full customisation allowing you to tailor the prizes to your specific requirements.
-- [The Vault](/products/the-vault/#content): Break into the vault for a thrilling challenge. Speed, timing and accuracy is everything in this [arcade-style game](/categories/arcade-games/#content).
+- [The Vault](/products/the-vault/#content): Break into the vault for a thrilling challenge. Speed, timing and accuracy are everything in this [arcade-style game](/categories/arcade-games/#content).
 - And more! Check out our full repertoire of prize games below, and check out all our products to see more event hire ideas. We're your one-stop party rental shop at Fun Pro UK, helping people host events both large and small.

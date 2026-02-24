@@ -27,27 +27,19 @@ So, by hiring a Batak Pro along with other interactive games from Fun Pro UK, yo
 
 If you have any more questions or need further assistance about our office fun day game hire then email our team.
 
-# Batak Pro Game Hire UK
-**Hire **Price** From £495** \+ vat
+## Batak Pro Game Hire UK
+**Hire Price From £495 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available
+\*Delivery charges & minimum order value may apply.
 
-Printed, applied & removed after each event (One time use only)
+**Discounted rates** available for **Multiple Days & Additional items**
 
-\*Delivery Charges & Minimum order value
+Please contact us to find out more.
 
-may apply
-
-**Discounted rates** available for **Multiple Days &**Additional items**
-
-Please contact us to find out more
-
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)

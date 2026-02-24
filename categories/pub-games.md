@@ -19,9 +19,9 @@ Transform your pub or venue into a hub of entertainment with Fun Pro UK's range 
 
 Whether it's for [branded exhibition entertainment](/categories/branded-exhibition-games/#content), [corporate events](/categories/corporate-entertainment/#content), or just a fun day with friends and family, you can rest assured you're with the right team when you're at Fun Pro UK. All these products are available nationwide, including London, Manchester, Birmingham, Leeds, Glasgow and beyond. Simply tell us where and when you need us and let Fun Pro UK bring the fun!
 
-Our selection of pub games are curated to bring the best of classic entertainment to your venue. These games will enhance the atmosphere and also serve as a draw for customers seeking a unique and enjoyable pub experience.
+Our selection of pub games is curated to bring the best of classic entertainment to your venue. These games will enhance the atmosphere and also serve as a draw for customers seeking a unique and enjoyable pub experience.
 
-Eager to find out more! Get in touch with Fun Pro UK to explore how our pub games for hire can transform your venue into a lively and engaging space. [Contact us online](/contact-fun-pro-uk/#content), call [02477220701](tel:02477220701) or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) for information and advice or to make a booking!
+Eager to find out more? Get in touch with Fun Pro UK to explore how our pub games for hire can transform your venue into a lively and engaging space. [Contact us online](/contact-fun-pro-uk/#content), call [02477220701](tel:02477220701) or email [info@funprouk.co.uk](mailto:info@funprouk.co.uk) for information and advice or to make a booking!
 
 ## Huge Range of Classic Pub Games to Hire
 

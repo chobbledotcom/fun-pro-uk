@@ -11,7 +11,7 @@ redirect_from:
   - "/category/christmas-games/"
 faqs:
   - question: "How much space is required for Christmas game setup?"
-    answer: "Space requirements vary by game.Our team will confirm exact specifications when you book."
+    answer: "Space requirements vary by game. Our team will confirm exact specifications when you book."
   - question: "Are Christmas games suitable for outdoor winter events?"
     answer: "Most of our Christmas games are designed for indoor use to protect the equipment from weather conditions. However, we do offer covered outdoor solutions – please discuss your requirements with our team."
   - question: "How far in advance should I book Christmas games?"
