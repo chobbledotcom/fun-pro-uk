@@ -22,17 +22,17 @@ below_products: |
 
   No staff Christmas party is complete without the snap happy fun of a [photo booth](/categories/photo-booths-and-magic-mirrors/#content). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
 
-  Combine photo booth hire with Christmas grotto hire and you can get some very special shots with Santa himself &ndash' perfect for Christmas cards and festive emails to family and friends.
+  Combine photo booth hire with Christmas grotto hire and you can get some very special shots with Santa himself &ndash; perfect for Christmas cards and festive emails to family and friends.
 
   ### Hire a Christmas Grotto to Simplify Holiday Decorating
 
   Are you looking for a unique way to decorate your business lobby or holiday function but don't have a lot of time to do so?
 
-  Perhaps you don't want to spend thousands of dollars on holiday decorations that will just sit in the storage closet for most of the year. Instead, you can get a Christmas grotto hire that simplifies your holiday decorating for your company.
+  Perhaps you don't want to spend thousands of pounds on holiday decorations that will just sit in the storage closet for most of the year. Instead, you can get a Christmas grotto hire that simplifies your holiday decorating for your company.
 
   ### What's a Christmas Grotto?
 
-  A Christmas grotto is a human-sized structure that's decorated for Christmas. It has a large wooden frame that's covered in decorations, with fake snow top to bottom. It even has a Santa and reindeer, a a sleigh, or whatever you wish to make it fun for all ages.
+  A Christmas grotto is a human-sized structure that's decorated for Christmas. It has a large wooden frame that's covered in decorations, with fake snow top to bottom. It even has a Santa and reindeer, a sleigh, or whatever you wish to make it fun for all ages.
 
   It will be decorated with glittering snowflakes and colourful lights that light up. There can even be music playing to really get into the holiday spirit.
 
@@ -50,7 +50,7 @@ below_products: |
 
   ### Where Can I Get a Christmas Grotto Hire?
 
-  You can find Santos grotto to hire here on our Fun Pro UK website, and on our specific Christmas grotto hire page. You can send us a message or call us. Either way, we'll respond promptly. We'll need to know your desired dates for the rental hire, and what exactly you need.
+  You can find Santa's grotto to hire here on our Fun Pro UK website, and on our specific Christmas grotto hire page. You can send us a message or call us. Either way, we'll respond promptly. We'll need to know your desired dates for the rental hire, and what exactly you need.
 
   ### Do You Service The West Midlands?
 

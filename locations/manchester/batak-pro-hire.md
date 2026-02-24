@@ -26,32 +26,24 @@ Fun Pro UK takes care of the delivery, setup, and breakdown of the [Batak Pro ga
 
 By incorporating a Batak Pro game into your exhibition stand or corporate event in Manchester, you'll create an engaging and memorable experience for all attendees. The game will draw people in, increasing foot traffic to your booth and generating interest in your products or services.
 
-So, if you're looking to add a thrilling and competitive element to your exhibition stands, corporate events, or trade shows in Manchester, I highly recommend hiring a Batak Pro game from Fun Pro UK. With the option for bespoke branding, you can create a branded experience that aligns with your company's identity.
+So, if you're looking to add a thrilling and competitive element to your exhibition stands, corporate events, or trade shows in Manchester, we highly recommend hiring a Batak Pro game from Fun Pro UK. With the option for bespoke branding, you can create a branded experience that aligns with your company's identity.
 
 ## Batak Pro Game Hire UK
-**Hire **Price** From £495** \+ vat
+**Hire Price From £495 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available
+\*Delivery charges & minimum order value may apply.
 
-Printed, applied & removed after each event (One time use only)
+**Discounted rates** available for **Multiple Days & Additional items**
 
-\*Delivery Charges & Minimum order value
+Please contact us to find out more.
 
-may apply
-
-**Discounted rates** available for **Multiple Days &**Additional items**
-
-Please contact us to find out more
-
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
 
 **Equipment size**
 
@@ -67,7 +59,7 @@ Please contact us to find out more
 
 **Suitability**
 
-**Indoor door use only/Level surface**
+**Indoor use only/Level surface**
 
 **Access**
 
@@ -75,7 +67,7 @@ Please contact us to find out more
 
 **Extra information**
 
-**This item cannot be carry up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
+**This item cannot be carried up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
 
 ## Specification
 ## Product requirements

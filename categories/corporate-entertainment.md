@@ -20,9 +20,9 @@ below_products: |
 
   If you're looking for something more classic, we have a range of [arcade games](/categories/arcade-games/#content) like the [Dance Machine](/products/dance-machine/#content), [Racing Simulators](/products/racing-car-simulators/#content) and the [Gold Cup Horse Racing game](/products/gold-cup-horse-racing/#content).
 
-  Or bring some traditional fun to your office party with [table football](/products/football-tables/#content) and [air hockey](/products/air-hockey-table-hire/#content)! You could use these for settling old scores and encouraging comradery and teambuilding among your colleagues - or just use them for office entertainment!  
+  Or bring some traditional fun to your office party with [table football](/products/football-tables/#content) and [air hockey](/products/air-hockey-table-hire/#content)! You could use these for settling old scores and encouraging camaraderie and teambuilding among your colleagues - or just use them for office entertainment!  
     
-  Want to add a touch of sweetness to your event? Our [pick and mix stands](/products/pix-n-mix-hire/#content) are perfect for satisfying those sugar cravings. And don't forget to capture the moment with our [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content) - perfect for creating memories and promoting your brand with customized prints.
+  Want to add a touch of sweetness to your event? Our [pick and mix stands](/products/pix-n-mix-hire/#content) are perfect for satisfying those sugar cravings. And don't forget to capture the moment with our [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content) - perfect for creating memories and promoting your brand with customised prints.
 
   You can also supersize some childhood favourites with our [giant Jenga](/products/giant-jenga-hire/#content) or [giant Connect 4](/products/giant-connect-4-game-hire/#content) games. These garden games can be used outdoors as well as inside, making them ideal for summertime office parties.
 

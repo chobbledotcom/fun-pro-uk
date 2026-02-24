@@ -30,8 +30,6 @@ below_products: |
 
   Look through our collection of interactive game hires to find a price that suits your needs.
 
-  \*Please note that delivery charges and minimum order values may apply.
-
   Our service includes delivery, setup, and removal by our professional team.
 
   In need of a longer hire period or for some of our staff to stay onsite?

@@ -21,7 +21,11 @@ faqs:
     answer: |
       Some of our most popular arcade machines are:
 
-      * [Electronic Basketball](/products/electronic-basket-ball-hire/#content): Transform any space into a basketball court with this portable machine. * Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys. * [Twin Race Car Simulators](/products/racing-car-simulators/#content): Take the thrill of the race track to your events and let your guests enjoy immersive experiences. * [Dance Machine](/products/dance-machine/#content): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances. * [Lights Out](/categories/arcade-games/#content): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
+      * [Electronic Basketball](/products/electronic-basket-ball-hire/#content): Transform any space into a basketball court with this portable machine.
+      * Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys.
+      * [Twin Race Car Simulators](/products/racing-car-simulators/#content): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
+      * [Dance Machine](/products/dance-machine/#content): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
+      * [Lights Out](/categories/arcade-games/#content): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
 
       If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/#content) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
 
@@ -34,11 +38,20 @@ faqs:
 
       Bust out the beloved arcade game machines at:
 
-      * [Corporate outings](/news/benefits-of-team-building-days/#content) * Product launches * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/#content) and conferences * Birthday parties * [Weddings](/news/wedding-fair-at-ettington-park/#content) and anniversaries * Family reunions * Festivals and fairs * Grand openings * [Community events](/categories/fun-days/#content) * Gaming conventions
+      * [Corporate outings](/news/benefits-of-team-building-days/#content)
+      * Product launches
+      * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/#content) and conferences
+      * Birthday parties
+      * [Weddings](/news/wedding-fair-at-ettington-park/#content) and anniversaries
+      * Family reunions
+      * Festivals and fairs
+      * Grand openings
+      * [Community events](/categories/fun-days/#content)
+      * Gaming conventions
 
       ...and so much more!
 
-      Booking arcade games with Fun Pro UK today for a custom quote that fits your needs.
+      Book arcade games with Fun Pro UK today for a custom quote that fits your needs.
 below_products: |
   ## Our Arcade Game Collection
 
@@ -67,7 +80,7 @@ below_products: |
 
   ### Top-quality Equipment
 
-  We pride ourselves in providing only the highest quality arcade machine rentals. All of our equipment comes from leading manufacturers known for their durability and exceptional performance. Every arcade game we have goes thorough testing and maintenance to guarantee flawless operations.
+  We pride ourselves in providing only the highest quality arcade machine rentals. All of our equipment comes from leading manufacturers known for their durability and exceptional performance. Every arcade game we have undergoes thorough testing and maintenance to guarantee flawless operations.
 
   ### Full Support and Service
 
@@ -107,7 +120,7 @@ below_products: |
 
   When the event is over, we'll handle the safe and efficient removal of all the arcade games, leaving your venue exactly as we found it.
 
-  Whatever you choose, you know you're with an experienced and professional team when you're with Fun Pro UK. We pride ourselves on our exceptional products and our top-notch customer service, which runs through every aspect of our business. Not only do we only invest in the best possible arcade machines, so you know you're getting some top-of-the line equipment when you're with us, but we also maintain them to the highest standards.
+  Whatever you choose, you know you're with an experienced and professional team when you're with Fun Pro UK. We pride ourselves on our exceptional products and our top-notch customer service, which runs through every aspect of our business. Not only do we only invest in the best possible arcade machines, so you know you're getting some top-of-the-line equipment when you're with us, but we also maintain them to the highest standards.
 
   ## Ready to Take Your Event to the Next Level?
 
@@ -115,7 +128,6 @@ below_products: |
 
   If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk/#content)
 
-  - Grand openings
 ---
 
 # Trusted Arcade Game Hire in the UK

@@ -55,7 +55,7 @@ below_products: |
 
   ## Batak Game Hire Options
 
-  We offer Batak game hire that works for your event location, and depending on the space you have available and the type of event you're having, here the options we offer:
+  We offer Batak game hire that works for your event location, and depending on the space you have available and the type of event you're having, here are the options we offer:
 
   - **[Batak Lite](/products/batak-lite/#content)**: A compact version with essential reaction-based gameplay, perfect for smaller spaces
   - **[Batak Pro](/products/batak-pro/#content)**: A full-scale model with advanced settings and features for high-energy challenges
@@ -79,11 +79,11 @@ below_products: |
 
   **Branded back panel**
 
-  **£145**\+ vat\*\*
+  **£145 + vat**
 
   **8 x Branded Button Surrounds**
 
-  **£**125** + vat**
+  **£125 + vat**
 
   Make Batak Pro a powerful marketing tool with full customisation options, including your brand logo, corporate colours, or event-specific designs. Personalising the game ensures a memorable experience for your guests while reinforcing your brand presence.
 
@@ -91,11 +91,11 @@ below_products: |
 
   **Branded back panels**
 
-  **£195**\+ vat\*\*
+  **£195 + vat**
 
   **10 x Branded Button Surrounds**
 
-  **£**175** + vat**
+  **£175 + vat**
 
   ### Make Batak your own with custom branding options:
 

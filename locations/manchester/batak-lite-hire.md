@@ -21,32 +21,26 @@ Fun Pro UK offers [Batak Lite game hire](/products/batak-lite/#content) in Manch
 
 Not only does Fun Pro UK provide Batak Lite game hire, but they also offer bespoke branding options. This means you can customize the game with your company's logo or any other branding elements you desire. It's a fantastic way to showcase your brand and create a visually appealing experience for all to see.
 
-The team at Fun Pro UK take care of the delivery, setup, and breakdown of the Batak Lite game, ensuring a seamless experience for you. Their team is professional and experienced, making sure everything runs smoothly and that your guests have a great time and ensuring can focus on networking and enjoying the event
+The team at Fun Pro UK take care of the delivery, setup, and breakdown of the Batak Lite game, ensuring a seamless experience for you. Their team is professional and experienced, making sure everything runs smoothly and that your guests have a great time and ensuring you can focus on networking and enjoying the event.
 
 By incorporating a Batak Lite game into your exhibition stand at Grand Central, corporate event at Victoria Warehouse, or trade show in Manchester, you'll create an engaging and memorable experience for your guests. The game will attract attention, increase foot traffic to your booth, and create a buzz.
 
 ## Batak Lite Game Hire
-**Hire **Price** From £445** \+ vat
+**Hire Price From £445 + vat**
 
-Delivered and installed on site
-
-by our trained team
+Delivered and installed on site by our trained team
 
 **Bespoke Branding Available**
 
-In-house branding
+In-house branding available. Printed, applied & removed after each event (one time use only).
 
-available Printed, applied & removed after each event (One time use only)
-
-\*Delivery Charges & Minimum order value
-
-may apply
+\*Delivery charges & minimum order value may apply.
 
 **Discounted rates** available for **Multiple Days & Additional items**
 
-Please contact us to find out more
+Please contact us to find out more.
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
 
 **[Contact us](/contact-fun-pro-uk/#content)**
 
@@ -64,7 +58,7 @@ Please contact us to find out more
 
 **Suitability**
 
-**Indoor door use only/Level surface**
+**Indoor use only/Level surface**
 
 **Access**
 

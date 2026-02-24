@@ -23,7 +23,7 @@ below_products: |
 
   ### Unlimited visits, unlimited fun
 
-  All our photo booths for hire across the UK come complete with unlimited visits for your guests, with prints of their pictures to take home. You'll also get a link to download of all the images for your marketing team to use on social media, to publicise your event and show how much fun your company can be. Choose hash tag print station hire and you can create an instant social media buzz from the very first photo, making it ideal for exhibitions and sales promotions.
+  All our photo booths for hire across the UK come complete with unlimited visits for your guests, with prints of their pictures to take home. You'll also get a link to download all the images for your marketing team to use on social media, to publicise your event and show how much fun your company can be. Choose hash tag print station hire and you can create an instant social media buzz from the very first photo, making it ideal for exhibitions and sales promotions.
 
   ### Bespoke branding
 
@@ -39,7 +39,7 @@ below_products: |
 
   ### Hire a Photo Booth in Birmingham
 
-  If you live in Birmingham region then you can hire a photo booth for your next big event. Are you a business manager and looking to add some fun to your next big corporate event?
+  If you live in the Birmingham region then you can hire a photo booth for your next big event. Are you a business manager and looking to add some fun to your next big corporate event?
 
   Perhaps you're simply looking for a way to add fun entertainment to your next big party? We have photo booths available for Birmingham.
 
@@ -47,17 +47,17 @@ below_products: |
 
   A photo booth can take photos of you and your friends. A magic mirror goes one step further.
 
-  While you can choose costume supplies to wear during your photo, you can also have various graphics added to the photograph prints to make them even funner. You can even have sayings or messages added to the prints.
+  While you can choose costume supplies to wear during your photo, you can also have various graphics added to the photograph prints to make them even more fun. You can even have sayings or messages added to the prints.
 
   The photos can even be emailed to everyone in the group later.
 
   ### What If I'm in the West Midlands?
 
-  Just like we have hire a photo booth Birmingham, we also service the Midlands, so you can get a magic mirror hire West Midlands too. But we do have limited quantities so we recommend that you contact us immediately as soon as you've set the dates for your next big or small event.
+  Just like we offer photo booth hire in Birmingham, we also service the Midlands, so you can get magic mirror hire in the West Midlands too. But we do have limited quantities so we recommend that you contact us immediately as soon as you've set the dates for your next big or small event.
 
   ### How Do I Get Photo Booth Hire?
 
-  Whether you want a simple photo booths hire or a magic mirror hire with all the options, in West Midlands, or Birmingham, you can find our services on our Fun Pro UK website.
+  Whether you want a simple photo booth hire or a magic mirror hire with all the options, in West Midlands, or Birmingham, you can find our services on our Fun Pro UK website.
 
   We have a specific page for Photo Booths and Magic Mirrors, though we also offer a wide range of fun game rentals for all types of parties too.
 
@@ -93,7 +93,7 @@ below_products: |
   Kettering  
   Hinckley  
   Solihull  
-  Stratford up on Avon
+  Stratford-upon-Avon
 
   For advice on the best corporate photo booth hire for your event, your audience and your budget, talk to our friendly team today. Call or email now, or complete the contact form below and we'll call you.
 
