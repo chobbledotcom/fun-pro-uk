@@ -1,6 +1,6 @@
 ---
 title: "Table Football Hire"
-meta_title: "Table Football Hire Coventry - Exhibition and Game Hire in Nationwide | Fun Pro UK"
+meta_title: "Table Football Hire Coventry | Events | Fun Pro UK"
 meta_description: "Table Football Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
 redirect_from:
   - "/pages/table-football-hire-coventry/"

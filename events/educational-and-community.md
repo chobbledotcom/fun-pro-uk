@@ -1,7 +1,7 @@
 ---
 title: "Educational & Community"
 subtitle: "Games and inflatables for schools and community groups"
-meta_title: "Educational & Community Event Hire | Schools, Universities & Community Groups | Fun Pro UK"
+meta_title: "School & Community Event Entertainment Hire | Fun Pro UK"
 meta_description: "Game and entertainment hire for schools, universities, colleges and community events. £5M PLI, PAT tested, nationwide delivery. Trusted by Coventry University and more."
 featured: true
 thumbnail: /images/events/educational-and-community.jpg

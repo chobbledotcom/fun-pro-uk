@@ -2,7 +2,7 @@
 title: Christmas Corn Hole Hire
 subtitle: Festive-themed bean bag toss game for 2–4 players
 order: 100
-meta_title: Christmas Corn Holes - Exhibition and Game Hire in Nationwide | Fun Pro UK
+meta_title: Christmas Corn Hole Hire | Festive Games | Fun Pro UK
 meta_description: Christmas Corn Holes is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!
 categories:
