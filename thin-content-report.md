@@ -1,3 +1,7 @@
+---
+no_index: true
+---
+
 # Thin Content Report
 
 Generated: 2026-02-09

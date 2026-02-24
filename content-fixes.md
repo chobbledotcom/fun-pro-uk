@@ -1,5 +1,5 @@
 ---
-noindex: true
+no_index: true
 ---
 
 # Content Fixes

@@ -1,5 +1,5 @@
 ---
-noindex: true
+no_index: true
 ---
 
 # Fun Pro UK: USP & EEAT Competitive Analysis
