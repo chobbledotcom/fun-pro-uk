@@ -2,7 +2,7 @@
 title: Branded Capsule Bin Hire
 subtitle: Compact branded display unit for exhibitions
 order: 50
-meta_title: Branded Capsule Bin - Exhibition and Game Hire in Nationwide | Fun Pro UK
+meta_title: Branded Capsule Bin Hire | Exhibition Games | Fun Pro UK
 meta_description: Branded Capsule Bin is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "Award Ceremonies"
 subtitle: "Photo booths, casino tables and props for the big night"
-meta_title: "Award Ceremony Entertainment Hire | Photo Booths, Casino Tables & Games"
+meta_title: "Award Ceremony Entertainment Hire UK | Fun Pro UK"
 meta_description: "Award ceremony entertainment hire from a family-run team trusted by KPMG, Amazon and Virgin Trains. Photo booths, casino tables, games and more. Nationwide delivery from Coventry."
 featured: true
 thumbnail: /images/events/company-award-ceremonies.jpg
