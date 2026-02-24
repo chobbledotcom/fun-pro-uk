@@ -75,7 +75,7 @@ For team building days and staff celebrations, games that encourage friendly com
 
 ### Christmas Parties
 
-Sheffield has no shortage of venues for festive celebrations, and the right entertainment can set the tone for the evening. Our [Christmas games](/categories/christmas-games/#content) and themed equipment help create a party atmosphere, whilst photo booths capture the fun for people to look back on.
+Sheffield has no shortage of venues for festive celebrations, and the right entertainment can set the tone for the evening. Our [Christmas games](/categories/christmas-game-hire/#content) and themed equipment help create a party atmosphere, whilst photo booths capture the fun for people to look back on.
 
 ## Why Sheffield Businesses Work With Us
 

@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/events/conference-idea.jpg
 redirect_from:
   - "/pages/conference-idea/"
+  - "/pages/conference-production/"
 eleventyNavigation:
   key: "Conference Production"
   parent: "Corporate Events"

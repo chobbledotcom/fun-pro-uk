@@ -10,7 +10,6 @@ meta_description: Hire a Target Ring Toss game for your next event! Perfect for
 categories:
   - categories/fun-fair-stalls.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/corporate-entertainment.md
   - categories/exhibition-games.md
   - categories/pub-games.md

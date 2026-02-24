@@ -11,6 +11,7 @@ eleventyNavigation:
   order: 4
 redirect_from:
   - "/category/exhibition-games/"
+  - "/pages/exhibition/"
 below_products: |
   ## Trade Show and Expo Entertainment Ideas
 

@@ -8,7 +8,6 @@ meta_description: Christmas Prize Crane is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!
 categories:
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
 events:
   - events/christmas-entertainment.md
 featured: true

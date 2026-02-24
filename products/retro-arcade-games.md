@@ -10,7 +10,6 @@ meta_description: Retro Arcade Games Machines To Hire For Your Family Fun Days,
 categories:
   - categories/arcade-games.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/christmas-grotto-hire.md
   - categories/fun-days.md
   - categories/interactive-game-hire.md

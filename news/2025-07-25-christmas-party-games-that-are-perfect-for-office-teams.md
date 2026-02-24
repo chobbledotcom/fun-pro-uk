@@ -13,7 +13,7 @@ gallery:
 
 ![](/images/news/christmas-party-game-hire.jpg)
 
-The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/categories/christmas-games/#content) can transform your gathering from polite small talk into genuine fun and connection.
+The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/categories/christmas-game-hire/#content) can transform your gathering from polite small talk into genuine fun and connection.
 
 [Christmas game hire](/events/christmas-entertainment/#content) offers a practical solution for busy event planners who want to create memorable experiences without the stress of sourcing and managing entertainment equipment themselves. Professional game hire ensures you have quality activities that actually work, whilst giving you one less thing to worry about during your Christmas party planning.
 
@@ -113,7 +113,7 @@ The best Christmas parties are the ones people are still talking about months la
 
 Games provide natural conversation starters, shared experiences, and opportunities for colleagues to see different sides of each other. They can help break down workplace hierarchies and build stronger relationships that last well beyond the Christmas season.
 
-Christmas party planning doesn't have to be stressful. With the [right games](/categories/christmas-games/#content) and activities, you can create an event that brings your team together and gives everyone something to enjoy.
+Christmas party planning doesn't have to be stressful. With the [right games](/categories/christmas-game-hire/#content) and activities, you can create an event that brings your team together and gives everyone something to enjoy.
 
 Professional [Christmas party game hire](/events/christmas-entertainment/#content) takes the guesswork out of entertainment planning, ensuring you have quality equipment and support when you need it most. From interactive high-tech games to classic fairground activities, there are options to suit every group and budget.
 

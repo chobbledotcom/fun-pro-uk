@@ -8,7 +8,6 @@ meta_description: Experience the thrill of Scalextric Slot Car Racing! Perfect
   for UK corporate events, parties, and more. Hire this exciting arcade game for
   your next event.
 categories:
-  - categories/christmas-games.md
   - categories/arcade-games.md
   - categories/christmas-game-hire.md
   - categories/interactive-game-hire.md

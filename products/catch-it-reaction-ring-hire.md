@@ -17,7 +17,6 @@ categories:
   - categories/prize-games.md
   - categories/weddings.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/freshers-fair-games.md
   - categories/fun-days.md
 events:

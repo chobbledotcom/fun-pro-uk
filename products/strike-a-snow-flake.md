@@ -9,7 +9,6 @@ meta_description: Hire the Strike A Snow Flake Game for interactive fun at your
   with Fun Pro UK today!
 categories:
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
 events:
   - events/christmas-entertainment.md
 featured: true

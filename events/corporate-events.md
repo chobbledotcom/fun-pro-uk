@@ -27,7 +27,7 @@ We're a family-run business based in Coventry — the geographic centre of Engla
 
 **Staff appreciation & wellbeing events** — [Prize wheels](/products/prize-wheel/#content), [candy floss carts](/products/candy-floss-cart-hire/#content), [pick 'n' mix stands](/products/pix-n-mix-hire/#content) and [racing simulators](/products/racing-car-simulators/#content) for end-of-quarter celebrations, Employee Appreciation Day or just because morale matters.
 
-**Christmas parties** — We supply Rolls-Royce with festive entertainment year after year, and carry a full range of [Christmas-themed games](/categories/christmas-games/#content) including [Strike a Snowflake](/products/strike-a-snow-flake/#content) and [Christmas photo booths](/products/christmas-photo-booths/#content).
+**Christmas parties** — We supply Rolls-Royce with festive entertainment year after year, and carry a full range of [Christmas-themed games](/categories/christmas-game-hire/#content) including [Strike a Snowflake](/products/strike-a-snow-flake/#content) and [Christmas photo booths](/products/christmas-photo-booths/#content).
 
 ## Custom Branding
 

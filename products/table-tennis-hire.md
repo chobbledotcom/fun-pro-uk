@@ -15,7 +15,6 @@ categories:
   - categories/pub-games.md
   - categories/branded-exhibition-games.md
   - categories/christmas-game-hire.md
-  - categories/christmas-games.md
   - categories/exhibition-games.md
   - categories/freshers-fair-games.md
   - categories/fun-fair-stalls.md

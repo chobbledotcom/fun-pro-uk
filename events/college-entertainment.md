@@ -1,8 +1,8 @@
 ---
 title: "College Entertainment"
 subtitle: "Games for open days, freshers and end-of-term"
-meta_title: "College Entertainment"
-meta_description: "Looking for ways to keep college and university students entertained at Fresher&#39;s week, extravs or any similar event? Get ideas from the UK party hire experts!"
+meta_title: "College & Sixth Form Entertainment Hire | Fun Pro UK"
+meta_description: "Game hire for college events, sixth form proms, enrichment days and end-of-year celebrations. Age-appropriate entertainment for 16-18 year old students. Nationwide delivery."
 featured: true
 thumbnail: /images/events/college-entertainment.jpg
 redirect_from:
@@ -12,33 +12,45 @@ eleventyNavigation:
   parent: "Educational & Community"
   order: 2
 below_products: |
-  ## Air Hockey
+  ## What Works for College Students
 
-  Who can resist the temptation to do battle at the [air hockey table](/products/air-hockey-table-hire/#content)? This is an all-time party classic that is so simple, yet extremely fun. Two players face off as they attempt to get the puck into their opponent's goal.
+  College events have a different feel to university events. Your students are typically 16–18, many are still living at home, and the social dynamics are closer to school than to university. The entertainment needs to be engaging enough to get teenagers involved but appropriate for a supervised educational setting.
 
-  It's so easy to keep track of the score using the built-in counters. Once a player reaches ten goals, they are the winner!
+  Here's what we've found works well for different college events:
 
-  ## Table Football
+  ### End-of-Year Celebrations and Proms
 
-  [Table football](/products/football-tables/#content), also known as foosball, has exploded and become a worldwide competitive sport with organised competitions in recent years. However, like the larger version of this game, it's also entertaining to have a fun kickaround with pals and this makes it a perfect addition to university events.
+  College proms and end-of-year events call for entertainment that feels special. [Photo Booths](/categories/photo-booths-and-magic-mirrors/#content) with props are the centrepiece of most college proms — students spend the evening taking group photos and leaving with printed memories. [Casino Tables](/products/casino-table-hire/#content) (fun money, no actual gambling) add sophistication. [Dance Machines](/products/dance-machine/#content) create energy and get people on their feet.
 
-  Up to four players at once can show off their skills on our football table, and while this game is easy to pick up it's difficult to master. Your competitors will have to demonstrate expert timing and wrist action to score the most goals. Who at your party will have what it takes?
+  ### Enrichment Days and Fun Days
 
-  ## Dance Machine
+  These are about participation and getting students out of the classroom. [Giant Garden Games](/categories/garden-games/#content) like [Giant Jenga](/products/giant-jenga-hire/#content) and [Giant Connect 4](/products/giant-connect-4-game-hire/#content) work outdoors on college grounds. [Retro Arcade Games](/products/retro-arcade-games/#content) and [Racing Simulators](/products/racing-car-simulators/#content) draw the students who prefer indoor activities. [Table Football](/products/football-tables/#content) and [Air Hockey](/products/air-hockey-table-hire/#content) are guaranteed crowd-pleasers for this age group.
 
-  Who at the university has the best moves? This debate will be settled once and for all when you hire our fantastic [Dance Machine](/products/dance-machine/#content). This is an [arcade game](/categories/arcade-games/#content) that comes complete with dance mats which track the feet of your players. Simply tap those toes on the correct pad at the right time to collect points. Easy, right? Wrong! This game is really high-energy and requires expert coordination to conquer it. It's sure to get everyone in attendance in the mood to groove, so don't plan your next university party without it!
+  ### Open Days and Recruitment Events
 
-  These are just a few examples of the entertainment we have on offer for college and university events at Fun Pro UK. All of our products are tried and tested by students of all varieties, and they are always hugely popular. What's more, because they are commercial grade there's no need to worry about them not being able to handle a day of energetic students using them. These amusements are really built to last.
+  If you're trying to attract prospective students, interactive games give visitors something to do between talks and tours. A [Batak Lite](/products/batak-lite/#content) in the foyer or a [Prize Wheel](/products/prize-wheel/#content) with college merchandise creates a welcoming atmosphere and gives your ambassadors natural conversation starters.
 
-  *If you're planning something small just hire one item, or if it's a major event such as Freshers' Fair, why not get a load? It's really up to you! Our online booking system is always open and ready to accept orders, so get compiling your perfect party line-up today!*
+  ### Freshers and Induction Weeks
 
-  *[Contact us](/contact-fun-pro-uk/#content) if you'd like to speak with our team directly, or alternatively, make a booking through our website.*
+  Helping new students settle in during their first week is crucial. Games create a reason for people to talk to each other. [Crazy Golf](/products/crazy-golf/#content) in the common area or [Corn Hole](/products/corn-hole/#content) on the lawn gives new students low-pressure activities where friendships start naturally.
+
+  ## Practical Considerations for Colleges
+
+  **Supervision:** All our games are safe and suitable for supervised use by 16+ students. We can provide staff to run the games, or brief your team on how they work.
+
+  **Space:** Most college common rooms, halls and outdoor areas work well. We need a standard 13A plug socket for electronic games. We'll confirm space requirements for your specific selection.
+
+  **Safeguarding:** We carry £5M public liability insurance, PAT test all equipment and provide full risk assessments — the paperwork your safeguarding team needs is ready.
+
+  **Budget:** College budgets are often tighter than university budgets. We can put together packages that maximise entertainment within your means. Published pricing on every product page means no surprises.
+
+  ## Book College Entertainment
+
+  [Contact us](/contact-fun-pro-uk/#content) with your event date, type and student numbers, and we'll recommend a selection that fits. We deliver, set up and collect — your team just needs to enjoy the day with the students.
 ---
 
-# College & University Entertainment
+# College & Sixth Form Entertainment Hire
 
-If you're planning a college or university campus event, from a [fresher's fair](/categories/freshers-fair-games/#content) to a graduation ball, Fun Pro UK have plenty of options available for hire that students just love.
+College events serve a different audience to university events — your students are younger, the settings are different, and the budget considerations aren't the same. Whether you're planning a prom, an enrichment day, an open day or just want to give your students a memorable end-of-term celebration, we've got games and entertainment that work for the 16–18 age group in college settings.
 
-We've got so many party rental products that will provide plenty of entertainment and create a fun atmosphere, you're certain to be able to find what you want with us. Whether it's a graduation, end-of-term event or anything else, our versatile range of games will fit in perfectly.
-
-What's more, we deliver nationwide, so our team can bring our high-quality amusements to any university or college in the UK. Wherever you are, including London, Manchester, Coventry, Leeds, Birmingham, Edinburgh, Cardiff or anywhere else, we are ready to provide you and your student guests with premium products that will keep you entertained for hours.
+We deliver to colleges and sixth form centres across the UK from our Coventry base. Everything below is available for hire individually or as part of a package.

@@ -7,6 +7,8 @@ featured: true
 thumbnail: /images/products/christmas-photo-booths/christmas-photo-booths-1.jpg
 redirect_from:
   - "/category/christmas-game-hire/"
+  - "/categories/christmas-games/"
+  - "/category/christmas-games/"
 faqs:
   - question: "How much space is required for Christmas game setup?"
     answer: "Space requirements vary by game.Our team will confirm exact specifications when you book."
@@ -61,11 +63,17 @@ below_products: |
 
   Fun Pro UK is proud to have provided Christmas entertainment solutions for leading UK organisations, including:
 
+  *   Rolls-Royce
+
   *   Boots
-      
+
   *   Amazon
-      
+
+  *   Baylis & Harding
+
   *   Coventry University
+
+  *   Gefco
 
   And many more.
 
@@ -80,15 +88,17 @@ below_products: |
 
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
-Transform your Christmas events with Fun Pro UK's premium festive game hire service. From corporate Christmas parties to holiday trade shows, our interactive [Christmas games](/categories/christmas-games/#content) create unforgettable experiences that boost engagement and bring teams together during the festive season.
+We've been running Christmas events since 2016 and have built a dedicated festive range over that time. Clients like Rolls-Royce, the NEC Birmingham, Baylis & Harding, and Gefco have hired us for everything from office Christmas receptions and staff awards nights to supplier conferences and seasonal product launches.
+
+The range includes purpose-built Christmas games — Whack an Elf, Reindeer Roll & Bowl, Christmas Prize Cranes, Snowflake Plinko, and Christmas Roller Bowler — alongside festive photo booths with dedicated prop boxes and themed backdrops. We also supply Santa's Grottos with full set dressing for company receptions and family events.
+
+All Christmas games can be custom-branded with your company artwork through our in-house print workshop, which is worth considering if you're using games as part of a product launch or branded showcase — as Baylis & Harding did with a fully wrapped prize crane at CBS Arena.
 
 ## Nationwide Christmas Game Hire & Locations
 
-As the UK's leading provider of interactive entertainment, Fun Pro UK [delivers](/delivery-areas/#content) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
+Fun Pro UK [delivers](/delivery-areas/#content) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
 
-Our experienced team ensures seamless delivery and professional setup, making your festive event planning effortless.
-
-Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec/#content), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment.
+Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec/#content), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment. December weekends book out first — get in touch 6–8 weeks ahead to secure your preferred dates and games.
 
 ## Christmas Game Hire Options
 

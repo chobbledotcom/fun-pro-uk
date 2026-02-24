@@ -15,7 +15,7 @@ gallery:
 
 Planning your company Christmas party can feel overwhelming, especially when it comes to selecting the right entertainment. With so many options available, how do you choose activities that will engage everyone from the newest intern to the managing director? The key is understanding your team, your venue, and your objectives to create a celebration that brings people together.
 
-[Christmas game hire](/events/christmas-entertainment/#content) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/categories/christmas-games/#content) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
+[Christmas game hire](/events/christmas-entertainment/#content) takes the guesswork out of party planning, providing professional equipment and expert guidance to ensure your festive celebration is memorable for all the right reasons. The right [games](/categories/christmas-game-hire/#content) and entertainment can transform a standard office gathering into an event your colleagues will talk about well into the new year.
 
 ## The Role of Entertainment in Corporate Christmas Celebrations
 
