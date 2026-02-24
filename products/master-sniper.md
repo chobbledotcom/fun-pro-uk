@@ -158,4 +158,6 @@ faqs:
   - question: What power do you need?
     answer: Power requirements vary by configuration. We'll confirm details when
       discussing your event.
+gallery:
+  - /images/products/Master sniper/d4d0a398dcd97c0eaeb50ddd134c5efc.avif
 ---
