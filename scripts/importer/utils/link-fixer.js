@@ -22,7 +22,7 @@ const buildValidDestinations = () => {
     pages: (slug) => `/${slug}/`,  // Pages live at root
     events: (slug) => `/events/${slug}/`,
     news: (slug) => `/news/${slug}/`,
-    reviews: (slug) => `/reviews/${slug}/`,
+    reviews: (slug) => `/testimonials/${slug}/`,
   };
   
   for (const [dir, pattern] of Object.entries(patterns)) {
@@ -55,7 +55,7 @@ const buildValidDestinations = () => {
   
   // Static pages
   destinations.add('/');
-  destinations.add('/reviews/');
+  destinations.add('/testimonials/');
   destinations.add('/news/');      // News index page
   destinations.add('/products/');  // Products index page
   
