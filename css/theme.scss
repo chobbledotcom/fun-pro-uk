@@ -2034,26 +2034,26 @@ ul.items {
     @include button-red;
     width: 100%;
   }
-  .list-item-cart-controls {
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    gap: calc(var(--gap-items) / 2);
-
-    .item-quantity {
-      width: 100px;
-      flex-shrink: 0;
-    }
-
-    .add-to-cart {
-      flex: 1;
-    }
-  }
 }
 
+.list-item-cart-controls {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  gap: calc(var(--gap-items) / 2);
+
+  .item-quantity {
+    width: 100px;
+    flex-shrink: 0;
+  }
+
+  .add-to-cart {
+    flex: 1;
+  }
+}
 .item-quantity {
   height: 100%;
   border-radius: 16px;
