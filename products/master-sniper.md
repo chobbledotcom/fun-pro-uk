@@ -161,5 +161,4 @@ faqs:
 gallery:
   - /images/products/Master sniper/Master 1.avif
   - /images/products/Master sniper/d4d0a398dcd97c0eaeb50ddd134c5efc.avif
-thumbnail: /images/products/Master sniper/Master 1.avif
 ---
