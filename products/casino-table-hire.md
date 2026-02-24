@@ -181,5 +181,5 @@ faqs:
   - question: Are croupiers included?
     answer: Yes, professional croupiers manage the tables, explain rules to
       newcomers, and keep games running smoothly.
-price: £695 Minimum 2 tables
+price: "£695 "
 ---
