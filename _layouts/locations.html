@@ -64,6 +64,8 @@ layout: base
 
 {%- include "coverage-warning.html" -%}
 
+{%- if faqs.size > 0 -%}
 <div class="faqs-container full-width">
   {%- include "faq.html" -%}
 </div>
+{%- endif -%}
