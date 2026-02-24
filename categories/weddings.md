@@ -10,6 +10,8 @@ eleventyNavigation:
   parent: "How We Help"
 redirect_from:
   - "/category/weddings/"
+  - "/pages/luxury-wedding-entertainment/"
+  - "/pages/wedding-entertainment/"
 ---
 
 # Wedding Entertainment for Guests

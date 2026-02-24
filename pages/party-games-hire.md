@@ -4,6 +4,7 @@ meta_description: "Hire Our Party Games For Your Family Fun Days, Parties, Exhib
 layout: page
 redirect_from:
   - "/pages/party-games-hire/"
+  - "/pages/outdoor-garden-game-hire/"
 ---
 
 # Party Games Hire

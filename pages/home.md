@@ -6,6 +6,8 @@ layout: "home.html"
 redirect_from:
   - "/pages/about-bouncy-castle-hire/"
   - "/pages/frequently-asked-bouncy-castle-hire-questions/"
+  - "/index/"
+  - "/packages/"
 videos:
   - id: z15sN_PUarw
     title: Customer Testimonial
