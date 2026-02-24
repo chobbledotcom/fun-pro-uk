@@ -33,7 +33,7 @@ below_products: |
 
   At Fun Pro, people use our Batak game hire for:
 
-  - [Corporate events](/categories/corporate-entertainment/#content) and [team-building](/team-building-activities/#content) activities
+  - [Corporate events](/categories/corporate-entertainment/#content) and [team-building](/events/team-building-entertainment/#content) activities
   - Trade shows and [exhibitions](/categories/exhibition-games/#content)
   - [Conferences](/conference-game-hire/#content)
   - School and university events

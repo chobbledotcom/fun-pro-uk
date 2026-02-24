@@ -4,13 +4,14 @@ meta_title: "Corporate Event Hire Reading"
 meta_description: "Looking for corporate event hire in Reading? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/reading-corporate-event-hire/"
+  - "/reading-corporate-event-hire/"
 ---
 
 # Corporate Event Hire Reading
 
 Reading and the Thames Valley are home to some of the UK's biggest names in technology, telecoms and financial services. Microsoft, Oracle, Cisco and countless other companies have their UK headquarters along this stretch of the M4 corridor. That concentration of corporate activity means Reading's events calendar is packed — team building days, quarterly celebrations, client hospitality evenings, conference entertainment and end-of-year parties run throughout the year.
 
-As [corporate event specialists](/our-story/#content) with over 15 years of experience, we provide interactive entertainment and catering that helps these events land well. We understand the Thames Valley corporate culture: professional, results-oriented, but ready to let loose when the occasion calls for it.
+As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we provide interactive entertainment and catering that helps these events land well. We understand the Thames Valley corporate culture: professional, results-oriented, but ready to let loose when the occasion calls for it.
 
 ## What We Bring to Thames Valley Corporate Events
 
@@ -44,7 +45,7 @@ The Thames Valley's corporate events tend to be well-organised affairs with clea
 
 That clarity makes our job easier. When you tell us the purpose of your event, the venue space, the number of guests and the atmosphere you're aiming for, we can make targeted recommendations rather than offering a generic package.
 
-A [team building](/team-building-activities/#content) day for a tech company benefits from games that level the playing field — reaction games and simulators don't require specialist knowledge, so everyone starts equal. A client hospitality evening calls for entertainment that facilitates conversation rather than dominating the room. A staff Christmas party needs a mix of activities and catering that creates a celebratory atmosphere for a diverse group of people.
+A [team building](/events/team-building-entertainment/#content) day for a tech company benefits from games that level the playing field — reaction games and simulators don't require specialist knowledge, so everyone starts equal. A client hospitality evening calls for entertainment that facilitates conversation rather than dominating the room. A staff Christmas party needs a mix of activities and catering that creates a celebratory atmosphere for a diverse group of people.
 
 ## Why Thames Valley Companies Choose Fun Pro UK
 

@@ -26,6 +26,6 @@ So if you'd like to host one of these [corporate events](/categories/corporate-e
 
 When employees feel valued, acknowledged, and engaged, they're less likely to seek opportunities elsewhere. Company fun days promote work-life balance, showing staff that the company values their well-being and relaxation. They also improve your team's dynamics and boost overall morale. You should see improved staff retention if you realign your focus to making your workplace fun!
 
-In the quest to retain top talent, innovative approaches like [company fun days](/office-and-corporate-entertainment/#content) can be game-changers. Fun Pro UK is poised to help you redefine your company culture, making it not just a place to work, but a space to grow, bond, and thrive. Make a booking today and find out for yourself!
+In the quest to retain top talent, innovative approaches like [company fun days](/events/office-entertainment/#content) can be game-changers. Fun Pro UK is poised to help you redefine your company culture, making it not just a place to work, but a space to grow, bond, and thrive. Make a booking today and find out for yourself!
 
 Considering a unique approach to staff retention? Dive into play with Fun Pro UK. After all, a company that plays together, stays together.

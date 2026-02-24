@@ -8,6 +8,7 @@ thumbnail: /images/pages/team-building-ideas.jpg
 redirect_from:
   - "/team-building-ideas/"
   - "/pages/team-building-ideas/"
+  - "/team-building-activities/"
 eleventyNavigation:
   key: "Team Building Entertainment"
   parent: "How We Help"

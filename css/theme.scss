@@ -1251,20 +1251,46 @@ body.horizontal-nav main {
 }
 
 .homepage-header {
-  --background:
-    linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%),
-    url("/assets/homepage-header-background.jpg");
+  --background: #181a1f;
   --color-text: #fdfdfd;
   --color-link: #fdfdfd;
   --color-link-hover: #fdfdfd;
   @include themed-section;
 
-  background-size: cover;
   position: relative;
+  overflow: hidden;
   padding-bottom: 0; // handled by slider margin
+
+  .homepage-header-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 177.78vh; // 16:9 aspect ratio
+    height: 100vh;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translate(-50%, -50%);
+    border: 0;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%);
+    z-index: 1;
+    pointer-events: none;
+  }
 
   .homepage-header-inner {
     @include flex-column(0);
+    position: relative;
+    z-index: 2;
 
     & > * {
       padding: 0;

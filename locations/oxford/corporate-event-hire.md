@@ -4,13 +4,14 @@ meta_title: "Corporate Event Hire Oxford"
 meta_description: "Looking for corporate event hire in Oxford? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/oxford-corporate-event-hire/"
+  - "/oxford-corporate-event-hire/"
 ---
 
 # Corporate Event Hire Oxford
 
 Oxford's corporate events scene is shaped by two powerful forces: a globally renowned university and a business community concentrated around pharmaceuticals, technology and publishing. Both create demand for events that are professional, memorable and well-executed. Whether you're a college hosting a formal dinner, a Science Park company celebrating a milestone, or a publisher launching a new title, the entertainment you choose says something about your organisation.
 
-As [corporate event specialists](/our-story/#content) with over 15 years of experience, we provide interactive entertainment and catering that rises to the occasion. Oxford events often take place in remarkable settings, and we deliver entertainment that complements those venues rather than clashing with them.
+As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we provide interactive entertainment and catering that rises to the occasion. Oxford events often take place in remarkable settings, and we deliver entertainment that complements those venues rather than clashing with them.
 
 ## Entertainment for Oxford's Corporate Events
 

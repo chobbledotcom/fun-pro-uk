@@ -15,7 +15,7 @@ gallery:
 
 In today's competitive business landscape, creating a memorable [exhibition event](/events/exhibition-games/#content) stand that draws visitors in is crucial for generating leads and building brand awareness.
 
-Businesses and individuals all over the country have trusted us here at Fun Pro for over 15 years to help them create memorable experiences, whether it’s generating buzz at a [brand activation](/promotional-event-games/#content) event, boosting team morale at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), or simply just providing fun activities at [weddings](/wedding-entertainment/#content) and community events.  
+Businesses and individuals all over the country have trusted us here at Fun Pro for over 15 years to help them create memorable experiences, whether it’s generating buzz at a [brand activation](/promotional-event-games/#content) event, boosting team morale at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), or simply just providing fun activities at [weddings](/events/wedding-entertainment/#content) and community events.  
   
 In this guide, we’re going to share with you why our interactive games for hire like [Batak](/categories/batak/#content), [Prize Crane](/categories/prize-games/#content) games, and [Car Simulators](/products/racing-car-simulators/#content) can make all the difference to your next event.
 

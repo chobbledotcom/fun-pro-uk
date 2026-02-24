@@ -8,6 +8,8 @@ thumbnail: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-3.jpg
 redirect_from:
   - "/category/interactive-game-hire/"
   - "/category/interactive-game-hire/2/lights-out-game/"
+  - "/categories/giant-games/"
+  - "/categories/garden-games/"
 faqs:
   - question: "Are the games suitable for both indoor and outdoor events?"
     answer: "We have plenty of versatile interactive games that can be adapted for both indoor and outdoor settings. We have games that can be played on both lawns and floors. Some games require a specific environment, like large indoor spaces or a controlled outdoor area for obstacle courses."
@@ -21,9 +23,9 @@ faqs:
   - question: "Are the games suitable for all age groups?"
     answer: "Yes! Our interactive games cater to a wide range of age groups. We have indoor party games for adults and entertaining party games for the kids."
   - question: "Can the games be customised with branding or themes?"
-    answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/wedding-entertainment/#content), a team building, or a corporate event."
+    answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/events/wedding-entertainment/#content), a team building, or a corporate event."
   - question: "Can I hire the games for corporate events or team-building activities?"
-    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/team-building-activities/#content). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
+    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/events/team-building-entertainment/#content). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
 below_products: |
   ## Our Interactive Game Collection
   Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](/products/retro-arcade-games/#content). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it's over, everyone can walk away with exciting memories and fun experiences they won't forget.

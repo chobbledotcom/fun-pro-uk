@@ -7,6 +7,7 @@ featured: true
 thumbnail: /images/products/giant-buzz-wire/giant-buzz-wire-1.jpg
 redirect_from:
   - "/category/fun-days/"
+  - "/categories/inflatables/"
 ---
 
 # Family Fun Days - Benefits and Planning

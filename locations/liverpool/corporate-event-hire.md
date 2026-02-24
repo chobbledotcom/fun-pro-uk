@@ -4,13 +4,14 @@ meta_title: "Corporate Event Hire Liverpool"
 meta_description: "Looking for corporate event hire in Liverpool? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/liverpool-corporate-event-hire/"
+  - "/liverpool-corporate-event-hire/"
 ---
 
 # Corporate Event Hire Liverpool
 
 Liverpool has established itself as one of the UK's premier destinations for conferences, exhibitions and large-scale corporate events. The waterfront events district, anchored by ACC Liverpool, brings thousands of business visitors to the city each year. Beyond the headline venues, Liverpool's hotels, converted warehouse spaces around the Albert Dock, and corporate offices across Merseyside host a constant flow of team events, client entertainment and company celebrations.
 
-With over 15 years as [corporate event specialists](/our-story/#content), we provide the interactive entertainment and fun food catering that help these events succeed. We understand that corporate events in Liverpool range from formal black-tie galas to relaxed team socials, and the entertainment needs to match.
+With over 15 years as [corporate event specialists](/about-corporate-entertainment-hire/#content), we provide the interactive entertainment and fun food catering that help these events succeed. We understand that corporate events in Liverpool range from formal black-tie galas to relaxed team socials, and the entertainment needs to match.
 
 ## Entertainment That Works for Liverpool's Corporate Scene
 
@@ -40,7 +41,7 @@ For multi-day exhibitions and conferences, we coordinate delivery and collection
 
 Liverpool's major venues are well set up for entertainment — good access for delivery, dedicated event management teams, and flexible spaces. That makes the logistics straightforward for most events. The key decisions are about what entertainment suits your specific occasion.
 
-A conference with 500 delegates needs entertainment that works during breaks and networking sessions — things people can engage with quickly without needing lengthy explanations. A [team building](/team-building-activities/#content) day for 40 people benefits from games that encourage interaction and create shared stories. An exhibition stand needs something eye-catching that stops passing traffic. A Christmas party wants entertainment that gets people in a celebratory mood.
+A conference with 500 delegates needs entertainment that works during breaks and networking sessions — things people can engage with quickly without needing lengthy explanations. A [team building](/events/team-building-entertainment/#content) day for 40 people benefits from games that encourage interaction and create shared stories. An exhibition stand needs something eye-catching that stops passing traffic. A Christmas party wants entertainment that gets people in a celebratory mood.
 
 We'll talk through your event with you and recommend a mix of entertainment that fits. We've seen what works across thousands of corporate events, and we're happy to share that experience.
 

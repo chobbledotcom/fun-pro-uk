@@ -52,7 +52,7 @@ As told to Fun Pro by the Baylis & Harding Marketing Team.
 
 "We needed something special for our Christmas product showcase at CBS Arena. This wasn't just another trade show—we were presenting our entire Christmas collection to Sainsbury’s, and we knew the competition would be fierce. We wanted buyers to remember our stand, engage with our products, and see the excitement our brand could generate.
 
-When we found Fun Pro through a Google search, we were immediately impressed by their professional approach and understanding of [corporate events](/office-and-corporate-entertainment/#content). We explained that we needed interactive entertainment that could be fully customised with our branding whilst drawing consistent crowds to our stand throughout the day."
+When we found Fun Pro through a Google search, we were immediately impressed by their professional approach and understanding of [corporate events](/events/office-entertainment/#content). We explained that we needed interactive entertainment that could be fully customised with our branding whilst drawing consistent crowds to our stand throughout the day."
 
 The brief was clear but challenging: create an engaging attraction that would showcase Baylis & Harding's Christmas products whilst maintaining the premium brand image they'd worked so hard to establish. The marketing team wanted something that would encourage interaction without being too gimmicky, and importantly, something that could be completely customised to match their brand aesthetic.
 

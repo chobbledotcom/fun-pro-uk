@@ -20,7 +20,7 @@ Kellanova is a multinational food company that focuses on cereals, snack product
     
 *   Custom-branded [Whack-a-Mole](/products/whack-a-mole-game-hire/#content) game, featuring iconic Kellanova characters (Tony the Tiger and Coco Pops monkey)
     
-*   Repeat client demonstrating trust in [Fun Pro's service](/our-story/#content)
+*   Repeat client demonstrating trust in [Fun Pro's service](/about-corporate-entertainment-hire/#content)
     
 *   Seamless installation despite logistical challenges (Great North Run road closures)
     
@@ -86,7 +86,7 @@ This trust proved particularly valuable when discussing the custom branding requ
 
 Following the successful completion of World Health and Safety Week, the custom-branded Whack a Mole game was collected from the Manchester facility, with Fun Pro's team once again navigating the post-Great North Run logistics efficiently. The week-long hire had provided exactly what Kellanova sought: an engaging, memorable way to reinforce crucial safety messages whilst creating positive energy around the campaign.
 
-The progression from personal client to corporate partner positions Fun Pro as a trusted entertainment provider for Kellanova across different contexts. Having now worked together on both private celebrations and [corporate events](/office-and-corporate-entertainment/#content), there's a foundation for potential future collaborations. Whether for employee engagement events, [brand activations](/promotional-event-games/#content), or other corporate occasions, Kellanova knows they have a reliable partner in Fun Pro who understands their needs and can deliver creative solutions.
+The progression from personal client to corporate partner positions Fun Pro as a trusted entertainment provider for Kellanova across different contexts. Having now worked together on both private celebrations and [corporate events](/events/office-entertainment/#content), there's a foundation for potential future collaborations. Whether for employee engagement events, [brand activations](/promotional-event-games/#content), or other corporate occasions, Kellanova knows they have a reliable partner in Fun Pro who understands their needs and can deliver creative solutions.
 
 For other multinational companies and manufacturing facilities looking to make compliance campaigns more engaging, Kellanova's approach offers a valuable model. Interactive entertainment, particularly when thoughtfully branded and integrated into the campaign message, can transform how employees experience and respond to important workplace initiatives. The combination of professional equipment, expert customisation, and reliable service creates outcomes that benefit both employee engagement and organisational culture.
 

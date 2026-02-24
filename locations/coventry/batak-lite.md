@@ -15,7 +15,7 @@ If you’re looking to add energy and engagement to your next staff get-together
 
 Batak Lite is a compact and portable version of [Batak Pro](/products/batak-pro/#content), offering an engaging and energetic activity that people of all ages can enjoy. Featuring a series of illuminated targets, the game is designed to challenge reflexes, improve coordination, and enhance reaction speeds.
 
-Interactive games like Batak Lite are a great choice for occasions such as [conferences](/conference-game-hire/#content), [team building](/team-building-activities/#content) days, [promotional events](/locations/coventry/brand-promotional-event-hire/#content), and more. They provide an entertaining and competitive environment, making them an excellent icebreaker.
+Interactive games like Batak Lite are a great choice for occasions such as [conferences](/conference-game-hire/#content), [team building](/events/team-building-entertainment/#content) days, [promotional events](/locations/coventry/brand-promotional-event-hire/#content), and more. They provide an entertaining and competitive environment, making them an excellent icebreaker.
 
 ## Why Choose Batak Lite For Your Next Event in Coventry?
 
