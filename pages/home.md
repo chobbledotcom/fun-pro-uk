@@ -9,6 +9,11 @@ redirect_from:
   - "/index/"
   - "/packages/"
   - "/home/"
+  - "/event-management/"
+  - "/pages/event-management/"
+  - "/all-service-areas/"
+  - "/pages/all-service-areas/"
+  - "/pages/delivery-areas/"
 videos:
   - id: z15sN_PUarw
     title: Customer Testimonial

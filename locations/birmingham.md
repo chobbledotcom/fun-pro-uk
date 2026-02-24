@@ -4,6 +4,12 @@ meta_title: "Event Hire Birmingham | Interactive Games & Entertainment | Fun Pro
 meta_description: "Event and game hire in Birmingham. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations."
 redirect_from:
   - "/pages/birmingham/"
+  - "/aston-villa/"
+  - "/pages/aston-villa/"
+  - "/cranmore-park-conference-venue/"
+  - "/pages/cranmore-park-conference-venue/"
+  - "/edgbaston/"
+  - "/pages/edgbaston/"
 subtitle: "Event hire for the city with more canals than Venice"
 thumbnail: "images/locations/birmingham.png"
 ---
