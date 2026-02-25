@@ -8,7 +8,7 @@ redirect_from:
 
 # How Lidl UK Created Engaging In-Store Customer Experiences Across Multiple Promotional Campaigns
 
-![](/userfiles/fun-pro-mobile-prize-wheel.jpg)
+![](/images/pages/fun-pro-mobile-prize-wheel.jpg)
 
 Learn how Lidl UK successfully engaged thousands of customers across multiple UK stores by utilising Fun Pro's mobile [prize wheel](/products/prize-wheel/#content) solution, creating memorable promotional experiences that drove customer participation whilst capturing valuable marketing content for their advertising campaigns.
 
@@ -48,7 +48,7 @@ The challenge was finding solutions that could work effectively across their div
 
 ## The Challenge: Creating Flexible, Engaging In-Store Experiences
 
-![](/userfiles/fun-pro-lidl-bakery-super-spin.jpg)
+![](/images/pages/fun-pro-lidl-bakery-super-spin.jpg)
 
 As told to Fun Pro by the Store Operations Team at Lidl UK.
 
@@ -66,7 +66,7 @@ As told to Fun Pro by the Store Operations Team at Lidl UK.
 
 ## The Solution: Mobile Prize Wheel with Custom Branding
 
-![](/userfiles/fun-pro-mobile-prize-wheel-at-lidl-uk.jpg)
+![](/images/pages/fun-pro-mobile-prize-wheel-at-lidl-uk.jpg)
 
 As told to Fun Pro by the Store Operations Team at Lidl UK.
 
