@@ -5,6 +5,7 @@ meta_description: "Event and game hire in Reading and the Thames Valley. Interac
 redirect_from:
   - "/pages/reading/"
 subtitle: "Event hire for the Thames Valley business community"
+thumbnail: "images/locations/reading.jpg"
 ---
 
 # Event Hire Reading

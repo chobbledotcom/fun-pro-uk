@@ -5,6 +5,7 @@ meta_description: "Event and game hire in Liverpool. Interactive games, photo bo
 redirect_from:
   - "/pages/liverpool/"
 subtitle: "Event hire for Merseyside's conference and events scene"
+thumbnail: "images/locations/liverpool.jpg"
 ---
 
 # Event Hire Liverpool
