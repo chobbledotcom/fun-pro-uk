@@ -16,5 +16,3 @@ We will endeavour to get back to you within 48 hours.
 Our office hours are Monday to Friday between 10am - 5pm.
 
 Please check your spam or junk folders regularly in case our email has been incorrectly marked as spam.
-
-![](/images/pages/long-logo.png)
