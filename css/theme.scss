@@ -1282,7 +1282,11 @@ body.horizontal-nav main {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(77deg, #181a1f 27.31%, rgba(24, 26, 31, 0) 80.67%);
+    background: linear-gradient(
+      77deg,
+      #181a1f 27.31%,
+      rgba(24, 26, 31, 0) 80.67%
+    );
     z-index: 1;
     pointer-events: none;
   }
@@ -2291,7 +2295,8 @@ ol.steps {
 .products-header {
   padding: var(--section-padding-half) 0;
 
-  h1 {
+  h1,
+  h2 {
     font-size: 52px;
     font-weight: 500;
     line-height: 76px;
@@ -2311,6 +2316,7 @@ ol.steps {
   }
 
   h1,
+  h2,
   p {
     max-width: 650px;
     margin-left: auto;
