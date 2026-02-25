@@ -5,6 +5,7 @@ meta_description: "Looking for corporate event hire in Cambridge? Fun Pro UK pro
 redirect_from:
   - "/pages/cambridge-corporate-event-hire/"
   - "/cambridge-corporate-event-hire/"
+thumbnail: /images/locations/cambridge.jpg
 ---
 
 # Corporate Event Hire Cambridge
