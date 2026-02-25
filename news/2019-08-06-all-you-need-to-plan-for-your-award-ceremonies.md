@@ -4,7 +4,7 @@ subtitle: "Why wait until the year draws to a close to award your staff? Why not
 date: 2019-08-06
 author: "team/liz.md"
 meta_title: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK"
-meta_description: "Plan Your Award Ceremony With Us – Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Planning a corporate awards ceremony? Ideas for entertainment including photo booths, casino tables, horse racing games and race car simulators."
 redirect_from:
   - "/news/2019-08-06/all-you-need-to-plan-for-your-award-ceremonies/"
 gallery:

@@ -4,7 +4,7 @@ subtitle: "Where's Colin and the Fun Pro UK Team this week? Over the last two we
 date: 2019-07-10
 author: "team/colin.md"
 meta_title: "Where’s Colin? – Event Game Hire Nationwide | Fun Pro UK"
-meta_description: "Where’s Colin? – Event Game Hire Nationwide | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "A busy week for Fun Pro UK delivering Strike a Light to the Excel Centre and a Grab a Grand cash grabber to Selfridges Manchester."
 redirect_from:
   - "/news/2019-07-10/wheres-colin/"
 gallery:

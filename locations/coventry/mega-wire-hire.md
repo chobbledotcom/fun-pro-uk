@@ -1,7 +1,7 @@
 ---
 title: "Mega Wire Hire"
 meta_title: "Mega Wire Buzz Game Hire Coventry | Fun Pro UK"
-meta_description: "Mega Wire Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire the Mega Wire buzz game in Coventry for corporate events, exhibitions and parties. A steady-hand challenge delivered from our local Coventry base."
 redirect_from:
   - "/pages/mega-wire-hire-coventry/"
 thumbnail: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-1.jpg

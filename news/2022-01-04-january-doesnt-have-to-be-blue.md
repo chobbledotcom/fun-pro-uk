@@ -4,7 +4,7 @@ subtitle: "January doesn't have to be Blue!! December is always a very busy mont
 date: 2022-01-04
 author: "team/colin.md"
 meta_title: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro UK"
-meta_description: "January Blues? We’ve Got The Cure – Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Beat the January blues with a workplace event. Interactive games and team activities to lift spirits and bring your staff together after the holidays."
 redirect_from:
   - "/news/2022-01-04/january-doesnt-have-to-be-blue/"
 gallery:

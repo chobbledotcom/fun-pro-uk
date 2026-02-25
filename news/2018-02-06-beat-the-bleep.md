@@ -4,7 +4,7 @@ subtitle: "One of our interactive games which is all set up ready for a corporat
 date: 2018-02-06
 author: "team/liz.md"
 meta_title: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK"
-meta_description: "Beat The Bleep – Fun Skill-based Event Game | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire our Mega Buzz Wire game for corporate events. Guide the wand through the maze without triggering the bleep in this popular team challenge."
 redirect_from:
   - "/news/2018-02-06/beat-the-bleep/"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Leeds"
 meta_title: "Event Hire Leeds | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Leeds. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events, conferences and celebrations across Yorkshire."
+meta_description: "Event and game hire in Leeds. Interactive games, photo booths and branded exhibition entertainment for corporate events and celebrations across Yorkshire."
 redirect_from:
   - "/pages/leeds/"
 subtitle: "Event hire across God's Own Country"

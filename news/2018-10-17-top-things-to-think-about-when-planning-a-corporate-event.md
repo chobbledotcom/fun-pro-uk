@@ -4,7 +4,7 @@ subtitle: "When it comes to planning a corporate event there is lots to think ab
 date: 2018-10-17
 author: "team/colin.md"
 meta_title: "Top Tips For Planning Corporate Events | Fun Pro UK"
-meta_description: "Top Tips For Planning Corporate Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Key things to consider when planning a corporate event. Advice on purpose, marketing, entertainment, logistics and post-event debriefs."
 redirect_from:
   - "/news/2018-10-17/top-things-to-think-about-when-planning-a-corporate-event/"
 ---

@@ -2,7 +2,7 @@
 title: "Celebrations & Parties"
 subtitle: "Games, photo booths and activities for private events"
 meta_title: "Party & Celebration Entertainment Hire UK | Fun Pro UK"
-meta_description: "Hire party games, photo booths and entertainment for birthdays, anniversaries, engagements and private celebrations. Delivered and set up across the UK by Fun Pro UK."
+meta_description: "Hire party games, photo booths and entertainment for birthdays, anniversaries, engagements and private celebrations. Delivered and set up across the UK."
 featured: true
 thumbnail: /images/events/celebrations-and-parties.jpg
 redirect_from:

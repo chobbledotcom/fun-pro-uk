@@ -1,7 +1,7 @@
 ---
 title: "Vault Game Hire"
 meta_title: "Vault Game Hire Coventry | Events | Fun Pro UK"
-meta_description: "Vault Game Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire the Vault game in Coventry for corporate events, exhibitions and parties. A thrilling timed challenge delivered from our local Coventry base."
 redirect_from:
   - "/pages/vault-game-hire-coventry/"
 thumbnail: /images/products/the-vault/the-vault-1.jpg

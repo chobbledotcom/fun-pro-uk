@@ -4,7 +4,7 @@ subtitle: "We are getting excited at Perfect Snap HQ. This Sunday, 7th January a
 date: 2018-01-02
 author: "team/liz.md"
 meta_title: "Ansty Hall This Sunday – Event Game Hire Services"
-meta_description: "Ansty Hall This Sunday – Event Game Hire Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Ansty Hall wedding fair this Sunday. See our photo booths and Magic Mirror entertainment for your upcoming wedding."
 redirect_from:
   - "/news/2018-01-02/ansty-hall-this-sunday/"
 ---

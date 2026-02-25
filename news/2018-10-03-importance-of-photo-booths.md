@@ -4,7 +4,7 @@ subtitle: "Recently we joined many of KPMG's staff in Birmingham for their annua
 date: 2018-10-03
 author: "team/liz.md"
 meta_title: "The Importance Of Photo Booths At Events - Game Hire Service"
-meta_description: "The Importance Of Photo Booths At Events - Game Hire Service - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Why photo booths are an important addition to any event. From weddings and parties to corporate functions, they create lasting memories for guests."
 redirect_from:
   - "/news/2018-10-03/importance-of-photo-booths/"
 ---

@@ -4,7 +4,7 @@ subtitle: "Perfect Snap attended the Wedding Fair held at the beautiful Wood hou
 date: 2017-02-06
 author: "team/liz.md"
 meta_title: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK"
-meta_description: "Woodside Wedding Show – Interactive Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Woodside Hotel wedding show in Kenilworth. Our Green Screen Photo Booth and Magic Mirror were popular with couples-to-be."
 redirect_from:
   - "/news/2017-02-06/woodside-wedding-show/"
 ---

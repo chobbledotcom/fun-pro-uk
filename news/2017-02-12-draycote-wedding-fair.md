@@ -4,7 +4,7 @@ subtitle: "Team Perfect Snap are getting excited for the Wedding Inspo Evening w
 date: 2017-02-12
 author: "team/liz.md"
 meta_title: "Draycote Wedding Fair – Event Entertainment Options"
-meta_description: "Draycote Wedding Fair – Event Entertainment Options - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Draycote Hotel wedding fair. See our photo booths and Magic Mirror entertainment options for your wedding reception."
 redirect_from:
   - "/news/2017-02-12/draycote-wedding-fair/"
 ---

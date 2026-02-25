@@ -1,7 +1,7 @@
 ---
 title: "Gloucester"
 meta_title: "Event Hire Gloucester | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Gloucester and Cheltenham. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations."
+meta_description: "Event and game hire in Gloucester and Cheltenham. Interactive games, photo booths and branded entertainment for corporate events, conferences and celebrations."
 redirect_from:
   - "/pages/gloucester/"
 subtitle: "Event hire across Gloucestershire and the Cotswolds"

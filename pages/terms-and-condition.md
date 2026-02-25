@@ -1,6 +1,6 @@
 ---
 meta_title: "Terms and Conditions of Hire | Fun Pro UK | Event Rentals"
-meta_description: "Terms and Conditions of Hire | Fun Pro UK | Event Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Terms and conditions for hiring games and entertainment from Fun Pro UK. Covers bookings, payments, cancellations, damage and delivery arrangements."
 layout: page
 redirect_from:
   - "/pages/terms-and-condition/"

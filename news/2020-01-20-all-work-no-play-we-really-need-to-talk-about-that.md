@@ -4,7 +4,7 @@ subtitle: "Show your staff how to party this summer with inflatables and interac
 date: 2020-01-20
 author: "team/liz.md"
 meta_title: "All Work, No Play? Let’s Change That! | Fun Pro UK"
-meta_description: "All Work, No Play? Let’s Change That! | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "All work and no play? Plan a summer company fun day with inflatables, slides, games and ice cream for staff and their families."
 redirect_from:
   - "/news/2020-01-20/all-work-no-play-we-really-need-to-talk-about-that/"
 gallery:

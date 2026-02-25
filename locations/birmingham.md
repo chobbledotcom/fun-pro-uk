@@ -1,7 +1,7 @@
 ---
 title: "Birmingham"
 meta_title: "Event Hire Birmingham | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Birmingham. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations."
+meta_description: "Event and game hire in Birmingham. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events and celebrations."
 redirect_from:
   - "/pages/birmingham/"
 subtitle: "Event hire for the city with more canals than Venice"

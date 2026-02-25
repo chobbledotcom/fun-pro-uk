@@ -4,7 +4,7 @@ subtitle: "The elves are busy making presents. The reindeers are in training. An
 date: 2019-11-05
 author: "team/colin.md"
 meta_title: "Christmas Fun For Every Event Nationwide | Fun Pro UK"
-meta_description: "Christmas Fun For Every Event Nationwide | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Christmas entertainment ideas for your festive event. Photo booths, Santa grottos, dance machines and interactive games to hire for the season."
 redirect_from:
   - "/news/2019-11-05/christmas-fun/"
 gallery:

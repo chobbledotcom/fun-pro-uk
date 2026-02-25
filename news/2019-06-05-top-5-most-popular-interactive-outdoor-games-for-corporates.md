@@ -4,7 +4,7 @@ subtitle: "Are you sat there wondering how to keep your employees motivated and 
 date: 2019-06-05
 author: "team/colin.md"
 meta_title: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK"
-meta_description: "Top 5 Interactive Outdoor Games For Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "The top five interactive outdoor games for corporate events. From Human Table Football to Bungee Runs, find the best team building activities."
 redirect_from:
   - "/news/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/"
 gallery:

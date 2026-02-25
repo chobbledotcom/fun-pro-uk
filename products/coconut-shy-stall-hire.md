@@ -4,9 +4,7 @@ subtitle: Traditional fairground coconut shy stall
 price: £450
 order: 50
 meta_title: Coconut Shy Stall Hire | Classic Fairground Game for UK Events
-meta_description: Hire a Coconut Shy stall for your next event. A fun and
-  interactive game perfect for fairs, corporate events, and parties. Nationwide
-  delivery &amp; setup available. Book today.
+meta_description: Hire a Coconut Shy stall for your next event. A fun, interactive game perfect for fairs, corporate events and parties. Nationwide delivery and setup included.
 categories:
   - categories/fun-fair-stalls.md
 events:

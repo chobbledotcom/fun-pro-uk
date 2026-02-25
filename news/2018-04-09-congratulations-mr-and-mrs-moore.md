@@ -4,7 +4,7 @@ subtitle: "On Saturday we spent a fabulous evening at the Citrus Hotel near Cove
 date: 2018-04-09
 author: "team/liz.md"
 meta_title: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK"
-meta_description: "Congratulations Mr And Mrs Moore – Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Congratulations to Mr and Mrs Moore. Our entertainment added fun and memorable moments to their special wedding celebration."
 redirect_from:
   - "/news/2018-04-09/congratulations-mr-and-mrs-moore/"
 gallery:

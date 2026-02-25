@@ -1,6 +1,6 @@
 ---
 meta_title: "Conference Game Hire – Event Entertainment Game Hire"
-meta_description: "Conference Game Hire – Event Entertainment Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire interactive games for your conference. Batak, buzz wires, basketball and more to keep delegates entertained. Delivered and set up at UK venues."
 layout: page
 redirect_from:
   - "/pages/conference-game-hire/"

@@ -4,7 +4,7 @@ subtitle: "Keep your guests entertained this year! Enhance your corporate confer
 date: 2020-01-07
 author: "team/colin.md"
 meta_title: "Conference Entertainment – Engage Your Guests | Fun Pro UK"
-meta_description: "Conference Entertainment – Engage Your Guests | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Keep conference delegates engaged with interactive game hire. Ideas for breakout sessions, networking events and trade stands across the UK."
 redirect_from:
   - "/news/2020-01-07/conference-entertainment-keep-your-guests-entertained-this-year/"
 gallery:

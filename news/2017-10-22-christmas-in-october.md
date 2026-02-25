@@ -4,7 +4,7 @@ subtitle: "Christmas in October! Wow! The Perfect Snap Team can't believe it, it
 date: 2017-10-22
 author: "team/liz.md"
 meta_title: "Christmas In October – Festive Event Game Hire | Fun Pro UK"
-meta_description: "Christmas In October – Festive Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Early Christmas parties and corporate awards in Birmingham, Leicester and Coventry. Our Magic Mirror and photo booths were in high demand."
 redirect_from:
   - "/news/2017-10-22/christmas-in-october/"
 ---

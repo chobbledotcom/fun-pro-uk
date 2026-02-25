@@ -1,7 +1,7 @@
 ---
 title: "London"
 meta_title: "Event Hire London | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in London. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events, conferences and celebrations across the capital."
+meta_description: "Event and game hire in London. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events and conferences."
 redirect_from:
   - "/pages/london/"
 subtitle: "Event hire across the capital and the Home Counties"

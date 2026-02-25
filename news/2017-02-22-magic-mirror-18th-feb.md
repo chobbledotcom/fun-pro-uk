@@ -4,7 +4,7 @@ subtitle: "On Saturday 18th February, the Perfect Snap team attended a new venue
 date: 2017-02-22
 author: "team/liz.md"
 meta_title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"
-meta_description: "Magic Mirror 18th Feb – Interactive Photo Booth Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Our Magic Mirror at Blackwell Grange in Warwickshire. Wedding guests loved the selfies, props and personalised guest book prints."
 redirect_from:
   - "/news/2017-02-22/magic-mirror-18th-feb/"
 ---

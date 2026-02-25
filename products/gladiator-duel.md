@@ -4,9 +4,7 @@ subtitle: Inflatable podium jousting game for two players
 price: £395
 order: 50
 meta_title: Gladiator Duel Hire | Inflatable Games | Fun Pro UK
-meta_description: Bash the boss or clobber a colleague in our inflatable
-  gladiator duel! Two players joust on podiums with padded sticks — as fun to
-  watch as it is to play. Available for hire nationwide.
+meta_description: Hire our inflatable gladiator duel! Two players joust on podiums with padded sticks — as fun to watch as it is to play. Available for hire nationwide.
 categories:
   - categories/fun-days.md
   - categories/weddings.md

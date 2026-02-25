@@ -1,6 +1,6 @@
 ---
 meta_title: "Privacy Policy – Exhibition And Game Hire Services"
-meta_description: "Privacy Policy – Exhibition And Game Hire Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "How Fun Pro UK handles your data. Our privacy policy covers GDPR compliance, data storage, your rights and how to contact our data protection officer."
 layout: page
 redirect_from:
   - "/pages/privacy-policy/"

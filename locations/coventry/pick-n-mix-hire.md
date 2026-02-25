@@ -1,7 +1,7 @@
 ---
 title: "Pick n Mix Sweet Cart Hire"
 meta_title: "Pick n Mix Sweet Cart Hire Coventry | Fun Pro UK"
-meta_description: "Pick N Mix Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire a Pick n Mix sweet stand in Coventry for your event. 19 trays of sweets with branded display options. Local delivery from our Coventry base."
 redirect_from:
   - "/pages/pick-n-mix-hire-coventry/"
 thumbnail: /images/products/pix-n-mix-hire/pix-n-mix-hire-1.jpg

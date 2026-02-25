@@ -84,9 +84,7 @@ filter_attributes:
   - name: Player Count
     value: 1 player
 meta_title: Gum Ball Machine Hire, Claw Machine Rental , Exhibitions, UK
-meta_description: Our arcade style Giant Gashapon for hire is great for
-  exhibitions &amp; promotions. Why not fill the Giant Gashapon with your
-  branded items at your exhibition stand today.
+meta_description: Giant Gashapon capsule vending machine for hire at exhibitions, promotions and events. Fill it with branded prizes for an engaging giveaway. UK delivery.
 faqs:
   - question: How many people can play the Prize Crane at once?
     answer: One player operates the Giant Gashapon at a time. The addictive format

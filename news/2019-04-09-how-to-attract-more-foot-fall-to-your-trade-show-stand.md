@@ -4,7 +4,7 @@ subtitle: "Arranging a new product launch in a car showroom or trade stand enter
 date: 2019-04-09
 author: "team/liz.md"
 meta_title: "Attract Foot Traffic To Your Trade Show | Fun Pro UK"
-meta_description: "Attract Foot Traffic To Your Trade Show | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "How to attract more visitors to your trade show stand. Tips on using interactive games, branded activities and eye-catching displays."
 redirect_from:
   - "/news/2019-04-09/how-to-attract-more-foot-fall-to-your-trade-show-stand/"
 gallery:

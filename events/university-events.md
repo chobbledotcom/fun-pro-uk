@@ -2,7 +2,7 @@
 title: "University Events"
 subtitle: "Hire games for freshers, socials and end-of-term"
 meta_title: "University Event Hire | Freshers & Balls | Fun Pro UK"
-meta_description: "Game and entertainment hire for university events across the UK. Freshers fairs, graduation balls, end-of-term parties and open days. Based in Coventry, delivering nationwide."
+meta_description: "Game and entertainment hire for university events across the UK. Freshers fairs, graduation balls, end-of-term parties and open days. Nationwide delivery."
 featured: true
 thumbnail: /images/events/university-events.jpg
 eleventyNavigation:

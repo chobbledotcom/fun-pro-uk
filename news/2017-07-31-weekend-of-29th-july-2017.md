@@ -4,7 +4,7 @@ subtitle: "Wow! I can't tell you what a busy weekend we have had here at Perfect
 date: 2017-07-31
 author: "team/liz.md"
 meta_title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
-meta_description: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "A busy July weekend for Fun Pro UK providing photo booths and magic mirrors at weddings across Warwickshire and Birmingham venues."
 redirect_from:
   - "/news/2017-07-31/weekend-of-29th-july-2017/"
 ---

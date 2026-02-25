@@ -4,7 +4,7 @@ subtitle: "It was lovely to see so many prospective brides and their grooms at t
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Dunchurch Park Wedding Show – Event Entertainment Hire"
-meta_description: "Dunchurch Park Wedding Show – Event Entertainment Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Dunchurch Park Hotel wedding show with our Magic Mirror and photo booth. See what we offer for wedding entertainment."
 redirect_from:
   - "/news/2016-10-14/dunchurch-park-wedding-show/"
 ---

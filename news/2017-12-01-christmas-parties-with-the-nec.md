@@ -4,7 +4,7 @@ subtitle: "Last night saw Team Perfect Snap returning to the NEC in Birmingham t
 date: 2017-12-01
 author: "team/liz.md"
 meta_title: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK"
-meta_description: "Christmas Parties At Nec – Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the NEC Birmingham for a New York themed Christmas party. Our branded Selfie Mirror added style to the festive celebrations."
 redirect_from:
   - "/news/2017-12-01/christmas-parties-with-the-nec/"
 gallery:

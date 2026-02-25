@@ -4,7 +4,7 @@ subtitle: "We are starting to feel excited at TeamPerfectSnap! On Sunday 29th Ja
 date: 2017-01-25
 author: "team/liz.md"
 meta_title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"
-meta_description: "Woodside Hotel Wedding Fair – Event Entertainment Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Woodside Hotel wedding fair in Kenilworth. Come and see our Green Screen Photo Booth and Magic Mirror for your big day."
 redirect_from:
   - "/news/2017-01-25/woodside-hotel-wedding-fair/"
 ---

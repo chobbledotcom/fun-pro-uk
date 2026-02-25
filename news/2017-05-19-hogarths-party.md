@@ -4,7 +4,7 @@ subtitle: "On Friday we were in attendance at the marvellous venue Hogarths Hote
 date: 2017-05-19
 author: "team/liz.md"
 meta_title: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK"
-meta_description: "Hogarth’s Party – Nationwide Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Magic Mirror photo booth at Hogarth's Hotel in Solihull. Guests enjoyed an evening of selfies and fun props at this private party."
 redirect_from:
   - "/news/2017-05-19/hogarths-party/"
 ---
