@@ -4,7 +4,7 @@ subtitle: "On Sunday we attended a very busy wedding fair at Ettington Park Hote
 date: 2017-10-17
 author: "team/liz.md"
 meta_title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"
-meta_description: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at the Ettington Park wedding fair showcasing our photo booths and Magic Mirror. Find the perfect entertainment for your wedding day."
 redirect_from:
   - "/news/2017-10-17/wedding-fair-at-ettington-park/"
 ---

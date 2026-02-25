@@ -4,7 +4,7 @@ subtitle: "We are all getting excited at Perfect Snap HQ for this Sunday! Why I 
 date: 2016-10-14
 author: "team/colin.md"
 meta_title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
-meta_description: "Wootton Park Event – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at Wootton Park with our Magic Mirror, entertaining guests at this beautiful Warwickshire venue. See the highlights from the day."
 redirect_from:
   - "/news/2016-10-14/wootton-park-16th-october-2016/"
 ---

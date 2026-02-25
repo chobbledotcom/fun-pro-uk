@@ -4,7 +4,7 @@ subtitle: "End of the Financial Year! Now is an ideal time to have a wellbeing e
 date: 2024-04-04
 author: "team/liz.md"
 meta_title: "End of the Financial Year! Now is the time to have a wellbeing event."
-meta_description: "The end of the Financial Year 5 April, the financial year comes to an end, paving the way for the next tax year and the cycle begins once again. How are you going to engage your team to start all over again and keep them motivated and engaged for that long 12 month journey?"
+meta_description: "The end of the financial year is the perfect time for a staff wellbeing event. Boost team morale with interactive games and fun activities."
 redirect_from:
   - "/news/2024-04-04/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/"
 ---

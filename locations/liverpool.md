@@ -1,7 +1,7 @@
 ---
 title: "Liverpool"
 meta_title: "Event Hire Liverpool | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Liverpool. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations across Merseyside."
+meta_description: "Event and game hire in Liverpool. Interactive games, photo booths and branded exhibition entertainment for corporate events and celebrations across Merseyside."
 redirect_from:
   - "/pages/liverpool/"
 subtitle: "Event hire for Merseyside's conference and events scene"

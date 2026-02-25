@@ -4,7 +4,7 @@ subtitle: "Our team at Perfect Snap HQ are looking forward to Wednesday! Yes, We
 date: 2016-11-01
 author: "team/colin.md"
 meta_title: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK"
-meta_description: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "A midweek wedding celebration at Shustoke Farm Barns with our Magic Mirror entertaining guests all evening. See the photos and fun moments."
 redirect_from:
   - "/news/2016-11-01/not-a-normal-wednesday/"
 ---

@@ -4,7 +4,7 @@ subtitle: "It was lovely to see so many people at the wedding fair on Sunday whi
 date: 2017-09-12
 author: "team/liz.md"
 meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
-meta_description: "Sunday’s Wedding Fair – Event Entertainment Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK at a Sunday wedding fair showcasing our photo booth and Magic Mirror entertainment. Find the perfect addition to your wedding day."
 redirect_from:
   - "/news/2017-09-12/sundays-wedding-fair/"
 ---

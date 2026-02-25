@@ -4,7 +4,7 @@ subtitle: "With all this lovely Summer weather it's hard to start thinking about
 date: 2018-06-27
 author: "team/liz.md"
 meta_title: "’tis The Season To Plan Christmas Parties – Game Hire"
-meta_description: "’tis The Season To Plan Christmas Parties – Game Hire - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Start planning your work Christmas party early. Tips on booking entertainment, choosing a theme and making your festive event one to remember."
 redirect_from:
   - "/news/2018-06-27/tis-the-season-to-organise-your-christmas-party/"
 ---

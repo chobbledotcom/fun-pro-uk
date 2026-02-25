@@ -4,7 +4,7 @@ subtitle: "We know it is only September and you don't really want to be thinking
 date: 2018-09-12
 author: "team/liz.md"
 meta_title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"
-meta_description: "The Importance Of Throwing A Christmas Party | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Why your company should throw a Christmas party. How festive events with games and entertainment boost staff morale and team spirit."
 redirect_from:
   - "/news/2018-09-12/the-importance-of-throwing-the-company-christmas-party/"
 ---

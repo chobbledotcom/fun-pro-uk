@@ -4,7 +4,7 @@ subtitle: "February is known as the month of love, with February 14th, Valentine
 date: 2019-01-30
 author: "team/liz.md"
 meta_title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"
-meta_description: "7 Ways To Show Your Staff Appreciation | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Seven ways to show your staff appreciation. From thank-you notes and team events to company awards and fun days that boost workplace morale."
 redirect_from:
   - "/news/2019-01-30/7-ways-to-show-your-staff-some-love/"
 ---

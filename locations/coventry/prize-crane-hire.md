@@ -1,7 +1,7 @@
 ---
 title: "Prize Crane Hire"
 meta_title: "Prize Crane Hire Coventry | Events | Fun Pro UK"
-meta_description: "Prize Crane Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire a prize crane grabber machine in Coventry for exhibitions, promotions and events. Fill it with your branded prizes. Delivered from our local base."
 redirect_from:
   - "/pages/prize-crane-hire-coventry/"
 thumbnail: /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-1.jpg

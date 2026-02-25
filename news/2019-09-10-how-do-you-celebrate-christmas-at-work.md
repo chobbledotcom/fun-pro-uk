@@ -4,7 +4,7 @@ subtitle: "You snow the drill!🎄 Christmas - The most wonderful time of the ye
 date: 2019-09-10
 author: "team/liz.md"
 meta_title: "How Do You Celebrate Christmas At Work? | Fun Pro UK"
-meta_description: "How Do You Celebrate Christmas At Work? | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "How to celebrate Christmas at work. Ideas for festive photo booths, Santa grottos, dance machines and interactive games for office parties."
 redirect_from:
   - "/news/2019-09-10/how-do-you-celebrate-christmas-at-work/"
 gallery:

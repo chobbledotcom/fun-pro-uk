@@ -4,9 +4,7 @@ subtitle: Pick and mix sweet stand with branded display options
 price: £550
 order: 50
 meta_title: Pick N Mix Hire | Sweet Stand Hire | Fun Pro UK
-meta_description: Hire our Pick N Mix sweet stand with 19 trays of assorted
-  sweets for corporate events, fun days, and exhibitions. Branded display
-  options available. UK wide delivery.
+meta_description: Hire our Pick N Mix sweet stand with 19 trays of assorted sweets for corporate events, fun days and exhibitions. Branded display options. UK delivery.
 categories:
   - categories/fun-foods.md
   - categories/arcade-games.md

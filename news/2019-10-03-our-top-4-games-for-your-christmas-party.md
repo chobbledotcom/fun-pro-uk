@@ -4,7 +4,7 @@ subtitle: "Christmas our favourite times of the year with the excitement and fun
 date: 2019-10-03
 author: "team/liz.md"
 meta_title: "Top 4 Christmas Party Games For Your Event | Fun Pro UK"
-meta_description: "Top 4 Christmas Party Games For Your Event | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Our top four games for your Christmas party. Interactive entertainment ideas to make your festive work event fun and memorable for everyone."
 redirect_from:
   - "/news/2019-10-03/our-top-4-games-for-your-christmas-party/"
 gallery:

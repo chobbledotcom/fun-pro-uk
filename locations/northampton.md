@@ -1,7 +1,7 @@
 ---
 title: "Northampton"
 meta_title: "Event & Game Hire Northampton | Fun Pro UK"
-meta_description: "Event and game hire in Northampton. Interactive games, photo booths, branded games and catering for corporate events, celebrations and fun days across Northamptonshire."
+meta_description: "Event and game hire in Northampton. Interactive games, photo booths, branded games and catering for corporate events and fun days across Northamptonshire."
 redirect_from:
   - "/pages/northampton/"
 subtitle: "Event hire for England's shoe capital and beyond"

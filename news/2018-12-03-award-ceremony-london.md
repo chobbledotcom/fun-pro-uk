@@ -4,7 +4,7 @@ subtitle: "Thursday saw team Fun Pro UK bring the fun to an awards party for a l
 date: 2018-12-03
 author: "team/liz.md"
 meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
-meta_description: "Award Ceremony London – Event Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Branded green screen photo booth at a London corporate awards night. See how we delivered entertainment for a major aviation company event."
 redirect_from:
   - "/news/2018-12-03/award-ceremony-london/"
 ---

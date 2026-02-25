@@ -4,7 +4,7 @@ subtitle: "Once again the guests who were in attendance at David & Michael's wed
 date: 2017-05-08
 author: "team/colin.md"
 meta_title: "Woodside Weddings – Entertainment Hire For Events"
-meta_description: "Woodside Weddings – Entertainment Hire For Events - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Wedding entertainment at the Woodside Hotel. Our Magic Mirror and photo booth brought fun and laughter to a beautiful Kenilworth celebration."
 redirect_from:
   - "/news/2017-05-08/woodside-weddings/"
 ---

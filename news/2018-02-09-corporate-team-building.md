@@ -4,7 +4,7 @@ subtitle: "Our team have had a busy week. One of our events was a team building 
 date: 2018-02-09
 author: "team/colin.md"
 meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
-meta_description: "Corporate Team Building – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Corporate team building at The Welcome Centre in Coventry. Retro arcade games, Magic Mirror, giant buzz wire and Strike a Light for staff."
 redirect_from:
   - "/news/2018-02-09/corporate-team-building/"
 ---

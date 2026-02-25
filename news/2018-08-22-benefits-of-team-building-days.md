@@ -4,7 +4,7 @@ subtitle: "In every corporate business there is a variety of people interacting 
 date: 2018-08-22
 author: "team/liz.md"
 meta_title: "Benefits Of Team Building Days – Game Hire Solutions"
-meta_description: "Benefits Of Team Building Days – Game Hire Solutions - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "The benefits of team building days for your company. How interactive games and group activities improve communication, morale and productivity."
 redirect_from:
   - "/news/2018-08-22/benefits-of-team-building-days/"
 ---

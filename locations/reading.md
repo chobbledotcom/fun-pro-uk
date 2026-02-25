@@ -1,7 +1,7 @@
 ---
 title: "Reading"
 meta_title: "Event Hire Reading | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Reading and the Thames Valley. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations."
+meta_description: "Event and game hire in Reading and the Thames Valley. Interactive games, photo booths and branded entertainment for corporate events and conferences."
 redirect_from:
   - "/pages/reading/"
 subtitle: "Event hire for the Thames Valley business community"

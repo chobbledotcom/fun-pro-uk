@@ -1,7 +1,7 @@
 ---
 title: "Leicester"
 meta_title: "Event Hire Leicester | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Leicester. Interactive games, photo booths, branded exhibition games and catering for corporate events, parties and celebrations across the East Midlands."
+meta_description: "Event and game hire in Leicester. Interactive games, photo booths and branded exhibition games for corporate events and parties in the East Midlands."
 redirect_from:
   - "/pages/leicester/"
 subtitle: "Entertainment with better odds than 5000-to-1"

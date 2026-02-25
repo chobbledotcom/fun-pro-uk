@@ -1,7 +1,7 @@
 ---
 title: "Oxford"
 meta_title: "Event Hire Oxford | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Oxford. Interactive games, photo booths, branded exhibition entertainment and fun food catering for corporate events, conferences and celebrations."
+meta_description: "Event and game hire in Oxford. Interactive games, photo booths and branded exhibition entertainment for corporate events, conferences and celebrations."
 redirect_from:
   - "/pages/oxford/"
 subtitle: "Event hire for Oxford's corporate and university events"

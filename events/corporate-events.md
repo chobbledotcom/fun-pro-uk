@@ -2,7 +2,7 @@
 title: "Corporate Events"
 subtitle: "Games for team days, client events and company parties"
 meta_title: "Corporate Event Entertainment Hire | Fun Pro UK"
-meta_description: "Interactive game hire for corporate events, team building days, award ceremonies and staff parties. Trusted by Rolls-Royce, KPMG and Virgin Media O2. Nationwide delivery from Coventry."
+meta_description: "Interactive game hire for corporate events, team building days, award ceremonies and staff parties. Trusted by Rolls-Royce, KPMG and Virgin Media O2."
 featured: true
 thumbnail: /images/events/corporate-events.jpg
 redirect_from:

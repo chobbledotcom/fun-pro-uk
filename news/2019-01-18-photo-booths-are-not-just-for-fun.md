@@ -4,7 +4,7 @@ subtitle: "Photo booths and Magic Mirrors add a lot of fun to an event. From Chr
 date: 2019-01-18
 author: "team/colin.md"
 meta_title: "Photo Booths – Not Just For Fun Events | Fun Pro UK"
-meta_description: "Photo Booths – Not Just For Fun Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Photo booths do more than entertain. Discover how branded photo booths can boost your marketing, capture data and increase social media engagement."
 redirect_from:
   - "/news/2019-01-18/photo-booths-are-not-just-for-fun/"
 ---

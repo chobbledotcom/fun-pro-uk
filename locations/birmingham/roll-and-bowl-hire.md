@@ -1,7 +1,7 @@
 ---
 title: "Roll & Bowl Hire"
 meta_title: "Roll & Bowl Game Hire Birmingham | Fun Pro UK"
-meta_description: "Roll and Bowl Hire Birmingham - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire the Roll and Bowl game in Birmingham for corporate events, team days and parties. A competitive bowling game delivered to venues across Birmingham."
 redirect_from:
   - "/pages/roll-and-bowl-hire-birmingham/"
 videos:

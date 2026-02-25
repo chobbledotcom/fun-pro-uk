@@ -1,7 +1,7 @@
 ---
 title: "Whack a Mole Hire"
 meta_title: "Whack a Mole Hire Birmingham | Events | Fun Pro UK"
-meta_description: "Whack a Mole Hire Birmingham - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire Whack a Mole in Birmingham for corporate events, parties and exhibitions. A classic arcade game delivered to venues across Birmingham and the NEC."
 redirect_from:
   - "/pages/whack-a-mole-hire-birmingham/"
 thumbnail: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-1.jpg

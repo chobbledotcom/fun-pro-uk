@@ -4,7 +4,7 @@ subtitle: "Did you hear that we recently moved premises? Why, I hear you ask. He
 date: 2018-12-12
 author: "team/liz.md"
 meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
-meta_description: "We Have Moved – Event Game Hire Updates | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK has moved to bigger premises to meet growing demand. Our new space lets us offer a wider range of interactive games and photo booths."
 redirect_from:
   - "/news/2018-12-12/did-you-know-we-have-moved/"
 ---

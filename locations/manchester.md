@@ -1,7 +1,7 @@
 ---
 title: "Manchester"
 meta_title: "Event Hire Manchester | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Manchester. Interactive games, photo booths, branded exhibition entertainment and catering for corporate events, conferences and celebrations."
+meta_description: "Event and game hire in Manchester. Interactive games, photo booths and branded exhibition entertainment for corporate events, conferences and celebrations."
 redirect_from:
   - "/pages/manchester/"
 subtitle: "Event hire for the capital of the North"

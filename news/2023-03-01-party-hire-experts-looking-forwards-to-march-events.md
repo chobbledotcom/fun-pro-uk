@@ -4,7 +4,7 @@ subtitle: "We're thrilled to share some exciting updates about our event supply 
 date: 2023-03-01
 author: "team/colin.md"
 meta_title: "Looking Forward To March Events – Game Rentals | Fun Pro UK"
-meta_description: "Looking Forward To March Events – Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Fun Pro UK looks ahead to March events. Branded game hire for exhibitions and trade shows including Batak Pro, Crack the Code and Prize Crane."
 redirect_from:
   - "/news/2023-03-01/party-hire-experts-looking-forwards-to-march-events/"
 gallery:

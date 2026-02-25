@@ -4,7 +4,7 @@ subtitle: "Do your staff work hard to make your business complete and successful
 date: 2019-03-18
 author: "team/colin.md"
 meta_title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"
-meta_description: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Corporate fun days really can be fun. How interactive games, inflatables and team activities turn a company event into a memorable day for staff."
 redirect_from:
   - "/news/2019-03-18/corporate-fun-days-can-be-fun/"
 gallery:

@@ -4,7 +4,7 @@ subtitle: "Well it's officially December and the countdown to Christmas can star
 date: 2019-12-01
 author: "team/colin.md"
 meta_title: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK"
-meta_description: "It’s Not Too Late – Last-minute Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Still need entertainment for your Christmas party? It is not too late to book interactive games, photo booths and festive fun from Fun Pro UK."
 redirect_from:
   - "/news/2019-12-01/its-not-too-late/"
 gallery:

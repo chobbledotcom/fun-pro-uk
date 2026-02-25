@@ -4,7 +4,7 @@ subtitle: "On Saturday night we helped celebrate the wonderful wedding of Mr and
 date: 2017-03-14
 author: "team/liz.md"
 meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
-meta_description: "Mr And Mrs Bull Wedding – Event Entertainment Services - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Wedding entertainment for Mr and Mrs Bull in Northampton. Our Magic Mirror captured the celebrations with personalised prints and guest photos."
 redirect_from:
   - "/news/2017-03-14/mr-and-mrs-bull-in-northampton/"
 ---

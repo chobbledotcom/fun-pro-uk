@@ -4,7 +4,7 @@ subtitle: "Successful events don't happen by accident. They take a lot of time, 
 date: 2018-06-10
 author: "team/colin.md"
 meta_title: "5 Tips For Running A Successful Event – Game Rentals"
-meta_description: "5 Tips For Running A Successful Event – Game Rentals - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Five practical tips for running a successful corporate event. From planning and marketing to entertainment, logistics and post-event follow-up."
 redirect_from:
   - "/news/2018-06-10/5-tips-for-running-a-successful-event/"
 ---

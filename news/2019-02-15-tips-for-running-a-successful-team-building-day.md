@@ -4,7 +4,7 @@ subtitle: "Team building days are a great way to bring your team together, impro
 date: 2019-02-15
 author: "team/liz.md"
 meta_title: "Tips For Successful Team Building Events | Fun Pro UK"
-meta_description: "Tips For Successful Team Building Events | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Six practical tips for a successful team building day. From choosing the right venue and activities to setting expectations and following up."
 redirect_from:
   - "/news/2019-02-15/tips-for-running-a-successful-team-building-day/"
 ---

@@ -4,7 +4,7 @@ subtitle: "Another fantastic review received from one of our many happy Perfects
 date: 2016-12-19
 author: "team/colin.md"
 meta_title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"
-meta_description: "Another Great Review – Fun Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Another five-star review for Fun Pro UK. Read what our customers say about our Magic Mirror hire and the professional service we provide."
 redirect_from:
   - "/news/2016-12-19/another-great-review/"
 ---

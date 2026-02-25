@@ -2,7 +2,7 @@
 title: "Exhibition Games"
 subtitle: "Interactive games to hire for stands and expos"
 meta_title: "How to Plan Your Exhibition Stand Entertainment | Fun Pro UK"
-meta_description: "Practical guide to choosing games for your exhibition stand. Stand placement, footfall tips, branding options and what works at venues from the NEC to smaller expos."
+meta_description: "Guide to choosing games for your exhibition stand. Stand placement, footfall tips, branding options and what works at venues from the NEC to smaller expos."
 featured: true
 thumbnail: /images/events/exhibition-games.jpg
 redirect_from:

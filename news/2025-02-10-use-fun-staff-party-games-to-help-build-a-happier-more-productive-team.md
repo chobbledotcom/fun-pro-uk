@@ -4,7 +4,7 @@ subtitle: "Staff parties are a great way to encourage team bonding and make ever
 date: 2025-02-10
 author: "team/colin.md"
 meta_title: "Fun Staff Party Games I Discover Ideas for Team Bonding & Increased"
-meta_description: "From interactive arcade machines to engaging group activities, Fun Pro has a range of interactive party games to help your team bond, and boost workplace productivity."
+meta_description: "Interactive party games to help your team bond and boost workplace productivity. From arcade machines to group activities, Fun Pro UK has it covered."
 redirect_from:
   - "/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/"
 ---

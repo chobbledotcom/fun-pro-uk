@@ -4,7 +4,7 @@ subtitle: "Happy 40th to the Boss!! When we received a last minute call asking h
 date: 2022-03-25
 author: "team/liz.md"
 meta_title: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK"
-meta_description: "Happy 40th To The Boss! – Event Game Hire | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "A surprise 40th birthday at work with our rodeo bull hire. How a last-minute booking turned a Nuneaton workplace into a party venue."
 redirect_from:
   - "/news/2022-03-25/happy-40th-to-the-boss/"
 gallery:

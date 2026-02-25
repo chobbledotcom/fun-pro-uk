@@ -4,7 +4,7 @@ subtitle: "Are you one of the thousands of people who set a new year's resolutio
 date: 2019-01-04
 author: "team/liz.md"
 meta_title: "Get Organised For Your Event – Game Hire Nationwide"
-meta_description: "Get Organised For Your Event – Game Hire Nationwide - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Get organised for your 2019 events early. Tips on planning corporate entertainment, booking games and securing dates for your key occasions."
 redirect_from:
   - "/news/2019-01-04/get-organised/"
 ---

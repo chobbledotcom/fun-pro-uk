@@ -4,7 +4,7 @@ subtitle: "We recently visited a long-standing client of ours to deliver our Mag
 date: 2018-10-31
 author: "team/liz.md"
 meta_title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"
-meta_description: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Our Magic Mirror at Wasps rugby for pre-match hospitality. Compact, brandable and perfect for award ceremonies, exhibitions and product launches."
 redirect_from:
   - "/news/2018-10-31/mirror-mirror-out-at-wasps-where-will-i-go-next/"
 ---

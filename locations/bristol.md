@@ -1,7 +1,7 @@
 ---
 title: "Bristol"
 meta_title: "Event Hire Bristol | Interactive Games & Entertainment | Fun Pro UK"
-meta_description: "Event and game hire in Bristol. Interactive games, photo booths, branded exhibition games and catering for corporate events, parties and celebrations across the Southwest."
+meta_description: "Event and game hire in Bristol. Interactive games, photo booths and branded exhibition games for corporate events, parties and celebrations in the Southwest."
 redirect_from:
   - "/pages/bristol/"
 subtitle: "Event hire from the Harbourside to the Suspension Bridge"

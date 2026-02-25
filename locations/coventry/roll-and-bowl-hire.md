@@ -1,7 +1,7 @@
 ---
 title: "Roll & Bowl Hire"
 meta_title: "Roll & Bowl Game Hire Coventry | Fun Pro UK"
-meta_description: "Roll and Bowl Hire Coventry - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Hire the Roll and Bowl game in Coventry for corporate events, team days and parties. A competitive bowling game delivered from our local Coventry base."
 redirect_from:
   - "/pages/roll-and-bowl-hire-coventry/"
 videos:

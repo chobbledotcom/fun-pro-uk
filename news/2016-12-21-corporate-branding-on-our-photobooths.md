@@ -4,7 +4,7 @@ subtitle: "Arranging your Corporate Event? Let Perfect Snap help with organising
 date: 2016-12-21
 author: "team/colin.md"
 meta_title: "Corporate Branding Photobooths – Custom Event Solutions"
-meta_description: "Corporate Branding Photobooths – Custom Event Solutions - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Add your company branding to our photo booths. Custom overlays, logos and themed prints for corporate events, exhibitions and product launches."
 redirect_from:
   - "/news/2016-12-21/corporate-branding-on-our-photobooths/"
 ---

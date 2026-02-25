@@ -2,7 +2,7 @@
 title: "College Entertainment"
 subtitle: "Games for open days, freshers and end-of-term"
 meta_title: "College & Sixth Form Entertainment Hire | Fun Pro UK"
-meta_description: "Game hire for college events, sixth form proms, enrichment days and end-of-year celebrations. Age-appropriate entertainment for 16-18 year old students. Nationwide delivery."
+meta_description: "Game hire for college events, sixth form proms, enrichment days and end-of-year celebrations. Age-appropriate entertainment for 16-18 students. UK delivery."
 featured: true
 thumbnail: /images/events/college-entertainment.jpg
 redirect_from:

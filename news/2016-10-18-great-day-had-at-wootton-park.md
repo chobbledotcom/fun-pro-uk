@@ -4,7 +4,7 @@ subtitle: "On Sunday 17th October 2016 Perfect Snap attended the wedding fair at
 date: 2016-10-18
 author: "team/colin.md"
 meta_title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
-meta_description: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "A great day at Wootton Park wedding fair. Our Magic Mirror generated plenty of interest from couples planning their Warwickshire weddings."
 redirect_from:
   - "/news/2016-10-18/great-day-had-at-wootton-park/"
 ---

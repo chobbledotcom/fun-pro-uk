@@ -4,7 +4,7 @@ subtitle: "Ensuring your employees have sufficient down time is becoming an ever
 date: 2018-12-05
 author: "team/colin.md"
 meta_title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"
-meta_description: "Why Hire Corporate Entertainment With Us? | Fun Pro UK - Fun Pro UK provide the best Exhibition and Game Hire service in Nationwide, offering a wide range of event equipment. Contact us today!"
+meta_description: "Why hire corporate entertainment from Fun Pro UK? Professional service, wide game selection, branded options and nationwide delivery for events."
 redirect_from:
   - "/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
 ---
