@@ -17,4 +17,4 @@ Our office hours are Monday to Friday between 10am - 5pm.
 
 Please check your spam or junk folders regularly in case our email has been incorrectly marked as spam.
 
-![](/userfiles/file/FunPro/Logo/long-logo.png)
+![](/images/pages/long-logo.png)

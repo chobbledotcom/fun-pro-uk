@@ -8,7 +8,7 @@ redirect_from:
 
 # How Virgin Media O2 Built Team Spirit Across the UK with FunPro's Touring Festival Games
 
-![](/userfiles/fun-pro-strike-a-light.jpg)
+![](/images/pages/fun-pro-strike-a-light.jpg)
 
 Learn how Virgin Media O2 created consistent, engaging summer festival experiences for their Field Engineering and Operations teams across multiple UK locations by partnering with FunPro UK for three consecutive years, delivering [interactive entertainment](/categories/interactive-game-hire/#content) that kept staff energised and connected from Manchester to Glasgow.
 
@@ -36,7 +36,7 @@ Virgin Media O2 is one of the UK's leading telecommunications and media companie
 
 ## About Virgin Media O2's FEO Fest Initiative
 
-![](/userfiles/fun-pro-interactive-game-with-virgin-media-o2.jpg)
+![](/images/pages/fun-pro-interactive-game-with-virgin-media-o2.jpg)
 
 Virgin Media O2 understands that their field engineers and operations teams are the backbone of their service delivery. These dedicated professionals work across the country, often in challenging conditions, to ensure customers stay connected. Recognising the importance of team morale and appreciation, Virgin Media O2 developed FEO Fest (Field Engineering and Operations Fest), a summer festival-themed initiative designed to bring fun, relaxation, and team-building opportunities to their distributed workforce.
 
@@ -60,7 +60,7 @@ Throughout the 2024 tour, the consistency of experience was crucial. Field engin
 
 ## Evolving the Entertainment Mix
 
-![](/userfiles/strike-a-light-fun-pro-uk.jpg)
+![](/images/pages/strike-a-light-fun-pro-uk.jpg)
 
 By 2025, Virgin Media O2 was ready to expand the programme again, booking FunPro for May through August with continued multi-location delivery. This time, however, they wanted to evolve the entertainment offering. Having established the festival format successfully in 2024, they sought to add more variety and excitement whilst retaining the reliable favourites.
 

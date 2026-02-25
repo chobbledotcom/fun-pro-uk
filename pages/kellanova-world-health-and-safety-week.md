@@ -8,7 +8,7 @@ redirect_from:
 
 # How Kellanova Brought Health and Safety to Life with Interactive Entertainment
 
-![](/userfiles/custom-branded-whack-a-mole.jpg)
+![](/images/pages/custom-branded-whack-a-mole.jpg)
 
 ## Customer Profile
 
@@ -40,7 +40,7 @@ Having worked with Fun Pro previously, the client knew the team's capability for
 
 ## Creating an Interactive Safety Experience
 
-![](/userfiles/fun-pro-whack-a-mole-game.jpg)
+![](/images/pages/fun-pro-whack-a-mole-game.jpg)
 
 As told to Fun Pro by the Kellanova Manchester events team.
 
@@ -102,6 +102,6 @@ Throughout the project, Fun Pro's coordination team maintained communication wit
 
 ## Ready to Make Your Corporate Campaign More Engaging?
 
-![](/userfiles/fun-pro-kellanova-whack-a-mole-game.jpg)
+![](/images/pages/fun-pro-kellanova-whack-a-mole-game.jpg)
 
 If you're planning a health and safety initiative, employee engagement event, or corporate campaign that needs to create genuine interaction and memorable experiences, [Fun Pro's team](/meet-the-team/#content) would be pleased to discuss how customised interactive entertainment could support your objectives. With over 15 years of experience working with corporate clients [nationwide](/delivery-areas/#content), we understand how to create solutions that work within manufacturing environments, office settings, and everything in between. [Contact](/contact-fun-pro-uk/#content) our friendly team to start planning your next event.

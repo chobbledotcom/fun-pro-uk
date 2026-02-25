@@ -8,7 +8,7 @@ redirect_from:
 
 # How Zoflora Captured Buyer Attention at Home Bargains Conference with Custom-Branded Interactive Games
 
-![](/userfiles/zoflora-interactive-games.jpg)
+![](/images/pages/zoflora-interactive-games.jpg)
 
 Learn how Zoflora, one of Britain's most recognisable household cleaning brands, boosted engagement with retail buyers at the Home Bargains Conference by utilising FunPro's fully customised [Batak Lite](/products/batak-lite/#content) speed reaction game. The [branded](/events/brand-activation/#content) interactive experience helped Zoflora stand out amongst major household names, creating memorable touchpoints with key decision-makers and securing a repeat booking for the following year.
 
@@ -38,7 +38,7 @@ Zoflora is a leading name in the UK household cleaning and disinfectants industr
 
 ## About Zoflora
 
-![](/userfiles/fun-pro-zoflora.jpg)
+![](/images/pages/fun-pro-zoflora.jpg)
 
 Zoflora has built a reputation as one of Britain's most trusted household cleaning brands, with their distinctive concentrated disinfectants becoming a staple in homes throughout the UK. The brand's success lies in their ability to combine effective cleaning power with pleasant fragrances, transforming routine household tasks into more enjoyable experiences. As consumer preferences evolve and competition intensifies within the household cleaning sector, Zoflora understands the importance of maintaining strong relationships with major retailers.
 
@@ -50,7 +50,7 @@ After their initial enquiry about interactive games, including consideration of 
 
 ## Creating a Fully Branded Interactive Experience
 
-![](/userfiles/zoflora-interactive-game-fun-pro.jpg)
+![](/images/pages/zoflora-interactive-game-fun-pro.jpg)
 
 As told to FunPro by the Zoflora events team.
 

@@ -8,7 +8,7 @@ redirect_from:
 
 # How Tilda Rice Created Queue-Worthy Community Engagement Across Multiple UK Mela Events
 
-![](/userfiles/fun-pro-tilda-rice.jpg)
+![](/images/pages/fun-pro-tilda-rice.jpg)
 
 Learn how Tilda Rice, the UK's leading rice and grain specialist, transformed their community event presence by utilising FunPro's bespoke [branded game hire](/events/brand-activation/#content), creating irresistible crowd engagement that had festival-goers queuing all day long at Mela celebrations across Glasgow, Cardiff, Leicester, and London.
 
@@ -66,7 +66,7 @@ The logistics of moving this customised setup across four different cities also 
 
 ## Results and Future Community Engagement
 
-![](/userfiles/tilda-branded-roll-and-bowl.jpg)
+![](/images/pages/tilda-branded-roll-and-bowl.jpg)
 
 The success of Tilda's [branded Roll and Bowl](/products/roll-and-bowl-game-hire/#content) activation exceeded all expectations. At each Mela event, the game became a focal point that drew families to the Tilda stand throughout the day. "The queues were constant," reported the events team. "Children would play, then bring their parents back to play again. It created exactly the kind of positive family associations we were hoping for."
 
@@ -80,7 +80,7 @@ Looking ahead, Tilda is planning to expand their community event calendar and ex
 
 ## FunPro UK Team Spotlight
 
-![](/userfiles/fun-pro-tilda-rice-brand-activation-game.jpg)
+![](/images/pages/fun-pro-tilda-rice-brand-activation-game.jpg)
 
 The success of Tilda's community engagement programme showcases the collaborative expertise of FunPro UK's specialist teams. The in-house print team played a crucial role in bringing Tilda's vision to life, working directly with the client's brand guidelines to ensure every design element maintained consistency whilst enhancing the gaming experience.
 

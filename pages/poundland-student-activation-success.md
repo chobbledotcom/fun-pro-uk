@@ -8,7 +8,7 @@ redirect_from:
 
 # How Poundland Manchester Boosted Student Engagement with Last-Minute Activation Success
 
-![](/userfiles/fun-pro-uk-poundland-manchester.jpg)
+![](/images/pages/fun-pro-uk-poundland-manchester.jpg)
 
 Learn how Poundland Manchester transformed a busy Saturday into an engaging fresher student activation by utilising FunPro's custom branded [prize wheel](/products/prize-wheel/#content) game, delivered at short notice to create memorable gamification experiences that drew crowds and increased student engagement in their Manchester store.
 
@@ -38,7 +38,7 @@ Poundland is the UK's leading variety discount retailer, operating over 800 stor
 
 ## About Poundland Manchester
 
-![](/userfiles/poundlands-manchester-store.jpg)
+![](/images/pages/poundlands-manchester-store.jpg)
 
 Poundland's Manchester store serves one of the UK's most vibrant student cities, home to over 100,000 university students across multiple institutions including the University of Manchester and Manchester Metropolitan University. During [freshers week](/freshers-entertainment-ideas/#content), the city buzzes with energy as thousands of new students arrive, creating a crucial opportunity for retailers to establish relationships with this important demographic.
 
@@ -78,7 +78,7 @@ The custom branding extended beyond aesthetics to functionality. The wheel segme
 
 ## Implementation and Immediate Impact
 
-![](/userfiles/fun-pro-pounland-manchester.jpg)
+![](/images/pages/fun-pro-pounland-manchester.jpg)
 
 As told to FunPro by the Poundland Manchester Store Management Team.
 
@@ -112,6 +112,6 @@ FunPro's custom branding capabilities meant the prize wheel wasn't just function
 
 ## Ready to Create Your Own Success Story?
 
-![](/userfiles/poundland-manchester-fun-pro.jpg)
+![](/images/pages/poundland-manchester-fun-pro.jpg)
 
 If you're planning student activations, retail promotions, or any event where engagement matters, [contact our friendly team](/contact-fun-pro-uk/#content) to discuss how FunPro's interactive solutions can help you achieve your objectives, even with short notice requirements.
