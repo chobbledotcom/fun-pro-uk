@@ -2187,6 +2187,9 @@ ol.steps {
 .faqs-container {
   @include section-padding;
   background-color: #fff;
+  .fun-pro-item & {
+    background: none;
+  }
   h2 {
     @include heading;
     text-align: center;
