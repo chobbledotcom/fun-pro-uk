@@ -5,6 +5,7 @@ meta_description: "Event and game hire in Gloucester and Cheltenham. Interactive
 redirect_from:
   - "/pages/gloucester/"
 subtitle: "Event hire across Gloucestershire and the Cotswolds"
+thumbnail: "images/locations/gloucester.jpg"
 ---
 
 # Event Hire Gloucester

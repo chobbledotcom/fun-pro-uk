@@ -5,6 +5,7 @@ meta_description: "Looking for corporate event hire in Reading? Fun Pro UK provi
 redirect_from:
   - "/pages/reading-corporate-event-hire/"
   - "/reading-corporate-event-hire/"
+thumbnail: /images/locations/reading.jpg
 ---
 
 # Corporate Event Hire Reading

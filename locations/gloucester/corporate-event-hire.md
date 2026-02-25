@@ -4,6 +4,7 @@ meta_title: "Corporate Event Hire Gloucester"
 meta_description: "Looking for corporate event hire in Gloucester? Fun Pro UK provides interactive games, photo booths and entertainment for all events."
 redirect_from:
   - "/pages/gloucester-corporate-event-hire/"
+thumbnail: /images/locations/gloucester.jpg
 ---
 
 # Corporate Event Hire Gloucester

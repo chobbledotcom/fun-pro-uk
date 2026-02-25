@@ -5,6 +5,7 @@ meta_description: "Looking for corporate event hire in Oxford? Fun Pro UK provid
 redirect_from:
   - "/pages/oxford-corporate-event-hire/"
   - "/oxford-corporate-event-hire/"
+thumbnail: /images/locations/oxford.jpg
 ---
 
 # Corporate Event Hire Oxford

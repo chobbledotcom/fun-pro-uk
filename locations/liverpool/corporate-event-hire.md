@@ -5,6 +5,7 @@ meta_description: "Looking for corporate event hire in Liverpool? Fun Pro UK pro
 redirect_from:
   - "/pages/liverpool-corporate-event-hire/"
   - "/liverpool-corporate-event-hire/"
+thumbnail: /images/locations/liverpool.jpg
 ---
 
 # Corporate Event Hire Liverpool
