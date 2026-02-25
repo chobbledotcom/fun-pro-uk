@@ -41,7 +41,7 @@ layout: base
       {{ content }}
     </div>
     <div class="item-cart-buttons">
-      <a href="#branding" class="button">+ Add Custom Branding</a>
+      <a href="#add-ons" class="button">+ Add Custom Branding</a>
       {% include "product-options.html" %}
       {%- if videos.size > 0 -%}
         <div class="design-system">
@@ -54,7 +54,7 @@ layout: base
       {% include "tabs.html" %}
     </div>
     {%- if reviews.size > 0 -%}
-    <div class="item-reviews">
+    <div id="reviews" class="item-reviews">
         <h2>Hear What Our Clients Have To Say</h2>
         <h3>Customer Reviews on Google</h3>
         <p>
