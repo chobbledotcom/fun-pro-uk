@@ -137,7 +137,7 @@ faqs:
     answer: Yes, the Branded Capsule Bin works well for brand activations,
       exhibitions, corporate events, and promotional campaigns where you want
       interactive prize distribution.
-thumbnail: /images/Capsule Bin Foot locker.jpg
+thumbnail: /images/capsule-bin-foot-locker.jpg
 gallery:
   - /images/0655c9a4-a2d6-43eb-ab41-599ce0389296.jpg
 price: £195

@@ -86,8 +86,8 @@ gallery:
   - /images/products/prize-wheel/prize-wheel-3.jpg
   - /images/products/prize-wheel/2e176dd7-8b3b-4b2a-91db-a5db5ed8b990.jpg
   - /images/products/prize-wheel/IMG-20240603-WA0024.jpg
-  - /images/products/prize-wheel/IMG-20250915-WA0004 1.jpg
-  - /images/products/prize-wheel/Prize wheel 1.jpeg
+  - /images/products/prize-wheel/img-20250915-wa0004-1.jpg
+  - /images/products/prize-wheel/prize-wheel-1.jpeg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095
@@ -118,7 +118,7 @@ add_ons:
       price: 190
 tabs:
   - title: Why Prize Wheel?
-    image: /images/products/prize-wheel/Prize wheel 1.jpeg
+    image: /images/products/prize-wheel/prize-wheel-1.jpeg
     body: >-
       Guaranteed to be a crowd pleaser, our branded Prize Wheel game will entice
       clients to your exhibition stand, trade show booth, or in-store
@@ -161,7 +161,7 @@ tabs:
       local restaurant or shop. The wheel can run continuously throughout your
       event or be used for scheduled prize-giving moments.
   - title: Why It's A Crowd Favourite
-    image: /images/products/prize-wheel/IMG-20250915-WA0004 1.jpg
+    image: /images/products/prize-wheel/img-20250915-wa0004-1.jpg
     body: >-
       The Exhibition Prize Wheel works exceedingly well at any corporate event
       where you wish to increase footfall, enabling you to interact with

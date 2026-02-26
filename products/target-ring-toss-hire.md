@@ -74,8 +74,7 @@ options:
 redirect_from:
   - /category/fun-fair-stalls/95/target-ring-toss-hire/
 gallery:
-  - /images/products/target-ring-toss-hire/WhatsApp Image 2026-02-07 at 9.38.45
-    PM (1).jpeg
+  - /images/products/target-ring-toss-hire/whatsapp-image-2026-02-07-at-9.38.45-pm-1.jpeg
   - /images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae
@@ -189,6 +188,5 @@ tabs:
       Once the event is over, we'll return to collect the game, leaving your
       venue exactly as we found it. If you require additional onsite assistance
       during the event, our team is just one call away.
-thumbnail: /images/products/target-ring-toss-hire/WhatsApp Image 2026-02-07 at
-  9.38.45 PM (1).jpeg
+thumbnail: /images/products/target-ring-toss-hire/whatsapp-image-2026-02-07-at-9.38.45-pm-1.jpeg
 ---

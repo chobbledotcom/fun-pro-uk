@@ -81,8 +81,7 @@ options:
 redirect_from:
   - /category/arcade-games/48/high-striker/
 gallery:
-  - /images/products/high-striker/WhatsApp Image 2026-02-07 at 6.51.39 PM
-    (2).jpeg
+  - /images/products/high-striker/whatsapp-image-2026-02-07-at-6.51.39-pm-2.jpeg
   - /images/products/high-striker/high-striker-1.jpg
   - /images/products/high-striker/high-striker-2.jpg
   - /images/products/high-striker/high-striker-3.jpg

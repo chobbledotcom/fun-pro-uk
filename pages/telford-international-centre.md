@@ -8,7 +8,7 @@ redirect_from:
 
 # Telford International Centre
 
-The **[International Centre in Telford](https://www.theinternationalcentretelford.com/)** is a centralised venue with a grand capacity to hold events such as Trade Shows, Conferences, Exhibitions and much more. Situated in the middle of Telford town centre it is an ideal location for events and evening entertainment.
+The **[International Centre in Telford](https://www.tictelford.com/)** is a centralised venue with a grand capacity to hold events such as Trade Shows, Conferences, Exhibitions and much more. Situated in the middle of Telford town centre it is an ideal location for events and evening entertainment.
 
 Fun Pro Uk has a base on the outskirts of the West Midlands which is an ideal corridor for delivery to Telford, Shropshire.
 
@@ -26,4 +26,4 @@ Want to attract and influence new clients at your event? Then check out the inte
 
 Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-Here are some events that are coming up at the Telford International Centre: [Click here to find out more](https://www.theinternationalcentretelford.com/services/)
+Here are some events that are coming up at the Telford International Centre: [Click here to find out more](https://www.tictelford.com/upcoming-events/)
