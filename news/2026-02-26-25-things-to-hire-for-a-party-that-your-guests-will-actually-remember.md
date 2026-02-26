@@ -1,6 +1,6 @@
 ---
 title: 25 Things to Hire for a Party That Your Guests Will Actually Remember
-date: 2026-01-27
+date: 2026-02-27
 author: team/colin.md
 meta_title: "25 Things to Hire for a Party | Ideas for Every Event Type "
 meta_description: Discover 25 party hire ideas for corporate events,
