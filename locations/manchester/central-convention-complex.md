@@ -25,6 +25,6 @@ Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central
 ## Branded Game Hire
 **Branded game hire Manchester** is another option that we are able to supply for you. All of our interactive game hire will instantly stand out from the crowd and increase your marketing potential with your company logo brightly printed on the games for all to see.
 
-Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Contact us today to find out how we can help you. Tel: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Here are some events that are coming up at the **Manchester** G-Mex: [Click here to find out more](https://www.manchestercentral.co.uk/events)

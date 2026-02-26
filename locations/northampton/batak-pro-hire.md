@@ -43,7 +43,7 @@ In-house branding available. Printed, applied & removed after each event (one ti
 
 Please contact us to find out more.
 
-**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
+**For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [0247 7220 701](tel:+442477220701)
 
 **Equipment size**
 

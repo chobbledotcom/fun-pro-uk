@@ -27,4 +27,4 @@ Grab a Grand games and Cash Cubes are not just about the thrill of the catch; th
 
 We offer nationwide delivery of our Grab a Grand machines, bringing the fun to locations across the UK including London, Manchester, Leeds, Glasgow, and beyond. No matter where your event is, we ensure a seamless service from delivery and installation to collection, letting you focus on enjoying the event.
 
-Whether you're planning a corporate function, a festive celebration, or looking to entertain guests at a wedding, our Grab a Grand games are the perfect addition. [Contact us online](/contact-fun-pro-uk) or call [0247 7220 701](tel:02477220701) to find out about the excitement we could bring to your next event.
+Whether you're planning a corporate function, a festive celebration, or looking to entertain guests at a wedding, our Grab a Grand games are the perfect addition. [Contact us online](/contact-fun-pro-uk) or call [0247 7220 701](tel:+442477220701) to find out about the excitement we could bring to your next event.

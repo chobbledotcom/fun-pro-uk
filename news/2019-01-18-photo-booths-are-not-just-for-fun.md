@@ -22,6 +22,6 @@ Photo booths and Magic Mirrors also add more than just fun at promotional events
 
 So, as you can see photo booths and magic mirrors are more than just fun. They add value to us as individuals as well as companies. Talk to us about how we can help you enjoy the benefits of photo booths or magic mirrors at your next event.
 
-Call: 02476 629197
+Call: 0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

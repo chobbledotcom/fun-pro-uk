@@ -20,7 +20,7 @@ Sales team hours
 
 Email address: [**info@funprouk.co.uk**](mailto:info@funprouk.co.uk)
 
-Phone number: [**02477220701**](tel:02477220701)
+Phone number: [**0247 7220 701**](tel:+442477220701)
 
 Business Details
 

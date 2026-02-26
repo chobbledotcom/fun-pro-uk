@@ -20,4 +20,4 @@ Being a self-contained game, it can be popped-up almost anywhere from the recept
 
 [Check out our 5 star reviews on this product!](/products/electronic-basket-ball-hire)
 
-No matter the event or no matter where it is, Fun Pro UK will do their absolute best to ensure your guests are fully entertained! So give us a call today on 02476 629197.
+No matter the event or no matter where it is, Fun Pro UK will do their absolute best to ensure your guests are fully entertained! So give us a call today on 0247 7220 701.

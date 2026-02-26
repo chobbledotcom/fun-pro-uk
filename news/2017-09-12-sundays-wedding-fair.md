@@ -20,4 +20,4 @@ If you didn't get chance to see us at the show then don't worry we are guests at
 
 Perfect Snap [photobooth](/products/green-screen-photo-booths) and [magic selfie mirror hire](/products/magic-mirror) are holding the show offer all week, so if you didn't book with us for your wedding on the day then give us a call or drop us a line, we can't wait to hear from you!
 
-To book one of our perfect Booths please call 02476629197 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+To book one of our perfect Booths please call 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

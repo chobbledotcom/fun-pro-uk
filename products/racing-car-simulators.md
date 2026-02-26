@@ -6,7 +6,7 @@ order: 50
 meta_title: Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK
 meta_description: Want To Hire a Racing Car Simulator For Your Corporate Events,
   Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today.
-  07769 979 676
+  0247 7220 701
 categories:
   - categories/arcade-games.md
   - categories/christmas-grotto-hire.md

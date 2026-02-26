@@ -1,6 +1,6 @@
 ---
 meta_title: "Party Games Hire, Indoor & Outdoor Party Games For Hire, UK"
-meta_description: "Hire Our Party Games For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 02477220701"
+meta_description: "Hire Our Party Games For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 0247 7220 701"
 layout: page
 redirect_from:
   - "/pages/party-games-hire/"

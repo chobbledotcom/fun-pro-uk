@@ -63,7 +63,7 @@ Printed, applied & removed after each event (One time use only)
 
 may apply
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [0247 7220 701](tel:+442477220701)**
 
 ## Batak Pro Branding and Customisation Options
 Our Batak Pro hire service in Coventry allows you to personalise the game with your company’s branding, including logos, colours, or event-specific themes. This enhances brand recognition and ensures that your interactive game aligns perfectly with your business identity.

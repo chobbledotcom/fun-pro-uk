@@ -30,6 +30,6 @@ Interactive Game Hire for **[Corporate Entertainment]()** such as our Batak Pro 
 ## Contact Us
 Fun Pro Uk hire interactive games to Coventry and the surrounding area including London and Manchester. For further information on our Exhibition Stand and Conference Game Hire then contact our team today.
 
-Tel:02477220701
+Tel:0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

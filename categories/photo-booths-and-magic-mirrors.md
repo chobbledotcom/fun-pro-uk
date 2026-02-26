@@ -97,7 +97,7 @@ below_products: |
 
   For advice on the best corporate photo booth hire for your event, your audience and your budget, talk to our friendly team today. Call or email now, or complete the contact form below and we'll call you.
 
-  - Tel: 02477220701
+  - Tel: 0247 7220 701
   - Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
   - [Contact form](/contact-fun-pro-uk)
 ---

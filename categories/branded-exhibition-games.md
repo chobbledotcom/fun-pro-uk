@@ -61,7 +61,7 @@ below_products: |
 
   [Contact us](/contact-fun-pro-uk) with your event date, the games you're interested in, and your branding requirements. We'll provide a mockup and quote. Artwork changes are included — we'll refine the design until you're happy with it.
 
-  Call us on [02477220701](tel:02477220701) or visit our [contact page](/contact-fun-pro-uk).
+  Call us on [0247 7220 701](tel:+442477220701) or visit our [contact page](/contact-fun-pro-uk).
 ---
 
 # Branded Game Hire for Exhibitions & Trade Shows

@@ -22,4 +22,4 @@ Many of us however, spend more time at work than we do with our partners. What a
 6.  Team building activities. Invest in your staff with an offsite morning, afternoon or whole day team building. Not only will it boost morale, but it will also produce more cohesive and productive teams. You could run it through your training department if you have one or you could bring in an external company to help.
 7.  Host a [company event to celebrate Christmas](/categories/christmas-game-hire), end of financial year or just to say thank you. This can be a small or big event depending on your budget. Go out for dinner at a restaurant, go paint balling or hire a conference room at a swish hotel with a photo booth to capture the fun. The list is endless.
 
-Contact us today to arrange your next event. Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 02476629197
+Contact us today to arrange your next event. Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or give us a call on Tel: 0247 7220 701

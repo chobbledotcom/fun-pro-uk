@@ -2,7 +2,7 @@
 title: "Christmas Grotto Hire"
 subtitle: "Inflatable Santa's grotto packages for events and venues"
 meta_title: "Christmas Grotto Hire, Santas Grotto Hire, Xmas, West Midlands"
-meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 07769 979 676"
+meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 0247 7220 701"
 featured: true
 thumbnail: /images/products/christmas-grotto-1/christmas-grotto-1-1.jpg
 redirect_from:
@@ -62,8 +62,8 @@ below_products: |
 
   At Fun Pro UK, we love the festive season, and our elves have got lots of great company Christmas party ideas to get your staff rockin around the Christmas tree. Call or email now, or complete the contact form below and we'll call you.
 
-  - Tel: 02476 629197
-  - Mob: 07769 979676
+  - Tel: 0247 7220 701
+  - Mob: 0247 7220 701
   - Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
   - Contact form
 ---

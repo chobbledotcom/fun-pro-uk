@@ -24,6 +24,6 @@ When you are searching for Game Hire Telford then Fun Pro Uk is the team you can
 
 Want to attract and influence new clients at your event? Then check out the interactive game hire that Fun Pro Uk can provide.
 
-Contact us today to find out how we can help you. Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Contact us today to find out how we can help you. Tel: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 Here are some events that are coming up at the Telford International Centre: [Click here to find out more](https://www.tictelford.com/upcoming-events/)

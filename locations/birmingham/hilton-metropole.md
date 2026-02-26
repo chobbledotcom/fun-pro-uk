@@ -21,6 +21,6 @@ Many of our [Corporate Event Games]() can be Branded by our in house team. Your 
 
 Let us take the stress away from your next event, by hiring Fun Pro Uk for Interactive Game Hire in the Birmingham and surrounding area we will guarantee that your stand will be overflowing with new leads and clients!
 
-Tel: 02477220701
+Tel: 0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
