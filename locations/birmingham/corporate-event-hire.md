@@ -25,7 +25,7 @@ We provide a range of entertainment that works across different corporate occasi
 
 What you choose depends on your specific situation. A formal [awards ceremony](/events/company-award-ceremonies/#content) needs different entertainment than a summer fun day. Conference attendees between sessions have different needs than team members at an off-site building event. That's why we take time to understand your event before recommending what will actually work for your audience and objectives.
 
-We handle [delivery](/delivery-areas/#content), setup and collection from our Coventry base, which means straightforward logistics for your Birmingham event. [Our team](/meet-the-team/#content) makes sure everything's working properly before guests arrive, and we're there to support you throughout the event if needed.
+We handle [delivery](/delivery-areas/#content), setup and collection from our Coventry base, which means straightforward logistics for your Birmingham event. [Our team](/team/#content) makes sure everything's working properly before guests arrive, and we're there to support you throughout the event if needed.
 
 ## Planning Corporate Entertainment in Birmingham
 

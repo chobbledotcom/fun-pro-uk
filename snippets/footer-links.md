@@ -43,7 +43,7 @@ name: Footer links
 ### Explore
 
 - [Get a Quote](/quote/)
-- [Meet the Team](/meet-the-team/)
+- [Meet the Team](/team/)
 - [Coverage Areas](/locations/)
 - [Christmas Parties](/events/christmas-entertainment/)
 - [News](/news/)

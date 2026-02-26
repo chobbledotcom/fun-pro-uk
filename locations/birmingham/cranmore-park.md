@@ -16,7 +16,7 @@ We're a short drive from Cranmore Park and deliver there regularly. Every bookin
 
 ## Exhibition and Conference Games
 
-Our [interactive games](/categories/interactive-game-hire/#content) are ideal for drawing visitors to your stand at Cranmore Park exhibitions. The [giant buzz wire](/products/giant-buzz-wire/#content), [table football](/products/table-football-hire/#content) and [whack a mole](/products/whack-a-mole-game-hire/#content) are all proven conversation starters — once people see others playing, a crowd gathers and your stand gets the attention it deserves.
+Our [interactive games](/categories/interactive-game-hire/#content) are ideal for drawing visitors to your stand at Cranmore Park exhibitions. The [giant buzz wire](/products/giant-buzz-wire/#content), [table football](/products/football-tables/#content) and [whack a mole](/products/whack-a-mole-game-hire/#content) are all proven conversation starters — once people see others playing, a crowd gathers and your stand gets the attention it deserves.
 
 For conferences, [Batak](/categories/batak/#content) reaction games and [prize games](/categories/prize-games/#content) like [prize wheels](/products/prize-wheel/#content) and [prize cranes](/products/prize-crane-arcade-grabber/#content) work well as ice-breakers and engagement tools.
 
