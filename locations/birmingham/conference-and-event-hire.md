@@ -133,7 +133,7 @@ Interactive games create natural icebreakers, giving attendees something to do a
 
 ## Ready to Plan Your Birmingham Conference Entertainment?
 
-Whether you're organising a large-scale conference at the [NEC](/locations/birmingham/nec/#content), an intimate team event, or an exhibition stand that needs to stand out, we're here to help you make informed decisions about your entertainment. Our [friendly team](/meet-the-team/#content) brings 15 years of corporate event experience to every consultation, ensuring you choose options that genuinely support your event goals.
+Whether you're organising a large-scale conference at the [NEC](/locations/birmingham/nec/#content), an intimate team event, or an exhibition stand that needs to stand out, we're here to help you make informed decisions about your entertainment. Our [friendly team](/team/#content) brings 15 years of corporate event experience to every consultation, ensuring you choose options that genuinely support your event goals.
 
 [Get in touch](/contact-fun-pro-uk/#content) to discuss your Birmingham conference or corporate event, and we'll provide a free quote based on your specific requirements.
 

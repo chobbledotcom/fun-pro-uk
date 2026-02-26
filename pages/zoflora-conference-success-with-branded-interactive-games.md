@@ -82,7 +82,7 @@ FunPro is currently working with Zoflora on their September 2025 conference pres
 
 ## The FunPro Team Behind the Project
 
-The Zoflora project was managed by FunPro's experienced [events team](/meet-the-team/#content), who brought over 15 years of corporate event expertise to ensure seamless delivery. The team worked closely with Zoflora's events coordinators to understand their specific requirements for the Home Bargains Conference, providing guidance on how the Batak Lite game could be customised to create maximum impact.
+The Zoflora project was managed by FunPro's experienced [events team](/team/#content), who brought over 15 years of corporate event expertise to ensure seamless delivery. The team worked closely with Zoflora's events coordinators to understand their specific requirements for the Home Bargains Conference, providing guidance on how the Batak Lite game could be customised to create maximum impact.
 
 FunPro's in-house branding specialists worked on the custom graphics for the backboard, buttons, and leaderboard, ensuring that every element met Zoflora's brand guidelines whilst maintaining the functionality and appeal of the game itself. The logistics team [coordinated delivery](/delivery-areas/#content) to Liverpool Exhibition Centre, managed the setup process, and ensured that everything was tested and ready before conference attendees arrived. This comprehensive approach meant that Zoflora could focus on their core conference objectives, confident that the interactive entertainment element was in capable hands.
 

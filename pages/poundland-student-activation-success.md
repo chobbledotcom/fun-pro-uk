@@ -104,7 +104,7 @@ Looking ahead, Poundland sees interactive retail experiences as an increasingly 
 
 ## The FunPro Team Behind the Success
 
-The Poundland activation showcased FunPro's ability to deliver professional solutions under tight timelines whilst maintaining their signature attention to detail and client service. [Colin Parker](/meet-the-team/#content), FunPro's Managing Director, personally oversaw the project coordination to ensure seamless execution despite the short notice requirements.
+The Poundland activation showcased FunPro's ability to deliver professional solutions under tight timelines whilst maintaining their signature attention to detail and client service. [Colin Parker](/team/#content), FunPro's Managing Director, personally oversaw the project coordination to ensure seamless execution despite the short notice requirements.
 
 The team's expertise in [corporate entertainment](/events/office-entertainment/#content) proved invaluable in translating retail objectives into engaging interactive experiences. Their understanding of student audiences, combined with technical knowledge of space-efficient interactive solutions, enabled them to recommend and deliver exactly the right solution for Poundland's specific needs.
 
