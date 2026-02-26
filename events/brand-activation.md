@@ -7,8 +7,6 @@ meta_description: Interactive branded games for brand activations, product
   Fun Pro UK. Nationwide.
 featured: true
 thumbnail: /images/products/whack-a-mole-game-hire/00d6079f-4c95-487f-bebc-95264d2d4269.jpg
-redirect_from:
-  - /pages/branded-game-hire/
 eleventyNavigation:
   key: Brand Activation
   parent: How We Help
