@@ -94,7 +94,7 @@ faqs:
       discuss options from branded items to premium products.
   - question: Is it suitable for all ages?
     answer: Yes, the familiar arcade format appeals to all ages. The skill-based
-      challenge creates genuine satisfaction when players pick a capsule prizes.
+      challenge creates genuine satisfaction when players pick a capsule prize.
 gallery:
   - /images/products/Gum Ball Machine/lbr99hchuqc3giznqxu7.webp
 specs:
@@ -107,7 +107,7 @@ specs:
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
-    value: 1.82m x 0.64m x 0.64
+    value: 1.82m x 0.64m x 0.64m
   - name: Suitability
     value: Indoor only / Level surface
   - name: Guest Capacity
