@@ -74,7 +74,7 @@ Book with FUN PRO UK, with leading customer service experience and being rest as
 
 To find out more please contact the team at FUN PRO UK
 
-Tel: 02476 629 197  
-07769 979 676
+Tel: 0247 7220 701  
+0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

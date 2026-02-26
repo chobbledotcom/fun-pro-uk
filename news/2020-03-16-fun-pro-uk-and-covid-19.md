@@ -26,7 +26,7 @@ Our office is closed for now but will be back with the FUN soon!
 
 Stay in touch
 
-Call our team on : 02476 629197
+Call our team on : 0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 

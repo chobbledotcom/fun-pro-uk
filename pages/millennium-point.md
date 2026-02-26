@@ -20,6 +20,6 @@ The [Ball-Nado Grabber](/products/ballnado-grabber) is an amazing exhibition gam
 
 So if you are hosting an exhibition or any other event from an awards ceremony to a product launch, why not give the team at Fun Pro UK a call to get support from start to finish to help you deliver an exceptional and entertaining event for your customers or colleagues.
 
-Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Tel: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 If you wish to book an event at Millennium Point, why not speak to their dedicated team today! Contact them [here](https://www.millenniumpoint.org.uk/#contact).

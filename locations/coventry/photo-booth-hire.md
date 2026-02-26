@@ -30,4 +30,4 @@ Fun Pro UK are a reliable and reputable company that have been in business for 1
 
 For more information or to book your Photo booth Hire Coventry then contact us via
 
-Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or call us on: 02477220701. One of our team will be on hand to help you!
+Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or call us on: 0247 7220 701. One of our team will be on hand to help you!

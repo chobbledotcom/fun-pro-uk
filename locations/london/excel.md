@@ -29,4 +29,4 @@ Here are some events that are coming up at the London Excel: [Click here to find
 
 **Contact us today to find out how we can help you.**
 
-**Tel: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**  
+**Tel: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**  

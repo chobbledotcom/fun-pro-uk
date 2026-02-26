@@ -26,4 +26,4 @@ There are many venues that we have delivered and installed to around the UK with
 
 Why not drop us a line or call our team of conference entertainment game hire specialists and we can ensure your event is one that will be remembered!
 
-Call: 02477220701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+Call: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)

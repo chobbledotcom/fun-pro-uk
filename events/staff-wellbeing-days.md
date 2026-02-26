@@ -2,7 +2,7 @@
 title: "Corporate Wellbeing Days"
 subtitle: "Relaxed games and activities to hire for your team"
 meta_title: "Corporate Wellbeing Days"
-meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 07769979676 to make a booking!"
+meta_description: "Hire our corporate wellbeing activities and equipment for your corporate events. UK-wide delivery. Call us today on 0247 7220 701 to make a booking!"
 featured: true
 thumbnail: /images/events/staff-wellbeing-days.jpg
 redirect_from:

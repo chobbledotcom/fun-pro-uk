@@ -43,7 +43,7 @@ We want to make the entertainment at your next corporate event memorable and str
 
 ## So give us a call to get a no obligations quote today!
 
-Tel: 02477220701
+Tel: 0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 

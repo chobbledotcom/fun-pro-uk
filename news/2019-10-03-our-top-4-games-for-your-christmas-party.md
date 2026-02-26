@@ -43,6 +43,6 @@ We want to make your Christmas as magical as possible, and even though we can't 
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
-Tel: 02476 629197
+Tel: 0247 7220 701
 
-Mob: 07769979676
+Mob: 0247 7220 701

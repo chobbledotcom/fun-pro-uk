@@ -584,7 +584,7 @@ const FIND_REPLACES = {
 
   // Fix mailto and tel links that got corrupted
   "mailto:info@funprouk.co.uk": "mailto:info@funprouk.co.uk",
-  "tel:02477220701": "tel:02477220701",
+  "tel:02477220701": "tel:+442477220701",
   "tel:+02477220701": "tel:+442477220701",
 
   // Fix contact page link

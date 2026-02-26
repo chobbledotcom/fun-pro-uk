@@ -43,7 +43,7 @@ Fun Pro UK can make your next corporate event - exciting, stress-free and unforg
 
 So why not call us today to get a no obligation quote!
 
-Tel: 02476629197
+Tel: 0247 7220 701
 
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 

@@ -36,4 +36,4 @@ We regularly provide entertainment for:
 
 **Family-run, personally managed.** Colin and Liz handle bookings directly. You deal with the business owners, not a call centre.
 
-Browse our equipment below or [get in touch](/contact-fun-pro-uk) to discuss your event. Call [02477220701](tel:02477220701) or visit our [contact page](/contact-fun-pro-uk).
+Browse our equipment below or [get in touch](/contact-fun-pro-uk) to discuss your event. Call [0247 7220 701](tel:+442477220701) or visit our [contact page](/contact-fun-pro-uk).

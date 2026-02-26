@@ -131,7 +131,7 @@ below_products: |
 
   While we specialise in West Midlands corporate entertainment hire, we also deliver event packages across the UK. Ask for details when you make your booking. Call or email now, or complete the contact form below and we'll call you.
 
-  *   Tel: 02477220701
+  *   Tel: 0247 7220 701
   *   Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
   *   Contact form
 ---

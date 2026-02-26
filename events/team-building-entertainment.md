@@ -2,7 +2,7 @@
 title: "Team Building Entertainment"
 subtitle: "Competitive and collaborative games for team building events"
 meta_title: "Team Building Activities For Hire | Team Building Equipment Hire"
-meta_description: "Hire our team building activities and equipment for your corporate events! UK Wide-delivery. Call us today at 07769979676 to book your spot now!"
+meta_description: "Hire our team building activities and equipment for your corporate events! UK Wide-delivery. Call us today at 0247 7220 701 to book your spot now!"
 featured: true
 thumbnail: /images/pages/team-building-ideas.jpg
 redirect_from:

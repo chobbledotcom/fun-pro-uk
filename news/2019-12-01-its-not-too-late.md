@@ -34,5 +34,5 @@ Make your Christmas party one to remember by adding some fun activities to help 
 
 GET IN TOUCH NOW:  
 Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)  
-Tel: 02476 629197  
-Mob: 07769979676
+Tel: 0247 7220 701  
+Mob: 0247 7220 701

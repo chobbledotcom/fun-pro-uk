@@ -1,7 +1,7 @@
 ---
 title: "Plinko Game Hire"
 meta_title: "Plinko Hire Coventry"
-meta_description: "Looking to hire an interactive game from Fun Pro UK today. Give us a call on 02477220701"
+meta_description: "Looking to hire an interactive game from Fun Pro UK today. Give us a call on 0247 7220 701"
 redirect_from:
   - "/pages/plinko-hire-coventry/"
 thumbnail: /images/products/plinko-game-hire/plinko-game-hire-1.jpg
@@ -46,7 +46,7 @@ may apply
 
 Please contact us to find out more
 
-**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [02477220701](tel:+02477220701)**
+**For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)**or Call: [0247 7220 701](tel:+442477220701)**
 
 **Equipment size**
 
