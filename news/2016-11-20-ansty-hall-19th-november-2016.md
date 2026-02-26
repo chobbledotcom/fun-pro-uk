@@ -7,6 +7,7 @@ meta_title: "Ansty Hall Event – Professional Game Hire | Fun Pro UK"
 meta_description: "Wedding entertainment at Ansty Hall Hotel. Our Green Screen photo booth kept guests entertained with themed backgrounds and fun props."
 redirect_from:
   - "/news/2016-11-20/ansty-hall-19th-november-2016/"
+thumbnail: "/images/news/ansty-hall-19th-november-2016.jpg"
 ---
 
 Wow! What a fabulously busy night we had for Jason & Sophie's [wedding](/categories/weddings) yesterday at The Ansty Hall Hotel.  

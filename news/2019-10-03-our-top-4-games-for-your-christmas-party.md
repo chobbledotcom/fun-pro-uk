@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-10-03/our-top-4-games-for-your-christmas-party/"
 gallery:
   - "/images/news/20171214-173433.jpg"
+thumbnail: "/images/news/20171214-173433.jpg"
 ---
 
 ## Christmas Fun & Games

@@ -7,6 +7,7 @@ meta_title: "Leicester City Rooms – Event Entertainment Options"
 meta_description: "Magic Mirror hire at The City Rooms in Leicester. Our photo entertainment kept wedding guests entertained with selfies and personalised prints."
 redirect_from:
   - "/news/2016-10-20/leicester-city-rooms/"
+thumbnail: "/images/news/leicester-city-rooms.jpg"
 ---
 
 We had a wonderful time at The City Rooms in Leicester on Saturday. This was our first time at this gorgeous venue set in Leicester.  

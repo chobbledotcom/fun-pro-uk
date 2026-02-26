@@ -7,6 +7,7 @@ meta_title: "Woodside Hotel Wedding Fair – Event Entertainment Rentals"
 meta_description: "Fun Pro UK at the Woodside Hotel wedding fair in Kenilworth. Come and see our Green Screen Photo Booth and Magic Mirror for your big day."
 redirect_from:
   - "/news/2017-01-25/woodside-hotel-wedding-fair/"
+thumbnail: "/images/news/woodside-hotel-wedding-fair.jpg"
 ---
 
 We are starting to feel excited at TeamPerfectSnap! On Sunday 29th January we will be attending the Woodside Hotel Wedding Fair in the lovely town of Kenilworth.  

@@ -7,6 +7,7 @@ meta_title: "The Importance Of Photo Booths At Events - Game Hire Service"
 meta_description: "Why photo booths are an important addition to any event. From weddings and parties to corporate functions, they create lasting memories for guests."
 redirect_from:
   - "/news/2018-10-03/importance-of-photo-booths/"
+thumbnail: "/images/news/importance-of-photo-booths.jpg"
 ---
 
 Recently we joined many of [KPMG's staff in Birmingham for their annual awards night](/putting-kpmg-in-the-picture). We attended with two of our most popular [Green Screen Photo Booths.](/products/green-screen-photo-booths)

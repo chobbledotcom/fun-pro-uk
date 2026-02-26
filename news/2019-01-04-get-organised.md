@@ -7,6 +7,7 @@ meta_title: "Get Organised For Your Event – Game Hire Nationwide"
 meta_description: "Get organised for your 2019 events early. Tips on planning corporate entertainment, booking games and securing dates for your key occasions."
 redirect_from:
   - "/news/2019-01-04/get-organised/"
+thumbnail: "/images/news/get-organised.jpg"
 ---
 
 ## New Year's resolution: Time to get organised!

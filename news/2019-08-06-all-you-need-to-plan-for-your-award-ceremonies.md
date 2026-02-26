@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-08-06/all-you-need-to-plan-for-your-award-ceremonies/"
 gallery:
   - "/images/news/img-20190709-wa0000.jpg"
+thumbnail: "/images/news/img-20190709-wa0000.jpg"
 ---
 
 ## Getting your employees engaged at award ceremonies!

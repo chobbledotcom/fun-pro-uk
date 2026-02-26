@@ -7,6 +7,7 @@ meta_title: "Party Party Party – Nationwide Event Games Hire | Fun Pro UK"
 meta_description: "A busy party weekend for Fun Pro UK. Birthday celebrations, Christmas parties and a December wedding across Rugby, Stoneleigh and Ansty Hall."
 redirect_from:
   - "/news/2016-12-12/party-party-party/"
+thumbnail: "/images/news/party-party-party.jpg"
 ---
 
 Wow! What a busy weekend we have had. It certainly was the weekend for partying!

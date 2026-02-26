@@ -7,6 +7,7 @@ meta_title: "Are We Connected? – Event Game Rental Services | Fun Pro UK"
 meta_description: "Follow Fun Pro UK on social media for event updates, behind-the-scenes content and the latest interactive games available for hire."
 redirect_from:
   - "/news/2018-09-26/are-we-connected/"
+thumbnail: "/images/news/are-we-connected.jpg"
 ---
 
 Are we connected? Have you seen all our social media?

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-09-10/how-do-you-celebrate-christmas-at-work/"
 gallery:
   - "/images/news/20171214-173433.jpg"
+thumbnail: "/images/news/20171214-173433.jpg"
 ---
 
 ## How Do You Celebrate Christmas at Work?

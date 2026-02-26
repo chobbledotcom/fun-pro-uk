@@ -7,6 +7,7 @@ meta_title: "Make Your Christmas Event Stand Out – Game Hire Services"
 meta_description: "How to make your Christmas party stand out. Creative theme ideas from casino nights and carnivals to winter wonderlands and staff awards."
 redirect_from:
   - "/news/2018-09-19/how-to-make-your-christmas-event-stand-out-from-the-rest/"
+thumbnail: "/images/news/how-to-make-your-christmas-event-stand-out-from-the-rest.jpg"
 ---
 
 Fun Pro UK are [corporate entertainment](/categories/corporate-entertainment) specialists who work alongside each client to make their brand and event stand out. We have helped many clients with their Christmas parties, including MIB, Suzuki and Rant and Rave.

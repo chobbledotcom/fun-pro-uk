@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2022-01-04/january-doesnt-have-to-be-blue/"
 gallery:
   - "/images/news/img-20211217-wa0004.jpg"
+thumbnail: "/images/news/img-20211217-wa0004.jpg"
 ---
 
 **January doesn't have to be Blue!!**

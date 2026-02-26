@@ -7,6 +7,7 @@ meta_title: "Corporate Branding Photobooths – Custom Event Solutions"
 meta_description: "Add your company branding to our photo booths. Custom overlays, logos and themed prints for corporate events, exhibitions and product launches."
 redirect_from:
   - "/news/2016-12-21/corporate-branding-on-our-photobooths/"
+thumbnail: "/images/news/corporate-branding-on-our-photobooths.jpg"
 ---
 
 Arranging your Corporate Event? Let Perfect Snap help with organising the function. Perfect Snap really will bring the FUN to your event.

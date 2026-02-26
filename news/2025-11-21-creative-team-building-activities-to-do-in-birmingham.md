@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-11-21/creative-team-building-activities-to-do-in-birmingham/"
 gallery:
   - "/images/news/team-building-event.jpg"
+thumbnail: "/images/news/team-building-event.jpg"
 ---
 
 ![](/images/news/team-building-event.jpg)

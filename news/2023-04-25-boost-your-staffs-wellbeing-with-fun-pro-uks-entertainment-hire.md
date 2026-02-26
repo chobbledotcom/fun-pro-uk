@@ -7,6 +7,7 @@ meta_title: "Boost Your Staff's Wellbeing with Office Entertainment Hire | Blog"
 meta_description: "Discover how to support the health and wellbeing of your staff with our range of fun equipment for hire. From table football to human hungry hippos! Book now."
 redirect_from:
   - "/news/2023-04-25/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire/"
+thumbnail: "/images/news/boost-your-staffs-wellbeing-with-fun-pro-uks-entertainment-hire.png"
 ---
 
 As companies across the UK focus more on employee wellbeing, there's an increasing trend for businesses to [hire office entertainment equipment](/events/office-entertainment) to support staff health and happiness. With Fun Pro UK, it's easier than ever for businesses to access a range of equipment designed to improve wellbeing in the workplace.  

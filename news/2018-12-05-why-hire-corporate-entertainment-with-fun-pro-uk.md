@@ -7,6 +7,7 @@ meta_title: "Why Hire Corporate Entertainment With Us? | Fun Pro UK"
 meta_description: "Why hire corporate entertainment from Fun Pro UK? Professional service, wide game selection, branded options and nationwide delivery for events."
 redirect_from:
   - "/news/2018-12-05/why-hire-corporate-entertainment-with-fun-pro-uk/"
+thumbnail: "/images/news/why-hire-corporate-entertainment-with-fun-pro-uk.jpg"
 ---
 
 ## What are the benefits of incorporating interactive games and entertainment into your company's events and work place?

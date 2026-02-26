@@ -7,6 +7,7 @@ meta_title: "Fun Employee Appreciation Day Ideas that Your Team Will Love"
 meta_description: "We will be covering some fun and exciting ideas you can use to celebrate your team. Let us help you host an unforgettable Employee Appreciation Day."
 redirect_from:
   - "/news/2025-01-24/fun-employee-appreciation-day-ideas-that-your-team-will-love/"
+thumbnail: "/images/news/fun-employee-appreciation-day-ideas-that-your-team-will-love.png"
 ---
 
 The world celebrates Employee Appreciation Day in March every year! Your team works hard, and they deserve a day that's dedicated to celebrating their efforts. Taking time to show appreciation creates a moment for connection and celebration; it’s a reminder that every contribution matters.

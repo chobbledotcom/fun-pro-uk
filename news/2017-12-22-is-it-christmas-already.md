@@ -7,6 +7,7 @@ meta_title: "Is It Christmas Already? – Festive Game Rentals | Fun Pro UK"
 meta_description: "A year-end reflection on a busy 2017 for Fun Pro UK. Selfie mirrors, green screen booths and interactive games proved more popular than ever."
 redirect_from:
   - "/news/2017-12-22/is-it-christmas-already/"
+thumbnail: "/images/news/is-it-christmas-already.jpg"
 ---
 
 Is It [Christmas](/categories/christmas-game-hire) already?

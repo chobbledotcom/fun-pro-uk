@@ -7,6 +7,7 @@ meta_title: "Tips For Successful Team Building Events | Fun Pro UK"
 meta_description: "Six practical tips for a successful team building day. From choosing the right venue and activities to setting expectations and following up."
 redirect_from:
   - "/news/2019-02-15/tips-for-running-a-successful-team-building-day/"
+thumbnail: "/images/news/tips-for-running-a-successful-team-building-day.jpg"
 ---
 
 Team building days are a great way to bring your team together, improve communication, improve productivity and build trust. But organising and running a successful team building day is no easy task.

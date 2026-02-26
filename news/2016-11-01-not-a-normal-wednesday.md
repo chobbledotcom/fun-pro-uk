@@ -7,6 +7,7 @@ meta_title: "Not A Normal Wednesday – Fun Games For Events | Fun Pro UK"
 meta_description: "A midweek wedding celebration at Shustoke Farm Barns with our Magic Mirror entertaining guests all evening. See the photos and fun moments."
 redirect_from:
   - "/news/2016-11-01/not-a-normal-wednesday/"
+thumbnail: "/images/news/not-a-normal-wednesday.jpg"
 ---
 
 ## Not a normal Wednesday!!

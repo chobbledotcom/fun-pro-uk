@@ -7,6 +7,7 @@ meta_title: "Gallop To Victory – Event Game Hire Services | Fun Pro UK"
 meta_description: "Hire our Gold Cup Horse Racing game for team building, awards nights and exhibitions. A four-player interactive race that gets everyone involved."
 redirect_from:
   - "/news/2018-10-24/gallop-to-victory/"
+thumbnail: "/images/news/gallop-to-victory.jpg"
 ---
 
 Looking for something different to entertain your guests with? Or planning a Race Night event?

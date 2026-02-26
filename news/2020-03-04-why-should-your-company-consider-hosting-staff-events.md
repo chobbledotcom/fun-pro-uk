@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2020-03-04/why-should-your-company-consider-hosting-staff-events/"
 gallery:
   - "/images/news/20190607-142841.jpg"
+thumbnail: "/images/news/20190607-142841.jpg"
 ---
 
 ## Why Should Your Company Consider Hosting Staff Events?

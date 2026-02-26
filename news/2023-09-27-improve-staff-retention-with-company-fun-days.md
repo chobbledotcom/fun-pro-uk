@@ -7,6 +7,7 @@ meta_title: "Improve Staff Retention with Company Fun Days | News & Blogs"
 meta_description: "Keep staff happy with a company fun day at Fun Pro UK! Just tell us a few details about your big day and book out the entertainment you need online."
 redirect_from:
   - "/news/2023-09-27/improve-staff-retention-with-company-fun-days/"
+thumbnail: "/images/news/improve-staff-retention-with-company-fun-days.png"
 ---
 
 Employee retention is a topic that often keeps business leaders awake at night. Amidst the myriad strategies to keep talent onboard, there's one that's gaining momentum: the power of play. With company fun days, Fun Pro UK can help you revamp the workplace ethos and significantly boost staff retention.

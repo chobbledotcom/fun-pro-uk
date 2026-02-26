@@ -7,6 +7,7 @@ meta_title: "Delivering Quality Event Services Nationwide | Fun Pro UK"
 meta_description: "How Fun Pro UK continues to improve its event entertainment service. Our commitment to quality, reliability and customer satisfaction."
 redirect_from:
   - "/news/2018-11-21/continually-working-to-deliver-a-quality-service/"
+thumbnail: "/images/news/continually-working-to-deliver-a-quality-service.jpg"
 ---
 
 It has been a busy week within the Fun Pro UK office with brainstorming sessions on how to continue to deliver our top-quality service to our new and long-standing customers. Even Demi (the Fun Pro UK dog) has been getting involved with our meetings!

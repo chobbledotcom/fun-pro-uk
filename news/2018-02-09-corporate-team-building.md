@@ -7,6 +7,7 @@ meta_title: "Corporate Team Building – Interactive Game Hire | Fun Pro UK"
 meta_description: "Corporate team building at The Welcome Centre in Coventry. Retro arcade games, Magic Mirror, giant buzz wire and Strike a Light for staff."
 redirect_from:
   - "/news/2018-02-09/corporate-team-building/"
+thumbnail: "/images/news/corporate-team-building.jpg"
 ---
 
 Our team have had a busy week. One of our events was a team building conference day at a new venue for us in the centre of [Coventry](/locations/coventry/corporate-event-hire).  

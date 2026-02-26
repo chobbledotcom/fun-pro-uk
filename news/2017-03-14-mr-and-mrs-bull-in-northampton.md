@@ -7,6 +7,7 @@ meta_title: "Mr And Mrs Bull Wedding – Event Entertainment Services"
 meta_description: "Wedding entertainment for Mr and Mrs Bull in Northampton. Our Magic Mirror captured the celebrations with personalised prints and guest photos."
 redirect_from:
   - "/news/2017-03-14/mr-and-mrs-bull-in-northampton/"
+thumbnail: "/images/news/mr-and-mrs-bull-in-northampton.jpg"
 ---
 
 On Saturday night we helped celebrate the wonderful wedding of Mr and Mrs Bull at the [Northamptonshire Marriott Hotel.](/locations/northampton/corporate-event-hire)  

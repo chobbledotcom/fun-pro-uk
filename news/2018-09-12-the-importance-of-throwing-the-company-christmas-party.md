@@ -7,6 +7,7 @@ meta_title: "The Importance Of Throwing A Christmas Party | Fun Pro UK"
 meta_description: "Why your company should throw a Christmas party. How festive events with games and entertainment boost staff morale and team spirit."
 redirect_from:
   - "/news/2018-09-12/the-importance-of-throwing-the-company-christmas-party/"
+thumbnail: "/images/news/the-importance-of-throwing-the-company-christmas-party.jpg"
 ---
 
 We know it is only September and you don't really want to be thinking about the company Christmas party yet. But you need to get to it early to secure yourselves the best corporate entertainment available.

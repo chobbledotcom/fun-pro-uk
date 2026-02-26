@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-12-01/its-not-too-late/"
 gallery:
   - "/images/news/dance-1.jpg"
+thumbnail: "/images/news/dance-1.jpg"
 ---
 
 ## There's still time to book your Christmas party fun!

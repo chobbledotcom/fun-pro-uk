@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-06-05/top-5-most-popular-interactive-outdoor-games-for-corporates/"
 gallery:
   - "/images/news/team-work.png"
+thumbnail: "/images/news/team-work.png"
 ---
 
 ## Top 5 Most Popular Interactive Outdoor Games for Corporates

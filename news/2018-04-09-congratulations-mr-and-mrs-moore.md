@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2018-04-09/congratulations-mr-and-mrs-moore/"
 gallery:
   - "/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg"
+thumbnail: "/images/news/img-20180408-wa0005-resized-20180409-112103658.jpg"
 ---
 
 On Saturday we spent a fabulous evening at the Citrus Hotel near [Coventry](/locations/coventry/corporate-event-hire) helping this wonderful couple to celebrate their wedding day .

@@ -7,6 +7,7 @@ meta_title: "Christmas Party Fun with Magic Selfie Mirror - Fun Pro UK"
 meta_description: "Gefco’s Christmas party at The Slate, Coventry was a hit with our Magic Selfie Mirror! Custom prints and instant selfies made the night unforgettable."
 redirect_from:
   - "/news/2017-11-19/christmas-parties-are-go/"
+thumbnail: "/images/news/christmas-parties-are-go.jpg"
 ---
 
 Last night saw our friends from Gefco celebrate in style with a Perfect Snap [Magic Selfie Mirror](/products/magic-mirror) at their company [Christmas Party](/categories/christmas-game-hire). We had been asked to customise the prints with their company slogan which was designed by our in house team.These looked fab on the instant selfies.

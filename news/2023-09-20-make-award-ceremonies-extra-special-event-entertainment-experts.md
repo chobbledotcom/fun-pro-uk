@@ -7,6 +7,7 @@ meta_title: "Make Award Ceremonies Extra-Special | Entertainment Hire Blog"
 meta_description: "If you have an awards ceremony coming up, our branded games will add to the entertainment and make your staff feel extra-special. Find out more here!"
 redirect_from:
   - "/news/2023-09-20/make-award-ceremonies-extra-special-event-entertainment-experts/"
+thumbnail: "/images/news/make-award-ceremonies-extra-special-event-entertainment-experts.jpg"
 ---
 
 In the bustling world of corporate achievements, recognising milestones is not just essential—it's a cause for celebration. Every award and acknowledgement is a testament to hard work, innovation, and the pursuit of excellence. But how do we ensure that these celebrations leave a lasting impression?

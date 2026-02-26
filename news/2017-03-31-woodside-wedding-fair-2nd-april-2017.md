@@ -7,6 +7,7 @@ meta_title: "Woodside Wedding Fair – Interactive Game Rentals"
 meta_description: "Fun Pro UK at the Woodside Hotel wedding fair in Kenilworth. See our Green Screen Photo Booth and Magic Mirror for your wedding day entertainment."
 redirect_from:
   - "/news/2017-03-31/woodside-wedding-fair-2nd-april-2017/"
+thumbnail: "/images/news/woodside-wedding-fair-2nd-april-2017.jpg"
 ---
 
 Woodside Wedding Fair - Sunday 2nd April 2017  

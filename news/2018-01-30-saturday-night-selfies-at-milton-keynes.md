@@ -7,6 +7,7 @@ meta_title: "Saturday Night Selfies – Milton Keynes Photo Booth"
 meta_description: "Saturday night selfies at a Milton Keynes event with our photo booth. See how Fun Pro UK brings entertainment to parties and celebrations."
 redirect_from:
   - "/news/2018-01-30/saturday-night-selfies-at-milton-keynes/"
+thumbnail: "/images/news/saturday-night-selfies-at-milton-keynes.jpg"
 ---
 
 Our all singing and dancing Magic Selfie Mirror was out at a great corporate event on Saturday night with our friends in [Milton Keynes.](/locations/milton-keynes/corporate-event-hire)

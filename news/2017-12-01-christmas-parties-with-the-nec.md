@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2017-12-01/christmas-parties-with-the-nec/"
 gallery:
   - "/images/news/nec1.jpg"
+thumbnail: "/images/news/nec1.jpg"
 ---
 
 Last night saw Team Perfect Snap returning to the NEC in [Birmingham](/locations/birmingham/corporate-event-hire) to help celebrate Christmas with them just as we did last year!

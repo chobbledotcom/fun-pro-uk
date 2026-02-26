@@ -7,6 +7,7 @@ meta_title: "Sunday’s Wedding Fair – Event Entertainment Rentals"
 meta_description: "Fun Pro UK at a Sunday wedding fair showcasing our photo booth and Magic Mirror entertainment. Find the perfect addition to your wedding day."
 redirect_from:
   - "/news/2017-09-12/sundays-wedding-fair/"
+thumbnail: "/images/news/sundays-wedding-fair.jpg"
 ---
 
 It was lovely to see so many people at the wedding fair on Sunday which was held at Ansty Hall Hotel in [Coventry](/locations/coventry/corporate-event-hire) by Perfect Brides.

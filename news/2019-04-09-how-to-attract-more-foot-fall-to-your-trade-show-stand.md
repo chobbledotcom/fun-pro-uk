@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-04-09/how-to-attract-more-foot-fall-to-your-trade-show-stand/"
 gallery:
   - "/images/news/busy-expo.jpg"
+thumbnail: "/images/news/busy-expo.jpg"
 ---
 
 ## How To Attract More Foot Fall To Your Trade Show Stand

@@ -7,6 +7,7 @@ meta_title: "Trade Show Marketing Ideas to Maximise ROI | Fun Pro UK"
 meta_description: "Explore effective trade show marketing ideas to drive engagement and leads. We offer interactive solutions to help your booth stand out and boost event success."
 redirect_from:
   - "/news/2024-12-16/trade-show-marketing-ideas-that-will-make-you-stand-out/"
+thumbnail: "/images/news/trade-show-marketing-ideas-that-will-make-you-stand-out.png"
 ---
 
 Trade shows draw hundreds of people to a single event centre every year. It brings businesses in the same industry together, and it's the perfect place for your brand to show off its products and services.

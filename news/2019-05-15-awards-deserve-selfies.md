@@ -7,6 +7,7 @@ meta_title: "Awards Deserve Selfies – Event Photo Booths | Fun Pro UK"
 meta_description: "Awards nights deserve selfies. How our photo booths and Magic Mirrors capture the best moments at corporate award ceremonies and celebrations."
 redirect_from:
   - "/news/2019-05-15/awards-deserve-selfies/"
+thumbnail: "/images/news/awards-deserve-selfies-2.jpg"
 ---
 
 **AWARDS DESERVE SELFIES!**

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-09-05/top-10-interactive-games-to-break-the-ice-at-freshers-week-events/"
 gallery:
   - "/images/news/fresher-week-event.jpg"
+thumbnail: "/images/news/fresher-week-event.jpg"
 ---
 
 ![](/images/news/fresher-week-event.jpg)

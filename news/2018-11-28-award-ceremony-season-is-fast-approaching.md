@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2018-11-28/award-ceremony-season-is-fast-approaching/"
 gallery:
   - "/images/news/photo-booth-1.jpeg"
+thumbnail: "/images/news/photo-booth-1.jpeg"
 ---
 
 As the year starts to draw to a close, companies are preparing their annual [employee award ceremony](/events/company-award-ceremonies) to show their continued appreciation for their staff's hard work over the last year.

@@ -7,6 +7,7 @@ meta_title: "Prize Games for Events | Branded Party Supplies | News & Blog"
 meta_description: "Discover engaging Prize Games for your next event with Fun Pro UK. Perfect for exhibitions, corporate functions, and parties nationwide. Book with the best!"
 redirect_from:
   - "/news/2024-03-08/prize-games-perfect-competitive-fun/"
+thumbnail: "/images/news/prize-games-perfect-competitive-fun.png"
 ---
 
 Planning an event this year? Whether it's a [corporate event](/categories/corporate-entertainment), a trade show, or a private party, creating an atmosphere of fun and competition can significantly enhance the guest experience. This is where our range [prize games](/categories/prize-games) come into their own, offering entertainment alongside the thrill of competition and the joy of winning.

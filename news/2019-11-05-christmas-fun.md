@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-11-05/christmas-fun/"
 gallery:
   - "/images/news/20171214-173433.jpg"
+thumbnail: "/images/news/20171214-173433.jpg"
 ---
 
 ## It's that time of year again!

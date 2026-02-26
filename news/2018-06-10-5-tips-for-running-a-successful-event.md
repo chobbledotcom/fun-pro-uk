@@ -7,6 +7,7 @@ meta_title: "5 Tips For Running A Successful Event – Game Rentals"
 meta_description: "Five practical tips for running a successful corporate event. From planning and marketing to entertainment, logistics and post-event follow-up."
 redirect_from:
   - "/news/2018-06-10/5-tips-for-running-a-successful-event/"
+thumbnail: "/images/news/5-tips-for-running-a-successful-event.jpg"
 ---
 
 Successful events don't happen by accident. They take a lot of time, hard work and planning. Here are our tips to help you create a successful event that not only runs smoothly but is also stress free.  
