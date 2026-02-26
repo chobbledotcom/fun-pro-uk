@@ -12,6 +12,7 @@ gallery:
 videos:
   - id: NtWF3ajxGYo
     title: School Fun Day
+thumbnail: "/images/news/20180616-152805.jpg"
 ---
 
 ## All work, no play? We really need to talk about that!!

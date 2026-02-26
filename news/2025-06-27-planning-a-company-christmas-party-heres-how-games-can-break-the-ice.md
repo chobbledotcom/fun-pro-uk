@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/"
 gallery:
   - "/images/news/catch-us-if-you-can-games.jpg"
+thumbnail: "/images/news/catch-us-if-you-can-games.jpg"
 ---
 
 ![](/images/news/catch-us-if-you-can-games.jpg)

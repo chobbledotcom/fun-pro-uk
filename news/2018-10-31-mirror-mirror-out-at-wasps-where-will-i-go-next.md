@@ -7,6 +7,7 @@ meta_title: "Mirror, Mirror At Wasps – Event Entertainment | Fun Pro UK"
 meta_description: "Our Magic Mirror at Wasps rugby for pre-match hospitality. Compact, brandable and perfect for award ceremonies, exhibitions and product launches."
 redirect_from:
   - "/news/2018-10-31/mirror-mirror-out-at-wasps-where-will-i-go-next/"
+thumbnail: "/images/news/mirror-mirror-out-at-wasps-where-will-i-go-next.jpg"
 ---
 
 We recently visited a long-standing client of ours to deliver our [Magic Mirror](/products/magic-mirror/#content) to their hospitality area, pre-Wasps match.

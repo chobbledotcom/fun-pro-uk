@@ -7,6 +7,7 @@ meta_title: "Wootton Park Event – Interactive Game Hire | Fun Pro UK"
 meta_description: "Fun Pro UK at Wootton Park with our Magic Mirror, entertaining guests at this beautiful Warwickshire venue. See the highlights from the day."
 redirect_from:
   - "/news/2016-10-14/wootton-park-16th-october-2016/"
+thumbnail: "/images/news/wootton-park-16th-october-2016.jpg"
 ---
 
 We are all getting excited at Perfect Snap HQ for this Sunday! Why I hear you ask?.... Well, we are attending the magnificent venue of Wootton in Henley in Arden for their wedding fair. Perfect snap will be there showcasing the Magic Mirror.

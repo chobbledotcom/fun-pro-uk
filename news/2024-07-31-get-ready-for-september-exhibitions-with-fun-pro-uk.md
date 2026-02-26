@@ -7,6 +7,7 @@ meta_title: "Get Ready for September Exhibitions with Fun Pro UK | Blogs"
 meta_description: "The exhibition season is around the corner, and businesses across the UK are looking for the best trade show entertainment. Find all you could need here!"
 redirect_from:
   - "/news/2024-07-31/get-ready-for-september-exhibitions-with-fun-pro-uk/"
+thumbnail: "/images/news/get-ready-for-september-exhibitions-with-fun-pro-uk.jpg"
 ---
 
 As we approach the end of July, businesses across sectors are gearing up for a bustling exhibition season. Wherever you are in the country, Fun Pro UK is here to ensure your exhibition stand is the highlight of any event. With our extensive range of quality exhibition hire products, we are dedicated to enhancing your event presence throughout September 2024 and beyond.

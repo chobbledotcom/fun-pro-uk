@@ -7,6 +7,7 @@ meta_title: "Christmas In October – Festive Event Game Hire | Fun Pro UK"
 meta_description: "Early Christmas parties and corporate awards in Birmingham, Leicester and Coventry. Our Magic Mirror and photo booths were in high demand."
 redirect_from:
   - "/news/2017-10-22/christmas-in-october/"
+thumbnail: "/images/news/christmas-in-october.jpg"
 ---
 
 Christmas in October!

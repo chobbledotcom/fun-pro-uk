@@ -7,6 +7,7 @@ meta_title: "Dunchurch Park - Exhibition and Game Hire in Nationwide | Fun Pro U
 meta_description: "Fun Pro UK at Dunchurch Park Hotel in Rugby, Warwickshire. Our Magic Selfie Mirror and props entertained wedding guests all evening."
 redirect_from:
   - "/news/2016-11-12/dunchurch-park/"
+thumbnail: "/images/news/dunchurch-park.jpg"
 ---
 
 So excited, on the way to Dunchurch Park Hotel in the beautiful town of Rugby, Warwickshire.

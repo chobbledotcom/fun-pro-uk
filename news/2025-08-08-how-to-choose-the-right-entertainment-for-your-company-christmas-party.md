@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-08-08/how-to-choose-the-right-entertainment-for-your-company-christmas-party/"
 gallery:
   - "/images/news/whack-an-elf.jpg"
+thumbnail: "/images/news/whack-an-elf.jpg"
 ---
 
 ![](/images/news/whack-an-elf.jpg)

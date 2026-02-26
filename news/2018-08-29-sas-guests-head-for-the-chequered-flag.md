@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2018-08-29/sas-guests-head-for-the-chequered-flag/"
 gallery:
   - "/images/news/race-car-simulator-3.jpg"
+thumbnail: "/images/news/race-car-simulator-3.jpg"
 ---
 
 Fun Pro UK were recently hired to provide [Race Car Simulators](/products/racing-car-simulators/#content) to an event close to our base in Coventry. This was for a large car parts company that wanted to put on a promotional event to thank all their customers for their continual support.

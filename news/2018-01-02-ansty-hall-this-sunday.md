@@ -7,6 +7,7 @@ meta_title: "Ansty Hall This Sunday – Event Game Hire Services"
 meta_description: "Fun Pro UK at the Ansty Hall wedding fair this Sunday. See our photo booths and Magic Mirror entertainment for your upcoming wedding."
 redirect_from:
   - "/news/2018-01-02/ansty-hall-this-sunday/"
+thumbnail: "/images/news/ansty-hall-this-sunday.jpg"
 ---
 
 We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/categories/weddings/#content) fayre of 2018!

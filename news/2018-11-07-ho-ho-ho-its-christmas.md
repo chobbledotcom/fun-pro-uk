@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2018-11-07/ho-ho-ho-its-christmas/"
 gallery:
   - "/images/news/elves.jpg"
+thumbnail: "/images/news/elves.jpg"
 ---
 
 There's nothing like the festive season to boost everyone's spirits and have a reason to get a bit merry. But why not make this year extra special for your clients and employees with one or other of our two fabulously designed [inflatable Christmas Grotto!](/categories/christmas-grotto-hire/#content)

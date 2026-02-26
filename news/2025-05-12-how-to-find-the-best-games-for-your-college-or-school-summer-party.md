@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-05-12/how-to-find-the-best-games-for-your-college-or-school-summer-party/"
 gallery:
   - "/images/news/mega-wire-game.jpg"
+thumbnail: "/images/news/mega-wire-game.jpg"
 ---
 
 ![](/images/news/mega-wire-game.jpg)

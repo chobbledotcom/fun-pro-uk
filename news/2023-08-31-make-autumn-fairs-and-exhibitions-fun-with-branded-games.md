@@ -7,6 +7,7 @@ meta_title: "Make Autumn Fairs & Exhibitions Fun with Branded Games | Blog"
 meta_description: "Autumn is here, and there are plenty of exhibitions, trade shows &amp; fairs coming up. Make the most of these opportunities with branded game hire. UK-wide!"
 redirect_from:
   - "/news/2023-08-31/make-autumn-fairs-and-exhibitions-fun-with-branded-games/"
+thumbnail: "/images/news/make-autumn-fair-exhibitions-fun-with-branded-games.jpg"
 ---
 
 Autumn is a season of change, bringing not just the vibrant colours of falling leaves but also a bustling schedule of exhibitions and trade shows. As you gear up for the autumn exhibition season, we're excited to share how our range of [branded games for hire](/events/brand-activation/#content) can transform your stand into a captivating and engaging space that draws footfall and leaves a mark on all attendees.

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-05-30/how-to-increase-engagement-at-your-brand-activation-event/"
 gallery:
   - "/images/news/fun-pro-uvex.jpg"
+thumbnail: "/images/news/fun-pro-uvex.jpg"
 ---
 
 ![](/images/news/fun-pro-uvex.jpg)

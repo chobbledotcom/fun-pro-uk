@@ -7,6 +7,7 @@ meta_title: "Woodside Weddings – Entertainment Hire For Events"
 meta_description: "Wedding entertainment at the Woodside Hotel. Our Magic Mirror and photo booth brought fun and laughter to a beautiful Kenilworth celebration."
 redirect_from:
   - "/news/2017-05-08/woodside-weddings/"
+thumbnail: "/images/news/woodside-weddings.jpg"
 ---
 
 Once again the guests who were in attendance at David & Michael's [wedding](/categories/weddings/#content) made full use of our ever popular [green screen dream machine photo booth](/products/green-screen-photo-booths/#content).  

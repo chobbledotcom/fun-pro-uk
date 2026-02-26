@@ -7,6 +7,7 @@ meta_title: "Saturday 17th June – Fun Event Game Hire | Fun Pro UK"
 meta_description: "A busy Saturday providing photo booths and magic mirrors at weddings and a 60th birthday across Coventry, Coombe Abbey and Allesley Hotel."
 redirect_from:
   - "/news/2017-06-18/saturday-17th-june/"
+thumbnail: "/images/news/saturday-17th-june.jpg"
 ---
 
 Team Perfect Snap had a really busy evening yesterday, as did the people of Coventry City! There were lots of events happening in Coventry and we were invited to bring our [Photobooths](/products/green-screen-photo-booths/#content) and [Magic Mirrors](/products/magic-mirror/#content) to a few!  

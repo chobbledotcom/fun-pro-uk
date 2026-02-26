@@ -7,6 +7,7 @@ meta_title: "Dunchurch Park Wedding Show – Event Entertainment Hire"
 meta_description: "Fun Pro UK at the Dunchurch Park Hotel wedding show with our Magic Mirror and photo booth. See what we offer for wedding entertainment."
 redirect_from:
   - "/news/2016-10-14/dunchurch-park-wedding-show/"
+thumbnail: "/images/news/dunchurch-park-wedding-show.jpg"
 ---
 
 It was lovely to see so many prospective brides and their grooms at the Dunchurch Park Hotel wedding show on Sunday 9th October October 2016. It really is a stunning venue, a very popular location for that special day.  

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2022-03-25/happy-40th-to-the-boss/"
 gallery:
   - "/images/news/20220324-125141.jpg"
+thumbnail: "/images/news/20220324-125141.jpg"
 ---
 
 Happy 40th to the Boss!!

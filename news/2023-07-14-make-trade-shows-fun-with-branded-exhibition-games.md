@@ -7,6 +7,7 @@ meta_title: "Make Trade Shows Fun with Branded Exhibition Games | Blog"
 meta_description: "If you&#39;re appearing at a trade show or exhibition, branded games make sure guests associate your business with fun! Find out about some of our options here."
 redirect_from:
   - "/news/2023-07-14/make-trade-shows-fun-with-branded-exhibition-games/"
+thumbnail: "/images/news/make-trade-shows-fun-with-branded-exhibition-games.jpg"
 ---
 
 Trade shows are a dynamic platform for businesses to connect with potential clients, showcase their products and services, and try to stick in people's minds. In this competitive landscape, standing out at bustling trade shows is key to drawing crowds and capturing attention. At Fun Pro UK, we're here to help you find success at trade shows with our range of [branded games](/events/brand-activation/#content).  

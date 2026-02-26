@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2023-03-01/party-hire-experts-looking-forwards-to-march-events/"
 gallery:
   - "/images/news/batak23.jpg"
+thumbnail: "/images/news/batak23.jpg"
 ---
 
 We're thrilled to share some exciting updates about our event supply services and game hire options as we kick off the month of March.

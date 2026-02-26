@@ -7,6 +7,7 @@ meta_title: "Great Day At Wootton Park – Event Game Rentals | Fun Pro UK"
 meta_description: "A great day at Wootton Park wedding fair. Our Magic Mirror generated plenty of interest from couples planning their Warwickshire weddings."
 redirect_from:
   - "/news/2016-10-18/great-day-had-at-wootton-park/"
+thumbnail: "/images/news/great-day-had-at-wootton-park.jpg"
 ---
 
 On Sunday 17th October 2016 Perfect Snap attended the wedding fair at Wootton Park, Henley In Arden.

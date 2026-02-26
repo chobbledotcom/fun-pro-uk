@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2016-11-13/christmas-photo-booth/"
 gallery:
   - "/images/news/gimp5.jpg"
+thumbnail: "/images/news/gimp5.jpg"
 ---
 
 Yeah!! Look what Perfect Snap has for Christmas!  

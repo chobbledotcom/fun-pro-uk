@@ -7,6 +7,7 @@ meta_title: "Another Great Review – Fun Event Game Hire | Fun Pro UK"
 meta_description: "Another five-star review for Fun Pro UK. Read what our customers say about our Magic Mirror hire and the professional service we provide."
 redirect_from:
   - "/news/2016-12-19/another-great-review/"
+thumbnail: "/images/news/another-great-review.jpg"
 ---
 
 Another fantastic review received from one of our many happy Perfectsnap  

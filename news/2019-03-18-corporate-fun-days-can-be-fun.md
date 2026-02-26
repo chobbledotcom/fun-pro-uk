@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-03-18/corporate-fun-days-can-be-fun/"
 gallery:
   - "/images/news/fundays.png"
+thumbnail: "/images/news/fundays.png"
 ---
 
 ## Do you appreciate your staff?

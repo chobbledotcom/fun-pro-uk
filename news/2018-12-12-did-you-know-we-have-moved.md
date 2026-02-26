@@ -7,6 +7,7 @@ meta_title: "We Have Moved – Event Game Hire Updates | Fun Pro UK"
 meta_description: "Fun Pro UK has moved to bigger premises to meet growing demand. Our new space lets us offer a wider range of interactive games and photo booths."
 redirect_from:
   - "/news/2018-12-12/did-you-know-we-have-moved/"
+thumbnail: "/images/news/did-you-know-we-have-moved.jpg"
 ---
 
 Did you hear that we recently moved premises? Why, I hear you ask.

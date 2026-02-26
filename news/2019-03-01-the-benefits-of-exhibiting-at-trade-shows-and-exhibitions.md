@@ -7,6 +7,7 @@ meta_title: "Benefits Of Exhibiting At Trade Shows | Fun Pro UK"
 meta_description: "The benefits of exhibiting at trade shows. How interactive games on your stand attract visitors, generate leads and make your brand memorable."
 redirect_from:
   - "/news/2019-03-01/the-benefits-of-exhibiting-at-trade-shows-and-exhibitions/"
+thumbnail: "/images/news/the-benefits-of-exhibiting-at-trade-shows-and-exhibitions.jpg"
 ---
 
 Have you been thinking about exhibiting at a trade show or exhibition but are not sure if it's worth your while? We've had a stand at numerous different expos over the years, from business exhibitions to wedding shows and have found they have many benefits.

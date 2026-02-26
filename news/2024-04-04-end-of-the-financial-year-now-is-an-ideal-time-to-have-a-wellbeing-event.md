@@ -7,6 +7,7 @@ meta_title: "End of the Financial Year! Now is the time to have a wellbeing even
 meta_description: "The end of the financial year is the perfect time for a staff wellbeing event. Boost team morale with interactive games and fun activities."
 redirect_from:
   - "/news/2024-04-04/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event/"
+thumbnail: "/images/news/end-of-the-financial-year-now-is-an-ideal-time-to-have-a-wellbeing-event.png"
 ---
 
 **End of the Financial Year! Now is an ideal time to have a wellbeing event.**

@@ -7,6 +7,7 @@ meta_title: "Weekend Of 29th July – Event Game Hire Services | Fun Pro UK"
 meta_description: "A busy July weekend for Fun Pro UK providing photo booths and magic mirrors at weddings across Warwickshire and Birmingham venues."
 redirect_from:
   - "/news/2017-07-31/weekend-of-29th-july-2017/"
+thumbnail: "/images/news/weekend-of-29th-july-2017.jpg"
 ---
 
 Wow! I can't tell you what a busy weekend we have had here at Perfect Snap. We seem to have been all over the place! On Friday we were at a beautiful wedding with a [green screen photo booth](/products/green-screen-photo-booths/#content) and our spectacular LOVE letters at Ardencote Manor, Warwickshire. This was a gorgeous venue where the guests were really in the mood to party! Our LOVE letters made a fabulous back drop shining brightly in the background. A 'lovely' effect!  

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-12-15/brand-activation-in-birmingham-how-to-make-an-impact-in-one-of-the-uks-fastest-growing-cities/"
 gallery:
   - "/images/news/city-of-birmingham.jpg"
+thumbnail: "/images/news/city-of-birmingham.jpg"
 ---
 
 ![](/images/news/city-of-birmingham.jpg)

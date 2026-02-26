@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-03-18/boost-team-spirit-with-these-ideas-for-your-next-work-social-event/"
 gallery:
   - "/images/news/prize-crane-arcade-grabber.jpg"
+thumbnail: "/images/news/prize-crane-arcade-grabber.jpg"
 ---
 
 Organising a work social event is a great way to strengthen team bonds, improve morale, and create a positive workplace culture. But with so many options available, how do you choose the perfect activities? Whether you're planning a small [staff party](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content) or a large-scale [corporate event](/categories/corporate-entertainment/#content), incorporating things like [interactive games](/categories/interactive-game-hire/#content) can make all the difference.

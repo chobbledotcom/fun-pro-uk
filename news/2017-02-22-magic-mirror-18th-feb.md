@@ -7,6 +7,7 @@ meta_title: "Magic Mirror 18th Feb – Interactive Photo Booth Hire"
 meta_description: "Our Magic Mirror at Blackwell Grange in Warwickshire. Wedding guests loved the selfies, props and personalised guest book prints."
 redirect_from:
   - "/news/2017-02-22/magic-mirror-18th-feb/"
+thumbnail: "/images/news/magic-mirror-18th-feb.jpg"
 ---
 
 On Saturday 18th February, the Perfect Snap team attended a new venue. We spent the evening at Blackwell Grange. A beautiful venue in Shipston On Stour which is located on the outskirts of [Stratford Upon Avon, Warwickshire.](/delivery-areas/#content)  

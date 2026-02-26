@@ -7,6 +7,7 @@ meta_title: "7 Ways To Show Your Staff Appreciation | Fun Pro UK"
 meta_description: "Seven ways to show your staff appreciation. From thank-you notes and team events to company awards and fun days that boost workplace morale."
 redirect_from:
   - "/news/2019-01-30/7-ways-to-show-your-staff-some-love/"
+thumbnail: "/images/news/7-ways-to-show-your-staff-some-love.jpg"
 ---
 
 February is known as the month of love, with February 14th, Valentine's day, seen as a chance to show your partner how much you love them. The greeting card companies do a roaring trade, the florists sell huge numbers of flowers, and restaurants are all booked up by couples celebrating their relationship.

@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-09-12/why-manchester-is-the-perfect-city-for-brand-activation-events/"
 gallery:
   - "/images/news/manchester.jpg"
+thumbnail: "/images/news/manchester.jpg"
 ---
 
 ![](/images/news/manchester.jpg)

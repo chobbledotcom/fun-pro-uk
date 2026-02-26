@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2023-04-06/happy-easter-prepare-for-summertime-fun/"
 gallery:
   - "/images/news/img-20220617-wa0004.jpg"
+thumbnail: "/images/news/img-20220617-wa0004.jpg"
 ---
 
 At Fun Pro UK, we want to wish everyone a very happy Easter! Whether you're celebrating with family, friends, or just enjoying some time off work, we hope you have a fun and festive holiday.

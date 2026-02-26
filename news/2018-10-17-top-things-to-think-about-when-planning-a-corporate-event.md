@@ -7,6 +7,7 @@ meta_title: "Top Tips For Planning Corporate Events | Fun Pro UK"
 meta_description: "Key things to consider when planning a corporate event. Advice on purpose, marketing, entertainment, logistics and post-event debriefs."
 redirect_from:
   - "/news/2018-10-17/top-things-to-think-about-when-planning-a-corporate-event/"
+thumbnail: "/images/news/top-things-to-think-about-when-planning-a-corporate-event.jpg"
 ---
 
 When it comes to planning a [corporate event](/categories/corporate-entertainment/#content) there is lots to think about from the venue to the theme, sending out invitations to staffing. But don't worry as we have put together a list of the important things to remember when planning an event.

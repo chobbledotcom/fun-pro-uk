@@ -7,6 +7,7 @@ meta_title: "Will & Sam Wedding – Event Entertainment Services"
 meta_description: "Will and Sam's wedding at Shustoke Farm Barns with our Magic Selfie Mirror. Guests enjoyed personalised prints and an evening of fun."
 redirect_from:
   - "/news/2016-11-05/will-and-sam-2nd-november-2016/"
+thumbnail: "/images/news/will-and-sam-2nd-november-2016.jpg"
 ---
 
 It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/products/magic-mirror/#content) for the wedding of Will and Sam.

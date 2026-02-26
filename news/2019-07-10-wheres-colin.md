@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2019-07-10/wheres-colin/"
 gallery:
   - "/images/news/20190619-160019.jpg"
+thumbnail: "/images/news/20190619-160019.jpg"
 ---
 
 ## Summer Event Fun

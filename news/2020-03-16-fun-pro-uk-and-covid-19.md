@@ -7,6 +7,7 @@ meta_title: "Fun Pro UK And Covid-19 – Event Safety Measures | Fun Pro UK"
 meta_description: "How Fun Pro UK is responding to COVID-19. Our safety measures, cleaning protocols and flexible booking policies for events during the pandemic."
 redirect_from:
   - "/news/2020-03-16/fun-pro-uk-and-covid-19/"
+thumbnail: "/images/news/clear-back-ground-logo.png"
 ---
 
 Fun Pro Uk and COVID-19

@@ -7,6 +7,7 @@ meta_title: "Electronic Basketball Hire – Fun Interactive Game"
 meta_description: "Electronic basketball game hire for corporate events, conferences and team building. A fast-paced, competitive game that gets everyone involved."
 redirect_from:
   - "/news/2018-10-11/energetic-electronic-basket-ball-hire/"
+thumbnail: "/images/news/energetic-electronic-basket-ball-hire.jpg"
 ---
 
 Looking for something different to entertain your guests at your upcoming event?

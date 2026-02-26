@@ -7,6 +7,7 @@ meta_title: "Benefits Of Team Building Days – Game Hire Solutions"
 meta_description: "The benefits of team building days for your company. How interactive games and group activities improve communication, morale and productivity."
 redirect_from:
   - "/news/2018-08-22/benefits-of-team-building-days/"
+thumbnail: "/images/news/benefits-of-team-building-days.jpg"
 ---
 
 In every corporate business there is a variety of people interacting with one another on daily tasks and projects. The effectiveness of this communication will determine the success of the business. If colleagues can learn to work together through activities outside their usual tasks, there can be a better working relationship delivering cohesive results across departments.

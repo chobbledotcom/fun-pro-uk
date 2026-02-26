@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-12-05/10-best-christmas-games-for-memorable-office-parties/"
 gallery:
   - "/images/news/candy-cane-crush-fun-pro.jpg"
+thumbnail: "/images/news/candy-cane-crush-fun-pro.jpg"
 ---
 
 ![](/images/news/candy-cane-crush-fun-pro.jpg)

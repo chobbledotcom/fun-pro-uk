@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-09-26/the-complete-guide-to-choosing-the-right-venue-for-your-corporate-event/"
 gallery:
   - "/images/news/fun-pro-corporate-event.jpg"
+thumbnail: "/images/news/fun-pro-corporate-event.jpg"
 ---
 
 ![](/images/news/fun-pro-corporate-event.jpg)

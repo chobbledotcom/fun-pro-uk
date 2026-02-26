@@ -7,6 +7,7 @@ meta_title: "Ettington Park Wedding Fair – Fun Event Games | Fun Pro UK"
 meta_description: "Fun Pro UK at the Ettington Park wedding fair showcasing our photo booths and Magic Mirror. Find the perfect entertainment for your wedding day."
 redirect_from:
   - "/news/2017-10-17/wedding-fair-at-ettington-park/"
+thumbnail: "/images/news/wedding-fair-at-ettington-park.jpg"
 ---
 
 On Sunday we attended a very busy [wedding](/categories/weddings/#content) fair at Ettington Park Hotel in Stratford Upon Avon. The hotel is on the far side of Stratford, approximately 6 miles from the town and is situated in stunning countryside with the River Stour running through the estate.

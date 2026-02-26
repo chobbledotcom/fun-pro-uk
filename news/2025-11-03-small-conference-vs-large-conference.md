@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-11-03/small-conference-vs-large-conference/"
 gallery:
   - "/images/news/group-of-professional-people-celebrating.jpg"
+thumbnail: "/images/news/group-of-professional-people-celebrating.jpg"
 ---
 
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment

@@ -7,6 +7,7 @@ meta_title: "Draycote Wedding Fair – Event Entertainment Options"
 meta_description: "Fun Pro UK at the Draycote Hotel wedding fair. See our photo booths and Magic Mirror entertainment options for your wedding reception."
 redirect_from:
   - "/news/2017-02-12/draycote-wedding-fair/"
+thumbnail: "/images/news/draycote-wedding-fair.jpg"
 ---
 
 Team Perfect Snap are getting excited for the Wedding Inspo Evening which we are attending this a Thursday 16th February 2027 at the [Draycote Hotel in Rugby, Warwickshire.](/delivery-areas/#content)

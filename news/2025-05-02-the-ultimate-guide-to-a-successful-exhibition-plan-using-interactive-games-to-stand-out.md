@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-05-02/the-ultimate-guide-to-a-successful-exhibition-plan-using-interactive-games-to-stand-out/"
 gallery:
   - "/images/news/whack-a-mole.jpg"
+thumbnail: "/images/news/whack-a-mole.jpg"
 ---
 
 ![](/images/news/whack-a-mole.jpg)

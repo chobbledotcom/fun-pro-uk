@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-11-28/essential-conference-equipment-checklist-what-every-event-planner-needs/"
 gallery:
   - "/images/news/uk-conference.jpg"
+thumbnail: "/images/news/uk-conference.jpg"
 ---
 
 ![](/images/news/uk-conference.jpg)

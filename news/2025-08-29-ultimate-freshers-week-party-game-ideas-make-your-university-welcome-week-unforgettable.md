@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2025-08-29/ultimate-freshers-week-party-game-ideas-make-your-university-welcome-week-unforgettable/"
 gallery:
   - "/images/news/coconut-shy.jpg"
+thumbnail: "/images/news/coconut-shy.jpg"
 ---
 
 ![](/images/news/coconut-shy.jpg)

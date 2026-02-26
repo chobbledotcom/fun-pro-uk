@@ -9,6 +9,7 @@ redirect_from:
   - "/news/2020-01-07/conference-entertainment-keep-your-guests-entertained-this-year/"
 gallery:
   - "/images/news/20190619-160019.jpg"
+thumbnail: "/images/news/20190619-160019.jpg"
 ---
 
 ## Conference Entertainment

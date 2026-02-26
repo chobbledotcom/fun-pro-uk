@@ -7,6 +7,7 @@ meta_title: "Celebrate Christmas and the New Year in Style! | News & Blogs"
 meta_description: "We have some amazing party supplies for your Christmas and New Years events. Mobile casinos, climbing walls, red carpets, interactive games and more!"
 redirect_from:
   - "/news/2023-11-30/celebrate-christmas-and-the-new-year-in-style/"
+thumbnail: "/images/news/celebrate-christmas-and-the-new-year-in-style.jpg"
 ---
 
 As the festive season twinkles on the horizon, it's time to think about how to bid a grand farewell to this year and usher in the new one with pomp and splendor. Whether you're planning an office Christmas party or a dazzling New Year's Eve bash, Fun Pro UK is here to take your celebrations to an extraordinary level with [Christmas games](/categories/christmas-game-hire/#content) and event supplies that you'll love.

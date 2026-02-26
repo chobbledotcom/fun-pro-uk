@@ -7,6 +7,7 @@ meta_title: "Showcasing at the NEC? | Birmingham Branded Exhibition Game"
 meta_description: "Fun Pro UK is local to the NEC, so we&#39;re always delivering amazing branded games to exhibitions at the Birmingham events centre. Find out more in our blog!"
 redirect_from:
   - "/news/2023-05-11/showcasing-at-the-nec-were-local-branded-exhibition-stand-game-experts/"
+thumbnail: "/images/news/showcasing-at-the-nec-were-local-branded-exhibition-stand-game-experts.png"
 ---
 
 Are you ready to take your exhibition presence to the next level? Based in Birmingham and the West Midlands, we at Fun Pro UK are your go-to destination for [exhibition stand game hire at the NEC Birmingham](/locations/birmingham/nec/#content)! With our range of branded games and top-notch services, we're here to inject a dose of excitement and make your exhibition stand truly unforgettable.

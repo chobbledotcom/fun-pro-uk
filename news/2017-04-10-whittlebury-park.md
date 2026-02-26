@@ -7,6 +7,7 @@ meta_title: "Whittlebury Park Event – Fun Event Game Hire | Fun Pro UK"
 meta_description: "Fun Pro UK at Whittlebury Park providing entertainment for a special event. See how our games and photo booths added to the celebrations."
 redirect_from:
   - "/news/2017-04-10/whittlebury-park/"
+thumbnail: "/images/news/whittlebury-park.jpg"
 ---
 
 On Saturday evening we were in attendance at the [wedding reception](/categories/weddings/#content) of William and Jaimie. The bride looked stunning as did her maids.  

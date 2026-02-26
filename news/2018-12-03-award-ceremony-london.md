@@ -7,6 +7,7 @@ meta_title: "Award Ceremony London – Event Game Rentals | Fun Pro UK"
 meta_description: "Branded green screen photo booth at a London corporate awards night. See how we delivered entertainment for a major aviation company event."
 redirect_from:
   - "/news/2018-12-03/award-ceremony-london/"
+thumbnail: "/images/news/award-ceremony-london.jpg"
 ---
 
 Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near London.
