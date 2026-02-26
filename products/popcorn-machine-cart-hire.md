@@ -58,8 +58,7 @@ options:
 redirect_from:
   - /category/fun-fair-stalls/93/popcorn-machine-cart-hire/
 gallery:
-  - /images/products/popcorn-machine-cart-hire/WhatsApp Image 2026-02-12 at
-    09.13.05.jpeg
+  - /images/products/popcorn-machine-cart-hire/whatsapp-image-2026-02-12-at-09.13.05.jpeg
   - /images/products/popcorn-machine-cart-hire/popcorn-machine-cart-hire-1.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c1045d47b7f1215ca7ec322f8b76a4e

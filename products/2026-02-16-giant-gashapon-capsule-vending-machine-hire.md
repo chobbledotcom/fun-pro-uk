@@ -96,7 +96,7 @@ faqs:
     answer: Yes, the familiar arcade format appeals to all ages. The skill-based
       challenge creates genuine satisfaction when players pick a capsule prize.
 gallery:
-  - /images/products/Gum Ball Machine/lbr99hchuqc3giznqxu7.webp
+  - /images/products/gum-ball-machine/lbr99hchuqc3giznqxu7.webp
 specs:
   - name: Players
     value: "1"
