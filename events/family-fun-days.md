@@ -36,17 +36,17 @@ below_products: |
 
   A family fun day means exactly that — from toddlers to grandparents. Mix your activities to cover different age groups and energy levels:
 
-  **For younger children:** [Giant Connect 4](/products/giant-connect-4-game-hire/#content), [Giant Jenga](/products/giant-jenga-hire/#content) and [Crazy Golf](/products/crazy-golf/#content) are easy to understand and satisfying to play at any age.
+  **For younger children:** [Giant Connect 4](/products/giant-connect-4-game-hire), [Giant Jenga](/products/giant-jenga-hire) and [Crazy Golf](/products/crazy-golf) are easy to understand and satisfying to play at any age.
 
-  **For older children and teenagers:** [Dance Machines](/products/dance-machine/#content), [Racing Simulators](/products/racing-car-simulators/#content) and [Retro Arcade Games](/products/retro-arcade-games/#content) draw this age group like magnets. Competitive games like [Batak Lite](/products/batak-lite/#content) are popular with teens who want to beat each other's scores.
+  **For older children and teenagers:** [Dance Machines](/products/dance-machine), [Racing Simulators](/products/racing-car-simulators) and [Retro Arcade Games](/products/retro-arcade-games) draw this age group like magnets. Competitive games like [Batak Lite](/products/batak-lite) are popular with teens who want to beat each other's scores.
 
-  **For adults:** [Table Football](/products/football-tables/#content), [Air Hockey](/products/air-hockey-table-hire/#content) and [Casino Tables](/products/casino-table-hire/#content) give grown-ups their own entertainment. [Photo Booths](/categories/photo-booths-and-magic-mirrors/#content) appeal to every age group and create lasting memories.
+  **For adults:** [Table Football](/products/football-tables), [Air Hockey](/products/air-hockey-table-hire) and [Casino Tables](/products/casino-table-hire) give grown-ups their own entertainment. [Photo Booths](/categories/photo-booths-and-magic-mirrors) appeal to every age group and create lasting memories.
 
-  **For everyone:** [Prize Wheels](/products/prize-wheel/#content) and [Prize Cranes](/products/prize-crane-arcade-grabber/#content) are universal crowd-pleasers. Add small prizes for children and vouchers or gifts for adults.
+  **For everyone:** [Prize Wheels](/products/prize-wheel) and [Prize Cranes](/products/prize-crane-arcade-grabber) are universal crowd-pleasers. Add small prizes for children and vouchers or gifts for adults.
 
   ### 5. Think About Food and Drink
 
-  Food is a big part of any fun day. We can supply [fun food options](/categories/fun-foods/#content) alongside your games — candy floss carts, popcorn machines, and pick 'n' mix stands all add to the atmosphere and save you sourcing separate catering for snacks.
+  Food is a big part of any fun day. We can supply [fun food options](/categories/fun-foods) alongside your games — candy floss carts, popcorn machines, and pick 'n' mix stands all add to the atmosphere and save you sourcing separate catering for snacks.
 
   For main meals, consider a BBQ, hog roast or street food van. Build a lunch break into your schedule rather than expecting people to eat and play at the same time.
 
@@ -77,7 +77,7 @@ below_products: |
 
   ## Ready to Start Planning?
 
-  [Browse our fun day games](/categories/fun-days/#content) to see what's available, or [contact us](/contact-fun-pro-uk/#content) to talk through your plans. We'll recommend activities based on your numbers, venue and budget, and provide a no-obligation quote.
+  [Browse our fun day games](/categories/fun-days) to see what's available, or [contact us](/contact-fun-pro-uk) to talk through your plans. We'll recommend activities based on your numbers, venue and budget, and provide a no-obligation quote.
 ---
 
 # Organising a Family Fun Day

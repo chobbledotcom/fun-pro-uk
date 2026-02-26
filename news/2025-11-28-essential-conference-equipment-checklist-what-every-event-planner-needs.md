@@ -13,11 +13,11 @@ gallery:
 
 ![](/images/news/uk-conference.jpg)
 
-Planning a [conference](/events/conference-idea/#content) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.
+Planning a [conference](/events/conference-idea) means juggling countless details whilst hoping nothing falls through the cracks. You're responsible for creating an event that runs smoothly, keeps attendees engaged, and reflects well on your organisation. The equipment you choose plays a crucial role in making this happen.
 
 The challenge is knowing exactly what you need. Miss something essential, and you're scrambling for solutions on the day. Overorder, and you're wasting your budget that could be better spent elsewhere. This comprehensive checklist breaks down everything you need to consider, from the obvious essential equipment to the often-forgotten items that can save your event when things don't go to plan.
 
-We'll explore the key equipment that every conference requires, the [interactive entertainment](/categories/interactive-game-hire/#content) elements that transform attendee experience, and the practical items that experienced event planners always keep on hand. Whether you're organising your first conference or your fiftieth, having a clear equipment checklist takes the guesswork out of planning and gives you confidence that everything's covered.
+We'll explore the key equipment that every conference requires, the [interactive entertainment](/categories/interactive-game-hire) elements that transform attendee experience, and the practical items that experienced event planners always keep on hand. Whether you're organising your first conference or your fiftieth, having a clear equipment checklist takes the guesswork out of planning and gives you confidence that everything's covered.
 
 ## The Foundation: Core Conference Equipment Every Planner Must Have
 
@@ -69,19 +69,19 @@ Once you've covered the essentials, it's time to think about equipment that take
 
 ### Interactive Entertainment and Networking Equipment
 
-Here's something many event planners overlook: entertainment equipment isn't a nice-to-have extra for conferences. It's an essential tool for achieving your event goals, whether that's networking, [team building](/events/team-building-entertainment/#content), or keeping energy levels high throughout a long day.
+Here's something many event planners overlook: entertainment equipment isn't a nice-to-have extra for conferences. It's an essential tool for achieving your event goals, whether that's networking, [team building](/events/team-building-entertainment), or keeping energy levels high throughout a long day.
 
 These serve a real purpose at corporate conferences. They create natural conversation starters, break down the professional barriers that can make networking awkward, and give colleagues a chance to interact in a completely different context. This isn't about being frivolous; it's about recognising that people connect better when they're relaxed and enjoying themselves.
 
-Games like [Batak Lite](/products/batak-lite/#content), [Batak Pro](/products/batak-pro/#content), and [Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content) work brilliantly in breakout spaces. They're quick to play, suitable for all ages and abilities, and naturally draw small crowds of spectators who then join in. These games create energy and buzz that carries through to the rest of your [conference](/events/conference-idea/#content).
+Games like [Batak Lite](/products/batak-lite), [Batak Pro](/products/batak-pro), and [Strike a Light](/products/danger-zone-strike-a-light-game-hire) work brilliantly in breakout spaces. They're quick to play, suitable for all ages and abilities, and naturally draw small crowds of spectators who then join in. These games create energy and buzz that carries through to the rest of your [conference](/events/conference-idea).
 
-These can be [branded](/events/brand-activation/#content) to match your conference content. [Racing simulators](/products/racing-car-simulators/#content) add excitement to automotive industry events. Golf simulators work well for corporate hospitality. The key is choosing equipment that complements your event rather than distracting from it.
+These can be [branded](/events/brand-activation) to match your conference content. [Racing simulators](/products/racing-car-simulators) add excitement to automotive industry events. Golf simulators work well for corporate hospitality. The key is choosing equipment that complements your event rather than distracting from it.
 
-[Photo booths](/products/classic-photo-booths/#content) are always a popular addition to conferences and different types of corporate events. They encourage social sharing and give attendees tangible memories of your event. When people post conference photos to LinkedIn or Instagram, you're extending your event's reach far beyond the people in the room.
+[Photo booths](/products/classic-photo-booths) are always a popular addition to conferences and different types of corporate events. They encourage social sharing and give attendees tangible memories of your event. When people post conference photos to LinkedIn or Instagram, you're extending your event's reach far beyond the people in the room.
 
-Why does this matter? Because conference equipment hire isn't just about having games available, it's about understanding how [interactive entertainment](/categories/interactive-game-hire/#content) fits into your broader event strategy. The right entertainment equipment reduces the dreaded "conference slump" that hits after lunch. It facilitates genuine networking rather than forced small talk. It helps introverted attendees feel more comfortable participating.
+Why does this matter? Because conference equipment hire isn't just about having games available, it's about understanding how [interactive entertainment](/categories/interactive-game-hire) fits into your broader event strategy. The right entertainment equipment reduces the dreaded "conference slump" that hits after lunch. It facilitates genuine networking rather than forced small talk. It helps introverted attendees feel more comfortable participating.
 
-At [Fun Pro](/about-corporate-entertainment-hire/#content), we've spent over 15 years helping corporate event planners understand which entertainment equipment works for different conference formats. Not every game suits every event, and part of our role is helping you choose equipment that matches your audience, your venue constraints, and your specific objectives.
+At [Fun Pro](/about-corporate-entertainment-hire), we've spent over 15 years helping corporate event planners understand which entertainment equipment works for different conference formats. Not every game suits every event, and part of our role is helping you choose equipment that matches your audience, your venue constraints, and your specific objectives.
 
 ### Catering and Hospitality Equipment
 
@@ -117,11 +117,11 @@ Experienced event planners know that the small, unglamorous items often make the
 
 Strategic timing makes equipment planning manageable rather than overwhelming. Here's when to tackle key equipment tasks:
 
-Start securing primary equipment suppliers. Popular dates book up quickly, particularly during busy conference seasons in spring and autumn. [Get quotes](/contact-fun-pro-uk/#content), compare packages, and secure bookings for critical items like AV equipment and any specialist entertainment equipment.
+Start securing primary equipment suppliers. Popular dates book up quickly, particularly during busy conference seasons in spring and autumn. [Get quotes](/contact-fun-pro-uk), compare packages, and secure bookings for critical items like AV equipment and any specialist entertainment equipment.
 
 Confirm all bookings and specifications in writing. Send floor plans to equipment suppliers showing exactly where items need positioning. Discuss power requirements, access times for setup, and any venue restrictions. This is when you finalise numbers and make adjustments based on current registration figures.
 
-Finalise exact quantities and timing. Confirm [delivery](/delivery-areas/#content) schedules, setup windows, and collection arrangements. Brief your team on equipment locations and who's responsible for liaising with different suppliers.
+Finalise exact quantities and timing. Confirm [delivery](/delivery-areas) schedules, setup windows, and collection arrangements. Brief your team on equipment locations and who's responsible for liaising with different suppliers.
 
 Conduct a venue walkthrough with equipment suppliers. Walk through your floor plan in the actual space, identify any potential problems, and confirm that what you've planned will work in practice. This site visit often reveals issues that weren't obvious on paper.
 

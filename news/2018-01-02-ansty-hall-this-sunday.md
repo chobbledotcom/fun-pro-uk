@@ -9,9 +9,9 @@ redirect_from:
   - "/news/2018-01-02/ansty-hall-this-sunday/"
 ---
 
-We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/categories/weddings/#content) fayre of 2018!
+We are getting excited at Perfect Snap HQ. This Sunday, 7th January at 1200 will be the first [wedding](/categories/weddings) fayre of 2018!
 
-Our Green Screen Dream Machine 3D Photo booth , [Magic Selfie Mirror](/products/magic-mirror/#content) and Social Media Pod will all be on display for you to strike your pose and have your very own selfie taken there and then. Our hi-tech digital booths really are the talk of the town when it comes to your wedding entertainment. You and your guests will be amazed at the fun selfies they walk away with - it is an experience you will never forget!
+Our Green Screen Dream Machine 3D Photo booth , [Magic Selfie Mirror](/products/magic-mirror) and Social Media Pod will all be on display for you to strike your pose and have your very own selfie taken there and then. Our hi-tech digital booths really are the talk of the town when it comes to your wedding entertainment. You and your guests will be amazed at the fun selfies they walk away with - it is an experience you will never forget!
 
 The talking Magic Mirror will be in full swing - listen out for Donkey's cheeky comments as you stop by for a photo - nobody can resist a selfie with him!
 

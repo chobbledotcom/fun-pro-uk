@@ -17,18 +17,18 @@ faqs:
     answer: "Yes! Our team of professionals will take care of the entire logistics process for you. We'll handle delivery, set-up, and retrieval for each game you hire. We can also provide onsite support if you need it."
   - question: "How much space is required for interactive games?"
     answer: |
-      The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](/products/air-hockey-table-hire/#content) may be more compact.
+      The amount of space you need for interactive games depends on the specific game or activity. Games like our Giant Jenga or Bungee Run need a larger area, while others, like the Scalextric Slot Car Racing or the [Air Hockey Table](/products/air-hockey-table-hire) may be more compact.
       
       When you're planning your event, consider the dimensions of the games and the available space at your venue. Talk to us if you need help, and we'll be happy to assist.
   - question: "Are the games suitable for all age groups?"
     answer: "Yes! Our interactive games cater to a wide range of age groups. We have indoor party games for adults and entertaining party games for the kids."
   - question: "Can the games be customised with branding or themes?"
-    answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/events/wedding-entertainment/#content), a team building, or a corporate event."
+    answer: "Yes! We know that interactive games can be powerful tools for your business, so we offer interactive games that can be adorned with custom graphics, including your company colours and logos. We also have interactive games that can be customised to fit the theme of your event, whether that's a [wedding](/events/wedding-entertainment), a team building, or a corporate event."
   - question: "Can I hire the games for corporate events or team-building activities?"
-    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/events/team-building-entertainment/#content). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
+    answer: "Yes, absolutely! Interactive games are an excellent choice for corporate events and [team-building activities](/events/team-building-entertainment). We have lots of games that are designed to encourage participation, promote collaboration, problem-solving, and communication skills, and they're perfect for corporate settings."
 below_products: |
   ## Our Interactive Game Collection
-  Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](/products/retro-arcade-games/#content). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it's over, everyone can walk away with exciting memories and fun experiences they won't forget.
+  Let your guests simulate a career on the race track, play a crazy game of golf, or spend a nostalgic day at a [retro arcade](/products/retro-arcade-games). We have different kinds of interactive games that will suit the theme and the atmosphere of any event. And when it's over, everyone can walk away with exciting memories and fun experiences they won't forget.
 
   Look through our collection of interactive game hires to find a price that suits your needs.
 
@@ -50,11 +50,11 @@ below_products: |
 
   ✓ Weddings
 
-  ✓ [Exhibitions](/events/exhibition-games/#content)
+  ✓ [Exhibitions](/events/exhibition-games)
 
   ✓ Corporate entertainment
 
-  ✓ [Corporate events](/categories/corporate-entertainment/#content)
+  ✓ [Corporate events](/categories/corporate-entertainment)
 
   ✓ Fun days
 
@@ -64,7 +64,7 @@ below_products: |
 
   ... and so much more!
 
-  [Fun Pro](/#content) is here to bring a lively atmosphere and endless fun to all your parties and events.
+  [Fun Pro]() is here to bring a lively atmosphere and endless fun to all your parties and events.
 
   ## Why Choose Our Interactive Game Hire Service?
   More than just a set of game rentals to use, Fun Pro is here to help you build lasting memories at every event.
@@ -106,7 +106,7 @@ below_products: |
 
   When the event is over, we'll handle the safe and efficient removal of all the interactive games, leaving your venue exactly as we found it.
 
-  Whatever interactive game hire you choose, you can rest assured that you're with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](/events/family-fun-days/#content) and company games, so you know you're getting some top notch equipment that's also maintained to the highest standards.
+  Whatever interactive game hire you choose, you can rest assured that you're with an experienced team that has catered to many events nationwide. Fun Pro delivers exceptional products and quality customer service. We only invest in the best possible [interactive family games](/events/family-fun-days) and company games, so you know you're getting some top notch equipment that's also maintained to the highest standards.
 
   ## Ready to take your event to the next level?
   Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, Leicester, Nottingham, or any other location in the UK!
@@ -115,7 +115,7 @@ below_products: |
 
   Interactive game hire is a great way to draw a crowd to your product launch or exhibition stand, especially in a busy venue where everyone is competing for attention. People will not only flock to have a go, they'll stay to watch other players too, giving you plenty of time to talk to them.
 
-  You can [hire retro arcade games](/products/retro-arcade-games/#content), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](/products/electronic-basket-ball-hire/#content) that really get the crowd involved.
+  You can [hire retro arcade games](/products/retro-arcade-games), racing car simulators or reaction games that really test your speed and skill. Alternatively, for a simpler approach to fun you can choose classics like pluck the duck or a double hoop [basketball challenge](/products/electronic-basket-ball-hire) that really get the crowd involved.
 
   ### Take a break
 
@@ -137,4 +137,4 @@ below_products: |
 ---
 
 # Trusted Interactive Game Hire in the UK
-Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/categories/grab-a-grand/#content). Fun Pro offers entertainment that suits any audience and any occasion.
+Looking for an interactive game hire that will bring your event to life? We have different kinds of interactive games available - from the simplicity of the fairground buzz wire challenge, to TV favourites like [Grab-a-Grand](/categories/grab-a-grand). Fun Pro offers entertainment that suits any audience and any occasion.

@@ -21,10 +21,10 @@ Since 2009 we've supplied games, inflatables and entertainment to schools, colle
 
 We regularly provide entertainment for:
 
-- **Schools** — end-of-term celebrations, sports days, PTA fundraisers and reward days. Our [school entertainment](/events/school-entertainment/#content) page has the full rundown.
-- **Universities and colleges** — [freshers fairs](/categories/freshers-fair-games/#content), welcome weeks, graduation balls and end-of-year socials. We've provided Christmas entertainment for [Coventry University](/events/christmas-entertainment/#content) and helped Poundland run a [branded prize wheel activation](/pages/poundland-student-activation-success/#content) targeting freshers in Manchester.
-- **Community groups** — village fetes, cultural festivals and local fundraisers. We worked with Tilda Rice across [four UK Mela events](/pages/tilda-rice-across-multiple-uk-mela-events/#content) in Glasgow, Cardiff, Leicester and London, providing branded games that drew queues all day.
-- **Charities** — games that encourage participation and help boost [fundraising](/events/fundraising-events/#content) takings, from prize wheels and safe crackers to prize cranes.
+- **Schools** — end-of-term celebrations, sports days, PTA fundraisers and reward days. Our [school entertainment](/events/school-entertainment) page has the full rundown.
+- **Universities and colleges** — [freshers fairs](/categories/freshers-fair-games), welcome weeks, graduation balls and end-of-year socials. We've provided Christmas entertainment for [Coventry University](/events/christmas-entertainment) and helped Poundland run a [branded prize wheel activation](/pages/poundland-student-activation-success) targeting freshers in Manchester.
+- **Community groups** — village fetes, cultural festivals and local fundraisers. We worked with Tilda Rice across [four UK Mela events](/pages/tilda-rice-across-multiple-uk-mela-events) in Glasgow, Cardiff, Leicester and London, providing branded games that drew queues all day.
+- **Charities** — games that encourage participation and help boost [fundraising](/events/fundraising-events) takings, from prize wheels and safe crackers to prize cranes.
 
 ## Why Education and Community Organisers Choose Us
 
@@ -36,4 +36,4 @@ We regularly provide entertainment for:
 
 **Family-run, personally managed.** Colin and Liz handle bookings directly. You deal with the business owners, not a call centre.
 
-Browse our equipment below or [get in touch](/contact-fun-pro-uk/#content) to discuss your event. Call [02477220701](tel:02477220701) or visit our [contact page](/contact-fun-pro-uk/#content).
+Browse our equipment below or [get in touch](/contact-fun-pro-uk) to discuss your event. Call [02477220701](tel:02477220701) or visit our [contact page](/contact-fun-pro-uk).

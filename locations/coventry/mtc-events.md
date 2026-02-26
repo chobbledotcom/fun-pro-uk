@@ -16,16 +16,16 @@ We're based nearby and deliver to the MTC regularly. Every booking includes deli
 
 ## Games for Exhibitions and Product Launches
 
-Our [interactive games](/categories/interactive-game-hire/#content) bring exhibition spaces to life. [Racing simulators](/products/racing-car-simulators/#content) are a natural fit for automotive and manufacturing events at the MTC — they draw a crowd as people compete for the fastest lap, giving your stand maximum exposure.
+Our [interactive games](/categories/interactive-game-hire) bring exhibition spaces to life. [Racing simulators](/products/racing-car-simulators) are a natural fit for automotive and manufacturing events at the MTC — they draw a crowd as people compete for the fastest lap, giving your stand maximum exposure.
 
-[Batak Pro](/products/batak-pro/#content) and [Batak Lite](/products/batak-lite/#content), [giant buzz wire](/products/giant-buzz-wire/#content) and [dance machines](/products/dance-machine/#content) are all effective at getting attendees into your stand space and starting conversations.
+[Batak Pro](/products/batak-pro) and [Batak Lite](/products/batak-lite), [giant buzz wire](/products/giant-buzz-wire) and [dance machines](/products/dance-machine) are all effective at getting attendees into your stand space and starting conversations.
 
 ## Branded Games for Trade Shows
 
-Make your exhibition stand unmissable with [custom-branded games](/categories/branded-exhibition-games/#content). Our in-house team designs, prints and applies your company logo and colours to your chosen game, ensuring your brand is front and centre throughout the event.
+Make your exhibition stand unmissable with [custom-branded games](/categories/branded-exhibition-games). Our in-house team designs, prints and applies your company logo and colours to your chosen game, ensuring your brand is front and centre throughout the event.
 
 ## On Your Doorstep
 
 The MTC is one of our closest venues. That means minimal delivery costs, maximum flexibility and the ability to support your event at very short notice.
 
-[Get a quote](/quote/#content) for your next event at the MTC.
+[Get a quote](/quote) for your next event at the MTC.

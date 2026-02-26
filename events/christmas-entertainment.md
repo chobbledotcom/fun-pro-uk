@@ -18,7 +18,7 @@ below_products: |
 
   **8–10 weeks before:** Confirm your venue, guest numbers and budget. Get in touch with us to check availability for your preferred games and date. This is especially important for December Fridays and Saturdays.
 
-  **6–8 weeks before:** Finalise your game selection. If you want [custom branding](/events/brand-activation/#content) on games — your company logo on a prize crane or branded photo booth prints — we need artwork at this stage to allow time for our in-house print workshop.
+  **6–8 weeks before:** Finalise your game selection. If you want [custom branding](/events/brand-activation) on games — your company logo on a prize crane or branded photo booth prints — we need artwork at this stage to allow time for our in-house print workshop.
 
   **4 weeks before:** Confirm logistics. We'll need venue details for delivery access, setup time, and power supply. Most games need a standard 13A socket. Let us know if your venue has any restrictions.
 
@@ -30,21 +30,21 @@ below_products: |
 
   ### Office Christmas Parties
 
-  The atmosphere at an office party is relaxed and social. Games that encourage mingling and friendly competition work best. [Retro Arcade Games](/products/retro-arcade-games/#content) create natural gathering points. [Casino Tables](/products/casino-table-hire/#content) add a touch of sophistication. [Christmas Photo Booths](/products/christmas-photo-booths/#content) with festive props give everyone something to laugh about — and instant prints to take home.
+  The atmosphere at an office party is relaxed and social. Games that encourage mingling and friendly competition work best. [Retro Arcade Games](/products/retro-arcade-games) create natural gathering points. [Casino Tables](/products/casino-table-hire) add a touch of sophistication. [Christmas Photo Booths](/products/christmas-photo-booths) with festive props give everyone something to laugh about — and instant prints to take home.
 
-  For larger office parties, create zones: a games area with [Batak](/products/batak-lite/#content) and [Strike a Snowflake](/products/strike-a-snow-flake/#content), a relaxed area with [Scalextric](/products/scalextric-slot-car-racing/#content) and arcade machines, and a photo area with booth and props.
+  For larger office parties, create zones: a games area with [Batak](/products/batak-lite) and [Strike a Snowflake](/products/strike-a-snow-flake), a relaxed area with [Scalextric](/products/scalextric-slot-car-racing) and arcade machines, and a photo area with booth and props.
 
   ### Client Receptions and Corporate Dinners
 
-  More formal events need entertainment that complements rather than dominates. [Casino Tables](/products/casino-table-hire/#content) with a professional croupier suit the tone. A [Magic Mirror](/products/magic-mirror/#content) or photo booth in a foyer area gives guests something to enjoy during drinks without disrupting the main event.
+  More formal events need entertainment that complements rather than dominates. [Casino Tables](/products/casino-table-hire) with a professional croupier suit the tone. A [Magic Mirror](/products/magic-mirror) or photo booth in a foyer area gives guests something to enjoy during drinks without disrupting the main event.
 
   ### Team Building Christmas Events
 
-  If your Christmas event is doubling as a team day, competitive games bring out the best energy. [Reindeer Racing](/products/8-lane-reindeer-racing/#content) and [Roll & Bowl](/products/roll-and-bowl-reindeer-racing-game-hire/#content) create team vs team moments. [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content) and [Candy Cane Megawire](/products/candy-cane-megawire/#content) work as individual challenges with leaderboards.
+  If your Christmas event is doubling as a team day, competitive games bring out the best energy. [Reindeer Racing](/products/8-lane-reindeer-racing) and [Roll & Bowl](/products/roll-and-bowl-reindeer-racing-game-hire) create team vs team moments. [Candy Cane Snatch It](/products/candy-cane-snatch-it) and [Candy Cane Megawire](/products/candy-cane-megawire) work as individual challenges with leaderboards.
 
   ### Family Christmas Events
 
-  If children are attending, mix the entertainment. [Christmas Prize Cranes](/products/christmas-prize-crane/#content) appeal to all ages. [Giant Jenga](/products/giant-jenga-hire/#content) and [Giant Connect 4](/products/giant-connect-4-game-hire/#content) are family favourites. A [Santa's Grotto](/categories/christmas-grotto-hire/#content) with full set dressing creates a magical focal point for younger visitors.
+  If children are attending, mix the entertainment. [Christmas Prize Cranes](/products/christmas-prize-crane) appeal to all ages. [Giant Jenga](/products/giant-jenga-hire) and [Giant Connect 4](/products/giant-connect-4-game-hire) are family favourites. A [Santa's Grotto](/categories/christmas-grotto-hire) with full set dressing creates a magical focal point for younger visitors.
 
   ## Venue Considerations
 
@@ -68,7 +68,7 @@ below_products: |
 
   ## Get Started
 
-  [Browse our Christmas games](/categories/christmas-game-hire/#content) to see the full range, or [contact us](/contact-fun-pro-uk/#content) to discuss your Christmas event. We'll recommend games based on your event type, venue and guest numbers.
+  [Browse our Christmas games](/categories/christmas-game-hire) to see the full range, or [contact us](/contact-fun-pro-uk) to discuss your Christmas event. We'll recommend games based on your event type, venue and guest numbers.
 ---
 
 # Planning Christmas Entertainment for Your Event

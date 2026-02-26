@@ -16,7 +16,7 @@ We've been supplying freshers entertainment to universities across the UK since 
 
 Before looking at games and activities, think about who's actually coming. Today's freshers cohorts are diverse: school leavers, mature students, international students, students with disabilities, and students who are deeply nervous about the whole experience. Your entertainment needs to create opportunities for all of these people to feel included.
 
-Games that work across this range tend to share common traits: they're easy to understand without instructions, they create natural conversation, and they don't require physical fitness or cultural knowledge to enjoy. [Giant garden games](/categories/interactive-game-hire/#content), [photo booths](/categories/photo-booths-and-magic-mirrors/#content) and [prize games](/categories/prize-games/#content) all tick these boxes.
+Games that work across this range tend to share common traits: they're easy to understand without instructions, they create natural conversation, and they don't require physical fitness or cultural knowledge to enjoy. [Giant garden games](/categories/interactive-game-hire), [photo booths](/categories/photo-booths-and-magic-mirrors) and [prize games](/categories/prize-games) all tick these boxes.
 
 Games that exclude tend to be the ones that assume everyone's confident, sporty or extroverted. The students who most need freshers week to work for them are often the ones who won't voluntarily join a high-energy group activity.
 
@@ -24,23 +24,23 @@ Games that exclude tend to be the ones that assume everyone's confident, sporty 
 
 Most freshers events happen in student union buildings, which means working with the space you've got. A few well-chosen games work better than trying to fill every corner.
 
-**Reaction games** like [Batak Lite](/products/batak-lite/#content) and [Batak Pro](/products/batak-pro/#content) draw crowds because they're visually exciting — flashing lights and competitive energy pull in spectators who then want a go themselves. Position these where passersby can see them.
+**Reaction games** like [Batak Lite](/products/batak-lite) and [Batak Pro](/products/batak-pro) draw crowds because they're visually exciting — flashing lights and competitive energy pull in spectators who then want a go themselves. Position these where passersby can see them.
 
-**Photo booths** serve double duty. They're entertainment on their own, and the branded prints or digital sharing create social media content that promotes your freshers week to students who haven't turned up yet. Some unions use [Magic Mirrors](/products/magic-mirror/#content) in their welcome events to create shareable moments from day one.
+**Photo booths** serve double duty. They're entertainment on their own, and the branded prints or digital sharing create social media content that promotes your freshers week to students who haven't turned up yet. Some unions use [Magic Mirrors](/products/magic-mirror) in their welcome events to create shareable moments from day one.
 
-**Retro arcade games** bridge the gap between confident and shy students. There's something about standing next to an [arcade cabinet](/categories/arcade-games/#content) that makes conversation happen naturally. No one needs to be introduced — you just start talking about high scores.
+**Retro arcade games** bridge the gap between confident and shy students. There's something about standing next to an [arcade cabinet](/categories/arcade-games) that makes conversation happen naturally. No one needs to be introduced — you just start talking about high scores.
 
-**Racing simulators** draw a specific crowd who might not engage with other entertainment. The students queuing up for the [racing sim](/products/racing-car-simulators/#content) are often the ones who wouldn't approach a dance competition or icebreaker game, but they'll happily spend 20 minutes trying to beat the leaderboard.
+**Racing simulators** draw a specific crowd who might not engage with other entertainment. The students queuing up for the [racing sim](/products/racing-car-simulators) are often the ones who wouldn't approach a dance competition or icebreaker game, but they'll happily spend 20 minutes trying to beat the leaderboard.
 
 ## Outdoor Ideas for Campus Events
 
 If the weather cooperates (and even in September, that's not guaranteed), outdoor events on campus lawns or courtyards create a festival atmosphere that indoor spaces can't match.
 
-**Giant games** — [Jenga](/products/giant-jenga-hire/#content), [Connect 4](/products/giant-connect-4-game-hire/#content), [Corn Hole](/products/corn-hole/#content) — work beautifully outdoors. They're relaxed, social and give groups something to do together. New flatmates who've just met can bond over stacking blocks without the awkwardness of forced conversation.
+**Giant games** — [Jenga](/products/giant-jenga-hire), [Connect 4](/products/giant-connect-4-game-hire), [Corn Hole](/products/corn-hole) — work beautifully outdoors. They're relaxed, social and give groups something to do together. New flatmates who've just met can bond over stacking blocks without the awkwardness of forced conversation.
 
-**Fairground stalls** like [Hook-a-Duck](/products/hook-a-duck/#content), [Coconut Shy](/products/coconut-shy-stall-hire/#content) and [Ring Toss](/products/target-ring-toss-hire/#content) add a fun-fair feel that makes the day feel special rather than institutional. These are familiar, accessible and work for literally anyone who walks past.
+**Fairground stalls** like [Hook-a-Duck](/products/hook-a-duck), [Coconut Shy](/products/coconut-shy-stall-hire) and [Ring Toss](/products/target-ring-toss-hire) add a fun-fair feel that makes the day feel special rather than institutional. These are familiar, accessible and work for literally anyone who walks past.
 
-**Fun food** — [candy floss](/products/candy-floss-cart-hire/#content), [popcorn](/products/popcorn-machine-cart-hire/#content), [pick 'n' mix](/products/pix-n-mix-hire/#content) — creates gathering points where conversations happen over shared food. Free food at a student event is never a hard sell.
+**Fun food** — [candy floss](/products/candy-floss-cart-hire), [popcorn](/products/popcorn-machine-cart-hire), [pick 'n' mix](/products/pix-n-mix-hire) — creates gathering points where conversations happen over shared food. Free food at a student event is never a hard sell.
 
 **Weather backup:** Always have an indoor contingency. We can advise which of your chosen games work indoors and which need outdoor space, so you can plan a seamless switch if the British weather doesn't cooperate.
 
@@ -54,7 +54,7 @@ Student union entertainment budgets vary wildly, but most freshers entertainment
 
 **6+ games** works for large-scale campus events spread across multiple areas or running over several days.
 
-Think about cost per student interaction rather than just the hire price. A [prize wheel](/products/prize-wheel/#content) at £250 that 300 students use costs less than £1 per interaction — and every one of those students walks away talking about your freshers week.
+Think about cost per student interaction rather than just the hire price. A [prize wheel](/products/prize-wheel) at £250 that 300 students use costs less than £1 per interaction — and every one of those students walks away talking about your freshers week.
 
 Published pricing is on every product page on our website — no quote forms or hidden costs. You can build your shortlist and calculate your budget before you even pick up the phone.
 
@@ -66,9 +66,9 @@ Create a hashtag. Put it on signage near the games. The content your students cr
 
 ## The Planning Timeline
 
-**8–10 weeks out:** Decide your event format, venues and rough game selection. [Get in touch](/contact-fun-pro-uk/#content) to check availability — September dates book up fast.
+**8–10 weeks out:** Decide your event format, venues and rough game selection. [Get in touch](/contact-fun-pro-uk) to check availability — September dates book up fast.
 
-**6 weeks out:** Confirm your booking. If you want any [branded games](/events/brand-activation/#content) (student union logo, university branding), we need artwork at this stage.
+**6 weeks out:** Confirm your booking. If you want any [branded games](/events/brand-activation) (student union logo, university branding), we need artwork at this stage.
 
 **4 weeks out:** Finalise logistics — delivery times, venue access, power supply requirements. Brief your student helpers on what to expect.
 
@@ -78,6 +78,6 @@ Create a hashtag. Put it on signage near the games. The content your students cr
 
 ## Ready to Plan Your Freshers Entertainment?
 
-[Browse our freshers fair games](/categories/freshers-fair-games/#content) to see the full range, or [contact us](/contact-fun-pro-uk/#content) to talk through your plans. We'll recommend a selection based on your venues, numbers and budget.
+[Browse our freshers fair games](/categories/freshers-fair-games) to see the full range, or [contact us](/contact-fun-pro-uk) to talk through your plans. We'll recommend a selection based on your venues, numbers and budget.
 
 Based in Coventry, we deliver to universities across the UK — from Coventry University and Warwick down the road to campuses in London, Manchester, Edinburgh and everywhere in between.

@@ -12,15 +12,15 @@ thumbnail: /images/locations/cambridge.jpg
 
 Cambridge is a city shaped by academic tradition and technological innovation, and its corporate events reflect that mix. Whether you're entertaining delegates at a research conference, rewarding a software team after a product launch, or hosting clients at a formal dinner in a college setting, the right entertainment sets the tone and keeps people engaged.
 
-As [corporate event specialists](/about-corporate-entertainment-hire/#content) with over 15 years of experience, we understand that Cambridge events often come with unique considerations — historic venues with access restrictions, audiences that range from international academics to startup founders, and organisers who need entertainment that feels polished without being over the top.
+As [corporate event specialists](/about-corporate-entertainment-hire) with over 15 years of experience, we understand that Cambridge events often come with unique considerations — historic venues with access restrictions, audiences that range from international academics to startup founders, and organisers who need entertainment that feels polished without being over the top.
 
 ## What We Provide for Cambridge Corporate Events
 
-Our [interactive games](/categories/interactive-game-hire/#content) work across a wide range of corporate occasions. [Batak reaction games](/categories/batak/#content) create genuine excitement at team building events. [Racing simulators](/products/racing-car-simulators/#content) draw crowds at product launches and company fun days. [Photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content) give conference delegates something memorable to do during networking breaks, and they provide shareable content for social media too.
+Our [interactive games](/categories/interactive-game-hire) work across a wide range of corporate occasions. [Batak reaction games](/categories/batak) create genuine excitement at team building events. [Racing simulators](/products/racing-car-simulators) draw crowds at product launches and company fun days. [Photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors) give conference delegates something memorable to do during networking breaks, and they provide shareable content for social media too.
 
-For the many tech and life sciences companies hosting [exhibitions](/events/exhibition-games/#content) and trade shows in Cambridge, we offer [branded games](/categories/branded-exhibition-games/#content) with custom graphics designed, printed and applied in-house. These help your stand compete for attention on a busy exhibition floor whilst reinforcing your brand message.
+For the many tech and life sciences companies hosting [exhibitions](/events/exhibition-games) and trade shows in Cambridge, we offer [branded games](/categories/branded-exhibition-games) with custom graphics designed, printed and applied in-house. These help your stand compete for attention on a busy exhibition floor whilst reinforcing your brand message.
 
-We also provide [fun food catering](/categories/fun-foods/#content) — from candy floss and popcorn carts to hog roasts and pizza ovens — which adds a social element that gets people mingling naturally.
+We also provide [fun food catering](/categories/fun-foods) — from candy floss and popcorn carts to hog roasts and pizza ovens — which adds a social element that gets people mingling naturally.
 
 ## Cambridge Venues We Serve
 
@@ -36,16 +36,16 @@ Our central England location also works well for companies that host events acro
 
 ## Planning Corporate Entertainment in Cambridge
 
-The best corporate entertainment fits the occasion rather than dominating it. At a formal college dinner, a [photo booth](/products/classic-photo-booths/#content) in the drinks reception area gives guests a fun talking point without disrupting the evening's flow. At a Silicon Fen tech company's summer party, a full range of interactive games and food stations creates an energetic atmosphere. At a medical conference, a couple of well-chosen games during breaks help delegates unwind and connect.
+The best corporate entertainment fits the occasion rather than dominating it. At a formal college dinner, a [photo booth](/products/classic-photo-booths) in the drinks reception area gives guests a fun talking point without disrupting the evening's flow. At a Silicon Fen tech company's summer party, a full range of interactive games and food stations creates an energetic atmosphere. At a medical conference, a couple of well-chosen games during breaks help delegates unwind and connect.
 
 We take time to understand your event before making recommendations. Share some details — your venue, guest numbers, the type of occasion and what you're hoping to achieve — and we'll suggest entertainment that genuinely fits.
 
 ## Why Cambridge Organisers Choose Fun Pro UK
 
-We're a family-run business that takes personal responsibility for every event. Our equipment is professional-grade and [safety-tested](/insurance/#content), and we carry full public liability insurance. We don't subcontract — our own team delivers, sets up and supports your event.
+We're a family-run business that takes personal responsibility for every event. Our equipment is professional-grade and [safety-tested](/insurance), and we carry full public liability insurance. We don't subcontract — our own team delivers, sets up and supports your event.
 
 Cambridge event organisers appreciate our straightforward approach. We'll give you honest advice about what works in your venue and for your audience, rather than pushing the most expensive options. And because we're based in the centre of England, we can serve Cambridge cost-effectively without the premium you might pay for a London-based supplier.
 
 ## Ready to Discuss Your Cambridge Corporate Event?
 
-[Get in touch with our team](/contact-fun-pro-uk/#content) on 0247-722-0701. Tell us about your event and we'll recommend entertainment that works for your venue, your audience and your budget.
+[Get in touch with our team](/contact-fun-pro-uk) on 0247-722-0701. Tell us about your event and we'll recommend entertainment that works for your venue, your audience and your budget.

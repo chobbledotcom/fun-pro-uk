@@ -9,7 +9,7 @@ thumbnail: /images/products/batak-lite/batak-lite-1.jpg
 
 # Batak Lite hire Manchester
 
-If you're looking to hire a [Batak Lite game](/products/batak-lite/#content) in Manchester for your exhibition stands at Grand Central, corporate events at Victoria Warehouse, or trade shows, Fun Pro UK is the place to go! The Batak Lite game is a fantastic choice to add some excitement and engagement to your events.
+If you're looking to hire a [Batak Lite game](/products/batak-lite) in Manchester for your exhibition stands at Grand Central, corporate events at Victoria Warehouse, or trade shows, Fun Pro UK is the place to go! The Batak Lite game is a fantastic choice to add some excitement and engagement to your events.
 
 Grand Central in Manchester is a prime location for exhibition stands. With its central location and excellent facilities, it's a popular choice for businesses looking to showcase their products or services. By incorporating a Batak Lite game into your exhibition stand, you'll create a fun and interactive experience that will attract visitors and leave a lasting impression.
 
@@ -17,7 +17,7 @@ When it comes to corporate events, Victoria Warehouse in Manchester is a fantast
 
 Trade shows are a great opportunity to showcase your brand and connect with potential customers. Manchester is known for its vibrant trade show scene, and having a Batak Lite game at your booth will help you stand out from competitors. It's a great way to engage with attendees and create a memorable experience that will leave a lasting impression.
 
-Fun Pro UK offers [Batak Lite game hire](/products/batak-lite/#content) in Manchester, enabling you to bring this exciting game to your events. The [Batak game](/categories/batak/#content) is a reaction-based game where players have to hit as many illuminated targets as possible within a set time. It's a fast-paced and challenging game that will test your guests' reflexes and agility.
+Fun Pro UK offers [Batak Lite game hire](/products/batak-lite) in Manchester, enabling you to bring this exciting game to your events. The [Batak game](/categories/batak) is a reaction-based game where players have to hit as many illuminated targets as possible within a set time. It's a fast-paced and challenging game that will test your guests' reflexes and agility.
 
 Not only does Fun Pro UK provide Batak Lite game hire, but they also offer bespoke branding options. This means you can customize the game with your company's logo or any other branding elements you desire. It's a fantastic way to showcase your brand and create a visually appealing experience for all to see.
 
@@ -42,7 +42,7 @@ Please contact us to find out more.
 
 **For a quote please email:** [info@funprouk.co.uk](mailto:info@funprouk.co.uk) **or call:** [02477220701](tel:02477220701)
 
-**[Contact us](/contact-fun-pro-uk/#content)**
+**[Contact us](/contact-fun-pro-uk)**
 
 **Equipment size**
 
@@ -70,8 +70,8 @@ Please contact us to find out more.
 ## Product requirements
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/#content)
-*   [Batak Pro](/products/batak-pro/#content)
-*   [Dance Machine](/products/dance-machine/#content)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
-*   [Lights Out](/categories/interactive-game-hire/#content)
+*   [Retro arcade machine](/products/retro-arcade-games)
+*   [Batak Pro](/products/batak-pro)
+*   [Dance Machine](/products/dance-machine)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire)
+*   [Lights Out](/categories/interactive-game-hire)

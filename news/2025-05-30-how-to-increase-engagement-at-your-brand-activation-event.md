@@ -13,7 +13,7 @@ gallery:
 
 ![](/images/news/fun-pro-uvex.jpg)
 
-If you're planning a [brand activation event](/promotional-event-games/#content), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
+If you're planning a [brand activation event](/promotional-event-games), your biggest goal is to grab attention and get people talking. Whether you're launching a product, building awareness, or driving footfall at a trade show, keeping your audience engaged is key to making it a success.
 
 From eye-catching visuals to interactive experiences, here are some simple, proven ways to increase engagement at your next brand activation.
 
@@ -33,11 +33,11 @@ One of the most effective ways to boost engagement is by using interactive games
 
 Popular options include:
 
-*   [Cash Grabbers](/products/cash-grabber-machine-hire/#content) – quick, fun and perfect for competitions or giveaways
+*   [Cash Grabbers](/products/cash-grabber-machine-hire) – quick, fun and perfect for competitions or giveaways
     
-*   [Batak Reaction Games](/categories/batak/#content) – great for testing speed and reflexes
+*   [Batak Reaction Games](/categories/batak) – great for testing speed and reflexes
     
-*   [Prize Wheels](/products/prize-wheel/#content) – simple to set up and always a crowd-puller
+*   [Prize Wheels](/products/prize-wheel) – simple to set up and always a crowd-puller
 
 These games don’t just fill space, they turn your stand into an attraction. People passing by will want to know what’s going on, which naturally increases footfall. And once people are there, you’ve got the perfect opportunity to tell your brand story and get them involved in a more meaningful way.
 
@@ -85,4 +85,4 @@ We also handle delivery throughout the UK\*, setup and breakdown – so you can 
 
 ### Ready to Plan Your Brand Activation?
 
-If you want your brand to stand out and connect with your audience in a fun and memorable way, our team at Fun Pro UK is here to help. [Get in touch today](/contact-fun-pro-uk/#content) to hire games for a brand activation that gets people talking.
+If you want your brand to stand out and connect with your audience in a fun and memorable way, our team at Fun Pro UK is here to help. [Get in touch today](/contact-fun-pro-uk) to hire games for a brand activation that gets people talking.

@@ -31,23 +31,23 @@ below_products: >-
 
 
   **They generate natural conversation.** When someone's just had a go on your
-  [Cash Grabber](/products/cash-grabber-machine-hire/#content) or beaten the
-  high score on [Batak Pro](/products/batak-pro/#content), your sales team has
+  [Cash Grabber](/products/cash-grabber-machine-hire) or beaten the
+  high score on [Batak Pro](/products/batak-pro), your sales team has
   an easy opening. "How did you do?" is a far better conversation starter than
   "Can I tell you about our products?"
 
 
   **They create shareable content.** [Photo
-  Booths](/categories/photo-booths-and-magic-mirrors/#content) with branded
+  Booths](/categories/photo-booths-and-magic-mirrors) with branded
   prints give visitors something to post on social media. [Prize
-  Cranes](/products/prize-crane-arcade-grabber/#content) filled with branded
+  Cranes](/products/prize-crane-arcade-grabber) filled with branded
   merchandise create videos people want to share. That's earned media at no
   extra cost.
 
 
   **They capture leads naturally.** [Prize
-  Wheels](/products/prize-wheel/#content) and [Crack the
-  Code](/products/crack-the-code-safe-cracker/#content) safes create a reason to
+  Wheels](/products/prize-wheel) and [Crack the
+  Code](/products/crack-the-code-safe-cracker) safes create a reason to
   collect contact details — "leave your details to claim your prize" converts
   better than any clipboard.
 
@@ -59,8 +59,8 @@ below_products: >-
 
 
   New product imagery on game wraps creates visual impact. Fill a [Prize
-  Crane](/products/prize-crane-arcade-grabber/#content) with product samples for
-  a hands-on reveal. Use [Batak](/products/batak-pro/#content) reaction games
+  Crane](/products/prize-crane-arcade-grabber) with product samples for
+  a hands-on reveal. Use [Batak](/products/batak-pro) reaction games
   with product-themed screen graphics to draw crowds and create competitive
   energy.
 
@@ -74,9 +74,9 @@ below_products: >-
 
   Shopping centre activations, festival brand zones and pop-up experiences all
   benefit from interactive games. They give passersby a reason to stop, engage
-  and remember your brand. [Dance Machines](/products/dance-machine/#content)
+  and remember your brand. [Dance Machines](/products/dance-machine)
   draw crowds in public spaces. [Whack a
-  Mole](/products/whack-a-mole-game-hire/#content) creates energy and laughter
+  Mole](/products/whack-a-mole-game-hire) creates energy and laughter
   that pulls people in.
 
 
@@ -84,7 +84,7 @@ below_products: >-
 
 
   Stand out on a busy show floor. Branded games at the front of your [exhibition
-  stand](/categories/exhibition-games/#content) draw footfall; branded photo
+  stand](/categories/exhibition-games) draw footfall; branded photo
   prints give visitors something to take away with your logo on it. We've
   delivered to every major UK venue including the NEC, ExCeL London and
   Manchester Central.
@@ -107,7 +107,7 @@ below_products: >-
 
 
   **Baylis & Harding:** Fully wrapped [Prize
-  Crane](/products/prize-crane-arcade-grabber/#content) at CBS Arena for a
+  Crane](/products/prize-crane-arcade-grabber) at CBS Arena for a
   Christmas product showcase, filled with branded gift sets.
 
 
@@ -127,7 +127,7 @@ below_products: >-
 
   Are you generating leads, building awareness, launching a product, or
   rewarding existing customers? The answer shapes which games work best. Lead
-  generation favours [Prize Wheels](/products/prize-wheel/#content) and
+  generation favours [Prize Wheels](/products/prize-wheel) and
   data-capture mechanics. Brand awareness favours high-impact visual games with
   photo opportunities. Product launches need games that showcase the product
   itself.
@@ -145,7 +145,7 @@ below_products: >-
 
 
   We handle all branding
-  [in-house](/categories/branded-exhibition-games/#content) — design, print and
+  [in-house](/categories/branded-exhibition-games) — design, print and
   application. We need your artwork 2–3 weeks before the event for production.
   Send us vector logo files and brand guidelines, and we'll create mockups for
   your approval.
@@ -154,13 +154,13 @@ below_products: >-
   ## Ready to Plan Your Brand Activation?
 
 
-  [Contact us](/contact-fun-pro-uk/#content) with your event details — when,
+  [Contact us](/contact-fun-pro-uk) with your event details — when,
   where, what you're promoting and who's attending. We'll recommend games and
   branding options that fit your objectives and budget.
 
 
   Call us on [02477220701](tel:02477220701) or use our [contact
-  form](/contact-fun-pro-uk/#content).
+  form](/contact-fun-pro-uk).
 ---
 # Brand Activation Game Hire
 

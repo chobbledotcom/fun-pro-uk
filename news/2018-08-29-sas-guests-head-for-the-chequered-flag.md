@@ -11,7 +11,7 @@ gallery:
   - "/images/news/race-car-simulator-3.jpg"
 ---
 
-Fun Pro UK were recently hired to provide [Race Car Simulators](/products/racing-car-simulators/#content) to an event close to our base in Coventry. This was for a large car parts company that wanted to put on a promotional event to thank all their customers for their continual support.
+Fun Pro UK were recently hired to provide [Race Car Simulators](/products/racing-car-simulators) to an event close to our base in Coventry. This was for a large car parts company that wanted to put on a promotional event to thank all their customers for their continual support.
 
 This was an exciting event for us as we were invited to put our simulators head to head and the event guests could race against each other to become the top of the leader board. This became very competitive as the night went on, with the top three drivers winning prizes.
 

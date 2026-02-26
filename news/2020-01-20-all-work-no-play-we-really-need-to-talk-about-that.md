@@ -18,7 +18,7 @@ videos:
 
 ### ![Fun days](/images/news/20180616-152805.jpg)Show your staff how to party this summer with inflatables and interactive games for all ages.
 
-Why host a family [fun day](/categories/fun-days/#content) with a single bouncy castle and a small BBQ, when Fun Pro UK can work with you to make the best use of your space and show your team and their families what a real summer party is! With a wide range of inflatables from both adults and children’s bouncy castles to inflatable assault course and tv classics such as Total Wipe Out, we have everything you need this summer!
+Why host a family [fun day](/categories/fun-days) with a single bouncy castle and a small BBQ, when Fun Pro UK can work with you to make the best use of your space and show your team and their families what a real summer party is! With a wide range of inflatables from both adults and children’s bouncy castles to inflatable assault course and tv classics such as Total Wipe Out, we have everything you need this summer!
 
 ### Why not host your own Company Carnival!
 
@@ -26,7 +26,7 @@ Slide to the fun
 
 These huge, colourful inflatables stand head and shoulders above everything else and draw the crowds in from far and wide. Making an exciting centre piece that everyone will want to have a go and they can! All our super slides are built for both children and adults, so no one is left out of the fun!
 
-## [Pluck that Duck](/products/pluck-a-duck-racing/#content)!
+## [Pluck that Duck](/products/pluck-a-duck-racing)!
 
 ![Pluck the duck hire](/images/news/unadjustednonraw-thumb-9d21-768x1024.jpg)Have you got what it takes? The concentration and nerves of steel to go head to head to free all five ducks, or race against the clock to be the fastest duck-freer at your company! This very silly but highly addictive interactive game really puts your skills to the test, as an adaption of the classic operation, as you use an electromagnet on the pole to free all the ducks.
 
@@ -36,11 +36,11 @@ What’s better than having fresh ice cream served at your event? With 40 flavou
 
 ## Get your team jumping and diving
 
-Our [Total Wipeout](/products/total-wipe-out/#content) game will get everyone involved and laughing as six opponents battle it out to be crowned the Total Wipeout King or Queen! Don’t worry about being dislodged as you are guaranteed a soft landing with the squishy inflatable floor. We are sure that this inflatable hire will be busy all day at your event, as it is a hit with both adventurous adults and fearless children!
+Our [Total Wipeout](/products/total-wipe-out) game will get everyone involved and laughing as six opponents battle it out to be crowned the Total Wipeout King or Queen! Don’t worry about being dislodged as you are guaranteed a soft landing with the squishy inflatable floor. We are sure that this inflatable hire will be busy all day at your event, as it is a hit with both adventurous adults and fearless children!
 
 ## Make the most of your Summer Family Fun Day!
 
-Whether you are just looking for a single inflatable or want to push the boat out with a special package deal, the experts at Fun Pro UK are on hand to help you make the most of this year’s [summer family fun day](/categories/fun-days/#content).
+Whether you are just looking for a single inflatable or want to push the boat out with a special package deal, the experts at Fun Pro UK are on hand to help you make the most of this year’s [summer family fun day](/categories/fun-days).
 
 Contact us on
 

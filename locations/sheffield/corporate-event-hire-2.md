@@ -23,7 +23,7 @@ With the corporate event sector being big business, there are many companies out
 
 So how do you know which corporate entertainment agency to trust?
 
-Here at Fun Pro UK, we want to represent your brand right, by providing your corporate event with high quality [event entertainment](/categories/interactive-game-hire/#content). We take on board your brief whether it's an exhibition, conference or staff party to provide you with the unusual corporate entertainment that will give big hits with guests but will fit within your budget.
+Here at Fun Pro UK, we want to represent your brand right, by providing your corporate event with high quality [event entertainment](/categories/interactive-game-hire). We take on board your brief whether it's an exhibition, conference or staff party to provide you with the unusual corporate entertainment that will give big hits with guests but will fit within your budget.
 
 ## Now you have the company, but what corporate entertainment to hire?
 The event entertainment you hire will completely depend upon your audience. But it is as important as your sales, logistic or communication. But no worries, as the team at Fun Pro UK are always on hand to put together suggestions of entertainment that will fit with your company's aims and audience.
@@ -32,7 +32,7 @@ So whether you are looking to host a quirky corporate event, we have a range of 
 
 Or are you looking to host a conference? We have a variety of conference entertainment including giant board games to let your delegates unwind and rewind back to their childhoods!
 
-Alternatively, you could host a horse night with our [Gold Cup Horse Racing Game](/products/gold-cup-horse-racing/#content) and authentic Casino equipment, fully equipped with a professional croupier.
+Alternatively, you could host a horse night with our [Gold Cup Horse Racing Game](/products/gold-cup-horse-racing) and authentic Casino equipment, fully equipped with a professional croupier.
 
 ## Corporate entertainment - fun, flexible and fairly priced!
 At Fun Pro UK, we pride ourselves on the amazing service we provide with rapid responses and adaptability with our products. We fairly price all our items for both single items along with package deals.

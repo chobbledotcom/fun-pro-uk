@@ -31,11 +31,11 @@ Being only 1.5m by 1m this game is perfect for all venues and can be set up almo
 
 Twin hoops for head to head fun
 
-Put your guests slam-dunk skills to the test with Fun Pro UK’s classic arcade style electronic [basketball game](/products/electronic-basket-ball-hire/#content). Having two hoops allows challengers to play head to head to be crowned king or queen of the hoops! This self-contained game creates an instant, pop up court in any location in your venue, with the side netting and printed canvas ball catcher there to contain the fun.
+Put your guests slam-dunk skills to the test with Fun Pro UK’s classic arcade style electronic [basketball game](/products/electronic-basket-ball-hire). Having two hoops allows challengers to play head to head to be crowned king or queen of the hoops! This self-contained game creates an instant, pop up court in any location in your venue, with the side netting and printed canvas ball catcher there to contain the fun.
 
 The prize is up to you!
 
-Our [Grab A Grand machine](/products/cash-grabber-machine-hire/#content) is a definite favourite with all event attendees. Whether you fill it with tokens or actual cash, there is no better thrill than trying to grab and snatch as much as you can, while the clock ticks down. This is a huge crowd pleaser wherever you place it within your conference, with guests being drawn towards the fun!
+Our [Grab A Grand machine](/products/cash-grabber-machine-hire) is a definite favourite with all event attendees. Whether you fill it with tokens or actual cash, there is no better thrill than trying to grab and snatch as much as you can, while the clock ticks down. This is a huge crowd pleaser wherever you place it within your conference, with guests being drawn towards the fun!
 
 Build the competition
 

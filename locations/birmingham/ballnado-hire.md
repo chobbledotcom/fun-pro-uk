@@ -62,7 +62,7 @@ Please contact us to find out more
 ## Product requirements
 **Popular Items:**
 
-*   [Leaded Board](/products/leader-board/#content)
-*   [Lights Out](/categories/interactive-game-hire/#content)
-*   [Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
-*   [Crack the Code](/products/crack-the-code-safe-cracker/#content)
+*   [Leaded Board](/products/leader-board)
+*   [Lights Out](/categories/interactive-game-hire)
+*   [Gold Cup Horse racing](/products/gold-cup-horse-racing)
+*   [Crack the Code](/products/crack-the-code-safe-cracker)

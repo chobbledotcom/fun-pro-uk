@@ -12,13 +12,13 @@ thumbnail: /images/products/dance-machine/dance-machine-1.jpg
 
 # Dance Machine Hire for Coventry Events
 
-Looking to add some groovy fun to your corporate events in Coventry? Hiring the [Dance Machine in Coventry](/products/dance-machine/#content) from Fun Pro UK is a fantastic choice! The Dance Machine is a perfect addition to exhibition stands and trade show stands Coventry, and it's sure to get everyone moving and grooving.
+Looking to add some groovy fun to your corporate events in Coventry? Hiring the [Dance Machine in Coventry](/products/dance-machine) from Fun Pro UK is a fantastic choice! The Dance Machine is a perfect addition to exhibition stands and trade show stands Coventry, and it's sure to get everyone moving and grooving.
 
 Imagine having a dance floor right at your event, where your guests can show off their best moves and have a great time. The Dance Machine provided by Fun Pro UK is a state-of-the-art dance game that offers a variety of songs and dance routines to choose from. It's a fantastic way to engage your attendees and create a lively atmosphere.
 
 Coventry is home to some amazing venues, like the CBS Arena, which are perfect for hosting corporate events. By incorporating the Dance Machine into your exhibition stand or trade show stand, you'll attract attention and stand out from the crowd. People love to dance and have fun, and this interactive game will definitely create a buzz around your booth.
 
-The [dance machine Coventry](/products/dance-machine/#content) from Fun Pro UK provides so many options, whether you prefer classic dance routines or the latest chart-topping hits, they have it all. You can customize the Dance Machine with your company branding, adding a professional touch to your event.
+The [dance machine Coventry](/products/dance-machine) from Fun Pro UK provides so many options, whether you prefer classic dance routines or the latest chart-topping hits, they have it all. You can customize the Dance Machine with your company branding, adding a professional touch to your event.
 
 The Dance Machine is suitable for all ages and skill levels, so everyone can join in on the fun. Whether your guests are seasoned dancers or just looking to have a good time, this game will keep them entertained and energized. It's a great way to break the ice, encourage team building, and create memorable moments.  
 
@@ -75,7 +75,7 @@ Please contact us to find out more
 ## Product requirements
 **Popular items order along side our Dance Machines are**
 
-*   [Retro arcade machine](/products/retro-arcade-games/#content)
-*   [Twin race car simulators](/products/racing-car-simulators/#content)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
+*   [Retro arcade machine](/products/retro-arcade-games)
+*   [Twin race car simulators](/products/racing-car-simulators)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire)
 *   Lights Out

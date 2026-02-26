@@ -13,19 +13,19 @@ eleventyNavigation:
 
 # University Event Entertainment Hire
 
-Fun Pro UK has been supplying [interactive games](/categories/interactive-game-hire/#content) and entertainment to universities since 2009. From freshers fairs in September to graduation balls in summer, we work with student unions, events teams and faculty staff throughout the academic year.
+Fun Pro UK has been supplying [interactive games](/categories/interactive-game-hire) and entertainment to universities since 2009. From freshers fairs in September to graduation balls in summer, we work with student unions, events teams and faculty staff throughout the academic year.
 
-We've provided student activations in Manchester (including a [branded prize wheel](/products/prize-wheel/#content) campaign for Poundland targeting freshers), delivered to Coventry University and the University of Warwick, and supplied [freshers entertainment](/categories/freshers-fair-games/#content) to campuses across the country. Based in Coventry — the geographic centre of England — we reach any UK university without long delivery distances.
+We've provided student activations in Manchester (including a [branded prize wheel](/products/prize-wheel) campaign for Poundland targeting freshers), delivered to Coventry University and the University of Warwick, and supplied [freshers entertainment](/categories/freshers-fair-games) to campuses across the country. Based in Coventry — the geographic centre of England — we reach any UK university without long delivery distances.
 
 ## Events We Cover
 
-**Freshers fairs and welcome weeks** — [reaction games](/categories/batak/#content), [racing simulators](/products/racing-car-simulators/#content) and [fairground stalls](/categories/fun-fair-stalls/#content) that give new students something to do together rather than stand around. These draw crowds and break the ice without forcing awkward introductions.
+**Freshers fairs and welcome weeks** — [reaction games](/categories/batak), [racing simulators](/products/racing-car-simulators) and [fairground stalls](/categories/fun-fair-stalls) that give new students something to do together rather than stand around. These draw crowds and break the ice without forcing awkward introductions.
 
-**End-of-term parties and balls** — [photo booths](/categories/photo-booths-and-magic-mirrors/#content), [casino tables](/products/casino-table-hire/#content), [arcade games](/categories/arcade-games/#content) and [dance machines](/products/dance-machine/#content) for evening events.
+**End-of-term parties and balls** — [photo booths](/categories/photo-booths-and-magic-mirrors), [casino tables](/products/casino-table-hire), [arcade games](/categories/arcade-games) and [dance machines](/products/dance-machine) for evening events.
 
-**Open days and recruitment events** — branded games that make your stand or campus tour stick in people's minds. We handle [custom branding](/events/brand-activation/#content) in-house, from design through to print and application.
+**Open days and recruitment events** — branded games that make your stand or campus tour stick in people's minds. We handle [custom branding](/events/brand-activation) in-house, from design through to print and application.
 
-**Student union socials and fun days** — [giant garden games](/categories/interactive-game-hire/#content), [fun food carts](/categories/fun-foods/#content) and [inflatables](/categories/fun-days/#content) for outdoor campus events.
+**Student union socials and fun days** — [giant garden games](/categories/interactive-game-hire), [fun food carts](/categories/fun-foods) and [inflatables](/categories/fun-days) for outdoor campus events.
 
 ## Why Universities Book With Us
 
@@ -35,4 +35,4 @@ We've provided student activations in Manchester (including a [branded prize whe
 - **In-house branding** for open days, recruitment drives or sponsored events
 - **Commercial-grade equipment** built to handle a full day of students
 
-We work directly with you to plan what fits your venue, budget and audience. [Get in touch](/contact-fun-pro-uk/#content) to check availability or talk through what you need.
+We work directly with you to plan what fits your venue, budget and audience. [Get in touch](/contact-fun-pro-uk) to check availability or talk through what you need.

@@ -13,7 +13,7 @@ Arranging your Corporate Event? Let Perfect Snap help with organising the functi
 
 Whether you are looking for a Photo Booth or Magic Mirror for you to have some group selfies taken, celebrate a new product launch, congratulate your colleagues at your awards ceremony or to entertain the children at a family day you can be sure that Perfect Snap can supply exactly what you are looking for.
 
-## [Photo Booths](/categories/photo-booths-and-magic-mirrors/#content)
+## [Photo Booths](/categories/photo-booths-and-magic-mirrors)
 
 Step inside one of our Green Screen Dream Machine Photo Booths and let your experience begin. With the most advanced technology you are able to choose from over 1000 themed backgrounds, layout and colour styles.
 
@@ -23,7 +23,7 @@ As you wait for your turn why not take a rummage in our never ending prop box! O
 
 Four photo's later and out pop your prints ready for collection just as you exit the booth.
 
-## [Magic Selfie Mirror](/products/magic-mirror/#content)
+## [Magic Selfie Mirror](/products/magic-mirror)
 
 Searching for something a little different? Well, look no further! Our Magic Talking Selfie Mirror is a magnificent stand alone mirror, it will interact with your guests by talking to them in the popular voices of the well known character of Donkey from the award winning film Shrek or the popular voice of Austin Powers. As the mirror begins to talk, your guests choose a prop from our beloved prop box and strikes a pose to have their photo taken. Four photos are taken and then instantly printed to take away with them.
 

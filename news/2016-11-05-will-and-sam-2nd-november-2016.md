@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2016-11-05/will-and-sam-2nd-november-2016/"
 ---
 
-It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/products/magic-mirror/#content) for the wedding of Will and Sam.
+It certainly wasn't any normal Wednesday! Last Wednesday we provided one of our fantastic [Magic Selfie Mirrors](/products/magic-mirror) for the wedding of Will and Sam.
 
 The happy couple and all of their wonderful guests had travelled the long distance from Liverpool to the beautiful venue of Shustoke Farm Barns for their wedding.
 

@@ -12,13 +12,13 @@ thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 
 # Batak Pro Hire Northampton
 
-The [Batak Pro hire Northampton](/products/batak-pro/#content) from Fun Pro UK is a fantastic choice for your next corporate event or exhibition stand game in Northampton. The Batak Pro game is a speed reaction game that is sure to get your guests engaged and excited.
+The [Batak Pro hire Northampton](/products/batak-pro) from Fun Pro UK is a fantastic choice for your next corporate event or exhibition stand game in Northampton. The Batak Pro game is a speed reaction game that is sure to get your guests engaged and excited.
 
 Northampton is a lively city with a thriving business community, and incorporating a Batak Pro game into your event is a great way to attract attention and create a memorable experience. Fun Pro UK offers Batak Pro game hire in Northampton, allowing you to bring this exciting game to your exhibition stand or corporate event.
 
 The Batak Pro game is all about testing your speed, agility, and reaction time. It consists of a wall with a series of illuminated targets that light up randomly. Players have to quickly hit the targets as they light up, earning points for their speed and accuracy. It's a competitive and adrenaline-pumping game that will keep your guests entertained and on their toes.
 
-Fun Pro UK not only offers [Batak Pro game hire in Northampton](/products/batak-pro/#content) but also provides the option for bespoke branding on the backboard of the game. This means you can customize the game with your company's logo, colours, or any other branding elements you desire. It's a fantastic way to showcase your brand and create a visually appealing experience for your guests.
+Fun Pro UK not only offers [Batak Pro game hire in Northampton](/products/batak-pro) but also provides the option for bespoke branding on the backboard of the game. This means you can customize the game with your company's logo, colours, or any other branding elements you desire. It's a fantastic way to showcase your brand and create a visually appealing experience for your guests.
 
 The Batak Pro game is a versatile addition to any event. Whether it's an exhibition stand, a corporate conference, or any other type of event, this game is sure to be a hit. It's a great icebreaker and team-building activity that encourages friendly competition and interaction among your guests.
 
@@ -73,7 +73,7 @@ Please contact us to find out more.
 ## Product requirements
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games/#content)
-*   [Dance Machine](/products/dance-machine/#content)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire/#content)
-*   [Lights Out](/categories/interactive-game-hire/#content)
+*   [Retro arcade machine](/products/retro-arcade-games)
+*   [Dance Machine](/products/dance-machine)
+*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire)
+*   [Lights Out](/categories/interactive-game-hire)

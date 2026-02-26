@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2018-10-17/top-things-to-think-about-when-planning-a-corporate-event/"
 ---
 
-When it comes to planning a [corporate event](/categories/corporate-entertainment/#content) there is lots to think about from the venue to the theme, sending out invitations to staffing. But don't worry as we have put together a list of the important things to remember when planning an event.
+When it comes to planning a [corporate event](/categories/corporate-entertainment) there is lots to think about from the venue to the theme, sending out invitations to staffing. But don't worry as we have put together a list of the important things to remember when planning an event.
 
 **What is the purpose of the event?**
 
@@ -29,9 +29,9 @@ If you venue has special features such as being a sports ground, why not offer t
 
 Alternatively, get your audience engaging online through a discussion on Facebook or show your audience's tweets on a big screen.
 
-Although whatever event you are hosting, interactive games will always go down a treat! Fun Pro UK can provide a huge variety of interactive games from [Race Car Simulators](/products/racing-car-simulators/#content) to giant table top games to Strike a Light Challenge, which are all guaranteed to add that extra level of excitement to your event.
+Although whatever event you are hosting, interactive games will always go down a treat! Fun Pro UK can provide a huge variety of interactive games from [Race Car Simulators](/products/racing-car-simulators) to giant table top games to Strike a Light Challenge, which are all guaranteed to add that extra level of excitement to your event.
 
-Alternatively, you could engage your audience using [Photo Booths or Magic Mirrors](/categories/photo-booths-and-magic-mirrors/#content) which produce hard copies of all photographs and in some cases can be connected instantly to social media using your event's unique hash tag.
+Alternatively, you could engage your audience using [Photo Booths or Magic Mirrors](/categories/photo-booths-and-magic-mirrors) which produce hard copies of all photographs and in some cases can be connected instantly to social media using your event's unique hash tag.
 
 **Have you considered all the areas of logistics?**
 

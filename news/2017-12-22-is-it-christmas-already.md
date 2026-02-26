@@ -9,13 +9,13 @@ redirect_from:
   - "/news/2017-12-22/is-it-christmas-already/"
 ---
 
-Is It [Christmas](/categories/christmas-game-hire/#content) already?
+Is It [Christmas](/categories/christmas-game-hire) already?
 
 We can't believe that Christmas really is around the corner now. We've been so busy helping to celebrate at wonderful parties, it's really crept up on us!
 
 We've had a very busy 2017 and have recently taken delivery of some wonderful new products for you to hire, ensuring any event you host will be fun and entertaining.
 
-This year we've seen our [Selfie Mirrors](/products/magic-mirror/#content) and [Green Screen Photo Booths](/products/green-screen-photo-booths/#content) become even more popular. Hiring these at private parties and corporate functions have bought great fun and laughter.
+This year we've seen our [Selfie Mirrors](/products/magic-mirror) and [Green Screen Photo Booths](/products/green-screen-photo-booths) become even more popular. Hiring these at private parties and corporate functions have bought great fun and laughter.
 
 Everyone loves a selfie, right?
 

@@ -20,7 +20,7 @@ below_products: |
 
   ### Classic Christmas snaps
 
-  No staff Christmas party is complete without the snap happy fun of a [photo booth](/categories/photo-booths-and-magic-mirrors/#content). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
+  No staff Christmas party is complete without the snap happy fun of a [photo booth](/categories/photo-booths-and-magic-mirrors). And with all our photo booth hires, your team can take as many shots as they like through the night, as they get merrier and merrier, and you'll get a full set of the pictures to tease them with in the New Year.
 
   Combine photo booth hire with Christmas grotto hire and you can get some very special shots with Santa himself &ndash; perfect for Christmas cards and festive emails to family and friends.
 

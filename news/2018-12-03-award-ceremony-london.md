@@ -11,7 +11,7 @@ redirect_from:
 
 Thursday saw team Fun Pro UK bring the fun to an awards party for a large corporate company based near London.
 
-The brief was to supply a [green screen photo booth](/categories/photo-booths-and-magic-mirrors/#content) - with the company logo to be printed on each selfie
+The brief was to supply a [green screen photo booth](/categories/photo-booths-and-magic-mirrors) - with the company logo to be printed on each selfie
 
 \- to be delivered and set up by 6pm
 
@@ -23,4 +23,4 @@ The team travelled from Coventry to London with time to spare. Unloading the van
 
 Once the awards had been issued, the speeches made, it was time to party! Before we could say 'awards ceremony' the queue to have a selfie in the Fun Pro photo booth was getting lengthy, full of happy work colleagues and friends enjoying their evening event. With the after party now in full swing every guest was rocking the selfies with our over flowing prop box.
 
-It was an amazing night with our photo booth capturing fabulous memories of the [awards party](/events/company-award-ceremonies/#content). We can't wait to return to London again soon for more corporate events.
+It was an amazing night with our photo booth capturing fabulous memories of the [awards party](/events/company-award-ceremonies). We can't wait to return to London again soon for more corporate events.

@@ -13,17 +13,17 @@ gallery:
 
 ![](/images/news/whack-a-mole.jpg)
 
-In today's competitive business landscape, creating a memorable [exhibition event](/events/exhibition-games/#content) stand that draws visitors in is crucial for generating leads and building brand awareness.
+In today's competitive business landscape, creating a memorable [exhibition event](/events/exhibition-games) stand that draws visitors in is crucial for generating leads and building brand awareness.
 
-Businesses and individuals all over the country have trusted us here at Fun Pro for over 15 years to help them create memorable experiences, whether it’s generating buzz at a [brand activation](/promotional-event-games/#content) event, boosting team morale at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/#content), or simply just providing fun activities at [weddings](/events/wedding-entertainment/#content) and community events.  
+Businesses and individuals all over the country have trusted us here at Fun Pro for over 15 years to help them create memorable experiences, whether it’s generating buzz at a [brand activation](/promotional-event-games) event, boosting team morale at [staff parties](/news/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team), or simply just providing fun activities at [weddings](/events/wedding-entertainment) and community events.  
   
-In this guide, we’re going to share with you why our interactive games for hire like [Batak](/categories/batak/#content), [Prize Crane](/categories/prize-games/#content) games, and [Car Simulators](/products/racing-car-simulators/#content) can make all the difference to your next event.
+In this guide, we’re going to share with you why our interactive games for hire like [Batak](/categories/batak), [Prize Crane](/categories/prize-games) games, and [Car Simulators](/products/racing-car-simulators) can make all the difference to your next event.
 
 ## Why Interactive Games Are Essential For Exhibitions
 
 Corporate events like exhibitions are highly competitive environments where dozens, sometimes hundreds, of companies are competing for attention, and it’s more important than ever to stand out in unique and interesting ways.  
   
-Traditional static displays often fail to create meaningful connections with potential clients, which is where things like [interactive games](/categories/interactive-game-hire/#content) come in. Using things like games has been shown to:
+Traditional static displays often fail to create meaningful connections with potential clients, which is where things like [interactive games](/categories/interactive-game-hire) come in. Using things like games has been shown to:
 
 *   Create a natural, low-pressure environment for conversations
     
@@ -177,4 +177,4 @@ Ready to transform your next exhibition stand? The process is simple:
 
 ## Ready to Stand Out at Your Next Exhibition?
 
-[Contact](/contact-fun-pro-uk/#content) our exhibition specialists today to discuss how our interactive games can transform your next exhibition experience.
+[Contact](/contact-fun-pro-uk) our exhibition specialists today to discuss how our interactive games can transform your next exhibition experience.

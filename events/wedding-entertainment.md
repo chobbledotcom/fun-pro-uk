@@ -23,25 +23,25 @@ We provide many game options for wedding entertainment hire for both indoors and
 
 ## Photo Booths & Magic Mirrors
 
-A [Magic Mirror](/products/magic-mirror/#content) really does make people smile. We have plenty of photos that bring generations together, giggling as grandma tries on the oversized glasses whilst dad plays the large pink blow-up guitar. The photos are instant, and we are more than happy for more photos to be taken so that the wedding couple can keep them for their own memory book.
+A [Magic Mirror](/products/magic-mirror) really does make people smile. We have plenty of photos that bring generations together, giggling as grandma tries on the oversized glasses whilst dad plays the large pink blow-up guitar. The photos are instant, and we are more than happy for more photos to be taken so that the wedding couple can keep them for their own memory book.
 
-Our [classic photo booths](/products/classic-photo-booths/#content) and [bespoke photo booths](/products/bespoke-photo-booth-hire/#content) are equally popular at wedding receptions. With [green screen options](/products/green-screen-photo-booths/#content), you can even transport your guests to a custom backdrop that matches your wedding theme.
+Our [classic photo booths](/products/classic-photo-booths) and [bespoke photo booths](/products/bespoke-photo-booth-hire) are equally popular at wedding receptions. With [green screen options](/products/green-screen-photo-booths), you can even transport your guests to a custom backdrop that matches your wedding theme.
 
 ## Garden Games & Lawn Activities
 
-Traditional giant garden games are a wedding favourite. [Giant Jenga](/products/giant-jenga-hire/#content) is enjoyed by both adults and children who will be hooked on seeing who has the skill to pull out the wooden bricks from the tower without knocking it down. [Giant Connect 4](/products/giant-connect-4-game-hire/#content) and [Corn Hole](/products/corn-hole/#content) are perfect for outdoor receptions on the lawn.
+Traditional giant garden games are a wedding favourite. [Giant Jenga](/products/giant-jenga-hire) is enjoyed by both adults and children who will be hooked on seeing who has the skill to pull out the wooden bricks from the tower without knocking it down. [Giant Connect 4](/products/giant-connect-4-game-hire) and [Corn Hole](/products/corn-hole) are perfect for outdoor receptions on the lawn.
 
-For something a bit more active, [Crazy Golf](/products/crazy-golf/#content) is a brilliant addition to a summer wedding, while a [Giant Deck Chair](/products/giant-deck-chair-hire/#content) makes for memorable photo opportunities.
+For something a bit more active, [Crazy Golf](/products/crazy-golf) is a brilliant addition to a summer wedding, while a [Giant Deck Chair](/products/giant-deck-chair-hire) makes for memorable photo opportunities.
 
 ## Evening Reception Entertainment
 
-As the evening reception gets going, [casino tables](/products/casino-table-hire/#content) add a touch of glamour to the celebrations. Roll out the [red carpet with gold stanchions](/products/red-carpet-and-4-gold-stanchions/#content) for a Hollywood-style entrance.
+As the evening reception gets going, [casino tables](/products/casino-table-hire) add a touch of glamour to the celebrations. Roll out the [red carpet with gold stanchions](/products/red-carpet-and-4-gold-stanchions) for a Hollywood-style entrance.
 
-For guests who love a bit of competition, a [dance machine](/products/dance-machine/#content), [retro arcade games](/products/retro-arcade-games/#content), or [shuffleboard](/products/shuffleboard-hire/#content) will keep the evening buzzing.
+For guests who love a bit of competition, a [dance machine](/products/dance-machine), [retro arcade games](/products/retro-arcade-games), or [shuffleboard](/products/shuffleboard-hire) will keep the evening buzzing.
 
 ## Sweet Treats & Catering
 
-Complete your reception with our [Pick 'n' Mix sweet stand](/products/pix-n-mix-hire/#content), [candy floss cart](/products/candy-floss-cart-hire/#content), [popcorn cart](/products/popcorn-machine-cart-hire/#content), or an [ice cream van](/products/ice-cream-van-hire/#content) for a summer wedding.
+Complete your reception with our [Pick 'n' Mix sweet stand](/products/pix-n-mix-hire), [candy floss cart](/products/candy-floss-cart-hire), [popcorn cart](/products/popcorn-machine-cart-hire), or an [ice cream van](/products/ice-cream-van-hire) for a summer wedding.
 
 ## Hire Wedding Entertainment Online
 
@@ -49,4 +49,4 @@ When you hire wedding games from Fun Pro UK, your guests will be talking about h
 
 All our products conform with UK health and safety standards; we have up-to-date PAT certificates for our electronics, public liability insurance, risk assessments and everything else you need. You can trust you're with a professional team when you choose us for your wedding.
 
-So why settle for a quiet reception? [Contact Fun Pro UK today](/contact-fun-pro-uk/#content) to see how we can help you create a day of entertainment that your guests will be talking about for years to come!
+So why settle for a quiet reception? [Contact Fun Pro UK today](/contact-fun-pro-uk) to see how we can help you create a day of entertainment that your guests will be talking about for years to come!

@@ -16,11 +16,11 @@ below_products: |
 
   The games you choose should match your stand size, your audience and what you're trying to achieve. A 3m x 3m shell scheme has different requirements to a 10m custom-build island stand, and a recruitment fair calls for different entertainment than a manufacturing trade show.
 
-  **For smaller stands (3m–6m):** Compact, high-impact games work best. A [Batak Lite](/products/batak-lite/#content) reaction game fits in a tight space but draws attention with its flashing lights and competitive gameplay. [Prize Wheels](/products/prize-wheel/#content) take up minimal floor space and give you a natural reason to collect contact details. [Crack the Code](/products/crack-the-code-safe-cracker/#content) creates intrigue without needing much room.
+  **For smaller stands (3m–6m):** Compact, high-impact games work best. A [Batak Lite](/products/batak-lite) reaction game fits in a tight space but draws attention with its flashing lights and competitive gameplay. [Prize Wheels](/products/prize-wheel) take up minimal floor space and give you a natural reason to collect contact details. [Crack the Code](/products/crack-the-code-safe-cracker) creates intrigue without needing much room.
 
-  **For medium stands (6m–12m):** You've got space to create zones. Place an interactive game like [Whack a Mole](/products/whack-a-mole-game-hire/#content) or [Strike a Light](/products/danger-zone-strike-a-light-game-hire/#content) at the front to draw footfall, with a [Prize Crane](/products/prize-crane-arcade-grabber/#content) or [Cash Grabber](/products/cash-grabber-machine-hire/#content) further in to keep visitors on the stand longer.
+  **For medium stands (6m–12m):** You've got space to create zones. Place an interactive game like [Whack a Mole](/products/whack-a-mole-game-hire) or [Strike a Light](/products/danger-zone-strike-a-light-game-hire) at the front to draw footfall, with a [Prize Crane](/products/prize-crane-arcade-grabber) or [Cash Grabber](/products/cash-grabber-machine-hire) further in to keep visitors on the stand longer.
 
-  **For large stands and island builds:** Multiple games create an experience rather than a single attraction. [Racing Simulators](/products/racing-car-simulators/#content), [Dance Machines](/products/dance-machine/#content) and [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/#content) can run simultaneously, each drawing different crowds and keeping your stand busy throughout the day.
+  **For large stands and island builds:** Multiple games create an experience rather than a single attraction. [Racing Simulators](/products/racing-car-simulators), [Dance Machines](/products/dance-machine) and [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone) can run simultaneously, each drawing different crowds and keeping your stand busy throughout the day.
 
   ## Where to Place Games on Your Stand
 
@@ -28,17 +28,17 @@ below_products: |
 
   Keep your conversion area (where your sales team talk to prospects) slightly set back from the games. Visitors play, get into a good mood, and naturally drift towards your team. This is far more effective than cold-approaching people in the aisle.
 
-  If you're at a corner stand, use games on both open sides to double your draw. We've set up stands at the [NEC Birmingham](/locations/birmingham/nec/#content) where a Batak game on one aisle and a Prize Wheel on another created constant traffic from two directions.
+  If you're at a corner stand, use games on both open sides to double your draw. We've set up stands at the [NEC Birmingham](/locations/birmingham/nec) where a Batak game on one aisle and a Prize Wheel on another created constant traffic from two directions.
 
   ## Maximising Your Return
 
   Exhibition stands are expensive. The game hire is often a small fraction of your total stand cost, but it's the element that determines how many visitors actually stop. Here's what we've seen work well:
 
-  **Use branded games to reinforce your message.** We print and apply branding in-house — your logo, colours and messaging on games and equipment. Companies like Baylis & Harding and Lidl have used [branded games](/events/brand-activation/#content) at trade shows to create talking points that outlast the event itself.
+  **Use branded games to reinforce your message.** We print and apply branding in-house — your logo, colours and messaging on games and equipment. Companies like Baylis & Harding and Lidl have used [branded games](/events/brand-activation) at trade shows to create talking points that outlast the event itself.
 
   **Collect data through gameplay.** Prize Wheels and Cash Grabbers create natural reasons to capture names and email addresses. "Spin the wheel — leave your card to claim your prize" converts far better than a bowl of business cards on a table.
 
-  **Create shareable moments.** [Photo Booths](/categories/photo-booths-and-magic-mirrors/#content) with branded prints give visitors something to take away and share on social media. That's extended reach beyond the exhibition hall at no extra cost.
+  **Create shareable moments.** [Photo Booths](/categories/photo-booths-and-magic-mirrors) with branded prints give visitors something to take away and share on social media. That's extended reach beyond the exhibition hall at no extra cost.
 
   ## Venues We Know Well
 
@@ -54,7 +54,7 @@ below_products: |
 
   ## How to Get Started
 
-  [Browse our exhibition games](/categories/exhibition-games/#content) to see the full range, or [contact us](/contact-fun-pro-uk/#content) to discuss your stand requirements. Tell us your stand size, the event, and what you're hoping to achieve — we'll recommend games that fit and provide a no-obligation quote.
+  [Browse our exhibition games](/categories/exhibition-games) to see the full range, or [contact us](/contact-fun-pro-uk) to discuss your stand requirements. Tell us your stand size, the event, and what you're hoping to achieve — we'll recommend games that fit and provide a no-obligation quote.
 
   We deliver nationwide and can typically turn around bookings within 2-3 weeks, though for major trade shows we'd recommend getting in touch earlier to secure your first-choice games.
 ---

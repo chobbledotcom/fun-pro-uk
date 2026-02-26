@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 Another fantastic review received from one of our many happy Perfectsnap  
-customers. Check out our other reviews by visiting our [testimonial page](/testimonials/#content).
+customers. Check out our other reviews by visiting our [testimonial page](/testimonials).
 
 Thank you for providing the photos so quickly. The mirror definitely went down well.
 

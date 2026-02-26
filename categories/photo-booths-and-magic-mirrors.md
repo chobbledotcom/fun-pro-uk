@@ -19,7 +19,7 @@ below_products: |
 
   Booth hire is always a huge hit, giving your guests the chance to save and share their fun, and giving you a unique record of every picture taken. We offer a huge choice, from the classic 'passport-style' photo booths and green screen machines, to the very latest social media booths and hash tag print stations that offer an instant upload to the internet.
 
-  For even more fun, check out our cheeky [magic selfie mirror](/products/magic-mirror/#content) for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
+  For even more fun, check out our cheeky [magic selfie mirror](/products/magic-mirror) for hire, which not only takes your picture, but talks to you too, with chat up lines and compliments.
 
   ### Unlimited visits, unlimited fun
 
@@ -99,7 +99,7 @@ below_products: |
 
   - Tel: 02477220701
   - Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
-  - [Contact form](/contact-fun-pro-uk/#content)
+  - [Contact form](/contact-fun-pro-uk)
 ---
 
 # Nationwide Photo Booth Hire

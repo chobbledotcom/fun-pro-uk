@@ -17,9 +17,9 @@ eleventyNavigation:
 
 Prepare for a whirlwind of excitement at your next event - hire our Cash Cubes and Grab a Grand games, and give participants the chance to catch flying notes, balls or tokens in a timed challenge.
 
-These [interactive games](/categories/interactive-game-hire/#content) are perfect for [corporate events](/categories/corporate-entertainment/#content), and can even be used to add a spark to [weddings](/categories/weddings/#content). With a special [Christmas event](/categories/christmas-game-hire/#content) version available, you can bring Cash Grabber cheer to your holiday events too, and with custom-branding available, you could even use this as a [branded exhibition game](/categories/branded-exhibition-games/#content) to drum up interest at your stand!
+These [interactive games](/categories/interactive-game-hire) are perfect for [corporate events](/categories/corporate-entertainment), and can even be used to add a spark to [weddings](/categories/weddings). With a special [Christmas event](/categories/christmas-game-hire) version available, you can bring Cash Grabber cheer to your holiday events too, and with custom-branding available, you could even use this as a [branded exhibition game](/categories/branded-exhibition-games) to drum up interest at your stand!
 
-Step into the booth and experience the rush of grabbing as many notes as possible. It’s an exhilarating game that’s sure to draw a crowd and provide loads of fun! Our [Christmas Grab a Grand](/products/reindeer-nosenado-christmas-ballnado-hire/#content) is a seasonal twist on the classic, with reindeer noses rather than the standard balls, and a full festive theme.
+Step into the booth and experience the rush of grabbing as many notes as possible. It’s an exhilarating game that’s sure to draw a crowd and provide loads of fun! Our [Christmas Grab a Grand](/products/reindeer-nosenado-christmas-ballnado-hire) is a seasonal twist on the classic, with reindeer noses rather than the standard balls, and a full festive theme.
 
 ## Cash Cube Grabber Rentals
 
@@ -27,4 +27,4 @@ Grab a Grand games and Cash Cubes are not just about the thrill of the catch; th
 
 We offer nationwide delivery of our Grab a Grand machines, bringing the fun to locations across the UK including London, Manchester, Leeds, Glasgow, and beyond. No matter where your event is, we ensure a seamless service from delivery and installation to collection, letting you focus on enjoying the event.
 
-Whether you're planning a corporate function, a festive celebration, or looking to entertain guests at a wedding, our Grab a Grand games are the perfect addition. [Contact us online](/contact-fun-pro-uk/#content) or call [0247 7220 701](tel:02477220701) to find out about the excitement we could bring to your next event.
+Whether you're planning a corporate function, a festive celebration, or looking to entertain guests at a wedding, our Grab a Grand games are the perfect addition. [Contact us online](/contact-fun-pro-uk) or call [0247 7220 701](tel:02477220701) to find out about the excitement we could bring to your next event.

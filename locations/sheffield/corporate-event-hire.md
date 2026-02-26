@@ -9,41 +9,41 @@ thumbnail: /images/products/beat-the-buzzer/beat-the-buzzer-1.jpg
 
 # Corporate Event Hire in Sheffield
 
-Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea/#content) at Sheffield City Hall, a [team building](/events/team-building-entertainment/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
+Planning a [corporate event](/promotional-event-games) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea) at Sheffield City Hall, a [team building](/events/team-building-entertainment) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
 
-At Fun Pro, we've been helping businesses across the UK with their corporate entertainment for over 15 years. As a [family-run company](/about-corporate-entertainment-hire/#content) based in Coventry, we're well-placed to serve Sheffield and South Yorkshire, with regular deliveries to venues throughout the region as well as the rest of the UK.
+At Fun Pro, we've been helping businesses across the UK with their corporate entertainment for over 15 years. As a [family-run company](/about-corporate-entertainment-hire) based in Coventry, we're well-placed to serve Sheffield and South Yorkshire, with regular deliveries to venues throughout the region as well as the rest of the UK.
 
 ## Interactive Game Hire for Sheffield Corporate Events
 
-We supply a wide range of [interactive games](/categories/interactive-game-hire/#content) and entertainment for corporate events, all owned and maintained by our team. This means you're dealing directly with us; no agencies, no subcontractors, and no surprises on the day.
+We supply a wide range of [interactive games](/categories/interactive-game-hire) and entertainment for corporate events, all owned and maintained by our team. This means you're dealing directly with us; no agencies, no subcontractors, and no surprises on the day.
 
 Our extensive range of games includes:
 
-*   [Arcade games](/categories/arcade-games/#content)
+*   [Arcade games](/categories/arcade-games)
     
-*   [Batak Lite](/products/batak-lite/#content)
+*   [Batak Lite](/products/batak-lite)
     
-*   [Batak Pro](/products/batak-pro/#content)
+*   [Batak Pro](/products/batak-pro)
     
-*   [Photo booths](/products/classic-photo-booths/#content)
+*   [Photo booths](/products/classic-photo-booths)
     
-*   [Magic mirrors](/products/magic-mirror/#content)
+*   [Magic mirrors](/products/magic-mirror)
     
-*   [Casino tables](/products/casino-table-hire/#content)
+*   [Casino tables](/products/casino-table-hire)
     
-*   [Roll & Bowl racing games](/products/roll-and-bowl-game-hire/#content)
+*   [Roll & Bowl racing games](/products/roll-and-bowl-game-hire)
     
-*   [Pub games](/categories/pub-games/#content)
+*   [Pub games](/categories/pub-games)
     
-*   [Giant Jenga](/products/giant-jenga-hire/#content)
+*   [Giant Jenga](/products/giant-jenga-hire)
     
-*   [Table football](/products/football-tables/#content)
+*   [Table football](/products/football-tables)
 
 Plus lots more.
 
-We also provide [fun food stalls](/categories/fun-foods/#content), including [popcorn](/products/popcorn-machine-cart-hire/#content), [candy floss](/products/candy-floss-cart-hire/#content), and [pick 'n' mix](/products/pix-n-mix-hire/#content) if you want to add something extra.
+We also provide [fun food stalls](/categories/fun-foods), including [popcorn](/products/popcorn-machine-cart-hire), [candy floss](/products/candy-floss-cart-hire), and [pick 'n' mix](/products/pix-n-mix-hire) if you want to add something extra.
 
-Everything comes with [delivery](/delivery-areas/#content), setup, and collection as standard. If you need staff to run the games during your event, we can arrange that too.
+Everything comes with [delivery](/delivery-areas), setup, and collection as standard. If you need staff to run the games during your event, we can arrange that too.
 
 ## Sheffield Venues We Regularly Supply
 
@@ -67,7 +67,7 @@ Different events call for different approaches, so it's worth thinking about wha
 
 ### Conferences and Exhibitions
 
-If you're exhibiting at a trade show or running a [conference](/events/conference-idea/#content) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/events/brand-activation/#content) work particularly well for [promotional events](/promotional-event-games/#content) where you want to reinforce your company message.
+If you're exhibiting at a trade show or running a [conference](/events/conference-idea) with breakout sessions, games like Batak reaction challenges and prize wheels can draw people to your stand and keep energy levels up between sessions. [Branded games](/events/brand-activation) work particularly well for [promotional events](/promotional-event-games) where you want to reinforce your company message.
 
 ### Team Building and Staff Parties
 
@@ -75,21 +75,21 @@ For team building days and staff celebrations, games that encourage friendly com
 
 ### Christmas Parties
 
-Sheffield has no shortage of venues for festive celebrations, and the right entertainment can set the tone for the evening. Our [Christmas games](/categories/christmas-game-hire/#content) and themed equipment help create a party atmosphere, whilst photo booths capture the fun for people to look back on.
+Sheffield has no shortage of venues for festive celebrations, and the right entertainment can set the tone for the evening. Our [Christmas games](/categories/christmas-game-hire) and themed equipment help create a party atmosphere, whilst photo booths capture the fun for people to look back on.
 
 ## Why Sheffield Businesses Work With Us
 
-We've built our reputation on doing what we say we'll do. Companies like [Rolls-Royce](/rolls-royce-christmas-fun/#content) and [KPMG](/putting-kpmg-in-the-picture/#content) have used our services year after year because they know they can rely on us to turn up on time, set up without fuss, and provide equipment that works.
+We've built our reputation on doing what we say we'll do. Companies like [Rolls-Royce](/rolls-royce-christmas-fun) and [KPMG](/putting-kpmg-in-the-picture) have used our services year after year because they know they can rely on us to turn up on time, set up without fuss, and provide equipment that works.
 
-As a [family business](/about-corporate-entertainment-hire/#content), we take a personal interest in every event. When you get in touch, you'll speak to someone who can answer your questions and help you choose games that suit your venue, your guests, and your budget. We understand that event planning can be stressful, so we try to make our part of it as straightforward as possible.
+As a [family business](/about-corporate-entertainment-hire), we take a personal interest in every event. When you get in touch, you'll speak to someone who can answer your questions and help you choose games that suit your venue, your guests, and your budget. We understand that event planning can be stressful, so we try to make our part of it as straightforward as possible.
 
-All our equipment is safety-tested and covered by full public liability [insurance](/insurance/#content); something corporate clients rightly expect.
+All our equipment is safety-tested and covered by full public liability [insurance](/insurance); something corporate clients rightly expect.
 
 ## We Cover Sheffield and South Yorkshire
 
 Our base in Coventry is around 65 miles from Sheffield city centre, putting you well within our regular delivery area. We also cover the wider South Yorkshire region, including Rotherham, Barnsley, Doncaster, and Chesterfield.
 
-If you're holding an event further out; perhaps a team building day in the Peak District, we can discuss logistics when you [get in touch](/contact-fun-pro-uk/#content).
+If you're holding an event further out; perhaps a team building day in the Peak District, we can discuss logistics when you [get in touch](/contact-fun-pro-uk).
 
 ## Frequently Asked Questions
 
@@ -115,6 +115,6 @@ Yes. For trade shows and promotional events, we can add your branding to certain
 
 ## Get in Touch
 
-If you're planning a corporate event in Sheffield and would like to discuss entertainment options, we'd be [happy to help](/contact-fun-pro-uk/#content). You can call us on 0247 7220 701, email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+If you're planning a corporate event in Sheffield and would like to discuss entertainment options, we'd be [happy to help](/contact-fun-pro-uk). You can call us on 0247 7220 701, email [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
 We'll take the time to understand your event and suggest games that will work for your venue, your guests, and your objectives.

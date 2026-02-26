@@ -9,7 +9,7 @@ thumbnail: /images/products/plinko-game-hire/plinko-game-hire-1.jpg
 
 # Hire Plinko Games for Your Coventry Event
 
-[Plinko game hire Coventry](/products/plinko-game-hire/#content) is perfect for exhibitions and conferences in Coventry along with promotional events and University gatherings.
+[Plinko game hire Coventry](/products/plinko-game-hire) is perfect for exhibitions and conferences in Coventry along with promotional events and University gatherings.
 
 Our team based in Coventry offers in house bespoke branding options for the game, which will definitely increase sales and footfall for your event.  
 
@@ -23,7 +23,7 @@ When attendees play the game, they'll associate the fun and excitement with your
 
 Adding bespoke branding to the Plinko game is a smart investment for your event. It not only enhances the overall look and feel of your booth or exhibition space but also helps to create a lasting impression on attendees. And let's not forget the potential for social media exposure! People love sharing their experiences on platforms like Snapchat, so having a branded Plinko game can generate some serious online buzz.
 
-So, if you're looking to increase sales and footfall at your corporate event in Coventry, I highly recommend considering [Plinko game hire Coventry](/products/plinko-game-hire/#content) from Fun Pro UK. With bespoke branding, you'll create a memorable and engaging experience that attendees won't forget.
+So, if you're looking to increase sales and footfall at your corporate event in Coventry, I highly recommend considering [Plinko game hire Coventry](/products/plinko-game-hire) from Fun Pro UK. With bespoke branding, you'll create a memorable and engaging experience that attendees won't forget.
 
 ## Plinko Game Hire UK
 **Hire **Price** From £395** \+ vat

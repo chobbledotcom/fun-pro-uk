@@ -13,7 +13,7 @@ thumbnail: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-
 
 London's corporate event scene sets the global standard for innovation and sophistication, where cutting-edge brands compete for attention in the world's most dynamic business environment. In a city where first impressions define success, creating standout experiences isn't just advantageous, it's essential.
 
-At Fun Pro, we understand what it takes to make an impact in London's competitive marketplace. Our premium [branded game hire](/events/brand-activation/#content) service has become the secret weapon for influential London businesses who recognise that exceptional events create exceptional results.
+At Fun Pro, we understand what it takes to make an impact in London's competitive marketplace. Our premium [branded game hire](/events/brand-activation) service has become the secret weapon for influential London businesses who recognise that exceptional events create exceptional results.
 
 Our comprehensive game collection offers complete customisation possibilities, from subtle corporate branding integration to bold campaign-specific designs, ensuring your brand story is told through every interactive moment while delivering the entertainment excellence London audiences expect.
 
@@ -35,21 +35,21 @@ Whether you're establishing your presence in London's influential market or rein
 
 ### Interactive Reaction Games
 
-*   [Batak Lite](/products/batak-lite/#content) & [Batak Pro](/products/batak-pro/#content)
+*   [Batak Lite](/products/batak-lite) & [Batak Pro](/products/batak-pro)
     
 *   Whack a Mole
 
 ### Prize and Arcade Games
 
-*   [Prize Crane](/products/prize-crane-arcade-grabber/#content)
+*   [Prize Crane](/products/prize-crane-arcade-grabber)
     
-*   [Ballando](/products/ballnado-grabber/#content)
+*   [Ballando](/products/ballnado-grabber)
 
 ### Entertainment & Simulation Games
 
-*   [Photo Booths](/locations/london/photo-booth-hire/#content)
+*   [Photo Booths](/locations/london/photo-booth-hire)
     
-*   [Racing Car Simulators](/products/racing-car-simulators/#content)
+*   [Racing Car Simulators](/products/racing-car-simulators)
 
 ## Custom Branding For Brand Activation Game Hire in London
 
@@ -71,7 +71,7 @@ Product Launches & Brand Activation Events - Create launch experiences worthy of
 
 Shopping Centre Promotions - Engage with London's sophisticated consumers, extend dwell times, and drive meaningful interactions in premium retail environments
 
-Experiential Marketing Campaigns - Deliver immersive brand experiences across [London's iconic locations](/locations/london/excel/#content) that generate organic social sharing and word-of-mouth advocacy
+Experiential Marketing Campaigns - Deliver immersive brand experiences across [London's iconic locations](/locations/london/excel) that generate organic social sharing and word-of-mouth advocacy
 
 ## Brand Activation Game Hire Available Throughout London
 
@@ -83,7 +83,7 @@ Venue expertise - Comprehensive knowledge of London's diverse event spaces, from
 
 Competitive positioning - Strategic pricing that delivers exceptional value in London's premium market
 
-While London remains a key location for us, our national [delivery network](/delivery-areas/#content)\* covers major UK cities including:
+While London remains a key location for us, our national [delivery network](/delivery-areas)\* covers major UK cities including:
 
 *   Birmingham
     
@@ -131,4 +131,4 @@ London Expertise - Unparalleled understanding of London's venue requirements, lo
 
 With over twenty years of experience delivering world-class promotional entertainment solutions, we've earned our reputation as London's trusted partner for transformative event experiences.
 
-[Contact us](/contact-fun-pro-uk/#content) today for a free, no-obligation quote.
+[Contact us](/contact-fun-pro-uk) today for a free, no-obligation quote.

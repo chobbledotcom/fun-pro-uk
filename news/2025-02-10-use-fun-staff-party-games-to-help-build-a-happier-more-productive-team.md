@@ -9,7 +9,7 @@ redirect_from:
   - "/news/2025-02-10/use-fun-staff-party-games-to-help-build-a-happier-more-productive-team/"
 ---
 
-Staff parties are a great way to encourage [team bonding](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace/#content) and make everyone feel included, and build stronger relationships at work. The type of parties you throw at your company say a lot about the culture you’ve created or are trying to create, so it’s important to think about this when planning the activities you’d like to include.
+Staff parties are a great way to encourage [team bonding](/news/the-best-ideas-for-team-bonding-activities-in-the-workplace) and make everyone feel included, and build stronger relationships at work. The type of parties you throw at your company say a lot about the culture you’ve created or are trying to create, so it’s important to think about this when planning the activities you’d like to include.
 
 Whether it’s fun staff party games that allow everyone to show their competitive side, or something a bit more formal where your team can mingle and get to know each other outside of work, the key to a good staff party lies in the planning.
 
@@ -59,7 +59,7 @@ Here are some of the staff party games available to hire from Fun Pro:
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc97BGF5hyiVSErKIYApaJvohLmOPLldUssmdpbAZhgxTHermNaUUSHnFX52aAHIQSs4QfOL61JSdyGxj7pWfuTKqSQgdmMuLo0lSo_4WWrQaOWFOhqtwttSxFb36BEXSddqAwXHQ?key=KExXpscMQ0sVnSHnZPw7R9RA)
 
-[Prize Crane games](/products/prize-crane-arcade-grabber/#content) make a great addition to staff parties of all sizes and a great way to break the ice and get everyone involved. If you remember going to an arcade as a child, the thrill of wondering whether you’d win that teddy was half the fun. With our Prize Crane arcade games, your team can have hours of fun just with these alone.
+[Prize Crane games](/products/prize-crane-arcade-grabber) make a great addition to staff parties of all sizes and a great way to break the ice and get everyone involved. If you remember going to an arcade as a child, the thrill of wondering whether you’d win that teddy was half the fun. With our Prize Crane arcade games, your team can have hours of fun just with these alone.
 
 The machines themselves come in a range of themes and colours and they don’t require any coins; simply fill them with your chosen prizes and see who’s lucky enough to win.
 
@@ -69,7 +69,7 @@ Prices start at just £495+ VAT.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUzUVWxEyKzJSb-wOi-OHRFVrBX6g8HaQqZQKQ7uzbcwJ2Ok5CQcnRgfBaS2JZeqfeBWTh9KkE7pnyQU5VgnbpBXUK5uVEkNyyXJOillYpfMF6o8ZzmyYPgfYRJ50EyLVnMurw?key=KExXpscMQ0sVnSHnZPw7R9RA)
 
-For the more competitive employees in your team, what better way to encourage some healthy rivalry and team spirit than with [racing car simulators](/products/racing-car-simulators/#content)?
+For the more competitive employees in your team, what better way to encourage some healthy rivalry and team spirit than with [racing car simulators](/products/racing-car-simulators)?
 
 These car simulators are perfect for staff parties and will really help bring the team together as they race against each other.
 
@@ -79,7 +79,7 @@ Prices for our racing car simulators start at £475+ VAT for 1 car.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYoss85CC33LxdcGHlnKKXr8eaFoHTFexyMSmCprph5kKazJCbdVKUCfvrtykpqMjV_scX6pbbo4TDfhC2kuF1vIp0ASpII9CA_QnHVttw-MqVXX2Gpwec7qQsbT_DjTQ42XT5iA?key=KExXpscMQ0sVnSHnZPw7R9RA)
 
-[Football tables](/products/football-tables/#content) and other team games are a great way to bring people together and break the ice at staff parties since they encourage teamwork, and lighthearted competition among colleagues.
+[Football tables](/products/football-tables) and other team games are a great way to bring people together and break the ice at staff parties since they encourage teamwork, and lighthearted competition among colleagues.
 
 With prices starting at £295+ VAT, Fun Pro football tables are an affordable way to throw a great staff party that everyone can enjoy.
 
@@ -89,7 +89,7 @@ With prices starting at £295+ VAT, Fun Pro football tables are an affordable wa
 
 Crazy golf, also known as mini-golf, is a fantastic way to get employees interacting in a relaxed and enjoyable setting. With creative obstacles and engaging courses, crazy golf promotes teamwork, patience, and a bit of friendly competition. It’s a perfect option for indoor or outdoor staff parties and caters to all skill levels.
 
-Our [crazy golf](/products/crazy-golf/#content) hire starts at £495 +VAT.
+Our [crazy golf](/products/crazy-golf) hire starts at £495 +VAT.
 
 ### Batak games
 
@@ -97,7 +97,7 @@ Our [crazy golf](/products/crazy-golf/#content) hire starts at £495 +VAT.
 
 Batak reaction games are always a hit at staff parties and events, especially when people are playing in groups. These high-energy games involve pressing illuminated buttons as quickly as possible, making them ideal for those in your team who enjoy a fast-paced challenge.
 
-The prices for our [Batak Lite](/products/batak-lite/#content) games start at £445 + VAT and £495 + VAT for [Batak Pro.](/products/batak-pro/#content)
+The prices for our [Batak Lite](/products/batak-lite) games start at £445 + VAT and £495 + VAT for [Batak Pro.](/products/batak-pro)
 
 ## Tips For Organising Your Next Staff Party:
 
@@ -117,7 +117,7 @@ When looking for a location for your staff party, you should look for one that c
 
 ### Decide on themes and entertainment
 
-Staff parties with a specific theme like a [retro arcade](/products/retro-arcade-games/#content) night, carnival or a decade-specific theme is a great way to get people involved in the activities and show their personalities outside of work.
+Staff parties with a specific theme like a [retro arcade](/products/retro-arcade-games) night, carnival or a decade-specific theme is a great way to get people involved in the activities and show their personalities outside of work.
 
 Once you’ve chosen your theme, you can pick things to bring it to life like music, lighting, activities, and decor.
 
@@ -151,7 +151,7 @@ At Fun Pro UK, we understand the importance of creating memorable and fun events
 
 **Reliability**: Our top-notch equipment and seamless service mean you can focus on enjoying the party while we handle the logistics.
 
-Take a look through our [range of staff party games](/products/#content) or [get in touch with us](/contact-fun-pro-uk/#content) for a free quote.
+Take a look through our [range of staff party games](/products) or [get in touch with us](/contact-fun-pro-uk) for a free quote.
 
 ## Frequently Asked Questions
 
@@ -165,7 +165,7 @@ Although you’ll never be able to accommodate every single need and preference 
 
 ### What types of games are most effective for large corporate gatherings?
 
-The types of games and activities you hire for your event will depend on the company culture you have, the event you’re planning. If you’re hosting a more formal, corporate event or staff party, then activities like [casino tables](/products/casino-table-hire/#content), [photo booths](/products/classic-photo-booths/#content), or even [giant Jenga](/products/giant-jenga-hire/#content).
+The types of games and activities you hire for your event will depend on the company culture you have, the event you’re planning. If you’re hosting a more formal, corporate event or staff party, then activities like [casino tables](/products/casino-table-hire), [photo booths](/products/classic-photo-booths), or even [giant Jenga](/products/giant-jenga-hire).
 
 ### Should I hire a professional organiser or DIY the staff party planning?
 
