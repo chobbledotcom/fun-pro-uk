@@ -12,7 +12,7 @@ thumbnail: /images/products/football-tables/football-tables-1.jpg
 ## Fun Pro UK - the Corporate Entertainment Agency for Nottingham
 Want to reward your hard-working staff? Or want to attract new customers to your business? How about adding an extra level of laughter to your company party?
 
-All you need is to contact the team at Fun Pro UK to help plan your next corporate event idea! Whether its [Race Car Simulators](/products/racing-car-simulators/#content) at your conference or a Photo Booth at your exhibition.
+All you need is to contact the team at Fun Pro UK to help plan your next corporate event idea! Whether its [Race Car Simulators](/products/racing-car-simulators) at your conference or a Photo Booth at your exhibition.
 
 ## Happy guests at every event!
 Fun Pro UK specialise in corporate entertainment hire to make every event you host memorable and entertaining to your guests.
@@ -34,7 +34,7 @@ It completely depends upon your audience. But it is crucial for communications, 
 
 Whatever type of event you are hosting, we have the entertainment which fits right in. For example, if you're planning a quirky corporate event, why not try out our range of inflatables or impress your guests with twin Race Car Simulators. (Pst these are also great for drawing in the crowds at an exhibition!)
 
-Or are you organising a sales conference? Why not entertain your delegates with our range of conference entertainment, including table football or table top games on a grand scale for instance [buzz wire](/products/giant-buzz-wire/#content)!
+Or are you organising a sales conference? Why not entertain your delegates with our range of conference entertainment, including table football or table top games on a grand scale for instance [buzz wire](/products/giant-buzz-wire)!
 
 Or are you planning a classier evening event? Have you considered our authentic casino equipment which comes with a professional croupier, to show your guests a good time!
 

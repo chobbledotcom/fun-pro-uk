@@ -11,7 +11,7 @@ thumbnail: /images/products/ballnado-grabber/ballnado-grabber-1.jpg
 
 Gone are the days when corporate events needed to be filled with boring lectures and stuffy interactions. In today’s fast-paced world, people want something different, and creating a buzz and building true connection and engagement at events is what people are looking for.
 
-At Fun Pro, our [branded game hire](/events/brand-activation/#content) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
+At Fun Pro, our [branded game hire](/events/brand-activation) service is popular with businesses and individuals all over Coventry who are looking for something a bit different at their event.
 
 You can choose to fully customise the promotional games you hire from us with your brand logo or even the event-specific branding to help you generate even more interest and buzz.
 
@@ -33,31 +33,31 @@ Whether you're introducing your company to new prospects or trying to build on r
 
 ### Interactive Reaction Games
 
-*   Batak Games, including [Batak Pro](/locations/coventry/batak-pro-hire/#content) and [Batak Lite](/locations/coventry/batak-lite/#content)
+*   Batak Games, including [Batak Pro](/locations/coventry/batak-pro-hire) and [Batak Lite](/locations/coventry/batak-lite)
     
-*   [High Striker](/locations/coventry/high-striker/#content)
+*   [High Striker](/locations/coventry/high-striker)
     
-*   [Crack The Code](/locations/coventry/safe-cracker-hire/#content)
+*   [Crack The Code](/locations/coventry/safe-cracker-hire)
 
 ### Prize and Arcade Games
 
-*   [Cash Grabber](/locations/coventry/cash-grabber-hire/#content)
+*   [Cash Grabber](/locations/coventry/cash-grabber-hire)
     
-*   [Prize Wheel](/locations/coventry/prize-wheel-hire/#content)
+*   [Prize Wheel](/locations/coventry/prize-wheel-hire)
     
-*   [Prize Crane Machines](/locations/coventry/prize-crane-hire/#content)
+*   [Prize Crane Machines](/locations/coventry/prize-crane-hire)
 
 ### Entertainment & Simulation Games
 
-*   [Dance Machines](/locations/coventry/dance-machine-hire/#content)
+*   [Dance Machines](/locations/coventry/dance-machine-hire)
     
-*   [Photo Booths](/locations/coventry/photo-booth-hire/#content)
+*   [Photo Booths](/locations/coventry/photo-booth-hire)
 
 ### Carnival & Festival Games
 
-*   [Whack a Mole](/locations/coventry/whack-a-mole-hire/#content)
+*   [Whack a Mole](/locations/coventry/whack-a-mole-hire)
     
-*   [Giant Plinko](/locations/coventry/plinko-hire/#content)
+*   [Giant Plinko](/locations/coventry/plinko-hire)
 
 ## Custom Branding For Brand Activation Game Hire in Coventry
 
@@ -65,7 +65,7 @@ Our custom branding for promotional games transforms standard games into powerfu
 
 *   Visual branding- Custom graphics and professional vinyl wraps are used to showcase your brand in a visually appealing way. This can be your brand logo or even specific to the event itself
     
-*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](/locations/coventry/corporate-event-hire/#content) by giving away your products, gift cards, or branded merchandise as prizes.
+*   Branded merchandise - Create even more buzz and generate even more brand awareness at your [Coventry corporate event](/locations/coventry/corporate-event-hire) by giving away your products, gift cards, or branded merchandise as prizes.
 
 ## Brand Activation Game Hire in Coventry for Many Different Events
 
@@ -85,7 +85,7 @@ Our games are often hired for corporate events across Coventry, such as:
 
 As a proud Coventry business, we're committed to supporting local companies with premium entertainment solutions. Our location offers customers several advantages, including:
 
-*   Faster deployment - Quick [delivery](/delivery-areas/#content) and setup options are available for most Coventry bookings
+*   Faster deployment - Quick [delivery](/delivery-areas) and setup options are available for most Coventry bookings
     
 *   Regional expertise -We have an in-depth knowledge of Coventry venues
     
@@ -139,6 +139,6 @@ Wherever your event takes place, our professional team can manage the delivery, 
 
 ## Contact Fun Pro For Brand Activation Game Hire in Coventry
 
-We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/events/team-building-entertainment/#content) days, product launches, and many more.
+We have over 20 years of experience in providing businesses throughout Coventry with custom branded promotional games for their events, including brand activations, [team building](/events/team-building-entertainment) days, product launches, and many more.
 
-No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk/#content) today for a free quote and for more details on our promotional game hire for events.
+No matter what your budget or the type of event you’re planning, we'll work with you to find tailored solutions that fit perfectly with your event goals and your brand values. [Contact us](/contact-fun-pro-uk) today for a free quote and for more details on our promotional game hire for events.

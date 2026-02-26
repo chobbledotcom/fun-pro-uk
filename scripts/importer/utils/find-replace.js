@@ -272,7 +272,7 @@ const fixHtmlLinks = (content, sourcePath = null) => {
         if (anchor && anchor.toLowerCase() !== 'specification' && anchor !== '') {
           // Has a meaningful anchor
           if (anchor.toLowerCase() === 'bodycontent') {
-            return '](#content)';
+            return ']()';
           }
           return `](#${anchor})`;
         }
@@ -308,11 +308,11 @@ const fixHtmlLinks = (content, sourcePath = null) => {
         }
       }
       
-      // Handle anchor - convert BodyContent to content, preserve others
+      // Handle anchor - skip useless anchors, preserve meaningful ones
       let anchorPart = '';
       if (anchor) {
         if (anchor.toLowerCase() === 'bodycontent') {
-          anchorPart = '#content';
+          // Skip bodycontent anchors - they don't map to anything useful
         } else if (anchor.toLowerCase() !== 'specification') {
           // Skip #specification anchors as they don't exist in new site
           anchorPart = '#' + anchor;

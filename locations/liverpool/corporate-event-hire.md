@@ -12,17 +12,17 @@ thumbnail: /images/locations/liverpool.jpg
 
 Liverpool has established itself as one of the UK's premier destinations for conferences, exhibitions and large-scale corporate events. The waterfront events district, anchored by ACC Liverpool, brings thousands of business visitors to the city each year. Beyond the headline venues, Liverpool's hotels, converted warehouse spaces around the Albert Dock, and corporate offices across Merseyside host a constant flow of team events, client entertainment and company celebrations.
 
-With over 15 years as [corporate event specialists](/about-corporate-entertainment-hire/#content), we provide the interactive entertainment and fun food catering that help these events succeed. We understand that corporate events in Liverpool range from formal black-tie galas to relaxed team socials, and the entertainment needs to match.
+With over 15 years as [corporate event specialists](/about-corporate-entertainment-hire), we provide the interactive entertainment and fun food catering that help these events succeed. We understand that corporate events in Liverpool range from formal black-tie galas to relaxed team socials, and the entertainment needs to match.
 
 ## Entertainment That Works for Liverpool's Corporate Scene
 
-Liverpool's events tend to have energy. There's something about the city's character that encourages people to get involved, which makes it an excellent place for [interactive games](/categories/interactive-game-hire/#content). [Batak reaction games](/categories/batak/#content) tap into the natural competitiveness that surfaces at corporate events — colleagues who are reserved in the office suddenly find themselves chasing high scores. [Racing simulators](/products/racing-car-simulators/#content) create the same effect, drawing crowds and generating conversation.
+Liverpool's events tend to have energy. There's something about the city's character that encourages people to get involved, which makes it an excellent place for [interactive games](/categories/interactive-game-hire). [Batak reaction games](/categories/batak) tap into the natural competitiveness that surfaces at corporate events — colleagues who are reserved in the office suddenly find themselves chasing high scores. [Racing simulators](/products/racing-car-simulators) create the same effect, drawing crowds and generating conversation.
 
-For exhibitions and trade shows at the Exhibition Centre Liverpool, [branded games](/categories/branded-exhibition-games/#content) help your stand cut through the noise. When hundreds of exhibitors are competing for footfall, an interactive game with your branding draws people in and keeps them engaged longer than a static display. We design, print and apply all custom graphics in-house, so we can match your brand guidelines precisely.
+For exhibitions and trade shows at the Exhibition Centre Liverpool, [branded games](/categories/branded-exhibition-games) help your stand cut through the noise. When hundreds of exhibitors are competing for footfall, an interactive game with your branding draws people in and keeps them engaged longer than a static display. We design, print and apply all custom graphics in-house, so we can match your brand guidelines precisely.
 
-[Photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors/#content) are a reliable choice for gala dinners, awards evenings and Christmas parties. They give guests a fun activity that produces a physical or digital takeaway, and the photos often end up on social media — extending the reach of your event beyond the room.
+[Photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors) are a reliable choice for gala dinners, awards evenings and Christmas parties. They give guests a fun activity that produces a physical or digital takeaway, and the photos often end up on social media — extending the reach of your event beyond the room.
 
-Our [fun food catering](/categories/fun-foods/#content) brings a social element that formal catering sometimes misses. Pizza ovens, popcorn carts, candy floss and ice cream create informal gathering points where people relax and chat naturally.
+Our [fun food catering](/categories/fun-foods) brings a social element that formal catering sometimes misses. Pizza ovens, popcorn carts, candy floss and ice cream create informal gathering points where people relax and chat naturally.
 
 ## Liverpool's Key Corporate Venues
 
@@ -42,16 +42,16 @@ For multi-day exhibitions and conferences, we coordinate delivery and collection
 
 Liverpool's major venues are well set up for entertainment — good access for delivery, dedicated event management teams, and flexible spaces. That makes the logistics straightforward for most events. The key decisions are about what entertainment suits your specific occasion.
 
-A conference with 500 delegates needs entertainment that works during breaks and networking sessions — things people can engage with quickly without needing lengthy explanations. A [team building](/events/team-building-entertainment/#content) day for 40 people benefits from games that encourage interaction and create shared stories. An exhibition stand needs something eye-catching that stops passing traffic. A Christmas party wants entertainment that gets people in a celebratory mood.
+A conference with 500 delegates needs entertainment that works during breaks and networking sessions — things people can engage with quickly without needing lengthy explanations. A [team building](/events/team-building-entertainment) day for 40 people benefits from games that encourage interaction and create shared stories. An exhibition stand needs something eye-catching that stops passing traffic. A Christmas party wants entertainment that gets people in a celebratory mood.
 
 We'll talk through your event with you and recommend a mix of entertainment that fits. We've seen what works across thousands of corporate events, and we're happy to share that experience.
 
 ## Why Choose Fun Pro UK for Liverpool Corporate Events
 
-We're a family-run business that takes every event personally. Our equipment is professional-grade and [safety-tested](/insurance/#content), we carry full public liability insurance, and we handle everything ourselves — no subcontractors, no third parties. Companies including major blue-chip brands return to us year after year because they know the quality is consistent and the service is reliable.
+We're a family-run business that takes every event personally. Our equipment is professional-grade and [safety-tested](/insurance), we carry full public liability insurance, and we handle everything ourselves — no subcontractors, no third parties. Companies including major blue-chip brands return to us year after year because they know the quality is consistent and the service is reliable.
 
 Our central England location means we serve Liverpool at competitive rates. You get the same team, the same equipment and the same attention whether your event is in Liverpool, London or anywhere in between.
 
 ## Ready to Plan Your Liverpool Corporate Event?
 
-[Contact us](/contact-fun-pro-uk/#content) on 0247-722-0701 to discuss your event. Whether it's a major exhibition at ACC Liverpool, a gala dinner on the waterfront or a team building day at your offices, we'll help you get the entertainment right.
+[Contact us](/contact-fun-pro-uk) on 0247-722-0701 to discuss your event. Whether it's a major exhibition at ACC Liverpool, a gala dinner on the waterfront or a team building day at your offices, we'll help you get the entertainment right.

@@ -11,7 +11,7 @@ thumbnail: "/images/locations/img-20221207-wa0005.jpg"
 
 ![Batak pro hire Coventry](/images/locations/img-20221207-wa0005.jpg)
 
-Hiring a Batak Pro game from Fun Pro UK for your [office fun day event in Coventry](/products/batak-pro/#content) is a fantastic idea to boost staff morale and create a fun-filled atmosphere. The Batak Pro game is not only exciting but also a great way to engage your employees and bring them together for a day of laughter and friendly competition.
+Hiring a Batak Pro game from Fun Pro UK for your [office fun day event in Coventry](/products/batak-pro) is a fantastic idea to boost staff morale and create a fun-filled atmosphere. The Batak Pro game is not only exciting but also a great way to engage your employees and bring them together for a day of laughter and friendly competition.
 
 One of the main benefits of the Batak Pro game is its ability to promote teamwork and camaraderie among your staff. It's a game that can be enjoyed by people of all ages and fitness levels, making it inclusive and accessible for everyone. By participating in the game, your employees will have the opportunity to bond, cheer each other on, and celebrate their achievements together.
 
@@ -21,7 +21,7 @@ Furthermore, the Batak Pro game can help improve focus and concentration. The ga
 
 Fun Pro UK offers a seamless experience when it comes to hiring the Batak Pro game. They will take care of the delivery, setup, and pickup of the game, ensuring that everything runs smoothly on the day of your event. Their team will be there to provide instructions and support, making sure that everyone understands how to play the game and has a fantastic time.
 
-To make the [office fun day event Coventry](/products/batak-pro/#content) even more special, Fun Pro UK can also provide bespoke branding options for the Batak Pro game. You can customize the game with your company's logo or any other branding elements that represent your business. This adds a personalized touch and reinforces a sense of pride and belonging among your employees.
+To make the [office fun day event Coventry](/products/batak-pro) even more special, Fun Pro UK can also provide bespoke branding options for the Batak Pro game. You can customize the game with your company's logo or any other branding elements that represent your business. This adds a personalized touch and reinforces a sense of pride and belonging among your employees.
 
 So, by hiring a Batak Pro along with other interactive games from Fun Pro UK, you'll not only boost staff morale but also create a memorable and enjoyable experience for your team. It's a great way to show appreciation for their hard work and dedication while fostering a positive and engaging work environment.
 

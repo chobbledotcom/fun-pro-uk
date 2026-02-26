@@ -11,7 +11,7 @@ redirect_from:
 
 With all this lovely Summer weather it's hard to start thinking about organising the work Christmas do. We get it, you're thinking about relaxing on your summer holiday and will sort it out when you get back. There's only one problem with this strategy, other companies are organising theirs now and if you don't get started, you'll find you've missed the boat when it comes to venue and entertainment.
 
-To help get you started we've put together a quick guide on things to consider now, to ensure your [Christmas event](/categories/christmas-game-hire/#content) is memorable and hopefully, stress free.
+To help get you started we've put together a quick guide on things to consider now, to ensure your [Christmas event](/categories/christmas-game-hire) is memorable and hopefully, stress free.
 
 1.  Set the date for your event. If possible have a few dates in mind which can be narrowed down to one based on the availability of your venue.
 2.  Find out your budget. Everything you do will depend on this!

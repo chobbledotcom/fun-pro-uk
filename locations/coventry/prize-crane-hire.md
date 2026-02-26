@@ -9,7 +9,7 @@ thumbnail: /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabbe
 
 # Prize Crane Game Hire for Coventry Events
 
-Hiring a prize crane arcade grabber machine for your exhibition stand, conferences, or [corporate events in Coventry](/products/prize-crane-arcade-grabber/#content) is a fantastic idea!
+Hiring a prize crane arcade grabber machine for your exhibition stand, conferences, or [corporate events in Coventry](/products/prize-crane-arcade-grabber) is a fantastic idea!
 
 Fun Pro UK has got you covered with their awesome prize crane arcade grabber machines that are sure to attract attention and increase footfall to your trade show, promotion, or open day in Coventry.
 
@@ -17,7 +17,7 @@ One of the coolest things about Fun Pro UK is that they offer bespoke branding o
 
 The prize crane arcade grabber machine is a crowd-pleaser for sure. Everyone loves the thrill of trying to grab a prize and the excitement of winning. It adds an element of fun and excitement to your exhibition stand or conference, making it a memorable experience for attendees. Plus, who doesn't love the chance to win a prize?
 
-By incorporating the [prize crane arcade grabber](/products/prize-crane-arcade-grabber/#content) machine into your event in Coventry, you'll not only attract more people to your stand but also keep them engaged and entertained. It's a great way to create a buzz and draw attention to your products or services. People will be lining up to have a go at the arcade grabber machine, and while they're there, you can showcase what you have to offer and make those sales!
+By incorporating the [prize crane arcade grabber](/products/prize-crane-arcade-grabber) machine into your event in Coventry, you'll not only attract more people to your stand but also keep them engaged and entertained. It's a great way to create a buzz and draw attention to your products or services. People will be lining up to have a go at the arcade grabber machine, and while they're there, you can showcase what you have to offer and make those sales!
 
 Another benefit of the prize crane arcade grabber machine is its potential for social media exposure. People love sharing their experiences on platforms like Snapchat, and winning a prize from the arcade grabber machine makes for a great photo or video opportunity. This can help spread the word about your brand and event, reaching a wider audience and generating more sales.
 

@@ -25,7 +25,7 @@ There are so many companies claiming to be event entertainment agencies. But how
 Fun Pro UK want to ensure that everything we do, fits into your event, from corporate party entertainment to corporate team building activities. We take everything about your event seriously from the initial enquiry to understand what entertainment would suit to delivering the equipment with professionalism and know-how.
 
 ## But what corporate entertainment would work best?
-It completely depends on your event, but don't worry, as the team at Fun Pro UK are always available to assist in suggest what [interactive games](/categories/interactive-game-hire/#content) or [photo booths](/products/green-screen-photo-booths/#content) would work well.
+It completely depends on your event, but don't worry, as the team at Fun Pro UK are always available to assist in suggest what [interactive games](/categories/interactive-game-hire) or [photo booths](/products/green-screen-photo-booths) would work well.
 
 For instance, if you are planning a conference in Northampton, why not give your delegates an enjoyable break with a range of conference entertainment available to hire. From a Retro Arcade Machine to Giant Buzz Wire and Strike a Light Challenge.
 

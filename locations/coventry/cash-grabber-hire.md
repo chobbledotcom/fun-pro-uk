@@ -12,13 +12,13 @@ thumbnail: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-
 
 # Cash Grabber Hire Coventry
 
-Whether you're planning an exhibition stand, promotional event, or conference in Coventry, the [Cash Grabber game](/products/cash-grabber-machine-hire/#content) is a fantastic addition to make your event unforgettable.
+Whether you're planning an exhibition stand, promotional event, or conference in Coventry, the [Cash Grabber game](/products/cash-grabber-machine-hire) is a fantastic addition to make your event unforgettable.
 
 When you hire the Cash Grabber game from Fun Pro UK, you're in for an exciting and engaging experience. The game is designed to create a buzz and draw attention to your booth or event space. It's a surefire way to attract a crowd and leave a lasting impression on your attendees.
 
 Exhibition Stand:
 
-If you're setting up an exhibition stand, the [Cash Grabber game Coventry](/products/cash-grabber-machine-hire/#content) is a perfect way to stand out from the crowd. With its swirling vortex of money and the challenge of grabbing as much cash as possible, it's bound to catch the eye of passersby. People will be drawn to the excitement and energy surrounding your booth, giving you the opportunity to engage with potential customers and showcase your products or services.
+If you're setting up an exhibition stand, the [Cash Grabber game Coventry](/products/cash-grabber-machine-hire) is a perfect way to stand out from the crowd. With its swirling vortex of money and the challenge of grabbing as much cash as possible, it's bound to catch the eye of passersby. People will be drawn to the excitement and energy surrounding your booth, giving you the opportunity to engage with potential customers and showcase your products or services.
 
 The team at Fun Pro UK are able to add bespoke branding to the cash grabber - grab a grand game too! Imagine how great your company logo or catch phrase will look applied to the game along with your own personalised paper money swirling around inside. It's a great way to reinforce your brand identity and make a lasting impact on your guests.
 
@@ -86,10 +86,10 @@ Please contact us to find out more
 ## Product requirements
 **Popular Items:**
 
-[Leaded Board](/products/leader-board/#content)
+[Leaded Board](/products/leader-board)
 
 Lights Out
 
-[Gold Cup Horse racing](/products/gold-cup-horse-racing/#content)
+[Gold Cup Horse racing](/products/gold-cup-horse-racing)
 
-[Crack the Code](/products/crack-the-code-safe-cracker/#content)
+[Crack the Code](/products/crack-the-code-safe-cracker)

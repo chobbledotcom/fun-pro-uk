@@ -16,16 +16,16 @@ We deliver interactive game hire to the Harrogate Convention Centre and handle s
 
 ## Conference and Exhibition Stand Games
 
-Our [interactive games](/categories/interactive-game-hire/#content) are designed to draw visitors to your stand. The [Batak Pro](/products/batak-pro/#content) is a popular choice for exhibitions — contestants compete to hit flashing lights as fast as possible, and the competition draws a crowd. Run a leaderboard and offer a prize for the top score to keep people coming back throughout the day.
+Our [interactive games](/categories/interactive-game-hire) are designed to draw visitors to your stand. The [Batak Pro](/products/batak-pro) is a popular choice for exhibitions — contestants compete to hit flashing lights as fast as possible, and the competition draws a crowd. Run a leaderboard and offer a prize for the top score to keep people coming back throughout the day.
 
-[Giant buzz wire](/products/giant-buzz-wire/#content), [crack the code safe cracker](/products/crack-the-code-safe-cracker/#content) and [prize games](/categories/prize-games/#content) like [cash grabbers](/products/cash-grabber-machine-hire/#content) and [prize wheels](/products/prize-wheel/#content) all work well in exhibition hall settings.
+[Giant buzz wire](/products/giant-buzz-wire), [crack the code safe cracker](/products/crack-the-code-safe-cracker) and [prize games](/categories/prize-games) like [cash grabbers](/products/cash-grabber-machine-hire) and [prize wheels](/products/prize-wheel) all work well in exhibition hall settings.
 
 ## Branded Game Hire
 
-For maximum impact at your Harrogate exhibition, our [custom-branded games](/categories/branded-exhibition-games/#content) put your company name and colours on the game itself. Our in-house team handles design, print and application, ensuring your stand catches the eye of every passer-by.
+For maximum impact at your Harrogate exhibition, our [custom-branded games](/categories/branded-exhibition-games) put your company name and colours on the game itself. Our in-house team handles design, print and application, ensuring your stand catches the eye of every passer-by.
 
 ## Delivery to Harrogate
 
 We're based in Coventry with direct access up the M1 to Yorkshire. Our team arrives ahead of your event, sets everything up and stays to support as needed.
 
-[Get a quote](/quote/#content) for your next event at the Harrogate Convention Centre.
+[Get a quote](/quote) for your next event at the Harrogate Convention Centre.

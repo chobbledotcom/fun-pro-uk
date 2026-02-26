@@ -24,7 +24,7 @@ Before we knew it those few days at the Excel were over and it was time to retur
 ## Manchester here we come!
 Just so the team didn't think the heat was off, last Friday Colin and the crew set off to Manchester. This was a very early start to beat the traffic and arrive at The Trafford Centre in good time to get set up. A very popular department store was having a staff appreciation day, it's great to see companies recognising the hard work of their staff don't you think.
 
-The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/cash-grabber-machine-hire/#content) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
+The staff at Selfridges, Manchester, were given the opportunity by their managers to have a go on our [Grab a Grand](/products/cash-grabber-machine-hire) game. We had been asked by the store if we could brand our game, we were delighted to assist with, this is something Fun Pro UK does in house.
 
 ## Why Branding is important ![Grab a Grand ](/images/news/blog.jpg)
 Branding a game with your company name and logo is an effective way to showcase your company and ensure it is recognised by your target market. Brand activation ensures that your name stands out, everyone sees a name and is more likely to remember the visual graphics of an item.

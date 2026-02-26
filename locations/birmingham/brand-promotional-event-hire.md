@@ -13,7 +13,7 @@ thumbnail: /images/products/batak-pro/batak-pro-1.jpg
 
 The landscape of corporate events is evolving rapidly, and Birmingham businesses are leading the change in creating dynamic, engaging experiences that leave lasting impressions. Today's event attendees expect more than traditional presentations, and instead, they want interactive experiences.
 
-At Fun Pro, we specialise in transforming Birmingham events through our comprehensive [branded game hire](/events/brand-activation/#content) service. Our interactive promotional games have become the go-to solution for forward-thinking businesses across Birmingham who understand that memorable events drive real results.
+At Fun Pro, we specialise in transforming Birmingham events through our comprehensive [branded game hire](/events/brand-activation) service. Our interactive promotional games have become the go-to solution for forward-thinking businesses across Birmingham who understand that memorable events drive real results.
 
 Many of the games in our collection can be fully customised with your company branding, event-specific graphics, or campaign messaging, ensuring your brand takes centre stage while guests enjoy unforgettable entertainment experiences.
 
@@ -35,29 +35,29 @@ Whether you're launching a new venture or looking for interesting ways to streng
 
 ### Interactive Reaction Games
 
-*   Batak Games, including [Batak Pro](/locations/birmingham/batak-pro-hire/#content) and [Batak Lite](/locations/birmingham/batak-lite-hire/#content)
+*   Batak Games, including [Batak Pro](/locations/birmingham/batak-pro-hire) and [Batak Lite](/locations/birmingham/batak-lite-hire)
     
-*   [Strike a Light - Danger Zone](/locations/birmingham/strike-a-light-danger-zone-hire/#content)
+*   [Strike a Light - Danger Zone](/locations/birmingham/strike-a-light-danger-zone-hire)
     
-*   [Whack a Mole](/locations/birmingham/whack-a-mole-hire/#content)
+*   [Whack a Mole](/locations/birmingham/whack-a-mole-hire)
 
 ### Skill & Precision Games
 
-*   [Mega Wire](/locations/birmingham/mega-wire-hire/#content)
+*   [Mega Wire](/locations/birmingham/mega-wire-hire)
     
-*   [Roll and Bowl](/locations/birmingham/roll-and-bowl-hire/#content)
+*   [Roll and Bowl](/locations/birmingham/roll-and-bowl-hire)
     
-*   [Ballando](/locations/birmingham/ballnado-hire/#content)
+*   [Ballando](/locations/birmingham/ballnado-hire)
 
 ### Entertainment Games
 
-*   [Magic Mirror](/locations/birmingham/magic-mirror-hire/#content)
+*   [Magic Mirror](/locations/birmingham/magic-mirror-hire)
 
 ### Prize Games
 
-*   [Prize Crane](/locations/birmingham/prize-crane-hire/#content)
+*   [Prize Crane](/locations/birmingham/prize-crane-hire)
     
-*   [Plinko](/locations/birmingham/plinko-hire/#content)
+*   [Plinko](/locations/birmingham/plinko-hire)
 
 ## Custom Branding For Brand Activation Game Hire in Birmingham
 
@@ -77,7 +77,7 @@ Trade Shows & Exhibitions - Stand out from the crowd at Birmingham's major exhib
 
 Product Launches & Brand Activation Events - Generate excitement and create memorable launch moments for new products and services across Birmingham
 
-Shopping Centre Promotions - Connect with Birmingham shoppers, [increase engagement](/news/how-to-increase-engagement-at-your-brand-activation-event/#content) time, and drive foot traffic to retail locations
+Shopping Centre Promotions - Connect with Birmingham shoppers, [increase engagement](/news/how-to-increase-engagement-at-your-brand-activation-event) time, and drive foot traffic to retail locations
 
 Experiential Marketing Campaigns - Create immersive brand experiences in Birmingham's public spaces that people actually want to participate in
 
@@ -85,13 +85,13 @@ Experiential Marketing Campaigns - Create immersive brand experiences in Birming
 
 As a trusted partner to Birmingham businesses, we understand the unique requirements of the local market. Our Birmingham-focused approach delivers tangible benefits:
 
-*   Rapid response - Quick turnaround times and flexible setup options for most Birmingham venues like the [NEC](/locations/birmingham/nec/#content), [ICC](/locations/birmingham/game-hire-icc/#content), and more.
+*   Rapid response - Quick turnaround times and flexible setup options for most Birmingham venues like the [NEC](/locations/birmingham/nec), [ICC](/locations/birmingham/game-hire-icc), and more.
     
 *   Local insights - Extensive knowledge of Birmingham's event spaces, logistics, and requirements
     
 *   Competitive rates - Our regional presence allows us to offer value-driven pricing for Birmingham clients
 
-While Birmingham remains one of our core focus areas, our nationwide [delivery network](/delivery-areas/#content)\* extends to major cities including:
+While Birmingham remains one of our core focus areas, our nationwide [delivery network](/delivery-areas)\* extends to major cities including:
 
 *   London
     
@@ -139,6 +139,6 @@ Local Knowledge - Deep understanding of Birmingham's venue landscape, logistics 
 
 With over two decades of experience delivering exceptional promotional entertainment solutions, we've helped countless Birmingham businesses transform their events from forgettable to unforgettable.
 
-Our collaborative approach ensures every solution perfectly aligns with your brand identity, event objectives, and audience expectations. Whether you're planning an intimate [corporate event in Birmingham](/locations/birmingham/corporate-event-hire/#content) or a large-scale activation campaign, we'll develop a customised package that delivers measurable results within your budget.
+Our collaborative approach ensures every solution perfectly aligns with your brand identity, event objectives, and audience expectations. Whether you're planning an intimate [corporate event in Birmingham](/locations/birmingham/corporate-event-hire) or a large-scale activation campaign, we'll develop a customised package that delivers measurable results within your budget.
 
-[Contact us today](/contact-fun-pro-uk/#content) for your free consultation and no-obligation quote.
+[Contact us today](/contact-fun-pro-uk) for your free consultation and no-obligation quote.

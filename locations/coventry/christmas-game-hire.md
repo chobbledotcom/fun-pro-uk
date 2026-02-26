@@ -9,59 +9,59 @@ thumbnail: /images/products/christmas-batak-pro/christmas-batak-pro-1.jpg
 
 # Christmas Game Hire – Coventry's Premier Festive Entertainment Specialists
 
-Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional [Christmas game hire](/events/christmas-entertainment/#content) services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
+Make your Coventry festive celebrations memorable for all the right reasons with Fun Pro UK's reliable and professional [Christmas game hire](/events/christmas-entertainment) services. From intimate corporate gatherings to large-scale holiday exhibitions, our Christmas-themed interactive entertainment delivers memorable experiences that engage guests and strengthen team bonds throughout the festive period.
 
 ## Nationwide Christmas Game Hire & Locations
 
-Based in the heart of Coventry, Fun Pro UK [delivers](/delivery-areas/#content) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
+Based in the heart of Coventry, Fun Pro UK [delivers](/delivery-areas) premium Christmas entertainment across the West Midlands and throughout the UK. Our strategic Coventry location enables us to serve Birmingham, Warwick, Leicester, Rugby, and the broader Midlands region with unmatched local expertise.
 
 Our dedicated team understands Coventry's unique event landscape perfectly, from prestigious venues like the CBS Arena to intimate corporate spaces and university facilities.
 
-Whether you're planning a company [Christmas party](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/#content) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
+Whether you're planning a company [Christmas party](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice) at Coventry University, organising festive team building in Birmingham's business district, or hosting a holiday product showcase in Warwick, we deliver the Christmas magic directly to your chosen venue with our expertly maintained, premium equipment.
 
 ## Coventry Christmas Game Hire Options
 
 Interactive Games:
 
-*   [Batak Lite](/locations/coventry/batak-lite/#content) & [Batak Pro](/locations/coventry/batak-pro-hire/#content)
+*   [Batak Lite](/locations/coventry/batak-lite) & [Batak Pro](/locations/coventry/batak-pro-hire)
     
-*   [Strike a Snowflake](/products/strike-a-snow-flake/#content)
+*   [Strike a Snowflake](/products/strike-a-snow-flake)
     
-*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
+*   [Candy Cane Snatch It](/products/candy-cane-snatch-it)
     
-*   [Candy Cane Megawire](/products/candy-cane-megawire/#content)
+*   [Candy Cane Megawire](/products/candy-cane-megawire)
 
 Prize Games:
 
-*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
+*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire)
     
-*   [Christmas Prize Crane](/products/christmas-prize-crane/#content)
+*   [Christmas Prize Crane](/products/christmas-prize-crane)
     
-*   [Casino Table](/products/casino-table-hire/#content)
+*   [Casino Table](/products/casino-table-hire)
 
 Racing Games:
 
-*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
+*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing)
     
-*   [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
+*   [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire)
 
-*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
+*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing)
 
 Photo & Entertainment Games:
 
-*   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
+*   [Christmas Photo Booths](/products/christmas-photo-booths)
 
 ## What's Included in Christmas Game Hire?
 
 We make the process of hiring festive entertainment effortless, delivering comprehensive packages that ensure your Coventry Christmas event runs flawlessly from start to finish.
 
-When you choose [Christmas games](/categories/christmas-game-hire/#content) from Fun Pro UK, your package includes:
+When you choose [Christmas games](/categories/christmas-game-hire) from Fun Pro UK, your package includes:
 
 *   West Midlands delivery and collection by our professional Coventry-based team\*
     
 *   Expert installation and setup by certified technicians if required
     
-*   Bespoke Christmas [branding options](/events/brand-activation/#content) to showcase your corporate identity
+*   Bespoke Christmas [branding options](/events/brand-activation) to showcase your corporate identity
     
 *   Event day support available if needed
     
@@ -119,6 +119,6 @@ Join our extensive network of satisfied Midlands clients who depend on our exper
 
 ## Hire Christmas Games for Your Coventry Event
 
-Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
+Ready to create unforgettable Christmas memories in Coventry? [Contact](/contact-fun-pro-uk) Fun Pro UK today to explore availability, discuss your requirements, and secure a no-obligation quote for Christmas game hire.
 
 Transform your Christmas event into an engaging, memorable celebration that guests will talk about throughout the year.

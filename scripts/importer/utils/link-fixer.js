@@ -436,19 +436,14 @@ const fixFileLinks = (filePath, redirectMap, validDests) => {
     // Rebuild link with anchor
     let finalTarget = resolved;
     if (anchor) {
-      // Skip useless anchors, convert BodyContent to content
-      if (!['specification', 'footercontact'].includes(anchor.toLowerCase()) &&
+      // Skip useless anchors (specification, footercontact, bodycontent)
+      if (!['specification', 'footercontact', 'bodycontent'].includes(anchor.toLowerCase()) &&
           !anchor.includes(':~:text=')) {
-        const cleanAnchor = anchor.toLowerCase() === 'bodycontent' ? 'content' : anchor;
-        finalTarget += '#' + cleanAnchor;
-      } else {
-        // Useless anchor - add #content instead
-        finalTarget += '#content';
+        finalTarget += '#' + anchor;
       }
-    } else {
-      // No anchor - add #content to all internal links
-      finalTarget += '#content';
+      // Skip useless anchors (specification, footercontact, bodycontent)
     }
+    // No anchor and no #content - just use the resolved path as-is
     
     return `[${text}](${finalTarget})`;
   });

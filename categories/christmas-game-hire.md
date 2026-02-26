@@ -17,7 +17,7 @@ faqs:
   - question: "How far in advance should I book Christmas games?"
     answer: "Christmas is our busiest season, so we recommend booking at least 6-8 weeks in advance to guarantee availability, especially for December dates."
   - question: "Can you provide multiple games for larger Christmas events?"
-    answer: "Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games/#content) and can provide multiple games, creating festive entertainment zones throughout your venue."
+    answer: "Absolutely. We specialise in large corporate [Christmas parties](/news/best-office-christmas-party-games) and can provide multiple games, creating festive entertainment zones throughout your venue."
   - question: "What power requirements do Christmas games need?"
     answer: "Most games require standard UK mains power (13amp socket). Our team will confirm specific requirements and can arrange portable power solutions if needed."
   - question: "Do you offer Christmas-themed prizes or giveaways?"
@@ -45,7 +45,7 @@ below_products: |
 
   ## Branding Options & Pricing
 
-  Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation/#content) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
+  Make your Christmas games a powerful marketing tool with our comprehensive customisation options. Perfect for corporate events, our [branding services](/events/brand-activation) help reinforce your company's presence while creating Instagram-worthy moments for your guests.
 
   Christmas Branding Options:
 
@@ -81,7 +81,7 @@ below_products: |
 
   ## Hire Christmas Games for Your Event
 
-  Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk/#content) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
+  Ready to make this Christmas unforgettable? [Contact](/contact-fun-pro-uk) Fun Pro UK today to check availability, discuss your festive entertainment requirements, and receive a no-obligation quote for Christmas game hire.
 
   Transform your Christmas event into an engaging, memorable experience that your guests will talk about all year round.
 ---
@@ -96,42 +96,42 @@ All Christmas games can be custom-branded with your company artwork through our 
 
 ## Nationwide Christmas Game Hire & Locations
 
-Fun Pro UK [delivers](/delivery-areas/#content) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
+Fun Pro UK [delivers](/delivery-areas) Christmas games nationwide, covering major cities including London, Manchester, Birmingham, Leeds, Bristol, Cardiff, and beyond.
 
-Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec/#content), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment. December weekends book out first — get in touch 6–8 weeks ahead to secure your preferred dates and games.
+Whether you're hosting a Christmas party at the [NEC Birmingham](/locations/birmingham/nec), organising a holiday team-building day in Manchester, or planning a festive product launch in London, we bring the Christmas spirit directly to your venue with our premium, well-maintained equipment. December weekends book out first — get in touch 6–8 weeks ahead to secure your preferred dates and games.
 
 ## Christmas Game Hire Options
 
 ### Interactive Games:
 
-*   [Batak Lite](/products/batak-lite/#content) & [Batak Pro](/products/batak-pro/#content)
+*   [Batak Lite](/products/batak-lite) & [Batak Pro](/products/batak-pro)
     
-*   [Strike a Snowflake](/products/strike-a-snow-flake/#content)
+*   [Strike a Snowflake](/products/strike-a-snow-flake)
     
-*   [Candy Cane Snatch It](/products/candy-cane-snatch-it/#content)
+*   [Candy Cane Snatch It](/products/candy-cane-snatch-it)
     
-*   [Candy Cane Megawire](/products/candy-cane-megawire/#content)
+*   [Candy Cane Megawire](/products/candy-cane-megawire)
 
 ### Prize Games:
 
-*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire/#content)
+*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire)
     
-*   [Christmas Prize Crane](/products/christmas-prize-crane/#content)
+*   [Christmas Prize Crane](/products/christmas-prize-crane)
     
-*   [Casino Table](/products/casino-table-hire/#content)
+*   [Casino Table](/products/casino-table-hire)
 
 ### Strategy Games
 
-*   [Retro Arcade Games](/products/retro-arcade-games/#content)
+*   [Retro Arcade Games](/products/retro-arcade-games)
 
 ### Simulation Games
 
-*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing/#content)
+*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing)
     
-*   [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire/#content)
+*   [Roll & Bowl Reindeer Racing Game](/products/roll-and-bowl-reindeer-racing-game-hire)
     
-*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing/#content)
+*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing)
 
 ### Photo & Entertainment Games
 
-*   [Christmas Photo Booths](/products/christmas-photo-booths/#content)
+*   [Christmas Photo Booths](/products/christmas-photo-booths)

@@ -9,13 +9,13 @@ redirect_from:
   - "/news/2024-11-29/team-building-activities-for-small-groups/"
 ---
 
-You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. [Team building games](/events/team-building-entertainment/#content) are a way for businesses to build relationships and collaboration within the workplace. They encourage trust and communication, but they can also be lots of fun too.
+You've heard of ‘teamwork makes the dream work,’ and that quote holds true for every business. [Team building games](/events/team-building-entertainment) are a way for businesses to build relationships and collaboration within the workplace. They encourage trust and communication, but they can also be lots of fun too.
 
 However, there is the matter of finding the right team building games on top of planning the whole thing.
 
 Fortunately, team building activities for small groups do not require resorting to outdated and awkward ice breakers from primary school. Additionally, organizing these gatherings can be much less stressful than anticipated.
 
-In this brief guide, we’ll walk you through the types of fun activities to have in team building, why team building is important for company success, a few planning tips for team building activities for small groups, and some [interactive games](/categories/interactive-game-hire/#content) to try during the event.
+In this brief guide, we’ll walk you through the types of fun activities to have in team building, why team building is important for company success, a few planning tips for team building activities for small groups, and some [interactive games](/categories/interactive-game-hire) to try during the event.
 
 ## Why Team Building is Important for Small Groups
 
@@ -37,43 +37,43 @@ And since it’s for a small group, the team dynamic and chemistry is something 
 
 You want your team to stay engaged, and this is where fun and interactive games come into play. Here are some fun team games to try and how they work.
 
-### 1\. [Batak Pro](/products/batak-pro/#content) or [Batak Lite](/products/batak-lite/#content)
+### 1\. [Batak Pro](/products/batak-pro) or [Batak Lite](/products/batak-lite)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZ9m509k-dma6TKPj_-qJfaTkhnPePF7ulZ99gW7xhsNTtAS66WvUZFfJZSEi4CGqiJQLnfmg_6xF_3CmJafm2UEDTd5tDn1ArakKAUtq6VnYj1oK2i8rx6ifmly1giikz1m7FOA?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 This game challenges your team’s reflexes and coordination. Players need to hit illuminated targets as they light up. It’s a test of speed and focus in a competitive environment. It’s a great way to promote teamwork and concentration.
 
-### 2\. [Ballnado Grabbe](/products/ballnado-grabber/#content)[r](/products/ballnado-grabber/#content) or [Cash Grabber](/products/cash-grabber-machine-hire/#content)
+### 2\. [Ballnado Grabbe](/products/ballnado-grabber)[r](/products/ballnado-grabber) or [Cash Grabber](/products/cash-grabber-machine-hire)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMpqpYtad0KJ7oGW1dCXG-iQQbjsH3y0BULzq-V2jhfjbhCC0vhiTuoxY2zAb8JzmSNq6lUW7tP_QWVjdF9mPL5-knsV3jZ-dFhT49J2gGki5yc_oJxDsr8bdt_-Bs-ohqjsJxhw?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 A thrilling and dynamic game where one or two people enter a clear wind- filled capsule. From that point on, it’s a race against the clock to collect as many balls or as much cash as possible. It’s a very high -energy activity that encourages quick thinking and teamwork.
 
-### 3\. [Shuffle Board](/products/#content)
+### 3\. [Shuffle Board](/products)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXea0gn-4NftqSFklUv8xa5Yyh_vV2BywBtpFClUmRd1dv3Oz6tqMgeceYP7kSjx5wrI7pSra13kmk8wCsiBfHzA81jlHPGuZkKM6GW1otoWO6LUlh07TZ8GjqwGuFug0N_8cPxNSg?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 Here’s a classic game that’s perfect for smaller teams. Players slide pucks down a long, smooth surface with the goal of landing them in specific scoring zones. It’s a fantastic way to engage in friendly competition while fostering collaboration and strategy.
 
-### 4\. [Scalextric Slot Car Racing](/products/#content)
+### 4\. [Scalextric Slot Car Racing](/products)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1ZJNLBYnRIr2iU4ThkEN1AJV4JXFTlJvpoeDZ-cyEYbA91VfNzQtw6UwfIXN0-YXUz5ZIzeoWCUvM0RpTCkNZUWSIcb96mUHWXecPqdiUA-6Da-duusfnuMq-29YGHXTBq6z6bQ?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 If your team loves a bit of speed and competition, Scalextric Slot Car Racing is an exciting game where participants race model cars around a track. It’s an excellent choice for fostering teamwork and coordination.
 
-### 5. [Air Hockey Tables](/products/air-hockey-table-hire/#content)
+### 5. [Air Hockey Tables](/products/air-hockey-table-hire)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1S_-ANyEmrJ_X8__3_JynDKe3djvvByShADO8PQUApY9zF8Ve3DBRUb2C4Xcdn3toDwej4k7_W-HlprfxyisfyZmil5_19Cj0au4zybDCMZETz0ldvJGiRTdWVGGqeQ8gqj0JBQ?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 Air hockey is fast- paced and perfect for small group interactions. In this game, players work in pairs or teams to score goals by hitting a puck into the opponent’s goal. It’s a fun, interactive way to enhance communication and strategic thinking.
 
-### 6\. [Football Tables](/products/football-tables/#content)
+### 6\. [Football Tables](/products/football-tables)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDBaLgQZb0LFKClFGIewqGdZw7SSFZdOLN_RpRD1NYlPyebO7ngTCQt7rm7D_g1ipxF0-b43YxgNEF1DdyxAJkMLZ0wlbfQbJttPLPxt9TuT55_RlWTDieR6vhBCfCtaVWY97dEg?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
 Also known as foosball, football tables are a popular choice for team building. Let your teams compete in a simulated soccer game. It’s a game that requires coordination, teamwork, and quick reflexes if you want to score goals and win.
 
-### 7\. [Snatch It](/products/snatch-it/#content)
+### 7\. [Snatch It](/products/snatch-it)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuwjOoKihx_kRQDU7-djEP2KdlAdPmbD8rhindwA6_KMH8za4xVUPTNKZKQZWyVK6qxjvhvDAiFXFaf_12ovRyE4-ZaE62ORaH5ZTtqPG-4m5zRgtjAtfr_qyPhyslmBwA1cIg4g?key=y5J9ZASbi-bZ7cTWicehlzLg)
 
@@ -97,7 +97,7 @@ Make sure that the activities are inclusive and accessible to every team member.
 
 ### 4\. Keep it Fun and Lighthearted
 
-While team building should have a goal, it’s also important to make sure the activities are enjoyable. [Fun team building activities](/news/tips-for-running-a-successful-team-building-day/#content) create lasting memories and foster positive feelings toward collaboration, making future work interactions smoother and more productive.
+While team building should have a goal, it’s also important to make sure the activities are enjoyable. [Fun team building activities](/news/tips-for-running-a-successful-team-building-day) create lasting memories and foster positive feelings toward collaboration, making future work interactions smoother and more productive.
 
 ## Frequently Asked Questions
 
@@ -129,4 +129,4 @@ When teams work together in fun and challenging activities, they build trust. Ce
 
 With the right games, strengthening camaraderie within the team and creating a positive and productive work environment is more than possible. But above all, it’s important to enjoy the event and have a blast!
 
-If you’re looking to take your team -building event to the next level, consider adding Fun Pro UK’s [game hires](/#content) to the mix. Our team building games for work are perfect for small groups — promoting trust, creativity, and teamwork in an interactive and enjoyable way.
+If you’re looking to take your team -building event to the next level, consider adding Fun Pro UK’s [game hires]() to the mix. Our team building games for work are perfect for small groups — promoting trust, creativity, and teamwork in an interactive and enjoyable way.

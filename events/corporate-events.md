@@ -21,13 +21,13 @@ We're a family-run business based in Coventry — the geographic centre of Engla
 
 ## What We Regularly Deliver
 
-**Team building days** — [Interactive games](/categories/interactive-game-hire/#content) like [Batak Pro](/products/batak-pro/#content), [Human Table Football](/products/human-table-football/#content) and [Total Wipeout](/products/total-wipe-out/#content) that get people away from their desks and actually talking to each other. We've run these at conference centres, office parks and outdoor venues.
+**Team building days** — [Interactive games](/categories/interactive-game-hire) like [Batak Pro](/products/batak-pro), [Human Table Football](/products/human-table-football) and [Total Wipeout](/products/total-wipe-out) that get people away from their desks and actually talking to each other. We've run these at conference centres, office parks and outdoor venues.
 
-**Award ceremonies & corporate parties** — We've supplied [photo booths](/categories/photo-booths-and-magic-mirrors/#content) and games to KPMG's annual awards multiple years running. [Casino tables](/products/casino-table-hire/#content), [retro arcade machines](/products/retro-arcade-games/#content) and [dance machines](/products/dance-machine/#content) fill the gaps between speeches.
+**Award ceremonies & corporate parties** — We've supplied [photo booths](/categories/photo-booths-and-magic-mirrors) and games to KPMG's annual awards multiple years running. [Casino tables](/products/casino-table-hire), [retro arcade machines](/products/retro-arcade-games) and [dance machines](/products/dance-machine) fill the gaps between speeches.
 
-**Staff appreciation & wellbeing events** — [Prize wheels](/products/prize-wheel/#content), [candy floss carts](/products/candy-floss-cart-hire/#content), [pick 'n' mix stands](/products/pix-n-mix-hire/#content) and [racing simulators](/products/racing-car-simulators/#content) for end-of-quarter celebrations, Employee Appreciation Day or just because morale matters.
+**Staff appreciation & wellbeing events** — [Prize wheels](/products/prize-wheel), [candy floss carts](/products/candy-floss-cart-hire), [pick 'n' mix stands](/products/pix-n-mix-hire) and [racing simulators](/products/racing-car-simulators) for end-of-quarter celebrations, Employee Appreciation Day or just because morale matters.
 
-**Christmas parties** — We supply Rolls-Royce with festive entertainment year after year, and carry a full range of [Christmas-themed games](/categories/christmas-game-hire/#content) including [Strike a Snowflake](/products/strike-a-snow-flake/#content) and [Christmas photo booths](/products/christmas-photo-booths/#content).
+**Christmas parties** — We supply Rolls-Royce with festive entertainment year after year, and carry a full range of [Christmas-themed games](/categories/christmas-game-hire) including [Strike a Snowflake](/products/strike-a-snow-flake) and [Christmas photo booths](/products/christmas-photo-booths).
 
 ## Custom Branding
 
@@ -39,4 +39,4 @@ Several of our clients have worked with us for multiple years. Virgin Media O2 b
 
 All hire includes delivery, setup and collection. We carry £5M public liability insurance, PAT test all electronics and provide risk assessments — the paperwork your procurement team needs is ready to go.
 
-[Get in touch](/contact-fun-pro-uk/#content) to discuss your event, or browse the games below to see what suits.
+[Get in touch](/contact-fun-pro-uk) to discuss your event, or browse the games below to see what suits.

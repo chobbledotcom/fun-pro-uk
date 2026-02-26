@@ -77,21 +77,21 @@ With the British summer weather being so notoriously unpredictable, having conti
 
 ![](/images/news/twin-axe-throwing.jpg)
 
-*   [Inflatable obstacle courses](/products/inflatable-assault-courses/#content) and [bouncy castles](/products/large-bouncy-castles/#content)
+*   [Inflatable obstacle courses](/products/inflatable-assault-courses) and [bouncy castles](/products/large-bouncy-castles)
     
-*   [Twin Axe Throwing](/products/twin-axe-throwing/#content)
+*   [Twin Axe Throwing](/products/twin-axe-throwing)
     
-*   [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone/#content)
+*   [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone)
     
 *   Sports day-style competitions
 
 ### Indoor alternatives:
 
-*   [Arcade Games](/categories/arcade-games/#content)
+*   [Arcade Games](/categories/arcade-games)
     
-*   [Reaction Games](/categories/batak/#content)
+*   [Reaction Games](/categories/batak)
     
-*   Table-based challenges ([football tables](/products/football-tables/#content) and [air hockey](/products/air-hockey-table-hire/#content))
+*   Table-based challenges ([football tables](/products/football-tables) and [air hockey](/products/air-hockey-table-hire))
 
 ## Top Game Hire for College and School Summer Party Success
 
@@ -115,11 +115,11 @@ Here are some of our post popular games hired by category:
 
 Digital natives respond brilliantly to technology-enhanced games:
 
-*   [Racing simulators](/products/racing-car-simulators/#content) that let pupils experience the thrill of motorsport
+*   [Racing simulators](/products/racing-car-simulators) that let pupils experience the thrill of motorsport
     
-*   [Dance machines](/products/dance-machine/#content) that get everyone moving to popular tunes
+*   [Dance machines](/products/dance-machine) that get everyone moving to popular tunes
     
-*   [Batak](/categories/batak/#content) reaction games that test speed and coordination
+*   [Batak](/categories/batak) reaction games that test speed and coordination
 
 These modern options are particularly effective for secondary school leavers' events, where pupils expect something more challenging and energetic than traditional party games.
 
@@ -133,7 +133,7 @@ Nothing says 'summer party' quite like bouncy castles and inflatable challenges:
     
 *   Inflatable obstacle courses for energetic competition
     
-*   [Bungee run](/products/bungee-run/#content) challenges for older pupils
+*   [Bungee run](/products/bungee-run) challenges for older pupils
 
 The visual impact of colourful inflatables instantly transforms any school field or sports hall into a festival atmosphere.
 
@@ -141,9 +141,9 @@ The visual impact of colourful inflatables instantly transforms any school field
 
 Time-tested fairground classics never go out of style:
 
-*   [Coconut shy](/products/coconut-shy-stall-hire/#content) challenges
+*   [Coconut shy](/products/coconut-shy-stall-hire) challenges
     
-*   [Target ring toss](/products/target-ring-toss-hire/#content)
+*   [Target ring toss](/products/target-ring-toss-hire)
 
 These games have the advantage of being familiar to teachers, parents, and pupils alike, making them easy to explain and quick to enjoy.
 
@@ -225,4 +225,4 @@ The end of the school year represents a significant milestone for pupils of all 
 
 Professional game hire removes the stress from event planning, ensuring high-quality equipment and proper safety measures. Whether you're organising a small key stage celebration or a whole-school extravaganza, investing in quality entertainment ensures pupils end their school year on a high note.
 
-Ready to start planning your school summer celebration? [Contact our friendly team](/contact-fun-pro-uk/#content) at Fun Pro UK for expert advice on selecting the perfect games for your specific requirements. With nationwide delivery and years of experience in educational settings, we'll help make your school summer party truly unforgettable!
+Ready to start planning your school summer celebration? [Contact our friendly team](/contact-fun-pro-uk) at Fun Pro UK for expert advice on selecting the perfect games for your specific requirements. With nationwide delivery and years of experience in educational settings, we'll help make your school summer party truly unforgettable!

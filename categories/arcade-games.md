@@ -14,20 +14,20 @@ eleventyNavigation:
   order: 1
 faqs:
   - question: "What's included in our arcade machine hire service?"
-    answer: "Each arcade machine has the necessary accessories and includes [delivery](/delivery-areas/#content), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed."
+    answer: "Each arcade machine has the necessary accessories and includes [delivery](/delivery-areas), setup, and removal services. We have a team of experts who ensure that the equipment is ready for use and we are on standby as well to provide on-site support if needed."
   - question: "How much space is required for setting up retro arcade machines?"
     answer: "To give you a peek at some general guidelines and details, the space required for setting up an arcade video game machine depends primarily on two factors: the number of machines and additional equipment. Our team will work with you to ensure the layout will fit your venue."
   - question: "Which arcade machines are the most frequently rented?"
     answer: |
       Some of our most popular arcade machines are:
 
-      * [Electronic Basketball](/products/electronic-basket-ball-hire/#content): Transform any space into a basketball court with this portable machine.
+      * [Electronic Basketball](/products/electronic-basket-ball-hire): Transform any space into a basketball court with this portable machine.
       * Retro Arcade Machines: Bring back the golden age of video games at your venue with these classic bad boys.
-      * [Twin Race Car Simulators](/products/racing-car-simulators/#content): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
-      * [Dance Machine](/products/dance-machine/#content): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
-      * [Lights Out](/categories/arcade-games/#content): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
+      * [Twin Race Car Simulators](/products/racing-car-simulators): Take the thrill of the race track to your events and let your guests enjoy immersive experiences.
+      * [Dance Machine](/products/dance-machine): Return to the good old days of dancing to the grooviest tunes while everyone spectates your gripping dance performances.
+      * [Lights Out](/categories/arcade-games): Test your guests' finger dexterity and their eye for strategy with this thrilling arcade game.
 
-      If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK](/#content) has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
+      If you're looking for more and if you think these options won't work for you or your guests, [Fun Pro UK]() has a wide variety of beloved vintage video game machines and game consoles that you can browse and choose from.
 
       You can always find the perfect video game machine rental for you.
   - question: "What types of events are ideal for including arcade games?"
@@ -38,15 +38,15 @@ faqs:
 
       Bust out the beloved arcade game machines at:
 
-      * [Corporate outings](/news/benefits-of-team-building-days/#content)
+      * [Corporate outings](/news/benefits-of-team-building-days)
       * Product launches
-      * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games/#content) and conferences
+      * [Trade shows](/news/make-trade-shows-fun-with-branded-exhibition-games) and conferences
       * Birthday parties
-      * [Weddings](/news/wedding-fair-at-ettington-park/#content) and anniversaries
+      * [Weddings](/news/wedding-fair-at-ettington-park) and anniversaries
       * Family reunions
       * Festivals and fairs
       * Grand openings
-      * [Community events](/categories/fun-days/#content)
+      * [Community events](/categories/fun-days)
       * Gaming conventions
 
       ...and so much more!
@@ -55,7 +55,7 @@ faqs:
 below_products: |
   ## Our Arcade Game Collection
 
-  No one can resist the nostalgic appeal of winning games to collect tickets in exchange for prizes, so why not bring the atmosphere of the arcade with you? We've got a [retro gaming arcade](/products/retro-arcade-games/#content), [tabletop games](/products/air-hockey-table-hire/#content), [gambling games](/products/casino-table-hire/#content), [games of skill](/products/crack-the-code-safe-cracker/#content), and many more.
+  No one can resist the nostalgic appeal of winning games to collect tickets in exchange for prizes, so why not bring the atmosphere of the arcade with you? We've got a [retro gaming arcade](/products/retro-arcade-games), [tabletop games](/products/air-hockey-table-hire), [gambling games](/products/casino-table-hire), [games of skill](/products/crack-the-code-safe-cracker), and many more.
 
   Take a look at our variety of arcade game hires to find a price that suits your needs.
 
@@ -65,14 +65,14 @@ below_products: |
 
   We specialise in small and large events such as:
 
-  - [Weddings](/categories/weddings/#content)
-  - [Exhibitions](/categories/exhibition-games/#content)
-  - [Corporate Entertainment](/categories/corporate-entertainment/#content)
-  - [Company Award Ceremonies](/events/company-award-ceremonies/#content)
-  - [Fun days](/categories/fun-days/#content)
+  - [Weddings](/categories/weddings)
+  - [Exhibitions](/categories/exhibition-games)
+  - [Corporate Entertainment](/categories/corporate-entertainment)
+  - [Company Award Ceremonies](/events/company-award-ceremonies)
+  - [Fun days](/categories/fun-days)
   - And much more!
 
-  Whatever you're celebrating, our arcade [game hire services](/#content) are here to bring a lively atmosphere and endless fun to any event.
+  Whatever you're celebrating, our arcade [game hire services]() are here to bring a lively atmosphere and endless fun to any event.
 
   ## Why Choose Our Arcade Game Hire Service?
 
@@ -124,9 +124,9 @@ below_products: |
 
   ## Ready to Take Your Event to the Next Level?
 
-  Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, [Leicester](/locations/leicester/corporate-event-hire/#content), [Nottingham](/locations/nottingham/corporate-event-hire/#content), or any other location in the UK!
+  Don't miss out on the opportunity to make every event unforgettable. Contact us today to book our equipment for your next event in Birmingham, [Leicester](/locations/leicester/corporate-event-hire), [Nottingham](/locations/nottingham/corporate-event-hire), or any other location in the UK!
 
-  If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk/#content)
+  If you'd like to find out more information, we'd love to hear from you - call us on 0247 7220 701, email us at [info@funprouk.co.uk](mailto:info@funprouk.co.uk) and check out our [contact us page.](/contact-fun-pro-uk)
 
 ---
 
