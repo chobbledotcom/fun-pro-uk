@@ -4,6 +4,7 @@ meta_description: "Meet The Team - Fun Pro UK provide the best Exhibition and Ga
 layout: team.html
 redirect_from:
   - "/pages/meet-the-team/"
+  - "/team/"
 eleventyNavigation:
   key: "Meet The Team"
   parent: "About us"

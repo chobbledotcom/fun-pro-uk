@@ -6,6 +6,7 @@ redirect_from:
   - "/pages/promotional-event-games/"
   - "/pages/promotion-event-games/"
   - "/pages/promotion/"
+  - "/promotion-event-games/"
 ---
 
 # Boost Brand Awareness With Promotional & Brand Activation Game Hire

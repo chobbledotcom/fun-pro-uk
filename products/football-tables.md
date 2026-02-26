@@ -91,6 +91,7 @@ options:
     days: 7
 redirect_from:
   - /category/corporate-entertainment/27/football-tables/
+  - /products/table-football-hire/
 gallery:
   - /images/products/football-tables/football-tables-1.jpg
   - /images/products/football-tables/football-tables-2.jpg

@@ -7,7 +7,7 @@ redirect_from:
 thumbnail: /images/products/beat-the-buzzer/beat-the-buzzer-1.jpg
 ---
 
-## Corporate Event Hire in Sheffield
+# Corporate Event Hire in Sheffield
 
 Planning a [corporate event](/promotional-event-games/#content) in Sheffield comes with plenty of decisions, and choosing the right entertainment is often one of the trickier ones. Whether you're organising a [conference](/events/conference-idea/#content) at Sheffield City Hall, a [team building](/events/team-building-entertainment/#content) day in the Peak District, or a Christmas party at one of the city's many event spaces, the entertainment you choose can make a real difference to how your guests experience the day.
 
