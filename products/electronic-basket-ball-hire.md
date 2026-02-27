@@ -67,7 +67,7 @@ filter_attributes:
   - name: Game Length
     value: 15-20 minutes
   - name: Power Required
-    value: Battery powered
+    value: No power required
   - name: Player Count
     value: 2 players
 options:
