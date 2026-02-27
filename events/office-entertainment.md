@@ -1,20 +1,21 @@
 ---
-title: "Office Entertainment"
-subtitle: "Compact games and activities that fit in the workplace"
-meta_title: "Office Entertainment Hire | Games for Offices & Breakout Rooms"
-meta_description: "Hire office entertainment from Fun Pro UK. Compact games for breakout rooms, lunch breaks, conference days and staff parties. Delivered and set up across the UK."
+title: Office Entertainment
+subtitle: Compact games and activities that fit in the workplace
+meta_title: Office Entertainment Hire | Games for Offices & Breakout Rooms
+meta_description: Hire office entertainment from Fun Pro UK. Compact games for
+  breakout rooms, lunch breaks, conference days and staff parties. Delivered and
+  set up across the UK.
 featured: true
-thumbnail: /images/events/office-entertainment.jpg
+thumbnail: /images/events/office fundays.jpeg
 redirect_from:
-  - "/pages/office-entertainment/"
-  - "/pages/office-and-corporate-entertainment/"
-  - "/office-and-corporate-entertainment/"
+  - /pages/office-entertainment/
+  - /pages/office-and-corporate-entertainment/
+  - /office-and-corporate-entertainment/
 eleventyNavigation:
-  key: "Office Entertainment"
-  parent: "Corporate Events"
+  key: Office Entertainment
+  parent: Corporate Events
   order: 3
 ---
-
 # Office Entertainment Hire
 
 Not every event needs a conference venue or exhibition hall. Some of the most effective corporate entertainment happens right in the workplace — in breakout rooms, canteen areas, reception spaces and meeting rooms.
