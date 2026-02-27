@@ -1,4 +1,4 @@
-{%- if item.data.price != "" -%}
+{%- if item.data.price and item.data.price != "" -%}
   <p class="price">
     From {{ item.data.price }}
     <small>exc. VAT</small>
