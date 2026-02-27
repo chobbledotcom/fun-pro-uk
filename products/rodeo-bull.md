@@ -1,7 +1,7 @@
 ---
 title: Rodeo Bull Hire
 subtitle: Mechanical bucking bronco ride
-price: £395
+price: £495
 order: 50
 meta_title: Rodeo Bull Hire, How Much To Hire A Rodeo Bull Near Me, UK
 meta_description: Hire Our Rodeo Bull Game For Your Family Fun Days, Parties,
