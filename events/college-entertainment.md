@@ -6,7 +6,7 @@ meta_description: Game hire for college events, sixth form proms, enrichment
   days and end-of-year celebrations. Age-appropriate entertainment for 16-18
   students. UK delivery.
 featured: true
-thumbnail: /images/events/c6034e1b-74ac-4523-bd00-987c91b15529.png
+thumbnail: /images/events/IMG-20240614-WA0041.jpg
 redirect_from:
   - /pages/college-and-university-entertainment/
 eleventyNavigation:
