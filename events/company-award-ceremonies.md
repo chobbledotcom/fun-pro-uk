@@ -1,6 +1,6 @@
 ---
 title: Award Ceremonies
-subtitle: Photo booths, casino tables and props for the big night
+subtitle: Interactive games, casino tables and Photo booths for the big night
 meta_title: Award Ceremony Entertainment Hire UK | Fun Pro UK
 meta_description: Award ceremony entertainment hire trusted by KPMG, Amazon and
   Virgin Trains. Photo booths, casino tables, games and more. Nationwide
