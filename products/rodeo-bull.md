@@ -67,7 +67,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/corporate-entertainment/46/rodeo-bull/
