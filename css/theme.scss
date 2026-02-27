@@ -1619,6 +1619,7 @@ body.base {
 
   .brands-scroll {
     display: flex;
+    width: -webkit-max-content;
     width: max-content;
     animation: scroll-brands 40s linear infinite;
 
