@@ -1,18 +1,19 @@
 ---
-title: "Celebrations & Parties"
-subtitle: "Games, photo booths and activities for private events"
-meta_title: "Party & Celebration Entertainment Hire UK | Fun Pro UK"
-meta_description: "Hire party games, photo booths and entertainment for birthdays, anniversaries, engagements and private celebrations. Delivered and set up across the UK."
+title: Celebrations & Parties
+subtitle: Games, photo booths and activities for private events
+meta_title: Party & Celebration Entertainment Hire UK | Fun Pro UK
+meta_description: Hire party games, photo booths and entertainment for
+  birthdays, anniversaries, engagements and private celebrations. Delivered and
+  set up across the UK.
 featured: true
-thumbnail: /images/events/celebrations-and-parties.jpg
+thumbnail: /images/events/pexels-pavel-danilyuk-6405773.jpg
 redirect_from:
-  - "/pages/celebrations-and-parties/"
+  - /pages/celebrations-and-parties/
 eleventyNavigation:
-  key: "Celebrations & Parties"
-  parent: "What's your event?"
+  key: Celebrations & Parties
+  parent: What's your event?
   order: 2
 ---
-
 # Celebration & Party Entertainment Hire
 
 We've been supplying games and entertainment for private celebrations since 2009 — birthdays, anniversaries, engagements, retirements, and everything in between. From a 1st birthday party at a banqueting suite in Birmingham to a surprise 40th with a [rodeo bull](/products/rodeo-bull) at a workplace in Nuneaton, we've seen how the right entertainment changes the atmosphere of any gathering.
