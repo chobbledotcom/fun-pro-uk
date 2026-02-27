@@ -1,20 +1,21 @@
 ---
-title: "Award Ceremonies"
-subtitle: "Photo booths, casino tables and props for the big night"
-meta_title: "Award Ceremony Entertainment Hire UK | Fun Pro UK"
-meta_description: "Award ceremony entertainment hire trusted by KPMG, Amazon and Virgin Trains. Photo booths, casino tables, games and more. Nationwide delivery."
+title: Award Ceremonies
+subtitle: Photo booths, casino tables and props for the big night
+meta_title: Award Ceremony Entertainment Hire UK | Fun Pro UK
+meta_description: Award ceremony entertainment hire trusted by KPMG, Amazon and
+  Virgin Trains. Photo booths, casino tables, games and more. Nationwide
+  delivery.
 featured: true
-thumbnail: /images/events/company-award-ceremonies.jpg
+thumbnail: /images/events/93605eb9-df16-4242-b906-c1b9aea30066.png
 redirect_from:
-  - "/category/company-award-ceremonies/"
-  - "/pages/award-ceremonies/"
-  - "/award-ceremonies/"
+  - /category/company-award-ceremonies/
+  - /pages/award-ceremonies/
+  - /award-ceremonies/
 eleventyNavigation:
-  key: "Award Ceremonies"
-  parent: "Corporate Events"
+  key: Award Ceremonies
+  parent: Corporate Events
   order: 1
 ---
-
 # Company Award Ceremony Entertainment Hire
 
 We've been supplying entertainment for company award nights since 2009 — black-tie ceremonies at London hotels, regional conferences in Warwickshire, large-scale corporate awards across the Midlands. Clients including [KPMG](/putting-kpmg-in-the-picture), Amazon and Virgin Trains have booked us for their awards evenings, and KPMG have come back year after year for branded [photo booths](/categories/photo-booths-and-magic-mirrors) at their annual awards.
