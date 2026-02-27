@@ -1705,8 +1705,9 @@ body.base {
   }
 }
 
-.image-wrapper img {
+body.page .content .image-wrapper img {
   width: 100%;
+  max-width: 100%;
 }
 
 .homepage-how-it-works {
