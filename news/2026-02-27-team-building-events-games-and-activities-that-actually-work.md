@@ -36,6 +36,8 @@ faqs:
       book quickly. For peak periods, six to eight weeks' notice is advisable.
       Quieter times offer more flexibility, though two to three weeks remains
       sensible for logistics planning.
+gallery:
+  - /images/team-building-events-ideas.png
 ---
 ![](/images/team-building-events-ideas.png)
 
@@ -57,7 +59,7 @@ This is perhaps the most overlooked factor. When activities feel optional rather
 
 This matters enormously. A [team building event](https://www.funprouk.co.uk/pages/team-building-ideas) where half the group sits out because they can't participate achieves the opposite of its intended purpose. Activities that work for different ages, abilities, and comfort levels ensure everyone can join in, whether that's a seated [arcade game](https://www.funprouk.co.uk/category/arcade-games) or a giant strategy game that requires thinking rather than physical prowess.
 
-### **Measurable engagement** 
+### **Measurable engagement**
 
 Using things like leaderboards, scores, and friendly competition creates talking points that extend well beyond the event itself. When someone sets the office record on a reaction challenge, that becomes part of the team's shared history in a way that vague bonding exercises simply cannot match.
 
@@ -65,7 +67,7 @@ Using things like leaderboards, scores, and friendly competition creates talking
 
 Before selecting specific activities, it's worth considering the practical elements that shape what's possible.
 
-### **Timing and format** 
+### **Timing and format**
 
 These vary considerably depending on your objectives. A one-hour energiser between [conference](https://www.funprouk.co.uk/pages/conference-idea) sessions serves a different purpose than a full-day away day. For shorter slots, high-impact games that require minimal explanation work well. Longer events benefit from variety, with multiple activities allowing people to try different things throughout the day.
 
@@ -73,7 +75,7 @@ These vary considerably depending on your objectives. A one-hour energiser betwe
 
 The venue will always influence which activities are feasible. Office-based events suit compact games that don't require extensive space, whilst hotel conference rooms or dedicated venues can accommodate larger setups. If you're working with limited floor space, games like [cash grabbers](https://www.funprouk.co.uk/category/exhibition-games/3/cash-grabber-machine-hire) or [racing car simulators](https://www.funprouk.co.uk/category/arcade-games/5/racing-car-simulators) deliver high engagement without needing a sports hall.
 
-### **Group size** 
+### **Group size**
 
 The size of your event and the number of attendees affect both logistics and activity selection. Smaller teams of ten to fifteen people might rotate through stations as a single group, whilst larger gatherings work better with simultaneous activities running across the venue. Tournament formats help larger groups stay engaged, with qualifying rounds building towards finals that everyone can watch.
 
@@ -119,15 +121,15 @@ Giant Jenga, in particular, generates memorable moments. The collective intake o
 
 The same games can serve different purposes depending on the context. Understanding how activities fit various event types helps with planning.
 
-### **Conference energisers** 
+### **Conference energisers**
 
 These events require games that work in short bursts without complex setup. Reaction challenges and arcade games excel here, providing a mental break between sessions whilst getting people out of their seats. The key is choosing activities that deliver immediate engagement, as attendees won't have time to learn complicated rules.
 
-### **Away days and dedicated team building days** 
+### **Away days and dedicated team building days**
 
 These benefit from variety and rotation. Setting up multiple activity stations allows teams to move between games, preventing queues and ensuring everyone stays engaged. A mix of competitive games, skill challenges, and social activities creates a balanced programme.
 
-### **Evening entertainment and corporate parties** 
+### **Evening entertainment and corporate parties**
 
 These types of events call for games that complement food and drinks in a more formal setting rather than dominating the agenda. Arcade games, giant games, and prize machines work well here, creating activity zones that people can drift between whilst socialising.
 
