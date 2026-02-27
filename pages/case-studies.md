@@ -40,7 +40,7 @@ Take a look at our case studies and you'll see the many different ways that we c
     
 *   [**Virgin Media O2 Corporate Events**](/virgin-media-o2-corporate-event)
     
-*   **Specsavers Conference**
+*   [**Specsavers Conference**](https://www.funprouk.co.uk/specsavers-case-study/)
     
 
 To find out more, contact us today to discuss your next event. Our talented team of event managers are standing by to help, so just let us know what you need and you can leave the rest to us.
