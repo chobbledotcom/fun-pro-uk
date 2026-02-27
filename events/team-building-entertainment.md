@@ -1,19 +1,20 @@
 ---
-title: "Team Building Entertainment"
-subtitle: "Competitive and collaborative games for team building events"
-meta_title: "Team Building Activities For Hire | Team Building Equipment Hire"
-meta_description: "Hire our team building activities and equipment for your corporate events! UK Wide-delivery. Call us today at 0247 7220 701 to book your spot now!"
+title: Team Building Entertainment
+subtitle: Competitive and collaborative games for team building events
+meta_title: Team Building Activities For Hire | Team Building Equipment Hire
+meta_description: Hire our team building activities and equipment for your
+  corporate events! UK Wide-delivery. Call us today at 0247 7220 701 to book
+  your spot now!
 featured: true
-thumbnail: /images/pages/team-building-ideas.jpg
+thumbnail: /images/events/wipeout (2).jpg
 redirect_from:
-  - "/team-building-ideas/"
-  - "/pages/team-building-ideas/"
-  - "/team-building-activities/"
+  - /team-building-ideas/
+  - /pages/team-building-ideas/
+  - /team-building-activities/
 eleventyNavigation:
-  key: "Team Building Entertainment"
-  parent: "How We Help"
+  key: Team Building Entertainment
+  parent: How We Help
 ---
-
 # Team Building Ideas and Equipment Hire
 
 Unlock the potential of your workforce with Fun Pro UK's dynamic range of team building activities. Known for boosting morale and enhancing workplace relationships, team building is crucial for fostering a collaborative and motivated team environment. At Fun Pro UK, we specialize in providing unique team building activities for hire that are not only fun but also strategically designed to strengthen your team.
@@ -26,8 +27,8 @@ Team Building Activities for Hire
 
 Choosing the right activities is essential for a successful team building event. We offer a variety of engaging team building activities for hire that encourage healthy competition and cooperative strategy development among teams:
 
-- [Batak Pro](/products/batak-pro): Challenge your team's reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
-
-- [Ballnado - Ball Grabber](/products/ballnado-grabber): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
-
-- [Prize Wheel](/products/prize-wheel): Spin the Wheel of Fortune to add an element of chance to your team building day. It's an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
+*   [Batak Pro](/products/batak-pro): Challenge your team's reaction times, coordination, and stamina. This high-energy game is perfect for sparking that competitive spirit in a fun and engaging way.
+    
+*   [Ballnado - Ball Grabber](/products/ballnado-grabber): A thrilling game where participants work together to grab flying balls, fostering teamwork while also providing a chance to win exciting prizes.
+    
+*   [Prize Wheel](/products/prize-wheel): Spin the Wheel of Fortune to add an element of chance to your team building day. It's an easy and exciting way for everyone to participate and potentially win rewards or face light-hearted forfeits.
