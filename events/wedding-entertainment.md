@@ -1,20 +1,21 @@
 ---
-title: "Wedding Entertainment"
-subtitle: "Games, photo booths and activities for wedding receptions"
-meta_title: "Wedding Entertainment Hire | Games & Booths | Fun Pro UK"
-meta_description: "Make your wedding reception unforgettable with entertainment hire from Fun Pro UK. Photo booths, garden games, casino tables and more delivered across the UK."
+title: Wedding Entertainment
+subtitle: Games, photo booths and activities for wedding receptions
+meta_title: Wedding Entertainment Hire | Games & Booths | Fun Pro UK
+meta_description: Make your wedding reception unforgettable with entertainment
+  hire from Fun Pro UK. Photo booths, garden games, casino tables and more
+  delivered across the UK.
 featured: true
-thumbnail: /images/pages/hire-outdoor-games-for-weddings.jpg
+thumbnail: /images/events/Wedding.jpg
 redirect_from:
-  - "/hire-outdoor-games-for-weddings/"
-  - "/pages/hire-outdoor-games-for-weddings/"
-  - "/wedding-entertainment/"
+  - /hire-outdoor-games-for-weddings/
+  - /pages/hire-outdoor-games-for-weddings/
+  - /wedding-entertainment/
 eleventyNavigation:
-  key: "Wedding Entertainment"
-  parent: "Celebrations & Parties"
+  key: Wedding Entertainment
+  parent: Celebrations & Parties
   order: 1
 ---
-
 # Wedding Entertainment Hire
 
 Planning a wedding takes time, and there is so much you can do to make the wedding reception even more memorable with wedding game hire. Wedding reception games are becoming more and more popular to keep guests entertained throughout the day and night.
