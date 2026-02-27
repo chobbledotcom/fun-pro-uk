@@ -27,10 +27,12 @@ layout: base
         <span><a href="#reviews" class="all">See all reviews</a></span>
       </div>
     {%- endif -%}
-    <div class="item-price">
-      <h2>From {{ price }} <small>exc. VAT</small></h2>
-      <p>Final pricing based on your event date and location</p>
-    </div>
+    {%- if price != "" -%}
+      <div class="item-price">
+        <h2>From {{ price }} <small>exc. VAT</small></h2>
+        <p>Final pricing based on your event date and location</p>
+      </div>
+    {%- endif -%}
     <div class="item-specs specs design-system">
       {% include "item-specifications-list.html", highlights: true %}
     </div>
