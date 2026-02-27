@@ -37,6 +37,7 @@ content:
         type: object
         fields:
           - { name: key, type: string }
+          - { name: parent, type: string }
           - { name: order, type: number }
       - { name: layout, type: string }
       - { name: no_index, type: boolean, label: Hide from listings }
