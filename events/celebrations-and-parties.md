@@ -1,6 +1,6 @@
 ---
 title: Celebrations & Parties
-subtitle: Games, photo booths and activities for private events
+subtitle: Games, Photo booths and much more
 meta_title: Party & Celebration Entertainment Hire UK | Fun Pro UK
 meta_description: Hire party games, photo booths and entertainment for
   birthdays, anniversaries, engagements and private celebrations. Delivered and
