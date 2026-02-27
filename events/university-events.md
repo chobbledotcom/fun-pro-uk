@@ -1,16 +1,17 @@
 ---
-title: "University Events"
-subtitle: "Hire games for freshers, socials and end-of-term"
-meta_title: "University Event Hire | Freshers & Balls | Fun Pro UK"
-meta_description: "Game and entertainment hire for university events across the UK. Freshers fairs, graduation balls, end-of-term parties and open days. Nationwide delivery."
+title: University Events
+subtitle: Hire games for freshers, socials and end-of-term
+meta_title: University Event Hire | Freshers & Balls | Fun Pro UK
+meta_description: Game and entertainment hire for university events across the
+  UK. Freshers fairs, graduation balls, end-of-term parties and open days.
+  Nationwide delivery.
 featured: true
-thumbnail: /images/events/university-events.jpg
+thumbnail: /images/events/IMG-20240614-WA0005.jpg
 eleventyNavigation:
-  key: "University Events"
-  parent: "Educational & Community"
+  key: University Events
+  parent: Educational & Community
   order: 1
 ---
-
 # University Event Entertainment Hire
 
 Fun Pro UK has been supplying [interactive games](/categories/interactive-game-hire) and entertainment to universities since 2009. From freshers fairs in September to graduation balls in summer, we work with student unions, events teams and faculty staff throughout the academic year.
@@ -29,10 +30,10 @@ We've provided student activations in Manchester (including a [branded prize whe
 
 ## Why Universities Book With Us
 
-- **Nationwide delivery** from our Coventry base, with setup and collection included
-- **Published pricing** on every product page — no quote forms or hidden costs
-- **£5m public liability insurance**, PAT tested equipment and full risk assessments
-- **In-house branding** for open days, recruitment drives or sponsored events
-- **Commercial-grade equipment** built to handle a full day of students
+*   **Nationwide delivery** from our Coventry base, with setup and collection included
+*   **Published pricing** on every product page — no quote forms or hidden costs
+*   **£5m public liability insurance**, PAT tested equipment and full risk assessments
+*   **In-house branding** for open days, recruitment drives or sponsored events
+*   **Commercial-grade equipment** built to handle a full day of students
 
 We work directly with you to plan what fits your venue, budget and audience. [Get in touch](/contact-fun-pro-uk) to check availability or talk through what you need.
