@@ -9,12 +9,10 @@ meta_description: Planning team building events? Discover games and activities
 no_index: false
 faqs:
   - question: "How much space do team building games need? "
-    answer: Requirements vary by activity. Reaction games typically need a 3x3 metre
-      area, * DONT WANT TO PUT PEOPLE OFF BY PUTTING SPACES SIZES ON INCASE THEY
-      DONT THINK THEY HAVE THE ROOM!!!*** whilst racing simulators require
-      slightly more space to accommodate seating and screens. Giant games work
-      well in spaces around 4x4 metres. A professional hire company can advise
-      on specific requirements for your venue
+    answer: Requirements vary by activity, whilst racing simulators require slightly
+      more space to accommodate seating and screens. Giant games work well in
+      spaces around 4x4 metres. A professional hire company can advise on
+      specific requirements for your venue
   - question: "What's the minimum group size for team building games? "
     answer: Most interactive games work well for groups of any size, though some
       activities shine with larger numbers. Tournament formats become more
