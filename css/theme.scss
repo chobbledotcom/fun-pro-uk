@@ -1413,7 +1413,7 @@ body.horizontal-nav main {
   }
 }
 
-.homepage-intro {
+article#content > section.homepage-intro {
   padding-bottom: 0;
   & > * {
     max-width: 700px;
