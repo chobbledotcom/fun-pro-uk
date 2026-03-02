@@ -4,7 +4,9 @@ subtitle: Festive-themed roll-and-bowl racing game
 price: £895
 order: 50
 meta_title: Roll And Bowl Reindeer Racing Game Hire | Christmas Games | Fun Pro UK
-meta_description: Festive roll-and-bowl reindeer racing game for Christmas parties and seasonal events. Roll the ball to race your reindeer to the finish line! UK delivery.
+meta_description: Festive roll-and-bowl reindeer racing game for Christmas
+  parties and seasonal events. Roll the ball to race your reindeer to the finish
+  line! UK delivery.
 categories:
   - categories/christmas-game-hire.md
   - categories/roll-and-bowl.md
@@ -19,7 +21,7 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Space Required
-    value: 1.5m x 1.5m
+    value: 2.9m x 3m
   - name: Power
     value: 1 x Power Socket (180-230W)
   - name: Setup time
@@ -38,7 +40,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 45-60 Seconds
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -191,8 +193,7 @@ faqs:
     answer: Players roll balls to advance their reindeer along the track. The first
       to cross the finish line wins.
   - question: Does it need power?
-    answer: No, Roll and Bowl Reindeer Racing requires no power, giving you
-      flexibility with positioning.
+    answer: Yes, 1 x power socket required
 videos:
   - id: https://player.vimeo.com/video/645516022
     title: Roll and Bowl
