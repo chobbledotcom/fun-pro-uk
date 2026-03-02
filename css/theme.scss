@@ -1494,6 +1494,7 @@ article#content > section.homepage-intro {
 .item-reviews,
 body.reviews,
 body.event,
+body.category,
 body.base {
   ul.items {
     @include list-reset;
