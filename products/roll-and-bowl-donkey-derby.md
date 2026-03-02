@@ -37,7 +37,7 @@ specs:
   - name: Space Required
     value: 2.9m x 3m
   - name: Power
-    value: 2 x Power Socket (180-230W)
+    value: 1 x Power Socket (180-230W)
   - name: Setup time
     value: 30-90 minutes
   - name: Equipment Size
@@ -54,7 +54,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 45-60 Seconds
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -84,8 +84,8 @@ gallery:
   - /images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-3.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-29.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-28.jpg
-  - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg
+  - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-24.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51
@@ -221,8 +221,7 @@ faqs:
     answer: Players roll balls to advance their donkeys along the track. Successful
       rolls move you forward, with the first to cross the finish line winning.
   - question: Does it need power?
-    answer: No, Roll & Bowl Donkey Derby requires no power, giving you complete
-      flexibility with positioning.
+    answer: Yes, 1 x power socket required
 videos:
   - id: https://player.vimeo.com/video/645516022
     title: Roll and Bowl
