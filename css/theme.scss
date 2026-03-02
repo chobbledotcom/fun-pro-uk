@@ -1739,6 +1739,9 @@ body .content .image-wrapper img {
       @include flex-center;
       flex: 1 1 400px;
       margin: 0;
+      .image-wrapper {
+        width: 100%;
+      }
     }
     h2 {
       @include heading;
