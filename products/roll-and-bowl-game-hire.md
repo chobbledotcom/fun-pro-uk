@@ -27,7 +27,7 @@ specs:
   - name: Space Required
     value: 2.9m x 3m
   - name: Power
-    value: 2 x Power Socket (180-230W)
+    value: 1 x Power Socket (180-230W)
   - name: Setup time
     value: 30-90 minutes
   - name: Equipment Size
@@ -44,7 +44,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 45-60 Seconds
   - name: Power Required
     value: Mains power required
   - name: Player Count
@@ -258,8 +258,7 @@ faqs:
       representing different point values. The format suits casual play or
       competition.
   - question: Does it need power?
-    answer: No, Roll and Bowl requires no power, giving you complete flexibility
-      with positioning.
+    answer: Yes, 1 x power socket required
 videos:
   - id: https://player.vimeo.com/video/645516022
     title: Roll and Bowl
