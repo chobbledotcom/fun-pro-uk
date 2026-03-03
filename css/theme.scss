@@ -1124,6 +1124,24 @@ body.horizontal-nav main {
       .search-box {
         display: none;
       }
+
+      .mobile-search {
+        order: -1;
+        grid-column: 1 / -1;
+        padding: 8px 0;
+
+        .search-box {
+          display: flex;
+          grid-area: auto;
+          max-width: none;
+          width: 100%;
+
+          input {
+            flex: 1;
+            width: 100%;
+          }
+        }
+      }
     }
 
     @include breakpoints.up("md") {
@@ -1142,6 +1160,10 @@ body.horizontal-nav main {
       align-items: center;
       width: min(1920px, calc(100vw - (var(--gap-items) / 2)));
       margin: 0 auto;
+
+      .mobile-search {
+        display: none;
+      }
     }
 
     ul & > li & > ul a {
