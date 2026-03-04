@@ -30,7 +30,7 @@ Company registration name: **Fun Pro UK Ltd**
 
 Company Number: **09559294**
 
-Main office address: Unit 3, Ryton Farm, Wolston Ln, Coventry, CV8 3ES
+Main office address: Unit 3a, Ryton Farm, Wolston Ln, Coventry, CV8 3ES
 
 Lets get social, **join us!**
 
