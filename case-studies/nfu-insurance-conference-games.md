@@ -1,10 +1,12 @@
 ---
+title: NFU Insurance Conference Games
 meta_title: "Case Study | NFU Insurance Conference | Fun Pro UK"
 meta_description: "NFU Insurance chose us for their annual business conference entertainment, and we helped them turn the day into a success and keep staff and clients happy."
 layout: page
 redirect_from:
   - "/pages/nfu-insurance-conference-games/"
   - "/nfu-insurance-conference-games/"
+thumbnail: /images/pages/businesspeople.png
 ---
 
 # NFU Insurance conference games

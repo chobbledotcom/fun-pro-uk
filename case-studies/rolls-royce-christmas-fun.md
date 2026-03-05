@@ -1,4 +1,5 @@
 ---
+title: Rolls Royce Christmas Fun
 meta_title: "Rolls Royce Office Christmas Party | Fun Pro UK"
 meta_description: "We&#39;re the Rolls Royce of event hire for office Christmas parties! Find out why the luxury car manufacturer chose Fun Pro UK for their company reception."
 layout: page
