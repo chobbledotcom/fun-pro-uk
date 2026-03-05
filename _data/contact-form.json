@@ -1,0 +1,48 @@
+{
+	"fields": [
+		{
+			"name": "name",
+			"label": "Name",
+			"placeholder": "Your name",
+			"required": true
+		},
+		{
+			"name": "email",
+			"type": "email",
+			"label": "Email",
+			"placeholder": "Your email address"
+		},
+		{
+			"name": "phone",
+			"label": "Phone",
+			"placeholder": "Your phone number"
+		},
+		{
+			"name": "product",
+			"type": "textarea",
+			"label": "Product",
+			"required": true,
+			"rows": 6,
+			"showOn": "product",
+			"defaultFromPageTitle": true
+		},
+		{
+			"name": "event",
+			"type": "textarea",
+			"label": "Event",
+			"required": true,
+			"rows": 6,
+			"showOn": "event",
+			"defaultFromPageTitle": true
+		},
+		{
+			"name": "message",
+			"type": "textarea",
+			"label": "Message",
+			"placeholder": "Please give details of the event and units you're interested in",
+			"required": true,
+			"rows": 6
+		}
+	],
+	"submitButtonText": "Send Enquiry"
+}
