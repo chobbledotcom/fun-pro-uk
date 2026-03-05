@@ -5,15 +5,14 @@ meta_description: Want to see what happens when you choose Fun Pro UK for your
   parties.
 layout: case-studies
 tags: []
-eleventyExcludeFromCollections: true
 redirect_from:
   - /pages/case-studies/
 eleventyNavigation:
   key: Case Studies
   parent: About us
   order: 5
-no_index: false
 ---
+
 # Case Studies
 
 The Fun Pro team are proud to have worked with some of Britain's biggest companies, including household names like Rolls Royce and KPMG. These companies come back to us year after year, because they know they can rely on Fun Pro UK to provide a dependable, professional service wherever and whenever they need us.
