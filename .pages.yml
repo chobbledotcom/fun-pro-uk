@@ -378,6 +378,49 @@ content:
         label: Gallery
         options:
           multiple: true
+  - name: case-studies
+    label: Case Studies
+    path: case-studies
+    type: collection
+    subfolders: false
+    view:
+      fields:
+        - meta_title
+      primary: meta_title
+      sort:
+        - meta_title
+    fields:
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
+      - name: meta_description
+        type: string
+        label: Meta Description
+        maxlength: 155
+      - name: eleventyNavigation
+        label: Navigation
+        type: object
+        fields:
+          - { name: key, type: string }
+          - { name: parent, type: string }
+          - { name: order, type: number }
+      - { name: layout, type: string }
+      - { name: no_index, type: boolean, label: Hide from listings }
+      - { name: permalink, type: string, label: Permalink }
+      - { name: redirect_from, type: string, label: Redirect From, list: true }
+      - name: faqs
+        label: FAQs
+        type: object
+        list: true
+        fields:
+          - { name: question, type: string, label: Question, required: true }
+          - { name: answer, type: string, label: Answer, required: true }
+      - name: gallery
+        type: image
+        label: Gallery
+        options:
+          multiple: true
   - name: snippets
     label: Snippets
     path: snippets

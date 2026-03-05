@@ -1,11 +1,14 @@
 ---
+title: Specsavers Corporate Event Entertainment
 meta_title: Specsavers Corporate Event Entertainment | Fun Pro Case Study
 meta_description: Learn how Specsavers has partnered with Fun Pro for corporate
   entertainment across three years, from branded conference games to evening
   event hire nationwide.
 layout: page
 no_index: false
-permalink: specsavers-case-study
+redirect_from:
+  - "/specsavers-case-study/"
+thumbnail: /images/fun-pro-specsavers.jpg
 ---
 # **Specsavers Case Study**
 

@@ -1,9 +1,12 @@
 ---
+title: Virgin Media O2 Corporate Event
 meta_title: "Virgin Media O2 Corporate Events Case Study"
 meta_description: "Discover how Virgin Media O2 partnered with FunPro UK for three years to deliver engaging festival entertainment across multiple UK locations."
 layout: page
 redirect_from:
   - "/pages/virgin-media-o2-corporate-event/"
+  - "/virgin-media-o2-corporate-event/"
+thumbnail: /images/pages/fun-pro-strike-a-light.jpg
 ---
 
 # How Virgin Media O2 Built Team Spirit Across the UK with FunPro's Touring Festival Games

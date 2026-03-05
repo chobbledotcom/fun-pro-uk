@@ -1,9 +1,12 @@
 ---
+title: Putting KPMG in the Picture
 meta_title: "KPMG Annual Awards | Corporate Photo Booth Hire Nationwide"
 meta_description: "KPMG loved the service they received from Fun Pro UK when they booked out photo booths for their annual awards! Choose the best - make a booking today!"
 layout: page
 redirect_from:
   - "/pages/putting-kpmg-in-the-picture/"
+  - "/putting-kpmg-in-the-picture/"
+thumbnail: /images/pages/businesspeople.png
 ---
 
 # Putting KPMG in the Picture
