@@ -4,6 +4,7 @@ meta_description: "KPMG loved the service they received from Fun Pro UK when the
 layout: page
 redirect_from:
   - "/pages/putting-kpmg-in-the-picture/"
+  - "/putting-kpmg-in-the-picture/"
 ---
 
 # Putting KPMG in the Picture

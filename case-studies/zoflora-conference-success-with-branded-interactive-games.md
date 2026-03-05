@@ -4,6 +4,7 @@ meta_description: "See how Zoflora stood out at Home Bargains Conference with Fu
 layout: page
 redirect_from:
   - "/pages/zoflora-conference-success-with-branded-interactive-games/"
+  - "/zoflora-conference-success-with-branded-interactive-games/"
 ---
 
 # How Zoflora Captured Buyer Attention at Home Bargains Conference with Custom-Branded Interactive Games

@@ -4,6 +4,7 @@ meta_description: "We&#39;re the Rolls Royce of event hire for office Christmas 
 layout: page
 redirect_from:
   - "/pages/rolls-royce-christmas-fun/"
+  - "/rolls-royce-christmas-fun/"
 ---
 
 # Rolls Royce Christmas Fun

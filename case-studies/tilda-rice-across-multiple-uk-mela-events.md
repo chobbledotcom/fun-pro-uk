@@ -4,6 +4,7 @@ meta_description: "Learn how FunPro UK helped Tilda Rice create irresistible bra
 layout: page
 redirect_from:
   - "/pages/tilda-rice-across-multiple-uk-mela-events/"
+  - "/tilda-rice-across-multiple-uk-mela-events/"
 ---
 
 # How Tilda Rice Created Queue-Worthy Community Engagement Across Multiple UK Mela Events

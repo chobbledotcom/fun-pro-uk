@@ -4,6 +4,7 @@ meta_description: "NFU Insurance chose us for their annual business conference e
 layout: page
 redirect_from:
   - "/pages/nfu-insurance-conference-games/"
+  - "/nfu-insurance-conference-games/"
 ---
 
 # NFU Insurance conference games

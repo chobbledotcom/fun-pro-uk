@@ -4,6 +4,7 @@ meta_description: "Discover how Poundland Manchester boosted fresher engagement 
 layout: page
 redirect_from:
   - "/pages/poundland-student-activation-success/"
+  - "/poundland-student-activation-success/"
 ---
 
 # How Poundland Manchester Boosted Student Engagement with Last-Minute Activation Success

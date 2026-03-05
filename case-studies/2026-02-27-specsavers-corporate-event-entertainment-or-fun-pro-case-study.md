@@ -5,7 +5,8 @@ meta_description: Learn how Specsavers has partnered with Fun Pro for corporate
   event hire nationwide.
 layout: page
 no_index: false
-permalink: specsavers-case-study
+redirect_from:
+  - "/specsavers-case-study/"
 ---
 # **Specsavers Case Study**
 

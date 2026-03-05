@@ -4,6 +4,7 @@ meta_description: "Discover how Virgin Media O2 partnered with FunPro UK for thr
 layout: page
 redirect_from:
   - "/pages/virgin-media-o2-corporate-event/"
+  - "/virgin-media-o2-corporate-event/"
 ---
 
 # How Virgin Media O2 Built Team Spirit Across the UK with FunPro's Touring Festival Games

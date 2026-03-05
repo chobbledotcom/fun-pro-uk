@@ -25,7 +25,8 @@
 			"events",
 			"team",
 			"reviews",
-			"locations"
+			"locations",
+			"case-studies"
 		],
 		"features": {
 			"permalinks": true,

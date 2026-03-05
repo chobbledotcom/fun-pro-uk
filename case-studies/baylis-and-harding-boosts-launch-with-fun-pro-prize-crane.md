@@ -4,6 +4,7 @@ meta_description: "Discover how Baylis &amp; Harding wowed crowds at CBS Arena w
 layout: page
 redirect_from:
   - "/pages/baylis-and-harding-boosts-launch-with-fun-pro-prize-crane/"
+  - "/baylis-and-harding-boosts-launch-with-fun-pro-prize-crane/"
 ---
 
 # How Baylis & Harding Created a Show-Stopping Product Launch with Fun Pro's Custom-Branded Prize Crane

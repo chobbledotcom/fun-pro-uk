@@ -4,6 +4,7 @@ meta_description: "Discover how Kellanova transformed their World Health and Saf
 layout: page
 redirect_from:
   - "/pages/kellanova-world-health-and-safety-week/"
+  - "/kellanova-world-health-and-safety-week/"
 ---
 
 # How Kellanova Brought Health and Safety to Life with Interactive Entertainment
