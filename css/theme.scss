@@ -2727,7 +2727,7 @@ aritcle > .faqs-container {
 body.products article#content,
 body.category article#content {
   .prose {
-    padding-top: var(--section-padding-half);
+    padding: var(--section-padding-half) 0;
   }
   ul.items {
     margin-top: 0;
