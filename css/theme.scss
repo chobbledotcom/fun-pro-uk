@@ -1494,7 +1494,6 @@ article#content > section.homepage-intro {
 .item-reviews,
 body.reviews,
 body.event,
-body.category,
 body.base {
   ul.items {
     @include list-reset;
@@ -2724,13 +2723,9 @@ aritcle > .faqs-container {
     }
   }
 }
-.products-content {
-  margin-bottom: var(--section-padding-half);
-  h1 {
-    font-size: 44px;
-    margin: 0 0 8px;
-  }
 
+body.products article#content,
+body.category article#content {
   ul.items {
     margin-top: 0;
     li {
