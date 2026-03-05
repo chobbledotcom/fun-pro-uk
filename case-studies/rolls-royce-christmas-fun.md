@@ -10,6 +10,8 @@ redirect_from:
   - /rolls-royce-christmas-fun/
 thumbnail: /images/Screenshot 2026-03-05 191211.jpg
 no_index: false
+gallery:
+  - /images/Screenshot 2026-03-05 191211.jpg
 ---
 # Rolls Royce Christmas Fun
 
