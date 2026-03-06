@@ -2,554 +2,1539 @@
 no_index: true
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Fun Pro UK - Mega Menu</title>
-<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  body {
-    font-family: 'Figtree', system-ui, sans-serif;
-    min-height: 100vh;
-    background: linear-gradient(135deg, #1e3a5f, #0f1f33);
-    padding: 24px 32px;
-  }
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fun Pro UK - Navigation</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      *,
+      *::before,
+      *::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-  /* ══════════════════════════════
-     NAV BAR — DESKTOP (default)
-     ══════════════════════════════ */
-  .cf_nav {
-    max-width: 1200px;
-    margin: 0 auto;
-    background: rgba(34,34,34,0.33);
-    backdrop-filter: blur(18px);
-    border-radius: 20px;
-    padding: 14px 20px;
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
-    position: relative;
-  }
-  .cf_nav__logo {
-    font-weight: 700; font-size: 18px; color: #fff;
-    margin-right: 24px; white-space: nowrap; text-decoration: none;
-  }
-  .cf_nav__logo span { color: #e74021; }
-  .cf_nav__items { display: flex; align-items: center; flex: 1; }
-  .cf_nav__right { display: flex; align-items: center; gap: 8px; margin-left: auto; }
-  .cf_nav__phone, .cf_nav__email {
-    font-size: 12px; color: rgba(255,255,255,0.7);
-    text-decoration: none; padding: 4px 8px; white-space: nowrap;
-  }
-  .cf_nav__phone:hover, .cf_nav__email:hover { color: #fff; }
-  .cf_nav__cta {
-    background: #e74021; color: #fff; font-size: 12px; font-weight: 600;
-    padding: 7px 14px; border-radius: 10px; text-decoration: none;
-    white-space: nowrap; transition: background 0.2s;
-  }
-  .cf_nav__cta:hover { background: #d13518; }
-  .cf_nav__icon-btn {
-    background: none; border: none; color: rgba(255,255,255,0.7);
-    cursor: pointer; padding: 6px; border-radius: 8px;
-    display: flex; align-items: center; transition: color 0.2s, background 0.2s;
-  }
-  .cf_nav__icon-btn:hover { color: #fff; background: rgba(255,255,255,0.1); }
-  .cf_nav__cart { position: relative; }
-  .cf_nav__cart-badge {
-    position: absolute; top: 0; right: 0;
-    background: #e74021; color: #fff; font-size: 9px; font-weight: 700;
-    width: 15px; height: 15px; border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-  }
+      body {
+        font-family: "DM Sans", system-ui, sans-serif;
+        background: #fff;
+        color: #1b2845;
+      }
 
-  /* hamburger — hidden on desktop */
-  .cf_nav__hamburger { display: none; }
+      /* ════════════════════════════════════
+   TOP BAR
+   ════════════════════════════════════ */
 
-  /* ══════════════════════════════
-     MENU ITEMS + HOVER DROPDOWNS
-     ══════════════════════════════ */
-  .cf_nav__item { position: relative; }
-  .cf_nav__item > a {
-    display: flex; align-items: center; gap: 4px;
-    padding: 8px 10px; font-size: 13px; font-weight: 500;
-    color: rgba(255,255,255,0.85); text-decoration: none;
-    border-radius: 10px; transition: background 0.2s, color 0.2s; white-space: nowrap;
-  }
-  .cf_nav__item:hover > a { color: #fff; background: rgba(255,255,255,0.1); }
-  .cf_nav__caret { width: 10px; height: 6px; transition: transform 0.25s ease; }
-  .cf_nav__item:hover .cf_nav__caret { transform: rotate(180deg); }
+      .mn-topbar {
+        background: #1b2845;
+        color: rgba(255, 255, 255, 0.7);
+        font-size: 12px;
+        text-align: center;
+        padding: 6px 16px;
+      }
 
-  .cf_nav__dropdown {
-    position: fixed;
-    left: var(--nav-left); width: var(--nav-width); top: var(--nav-bottom);
-    padding-top: 8px; background: transparent;
-    opacity: 0; visibility: hidden; transform: translateY(-8px);
-    transition: opacity 0.25s, transform 0.25s, visibility 0.25s; z-index: 100;
-  }
-  .cf_nav__item:hover .cf_nav__dropdown {
-    opacity: 1; visibility: visible; transform: translateY(0);
-  }
-  .cf_nav__dropdown__inner {
-    background: #fff; border-radius: 16px;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3), 0 4px 16px rgba(0,0,0,0.12);
-    overflow: hidden;
-  }
-  .cf_nav__dropdown::before {
-    content: ''; position: absolute; top: -40px;
-    left: 0; right: 0; height: 48px;
-  }
+      /* ════════════════════════════════════
+   STICKY WRAPPER
+   ════════════════════════════════════ */
 
-  /* ── GRID PANEL ── */
-  .panel-grid { display: grid; gap: 12px; padding: 18px; }
-  .panel-grid--3x2 { grid-template-columns: repeat(3, 1fr); }
-  .panel-grid--4col { grid-template-columns: repeat(4, 1fr); }
-  .panel-grid a {
-    position: relative; border-radius: 12px; overflow: hidden;
-    aspect-ratio: 3/2; display: block; text-decoration: none; color: #fff;
-  }
-  .panel-grid img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.3s; }
-  .panel-grid a:hover img { transform: scale(1.05); }
-  .panel-grid .card-label {
-    position: absolute; inset: 0;
-    background: linear-gradient(0deg, rgba(0,0,0,0.65) 0%, transparent 55%);
-    display: flex; align-items: flex-end; padding: 10px 12px;
-    font-weight: 600; font-size: 12.5px; line-height: 1.25;
-  }
+      .mn-wrap {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: #fff;
+        box-shadow: 0 1px 4px rgba(27, 40, 69, 0.08);
+        transition: transform 0.3s ease;
 
-  /* ── COLUMNS PANEL ── */
-  .panel-columns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; padding: 22px 24px; }
-  .panel-columns__header { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; }
-  .panel-columns__thumb { width: 56px; height: 56px; border-radius: 10px; object-fit: cover; flex-shrink: 0; }
-  .panel-columns__title { font-weight: 700; font-size: 14px; color: #1e3a5f; text-decoration: none; line-height: 1.2; }
-  .panel-columns__title:hover { color: #e74021; }
-  .panel-columns ul { list-style: none; display: flex; flex-direction: column; gap: 2px; }
-  .panel-columns ul a { font-size: 13px; color: #3d5a80; text-decoration: none; padding: 4px 0; display: block; transition: color 0.15s; }
-  .panel-columns ul a:hover { color: #e74021; }
+        &.nav-hidden {
+          transform: translateY(-100%);
+        }
+      }
 
-  /* ── ABOUT PANEL ── */
-  .panel-about { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 22px 24px; }
-  .panel-about ul { list-style: none; display: flex; flex-direction: column; gap: 1px; }
-  .panel-about ul a { font-size: 13.5px; color: #1e3a5f; text-decoration: none; padding: 5px 0; display: block; font-weight: 500; transition: color 0.15s; }
-  .panel-about ul a:hover { color: #e74021; }
-  .panel-about__feature { position: relative; border-radius: 12px; overflow: hidden; display: block; text-decoration: none; color: #fff; min-height: 200px; }
-  .panel-about__feature img { width: 100%; height: 100%; object-fit: cover; display: block; }
-  .panel-about__feature .card-label { position: absolute; inset: 0; background: linear-gradient(0deg, rgba(0,0,0,0.5) 0%, transparent 55%); display: flex; align-items: flex-end; padding: 14px; font-weight: 600; font-size: 13px; }
+      /* ════════════════════════════════════
+   NAV BAR
+   ════════════════════════════════════ */
 
-  /* ── SEARCH PANEL ── */
-  .panel-search { padding: 24px; }
-  .panel-search__input-wrap { display: flex; gap: 10px; }
-  .panel-search input[type="text"] { flex: 1; padding: 12px 16px; border: 2px solid #e0e0e0; border-radius: 10px; font-size: 14px; font-family: inherit; outline: none; transition: border-color 0.2s; }
-  .panel-search input[type="text"]:focus { border-color: #e74021; }
-  .panel-search button { background: #e74021; color: #fff; border: none; padding: 12px 24px; border-radius: 10px; font-size: 14px; font-weight: 600; font-family: inherit; cursor: pointer; transition: background 0.2s; }
-  .panel-search button:hover { background: #d13518; }
+      .mn-bar {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 12px 24px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        position: relative;
+      }
 
-  /* ══════════════════════════════
-     MOBILE OVERLAY — hidden on desktop
-     ══════════════════════════════ */
-  .cf_nav__mobile {
-    display: none; /* shown via JS */
-    position: fixed; inset: 0; z-index: 200;
-    background: rgba(15,31,51,0.97);
-    backdrop-filter: blur(12px);
-    overflow-y: auto; padding: 24px;
-    flex-direction: column;
-  }
-  .cf_nav__mobile.is-open { display: flex; }
-  .cf_nav__mobile__header {
-    display: flex; align-items: center; justify-content: space-between;
-    margin-bottom: 20px;
-  }
-  .cf_nav__mobile__close {
-    background: none; border: none; color: #fff; cursor: pointer;
-    padding: 8px; border-radius: 8px;
-  }
-  .cf_nav__mobile__close:hover { background: rgba(255,255,255,0.1); }
+      /* ════════════════════════════════════
+   LOGO
+   ════════════════════════════════════ */
 
-  /* accordion items */
-  .mob-item { border-bottom: 1px solid rgba(255,255,255,0.1); }
-  .mob-item__trigger {
-    display: flex; align-items: center; justify-content: space-between;
-    width: 100%; padding: 14px 0; background: none; border: none;
-    color: #fff; font-size: 16px; font-weight: 600; font-family: inherit;
-    cursor: pointer; text-align: left; text-decoration: none;
-  }
-  a.mob-item__trigger { cursor: pointer; }
-  .mob-item__trigger svg {
-    width: 12px; height: 8px; transition: transform 0.25s; flex-shrink: 0;
-  }
-  .mob-item.is-open > .mob-item__trigger svg { transform: rotate(180deg); }
-  .mob-item__body {
-    display: none; padding: 0 0 14px 12px;
-  }
-  .mob-item.is-open > .mob-item__body { display: block; }
-  .mob-item__body a {
-    display: block; padding: 8px 0; color: rgba(255,255,255,0.7);
-    text-decoration: none; font-size: 14px; transition: color 0.15s;
-  }
-  .mob-item__body a:hover { color: #fff; }
-  .mob-item__body .mob-sub-heading {
-    color: #e74021; font-weight: 600; font-size: 13px;
-    padding: 12px 0 4px; text-transform: uppercase; letter-spacing: 0.5px;
-  }
-  .mob-item__body .mob-sub-heading:first-child { padding-top: 0; }
+      .mn-logo {
+        margin-right: 24px;
+        white-space: nowrap;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
 
-  .mob-contact {
-    margin-top: auto; padding-top: 24px;
-    border-top: 1px solid rgba(255,255,255,0.1);
-    display: flex; flex-direction: column; gap: 10px;
-  }
-  .mob-contact a {
-    color: rgba(255,255,255,0.7); text-decoration: none; font-size: 14px;
-  }
-  .mob-contact a:hover { color: #fff; }
-  .mob-contact .cf_nav__cta {
-    display: inline-block; text-align: center; padding: 12px; font-size: 14px;
-  }
+        & img {
+          height: 36px;
+          width: auto;
+        }
+      }
 
-  /* ══════════════════════════════
-     TABLET: 769px–1100px
-     two-row nav, logo left
-     ══════════════════════════════ */
-  @media (max-width: 1100px) and (min-width: 769px) {
-    body { padding: 16px; }
-    .cf_nav {
-      flex-wrap: wrap;
-      padding: 12px 16px;
-      gap: 6px 0;
-    }
-    .cf_nav__logo { margin-right: auto; order: 1; }
-    /* search + cart stay top-right on tablet */
-    .cf_nav__right .cf_nav__item,
-    .cf_nav__cart { order: 2; }
-    .cf_nav__items {
-      order: 3; flex: none; width: 100%;
-    }
-    .cf_nav__right {
-      order: 4; flex: none; width: 100%;
-      justify-content: flex-end;
-      padding-top: 8px;
-      border-top: 1px solid rgba(255,255,255,0.1);
-      margin-top: 4px;
-    }
-    /* keep search/cart in top row */
-    .cf_nav__right .cf_nav__item,
-    .cf_nav__right .cf_nav__cart {
-      order: -1;
-    }
-    .cf_nav__item > a { font-size: 12px; padding: 6px 8px; }
-  }
+      /* ════════════════════════════════════
+   NAV GROUPS
+   ════════════════════════════════════ */
 
-  /* ══════════════════════════════
-     MOBILE: <769px
-     hamburger + overlay
-     ══════════════════════════════ */
-  @media (max-width: 768px) {
-    body { padding: 12px; }
-    .cf_nav {
-      padding: 12px 16px;
-    }
-    .cf_nav__logo { margin-right: auto; }
-    .cf_nav__items { display: none; }
-    .cf_nav__right {
-      gap: 4px;
-    }
-    .cf_nav__phone, .cf_nav__email { display: none; }
-    .cf_nav__cta { display: none; }
-    /* keep search + cart visible */
-    .cf_nav__right .cf_nav__item { display: block; }
+      .mn-links {
+        display: flex;
+        align-items: center;
+        flex: 1;
+      }
 
-    .cf_nav__hamburger {
-      display: flex; align-items: center;
-      background: none; border: none; color: #fff;
-      cursor: pointer; padding: 6px; border-radius: 8px;
-      margin-left: 4px;
-    }
-    .cf_nav__hamburger:hover { background: rgba(255,255,255,0.1); }
+      .mn-actions {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-left: auto;
+      }
 
-    /* hide desktop dropdowns entirely */
-    .cf_nav__dropdown { display: none !important; }
+      /* ════════════════════════════════════
+   CONTACT + CTA
+   ════════════════════════════════════ */
 
-    .hero h1 { font-size: 26px; }
-  }
+      .mn-phone,
+      .mn-email {
+        font-size: 12px;
+        color: #5a6a7a;
+        text-decoration: none;
+        padding: 4px 8px;
+        white-space: nowrap;
+        transition: color 0.2s;
 
-  /* ── HERO ── */
-  .hero { max-width: 600px; margin: 100px auto 0; text-align: center; color: rgba(255,255,255,0.5); font-size: 14px; }
-  .hero h1 { font-size: 38px; font-weight: 700; color: #fff; line-height: 1.15; margin-bottom: 14px; }
-</style>
-</head>
-<body>
+        &:hover {
+          color: #1b2845;
+        }
+      }
 
-<!-- ════════════════════════════════
-     DESKTOP / TABLET NAV
-     ════════════════════════════════ -->
-<nav class="cf_nav">
-  <a href="/" class="cf_nav__logo"><span>●</span> Fun Pro UK</a>
+      .mn-cta {
+        background: #e53935;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+        padding: 8px 16px;
+        border-radius: 6px;
+        text-decoration: none;
+        white-space: nowrap;
+        transition: background 0.2s;
 
-  <div class="cf_nav__items">
-    <!-- How We Help -->
-    <div class="cf_nav__item">
-      <a href="/how-we-help/">How We Help <svg class="cf_nav__caret" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-      <div class="cf_nav__dropdown"><div class="cf_nav__dropdown__inner">
-        <div class="panel-grid panel-grid--3x2">
-          <a href="/categories/corporate-entertainment/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Corporate Entertainment</div></a>
-          <a href="/categories/exhibition-games/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Exhibition Games</div></a>
-          <a href="/events/brand-activation/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Brand Activation</div></a>
-          <a href="/events/christmas-entertainment/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Christmas Entertainment</div></a>
-          <a href="/categories/weddings/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Luxury Wedding Entertainment</div></a>
-          <a href="/events/team-building-entertainment/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Team Building Entertainment</div></a>
-        </div>
-      </div></div>
+        &:hover {
+          background: #c62828;
+        }
+      }
+
+      /* ════════════════════════════════════
+   ICON BUTTONS
+   ════════════════════════════════════ */
+
+      .mn-icon {
+        background: none;
+        border: none;
+        color: #5a6a7a;
+        cursor: pointer;
+        padding: 6px;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        transition:
+          color 0.2s,
+          background 0.2s;
+
+        &:hover {
+          color: #1b2845;
+          background: #f0f2f5;
+        }
+      }
+
+      .mn-cart {
+        position: relative;
+      }
+
+      .mn-badge {
+        position: absolute;
+        top: -2px;
+        right: -2px;
+        background: #e53935;
+        color: #fff;
+        font-size: 9px;
+        font-weight: 700;
+        width: 16px;
+        height: 16px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 2px solid #fff;
+      }
+
+      .mn-burger {
+        display: none;
+      }
+
+      /* ════════════════════════════════════
+   MENU ITEMS
+   ════════════════════════════════════ */
+
+      .mn-item {
+        position: static;
+
+        & > a {
+          display: flex;
+          align-items: center;
+          gap: 4px;
+          padding: 8px 12px;
+          font-size: 14px;
+          font-weight: 500;
+          color: #3a4a5c;
+          text-decoration: none;
+          border-radius: 6px;
+          transition:
+            background 0.2s,
+            color 0.2s;
+          white-space: nowrap;
+        }
+
+        &:hover > a,
+        &.is-open > a {
+          color: #1b2845;
+          background: #f0f2f5;
+        }
+      }
+
+      .mn-caret {
+        width: 10px;
+        height: 6px;
+        transition: transform 0.25s ease;
+        flex-shrink: 0;
+
+        .mn-item:hover &,
+        .mn-item.is-open & {
+          transform: rotate(180deg);
+        }
+      }
+
+      /* ════════════════════════════════════
+   DROPDOWNS
+   ════════════════════════════════════ */
+
+      .mn-drop {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        padding-top: 0;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-6px);
+        transition:
+          opacity 0.2s,
+          transform 0.2s,
+          visibility 0.2s;
+        z-index: 100;
+        pointer-events: none;
+
+        &::before {
+          content: "";
+          position: absolute;
+          top: -20px;
+          left: 0;
+          right: 0;
+          height: 24px;
+        }
+
+        /* desktop: hover opens */
+        .mn-item:hover & {
+          opacity: 1;
+          visibility: visible;
+          transform: translateY(0);
+          pointer-events: auto;
+        }
+
+        /* tablet: click opens via .is-open */
+        .mn-item.is-open & {
+          opacity: 1;
+          visibility: visible;
+          transform: translateY(0);
+          pointer-events: auto;
+        }
+      }
+
+      .mn-drop-inner {
+        background: #fff;
+        border-radius: 12px;
+        border: 1px solid #e8ebef;
+        box-shadow:
+          0 12px 40px rgba(27, 40, 69, 0.12),
+          0 2px 8px rgba(27, 40, 69, 0.06);
+        overflow: hidden;
+        max-width: 960px;
+        margin: 0 auto;
+      }
+
+      /* ════════════════════════════════════
+   PANEL: Grid
+   ════════════════════════════════════ */
+
+      .mn-grid {
+        display: grid;
+        gap: 10px;
+        padding: 16px;
+
+        &.mn-grid--3x2 {
+          grid-template-columns: repeat(3, 1fr);
+        }
+        &.mn-grid--4col {
+          grid-template-columns: repeat(4, 1fr);
+        }
+
+        & a {
+          position: relative;
+          border-radius: 10px;
+          overflow: hidden;
+          aspect-ratio: 3/2;
+          display: block;
+          text-decoration: none;
+          color: #fff;
+
+          &:hover img {
+            transform: scale(1.05);
+          }
+        }
+
+        & img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          display: block;
+          transition: transform 0.3s;
+        }
+      }
+
+      .mn-card-label {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+          0deg,
+          rgba(27, 40, 69, 0.75) 0%,
+          transparent 55%
+        );
+        display: flex;
+        align-items: flex-end;
+        padding: 10px 12px;
+        font-weight: 600;
+        font-size: 12.5px;
+        line-height: 1.25;
+      }
+
+      /* ════════════════════════════════════
+   PANEL: Columns
+   ════════════════════════════════════ */
+
+      .mn-cols {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+        padding: 20px 24px;
+      }
+
+      .mn-cols-header {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+
+      .mn-cols-thumb {
+        width: 52px;
+        height: 52px;
+        border-radius: 8px;
+        object-fit: cover;
+        flex-shrink: 0;
+      }
+
+      .mn-cols-title {
+        font-weight: 700;
+        font-size: 14px;
+        color: #1b2845;
+        text-decoration: none;
+        line-height: 1.2;
+
+        &:hover {
+          color: #e53935;
+        }
+      }
+
+      .mn-cols ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+
+        & a {
+          font-size: 13px;
+          color: #5a6a7a;
+          text-decoration: none;
+          padding: 4px 0;
+          display: block;
+          transition: color 0.15s;
+
+          &:hover {
+            color: #e53935;
+          }
+        }
+      }
+
+      /* ════════════════════════════════════
+   PANEL: About
+   ════════════════════════════════════ */
+
+      .mn-about {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+        padding: 20px 24px;
+
+        & ul {
+          list-style: none;
+          display: flex;
+          flex-direction: column;
+          gap: 1px;
+
+          & a {
+            font-size: 14px;
+            color: #3a4a5c;
+            text-decoration: none;
+            padding: 6px 0;
+            display: block;
+            font-weight: 500;
+            transition: color 0.15s;
+
+            &:hover {
+              color: #e53935;
+            }
+          }
+        }
+      }
+
+      .mn-about-feature {
+        position: relative;
+        border-radius: 10px;
+        overflow: hidden;
+        display: block;
+        text-decoration: none;
+        color: #fff;
+        min-height: 200px;
+
+        & img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          display: block;
+        }
+
+        & .mn-card-label {
+          background: linear-gradient(
+            0deg,
+            rgba(27, 40, 69, 0.6) 0%,
+            transparent 55%
+          );
+          padding: 14px;
+          font-size: 13px;
+        }
+      }
+
+      /* ════════════════════════════════════
+   PANEL: Search
+   ════════════════════════════════════ */
+
+      .mn-search {
+        padding: 20px 24px;
+      }
+
+      .mn-search-row {
+        display: flex;
+        gap: 10px;
+
+        & input[type="text"] {
+          flex: 1;
+          padding: 10px 16px;
+          border: 2px solid #e0e3e8;
+          border-radius: 6px;
+          font-size: 14px;
+          font-family: inherit;
+          outline: none;
+          transition: border-color 0.2s;
+
+          &:focus {
+            border-color: #e53935;
+          }
+        }
+
+        & button {
+          background: #e53935;
+          color: #fff;
+          border: none;
+          padding: 10px 24px;
+          border-radius: 6px;
+          font-size: 14px;
+          font-weight: 600;
+          font-family: inherit;
+          cursor: pointer;
+          transition: background 0.2s;
+
+          &:hover {
+            background: #c62828;
+          }
+        }
+      }
+
+      /* ════════════════════════════════════
+   MOBILE OVERLAY
+   ════════════════════════════════════ */
+
+      .mn-overlay {
+        display: none;
+        position: fixed;
+        inset: 0;
+        z-index: 200;
+        background: #1b2845;
+        overflow-y: auto;
+        padding: 24px;
+        flex-direction: column;
+
+        &.is-open {
+          display: flex;
+        }
+
+        & .mn-logo {
+          filter: brightness(0) invert(1);
+        }
+      }
+
+      .mn-overlay-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+
+      .mn-overlay-close {
+        background: none;
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        padding: 8px;
+        border-radius: 6px;
+
+        &:hover {
+          background: rgba(255, 255, 255, 0.1);
+        }
+      }
+
+      /* accordion */
+      .mn-accordion {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+        &.is-open > .mn-accordion-trigger svg {
+          transform: rotate(180deg);
+        }
+        &.is-open > .mn-accordion-body {
+          display: block;
+        }
+      }
+
+      .mn-accordion-trigger {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        padding: 14px 0;
+        background: none;
+        border: none;
+        color: #fff;
+        font-size: 16px;
+        font-weight: 600;
+        font-family: inherit;
+        cursor: pointer;
+        text-align: left;
+        text-decoration: none;
+
+        & svg {
+          width: 12px;
+          height: 8px;
+          transition: transform 0.25s;
+          flex-shrink: 0;
+        }
+      }
+
+      .mn-accordion-body {
+        display: none;
+        padding: 0 0 14px 12px;
+
+        & a {
+          display: block;
+          padding: 8px 0;
+          color: rgba(255, 255, 255, 0.55);
+          text-decoration: none;
+          font-size: 14px;
+          transition: color 0.15s;
+
+          &:hover {
+            color: #fff;
+          }
+        }
+
+        & .mn-mob-parent {
+          color: #fff;
+          font-weight: 600;
+          padding-bottom: 10px;
+          margin-bottom: 2px;
+          border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }
+      }
+
+      .mn-sub-heading {
+        color: #e53935;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 14px 0 4px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+
+        &:first-child {
+          padding-top: 4px;
+        }
+
+        & a {
+          color: #e53935 !important;
+          font-weight: 600 !important;
+          text-decoration: none;
+
+          &:hover {
+            color: #ff6659 !important;
+          }
+        }
+      }
+
+      .mn-overlay-contact {
+        margin-top: auto;
+        padding-top: 24px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        & a {
+          color: rgba(255, 255, 255, 0.55);
+          text-decoration: none;
+          font-size: 14px;
+
+          &:hover {
+            color: #fff;
+          }
+        }
+
+        & .mn-cta {
+          display: inline-block;
+          text-align: center;
+          padding: 12px;
+          font-size: 14px;
+        }
+      }
+
+      /* ════════════════════════════════════
+   TABLET: 769px – 1100px
+   ════════════════════════════════════ */
+
+      @media (max-width: 1100px) and (min-width: 769px) {
+        .mn-bar {
+          display: grid;
+          grid-template-columns: auto 1fr;
+          grid-template-rows: auto auto;
+          gap: 4px 16px;
+          padding: 10px 16px;
+          align-items: center;
+        }
+
+        .mn-logo {
+          grid-row: 1 / 3;
+          grid-column: 1;
+          margin-right: 0;
+          align-self: center;
+        }
+
+        .mn-links {
+          grid-row: 1;
+          grid-column: 2;
+          justify-content: flex-start;
+        }
+
+        .mn-actions {
+          grid-row: 2;
+          grid-column: 2;
+          justify-content: flex-end;
+          margin-left: 0;
+          padding-top: 4px;
+          border-top: 1px solid #e8ebef;
+        }
+
+        .mn-item > a {
+          font-size: 12px;
+          padding: 6px 8px;
+        }
+
+        /* disable hover on tablet — use click only */
+        .mn-item:hover .mn-drop {
+          opacity: 0;
+          visibility: hidden;
+          pointer-events: none;
+        }
+        .mn-item.is-open .mn-drop {
+          opacity: 1;
+          visibility: visible;
+          transform: translateY(0);
+          pointer-events: auto;
+        }
+      }
+
+      /* ════════════════════════════════════
+   MOBILE: < 769px
+   ════════════════════════════════════ */
+
+      @media (max-width: 768px) {
+        .mn-logo {
+          margin-right: auto;
+        }
+        .mn-links {
+          display: none;
+        }
+        .mn-actions {
+          gap: 4px;
+        }
+
+        .mn-phone,
+        .mn-email,
+        .mn-actions > .mn-cta {
+          display: none;
+        }
+
+        .mn-burger {
+          display: flex;
+          align-items: center;
+          background: none;
+          border: none;
+          color: #3a4a5c;
+          cursor: pointer;
+          padding: 6px;
+          border-radius: 6px;
+          margin-left: 4px;
+
+          &:hover {
+            background: #f0f2f5;
+          }
+        }
+
+        .mn-drop {
+          display: none !important;
+        }
+      }
+
+      /* ════════════════════════════════════
+   PAGE CONTENT
+   ════════════════════════════════════ */
+
+      .page-content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 60px 24px 200px;
+
+        & h1 {
+          font-size: 36px;
+          font-weight: 700;
+          color: #1b2845;
+          margin-bottom: 16px;
+        }
+
+        & p {
+          color: #5a6a7a;
+          line-height: 1.7;
+          margin-bottom: 24px;
+          font-size: 16px;
+        }
+      }
+
+      .placeholder-block {
+        background: #f4f6f8;
+        border-radius: 12px;
+        height: 300px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #9aa5b4;
+        font-size: 14px;
+        margin-bottom: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="mn-topbar">
+      Family-run since 2009. Trusted by Rolls-Royce, KPMG, and Boots. Nationwide
+      delivery from the Midlands.
     </div>
 
-    <!-- What's your event? -->
-    <div class="cf_nav__item">
-      <a href="/events/">What's your event? <svg class="cf_nav__caret" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-      <div class="cf_nav__dropdown"><div class="cf_nav__dropdown__inner">
-        <div class="panel-columns">
-          <div>
-            <div class="panel-columns__header">
-              <img class="panel-columns__thumb" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E" alt="">
-              <a href="/events/corporate-events/" class="panel-columns__title">Corporate Events</a>
+    <div class="mn-wrap" id="main-nav">
+      <nav class="mn-bar">
+        <a href="/" class="mn-logo">
+          <img
+            src="https://www.funprouk.co.uk/assets/fun-pro-uk-logo.svg"
+            alt="Fun Pro UK"
+          />
+        </a>
+
+        <div class="mn-links">
+          <!-- How We Help -->
+          <div class="mn-item" data-has-drop>
+            <a href="/how-we-help/"
+              >How We Help
+              <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
+                <path
+                  d="M1 1L5 5L9 1"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                /></svg
+            ></a>
+            <div class="mn-drop">
+              <div class="mn-drop-inner">
+                <div class="mn-grid mn-grid--3x2">
+                  <a href="/categories/corporate-entertainment/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Corporate Entertainment</div></a
+                  >
+                  <a href="/categories/exhibition-games/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Exhibition Games</div></a
+                  >
+                  <a href="/events/brand-activation/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Brand Activation</div></a
+                  >
+                  <a href="/events/christmas-entertainment/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Christmas Entertainment</div></a
+                  >
+                  <a href="/categories/weddings/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">
+                      Luxury Wedding Entertainment
+                    </div></a
+                  >
+                  <a href="/events/team-building-entertainment/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">
+                      Team Building Entertainment
+                    </div></a
+                  >
+                </div>
+              </div>
             </div>
-            <ul>
-              <li><a href="/events/company-award-ceremonies/">Award Ceremonies</a></li>
-              <li><a href="/events/exhibition-games/">Exhibition Games</a></li>
-              <li><a href="/events/office-entertainment/">Office Entertainment</a></li>
-              <li><a href="/events/staff-wellbeing-days/">Corporate Wellbeing Days</a></li>
-              <li><a href="/events/conference-idea/">Conference Production</a></li>
-            </ul>
           </div>
-          <div>
-            <div class="panel-columns__header">
-              <img class="panel-columns__thumb" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E" alt="">
-              <a href="/events/celebrations-and-parties/" class="panel-columns__title">Celebrations &amp; Parties</a>
+
+          <!-- What's your event? -->
+          <div class="mn-item" data-has-drop>
+            <a href="/events/"
+              >What's your event?
+              <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
+                <path
+                  d="M1 1L5 5L9 1"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                /></svg
+            ></a>
+            <div class="mn-drop">
+              <div class="mn-drop-inner">
+                <div class="mn-cols">
+                  <div>
+                    <div class="mn-cols-header">
+                      <img
+                        class="mn-cols-thumb"
+                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                        alt=""
+                      />
+                      <a href="/events/corporate-events/" class="mn-cols-title"
+                        >Corporate Events</a
+                      >
+                    </div>
+                    <ul>
+                      <li>
+                        <a href="/events/company-award-ceremonies/"
+                          >Award Ceremonies</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/exhibition-games/">Exhibition Games</a>
+                      </li>
+                      <li>
+                        <a href="/events/office-entertainment/"
+                          >Office Entertainment</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/staff-wellbeing-days/"
+                          >Corporate Wellbeing Days</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/conference-idea/"
+                          >Conference Production</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <div>
+                    <div class="mn-cols-header">
+                      <img
+                        class="mn-cols-thumb"
+                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                        alt=""
+                      />
+                      <a
+                        href="/events/celebrations-and-parties/"
+                        class="mn-cols-title"
+                        >Celebrations &amp; Parties</a
+                      >
+                    </div>
+                    <ul>
+                      <li>
+                        <a href="/events/wedding-entertainment/"
+                          >Wedding Entertainment</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/summer-entertainment/"
+                          >Summer Entertainment</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/evening-entertainment/"
+                          >Evening Entertainment</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                  <div>
+                    <div class="mn-cols-header">
+                      <img
+                        class="mn-cols-thumb"
+                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                        alt=""
+                      />
+                      <a
+                        href="/events/educational-and-community/"
+                        class="mn-cols-title"
+                        >Educational &amp; Community</a
+                      >
+                    </div>
+                    <ul>
+                      <li>
+                        <a href="/events/university-events/"
+                          >University Events</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/college-entertainment/"
+                          >College Entertainment</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/family-fun-days/">Family Fun Days</a>
+                      </li>
+                      <li>
+                        <a href="/events/school-entertainment/"
+                          >School Entertainment</a
+                        >
+                      </li>
+                      <li>
+                        <a href="/events/fundraising-events/"
+                          >Fundraising Events</a
+                        >
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
             </div>
-            <ul>
-              <li><a href="/events/wedding-entertainment/">Wedding Entertainment</a></li>
-              <li><a href="/events/summer-entertainment/">Summer Entertainment</a></li>
-              <li><a href="/events/evening-entertainment/">Evening Entertainment</a></li>
-            </ul>
           </div>
-          <div>
-            <div class="panel-columns__header">
-              <img class="panel-columns__thumb" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E" alt="">
-              <a href="/events/educational-and-community/" class="panel-columns__title">Educational &amp; Community</a>
+
+          <!-- Entertainment hire -->
+          <div class="mn-item" data-has-drop>
+            <a href="/products/"
+              >Entertainment hire
+              <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
+                <path
+                  d="M1 1L5 5L9 1"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                /></svg
+            ></a>
+            <div class="mn-drop">
+              <div class="mn-drop-inner">
+                <div class="mn-grid mn-grid--4col">
+                  <a href="/categories/arcade-games/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Arcade Games</div></a
+                  >
+                  <a href="/categories/prize-games/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Prize Games</div></a
+                  >
+                  <a href="/categories/pub-games/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Pub Games</div></a
+                  >
+                  <a href="/categories/grab-a-grand/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Grab A Grand</div></a
+                  >
+                  <a href="/categories/batak/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Batak</div></a
+                  >
+                  <a href="/categories/roll-and-bowl/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23a05a5a' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Roll &amp; Bowl</div></a
+                  >
+                  <a href="/categories/fun-fair-stalls/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Fun Fair Stalls</div></a
+                  >
+                  <a href="/categories/fun-foods/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Fun Foods</div></a
+                  >
+                  <a href="/categories/christmas-grotto-hire/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23336655' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Christmas Grotto Hire</div></a
+                  >
+                  <a href="/categories/photo-booths-and-magic-mirrors/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%238866aa' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">
+                      Photo Booths &amp; Magic Mirrors
+                    </div></a
+                  >
+                  <a href="/categories/freshers-fair-games/"
+                    ><img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23cc8833' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">Freshers Fairs</div></a
+                  >
+                </div>
+              </div>
             </div>
-            <ul>
-              <li><a href="/events/university-events/">University Events</a></li>
-              <li><a href="/events/college-entertainment/">College Entertainment</a></li>
-              <li><a href="/events/family-fun-days/">Family Fun Days</a></li>
-              <li><a href="/events/school-entertainment/">School Entertainment</a></li>
-              <li><a href="/events/fundraising-events/">Fundraising Events</a></li>
-            </ul>
+          </div>
+
+          <!-- About us -->
+          <div class="mn-item" data-has-drop>
+            <a href="/about-corporate-entertainment-hire/"
+              >About us
+              <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
+                <path
+                  d="M1 1L5 5L9 1"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                /></svg
+            ></a>
+            <div class="mn-drop">
+              <div class="mn-drop-inner">
+                <div class="mn-about">
+                  <ul>
+                    <li><a href="/testimonials/">Testimonials</a></li>
+                    <li><a href="/locations/">Coverage Areas</a></li>
+                    <li><a href="/team/">Meet The Team</a></li>
+                    <li>
+                      <a href="/safety-and-insurance/"
+                        >Safety &amp; Insurance</a
+                      >
+                    </li>
+                    <li><a href="/case-studies/">Case Studies</a></li>
+                    <li><a href="/contact-fun-pro-uk/">Contact us</a></li>
+                  </ul>
+                  <a
+                    href="/about-corporate-entertainment-hire/"
+                    class="mn-about-feature"
+                  >
+                    <img
+                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E"
+                      alt=""
+                    />
+                    <div class="mn-card-label">About Fun Pro UK</div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- News -->
+          <div class="mn-item">
+            <a href="/news/">News</a>
           </div>
         </div>
-      </div></div>
-    </div>
 
-    <!-- Entertainment hire -->
-    <div class="cf_nav__item">
-      <a href="/products/">Entertainment hire <svg class="cf_nav__caret" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-      <div class="cf_nav__dropdown"><div class="cf_nav__dropdown__inner">
-        <div class="panel-grid panel-grid--4col">
-          <a href="/categories/arcade-games/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Arcade Games</div></a>
-          <a href="/categories/prize-games/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Prize Games</div></a>
-          <a href="/categories/pub-games/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Pub Games</div></a>
-          <a href="/categories/grab-a-grand/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Grab A Grand</div></a>
-          <a href="/categories/batak/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Batak</div></a>
-          <a href="/categories/roll-and-bowl/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23a05a5a' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Roll &amp; Bowl</div></a>
-          <a href="/categories/fun-fair-stalls/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Fun Fair Stalls</div></a>
-          <a href="/categories/fun-foods/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Fun Foods</div></a>
-          <a href="/categories/christmas-grotto-hire/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23336655' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Christmas Grotto Hire</div></a>
-          <a href="/categories/photo-booths-and-magic-mirrors/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%238866aa' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Photo Booths &amp; Magic Mirrors</div></a>
-          <a href="/categories/freshers-fair-games/"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23cc8833' width='100%25' height='100%25'/%3E%3C/svg%3E" alt=""><div class="card-label">Freshers Fairs</div></a>
-        </div>
-      </div></div>
-    </div>
+        <div class="mn-actions">
+          <a href="tel:+442477220701" class="mn-phone">0247 7220 701</a>
+          <a href="mailto:info@funprouk.co.uk" class="mn-email"
+            >info@funprouk.co.uk</a
+          >
+          <a href="/contact-fun-pro-uk/" class="mn-cta">Contact Us</a>
 
-    <!-- About us -->
-    <div class="cf_nav__item">
-      <a href="/about-corporate-entertainment-hire/">About us <svg class="cf_nav__caret" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-      <div class="cf_nav__dropdown"><div class="cf_nav__dropdown__inner">
-        <div class="panel-about">
-          <ul>
-            <li><a href="/testimonials/">Testimonials</a></li>
-            <li><a href="/locations/">Coverage Areas</a></li>
-            <li><a href="/team/">Meet The Team</a></li>
-            <li><a href="/safety-and-insurance/">Safety &amp; Insurance</a></li>
-            <li><a href="/case-studies/">Case Studies</a></li>
-            <li><a href="/contact-fun-pro-uk/">Contact us</a></li>
-          </ul>
-          <a href="/about-corporate-entertainment-hire/" class="panel-about__feature">
-            <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E" alt="">
-            <div class="card-label">About Fun Pro UK</div>
-          </a>
-        </div>
-      </div></div>
-    </div>
-
-    <!-- News -->
-    <div class="cf_nav__item">
-      <a href="/news/">News</a>
-    </div>
-  </div>
-
-  <div class="cf_nav__right">
-    <a href="tel:+442477220701" class="cf_nav__phone">0247 7220 701</a>
-    <a href="mailto:info@funprouk.co.uk" class="cf_nav__email">info@funprouk.co.uk</a>
-    <a href="/contact-fun-pro-uk/" class="cf_nav__cta">Contact Us</a>
-
-    <!-- Search -->
-    <div class="cf_nav__item">
-      <button class="cf_nav__icon-btn" aria-label="Search">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-      </button>
-      <div class="cf_nav__dropdown"><div class="cf_nav__dropdown__inner">
-        <div class="panel-search">
-          <div class="panel-search__input-wrap">
-            <input type="text" placeholder="Search games, events, categories…">
-            <button type="button">Search</button>
+          <div class="mn-item" data-has-drop>
+            <button class="mn-icon" aria-label="Search">
+              <svg
+                width="18"
+                height="18"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <circle cx="11" cy="11" r="8" />
+                <line x1="21" y1="21" x2="16.65" y2="16.65" />
+              </svg>
+            </button>
+            <div class="mn-drop">
+              <div class="mn-drop-inner">
+                <div class="mn-search">
+                  <div class="mn-search-row">
+                    <input
+                      type="text"
+                      placeholder="Search games, events, categories…"
+                    />
+                    <button type="button">Search</button>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
+
+          <button class="mn-icon mn-cart" aria-label="View cart">
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="9" cy="21" r="1" />
+              <circle cx="20" cy="21" r="1" />
+              <path
+                d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"
+              />
+            </svg>
+            <span class="mn-badge">0</span>
+          </button>
+
+          <button
+            class="mn-burger"
+            aria-label="Open menu"
+            onclick="
+              document.getElementById('mobileNav').classList.add('is-open')
+            "
+          >
+            <svg
+              width="22"
+              height="22"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+            >
+              <line x1="3" y1="6" x2="21" y2="6" />
+              <line x1="3" y1="12" x2="21" y2="12" />
+              <line x1="3" y1="18" x2="21" y2="18" />
+            </svg>
+          </button>
         </div>
-      </div></div>
+      </nav>
     </div>
 
-    <!-- Cart -->
-    <button class="cf_nav__icon-btn cf_nav__cart" aria-label="View cart">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>
-      <span class="cf_nav__cart-badge">0</span>
-    </button>
+    <!-- ════════════════════════════════════
+     MOBILE OVERLAY
+     ════════════════════════════════════ -->
+    <div class="mn-overlay" id="mobileNav">
+      <div class="mn-overlay-header">
+        <a href="/" class="mn-logo"
+          ><img
+            src="https://www.funprouk.co.uk/assets/fun-pro-uk-logo.svg"
+            alt="Fun Pro UK"
+        /></a>
+        <button
+          class="mn-overlay-close"
+          aria-label="Close menu"
+          onclick="
+            document.getElementById('mobileNav').classList.remove('is-open')
+          "
+        >
+          <svg
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+          >
+            <line x1="18" y1="6" x2="6" y2="18" />
+            <line x1="6" y1="6" x2="18" y2="18" />
+          </svg>
+        </button>
+      </div>
 
-    <!-- Hamburger (mobile only) -->
-    <button class="cf_nav__hamburger" aria-label="Open menu" onclick="document.getElementById('mobileNav').classList.add('is-open')">
-      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-    </button>
-  </div>
-</nav>
+      <div class="mn-accordion">
+        <button
+          class="mn-accordion-trigger"
+          onclick="this.parentElement.classList.toggle('is-open')"
+        >
+          How We Help
+          <svg viewBox="0 0 10 6" fill="none">
+            <path
+              d="M1 1L5 5L9 1"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+        <div class="mn-accordion-body">
+          <a href="/how-we-help/" class="mn-mob-parent"
+            >How We Help – Overview</a
+          >
+          <a href="/categories/corporate-entertainment/"
+            >Corporate Entertainment</a
+          >
+          <a href="/categories/exhibition-games/">Exhibition Games</a>
+          <a href="/events/brand-activation/">Brand Activation</a>
+          <a href="/events/christmas-entertainment/">Christmas Entertainment</a>
+          <a href="/categories/weddings/">Luxury Wedding Entertainment</a>
+          <a href="/events/team-building-entertainment/"
+            >Team Building Entertainment</a
+          >
+        </div>
+      </div>
 
-<!-- ════════════════════════════════
-     MOBILE OVERLAY NAV
-     ════════════════════════════════ -->
-<div class="cf_nav__mobile" id="mobileNav">
-  <div class="cf_nav__mobile__header">
-    <a href="/" class="cf_nav__logo"><span>●</span> Fun Pro UK</a>
-    <button class="cf_nav__mobile__close" aria-label="Close menu" onclick="document.getElementById('mobileNav').classList.remove('is-open')">
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-    </button>
-  </div>
+      <div class="mn-accordion">
+        <button
+          class="mn-accordion-trigger"
+          onclick="this.parentElement.classList.toggle('is-open')"
+        >
+          What's your event?
+          <svg viewBox="0 0 10 6" fill="none">
+            <path
+              d="M1 1L5 5L9 1"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+        <div class="mn-accordion-body">
+          <a href="/events/" class="mn-mob-parent">All Events – Overview</a>
+          <div class="mn-sub-heading">
+            <a href="/events/corporate-events/">Corporate Events</a>
+          </div>
+          <a href="/events/company-award-ceremonies/">Award Ceremonies</a>
+          <a href="/events/exhibition-games/">Exhibition Games</a>
+          <a href="/events/office-entertainment/">Office Entertainment</a>
+          <a href="/events/staff-wellbeing-days/">Corporate Wellbeing Days</a>
+          <a href="/events/conference-idea/">Conference Production</a>
+          <div class="mn-sub-heading">
+            <a href="/events/celebrations-and-parties/"
+              >Celebrations &amp; Parties</a
+            >
+          </div>
+          <a href="/events/wedding-entertainment/">Wedding Entertainment</a>
+          <a href="/events/summer-entertainment/">Summer Entertainment</a>
+          <a href="/events/evening-entertainment/">Evening Entertainment</a>
+          <div class="mn-sub-heading">
+            <a href="/events/educational-and-community/"
+              >Educational &amp; Community</a
+            >
+          </div>
+          <a href="/events/university-events/">University Events</a>
+          <a href="/events/college-entertainment/">College Entertainment</a>
+          <a href="/events/family-fun-days/">Family Fun Days</a>
+          <a href="/events/school-entertainment/">School Entertainment</a>
+          <a href="/events/fundraising-events/">Fundraising Events</a>
+        </div>
+      </div>
 
-  <!-- How We Help -->
-  <div class="mob-item">
-    <button class="mob-item__trigger" onclick="this.parentElement.classList.toggle('is-open')">
-      How We Help
-      <svg viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </button>
-    <div class="mob-item__body">
-      <a href="/categories/corporate-entertainment/">Corporate Entertainment</a>
-      <a href="/categories/exhibition-games/">Exhibition Games</a>
-      <a href="/events/brand-activation/">Brand Activation</a>
-      <a href="/events/christmas-entertainment/">Christmas Entertainment</a>
-      <a href="/categories/weddings/">Luxury Wedding Entertainment</a>
-      <a href="/events/team-building-entertainment/">Team Building Entertainment</a>
+      <div class="mn-accordion">
+        <button
+          class="mn-accordion-trigger"
+          onclick="this.parentElement.classList.toggle('is-open')"
+        >
+          Entertainment hire
+          <svg viewBox="0 0 10 6" fill="none">
+            <path
+              d="M1 1L5 5L9 1"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+        <div class="mn-accordion-body">
+          <a href="/products/" class="mn-mob-parent"
+            >All Entertainment – Overview</a
+          >
+          <a href="/categories/arcade-games/">Arcade Games</a>
+          <a href="/categories/prize-games/">Prize Games</a>
+          <a href="/categories/pub-games/">Pub Games</a>
+          <a href="/categories/grab-a-grand/">Grab A Grand</a>
+          <a href="/categories/batak/">Batak</a>
+          <a href="/categories/roll-and-bowl/">Roll &amp; Bowl</a>
+          <a href="/categories/fun-fair-stalls/">Fun Fair Stalls</a>
+          <a href="/categories/fun-foods/">Fun Foods</a>
+          <a href="/categories/christmas-grotto-hire/">Christmas Grotto Hire</a>
+          <a href="/categories/photo-booths-and-magic-mirrors/"
+            >Photo Booths &amp; Magic Mirrors</a
+          >
+          <a href="/categories/freshers-fair-games/">Freshers Fairs</a>
+        </div>
+      </div>
+
+      <div class="mn-accordion">
+        <button
+          class="mn-accordion-trigger"
+          onclick="this.parentElement.classList.toggle('is-open')"
+        >
+          About us
+          <svg viewBox="0 0 10 6" fill="none">
+            <path
+              d="M1 1L5 5L9 1"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </button>
+        <div class="mn-accordion-body">
+          <a href="/about-corporate-entertainment-hire/" class="mn-mob-parent"
+            >About Fun Pro UK</a
+          >
+          <a href="/testimonials/">Testimonials</a>
+          <a href="/locations/">Coverage Areas</a>
+          <a href="/team/">Meet The Team</a>
+          <a href="/safety-and-insurance/">Safety &amp; Insurance</a>
+          <a href="/case-studies/">Case Studies</a>
+          <a href="/contact-fun-pro-uk/">Contact us</a>
+        </div>
+      </div>
+
+      <div class="mn-accordion">
+        <a class="mn-accordion-trigger" href="/news/">News</a>
+      </div>
+
+      <div class="mn-overlay-contact">
+        <a href="tel:+442477220701">0247 7220 701</a>
+        <a href="mailto:info@funprouk.co.uk">info@funprouk.co.uk</a>
+        <a href="/contact-fun-pro-uk/" class="mn-cta">Contact Us</a>
+      </div>
     </div>
-  </div>
 
-  <!-- What's your event? -->
-  <div class="mob-item">
-    <button class="mob-item__trigger" onclick="this.parentElement.classList.toggle('is-open')">
-      What's your event?
-      <svg viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </button>
-    <div class="mob-item__body">
-      <div class="mob-sub-heading">Corporate Events</div>
-      <a href="/events/company-award-ceremonies/">Award Ceremonies</a>
-      <a href="/events/exhibition-games/">Exhibition Games</a>
-      <a href="/events/office-entertainment/">Office Entertainment</a>
-      <a href="/events/staff-wellbeing-days/">Corporate Wellbeing Days</a>
-      <a href="/events/conference-idea/">Conference Production</a>
-      <div class="mob-sub-heading">Celebrations &amp; Parties</div>
-      <a href="/events/wedding-entertainment/">Wedding Entertainment</a>
-      <a href="/events/summer-entertainment/">Summer Entertainment</a>
-      <a href="/events/evening-entertainment/">Evening Entertainment</a>
-      <div class="mob-sub-heading">Educational &amp; Community</div>
-      <a href="/events/university-events/">University Events</a>
-      <a href="/events/college-entertainment/">College Entertainment</a>
-      <a href="/events/family-fun-days/">Family Fun Days</a>
-      <a href="/events/school-entertainment/">School Entertainment</a>
-      <a href="/events/fundraising-events/">Fundraising Events</a>
+    <!-- Page content -->
+    <div class="page-content">
+      <h1>Corporate Event Hire Across the UK</h1>
+      <p>
+        Fun Pro UK is a family-run corporate entertainment company based in
+        Coventry, the geographic heart of England. For over 16 years, Colin and
+        Liz have been delivering interactive game hire, branded activations, and
+        fun food catering to clients nationwide.
+      </p>
+      <div class="placeholder-block">Hero Image Area</div>
+      <h1>Our Games</h1>
+      <p>
+        With 90+ games for hire, transparent published pricing, and nationwide
+        delivery from our central UK base, we make event planning
+        straightforward.
+      </p>
+      <div class="placeholder-block">Games Grid</div>
+      <h1>How It Works</h1>
+      <p>
+        Choose your games, get an instant quote, and we'll deliver, set up, and
+        collect. Our team handles everything so you can focus on enjoying your
+        event.
+      </p>
+      <div class="placeholder-block">Process Steps</div>
+      <h1>Testimonials</h1>
+      <p>
+        Don't just take our word for it — here's what our clients have to say
+        about working with Fun Pro UK.
+      </p>
+      <div class="placeholder-block">Reviews Carousel</div>
+      <h1>Get in Touch</h1>
+      <p>
+        Ready to plan your next event? Drop us a message and we'll get back to
+        you within 24 hours with a tailored quote.
+      </p>
+      <div class="placeholder-block">Contact Form</div>
     </div>
-  </div>
 
-  <!-- Entertainment hire -->
-  <div class="mob-item">
-    <button class="mob-item__trigger" onclick="this.parentElement.classList.toggle('is-open')">
-      Entertainment hire
-      <svg viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </button>
-    <div class="mob-item__body">
-      <a href="/categories/arcade-games/">Arcade Games</a>
-      <a href="/categories/prize-games/">Prize Games</a>
-      <a href="/categories/pub-games/">Pub Games</a>
-      <a href="/categories/grab-a-grand/">Grab A Grand</a>
-      <a href="/categories/batak/">Batak</a>
-      <a href="/categories/roll-and-bowl/">Roll &amp; Bowl</a>
-      <a href="/categories/fun-fair-stalls/">Fun Fair Stalls</a>
-      <a href="/categories/fun-foods/">Fun Foods</a>
-      <a href="/categories/christmas-grotto-hire/">Christmas Grotto Hire</a>
-      <a href="/categories/photo-booths-and-magic-mirrors/">Photo Booths &amp; Magic Mirrors</a>
-      <a href="/categories/freshers-fair-games/">Freshers Fairs</a>
-    </div>
-  </div>
+    <script>
+      /* ── Sticky hide-on-scroll ── */
+      {
+        const nav = document.querySelector("#main-nav");
+        if (nav) {
+          if (location.hash) {
+            nav.style.transition = "none";
+            nav.classList.add("nav-hidden");
+            requestAnimationFrame(() => {
+              nav.style.transition = "";
+            });
+          }
+          let lastY = scrollY;
+          let ticking = false;
+          document.addEventListener(
+            "scroll",
+            () => {
+              if (ticking) return;
+              ticking = true;
+              requestAnimationFrame(() => {
+                const y = scrollY;
+                nav.classList.toggle("nav-hidden", y > 0 && y > lastY);
+                lastY = y;
+                ticking = false;
+              });
+            },
+            { passive: true },
+          );
+        }
+      }
 
-  <!-- About us -->
-  <div class="mob-item">
-    <button class="mob-item__trigger" onclick="this.parentElement.classList.toggle('is-open')">
-      About us
-      <svg viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    </button>
-    <div class="mob-item__body">
-      <a href="/testimonials/">Testimonials</a>
-      <a href="/locations/">Coverage Areas</a>
-      <a href="/team/">Meet The Team</a>
-      <a href="/safety-and-insurance/">Safety &amp; Insurance</a>
-      <a href="/case-studies/">Case Studies</a>
-      <a href="/contact-fun-pro-uk/">Contact us</a>
-    </div>
-  </div>
+      /* ── Tablet: click-to-open dropdowns ── */
+      /* First tap on a link with dropdown: opens dropdown.
+   Second tap (dropdown already open): follows the link.
+   Tapping outside: closes all. */
+      {
+        const items = document.querySelectorAll(".mn-item[data-has-drop]");
+        const isTablet = () =>
+          window.innerWidth <= 1100 && window.innerWidth >= 769;
 
-  <!-- News -->
-  <div class="mob-item">
-    <a class="mob-item__trigger" href="/news/">News</a>
-  </div>
+        function closeAll(except) {
+          items.forEach((item) => {
+            if (item !== except) item.classList.remove("is-open");
+          });
+        }
 
-  <!-- Contact -->
-  <div class="mob-contact">
-    <a href="tel:+442477220701">0247 7220 701</a>
-    <a href="mailto:info@funprouk.co.uk">info@funprouk.co.uk</a>
-    <a href="/contact-fun-pro-uk/" class="cf_nav__cta">Contact Us</a>
-  </div>
-</div>
+        items.forEach((item) => {
+          const link = item.querySelector(":scope > a, :scope > button");
+          if (!link) return;
 
-<div class="hero">
-  <h1>Hover the menu items above</h1>
-  <p>Resize your browser to see tablet (769–1100px) and mobile (&lt;769px) layouts.</p>
-</div>
+          link.addEventListener("click", (e) => {
+            if (!isTablet()) return; // desktop: let hover + native click work
 
-<script>
-function positionDropdowns() {
-  const nav = document.querySelector('.cf_nav');
-  const r = nav.getBoundingClientRect();
-  document.documentElement.style.setProperty('--nav-left', r.left + 'px');
-  document.documentElement.style.setProperty('--nav-width', r.width + 'px');
-  document.documentElement.style.setProperty('--nav-bottom', r.bottom + 'px');
-}
-positionDropdowns();
-window.addEventListener('resize', positionDropdowns);
-window.addEventListener('scroll', positionDropdowns);
-</script>
+            if (item.classList.contains("is-open")) {
+              // already open — if it's a real link, let it navigate
+              if (link.tagName === "A" && link.getAttribute("href")) {
+                return; // follow the link
+              }
+            }
 
-</body>
+            // first tap — open dropdown
+            e.preventDefault();
+            closeAll(item);
+            item.classList.toggle("is-open");
+          });
+        });
+
+        // close on outside click
+        document.addEventListener("click", (e) => {
+          if (!isTablet()) return;
+          if (!e.target.closest(".mn-item[data-has-drop]")) {
+            closeAll();
+          }
+        });
+      }
+    </script>
+  </body>
 </html>
