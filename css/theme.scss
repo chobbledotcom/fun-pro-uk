@@ -1201,13 +1201,18 @@ body.horizontal-nav main {
 
         & > li:has(a[href="/events/"]) {
           & > ul {
-            width: 660px;
+            width: 990px;
           }
           &.expanded > ul {
             flex-direction: row;
             justify-content: space-between;
             & > li > a {
               font-weight: 500;
+              align-items: flex-start;
+              .image-wrapper {
+                width: 128px;
+                height: 128px;
+              }
             }
             & > li > ul {
               display: block;
@@ -1223,6 +1228,8 @@ body.horizontal-nav main {
               opacity: 1;
               transform: none;
               pointer-events: auto;
+              margin-left: 137px;
+              margin-top: -106px;
               .image-wrapper {
                 display: none;
               }
