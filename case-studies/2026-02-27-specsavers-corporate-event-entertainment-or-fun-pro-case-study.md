@@ -9,8 +9,6 @@ no_index: false
 redirect_from:
   - /specsavers-case-study/
 thumbnail: /images/fun-pro-specsavers.jpg
-subtitle: "Specsavers partnered with Fun Pro for three years, delivering
-  engaging branded entertainment across multiple UK corporate events. "
 ---
 # **Specsavers Case Study**
 
