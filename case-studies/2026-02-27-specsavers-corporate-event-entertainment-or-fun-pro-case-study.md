@@ -7,8 +7,20 @@ meta_description: Learn how Specsavers has partnered with Fun Pro for corporate
 layout: page
 no_index: false
 redirect_from:
-  - "/specsavers-case-study/"
+  - /specsavers-case-study/
 thumbnail: /images/fun-pro-specsavers.jpg
+subtitle: Specsavers, one of the UK’s most recognised high street brands in
+  optical and hearing care, partnered with Fun Pro to provide interactive
+  entertainment for corporate events across three consecutive years. The
+  collaboration began at a conference at the ICC Birmingham in 2022, where a
+  branded Grab a Grand machine and custom leaderboard created an engaging brand
+  activation for delegates.  Following the success of this event, other
+  Specsavers teams independently booked Fun Pro for additional gatherings,
+  including an evening celebration in Bedfordshire featuring games such as air
+  hockey, a dance machine, and a twin basketball game.  Across three events in
+  Birmingham, Bedfordshire, and Southampton, Fun Pro delivered more than 10
+  games, demonstrating reliable service and engaging entertainment that appealed
+  to diverse teams across the organisation.
 ---
 # **Specsavers Case Study**
 
