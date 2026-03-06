@@ -8,10 +8,39 @@ no_index: true
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fun Pro UK - Navigation</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <style>
+      /* Self-hosted DM Sans (matching main site) */
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 400;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-400-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-400-normal.woff") format("woff");
+      }
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 500;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-500-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-500-normal.woff") format("woff");
+      }
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 700;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-700-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-700-normal.woff") format("woff");
+      }
+    </style>
     <style>
       *,
       *::before,
@@ -1486,7 +1515,7 @@ no_index: true
                 ticking = false;
               });
             },
-            { passive: true },
+            { passive: true }
           );
         }
       }
