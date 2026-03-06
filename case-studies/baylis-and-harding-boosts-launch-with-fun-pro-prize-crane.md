@@ -1,5 +1,6 @@
 ---
 title: Baylis & Harding Prize Crane Launch
+subtitle: Custom-branded prize crane for product launch
 meta_title: Baylis & Harding Boosts Launch with Fun Pro Prize Crane
 meta_description: Discover how Baylis &amp; Harding wowed crowds at CBS Arena
   with Fun Pro’s custom-branded prize crane, driving engagement for their

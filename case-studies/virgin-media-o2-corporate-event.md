@@ -1,5 +1,6 @@
 ---
 title: Virgin Media O2 Corporate Event
+subtitle: Touring festival games across the UK
 meta_title: "Virgin Media O2 Corporate Events Case Study"
 meta_description: "Discover how Virgin Media O2 partnered with FunPro UK for three years to deliver engaging festival entertainment across multiple UK locations."
 layout: page

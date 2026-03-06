@@ -1,5 +1,6 @@
 ---
 title: Tilda Rice Across Multiple UK Mela Events
+subtitle: Queue-worthy brand activations at Mela festivals
 meta_title: "How Tilda Rice Created Queue-Worthy Mela Events | FunPro UK"
 meta_description: "Learn how FunPro UK helped Tilda Rice create irresistible brand experiences at UK Mela events, generating constant queues and repeat bookings nationwide."
 layout: page

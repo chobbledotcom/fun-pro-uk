@@ -1,5 +1,6 @@
 ---
 title: Poundland Student Activation Success
+subtitle: Last-minute fresher event delivered on time
 meta_title: "Poundland Student Activation Success | FunPro UK Case Study"
 meta_description: "Discover how Poundland Manchester boosted fresher engagement with FunPro&#39;s custom branded prize wheel, delivered at short notice for maximum impact."
 layout: page

@@ -1,5 +1,6 @@
 ---
 title: Kellanova World Health & Safety Week
+subtitle: Interactive games reinforcing workplace safety messages
 meta_title: "Kellanova World Health & Safety Week | Fun Pro UK Case Study"
 meta_description: "Discover how Kellanova transformed their World Health and Safety Week with custom-branded interactive games from Fun Pro UK reinforced crucial safety messages."
 layout: page
