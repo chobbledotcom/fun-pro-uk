@@ -694,6 +694,7 @@ body {
   }
   &.category {
     .category-content {
+      padding-bottom: var(--section-padding-half);
       h1 {
         margin: var(--section-padding-half) 0 8px 0;
       }
