@@ -1121,9 +1121,6 @@ body.horizontal-nav main {
       #nav-quote {
         display: none;
       }
-      .search-box {
-        display: none;
-      }
     }
 
     @include breakpoints.up("md") {
