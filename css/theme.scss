@@ -1010,6 +1010,19 @@ body.horizontal-nav main {
       line-height: 24px;
     }
 
+    .nav-search {
+      @include breakpoints.up("md") {
+        position: absolute;
+        bottom: 12px;
+        left: 80px;
+      }
+      @include breakpoints.up("lg") {
+        position: relative;
+        bottom: auto;
+        left: auto;
+      }
+    }
+
     .search-box {
       grid-area: search;
       display: flex;
