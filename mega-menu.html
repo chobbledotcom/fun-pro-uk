@@ -26,33 +26,6 @@ no_index: true
         </a>
 
         <div class="mn-links">
-          <!-- How We Help -->
-          <div class="mn-item" data-has-drop>
-            <a href="/how-we-help/"
-              >How We Help
-              <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
-                <path
-                  d="M1 1L5 5L9 1"
-                  stroke="currentColor"
-                  stroke-width="1.6"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                /></svg
-            ></a>
-            <div class="mn-drop">
-              <div class="mn-drop-inner">
-                <div class="mn-grid mn-grid--3x2">
-                  {%- include "mega-menu-card.html", url: "/categories/corporate-entertainment/", title: "Corporate Entertainment", thumbnail: "/images/products/racing-car-simulators/racing-car-simulators-1.jpg" -%}
-                  {%- include "mega-menu-card.html", url: "/categories/exhibition-games/", title: "Exhibition Games", thumbnail: "/images/products/batak-lite/batak-lite-5.jpg" -%}
-                  {%- include "mega-menu-card.html", url: "/events/brand-activation/", title: "Brand Activation", thumbnail: "/images/products/whack-a-mole-game-hire/00d6079f-4c95-487f-bebc-95264d2d4269.jpg" -%}
-                  {%- include "mega-menu-card.html", url: "/events/christmas-entertainment/", title: "Christmas Entertainment", thumbnail: "/images/events/20231209_213016.jpg" -%}
-                  {%- include "mega-menu-card.html", url: "/categories/weddings/", title: "Luxury Wedding Entertainment", thumbnail: "/images/products/magic-mirror/magic-mirror-5.jpg" -%}
-                  {%- include "mega-menu-card.html", url: "/events/team-building-entertainment/", title: "Team Building Entertainment", thumbnail: "/images/events/wipeout (2).jpg" -%}
-                </div>
-              </div>
-            </div>
-          </div>
-
           <!-- What's your event? -->
           <div class="mn-item" data-has-drop>
             <a href="/events/"
@@ -150,10 +123,10 @@ no_index: true
             </div>
           </div>
 
-          <!-- Entertainment hire -->
+          <!-- Product categories -->
           <div class="mn-item" data-has-drop>
             <a href="/products/"
-              >Entertainment hire
+              >Product categories
               <svg class="mn-caret" viewBox="0 0 10 6" fill="none">
                 <path
                   d="M1 1L5 5L9 1"
@@ -180,6 +153,11 @@ no_index: true
                 </div>
               </div>
             </div>
+          </div>
+
+          <!-- All products -->
+          <div class="mn-item">
+            <a href="/products/">All products</a>
           </div>
 
           <!-- About us -->
@@ -351,39 +329,6 @@ no_index: true
           class="mn-accordion-trigger"
           onclick="this.parentElement.classList.toggle('is-open')"
         >
-          How We Help
-          <svg viewBox="0 0 10 6" fill="none">
-            <path
-              d="M1 1L5 5L9 1"
-              stroke="currentColor"
-              stroke-width="1.6"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            />
-          </svg>
-        </button>
-        <div class="mn-accordion-body">
-          <a href="/how-we-help/" class="mn-mob-parent"
-            >How We Help – Overview</a
-          >
-          <a href="/categories/corporate-entertainment/"
-            >Corporate Entertainment</a
-          >
-          <a href="/categories/exhibition-games/">Exhibition Games</a>
-          <a href="/events/brand-activation/">Brand Activation</a>
-          <a href="/events/christmas-entertainment/">Christmas Entertainment</a>
-          <a href="/categories/weddings/">Luxury Wedding Entertainment</a>
-          <a href="/events/team-building-entertainment/"
-            >Team Building Entertainment</a
-          >
-        </div>
-      </div>
-
-      <div class="mn-accordion">
-        <button
-          class="mn-accordion-trigger"
-          onclick="this.parentElement.classList.toggle('is-open')"
-        >
           What's your event?
           <svg viewBox="0 0 10 6" fill="none">
             <path
@@ -431,7 +376,7 @@ no_index: true
           class="mn-accordion-trigger"
           onclick="this.parentElement.classList.toggle('is-open')"
         >
-          Entertainment hire
+          Product categories
           <svg viewBox="0 0 10 6" fill="none">
             <path
               d="M1 1L5 5L9 1"
@@ -444,7 +389,7 @@ no_index: true
         </button>
         <div class="mn-accordion-body">
           <a href="/products/" class="mn-mob-parent"
-            >All Entertainment – Overview</a
+            >All Product Categories</a
           >
           <a href="/categories/arcade-games/">Arcade Games</a>
           <a href="/categories/prize-games/">Prize Games</a>
@@ -460,6 +405,10 @@ no_index: true
           >
           <a href="/categories/freshers-fair-games/">Freshers Fairs</a>
         </div>
+      </div>
+
+      <div class="mn-accordion">
+        <a class="mn-accordion-trigger" href="/products/">All products</a>
       </div>
 
       <div class="mn-accordion">
