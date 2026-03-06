@@ -2030,7 +2030,7 @@ ul.items {
     align-items: flex-start;
     gap: 8px;
     border-radius: 8px;
-    width: 380px !important;
+    width: 338px !important;
     text-align: left;
     justify-content: start;
     & > * {
@@ -2067,6 +2067,7 @@ ul.items {
       gap: 32px;
       flex-wrap: nowrap;
       margin: calc(var(--gap-items) / 2) 0 var(--gap-items);
+      flex-grow: 1;
       li {
         gap: 0 !important;
         padding: 0 !important;
