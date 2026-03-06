@@ -1210,6 +1210,7 @@ body.horizontal-nav main {
             & > li > a {
               font-weight: 500;
               align-items: flex-start;
+              gap: 16px;
               .image-wrapper {
                 width: 128px;
                 height: 128px;
@@ -1229,10 +1230,15 @@ body.horizontal-nav main {
               opacity: 1;
               transform: none;
               pointer-events: auto;
-              margin-left: 137px;
+              margin-left: 145px;
               margin-top: -106px;
+              display: flex;
+              gap: 16px;
               .image-wrapper {
                 display: none;
+              }
+              a:hover {
+                font-weight: 400;
               }
             }
           }
@@ -1514,7 +1520,6 @@ article#content > section.homepage-intro {
 .testimonials-slider,
 .item-reviews,
 body.reviews,
-body.event,
 body.base {
   ul.items {
     @include list-reset;
@@ -2024,6 +2029,13 @@ ul.items {
   @include breakpoints.down("sm") {
     gap: var(--gap-items);
   }
+  width: calc(25% - 12px);
+  @include breakpoints.down("md") {
+    width: calc(50% - 16px);
+  }
+  @include breakpoints.down("sm") {
+    width: 100%;
+  }
   li {
     display: flex;
     flex-direction: column;
@@ -2084,12 +2096,6 @@ ul.items {
           white-space: wrap;
         }
       }
-    }
-    // 19px = 64px / 3 rows, ish
-    width: calc(33% - 19px);
-    @include breakpoints.down("md") {
-      // 8px = 16px / 2 rows
-      width: calc(50% - 16px);
     }
   }
   &.border {
