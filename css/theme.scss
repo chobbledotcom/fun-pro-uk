@@ -2029,13 +2029,6 @@ ul.items {
   @include breakpoints.down("sm") {
     gap: var(--gap-items);
   }
-  width: calc(25% - 12px);
-  @include breakpoints.down("md") {
-    width: calc(50% - 16px);
-  }
-  @include breakpoints.down("sm") {
-    width: 100%;
-  }
   li {
     display: flex;
     flex-direction: column;
@@ -2045,6 +2038,13 @@ ul.items {
     width: 338px !important;
     text-align: left;
     justify-content: start;
+    width: calc(25% - 12px);
+    @include breakpoints.down("md") {
+      width: calc(50% - 16px);
+    }
+    @include breakpoints.down("sm") {
+      width: 100%;
+    }
     & > * {
       margin: 0;
     }
