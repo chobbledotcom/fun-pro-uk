@@ -9,8 +9,6 @@ redirect_from:
   - /pages/baylis-and-harding-boosts-launch-with-fun-pro-prize-crane/
   - /baylis-and-harding-boosts-launch-with-fun-pro-prize-crane/
 thumbnail: /images/pages/fun-pro-custom-branded-game-hire.jpg
-subtitle: Baylis & Harding used Fun Pro’s custom-branded prize crane to attract
-  crowds and showcase Christmas products.
 no_index: false
 ---
 # How Baylis & Harding Created a Show-Stopping Product Launch with Fun Pro's Custom-Branded Prize Crane
