@@ -1,5 +1,6 @@
 ---
 title: Zoflora Conference Success
+subtitle: Branded Batak game at retail conference
 meta_title: "Zoflora Conference Success with Branded Interactive Games"
 meta_description: "See how Zoflora stood out at Home Bargains Conference with FunPro&#39;s custom-branded Batak game, achieving 5-star results and securing repeat bookings for 2025."
 layout: page
