@@ -7,6 +7,10 @@ layout: contact.html
 redirect_from:
   - /pages/contact-fun-pro-uk/
 no_index: false
+eleventyNavigation:
+  key: Contact us
+  parent: About us
+  order: 99
 ---
 # Contact Us
 
