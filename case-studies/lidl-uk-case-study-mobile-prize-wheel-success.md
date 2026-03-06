@@ -1,5 +1,6 @@
 ---
 title: Lidl UK Mobile Prize Wheel Success
+subtitle: Six in-store prize wheel promotions and counting
 meta_title: "Lidl UK Case Study: Mobile Prize Wheel Success"
 meta_description: "Discover how Lidl UK used Fun Pro&#39;s mobile prize wheel across 6 successful promotional events to boost customer engagement and create marketing content."
 layout: page
