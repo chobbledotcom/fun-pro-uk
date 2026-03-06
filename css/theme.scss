@@ -2331,7 +2331,7 @@ ol.steps {
 }
 
 .products-header {
-  padding: var(--section-padding-half) 0;
+  padding: var(--section-padding-half) 0 0;
 
   h1,
   h2 {
@@ -2351,6 +2351,7 @@ ol.steps {
   ol.steps {
     padding-left: 0;
     padding-right: 0;
+    padding-top: 0;
   }
 
   h1,
