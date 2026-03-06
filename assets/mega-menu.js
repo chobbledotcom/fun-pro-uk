@@ -2,6 +2,12 @@
 {
   const nav = document.querySelector("#main-nav");
   if (nav) {
+    const badge = nav.querySelector(".mn-badge");
+
+    function cartHasItems() {
+      return badge && parseInt(badge.textContent, 10) > 0;
+    }
+
     if (location.hash) {
       nav.style.transition = "none";
       nav.classList.add("nav-hidden");
@@ -18,7 +24,7 @@
         ticking = true;
         requestAnimationFrame(() => {
           const y = scrollY;
-          nav.classList.toggle("nav-hidden", y > 0 && y > lastY);
+          nav.classList.toggle("nav-hidden", y > 0 && y > lastY && !cartHasItems());
           lastY = y;
           ticking = false;
         });
@@ -36,6 +42,7 @@
   const items = document.querySelectorAll(".mn-item[data-has-drop]");
   const isTablet = () =>
     window.innerWidth <= 1100 && window.innerWidth >= 769;
+  const isMobile = () => window.innerWidth < 769;
 
   function closeAll(except) {
     items.forEach((item) => {
@@ -48,6 +55,15 @@
     if (!link) return;
 
     link.addEventListener("click", (e) => {
+      // On mobile, only handle search dropdown toggles
+      if (isMobile()) {
+        const hasDrop = item.querySelector(".mn-drop .mn-search");
+        if (!hasDrop) return;
+        e.preventDefault();
+        closeAll(item);
+        item.classList.toggle("is-open");
+        return;
+      }
       if (!isTablet()) return; // desktop: let hover + native click work
 
       if (item.classList.contains("is-open")) {
@@ -66,7 +82,7 @@
 
   // close on outside click
   document.addEventListener("click", (e) => {
-    if (!isTablet()) return;
+    if (!isTablet() && !isMobile()) return;
     if (!e.target.closest(".mn-item[data-has-drop]")) {
       closeAll();
     }
