@@ -8,10 +8,39 @@ no_index: true
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fun Pro UK - Navigation</title>
-    <link
-      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
+    <style>
+      /* Self-hosted DM Sans (matching main site) */
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 400;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-400-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-400-normal.woff") format("woff");
+      }
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 500;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-500-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-500-normal.woff") format("woff");
+      }
+      @font-face {
+        font-family: "DM Sans";
+        font-style: normal;
+        font-weight: 700;
+        font-stretch: 100%;
+        font-display: swap;
+        src:
+          url("/assets/fonts/dm-sans-latin-700-normal.woff2") format("woff2"),
+          url("/assets/fonts/dm-sans-latin-700-normal.woff") format("woff");
+      }
+    </style>
     <style>
       *,
       *::before,
@@ -823,52 +852,12 @@ no_index: true
             <div class="mn-drop">
               <div class="mn-drop-inner">
                 <div class="mn-grid mn-grid--3x2">
-                  <a href="/categories/corporate-entertainment/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Corporate Entertainment</div></a
-                  >
-                  <a href="/categories/exhibition-games/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Exhibition Games</div></a
-                  >
-                  <a href="/events/brand-activation/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Brand Activation</div></a
-                  >
-                  <a href="/events/christmas-entertainment/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Christmas Entertainment</div></a
-                  >
-                  <a href="/categories/weddings/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">
-                      Luxury Wedding Entertainment
-                    </div></a
-                  >
-                  <a href="/events/team-building-entertainment/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">
-                      Team Building Entertainment
-                    </div></a
-                  >
+                  {%- include "mega-menu-card.html", url: "/categories/corporate-entertainment/", title: "Corporate Entertainment", thumbnail: "/images/products/racing-car-simulators/racing-car-simulators-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/exhibition-games/", title: "Exhibition Games", thumbnail: "/images/products/batak-lite/batak-lite-5.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/events/brand-activation/", title: "Brand Activation", thumbnail: "/images/products/whack-a-mole-game-hire/00d6079f-4c95-487f-bebc-95264d2d4269.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/events/christmas-entertainment/", title: "Christmas Entertainment", thumbnail: "/images/events/20231209_213016.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/weddings/", title: "Luxury Wedding Entertainment", thumbnail: "/images/products/magic-mirror/magic-mirror-5.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/events/team-building-entertainment/", title: "Team Building Entertainment", thumbnail: "/images/events/wipeout (2).jpg" -%}
                 </div>
               </div>
             </div>
@@ -891,16 +880,7 @@ no_index: true
               <div class="mn-drop-inner">
                 <div class="mn-cols">
                   <div>
-                    <div class="mn-cols-header">
-                      <img
-                        class="mn-cols-thumb"
-                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                        alt=""
-                      />
-                      <a href="/events/corporate-events/" class="mn-cols-title"
-                        >Corporate Events</a
-                      >
-                    </div>
+                    {%- include "mega-menu-col-header.html", url: "/events/corporate-events/", title: "Corporate Events", thumbnail: "/images/events/corporate-events.jpg" -%}
                     <ul>
                       <li>
                         <a href="/events/company-award-ceremonies/"
@@ -928,18 +908,7 @@ no_index: true
                     </ul>
                   </div>
                   <div>
-                    <div class="mn-cols-header">
-                      <img
-                        class="mn-cols-thumb"
-                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                        alt=""
-                      />
-                      <a
-                        href="/events/celebrations-and-parties/"
-                        class="mn-cols-title"
-                        >Celebrations &amp; Parties</a
-                      >
-                    </div>
+                    {%- include "mega-menu-col-header.html", url: "/events/celebrations-and-parties/", title: "Celebrations &amp; Parties", thumbnail: "/images/events/celebrations-and-parties.jpg" -%}
                     <ul>
                       <li>
                         <a href="/events/wedding-entertainment/"
@@ -959,18 +928,7 @@ no_index: true
                     </ul>
                   </div>
                   <div>
-                    <div class="mn-cols-header">
-                      <img
-                        class="mn-cols-thumb"
-                        src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                        alt=""
-                      />
-                      <a
-                        href="/events/educational-and-community/"
-                        class="mn-cols-title"
-                        >Educational &amp; Community</a
-                      >
-                    </div>
+                    {%- include "mega-menu-col-header.html", url: "/events/educational-and-community/", title: "Educational &amp; Community", thumbnail: "/images/events/educational-and-community.jpg" -%}
                     <ul>
                       <li>
                         <a href="/events/university-events/"
@@ -1018,85 +976,17 @@ no_index: true
             <div class="mn-drop">
               <div class="mn-drop-inner">
                 <div class="mn-grid mn-grid--4col">
-                  <a href="/categories/arcade-games/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23e07850' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Arcade Games</div></a
-                  >
-                  <a href="/categories/prize-games/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%234a7fa5' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Prize Games</div></a
-                  >
-                  <a href="/categories/pub-games/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%237b5ea7' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Pub Games</div></a
-                  >
-                  <a href="/categories/grab-a-grand/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a9a6e' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Grab A Grand</div></a
-                  >
-                  <a href="/categories/batak/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c4a24e' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Batak</div></a
-                  >
-                  <a href="/categories/roll-and-bowl/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23a05a5a' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Roll &amp; Bowl</div></a
-                  >
-                  <a href="/categories/fun-fair-stalls/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23c45050' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Fun Fair Stalls</div></a
-                  >
-                  <a href="/categories/fun-foods/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Fun Foods</div></a
-                  >
-                  <a href="/categories/christmas-grotto-hire/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23336655' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Christmas Grotto Hire</div></a
-                  >
-                  <a href="/categories/photo-booths-and-magic-mirrors/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%238866aa' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">
-                      Photo Booths &amp; Magic Mirrors
-                    </div></a
-                  >
-                  <a href="/categories/freshers-fair-games/"
-                    ><img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%23cc8833' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
-                    />
-                    <div class="mn-card-label">Freshers Fairs</div></a
-                  >
+                  {%- include "mega-menu-card.html", url: "/categories/arcade-games/", title: "Arcade Games", thumbnail: "/images/products/retro-arcade-games/retro-arcade-games-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/prize-games/", title: "Prize Games", thumbnail: "/images/products/prize-wheel/prize-wheel-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/pub-games/", title: "Pub Games", thumbnail: "/images/products/shuffleboard-hire/shuffleboard-hire-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/grab-a-grand/", title: "Grab A Grand", thumbnail: "/images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-5.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/batak/", title: "Batak", thumbnail: "/images/products/batak-pro/batak-pro-5.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/roll-and-bowl/", title: "Roll &amp; Bowl", thumbnail: "/images/products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-5.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/fun-fair-stalls/", title: "Fun Fair Stalls", thumbnail: "/images/products/hook-a-duck/hook-a-duck-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/fun-foods/", title: "Fun Foods", thumbnail: "/images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/christmas-grotto-hire/", title: "Christmas Grotto Hire", thumbnail: "/images/products/christmas-grotto-1/christmas-grotto-1-1.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/photo-booths-and-magic-mirrors/", title: "Photo Booths &amp; Magic Mirrors", thumbnail: "/images/products/magic-mirror/magic-mirror-3.jpg" -%}
+                  {%- include "mega-menu-card.html", url: "/categories/freshers-fair-games/", title: "Freshers Fairs", thumbnail: "/images/products/inflatable-assault-courses/inflatable-assault-courses-1.jpg" -%}
                 </div>
               </div>
             </div>
@@ -1135,8 +1025,8 @@ no_index: true
                     class="mn-about-feature"
                   >
                     <img
-                      src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Crect fill='%235a7a9a' width='100%25' height='100%25'/%3E%3C/svg%3E"
-                      alt=""
+                      src="/images/home/about-us-right.png"
+                      alt="About Fun Pro UK"
                     />
                     <div class="mn-card-label">About Fun Pro UK</div>
                   </a>
@@ -1486,7 +1376,7 @@ no_index: true
                 ticking = false;
               });
             },
-            { passive: true },
+            { passive: true }
           );
         }
       }
