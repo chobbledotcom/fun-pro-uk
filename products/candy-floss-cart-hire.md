@@ -1,6 +1,6 @@
 ---
-title: Candy Floss Cart Hire
-subtitle: Freshly spun candy floss from a traditional cart
+title: Candy Floss and Popcorn Cart Hire
+subtitle: Freshly spun candy floss and warm pop corn from a traditional modern cart
 price: £450
 order: 50
 meta_title: Candy Floss Cart Hire - Sweet Treats for Every Events
