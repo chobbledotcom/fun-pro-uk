@@ -2974,7 +2974,7 @@ div.fun-pro-item {
   background: none;
   ol.breadcrumbs {
     padding: 0;
-    margin: 0 0 calc(var(--gap-items) / 2);
+    margin: calc(var(--gap-items) / 2) 0;
     li {
       margin: 0;
     }
