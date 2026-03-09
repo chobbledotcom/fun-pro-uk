@@ -87,4 +87,29 @@
       closeAll();
     }
   });
+
+  /* ── Desktop: hover-intent for search dropdown ──
+     Keeps the search dropdown open briefly when the mouse leaves
+     the .mn-item (e.g. passing over the Contact Us button on the
+     way to the search input). */
+  const searchItem = document.querySelector(
+    ".mn-actions .mn-item[data-has-drop]"
+  );
+  if (searchItem) {
+    let hideTimer = null;
+    const isDesktop = () => window.innerWidth > 1100;
+
+    searchItem.addEventListener("mouseenter", () => {
+      if (!isDesktop()) return;
+      clearTimeout(hideTimer);
+      searchItem.classList.add("is-open");
+    });
+
+    searchItem.addEventListener("mouseleave", () => {
+      if (!isDesktop()) return;
+      hideTimer = setTimeout(() => {
+        searchItem.classList.remove("is-open");
+      }, 300);
+    });
+  }
 }
