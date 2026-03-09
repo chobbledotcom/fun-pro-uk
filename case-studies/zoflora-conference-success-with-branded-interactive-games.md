@@ -1,15 +1,17 @@
 ---
 title: Zoflora Conference Success
 subtitle: Branded Batak game at retail conference
-meta_title: "Zoflora Conference Success with Branded Interactive Games"
-meta_description: "See how Zoflora stood out at Home Bargains Conference with FunPro&#39;s custom-branded Batak game, achieving 5-star results and securing repeat bookings for 2025."
+meta_title: Zoflora Conference Success with Branded Interactive Games
+meta_description: See how Zoflora stood out at Home Bargains Conference with
+  FunPro&#39;s custom-branded Batak game, achieving 5-star results and securing
+  repeat bookings for 2025.
 layout: page
 redirect_from:
-  - "/pages/zoflora-conference-success-with-branded-interactive-games/"
-  - "/zoflora-conference-success-with-branded-interactive-games/"
+  - /pages/zoflora-conference-success-with-branded-interactive-games/
+  - /zoflora-conference-success-with-branded-interactive-games/
 thumbnail: /images/pages/zoflora-interactive-games.jpg
+no_index: false
 ---
-
 # How Zoflora Captured Buyer Attention at Home Bargains Conference with Custom-Branded Interactive Games
 
 ![](/images/pages/zoflora-interactive-games.jpg)
@@ -39,10 +41,9 @@ Zoflora is a leading name in the UK household cleaning and disinfectants industr
 *   Straightforward setup with easy venue access at Liverpool Exhibition Centre
     
 *   5-star client satisfaction with service quality and professionalism
+    
 
 ## About Zoflora
-
-![](/images/pages/fun-pro-zoflora.jpg)
 
 Zoflora has built a reputation as one of Britain's most trusted household cleaning brands, with their distinctive concentrated disinfectants becoming a staple in homes throughout the UK. The brand's success lies in their ability to combine effective cleaning power with pleasant fragrances, transforming routine household tasks into more enjoyable experiences. As consumer preferences evolve and competition intensifies within the household cleaning sector, Zoflora understands the importance of maintaining strong relationships with major retailers.
 
