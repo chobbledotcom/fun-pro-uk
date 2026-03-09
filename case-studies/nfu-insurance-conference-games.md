@@ -1,15 +1,19 @@
 ---
 title: NFU Insurance Conference Games
 subtitle: Keeping conference delegates engaged between sessions
-meta_title: "Case Study | NFU Insurance Conference | Fun Pro UK"
-meta_description: "NFU Insurance chose us for their annual business conference entertainment, and we helped them turn the day into a success and keep staff and clients happy."
+meta_title: Case Study | NFU Insurance Conference | Fun Pro UK
+meta_description: NFU Insurance chose us for their annual business conference
+  entertainment, and we helped them turn the day into a success and keep staff
+  and clients happy.
 layout: page
 redirect_from:
-  - "/pages/nfu-insurance-conference-games/"
-  - "/nfu-insurance-conference-games/"
-thumbnail: /images/pages/businesspeople.png
+  - /pages/nfu-insurance-conference-games/
+  - /nfu-insurance-conference-games/
+thumbnail: /images/NFU.jpeg
+no_index: false
+gallery:
+  - /images/NFU.jpeg
 ---
-
 # NFU Insurance conference games
 
 Annual conferences can be pretty intense, with so much information to take in as you look back on the previous year and launch plans, products and projects for the years to come. Keeping your delegates involved, engaged and fresh can be a real challenge.
