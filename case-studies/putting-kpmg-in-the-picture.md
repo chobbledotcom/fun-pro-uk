@@ -1,15 +1,19 @@
 ---
 title: Putting KPMG in the Picture
 subtitle: Photo booth hire for annual awards night
-meta_title: "KPMG Annual Awards | Corporate Photo Booth Hire Nationwide"
-meta_description: "KPMG loved the service they received from Fun Pro UK when they booked out photo booths for their annual awards! Choose the best - make a booking today!"
+meta_title: KPMG Annual Awards | Corporate Photo Booth Hire Nationwide
+meta_description: KPMG loved the service they received from Fun Pro UK when they
+  booked out photo booths for their annual awards! Choose the best - make a
+  booking today!
 layout: page
 redirect_from:
-  - "/pages/putting-kpmg-in-the-picture/"
-  - "/putting-kpmg-in-the-picture/"
-thumbnail: /images/pages/businesspeople.png
+  - /pages/putting-kpmg-in-the-picture/
+  - /putting-kpmg-in-the-picture/
+thumbnail: /images/KPMGLogo_new-e1686087607475-1.png
+no_index: false
+gallery:
+  - /images/KPMGLogo_new-e1686087607475-1.png
 ---
-
 # Putting KPMG in the Picture
 
 The KPMG Annual Awards are a chance for staff from across the business and across the world to come together and recognise the best of the best.
