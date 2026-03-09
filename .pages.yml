@@ -177,13 +177,17 @@ content:
       - { name: featured, type: boolean, label: Featured }
       - name: products
         label: Products
-        type: reference
-        options:
-          collection: products
-          multiple: true
-          search: title
-          value: "{path}"
-          label: "{title}"
+        type: object
+        list: true
+        fields:
+          - name: product
+            label: Product
+            type: reference
+            options:
+              collection: products
+              search: title
+              value: "{path}"
+              label: "{title}"
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
@@ -263,13 +267,17 @@ content:
       - { name: order, type: number, label: Order }
       - name: products
         label: Products
-        type: reference
-        options:
-          collection: products
-          multiple: true
-          search: title
-          value: "{path}"
-          label: "{title}"
+        type: object
+        list: true
+        fields:
+          - name: product
+            label: Product
+            type: reference
+            options:
+              collection: products
+              search: title
+              value: "{path}"
+              label: "{title}"
       - { name: body, type: rich-text, label: Body }
       - name: below_products
         type: rich-text
