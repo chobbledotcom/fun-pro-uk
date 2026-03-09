@@ -833,6 +833,7 @@ body.one-column .quote-sidebar {
     }
     &.total {
       display: flex;
+      flex-wrap: wrap;
       justify-content: space-between;
       align-items: end;
       margin-top: calc(var(--gap-items) / 2);
@@ -3039,7 +3040,7 @@ div.fun-pro-item {
 }
 
 .mn-bar {
-  max-width: 1200px;
+  max-width: 1450px;
   margin: 0 auto;
   padding: 12px 24px;
   display: flex;
@@ -3095,18 +3096,22 @@ div.fun-pro-item {
   font-weight: 600;
   padding: 8px 16px;
   border-radius: 6px;
+  border: 1px solid transparent;
   text-decoration: none;
   white-space: nowrap;
   transition: background 0.2s;
+  box-shadow: none;
 
   &:hover {
     background: #c62828;
+    color: #fff;
+    font-weight: 600 !important;
   }
 }
 
 .mn-icon {
   background: none;
-  border: none;
+  border: 1px solid transparent;
   color: #5a6a7a;
   cursor: pointer;
   padding: 6px;
@@ -3123,25 +3128,35 @@ div.fun-pro-item {
   }
 }
 
+@media screen and (max-width: 768px) {
+  body.sticky-mobile-nav {
+    padding-top: 0;
+  }
+}
+
 .mn-cart {
-  position: relative;
+  position: static;
+
+  @media screen and (min-width: 769px) {
+    display: flex !important;
+  }
 }
 
 .mn-badge {
-  position: absolute;
-  top: -2px;
-  right: -2px;
   background: #e53935;
   color: #fff;
-  font-size: 9px;
+  font-size: 12px;
   font-weight: 700;
-  width: 16px;
-  height: 16px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   border: 2px solid #fff;
+  margin-left: -10px;
+  margin-top: -8px;
+  align-self: flex-start;
 }
 
 .mn-burger {
@@ -3165,6 +3180,9 @@ div.fun-pro-item {
       background 0.2s,
       color 0.2s;
     white-space: nowrap;
+    &:hover {
+      font-weight: 500 !important;
+    }
   }
 
   &:hover > a,
@@ -3320,7 +3338,7 @@ div.fun-pro-item {
 }
 
 .mn-cols-title {
-  font-weight: 700;
+  font-weight: 600;
   font-size: 14px;
   color: #1b2845;
   text-decoration: none;
@@ -3328,6 +3346,7 @@ div.fun-pro-item {
 
   &:hover {
     color: #e53935;
+    font-weight: 600 !important;
   }
 }
 
@@ -3416,6 +3435,7 @@ div.fun-pro-item {
 
   input[type="text"] {
     flex: 1;
+    margin: 0;
     padding: 10px 16px;
     border: 2px solid #e0e3e8;
     border-radius: 6px;
@@ -3430,10 +3450,12 @@ div.fun-pro-item {
   }
 
   button {
+    margin: 0;
     background: #e53935;
     color: #fff;
     border: none;
-    padding: 10px 24px;
+    height: 42px;
+    padding: 0 24px;
     border-radius: 6px;
     font-size: 14px;
     font-weight: 600;
@@ -3519,6 +3541,7 @@ div.fun-pro-item {
     background: none;
     border: none;
     color: #fff;
+    font-weight: 600;
   }
 
   svg {
@@ -3678,7 +3701,7 @@ div.fun-pro-item {
     display: flex;
     align-items: center;
     background: none;
-    border: none;
+    border: 1px solid transparent;
     color: #3a4a5c;
     cursor: pointer;
     padding: 6px;

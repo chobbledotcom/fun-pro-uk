@@ -241,7 +241,7 @@
       <a href="mailto:info@funprouk.co.uk" class="mn-email"
         >info@funprouk.co.uk</a
       >
-      <a href="/contact-fun-pro-uk/" class="mn-cta">Contact Us</a>
+      <a href="/contact-fun-pro-uk/" class="button mn-cta">Contact Us</a>
 
       <div class="mn-item" data-has-drop>
         <button class="mn-icon" aria-label="Search">
@@ -262,13 +262,15 @@
         <div class="mn-drop">
           <div class="mn-drop-inner">
             <div class="mn-search">
-              <div class="mn-search-row">
+              <form action="/search/" method="get" class="mn-search-row">
                 <input
-                  type="text"
+                  type="search"
+                  name="q"
                   placeholder="Search games, events, categories…"
+                  autocomplete="off"
                 />
-                <button type="button">Search</button>
-              </div>
+                <button type="submit">Search</button>
+              </form>
             </div>
           </div>
         </div>
@@ -291,7 +293,7 @@
             d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"
           />
         </svg>
-        <span class="mn-badge">0</span>
+        <span class="mn-badge cart-count">0</span>
       </button>
 
       <button
