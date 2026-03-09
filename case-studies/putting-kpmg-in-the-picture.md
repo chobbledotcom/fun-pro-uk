@@ -9,10 +9,7 @@ layout: page
 redirect_from:
   - /pages/putting-kpmg-in-the-picture/
   - /putting-kpmg-in-the-picture/
-thumbnail: /images/KPMGLogo_new-e1686087607475-1.png
 no_index: false
-gallery:
-  - /images/KPMGLogo_new-e1686087607475-1.png
 ---
 # Putting KPMG in the Picture
 
