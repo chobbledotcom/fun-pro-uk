@@ -3389,11 +3389,12 @@ div.fun-pro-item {
       text-decoration: none;
       padding: 6px 0;
       display: block;
-      font-weight: 500;
+      font-weight: 400;
       transition: color 0.15s;
 
       &:hover {
         color: #e53935;
+        font-weight: 400;
       }
     }
   }
