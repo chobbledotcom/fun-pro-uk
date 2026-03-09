@@ -275,94 +275,94 @@ below_products: >-
 
   *   Contact form
 products:
-  - products/whack-a-mole-game-hire.md
-  - products/scalextric-slot-car-racing.md
-  - products/snatch-it.md
-  - products/batak-lite.md
-  - products/batak-pro.md
-  - products/prize-crane-arcade-grabber.md
-  - products/branded-capsule-bin.md
-  - products/ballnado-grabber.md
-  - products/cash-grabber-machine-hire.md
-  - products/roll-and-bowl-game-hire.md
-  - products/retro-arcade-games.md
-  - products/prize-wheel.md
-  - products/plinko-game-hire.md
-  - products/crack-the-code-safe-cracker.md
-  - products/gold-bar-challenge.md
-  - products/the-vault.md
-  - products/racing-car-simulators.md
-  - products/pix-n-mix-hire.md
-  - products/electronic-dart-board.md
-  - products/dance-machine.md
-  - products/mega-wire-branded-game-hire-stand-alone.md
-  - products/beat-the-buzzer.md
-  - products/giant-buzz-wire.md
-  - products/virtual-pinball.md
-  - products/master-sniper.md
-  - products/2026-02-18-fast-feet.md
-  - products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
-  - products/8-lane-roll-and-bowl-donkey-derby.md
-  - products/danger-zone-strike-a-light-game-hire.md
-  - products/electronic-basket-ball-hire.md
-  - products/catch-it-reaction-ring-hire.md
-  - products/football-tables.md
-  - products/leader-board.md
-  - products/pluck-a-duck-racing.md
-  - products/top-doc-operation-game.md
-  - products/vr-race-car-simulator.md
-  - products/popcorn-machine-cart-hire.md
-  - products/air-hockey-table-hire.md
-  - products/bespoke-photo-booth-hire.md
-  - products/high-striker.md
-  - products/magic-mirror.md
-  - products/bungee-run.md
-  - products/climbing-wall.md
-  - products/corn-hole.md
-  - products/dash-and-grab-hungry-hippo-inflatable-game.md
-  - products/football-darts.md
-  - products/gladiator-duel.md
-  - products/human-table-football.md
-  - products/inflatable-assault-courses.md
-  - products/large-bouncy-castles.md
-  - products/super-slides.md
-  - products/total-wipe-out.md
-  - products/twin-axe-throwing.md
-  - products/coconut-shy-stall-hire.md
-  - products/hook-a-duck.md
-  - products/play-your-cards-right-stall-hire.md
-  - products/candy-floss-cart-hire.md
-  - products/crazy-golf.md
-  - products/table-tennis-hire.md
-  - products/target-ring-toss-hire.md
-  - products/8-lane-reindeer-racing.md
-  - products/candy-cane-megawire.md
-  - products/candy-cane-snatch-it.md
-  - products/casino-table-hire.md
-  - products/christmas-batak-lite.md
-  - products/christmas-batak-pro.md
-  - products/christmas-corn-holes.md
-  - products/whack-an-elf.md
-  - products/strike-a-snow-flake.md
-  - products/shuffleboard-hire.md
-  - products/roller-bowler.md
-  - products/roll-and-bowl-reindeer-racing-game-hire.md
-  - products/roll-and-bowl-donkey-derby.md
-  - products/rodeo-bull.md
-  - products/reindeer-nosenado-christmas-ballnado-hire.md
-  - products/red-carpet-and-4-gold-stanchions.md
-  - products/christmas-photo-booths.md
-  - products/giant-deck-chair-hire.md
-  - products/green-screen-photo-booths.md
-  - products/christmas-roller-bowler.md
-  - products/christmas-prize-crane.md
-  - products/giant-connect-4-game-hire.md
-  - products/giant-jenga-hire.md
-  - products/classic-photo-booths.md
-  - products/gold-cup-horse-racing.md
-  - products/ice-cream-van-hire.md
-  - products/christmas-grotto-2.md
-  - products/christmas-grotto-1.md
+  - product: products/whack-a-mole-game-hire.md
+  - product: products/scalextric-slot-car-racing.md
+  - product: products/snatch-it.md
+  - product: products/batak-lite.md
+  - product: products/batak-pro.md
+  - product: products/prize-crane-arcade-grabber.md
+  - product: products/branded-capsule-bin.md
+  - product: products/ballnado-grabber.md
+  - product: products/cash-grabber-machine-hire.md
+  - product: products/roll-and-bowl-game-hire.md
+  - product: products/retro-arcade-games.md
+  - product: products/prize-wheel.md
+  - product: products/plinko-game-hire.md
+  - product: products/crack-the-code-safe-cracker.md
+  - product: products/gold-bar-challenge.md
+  - product: products/the-vault.md
+  - product: products/racing-car-simulators.md
+  - product: products/pix-n-mix-hire.md
+  - product: products/electronic-dart-board.md
+  - product: products/dance-machine.md
+  - product: products/mega-wire-branded-game-hire-stand-alone.md
+  - product: products/beat-the-buzzer.md
+  - product: products/giant-buzz-wire.md
+  - product: products/virtual-pinball.md
+  - product: products/master-sniper.md
+  - product: products/2026-02-18-fast-feet.md
+  - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
+  - product: products/8-lane-roll-and-bowl-donkey-derby.md
+  - product: products/danger-zone-strike-a-light-game-hire.md
+  - product: products/electronic-basket-ball-hire.md
+  - product: products/catch-it-reaction-ring-hire.md
+  - product: products/football-tables.md
+  - product: products/leader-board.md
+  - product: products/pluck-a-duck-racing.md
+  - product: products/top-doc-operation-game.md
+  - product: products/vr-race-car-simulator.md
+  - product: products/popcorn-machine-cart-hire.md
+  - product: products/air-hockey-table-hire.md
+  - product: products/bespoke-photo-booth-hire.md
+  - product: products/high-striker.md
+  - product: products/magic-mirror.md
+  - product: products/bungee-run.md
+  - product: products/climbing-wall.md
+  - product: products/corn-hole.md
+  - product: products/dash-and-grab-hungry-hippo-inflatable-game.md
+  - product: products/football-darts.md
+  - product: products/gladiator-duel.md
+  - product: products/human-table-football.md
+  - product: products/inflatable-assault-courses.md
+  - product: products/large-bouncy-castles.md
+  - product: products/super-slides.md
+  - product: products/total-wipe-out.md
+  - product: products/twin-axe-throwing.md
+  - product: products/coconut-shy-stall-hire.md
+  - product: products/hook-a-duck.md
+  - product: products/play-your-cards-right-stall-hire.md
+  - product: products/candy-floss-cart-hire.md
+  - product: products/crazy-golf.md
+  - product: products/table-tennis-hire.md
+  - product: products/target-ring-toss-hire.md
+  - product: products/8-lane-reindeer-racing.md
+  - product: products/candy-cane-megawire.md
+  - product: products/candy-cane-snatch-it.md
+  - product: products/casino-table-hire.md
+  - product: products/christmas-batak-lite.md
+  - product: products/christmas-batak-pro.md
+  - product: products/christmas-corn-holes.md
+  - product: products/whack-an-elf.md
+  - product: products/strike-a-snow-flake.md
+  - product: products/shuffleboard-hire.md
+  - product: products/roller-bowler.md
+  - product: products/roll-and-bowl-reindeer-racing-game-hire.md
+  - product: products/roll-and-bowl-donkey-derby.md
+  - product: products/rodeo-bull.md
+  - product: products/reindeer-nosenado-christmas-ballnado-hire.md
+  - product: products/red-carpet-and-4-gold-stanchions.md
+  - product: products/christmas-photo-booths.md
+  - product: products/giant-deck-chair-hire.md
+  - product: products/green-screen-photo-booths.md
+  - product: products/christmas-roller-bowler.md
+  - product: products/christmas-prize-crane.md
+  - product: products/giant-connect-4-game-hire.md
+  - product: products/giant-jenga-hire.md
+  - product: products/classic-photo-booths.md
+  - product: products/gold-cup-horse-racing.md
+  - product: products/ice-cream-van-hire.md
+  - product: products/christmas-grotto-2.md
+  - product: products/christmas-grotto-1.md
 ---
 # Trusted Interactive Game Hire in the UK
 
