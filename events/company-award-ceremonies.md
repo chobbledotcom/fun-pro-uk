@@ -16,12 +16,12 @@ eleventyNavigation:
   parent: Corporate Events
   order: 1
 products:
-  - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
   - product: products/2026-02-18-fast-feet.md
+  - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
   - product: products/8-lane-roll-and-bowl-donkey-derby.md
   - product: products/air-hockey-table-hire.md
-  - product: products/ballnado-grabber.md
   - product: products/batak-lite.md
+  - product: products/ballnado-grabber.md
   - product: products/batak-pro.md
   - product: products/beat-the-buzzer.md
   - product: products/bespoke-photo-booth-hire.md
