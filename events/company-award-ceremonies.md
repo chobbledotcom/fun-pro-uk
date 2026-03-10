@@ -15,6 +15,55 @@ eleventyNavigation:
   key: Award Ceremonies
   parent: Corporate Events
   order: 1
+products:
+  - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
+  - product: products/2026-02-18-fast-feet.md
+  - product: products/8-lane-roll-and-bowl-donkey-derby.md
+  - product: products/air-hockey-table-hire.md
+  - product: products/ballnado-grabber.md
+  - product: products/batak-lite.md
+  - product: products/batak-pro.md
+  - product: products/beat-the-buzzer.md
+  - product: products/bespoke-photo-booth-hire.md
+  - product: products/branded-capsule-bin.md
+  - product: products/casino-table-hire.md
+  - product: products/catch-it-reaction-ring-hire.md
+  - product: products/classic-photo-booths.md
+  - product: products/corn-hole.md
+  - product: products/crack-the-code-safe-cracker.md
+  - product: products/crazy-golf.md
+  - product: products/dance-machine.md
+  - product: products/danger-zone-strike-a-light-game-hire.md
+  - product: products/danger-zone-strike-a-light-game-hire.md
+  - product: products/electronic-basket-ball-hire.md
+  - product: products/electronic-dart-board.md
+  - product: products/giant-buzz-wire.md
+  - product: products/football-tables.md
+  - product: products/2026-02-18-fast-feet.md
+  - product: products/gold-bar-challenge.md
+  - product: products/gold-cup-horse-racing.md
+  - product: products/green-screen-photo-booths.md
+  - product: products/high-striker.md
+  - product: products/leader-board.md
+  - product: products/magic-mirror.md
+  - product: products/master-sniper.md
+  - product: products/mega-wire-branded-game-hire-stand-alone.md
+  - product: products/pix-n-mix-hire.md
+  - product: products/plinko-game-hire.md
+  - product: products/prize-crane-arcade-grabber.md
+  - product: products/prize-wheel.md
+  - product: products/racing-car-simulators.md
+  - product: products/retro-arcade-games.md
+  - product: products/roll-and-bowl-donkey-derby.md
+  - product: products/roller-bowler.md
+  - product: products/scalextric-slot-car-racing.md
+  - product: products/shuffleboard-hire.md
+  - product: products/snatch-it.md
+  - product: products/table-tennis-hire.md
+  - product: products/the-vault.md
+  - product: products/vr-race-car-simulator.md
+  - product: products/whack-a-mole-game-hire.md
+  - product: products/candy-floss-cart-hire.md
 ---
 # Company Award Ceremony Entertainment Hire
 
