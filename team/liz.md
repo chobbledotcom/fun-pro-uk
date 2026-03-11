@@ -1,8 +1,9 @@
 ---
 title: Liz
-snippet: Sale Director
+snippet: Sales Director
 thumbnail: /images/team/Liz.jpg
-image: /images/team/Liz.jpg
+gallery:
+  - /images/team/Liz V2.jpg
 ---
 # Liz
 
