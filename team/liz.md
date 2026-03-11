@@ -1,9 +1,8 @@
 ---
 title: Liz
 snippet: Sales Director
-thumbnail: /images/team/Liz.jpg
-gallery:
-  - /images/team/Liz V2.jpg
+thumbnail: /images/team/Liz V2.jpg
+image: /images/team/Liz V2.jpg
 ---
 # Liz
 
