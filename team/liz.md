@@ -2,6 +2,7 @@
 title: Liz
 snippet: Sale Director
 thumbnail: /images/team/Liz.jpg
+image: /images/team/Liz.jpg
 ---
 # Liz
 
