@@ -1,7 +1,7 @@
 ---
 title: Electronic Dart Board
 subtitle: Soft-tip electronic dartboard with automatic scoring
-price: £495
+price: £595
 order: 50
 meta_title: Electronic Dart Board Hire UK | Corporate Events | Fun Pro
 meta_description: Professional electronic dart boards with automatic scoring for
@@ -74,8 +74,20 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 495
+    unit_price: 595
     days: 1
+  - name: 2 Day
+    max_quantity: 10
+    unit_price: 895
+    days: 1
+  - name: 3 Day
+    max_quantity: 10
+    unit_price: 1019
+    days: 3
+  - name: 7 Day
+    max_quantity: 10
+    unit_price: 1519
+    days: 7
 redirect_from:
   - /category/arcade-games/106/electronic-dart-board/
 gallery:
@@ -118,8 +130,8 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: "&pound;195 + VAT"
-      price: 195
+    - name: Full Branding to the both sides and front.
+      price: 275
 tabs:
   - title: Why Electronic Dart Board?
     image: /images/products/electronic-dart-board/electronic-dart-board-3.jpg
