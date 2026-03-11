@@ -33,7 +33,19 @@ Since 2009, we've been supplying games directly into offices across the UK. We'v
 **Office Christmas parties** — We supply [Christmas-themed games](/events/christmas-entertainment) to offices every December, from [Reindeer Roll n Bowl](/products/roll-and-bowl-reindeer-racing-game-hire) to [Christmas photo booths](/products/christmas-photo-booths).
 
 ```markdown
-<details> </Read More>
+<details>
+
+<Why It Works in an Office Setting
+
+Office entertainment doesn't need to take over the whole building. Most of our games run off a single plug socket and fit into a standard meeting room. We deliver, set up and collect — you don't need to assemble anything or clear it away afterwards.
+
+Games in the workplace help people from different departments actually talk to each other. The people you only ever see in meetings turn out to be fiercely competitive at Batak, or quietly brilliant at crazy golf. That carries back into how teams work together afterwards.
+
+We can also add fun food options like pick 'n' mix stands, popcorn or candy floss to round out the day — all from the same booking.
+
+Custom Branding for Office Events
+
+If you're running an internal campaign, product launch or company milestone, we offer in-house branding on any game. Your logo, colours and messaging applied to the equipment and removed when we collect. Useful for making an internal event feel like a proper occasion.</summary>
 ```
 
 ## Why It Works in an Office Setting
