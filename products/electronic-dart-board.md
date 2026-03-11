@@ -79,7 +79,7 @@ options:
   - name: 2 Day
     max_quantity: 10
     unit_price: 895
-    days: 1
+    days: 2
   - name: 3 Day
     max_quantity: 10
     unit_price: 1019
