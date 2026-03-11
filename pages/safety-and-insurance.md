@@ -40,4 +40,4 @@ Fun Pro UK also carries comprehensive insurance cover, giving our clients confid
 
 Our experienced team is trained in the safe delivery, setup, and operation of all equipment. We follow strict procedures during installation to ensure everything is set up securely and operates safely throughout your event.
 
-If you require copies of our insurance certificates, risk assessments, method statements, or PAT testing documentation, our team will be happy to provide them upon request.
+If you require copies of our insurance certificates, risk assessments, method statements, or PAT testing documentation, our team will be happy to provide them once your booking has been confirmed.
