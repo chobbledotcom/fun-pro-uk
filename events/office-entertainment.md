@@ -32,7 +32,7 @@ Since 2009, we've been supplying games directly into offices across the UK. We'v
 
 **Office Christmas parties** — We supply [Christmas-themed games](/events/christmas-entertainment) to offices every December, from [Reindeer Roll n Bowl](/products/roll-and-bowl-reindeer-racing-game-hire) to [Christmas photo booths](/products/christmas-photo-booths).
 
-<Why It Works in an Office Setting><Readmore>
+<TESTING><Read More>
 
 ## Why It Works in an Office Setting
 
