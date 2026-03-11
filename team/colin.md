@@ -1,8 +1,8 @@
 ---
 title: Colin
 snippet: Managing Director
-image: /images/team/Colin.jpg
-thumbnail: /images/team/Colin.jpg
+image: /images/team/Colin V2.jpg
+thumbnail: /images/team/Colin V2.jpg
 ---
 # Colin
 
