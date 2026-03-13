@@ -16,8 +16,8 @@ eleventyNavigation:
   parent: Corporate Events
   order: 1
 products:
-  - product: products/2026-02-18-fast-feet.md
   - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
+  - product: products/2026-02-18-fast-feet.md
   - product: products/8-lane-roll-and-bowl-donkey-derby.md
   - product: products/air-hockey-table-hire.md
   - product: products/batak-lite.md
@@ -34,12 +34,10 @@ products:
   - product: products/crazy-golf.md
   - product: products/dance-machine.md
   - product: products/danger-zone-strike-a-light-game-hire.md
-  - product: products/danger-zone-strike-a-light-game-hire.md
   - product: products/electronic-basket-ball-hire.md
   - product: products/electronic-dart-board.md
   - product: products/giant-buzz-wire.md
   - product: products/football-tables.md
-  - product: products/2026-02-18-fast-feet.md
   - product: products/gold-bar-challenge.md
   - product: products/gold-cup-horse-racing.md
   - product: products/green-screen-photo-booths.md
