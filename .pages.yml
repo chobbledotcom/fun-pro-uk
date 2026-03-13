@@ -67,6 +67,7 @@ content:
     path: products
     type: collection
     subfolders: false
+    filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
       - { name: subtitle, type: string, label: Subtitle }

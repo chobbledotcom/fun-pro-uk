@@ -300,8 +300,8 @@ products:
   - product: products/giant-buzz-wire.md
   - product: products/virtual-pinball.md
   - product: products/master-sniper.md
-  - product: products/2026-02-18-fast-feet.md
-  - product: products/2026-02-16-giant-gashapon-capsule-vending-machine-hire.md
+  - product: products/fast-feet.md
+  - product: products/giant-gashapon-capsule-vending-machine-hire.md
   - product: products/8-lane-roll-and-bowl-donkey-derby.md
   - product: products/danger-zone-strike-a-light-game-hire.md
   - product: products/electronic-basket-ball-hire.md
