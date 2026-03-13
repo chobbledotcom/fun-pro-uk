@@ -2774,6 +2774,11 @@ body {
   }
 }
 
+body.team ul.items li .image-link {
+  aspect-ratio: 1;
+  margin: 24px 0 0;
+}
+
 div.fun-pro-item {
   background: #fafafa;
   padding-top: var(--gap-items);
