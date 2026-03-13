@@ -1,0 +1,10 @@
+{%- if item.data.thumbnail -%}
+  {%- if item.data.tags contains "team" -%}
+    {%- assign _aspect_ratio = "1/1" -%}
+  {%- else -%}
+    {%- assign _aspect_ratio = config.products.item_list_aspect_ratio -%}
+  {%- endif -%}
+  <a class="image-link" href="{{ item.url }}{{ config.internal_link_suffix }}" aria-hidden="true" tabindex="-1">
+    {%- image item.data.thumbnail, "", "", "", "", _aspect_ratio -%}
+  </a>
+{%- endif -%}
