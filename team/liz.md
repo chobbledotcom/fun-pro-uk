@@ -1,6 +1,6 @@
 ---
 title: Liz
-snippet: Sales Director
+subtitle: Sales Director
 thumbnail: /images/team/Liz V2.jpg
 image: /images/team/Liz V2.jpg
 ---
