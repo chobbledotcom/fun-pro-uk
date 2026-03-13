@@ -2768,6 +2768,10 @@ body {
         margin-top: 0;
         li {
           @include card;
+          .image-link {
+            aspect-ratio: 1;
+            margin: 24px 0 0;
+          }
         }
       }
     }
