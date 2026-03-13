@@ -2758,7 +2758,8 @@ aritcle > .faqs-container {
 body {
   &.event,
   &.products,
-  &.category {
+  &.category,
+  &.team {
     article#content {
       .prose {
         padding: var(--section-padding-half) 0;
