@@ -1,6 +1,6 @@
 ---
 title: Mary
-thumbnail: /images/team/Mary.jpg
+thumbnail: /images/team/Mary V2.jpg
 snippet: "Sales Assistant "
 image: /images/team/Mary V2.jpg
 ---
