@@ -132,6 +132,34 @@ below_products: >-
   We deliver nationwide and can typically turn around bookings within 2-3 weeks,
   though for major trade shows we'd recommend getting in touch earlier to secure
   your first-choice games.
+products:
+  - product: products/batak-lite.md
+  - product: products/batak-pro.md
+  - product: products/electronic-dart-board.md
+  - product: products/ballnado-grabber.md
+  - product: products/cash-grabber-machine-hire.md
+  - product: products/catch-it-reaction-ring-hire.md
+  - product: products/giant-gashapon-capsule-vending-machine-hire.md
+  - product: products/prize-crane-arcade-grabber.md
+  - product: products/prize-wheel.md
+  - product: products/fast-feet.md
+  - product: products/mega-wire-branded-game-hire-stand-alone.md
+  - product: products/giant-buzz-wire.md
+  - product: products/beat-the-buzzer.md
+  - product: products/crack-the-code-safe-cracker.md
+  - product: products/plinko-game-hire.md
+  - product: products/scalextric-slot-car-racing.md
+  - product: products/snatch-it.md
+  - product: products/danger-zone-strike-a-light-game-hire.md
+  - product: products/high-striker.md
+  - product: products/leader-board.md
+  - product: products/pix-n-mix-hire.md
+  - product: products/retro-arcade-games.md
+  - product: products/racing-car-simulators.md
+  - product: products/roll-and-bowl-game-hire.md
+  - product: products/roller-bowler.md
+  - product: products/the-vault.md
+  - {}
 ---
 # Planning Exhibition Stand Entertainment
 
