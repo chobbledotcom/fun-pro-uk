@@ -133,6 +133,7 @@ below_products: >-
   though for major trade shows we'd recommend getting in touch earlier to secure
   your first-choice games.
 products:
+  - product: products/whack-a-mole-game-hire.md
   - product: products/batak-lite.md
   - product: products/batak-pro.md
   - product: products/electronic-dart-board.md
@@ -159,6 +160,11 @@ products:
   - product: products/roll-and-bowl-game-hire.md
   - product: products/roller-bowler.md
   - product: products/the-vault.md
+  - product: products/football-tables.md
+  - product: products/table-tennis-hire.md
+  - product: products/top-doc-operation-game.md
+  - product: products/virtual-pinball.md
+  - product: products/vr-race-car-simulator.md
   - {}
 ---
 # Planning Exhibition Stand Entertainment
