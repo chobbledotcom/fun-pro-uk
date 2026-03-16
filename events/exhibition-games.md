@@ -165,6 +165,9 @@ products:
   - product: products/top-doc-operation-game.md
   - product: products/virtual-pinball.md
   - product: products/vr-race-car-simulator.md
+  - product: products/branded-capsule-bin.md
+  - product: products/hook-a-duck.md
+  - product: products/electronic-basket-ball-hire.md
   - {}
 ---
 # Planning Exhibition Stand Entertainment
