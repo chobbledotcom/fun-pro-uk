@@ -229,5 +229,5 @@ faqs:
   - question: Does it need power?
     answer: No, football tables require no power, giving you flexibility with
       positioning.
-thumbnail: /images/products/football-tables/football-tables-6.jpg
+thumbnail: /images/products/football-tables/IMG-20240304-WA0024.jpg
 ---
