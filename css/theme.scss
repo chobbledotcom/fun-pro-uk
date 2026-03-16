@@ -2038,10 +2038,10 @@ ul.items {
     text-align: left;
     justify-content: start;
     width: calc(25% - 12px);
-    @include breakpoints.down("lg") {
+    @include breakpoints.down("xl") {
       width: calc(33.333% - 12px);
     }
-    @include breakpoints.down("md") {
+    @include breakpoints.down("lg") {
       width: calc(50% - 16px);
     }
     @include breakpoints.down("sm") {
