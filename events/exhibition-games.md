@@ -167,7 +167,6 @@ products:
   - product: products/vr-race-car-simulator.md
   - product: products/branded-capsule-bin.md
   - product: products/electronic-basket-ball-hire.md
-  - product: products/8-lane-reindeer-racing.md
   - product: products/air-hockey-table-hire.md
   - product: products/dance-machine.md
 ---
