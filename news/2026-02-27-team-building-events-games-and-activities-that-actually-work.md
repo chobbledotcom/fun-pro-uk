@@ -34,6 +34,7 @@ faqs:
       book quickly. For peak periods, six to eight weeks' notice is advisable.
       Quieter times offer more flexibility, though two to three weeks remains
       sensible for logistics planning.
+thumbnail: /images/team-building-events-ideas.png
 gallery:
   - /images/team-building-events-ideas.png
 subtitle: "Team building events have earned something of a mixed reputation.

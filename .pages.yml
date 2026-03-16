@@ -226,7 +226,7 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
-      - { name: subtitle, type: string, label: Subtitle }
+      - { name: subtitle, type: string, label: Excerpt }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
