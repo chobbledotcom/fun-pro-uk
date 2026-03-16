@@ -3744,3 +3744,7 @@ div.fun-pro-item {
     pointer-events: auto;
   }
 }
+
+body.news-archive ul.items li p {
+  min-height: 0;
+}
