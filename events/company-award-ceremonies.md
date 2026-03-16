@@ -27,6 +27,7 @@ products:
   - product: products/leader-board.md
   - product: products/ballnado-grabber.md
   - product: products/catch-it-reaction-ring-hire.md
+  - product: products/the-vault.md
   - product: products/crack-the-code-safe-cracker.md
   - product: products/gold-bar-challenge.md
   - product: products/danger-zone-strike-a-light-game-hire.md
@@ -57,7 +58,6 @@ products:
   - product: products/shuffleboard-hire.md
   - product: products/snatch-it.md
   - product: products/table-tennis-hire.md
-  - product: products/the-vault.md
   - product: products/vr-race-car-simulator.md
   - product: products/whack-a-mole-game-hire.md
   - product: products/candy-floss-cart-hire.md
