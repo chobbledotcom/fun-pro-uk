@@ -2566,6 +2566,9 @@ aritcle > .faqs-container {
   }
 
   .design-system & {
+    @include breakpoints.down("md") {
+      gap: 0;
+    }
     @include breakpoints.up("lg") {
       flex-direction: row;
     }
