@@ -2565,6 +2565,12 @@ aritcle > .faqs-container {
     gap: var(--gap-items);
   }
 
+  .design-system & {
+    @include breakpoints.up("lg") {
+      flex-direction: row;
+    }
+  }
+
   .faqs-column {
     flex: 1;
     margin: 0;
