@@ -1,7 +1,7 @@
 ---
 title: Casino Table Hire
 subtitle: Roulette, blackjack and poker tables with croupiers
-order: 50
+order: 2
 meta_title: Casino Table Hire , Roulette, Blackjack Tables, Casino Nights Party
 meta_description: Host a thrilling casino night with our casino party hire.
   Perfect for corporate events, fun days, and parties. Casino tables delivered

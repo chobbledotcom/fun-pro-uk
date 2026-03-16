@@ -2,7 +2,7 @@
 title: Batak Pro Hire
 subtitle: Advanced reaction-speed target game
 price: £495
-order: 2
+order: 1
 meta_title: Batak Pro Game Hire | Corporate Engagement | Interactive Game
 meta_description: Hire Batak Pro for Corporate events, conferences &amp;
   parties. Engage guests with this high-energy reaction game. Book now for a
