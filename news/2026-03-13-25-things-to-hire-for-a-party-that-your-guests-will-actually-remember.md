@@ -1,7 +1,9 @@
 ---
 title: 25 Things to Hire for a Party That Your Guests Will Actually Remember
+subtitle: "Planning a party can feel like a juggling act. You have the venue sorted, the food organised, and the guest list finalised, but something is still missing..."
 date: 2026-03-13
 author: team/colin.md
+thumbnail: /images/hire-for-a-party-game-fun-pro.png
 meta_title: "25 Things to Hire for a Party | Ideas for Every Event Type "
 meta_description: Discover 25 party hire ideas for corporate events,
   celebrations and more. From racing simulators to photo booths, find the right
