@@ -37,5 +37,6 @@
 		"what-you-get.html",
 		"faq.html"
 	],
-	"use_visual_editor": true
+	"use_visual_editor": true,
+	"search_collections": ["products", "categories"]
 }
