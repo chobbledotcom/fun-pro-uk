@@ -1,7 +1,7 @@
 ---
 title: Giant Gashapon Capsule Vending Machine Hire
 subtitle: Arcade vending machine for prize giveaways
-order: 2
+order: 1
 categories:
   - categories/arcade-games.md
   - categories/branded-exhibition-games.md

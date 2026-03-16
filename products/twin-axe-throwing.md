@@ -2,7 +2,7 @@
 title: Twin Axe throwing
 subtitle: Dual-lane axe throwing game
 price: £395
-order: 50
+order: 3
 meta_title: Twin Axe Throwing Hire | Fun Pro UK Corporate Event Games
 meta_description: Elevate your event with Twin Axe Throwing hire from Fun Pro
   UK. Boost engagement and brand visibility. Nationwide delivery. Contact us for

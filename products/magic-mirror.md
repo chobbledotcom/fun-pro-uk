@@ -2,7 +2,7 @@
 title: Magic Mirror Hire
 subtitle: Full-length interactive selfie mirror with prints
 price: £450
-order: 50
+order: 2
 meta_title: Magic Mirror Hire, Magic Selfie Mirror, Photo Booth Hire, UK
 meta_description: Magic mirror hire for parties, exhibitions, or corporate
   events. We deliver across the UK! Call today for stylish photo mirror rental

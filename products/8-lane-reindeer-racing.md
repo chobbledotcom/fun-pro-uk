@@ -2,7 +2,7 @@
 title: 8 Lane Reindeer Racing Hire
 subtitle: Festive roll-and-bowl racing for up to 8 players
 price: £1695
-order: 50
+order: 1
 meta_title: 8 Lane Reindeer Racing Hire | Christmas Games | Fun Pro UK
 meta_description: 8 Lane Reindeer Racing is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!

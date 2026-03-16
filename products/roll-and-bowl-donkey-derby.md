@@ -2,7 +2,7 @@
 title: Roll & Bowl Donkey Derby
 subtitle: Four-lane roll-and-bowl donkey racing game
 price: £895
-order: 50
+order: 1
 meta_title: Roll & Bowl Donkey Derby Hire | Exhibition Games | UK
 meta_description: The Roll and Bowl donkey derby game is great fun for
   exhibitions, trade shows, arcade events and much more. Hire amazing

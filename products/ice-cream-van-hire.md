@@ -2,7 +2,7 @@
 title: "Ice Cream van Hire"
 subtitle: "Ice cream van serving guests at your event"
 price: ""
-order: 50
+order: 3
 meta_title: "Ice Cream Van Hire – Sweet Treats For Every Occasion"
 meta_description: "Ice Cream Van Hire – Sweet Treats For Every Occasion is one of the wide range of products available from Fun Pro UK events experts. Contact us today!"
 categories:

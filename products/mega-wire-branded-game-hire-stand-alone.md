@@ -2,7 +2,7 @@
 title: Mega Wire Hire
 subtitle: Branded steady-hand wire loop game for exhibitions
 price: £395
-order: 50
+order: 1
 meta_title: Mega wire hire Uk
 meta_description: Contact fun pro UK today to book your next event.
 categories:

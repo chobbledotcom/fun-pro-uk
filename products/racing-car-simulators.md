@@ -2,7 +2,7 @@
 title: Racing Car Simulator Hire
 subtitle: Seated racing simulator with steering wheel and pedals
 price: £475
-order: 50
+order: 1
 meta_title: Race Simulator Hire, Racing Car Simulator Hire, West Midlands, UK
 meta_description: Want To Hire a Racing Car Simulator For Your Corporate Events,
   Fun Days, Exhibitions &amp; Parties? We Deliver Across The UK. Call Us Today.

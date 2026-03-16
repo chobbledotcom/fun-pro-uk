@@ -2,7 +2,7 @@
 title: Christmas Prize Crane Hire
 subtitle: Festive arcade claw machine for prize giveaways
 price: £495
-order: 50
+order: 1
 meta_title: Christmas Prize Crane Hire | Festive Games | Fun Pro UK
 meta_description: Christmas Prize Crane is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!

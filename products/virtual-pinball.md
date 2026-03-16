@@ -2,7 +2,7 @@
 title: Virtual Pinball
 subtitle: Digital pinball machine with multiple virtual tables
 price: £495
-order: 50
+order: 1
 meta_title: Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK
 meta_description: Virtual Pinball Hire – Retro Fun For All Ages | Fun Pro UK is
   one of the wide range of products available from Fun Pro UK events experts.

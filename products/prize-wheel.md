@@ -2,7 +2,7 @@
 title: Prize Wheel Hire
 subtitle: Spin-the-wheel game for prizes or forfeits
 price: £395
-order: 50
+order: 1
 meta_title: Spin the wheel Hire, Prize Wheel of Fortune Game Hire, UK
 meta_description: Hire Our Spin The Wheel Game For Your Family Fun Days,
   Parties, Exhibitions, Or Corporate Events? UK Wide Delivery. Call Us Today.
