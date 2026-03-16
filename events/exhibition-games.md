@@ -168,7 +168,9 @@ products:
   - product: products/branded-capsule-bin.md
   - product: products/hook-a-duck.md
   - product: products/electronic-basket-ball-hire.md
-  - {}
+  - product: products/8-lane-reindeer-racing.md
+  - product: products/air-hockey-table-hire.md
+  - product: products/dance-machine.md
 ---
 # Planning Exhibition Stand Entertainment
 
