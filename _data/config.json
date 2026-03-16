@@ -38,5 +38,5 @@
 		"faq.html"
 	],
 	"use_visual_editor": true,
-	"search_collections": ["products", "categories"]
+	"search_collections": ["products"]
 }
