@@ -1,7 +1,7 @@
 ---
 title: Football Darts
 subtitle: Velcro footballs kicked at an inflatable dartboard
-price: £395
+price: "425"
 order: 3
 meta_title: Velcro Football Dartboard Hire | Exhibition Stand Games | UK
 meta_description: Hire a Velcro Football Dartboard for your next event! Perfect
@@ -61,7 +61,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 425
     days: 1
 redirect_from:
   - /category/fun-days/83/football-darts/
