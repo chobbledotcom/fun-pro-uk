@@ -1,7 +1,7 @@
 ---
 title: Batak Lite Hire
 subtitle: Reaction-speed target game with scoring
-price: £445
+price: £450
 order: 1
 meta_title: Batak Lite Game Hire | Interactive Game | Corporate Engagement
 meta_description: Hire Batak Lite for exhibitions, corporate events &amp;
