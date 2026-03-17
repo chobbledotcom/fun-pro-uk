@@ -1,7 +1,7 @@
 ---
 title: Danger Zone Strike A Light Game Hire
 subtitle: Two-player light-up target striking game
-price: £395
+price: £495
 order: 1
 meta_title: Hire Strike A Light Game, Light Reaction Game Rental, Strike UK
 meta_description: Hire Our Danger Zone Strike A Light Game For Your Family Fun
@@ -57,19 +57,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 725
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1346
     days: 7
 redirect_from:
   - /category/arcade-games/63/danger-zone-strike-a-light-game-hire/
