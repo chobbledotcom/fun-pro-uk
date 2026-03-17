@@ -1,7 +1,7 @@
 ---
 title: Giant Deck Chair Hire
 subtitle: Oversized novelty deck chair for photos and display
-price: £195
+price: "245"
 order: 3
 meta_title: Giant Deck Chair Hire – Fun Props For Outdoor Events
 meta_description: Giant Deck Chair Hire – Fun Props For Outdoor Events is one of
