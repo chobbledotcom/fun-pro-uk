@@ -1,7 +1,7 @@
 ---
 title: Catch it Reaction Ring Hire
 subtitle: Reaction-speed ring-catching game
-price: £445
+price: £495
 order: 1
 meta_title: Catch It Reaction Game Hire | Corporate Event Entertainment
 meta_description: Hire Catch It Reaction games for corporate events &amp;
@@ -75,7 +75,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 445
+    unit_price: 494
     days: 1
   - name: 2 Days
     max_quantity: 10
