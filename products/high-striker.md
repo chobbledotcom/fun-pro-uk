@@ -1,7 +1,7 @@
 ---
 title: High Striker Hire
 subtitle: Classic fairground strength-testing hammer game
-price: £395
+price: £450
 order: 3
 meta_title: Hire High Striker, Fairground Game High Striker To Rent, UK
 meta_description: Hire Our High Striker Game For Your Family Fun Days, Parties,
@@ -64,19 +64,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 450
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 725
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/arcade-games/48/high-striker/
