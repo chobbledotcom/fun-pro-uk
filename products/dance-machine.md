@@ -1,7 +1,7 @@
 ---
 title: Dance Machine Hire
 subtitle: Arcade-style dance pad game with on-screen routines
-price: £475
+price: £495
 order: 2
 meta_title: Hire Dance Machine, Arcade Dance Machine Rental, West Midlands, UK
 meta_description: Looking to hire a dance machine for exhibitions, parties,
@@ -55,7 +55,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 475
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
