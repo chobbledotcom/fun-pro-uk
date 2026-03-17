@@ -69,15 +69,15 @@ options:
     days: 1
   - name: 2 Day
     max_quantity: 10
-    unit_price: 794
+    unit_price: 797
     days: 2
   - name: 3 Day
     max_quantity: 10
-    unit_price: 993
+    unit_price: 995
     days: 3
   - name: 7 Day
     max_quantity: 10
-    unit_price: 1444
+    unit_price: 1495
     days: 7
 redirect_from:
   - /category/exhibition-games/107/gold-bar-challenge/
