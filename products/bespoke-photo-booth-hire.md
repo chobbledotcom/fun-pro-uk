@@ -87,7 +87,7 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Fully Branded
+    - name: Fully Branding around the outside
       price: 650
 tabs:
   - title: Why Bespoke Photo Booth Hire?
