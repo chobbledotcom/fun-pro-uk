@@ -1,7 +1,7 @@
 ---
 title: Giant Buzz Wire Hire
 subtitle: Oversized steady-hand wire loop game
-price: £395
+price: "450"
 order: 3
 meta_title: Giant Buzz Wire Game Hire, Large buzz Wire Games For Rent
 meta_description: Hire Our Giant Buzz Wire Game For Your Wedding, Parties,
@@ -76,11 +76,11 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 645
+    unit_price: 695
     days: 2
   - name: 3 Days
     max_quantity: 10
