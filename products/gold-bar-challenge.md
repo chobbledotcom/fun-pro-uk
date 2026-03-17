@@ -65,8 +65,20 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 0
+    unit_price: 495
     days: 1
+  - name: 2 Day
+    max_quantity: 10
+    unit_price: 794
+    days: 2
+  - name: 3 Day
+    max_quantity: 10
+    unit_price: 993
+    days: 3
+  - name: 7 Day
+    max_quantity: 10
+    unit_price: 1444
+    days: 7
 redirect_from:
   - /category/exhibition-games/107/gold-bar-challenge/
 gallery:
