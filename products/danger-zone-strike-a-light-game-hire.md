@@ -194,4 +194,19 @@ faqs:
   - question: What power do you need?
     answer: Mains power is required for the lighting and scoring systems.
 thumbnail: /images/IMG-20250407-WA0007.jpg
+add_ons:
+  intro: >-
+    ### **Branded Strike a light Game hire**
+
+
+    ### Create a visually striking and memorable brand identity for a
+    Strike-a-Light game that attracts attention, drives engagement, and
+    reinforces brand recall in busy exhibition environments.
+  options:
+    - name: "Full Branding to the front, Sides and playing field "
+      price: 450
+    - name: Playing field
+      price: 185
+    - name: Branded Plinth
+      price: 275
 ---
