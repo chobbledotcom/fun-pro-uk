@@ -1,7 +1,7 @@
 ---
 title: Beat The Buzzer Hire
 subtitle: Timed skill challenge game with buzzer
-price: £350
+price: £395
 order: 1
 meta_title: Beat The Buzzer Hire – Test Your Skills Event Game
 meta_description: Beat The Buzzer Hire – Test Your Skills Event Game is one of
@@ -74,7 +74,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 350
+    unit_price: 395
     days: 1
   - name: 2 Days
     max_quantity: 10
