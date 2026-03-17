@@ -152,7 +152,9 @@ faqs:
   - question: What space do you need?
     answer: Adequate kicking distance is required between player position and
       target. We'll discuss your venue when planning.
-thumbnail: /images/products/Giant-dart-board/企业微信截图_17557402689340.png
+thumbnail: /images/products/football-darts/20260317_134401.jpg
 gallery:
+  - /images/products/football-darts/20260317_134058.jpg
+  - /images/products/football-darts/20260317_134400.jpg
   - /images/products/Giant-dart-board/企业微信截图_17557402689340.png
 ---
