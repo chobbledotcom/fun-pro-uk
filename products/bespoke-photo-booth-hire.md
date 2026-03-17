@@ -87,16 +87,8 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Front panel branding
-      price: 110
-    - name: Back full length panel branding
-      price: 145
-    - name: Header Branding panels
-      price: 175
     - name: Fully Branded
-      price: 430
-    - name: Branded Notes
-      price: 150
+      price: 650
 tabs:
   - title: Why Bespoke Photo Booth Hire?
     image: /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg
