@@ -1,7 +1,7 @@
 ---
 title: Snatch It
 subtitle: Two-player reaction game — grab the lit cylinder first
-price: £395
+price: £450
 order: 1
 meta_title: Snatch It Game Hire – Event Game Rental | Fun Pro UK
 meta_description: Snatch It Game Hire – Event Game Rental | Fun Pro UK is one of
@@ -73,19 +73,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 449
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 723
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 745
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/arcade-games/82/snatch-it/
