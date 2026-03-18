@@ -168,8 +168,12 @@ add_ons:
       price: 175
     - name: Branded back panel
       price: 125
-    - name: Fully Branded
+    - name: "Fully Branded: Front -Sides x 2 - Playing field - Arch"
       price: 445
+    - name: Branded Rear Facing Base Panel
+      price: 125
+    - name: Branding rear of Arch
+      price: 125
 tabs:
   - title: Why Whack A Mole game hire?
     image: /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg
