@@ -1,7 +1,7 @@
 ---
 title: Table Football
 subtitle: Classic foosball table for two or four players
-price: £295
+price: £395
 order: 1
 meta_title: Hire Table Football, Football Tables For Rent Near Me, UK
 meta_description: Table Football For Hire For Your Family Fun Days, Parties,
@@ -75,19 +75,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 295
+    unit_price: 395
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 495
+    unit_price: 695
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 595
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1095
     days: 7
 redirect_from:
   - /category/corporate-entertainment/27/football-tables/
