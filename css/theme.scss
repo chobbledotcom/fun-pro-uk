@@ -650,6 +650,10 @@ body {
             line-height: normal;
             display: block;
             margin-bottom: calc(var(--gap-items) / 2);
+            width: 12rem;
+            @include breakpoints.down("sm") {
+              width: 100%;
+            }
           }
           .price {
             color: #009dd7;
