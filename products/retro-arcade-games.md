@@ -81,11 +81,11 @@ options:
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1095
     days: 7
 redirect_from:
   - /category/arcade-games/4/retro-arcade-games/
