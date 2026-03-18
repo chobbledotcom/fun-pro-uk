@@ -75,6 +75,18 @@ options:
     max_quantity: 10
     unit_price: 395
     days: 1
+  - name: 2 Day
+    max_quantity: 10
+    unit_price: 695
+    days: 2
+  - name: 3 Day
+    max_quantity: 10
+    unit_price: 895
+    days: 3
+  - name: 7 Day
+    max_quantity: 10
+    unit_price: 1295
+    days: 7
 redirect_from:
   - /category/arcade-games/111/roller-bowler/
 gallery:
