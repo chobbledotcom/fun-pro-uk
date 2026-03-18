@@ -160,6 +160,18 @@ add_ons:
     ### Branding Prices From
 
 
+    Branding your popcorn cart is a simple way to make your event feel more
+    special and put-together. It helps grab people’s attention, makes your setup
+    look more professional, and gives guests something memorable to connect
+    with.
+
+
+    It also doubles as easy promotion—when your cart looks good, people are more
+    likely to take photos and share them. Plus, matching the cart to your event
+    theme just ties everything together and makes the whole experience feel more
+    thoughtful.
+
+
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
