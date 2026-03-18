@@ -76,18 +76,6 @@ options:
     max_quantity: 10
     unit_price: 450
     days: 1
-  - name: 2 Days
-    max_quantity: 10
-    unit_price: 195
-    days: 2
-  - name: 3 Days
-    max_quantity: 10
-    unit_price: 195
-    days: 3
-  - name: 7 Days
-    max_quantity: 10
-    unit_price: 195
-    days: 7
 redirect_from:
   - /category/fun-foods/92/candy-floss-cart-hire/
 gallery:
@@ -126,8 +114,6 @@ add_ons:
   options:
     - name: Front panel branding
       price: 195
-    - name: Side Panels
-      price: 90
 tabs:
   - title: Why Candy Floss Cart Hire?
     image: /images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg
