@@ -1,7 +1,7 @@
 ---
 title: TOP DOC OPERATION GAME
 subtitle: Giant version of the classic Operation board game
-price: £395
+price: £450
 order: 1
 meta_title: Giant Operation Hire, Giant Operation Game For Rent, UK
 meta_description: Hire Our Giant Operation Game For Your Wedding, Parties,
@@ -74,19 +74,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 450
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 645
+    unit_price: 725
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 893
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/arcade-games/7/top-doc-operation-game/
