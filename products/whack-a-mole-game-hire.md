@@ -163,8 +163,8 @@ add_ons:
     event. (One time use only)
   options:
     - name: Game Playing Panel
-      price: 145
-    - name: Branded base
+      price: 150
+    - name: Branded base x 3 sides
       price: 175
     - name: Branded back panel
       price: 125
