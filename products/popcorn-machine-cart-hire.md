@@ -155,4 +155,14 @@ tabs:
       return to collect the popcorn machine cart and leave your venue exactly as
       we found it. Need to extend your hire period? Simply let us know, and
       we'll do our best to accommodate your needs.
+add_ons:
+  intro: >-
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
+  options:
+    - name: Front Branding
+      price: 195
 ---
