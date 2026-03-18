@@ -1,7 +1,7 @@
 ---
 title: Table Tennis Hire
 subtitle: Full-size table tennis table for events
-price: £395
+price: £450
 order: 1
 meta_title: Best Table Tennis Hire in the UK | Fun Pro UK
 meta_description: Table tennis hire for events in Birmingham, London,
@@ -75,19 +75,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 450
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 495
+    unit_price: 650
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 595
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1095
     days: 7
 redirect_from:
   - /category/corporate-entertainment/80/table-tennis-hire/
