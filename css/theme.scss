@@ -386,7 +386,9 @@ article#content,
     }
 
     &.homepage-header {
-      padding: var(--section-padding-half) 0 var(--space-4) 0;
+      @include breakpoints.up("xl") {
+        padding: 0;
+      }
     }
   }
 
@@ -1340,6 +1342,32 @@ body.horizontal-nav main {
     ul.items.slider {
       margin: var(--section-padding-half) 0
         calc(var(--section-padding-half) / 2);
+    }
+  }
+
+  // Full-width video layout for XL screens
+  @include breakpoints.up("xl") {
+    aspect-ratio: 16 / 9;
+
+    .homepage-header-video {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      transform: none;
+      min-width: unset;
+      min-height: unset;
+    }
+
+    .homepage-header-inner {
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      padding: var(--section-padding-half) max(50px, calc((100% - 1400px) / 2));
+      box-sizing: border-box;
     }
   }
 
