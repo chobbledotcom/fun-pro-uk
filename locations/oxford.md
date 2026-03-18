@@ -6,14 +6,22 @@ redirect_from:
   - "/pages/oxford/"
 subtitle: "Event hire for Oxford's corporate and university events"
 thumbnail: "images/locations/oxford.jpg"
+layout: page
+blocks:
+  - type: markdown
+    content: |
+      # Event Hire Oxford
+
+      Oxford's calendar of corporate events, university celebrations and conferences runs year-round. The city's mix of historic college venues, modern conference facilities and a thriving science and technology sector means there's always something being planned. We provide entertainment hire to venues across Oxford and Oxfordshire, from formal college dining halls to business park event spaces.
+
+      Based in Coventry, we're around 60 miles from Oxford — roughly 1.5 hours via the M40. It's one of the most straightforward routes we travel, and we deliver to Oxford venues regularly. Every booking includes delivery, professional setup and collection as standard.
+
+      Our range covers [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games and [racing simulators](/products/racing-car-simulators), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from hog roasts to candy floss. For exhibitions and [brand activations](/events/brand-activation), we provide full [custom branding](/categories/branded-exhibition-games) on games — designed, printed and applied in-house.
+
+      Whether you're planning entertainment for a college ball, a pharma company conference, a tech startup celebration or a corporate away day in the Oxfordshire countryside, we can help you choose what works.
+  - type: items_array
+    header_title: Planning game hire for an Oxford corporate event
+    header_subtitle: Browse our Oxford event services by occasion
+    items:
+      - locations/oxford/corporate-event-hire.md
 ---
-
-# Event Hire Oxford
-
-Oxford's calendar of corporate events, university celebrations and conferences runs year-round. The city's mix of historic college venues, modern conference facilities and a thriving science and technology sector means there's always something being planned. We provide entertainment hire to venues across Oxford and Oxfordshire, from formal college dining halls to business park event spaces.
-
-Based in Coventry, we're around 60 miles from Oxford — roughly 1.5 hours via the M40. It's one of the most straightforward routes we travel, and we deliver to Oxford venues regularly. Every booking includes delivery, professional setup and collection as standard.
-
-Our range covers [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games and [racing simulators](/products/racing-car-simulators), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from hog roasts to candy floss. For exhibitions and [brand activations](/events/brand-activation), we provide full [custom branding](/categories/branded-exhibition-games) on games — designed, printed and applied in-house.
-
-Whether you're planning entertainment for a college ball, a pharma company conference, a tech startup celebration or a corporate away day in the Oxfordshire countryside, we can help you choose what works.
