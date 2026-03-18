@@ -1,7 +1,7 @@
 ---
 title: Candy Cane Snatch it Hire
 subtitle: Christmas-themed reaction game for two players
-price: £395
+price: £450
 order: 1
 meta_title: Candy Cane Snatch It Game Hire for Christmas Events
 meta_description: Bring festive fun to your Christmas party with the Candy Cane
@@ -47,19 +47,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 450
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 725
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 745
+    unit_price: 895
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/christmas-games/89/candy-cane-snatch-it/
