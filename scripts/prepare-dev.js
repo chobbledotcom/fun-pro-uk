@@ -28,6 +28,7 @@ const rootExcludes = [
 	"package*.json",
 	"bun.lock",
 	"old_site",
+	"chobble-template",
 	...(process.env.PLACEHOLDER_IMAGES === "1" ? ["images"] : []),
 ];
 
