@@ -385,12 +385,68 @@ content:
           search: title
           value: "{path}"
           label: "{title}"
+      - { name: layout, type: string, label: Layout }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
       - name: meta_description
         type: string
         label: Meta Description
         maxlength: 155
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - name: section-header
+            label: Section Header
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: subtitle, type: string, label: Subtitle }
+          - name: markdown
+            label: Text Content
+            fields:
+              - { name: content, type: rich-text, label: Content, required: true }
+          - name: image-cards
+            label: Image Cards
+            fields:
+              - name: items
+                type: object
+                label: Cards
+                list: true
+                fields:
+                  - { name: image, type: image, label: Image }
+                  - { name: title, type: string, label: Title, required: true }
+                  - { name: description, type: string, label: Description }
+                  - { name: link, type: string, label: Link URL }
+          - name: features
+            label: Features
+            fields:
+              - name: items
+                type: object
+                label: Features
+                list: true
+                fields:
+                  - name: icon
+                    type: string
+                    label: Icon (Iconify ID or HTML entity)
+                  - { name: title, type: string, label: Title, required: true }
+                  - name: description
+                    type: string
+                    label: Description
+                    required: true
+          - name: cta
+            label: Call to Action
+            fields:
+              - { name: title, type: string, label: Title, required: true }
+              - { name: description, type: string, label: Description }
+              - name: button
+                type: object
+                label: Button
+                fields:
+                  - { name: text, type: string, label: Button Text, required: true }
+                  - { name: href, type: string, label: URL, required: true }
+                  - { name: variant, type: string, label: Variant }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
