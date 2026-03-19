@@ -1,7 +1,7 @@
 ---
 title: Green screen photo booth hire
 subtitle: Photo booth with customisable digital backgrounds
-price: £450
+price: £495
 order: 2
 meta_title: Green Screen Photo Booth Hire, Photo Booths Hire Manchester
 meta_description: Looking for green screen photo booth hire near you? Ideal for
@@ -64,7 +64,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/photo-booths-and-magic-mirrors/10/green-screen-photo-booths/
