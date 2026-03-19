@@ -427,14 +427,9 @@ content:
               - { name: header_title, type: string, label: Section Header Title }
               - { name: header_subtitle, type: string, label: Section Header Subtitle }
               - name: items
-                type: reference
+                type: string
                 label: Items
-                options:
-                  collection: locations
-                  multiple: true
-                  search: title
-                  value: "{path}"
-                  label: "{title}"
+                list: true
           - name: features
             label: Features
             fields:
