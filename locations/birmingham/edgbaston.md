@@ -1,13 +1,16 @@
 ---
-title: "Edgbaston"
-meta_title: "Event Hire Edgbaston | Stadium Game Hire | Fun Pro UK"
-meta_description: "Interactive game hire for events at Edgbaston Stadium, Birmingham. Exhibition games, branded entertainment and corporate event hire for conferences and trade shows."
+title: Edgbaston
+meta_title: Event Hire Edgbaston | Stadium Game Hire | Fun Pro UK
+meta_description: Interactive game hire for events at Edgbaston Stadium,
+  Birmingham. Exhibition games, branded entertainment and corporate event hire
+  for conferences and trade shows.
 redirect_from:
-  - "/edgbaston/"
-  - "/pages/edgbaston/"
-thumbnail: /images/locations/birmingham.png
+  - /edgbaston/
+  - /pages/edgbaston/
+thumbnail: /images/locations/Edg.jpg
+categories:
+  - categories/exhibition-games.md
 ---
-
 # Event Hire at Edgbaston Stadium
 
 Edgbaston is one of Birmingham's leading events venues, offering ground-floor exhibition space for up to 800 guests alongside meeting rooms and conference facilities. The modern, flexible spaces make it a popular choice for exhibitions, trade shows, conferences and corporate events.
