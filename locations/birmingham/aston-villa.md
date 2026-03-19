@@ -1,13 +1,16 @@
 ---
-title: "Aston Villa"
-meta_title: "Event Hire Aston Villa | Villa Park Corporate Entertainment | Fun Pro UK"
-meta_description: "Game and entertainment hire for events at Villa Park, Aston Villa. Interactive games, branded exhibition stands and conference entertainment in Birmingham."
+title: Aston Villa
+meta_title: Event Hire Aston Villa | Villa Park Corporate Entertainment | Fun Pro UK
+meta_description: Game and entertainment hire for events at Villa Park, Aston
+  Villa. Interactive games, branded exhibition stands and conference
+  entertainment in Birmingham.
 redirect_from:
-  - "/aston-villa/"
-  - "/pages/aston-villa/"
-thumbnail: /images/locations/birmingham.png
+  - /aston-villa/
+  - /pages/aston-villa/
+thumbnail: /images/locations/Aston V.jpg
+categories:
+  - categories/exhibition-games.md
 ---
-
 # Event Hire at Villa Park, Aston Villa
 
 Villa Park is one of Birmingham's most iconic venues for corporate events. The stadium sits on the outskirts of the city with easy access from the M6 and a short walk from Aston station, offering conference suites, event spaces and spectacular views across the ground.
