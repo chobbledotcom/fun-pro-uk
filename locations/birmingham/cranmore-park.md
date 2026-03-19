@@ -1,13 +1,16 @@
 ---
-title: "Cranmore Park"
-meta_title: "Event Hire Cranmore Park | Exhibition Games & Entertainment | Fun Pro UK"
-meta_description: "Interactive game hire for exhibitions and conferences at Cranmore Park, Solihull. Branded games, corporate entertainment and fun food catering from Fun Pro UK."
+title: Cranmore Park
+meta_title: Event Hire Cranmore Park | Exhibition Games & Entertainment | Fun Pro UK
+meta_description: Interactive game hire for exhibitions and conferences at
+  Cranmore Park, Solihull. Branded games, corporate entertainment and fun food
+  catering from Fun Pro UK.
 redirect_from:
-  - "/cranmore-park-conference-venue/"
-  - "/pages/cranmore-park-conference-venue/"
-thumbnail: /images/locations/birmingham.png
+  - /cranmore-park-conference-venue/
+  - /pages/cranmore-park-conference-venue/
+thumbnail: /images/locations/Cranmore Park.jpg
+categories:
+  - categories/exhibition-games.md
 ---
-
 # Event Hire at Cranmore Park
 
 Cranmore Park is an exhibition and conference centre in Solihull with excellent transport links across the Midlands. The venue suits everything from small meetings and training days through to large conferences and trade shows with breakout rooms.
