@@ -407,11 +407,6 @@ article#content,
   }
 }
 
-body.page article#content > section:nth-child(even) {
-  grid-column: full-width;
-  background: #fafafa;
-}
-
 a {
   text-decoration: none;
   &:hover {
