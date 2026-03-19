@@ -2838,6 +2838,27 @@ body {
   }
 }
 
+body.location article#content {
+  .section-header {
+    text-align: center;
+    & + .items {
+      margin-top: 64px;
+    }
+  }
+
+  ul.items {
+    li {
+      .image-link {
+        margin: 0;
+      }
+    }
+  }
+
+  .prose {
+    padding-bottom: 64px;
+  }
+}
+
 body.team ul.items li .image-link {
   aspect-ratio: 1;
   margin: 24px 0 0;
