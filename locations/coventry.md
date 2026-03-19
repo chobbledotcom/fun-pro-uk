@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/coventry/"
 subtitle: "Event hire fit for the UK City of Culture"
 thumbnail: "images/locations/coventry.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

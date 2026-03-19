@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/leicester/"
 subtitle: "Entertainment with better odds than 5000-to-1"
 thumbnail: "images/locations/leicester.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

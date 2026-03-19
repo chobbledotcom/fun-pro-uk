@@ -1910,6 +1910,7 @@ body .content .image-wrapper img {
   }
 }
 .delivery-row {
+  padding-top: var(--section-padding);
   border-top: 4px solid #ee3324;
   background: #fff;
   h2 {
@@ -2821,7 +2822,8 @@ body {
   &.event,
   &.products,
   &.category,
-  &.team {
+  &.team,
+  &.location {
     article#content {
       .prose {
         padding: var(--section-padding-half) 0;

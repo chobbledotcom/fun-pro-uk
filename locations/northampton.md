@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/northampton/"
 subtitle: "Event hire for England's shoe capital and beyond"
 thumbnail: "images/locations/northampton.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

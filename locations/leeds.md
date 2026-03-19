@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/leeds/"
 subtitle: "Event hire across God's Own Country"
 thumbnail: "images/locations/leeds.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

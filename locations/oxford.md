@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/oxford/"
 subtitle: "Event hire for Oxford's corporate and university events"
 thumbnail: "images/locations/oxford.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |
