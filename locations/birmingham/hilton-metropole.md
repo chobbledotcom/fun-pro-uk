@@ -9,6 +9,8 @@ redirect_from:
 thumbnail: /images/locations/Hilton v2.jpg
 categories:
   - categories/exhibition-games.md
+gallery:
+  - /images/locations/Hilton v2.jpg
 ---
 # Hilton Birmingham Metropole
 
