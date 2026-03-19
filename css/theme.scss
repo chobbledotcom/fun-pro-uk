@@ -2814,7 +2814,8 @@ body {
   &.event,
   &.products,
   &.category,
-  &.team {
+  &.team,
+  &.location {
     article#content {
       .prose {
         padding: var(--section-padding-half) 0;
