@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/birmingham/"
 subtitle: "Event hire for the city with more canals than Venice"
 thumbnail: "images/locations/birmingham.png"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

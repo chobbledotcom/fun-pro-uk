@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/manchester/"
 subtitle: "Event hire for the capital of the North"
 thumbnail: "images/locations/manchester.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

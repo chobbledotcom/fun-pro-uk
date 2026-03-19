@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/reading/"
 subtitle: "Event hire for the Thames Valley business community"
 thumbnail: "images/locations/reading.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

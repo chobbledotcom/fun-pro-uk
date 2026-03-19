@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/london/"
 subtitle: "Event hire across the capital and the Home Counties"
 thumbnail: "images/locations/london.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

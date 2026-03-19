@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/gloucester/"
 subtitle: "Event hire across Gloucestershire and the Cotswolds"
 thumbnail: "images/locations/gloucester.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |

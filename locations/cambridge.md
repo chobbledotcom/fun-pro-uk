@@ -6,7 +6,7 @@ redirect_from:
   - "/pages/cambridge/"
 subtitle: "Event hire for the UK's leading university city"
 thumbnail: "images/locations/cambridge.jpg"
-layout: page
+layout: location
 blocks:
   - type: markdown
     content: |
