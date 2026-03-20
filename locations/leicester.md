@@ -20,13 +20,17 @@ blocks:
 
       Every booking includes delivery, setup, on-site support and collection as standard, regardless of the event type.
   - type: items_array
-    header_title: Games we deliver to Leicester events
-    header_subtitle: Interactive entertainment for corporate events, exhibitions and celebrations
+    intro: |
+      ## Games we deliver to Leicester events
+
+      Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/leicester/photo-booth-hire.md
   - type: items_array
-    header_title: Planning game hire for a Leicester corporate event
-    header_subtitle: Browse our Leicester event services by occasion
+    intro: |
+      ## Planning game hire for a Leicester corporate event
+
+      Browse our Leicester event services by occasion
     items:
       - locations/leicester/corporate-event-hire.md
 ---

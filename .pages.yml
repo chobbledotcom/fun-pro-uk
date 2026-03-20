@@ -401,8 +401,7 @@ content:
           - name: section-header
             label: Section Header
             fields:
-              - { name: title, type: string, label: Title, required: true }
-              - { name: subtitle, type: string, label: Subtitle }
+              - { name: intro, type: rich-text, label: Intro }
           - name: markdown
             label: Text Content
             fields:
@@ -410,8 +409,7 @@ content:
           - name: image-cards
             label: Image Cards
             fields:
-              - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: rich-text, label: Section Header Intro}
+              - { name: intro, type: rich-text, label: Section Header Intro }
               - name: items
                 type: object
                 label: Cards
@@ -424,8 +422,7 @@ content:
           - name: items_array
             label: Items (by reference)
             fields:
-              - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: rich-text, label: Section Header Intro}
+              - { name: intro, type: rich-text, label: Section Header Intro }
               - name: items
                 type: string
                 label: Items
@@ -433,8 +430,7 @@ content:
           - name: features
             label: Features
             fields:
-              - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: rich-text, label: Section Header Intro }
+              - { name: intro, type: rich-text, label: Section Header Intro }
               - name: items
                 type: object
                 label: Features

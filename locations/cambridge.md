@@ -20,8 +20,10 @@ blocks:
 
       Whether you're planning a tech company team day, a college ball, a conference icebreaker or a [brand activation](/events/brand-activation) at one of Cambridge's exhibition venues, we can recommend the right entertainment for your event.
   - type: items_array
-    header_title: Planning game hire for a Cambridge corporate event
-    header_subtitle: Browse our Cambridge event services by occasion
+    intro: |
+      ## Planning game hire for a Cambridge corporate event
+
+      Browse our Cambridge event services by occasion
     items:
       - locations/cambridge/corporate-event-hire.md
 ---

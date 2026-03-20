@@ -20,8 +20,10 @@ blocks:
 
       Whether you're planning entertainment for a college ball, a pharma company conference, a tech startup celebration or a corporate away day in the Oxfordshire countryside, we can help you choose what works.
   - type: items_array
-    header_title: Planning game hire for an Oxford corporate event
-    header_subtitle: Browse our Oxford event services by occasion
+    intro: |
+      ## Planning game hire for an Oxford corporate event
+
+      Browse our Oxford event services by occasion
     items:
       - locations/oxford/corporate-event-hire.md
 ---

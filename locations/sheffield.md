@@ -18,8 +18,10 @@ blocks:
 
       From [corporate events](/categories/corporate-entertainment) and conference entertainment to [fun days](/categories/fun-days), team building and student events, we can recommend what works for your Sheffield venue and audience.
   - type: items_array
-    header_title: Planning game hire for a Sheffield corporate event
-    header_subtitle: Browse our Sheffield event services by occasion
+    intro: |
+      ## Planning game hire for a Sheffield corporate event
+
+      Browse our Sheffield event services by occasion
     items:
       - locations/sheffield/corporate-event-hire.md
       - locations/sheffield/corporate-event-hire-2.md

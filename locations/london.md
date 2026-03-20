@@ -20,18 +20,24 @@ blocks:
 
       Whether you're planning a [conference](/locations/london/conference-game-hire), a [brand activation](/locations/london/brand-promotional-event-hire), a [Christmas party](/locations/london/christmas-game-hire) or a corporate team day, we can talk through what works best for your London event.
   - type: items_array
-    header_title: Games we deliver to London events
-    header_subtitle: Interactive entertainment for corporate events, exhibitions and celebrations
+    intro: |
+      ## Games we deliver to London events
+
+      Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/london/photo-booth-hire.md
   - type: items_array
-    header_title: London venues we know well
-    header_subtitle: We deliver to these venues regularly and know their loading, access and setup requirements
+    intro: |
+      ## London venues we know well
+
+      We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/london/excel.md
   - type: items_array
-    header_title: Planning game hire for a London corporate event
-    header_subtitle: Browse our London event services by occasion
+    intro: |
+      ## Planning game hire for a London corporate event
+
+      Browse our London event services by occasion
     items:
       - locations/london/corporate-event-hire.md
       - locations/london/corporate-event-hire-interactive-games-and-entertainment.md
