@@ -90,6 +90,4 @@ faqs:
     answer: Yes. We deliver across the West Midlands including Solihull,
       Wolverhampton, Walsall and the wider region. See our full list of delivery
       areas for details.
-categories:
-  - categories/corporate-entertainment.md
 ---
