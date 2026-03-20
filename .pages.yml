@@ -373,7 +373,7 @@ content:
         - title
     fields:
       - { name: title, type: string, label: Title }
-      - { name: subtitle, type: string, label: Subtitle }
+      - { name: subtitle, type: rich-text, label: Intro}
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
       - name: categories
