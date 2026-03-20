@@ -20,8 +20,10 @@ blocks:
 
       Whether it's a [corporate event](/categories/corporate-entertainment), university freshers week, awards ceremony or staff celebration, we can help you choose the right entertainment for your Bristol venue and audience.
   - type: items_array
-    header_title: Planning game hire for a Bristol corporate event
-    header_subtitle: Browse our Bristol event services by occasion
+    intro: |
+      ## Planning game hire for a Bristol corporate event
+
+      Browse our Bristol event services by occasion
     items:
       - locations/bristol/corporate-event-hire.md
 ---

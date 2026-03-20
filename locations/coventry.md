@@ -20,8 +20,10 @@ blocks:
 
       As a family-run business rooted in Coventry, we take particular pride in delivering for local clients. Every booking includes setup, operation support and collection as standard.
   - type: items_array
-    header_title: Games we deliver to Coventry events
-    header_subtitle: Interactive entertainment for corporate events, exhibitions and celebrations
+    intro: |
+      ## Games we deliver to Coventry events
+
+      Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/coventry/batak-pro-hire.md
       - locations/coventry/batak-lite.md
@@ -44,13 +46,17 @@ blocks:
       - locations/coventry/table-football-hire.md
       - locations/coventry/vault-game-hire.md
   - type: items_array
-    header_title: Coventry venues we know well
-    header_subtitle: We deliver to these venues regularly and know their loading, access and setup requirements
+    intro: |
+      ## Coventry venues we know well
+
+      We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/coventry/mtc-events.md
   - type: items_array
-    header_title: Planning game hire for a Coventry corporate event
-    header_subtitle: Browse our Coventry event services by occasion
+    intro: |
+      ## Planning game hire for a Coventry corporate event
+
+      Browse our Coventry event services by occasion
     items:
       - locations/coventry/corporate-event-hire.md
       - locations/coventry/conference-event-hire.md

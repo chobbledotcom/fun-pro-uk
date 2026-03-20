@@ -33,7 +33,8 @@ blocks:
       experience the event. We're here to help you work out what that looks like
       for your specific audience and venue.
   - type: items_array
-    header_title: Games We Deliver to Birmingham Events
+    intro: |
+      ## Games We Deliver to Birmingham Events
     items:
       - locations/birmingham/batak-pro-hire.md
       - locations/birmingham/batak-lite-hire.md
@@ -47,8 +48,10 @@ blocks:
       - locations/birmingham/roll-and-bowl-hire.md
       - locations/birmingham/whack-a-mole-hire.md
   - type: items_array
-    header_title: Birmingham venues we know well
-    header_subtitle: Different events call for different games
+    intro: |
+      ## Birmingham venues we know well
+
+      Different events call for different games
     items:
       - locations/birmingham/nec.md
       - locations/birmingham/game-hire-icc.md
@@ -57,8 +60,10 @@ blocks:
       - locations/birmingham/edgbaston.md
       - locations/birmingham/aston-villa.md
   - type: items_array
-    header_title: Planning game hire for a Birmingham corporate event
-    header_subtitle: Browse our Birmingham event services by occasion
+    intro: |
+      ## Planning game hire for a Birmingham corporate event
+
+      Browse our Birmingham event services by occasion
     items:
       - locations/birmingham/corporate-event-hire.md
       - locations/birmingham/conference-and-event-hire.md

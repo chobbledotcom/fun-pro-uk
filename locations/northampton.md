@@ -20,14 +20,18 @@ blocks:
 
       Every booking includes delivery, setup, on-site support and collection, whether it's a [corporate event](/categories/corporate-entertainment), a [fun day](/categories/fun-days) or a private celebration.
   - type: items_array
-    header_title: Games we deliver to Northampton events
-    header_subtitle: Interactive entertainment for corporate events, exhibitions and celebrations
+    intro: |
+      ## Games we deliver to Northampton events
+
+      Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/northampton/batak-pro-hire.md
       - locations/northampton/batak-lite-hire.md
   - type: items_array
-    header_title: Planning game hire for a Northampton corporate event
-    header_subtitle: Browse our Northampton event services by occasion
+    intro: |
+      ## Planning game hire for a Northampton corporate event
+
+      Browse our Northampton event services by occasion
     items:
       - locations/northampton/corporate-event-hire.md
 ---

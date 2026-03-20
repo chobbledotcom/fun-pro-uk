@@ -20,8 +20,10 @@ blocks:
 
       Whether you're planning a corporate hospitality event at the races, a team building day in Cheltenham, a celebration at Gloucester Cathedral or a staff party at a Cotswolds hotel, we can talk through the entertainment options that suit your venue and occasion.
   - type: items_array
-    header_title: Planning game hire for a Gloucester corporate event
-    header_subtitle: Browse our Gloucester event services by occasion
+    intro: |
+      ## Planning game hire for a Gloucester corporate event
+
+      Browse our Gloucester event services by occasion
     items:
       - locations/gloucester/corporate-event-hire.md
 ---

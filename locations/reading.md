@@ -20,8 +20,10 @@ blocks:
 
       Whether you're planning a tech company team day, a conference at a Thames Valley hotel, a staff appreciation event or a [brand activation](/events/brand-activation) at the Select Car Leasing Stadium, we can recommend entertainment that suits your occasion.
   - type: items_array
-    header_title: Planning game hire for a Reading corporate event
-    header_subtitle: Browse our Reading event services by occasion
+    intro: |
+      ## Planning game hire for a Reading corporate event
+
+      Browse our Reading event services by occasion
     items:
       - locations/reading/corporate-event-hire.md
 ---
