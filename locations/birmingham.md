@@ -34,34 +34,6 @@ blocks:
       for your specific audience and venue.
   - type: items_array
     header_title: Games We Deliver to Birmingham Events
-    header_subtitle: Different events call for different games, and the right choice
-      depends on your audience, the space you're working with, and what you're
-      trying to achieve. Here's a practical guide to what tends to work well and
-      why. Reaction games like Batak Pro and Strike a Light Danger Zone are
-      particularly well-suited to exhibition stands and conference ice-breaker
-      sessions. They're visually engaging, easy to pick up, and naturally draw a
-      crowd, which gives visitors a reason to stop at your stand and start a
-      conversation. The Batak Lite is a more compact option, worth considering
-      if your floor space is limited. Prize and grabber games, including Grab A
-      Grand, Ballnado, the Prize Crane, and the Prize Wheel, work well at brand
-      activation stands and trade shows. They draw footfall, give visitors a
-      reason to engage, and create a buzz around your stand. All of these can be
-      wrapped with your company branding, which our team designs and prints
-      in-house. Arcade and simulator games, including retro arcade machines and
-      racing simulators, tend to be popular at corporate fun days, staff
-      parties, and award ceremony receptions. They create natural social moments
-      and work across a wide range of ages and physical abilities, which matters
-      when you're catering to a mixed group. For events where inclusivity is a
-      priority, games like Roll & Bowl and Plinko are worth considering. They're
-      lower-intensity, easy for everyone to take part in, and work well for
-      large groups cycling through activity stations across the day. Photo
-      booths and magic mirrors are a consistent choice for award ceremonies,
-      Christmas parties, and branded events. They give guests something to
-      gather around, produce content people actually want to share, and can be
-      customised with your event branding. For smaller group settings,
-      networking evenings, or office entertainment, pub games such as
-      shuffleboard create a relaxed atmosphere that encourages conversation
-      without requiring much physical effort or competitive instinct.
     items:
       - locations/birmingham/batak-pro-hire.md
       - locations/birmingham/batak-lite-hire.md
@@ -76,34 +48,7 @@ blocks:
       - locations/birmingham/whack-a-mole-hire.md
   - type: items_array
     header_title: Birmingham venues we know well
-    header_subtitle: Different events call for different games, and the right choice
-      depends on your audience, the space you're working with, and what you're
-      trying to achieve. Here's a practical guide to what tends to work well and
-      why. Reaction games like Batak Pro and Strike a Light Danger Zone are
-      particularly well-suited to exhibition stands and conference ice-breaker
-      sessions. They're visually engaging, easy to pick up, and naturally draw a
-      crowd, which gives visitors a reason to stop at your stand and start a
-      conversation. The Batak Lite is a more compact option, worth considering
-      if your floor space is limited. Prize and grabber games, including Grab A
-      Grand, Ballnado, the Prize Crane, and the Prize Wheel, work well at brand
-      activation stands and trade shows. They draw footfall, give visitors a
-      reason to engage, and create a buzz around your stand. All of these can be
-      wrapped with your company branding, which our team designs and prints
-      in-house. Arcade and simulator games, including retro arcade machines and
-      racing simulators, tend to be popular at corporate fun days, staff
-      parties, and award ceremony receptions. They create natural social moments
-      and work across a wide range of ages and physical abilities, which matters
-      when you're catering to a mixed group. For events where inclusivity is a
-      priority, games like Roll & Bowl and Plinko are worth considering. They're
-      lower-intensity, easy for everyone to take part in, and work well for
-      large groups cycling through activity stations across the day. Photo
-      booths and magic mirrors are a consistent choice for award ceremonies,
-      Christmas parties, and branded events. They give guests something to
-      gather around, produce content people actually want to share, and can be
-      customised with your event branding. For smaller group settings,
-      networking evenings, or office entertainment, pub games such as
-      shuffleboard create a relaxed atmosphere that encourages conversation
-      without requiring much physical effort or competitive instinct.
+    header_subtitle: Different events call for different games
     items:
       - locations/birmingham/nec.md
       - locations/birmingham/game-hire-icc.md
@@ -142,4 +87,6 @@ faqs:
     answer: Yes. We deliver across the West Midlands including Solihull,
       Wolverhampton, Walsall and the wider region. See our full list of delivery
       areas for details.
+categories:
+  - categories/branded-exhibition-games.md
 ---
