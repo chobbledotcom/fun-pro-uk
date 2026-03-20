@@ -373,7 +373,7 @@ content:
         - title
     fields:
       - { name: title, type: string, label: Title }
-      - { name: subtitle, type: rich-text, label: Intro}
+      - { name: subtitle, type: string, label: Subtitle}
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
       - name: categories
@@ -411,7 +411,7 @@ content:
             label: Image Cards
             fields:
               - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: string, label: Section Header Subtitle }
+              - { name: header_subtitle, type: rich-text, label: Section Header Intro}
               - name: items
                 type: object
                 label: Cards
@@ -425,7 +425,7 @@ content:
             label: Items (by reference)
             fields:
               - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: string, label: Section Header Subtitle }
+              - { name: header_subtitle, type: rich-text, label: Section Header Intro}
               - name: items
                 type: string
                 label: Items
@@ -434,7 +434,7 @@ content:
             label: Features
             fields:
               - { name: header_title, type: string, label: Section Header Title }
-              - { name: header_subtitle, type: string, label: Section Header Subtitle }
+              - { name: header_subtitle, type: rich-text, label: Section Header Intro }
               - name: items
                 type: object
                 label: Features
