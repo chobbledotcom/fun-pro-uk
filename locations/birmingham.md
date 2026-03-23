@@ -44,7 +44,7 @@ blocks:
 
       Arcade and simulator games, including retro [arcade machines](https://www.funprouk.co.uk/categories/arcade-games/) and [racing simulators](https://www.funprouk.co.uk/products/racing-car-simulators/), tend to be popular at corporate fun days, staff parties, and award ceremony receptions. They create natural social moments and work across a wide range of ages and physical abilities, which matters when you're catering to a mixed group.
 
-      For events where inclusivity is a priority, games like [Roll & Bowl](https://www.funprouk.co.uk/categories/roll-and-bowl/)and[Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/) are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
+      For events where inclusivity is a priority, games like [Roll & Bowl](https://www.funprouk.co.uk/categories/roll-and-bowl/) and [Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/) are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
 
       [Photo booths and magic mirrors](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors) are a consistent choice for award ceremonies, Christmas parties, and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
 
