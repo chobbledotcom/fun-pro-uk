@@ -69,19 +69,19 @@ blocks:
 
       ### **The NEC**
 
-      The NEC is one of the UK's largest exhibition and conference centres, and its halls vary considerably in size, ceiling height, and layout. Some halls have height restrictions that affect certain games, and it's worth factoring that in early when planning your stand. [++Branded exhibition games](https://www.funprouk.co.uk/categories/branded-exhibition-games)++ are particularly popular at the NEC, where competition for attention on the show floor is high. 
+      The NEC is one of the UK's largest exhibition and conference centres, and its halls vary considerably in size, ceiling height, and layout. Some halls have height restrictions that affect certain games, and it's worth factoring that in early when planning your stand. [Branded exhibition games](https://www.funprouk.co.uk/categories/branded-exhibition-games) are particularly popular at the NEC, where competition for attention on the show floor is high. 
 
       ### **The ICC (International Convention Centre)**
 
-      The ++[ICC](https://www.funprouk.co.uk/locations/birmingham/game-hire-icc/)++ is better suited to corporate dinners, award ceremonies, and internal company events than large-scale trade shows. The breakout areas and reception spaces lend themselves well to games like Roll & Bowl, photo booths, and arcade machines, which can run as part of a drinks reception or post-dinner entertainment. 
+      The [ICC](https://www.funprouk.co.uk/locations/birmingham/game-hire-icc/) is better suited to corporate dinners, award ceremonies, and internal company events than large-scale trade shows. The breakout areas and reception spaces lend themselves well to games like Roll & Bowl, photo booths, and arcade machines, which can run as part of a drinks reception or post-dinner entertainment. 
 
       **Hilton Metropole Birmingham**
 
-      The ++[Hilton Metropole](https://www.funprouk.co.uk/locations/birmingham/hilton-metropole/)++ is a popular venue for corporate away-days, team events, and company celebrations. Function rooms in hotel venues tend to have more space constraints than dedicated event halls, so compact, self-contained games generally work better here than larger simulators or multi-machine setups. Reaction games, prize wheels, and photo booths are all reliable choices. 
+      The [Hilton Metropole](https://www.funprouk.co.uk/locations/birmingham/hilton-metropole/) is a popular venue for corporate away-days, team events, and company celebrations. Function rooms in hotel venues tend to have more space constraints than dedicated event halls, so compact, self-contained games generally work better here than larger simulators or multi-machine setups. Reaction games, prize wheels, and photo booths are all reliable choices. 
 
       ### **Other Venues Across Birmingham**
 
-      Fun Pro UK also delivers regularly to hotels, offices, university venues, including Aston University, Birmingham City University, and the University of Birmingham, as well as outdoor event sites and community spaces across the wider West Midlands. If your venue isn't listed here, ++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ and the team can advise on what's possible.
+      Fun Pro UK also delivers regularly to hotels, offices, university venues, including Aston University, Birmingham City University, and the University of Birmingham, as well as outdoor event sites and community spaces across the wider West Midlands. If your venue isn't listed here, [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) and the team can advise on what's possible.
     items:
       - locations/birmingham/nec.md
       - locations/birmingham/game-hire-icc.md
