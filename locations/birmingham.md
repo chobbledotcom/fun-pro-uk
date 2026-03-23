@@ -137,6 +137,15 @@ blocks:
       - locations/birmingham/conference-and-event-hire.md
       - locations/birmingham/christmas-game-hire.md
       - locations/birmingham/brand-promotional-event-hire.md
+  - type: section-header
+    intro: |-
+      ## Why Birmingham Businesses Work with Fun Pro UK
+
+      Fun Pro UK is a family-run business with over 15 years of experience in corporate entertainment. Our Coventry base puts us less than 30 minutes from most Birmingham venues, which makes a practical difference when it comes to logistics planning and on-the-day responsiveness.
+
+      We own all of our own equipment and handle branding in-house. There's no subcontracting and no intermediary involved, which means you're dealing directly with the people who will turn up, set up, and run your games on the day. Our staff are present for the duration of every booking as standard, so you're free to focus on your event rather than managing the entertainment.
+
+      Companies including [Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/) and [Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/) have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward. We'd like to think that's a fair summary of what we aim for every time.
 faqs:
   - question: How far are you from Birmingham?
     answer: We're based in Coventry, less than 30 minutes from Birmingham city
