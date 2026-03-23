@@ -67,7 +67,7 @@ blocks:
 
       Fun Pro UK has delivered to venues across Birmingham regularly over the years. That hands-on experience means we understand the practical realities of each space, from loading bay access and floor surfaces to power availability and timing windows.
 
-      ###The NEC
+      ### The NEC
 
       The NEC is one of the UK's largest exhibition and conference centres, and its halls vary considerably in size, ceiling height, and layout. Some halls have height restrictions that affect certain games, and it's worth factoring that in early when planning your stand. [Branded exhibition games](https://www.funprouk.co.uk/categories/branded-exhibition-games) are particularly popular at the NEC, where competition for attention on the show floor is high. 
 
