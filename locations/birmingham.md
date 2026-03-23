@@ -147,26 +147,38 @@ blocks:
 
       Companies including [Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/) and [Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/) have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward. We'd like to think that's a fair summary of what we aim for every time.
 faqs:
+  - question: How far in advance should I book game hire for a Birmingham event?
+    answer: For events during busy periods, particularly the Christmas party season
+      or major NEC show dates, booking four to six weeks ahead is advisable. For
+      smaller events with more flexibility in the diary, two weeks is often
+      workable. That said, if you need branded games, production lead time means
+      it's worth getting in touch earlier to make sure everything can be turned
+      around in time.
   - question: How far are you from Birmingham?
     answer: We're based in Coventry, less than 30 minutes from Birmingham city
       centre. This keeps delivery costs low and means we can respond quickly if
       your plans change.
-  - question: Do you deliver to the NEC and ICC?
-    answer: Yes, we deliver to the NEC, ICC and Hilton Metropole regularly. We know
-      their loading bays, access routes and setup requirements well.
   - question: What's included in the hire price?
     answer: Every booking includes delivery, professional setup, collection and full
       support. Staffing to operate games during your event is available on
       request.
-  - question: Can games be branded for our company?
-    answer: Yes. We design, print and apply custom branding in-house. Popular
-      options include branded Batak machines, custom prize wheels and full
-      exhibition stand wraps.
-  - question: How far in advance should we book?
-    answer: We recommend at least 2-4 weeks for most events. For Christmas parties
-      and peak exhibition season, 6-8 weeks is better to guarantee availability.
-  - question: Do you cover other areas near Birmingham?
-    answer: Yes. We deliver across the West Midlands including Solihull,
-      Wolverhampton, Walsall and the wider region. See our full list of delivery
-      areas for details.
+  - question: Can you deliver directly to the NEC or ICC?
+    answer: Yes. Fun Pro UK delivers to both venues regularly and is familiar with
+      the load-in procedures, timing windows, and practical requirements
+      involved. If your event is at either venue, let us know when you get in
+      touch and we'll factor that into the planning from the start.
+  - question: How much space do I need for game hire at a Birmingham event?
+    answer: " It depends on the game. Compact options like the Batak Lite or Roll &
+      Bowl can work in tighter spaces, whilst racing simulators or Grab A Grand
+      machines need more room to operate safely and comfortably. If you share
+      your room dimensions or floor plan with us, we can help you work out what
+      fits."
+  - question: Can games be branded with our company logo?
+    answer: Yes. We design and print branded game wraps in-house, which is a popular
+      option for exhibition stands and brand activations. Let us know at the
+      quoting stage and we can talk through the options and lead times.
+  - question: Do you cover events across the wider West Midlands?
+    answer: "Yes. As well as Birmingham city centre and the NEC, we regularly
+      deliver to venues in Solihull, Wolverhampton, Dudley, Walsall, Sutton
+      Coldfield, and throughout the West "
 ---
