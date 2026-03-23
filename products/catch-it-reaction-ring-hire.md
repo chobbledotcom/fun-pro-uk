@@ -75,7 +75,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 494
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
