@@ -2833,6 +2833,10 @@ body {
   }
 }
 
+body.location {
+  --section-padding: var(--section-padding-half);
+}
+
 body.location article#content {
   .section-header {
     & + .items {
