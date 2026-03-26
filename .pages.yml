@@ -91,7 +91,7 @@ content:
           multiple: true
           search: title
           value: "{path}"
-          label: "{primary"
+          label: "{primary}"
       - name: options
         label: Product Options
         type: object
@@ -225,7 +225,7 @@ content:
           multiple: false
           search: title
           value: "{path}"
-          label: "{primary"
+          label: "{primary}"
       - { name: subtitle, type: string, label: Excerpt }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, type: string, label: Meta Title, maxlength: 55 }
@@ -278,7 +278,7 @@ content:
               collection: products
               search: title
               value: "{path}"
-              label: "{primary"
+              label: "{primary}"
       - { name: body, type: rich-text, label: Body }
       - name: below_products
         type: rich-text
@@ -347,7 +347,7 @@ content:
           multiple: true
           search: title
           value: "{path}"
-          label: "{primary"
+          label: "{primary}"
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
