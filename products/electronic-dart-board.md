@@ -93,12 +93,12 @@ redirect_from:
 gallery:
   - /images/products/electronic-dart-board/455c194c-9efb-4155-a1af-27a3e7ce026e.jpg
   - /images/products/electronic-dart-board/749dae8c-979c-419f-95ab-36555c4c2904.jpg
+  - /images/products/electronic-dart-board/branded darts v2.jpg
+  - /images/products/electronic-dart-board/a7a32a10-03b6-4ed6-9037-2407777ccf93.jpg
   - /images/products/electronic-dart-board/electronic-dart-board-1.jpg
   - /images/products/electronic-dart-board/electronic-dart-board-2.jpg
   - /images/products/electronic-dart-board/electronic-dart-board-3.jpg
   - /images/products/electronic-dart-board/electronic-dart-board-1.jpg
-  - /images/products/electronic-dart-board/a7a32a10-03b6-4ed6-9037-2407777ccf93.jpg
-  - /images/products/electronic-dart-board/branded darts v2.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e589094ec1216137052188f2fade887
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7583188346656eeb69819340c82d7c95
