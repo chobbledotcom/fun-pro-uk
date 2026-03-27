@@ -314,6 +314,7 @@ content:
       - { name: subtitle, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
       - { name: body, type: rich-text, label: Biography }
+      - { name: order, type: number, label: Order }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }
       - name: faqs
