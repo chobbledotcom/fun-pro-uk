@@ -311,7 +311,7 @@ content:
     fields:
       - { name: title, type: string, label: Title }
       - { name: thumbnail, type: image, label: Thumbnail }
-      - { name: snippet, type: string, label: Role }
+      - { name: subtitle, type: string, label: Role }
       - { name: image, type: image, label: Profile Image }
       - { name: body, type: rich-text, label: Biography }
       - { name: permalink, type: string, label: Permalink }

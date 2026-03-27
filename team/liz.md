@@ -3,7 +3,6 @@ title: Liz
 subtitle: Sales Director
 thumbnail: /images/team/Liz V2.jpg
 image: /images/team/Liz V2.jpg
-snippet: Sales Director
 ---
 # Liz
 

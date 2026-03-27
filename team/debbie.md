@@ -1,7 +1,7 @@
 ---
 title: Debbie
 thumbnail: /images/team/Debbie.jpg
-snippet: Sales Assistant/Admin
+subtitle: Sales Assistant/Admin
 image: /images/team/Debbie.jpg
 ---
 **Debbie – Sales & Admin Queen @ Fun Pro UK 🎉✨**
