@@ -78,7 +78,18 @@ jobs:
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
             "combined/src/_data/config.json"
 
+      - name: Check for existing Bun
+        id: bun-check
+        run: |
+          if command -v bun &> /dev/null; then
+            echo "found=true" >> $GITHUB_OUTPUT
+            echo "Bun already installed: $(bun --version)"
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Setup Bun
+        if: steps.bun-check.outputs.found != 'true'
         uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
