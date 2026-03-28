@@ -12,7 +12,7 @@ concurrency:
 jobs:
   setup:
     name: Build & Deploy to Bunny
-    runs-on: ubicloud-standard-16
+    runs-on: self-hosted
     steps:
       - name: Checkout this repo
         uses: actions/checkout@v4
@@ -84,7 +84,7 @@ jobs:
           bun-version: latest
 
       - name: Restore image cache
-        uses: ubicloud/cache@v4
+        uses: maxnowack/local-cache@v2
         with:
           path: combined/.image-cache
           key: images-${{ hashFiles('source/images/**/*', 'source/_data/config.json') }}
@@ -130,7 +130,7 @@ jobs:
 
   notify-failure:
     name: Notify on Failure
-    runs-on: ubicloud-standard-4
+    runs-on: self-hosted
     needs: [setup]
     if: failure()
     steps:
