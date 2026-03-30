@@ -2,7 +2,7 @@
 title: Christmas Batak Lite Hire
 subtitle: Festive-themed Batak Lite reaction game
 price: £445
-order: 1
+order: 5
 meta_title: Christmas Batak Lite Hire | Festive Games | Fun Pro UK
 meta_description: Christmas Batak Lite is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!

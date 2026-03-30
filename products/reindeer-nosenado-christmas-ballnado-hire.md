@@ -2,7 +2,7 @@
 title: Reindeer Nosenado (Christmas Ballnado Hire )
 subtitle: Festive-themed wind booth ball-grabbing game
 price: £495
-order: 1
+order: 5
 meta_title: Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK
 meta_description: Reindeer Nosenado Hire – Christmas Party Game | Fun Pro UK is
   one of the wide range of products available from Fun Pro UK events experts.
