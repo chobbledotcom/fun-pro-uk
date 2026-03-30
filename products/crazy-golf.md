@@ -164,7 +164,7 @@ tabs:
       order value and delivery fees apply to all locations.
 faqs:
   - question: How many people can play Crazy Golf at once?
-    answer: Typically 1-4 players per hole at once, with multiple holes enabling
+    answer: Typically 1-9 players per hole at once, with multiple holes enabling
       good throughput. The format suits casual play alongside conversation.
   - question: Is it suitable for all ages?
     answer: Yes, crazy golf is accessible for all ages. The creative obstacles add
