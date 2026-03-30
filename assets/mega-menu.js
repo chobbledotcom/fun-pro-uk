@@ -109,7 +109,7 @@
       if (!isDesktop()) return;
       hideTimer = setTimeout(() => {
         searchItem.classList.remove("is-open");
-      }, 300);
+      }, 500);
     });
   }
 }
