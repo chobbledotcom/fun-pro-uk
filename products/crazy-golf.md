@@ -175,4 +175,5 @@ faqs:
   - question: Does it need power?
     answer: Typically no, though some special features may require power. We'll
       confirm based on your configuration.
+thumbnail: /images/products/crazy-golf/Alibaba16298659_original (1).jpg
 ---
