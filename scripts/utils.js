@@ -8,28 +8,18 @@ import {
   rmSync,
   statSync,
 } from "node:fs";
-import { readFile, writeFile } from "node:fs/promises";
-import { extname, join, resolve, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
+import { extname, join, resolve } from "node:path";
 
 // Paths
-const __dirname = typeof import.meta.dir === "string" ? import.meta.dir : dirname(fileURLToPath(import.meta.url));
-export const root = resolve(__dirname, "..");
+export const root = resolve(import.meta.dir, "..");
 export const path = (...segments) => join(root, ...segments);
 
-// File operations — work in both Bun and Node
-const isBun = typeof globalThis.Bun !== "undefined";
-export const file = isBun ? (p) => Bun.file(p) : undefined;
-export const exists = isBun
-  ? (p) => Bun.file(p).exists()
-  : (p) => Promise.resolve(existsSync(p));
-export const read = isBun
-  ? (p) => Bun.file(p).text()
-  : (p) => readFile(p, "utf-8");
+// File operations using Bun APIs
+export const file = (p) => Bun.file(p);
+export const exists = (p) => file(p).exists();
+export const read = (p) => file(p).text();
 export const readJson = async (p) => JSON.parse(await read(p));
-export const write = isBun
-  ? Bun.write
-  : (p, data) => writeFile(p, data, "utf-8");
+export const write = Bun.write;
 
 // Filesystem commands
 export const fs = {
