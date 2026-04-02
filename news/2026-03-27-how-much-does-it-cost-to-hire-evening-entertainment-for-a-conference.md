@@ -9,12 +9,16 @@ meta_description: Wondering what conference evening entertainment hire costs?
 no_index: false
 gallery:
   - /images/hire-evening-entertainment-1.png
+subtitle: "You've put significant time and budget into the daytime programme.
+  Speakers are booked, breakout sessions are planned, and the conference
+  schedule is tight. But once the formal agenda wraps up, many event planners
+  face a trickier question: how do you transition a room full of attendees from
+  presentation mode to genuinely relaxed social mode, and keep them engaged for
+  the evening?"
 ---
 ![](/images/hire-evening-entertainment.png)
 
-You've put significant time and budget into the daytime programme. Speakers are booked, breakout sessions are planned, and the ++[conference](https://www.funprouk.co.uk/events/conference-idea/)++ schedule is tight. But once the formal agenda wraps up, many event planners face a trickier question: how do you transition a room full of attendees from presentation mode to genuinely relaxed social mode, and keep them engaged for the evening?
-
-That's where conference evening entertainment hire comes in. ++[Interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/)++, casino tables, and social gaming experiences give attendees something to do, something to compete over, and a natural reason to mix with people they may not have spoken to during the day. But if you've never hired evening entertainment for a conference before, you're probably wondering what it actually costs, and what to consider when budgeting.
+That's where [conference](https://www.funprouk.co.uk/events/conference-idea/) evening entertainment hire comes in. ++[Interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/)++, casino tables, and social gaming experiences give attendees something to do, something to compete over, and a natural reason to mix with people they may not have spoken to during the day. But if you've never hired evening entertainment for a conference before, you're probably wondering what it actually costs, and what to consider when budgeting.
 
 This guide breaks down the typical costs involved, what's usually included, and what to think about when planning the entertainment for your next conference evening event.
 
@@ -144,4 +148,4 @@ At Fun Pro, we've been supplying interactive entertainment for corporate events 
 
 Whether you're organising a relaxed networking reception, a competitive team social, or a formal gala dinner with entertainment, our friendly team can help you choose the right options for your group, your venue, and the atmosphere you want to create.
 
-Browse our [++corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/)++ or ++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ to discuss your requirements and receive a no-obligation quote.
+Browse our [++corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/)++or++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ to discuss your requirements and receive a no-obligation quote.
