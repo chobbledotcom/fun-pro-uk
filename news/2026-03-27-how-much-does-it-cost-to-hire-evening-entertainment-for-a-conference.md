@@ -148,4 +148,4 @@ At Fun Pro, we've been supplying interactive entertainment for corporate events 
 
 Whether you're organising a relaxed networking reception, a competitive team social, or a formal gala dinner with entertainment, our friendly team can help you choose the right options for your group, your venue, and the atmosphere you want to create.
 
-Browse our [++corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/)++or++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ to discuss your requirements and receive a no-obligation quote.
+Browse our [corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/)++or++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) to discuss your requirements and receive a no-obligation quote.
