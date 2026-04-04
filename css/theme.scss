@@ -2159,6 +2159,22 @@ ul.items {
     @include button-red;
     width: 100%;
   }
+  li.featured {
+    .image-link {
+      position: relative;
+      &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 35%;
+        aspect-ratio: 1;
+        background: url("/assets/featured.png") no-repeat center / contain;
+        pointer-events: none;
+        z-index: 1;
+      }
+    }
+  }
 }
 
 .list-item-cart-controls {
