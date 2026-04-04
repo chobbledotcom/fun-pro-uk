@@ -101,12 +101,12 @@ gallery:
   - /images/products/batak-pro/batak-pro-12.jpg
   - /images/products/batak-pro/batak-pro-13.jpg
   - /images/products/batak-pro/batak-pro-14.jpg
-  - /images/products/batak-pro/0be4b97a-3dc4-460a-9865-e1633f8d0fb8.jpg
-  - /images/products/batak-pro/2ddd91b0-60eb-4d7f-926d-7018d465f8bc.jpg
-  - /images/products/batak-pro/8428a4f3-700f-45f2-9873-60f0f42e2750.jpg
-  - /images/products/batak-pro/batak-pro-wall-mounted-3.jpeg
-  - /images/products/batak-pro/fbimg1742160606373.jpg
-  - /images/products/batak-pro/img-20260212-wa0019.jpg
+  - /images/products/batak-pro/batak-pro-branded-samsung.jpg
+  - /images/products/batak-pro/batak-pro-branded-aviva.jpg
+  - /images/products/batak-pro/batak-pro-branded-notify.jpg
+  - /images/products/batak-pro/batak-pro-branded-maxtima.jpg
+  - /images/products/batak-pro/batak-pro-branded-system-c.jpg
+  - /images/products/batak-pro/batak-pro-wall-mounted.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/63439c31d53b3532d47827d4a7cc0a89
