@@ -29,7 +29,7 @@ events:
   - events/office-entertainment.md
   - events/school-entertainment.md
   - events/university-events.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

@@ -12,7 +12,7 @@ categories:
   - categories/roll-and-bowl.md
 events:
   - events/christmas-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

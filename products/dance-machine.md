@@ -19,7 +19,7 @@ events:
   - events/university-events.md
   - events/celebrations-and-parties.md
   - events/wedding-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

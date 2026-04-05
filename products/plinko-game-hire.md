@@ -24,7 +24,7 @@ events:
   - events/celebrations-and-parties.md
   - events/family-fun-days.md
   - events/corporate-events.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

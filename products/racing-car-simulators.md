@@ -26,7 +26,7 @@ events:
   - events/corporate-events.md
   - events/brand-activation.md
   - events/college-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included
