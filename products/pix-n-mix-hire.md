@@ -33,7 +33,7 @@ events:
   - events/school-entertainment.md
   - events/evening-entertainment.md
   - events/wedding-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

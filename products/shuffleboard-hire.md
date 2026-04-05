@@ -40,7 +40,7 @@ events:
   - events/summer-entertainment.md
   - events/team-building-entertainment.md
   - events/university-events.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

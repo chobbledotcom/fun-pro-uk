@@ -37,7 +37,7 @@ events:
   - events/evening-entertainment.md
   - events/conference-idea.md
   - events/educational-and-community.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

@@ -16,7 +16,7 @@ events:
   - events/university-events.md
   - events/fundraising-events.md
   - events/team-building-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

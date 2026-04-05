@@ -40,7 +40,7 @@ events:
   - events/company-award-ceremonies.md
   - events/educational-and-community.md
   - events/wedding-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included

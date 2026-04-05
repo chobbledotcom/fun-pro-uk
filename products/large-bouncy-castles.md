@@ -16,7 +16,7 @@ events:
   - events/fundraising-events.md
   - events/family-fun-days.md
   - events/college-entertainment.md
-featured: true
+featured: false
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included
