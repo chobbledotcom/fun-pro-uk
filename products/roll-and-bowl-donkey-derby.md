@@ -26,7 +26,7 @@ events:
   - events/exhibition-games.md
   - events/evening-entertainment.md
   - events/team-building-entertainment.md
-featured: false
+featured: true
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included
