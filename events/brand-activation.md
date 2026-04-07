@@ -5,7 +5,7 @@ meta_title: Brand Activation Game Hire | Experiential Marketing | Fun Pro UK
 meta_description: Interactive branded games for brand activations, product
   launches and experiential campaigns. Create memorable brand experiences with
   Fun Pro UK. Nationwide.
-featured: true
+featured: false
 thumbnail: /images/products/whack-a-mole-game-hire/00d6079f-4c95-487f-bebc-95264d2d4269.jpg
 eleventyNavigation:
   key: Brand Activation

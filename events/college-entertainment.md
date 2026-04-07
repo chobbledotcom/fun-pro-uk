@@ -5,7 +5,7 @@ meta_title: College & Sixth Form Entertainment Hire | Fun Pro UK
 meta_description: Game hire for college events, sixth form proms, enrichment
   days and end-of-year celebrations. Age-appropriate entertainment for 16-18
   students. UK delivery.
-featured: true
+featured: false
 thumbnail: /images/events/IMG-20240614-WA0041.jpg
 redirect_from:
   - /pages/college-and-university-entertainment/

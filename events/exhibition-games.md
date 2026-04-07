@@ -5,7 +5,7 @@ meta_title: How to Plan Your Exhibition Stand Entertainment | Fun Pro UK
 meta_description: Guide to choosing games for your exhibition stand. Stand
   placement, footfall tips, branding options and what works at venues from the
   NEC to smaller expos.
-featured: true
+featured: false
 thumbnail: /images/events/exhibition game.jpeg
 redirect_from:
   - /pages/exhibition-game-hire/

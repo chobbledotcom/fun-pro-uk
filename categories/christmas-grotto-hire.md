@@ -3,7 +3,7 @@ title: "Christmas Grotto Hire"
 subtitle: "Inflatable Santa's grotto packages for events and venues"
 meta_title: "Christmas Grotto Hire, Santas Grotto Hire, Xmas, West Midlands"
 meta_description: "Looking For A Christmas Grotto To Hire For Your Family Fun Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today. 0247 7220 701"
-featured: true
+featured: false
 thumbnail: /images/products/christmas-grotto-1/christmas-grotto-1-1.jpg
 redirect_from:
   - "/category/christmas-grotto-hire/"

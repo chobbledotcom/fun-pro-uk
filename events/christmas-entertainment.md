@@ -5,7 +5,7 @@ meta_title: Planning Christmas Entertainment | Corporate Party Guide
 meta_description: How to plan Christmas entertainment for corporate events.
   Timeline, game choices for different party types, venue tips and budgeting
   advice from Fun Pro UK.
-featured: true
+featured: false
 thumbnail: /images/events/20231209_213016.jpg
 redirect_from:
   - /pages/christmas-entertainment-game-hire/

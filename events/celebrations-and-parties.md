@@ -5,7 +5,7 @@ meta_title: Party & Celebration Entertainment Hire UK | Fun Pro UK
 meta_description: Hire party games, photo booths and entertainment for
   birthdays, anniversaries, engagements and private celebrations. Delivered and
   set up across the UK.
-featured: true
+featured: false
 thumbnail: /images/events/pexels-pavel-danilyuk-6405773.jpg
 redirect_from:
   - /pages/celebrations-and-parties/

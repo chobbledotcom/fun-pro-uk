@@ -3,7 +3,7 @@ title: "Weddings"
 subtitle: "Entertainment and game hire for wedding receptions"
 meta_title: "Wedding Entertainment For Guests – Fun Games | Fun Pro UK"
 meta_description: "Wedding entertainment hire including photo booths, magic mirrors, lawn games and arcade machines. Keep your guests entertained. Nationwide delivery."
-featured: true
+featured: false
 thumbnail: /images/products/magic-mirror/magic-mirror-5.jpg
 eleventyNavigation:
   key: "Luxury Wedding Entertainment"
