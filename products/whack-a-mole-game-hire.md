@@ -69,7 +69,7 @@ filter_attributes:
   - name: Power Required
     value: Mains power required
   - name: Player Count
-    value: 1-4 players
+    value: 1-2 players
 options:
   - name: 1 Day
     max_quantity: 10
