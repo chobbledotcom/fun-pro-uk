@@ -3,7 +3,7 @@ title: "Exhibition Games"
 subtitle: "Interactive games for trade show and exhibition stands"
 meta_title: "Exhibition Game Hire | Trade Show Stand Entertainment | UK"
 meta_description: "Find entertainment and games for exhibition stands with Fun Pro UK! We&#39;re operating all over the UK for trade shows, expos and all other events. Order now!"
-featured: true
+featured: false
 thumbnail: /images/products/batak-lite/batak-lite-5.jpg
 eleventyNavigation:
   key: "Exhibition Games"

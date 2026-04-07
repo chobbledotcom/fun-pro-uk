@@ -5,7 +5,7 @@ meta_title: Office Entertainment Hire | Games for Offices & Breakout Rooms
 meta_description: Hire office entertainment from Fun Pro UK. Compact games for
   breakout rooms, lunch breaks, conference days and staff parties. Delivered and
   set up across the UK.
-featured: true
+featured: false
 thumbnail: /images/events/office fundays.jpeg
 redirect_from:
   - /pages/office-entertainment/

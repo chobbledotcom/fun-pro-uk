@@ -5,7 +5,7 @@ meta_title: Team Building Activities For Hire | Team Building Equipment Hire
 meta_description: Hire our team building activities and equipment for your
   corporate events! UK Wide-delivery. Call us today at 0247 7220 701 to book
   your spot now!
-featured: true
+featured: false
 thumbnail: /images/events/wipeout (2).jpg
 redirect_from:
   - /team-building-ideas/

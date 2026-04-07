@@ -3,7 +3,7 @@ title: "Branded Exhibition Games"
 subtitle: "Games customised with your branding for exhibitions and trade shows"
 meta_title: "Branded Game Hire | Custom Branding on Games & Equipment | UK"
 meta_description: "Hire branded games with your logo and colours for exhibitions and trade shows. In-house printing, vinyl wraps and screen graphics. UK delivery."
-featured: true
+featured: false
 thumbnail: /images/products/crack-the-code-safe-cracker/crack-the-code-safe-cracker-1.jpg
 redirect_from:
   - "/category/branded-exhibition-games/"

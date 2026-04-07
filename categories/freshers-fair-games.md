@@ -3,7 +3,7 @@ title: "Freshers Fair Games"
 subtitle: "Games and entertainment for university freshers week"
 meta_title: "Freshers Entertainment Hire | University Games & Activities"
 meta_description: "Professional freshers week entertainment hire for universities across the UK. Interactive games, activities and expert planning support."
-featured: true
+featured: false
 thumbnail: /images/products/inflatable-assault-courses/inflatable-assault-courses-1.jpg
 redirect_from:
   - "/category/freshers-fair-games/"

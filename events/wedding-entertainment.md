@@ -5,7 +5,7 @@ meta_title: Wedding Entertainment Hire | Games & Booths | Fun Pro UK
 meta_description: Make your wedding reception unforgettable with entertainment
   hire from Fun Pro UK. Photo booths, garden games, casino tables and more
   delivered across the UK.
-featured: true
+featured: false
 thumbnail: /images/events/Wedding.jpg
 redirect_from:
   - /hire-outdoor-games-for-weddings/

@@ -3,7 +3,7 @@ title: "Family Fun Days"
 subtitle: "All-ages games and inflatables for hire"
 meta_title: "How to Organise a Family Fun Day | Step-by-Step Guide"
 meta_description: "A practical guide to planning a company family fun day. Budgeting, venue choices, indoor and outdoor activities, catering and age-appropriate games."
-featured: true
+featured: false
 thumbnail: /images/events/family-fun-days.jpg
 redirect_from:
   - "/pages/family-fun-day-entertainment/"

@@ -5,7 +5,7 @@ meta_title: University Event Hire | Freshers & Balls | Fun Pro UK
 meta_description: Game and entertainment hire for university events across the
   UK. Freshers fairs, graduation balls, end-of-term parties and open days.
   Nationwide delivery.
-featured: true
+featured: false
 thumbnail: /images/events/IMG-20240614-WA0005.jpg
 eleventyNavigation:
   key: University Events

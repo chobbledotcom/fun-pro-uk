@@ -5,7 +5,7 @@ meta_title: Award Ceremony Entertainment Hire UK | Fun Pro UK
 meta_description: Award ceremony entertainment hire trusted by KPMG, Amazon and
   Virgin Trains. Photo booths, casino tables, games and more. Nationwide
   delivery.
-featured: true
+featured: false
 thumbnail: /images/events/93605eb9-df16-4242-b906-c1b9aea30066.png
 redirect_from:
   - /category/company-award-ceremonies/
