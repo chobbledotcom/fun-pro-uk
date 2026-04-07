@@ -11,7 +11,6 @@ categories:
   - categories/fun-fair-stalls.md
   - categories/christmas-game-hire.md
   - categories/corporate-entertainment.md
-  - categories/exhibition-games.md
   - categories/pub-games.md
   - categories/weddings.md
 events:
@@ -29,7 +28,6 @@ events:
   - events/evening-entertainment.md
   - events/educational-and-community.md
   - events/office-entertainment.md
-  - events/exhibition-games.md
   - events/staff-wellbeing-days.md
   - events/university-events.md
   - events/wedding-entertainment.md
