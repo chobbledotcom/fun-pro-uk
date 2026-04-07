@@ -18,7 +18,7 @@ subtitle: "You've put significant time and budget into the daytime programme.
 ---
 ![](/images/hire-evening-entertainment.png)
 
-That's where [conference](https://www.funprouk.co.uk/events/conference-idea/) evening entertainment hire comes in. ++[Interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/)++, casino tables, and social gaming experiences give attendees something to do, something to compete over, and a natural reason to mix with people they may not have spoken to during the day. But if you've never hired evening entertainment for a conference before, you're probably wondering what it actually costs, and what to consider when budgeting.
+That's where [conference](https://www.funprouk.co.uk/events/conference-idea/) evening entertainment hire comes in. [Interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/), casino tables, and social gaming experiences give attendees something to do, something to compete over, and a natural reason to mix with people they may not have spoken to during the day. But if you've never hired evening entertainment for a conference before, you're probably wondering what it actually costs, and what to consider when budgeting.
 
 This guide breaks down the typical costs involved, what's usually included, and what to think about when planning the entertainment for your next conference evening event.
 
@@ -26,7 +26,7 @@ This guide breaks down the typical costs involved, what's usually included, and 
 
 Evening entertainment hire for a conference in the UK typically ranges from around £295 to £1,695 or more per game or activity, for a single evening, depending on the type of entertainment, the duration of hire, whether staffing is required, and how far the supplier needs to travel.
 
-At Fun Pro, our interactive games start from £295 exc. VAT, with the most popular choices for evening events sitting in the £445 to £895 range. More premium or large-footprint experiences, such as a full ++[racing simulator](https://www.funprouk.co.uk/products/racing-car-simulators/)++ setup start from £1,695 exc. VAT.
+At Fun Pro, our interactive games start from £295 exc. VAT, with the most popular choices for evening events sitting in the £445 to £895 range. More premium or large-footprint experiences, such as a full [racing simulator](https://www.funprouk.co.uk/products/racing-car-simulators/) setup start from £1,695 exc. VAT.
 
 Most professional hire suppliers price by the event rather than by the hour, which is worth knowing when you're planning an evening that might run from 6pm through to 10pm or later. If you're planning a multi-day conference with entertainment on more than one evening, many suppliers will discuss package pricing rather than charging a full-day rate per night.
 
@@ -34,13 +34,13 @@ Most professional hire suppliers price by the event rather than by the hour, whi
 
 ![](/images/batak-pro-fun-pro-uk.jpg)
 
-**Compact social and skill games** (e.g. ++[Prize Wheel](https://www.funprouk.co.uk/products/prize-wheel)++, ++[Giant Jenga](https://www.funprouk.co.uk/products/giant-jenga-hire)++, ++[Giant Connect 4](https://www.funprouk.co.uk/products/giant-connect-4-game-hire)++, ++[Buzz Wire](https://www.funprouk.co.uk/products/giant-buzz-wire/)++): from around £295–£495 exc. VAT
+**Compact social and skill games** (e.g. [Prize Wheel](https://www.funprouk.co.uk/products/prize-wheel), [Giant Jenga](https://www.funprouk.co.uk/products/giant-jenga-hire), [Giant Connect 4](https://www.funprouk.co.uk/products/giant-connect-4-game-hire), [Buzz Wire](https://www.funprouk.co.uk/products/giant-buzz-wire/)): from around £295–£495 exc. VAT
 
-**Mid-range interactive games** (e.g. ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++, ++[Retro Arcade Machines](https://www.funprouk.co.uk/categories/arcade-games/)++, ++[Cash Grabber](https://www.funprouk.co.uk/categories/grab-a-grand/)++): from around £495–£895 exc. VAT
+**Mid-range interactive games** (e.g. [Batak Lite](https://www.funprouk.co.uk/products/batak-lite/), [Retro Arcade Machines](https://www.funprouk.co.uk/categories/arcade-games/), [Cash Grabber](https://www.funprouk.co.uk/categories/grab-a-grand/)): from around £495–£895 exc. VAT
 
-**Premium or large-footprint experiences** (e.g. Racing Simulator, ++[Photo Booth](https://www.funprouk.co.uk/products/classic-photo-booths/)++ or ++[Magic Mirror](https://www.funprouk.co.uk/products/magic-mirror/)++): from around £695–£1,695+ exc. VAT
+**Premium or large-footprint experiences** (e.g. Racing Simulator, [Photo Booth](https://www.funprouk.co.uk/products/classic-photo-booths/) or [Magic Mirror](https://www.funprouk.co.uk/products/magic-mirror/)): from around £695–£1,695+ exc. VAT
 
-These are starting prices for a single evening's hire from a professional supplier, including ++[delivery](https://www.funprouk.co.uk/locations/)++, setup, and collection. Staffing and any bespoke branding are typically charged in addition to these base rates.
+These are starting prices for a single evening's hire from a professional supplier, including [delivery](https://www.funprouk.co.uk/locations/), setup, and collection. Staffing and any bespoke branding are typically charged in addition to these base rates.
 
 ## **What's Usually Included in the Hire Price?**
 
@@ -52,7 +52,7 @@ This is one of the most important questions to ask any supplier, because what's 
 
 **Technical support.** If something goes wrong on the night, a reputable supplier will be on hand or reachable to resolve it quickly. For conference evenings where your team will be focused on hosting attendees rather than managing equipment, it's worth asking whether on-site staffing is available as an add-on.
 
-**Public liability insurance.** This is essential for hotel ballrooms, conference centres, and venues, all of which will require valid ++[public liability insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ documentation from any external supplier. Always confirm this before booking, and ask for the certificate in writing.
+**Public liability insurance.** This is essential for hotel ballrooms, conference centres, and venues, all of which will require valid [public liability insurance](https://www.funprouk.co.uk/safety-and-insurance/) documentation from any external supplier. Always confirm this before booking, and ask for the certificate in writing.
 
 What is usually charged as an extra: dedicated on-site staff or game hosts, custom branding, and travel to locations significantly further from the supplier's base.
 
@@ -66,9 +66,9 @@ A set of Giant Garden Games takes up a modest amount of space, sets up quickly, 
 
 ### **The atmosphere you want to create**
 
-This is something that often gets overlooked when budgeting for conference evenings, but it genuinely shapes which entertainment is appropriate. A relaxed post-conference networking reception calls for different games than a competitive team challenge night or a formal ++[awards dinner](https://www.funprouk.co.uk/events/company-award-ceremonies/)++ with entertainment between courses. 
+This is something that often gets overlooked when budgeting for conference evenings, but it genuinely shapes which entertainment is appropriate. A relaxed post-conference networking reception calls for different games than a competitive team challenge night or a formal [awards dinner](https://www.funprouk.co.uk/events/company-award-ceremonies/) with entertainment between courses. 
 
-++[Casino tables](https://www.funprouk.co.uk/products/casino-table-hire/)++, for example, bring a sophisticated, sociable atmosphere well suited to gala dinners and formal evening receptions. Fast-paced reaction games like the Batak Lite or Strike a Light are better suited to energetic evening social events where you want to create a competitive leaderboard and genuine crowd excitement.
+[Casino tables](https://www.funprouk.co.uk/products/casino-table-hire/), for example, bring a sophisticated, sociable atmosphere well suited to gala dinners and formal evening receptions. Fast-paced reaction games like the Batak Lite or Strike a Light are better suited to energetic evening social events where you want to create a competitive leaderboard and genuine crowd excitement.
 
 ### **Whether you need on-site staff**
 
@@ -78,7 +78,7 @@ A dedicated game host from the supplier can manage all of that, keeping the ener
 
 ### **Location and travel**
 
-Suppliers based centrally in the UK, such as Fun Pro, operating from Coventry are well placed to reach major conference and hotel venues ++[nationwide](https://www.funprouk.co.uk/locations/)++ without excessive travel surcharges. If your conference is taking place in ++[London](https://www.funprouk.co.uk/locations/london/)++, ++[Birmingham](https://www.funprouk.co.uk/locations/birmingham/)++, ++[Manchester](https://www.funprouk.co.uk/locations/manchester/)++, or at a dedicated conference centre, a Midlands-based supplier is often a practical and cost-effective choice. It's worth being upfront about your venue and any access or load-in restrictions when requesting a quote.
+Suppliers based centrally in the UK, such as Fun Pro, operating from Coventry are well placed to reach major conference and hotel venues [nationwide](https://www.funprouk.co.uk/locations/) without excessive travel surcharges. If your conference is taking place in [London](https://www.funprouk.co.uk/locations/london/), [Birmingham](https://www.funprouk.co.uk/locations/birmingham/), [Manchester](https://www.funprouk.co.uk/locations/manchester/), or at a dedicated conference centre, a Midlands-based supplier is often a practical and cost-effective choice. It's worth being upfront about your venue and any access or load-in restrictions when requesting a quote.
 
 ### **The duration of the evening**
 
@@ -148,4 +148,4 @@ At Fun Pro, we've been supplying interactive entertainment for corporate events 
 
 Whether you're organising a relaxed networking reception, a competitive team social, or a formal gala dinner with entertainment, our friendly team can help you choose the right options for your group, your venue, and the atmosphere you want to create.
 
-Browse our [corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/)++or++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) to discuss your requirements and receive a no-obligation quote.
+Browse our [corporate events entertainment](https://www.funprouk.co.uk/events/corporate-events/) or [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) to discuss your requirements and receive a no-obligation quote.
