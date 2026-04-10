@@ -160,5 +160,5 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 30-90 Seconds
-featured: false
+featured: true
 ---
