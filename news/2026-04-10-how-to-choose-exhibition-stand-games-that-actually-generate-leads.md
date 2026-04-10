@@ -57,8 +57,6 @@ subtitle: You've booked the stand space. You've briefed the team, finalised the
 ---
 ![](/images/exhibition-stand-games.png)
 
-You've booked the stand space. You've briefed the team, finalised the graphics, and accounted for every logistical detail. But on the day, visitors walk straight past. Sound familiar?
-
 It's one of the most frustrating experiences in event marketing; investing heavily in an ++[exhibition](https://www.funprouk.co.uk/events/exhibition-games/)++ and leaving with a handful of business cards, a tired team, and no real pipeline to show for it. The problem, more often than not, isn't your brand, your product, or your team. It's that there's nothing on your stand giving people a reason to stop.
 
 ++[Interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/)++ solve that problem. Not as a gimmick or a distraction, but as a strategic tool for creating the kind of natural, low-pressure engagement that turns passing traffic into genuine leads. The right game draws people in, keeps them on your stand longer, gives your team an opening to start a conversation, and makes capturing contact details feel like part of the fun rather than an obligation.
