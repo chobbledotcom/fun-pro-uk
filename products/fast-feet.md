@@ -74,6 +74,8 @@ faqs:
 gallery:
   - /images/products/fast-feet/icon-fast-feet-football-training-machine-3-768x768.jpg.webp
   - /images/products/fast-feet/DSC07157_2400x1350.jpg
+  - /images/products/fast-feet/whatsapp-image-2026-04-09-at-153940-1.jpeg
+  - /images/products/fast-feet/whatsapp-image-2026-04-09-at-153958.jpeg
 videos:
   - id: uYO66X0Je30
     title: Fast Feet
@@ -137,7 +139,7 @@ add_ons:
     We offer **in-house branding**, including printing, application, and removal
     after each event.  
 
-    _Please note: branding is designed for one-time use only._
+    *Please note: branding is designed for one-time use only.*
 price: £650
 specs:
   - name: Player
@@ -158,4 +160,5 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 30-90 Seconds
+featured: false
 ---
