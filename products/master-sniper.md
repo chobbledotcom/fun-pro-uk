@@ -39,7 +39,7 @@ specs:
   - name: Space Required
     value: 1.4m x 2.5m x 2.5m
   - name: Power
-    value: 1 x Power Socket (2700W)
+    value: 2 x Power Socket (2700W)
   - name: Setup time
     value: 30-60 minutes
   - name: Equipment Size
@@ -51,7 +51,7 @@ specs:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 1-20 minutes
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -146,7 +146,7 @@ tabs:
       order value may apply.
 faqs:
   - question: How many people can play Master Sniper at once?
-    answer: The game accommodates 1-4 players, with the precision shooting format
+    answer: The game accommodates 1-2 players, with the precision shooting format
       creating focused competition and natural leaderboards.
   - question: Is it suitable for all ages?
     answer: Yes, the target shooting format suits ages 10 and above. Accuracy and
@@ -161,4 +161,8 @@ faqs:
 gallery:
   - /images/products/master-sniper/d4d0a398dcd97c0eaeb50ddd134c5efc.avif
   - /images/products/master-sniper/master-1.avif
+  - /images/products/master-sniper/ryan-and-kai-playing-landscape-2.jpeg
+  - /images/products/master-sniper/ryan-and-kai-playing-landscape.jpeg
+  - /images/products/master-sniper/rya-and-kai-playing-landscape.jpeg
+  - /images/products/master-sniper/whatsapp-image-2026-04-09-at-145438.jpeg
 ---
