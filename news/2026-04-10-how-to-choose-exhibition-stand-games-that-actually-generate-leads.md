@@ -51,6 +51,9 @@ faqs:
       enquiring even if a show is coming up quickly.
 gallery:
   - /images/exhibition-stand-games.png
+subtitle: You've booked the stand space. You've briefed the team, finalised the
+  graphics, and accounted for every logistical detail. But on the day, visitors
+  walk straight past. Sound familiar?
 ---
 ![](/images/exhibition-stand-games.png)
 
