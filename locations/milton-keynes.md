@@ -17,7 +17,7 @@ blocks:
       Our hire range covers [interactive games](/categories/interactive-game-hire) including [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [mega wire](/products/giant-buzz-wire), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) like [prize cranes](/products/prize-crane-arcade-grabber) and [plinko boards](/products/plinko-game-hire), and [fun food catering](/categories/fun-foods) including pizza ovens, hog roasts and ice cream vans. For trade shows and [promotional events](/categories/branded-exhibition-games), we provide full custom branding on games, all produced in-house.
 
       From [corporate fun days](/categories/fun-days) and team building events to staff parties and brand activations, we can help you find the right entertainment for your Milton Keynes event.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Milton Keynes corporate event
 

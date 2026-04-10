@@ -17,7 +17,7 @@ blocks:
       Our range includes [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [dance machines](/products/dance-machine), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including [cash grabbers](/products/cash-grabber-machine-hire) and [plinko boards](/products/plinko-game-hire), and [fun food catering](/categories/fun-foods) from hog roasts to candy floss carts. For [exhibitions and promotional events](/categories/branded-exhibition-games), we offer full custom branding on games — designed, printed and applied in-house.
 
       From [corporate events](/categories/corporate-entertainment) and conference entertainment to [fun days](/categories/fun-days), team building and student events, we can recommend what works for your Sheffield venue and audience.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Sheffield corporate event
 

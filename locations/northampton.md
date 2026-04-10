@@ -19,7 +19,7 @@ blocks:
       Our range includes [interactive games](/categories/interactive-game-hire) like [Batak Pro](/products/batak-pro) and [Batak Lite](/products/batak-lite), [racing simulators](/products/racing-car-simulators) and [roll and bowl](/categories/roll-and-bowl), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including [cash grabbers](/products/cash-grabber-machine-hire) and [prize wheels](/products/prize-wheel), and [fun food catering](/categories/fun-foods) from hog roasts to candy floss carts. For [exhibitions and promotional events](/categories/branded-exhibition-games), we offer custom branding on games — all designed and produced in-house.
 
       Every booking includes delivery, setup, on-site support and collection, whether it's a [corporate event](/categories/corporate-entertainment), a [fun day](/categories/fun-days) or a private celebration.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Games we deliver to Northampton events
 
@@ -27,7 +27,7 @@ blocks:
     items:
       - locations/northampton/batak-pro-hire.md
       - locations/northampton/batak-lite-hire.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Northampton corporate event
 

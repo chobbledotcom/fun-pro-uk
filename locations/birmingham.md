@@ -32,7 +32,7 @@ blocks:
       hotel, the right games can make a real difference to how your guests
       experience the event. We're here to help you work out what that looks like
       for your specific audience and venue.
-  - type: items_array
+  - type: items-array
     intro: |-
       ## Games We Deliver to Birmingham Events
 
@@ -61,7 +61,7 @@ blocks:
       - locations/birmingham/strike-a-light-danger-zone-hire.md
       - locations/birmingham/roll-and-bowl-hire.md
       - locations/birmingham/whack-a-mole-hire.md
-  - type: items_array
+  - type: items-array
     intro: |-
       ## Birmingham Venues We Know Well
 
@@ -89,7 +89,7 @@ blocks:
       - locations/birmingham/cranmore-park.md
       - locations/birmingham/edgbaston.md
       - locations/birmingham/aston-villa.md
-  - type: items_array
+  - type: items-array
     intro: >-
       ## Planning Game Hire for a Birmingham Corporate Event
 

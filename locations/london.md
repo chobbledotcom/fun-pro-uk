@@ -19,21 +19,21 @@ blocks:
       Our range covers [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [danger zone](/products/danger-zone-strike-a-light-game-hire), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including [cash grabbers](/products/cash-grabber-machine-hire) and [prize wheels](/products/prize-wheel), and [fun food catering](/categories/fun-foods). For London's busy exhibition and trade show circuit, we provide full [custom branding](/categories/branded-exhibition-games) on games — designed, printed and applied in-house.
 
       Whether you're planning a [conference](/locations/london/conference-game-hire), a [brand activation](/locations/london/brand-promotional-event-hire), a [Christmas party](/locations/london/christmas-game-hire) or a corporate team day, we can talk through what works best for your London event.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Games we deliver to London events
 
       Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/london/photo-booth-hire.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## London venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/london/excel.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a London corporate event
 

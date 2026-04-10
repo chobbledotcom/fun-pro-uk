@@ -19,7 +19,7 @@ blocks:
       Our range includes [interactive games](/categories/interactive-game-hire) like [Batak Pro](/products/batak-pro) and [Batak Lite](/products/batak-lite), [racing simulators](/products/racing-car-simulators) and [dance machines](/products/dance-machine), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) such as cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from hog roasts to pizza ovens. For Manchester's busy exhibition and trade show market, we offer full [custom branding](/categories/branded-exhibition-games) on games — designed, printed and applied in-house.
 
       Whether it's a [corporate event](/locations/manchester/corporate-event-hire), [brand activation](/locations/manchester/brand-activation-games), conference, team building day or staff celebration, we can recommend the right mix of entertainment for your Manchester venue.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Games we deliver to Manchester events
 
@@ -27,14 +27,14 @@ blocks:
     items:
       - locations/manchester/batak-pro-hire.md
       - locations/manchester/batak-lite-hire.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Manchester venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/manchester/central-convention-complex.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Manchester corporate event
 

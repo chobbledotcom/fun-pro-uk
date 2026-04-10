@@ -19,7 +19,7 @@ blocks:
       Our hire range runs from [interactive games](/categories/interactive-game-hire) like [Batak Pro](/products/batak-pro) and [Batak Lite](/products/batak-lite), [racing simulators](/products/racing-car-simulators) and [dance machines](/products/dance-machine), through to [photo booths](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) such as [cash grabbers](/products/cash-grabber-machine-hire) and [prize cranes](/products/prize-crane-arcade-grabber), and [fun food catering](/categories/fun-foods). For [exhibitions](/categories/branded-exhibition-games) and promotional events, we design, print and apply custom branding to games in-house.
 
       As a family-run business rooted in Coventry, we take particular pride in delivering for local clients. Every booking includes setup, operation support and collection as standard.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Games we deliver to Coventry events
 
@@ -45,14 +45,14 @@ blocks:
       - locations/coventry/safe-cracker-hire.md
       - locations/coventry/table-football-hire.md
       - locations/coventry/vault-game-hire.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Coventry venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/coventry/mtc-events.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Coventry corporate event
 
