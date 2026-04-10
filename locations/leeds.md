@@ -19,14 +19,14 @@ blocks:
       Our range includes [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [mega wire](/products/giant-buzz-wire), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including [cash grabbers](/products/cash-grabber-machine-hire) and [prize wheels](/products/prize-wheel), and [fun food catering](/categories/fun-foods) from hog roasts to candy floss. For trade shows and [exhibition stands](/categories/branded-exhibition-games), we offer full custom branding on games — all designed and produced in-house.
 
       Whether you're organising a [corporate event](/categories/corporate-entertainment), team building day, awards dinner or brand activation, we can recommend entertainment that suits your venue, audience and objectives.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Leeds venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/leeds/harrogate-convention-centre.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Leeds corporate event
 

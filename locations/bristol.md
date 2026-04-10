@@ -19,7 +19,7 @@ blocks:
       Our hire range includes [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [dance machines](/products/dance-machine), alongside [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) and [fun food options](/categories/fun-foods) including pizza ovens, hog roasts and ice cream. For [exhibitions and trade shows](/categories/branded-exhibition-games), we provide full custom branding on games, all handled in-house.
 
       Whether it's a [corporate event](/categories/corporate-entertainment), university freshers week, awards ceremony or staff celebration, we can help you choose the right entertainment for your Bristol venue and audience.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Bristol corporate event
 

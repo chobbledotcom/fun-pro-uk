@@ -19,7 +19,7 @@ blocks:
       Our range covers [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games and [racing simulators](/products/racing-car-simulators), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from hog roasts to candy floss. For trade shows and [exhibitions](/categories/branded-exhibition-games), we provide custom branding on games — designed, printed and applied in-house.
 
       Whether you're planning a corporate hospitality event at the races, a team building day in Cheltenham, a celebration at Gloucester Cathedral or a staff party at a Cotswolds hotel, we can talk through the entertainment options that suit your venue and occasion.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Gloucester corporate event
 

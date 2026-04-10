@@ -17,7 +17,7 @@ blocks:
       Our hire range covers [interactive games](/categories/interactive-game-hire) including [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [whack-a-mole](/products/whack-a-mole-game-hire), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) such as [crane grabbers](/products/prize-crane-arcade-grabber) and [prize wheels](/products/prize-wheel), and [fun food catering](/categories/fun-foods) from pizza ovens to ice cream vans. For trade shows and [brand activations](/categories/branded-exhibition-games), we design, print and apply custom branding to games entirely in-house.
 
       Whether you're organising a [corporate event](/categories/corporate-entertainment), a [freshers week](/categories/freshers-fair-games) activation, a team building day or a staff celebration, we can help you choose the right entertainment for your Nottingham venue.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Nottingham corporate event
 

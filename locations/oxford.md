@@ -19,7 +19,7 @@ blocks:
       Our range covers [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games and [racing simulators](/products/racing-car-simulators), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from hog roasts to candy floss. For exhibitions and [brand activations](/events/brand-activation), we provide full [custom branding](/categories/branded-exhibition-games) on games — designed, printed and applied in-house.
 
       Whether you're planning entertainment for a college ball, a pharma company conference, a tech startup celebration or a corporate away day in the Oxfordshire countryside, we can help you choose what works.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for an Oxford corporate event
 

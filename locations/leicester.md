@@ -19,14 +19,14 @@ blocks:
       Our hire range covers [interactive games](/categories/interactive-game-hire) including [Batak](/categories/batak) reaction games, [racing simulators](/products/racing-car-simulators) and [whack-a-mole](/products/whack-a-mole-game-hire), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) such as [crane grabbers](/products/prize-crane-arcade-grabber) and [plinko boards](/products/plinko-game-hire), and [fun food catering](/categories/fun-foods) from pizza ovens to ice cream vans. For [exhibitions and brand activations](/categories/branded-exhibition-games), we handle full custom branding on games in-house — design, print and application all under one roof.
 
       Every booking includes delivery, setup, on-site support and collection as standard, regardless of the event type.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Games we deliver to Leicester events
 
       Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/leicester/photo-booth-hire.md
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Leicester corporate event
 

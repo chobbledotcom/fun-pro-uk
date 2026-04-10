@@ -19,7 +19,7 @@ blocks:
       Our range includes [interactive games](/categories/interactive-game-hire) like [Batak](/categories/batak) reaction games and [racing simulators](/products/racing-car-simulators), [photo booths and magic mirrors](/categories/photo-booths-and-magic-mirrors), [prize games](/categories/prize-games) including cash grabbers and prize wheels, and [fun food catering](/categories/fun-foods) from pizza ovens to popcorn carts. For [exhibitions](/categories/branded-exhibition-games) and trade shows, we offer full custom branding on games — all designed and produced in-house.
 
       Whether you're planning a tech company team day, a conference at a Thames Valley hotel, a staff appreciation event or a [brand activation](/events/brand-activation) at the Select Car Leasing Stadium, we can recommend entertainment that suits your occasion.
-  - type: items_array
+  - type: items-array
     intro: |
       ## Planning game hire for a Reading corporate event
 
