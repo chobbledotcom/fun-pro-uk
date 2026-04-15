@@ -19,6 +19,7 @@
 	"cms_config": {
 		"collections": [
 			"pages",
+			"snippets",
 			"products",
 			"categories",
 			"news",
@@ -39,13 +40,19 @@
 			"specs": true,
 			"features": true,
 			"external_purchases": false,
+			"add_ons": true,
 			"event_locations_and_dates": false,
 			"no_index": true,
+			"keywords": false,
 			"parent_categories": false,
-			"add_ons": true,
-			"videos": true
+			"videos": true,
+			"below_products": true,
+			"use_blocks": true
 		},
 		"hasSrcFolder": false,
-		"customHomePage": true
+		"customHomePage": true,
+		"customBlocksCollections": [
+			"case-studies"
+		]
 	}
 }
