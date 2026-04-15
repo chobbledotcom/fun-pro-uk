@@ -50,12 +50,12 @@ faqs:
       often turn around bookings in two to three weeks, so it's always worth
       enquiring even if a show is coming up quickly.
 gallery:
-  - /images/exhibition-stand-games.png
+  - /images/exhibition-stand-games-fun-pro-uk.png
 subtitle: You've booked the stand space. You've briefed the team, finalised the
   graphics, and accounted for every logistical detail. But on the day, visitors
   walk straight past. Sound familiar?
 ---
-![](/images/exhibition-stand-games.png)
+![](/images/exhibition-stand-games-fun-pro-uk.png)
 
 It's one of the most frustrating experiences in event marketing; investing heavily in an [exhibition](https://www.funprouk.co.uk/events/exhibition-games/) and leaving with a handful of business cards, a tired team, and no real pipeline to show for it. The problem, more often than not, isn't your brand, your product, or your team. It's that there's nothing on your stand giving people a reason to stop.
 
