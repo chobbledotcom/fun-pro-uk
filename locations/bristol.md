@@ -37,6 +37,11 @@ blocks:
     dark: false
     items:
       - /products/batak-lite.md
+      - /products/batak-pro.md
+      - /products/ballnado-grabber.md
+      - /products/prize-crane-arcade-grabber.md
+      - /products/catch-it-reaction-ring-hire.md
+      - /products/crack-the-code-safe-cracker.md
     intro: |-
       ## Games We Deliver to Bristol Events
 
