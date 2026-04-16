@@ -57,12 +57,11 @@ blocks:
     masonry: false
   - type: items-array
     dark: false
-    items:
-      - /products/batak-lite.md
     intro: |-
       ## Bristol Venues We Know Well
 
       Fun Pro UK has delivered to venues across Bristol regularly over the years. That hands-on experience means we understand the practical realities of each space, from loading access and floor surfaces to power availability and timing windows.
+
       ### Ashton Gate Stadium
 
       Ashton Gate is one of the largest event spaces in the South West, with a range of function rooms, conference suites, and executive spaces available for corporate hire. The scale of the venue makes it well suited to larger corporate fun days and staff celebrations where you want room for several game stations to run simultaneously. It's worth planning the layout carefully with us in advance, as different areas of the stadium have varying floor plans and access routes.
