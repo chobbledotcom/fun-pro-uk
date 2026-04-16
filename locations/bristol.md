@@ -87,4 +87,71 @@ blocks:
       Fun Pro UK also delivers regularly to hotels, university venues — including the University of Bristol and UWE Bristol — office spaces, and outdoor event sites across the wider Bristol area and South West. If your venue isn't listed here, [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) and the team can advise on what's possible.
     horizontal: false
     masonry: false
+  - type: items-array
+    dark: false
+    items:
+      - locations/bristol/corporate-event-hire.md
+    intro: >-
+      ## Planning Game Hire for a Bristol Corporate Event
+
+
+      There are a few practical considerations worth thinking through before you
+      confirm your game choices.
+
+
+      Guest numbers and flow matter more than many people realise. Games need
+      enough clear space to operate safely, and you'll want room for a small
+      queue to form without blocking walkways or fire exits. It's a good idea to
+      share your floor plan with us early so we can help you work out what fits
+      comfortably.
+
+
+      Your audience mix is equally important. A group that spans different ages,
+      physical abilities, and personalities needs a range of options rather than
+      a single high-energy game that only appeals to a subset of your guests.
+      Think about who might feel left out if the entertainment skews too
+      competitive or too physical, and consider whether a mix of active games
+      and lower-key options would serve the group better.
+
+
+      Your event objectives should also guide your choices. Exhibition stands
+      need games that draw footfall and start conversations quickly. [Team
+      building
+      days](https://www.funprouk.co.uk/events/team-building-entertainment/) need
+      activities that sustain engagement across several hours and encourage
+      people to interact with colleagues they might not normally spend time
+      with. Both are achievable, but they call for different approaches, and
+      it's worth discussing this with us before you decide.
+
+
+      On logistics: most games require a standard mains power socket and a clear
+      floor area of around two to three metres. If your venue has unusual
+      constraints, let us know and we can suggest alternatives that work within
+      those limits.
+
+
+      If branding is part of your brief, it's worth raising early.
+      [Custom-wrapped games](https://www.funprouk.co.uk/branded-game-hire/) are
+      one of the most effective ways to reinforce your company's presence at an
+      exhibition or activation, and because we handle design and print in-house,
+      you're dealing with one team from start to finish. Lead time is needed, so
+      the sooner you raise it, the better.
+    horizontal: false
+    masonry: false
+  - type: section-header
+    dark: false
+    intro: |-
+      ## Why Bristol Businesses Work with Fun Pro UK
+
+      Fun Pro UK is a family-run business with over 15 years of experience in corporate entertainment. Our Coventry base puts us within comfortable reach of Bristol via the M5, which makes a practical difference when it comes to logistics planning and on-the-day responsiveness.
+
+      We own all of our own equipment and handle branding in-house. There's no subcontracting and no intermediary involved, which means you're dealing directly with the people who will turn up, set up, and run your games on the day. Our staff are present for the duration of every booking as standard, so you're free to focus on your event rather than managing the entertainment.
+
+      Companies including [Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/) and [Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/) have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward. We'd like to think that's a fair summary of what we aim for every time.
+faqs:
+  - question: Do you deliver and set up game hire in Bristol?
+    answer: Yes. Delivery, setup and collection are included with every booking. Our
+      team travels to your Bristol venue, sets everything up before guests
+      arrive, and collects at the end of the event. You don't need to arrange
+      anything on the day.
 ---
