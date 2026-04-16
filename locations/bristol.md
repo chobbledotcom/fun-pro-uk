@@ -154,4 +154,31 @@ faqs:
       team travels to your Bristol venue, sets everything up before guests
       arrive, and collects at the end of the event. You don't need to arrange
       anything on the day.
+  - question: How far in advance should I book entertainment for a Bristol event?
+    answer: We'd suggest four to six weeks for most corporate events, though we can
+      often work with shorter lead times depending on availability. Get in touch
+      as early as you can and we'll confirm what's possible.
+  - question: Can games be branded with our company logo for a Bristol exhibition or
+      trade show?
+    answer: Yes. We offer full custom branding on our games, including vinyl wraps,
+      printed panels and logo placement. All branding is produced by our
+      in-house print team. Get in touch with your artwork or brief and we'll
+      advise on the options.
+  - question: What size space do I need for game hire at a Bristol venue?
+    answer: It varies depending on which games you choose. When you enquire, share
+      your venue details and approximate floor area and we'll let you know what
+      fits comfortably. We can also work with venue coordinators directly if
+      that's easier.
+  - question: Do you cover events outside Bristol city centre?
+    answer: Yes. We cover the wider Bristol area and surrounding regions including
+      Bath, Weston-super-Mare, Gloucester, Swindon and across the South West. If
+      you're unsure whether your location is within our delivery range, just
+      ask.
+  - question: "Can you provide entertainment for both indoor and outdoor Bristol
+      events? "
+    answer: Most of our games are designed for indoor use. Some equipment —
+      including certain fun fair stalls and fun food options; can be used
+      outdoors with appropriate weather cover and a suitable power supply. Let
+      us know your event setup when you enquire and we'll advise on what works
+      best.
 ---
