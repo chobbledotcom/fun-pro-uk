@@ -1,7 +1,7 @@
 ---
 title: Gold Bar Challenge Hire
 subtitle: Timed safe-cracking challenge with gold bar theme
-order: 1
+order: 8
 meta_title: Gold bar challenge
 meta_description: The Gold Bar Challenge – an exciting interactive game for
   corporate events &amp; exhibitions. Reach in, grab the gold, and beat the

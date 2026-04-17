@@ -2,7 +2,7 @@
 title: Bungee Run Hire
 subtitle: Inflatable bungee-cord racing lane
 price: £395
-order: 4
+order: 58
 meta_title: Bungee Run | Corporate Entertainment | Fun Pro UK
 meta_description: Exciting and intense competitive fun! Strap on the bungee rope
   and see who can reach the other side of the inflatable first. Hilarious for

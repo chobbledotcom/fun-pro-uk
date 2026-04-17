@@ -2,7 +2,7 @@
 title: Leader Board Hire
 subtitle: Leaderboard add-on for competitive game hire
 price: £75
-order: 1
+order: 21
 meta_title: Leaderboard Hire | Competitive Interactive Games | Fun Pro UK
 meta_description: Hire a leader board to add that extra competitive element to
   your interactive games! Like all our products, leaderboards can be hired

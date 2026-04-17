@@ -2,7 +2,7 @@
 title: Giant Jenga Hire
 subtitle: Large-scale Jenga tower block game
 price: £60
-order: 3
+order: 67
 meta_title: Giant Jenga Hire – Classic Game For All Events | Fun Pro UK
 meta_description: Giant Jenga Hire – Classic Game For All Events | Fun Pro UK is
   one of the wide range of products available from Fun Pro UK events experts.

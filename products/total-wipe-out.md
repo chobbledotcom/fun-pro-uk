@@ -2,7 +2,7 @@
 title: TOTAL WIPE OUT
 subtitle: Inflatable sweeper arm game for up to 4 players
 price: £495
-order: 4
+order: 57
 meta_title: Hire Total Wipeout, Total Wipe Out Inflatable Sweeper Games Rent, UK
 meta_description: Hire Our Total Wipeout Inflatable Game For Your Family Fun
   Days, Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us

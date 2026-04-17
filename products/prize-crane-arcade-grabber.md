@@ -2,7 +2,7 @@
 title: Prize Crane Arcade Grabber Hire
 subtitle: Arcade claw machine for prize giveaways
 price: £495
-order: 1
+order: 10
 meta_title: Grabber Machine Hire, Claw Machine Rental , Exhibitions, UK
 meta_description: Arcade prize crane for hire at exhibitions, promotions and
   events. Fill the grabber with your branded items for a fun giveaway. UK wide

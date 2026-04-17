@@ -2,7 +2,7 @@
 title: VR Race Car Simulator Hire
 subtitle: Virtual reality racing simulator with VR headset
 price: £525
-order: 1
+order: 27
 meta_title: Racing Simulator Hire, VR Car Driving Simulator Rental, UK
 meta_description: Hire Our Car Racing Simulator Game For Your Family Fun Days,
   Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today.

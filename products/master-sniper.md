@@ -2,7 +2,7 @@
 title: Master Sniper Hire
 subtitle: Interactive target shooting game with realistic rifle
 price: £1295
-order: 1
+order: 29
 meta_title: Master Sniper - Exhibition and Game Hire in Nationwide | Fun Pro UK
 meta_description: Master Sniper is one of the wide range of products available
   from Fun Pro UK events experts. Contact us today!

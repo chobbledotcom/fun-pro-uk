@@ -2,7 +2,7 @@
 title: Gold Cup Horse Racing Hire
 subtitle: Mechanical horse racing game with rolling balls
 price: £450
-order: 1
+order: 41
 meta_title: Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire
 meta_description: Book the Gold Cup horse race simulator for your events,
   parties, and fun days. We deliver across the UK. Contact us today to reserve

@@ -2,7 +2,7 @@
 title: Classic Photo Booth Hire
 subtitle: Traditional enclosed photo booth with instant prints
 price: £495
-order: 2
+order: 43
 meta_title: Classic Photo Booth Hire For Corporate Parties | Fun Pro UK
 meta_description: Customisable corporate photo booth hire for events, perfect
   for branding your business. Nationwide delivery. Affordable and fun! Book your

@@ -2,7 +2,7 @@
 title: Retro Arcade Game Hire
 subtitle: Classic retro arcade cabinet with multiple games
 price: £395
-order: 2
+order: 28
 meta_title: Arcade Games Hire, Retro Arcade Machine Games For Rent UK
 meta_description: Retro Arcade Games Machines To Hire For Your Family Fun Days,
   Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today.
