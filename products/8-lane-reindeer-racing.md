@@ -3,7 +3,7 @@ title: 8 Lane Reindeer Racing Hire
 subtitle: Festive roll-and-bowl racing for up to 8 players
 price: £1695
 order: 1
-meta_title: 8 Lane Reindeer Racing Hire | Christmas Games | Fun Pro UK
+meta_title: 8 Lane Reindeer Racing Hire
 meta_description: 8 Lane Reindeer Racing is one of the wide range of products
   available from Fun Pro UK events experts. Contact us today!
 categories:
@@ -51,7 +51,7 @@ options:
 redirect_from:
   - /category/christmas-game-hire/102/8-lane-reindeer-racing/
 gallery:
-  - /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
+  - /images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7
 add_ons:
@@ -175,5 +175,4 @@ faqs:
   - question: Does it need power?
     answer: Power requirements vary by configuration. We'll confirm when discussing
       your event.
-thumbnail: /images/products/8-lane-reindeer-racing/8-lane-reindeer-racing-1.jpg
 ---
