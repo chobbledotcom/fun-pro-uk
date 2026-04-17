@@ -2,7 +2,7 @@
 title: Pluck A Duck Racing Hire
 subtitle: Competitive duck-plucking reaction game for two players
 price: £395
-order: 1
+order: 46
 meta_title: Hire Pluck A Duck Game, Hook & Pluck A Duck Game For Hire
 meta_description: Hire Our Pluck A Duck Game For Your Family Fun Days, Parties,
   Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769

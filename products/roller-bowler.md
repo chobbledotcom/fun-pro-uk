@@ -2,7 +2,7 @@
 title: Roller Bowler Hire
 subtitle: Ball-rolling skill game, no power needed
 price: £395
-order: 1
+order: 32
 meta_title: Roller Bowler Hire UK | Corporate Events & Exhibitions
 meta_description: Hire the classic Roller Bowler carnival game for UK corporate
   events and exhibitions. No power required, fully brandable. Nationwide

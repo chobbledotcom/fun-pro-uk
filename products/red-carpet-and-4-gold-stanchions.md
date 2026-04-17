@@ -1,7 +1,7 @@
 ---
 title: Red Carpet & 4 Gold Stanchions Hire
 subtitle: Red carpet entrance with four gold rope stanchions
-order: 100
+order: 86
 meta_title: Red Carpet & Gold Stanchions | Red Carpet Events | Fun Pro UK
 meta_description: There&#39;s nothing more traditionally classy than a red
   carpet! This is perfect alongside photobooth hire or as a party extra. Bring

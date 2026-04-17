@@ -2,7 +2,7 @@
 title: Giant Connect 4 Game Hire
 subtitle: Large-scale Connect 4 board game
 price: £60
-order: 3
+order: 65
 meta_title: Hire Giant Connect 4,Rent Giant Connect 4 Garden Game, UK
 meta_description: Hire Our Giant Connect 4 Game For Your Family Fun Days,
   Parties, Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today.

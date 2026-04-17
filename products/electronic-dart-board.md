@@ -2,7 +2,7 @@
 title: Electronic Dart Board
 subtitle: Soft-tip electronic dartboard with automatic scoring
 price: £595
-order: 1
+order: 7
 meta_title: Electronic Dart Board Hire UK | Corporate Events | Fun Pro
 meta_description: Professional electronic dart boards with automatic scoring for
   corporate events, exhibitions and team building days. Soft tip, venue-safe,

@@ -2,7 +2,7 @@
 title: The Vault
 subtitle: Solo safe-cracking challenge game
 price: £450
-order: 1
+order: 20
 meta_title: Hire Vault Cracker Game, Vault Safe Cracker Game Rent, UK
 meta_description: Hire Our Vault Cracker Game For Your Family Fun Days, Parties,
   Exhibitions, Or Corporate Events. UK Wide Delivery. Call Us Today. 07769

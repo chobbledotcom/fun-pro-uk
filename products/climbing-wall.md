@@ -1,7 +1,7 @@
 ---
 title: Climbing Wall
 subtitle: Portable four-lane climbing wall
-order: 3
+order: 53
 meta_title: Climbing Wall Hire – Adventurous Event Attraction
 meta_description: Climbing Wall Hire – Adventurous Event Attraction is one of
   the wide range of products available from Fun Pro UK events experts. Contact

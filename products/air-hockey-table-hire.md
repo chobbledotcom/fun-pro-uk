@@ -2,7 +2,7 @@
 title: Air Hockey Table Hire
 subtitle: Classic two-player air hockey table
 price: £395
-order: 1
+order: 36
 meta_title: Air Hockey Table Hire | Arcade Games | Fun Pro UK
 meta_description: Hire our air hockey table for corporate events, exhibitions,
   and fun days. Fast-paced two-player action with air-cushioned table. UK wide

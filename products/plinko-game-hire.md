@@ -2,7 +2,7 @@
 title: Plinko Game Hire
 subtitle: Disc-drop peg board game with prize slots
 price: £395
-order: 1
+order: 25
 meta_title: Plinko Game Hire – Interactive Entertainment | Fun Pro UK
 meta_description: Plinko Game Hire – Interactive Entertainment | Fun Pro UK is
   one of the wide range of products available from Fun Pro UK events experts.

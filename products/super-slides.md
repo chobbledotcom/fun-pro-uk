@@ -2,7 +2,7 @@
 title: SUPER SLIDES
 subtitle: Large inflatable slide, available with branding
 price: £295
-order: 4
+order: 64
 meta_title: Super Slide Hire | Inflatable Slides | Fun Pro UK
 meta_description: Our inflatable slides are fully-customisable - display your
   logo &amp; branding. Thrills, chills &amp; marketing options - perfect for

@@ -2,7 +2,7 @@
 title: Scalextric Slot Car Racing
 subtitle: Multi-lane Scalextric track for slot car racing
 price: £695
-order: 1
+order: 18
 meta_title: Scalextric Slot Car Racing - Arcade Games Hire UK
 meta_description: Experience the thrill of Scalextric Slot Car Racing! Perfect
   for UK corporate events, parties, and more. Hire this exciting arcade game for

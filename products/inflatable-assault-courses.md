@@ -2,7 +2,7 @@
 title: Inflatable Assault Course
 subtitle: Inflatable obstacle course for racing two at a time
 price: £450
-order: 4
+order: 62
 meta_title: Hire Inflatable Obstacle Courses , Assault Bouncy Castle To Rent
 meta_description: Hire Inflatable Obstacle Courses For Your Family Fun Days,
   Parties, Exhibitions Or Corporate Events ? UK Wide Delivery. Call Us Today.
