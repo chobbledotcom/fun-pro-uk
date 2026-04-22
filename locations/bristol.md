@@ -62,6 +62,8 @@ blocks:
     masonry: false
   - type: items-array
     dark: false
+    items:
+      - /locations/bristol/ashton-gate-stadium.md
     intro: |-
       ## Bristol Venues We Know Well
 
