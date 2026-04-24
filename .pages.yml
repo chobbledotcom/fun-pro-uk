@@ -562,6 +562,7 @@ content:
         - meta_title
     fields:
       - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
       - { name: body, type: rich-text, label: Body }
       - { name: meta_title, component: meta_title }
       - { name: meta_description, component: meta_description }
