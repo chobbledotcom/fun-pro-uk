@@ -20,7 +20,7 @@ blocks:
 
       Whether it's a [corporate event](/locations/manchester/corporate-event-hire), [brand activation](/locations/manchester/brand-activation-games), conference, team building day or staff celebration, we can recommend the right mix of entertainment for your Manchester venue.
   - type: items-array
-    intro: |
+    intro_content: |
       ## Games we deliver to Manchester events
 
       Interactive entertainment for corporate events, exhibitions and celebrations
@@ -28,14 +28,14 @@ blocks:
       - locations/manchester/batak-pro-hire.md
       - locations/manchester/batak-lite-hire.md
   - type: items-array
-    intro: |
+    intro_content: |
       ## Manchester venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/manchester/central-convention-complex.md
   - type: items-array
-    intro: |
+    intro_content: |
       ## Planning game hire for a Manchester corporate event
 
       Browse our Manchester event services by occasion
