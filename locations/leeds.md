@@ -20,14 +20,14 @@ blocks:
 
       Whether you're organising a [corporate event](/categories/corporate-entertainment), team building day, awards dinner or brand activation, we can recommend entertainment that suits your venue, audience and objectives.
   - type: items-array
-    intro: |
+    intro_content: |
       ## Leeds venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
     items:
       - locations/leeds/harrogate-convention-centre.md
   - type: items-array
-    intro: |
+    intro_content: |
       ## Planning game hire for a Leeds corporate event
 
       Browse our Leeds event services by occasion

@@ -20,7 +20,7 @@ blocks:
 
       Whether you're exhibiting at the Exhibition Centre Liverpool, hosting a gala dinner on the waterfront, running a team building event or planning a [brand activation](/events/brand-activation), we can recommend entertainment that fits your event and venue.
   - type: items-array
-    intro: |
+    intro_content: |
       ## Planning game hire for a Liverpool corporate event
 
       Browse our Liverpool event services by occasion

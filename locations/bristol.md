@@ -42,7 +42,7 @@ blocks:
       - /products/prize-crane-arcade-grabber.md
       - /products/catch-it-reaction-ring-hire.md
       - /products/crack-the-code-safe-cracker.md
-    intro: |-
+    intro_content: |-
       ## Games We Deliver to Bristol Events
 
       Different events call for different games, and the right choice depends on your audience, the space you're working with, and what you're trying to achieve. Here's a practical guide to what tends to work well and why.
@@ -64,7 +64,7 @@ blocks:
     dark: false
     items:
       - /locations/bristol/ashton-gate-stadium.md
-    intro: |-
+    intro_content: |-
       ## Bristol Venues We Know Well
 
       Fun Pro UK has delivered to venues across Bristol regularly over the years. That hands-on experience means we understand the practical realities of each space, from loading access and floor surfaces to power availability and timing windows.
@@ -98,7 +98,7 @@ blocks:
     dark: false
     items:
       - locations/bristol/corporate-event-hire.md
-    intro: >-
+    intro_content: >-
       ## Planning Game Hire for a Bristol Corporate Event
 
 

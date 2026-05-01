@@ -18,7 +18,7 @@ blocks:
 
       Whether you're organising a [corporate event](/categories/corporate-entertainment), a [freshers week](/categories/freshers-fair-games) activation, a team building day or a staff celebration, we can help you choose the right entertainment for your Nottingham venue.
   - type: items-array
-    intro: |
+    intro_content: |
       ## Planning game hire for a Nottingham corporate event
 
       Browse our Nottingham event services by occasion

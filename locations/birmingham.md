@@ -33,7 +33,7 @@ blocks:
       experience the event. We're here to help you work out what that looks like
       for your specific audience and venue.
   - type: items-array
-    intro: |-
+    intro_content: |-
       ## Games We Deliver to Birmingham Events
 
       Different events call for different games, and the right choice depends on your audience, the space you're working with, and what you're trying to achieve. Here's a practical guide to what tends to work well and why.
@@ -62,7 +62,7 @@ blocks:
       - locations/birmingham/roll-and-bowl-hire.md
       - locations/birmingham/whack-a-mole-hire.md
   - type: items-array
-    intro: |-
+    intro_content: |-
       ## Birmingham Venues We Know Well
 
       Fun Pro UK has delivered to venues across Birmingham regularly over the years. That hands-on experience means we understand the practical realities of each space, from loading bay access and floor surfaces to power availability and timing windows.
@@ -90,7 +90,7 @@ blocks:
       - locations/birmingham/edgbaston.md
       - locations/birmingham/aston-villa.md
   - type: items-array
-    intro: >-
+    intro_content: >-
       ## Planning Game Hire for a Birmingham Corporate Event
 
 

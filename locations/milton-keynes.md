@@ -18,7 +18,7 @@ blocks:
 
       From [corporate fun days](/categories/fun-days) and team building events to staff parties and brand activations, we can help you find the right entertainment for your Milton Keynes event.
   - type: items-array
-    intro: |
+    intro_content: |
       ## Planning game hire for a Milton Keynes corporate event
 
       Browse our Milton Keynes event services by occasion
