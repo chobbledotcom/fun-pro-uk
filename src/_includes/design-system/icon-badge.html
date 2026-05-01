@@ -1,0 +1,26 @@
+{%- comment -%}
+Accessible icon badge with tinted background.
+Used by features, specs, and anywhere an icon needs a background container.
+
+Parameters:
+  - icon: The icon content. Supported formats:
+      - Iconify ID: "prefix:name" (e.g., "hugeicons:home-01")
+      - Image path: starts with "/" (e.g., "/images/icon.svg")
+      - Raw content: emoji or HTML entity (e.g., "&#128640;")
+  - label: Accessible label (if omitted, icon is treated as decorative)
+
+Usage (meaningful icon):
+  {% include "design-system/icon-badge.html",
+     icon: "&#128640;",
+     label: "Rocket ship representing speed"
+  %}
+
+Usage (decorative icon):
+  {% include "design-system/icon-badge.html", icon: "&#128640;" %}
+{%- endcomment -%}
+
+{%- if label -%}
+<div class="icon" role="img" aria-label="{{ label }}">{%- include "design-system/icon.html", icon: icon -%}</div>
+{%- else -%}
+<div class="icon" aria-hidden="true">{%- include "design-system/icon.html", icon: icon -%}</div>
+{%- endif -%}

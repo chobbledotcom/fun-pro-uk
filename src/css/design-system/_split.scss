@@ -1,0 +1,140 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// SPLIT SECTIONS (contained width)
+// =============================================================================
+
+.design-system {
+  .split,
+  .split-callout {
+    @include two-column-split;
+  }
+
+  .split--reverse,
+  .split-callout--reverse {
+    @include breakpoint.up("md") {
+      > :first-child {
+        order: 2;
+      }
+      > :last-child {
+        order: 1;
+      }
+    }
+  }
+
+  .split {
+    align-items: start;
+
+    > figure {
+      border-radius: $radius-xl;
+      overflow: hidden;
+      border: $border-light;
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+
+      @include video-media;
+    }
+  }
+
+  // ===========================================================================
+  // SPLIT FULL-WIDTH (two-tone sections)
+  // ===========================================================================
+
+  .split-full {
+    display: flex;
+    flex-direction: column;
+
+    @include breakpoint.up("md") {
+      flex-direction: row;
+    }
+
+    // Child panels
+    .left,
+    .right {
+      flex: 1;
+      padding: var(--section-padding-y) $space-md;
+      display: flex;
+
+      @include breakpoint.up("md") {
+        padding: var(--section-padding-y) $space-lg;
+      }
+
+      > * {
+        width: 100%;
+        max-width: calc(#{$width-wide} / 2);
+        justify-content: center;
+      }
+    }
+
+    .left {
+      background: var(--body-background-alt);
+      justify-content: flex-end;
+
+      > * {
+        @include breakpoint.up("md") {
+          padding-right: $space-2xl;
+        }
+      }
+    }
+
+    .right {
+      background: var(--color-card-bg);
+      justify-content: flex-start;
+
+      > * {
+        @include breakpoint.up("md") {
+          padding-left: $space-2xl;
+        }
+      }
+    }
+
+    // Color variants — opposite panel transparent to show section background
+    &.dark-left .right,
+    &.dark-right .left {
+      background: transparent;
+    }
+
+    // Dark colored panels
+    &.dark-left .left,
+    &.dark-right .right {
+      background: $color-dark-bg;
+      color: $color-dark-text;
+      --color-text: #{$color-dark-text};
+      --color-text-muted: #{$color-dark-text-muted};
+      --split-btn-color: #{$color-dark-text};
+      --split-btn-hover-bg: #{$color-dark-text};
+      --split-btn-hover-color: #{$color-dark-bg};
+    }
+
+    // Primary colored panels
+    &.primary-left .left,
+    &.primary-right .right {
+      background: var(--color-link);
+      @include contrast-text-vars;
+      --split-btn-color: var(--color-contrast-text);
+      --split-btn-hover-bg: var(--color-contrast-text);
+      --split-btn-hover-color: #{$color-text};
+    }
+
+    // Button overrides for colored panels
+    &.dark-left .left,
+    &.dark-right .right,
+    &.primary-left .left,
+    &.primary-right .right {
+      .btn {
+        border-color: var(--split-btn-color);
+        color: var(--split-btn-color);
+
+        &:hover:not(:disabled) {
+          background: var(--split-btn-hover-bg);
+          color: var(--split-btn-hover-color);
+        }
+      }
+    }
+  }
+}

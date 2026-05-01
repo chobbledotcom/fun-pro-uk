@@ -1,0 +1,373 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// DESIGN SYSTEM ROOT
+// =============================================================================
+// All styles are scoped to .design-system to avoid affecting other page content
+
+// =============================================================================
+// CSS CUSTOM PROPERTIES (at :root for theme overridability)
+// =============================================================================
+// All design system CSS variables are declared at :root so that theme.scss
+// (loaded last in bundle.scss) can override them at the same specificity level
+// via cascade order. If these were scoped inside .design-system (0-1-0), they
+// would beat :root overrides (0-0-1), making theme changes impossible.
+
+:root {
+  --color-bg: #{$color-bg};
+  --body-background-alt: #{$body-background-alt};
+  --color-card-bg: #{$color-card-bg};
+  --color-text: #{$color-text};
+  --color-text-muted: #{$color-text-muted};
+  --color-link: #{$color-primary};
+  --color-link-hover: #{$color-primary-dark};
+  --color-tint: #{$color-tint};
+  --color-secondary: #{$color-secondary};
+  --color-accent: #{$color-accent};
+  --color-hover-bg: #{$color-hover-bg};
+  --color-contrast-text: #{$color-contrast-text};
+  --color-contrast-text-muted: #{$color-contrast-text-muted};
+  --color-gradient-start: #{rgba(106, 90, 205, 0.2)};
+  --color-gradient-end: #{rgba(236, 72, 153, 0.2)};
+  --shadow-sm: #{$shadow-sm};
+  --shadow-md: #{$shadow-md};
+  --color-video-play-bg: #{$color-video-play-bg};
+  --color-video-play-hover: #{$color-video-play-hover};
+  --body-background: #{$color-bg};
+  --color-dark-bg-alt: #{$color-dark-bg-alt};
+  --font-family-body: #{$font-sans};
+  --font-family-heading: #{$font-sans};
+  --font-family-mono: #{$font-mono};
+  --border: 2px solid var(--color-text);
+  --border-radius: #{$radius-md};
+  --box-shadow: #{$shadow-md};
+  --list-marker-content: "• ";
+  --list-marker-color: var(--color-link);
+}
+
+.design-system {
+  // ===========================================================================
+  // Section vertical padding — single source of truth for sections, split-full
+  // panels, and any element using @include section. Override locally for
+  // compact variants (e.g. section.compact, footer).
+  --section-padding-y: calc(#{$space-3xl} * 0.6);
+
+  @include breakpoint.up("md") {
+    --section-padding-y: #{$space-3xl};
+  }
+
+  main & {
+    --section-padding-y: calc(#{$space-3xl} * 0.3);
+
+    @include breakpoint.up("md") {
+      --section-padding-y: calc(#{$space-3xl} * 0.5);
+    }
+  }
+
+  // ===========================================================================
+  // Zero out all margins and paddings. Spacing is controlled exclusively
+  // through flexbox/grid gap at the container level.
+
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  scroll-behavior: smooth;
+
+  @include breakpoint.reduced-motion {
+    scroll-behavior: auto;
+  }
+
+  // ===========================================================================
+  // ROOT STYLES
+  // ===========================================================================
+
+  font-family: var(--font-family-body);
+  font-size: $font-size-base;
+  line-height: $line-height-normal;
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+
+  // ===========================================================================
+  // TYPOGRAPHY
+  // ===========================================================================
+  // No margins on text elements - spacing comes from parent flex/grid gap.
+  // Use .stack or similar containers for vertical rhythm.
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: var(--font-family-heading, var(--font-family-body));
+    font-weight: 700;
+    line-height: $line-height-tight;
+    text-wrap: balance;
+  }
+
+  h1 {
+    @include heading-xl;
+  }
+  h2 {
+    @include heading-lg;
+  }
+  h3 {
+    @include heading-md;
+  }
+  h4 {
+    @include heading-sm;
+  }
+
+  p {
+    line-height: $line-height-relaxed;
+  }
+
+  // Links - exclude buttons
+  a:not(.btn) {
+    color: var(--color-link);
+    text-decoration: underline;
+    transition: color $transition-fast;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  code {
+    font-family: var(--font-family-mono);
+    font-size: 0.9em;
+    padding: 0.2em 0.4em;
+    background: var(--body-background-alt);
+    border-radius: $radius-sm;
+  }
+
+  pre {
+    padding: $space-md;
+    background: #{$color-dark-bg};
+    color: #{$color-dark-text};
+    border-radius: $radius-md;
+    overflow-x: auto;
+    code {
+      background: none;
+      padding: 0;
+      color: inherit;
+    }
+  }
+
+  // Details/summary: hide content by default, show when open.
+  // Uses the ::details-content pseudo-element for progressive enhancement
+  // (browsers without support fall back to native details behavior).
+  details::details-content {
+    display: none;
+  }
+
+  details[open]::details-content {
+    display: block;
+  }
+
+  img,
+  .image-wrapper {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .image-wrapper {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  // Override the 695px max-width from legacy page styles when design-system
+  // blocks appear inside .content (e.g. page.html layout)
+  body.page .content & img,
+  body.page .content & .image-wrapper {
+    max-width: 100%;
+  }
+
+  // Prose lists: flex column with gap, padding-left for bullet indentation
+  ul:not([class]),
+  ol:not([class]) {
+    @include flex-col($space-xs);
+    padding-left: $space-lg;
+  }
+
+  // ===========================================================================
+  // SCROLL ANIMATIONS
+  // ===========================================================================
+
+  [data-reveal] {
+    @include scroll-reveal;
+  }
+
+  [data-reveal="left"] {
+    @include scroll-reveal-left;
+  }
+
+  [data-reveal="right"] {
+    @include scroll-reveal-right;
+  }
+
+  [data-reveal="scale"] {
+    @include scroll-reveal-scale;
+  }
+
+  @include breakpoint.reduced-motion {
+    [data-reveal] {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+
+  // ===========================================================================
+  // CONTAINER
+  // ===========================================================================
+
+  .container,
+  .container-wide,
+  .container-narrow {
+    @include flex-col($space-lg);
+  }
+
+  .container {
+    @include container($width-default);
+  }
+  .container-wide {
+    @include container($width-wide);
+  }
+  .container-narrow {
+    @include container($width-narrow);
+  }
+
+  // ===========================================================================
+  // SECTION
+  // ===========================================================================
+
+  section {
+    @include section;
+
+    &.compact {
+      @include section-compact;
+    }
+    &.dark {
+      @include dark-section-vars;
+    }
+    &.gradient {
+      background: linear-gradient(
+        135deg,
+        var(--color-gradient-start) 0%,
+        var(--color-gradient-end) 100%
+      );
+    }
+
+    // Sections containing split-full have no padding; panels provide their own
+    &:has(.split-full) {
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+  }
+
+  // ===========================================================================
+  // SECTION HEADERS
+  // ===========================================================================
+  // Section headers use <hgroup class="section-header"> for semantic markup
+  // Use .gradient class to enable gradient text (default: solid for readability)
+
+  > .section-header {
+    @include card($space-xl, $radius-lg);
+    @include flex-col($space-sm);
+    text-align: center;
+
+    // Gradient text style (opt-in via .gradient class)
+    // Default is solid for better readability and contrast
+    &.gradient {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        @include brand-gradient;
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+    }
+  }
+
+  // ===========================================================================
+  // POST META (doc-subtitle)
+  // ===========================================================================
+  // Element-level styles for news post metadata (author, date, thumbnail)
+
+  [role="doc-subtitle"] {
+    address {
+      font-style: normal;
+      font-weight: 700;
+    }
+
+    time {
+      color: var(--color-text-muted);
+    }
+
+    figure {
+      max-width: $width-author-thumbnail;
+
+      a {
+        display: block;
+        border-radius: 50%;
+        overflow: hidden;
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        border-radius: 50%;
+        object-fit: cover;
+      }
+    }
+  }
+
+  // ===========================================================================
+  // BLOCK LAYOUT
+  // ===========================================================================
+  // When .design-system is used as a content wrapper (not on body/section),
+  // it becomes a flex column with consistent gap between blocks.
+
+  &:not(body):not(section) {
+    @include flex-col($space-2xl);
+  }
+
+  // ===========================================================================
+  // ALTERNATING SECTION BACKGROUNDS
+  // ===========================================================================
+  // Even sections get alternate background; odd sections inherit from body
+
+  > section:nth-child(even),
+  main > section:nth-child(even) {
+    background: var(--body-background-alt);
+  }
+
+  // Even dark sections get alternate dark background
+  > section.dark:nth-child(even),
+  main > section.dark:nth-child(even) {
+    background: var(--color-dark-bg-alt);
+  }
+}
+
+// =============================================================================
+// BODY RESET
+// =============================================================================
+// Reset body spacing when design-system is applied directly to the body element
+
+body.design-system {
+  @include reset-spacing;
+  background: var(--body-background);
+}

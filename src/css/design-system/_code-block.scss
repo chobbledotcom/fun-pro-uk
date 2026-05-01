@@ -1,0 +1,56 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+
+// =============================================================================
+// CODE BLOCKS
+// =============================================================================
+
+.design-system {
+  .code-block {
+    position: relative;
+
+    .code-block-toolbar {
+      @include flex-between;
+      padding: $space-sm $space-md;
+      background: $color-dark-card-bg;
+      border-radius: $radius-md $radius-md 0 0;
+      color: $color-dark-text-muted;
+      font-size: $font-size-sm;
+    }
+
+    .dots {
+      @include flex-row($space-xs);
+
+      span {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        &:nth-child(1) {
+          background: $color-dot-red;
+        }
+        &:nth-child(2) {
+          background: $color-dot-yellow;
+        }
+        &:nth-child(3) {
+          background: $color-dot-green;
+        }
+      }
+    }
+
+    pre {
+      padding: $space-md;
+      background: $color-dark-bg;
+      border-radius: 0 0 $radius-md $radius-md;
+      color: $color-dark-text;
+
+      code {
+        font-size: $font-size-sm;
+        line-height: $line-height-relaxed;
+        color: $color-dark-text;
+        background: none;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+    }
+  }
+}

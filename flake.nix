@@ -1,63 +1,63 @@
 {
-  inputs = { };
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+  };
 
   outputs =
-    { self }:
+    { nixpkgs, ... }:
+    let
+      forAllSystems = f: { x86_64-linux = f "x86_64-linux"; };
+    in
     {
-      devShells.x86_64-linux.default =
+      devShells = forAllSystems (
+        system:
         let
-          pkgs = import <nixpkgs> { system = "x86_64-linux"; };
-          scriptCommands = {
-            serve = "bun scripts/serve.js";
-            build = "bun scripts/build.js";
-            "prepare-dev" = "bun scripts/prepare-dev.js";
-            "sync-files" = "bun scripts/sync-files.js";
-            watch = "bun scripts/watch.js";
-            "update-pages" = "bun scripts/update-pages.js";
-            "update-scripts" = "bun scripts/update-scripts.js";
-            "fetch-google-reviews" = "bun scripts/fetch-google-reviews.js";
-            "optimize-images" = "./scripts/optimize-images.sh";
-            clean = "rm -rf .build";
-          };
+          pkgs = nixpkgs.legacyPackages.${system};
           bunScripts = pkgs.symlinkJoin {
             name = "bun-scripts";
-            paths = map (cmd: pkgs.writeShellScriptBin cmd "${scriptCommands.${cmd}} \"$@\"") (
-              builtins.attrNames scriptCommands
-            );
+            paths = map (cmd: pkgs.writeShellScriptBin cmd "bun run ${cmd}") [
+              "serve"
+              "build"
+              "test"
+              "profile"
+              "customise-cms"
+              "generate-pages-yml"
+            ];
           };
         in
-        pkgs.mkShell {
-          buildInputs = [
-            pkgs.bun
-            bunScripts
-            pkgs.pandoc
-            pkgs.imagemagick
-            pkgs.mozjpeg
-            pkgs.biome
-            pkgs.vips
-            pkgs.stdenv.cc.cc.lib
-          ];
-          shellHook = ''
-            cat <<EOF
+        {
+          default = pkgs.mkShell {
+            packages = with pkgs; [
+              bun
+              biome
+              vips
+              stdenv.cc.cc.lib
+              bunScripts
+            ];
 
-            Available commands:
-             serve               - Start development server
-             build               - Build the project
-             prepare-dev         - Prepare development environment
-             sync-files          - Synchronize files
-             watch               - Watch for changes
-             update-pages        - Update pages
-             fetch-google-reviews - Fetch Google Maps reviews
-             optimize-images     - Optimize product images with mozjpeg
-             clean               - Clean build directory
+            shellHook = ''
+              export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
+              export PATH="$PWD/bin:$PATH"
 
-            EOF
+              # Run setup tasks in background
+              (bun install && git pull && echo "Environment ready <3") &
 
-            export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
+              cat <<EOF
 
-            git pull
-            bun install
-          '';
-        };
+              Available commands:
+               serve              - Clean & start dev server with incremental builds
+               build              - Clean & build the site in ./_site
+               test               - Run JavaScript tests
+               profile            - Profile build for performance bottlenecks
+               lint               - Format code with Biome (Nix-only)
+               screenshot         - Take website screenshots (Nix-only)
+               customise-cms      - Interactive setup for PagesCMS collections
+               generate-pages-yml - Generate .pages.yml with all collections
+
+              EOF
+            '';
+          };
+        }
+      );
     };
 }

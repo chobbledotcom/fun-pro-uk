@@ -1,0 +1,9 @@
+{%- comment -%}
+Renders the optional markdown intro for a block.
+
+Expects:
+  block - the block frontmatter object
+{%- endcomment -%}
+{%- if block.intro_content -%}
+  <div class="prose">{{ block.intro_content | renderContent: "md" }}</div>
+{%- endif -%}

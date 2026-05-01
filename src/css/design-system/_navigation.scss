@@ -1,0 +1,98 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+@use "../nav-mixins" as nav;
+
+// =============================================================================
+// NAVIGATION
+// =============================================================================
+// Design-system version of navigation. Uses shared nav mixins but applies them
+// within .design-system scope, with design-system variables for spacing/sizing.
+
+.design-system {
+  // ===========================================================================
+  // BASE NAV
+  // ===========================================================================
+
+  nav {
+    @include nav.nav-base;
+
+    .nav-thumbnails {
+      @include nav.nav-thumbnails($space-xs);
+    }
+  }
+
+  // ===========================================================================
+  // MOBILE NAV (md and below) - layout only
+  // ===========================================================================
+
+  @include breakpoint.down("md") {
+
+    @at-root html:has(body#{&}.sticky-mobile-nav) {
+      scroll-padding-top: 5rem;
+    }
+
+    &.sticky-mobile-nav {
+      padding-top: 5rem;
+
+      nav {
+        @include nav.nav-sticky-bar($z-sticky, $space-xs);
+
+        .toggle {
+          @include nav.nav-toggle-checkbox("sr-only");
+        }
+
+        .toggle-label {
+          @include nav.nav-toggle-label($space-sm, $z-sticky, $transition-normal);
+        }
+
+        > ul {
+          @include nav.nav-mobile-menu($space-sm, $transition-normal);
+        }
+      }
+    }
+  }
+
+  // ===========================================================================
+  // DESKTOP NAV (md and up) - layout only
+  // ===========================================================================
+
+  @include breakpoint.up("md") {
+    .toggle,
+    .toggle-label,
+    .mobile-menu-toggle {
+      display: none !important;
+    }
+
+    &.left-nav nav {
+      @include nav.nav-left($space-sm);
+    }
+
+    &.horizontal-nav nav {
+      @include nav.nav-horizontal-layout($space-lg, $space-xs);
+      position: sticky;
+      top: $space-sm;
+      z-index: $z-sticky;
+      background: var(--color-bg);
+      padding-inline: $space-lg;
+      padding-block: $space-xs;
+      margin-inline: $space-sm;
+      border-radius: var(--border-radius);
+    }
+
+  }
+
+  // ===========================================================================
+  // MODE-BASED DROPDOWN INTERACTION
+  // ===========================================================================
+
+  // Click-mode (when device lacks hover)
+  &:not(.nav-can-hover) nav {
+    @include nav.nav-submenu-toggle;
+  }
+
+  // Hover-mode (when device supports hover)
+  &.nav-can-hover.horizontal-nav nav {
+    @include nav.nav-hover-dropdowns;
+  }
+}

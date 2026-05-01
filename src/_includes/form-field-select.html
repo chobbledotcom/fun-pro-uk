@@ -1,0 +1,14 @@
+<label for="{{ field.name }}"{% if field.fieldClass %} class="{{ field.fieldClass }}"{% endif %}>
+  {{ field.label }}
+  <select
+    id="{{ field.name }}"
+    name="{{ field.name }}"
+    {%- if field.required %} required{%- endif %}
+  >
+    <option value="" disabled selected>Select an option</option>
+    {%- for option in field.options -%}
+      <option value="{{ option }}">{{ option }}</option>
+    {%- endfor -%}
+  </select>
+  {%- include "form-field-note.html" -%}
+</label>

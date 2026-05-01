@@ -1,0 +1,503 @@
+import { describe, expect, test } from "bun:test";
+import {
+  countChar,
+  createBraceDepthScanner,
+  createCodeChecker,
+  createPatternMatcher,
+  expectNoStaleExceptions,
+  expectScanResult,
+  formatViolationReport,
+  getBraceDepthChange,
+  isCommentLine,
+  isFunctionDefined,
+  noStaleAllowlist,
+  removeStrings,
+  scanFilesForViolations,
+  validateExceptions,
+  validateFunctionAllowlist,
+} from "#test/code-scanner.js";
+import { captureConsole, SRC_JS_FILES } from "#test/test-utils.js";
+import { frozenSet } from "#toolkit/fp/set.js";
+
+describe("code-scanner", () => {
+  describe("isCommentLine", () => {
+    test("detects single-line comments", () => {
+      expect(isCommentLine("// this is a comment")).toBe(true);
+      expect(isCommentLine("  // indented comment")).toBe(true);
+    });
+
+    test("detects block comment patterns", () => {
+      expect(isCommentLine("/* block start")).toBe(true);
+      expect(isCommentLine(" * continuation")).toBe(true);
+      expect(isCommentLine("*/")).toBe(true);
+      expect(isCommentLine("/* inline */")).toBe(true);
+    });
+
+    test("returns false for non-comments", () => {
+      expect(isCommentLine("const x = 1;")).toBe(false);
+      expect(isCommentLine("")).toBe(false);
+    });
+  });
+
+  describe("removeStrings", () => {
+    test("removes double-quoted strings", () => {
+      expect(removeStrings('const x = "hello";')).toBe("const x = ;");
+    });
+
+    test("removes single-quoted strings", () => {
+      expect(removeStrings("const x = 'hello';")).toBe("const x = ;");
+    });
+
+    test("removes template strings", () => {
+      expect(removeStrings("const x = `hello`;")).toBe("const x = ;");
+    });
+
+    test("handles escaped quotes", () => {
+      expect(removeStrings('const x = "he\\"llo";')).toBe("const x = ;");
+    });
+
+    test("preserves braces outside strings", () => {
+      expect(removeStrings('const fn = () => { return "{}"; }')).toBe(
+        "const fn = () => { return ; }",
+      );
+    });
+  });
+
+  describe("countChar", () => {
+    test("counts occurrences of a character", () => {
+      expect(countChar("{")("{ { }")).toBe(2);
+      expect(countChar("}")("{ { }")).toBe(1);
+    });
+
+    test("returns 0 for no matches", () => {
+      expect(countChar("x")("abc")).toBe(0);
+    });
+  });
+
+  describe("getBraceDepthChange", () => {
+    test("returns positive for opening braces", () => {
+      expect(getBraceDepthChange("const fn = () => {")).toBe(1);
+    });
+
+    test("returns negative for closing braces", () => {
+      expect(getBraceDepthChange("};")).toBe(-1);
+    });
+
+    test("ignores braces in strings", () => {
+      expect(getBraceDepthChange('const x = "{}";')).toBe(0);
+    });
+  });
+
+  describe("createBraceDepthScanner", () => {
+    test("finds patterns at brace depth > 0", () => {
+      const scanner = createBraceDepthScanner({ pattern: /memoize\(/ });
+      const source = `const outer = () => {
+  const x = memoize(() => 1);
+};`;
+      const results = scanner(source);
+      expect(results.length).toBe(1);
+      expect(results[0].lineNumber).toBe(2);
+      expect(results[0].braceDepth).toBe(1);
+    });
+
+    test("ignores patterns at module level", () => {
+      const scanner = createBraceDepthScanner({ pattern: /memoize\(/ });
+      const results = scanner("const x = memoize(() => 1);");
+      expect(results.length).toBe(0);
+    });
+
+    test("calls extractData for matches", () => {
+      const scanner = createBraceDepthScanner({
+        pattern: /test/,
+        extractData: (line) => ({ custom: line.trim().length }),
+      });
+      const source = `const fn = () => {
+  test;
+};`;
+      const results = scanner(source);
+      expect(results.length).toBe(1);
+      expect(results[0].custom).toBe(5);
+    });
+  });
+
+  describe("expectScanResult", () => {
+    test("validates scan result properties", () => {
+      const result = { lineNumber: 5, braceDepth: 2, extra: "data" };
+      expectScanResult(result, { lineNumber: 5, braceDepth: 2 });
+    });
+  });
+
+  describe("formatViolationReport", () => {
+    test("returns empty report for no violations", () => {
+      const result = formatViolationReport([]);
+      expect(result.count).toBe(0);
+      expect(result.report).toBe("");
+    });
+
+    test("formats violations with code", () => {
+      const violations = [{ file: "test.js", line: 10, code: "console.log()" }];
+      const result = formatViolationReport(violations, { message: "issues" });
+      expect(result.count).toBe(1);
+      expect(result.report).toContain("Found 1 issues");
+      expect(result.report).toContain("test.js:10");
+      expect(result.report).toContain("console.log()");
+    });
+
+    test("formats violations without code", () => {
+      const violations = [{ file: "test.js", line: 10 }];
+      const result = formatViolationReport(violations);
+      expect(result.count).toBe(1);
+      expect(result.report).toContain("test.js:10");
+    });
+
+    test("shows overflow message when exceeding limit", () => {
+      const violations = Array.from({ length: 15 }, (_, i) => ({
+        file: `test${i}.js`,
+        line: i,
+      }));
+      const result = formatViolationReport(violations, { limit: 10 });
+      expect(result.count).toBe(15);
+      expect(result.report).toContain("... and 5 more");
+    });
+
+    test("includes fix hint when provided", () => {
+      const violations = [{ file: "test.js", line: 1 }];
+      const result = formatViolationReport(violations, {
+        fixHint: "Remove the issue",
+      });
+      expect(result.report).toContain("To fix: Remove the issue");
+    });
+  });
+
+  describe("createPatternMatcher", () => {
+    const testMatcherResult = (matcher, input, expectedResult) => {
+      const result = matcher(input, 5, "", "test.js");
+      if (expectedResult === null) {
+        expect(result).toBeNull();
+      } else if (typeof expectedResult === "object") {
+        expect(result).not.toBeNull();
+        for (const [key, value] of Object.entries(expectedResult)) {
+          expect(result[key]).toBe(value);
+        }
+      }
+    };
+
+    const consoleLogMatcher = createPatternMatcher(
+      /console\.log/,
+      (line, num) => ({
+        file: "test.js",
+        line: num,
+        code: line,
+      }),
+    );
+
+    test("creates a matcher that finds patterns", () => {
+      testMatcherResult(consoleLogMatcher, 'console.log("test")', { line: 5 });
+    });
+
+    test("returns null when pattern not found", () => {
+      testMatcherResult(consoleLogMatcher, "const x = 1;", null);
+    });
+
+    test("works with array of patterns", () => {
+      const matcher = createPatternMatcher(
+        [/foo/, /bar/],
+        (_line, num, match) => ({
+          line: num,
+          match: match[0],
+        }),
+      );
+
+      expect(matcher("foo()", 1, "", "test.js").match).toBe("foo");
+      expect(matcher("bar()", 2, "", "test.js").match).toBe("bar");
+    });
+  });
+
+  describe("scanFilesForViolations", () => {
+    test("scans files and collects violations", () => {
+      // Use a small subset of files for testing
+      const testFiles = SRC_JS_FILES().slice(0, 2);
+      const violations = scanFilesForViolations(
+        testFiles,
+        (line, lineNum, _source, relativePath) => {
+          // Just check for any 'const' declarations as a simple test
+          if (line.includes("export const")) {
+            return { file: relativePath, line: lineNum, code: line.trim() };
+          }
+          return null;
+        },
+      );
+
+      // Should find at least some exports in source files
+      expect(Array.isArray(violations)).toBe(true);
+    });
+  });
+
+  describe("createCodeChecker", () => {
+    test("creates find and analyze functions", () => {
+      const { find, analyze } = createCodeChecker({
+        patterns: /test_pattern_xyz/,
+        files: [],
+      });
+
+      expect(typeof find).toBe("function");
+      expect(typeof analyze).toBe("function");
+    });
+
+    test("find function returns matches", () => {
+      const { find } = createCodeChecker({
+        patterns: /hello/,
+        skipPatterns: [],
+        files: [],
+      });
+
+      const results = find("hello world\ngoodbye");
+      expect(results.length).toBe(1);
+      expect(results[0].lineNumber).toBe(1);
+      expect(results[0].line).toBe("hello world");
+    });
+
+    test("find function skips lines matching skipPatterns", () => {
+      const { find } = createCodeChecker({
+        patterns: /hello/,
+        skipPatterns: [/^\/\//],
+        files: [],
+      });
+
+      const results = find("// hello comment\nhello code");
+      expect(results.length).toBe(1);
+      expect(results[0].line).toBe("hello code");
+    });
+
+    test("extractData adds custom fields", () => {
+      const { find } = createCodeChecker({
+        patterns: /(\w+)\(\)/,
+        skipPatterns: [],
+        extractData: (_line, _num, match) => ({ funcName: match[1] }),
+        files: [],
+      });
+
+      const results = find("foo()");
+      expect(results[0].funcName).toBe("foo");
+    });
+
+    test("extractData returning null filters out the match", () => {
+      const { find } = createCodeChecker({
+        patterns: /hello/,
+        skipPatterns: [],
+        extractData: () => null,
+        files: [],
+      });
+
+      const results = find("hello world");
+      expect(results.length).toBe(0);
+    });
+
+    test("analyze function processes files and returns violations/allowed", () => {
+      const { analyze } = createCodeChecker({
+        patterns: /this_pattern_should_not_match_anything_xyz123/,
+        files: SRC_JS_FILES().slice(0, 1),
+      });
+
+      const { violations, allowed } = analyze();
+      expect(Array.isArray(violations)).toBe(true);
+      expect(Array.isArray(allowed)).toBe(true);
+      expect(violations.length).toBe(0);
+    });
+  });
+
+  describe("validateExceptions", () => {
+    // Helper to validate single stale exception
+    const testStaleException = (
+      allowlist,
+      patterns,
+      expectedEntry,
+      expectedReasonPattern,
+    ) => {
+      const stale = validateExceptions(allowlist, patterns);
+      expect(stale.length).toBe(1);
+      expect(stale[0].entry).toBe(expectedEntry);
+      expect(stale[0].reason).toMatch(expectedReasonPattern);
+    };
+
+    test("returns empty array when all exceptions are valid", () => {
+      const allowlist = frozenSet([
+        "test/code-scanner.js:5", // import statement
+        "test/code-scanner.js:6", // import statement
+      ]);
+      const patterns = /import/;
+
+      const stale = validateExceptions(allowlist, patterns);
+      expect(stale).toEqual([]);
+    });
+
+    test("skips file-only entries without line numbers", () => {
+      const entries = frozenSet([
+        "test/code-scanner.js", // file-only entry, should be skipped
+        "test/code-scanner.js:6", // should be validated
+      ]);
+      const patterns = /import/;
+
+      const stale = validateExceptions(entries, patterns);
+      expect(stale).toEqual([]);
+    });
+
+    test("detects when line number exceeds file length", () => {
+      testStaleException(
+        frozenSet(["test/code-scanner.js:999999"]),
+        /./,
+        "test/code-scanner.js:999999",
+        /Line 999999 doesn't exist/,
+      );
+    });
+
+    test("detects when line number is less than 1", () => {
+      testStaleException(
+        frozenSet(["test/code-scanner.js:0"]),
+        /./,
+        "test/code-scanner.js:0",
+        /Line 0 doesn't exist/,
+      );
+    });
+
+    test("detects when line no longer matches pattern", () => {
+      testStaleException(
+        frozenSet(["test/code-scanner.js:1"]),
+        /console\.log/,
+        "test/code-scanner.js:1",
+        /Line no longer matches pattern/,
+      );
+    });
+
+    test("works with multiple patterns", () => {
+      const allowlist = frozenSet(["test/code-scanner.js:5"]);
+      const patterns = [/console\.log/, /import/]; // Line 5 should match import
+
+      const stale = validateExceptions(allowlist, patterns);
+      expect(stale).toEqual([]);
+    });
+
+    test("detects file-only entry with no matching lines", () => {
+      testStaleException(
+        frozenSet(["test/code-scanner.js"]),
+        /this-pattern-definitely-wont-match-anything-12345/,
+        "test/code-scanner.js",
+        /File contains no lines matching pattern/,
+      );
+    });
+
+    test("detects multiple stale entries", () => {
+      const allowlist = frozenSet([
+        "test/code-scanner.js:999999", // line doesn't exist
+        "test/code-scanner.js:1", // line doesn't match pattern
+      ]);
+      const patterns = /console\.log/; // Line 1 won't match this
+
+      const stale = validateExceptions(allowlist, patterns);
+      expect(stale.length).toBe(2);
+    });
+  });
+
+  describe("expectNoStaleExceptions", () => {
+    test("logs stale entries when exceptions are invalid", () => {
+      const allowlist = frozenSet([
+        "test/code-scanner.js:1", // line doesn't match pattern
+      ]);
+      const patterns = /this-pattern-wont-match-anything/;
+
+      const logs = captureConsole(() => {
+        // Call the function but catch the assertion error via expect().toThrow()
+        expect(() =>
+          expectNoStaleExceptions(allowlist, patterns, "TEST_ALLOWLIST"),
+        ).toThrow();
+      });
+
+      expect(
+        logs.some((log) => log.includes("Stale TEST_ALLOWLIST entries")),
+      ).toBe(true);
+      expect(logs.some((log) => log.includes("test/code-scanner.js:1"))).toBe(
+        true,
+      );
+    });
+  });
+
+  describe("isFunctionDefined", () => {
+    test("detects const function declarations", () => {
+      const source = "const myFunc = () => {}";
+      expect(isFunctionDefined("myFunc", source)).toBe(true);
+      expect(isFunctionDefined("otherFunc", source)).toBe(false);
+    });
+
+    test("detects let function declarations", () => {
+      const source = "let myFunc = function() {}";
+      expect(isFunctionDefined("myFunc", source)).toBe(true);
+    });
+
+    test("detects var function declarations", () => {
+      const source = "var myFunc = () => {}";
+      expect(isFunctionDefined("myFunc", source)).toBe(true);
+    });
+
+    test("detects function keyword declarations", () => {
+      const source = "function myFunc() {}";
+      expect(isFunctionDefined("myFunc", source)).toBe(true);
+    });
+
+    test("detects destructuring assignments", () => {
+      const source = "const { x: myFunc } = obj";
+      expect(isFunctionDefined("myFunc", source)).toBe(true);
+    });
+  });
+
+  describe("validateFunctionAllowlist", () => {
+    test("returns empty array when all functions are defined", () => {
+      const allowlist = frozenSet(["funcA", "funcB"]);
+      const source = "const funcA = () => {}\nconst funcB = () => {}";
+      const stale = validateFunctionAllowlist(allowlist, source);
+      expect(stale).toEqual([]);
+    });
+
+    test("returns stale entries for undefined functions", () => {
+      const allowlist = frozenSet(["funcA", "missingFunc"]);
+      const source = "const funcA = () => {}";
+      const stale = validateFunctionAllowlist(allowlist, source);
+      expect(stale.length).toBe(1);
+      expect(stale[0].entry).toBe("missingFunc");
+      expect(stale[0].reason).toBe("Function is not defined in any file");
+    });
+
+    test("returns all stale entries when none are defined", () => {
+      const allowlist = frozenSet(["missing1", "missing2"]);
+      const source = "const other = () => {}";
+      const stale = validateFunctionAllowlist(allowlist, source);
+      expect(stale.length).toBe(2);
+    });
+  });
+
+  describe("noStaleAllowlist", () => {
+    test("logs stale entries when functions are not defined", () => {
+      const allowlist = frozenSet(["missingFunc"]);
+      const source = "const other = () => {}";
+
+      const logs = captureConsole(() => {
+        expect(() =>
+          noStaleAllowlist(allowlist, source, "TEST_FUNCTION_ALLOWLIST"),
+        ).toThrow();
+      });
+
+      expect(
+        logs.some((log) => log.includes("Stale TEST_FUNCTION_ALLOWLIST")),
+      ).toBe(true);
+      expect(logs.some((log) => log.includes("missingFunc"))).toBe(true);
+    });
+
+    test("passes when all functions are defined", () => {
+      const allowlist = frozenSet(["myFunc"]);
+      const source = "const myFunc = () => {}";
+
+      expect(() =>
+        noStaleAllowlist(allowlist, source, "TEST_ALLOWLIST"),
+      ).not.toThrow();
+    });
+  });
+});

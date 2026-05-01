@@ -17,67 +17,16 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
         with:
-          path: source
           fetch-depth: 1
-          sparse-checkout-cone-mode: false
-          sparse-checkout: |
-            /*
-            !old_site/
-
-      - name: Checkout Chobble Template
-        uses: actions/checkout@v4
-        with:
-          repository: chobble-mirror/chobble-template
-          ref: 97f6683e381bd4f922ebb816be95aa265c0f838d
-          path: template
-          fetch-depth: 1
-          sparse-checkout-cone-mode: false
-          sparse-checkout: |
-            .eleventy.js
-            package.json
-            bun.lockb
-            flake.nix
-            flake.lock
-            bin
-            scripts
-            src
-            packages
-
-      - name: Copy template files to combined dir
-        run: |
-          mkdir -p combined
-          rsync \
-            --recursive \
-            --verbose \
-            --delete \
-            --exclude=".git" \
-            --exclude="*.md" \
-            --exclude="landing-pages" \
-            template/ \
-            combined/
-
-      - name: Overlay our repo files into combined src
-        run: |
-          rsync \
-            --recursive \
-            --verbose \
-            --exclude=".*" \
-            --exclude="README.md" \
-            --exclude="old_site" \
-            --exclude="package.json" \
-            --exclude="package-lock.json" \
-            --exclude="bun.lockb" \
-            source/ \
-            combined/src/
 
       - name: Update site.json with secrets
         run: |
           sed -i \
             's/"formspark_id": null/"formspark_id": "${{ secrets.FORMSPARK_ID }}"/g' \
-            "combined/src/_data/config.json"
+            "src/_data/config.json"
           sed -i \
             's/"botpoison_public_key": null/"botpoison_public_key": "${{ secrets.BOTPOISON_PUBLIC_KEY }}"/g' \
-            "combined/src/_data/config.json"
+            "src/_data/config.json"
 
       - name: Check for existing Bun
         id: bun-check
@@ -98,18 +47,15 @@ jobs:
       - name: Restore image cache
         uses: maxnowack/local-cache@v2
         with:
-          path: combined/.image-cache
-          key: images-${{ hashFiles('source/images/**/*', 'source/_data/config.json') }}
+          path: .image-cache
+          key: images-${{ hashFiles('src/images/**/*', 'src/_data/config.json') }}
           restore-keys: |
             images-
 
       - name: Build with Bun
         run: |
-          cd combined
           bun install --frozen-lockfile
           bun scripts/eleventy-build.js
-          mkdir -p ../_site
-          mv _site/* ../_site/
 
       - name: Set deployment environment
         id: deployment_env

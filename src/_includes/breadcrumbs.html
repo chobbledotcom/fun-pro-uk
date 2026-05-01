@@ -1,0 +1,6 @@
+{%- assign crumbs = page | breadcrumbsFilter: title, navigationParent, parentLocation, parent, categories, collections, property, parentGuideCategory -%}
+{%- if crumbs.size > 0 -%}
+<div class="design-system">
+  {%- include "breadcrumbs-nav.html" -%}
+</div>
+{%- endif -%}

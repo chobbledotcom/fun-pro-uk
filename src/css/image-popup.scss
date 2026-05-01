@@ -1,0 +1,120 @@
+// Image Popup Styles
+// Fullscreen lightbox for gallery images
+
+@use "breakpoints";
+
+dialog.image-popup {
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 0;
+  margin: auto;
+  width: calc(100% - 1rem);
+  height: calc(100% - 1rem);
+  max-width: none;
+  max-height: none;
+
+  @include breakpoints.up("md") {
+    width: calc(100% - 2rem);
+    height: calc(100% - 2rem);
+  }
+
+  &[open] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .popup-image {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 100%;
+    min-width: 0;
+  }
+
+  .image-wrapper {
+    height: 100%;
+    height: -webkit-fill-availble;
+    height: -moz-available;
+    height: stretch;
+    width: 100%;
+    width: -webkit-fill-availble;
+    width: -moz-available;
+    width: stretch;
+    cursor: pointer;
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .popup-nav {
+    position: relative;
+    z-index: 1;
+    flex-shrink: 0;
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 50%;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    transition: background-color 0.2s;
+
+    @include breakpoints.up("md") {
+      width: 3rem;
+      height: 3rem;
+    }
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.7);
+    }
+
+    svg {
+      width: 1.5rem;
+      height: 1.5rem;
+
+      @include breakpoints.up("md") {
+        width: 2rem;
+        height: 2rem;
+      }
+    }
+  }
+
+  [data-nav="prev"] {
+    margin-right: 0.5rem;
+
+    @include breakpoints.up("md") {
+      margin-right: 1rem;
+    }
+  }
+
+  [data-nav="next"] {
+    margin-left: 0.5rem;
+
+    @include breakpoints.up("md") {
+      margin-left: 1rem;
+    }
+  }
+}
+
+// Scroll lock when popup is open
+html:has(dialog.image-popup[open]) {
+  overflow: hidden;
+  scrollbar-gutter: stable;
+}
+
+// Make current image clickable
+.current-image {
+  cursor: zoom-in;
+}

@@ -1,0 +1,2 @@
+{%- assign image_filename = image | split: "/" | last -%}
+{{- altTagsLookup[image_filename] | default: "" -}}

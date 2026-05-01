@@ -1,0 +1,95 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+
+// =============================================================================
+// FEATURES
+// =============================================================================
+// Semantic markup: <ul class="features"> with <li> wrapping each <article class="feature">
+
+.design-system {
+  ul.features {
+    @include grid-auto($width-card, $space-md);
+    list-style: none;
+  }
+
+  // Also support legacy div.features
+  div.features {
+    @include grid-auto($width-card, $space-md);
+  }
+
+  .feature-card,
+  .add-on-card {
+    @include card;
+    @include flex-col($gap: $space-md);
+
+    ul {
+      @include flex-col($gap: $space-sm);
+    }
+
+    li::marker {
+      color: var(--list-marker-color);
+    }
+  }
+
+  .feature-card ul {
+    list-style: "★ ";
+  }
+
+  .add-on-card ul {
+    list-style: "+ ";
+  }
+
+  section.dark .feature {
+    --color-card-bg: var(--color-dark-bg-alt);
+  }
+
+  > section.dark:nth-child(even) .feature,
+  main > section.dark:nth-child(even) .feature {
+    --color-card-bg: #{$color-dark-bg};
+  }
+
+  .feature {
+    @include card($space-md, $radius-lg);
+    @include card-hover;
+    // When inside a list, ensure full height for grid alignment
+    height: 100%;
+
+    // Grid layout: icon + heading on row 1, description spans full width on row 2
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto 1fr;
+    gap: $space-xs $space-md;
+    align-items: start;
+
+    .icon {
+      grid-row: 1;
+      grid-column: 1;
+    }
+
+    h3,
+    h4 {
+      @include heading-sm;
+      grid-row: 1;
+      grid-column: 2;
+      align-self: center;
+    }
+
+    .prose {
+      @include body-base;
+      color: var(--color-text-muted);
+      grid-row: 2;
+      grid-column: 1 / -1;
+    }
+
+    // Code blocks in features should span full width below heading
+    pre {
+      grid-column: 1 / -1;
+    }
+
+    // When feature has no icon, heading should span full width
+    h3:first-child,
+    h4:first-child {
+      grid-column: 1 / -1;
+    }
+  }
+}

@@ -1,13 +1,26 @@
 #!/usr/bin/env bun
 
-import { join } from "node:path";
-import { exists, fs, loadEnv, path, readJson, write } from "./utils.js";
+import { existsSync, mkdirSync } from "node:fs";
+import { join, resolve } from "node:path";
+
+const root = resolve(import.meta.dir, "..");
+const path = (...segments) => join(root, ...segments);
+
+const loadEnv = async (p = path(".env")) => {
+  if (!existsSync(p)) return;
+  for (const line of (await Bun.file(p).text()).split("\n")) {
+    const [key, ...val] = line.split("=");
+    if (key && val.length && !process.env[key]) {
+      process.env[key] = val.join("=").trim();
+    }
+  }
+};
 
 await loadEnv();
 
 const CONFIG = {
-  siteConfig: path("_data", "site.json"),
-  reviewsDir: path("reviews"),
+  siteConfig: path("src", "_data", "site.json"),
+  reviewsDir: path("src", "reviews"),
   actorId: "nwua9Gu5YrADL7ZDj",
   maxReviews: 9999,
 };
@@ -60,9 +73,9 @@ const saveReview = async (review, dir) => {
   const filename = formatFilename(review.author, review.date);
   const filepath = join(dir, filename);
 
-  if (await exists(filepath)) return false;
+  if (existsSync(filepath)) return false;
 
-  await write(
+  await Bun.write(
     filepath,
     `---
 name: ${review.author}
@@ -85,18 +98,18 @@ const main = async () => {
     process.exit(1);
   }
 
-  if (!(await exists(CONFIG.siteConfig))) {
+  if (!existsSync(CONFIG.siteConfig)) {
     console.error(`Error: ${CONFIG.siteConfig} not found`);
     process.exit(1);
   }
 
-  const siteConfig = await readJson(CONFIG.siteConfig);
+  const siteConfig = JSON.parse(await Bun.file(CONFIG.siteConfig).text());
   if (!siteConfig.google_place_id) {
     console.error("Error: google_place_id missing from site.json");
     process.exit(1);
   }
 
-  fs.mkdir(CONFIG.reviewsDir);
+  mkdirSync(CONFIG.reviewsDir, { recursive: true });
 
   const reviews = await fetchReviews(siteConfig.google_place_id);
   console.log(`Found ${reviews.length} reviews`);

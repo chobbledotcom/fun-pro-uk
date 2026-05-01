@@ -1,0 +1,283 @@
+import { describe, expect, test } from "bun:test";
+import {
+  configureCategories,
+  getSubcategories,
+} from "#collections/categories.js";
+import {
+  createMockEleventyConfig,
+  expectDataArray,
+  getCollectionFrom,
+} from "#test/test-utils.js";
+import { map } from "#toolkit/fp/array.js";
+
+const expectHeaderImages = expectDataArray("header_image");
+
+// Fixture builders
+const cat = (slug, headerImage, extraData = {}) => ({
+  fileSlug: slug,
+  data: {
+    ...(headerImage !== undefined && { header_image: headerImage }),
+    ...extraData,
+  },
+});
+
+const cats = map(([slug, headerImage, extraData]) =>
+  cat(slug, headerImage, extraData),
+);
+
+const prod = ({ order, cats: c = [], headerImage, ...extra } = {}) => ({
+  data: {
+    ...(order !== undefined && { order }),
+    categories: c,
+    ...(headerImage && { header_image: headerImage }),
+    ...extra,
+  },
+});
+
+const prods = map(prod);
+
+const getCollection = getCollectionFrom("categories")(configureCategories);
+
+describe("categories", () => {
+  describe("configureCategories", () => {
+    test("registers collection with Eleventy", () => {
+      const mockConfig = createMockEleventyConfig();
+      configureCategories(mockConfig);
+      expect(typeof mockConfig.collections.categories).toBe("function");
+    });
+  });
+
+  describe("categories collection", () => {
+    test("returns empty array when no categories exist", () => {
+      expect(getCollection({ categories: [], products: [] })).toEqual([]);
+    });
+
+    test("returns categories with their own header images when no products", () => {
+      const categories = cats([
+        ["widgets", "widget-header.jpg", { title: "Widgets" }],
+        ["gadgets", "gadget-header.jpg", { title: "Gadgets" }],
+      ]);
+      expectHeaderImages(getCollection({ categories, products: [] }), [
+        "widget-header.jpg",
+        "gadget-header.jpg",
+      ]);
+    });
+
+    test("inherits header image from highest-order product in category", () => {
+      const categories = cats([["widgets", undefined]]);
+      const products = prods([
+        { order: 2, cats: ["widgets"], headerImage: "low-priority.jpg" },
+        { order: 5, cats: ["widgets"], headerImage: "high-priority.jpg" },
+        { order: 3, cats: ["widgets"], headerImage: "mid-priority.jpg" },
+      ]);
+      expectHeaderImages(getCollection({ categories, products }), [
+        "high-priority.jpg",
+      ]);
+    });
+
+    test("uses category default when products have no header images", () => {
+      const categories = [cat("widgets", "widget-header.jpg")];
+      const products = [prod({ order: 10, cats: ["widgets"] })];
+      expectHeaderImages(getCollection({ categories, products }), [
+        "widget-header.jpg",
+      ]);
+    });
+
+    test("category own header image takes priority over products", () => {
+      const categories = [cat("widgets", "widget-header.jpg")];
+      const products = [
+        prod({ cats: ["widgets"], headerImage: "product-image.jpg" }),
+      ];
+      expectHeaderImages(getCollection({ categories, products }), [
+        "widget-header.jpg",
+      ]);
+    });
+
+    test("handles products in multiple categories", () => {
+      const categories = cats([
+        ["widgets", "widget-default.jpg"],
+        ["gadgets", "gadget-default.jpg"],
+      ]);
+      const products = [
+        prod({
+          order: 5,
+          cats: ["widgets", "gadgets"],
+          headerImage: "shared-image.jpg",
+        }),
+      ];
+      expectHeaderImages(getCollection({ categories, products }), [
+        "widget-default.jpg",
+        "gadget-default.jpg",
+      ]);
+    });
+
+    test("ignores products without categories", () => {
+      const categories = [cat("widgets", "widget-header.jpg")];
+      const products = [prod({ order: 10, headerImage: "orphan-image.jpg" })];
+      expectHeaderImages(getCollection({ categories, products }), [
+        "widget-header.jpg",
+      ]);
+    });
+
+    test("preserves category data properties", () => {
+      const categories = cats([
+        ["widgets", undefined, { title: "Widgets", featured: true }],
+      ]);
+      const products = prods([
+        { order: 5, cats: ["widgets"], headerImage: "product.jpg" },
+      ]);
+      const result = getCollection({ categories, products });
+
+      expect(result[0].data.title).toBe("Widgets");
+      expect(result[0].data.featured).toBe(true);
+      expect(result[0].data.header_image).toBe("product.jpg");
+    });
+
+    test("handles complex scenario with multiple categories and products", () => {
+      const categories = cats([
+        ["widgets", "widget-default.jpg"],
+        ["gadgets", "gadget-default.jpg"],
+        ["tools", undefined],
+      ]);
+      const products = prods([
+        {
+          order: 3,
+          cats: ["widgets", "gadgets"],
+          headerImage: "cross-category.jpg",
+        },
+        { order: 1, cats: ["widgets"], headerImage: "low-priority-widget.jpg" },
+        { order: 5, cats: ["tools"], headerImage: "high-priority-tool.jpg" },
+        { cats: ["gadgets"], headerImage: "default-order-gadget.jpg" },
+      ]);
+      // widgets: has own image, keeps it
+      // gadgets: has own image, keeps it
+      // tools: no own image, gets highest-order product (order 5)
+      expectHeaderImages(getCollection({ categories, products }), [
+        "widget-default.jpg",
+        "gadget-default.jpg",
+        "high-priority-tool.jpg",
+      ]);
+    });
+  });
+
+  describe("thumbnail fallback chain", () => {
+    const expectThumbnail = (categories, expected, products = []) => {
+      const result = getCollection({ categories, products });
+      expect(result[0].data.thumbnail).toBe(expected);
+    };
+
+    test("uses header_image as thumbnail for the current category", () => {
+      expectThumbnail([cat("widgets", "banner.jpg")], "banner.jpg");
+    });
+
+    test("uses own thumbnail when no header_image", () => {
+      expectThumbnail(
+        [cat("widgets", undefined, { thumbnail: "thumb.jpg" })],
+        "thumb.jpg",
+      );
+    });
+
+    test("header_image takes priority over own thumbnail", () => {
+      expectThumbnail(
+        [cat("widgets", "banner.jpg", { thumbnail: "thumb.jpg" })],
+        "banner.jpg",
+      );
+    });
+
+    test("falls back to subcategory thumbnail before direct products", () => {
+      const categories = [
+        cat("electronics", undefined),
+        cat("phones", undefined, {
+          parent: "electronics",
+          thumbnail: "phones-thumb.jpg",
+        }),
+      ];
+      const products = prods([
+        { cats: ["electronics"], thumbnail: "direct-product.jpg" },
+      ]);
+      expectThumbnail(categories, "phones-thumb.jpg", products);
+    });
+
+    test("subcategory resolution uses thumbnail, not header_image", () => {
+      const categories = [
+        cat("electronics", undefined),
+        cat("phones", "phones-banner.jpg", { parent: "electronics" }),
+      ];
+      const products = prods([
+        { cats: ["electronics"], thumbnail: "direct-product.jpg" },
+      ]);
+      // phones has header_image but no thumbnail; subcategory resolution
+      // only checks thumbnail, so falls through to direct product
+      expectThumbnail(categories, "direct-product.jpg", products);
+    });
+
+    test("falls back to product in subcategory", () => {
+      const categories = [
+        cat("electronics", undefined),
+        cat("phones", undefined, { parent: "electronics" }),
+      ];
+      const products = prods([
+        { cats: ["phones"], thumbnail: "phone-product.jpg" },
+      ]);
+      const result = getCollection({ categories, products });
+      expect(result[0].data.thumbnail).toBe("phone-product.jpg");
+    });
+
+    test("own thumbnail beats products; products used as final fallback", () => {
+      const products = prods([
+        { cats: ["widgets", "gadgets"], thumbnail: "product-thumb.jpg" },
+      ]);
+      const withOwn = [cat("widgets", undefined, { thumbnail: "own.jpg" })];
+      const withoutOwn = [cat("gadgets", undefined)];
+      expect(
+        getCollection({ categories: withOwn, products })[0].data.thumbnail,
+      ).toBe("own.jpg");
+      expect(
+        getCollection({ categories: withoutOwn, products })[0].data.thumbnail,
+      ).toBe("product-thumb.jpg");
+    });
+
+    test("inherits from lowest-order subcategory first", () => {
+      const categories = [
+        cat("widgets", undefined),
+        cat("premium", undefined, { parent: "widgets", order: 1 }),
+        cat("budget", undefined, { parent: "widgets", order: 2 }),
+      ];
+      const products = prods([
+        { cats: ["premium"], thumbnail: "premium-thumb.jpg" },
+        { cats: ["budget"], thumbnail: "budget-thumb.jpg" },
+      ]);
+      const result = getCollection({ categories, products });
+      expect(result[0].data.thumbnail).toBe("premium-thumb.jpg");
+    });
+
+    test("returns undefined when no images exist anywhere", () => {
+      const categories = [
+        cat("widgets", undefined),
+        cat("sub", undefined, { parent: "widgets" }),
+      ];
+      expect(
+        getCollection({ categories, products: [] })[0].data.thumbnail,
+      ).toBeUndefined();
+    });
+  });
+
+  describe("getSubcategories", () => {
+    test("returns subcategories matching parent slug", () => {
+      const categories = [
+        cat("widgets", undefined, { parent: "root" }),
+        cat("gadgets", undefined, { parent: "root" }),
+        cat("tools", undefined, { parent: "other" }),
+      ];
+      const result = getSubcategories(categories, "root");
+      expect(result).toHaveLength(2);
+      expect(result[0].fileSlug).toBe("widgets");
+      expect(result[1].fileSlug).toBe("gadgets");
+    });
+
+    test("returns empty array for unknown parent", () => {
+      const categories = [cat("widgets", undefined, { parent: "root" })];
+      expect(getSubcategories(categories, "nonexistent")).toEqual([]);
+    });
+  });
+});

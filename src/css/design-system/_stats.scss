@@ -1,0 +1,50 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// STATS
+// =============================================================================
+// Semantic markup: <dl class="stats"> with <div class="stat"> containing
+// <dt> (label) and <dd> with <strong> (value), visually reordered via flex
+
+.design-system {
+  dl.stats {
+    @include flex-wrap($space-xl);
+    justify-content: center;
+  }
+
+  // Also support legacy div.stats
+  div.stats {
+    @include flex-wrap($space-xl);
+    justify-content: center;
+  }
+
+  .stat {
+    @include flex-col($space-xs, center);
+    text-align: center;
+    min-width: 150px;
+    padding: $space-xs $space-sm;
+
+    dt {
+      @include body-base;
+      color: var(--color-text-muted);
+      order: 1;
+    }
+
+    dd {
+      order: 0;
+
+      strong {
+        font-size: $font-size-4xl;
+        font-weight: 700;
+        color: var(--color-link);
+        line-height: 1;
+
+        @include breakpoint.up("md") {
+          font-size: $font-size-5xl;
+        }
+      }
+    }
+  }
+}

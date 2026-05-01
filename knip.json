@@ -1,0 +1,34 @@
+{
+	"$schema": "https://unpkg.com/knip@5/schema.json",
+	"entry": [
+		".eleventy.js",
+		"src/_data/**/*.{js,mjs}",
+		"src/**/*.11tydata.js",
+		"src/_lib/public/bundle.js",
+		"src/_lib/public/design-system.js",
+		"src/_lib/public/bunny-video.js",
+		"src/_lib/public/youtube-video.js",
+		"src/_lib/public/masonry.js",
+		"bin/profile-report.js",
+		"test/**/*.test.js",
+		"test/build-profiling.js",
+		"test/demo-precommit-errors.js",
+		"packages/js-toolkit/fp/index.js",
+		"packages/js-toolkit/test-utils/index.js",
+		"packages/js-toolkit/code-quality/index.js"
+	],
+	"project": ["**/*.{js,mjs}"],
+	"ignore": [
+		"src/assets/**",
+		"src/_lib/public/ui/search.js"
+	],
+	"ignoreDependencies": [
+		"bun-types",
+		"pagefind",
+		"zod"
+	],
+	"ignoreBinaries": [],
+	"ignoreExportsUsedInFile": true,
+	"rules": {},
+	"eleventy": false
+}

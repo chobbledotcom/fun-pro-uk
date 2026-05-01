@@ -1,7 +1,11 @@
 import { readdirSync, statSync } from "node:fs";
-import { join, relative } from "node:path";
-import { path, read, write } from "./utils.js";
+import { join, relative, resolve } from "node:path";
 import { parse } from "yaml";
+
+const root = resolve(import.meta.dir, "..");
+const path = (...segments) => join(root, "src", ...segments);
+const read = (p) => Bun.file(p).text();
+const write = Bun.write;
 
 const getMarkdownFiles = (dir) => {
   const files = [];

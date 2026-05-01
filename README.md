@@ -1,41 +1,49 @@
-# Chobble Client Site Builder
+# fun-pro-uk
 
-Quick static site generator that combines the [Chobble Template](https://git.chobble.com/chobble/chobble-template/) with your content.
+Static site for fun-pro.uk, built with Eleventy.
 
 ## Quick Start
 
-1. **Add your content** - Edit markdown files and images in the relevant folders
+1. **Add your content** - Edit markdown files and images under `src/`
 2. **Push to GitHub** - The site builds automatically via GitHub Actions
-3. **Deploy happens automatically** - Site deploys to Neocities (or your chosen host)
+3. **Deploy happens automatically** - Site deploys to Bunny CDN
 
 ## What Goes Where
 
-The `.pages.yml` defines all your content types:
-- `pages/` - Static pages with navigation
-- `news/` - Blog posts with dates
-- `products/` - Shop items with prices and Etsy links
-- `categories/` - Product categories
-- `team/` - Team member profiles
-- `reviews/` - Customer testimonials
-- `events/` - Upcoming events
-- `menus/`, `menu-categories/`, `menu-items/` - Restaurant menu system
-- `snippets/` - Reusable content bits
-- `images/` - All your images
+All site content lives under `src/`. The `.pages.yml` defines content types
+exposed via the CMS:
 
-## How It Works
-
-When you push to GitHub:
-1. GitHub Actions merges your content with the template
-2. Builds the static site with Eleventy
-3. Deploys to your configured hosting (Neocities by default)
+- `src/pages/` - Static pages with navigation
+- `src/news/` - Blog posts with dates
+- `src/products/` - Product listings
+- `src/categories/` - Product categories
+- `src/team/` - Team member profiles
+- `src/reviews/` - Customer testimonials
+- `src/events/` - Events
+- `src/locations/` - Service locations
+- `src/case-studies/` - Case studies
+- `src/snippets/` - Reusable content bits
+- `src/images/` - All site images
 
 ## Configuration
 
-Set these GitHub secrets for your repo:
-- `NEOCITIES_API_KEY` - For deployment
-- `FORMSPARK_ID` - For contact forms (optional)
-- `BOTPOISON_PUBLIC_KEY` - For spam protection (optional)
+The following GitHub secrets are used by the build:
+
+- `BUNNY_*` - Bunny CDN deployment credentials
+- `FORMSPARK_ID` - Contact form provider (optional)
+- `BOTPOISON_PUBLIC_KEY` - Spam protection (optional)
 
 ## Local Development
 
-Run `./bin/build` to build locally. The output appears in `result/`.
+```sh
+bun install
+bun run serve   # dev server with incremental rebuilds
+bun run build   # production build into ./_site
+bun run test    # run the test suite
+```
+
+A Nix flake is provided for a reproducible dev shell:
+
+```sh
+nix develop
+```

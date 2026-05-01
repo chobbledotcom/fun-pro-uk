@@ -1,0 +1,4 @@
+{% assign categories = collections.categories | getSubcategories: page.fileSlug %}
+{% if categories.size > 0 %}
+  {%- include "items.html", items: categories -%}
+{% endif %}
