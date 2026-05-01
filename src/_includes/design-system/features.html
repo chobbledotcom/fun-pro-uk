@@ -1,0 +1,47 @@
+{%- comment -%}
+Features grid with list semantics.
+
+Parameters (via block object):
+  - block.items: Array of feature objects with properties:
+    - icon: Icon content. Supported formats:
+        - Iconify ID: "prefix:name" (e.g., "hugeicons:home-01", "hugeicons:settings-02")
+        - Image path: starts with "/" (e.g., "/images/icon.svg")
+        - Raw content: emoji or HTML entity (e.g., "&#128640;")
+    - icon_label: Accessible label for icon (optional, defaults to decorative)
+    - title: Feature title
+    - description: Feature description (supports markdown)
+    - style: Optional inline styles (e.g., for custom colors)
+  - block.reveal: If true, adds data-reveal animation (default: true)
+  - block.center: If true, centers feature text (default: false)
+  - block.intro_content: Optional markdown intro rendered above the grid
+
+Usage:
+  {% include "design-system/features.html", block: { items: page.features } %}
+
+  Where page.features = [
+    { icon: "hugeicons:rocket", title: "Fast", description: "Static HTML" },
+    { icon: "&#128640;", title: "Emoji", description: "HTML entity icon" },
+    { icon: "/images/icon.svg", title: "Custom", description: "Path-based icon" },
+    ...
+  ]
+{%- endcomment -%}
+
+{%- assign reveal = block.reveal | default: true -%}
+
+{%- include "design-system/block-intro.html" -%}
+
+<ul class="features{% if block.center %} text-center{% endif %}" role="list">
+  {%- for item in block.items -%}
+  <li>
+    <article class="feature"{% if reveal %} data-reveal{% endif %}{% if item.style %} style="{{ item.style }}"{% endif %}>
+      {%- if item.icon -%}
+        {%- include "design-system/icon-badge.html", icon: item.icon, label: item.icon_label -%}
+      {%- endif -%}
+      <h3>{{ item.title }}</h3>
+      {%- if item.description -%}
+        <div class="prose">{{ item.description | renderContent: "md" }}</div>
+      {%- endif -%}
+    </article>
+  </li>
+  {%- endfor -%}
+</ul>

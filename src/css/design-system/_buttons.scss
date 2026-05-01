@@ -1,0 +1,40 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+
+// =============================================================================
+// BUTTONS
+// =============================================================================
+
+.design-system {
+  .btn {
+    @include button-base;
+    @include focus-ring;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    &--primary {
+      @include button-primary;
+
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    &--secondary {
+      @include button-secondary;
+    }
+    &--ghost {
+      @include button-ghost;
+    }
+    &--lg {
+      padding: $space-md $space-xl;
+      font-size: $font-size-md;
+    }
+    &--sm {
+      padding: $space-xs $space-md;
+      font-size: $font-size-sm;
+    }
+  }
+}

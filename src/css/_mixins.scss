@@ -1,0 +1,687 @@
+@use "variables" as *;
+@use "breakpoints" as breakpoint;
+
+// =============================================================================
+// RESET MIXINS
+// =============================================================================
+
+@mixin reset-spacing {
+  margin: 0;
+  padding: 0;
+}
+
+// =============================================================================
+// LAYOUT MIXINS
+// =============================================================================
+
+// Flex container with common configurations
+@mixin flex-row($gap: $space-md, $align: center, $justify: flex-start) {
+  display: flex;
+  flex-direction: row;
+  gap: $gap;
+  align-items: $align;
+  justify-content: $justify;
+}
+
+@mixin flex-col($gap: $space-md, $align: stretch, $justify: flex-start) {
+  display: flex;
+  flex-direction: column;
+  gap: $gap;
+  align-items: $align;
+  justify-content: $justify;
+}
+
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@mixin flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@mixin flex-wrap($gap: $space-md) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $gap;
+}
+
+// Grid layouts
+@mixin grid($columns: 1, $gap: $space-lg) {
+  display: grid;
+  grid-template-columns: repeat($columns, 1fr);
+  gap: $gap;
+}
+
+// Two-column responsive split: single column on mobile, two columns on md+.
+// Shared by .split, .split-callout, and .contact-form-block layouts.
+@mixin two-column-split {
+  @include grid(1, $space-2xl);
+
+  @include breakpoint.up("md") {
+    @include grid(2, $space-3xl);
+  }
+}
+
+@mixin grid-auto($min-width: 280px, $gap: $space-lg) {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax($min-width, 1fr));
+  gap: $gap;
+}
+
+// =============================================================================
+// CONTAINER & SPACING MIXINS
+// =============================================================================
+
+// Content container with inline centering and responsive padding
+@mixin container($max-width: $width-default) {
+  width: 100%;
+  max-width: $max-width;
+  margin-inline: auto;
+  padding-inline: $space-md;
+
+  @include breakpoint.up("md") {
+    padding-inline: $space-lg;
+  }
+}
+
+// Full-width section with inner container
+// Uses the --section-padding-y CSS custom property (defined in _base.scss)
+// so that sections, split-full panels, and themes all share one value.
+@mixin section {
+  padding-top: var(--section-padding-y);
+  padding-bottom: var(--section-padding-y);
+}
+
+// Compact section padding override
+@mixin section-compact {
+  --section-padding-y: calc(#{$space-2xl} * 0.6);
+
+  @include breakpoint.up("md") {
+    --section-padding-y: #{$space-2xl};
+  }
+}
+
+// =============================================================================
+// CARD & BOX MIXINS
+// =============================================================================
+
+@mixin card($padding: $space-lg, $radius: $radius-lg) {
+  padding: $padding;
+  border-radius: $radius;
+  border: $border-light;
+  background: var(--color-card-bg);
+}
+
+@mixin card-hover {
+  transition:
+    transform $transition-normal,
+    border-color $transition-normal,
+    outline-color $transition-normal;
+
+  &:hover {
+    transform: translateY(-2px);
+    border-color: rgba(0, 0, 0, 0.2);
+  }
+
+  // Focus styles for keyboard navigation
+  &:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+  }
+
+  &:focus-within {
+    border-color: var(--color-link);
+  }
+}
+
+@mixin glass($blur: 10px, $opacity: 0.8) {
+  background: rgba(255, 255, 255, $opacity);
+  backdrop-filter: blur($blur);
+  -webkit-backdrop-filter: blur($blur);
+}
+
+// =============================================================================
+// TYPOGRAPHY MIXINS
+// =============================================================================
+
+@mixin heading-xl {
+  font-size: $font-size-3xl;
+  line-height: $line-height-tight;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+
+  @include breakpoint.up("md") {
+    font-size: $font-size-4xl;
+  }
+
+  @include breakpoint.up("lg") {
+    font-size: $font-size-5xl;
+  }
+}
+
+@mixin heading-lg {
+  font-size: $font-size-2xl;
+  line-height: $line-height-tight;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+
+  @include breakpoint.up("md") {
+    font-size: $font-size-3xl;
+  }
+}
+
+@mixin heading-md {
+  font-size: $font-size-xl;
+  line-height: $line-height-snug;
+  font-weight: 600;
+
+  @include breakpoint.up("md") {
+    font-size: $font-size-2xl;
+  }
+}
+
+@mixin heading-sm {
+  font-size: $font-size-lg;
+  line-height: $line-height-snug;
+  font-weight: 600;
+}
+
+@mixin body-lg {
+  font-size: $font-size-md;
+  line-height: $line-height-relaxed;
+
+  @include breakpoint.up("md") {
+    font-size: $font-size-lg;
+  }
+}
+
+@mixin body-base {
+  font-size: $font-size-base;
+  line-height: $line-height-normal;
+}
+
+@mixin body-sm {
+  font-size: $font-size-sm;
+  line-height: $line-height-normal;
+}
+
+// Text balance for headings
+@mixin text-balance {
+  text-wrap: balance;
+}
+
+// Plain link: themed color, underline on hover only
+@mixin link-plain {
+  color: var(--color-link);
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Card link: solid text, highlight on hover
+@mixin link-card {
+  color: var(--color-text);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-link);
+  }
+}
+
+// Product card title + price typography. Used by the `.items` grid cards
+// (_items.scss) and the single-card `.buy-option-figure` in the
+// `split-buy-options` block (_buy-options.scss).
+@mixin product-card-typography($heading-selector: "h3") {
+  #{$heading-selector} {
+    @include heading-sm;
+
+    a {
+      @include link-card;
+    }
+  }
+
+  .price {
+    @include body-base;
+    font-weight: 600;
+    color: var(--color-link);
+  }
+}
+
+// FAQ definition list: question/answer pairs
+@mixin faqs-list {
+  @include flex-col($space-md);
+
+  dt {
+    @include heading-sm;
+  }
+
+  dd {
+    @include body-base;
+    color: var(--color-text-muted);
+    line-height: $line-height-relaxed;
+  }
+}
+
+// Contrast text custom properties for primary/dark panels
+@mixin contrast-text-vars {
+  color: var(--color-contrast-text);
+  --color-text: var(--color-contrast-text);
+  --color-text-muted: var(--color-contrast-text-muted);
+}
+
+// Dark section custom properties
+@mixin dark-section-vars {
+  background: #{$color-dark-bg};
+  color: #{$color-dark-text};
+  --color-bg: #{$color-dark-bg};
+  --body-background-alt: #{$color-dark-card-bg};
+  --color-text: #{$color-dark-text};
+  --color-text-muted: #{$color-dark-text-muted};
+  --color-card-bg: #{$color-dark-card-bg};
+  --color-tint: #{$color-dark-card-bg};
+}
+
+// =============================================================================
+// BUTTON MIXINS
+// =============================================================================
+
+@mixin button-base {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: $space-xs;
+  padding: $space-sm $space-lg;
+  font-size: $font-size-base;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  border-radius: $radius-md;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition:
+    background $transition-fast,
+    color $transition-fast,
+    border-color $transition-fast,
+    transform $transition-fast;
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
+
+@mixin button-primary {
+  @include button-base;
+  background: var(--color-link);
+  color: var(--color-contrast-text);
+
+  &:hover:not(:disabled) {
+    background: var(--color-link-hover);
+    color: var(--color-contrast-text);
+    transform: translateY(-1px);
+  }
+
+  &:active:not(:disabled) {
+    transform: translateY(0);
+  }
+}
+
+@mixin button-secondary {
+  @include button-base;
+  background: transparent;
+  border-color: var(--color-link);
+  color: var(--color-link);
+
+  &:hover:not(:disabled) {
+    background: var(--color-link);
+    color: var(--color-contrast-text);
+  }
+}
+
+@mixin button-ghost {
+  @include button-base;
+  background: transparent;
+  color: var(--color-text);
+
+  &:hover:not(:disabled) {
+    background: var(--color-hover-bg);
+  }
+}
+
+// =============================================================================
+// ANIMATION MIXINS
+// =============================================================================
+
+// Scroll reveal animation (use with IntersectionObserver)
+@mixin scroll-reveal {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@mixin scroll-reveal-left {
+  opacity: 0;
+  transform: translateX(-30px);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@mixin scroll-reveal-right {
+  opacity: 0;
+  transform: translateX(30px);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@mixin scroll-reveal-scale {
+  opacity: 0;
+  transform: scale(0.95);
+  transition:
+    opacity 0.6s ease,
+    transform 0.6s ease;
+
+  &.is-visible {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+// Staggered children animation
+@mixin stagger-children($delay: 0.1s, $max: 10) {
+  @for $i from 1 through $max {
+    &:nth-child(#{$i}) {
+      transition-delay: calc(#{$delay} * #{$i - 1});
+    }
+  }
+}
+
+// Hover float effect
+@mixin hover-float($distance: -4px) {
+  transition: transform $transition-normal;
+
+  &:hover {
+    transform: translateY($distance);
+  }
+}
+
+// =============================================================================
+// UTILITY MIXINS
+// =============================================================================
+
+// Screen reader only
+@mixin sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+// Aspect ratio container
+@mixin aspect-ratio($width: 16, $height: 9) {
+  aspect-ratio: #{$width} / #{$height};
+}
+
+// Responsive iframe embed (maps, videos, etc.)
+@mixin iframe-embed($ratio-w: 16, $ratio-h: 9) {
+  position: relative;
+  width: 100%;
+  aspect-ratio: #{$ratio-w} / #{$ratio-h};
+  overflow: hidden;
+
+  iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
+// Shared video-facade + video-wrapper styles.
+// Used anywhere a click-to-play video is rendered (cards, split-video, etc.)
+// so the look is consistent across the site. Scoping is left to the caller.
+@mixin video-media($radius: 0) {
+  .video-wrapper {
+    @include iframe-embed;
+  }
+
+  .video-facade {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    overflow: hidden;
+
+    .image-wrapper {
+      @include image-wrapper($border-radius: $radius);
+      aspect-ratio: 16 / 9;
+
+      img {
+        @include cover-img;
+      }
+    }
+
+    .video-play-button {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      transition:
+        transform $transition-fast,
+        opacity $transition-fast;
+
+      svg {
+        display: block;
+      }
+
+      .video-play-bg {
+        fill: var(--color-video-play-bg);
+        fill-opacity: 0.8;
+      }
+
+      .video-play-icon {
+        fill: var(--color-contrast-text);
+      }
+    }
+
+    &:hover .video-play-button {
+      transform: translate(-50%, -50%) scale(1.1);
+
+      .video-play-bg {
+        fill: var(--color-video-play-hover);
+        fill-opacity: 1;
+      }
+    }
+
+    &.video-facade--no-thumbnail {
+      background: var(--body-background-alt);
+      aspect-ratio: 16 / 9;
+    }
+  }
+}
+
+// Truncate text
+@mixin truncate($lines: 1) {
+  @if $lines == 1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  } @else {
+    display: -webkit-box;
+    -webkit-line-clamp: $lines;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+// Focus visible ring
+@mixin focus-ring {
+  &:focus {
+    outline: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+  }
+}
+
+// =============================================================================
+// MEDIA BACKGROUND CONTENT
+// =============================================================================
+// Shared styles for video-background and image-background content overlays.
+// No background tint is applied — tint the source image or video if needed.
+
+@mixin media-background-content {
+  > figure {
+    position: absolute;
+    inset: 0;
+    @include flex-center;
+    color: var(--color-contrast-text);
+    padding: $space-lg;
+
+    --color-text: var(--color-contrast-text);
+    --color-text-muted: var(--color-contrast-text-muted);
+  }
+
+  figcaption {
+    @include container($width-default);
+    text-align: center;
+    max-width: 100%;
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--color-contrast-text);
+      text-shadow: var(--shadow-sm);
+    }
+
+    p {
+      color: var(--color-contrast-text-muted);
+      text-shadow: var(--shadow-sm);
+    }
+
+    .btn, a.btn {
+      background: var(--color-contrast-text-muted);
+      color: var(--color-text);
+      border-color: transparent;
+
+      &:hover {
+        background: var(--color-contrast-text);
+      }
+    }
+
+    .btn--primary {
+      background: var(--color-link);
+      color: var(--color-contrast-text);
+      border-color: transparent;
+
+      &:hover {
+        background: var(--color-link-hover);
+      }
+    }
+  }
+}
+
+// Tinted accent background (used by badges, icons, etc.)
+@mixin tint-bg {
+  background: var(--color-tint);
+  color: var(--color-text);
+}
+
+// Brand gradient background
+@mixin brand-gradient {
+  background: linear-gradient(135deg, var(--color-link) 0%, var(--color-secondary) 100%);
+}
+
+// Cover image: fills parent container, cropping as needed
+@mixin cover-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+// =============================================================================
+// FORM INPUT BASE
+// =============================================================================
+// Shared input styles for forms and search fields.
+
+@mixin input-base {
+  width: 100%;
+  padding: $space-sm;
+  font-family: inherit;
+  font-size: $font-size-base;
+  line-height: $line-height-normal;
+  color: var(--color-text);
+  background: var(--color-card-bg);
+  border: $border-medium;
+  border-radius: $radius-md;
+  transition: border-color $transition-fast;
+
+  &::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  &:focus {
+    outline: none;
+    border-color: var(--color-link);
+    box-shadow: 0 0 0 3px var(--color-tint);
+  }
+}
+
+// =============================================================================
+// IMAGE WRAPPER (LQIP support)
+// =============================================================================
+// Wrapper for images with low-quality image placeholder backgrounds.
+// The background shows the LQIP while the full image loads.
+
+@mixin image-wrapper($border-radius: $radius-sm) {
+  position: relative;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  border-radius: $border-radius;
+  // LQIP background settings
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+  }
+}

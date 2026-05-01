@@ -1,0 +1,210 @@
+@use "sass:math";
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// ITEMS LIST (for list-item.html)
+// =============================================================================
+// Card-based item grid with optional horizontal slider.
+//
+// Layout strategy:
+//   - Cards use flex-col with gap for consistent spacing
+//   - No card-level padding; content elements handle their own inline padding
+//   - Media (images, video) as first child stretches edge-to-edge
+//   - Text content is inset via --item-padding-inline
+// =============================================================================
+
+.design-system {
+  ul.items {
+    --item-padding-inline: #{$space-md};
+    --item-gap: #{$space-sm};
+
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: $space-lg;
+
+    // Grid layout for non-slider
+    &:not(.slider):not(.masonry) {
+      > li {
+        flex: 1 1 $width-card;
+        max-width: 100%;
+
+        @include breakpoint.up("md") {
+          max-width: calc(50% - #{math.div($space-lg, 2)});
+        }
+
+        @include breakpoint.up("lg") {
+          max-width: calc(33.333% - #{math.div($space-lg * 2, 3)});
+        }
+      }
+    }
+
+    // Slider variant inherits scroll/snap behavior from .slider (design-system/_slider.scss)
+    &.slider {
+      flex-wrap: nowrap;
+    }
+
+    // Masonry variant: positioned by JS using uWrap height prediction
+    &.masonry {
+      display: block;
+      position: relative;
+
+      > li {
+        position: absolute;
+        top: 0;
+        left: 0;
+        will-change: transform;
+        transition:
+          border-color $transition-normal,
+          outline-color $transition-normal;
+      }
+    }
+
+    // =========================================================================
+    // CARD (li)
+    // =========================================================================
+
+    > li {
+      display: flex;
+      flex-direction: column;
+      gap: var(--item-gap);
+      border-radius: $radius-lg;
+      border: $border-light;
+      background: var(--color-card-bg);
+      overflow: hidden;
+      @include card-hover;
+
+      &.featured {
+        border-color: var(--color-accent);
+      }
+
+      // Shared inline padding for text content
+      h3,
+      .price,
+      p:not(.price),
+      ul.list-item-specs {
+        padding-inline: var(--item-padding-inline);
+      }
+
+      // Bottom padding on the card itself (images are always first,
+      // so this doesn't interfere with edge-to-edge media).
+      // Skip when the card only contains an image — bottom padding
+      // would look like dead space below an edge-to-edge thumbnail.
+      &:not(:has(> :not(.image-link))) {
+        padding-bottom: 0;
+      }
+
+      &:has(> :not(.image-link)) {
+        padding-bottom: var(--item-padding-inline);
+      }
+
+      // =======================================================================
+      // MEDIA: edge-to-edge images & video
+      // =======================================================================
+
+      .image-link {
+        display: block;
+        overflow: hidden;
+
+        .image-wrapper {
+          @include image-wrapper($border-radius: 0);
+        }
+
+        img {
+          width: 100%;
+          height: auto;
+          object-fit: cover;
+        }
+      }
+
+      @include video-media;
+
+      // =======================================================================
+      // TEXT CONTENT
+      // =======================================================================
+
+      @include product-card-typography;
+
+      p:not(.price) {
+        @include body-sm;
+        color: var(--color-text-muted);
+      }
+
+      // =======================================================================
+      // CART BUTTONS
+      // =======================================================================
+
+      // "Select Options" link or standalone "Add to Cart" button
+      > .button,
+      > .add-to-cart {
+        @include button-primary;
+        margin-block-start: auto;
+        margin-inline: var(--item-padding-inline);
+      }
+
+      // Cart controls row (button + quantity selector)
+      .list-item-cart-controls {
+        margin-block-start: auto;
+        display: flex;
+        align-items: center;
+        gap: $space-sm;
+        padding: 0 var(--item-padding-inline) var(--item-padding-inline);
+
+        .add-to-cart {
+          @include button-primary;
+          margin: 0;
+        }
+
+        .item-quantity {
+          margin: 0;
+        }
+      }
+
+      // =======================================================================
+      // SPECS
+      // =======================================================================
+
+      ul.list-item-specs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: $space-sm;
+        margin-block-start: auto; // Push to bottom of flex container
+        list-style: none;
+        @include body-sm;
+
+        li {
+          display: flex;
+          align-items: center;
+          gap: $space-xs;
+          color: var(--color-text-muted);
+
+          svg {
+            width: 1em;
+            height: 1em;
+            fill: currentColor;
+          }
+
+          span {
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+
+    // Video cards variant - disable hover transform since videos are interactive
+    &.video-cards > li {
+      &:hover {
+        transform: none;
+      }
+    }
+
+    // Expanded: 1 item = 100%, 2 = 50%, 3+ = 33.3%
+    &.expanded:not(.slider) > li {
+      flex: 1 1 100%;
+      min-width: calc(33.333% - #{$space-lg});
+      max-width: 100%;
+    }
+  }
+}

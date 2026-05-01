@@ -1,0 +1,65 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+
+// =============================================================================
+// UTILITIES
+// =============================================================================
+
+.design-system {
+  // ===========================================================================
+  // LAYOUT UTILITIES
+  // ===========================================================================
+  // Flex column containers with consistent gap-based spacing.
+  // Use these instead of margins for vertical rhythm.
+
+  .stack {
+    @include flex-col($space-md);
+  }
+
+  .stack--sm {
+    @include flex-col($space-sm);
+  }
+
+  .stack--lg {
+    @include flex-col($space-lg);
+  }
+
+  .stack--xl {
+    @include flex-col($space-xl);
+  }
+
+  // Horizontal flex row with gap
+  .row {
+    @include flex-row($space-md);
+  }
+
+  .row--sm {
+    @include flex-row($space-sm);
+  }
+
+  .row--lg {
+    @include flex-row($space-lg);
+  }
+
+  // ===========================================================================
+  // TEXT UTILITIES
+  // ===========================================================================
+
+  .text-center {
+    text-align: center;
+  }
+  .text-muted {
+    color: var(--color-text-muted);
+  }
+  .text-primary {
+    color: var(--color-link);
+  }
+
+  // ===========================================================================
+  // ACCESSIBILITY
+  // ===========================================================================
+
+  .sr-only {
+    @include sr-only;
+  }
+}

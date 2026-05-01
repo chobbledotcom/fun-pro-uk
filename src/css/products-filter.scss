@@ -1,0 +1,238 @@
+@use "breakpoints";
+
+// Responsive layout container for filters + products
+.products-layout {
+  @include breakpoints.up("sm") {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+  }
+}
+
+.products-content {
+  @include breakpoints.up("sm") {
+    flex: 1;
+    min-width: 0; // Prevent flex blowout
+  }
+}
+
+.filtered-items {
+  .filter-spinner {
+    display: block;
+    margin: 16px auto;
+    opacity: 0;
+    animation: spinner-fade 0.5s ease-out forwards, spinner-rotate 1s linear infinite;
+  }
+
+  .filtered-content {
+    opacity: 0;
+    pointer-events: none;
+    animation: content-fade 0.3s ease-out 0.5s forwards;
+  }
+
+  @include breakpoints.reduced-motion {
+    .filter-spinner {
+      display: none;
+    }
+
+    .filtered-content {
+      opacity: 1;
+      pointer-events: auto;
+      animation: none;
+    }
+  }
+}
+
+@keyframes spinner-fade {
+  0% { opacity: 0; }
+  40% { opacity: 1; }
+  60% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+@keyframes spinner-rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes content-fade {
+  from {
+    opacity: 0;
+    pointer-events: none;
+  }
+  to {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+.item-filter {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--color-bg);
+  border: var(--border);
+  border-radius: var(--border-radius);
+
+  // Sidebar layout on larger screens
+  @include breakpoints.up("sm") {
+    position: sticky;
+    top: 1rem;
+    width: 220px;
+    flex-shrink: 0;
+    margin-bottom: 0;
+    max-height: calc(100vh - 2rem);
+    overflow-y: auto;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .filter-active {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: var(--border);
+
+    &:empty {
+      display: none;
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem 0.5rem;
+      background: var(--color-link);
+      color: var(--color-bg);
+      border-radius: var(--border-radius);
+      font-size: 0.875rem;
+
+      a {
+        color: inherit;
+        text-decoration: none;
+        font-weight: bold;
+      }
+
+      &:last-child {
+        background: transparent;
+        color: var(--color-link);
+        margin-left: auto;
+        padding: 0;
+
+        // Stack clear link on sidebar
+        @include breakpoints.up("sm") {
+          margin-left: 0;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .filter-groups {
+    > li {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.25rem 0.5rem;
+      margin-right: 1rem;
+      margin-bottom: 0.25rem;
+
+      // Vertical layout on sidebar
+      @include breakpoints.up("sm") {
+        display: block;
+        margin-right: 0;
+        margin-bottom: 1rem;
+
+        &:last-child {
+          margin-bottom: 0;
+        }
+      }
+
+      > span {
+        font-weight: bold;
+
+        @include breakpoints.up("sm") {
+          display: block;
+          margin-bottom: 0.5rem;
+        }
+      }
+
+      > ul {
+        display: contents;
+
+        @include breakpoints.up("sm") {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 0.25rem;
+        }
+
+        li {
+          padding: 0;
+          border: var(--border);
+          border-radius: var(--border-radius);
+          font-size: 0.875rem;
+
+          a {
+            padding: 0.25rem 0.75rem;
+            display: block;
+            text-decoration: none;
+          }
+
+          &.active {
+            background: var(--color-link);
+
+            a {
+              color: var(--color-bg);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .sort-dropdown {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+
+    @include breakpoints.up("sm") {
+      display: block;
+    }
+
+    span {
+      font-weight: bold;
+
+      @include breakpoints.up("sm") {
+        display: block;
+        margin-bottom: 0.5rem;
+      }
+    }
+
+    select {
+      margin: 0;
+      padding: 0.25rem 0.5rem;
+      font-size: 0.875rem;
+      width: auto;
+
+      @include breakpoints.up("sm") {
+        width: 100%;
+      }
+    }
+  }
+
+  noscript {
+    p {
+      margin: 0.5rem 0;
+      padding: 0.5rem;
+      font-size: 0.875rem;
+    }
+  }
+}

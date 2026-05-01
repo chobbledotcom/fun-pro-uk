@@ -1,0 +1,23 @@
+{
+	"threshold": 0,
+	"reporters": ["console", "json"],
+	"output": ".jscpd-report",
+	"ignore": [
+		"**/node_modules/**",
+		"**/_site/**",
+		"**/package-lock.json",
+		"**/.test-sites/**",
+		"**/page-layouts/**",
+		"**/packages/**/index.js",
+		"**/marquee-images.html",
+		"**/src/assets/**"
+	],
+	"format": ["javascript", "markup", "css", "scss"],
+	"ignorePattern": ["import.*from"],
+	"absolute": false,
+	"gitignore": true,
+	"exitCode": 1,
+	"minLines": 1,
+	"minTokens": 32,
+	"path": ["src", "test", "scripts", ".eleventy.js"]
+}

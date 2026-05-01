@@ -1,0 +1,66 @@
+@use "../variables" as *;
+
+// Marquee Images
+// Continuously scrolling row of images (e.g. brand logos, partner badges).
+// CSS animation + JS cloning for seamless infinite scroll.
+//
+// JS clones items until the track is wide enough to cover the viewport,
+// then duplicates the group so translateX(-50%) loops seamlessly.
+
+:root {
+  --marquee-speed: 30s;
+  --marquee-height: 50px;
+}
+
+.design-system {
+  .marquee-images {
+    overflow: hidden;
+    min-width: 0;
+  }
+
+  .marquee-images--has-header {
+    margin-top: $space-md;
+  }
+
+  .marquee-images__track {
+    display: flex;
+    align-items: center;
+    width: max-content;
+  }
+
+  .marquee-images--ready .marquee-images__track {
+    animation: marquee-scroll var(--marquee-speed, 30s) linear infinite;
+  }
+
+  .marquee-images__link {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+
+  .marquee-images .image-wrapper {
+    height: var(--marquee-height, 50px);
+    width: auto !important;
+    max-width: none !important;
+    aspect-ratio: auto !important;
+    margin: 0 $space-xl;
+    flex-shrink: 0;
+  }
+
+  .marquee-images .image-wrapper img {
+    height: 100%;
+    width: auto;
+    border-radius: 0;
+    object-fit: contain;
+  }
+}
+
+@keyframes marquee-scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}

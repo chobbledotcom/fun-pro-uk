@@ -1,0 +1,18 @@
+{%- unless events -%}
+  {%- assign events = collections.recurringEvents -%}
+{%- endunless -%}
+{%- if events.length > 0 -%}
+<ul>
+  {%- for event in events -%}
+  {%- assign event_data = event.data -%}
+  <li>
+    <strong><a href="{{ event.url }}{{ config.internal_link_suffix }}">{{ event_data.title }}</a></strong
+    ><br />
+    {{ event_data.recurring_date }}
+    {%- if event_data.event_location != blank -%}
+    <br />{{ event_data.event_location }}
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}

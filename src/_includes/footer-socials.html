@@ -1,0 +1,17 @@
+<ul class="socials">
+  {%- for social in site.socials -%}
+    {%- if social[1] -%}
+      <li>
+        <a
+          href="{{ social[1] }}"
+          title="{{ site.name }} on {{ social[0] }}"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="{{ social[0] }}"
+        >
+          {{ social[0] | socialIcon }}
+        </a>
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul>

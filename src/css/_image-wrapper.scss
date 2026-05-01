@@ -1,0 +1,18 @@
+img,
+.image-wrapper {
+  max-width: 100%;
+  height: auto;
+}
+
+.image-wrapper {
+  position: relative;
+  display: block;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  border-radius: var(--border-radius-small);
+  overflow: hidden;
+  img {
+    background-color: transparent;
+  }
+}

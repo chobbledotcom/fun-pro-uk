@@ -1,0 +1,20 @@
+{%- comment -%}
+Items array block: renders items from an explicit list of paths using items.html.
+
+The collection is inferred dynamically from each item's path — paths like
+"src/locations/manchester.md" resolve against collections.all regardless of
+which collection the item belongs to. Directory paths (ending with "/" or
+without a ".md" extension, e.g. "locations/fulchester" or
+"locations/fulchester/") expand in place to every item in that directory.
+
+Parameters (from block):
+  items       - Array of file or directory paths as strings
+  intro       - Markdown content shown above the resolved items
+  horizontal  - Renders items in a horizontal slider when true
+  masonry     - Renders items in a masonry grid when true (uses uWrap)
+  filter      - Optional filter object (same shape as items-block.html)
+{%- endcomment -%}
+
+{%- assign resolvedPaths = block.items -%}
+{%- assign blockItems = collections.all | getItemsByPath: resolvedPaths -%}
+{%- include "design-system/render-items-block.html", block: block, image_aspect_ratio: block.image_aspect_ratio -%}

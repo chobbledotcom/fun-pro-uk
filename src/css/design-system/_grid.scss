@@ -1,0 +1,47 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// GRID LAYOUTS
+// =============================================================================
+
+.design-system {
+  .grid {
+    @include grid(1, $space-lg);
+    @include breakpoint.up("md") {
+      @include grid(2, $space-lg);
+    }
+    @include breakpoint.up("lg") {
+      @include grid(3, $space-xl);
+    }
+
+    &--2 {
+      // 2-column max: inherits 1→2 from .grid, overrides to wider gap and no 3rd column
+      @include breakpoint.up("md") {
+        gap: $space-xl;
+      }
+      @include breakpoint.up("lg") {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    &--4 {
+      @include grid(1, $space-md);
+      @include breakpoint.up("sm") {
+        @include grid(2, $space-md);
+      }
+      @include breakpoint.up("lg") {
+        @include grid(4, $space-lg);
+      }
+    }
+  }
+
+  // Reset list styles when using grid classes on <ul> elements
+  ul.grid,
+  ul.grid--2,
+  ul.grid--4 {
+    list-style: none;
+    padding-left: 0;
+  }
+}

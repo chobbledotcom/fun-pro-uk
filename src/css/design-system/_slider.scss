@@ -1,0 +1,109 @@
+@use "../variables" as *;
+@use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
+
+// =============================================================================
+// SLIDER (Horizontal Scrolling Cards)
+// =============================================================================
+
+.design-system {
+  .slider-container {
+    @include flex-col($space-md);
+    position: relative;
+
+    // Hide nav when content fits (no overflow)
+    &:not(:has(.slider.overflowing)) .slider-nav {
+      display: none;
+    }
+  }
+
+  .slider {
+    display: flex;
+    gap: $space-lg;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: $space-sm; // Space for scrollbar
+    list-style: none;
+
+    // Hide scrollbar but keep functionality
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-text-muted) transparent;
+
+    &::-webkit-scrollbar {
+      height: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--color-text-muted);
+      border-radius: $radius-full;
+    }
+
+    @include breakpoint.reduced-motion {
+      scroll-behavior: auto;
+    }
+
+    > * {
+      flex-shrink: 0;
+      scroll-snap-align: start;
+    }
+
+    // Default card width - can be overridden
+    > .feature,
+    > article,
+    > li {
+      width: $width-card;
+
+      @include breakpoint.up("md") {
+        width: $width-card-lg;
+      }
+    }
+  }
+
+  .slider-nav {
+    @include flex-row($space-md, center, center);
+  }
+
+  a.slider-prev,
+  a.slider-next {
+    @include button-base;
+    @include focus-ring;
+    text-decoration: none;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    background: var(--color-card-bg);
+    border: 1px solid var(--body-background-alt);
+    border-radius: $radius-full;
+    color: var(--color-text);
+    font-size: $font-size-lg;
+    cursor: pointer;
+    transition: all $transition-fast;
+
+    &:hover:not([disabled]) {
+      background: var(--color-link);
+      border-color: var(--color-link);
+      color: $color-white;
+    }
+
+    &[disabled] {
+      opacity: 0.3;
+      cursor: default;
+      pointer-events: none;
+    }
+  }
+
+  // Dark section variant - hover inherits from base rule above
+  .dark a.slider-prev,
+  .dark a.slider-next {
+    background: var(--color-card-bg);
+    border-color: $color-dark-card-bg;
+    color: $color-dark-text;
+  }
+}

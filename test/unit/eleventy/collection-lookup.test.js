@@ -1,0 +1,266 @@
+import { describe, expect, test } from "bun:test";
+import {
+  configureCollectionLookup,
+  getBySlug,
+  getItemsByPath,
+  indexBySlug,
+} from "#eleventy/collection-lookup.js";
+import { createMockEleventyConfig } from "#test/test-utils.js";
+
+/** Create a single collection item with slug, title, and url */
+const slugItem = (slug, title, url) => ({
+  fileSlug: slug,
+  url,
+  data: { title },
+});
+
+/** Create collection items from [slug, title, url] tuples */
+const slugItems = (tuples) =>
+  tuples.map(([slug, title, url]) => slugItem(slug, title, url));
+
+describe("collection-lookup", () => {
+  describe("configureCollectionLookup", () => {
+    test("Registers getBySlug filter with Eleventy", () => {
+      const mockConfig = createMockEleventyConfig();
+      configureCollectionLookup(mockConfig);
+
+      expect(typeof mockConfig.filters.getBySlug).toBe("function");
+    });
+  });
+
+  describe("getBySlug", () => {
+    test("Returns item matching the slug", () => {
+      const collection = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+        ["gadget", "Gadget Plus", "/products/gadget/"],
+      ]);
+
+      const result = getBySlug(collection, "widget");
+
+      expect(result.fileSlug).toBe("widget");
+      expect(result.data.title).toBe("Widget Pro");
+      expect(result.url).toBe("/products/widget/");
+    });
+
+    test("Normalises path-style slugs before lookup", () => {
+      const collection = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+      ]);
+
+      expect(getBySlug(collection, "products/widget.md").data.title).toBe(
+        "Widget Pro",
+      );
+      expect(getBySlug(collection, "products/widget").data.title).toBe(
+        "Widget Pro",
+      );
+      expect(getBySlug(collection, "widget").data.title).toBe("Widget Pro");
+    });
+
+    test("Throws for non-existent slug", () => {
+      const collection = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+      ]);
+
+      expect(() => getBySlug(collection, "missing")).toThrow(
+        'Slug "missing" not found',
+      );
+    });
+
+    test("Throws for empty collection", () => {
+      expect(() => getBySlug([], "widget")).toThrow('Slug "widget" not found');
+    });
+
+    test("Handles collection with single item", () => {
+      const collection = slugItems([
+        ["only-item", "Only Item", "/products/only-item/"],
+      ]);
+
+      const result = getBySlug(collection, "only-item");
+
+      expect(result.data.title).toBe("Only Item");
+    });
+  });
+
+  describe("indexBySlug", () => {
+    test("Creates slug lookup object from collection", () => {
+      const collection = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+        ["gadget", "Gadget Plus", "/products/gadget/"],
+      ]);
+
+      const index = indexBySlug(collection);
+
+      expect(index.widget.data.title).toBe("Widget Pro");
+      expect(index.gadget.data.title).toBe("Gadget Plus");
+    });
+
+    test("Returns same cached object for same collection reference", () => {
+      const collection = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+      ]);
+
+      const first = indexBySlug(collection);
+      const second = indexBySlug(collection);
+
+      expect(first).toBe(second);
+    });
+
+    test("Returns different objects for different collection references", () => {
+      const collection1 = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+      ]);
+      const collection2 = slugItems([
+        ["widget", "Widget Pro", "/products/widget/"],
+      ]);
+
+      const result1 = indexBySlug(collection1);
+      const result2 = indexBySlug(collection2);
+
+      expect(result1).not.toBe(result2);
+    });
+
+    test("Handles empty collection", () => {
+      const index = indexBySlug([]);
+
+      expect(Object.keys(index)).toHaveLength(0);
+    });
+
+    test("Last item wins for duplicate slugs", () => {
+      const collection = [
+        slugItem("widget", "First Widget", "/first/"),
+        slugItem("widget", "Second Widget", "/second/"),
+      ];
+
+      const index = indexBySlug(collection);
+
+      expect(index.widget.data.title).toBe("Second Widget");
+    });
+  });
+
+  describe("getItemsByPath", () => {
+    const pathItem = (inputPath, title) => ({
+      inputPath,
+      fileSlug: inputPath.split("/").pop().replace(".md", ""),
+      data: { title },
+    });
+
+    test("Returns items matching paths in order, normalising ./ prefix", () => {
+      const collection = [
+        pathItem("./src/products/widget.md", "Widget"),
+        pathItem("./src/products/gadget.md", "Gadget"),
+        pathItem("./src/events/launch.md", "Launch"),
+      ];
+
+      const result = getItemsByPath(collection, [
+        "src/events/launch.md",
+        "./src/products/widget.md",
+        "src/products/gadget.md",
+      ]);
+
+      expect(result).toHaveLength(3);
+      expect(result[0].data.title).toBe("Launch");
+      expect(result[1].data.title).toBe("Widget");
+      expect(result[2].data.title).toBe("Gadget");
+    });
+
+    test("Skips paths that do not match any item", () => {
+      const collection = [pathItem("./src/products/widget.md", "Widget")];
+
+      const result = getItemsByPath(collection, [
+        "src/products/widget.md",
+        "src/products/missing.md",
+      ]);
+
+      expect(result).toHaveLength(1);
+      expect(result[0].data.title).toBe("Widget");
+    });
+
+    test("Returns empty array for empty paths", () => {
+      const collection = [pathItem("./src/products/widget.md", "Widget")];
+
+      expect(getItemsByPath(collection, [])).toEqual([]);
+    });
+
+    test("Returns empty array for non-array paths", () => {
+      const collection = [pathItem("./src/products/widget.md", "Widget")];
+
+      expect(getItemsByPath(collection, null)).toEqual([]);
+      expect(getItemsByPath(collection, undefined)).toEqual([]);
+    });
+
+    const titles = (items) => items.map((i) => i.data.title);
+    const fulchesterPair = () => [
+      pathItem("./src/locations/fulchester/gizmo-cleaning.md", "Gizmo"),
+      pathItem("./src/locations/fulchester/widget-removal.md", "Widget"),
+    ];
+
+    test.each([
+      ["without trailing slash", "locations/fulchester"],
+      ["with trailing slash", "locations/fulchester/"],
+      ["with src/ prefix", "src/locations/fulchester/"],
+    ])("Expands directory path %s", (_label, pathInput) => {
+      const collection = [
+        ...fulchesterPair(),
+        pathItem("./src/locations/springfield/other.md", "Other"),
+      ];
+
+      const result = getItemsByPath(collection, [pathInput]);
+
+      expect(titles(result)).toEqual(["Gizmo", "Widget"]);
+    });
+
+    test("Expands directory in place preserving surrounding order", () => {
+      const collection = [
+        pathItem("./src/products/widget.md", "Widget"),
+        pathItem("./src/products/gadget.md", "Gadget"),
+        pathItem("./src/locations/fulchester/one.md", "One"),
+        pathItem("./src/locations/fulchester/two.md", "Two"),
+      ];
+
+      const result = getItemsByPath(collection, [
+        "src/products/widget.md",
+        "locations/fulchester/",
+        "src/products/gadget.md",
+      ]);
+
+      expect(titles(result)).toEqual(["Widget", "One", "Two", "Gadget"]);
+    });
+
+    test("Skips directory paths that match no items", () => {
+      const collection = [pathItem("./src/products/widget.md", "Widget")];
+
+      const result = getItemsByPath(collection, ["locations/nowhere/"]);
+
+      expect(result).toEqual([]);
+    });
+
+    test("Deduplicates items when directory overlaps with explicit path", () => {
+      const collection = fulchesterPair();
+
+      const result = getItemsByPath(collection, [
+        "src/locations/fulchester/gizmo-cleaning.md",
+        "locations/fulchester/",
+      ]);
+
+      expect(titles(result)).toEqual(["Gizmo", "Widget"]);
+    });
+  });
+
+  describe("O(1) lookup performance", () => {
+    test("Multiple lookups use cached index", () => {
+      const collection = slugItems([
+        ["a", "Item A", "/a/"],
+        ["b", "Item B", "/b/"],
+        ["c", "Item C", "/c/"],
+      ]);
+
+      const result1 = getBySlug(collection, "a");
+      const result2 = getBySlug(collection, "b");
+      const result3 = getBySlug(collection, "c");
+
+      expect(result1.data.title).toBe("Item A");
+      expect(result2.data.title).toBe("Item B");
+      expect(result3.data.title).toBe("Item C");
+    });
+  });
+});
