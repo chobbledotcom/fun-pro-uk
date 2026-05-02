@@ -38,11 +38,11 @@ options:
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 895
+    unit_price: 795
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 1095
+    unit_price: 995
     days: 3
   - name: 7 Days
     max_quantity: 10
@@ -107,7 +107,7 @@ specs:
   - name: Power
     value: 1 x Power Socket (4-8W)
   - name: Setup time
-    value: 15-20 minutes
+    value: 10 - 20 minutes
   - name: Equipment Size
     value: 1.82m x 0.64m x 0.64m
   - name: Suitability
