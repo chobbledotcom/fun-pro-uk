@@ -34,7 +34,7 @@ events:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 595
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
@@ -71,7 +71,7 @@ add_ons:
     We provide **in-house branding**, including printing, application, and
     removal after each event.  
 
-    _Please note: branding is designed for one-time use only._
+    *Please note: branding is designed for one-time use only.*
 features:
   - Delivery, setup, and collection included
   - Public liability insurance included
@@ -84,7 +84,9 @@ filter_attributes:
   - name: Player Count
     value: 1 player
 meta_title: Gum Ball Machine Hire, Claw Machine Rental , Exhibitions, UK
-meta_description: Giant Gashapon capsule vending machine for hire at exhibitions, promotions and events. Fill it with branded prizes for an engaging giveaway. UK delivery.
+meta_description: Giant Gashapon capsule vending machine for hire at
+  exhibitions, promotions and events. Fill it with branded prizes for an
+  engaging giveaway. UK delivery.
 faqs:
   - question: How many people can play the Prize Crane at once?
     answer: One player operates the Giant Gashapon at a time. The addictive format
