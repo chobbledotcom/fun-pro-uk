@@ -44,7 +44,7 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1-4 players
+    value: 1-2 players
   - name: Space Required
     value: 1.5m x 1.5m
   - name: Power
@@ -259,7 +259,7 @@ tabs:
       with a minimum door width of 0.6m required for access.
 faqs:
   - question: How many people can play Whack a Mole at once?
-    answer: The game accommodates 1-4 players depending on configuration, with the
+    answer: The game accommodates 1-2 players depending on configuration, with the
       classic arcade format keeping energy high and queues moving.
   - question: Is Whack a Mole suitable for all ages?
     answer: Yes, the simple see-it-hit-it format is accessible for ages 5 and above.
