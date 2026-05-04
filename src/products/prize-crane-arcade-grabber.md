@@ -142,8 +142,7 @@ add_ons:
       price: 125
     - name: Branded side panels
       price: 255
-    - name: Full branding.   Return(Inc Front, Left & Right Sides, Internal Rear
-        Panel)
+    - name: Full branding. (Front, Left & Right Sides, Internal Rear Panel)
       price: 475
 tabs:
   - title: Why Prize Crane Arcade Grabber?
