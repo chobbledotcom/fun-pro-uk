@@ -83,8 +83,6 @@ gallery:
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-2.jpg
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-3.jpg
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-4.jpg
-  - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-5.jpg
-  - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-6.jpg
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-7.jpg
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-8.jpg
   - /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-9.jpg
