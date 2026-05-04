@@ -33,7 +33,7 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 1-4 players
+    value: 1 players
   - name: Space Required
     value: 0.8m x 1.2m
   - name: Power
@@ -58,7 +58,7 @@ filter_attributes:
   - name: Power Required
     value: Mains power required
   - name: Player Count
-    value: 1-4 players
+    value: 1 players
 options:
   - name: 1 Day
     max_quantity: 10
@@ -142,7 +142,8 @@ add_ons:
       price: 125
     - name: Branded side panels
       price: 255
-    - name: Full branding. (Inc Front, Left & Right Sides, Internal Rear Panel)
+    - name: Full branding.   Return(Inc Front, Left & Right Sides, Internal Rear
+        Panel)
       price: 475
 tabs:
   - title: Why Prize Crane Arcade Grabber?
