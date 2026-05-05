@@ -52,17 +52,17 @@ blocks:
 
       Different events call for different games, and the right choice depends on your audience, the space you're working with, and what you're trying to achieve. Here's a practical guide to what tends to work well and why.
 
-      Reaction games like [++Batak Pro++](https://www.funprouk.co.uk/products/batak-pro/) and [++Strike a Light Danger Zone++](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/) are particularly well-suited to exhibition stands and conference icebreaker sessions. They're visually engaging, easy to pick up, and naturally draw a crowd, which gives visitors a reason to stop at your stand and start a conversation. The [++Batak Lite++](https://www.funprouk.co.uk/products/batak-lite/) is a more compact option, worth considering if your floor space is limited.
+      Reaction games like ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++ and ++[Strike a Light Danger Zone](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/)++ are particularly well-suited to exhibition stands and conference icebreaker sessions. They're visually engaging, easy to pick up, and naturally draw a crowd, which gives visitors a reason to stop at your stand and start a conversation. The ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++ is a more compact option, worth considering if your floor space is limited.
 
-      Prize and grabber games, including [++Grab A Grand++](https://www.funprouk.co.uk/categories/grab-a-grand/), [++Ballnado++](https://www.funprouk.co.uk/products/ballnado-grabber/), the [++Prize Crane++](https://www.funprouk.co.uk/products/prize-crane-arcade-grabber), and the [++Prize Wheel++](https://www.funprouk.co.uk/products/prize-wheel), work well at brand activation stands and trade shows. They draw footfall, give visitors a reason to engage, and create a buzz around your stand. All of these can be wrapped with your company branding, which our team designs and prints in-house.
+      Prize and grabber games, including ++[Grab A Grand](https://www.funprouk.co.uk/categories/grab-a-grand/)++, ++[Ballnado](https://www.funprouk.co.uk/products/ballnado-grabber/)++, the ++[Prize Crane](https://www.funprouk.co.uk/products/prize-crane-arcade-grabber)++, and the ++[Prize Wheel](https://www.funprouk.co.uk/products/prize-wheel)++, work well at brand activation stands and trade shows. They draw footfall, give visitors a reason to engage, and create a buzz around your stand. All of these can be wrapped with your company branding, which our team designs and prints in-house.
 
-      Arcade and simulator games, including retro [++arcade machines++](https://www.funprouk.co.uk/categories/arcade-games/) and [++racing simulators++](https://www.funprouk.co.uk/products/racing-car-simulators/), tend to be popular at corporate fun days, staff parties, and award ceremony receptions. They create natural social moments and work across a wide range of ages and physical abilities, which matters when you're catering to a mixed group.
+      Arcade and simulator games, including retro ++[arcade machines](https://www.funprouk.co.uk/categories/arcade-games/)++ and ++[racing simulators](https://www.funprouk.co.uk/products/racing-car-simulators/)++, tend to be popular at corporate fun days, staff parties, and award ceremony receptions. They create natural social moments and work across a wide range of ages and physical abilities, which matters when you're catering to a mixed group.
 
-      For events where inclusivity is a priority, games like [++Roll & Bowl++](https://www.funprouk.co.uk/categories/roll-and-bowl/) and [++Plinko++](https://www.funprouk.co.uk/products/plinko-game-hire/) are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
+      For events where inclusivity is a priority, games like ++[Roll & Bowl](https://www.funprouk.co.uk/categories/roll-and-bowl/)++ and ++[Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/)++ are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
 
       ++[Photo booths and magic mirrors](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors/)++ are a consistent choice for award ceremonies, Christmas parties, and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
 
-      For smaller group settings, networking evenings, or office entertainment, [++pub games++](https://www.funprouk.co.uk/categories/pub-games/) such as [++shuffleboard++](https://www.funprouk.co.uk/products/shuffleboard-hire/) create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
+      For smaller group settings, networking evenings, or office entertainment, ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ such as ++[shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/)++ create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
     horizontal: false
     masonry: false
   - type: items-array
@@ -78,7 +78,7 @@ blocks:
 
       ### **Hilton Cambridge City Centre**
 
-      The Hilton Cambridge City Centre has the largest self-contained event space of any hotel in the city, with capacity for up to 220 guests. It's a practical and well-used venue for corporate away days, team events, and company celebrations. Hotel function rooms tend to have more contained floor plans than dedicated conference centres, so compact, self-contained games generally work better here than larger multi-machine setups. Reaction games, [++prize wheels++](https://www.funprouk.co.uk/products/prize-wheel), and [++photo booths++](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors/) are all reliable choices for this kind of setting.
+      The Hilton Cambridge City Centre has the largest self-contained event space of any hotel in the city, with capacity for up to 220 guests. It's a practical and well-used venue for corporate away days, team events, and company celebrations. Hotel function rooms tend to have more contained floor plans than dedicated conference centres, so compact, self-contained games generally work better here than larger multi-machine setups. Reaction games, ++[prize wheels](https://www.funprouk.co.uk/products/prize-wheel)++, and ++[photo booths](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors/)++ are all reliable choices for this kind of setting.
 
       ### **The Ray Dolby Centre**
 
@@ -86,11 +86,11 @@ blocks:
 
       ### **Anglia Ruskin University**
 
-      Anglia Ruskin has lecture theatres, classrooms, and event spaces available for hire on its Cambridge campus, making it a popular choice for training days, academic conferences, and university-connected corporate events. For freshers events and student engagement activities, high-energy games like [++Grab A Grand++](https://www.funprouk.co.uk/categories/grab-a-grand/) and [++Batak++](https://www.funprouk.co.uk/categories/batak/) tend to go down well. For more formal events using the lecture theatre spaces, compact games in reception or breakout areas are the better fit.
+      Anglia Ruskin has lecture theatres, classrooms, and event spaces available for hire on its Cambridge campus, making it a popular choice for training days, academic conferences, and university-connected corporate events. For freshers events and student engagement activities, high-energy games like ++[Grab A Grand](https://www.funprouk.co.uk/categories/grab-a-grand/)++ and ++[Batak](https://www.funprouk.co.uk/categories/batak/)++ tend to go down well. For more formal events using the lecture theatre spaces, compact games in reception or breakout areas are the better fit.
 
       ### **Quy Mill Hotel & Spa**
 
-      Set in twelve acres of Cambridgeshire countryside just a few miles from the city, Quy Mill is a popular choice for corporate away days, off-site meetings, and staff celebration events that benefit from a change of setting. The venue's flexible meeting and event spaces work well for smaller to mid-sized groups. Games like [++Roll & Bowl++](https://www.funprouk.co.uk/categories/roll-and-bowl/), [++arcade machines++](https://www.funprouk.co.uk/categories/arcade-games/), and [++pub games++](https://www.funprouk.co.uk/categories/pub-games/) suit the more relaxed, sociable atmosphere that this kind of venue lends itself to.
+      Set in twelve acres of Cambridgeshire countryside just a few miles from the city, Quy Mill is a popular choice for corporate away days, off-site meetings, and staff celebration events that benefit from a change of setting. The venue's flexible meeting and event spaces work well for smaller to mid-sized groups. Games like ++[Roll & Bowl](https://www.funprouk.co.uk/categories/roll-and-bowl/)++, ++[arcade machines](https://www.funprouk.co.uk/categories/arcade-games/)++, and ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ suit the more relaxed, sociable atmosphere that this kind of venue lends itself to.
 
       ### **Other Venues Across Cambridge and Cambridgeshire**
 
@@ -157,7 +157,7 @@ blocks:
 
       We own all of our own equipment and handle branding in-house. There's no subcontracting and no intermediary involved, which means you're dealing directly with the people who will turn up, set up, and run your games on the day. Our staff are present for the duration of every booking as standard, so you're free to focus on your event rather than managing the entertainment.
 
-      Companies including [++Rolls-Royce++](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/) and [++Specsavers++](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/) have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward. We'd like to think that's a fair summary of what we aim for every time.
+      Companies including ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/)++ and ++[Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/)++ have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward. We'd like to think that's a fair summary of what we aim for every time.
 faqs:
   - question: How far in advance should I book game hire for a Cambridge event?
     answer: For events during busy periods, particularly the Christmas party season
