@@ -13,37 +13,31 @@ blocks:
   - type: markdown
     dark: false
     content: >-
-      # Event Hire Cambridge
+      # **Event Game Hire in Cambridge**
 
 
-      Cambridge combines a world-renowned university setting with one of the
-      UK's fastest-growing technology sectors, and both generate a steady demand
-      for corporate events, conferences and celebrations. We provide
-      entertainment hire to venues across the city, from historic college halls
-      to modern conference centres and the business parks of Silicon Fen.
+      Cambridge has a varied and active corporate events scene, shaped by its
+      mix of technology businesses, life sciences companies, and the University
+      of Cambridge itself. Fun Pro delivers ++[interactive game
+      hire](https://www.funprouk.co.uk/categories/interactive-game-hire/)++
+      across the city throughout the year, serving corporate fun days,
+      exhibitions, conferences, university events, and staff celebrations. Based
+      in Coventry, we reach Cambridge comfortably via the A14, which keeps
+      logistics straightforward and means travel doesn't add unnecessary cost to
+      your booking. Every hire includes
+      [++delivery++](https://www.funprouk.co.uk/locations/), setup, and
+      collection as standard, so there's one less thing on your plate when the
+      day arrives.
 
 
-      We're based in Coventry, around 90 miles away with a journey time of
-      roughly 1.5 hours via the A14. Every booking includes delivery,
-      professional setup and collection — our team handles everything so you can
-      focus on your guests.
-
-
-      Our range includes [interactive games](/categories/interactive-game-hire)
-      like [Batak](/categories/batak) reaction games and [racing
-      simulators](/products/racing-car-simulators), [photo booths and magic
-      mirrors](/categories/photo-booths-and-magic-mirrors), [prize
-      games](/categories/prize-games) including cash grabbers and prize wheels,
-      and [fun food catering](/categories/fun-foods) from popcorn carts to pizza
-      ovens. For exhibitions and trade shows, we offer full [custom
-      branding](/categories/branded-exhibition-games) on games — all designed
-      and produced in-house.
-
-
-      Whether you're planning a tech company team day, a college ball, a
-      conference icebreaker or a [brand activation](/events/brand-activation) at
-      one of Cambridge's exhibition venues, we can recommend the right
-      entertainment for your event.
+      Whether you're planning a [++corporate fun
+      day++](https://www.funprouk.co.uk/events/corporate-events/) at the
+      KingsGate Conference Centre, an [++exhibition
+      stand++](https://www.funprouk.co.uk/events/exhibition-games/) at a tech
+      industry event, or a staff party at one of the city's hotels, the right
+      games can make a real difference to how your guests experience the event.
+      We're here to help you work out what that looks like for your specific
+      audience and venue.
   - type: items-array
     dark: false
     items:
