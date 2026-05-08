@@ -84,7 +84,7 @@ gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085
 tabs:
   - title: Why Crazy Golf?
-    image: /images/products/crazy-golf/crazy-golf-1.jpg
+    image: /images/products/crazy-golf/Alibaba16298659_original (1).jpg
     body: >-
       Looking to add a touch of fun and entertainment to your corporate event or
       family fun day? Our vibrant and engaging Crazy Golf courses are perfect
