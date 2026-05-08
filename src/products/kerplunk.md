@@ -32,7 +32,7 @@ options:
   - name: 1 Day
     max_quantity: 10
     unit_price: 60
-    days: 0
+    days: 1
   - name: 2 Days
     max_quantity: 10
     unit_price: 110
