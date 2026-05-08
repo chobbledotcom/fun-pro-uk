@@ -75,12 +75,11 @@ redirect_from:
   - /category/fun-days/81/crazy-golf/
 gallery:
   - /images/products/crazy-golf/Alibaba16298659_original (1).jpg
-  - /images/products/crazy-golf/Alibaba780033675_original (2).png
-  - /images/products/crazy-golf/Alibaba1022126734_original.png
-  - /images/products/crazy-golf/Alibaba1460313307_original.png
   - /images/products/crazy-golf/Alibaba1578480753_original (1).png
   - /images/products/crazy-golf/Alibaba1642078258_original (1).jpg
-  - /images/products/crazy-golf/Alibaba2033738943_original (1).png
+  - /images/products/crazy-golf/img-20260507-wa0018.jpg
+  - /images/products/crazy-golf/img-20260507-wa0022.jpg
+  - /images/products/crazy-golf/img-20260507-wa0027.jpg
 gallery_cloudinary:
   - https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085
 tabs:
