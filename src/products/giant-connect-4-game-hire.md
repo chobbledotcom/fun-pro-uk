@@ -51,7 +51,7 @@ specs:
   - name: Equipment Size
     value: 1.46m x 1.76m x 1.92m
   - name: Suitability
-    value: Indoor only / Level surface
+    value: Indoor or Outdoor / Level surface
   - name: Access
     value: Min. door width 0.6m
   - name: Guest Capacity
