@@ -52,8 +52,6 @@ redirect_from:
   - /category/christmas-game-hire/102/8-lane-reindeer-racing/
 gallery:
   - /images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1fdde8779e22cffa1330a5299f9c16c7
 add_ons:
   intro: >-
     ## 8 Lane Reindeer Racing Branding and Customisation Options

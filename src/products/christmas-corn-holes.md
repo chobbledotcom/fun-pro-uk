@@ -49,9 +49,6 @@ options:
     days: 1
 redirect_from:
   - /category/christmas-game-hire/113/christmas-corn-holes/
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/85159f7364b19ffe91e6e219e36f103c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2a8b02eb68235f110ee2afd43c849254
 tabs:
   - title: Why Christmas Corn Holes?
     body: >-

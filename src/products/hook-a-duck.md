@@ -63,8 +63,6 @@ redirect_from:
   - /category/fun-fair-stalls/103/hook-a-duck/
 gallery:
   - /images/products/hook-a-duck/hook-a-duck-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f1910f085b1bc1088abd5a4192d0e7a
 add_ons:
   intro: >-
     ## Hook A Duck Branding and Customisation Options

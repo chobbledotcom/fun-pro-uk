@@ -84,16 +84,6 @@ gallery:
   - /images/products/casino-table-hire/casino-table-hire-7.jpg
   - /images/products/casino-table-hire/casino-table-hire-8.jpg
   - /images/products/casino-table-hire/casino-table-hire-9.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/026ca80ff710a869d51817df100feb35
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/44937a68b0e320103317dd055967efd0
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4bb17a4c1eaa6054e950e9bb3a6a7d77
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/40c395e42aa2be42185fc1498e85814c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4ce935f84a48b7c2c9e1ca0ec74ddbe3
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/be2509445d8a1804bf63b0085591def9
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/ea0b60b48833e91ddd5429e66de2e255
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6e625e02358c9a76afed264292b2fb97
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3067b61de26eb5bc63a3a7da3ae8e1e6
 tabs:
   - title: Why CASINO TABLE HIRE?
     image: /images/products/casino-table-hire/casino-table-hire-9.jpg

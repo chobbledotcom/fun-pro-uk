@@ -72,8 +72,6 @@ gallery:
   - /images/products/twin-axe-throwing/twin-axe-throwing-1.jpg
   - /images/products/twin-axe-throwing/13fd6e2d-471d-42cc-8a81-cb1977067a27.jpg
   - /images/products/twin-axe-throwing/IMG-20250912-WA0009.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0ea9ebecd38ecd56e37304a38ac823be
 faqs:
   - question: How many people can play Twin Axe Throwing at once?
     answer: The twin setup allows 2 players to compete head-to-head simultaneously,

@@ -86,20 +86,6 @@ gallery:
   - /images/products/rodeo-bull/rodeo-bull-11.jpg
   - /images/products/rodeo-bull/rodeo-bull-12.jpg
   - /images/products/rodeo-bull/rodeo-bull-13.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/bfa6c6b94e110ee89a3d1b1807588a2a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/94088b43e189ecf3fd88f40cf97090b9
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7ce38a113f8c8252f8c52e636147d7d6
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b1d04fa1fe49e09101c274f5a533ea5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/07be8e009a1d2a2898a18015cb490dbc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6f9dcacb117a4979c3b1c12d8f6cd5dd
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/74bb94d9696b5fc5c9fe8e20bf07c431
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5d982aa64131534f326dadb08c4db2a0
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4d5f6c7e1b946a0efcfb6a837fc44423
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7e128d9ad99f73069cbff4e3e0cbe891
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c7418e6487b6aa23779fac711c335f5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/73e13f20d4773ed4bf6ee5b6691fdf2e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f54b18f1dc6509f96c728ad6d8b7eded
 tabs:
   - title: Why Rodeo Bull?
     image: /images/products/rodeo-bull/rodeo-bull-13.jpg

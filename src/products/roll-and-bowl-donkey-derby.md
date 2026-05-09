@@ -87,13 +87,6 @@ gallery:
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-27.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-24.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22aad19e6a06df952e96c67373a98ee
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/efbfeaa4b61ed98dfdc1432d555c2991
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/abb56c4961cc314e9a5a0194b7dbbb5e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ae3e390984baa36de60da48a2a2e4ef
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a
 add_ons:
   intro: >-
     ## Roll & Bowl Donkey Derby Branding and Customisation Options

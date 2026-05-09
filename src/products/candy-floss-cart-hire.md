@@ -80,8 +80,6 @@ redirect_from:
   - /category/fun-foods/92/candy-floss-cart-hire/
 gallery:
   - /images/products/candy-floss-cart-hire/candy-floss-cart-hire-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a004d2c48d8cd19ae7e64e4d81d2d433
 faqs:
   - question: How many guests can the Candy Floss Cart serve?
     answer: The cart serves events of 50-300 guests, with continuous production

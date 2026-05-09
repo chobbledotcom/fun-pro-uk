@@ -83,23 +83,6 @@ gallery:
   - /images/products/magic-mirror/magic-mirror-14.jpg
   - /images/products/magic-mirror/magic-mirror-15.jpg
   - /images/products/magic-mirror/magic-mirror-16.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c24809f7ff1da43826a90ff481a49249
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5520f49fa695b6509d429b9eea471b22
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e7d2c7107699ce2484e74e1c931c8307
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/206d144d4042ee55cde9be990edffa83
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/30df7b1c613d1b35bd3c1f88aea82eaf
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0c70086bb229b5acb95985faf5fb1a64
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d65f8ef7b3f10c5beb385cd35050bce0
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/35af76790e3a792d582a55dff9fe6037
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c1d4d0773e3b99e36cf8d4b78a93709e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0bb185616dc4ea556bb0b6bac890750
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/fde3de4989c7395b231f2aae3c483cd4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd13552e93db81f82dc2fb55cef4dc63
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9666bd53100b5b83ffc01d140f41c8d
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2caa4b75b0dc1f494d59d4e620ab3bb
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/38bba003d24c7ba5f60e76a1f811778f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/647885a269118a3d197a6802d107be08
 tabs:
   - title: Why MAGIC MIRROR?
     image: /images/products/magic-mirror/magic-mirror-16.jpg

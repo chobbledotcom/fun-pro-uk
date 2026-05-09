@@ -75,8 +75,6 @@ redirect_from:
 gallery:
   - /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg
   - /images/products/giant-deck-chair-hire/red-and-white-traditional-stripes-giant-deckchair.png
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2eb3783e147c35db8bc50f494d5cab90
 tabs:
   - title: Why Giant Deck Chair Hire?
     image: /images/products/giant-deck-chair-hire/giant-deck-chair-hire-1.jpg

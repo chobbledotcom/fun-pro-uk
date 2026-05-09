@@ -80,13 +80,6 @@ gallery:
   - /images/products/dance-machine/dance-machine-5.jpg
   - /images/products/dance-machine/dance-machine-6.jpg
   - /images/products/dance-machine/436373da-031e-49e9-bfd4-c6b1e66fa899.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b92b53bbda93e555858e78152381d164
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d84557d92f7aee817cef2f27128f766f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2f7beb49238dfd1b3b791488df3b70f4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9ffe337784d4e06f07fca722555b700
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c2aa1748f44f3c088f79a4369fb3815f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d58541b87ff7a3f90066201d269239cf
 add_ons:
   intro: >-
     ## Dance Machine Branding and Customisation Options

@@ -93,8 +93,6 @@ redirect_from:
   - /category/corporate-entertainment/80/table-tennis-hire/
 gallery:
   - /images/products/table-tennis-hire/table-tennis-hire-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/69514f56c0ff9fdf3e27a9e975b4630a
 faqs:
   - question: How many people can play Table Tennis at once?
     answer: Each table accommodates 2-4 players for singles or doubles games.

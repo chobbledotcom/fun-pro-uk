@@ -107,21 +107,6 @@ gallery:
   - /images/products/batak-pro/batak-pro-branded-maxtima.jpg
   - /images/products/batak-pro/batak-pro-branded-system-c.jpg
   - /images/products/batak-pro/batak-pro-wall-mounted.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/392c6fd198e3a7ab4ec2f9335e7e63ce
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/63439c31d53b3532d47827d4a7cc0a89
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/35dd7916eb3b06ec874f90c7cbe2c344
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/77f937de9b33c900e08f5b27b7c2c0d6
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/538d61cab84868f2f8d88bb69b02b38f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/07c21a70e9222dec9eddfefea96df258
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/44fad9aa0f10cc6fdd45af01b331df67
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/272cc00573d66bb4e1d8eba995eb8b14
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/aba2c50bbd0c2214be2825ca3ed76d69
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f5861235b5a993fb28c2cc1aa532ca67
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/66bd35177d95d817fc08f3355b8e588c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/dc2409c67bcf3b84aca4439493a3fa17
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2e0e12a2e91aad8b4696c0d45dcd8f7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1150d0087e5b784a4feb7234eebf6960
 faqs:
   - question: How many people can play Batak Pro at once?
     answer: One player competes at a time, facing faster sequences and more complex

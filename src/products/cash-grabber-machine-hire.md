@@ -109,25 +109,6 @@ gallery:
   - /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-16.jpg
   - /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-17.jpg
   - /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/34086f96f18ea22e3773cdb7395e477b
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/574295684b9bdecd38c430e58714f94d
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0176641d16f3876e35bade1d5ae9121
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f270f9b4b2542ac6858ea9d7c9f8ad09
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f04082c5293b9aa6de180489074e9c9f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/151e1b643dfe2fc3780cb7a515a97ba7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4da92bff8b8f1e88420d92fca554d40b
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8981d72a90e8d800469f3b4dddc2002f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/377b6690127bfdc0eb7cec0cbad64a6c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/ff62a3f76c7cd06262f46d0b85574486
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0fc834c195a4a32d18f88c18d758ac4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5998b06ac06d5280207c3c1ee055af49
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b0d80effa6b32788aa0d6b2c41d4698
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/fc586160be620ce91d2cc8abf39fe036
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4ab061c48a33d31f50095c81cbcc95f9
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/88e64775e5560390943b89cfbc4375ab
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9f43013316995f1fc851f5941569070
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c00124c68d96c7bbe88af89ce31a186
 add_ons:
   intro: >-
     ## Cash Grabber Machine Branding and Customisation Options

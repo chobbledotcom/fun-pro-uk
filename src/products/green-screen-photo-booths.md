@@ -95,33 +95,6 @@ gallery:
   - /images/products/green-screen-photo-booths/green-screen-photo-booths-24.jpg
   - /images/products/green-screen-photo-booths/green-screen-photo-booths-25.jpg
   - /images/products/green-screen-photo-booths/green-screen-photo-booths-26.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0a49b19e41edb9d1d626e38a046105
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c81521cd3fd6ed64e7f2b464e53ce20
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/98125b5de8b34b5ecfd24183898ea4a4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/11c35330e8f015e2f95d5bfa59ae88ae
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/091bf15d8f92fd14d4dde6eca7c27829
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8ddbff6eb41dd9aeccabf5657c4cc223
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7432317acb090ba198954d4d24b9a866
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b5810971160baf5762ff019071120328
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/689c0ccb2e4ba29096a7e48b75562c5f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c14de0179998501f559bc16b5be9057f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/52b7ab172f93b18eaf5b9e126e9ab99d
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c39801f5d92a4c6f97f56ba589e68bf7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f508d8808bc2b5ad303ad2c5c3533a2e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2468428fe4d3a236a27fef13b283e255
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/fd03a8ce8fe6ad2c96a55ad5b8e31258
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/464756a5704cf43cd95199aba6ee4d1f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/167aebd224bea083f3a40cc3b04074f2
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4abfca9244821d6d756b256c3d458ad4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b6ee692b9392ae73fb0f9da8755abc9
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4c703ca9f66f8afd5c9146d6b4df9a80
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7cd1d714deac0d098f8c71ab25befefb
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a88737076800a20fd299831ede0bf7ce
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d22f81d05da8f53be1f43d5f2efbd805
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/11c1ef42f97c72071d5cc5cccfdf7818
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7fee57d80b49dac5bbd2a2aeaade90db
 add_ons:
   intro: >-
     ## GREEN SCREEN PHOTO BOOTHS Branding and Customisation Options

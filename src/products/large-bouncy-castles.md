@@ -59,9 +59,6 @@ redirect_from:
 gallery:
   - /images/products/large-bouncy-castles/large-bouncy-castles-1.jpg
   - /images/products/large-bouncy-castles/large-bouncy-castles-2.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4c2c41a53dd394815511ac12dc3a3d15
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/839e7cf60d154d27c83b2be6dc991796
 tabs:
   - title: Why LARGE BOUNCY CASTLES?
     image: /images/products/large-bouncy-castles/large-bouncy-castles-2.jpg

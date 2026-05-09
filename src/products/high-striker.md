@@ -89,14 +89,6 @@ gallery:
   - /images/products/high-striker/high-striker-5.jpg
   - /images/products/high-striker/high-striker-6.jpg
   - /images/products/high-striker/high-striker-7.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e302e6319fcb03ddfc99aefe2b5fb9cf
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/26f1074f3bb83ecc363385cc34cfcb98
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b2008301bb18dc904d5287ee00dd84f1
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d04114f2b5483f4aa277d240b23b0a02
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1e28d14c512b85a5e654a0da1b28a2c3
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/30512d60bf22e6fa6d8e85b889855315
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/91aad21176107fdb83a7c82b7d2dce85
 add_ons:
   intro: >-
     ## High Striker Branding and Customisation Options

@@ -88,11 +88,6 @@ gallery:
   - /images/products/prize-wheel/IMG-20240603-WA0024.jpg
   - /images/products/prize-wheel/img-20250915-wa0004-1.jpg
   - /images/products/prize-wheel/prize-wheel-1.jpeg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/dfe3a09a27fc09f61c51a1f5acc8bcbb
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6dbb9c748f43ffe640216990f6cc095
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f8b8eec90251a65de225e06ff29111cc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/542e218deb1d20f264950f198206e7d0
 add_ons:
   intro: >-
     ## Prize Wheel Branding and Customisation Options

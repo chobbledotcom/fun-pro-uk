@@ -66,8 +66,6 @@ gallery:
   - /images/products/whack-an-elf/59ad4e8c-4907-4239-8e4f-80fde87f39bc.jpg
   - /images/products/whack-an-elf/5c32a874-3017-4f14-b34b-5a7201b58e16.jpg
   - /images/products/whack-an-elf/dc7bd32b-5b0f-476e-9b52-e81e1165da9d.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0d9221f6075957eb46e617e6d248f65e
 add_ons:
   intro: >-
     ## Whack an Elf Branding and Customisation Options

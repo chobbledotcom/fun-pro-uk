@@ -86,16 +86,6 @@ gallery:
   - /images/products/plinko-game-hire/plinko-game-hire-7.jpg
   - /images/products/plinko-game-hire/plinko-game-hire-8.jpg
   - /images/products/plinko-game-hire/plinko-game-hire-9.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c1caaa0a6b148b789128764f0c2e291
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1c7f36d3bed80f7191dc813f7b12d430
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4f4e68d4d7079c050fe8b836bf87e296
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/42e4903f727f3fa25d09993ab7873e64
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/59ac8389dff804a22a61b127d6de0be5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7cee4c50b52e0d8cc71eef3607787c74
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1e3a673d1f71f8426434cf9e66bd146
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5463ebf2f6ee8ba66947266f9e8cf317
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f2d8de5f7902820a2e300536fb879f4b
 add_ons:
   intro: >-
     ## Plinko Game Hire Branding and Customisation Options

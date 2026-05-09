@@ -117,34 +117,6 @@ gallery:
   - /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-25.jpg
   - /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-26.jpg
   - /images/products/whack-a-mole-game-hire/whack-a-mole-game-hire-27.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/833c0cfcbec5cdc77623cec696b68f88
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5da9003a15ea54ac12f7a09765ba7b14
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9da4f2cab66c74190903187ea1304ba3
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8f64d7f47bed5229873908aa878149c6
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9b0b05ea7fe72294077220660eaf4335
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/64e583eb05db8c37a41dcb87ec2872f7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6d25266c0aded3637b0a98586df71fe3
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/43c08e97ae9ee89859e0e083cb407700
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/63ce7cec50569ad1225764b5abbb554a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d8e474c31ea72846edcede287ec11adc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/cd5422ccce8f3143de5a0759b3eb02aa
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/ce5a7cc3e914cdd09126b36fbb8f150c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f831467dd0d33af1904f68dd2888c218
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/97a34740af8f78671cf60c1a076e7a17
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c14edaec73a4f2e30a365375842bf1dc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/41587da313170682d955cea953fb2b30
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/29d9b217b7252e5b18afa6949b9a8c87
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0e93d8c0b03e4acc12ce54f3fdc0bb92
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f013519c48fb2aeb2bf837c72a488a2c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/108ad7e93ec8bdd64fcfed14274dbbb7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4af3b1030011630ced46ea017035e41
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e3a6e86426f8f76b0ca27c441b7ac895
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5a3c389564895644b0ac09dd353b27de
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b29f02fdc41632076f9f2c010a939d78
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6834ec1ea28dbb69d3eaaf624c69a49e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5791f3ec1efafd00ffde4b3c9f1c0158
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b5861f56d5ce65d2e5da34b6d79b942
 add_ons:
   intro: >-
     ## Whack A Mole game hire Branding and Customisation Options

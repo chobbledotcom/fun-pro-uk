@@ -74,8 +74,6 @@ redirect_from:
 gallery:
   - /images/products/target-ring-toss-hire/whatsapp-image-2026-02-07-at-9.38.45-pm-1.jpeg
   - /images/products/target-ring-toss-hire/target-ring-toss-hire-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0180241d23b3a8341c3c0ebe7a6ffbae
 faqs:
   - question: How many people can play Target Ring Toss at once?
     answer: The game accommodates 1-4 players simultaneously, making it social
