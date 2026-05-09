@@ -144,4 +144,5 @@ tabs:
       upon request. Please note that delivery charges and minimum order values
       may apply depending on location, and this item is available as an add-on
       hire only.
+price: "60"
 ---
