@@ -183,22 +183,20 @@ const askSpecsAndFeaturesQuestions = async (
   collections,
   defaultFeatures,
 ) => {
-  const hasSpecsCollections = collections.some(
-    memberOf(["products", "properties"]),
-  );
+  const hasSpecsCollections = collections.some(memberOf(["products"]));
 
   return {
     specs: hasSpecsCollections
       ? await askYesNo(
           rl,
-          "Do you want specifications on products/properties?",
+          "Do you want specifications on products?",
           defaultFeatures.specs ?? false,
         )
       : false,
     features: hasSpecsCollections
       ? await askYesNo(
           rl,
-          "Do you want feature lists on products/properties?",
+          "Do you want feature lists on products?",
           defaultFeatures.features ?? false,
         )
       : false,

@@ -68,10 +68,6 @@ options:
     days: 1
 redirect_from:
   - /category/interactive-game-hire/114/master-sniper/
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d4d0a398dcd97c0eaeb50ddd134c5efc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0c30deefe6fe20a4b5d95ed478316d6a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3331f041195b8aff043935aa1f8ff5b6
 tabs:
   - title: Why Master Sniper?
     body: >-

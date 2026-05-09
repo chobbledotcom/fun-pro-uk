@@ -93,8 +93,6 @@ gallery:
   - /images/products/roller-bowler/roller-bowler-1.jpg
   - /images/products/roller-bowler/a1ca7603-4f47-43fc-9c0f-bc8b6b7a8835.jpg
   - /images/products/roller-bowler/IMG-20251110-WA0013.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f2fd9ac2ec083ef5ee4e154157c150e
 faqs:
   - question: How many people can play Roller Bowler at once?
     answer: The game accommodates 1-4 players taking turns, with the simple format

@@ -114,6 +114,82 @@ export interface PagesCMSProduct {
 }
 
 /**
+ * @typedef {Object} PagesCMSHeader
+ * @property {string} ?title - Title
+ * @property {string} ?subtitle - Subtitle
+ * @property {string} ?button_text - Button Text
+ * @property {string} ?button_url - Button URL
+ * @property {string} ?all_products_image - All Products Image
+ */
+export interface PagesCMSHeader {
+  title?: string;
+  subtitle?: string;
+  button_text?: string;
+  button_url?: string;
+  all_products_image?: string;
+}
+
+/**
+ * @typedef {Object} PagesCMSIntro
+ * @property {string} ?title - Title
+ * @property {string} ?text - Text
+ * @property {string} ?button_text - Button Text
+ * @property {string} ?button_url - Button URL
+ */
+export interface PagesCMSIntro {
+  title?: string;
+  text?: string;
+  button_text?: string;
+  button_url?: string;
+}
+
+/**
+ * @typedef {Object} PagesCMSHowItWorkStep
+ * @property {string} ?title - Title
+ * @property {string} ?text - Text
+ */
+export interface PagesCMSHowItWorkStep {
+  title?: string;
+  text?: string;
+}
+
+/**
+ * @typedef {Object} PagesCMSHowItWork
+ * @property {string} ?title - Title
+ * @property {string} ?image - Image
+ * @property {string} ?button_text - Button Text
+ * @property {string} ?button_url - Button URL
+ * @property {PagesCMSHowItWorkStep[]} ?steps - Steps
+ */
+export interface PagesCMSHowItWork {
+  title?: string;
+  image?: string;
+  button_text?: string;
+  button_url?: string;
+  steps?: PagesCMSHowItWorkStep[];
+}
+
+/**
+ * @typedef {Object} PagesCMSPopularGame
+ * @property {string} ?title - Title
+ * @property {string} ?link_text - Link Text
+ * @property {string} ?link_url - Link URL
+ */
+export interface PagesCMSPopularGame {
+  title?: string;
+  link_text?: string;
+  link_url?: string;
+}
+
+/**
+ * @typedef {Object} PagesCMSEvent
+ * @property {string} ?title - Title
+ */
+export interface PagesCMSEvent {
+  title?: string;
+}
+
+/**
  * @typedef {Object} PagesCMSOpeningTime
  * @property {string} day - Day
  * @property {string} hours - Hours

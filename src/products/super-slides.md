@@ -57,9 +57,6 @@ redirect_from:
 gallery:
   - /images/products/super-slides/super-slides-1.jpg
   - /images/products/super-slides/20240719_132500.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/dafd96b7b3da46cf7b34a7612978bc8a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1bdc2a629293e20f8a972449aff24c9f
 tabs:
   - title: Why SUPER SLIDES?
     image: /images/products/super-slides/super-slides-2.jpg

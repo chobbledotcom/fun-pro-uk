@@ -57,10 +57,6 @@ gallery:
   - "/images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg"
   - "/images/products/ice-cream-van-hire/ice-cream-van-hire-2.jpg"
   - "/images/products/ice-cream-van-hire/ice-cream-van-hire-3.jpg"
-gallery_cloudinary:
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/8bb413d86591341d61699ae1fe7d5e02"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/86c68a33d98c009c669327dd8f6ecaf7"
-  - "https://bouncycastlenetwork-res.cloudinary.com/image/upload/90b4b5513e5607d3ffbd949904c3bb60"
 tabs:
   - title: "Why Ice Cream van Hire?"
     body: >-

@@ -70,10 +70,6 @@ gallery:
   - /images/products/total-wipe-out/total-wipe-out-1.jpg
   - /images/products/total-wipe-out/total-wipe-out-2.jpg
   - /images/products/total-wipe-out/total-wipe-out-3.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6cbf153fb90680edbf111d80fe31294f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b391959defbeab0fe0d6c6536775a23c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b857fd4a67fed05224b0f7ed7dc24e36
 tabs:
   - title: Why TOTAL WIPE OUT?
     image: /images/products/total-wipe-out/total-wipe-out-3.jpg

@@ -21,14 +21,12 @@ import {
   SPECS_FIELD,
 } from "#scripts/customise-cms/fields.js";
 import {
+  buildCaseStudiesFields,
   buildEventsFields,
   buildGuidePagesFields,
   buildLocationsFields,
-  buildMenuCategoriesFields,
-  buildMenuItemsFields,
   buildNewsFields,
   buildProductsFields,
-  buildPropertiesFields,
   buildReviewsFields,
 } from "#scripts/customise-cms/item-builders.js";
 import { compact, filter, memberOf } from "#toolkit/fp/array.js";
@@ -59,14 +57,12 @@ const getCoreFields = (collectionName, config, fields) => {
 
   const dynamicBuilders = {
     news: buildNewsFields,
+    "case-studies": buildCaseStudiesFields,
     products: buildProductsFields,
     reviews: buildReviewsFields,
     events: buildEventsFields,
     locations: buildLocationsFields,
-    properties: buildPropertiesFields,
     "guide-pages": buildGuidePagesFields,
-    "menu-categories": buildMenuCategoriesFields,
-    "menu-items": buildMenuItemsFields,
   };
 
   const builder = dynamicBuilders[collectionName];
@@ -103,7 +99,12 @@ const addOptionalFields = (
   config,
   fieldContext,
 ) => {
-  if (collectionName === "snippets") return coreFields;
+  if (
+    collectionName === "snippets" ||
+    collectionName === "reviews" ||
+    collectionName === "case-studies"
+  )
+    return coreFields;
 
   const collection = getCollection(collectionName);
   const alreadyHasBlocks = collectionName === "pages";
@@ -191,11 +192,6 @@ const RAW_VIEW_CONFIGS = {
     primary: "title",
     sort: ["title"],
   },
-  properties: {
-    fields: ["thumbnail", "title", "subtitle", "bedrooms", "sleeps"],
-    primary: "title",
-    sort: ["title"],
-  },
 };
 
 /**
@@ -220,17 +216,20 @@ const getValidatedViewConfig = (collectionName, config, fieldContext) => {
 };
 
 /**
- * Collections that use the default date-based filename pattern
- * @type {string[]}
+ * Per-collection filename templates. Defaults to "{primary}.md".
+ * @type {Record<string, string>}
  */
-const DATE_FILENAME_COLLECTIONS = ["news"];
+const FILENAME_TEMPLATES = {
+  news: "{fields.date}-{primary}.md",
+};
 
 /**
- * Check if a collection uses filename-based primary key (all except date-based ones)
+ * Get the filename template for a collection
  * @param {string} name - Collection name
- * @returns {boolean}
+ * @returns {string} Filename template
  */
-const hasFilenameConfig = (name) => !memberOf(DATE_FILENAME_COLLECTIONS)(name);
+const getFilenameTemplate = (name) =>
+  FILENAME_TEMPLATES[name] || "{primary}.md";
 
 /**
  * Generate configuration for a single collection
@@ -254,9 +253,7 @@ export const generateCollectionConfig = (
     subfolders: collectionName === "locations",
   };
 
-  if (hasFilenameConfig(collectionName)) {
-    collectionConfig.filename = "{primary}.md";
-  }
+  collectionConfig.filename = getFilenameTemplate(collectionName);
 
   const viewConfig = getValidatedViewConfig(
     collectionName,

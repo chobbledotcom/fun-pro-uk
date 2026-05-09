@@ -62,10 +62,6 @@ gallery:
   - /images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-2.jpg
   - /images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg
   - /images/products/dash-and-grab-hungry-hippo-inflatable-game/whatsapp-image-2025-07-21-at-08.57.51_caa30e1e.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0f1afa00871e84589a4af7a890166f4f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d7d7b90edd8e1ff5ad004bde669eee2
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d2e22b07d204cc194cd9dd3cdfa4129f
 tabs:
   - title: Why Dash & Grab / Hungry Hippo Inflatable Game?
     image: /images/products/dash-and-grab-hungry-hippo-inflatable-game/dash-and-grab-hungry-hippo-inflatable-game-3.jpg

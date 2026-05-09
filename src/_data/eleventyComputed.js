@@ -77,7 +77,7 @@ export default {
 
   /**
    * Override filter_attributes with mock values in FAST_INACCURATE_BUILDS mode.
-   * Only applies to items that have filter_attributes defined (products, properties).
+   * Only applies to items that have filter_attributes defined (products).
    * @param {import("#lib/types").EleventyComputedData} data - Page data
    * @returns {Array<{name: string, value: string}>} Filter attributes (defaults to empty array)
    */

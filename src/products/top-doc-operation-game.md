@@ -94,10 +94,6 @@ gallery:
   - /images/products/top-doc-operation-game/top-doc-operation-game-1.jpg
   - /images/products/top-doc-operation-game/top-doc-operation-game-2.jpg
   - /images/products/top-doc-operation-game/top-doc-operation-game-3.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5b4e2061a92c3ef5cc78e811dee6f13e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/72a2c79c450d0e5020205e9df46176f7
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/50395536024ba9fc15eb752613165cb5
 tabs:
   - title: Why TOP DOC OPERATION GAME?
     image: /images/products/top-doc-operation-game/top-doc-operation-game-3.jpg

@@ -79,8 +79,6 @@ redirect_from:
   - /category/corporate-entertainment/44/giant-jenga-hire/
 gallery:
   - /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a614d8174ccf9102650bc1c674828a3
 tabs:
   - title: Why Giant Jenga Hire?
     image: /images/products/giant-jenga-hire/giant-jenga-hire-1.jpg

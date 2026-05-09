@@ -91,8 +91,6 @@ redirect_from:
   - /category/exhibition-games/77/virtual-pinball/
 gallery:
   - /images/products/virtual-pinball/virtual-pinball-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/bd7acb0f256eb17a0286c04f1ca988b6
 tabs:
   - title: Why Virtual Pinball?
     image: /images/products/virtual-pinball/virtual-pinball-1.jpg

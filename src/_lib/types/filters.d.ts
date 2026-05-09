@@ -1,7 +1,7 @@
 /**
  * Filter system types
  *
- * Types for the URL-based filtering system used by products and properties.
+ * Types for the URL-based filtering system used by products.
  */
 
 /**

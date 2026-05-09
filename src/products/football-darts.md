@@ -65,10 +65,6 @@ options:
     days: 1
 redirect_from:
   - /category/fun-days/83/football-darts/
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a1f876faf83c7c2c00283f055ccd0655
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f83f4a351c7699b6849bef4bb00bc57
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6031efad6121e851b6b068a7f1f5167b
 tabs:
   - title: Why Football Darts?
     body: >-

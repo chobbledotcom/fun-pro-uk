@@ -56,10 +56,6 @@ gallery:
   - /images/products/christmas-photo-booths/christmas-photo-booths-1.jpg
   - /images/products/christmas-photo-booths/christmas-photo-booths-2.jpg
   - /images/products/green-screen-photo-booths/green-screen-photo-booths-2.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9c30c9c167d629d2d54266052239a67
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3d50c886298f4ec06f0531c8726285a9
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/60a1bb46d36f07048101257f9ce5877a
 faqs:
   - question: How many people can use the Christmas Photo Booth at once?
     answer: Groups of 1-8 can use the booth together, making it perfect for team

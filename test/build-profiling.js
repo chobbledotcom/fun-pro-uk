@@ -201,11 +201,6 @@ const profileScript = (script, nodeArgs, spawnArgs) => {
   console.log(
     `@11ty/eleventy-img                       ${eleventyImgTime.toFixed(2)} ms`,
   );
-
-  const jsonToPdfTime = profileSingleImport("json-to-pdf");
-  console.log(
-    `json-to-pdf                              ${jsonToPdfTime.toFixed(2)} ms`,
-  );
   console.log();
 
   // 9. Profile imports within config context
@@ -226,11 +221,9 @@ const profileScript = (script, nodeArgs, spawnArgs) => {
       await measure("#collections/categories.js", () => import("#collections/categories.js"));
       await measure("#collections/events.js", () => import("#collections/events.js"));
       await measure("#collections/products.js", () => import("#collections/products.js"));
-      await measure("#collections/properties.js", () => import("#collections/properties.js"));
       await measure("#eleventy/feed.js", () => import("#eleventy/feed.js"));
       await measure("#eleventy/external-links.js", () => import("#eleventy/external-links.js"));
       await measure("#eleventy/navigation.js", () => import("@11ty/eleventy-navigation"));
-      await measure("#eleventy/pdf.js", () => import("#eleventy/pdf.js"));
       await measure("#media/image.js", () => import("#media/image.js"));
       await measure("sass", () => import("sass"));
       await measure("sharp", () => import("sharp"));

@@ -107,21 +107,6 @@ gallery:
   - /images/products/vr-race-car-simulator/vr-race-car-simulator-12.jpg
   - /images/products/vr-race-car-simulator/vr-race-car-simulator-13.jpg
   - /images/products/vr-race-car-simulator/vr-race-car-simulator-14.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c699e5c57a273a000e769b5a04572c1d
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/94d8491b77bec0ab472825339227a8de
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/16af29d1ffe6e66d70a0d23d064f86cb
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e3fc858ba425468406a7fae0ab31d95
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/410de75145653d2e98ca999a4e968495
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7db599efe0e18412ca3b7b35b76643a3
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/297415fc5d2587ce233ac20808c47280
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/16ae2867fdd132b987051614a1d5d951
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1d64e1e1440f00b1f49481497673397c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8b3d177094e7a2a56f6fdbe6e1b40674
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/539d0deebd1845264f7147384ee5d113
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3f3de7d0063dc15a039f582f90824ce1
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/8ddf7d8e6ed3a92d32ec94760f5b813d
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d6eed1c0ff69c19d17b01bc0fb8210c5
 tabs:
   - title: Why VR Race Car Simulator?
     image: /images/products/vr-race-car-simulator/vr-race-car-simulator-14.jpg

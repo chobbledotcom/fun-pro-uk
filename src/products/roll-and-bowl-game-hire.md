@@ -101,39 +101,6 @@ gallery:
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-30.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-31.jpg
   - /images/products/roll-and-bowl-game-hire/roll-and-bowl-game-hire-32.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b171a34b265ed8a2445fe64637ca3b51
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6350ef81a9848a98fc89ebc597e8c02c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0195f351c22e6018ed77b2ced7207341
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b0050ef79059165761352e6f1f1faf44
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9f79589aef314c37fdbb72dc90946444
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e59b51b220e1469f6ee3334b1b2ec3b5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e871f691c7eb77a4a0d04cda2f28bbfa
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/eea97353db9f278a588d5132972bf69f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5486edd0b930aa2335d38a360e256273
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0011f4b5501021f30aa33514da96c9f2
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/159b75130aa53d5ccc4e9f94c137fa3f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/be03c638a1b6ae9617a55e60aa5e3dbd
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/1f7e9378dc9831d3a838bdadcd1fd512
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/277e1c9c398629c9ac694a35ef87f00a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f9857cd80a209ae33af460e325f5b524
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/99d9f490f153daba74fc73501c420dea
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/053a1345e3ef09f7a36f078215510866
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/68e82078ecee9182fa7bb04e58421c95
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/96bf297f858b598c5799989638775a84
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/2ee2452fd742e1adc8ee35e74eebb8b4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e40d048535502905c56633f286a7acf8
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/669dea0e63dd74fc61908e2f2d65841c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/58b0eb2a6a2e5369b651ca3964be1257
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/76684ac9c8a9e4c10a35f8737d6b0f92
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/64201971a4c4f027d06e8a017f9ba2b6
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/3efb493520d87ad02dde5780b8fa5d64
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a19a700a9d1c957e223a35056da3482a
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ae3e390984baa36de60da48a2a2e4ef
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/abb56c4961cc314e9a5a0194b7dbbb5e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9cccff9f5b65a5e7e2ebe2ad96f28cc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9755f4f730c3ec04b906e423ff89c58
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7b37db6331e249d685ef03fdbfdf5648
 add_ons:
   intro: >-
     ## Roll And Bowl Game Hire Branding and Customisation Options

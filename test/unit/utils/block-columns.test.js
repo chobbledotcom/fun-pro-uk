@@ -49,7 +49,7 @@ describe("block-columns", () => {
   describe("getLayoutForTags", () => {
     const layouts = {
       products: { columns: [{ types: ["gallery"] }] },
-      properties: { columns: [{ types: ["markdown"] }] },
+      events: { columns: [{ types: ["markdown"] }] },
     };
 
     test("returns matching layout for the first matching tag", () => {
@@ -59,8 +59,8 @@ describe("block-columns", () => {
     });
 
     test("returns first match when multiple tags match", () => {
-      expect(getLayoutForTags(["properties", "products"], layouts)).toBe(
-        layouts.properties,
+      expect(getLayoutForTags(["events", "products"], layouts)).toBe(
+        layouts.events,
       );
     });
 

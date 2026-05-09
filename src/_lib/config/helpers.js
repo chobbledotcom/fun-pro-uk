@@ -18,7 +18,6 @@ const DEFAULTS = frozenObject({
   ecommerce_api_host: null,
   product_mode: null,
   has_products_filter: false,
-  has_properties_filter: false,
   placeholder_images: true,
   enable_theme_switcher: false,
   timezone: "Europe/London",
@@ -29,7 +28,6 @@ const DEFAULTS = frozenObject({
   nav_thumbnails: false,
   navigation_content_anchor: false,
   category_order: null,
-  property_order: null,
   guide_page_order: [
     "guide/header.html",
     "guide/navigation.html",
@@ -48,13 +46,7 @@ const DEFAULTS = frozenObject({
   default_image_widths: [240, 480, 900, 1300],
   currency: "GBP",
   default_max_quantity: 1,
-  search_collections: [
-    "products",
-    "categories",
-    "events",
-    "properties",
-    "news",
-  ],
+  search_collections: ["products", "categories", "events", "news"],
   linkify_urls: true,
 });
 

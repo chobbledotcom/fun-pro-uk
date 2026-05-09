@@ -102,23 +102,6 @@ gallery:
   - /images/products/prize-crane-arcade-grabber/42f6d31e-494e-4816-afb6-37b5f4128f07.jpg
   - /images/products/prize-crane-arcade-grabber/586d6882-82b1-4b1f-975a-03be559a5c84.jpg
   - /images/products/prize-crane-arcade-grabber/b615a5b1-2612-4b9f-91bc-a3f07d095530.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0eab500e698c86785f5d0b3c44e606a8
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/37b7febbbfbbe9ecec627fb3ed235eb8
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/d5658ae04bf03ddf9d018637aaf080e2
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/52532701bb9ca6cc0940e3a807d9ff0c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/cacb50cfc4179f86d704c8ac0ae07e91
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/e0a01d8e0a6f27006a9987de75516c7e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/96c238fe23527e3b24aa29bc97839749
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/754691ca57607c6b317a20c0dc02fb85
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/89e16c7949fbee7f2f2b48a100b85ec4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a0c73fe3c651512bd9466a5f852d03cf
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/52e2c6d4a9a3b38c84ae17fd6f6ea4dc
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/80fb5e852e57c56380ccf9e9126eb642
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c4da58914e461a7f9c12d4fe84b915f0
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/62ad0282349c253c7c1ab05488efa064
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/bbbcf1346752f88829d8a25fc8a47d47
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/f91f72bcf85902969c123ef0d4910d23
 add_ons:
   intro: >-
     ## Prize Crane Arcade Grabber Branding and Customisation Options

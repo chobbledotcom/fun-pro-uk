@@ -190,27 +190,6 @@ describe("generatePagesYaml reference fields", () => {
     expect(reviewsSection).not.toContain("collection: products");
   });
 
-  test("includes property reference on guide-categories when properties selected", () => {
-    const yaml = generatePagesYaml(
-      createTestConfig({
-        collections: ["pages", "guide-categories", "guide-pages", "properties"],
-      }),
-    );
-    const section = getSection("guide-categories")(yaml);
-
-    expect(section).toContain("collection: properties");
-  });
-
-  test("excludes property reference on guide-categories when properties not selected", () => {
-    const yaml = generatePagesYaml(
-      createTestConfig({
-        collections: ["pages", "guide-categories", "guide-pages"],
-      }),
-    );
-    const section = getSection("guide-categories")(yaml);
-
-    expect(section).not.toContain("collection: properties");
-  });
 });
 
 describe("generatePagesYaml visual editor", () => {

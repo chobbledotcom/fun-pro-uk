@@ -105,15 +105,6 @@ gallery:
   - /images/products/the-vault/8e17ba7d-37ef-473f-a1ac-874be7afac05.jpg
   - /images/products/the-vault/IMG-20231122-WA0013.jpg
   - /images/products/the-vault/IMG-20250602-WA0009.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/fb758ce2e2fd27d04a2195469ccbdf6e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5fe47049f1858a93276965f853b2fc5e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/433b36f38df818d0867735fc652e5f72
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/832190581669e1eaf8260bfe2489a6e5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/52705355fbabd1fbd200a98c5d373eaf
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/91f65dadeb0447a0791a32822b9c935e
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b4ae30fbbd6c20dac5b9f223a33fdd84
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/4867e072d6e414cffd2322e7197d37b2
 add_ons:
   intro: >-
     ## The Vault Branding and Customisation Options

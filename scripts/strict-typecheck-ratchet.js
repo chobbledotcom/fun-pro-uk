@@ -42,7 +42,6 @@ const STRICT_CLEAN_FILES = [
   "src/_data/listItemFields.js",
   "src/_data/metaComputed.js",
   "src/_data/production.js",
-  "src/_data/propertyOrder.js",
   "src/_data/quote-fields.js",
   "src/_data/selectors.js",
   "src/_data/site.js",
@@ -101,13 +100,9 @@ const STRICT_CLEAN_FILES = [
   "src/guide-categories/guide-categories.11tydata.js",
   "src/guide-pages/guide-pages.11tydata.js",
   "src/locations/locations.11tydata.js",
-  "src/menu-categories/menu-categories.11tydata.js",
-  "src/menu-items/menu-items.11tydata.js",
-  "src/menus/menus.11tydata.js",
   "src/news/news.11tydata.js",
   "src/pages/pages.11tydata.js",
   "src/products/products.11tydata.js",
-  "src/properties/properties.11tydata.js",
   "src/reviews/reviews.11tydata.js",
 ];
 

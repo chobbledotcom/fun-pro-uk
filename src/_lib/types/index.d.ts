@@ -35,24 +35,18 @@ export type {
   CategoryItemData,
   EventItemData,
   ReviewItemData,
-  PropertyItemData,
   LocationItemData,
   TeamItemData,
   NewsItemData,
-  MenuItemData,
-  MenuCategoryItemData,
 
   // Specific collection item types (preferred for type safety)
   ProductCollectionItem,
   CategoryCollectionItem,
   EventCollectionItem,
   ReviewCollectionItem,
-  PropertyCollectionItem,
   LocationCollectionItem,
   TeamCollectionItem,
   NewsCollectionItem,
-  MenuItemCollectionItem,
-  MenuCategoryCollectionItem,
 
   // Generic collection types
   EleventyCollectionItemData,

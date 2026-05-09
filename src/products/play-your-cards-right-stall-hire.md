@@ -71,9 +71,6 @@ gallery:
   - /images/products/play-your-cards-right-stall-hire/da388e8b-a3b6-45af-b348-dc8bd8643e94.jpg
   - /images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-1.jpg
   - /images/products/play-your-cards-right-stall-hire/play-your-cards-right-stall-hire-2.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9ebe25aeed24d77d868a111df655b071
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b28e58bb25f3ac4b37bbc97c39a44218
 faqs:
   - question: How many people can play Play Your Cards Right at once?
     answer: One contestant plays at a time, but the format naturally involves

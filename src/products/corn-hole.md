@@ -72,17 +72,6 @@ gallery:
   - /images/products/corn-hole/corn-hole-8.jpg
   - /images/products/corn-hole/corn-hole-9.jpg
   - /images/products/corn-hole/corn-hole-10.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/a9981daa9ff9a39a4c2d4fdf14e1fe02
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/c100164c109af15bb75389df79717919
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/99ec409edd5fb7109946399bde79ece2
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/fe3ba8d17e4a0215aa7d1a004503a34f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/36e477cfc0f432f9e69eb282b0fd85e4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/ca254a89cafcb223da6bdfecf69675d5
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/b55d17c3f3de0eeaa7c1050a595381f8
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/309c7ca51daa303ee58db79c226d1e97
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/09d9245a0dfcaf880507a4ab7a20d7b4
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/65a14af4364b497717c424304c8d4f80
 add_ons:
   intro: >-
     ## Corn Hole Branding and Customisation Options

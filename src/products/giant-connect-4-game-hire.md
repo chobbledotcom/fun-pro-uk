@@ -88,8 +88,6 @@ redirect_from:
   - /category/corporate-entertainment/45/giant-connect-4-game-hire/
 gallery:
   - /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/7c0f74c5ec4fed95f13b3922a158c902
 tabs:
   - title: Why Giant Connect 4 Game Hire?
     image: /images/products/giant-connect-4-game-hire/giant-connect-4-game-hire-1.jpg

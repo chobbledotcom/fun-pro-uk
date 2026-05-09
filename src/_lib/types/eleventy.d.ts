@@ -95,8 +95,6 @@ export type ProductItemData = BaseItemData & {
  * Category-specific data fields
  */
 export type CategoryItemData = BaseItemData & {
-  /** Menu slugs this category belongs to */
-  menus?: string[];
   /** Parent category slug for hierarchical categories */
   parent?: string;
   /** Explicit product references for this category */
@@ -135,24 +133,6 @@ export type ReviewItemData = BaseItemData & {
   products?: string[];
   /** Category slugs this review is for */
   categories?: string[];
-  /** Property slugs this review is for */
-  properties?: string[];
-};
-
-/**
- * Property-specific data fields
- */
-export type PropertyItemData = BaseItemData & {
-  /** Filter attributes for faceted search */
-  filter_attributes?: PagesCMSFilterAttribute[];
-  /** Property specifications */
-  specs?: PagesCMSSpec[];
-  /** Location slugs this property belongs to */
-  locations: string[];
-  /** Gallery image paths */
-  gallery: string[];
-  /** Property-specific Formspark ID (overrides global form target) */
-  formspark_id?: string;
 };
 
 /**
@@ -192,28 +172,9 @@ export type NewsItemData = BaseItemData & {
 };
 
 /**
- * Menu item data fields (for restaurant menus, etc.)
- */
-export type MenuItemData = BaseItemData & {
-  /** Menu categories this item belongs to */
-  menu_categories?: string[];
-};
-
-/**
- * Menu category data fields
- */
-export type MenuCategoryItemData = BaseItemData & {
-  /** Menu slugs this category belongs to */
-  menus?: string[];
-};
-
-/**
  * Guide category data fields
  */
-export type GuideCategoryItemData = BaseItemData & {
-  /** Property slug this guide category is linked to */
-  property?: string;
-};
+export type GuideCategoryItemData = BaseItemData;
 
 // =============================================================================
 // Specific Collection Item Types
@@ -253,14 +214,6 @@ export type ReviewCollectionItem = {
   data: ReviewItemData;
 };
 
-/** Property collection item - use with properties collection */
-export type PropertyCollectionItem = {
-  url: string;
-  fileSlug: string;
-  date?: Date;
-  data: PropertyItemData;
-};
-
 /** Location collection item - use with locations collection */
 export type LocationCollectionItem = {
   url: string;
@@ -283,22 +236,6 @@ export type NewsCollectionItem = {
   fileSlug: string;
   date?: Date;
   data: NewsItemData;
-};
-
-/** Menu item collection item - use with menu_items collection */
-export type MenuItemCollectionItem = {
-  url: string;
-  fileSlug: string;
-  date?: Date;
-  data: MenuItemData;
-};
-
-/** Menu category collection item - use with menu_categories collection */
-export type MenuCategoryCollectionItem = {
-  url: string;
-  fileSlug: string;
-  date?: Date;
-  data: MenuCategoryItemData;
 };
 
 /** Guide category collection item - use with guide-categories collection */
@@ -324,12 +261,9 @@ export type EleventyCollectionItemData = BaseItemData &
       CategoryItemData &
       EventItemData &
       ReviewItemData &
-      PropertyItemData &
       LocationItemData &
       TeamItemData &
       NewsItemData &
-      MenuItemData &
-      MenuCategoryItemData &
       GuideCategoryItemData
   >;
 

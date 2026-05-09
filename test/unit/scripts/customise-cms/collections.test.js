@@ -90,13 +90,6 @@ describe("resolveDependencies", () => {
     expect(resolved).toContain("categories");
   });
 
-  test("resolves nested dependencies for menu-items", () => {
-    const resolved = resolveDependencies(["menu-items"]);
-
-    expect(resolved).toContain("menu-items");
-    expect(resolved).toContain("menu-categories");
-    expect(resolved).toContain("menus");
-  });
 
   test("deduplicates when dependencies overlap with selections", () => {
     const resolved = resolveDependencies(["products", "categories"]);
@@ -114,14 +107,14 @@ describe("resolveDependencies", () => {
   });
 
   test("is idempotent", () => {
-    const first = resolveDependencies(["products", "menu-items"]);
+    const first = resolveDependencies(["products", "news"]);
     const second = resolveDependencies(first);
 
     expect(second.sort()).toEqual(first.sort());
   });
 
   test("does not add spurious dependencies for independent collections", () => {
-    const selected = ["news", "reviews", "locations", "properties"];
+    const selected = ["news", "reviews", "locations"];
     const resolved = resolveDependencies(selected);
 
     expect(resolved.sort()).toEqual(selected.sort());

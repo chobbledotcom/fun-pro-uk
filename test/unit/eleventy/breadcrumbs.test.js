@@ -27,8 +27,6 @@ describe("breadcrumbsFilter", () => {
     parentCategory = undefined,
     itemCategories = undefined,
     collections = {},
-    parentProperty = undefined,
-    parentGuideCategory = undefined,
   ) =>
     mockConfig.filters.breadcrumbsFilter(
       page,
@@ -38,8 +36,6 @@ describe("breadcrumbsFilter", () => {
       parentCategory,
       itemCategories,
       collections,
-      parentProperty,
-      parentGuideCategory,
     );
 
   test("returns empty array for home page", () => {
@@ -310,118 +306,4 @@ describe("breadcrumbsFilter", () => {
     });
   });
 
-  describe("property-linked guide category breadcrumbs", () => {
-    const HOME_CRUMB = { label: "Home", url: "/" };
-    const SUNSET_CRUMB = {
-      label: "Sunset Cottage",
-      url: "/properties/sunset-cottage/",
-    };
-
-    const properties = [
-      {
-        fileSlug: "sunset-cottage",
-        url: "/properties/sunset-cottage/",
-        data: { title: "Sunset Cottage" },
-      },
-    ];
-
-    const guideCategories = [
-      {
-        fileSlug: "getting-started",
-        url: "/guide/getting-started/",
-        data: { title: "Getting Started", property: "sunset-cottage" },
-      },
-      {
-        fileSlug: "general",
-        url: "/guide/general/",
-        data: { title: "General" },
-      },
-    ];
-
-    test("shows property as second crumb for guide category with property", () => {
-      const mockConfig = setupFilter();
-      const crumbs = callFilter(
-        mockConfig,
-        { url: "/guide/getting-started/" },
-        "Getting Started",
-        "Guide",
-        null,
-        undefined,
-        undefined,
-        { properties },
-        "sunset-cottage",
-      );
-
-      expect(crumbs).toEqual([
-        HOME_CRUMB,
-        SUNSET_CRUMB,
-        { label: "Getting Started", url: null },
-      ]);
-    });
-
-    test("shows property and category for guide page via parentGuideCategory", () => {
-      const mockConfig = setupFilter();
-      const crumbs = callFilter(
-        mockConfig,
-        { url: "/guide/getting-started/my-page/" },
-        "My Page",
-        "Guide",
-        null,
-        undefined,
-        undefined,
-        { properties, "guide-categories": guideCategories },
-        undefined,
-        "getting-started",
-      );
-
-      expect(crumbs).toEqual([
-        HOME_CRUMB,
-        SUNSET_CRUMB,
-        { label: "Getting Started", url: "/guide/getting-started/" },
-        { label: "My Page", url: null },
-      ]);
-    });
-
-    const HOME_BREADCRUMB = { label: "Home", url: "/" };
-    const GUIDE_BREADCRUMB = { label: "Guide", url: "/guide/" };
-
-    test("falls back to normal breadcrumbs when guide category has no property", () => {
-      const mockConfig = setupFilter();
-      const crumbs = callFilter(
-        mockConfig,
-        { url: "/guide/general/my-page/" },
-        "My Page",
-        "Guide",
-        null,
-        undefined,
-        undefined,
-        { properties, "guide-categories": guideCategories },
-        undefined,
-        "general",
-      );
-
-      expect(crumbs).toEqual([
-        HOME_BREADCRUMB,
-        GUIDE_BREADCRUMB,
-        { label: "My Page", url: null },
-      ]);
-    });
-
-    test("falls back to normal breadcrumbs when no property or guideCategory", () => {
-      const mockConfig = setupFilter();
-      const crumbs = callFilter(
-        mockConfig,
-        { url: "/guide/some-category/" },
-        "Some Category",
-        "Guide",
-        null,
-      );
-
-      expect(crumbs).toEqual([
-        HOME_BREADCRUMB,
-        GUIDE_BREADCRUMB,
-        { label: "Some Category", url: null },
-      ]);
-    });
-  });
 });

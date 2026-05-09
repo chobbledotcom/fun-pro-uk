@@ -80,8 +80,6 @@ gallery:
   - /images/products/crazy-golf/img-20260507-wa0018.jpg
   - /images/products/crazy-golf/img-20260507-wa0022.jpg
   - /images/products/crazy-golf/img-20260507-wa0027.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/39eaf0469fbfebc6794a2ba114b4d085
 tabs:
   - title: Why Crazy Golf?
     image: /images/products/crazy-golf/Alibaba16298659_original (1).jpg

@@ -66,15 +66,6 @@ gallery:
   - /images/products/human-table-football/human-table-football-6.jpg
   - /images/products/human-table-football/human-table-football-7.jpg
   - /images/products/human-table-football/human-table-football-8.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/26a96a43e055fa3c5964434e45ee6f6f
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5c079558a850a256e04534eb2ba8af69
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/5f926017a3f35c13055569e3903b7344
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/ea1edb46593f5ab54b8ad168cb950301
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/0bb1bb4180bcae797e0fcaf87edd3d45
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9a739c64a32b16f4304dc107bb669f52
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/9e28c6b6e9c970d16dccdfdf6ed9510c
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/27a871269b9d718a215cc7534572df3b
 tabs:
   - title: Why HUMAN TABLE FOOTBALL?
     image: /images/products/human-table-football/human-table-football-8.jpg

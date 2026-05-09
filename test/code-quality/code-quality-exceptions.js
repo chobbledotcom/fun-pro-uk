@@ -72,7 +72,6 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
   "test/code-scanner.js",
 
   // Test files - imperative accumulation patterns for test setup/assertions
-  "test/unit/build/pdf.test.js",
   "test/unit/build/scss.variables.test.js",
   "test/unit/code-quality/array-push.test.js",
   "test/unit/code-quality/comment-limits.test.js",
@@ -87,7 +86,6 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
   "test/unit/code-quality/duplicate-methods.test.js",
   "test/unit/test-runner-utils.test.js",
   "test/unit/collections/missing-folders-lib.test.js",
-  "test/unit/collections/properties.test.js",
   "test/unit/eleventy/layout-aliases.test.js",
   "test/unit/frontend/checkout.test.js",
   "test/unit/frontend/config.test.js",
@@ -111,7 +109,6 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
 // Only 'let moduleName = null;' is allowed for lazy loading without exceptions.
 const ALLOWED_LET = frozenSet([
   // Test files with mutable state tracking
-  "test/integration/build/pdf-integration.test.js",
   "test/integration/eleventy/feed.test.js",
   "test/unit/frontend/hire-calculator.test.js",
   "test/unit/code-quality/comment-limits.test.js",
@@ -201,8 +198,6 @@ const ALLOWED_TEST_ONLY_EXPORTS = frozenSet([
 
   // Eleventy plugin helpers - internal functions tested directly
   "src/_lib/eleventy/opening-times.js:renderOpeningTimes",
-  "src/_lib/eleventy/pdf.js:buildMenuPdfData",
-  "src/_lib/eleventy/pdf.js:generateMenuPdf",
   "src/_lib/eleventy/recurring-events.js:renderRecurringEvents",
 
   // Filter helpers - tested for icon path resolution

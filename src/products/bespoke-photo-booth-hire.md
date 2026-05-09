@@ -66,10 +66,6 @@ gallery:
   - /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-1.jpg
   - /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-2.jpg
   - /images/products/bespoke-photo-booth-hire/bespoke-photo-booth-hire-3.jpg
-gallery_cloudinary:
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/24c0c248921be81d95b0e363d4fd6ca0
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/023f5fff1deda24f0283d2072b3fec45
-  - https://bouncycastlenetwork-res.cloudinary.com/image/upload/6b43c4567263cacd1c96c43e6cd0c956
 add_ons:
   intro: >-
     ## Bespoke Photo Booth Hire Branding and Customisation Options
