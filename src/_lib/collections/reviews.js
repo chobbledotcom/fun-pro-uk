@@ -20,13 +20,13 @@ import { sortByDateDescending } from "#utils/sorting.js";
 /** @typedef {import("#lib/types").ReviewCollectionItem} ReviewCollectionItem */
 /** @typedef {import("#lib/types").EleventyCollectionItem} EleventyCollectionItem */
 
-/** @typedef {"products" | "categories" | "properties"} ReviewIndexField */
+/** @typedef {"products" | "categories"} ReviewIndexField */
 
 /**
  * Tags that support reviews.
  * @type {ReadonlySet<string>}
  */
-const REVIEWABLE_TAGS = frozenSet(["products", "categories", "properties"]);
+const REVIEWABLE_TAGS = frozenSet(["products", "categories"]);
 
 /**
  * Type guard: check if tag supports reviews.
@@ -47,9 +47,6 @@ const indexByProducts = createArrayFieldIndexer("products");
 /** Index reviews by categories for O(1) lookups, cached per reviews array */
 const indexByCategories = createArrayFieldIndexer("categories");
 
-/** Index reviews by properties for O(1) lookups, cached per reviews array */
-const indexByProperties = createArrayFieldIndexer("properties");
-
 /**
  * Map field names to their respective indexers.
  * @type {Record<ReviewIndexField, (reviews: ReviewCollectionItem[]) => Record<string, ReviewCollectionItem[]>>}
@@ -57,7 +54,6 @@ const indexByProperties = createArrayFieldIndexer("properties");
 const fieldIndexers = {
   products: indexByProducts,
   categories: indexByCategories,
-  properties: indexByProperties,
 };
 
 /**

@@ -47,8 +47,6 @@
 	"itemTagLabels": {
 		"categories": "Category",
 		"products": "Product",
-		"property": "Property",
-		"properties": "Property",
 		"events": "Event",
 		"locations": "Location"
 	},

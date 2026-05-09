@@ -133,40 +133,22 @@ describe("reviews", () => {
     expectResultTitles(result, ["Review 3", "Review 1"]);
   });
 
-  test("Filters reviews by properties field", () => {
-    const r = revs([
-      ["Review 1", "2024-01-01", { properties: ["property-a"] }],
-      ["Review 2", "2024-01-02", { properties: ["property-b"] }],
-      ["Review 3", "2024-01-03", { properties: ["property-a", "property-b"] }],
-    ]);
-
-    const result = getReviewsFor(r, "property-a", ["properties"]);
-
-    expectResultTitles(result, ["Review 3", "Review 1"]);
-  });
-
   test("Works with all supported fields", () => {
     const r = revs([
       [
         "Review 1",
         "2024-01-01",
-        { products: ["product-a"], categories: [], properties: [] },
+        { products: ["product-a"], categories: [] },
       ],
       [
         "Review 2",
         "2024-01-02",
-        { products: [], categories: ["category-a"], properties: [] },
-      ],
-      [
-        "Review 3",
-        "2024-01-03",
-        { products: [], categories: [], properties: ["property-a"] },
+        { products: [], categories: ["category-a"] },
       ],
     ]);
 
     expect(getReviewsFor(r, "product-a", ["products"]).length).toBe(1);
     expect(getReviewsFor(r, "category-a", ["categories"]).length).toBe(1);
-    expect(getReviewsFor(r, "property-a", ["properties"]).length).toBe(1);
   });
 
   test("Calculates rating for any field type via filter", () => {
@@ -174,17 +156,17 @@ describe("reviews", () => {
       [
         "R1",
         "2024-01-01",
-        { products: ["product-a"], categories: [], properties: [], rating: 5 },
+        { products: ["product-a"], categories: [], rating: 5 },
       ],
       [
         "R2",
         "2024-01-02",
-        { products: ["product-a"], categories: [], properties: [], rating: 3 },
+        { products: ["product-a"], categories: [], rating: 3 },
       ],
       [
         "R3",
         "2024-01-03",
-        { products: [], categories: ["category-a"], properties: [], rating: 4 },
+        { products: [], categories: ["category-a"], rating: 4 },
       ],
     ]);
 

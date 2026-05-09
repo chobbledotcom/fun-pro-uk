@@ -14,7 +14,6 @@ import "#public/ui/scroll-fade.js";
 import "#public/ui/search.js";
 import "#public/ui/slider.js";
 import "#public/ui/tabs.js";
-import "#public/ui/shuffle-properties.js";
 import "#public/ui/sort-dropdown.js";
 import "#public/ui/category-filter.js";
 import "#public/ui/contact-form-submit.js";

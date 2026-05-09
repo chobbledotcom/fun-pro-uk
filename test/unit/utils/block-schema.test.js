@@ -57,7 +57,7 @@ describe("validateBlocks error handling", () => {
   });
 
   test("accepts a block with only a type (empty schema)", () => {
-    // Blocks like "content" and "properties" have an empty schema.
+    // Blocks like "content" have an empty schema.
     // Pick one dynamically so the test doesn't break if the list changes.
     const emptySchemaType = Object.entries(BLOCK_SCHEMAS).find(
       ([, fields]) => Object.keys(fields).length === 0,

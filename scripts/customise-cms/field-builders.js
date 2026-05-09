@@ -22,8 +22,6 @@ import {
 } from "#scripts/customise-cms/fields.js";
 import {
   getHeaderFields,
-  getItemBottom,
-  getItemTop,
   META_FIELDS,
   withHeaderFields,
 } from "#scripts/customise-cms/generator-helpers.js";
@@ -128,12 +126,8 @@ export const getCollectionFieldBuilders = (config, fields) => ({
       COMMON_FIELDS.subtitle,
       COMMON_FIELDS.order,
       { name: "icon", type: "image", label: "Icon" },
-      memberOf(config.collections)("properties") &&
-        createReferenceField("property", "Property", "properties", false),
       fields.body,
     ]),
 
   snippets: () => [COMMON_FIELDS.name, fields.body],
-
-  menus: () => compact([...getItemTop(), ...getItemBottom(config, fields)]),
 });

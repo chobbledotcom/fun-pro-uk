@@ -14,13 +14,13 @@ describe("linkableContent", () => {
   });
 
   test("permalink respects existing data.permalink", () => {
-    const result = linkableContent("property");
+    const result = linkableContent("event");
     const data = { permalink: "/custom/", page: { fileSlug: "ignored" } };
     expect(result.eleventyComputed.permalink(data)).toBe("/custom/");
   });
 
   test("permalink normalises bare slug from frontmatter", () => {
-    const result = linkableContent("property");
+    const result = linkableContent("event");
     const data = { permalink: "my-custom-page", page: { fileSlug: "ignored" } };
     expect(result.eleventyComputed.permalink(data)).toBe("/my-custom-page/");
   });
@@ -47,10 +47,8 @@ describe("linkableContent", () => {
   test("builds correct permalink for each content type", () => {
     const types = [
       { type: "event", dir: "events" },
-      { type: "property", dir: "properties" },
       { type: "guide", dir: "guide" },
       { type: "news", dir: "news" },
-      { type: "menus", dir: "menus" },
     ];
     for (const { type, dir } of types) {
       const result = linkableContent(type);

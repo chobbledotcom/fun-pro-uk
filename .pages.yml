@@ -1528,9 +1528,7 @@ content:
           - { name: subtitle, type: string, label: Subtitle }
           - { name: button_text, type: string, label: Button Text }
           - { name: button_url, type: string, label: Button URL }
-          - name: all_products_image
-            type: image
-            label: All Products Image
+          - { name: all_products_image, type: image, label: All Products Image }
       - name: intro
         label: Intro
         type: object

@@ -6,7 +6,6 @@ const expectEmptyArray = (result) => {
 };
 
 import { configureCategories } from "#collections/categories.js";
-import { configureMenus } from "#collections/menus.js";
 import { configureNavigation } from "#collections/navigation.js";
 import { configureProducts } from "#collections/products.js";
 import { configureTags } from "#collections/tags.js";
@@ -32,23 +31,6 @@ describe("missing-folders-lib", () => {
     };
 
     expectEmptyArray(mockConfig.collections.categories(mockCollectionApi));
-  });
-
-  test("Menus module handles missing menu data", () => {
-    const mockConfig = createMockEleventyConfig();
-
-    configureMenus(mockConfig);
-
-    // Test filters with empty data
-    const emptyCategories = [];
-    const emptyItems = [];
-
-    expectEmptyArray(
-      mockConfig.filters.getCategoriesByMenu(emptyCategories, "test-menu"),
-    );
-    expectEmptyArray(
-      mockConfig.filters.getItemsByCategory(emptyItems, "test-category"),
-    );
   });
 
   test("Products module handles empty collections", () => {

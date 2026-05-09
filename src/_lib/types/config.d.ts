@@ -51,7 +51,6 @@ export type SiteConfig = {
   externalLinksTargetBlank: boolean;
   template_repo_url: string | null;
   has_products_filter: boolean;
-  has_properties_filter: boolean;
   placeholder_images: boolean;
   enable_theme_switcher: boolean;
   timezone: string;

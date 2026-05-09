@@ -24,6 +24,9 @@ import {
 import {
   buildItem,
   getContentFields,
+  getItemBottom,
+  getItemTop,
+  META_FIELDS,
   withEnabled,
 } from "#scripts/customise-cms/generator-helpers.js";
 
@@ -55,8 +58,14 @@ export const buildNewsFields = (config, fields) =>
  * @param {FieldContext} fields - Precomputed fields
  * @returns {CmsField[]} Products collection fields
  */
-export const buildProductsFields = (config, fields) =>
-  buildItem((enabled) => [
+export const buildProductsFields = (config, fields) => {
+  const [title, subtitle, thumbnail, order] = getItemTop();
+  return withEnabled((enabled) => [
+    title,
+    subtitle,
+    thumbnail,
+    { name: "price", type: "string", label: "Price" },
+    order,
     categoriesRef(enabled),
     enabled("events") && createReferenceField("events", "Events", "events"),
     PRODUCT_OPTIONS_FIELD,
@@ -68,7 +77,9 @@ export const buildProductsFields = (config, fields) =>
     config.features.features && FEATURES_FIELD,
     config.features.keywords && KEYWORDS_FIELD,
     FILTER_ATTRIBUTES_FIELD,
-  ])(config, fields);
+    ...getItemBottom(config, fields),
+  ])(config);
+};
 
 /**
  * Build fields for the reviews collection
@@ -79,12 +90,29 @@ export const buildProductsFields = (config, fields) =>
 export const buildReviewsFields = (config, fields) =>
   withEnabled((enabled) => [
     COMMON_FIELDS.name,
-    { name: "url", type: "string", label: "URL" },
     { name: "rating", type: "number", label: "Rating" },
-    { name: "thumbnail", type: "image", label: "Reviewer Photo" },
     fields.body,
     enabled("products") &&
       createReferenceField("products", "Products", "products"),
+  ])(config);
+
+/**
+ * Build fields for the case-studies collection
+ * @param {CmsConfig} config - CMS configuration
+ * @param {FieldContext} fields - Precomputed fields
+ * @returns {CmsField[]} Case studies collection fields
+ */
+export const buildCaseStudiesFields = (config, fields) =>
+  withEnabled(() => [
+    COMMON_FIELDS.title,
+    COMMON_FIELDS.subtitle,
+    COMMON_FIELDS.thumbnail,
+    fields.body,
+    ...META_FIELDS,
+    config.features.no_index && COMMON_FIELDS.no_index,
+    { name: "layout", type: "string", label: "Layout" },
+    config.features.permalinks && COMMON_FIELDS.permalink,
+    config.features.redirects && COMMON_FIELDS.redirect_from,
   ])(config);
 
 /**
@@ -130,63 +158,6 @@ export const buildEventsFields = (config, fields) =>
  */
 export const buildLocationsFields = (config, fields) =>
   buildItem((enabled) => [categoriesRef(enabled)])(config, fields);
-
-/**
- * Build fields for the properties collection
- * @param {CmsConfig} config - CMS configuration
- * @param {FieldContext} fields - Precomputed fields
- * @returns {CmsField[]} Properties collection fields
- */
-export const buildPropertiesFields = (config, fields) =>
-  buildItem((enabled) => [
-    COMMON_FIELDS.featured,
-    enabled("locations") &&
-      createReferenceField("locations", "Locations", "locations"),
-    { name: "bedrooms", type: "number", label: "Bedrooms" },
-    { name: "bathrooms", type: "number", label: "Bathrooms" },
-    { name: "sleeps", type: "number", label: "Sleeps" },
-    { name: "price_per_night", type: "number", label: "Price Per Night" },
-    { name: "formspark_id", type: "string", label: "Formspark ID" },
-    config.features.features && FEATURES_FIELD,
-  ])(config, fields);
-
-/**
- * Build fields for the menu-categories collection
- * @param {CmsConfig} config - CMS configuration
- * @param {FieldContext} fields - Precomputed fields
- * @returns {CmsField[]} Menu categories collection fields
- */
-export const buildMenuCategoriesFields = (config, fields) =>
-  withEnabled((enabled) => [
-    COMMON_FIELDS.name,
-    COMMON_FIELDS.thumbnail,
-    COMMON_FIELDS.order,
-    enabled("menus") && createReferenceField("menus", "Menus", "menus"),
-    fields.body,
-  ])(config);
-
-/**
- * Build fields for the menu-items collection
- * @param {CmsConfig} config - CMS configuration
- * @param {FieldContext} fields - Precomputed fields
- * @returns {CmsField[]} Menu items collection fields
- */
-export const buildMenuItemsFields = (config, fields) =>
-  withEnabled((enabled) => [
-    COMMON_FIELDS.name,
-    COMMON_FIELDS.thumbnail,
-    { name: "price", type: "string", label: "Price" },
-    { name: "is_vegan", type: "boolean", label: "Is Vegan" },
-    { name: "is_gluten_free", type: "boolean", label: "Is Gluten Free" },
-    enabled("menu-categories") &&
-      createReferenceField(
-        "menu_categories",
-        "Menu Categories",
-        "menu-categories",
-      ),
-    { name: "description", type: "string", label: "Description" },
-    fields.body,
-  ])(config);
 
 /**
  * Build fields for the guide-pages collection
