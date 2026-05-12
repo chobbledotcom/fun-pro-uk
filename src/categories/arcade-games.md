@@ -1,10 +1,10 @@
 ---
 title: Arcade Games
 subtitle: Retro and modern arcade machines for hire
-meta_title: Arcade Game Hire | Interactive Entertainment | Events UK-Wide
-meta_description: Fun Pro UK offers premium arcade game hire nationwide. Based
-  in Coventry, we provide games for events across the UK. Reserve now for your
-  next occasion!
+meta_title: Arcade Game Hire UK | Classic & Modern Arcade Machines
+meta_description: Hire arcade games for events anywhere in the UK. From classic
+  cabinets to modern arcade machines, Fun Pro delivers interactive entertainment
+  nationwide.
 featured: false
 thumbnail: /images/products/retro-arcade-games/retro-arcade-games-1.jpg
 redirect_from:
