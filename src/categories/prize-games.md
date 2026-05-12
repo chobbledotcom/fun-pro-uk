@@ -1,18 +1,19 @@
 ---
-title: "Prize Games"
-subtitle: "Games where guests compete to win prizes"
-meta_title: "Prize Games Hire | London, Manchester, Birmingham & UK"
-meta_description: "Roll up and win a prize! From spin the wheel to grab a grand and the arcade claw grabber machine, we have it all at Fun Pro UK. Book your spot today!"
+title: Prize Games
+subtitle: Games where guests compete to win prizes
+meta_title: Prize Games Hire UK | Claw Machines, Spin the Wheel & More
+meta_description: Attract crowds with prize game hire from Fun Pro. Choose from
+  claw grabbers, spin the wheel, Grab a Grand and more. Ideal for exhibitions &
+  events.
 featured: false
 thumbnail: /images/products/prize-wheel/prize-wheel-1.jpg
 redirect_from:
-  - "/category/prize-games/"
+  - /category/prize-games/
 eleventyNavigation:
-  key: "Prize Games"
-  parent: "Entertainment hire"
+  key: Prize Games
+  parent: Entertainment hire
   order: 2
 ---
-
 # Prize Games Hire UK
 
 Looking to dial up the fun at your next event? Fun Pro UK has you covered with an exciting range of Prize Games, perfect for [exhibitions](/categories/exhibition-games), trade shows, [corporate events](/categories/corporate-entertainment), or even [weddings](/categories/weddings). These prize games for hire blend the thrill of luck with the joy of skill-based challenges, promising a day filled with interactive fun.
@@ -23,7 +24,7 @@ Look through our huge range below, and when you're ready, make a booking online,
 
 Boost your brand visibility with customisable games, featuring your logo and colours. [Branded exhibition games](/categories/branded-exhibition-games) are a great way to ensure that people keep your business in mind long after the event is over - just contact us with your ideas!
 
-_Our Prize Games travel across the UK, including to Manchester, Birmingham, London, Leeds, Cardiff and beyond. Just tell us where you need us and we'll handle the rest. [Contact us](/contact-fun-pro-uk), ring [0247 7220 701](tel:+442477220701), or shoot an email to [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to begin your order!_
+*Our Prize Games travel across the UK, including to Manchester, Birmingham, London, Leeds, Cardiff and beyond. Just tell us where you need us and we'll handle the rest. [Contact us](/contact-fun-pro-uk), ring [0247 7220 701](tel:+442477220701), or shoot an email to [info@funprouk.co.uk](mailto:info@funprouk.co.uk) to begin your order!*
 
 ## Roll up and Win a Prize!
 
@@ -40,3 +41,4 @@ Some of our prize game options include:
 - [Prize Wheel](/products/prize-wheel): Spin to win a range of fantastic prizes, with full customisation allowing you to tailor the prizes to your specific requirements.
 - [The Vault](/products/the-vault): Break into the vault for a thrilling challenge. Speed, timing and accuracy are everything in this [arcade-style game](/categories/arcade-games).
 - And more! Check out our full repertoire of prize games below, and check out all our products to see more event hire ideas. We're your one-stop party rental shop at Fun Pro UK, helping people host events both large and small.
+
