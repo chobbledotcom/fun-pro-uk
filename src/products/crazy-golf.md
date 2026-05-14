@@ -30,7 +30,7 @@ specs:
   - name: Players
     value: 1-4 players per hole
   - name: Space Required
-    value: 2m x 2m x 2m
+    value: 2m x 1m x 1m per unit
   - name: Power
     value: No power required
   - name: Setup time
