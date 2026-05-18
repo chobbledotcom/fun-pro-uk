@@ -87,6 +87,8 @@ add_ons:
       price: 125
     - name: Branded side panels
       price: 255
+    - name: Rear Branding
+      price: 165
     - name: Full branding
       price: 475
 tabs:
