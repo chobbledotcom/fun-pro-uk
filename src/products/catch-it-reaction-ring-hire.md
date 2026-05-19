@@ -133,8 +133,10 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Front and side panel
+    - name: Front and side panels
       price: 195
+    - name: 10 Branded Batons
+      price: 150
 tabs:
   - title: Why Catch it Reaction Ring Hire?
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg
