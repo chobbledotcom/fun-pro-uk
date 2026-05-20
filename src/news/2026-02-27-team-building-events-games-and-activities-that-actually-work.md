@@ -5,7 +5,6 @@ author: team/colin.md
 meta_title: Team Building Events | Games & Activities for Teams
 meta_description: Planning team building events? Discover games and activities
   that engage everyone, from reaction challenges to racing simulators.
-  Professional hire for corporate team days across the UK.
 no_index: false
 faqs:
   - question: "How much space do team building games need? "
@@ -140,7 +139,7 @@ These types of events call for games that complement food and drinks in a more f
 
 Working with a [professional hire company](https://www.funprouk.co.uk/pages/about-corporate-entertainment-hire) simplifies team building event planning considerably. Rather than coordinating multiple suppliers or attempting to source equipment independently, a single provider handles everything from [delivery](https://www.funprouk.co.uk/pages/delivery-areas) to collection.
 
-Nationwide delivery and setup mean equipment arrives ready to use, with professional installation ensuring everything works correctly. For staffed events, trained operators manage the games and keep engagement high throughout the day if needed.
+Based in [Coventry](https://www.funprouk.co.uk/locations/coventry/), our nationwide delivery and setup mean equipment arrives ready to use, with professional installation ensuring everything works correctly. For staffed events, trained operators manage the games and keep engagement high throughout the day if needed.
 
 Flexibility is a significant advantage of professional hire. Equipment can be delivered to virtually any venue, whether that's your office, a hotel conference room, or an outdoor space. This means you can choose the location that works best for your team rather than being constrained by what activities are available where.
 
