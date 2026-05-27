@@ -45,7 +45,7 @@ jobs:
           bun-version: latest
 
       - name: Restore image cache
-        uses: maxnowack/local-cache@v2
+        uses: actions/cache@v4
         with:
           path: .image-cache
           key: images-${{ hashFiles('src/images/**/*', 'src/_data/config.json') }}
