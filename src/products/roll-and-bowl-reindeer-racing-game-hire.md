@@ -3,13 +3,14 @@ title: Roll And Bowl Reindeer Racing Game Hire
 subtitle: Festive-themed roll-and-bowl racing game
 price: £895
 order: 76
-meta_title: Roll And Bowl Reindeer Racing Game Hire | Christmas Games | Fun Pro UK
+meta_title: "Roll And Bowl Reindeer Racing Game Hire | Christmas Games "
 meta_description: Festive roll-and-bowl reindeer racing game for Christmas
   parties and seasonal events. Roll the ball to race your reindeer to the finish
   line! UK delivery.
 categories:
   - categories/christmas-game-hire.md
   - categories/roll-and-bowl.md
+  - src/categories/christmas-game-hire.md
 events:
   - events/christmas-entertainment.md
 featured: false
