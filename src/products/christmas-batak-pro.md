@@ -1,7 +1,7 @@
 ---
 title: Christmas Batak Pro Hire
 subtitle: Festive-themed Batak Pro reaction game
-price: £495
+price: £545
 order: 80
 meta_title: Christmas Batak Pro Hire | Festive Games | Fun Pro UK
 meta_description: Christmas Batak Pro is one of the wide range of products
