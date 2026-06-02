@@ -1,10 +1,12 @@
 ---
 title: Strike A Snow Flake
 subtitle: Festive two-player light-up target striking game
-price: £395
+price: £445
 order: 77
 meta_title: Strike A Snow Flake | Strike A Light Game Hire | Fun Pro UK
-meta_description: Hire the Strike A Snow Flake game for interactive fun at your event. Perfect for Christmas parties, team building days and school fairs. UK delivery.
+meta_description: Hire the Strike A Snow Flake game for interactive fun at your
+  event. Perfect for Christmas parties, team building days and school fairs. UK
+  delivery.
 categories:
   - categories/christmas-game-hire.md
 events:
