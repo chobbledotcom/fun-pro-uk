@@ -40,7 +40,7 @@ blocks:
       help you work out what that looks like for your specific audience, venue
       and budget.
 
-        
+
   - type: items-array
     dark: false
     items:
@@ -75,7 +75,7 @@ blocks:
 
       Arcade and simulator games, including retro ++[arcade machines](https://www.funprouk.co.uk/categories/arcade-games/)++, ++[racing simulators](https://www.funprouk.co.uk/locations/coventry/race-car-simulators/)++ and the ++[dance machine](https://www.funprouk.co.uk/locations/coventry/dance-machine-hire/)++, tend to be popular at corporate fun days, staff parties and award ceremony receptions. They create natural social moments and work across a wide range of ages and physical abilities, which matters when you're catering to a mixed group.
 
-      For events where inclusivity is a priority, games like ++[Roll & Bowl](https://www.funprouk.co.uk/locations/coventry/roll-and-bowl-hire/)++, ++[Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/)++ and the ++[Mega Wire](https://www.funprouk.co.uk/products/mega-wire/)++ are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
+      For events where inclusivity is a priority, games like ++[Roll & Bowl](https://www.funprouk.co.uk/locations/coventry/roll-and-bowl-hire/)++, ++[Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/)++ and the ++[Mega Wire](https://www.funprouk.co.uk/products/mega-wire-branded-game-hire-stand-alone/)++ are worth considering. They're lower-intensity, easy for everyone to take part in, and work well for large groups cycling through activity stations across the day.
 
       ++[Photo booths](https://www.funprouk.co.uk/locations/coventry/photo-booth-hire/)++ and ++[magic mirrors](https://www.funprouk.co.uk/locations/coventry/magic-mirror-hire/)++ are a regular choice for ++[award ceremonies](https://www.funprouk.co.uk/events/company-award-ceremonies/)++, weddings and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
 
@@ -225,10 +225,11 @@ blocks:
 
       Companies including ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/)++ and ++[Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/)++ have worked with us year after year. That kind of repeat relationship tends to develop when an event goes well and the logistics are straightforward, which is a fair summary of what we aim for every time.
 
-        
+
 faqs:
   - question: "How far in advance should I book game hire for a Coventry event? "
-    answer: For events during busy periods, particularly the Christmas party season
+    answer:
+      For events during busy periods, particularly the Christmas party season
       or large CBS Arena show dates, four to six weeks ahead is advisable. For
       smaller events with more flexibility in the diary, two weeks is often
       workable. Because we're Coventry-based, short-notice bookings for local
@@ -241,7 +242,8 @@ faqs:
       Our dedicated CBS Arena page has more detail on exhibition stand and
       conference game hire at the venue.
   - question: "e hire at the venue. H3: Can games be branded with our company logo? "
-    answer: Yes. We design and print branded game wraps in-house, which is a popular
+    answer:
+      Yes. We design and print branded game wraps in-house, which is a popular
       choice for exhibition stands and brand activations. Let us know at the
       quoting stage and we can talk through the options and lead times.
   - question: "What happens if something goes wrong with a game on the day? "
@@ -251,12 +253,14 @@ faqs:
       replacement out the same day if something needs swapping, which most
       national suppliers can't realistically offer.
   - question: "How much space do I need for game hire at a Coventry event? "
-    answer: It depends on the game. Compact options like the Batak Lite, Roll & Bowl
+    answer:
+      It depends on the game. Compact options like the Batak Lite, Roll & Bowl
       or Plinko can work in tighter spaces, whilst racing simulators or the Grab
       A Grand need more clearance to operate safely. If you share your room
       dimensions or floor plan with us, we can help you work out what fits.
   - question: "Do you cover events across the wider West Midlands? "
-    answer: Yes. Alongside Coventry city centre, we regularly deliver to Warwick,
+    answer:
+      Yes. Alongside Coventry city centre, we regularly deliver to Warwick,
       Leamington Spa, Kenilworth, Rugby, Nuneaton, Solihull, Birmingham,
       Wolverhampton and the broader West Midlands. Send us your venue postcode
       and we can confirm coverage.
