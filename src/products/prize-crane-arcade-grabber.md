@@ -28,7 +28,7 @@ events:
   - events/family-fun-days.md
 featured: true
 features:
-  - Delivery, setup, and collection included
+  - Delivery and collection prices will apply
   - Public liability insurance included
   - Custom branding options available
 specs:

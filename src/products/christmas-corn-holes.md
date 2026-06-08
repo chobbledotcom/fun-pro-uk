@@ -11,7 +11,7 @@ events:
   - events/christmas-entertainment.md
 featured: false
 features:
-  - Delivery, setup, and collection included
+  - Delivery and collection prices will apply
   - Public liability insurance included
   - Custom branding options available
 specs:

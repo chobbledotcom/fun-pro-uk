@@ -46,7 +46,7 @@ options:
     unit_price: 239
     days: 7
 features:
-  - Delivery, setup, and collection included
+  - Delivery and collection prices will apply
   - Public liability insurance included
   - Custom branding options available
 filter_attributes:

@@ -73,7 +73,7 @@ add_ons:
 
     *Please note: branding is designed for one-time use only.*
 features:
-  - Delivery, setup, and collection included
+  - Delivery and collection prices will apply
   - Public liability insurance included
   - Custom branding options available
 filter_attributes:
