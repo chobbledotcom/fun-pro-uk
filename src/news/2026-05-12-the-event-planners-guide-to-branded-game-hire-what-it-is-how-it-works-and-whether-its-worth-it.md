@@ -72,11 +72,11 @@ It sits at the intersection of event entertainment and experiential marketing. T
 
 It's worth being clear about what branded game hire isn't, because the surrounding terminology causes a lot of confusion at the briefing stage:
 
-###  **It isn't** **branded promotional merchandise**
+### **It isn't** **branded promotional merchandise**
 
 The small logo-printed games you'd buy in bulk as giveaways or goodie bag fillers. Those are products you keep; branded game hire is an experience you rent.
 
-### **It isn't digital branded games or advergames** 
+### **It isn't digital branded games or advergames**
 
 The browser-based interactive experiences that marketing teams use for email campaigns, social activations or microsites. Those are software builds that live online; branded game hire is a physical kit that lives at your event.
 
@@ -94,23 +94,23 @@ Most physical games hired for live events fall into one of a few broad categorie
 
 Games like ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++, ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++, ++[Snatch It](https://www.funprouk.co.uk/products/snatch-it/)++ and ++[Strike a Light](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/)++ are fast, competitive and visually arresting. Flashing lights and digital scoring make them strong crowd-drawers from a distance, which is why they're a staple of exhibition stands.
 
-### **Prize games** 
+### **Prize games**
 
 Games like the ++[Prize Wheel](https://www.funprouk.co.uk/products/prize-wheel/)++, ++[Cash Grabber](https://www.funprouk.co.uk/products/cash-grabber-machine-hire/)++, ++[Prize Crane](https://www.funprouk.co.uk/products/prize-crane-arcade-grabber/)++, and ++[Crack the Code Safe Cracker](https://www.funprouk.co.uk/products/crack-the-code-safe-cracker/)++ have a built-in prize mechanic, which makes them particularly useful when you want a natural reason to capture data ("leave your details to claim your prize").
 
-### **Arcade games** 
+### **Arcade games**
 
 Retro ++[arcade cabinets](https://www.funprouk.co.uk/categories/arcade-games/)++, ++[racing simulators](https://www.funprouk.co.uk/products/racing-car-simulators/)++, ++[dance machines](https://www.funprouk.co.uk/products/dance-machine/)++ and ++[basketball hoops](https://www.funprouk.co.uk/products/electronic-basket-ball-hire/)++ are higher-impact attractions that work best in larger spaces. They draw bigger crowds and create more atmosphere, but they need the floor area and power to support them.
 
-### **Steady hand and skill games** 
+### **Steady hand and skill games**
 
 Games like ++[Buzz Wire](https://www.funprouk.co.uk/products/giant-buzz-wire/)++ and ++[The Vault](https://www.funprouk.co.uk/products/the-vault/)++ are accessible to all ages and abilities, encourage repeat plays, and work well in tighter footprints where the bigger arcade kit won't fit.
 
-### **Traditional and giant games** 
+### **Traditional and giant games**
 
 These include games like ++[Whack a Mole](https://www.funprouk.co.uk/products/whack-a-mole-game-hire/)++, ++[High Striker](https://www.funprouk.co.uk/products/high-striker/)++, ++[Roll & Bowl](https://www.funprouk.co.uk/products/roll-and-bowl-game-hire/)++ and ++[Table Football](https://www.funprouk.co.uk/products/football-tables/)++ have broad appeal across mixed audiences, which makes them a sensible choice for fun days, family-facing brand activations and public-facing events.
 
-### **Photo Booths and Magic Mirrors** 
+### **Photo Booths and Magic Mirrors**
 
 Although these aren't strictly games, they get grouped in because they're highly brandable and produce a take-home asset; branded photo prints that guests share on social media after the event, extending your reach beyond the venue.
 
@@ -218,6 +218,6 @@ Pay attention to how they answer your first enquiry. A supplier who asks about y
 
 Fun Pro UK is a family-run corporate entertainment company based in Coventry, the geographic heart of England. We've been delivering branded game hire to UK clients since 2009, working with brands including Rolls-Royce, KPMG, Virgin Media O2, Amazon, Lidl and Baylis & Harding.
 
-We have over 90 games available for hire, all branded in-house by our own design and production team. Our pricing is published transparently across the site, our equipment is owned and maintained by us rather than sub-hired, and our central UK base keeps delivery costs sensible wherever your event is.
+We have over 90 games available for hire, all branded in-house by our own design and production team. Our pricing is published transparently across the site, our equipment is owned and maintained by us rather than sub-hired, and our central UK base keeps delivery costs sensible wherever your event is, whether that's a local conference in Coventry, a staff party in [Leeds](https://www.funprouk.co.uk/locations/leeds/), or an exhibition in London.
 
 If you're starting to plan your event and want to include branded games, take a look at our full ++[branded game hire](https://www.funprouk.co.uk/branded-game-hire/)++ range or ++[get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ with the team to talk through your event. We're happy to share indicative pricing, recommend games that suit your objectives and walk you through the process from brief to event day.
