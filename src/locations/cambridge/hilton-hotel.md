@@ -30,15 +30,6 @@ faqs:
     answer: Yes. We consider the mix of guests attending and can recommend games
       that everyone can join in with, regardless of age, ability, or comfort
       level.
-blocks:
-  - type: cta
-    dark: false
-    title: Ready to chat through the games for your Hilton Cambridge event?
-    description: Get in touch with our friendly team and we'll put together a quote
-      based on your room, guest numbers, and event style.
-    button:
-      text: Get in Touch
-      href: https://www.funprouk.co.uk/contact-fun-pro-uk/
 ---
 # **Game Hire at Hilton Cambridge City Centre**
 
@@ -106,3 +97,7 @@ Because the venue handles a real mix of meetings, conferences, and celebrations,
 ## **Getting Games Delivered to the Hilton Cambridge**
 
 Our base is in Coventry, around 90 minutes' drive from Cambridge along the A14. Delivery, setup, and collection are all included in the quote we send you, so there are no surprise charges for logistics. On the day, our team will coordinate arrival and access with the Hilton based on which room you've booked and what time guests arrive. For exhibitions or receptions in the atrium, we tend to arrive earlier to allow time for the layout to come together properly.
+
+## **Ready to chat through the games for your Hilton Cambridge event?** 
+
+++[Get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ with our friendly team and we'll put together a quote based on your room, guest numbers, and event style.
