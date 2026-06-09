@@ -31,15 +31,14 @@ faqs:
       that everyone can join in with, regardless of age, ability, or comfort
       level.
 blocks:
-  - type: section-header
+  - type: cta
     dark: false
-    intro: >-
-      ## **Ready to chat through the games for your Hilton Cambridge event?** 
-
-
-      ++[Get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ with
-      our friendly team and we'll put together a quote based on your room, guest
-      numbers, and event style.
+    title: Ready to chat through the games for your Hilton Cambridge event?
+    description: Get in touch with our friendly team and we'll put together a quote
+      based on your room, guest numbers, and event style.
+    button:
+      text: Get in Touch
+      href: https://www.funprouk.co.uk/contact-fun-pro-uk/
 ---
 # **Game Hire at Hilton Cambridge City Centre**
 
