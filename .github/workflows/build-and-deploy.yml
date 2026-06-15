@@ -122,8 +122,7 @@ jobs:
               message: $message,
               run_url: $run_url,
               repository: $repository,
-              run_id: $run_id,
-              emails: ["colin@funprouk.co.uk", "suzie@skayl.co.uk"]
+              run_id: $run_id
             }')
           curl -fsS -X POST "$WEBHOOK_URL" \
             -H "Content-Type: application/json" \
