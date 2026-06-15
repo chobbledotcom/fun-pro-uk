@@ -91,9 +91,6 @@ jobs:
     runs-on: ubicloud-standard-30
     needs: [setup]
     if: failure()
-    strategy:
-      matrix:
-        email: [colin@funprouk.co.uk, suzie@skayl.co.uk]
     steps:
       - name: Send failure notification
         uses: NiNiyas/ntfy-action@master
@@ -106,6 +103,28 @@ jobs:
           headers: >-
             {
               "Authorization": "Bearer ${{ secrets.NTFY_TOKEN }}",
-              "X-Click": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
-              "X-Email": "${{ matrix.email }}"
+              "X-Click": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
             }
+
+      - name: Send failure webhook
+        env:
+          WEBHOOK_URL: ${{ secrets.BUILD_WEBHOOK_URL }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          payload=$(jq -n \
+            --arg title "Build and Deploy failed" \
+            --arg message "View the action log: $RUN_URL" \
+            --arg run_url "$RUN_URL" \
+            --arg repository "$GITHUB_REPOSITORY" \
+            --arg run_id "$GITHUB_RUN_ID" \
+            '{
+              title: $title,
+              message: $message,
+              run_url: $run_url,
+              repository: $repository,
+              run_id: $run_id,
+              emails: ["colin@funprouk.co.uk", "suzie@skayl.co.uk"]
+            }')
+          curl -fsS -X POST "$WEBHOOK_URL" \
+            -H "Content-Type: application/json" \
+            -d "$payload"
