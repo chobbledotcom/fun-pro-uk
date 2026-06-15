@@ -105,6 +105,7 @@ jobs:
           details: "View the action log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           headers: >-
             {
+              "Authorization": "Bearer ${{ secrets.NTFY_TOKEN }}",
               "X-Click": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
               "X-Email": "${{ matrix.email }}"
             }
