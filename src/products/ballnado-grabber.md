@@ -1,7 +1,7 @@
 ---
 title: Ballnado Grabber Hire
 subtitle: Enclosed wind machine where players grab flying balls
-price: £495
+price: £525
 order: 2
 meta_title: Ball Grabber Hire UK - Ballnado Grabber Machine Hire Near Me
 meta_description: Hire Our Ball Grabber Machine For Your Family Fun Days,
@@ -72,19 +72,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 495
+    unit_price: 525
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 825
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1025
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1495
+    unit_price: 1525
     days: 7
 redirect_from:
   - /category/exhibition-games/36/ballnado-grabber/
