@@ -91,9 +91,20 @@ jobs:
     runs-on: ubicloud-standard-30
     needs: [setup]
     if: failure()
+    strategy:
+      matrix:
+        email: [colin@funprouk.co.uk, suzie@skayl.co.uk]
     steps:
       - name: Send failure notification
         uses: NiNiyas/ntfy-action@master
         with:
           url: "https://ntfy.sh"
           topic: ${{ secrets.NTFY_TOPIC }}
+          title: "Build and Deploy failed"
+          priority: 4
+          details: "View the action log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          headers: >-
+            {
+              "X-Click": "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}",
+              "X-Email": "${{ matrix.email }}"
+            }
