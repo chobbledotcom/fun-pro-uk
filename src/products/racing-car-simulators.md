@@ -62,19 +62,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 493
+    unit_price: 545
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 845
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1045
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1495
+    unit_price: 1550
     days: 7
 redirect_from:
   - /category/arcade-games/5/racing-car-simulators/
