@@ -122,7 +122,9 @@ layout: base
 
 {%- include "product-location.html" -%}
 
+{%- if collections.featuredEvents and collections.featuredEvents.length > 0 -%}
 <section class="item-events full-width">
   <h2>Perfect For</h2>
   {%- include "items.html", items: collections.featuredEvents, horizontal: true -%}
 </section>
+{%- endif -%}
