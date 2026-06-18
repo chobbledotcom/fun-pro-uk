@@ -17,7 +17,7 @@ jobs:
       - name: Checkout this repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0
 
       - name: Update site.json with secrets
         run: |
@@ -53,9 +53,15 @@ jobs:
             images-
 
       - name: Build with Bun
+        env:
+          INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
           bun install --frozen-lockfile
           bun scripts/eleventy-build.js
+
+      - name: Write IndexNow key file
+        if: github.ref == 'refs/heads/main' && secrets.INDEXNOW_KEY != ''
+        run: echo "${{ secrets.INDEXNOW_KEY }}" > "_site/${{ secrets.INDEXNOW_KEY }}.txt"
 
       - name: Set deployment environment
         id: deployment_env
@@ -85,6 +91,17 @@ jobs:
           enable-purge-pull-zone: true
           pull-zone-id: ${{ steps.deployment_env.outputs.pull_zone_id_deploy }}
           replication-timeout: "15000"
+
+      - name: Get site URL
+        id: site-url
+        run: echo "url=$(jq -r '.url' src/_data/site.json)" >> $GITHUB_OUTPUT
+
+      - name: Submit to IndexNow
+        if: github.ref == 'refs/heads/main' && secrets.INDEXNOW_KEY != ''
+        uses: bojieyang/indexnow-action@v3
+        with:
+          sitemap-location: "${{ steps.site-url.outputs.url }}/sitemap.xml"
+          key: ${{ secrets.INDEXNOW_KEY }}
 
   notify-failure:
     name: Notify on Failure

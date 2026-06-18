@@ -55,6 +55,9 @@ const ALLOWED_TRY_CATCHES = frozenSet([
 const ALLOWED_PROCESS_CWD = frozenSet([
   // Tests that specifically test file-utils.js which uses process.cwd() internally
   "test/unit/utils/file-utils.test.js",
+
+  // git-dates tests need to chdir into temp git repos to test git log commands
+  "test/unit/utils/git-dates.test.js",
 ]);
 
 // ============================================
