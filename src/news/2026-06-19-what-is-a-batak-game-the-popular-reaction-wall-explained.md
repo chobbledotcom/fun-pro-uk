@@ -107,7 +107,7 @@ At Fun Pro, we offer two versions of the game, and the right one really comes do
 
 This****  is the full-scale version and the more visually impressive of the two. The unit measures roughly 2m wide, and we recommend allowing a clear area of around 3m x 2m so players can move freely and spectators have room to gather. Games run for sixty seconds, and every ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++ hire comes with a professional operator who manages the game, explains the rules, and keeps people involved. It makes a striking centrepiece when you want serious competition and a real focal point.
 
-### **Batak Lite** 
+### **Batak Lite**
 
 This is the compact, portable version. It needs a footprint of around 1.4m x 1.6m, runs thirty-second games, and is ideal when space is tighter or you want something that slots neatly onto a smaller stand. ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++ delivers the same fast, addictive gameplay in a more flexible package.
 
