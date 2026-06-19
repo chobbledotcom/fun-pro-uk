@@ -43,7 +43,7 @@ subtitle: "Team building events have earned something of a mixed reputation.
 ---
 ![](/images/team-building-events-ideas.png)
 
-Yet when planned thoughtfully, team building days can genuinely strengthen working relationships, boost morale, and give colleagues a chance to connect outside the usual pressures of deadlines and meetings.
+Yet when planned thoughtfully, team building days can genuinely strengthen working relationships, boost morale, and give colleagues a chance to connect outside the usual pressures of deadlines and meetings. For this reason, many companies now plan a team building day in [Gloucester](https://www.funprouk.co.uk/locations/gloucester/) and smaller UK cities, thanks to their more relaxed setting.
 
 The difference between a memorable team building event and one that falls flat often comes down to the activities themselves. Games that create natural competition, accommodate different personalities, and feel genuinely enjoyable tend to bring people together far more effectively than activities that feel contrived or exclude certain team members.
 
