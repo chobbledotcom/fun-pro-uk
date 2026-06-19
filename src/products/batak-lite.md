@@ -204,4 +204,7 @@ thumbnail: /images/products/batak-lite/batak-lite-1.jpg
 gallery:
   - /images/products/batak-lite/batak-lite-16.jpg
   - /images/products/batak-lite/7b7ef205-6fd4-4e6d-b7d4-521f73a08226.jpg
+  - /images/products/batak-lite/batak-lite-12.jpg
+  - /images/products/batak-lite/batak-lite-13.jpg
+  - /images/products/batak-lite/batak-lite-18.jpg
 ---
