@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+#
+# Pre-commit hook: fast build check.
+#
+# Runs a fast (intentionally inaccurate) Eleventy build to catch
+# build-breaking errors before they are committed. FAST_INACCURATE_BUILDS=1
+# skips slow work (real image processing, linkification) so the build
+# completes in seconds while still surfacing template/data/import errors.
+#
+# This hook is versioned in the repo. Enable it with:
+#   git config core.hooksPath .githooks
+#
+# See CLAUDE.md ("Git Hooks") for details.
+set -e
+
+echo "pre-commit: running fast build (FAST_INACCURATE_BUILDS=1 bun run build)..."
+FAST_INACCURATE_BUILDS=1 bun run build
+echo "pre-commit: build OK"

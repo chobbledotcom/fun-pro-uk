@@ -327,6 +327,24 @@ import { configureImages } from "#media/image.js";
 
 ---
 
+## Git Hooks
+
+Versioned hooks live in `.githooks/` (tracked in the repo, not `.git/hooks/`).
+Enable them in a fresh clone with:
+
+```bash
+git config core.hooksPath .githooks
+```
+
+| Hook | What it runs | Why |
+|------|--------------|-----|
+| `pre-commit` | `FAST_INACCURATE_BUILDS=1 bun run build` | Fast build check that aborts the commit if the site fails to build. `FAST_INACCURATE_BUILDS=1` skips slow work (real image processing, linkification) so it finishes in seconds while still catching template/data/import errors. |
+
+This is a lightweight build gate, **not** the full `bun run precommit` suite (lint
++ typecheck + CPD + tests), which remains available to run manually.
+
+---
+
 ## Anti-Patterns to Avoid
 
 1. **Don't use npm** - This project requires Bun
