@@ -42,10 +42,14 @@ faqs:
       who scored 58 in February 2023.
 gallery:
   - /images/fun-pro-batak-game.jpg
+subtitle: "If you have been to a trade show, a corporate fun day, or a busy
+  exhibition stand, there is a good chance you have seen a crowd gathered around
+  a tall, illuminated panel, cheering someone on as they frantically swat at
+  flashing lights. "
 ---
 ![](/images/fun-pro-batak-game-1.jpg)
 
-If you have been to a trade show, a corporate fun day, or a busy ++[exhibition stand](https://www.funprouk.co.uk/events/exhibition-games/)++, there is a good chance you have seen a crowd gathered around a tall, illuminated panel, cheering someone on as they frantically swat at flashing lights. That panel is almost certainly a ++[Batak](https://www.funprouk.co.uk/categories/batak/)++ game, and it is one of the most reliable crowd-pullers in the events world.
+That panel is almost certainly a ++[Batak](https://www.funprouk.co.uk/categories/batak/)++ game, and it is one of the most reliable crowd-pullers in the events world.
 
 But what actually is a Batak game, how does it work, and why does it draw such a reaction wherever it appears? This guide walks you through everything you need to know, from the gameplay and the science behind it to the practical things worth considering if you are thinking about bringing one to your own event.
 
