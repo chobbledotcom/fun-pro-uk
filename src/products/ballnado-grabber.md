@@ -141,13 +141,13 @@ add_ons:
     event. (One time use only)
   options:
     - name: Front panel branding
-      price: 110
+      price: 130
     - name: Back full length panel branding
-      price: 145
-    - name: Header Branding panels
       price: 175
+    - name: Header Branding panels
+      price: 210
     - name: Fully Branded
-      price: 430
+      price: 495
     - name: Branded Notes
       price: 150
 tabs:
