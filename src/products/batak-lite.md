@@ -122,9 +122,9 @@ add_ons:
     event. (One time use only)
   options:
     - name: Branded back panel
-      price: 145
+      price: 175
     - name: 8 x Branded Button Surrounds
-      price: 125
+      price: 145
 tabs:
   - title: Why Batak Lite?
     body: >-
