@@ -42,10 +42,11 @@ faqs:
       who scored 58 in February 2023.
 gallery:
   - /images/fun-pro-batak-game.jpg
-subtitle: "If you have been to a trade show, a corporate fun day, or a busy
+subtitle: " If you have been to a trade show, a corporate fun day, or a busy
   exhibition stand, there is a good chance you have seen a crowd gathered around
   a tall, illuminated panel, cheering someone on as they frantically swat at
-  flashing lights. "
+  flashing lights. That panel is almost certainly a Batak game, and it is one of
+  the most reliable crowd-pullers in the events world."
 ---
 ![](/images/fun-pro-batak-game-1.jpg)
 
