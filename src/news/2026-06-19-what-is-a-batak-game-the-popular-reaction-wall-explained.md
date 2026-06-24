@@ -50,8 +50,6 @@ subtitle: " If you have been to a trade show, a corporate fun day, or a busy
 ---
 ![](/images/fun-pro-batak-game-1.jpg)
 
-That panel is almost certainly a ++[Batak](https://www.funprouk.co.uk/categories/batak/)++ game, and it is one of the most reliable crowd-pullers in the events world.
-
 But what actually is a Batak game, how does it work, and why does it draw such a reaction wherever it appears? This guide walks you through everything you need to know, from the gameplay and the science behind it to the practical things worth considering if you are thinking about bringing one to your own event.
 
 A quick note before we start: "Batak" is a word with a few unrelated meanings, including an Indonesian community and a traditional card game. In this guide, we are talking about the interactive reaction game, sometimes called a reaction wall or reaction trainer.
