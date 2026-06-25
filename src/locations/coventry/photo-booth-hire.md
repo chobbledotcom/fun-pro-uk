@@ -11,7 +11,9 @@ thumbnail: "/images/locations/20181129-211810.jpg"
 
 Thinking or hiring a Photo booth for your event? Our [Photo booth hire in Coventry](/categories/photo-booths-and-magic-mirrors) provides fabulous instant selfies that create memories to keep forever.
 
-![Photo booth hire](/images/locations/20181129-211810.jpg)Our Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
+![Photo booth hire](/images/locations/20181129-211810.jpg)
+
+Our Green Screen Photo booths print colour photographs with a variety of backgrounds for your guests to choose from and take away with them. Every Photo booth comes with a fully trained booth attendant who will stay for the duration of your event to ensure each guest takes a super selfie as a keep sake of your event.
 
 We know at Fun Pro UK how special your occasion is and how important it is that you have the correct equipment for your party. This is why Fun Pro UK only stock the most up to date technology on the market to ensure our clients receive the best experience possible.
 
