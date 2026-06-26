@@ -1,17 +1,20 @@
 ---
-title: "Christmas Party Games That Are Perfect for Office Teams"
-subtitle: "The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably..."
+title: Christmas Party Games That Are Perfect for Office Teams
+subtitle: The Christmas party season is fast approaching, and if you're tasked
+  with organising your company's festive get together, you're probably...
 date: 2025-07-25
-author: "team/colin.md"
-meta_title: "Christmas Party Games for Office Teams | Fun Pro UK"
-meta_description: "Hire Christmas party games perfect for teams. Professional game hire with nationwide delivery. Create memorable festive events that bring people together."
+author: team/colin.md
+meta_title: Christmas Party Games for Office Teams | Fun Pro UK
+meta_description: Hire Christmas party games perfect for teams. Professional
+  game hire with nationwide delivery. Create memorable festive events that bring
+  people together.
 redirect_from:
-  - "/news/2025-07-25/christmas-party-games-that-are-perfect-for-office-teams/"
+  - /news/2025-07-25/christmas-party-games-that-are-perfect-for-office-teams/
 gallery:
-  - "/images/news/christmas-party-game-hire.jpg"
-thumbnail: "/images/news/christmas-party-game-hire.jpg"
+  - /images/news/christmas-party-game-hire.jpg
+thumbnail: /images/news/christmas-party-game-hire.jpg
+no_index: false
 ---
-
 ![](/images/news/christmas-party-game-hire.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive get together, you're probably wondering how to create an event that people will enjoy. While traditional office Christmas parties often revolve around dinner and drinks, adding interactive [Christmas party games](/categories/christmas-game-hire) can transform your gathering from polite small talk into genuine fun and connection.
@@ -106,7 +109,7 @@ Popular games and peak dates (especially December weekends) get booked up quickl
 
 Look for game hire companies with experience in corporate events and good reviews from other businesses. Check what's included in their service, whether setup and collection are part of the package, and what happens if equipment develops problems during your event.
 
-At Fun Pro UK, we provide [nationwide delivery](/delivery-areas) coverage to major cities, including London, Manchester, Birmingham, and across the UK. Our experienced team handles everything from delivery to setup, ensuring your Christmas party runs smoothly.
+At Fun Pro UK, we provide nationwide delivery coverage to major cities, including London, Manchester, Birmingham, [Leicester](https://www.funprouk.co.uk/locations/leicester/), and across the UK. Our experienced team handles everything from delivery to setup, ensuring your Christmas party runs smoothly.
 
 ## Ready to Plan Your Perfect Christmas Party?
 
