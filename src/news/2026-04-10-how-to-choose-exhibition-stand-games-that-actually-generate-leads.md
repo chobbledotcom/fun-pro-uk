@@ -133,7 +133,7 @@ Medium-sized stands give you more to work with. Here, a single centrepiece game,
 
 For larger activations, it's worth considering a combination: a high-visibility crowd-drawer that creates footfall and energy, paired with a data-capture mechanic that does the conversion work. A racing simulator pulling people in alongside a Prize Wheel capturing details is a combination we've seen work consistently at larger trade shows.
 
-One practical note: we handle [delivery](https://www.funprouk.co.uk/locations/), setup, and collection at all major UK exhibition venues. Each venue has its own logistics; loading bay access, build-up schedules, power arrangements, and we know the practical details that make the difference between a smooth setup and a stressful one. If you're exhibiting at an unfamiliar venue, it's worth asking your supplier about this.
+One practical note: we handle delivery, setup, and collection at all major UK exhibition venues, including London, Glasgow and [Liverpool](https://www.funprouk.co.uk/locations/liverpool/). Each venue has its own logistics; loading bay access, build-up schedules, power arrangements, and we know the practical details that make the difference between a smooth setup and a stressful one. If you're exhibiting at an unfamiliar venue, it's worth asking your supplier about this.
 
 ## **"We're a B2B Brand — Are Games Really Appropriate for Us?"**
 
