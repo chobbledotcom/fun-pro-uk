@@ -49,7 +49,7 @@ blocks:
 
       Different events call for different games, and the right choice depends on your audience, the space you're working with, and what you're trying to achieve. Here's a practical guide to what tends to work well in Leeds, and why.
 
-      Reaction games like ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++ and ++[Strike a Light Danger Zone](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/)++ are particularly well-suited to exhibition stands and conference ice-breaker sessions. They're visually engaging, easy to pick up, and naturally draw a crowd, which gives visitors a reason to stop at your stand and start a conversation. The [++Batak Lite++](https://www.funprouk.co.uk/products/batak-lite/) is a more compact option, worth considering if your floor space is limited.
+      Reaction games like ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++ and ++[Strike a Light Danger Zone](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/)++ are particularly well-suited to exhibition stands and conference ice-breaker sessions. They're visually engaging, easy to pick up, and naturally draw a crowd, which gives visitors a reason to stop at your stand and start a conversation. The ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++ is a more compact option, worth considering if your floor space is limited.
 
       Prize and grabber games, including ++[Grab A Grand](https://www.funprouk.co.uk/categories/grab-a-grand/)++, ++[Ballnado](https://www.funprouk.co.uk/products/ballnado-grabber/)++, the ++[Prize Crane](https://www.funprouk.co.uk/products/prize-crane-arcade-grabber)++, and the ++[Prize Wheel](https://www.funprouk.co.uk/products/prize-wheel)++, work well at brand activation stands and trade shows. They draw footfall, give visitors a reason to engage, and create a buzz around your stand. All of these can be ++[customised](https://www.funprouk.co.uk/branded-game-hire/)++ with your company branding, which our team designs and prints in-house.
 
@@ -138,32 +138,14 @@ blocks:
     masonry: false
   - type: section-header
     dark: false
-    intro: >-
+    intro: |-
       ## **Why Leeds Businesses Choose Fun Pro**
 
+      Fun Pro is a family-run business that has been hiring out interactive games since 2009. We own all our equipment outright and never subcontract, which means the team that quotes your event is the same team that delivers it, sets it up and runs it on the day. That ownership also lets us keep our games well maintained and gives us full control over quality and reliability.
 
-      Fun Pro is a family-run business that has been hiring out interactive
-      games since 2009. We own all our equipment outright and never subcontract,
-      which means the team that quotes your event is the same team that delivers
-      it, sets it up and runs it on the day. That ownership also lets us keep
-      our games well maintained and gives us full control over quality and
-      reliability.
+      Every game is PAT and PIPA certified where applicable, and we hold full public liability ++[insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ to give you the reassurance that matters when you're putting equipment in front of colleagues, clients or the public.
 
-
-      Every game is PAT and PIPA certified where applicable, and we hold full
-      public liability
-      ++[insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ to give
-      you the reassurance that matters when you're putting equipment in front of
-      colleagues, clients or the public.
-
-
-      It's also why established companies come back to us. We've delivered
-      repeatedly for
-      ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce/)++
-      and ++[Specsavers](https://www.funprouk.co.uk/case-studies/specsavers/)++,
-      among others, because they know what to expect each time: equipment that
-      arrives when it should, a team that handles the practical side, and games
-      that get their guests involved.
+      It's also why established companies come back to us. We've delivered repeatedly for ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/)++ and ++[Specsavers](https://www.funprouk.co.uk/case-studies/specsavers/)++, among others, because they know what to expect each time: equipment that arrives when it should, a team that handles the practical side, and games that get their guests involved.
 faqs:
   - question: "Do you deliver game hire across Leeds and West Yorkshire? "
     answer: Yes. We're based in Coventry with a direct route up the M1, and we
