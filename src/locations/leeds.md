@@ -145,7 +145,7 @@ blocks:
 
       Every game is PAT and PIPA certified where applicable, and we hold full public liability ++[insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ to give you the reassurance that matters when you're putting equipment in front of colleagues, clients or the public.
 
-      It's also why established companies come back to us. We've delivered repeatedly for ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/)++ and ++[Specsavers](https://www.funprouk.co.uk/case-studies/specsavers/)++, among others, because they know what to expect each time: equipment that arrives when it should, a team that handles the practical side, and games that get their guests involved.
+      It's also why established companies come back to us. We've delivered repeatedly for ++[Rolls-Royce](https://www.funprouk.co.uk/case-studies/rolls-royce-christmas-fun/)++ and ++[Specsavers](https://www.funprouk.co.uk/case-studies/2026-02-27-specsavers-corporate-event-entertainment-or-fun-pro-case-study/)++, among others, because they know what to expect each time: equipment that arrives when it should, a team that handles the practical side, and games that get their guests involved.
 faqs:
   - question: "Do you deliver game hire across Leeds and West Yorkshire? "
     answer: Yes. We're based in Coventry with a direct route up the M1, and we
