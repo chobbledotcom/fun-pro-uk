@@ -214,7 +214,7 @@ Look for transparent published pricing rather than "POA" gatekeeping. Suppliers 
 
 Pay attention to how they answer your first enquiry. A supplier who asks about your objectives, your audience and your space before recommending a game is treating you as a partner. A supplier who jumps straight to a quote is treating you as a transaction.
 
-# **Branded Game Hire with Fun Pro UK**
+## **Branded Game Hire with Fun Pro UK**
 
 Fun Pro UK is a family-run corporate entertainment company based in Coventry, the geographic heart of England. We've been delivering branded game hire to UK clients since 2009, working with brands including Rolls-Royce, KPMG, Virgin Media O2, Amazon, Lidl and Baylis & Harding.
 
