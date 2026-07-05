@@ -34,22 +34,24 @@ events:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 495
+    unit_price: 595
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 895
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1095
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1594
+    unit_price: 1595
     days: 7
 add_ons:
   options:
+    - name: "Full Wrap "
+      price: 495
     - name: Branding with Logo
       price: 195
     - name: Add a Branded capsule Bin
