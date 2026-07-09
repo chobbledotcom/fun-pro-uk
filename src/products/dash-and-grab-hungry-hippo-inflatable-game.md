@@ -3,7 +3,7 @@ title: Dash & Grab / Hungry Hippo Inflatable Game
 subtitle: Four-player inflatable collecting game on bungee cords
 price: £495
 order: 59
-meta_title: Hire Inflatable Hungry Hippos, Rent Hungry Hippo Inflatables, UK
+meta_title: Hire Inflatable Hungry Hippos, UK
 meta_description: This inflatable dash &amp; grab game is great competitive fun!
   Hungry Hippos with humans instead - grab the balls on a bungee rope. Fun for
   spectators too!
@@ -123,7 +123,7 @@ tabs:
       instead once they hear the Hungry Hippos are coming!
 
 
-      We supply a fun expert who will help the contestants during the game -
+      We can supply a fun expert who will help the contestants during the game -
       they are fully trained and will not eat any balls! With four players
       competing at once and quick rounds, the throughput keeps queues moving and
       the entertainment flowing throughout your event.
@@ -154,7 +154,7 @@ faqs:
       nature. It's particularly popular with adults at corporate events.
   - question: Is it safe?
     answer: Yes, the inflatable surface is designed for safe play and the bungees
-      provide controlled resistance. Our team supervises throughout.
+      provide controlled resistance.
   - question: What space do you need?
     answer: The inflatable requires significant floor space. We'll discuss your
       venue requirements when you enquire.
