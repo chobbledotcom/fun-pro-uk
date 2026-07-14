@@ -1,5 +1,6 @@
 ---
 title: Cranmore Park
+venue: true
 meta_title: Event Hire Cranmore Park | Exhibition Games & Entertainment | Fun Pro UK
 meta_description: Interactive game hire for exhibitions and conferences at
   Cranmore Park, Solihull. Branded games, corporate entertainment and fun food

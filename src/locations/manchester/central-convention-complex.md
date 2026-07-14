@@ -1,5 +1,6 @@
 ---
 title: "Central Convention Complex"
+venue: true
 meta_title: "Manchester Central Convention Complex | Exhibition Stand Hire"
 meta_description: "If you&#39;re showcasing at Manchester Central, choose Fun Pro UK for branded games and other exhibition hire favourites! Book your spot now with our experts."
 redirect_from:

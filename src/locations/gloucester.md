@@ -62,8 +62,12 @@ blocks:
       For smaller settings, networking evenings or office entertainment, ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ such as ++[shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/)++ create a relaxed atmosphere that encourages conversation without needing much physical effort or a competitive streak.
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: gloucester
     intro_content: >-
       ## **Gloucester Venues We Know Well**
 

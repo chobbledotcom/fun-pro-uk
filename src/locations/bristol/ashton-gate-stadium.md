@@ -1,11 +1,13 @@
 ---
 title: Ashton Gate Stadium
+venue: true
 categories:
   - src/categories/exhibition-games.md
 meta_title: "Game Hire at Ashton Gate Stadium, Bristol | Fun Pro "
 meta_description: "Interactive game hire for events at Ashton Gate Stadium.
   Delivery, setup and collection across Bristol from Fun Pro's corporate event
   specialists. "
+thumbnail: /images/locations/bristol.jpg
 faqs:
   - question: Does Fun Pro hire out Ashton Gate Stadium?
     answer: No. Ashton Gate is booked directly through the stadium's own events

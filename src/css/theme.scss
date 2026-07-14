@@ -2856,11 +2856,13 @@ body.location {
 body.location article#content {
   .section-header {
     & + .items {
-      margin-top: 64px;
+      margin-top: var(--section-padding-half);
     }
   }
 
   ul.items {
+    margin: var(--section-padding-half) 0 0;
+
     li {
       .image-link {
         margin: 0;
@@ -2869,7 +2871,11 @@ body.location article#content {
   }
 
   .prose {
-    padding-bottom: 64px;
+    padding: 0;
+  }
+
+  .faqs-container h2 {
+    margin-bottom: var(--section-padding-half);
   }
 }
 

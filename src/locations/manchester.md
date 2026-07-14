@@ -27,13 +27,15 @@ blocks:
     items:
       - locations/manchester/batak-pro-hire.md
       - locations/manchester/batak-lite-hire.md
-  - type: items-array
+  - type: items
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: manchester
     intro_content: |
       ## Manchester venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
-    items:
-      - locations/manchester/central-convention-complex.md
   - type: items-array
     intro_content: |
       ## Planning game hire for a Manchester corporate event

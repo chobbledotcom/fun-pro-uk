@@ -1,5 +1,6 @@
 ---
 title: "MTC Events"
+venue: true
 meta_title: "Event Hire MTC | Manufacturing Technology Centre Entertainment | Fun Pro UK"
 meta_description: "Interactive game hire for events at the MTC (Manufacturing Technology Centre) near Coventry. Exhibition games, branded entertainment and corporate event hire."
 redirect_from:

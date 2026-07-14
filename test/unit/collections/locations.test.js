@@ -3,6 +3,7 @@ import {
   configureLocations,
   getChildLocations,
   getSiblingLocations,
+  getVenues,
 } from "#collections/locations.js";
 import {
   createMockEleventyConfig,
@@ -90,6 +91,16 @@ describe("locations", () => {
     expect(getChildLocations(locations, "birmingham")).toEqual([]);
   });
 
+  test("Gets only pages explicitly marked as venues", () => {
+    const locations = [
+      { data: { title: "Conference Centre", venue: true } },
+      { data: { title: "Corporate Event Hire" } },
+      { data: { title: "Location", venue: false } },
+    ];
+
+    expectResultTitles(getVenues(locations), ["Conference Centre"]);
+  });
+
   test("Configures location filters and collections", () => {
     const mockConfig = createMockEleventyConfig();
 
@@ -100,6 +111,7 @@ describe("locations", () => {
     expect(mockConfig.filters.getSiblingLocations).toBe(getSiblingLocations);
     expect(mockConfig.filters.getChildLocations).toBe(getChildLocations);
     expect(typeof mockConfig.collections.rootLocations).toBe("function");
+    expect(typeof mockConfig.collections.venues).toBe("function");
   });
 });
 

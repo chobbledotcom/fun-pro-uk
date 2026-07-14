@@ -29,6 +29,16 @@ const getRootLocations = (locations) =>
   pipe(filter((loc) => !loc.data.parentLocation))(locations);
 
 /**
+ * Get venue pages for use in parent location listings.
+ * Venues may live in either the locations or legacy pages collections.
+ *
+ * @param {LocationCollectionItem[]} locations - All collection items
+ * @returns {LocationCollectionItem[]} Items explicitly marked as venues
+ */
+const getVenues = (locations) =>
+  pipe(filter((location) => location.data.venue === true))(locations);
+
+/**
  * Get sibling locations (same parent) excluding the current page.
  * Replaces gnarly Liquid loop with unless/push pattern.
  *
@@ -83,8 +93,14 @@ const configureLocations = (eleventyConfig) => {
   eleventyConfig.addCollection("rootLocations", (api) =>
     getRootLocations(createLocationsCollection(api)),
   );
+  eleventyConfig.addCollection("venues", (api) => getVenues(api.getAll()));
   eleventyConfig.addFilter("getSiblingLocations", getSiblingLocations);
   eleventyConfig.addFilter("getChildLocations", getChildLocations);
 };
 
-export { configureLocations, getChildLocations, getSiblingLocations };
+export {
+  configureLocations,
+  getChildLocations,
+  getSiblingLocations,
+  getVenues,
+};

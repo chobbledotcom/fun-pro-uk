@@ -1,6 +1,10 @@
 ---
+title: Millennium Point
+venue: true
+parentLocation: birmingham
 meta_title: "Millennium Point | Interactive Games | Branded Exhibition Games"
 meta_description: "Ballnados, arcade games, photo booths and more! For the best in event fun at Millennium Point in Birmingham, make an order with the West Midlands experts."
+thumbnail: /images/locations/millennium-point-2.jpg
 layout: page
 redirect_from:
   - "/pages/millennium-point/"

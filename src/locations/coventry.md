@@ -82,10 +82,12 @@ blocks:
       For smaller group settings, networking evenings or office entertainment, ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ such as shuffleboard and table football create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
-    items:
-      - locations/coventry/mtc-events.md
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: coventry
     intro_content: >-
       ## **Coventry venues we know well**
 

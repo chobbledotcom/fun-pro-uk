@@ -1,5 +1,6 @@
 ---
 title: "Harrogate Convention Centre"
+venue: true
 meta_title: "Event Hire Harrogate Convention Centre | Exhibition Games | Fun Pro UK"
 meta_description: "Interactive game hire for exhibitions and conferences at the Harrogate Convention Centre. Branded games, corporate entertainment and exhibition stand hire."
 redirect_from:

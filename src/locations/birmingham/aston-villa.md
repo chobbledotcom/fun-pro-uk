@@ -1,5 +1,6 @@
 ---
 title: Aston Villa
+venue: true
 meta_title: Event Hire Aston Villa | Villa Park Corporate Entertainment | Fun Pro UK
 meta_description: Game and entertainment hire for events at Villa Park, Aston
   Villa. Interactive games, branded exhibition stands and conference

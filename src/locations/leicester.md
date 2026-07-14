@@ -63,10 +63,12 @@ blocks:
         
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
-    items:
-      - locations/leicester/corporate-event-hire.md
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: leicester
     intro_content: >-
       ## **Leicester Venues We Know Well**
 

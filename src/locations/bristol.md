@@ -60,10 +60,12 @@ blocks:
       For smaller group settings, networking evenings, or office entertainment, [pub games](https://www.funprouk.co.uk/categories/pub-games/) such as [shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/) create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
-    items:
-      - /locations/bristol/ashton-gate-stadium.md
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: bristol
     intro_content: |-
       ## Bristol Venues We Know Well
 

@@ -62,10 +62,12 @@ blocks:
       For smaller group settings, networking evenings or office entertainment, ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ such as ++[shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/)++ create a relaxed atmosphere that encourages conversation without requiring much physical effort or a competitive streak.
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
-    items:
-      - locations/leeds/harrogate-convention-centre.md
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: leeds
     intro_content: >-
       ## **Leeds Venues We Know Well**
 

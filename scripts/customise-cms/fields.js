@@ -67,6 +67,11 @@ export const COMMON_FIELDS = {
   },
   order: { name: "order", type: "number", label: "Order" },
   featured: { name: "featured", type: "boolean", label: "Featured" },
+  venue: {
+    name: "venue",
+    type: "boolean",
+    label: "Venue page (show on parent location)",
+  },
   no_index: { name: "no_index", type: "boolean", label: "Hide from listings" },
 };
 

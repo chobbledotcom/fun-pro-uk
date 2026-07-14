@@ -1,6 +1,10 @@
 ---
+title: CBS Arena
+venue: true
+parentLocation: coventry
 meta_title: "CBS Arena Coventry | Exhibition Game Hire | Branded Activities"
 meta_description: "If you&#39;re looking for exhibition stand equipment at the Coventry Building Society CBS Arena, then look no further than Fun Pro UK! Branded event experts."
+thumbnail: /images/locations/coventry.jpg
 layout: page
 redirect_from:
   - "/pages/ricoh-arena/"

@@ -61,7 +61,11 @@ blocks:
       - locations/birmingham/strike-a-light-danger-zone-hire.md
       - locations/birmingham/roll-and-bowl-hire.md
       - locations/birmingham/whack-a-mole-hire.md
-  - type: items-array
+  - type: items
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: birmingham
     intro_content: |-
       ## Birmingham Venues We Know Well
 
@@ -82,13 +86,6 @@ blocks:
       ### Other Venues Across Birmingham
 
       Fun Pro UK also delivers regularly to hotels, offices, university venues, including Aston University, Birmingham City University, and the University of Birmingham, as well as outdoor event sites and community spaces across the wider West Midlands. If your venue isn't listed here, [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) and the team can advise on what's possible.
-    items:
-      - locations/birmingham/nec.md
-      - locations/birmingham/game-hire-icc.md
-      - locations/birmingham/hilton-metropole.md
-      - locations/birmingham/cranmore-park.md
-      - locations/birmingham/edgbaston.md
-      - locations/birmingham/aston-villa.md
   - type: items-array
     intro_content: >-
       ## Planning Game Hire for a Birmingham Corporate Event

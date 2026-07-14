@@ -1,5 +1,6 @@
 ---
 title: Edgbaston
+venue: true
 meta_title: Event Hire Edgbaston | Stadium Game Hire | Fun Pro UK
 meta_description: Interactive game hire for events at Edgbaston Stadium,
   Birmingham. Exhibition games, branded entertainment and corporate event hire

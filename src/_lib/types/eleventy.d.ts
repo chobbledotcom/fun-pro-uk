@@ -51,6 +51,8 @@ export type BaseItemData = {
   no_index?: boolean;
   /** Whether item is featured */
   featured?: boolean;
+  /** Whether item is a venue shown on its parent location page */
+  venue?: boolean;
   /** Custom permalink */
   permalink?: string;
   /** Eleventy navigation configuration */

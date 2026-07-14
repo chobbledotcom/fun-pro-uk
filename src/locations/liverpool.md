@@ -58,8 +58,12 @@ blocks:
       If you want to add catering, our ++[fun food](https://www.funprouk.co.uk/categories/fun-foods)++ options run from hog roasts to pizza ovens. And for Liverpool's busy exhibition and trade show circuit, we provide full ++[custom branding](https://www.funprouk.co.uk/categories/branded-exhibition-games)++ on games, designed, printed and applied in-house by the same team that delivers your event.
     horizontal: false
     masonry: false
-  - type: items-array
+  - type: items
     dark: false
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: liverpool
     intro_content: >-
       ## Liverpool Venues We Know Well
 

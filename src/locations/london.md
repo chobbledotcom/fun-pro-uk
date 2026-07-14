@@ -26,13 +26,15 @@ blocks:
       Interactive entertainment for corporate events, exhibitions and celebrations
     items:
       - locations/london/photo-booth-hire.md
-  - type: items-array
+  - type: items
+    collection: venues
+    filter:
+      property: data.parentLocation
+      equals: london
     intro_content: |
       ## London venues we know well
 
       We deliver to these venues regularly and know their loading, access and setup requirements
-    items:
-      - locations/london/excel.md
   - type: items-array
     intro_content: |
       ## Planning game hire for a London corporate event

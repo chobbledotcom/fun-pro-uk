@@ -1,5 +1,6 @@
 ---
-title: Hilton Hotel
+title: Hilton Cambridge City Centre
+venue: true
 categories:
   - src/categories/exhibition-games.md
 meta_title: Game Hire at Hilton Cambridge City Centre | Fun Pro

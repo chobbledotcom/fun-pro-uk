@@ -157,7 +157,10 @@ export const buildEventsFields = (config, fields) =>
  * @returns {CmsField[]} Locations collection fields
  */
 export const buildLocationsFields = (config, fields) =>
-  buildItem((enabled) => [categoriesRef(enabled)])(config, fields);
+  buildItem((enabled) => [COMMON_FIELDS.venue, categoriesRef(enabled)])(
+    config,
+    fields,
+  );
 
 /**
  * Build fields for the guide-pages collection
