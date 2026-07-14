@@ -39,8 +39,8 @@ blocks:
     dark: false
     items:
       - locations/liverpool/corporate-event-hire.md
-    intro_content: |+
-      ## **Games We Deliver to Liverpool Events**
+    intro_content: |-
+      ## Games We Deliver to Liverpool Events
 
       For exhibition stands and conference ice-breakers, reaction games are hard to beat. A ++[Batak Pro](https://www.funprouk.co.uk/products/batak-pro/)++ draws a crowd and gives passing visitors a reason to stop, while ++[Strike a Light Danger Zone](https://www.funprouk.co.uk/products/danger-zone-strike-a-light-game-hire/)++ adds a competitive edge that keeps people at your stand longer. If space is tigh, ++[Batak Lite](https://www.funprouk.co.uk/products/batak-lite/)++ gives you the same fast, visual gameplay in a smaller footprint.
 
@@ -51,13 +51,12 @@ blocks:
       Photo booths and magic mirrors are a reliable choice for award ceremonies, Christmas parties and branded events. Our ++[photo booth hire](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors)++ in Liverpool gives guests something to do and sends them away with a shareable keepsake, and the prints or backdrops can carry your branding. For networking evenings and office entertainment, ++[shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/)++ and our wider range of ++[pub games](https://www.funprouk.co.uk/categories/pub-games/)++ encourage people to mix without the pressure of a structured activity.
 
       If you want to add catering, our ++[fun food](https://www.funprouk.co.uk/categories/fun-foods)++ options run from hog roasts to pizza ovens. And for Liverpool's busy exhibition and trade show circuit, we provide full ++[custom branding](https://www.funprouk.co.uk/categories/branded-exhibition-games)++ on games, designed, printed and applied in-house by the same team that delivers your event.
-
     horizontal: false
     masonry: false
   - type: items-array
     dark: false
-    intro_content: >+
-      ## **Liverpool Venues We Know Well**
+    intro_content: >-
+      ## Liverpool Venues We Know Well
 
 
       Because we deliver and set up every booking ourselves, we get to know the
@@ -120,13 +119,12 @@ blocks:
       Chester. If your venue isn't listed here, ++[get in
       touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ and we'll talk
       through what works.
-
     horizontal: false
     masonry: false
   - type: items-array
     dark: false
-    intro_content: >+
-      ## **Planning Game Hire for a Liverpool Corporate Event**
+    intro_content: >-
+      ## Planning Game Hire for a Liverpool Corporate Event
 
 
       Liverpool's major venues are well set up for entertainment, with good
@@ -162,7 +160,6 @@ blocks:
       ++[branded](https://www.funprouk.co.uk/promotional-event-games/)++ with
       your own design, raise it as soon as you can, since the design and print
       are handled in-house and production takes a little lead time.
-
     horizontal: false
     masonry: false
   - type: section-header
