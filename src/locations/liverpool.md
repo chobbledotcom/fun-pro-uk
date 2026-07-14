@@ -38,7 +38,12 @@ blocks:
   - type: items-array
     dark: false
     items:
-      - locations/liverpool/corporate-event-hire.md
+      - /products/batak-lite.md
+      - /products/batak-pro.md
+      - /products/ballnado-grabber.md
+      - /products/prize-crane-arcade-grabber.md
+      - /products/catch-it-reaction-ring-hire.md
+      - /products/crack-the-code-safe-cracker.md
     intro_content: |-
       ## Games We Deliver to Liverpool Events
 
