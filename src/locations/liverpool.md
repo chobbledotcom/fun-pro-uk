@@ -11,8 +11,8 @@ layout: location
 blocks:
   - type: markdown
     dark: false
-    content: >+
-      ## **Corporate Game Hire in Liverpool**
+    content: >-
+      # Corporate Game Hire in Liverpool
 
 
       Liverpool is one of the UK's major
@@ -35,8 +35,6 @@ blocks:
       collection as standard. The games that work best depend on your audience,
       your venue and what you're trying to achieve, so we'll talk it through
       with you rather than hand you a list. 
-
-        
   - type: items-array
     dark: false
     items:
@@ -54,7 +52,6 @@ blocks:
 
       If you want to add catering, our ++[fun food](https://www.funprouk.co.uk/categories/fun-foods)++ options run from hog roasts to pizza ovens. And for Liverpool's busy exhibition and trade show circuit, we provide full ++[custom branding](https://www.funprouk.co.uk/categories/branded-exhibition-games)++ on games, designed, printed and applied in-house by the same team that delivers your event.
 
-        
     horizontal: false
     masonry: false
   - type: items-array
@@ -124,7 +121,6 @@ blocks:
       touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ and we'll talk
       through what works.
 
-        
     horizontal: false
     masonry: false
   - type: items-array
@@ -167,7 +163,6 @@ blocks:
       your own design, raise it as soon as you can, since the design and print
       are handled in-house and production takes a little lead time.
 
-        
     horizontal: false
     masonry: false
   - type: section-header
