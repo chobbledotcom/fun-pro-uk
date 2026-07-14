@@ -170,7 +170,7 @@ blocks:
   - type: section-header
     dark: false
     intro: |-
-      ## **Why Liverpool Businesses Work with Fun Pro UK**
+      ## Why Liverpool Businesses Work with Fun Pro UK
 
       We're a family-run team with over 15 years in corporate entertainment. Being based in Coventry, around two hours from Liverpool via the M6, makes the practical side manageable, whether that's planning delivery around a venue's load-in window or being responsive on the day.
 
