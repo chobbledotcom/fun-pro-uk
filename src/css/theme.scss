@@ -2618,6 +2618,19 @@ aritcle > .faqs-container {
       text-align: right;
     }
   }
+
+  .footer-legal-links {
+    display: flex;
+    gap: var(--gap-sm);
+    justify-content: flex-end;
+    font-size: 12px;
+    font-weight: 400;
+
+    a {
+      color: inherit;
+      opacity: 0.7;
+    }
+  }
 }
 
 .plug {

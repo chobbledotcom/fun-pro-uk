@@ -22,9 +22,6 @@ name: Footer links
 - [How It Works](/how-we-help/)
 - [FAQs](/frequently-asked-questions/)
 - [Case Studies](/case-studies/)
-- [Terms & Conditions](/terms-and-condition/)
-- [Privacy Policy](/privacy-policy/)
-- [Cookie Policy](/privacy-policy/)
 
 </div>
 <div>
