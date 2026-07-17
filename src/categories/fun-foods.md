@@ -1,70 +1,173 @@
 ---
-title: "Fun Foods"
-subtitle: "Event catering including pizza, hog roast, BBQ and ice cream"
-meta_title: "Fun Foods Hire – Delicious Event Catering Solutions"
-meta_description: "Fun Foods Hire – Delicious Event Catering Solutions equipment experts from Fun Pro UK will help organise your event in Nationwide. Contact us today!"
+title: Fun Foods
+subtitle: Event catering including pizza, hog roast, BBQ and ice cream
+meta_title: Fun Food Hire | Candy Floss, Popcorn & Sweet Carts
+meta_description: Candy floss, popcorn, pick n mix and ice cream van hire for
+  corporate events and fun days. Delivered, set up and staffed by our family-run
+  team. Get a quote.
 featured: false
 thumbnail: /images/products/ice-cream-van-hire/ice-cream-van-hire-1.jpg
 redirect_from:
-  - "/category/fun-foods/"
-  - "/categories/fun-food/"
+  - /category/fun-foods/
+  - /categories/fun-food/
 eleventyNavigation:
-  key: "Fun Foods"
-  parent: "Entertainment hire"
+  key: Fun Foods
+  parent: Entertainment hire
   order: 8
-below_products: |
-  ## PIZZERIA
+below_products: >-
+  ### **Candy Floss and Popcorn Cart Hire**
 
-  Amazing fresh pizzas baked and served to your guests from the mobile pizza kitchen for your private function, party or wedding. We use a special Semolina dough mix which is handmade to ensure the base is light,
-  crispy and flavoursome. Add our special thick, rich tomato and basil sauce and you have the making of a perfect pizza for your event!
-  Your guests can choose from a variety of Margherita/BBQ Chicken & bacon pepperoni/ Veggie lover pizzas..
-  To accompany the pizza, side dishes can also be added such as:
-  skinny fries
-  BBQ chicken wings
-  dressed & mixed salad
-  chunky coleslaw
 
-  ## HOG ROAST
+  ***From £450 exc. VAT.*** 
 
-  Everyone's favourite hog roast served buffet style from the mobile kitchen gazebo. This hog will ensure you come back for more with freshly baked rolls what is not to love? If you are arranging an open day, work summer party or corporate event our hog roast is a very popular choice.
-  A 10 hour slow cooked free range hog roast, carved to order - served with:
-  sage & onion stuffing
-  crackling
-  apple sauce
-  fresh bread rolls
-  To accompany the hog roast, side dishes can also be added such as:
-  herbed new potatoes
-  mixed salad leaves
-  chunky coleslaw
-  tomato & mozzarella salad with balsamic dressing
 
-  ## SUMMER BBQ
+  Freshly spun candy floss and warm popcorn from a traditional cart, served in
+  individual portions by our staff. Suitable for indoor and outdoor use.
 
-  If you are arranging a corporate fun day, Summer work party or other Summer get together then why not go all out and enjoy BBQ food at its best.
-  All cooked freshly in front of your guests
-  Our Summer BBQ buffet has a wonderful selection of the finest butchers beef burgers, award winning pork sausages, fajita chicken and vegetable kebabs
-  along with corn on the cob, Cajun roasted vegetable & halloumi skewers (v), cheese, fried onion & sauces
-  also served with:
-  potato wedges
-  roasted vegetable couscous
-  niçoise salad
-  coleslaw
-  bread rolls with butter
 
-  ## PAELLA
+  **Space required:** *1.25m x 8.5m x 1.31m* 
 
-  Freshly cooked in a huge 1 metre wide pan at your event this huge paella with chicken and seafood will get your guests talking and will get the party atmosphere started!
-  All ingredients are fresh and includes French Baguette and butter, served from our kitchen gazebo
 
-  ## ICE CREAM VAN
+  **Power requirements:** *1 x Power Socket (190-210W)*
 
-  Every event needs ice cream right? Whether your favourite is a 99 with sauce and a flake, a bat n ball - lolly and ice cream or you fancy going all out with a double cone and sprinkles, we can supply it all with our fully loaded, top quality, immaculate Mr Whippy ice cream vans. Let us know your date and event then we can do the rest. We cater for School Summer fairs, leavers parties, work parties, summer family fun days and much more.
 
-  To find out more, contact Fun Pro UK by emailing [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
+  ### **Pick N Mix Hire**
+
+
+  ***From £550 exc. VAT.*** 
+
+
+  **Space required:** *1.35m x 1.25m.*
+
+
+  **Power requirements:** *None*
+
+
+  ### **Ice Cream Van Hire**
+
+
+  Our Mr Whippy vans serve individual portions straight from the hatch; a 99
+  with a flake, a lolly and ice cream, a cone with sprinkles. The van itself
+  does a lot of work before anyone has been served, because people recognise it
+  from across a field and walk towards it.
+
+
+  It suits corporate fun days, ++[summer work
+  parties](https://www.funprouk.co.uk/events/summer-entertainment/)++, ++[school
+  summer fairs](https://www.funprouk.co.uk/events/school-entertainment/)++,
+  leavers' parties and ++[family fun
+  days](https://www.funprouk.co.uk/events/family-fun-days/)++. Anywhere with
+  outdoor space and a crowd that has been standing around for a while.
+
+
+  ***Price on request***
+
+
+  **Space required:** *0.6m x 1.2m x 1.9m.*
+
+
+  **Power Requirements:** *1 x Power Socket (42-148W)*
+
+
+  ## **Catering for Larger Events**
+
+
+  If your guests need a meal rather than a treat, our mobile pizza kitchen bakes
+  and serves fresh pizzas on site. The base is made with a semolina dough mix,
+  handmade to keep it light and crisp, with a thick tomato and basil sauce.
+  Guests choose from Margherita, BBQ chicken and bacon, pepperoni or veggie, and
+  side dishes can be added; skinny fries, BBQ chicken wings, dressed salad and
+  coleslaw.
+
+
+  It works best at open days and summer parties where people are on site for
+  several hours and a treat cart alone will not carry the day.
+
+
+  ## **Event Planning Considerations**
+
+
+  ### **Check your venue's catering rules before you book anything**
+
+
+  This is the one that catches people out. A lot of venues, particularly hotels
+  and conference centres, hold exclusive catering contracts and restrict outside
+  food and drink. It is worth asking the question early, because finding out a
+  fortnight before the event is an uncomfortable conversation to have with your
+  guests.
+
+
+  ### **Power**
+
+
+  Every machine we supply needs a mains supply. Ask your venue what is available
+  at the point where you want the cart to stand, not just what is available in
+  the building, as the two are frequently not the same thing.
+
+
+  ### **Where you put it**
+
+
+  Keep the food cart away from your main entertainment. If you sit a candy floss
+  cart next to a ++[racing
+  simulator](https://www.funprouk.co.uk/products/racing-car-simulators/)++, you
+  get one queue feeding into another and a bottleneck in the middle of the room.
+  Give it its own space, ideally somewhere on a natural walking route.
+
+
+  ### **Guest numbers and timing**
+
+
+  Think about serving capacity in relation to how long you want the cart running
+  and how many people you expect through it. We will talk this through when you
+  tell us your numbers, because the answer depends as much on the shape of your
+  day as the size of your crowd. As a rule, treats land best as an arrival draw
+  or a mid-afternoon lift rather than competing with a sit-down meal.
+
+
+  ## **Why Businesses Choose Fun Pro UK**
+
+
+  We have been doing this since 2009, and we are still family-run. That means
+  the person you speak to when you enquire is the person who knows where the
+  equipment is and what condition it is in.
+
+
+  We own everything we hire out. Nothing is subcontracted, including the
+  ++[branding](https://www.funprouk.co.uk/branded-game-hire/)++ work, which we
+  do in-house. You are not paying an agency to book someone else on your behalf.
+
+
+  Every booking includes ++[delivery](https://www.funprouk.co.uk/locations/)++,
+  setup, staffing and collection as standard. We carry full public liability
+  ++[insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ and our
+  equipment is PAT certified. 
+faqs:
+  - question: What's included when I hire a candy floss or popcorn cart?
+    answer: Delivery, setup, a member of our team to run the cart for the duration
+      of the hire, all consumables, and collection afterwards. You do not need
+      to provide anyone to operate it.
+  - question: How much space do I need for a fun food cart?
+    answer: The pick n mix stand needs a footprint of roughly 1.35m x 1.25m. Allow
+      additional space in front for guests to queue and move away without
+      blocking a walkway.
+  - question: Do you provide staff to run the machines?
+    answer: Yes. Staffing is included with every booking as standard, not charged as
+      an extra.
+  - question: How many servings can you provide?
+    answer: It depends on your guest numbers and how long you want the cart running.
+      Tell us both when you enquire and we will give you a realistic answer
+      rather than a number that looks good on paper.
+  - question: Can the carts be branded with our company logo?
+    answer: The pick n mix stand has branded display options, and we handle custom
+      branding in-house rather than sending it out. Talk to us about what you
+      have in mind and we will tell you honestly what is achievable in the time
+      available.
+  - question: Do you deliver outside the Midlands?
+    answer: Yes. We are based near Coventry and deliver nationwide.
 ---
+# **Fun Food Hire for Corporate Events and Fun Days**
 
-# Fun Food Hire
+You have the entertainment sorted. The games are booked, the schedule is set, and then you look at the running order and spot the gap; the half hour between sessions, the slow patch after lunch, the queue at the ++[exhibition stand](https://www.funprouk.co.uk/events/exhibition-games/)++ with nothing to hold people there. That is usually where fun food earns its place.
 
-There is nothing better than the smell of a sizzling BBQ, the taste of a hog roast with crispy crackling or freshly oven baked pizza with lots of melted cheese at your Summer get together. This is where Fun Pro UK can help arrange not only your fun entertainment but fun food as well!
-
-Whether you are seeking hot dogs and burgers, hog roasts, delicious fresh pizzas or an ice cream van for your event, then let us know and we can supply tasty offerings which will happily fill all those hungry tummies at your do! Click on the photos below for more information.
+We are not a catering agency. Fun Pro UK is a family-run business that has been supplying event equipment since 2009, and we own every machine and cart outright. When you hire a candy floss cart from us, our team ++[delivers it](https://www.funprouk.co.uk/locations/)++, sets it up, staffs it for the duration and collects it afterwards. There is no middleman, no subcontractor, and nothing for you to plug in or figure out on the day.
