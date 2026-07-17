@@ -1,18 +1,22 @@
 ---
-title: "Corporate Fun Days Can Be Fun!"
-subtitle: "Do your staff work hard to make your business complete and successful? Then why not arrange a Corporate Fun day?..."
+title: Corporate Fun Days Can Be Fun!
+subtitle: Do your staff work hard to make your business complete and successful?
+  Then why not arrange a Corporate Fun day?...
 date: 2019-03-18
-author: "team/colin.md"
-meta_title: "Corporate Fun Days – Interactive Game Hire | Fun Pro UK"
-meta_description: "Corporate fun days really can be fun. How interactive games, inflatables and team activities turn a company event into a memorable day for staff."
+author: team/colin.md
+meta_title: Corporate Fun Days – Interactive Game Hire | Fun Pro UK
+meta_description: Corporate fun days really can be fun. How interactive games,
+  inflatables and team activities turn a company event into a memorable day for
+  staff.
 redirect_from:
-  - "/news/2019-03-18/corporate-fun-days-can-be-fun/"
+  - /news/2019-03-18/corporate-fun-days-can-be-fun/
 gallery:
-  - "/images/news/fundays.png"
-thumbnail: "/images/news/fundays.png"
+  - /images/news/fundays.png
+thumbnail: /images/news/fundays.png
+no_index: false
 ---
-
 ## Do you appreciate your staff?
+
 Do your staff work hard to make your business complete and successful? Then why not arrange a [Corporate Fun day?](/categories/fun-days)
 
 Inviting staff members to a fun day away from the office is a great idea, but inviting their families along to take part in a family fun day would make your employees feel valued, allow them to have fun and also spend quality time making memories with their loved ones.
@@ -20,20 +24,22 @@ Inviting staff members to a fun day away from the office is a great idea, but in
 In return your staff would feel a sense of loyalty to the company they work for, it would improve colleague relationships and motivate your team
 
 ## Let Fun Pro UK help you!
+
 ![Inflatable Fun days](/images/news/fundays.png)Our fun experts at Fun Pro HQ have years of experience in planning corporate family fun events. We love arranging fun days and get excited when a new challenge comes along. If you are wondering where on earth to begin with planning your event then give the team a call in the office or drop them a line. Our friendly funtastic experts will be waiting to speak with you to see how they can help you make your next event a huge success!
 
 ## Something For Everyone.
+
 Wondering what to do first when arranging your family fun day? Don't panic, we have a few tips to get everything covered!
 
-**1\. Date** \- What date are you thinking of for your event? - Is it the same date as last year? - Check there aren't any major events happening near by or a sporting event that people will attend rather than your fun day.
+**1 Date**  What date are you thinking of for your event? - Is it the same date as last year? - Check there aren't any major events happening near by or a sporting event that people will attend rather than your fun day.
 
-**2\. Venue** - Has your chosen venue got enough space for your entertainment and amount of guests you are expecting? Is there a large car park? Is access easy for pushchairs/wheelchairs etc? Is there access to power for inflatables? Do you have a grass area for your entertainment/ marquees. Remember inflatable fun needs a grass base to secure the equipment on safely! Are there toilet facilities? Maybe an indoor hall is required as well as outside?
+**2 Venue** - Has your chosen venue got enough space for your entertainment and amount of guests you are expecting? Is there a large car park? Is access easy for pushchairs/wheelchairs etc? Is there access to power for inflatables? Do you have a grass area for your entertainment/ marquees. Remember inflatable fun needs a grass base to secure the equipment on safely! Are there toilet facilities? Maybe an indoor hall is required as well as outside?
 
-**3\. What time** will your event run from and too? - Your team will need time to set up in the morning. Early afternoon is a good start time for families to be out and about, running through to early evening.
+**3 What time** will your event run from and too? - Your team will need time to set up in the morning. Early afternoon is a good start time for families to be out and about, running through to early evening.
 
-**4\. Who is your audience?** - What age range are you catering for. Fun Pro UK can supply entertainment for small children, teens and adults.
+**4 Who is your audience?** - What age range are you catering for. Fun Pro UK can supply entertainment for small children, teens and adults.
 
-**5\. Budget.** What is your budget? Do you have anyone sponsoring your event? Fun Pro UK can work on quotes to fit in with your budget.
+**5 Budget.** What is your budget? Do you have anyone sponsoring your event? Fun Pro UK can work on quotes to fit in with your budget.
 
 We have games to hire and inflatable fun that will tick all of your boxes! We have fun inflatables that will suite toddlers, teens and grandparents alike.
 
@@ -47,7 +53,7 @@ If it is a team game to hire we have some equipment that will knock your socks o
 
 **We all love Ice Cream!**
 
-Our boss Colin at Fun Pro must be the biggest ice cream lover around! His favourite flavour is Cornish Vanilla! Wonder why? Maybe its cos he's from Cornwall. We can provide gorgeous vintage ice cream trikes with dedicated staff for your event who will serve the fun day guests with either cones or cups in a variety of flavours with toppings and not forgetting the all important sauce! After all, you have to have an ice cream at a fun day!
+Our boss Colin at Fun Pro must be the biggest ice cream lover around! His favourite flavour is Cornish Vanilla! Wonder why? Maybe its cos he's from Cornwall. We can provide [ice cream van hire](https://www.funprouk.co.uk/categories/fun-foods/) with dedicated staff for your event who will serve the fun day guests with either cones or cups in a variety of flavours with toppings and not forgetting the all important sauce. After all, you have to have an ice cream at a fun day!
 
 **We are the professionals of Fun**
 
