@@ -2,48 +2,42 @@
 name: Footer links
 ---
 
-<div>
 
-### Entertainment Hire
+### Find Your Fun
 
 - [Interactive Games](/categories/interactive-game-hire/)
-- [Photo Booths](/categories/photo-booths-and-magic-mirrors/)
-- [Magic Mirrors](/products/magic-mirror/)
-- [Casino Tables](/products/casino-table-hire/)
-- [Racing Simulators](/products/racing-car-simulators/)
-- [Fun Fair Stalls](/categories/fun-fair-stalls/)
+- [Arcade Games](/categories/arcade-games/)
+- [Batak Game Hire](/categories/batak/)
+- [Prize Games](/categories/prize-games/)
+- [Branded Games](/categories/branded-exhibition-games/)
 
-</div>
-<div>
+
 
 ### Your Event
 
-- [Award Ceremonies](/events/company-award-ceremonies/)
-- [How It Works](/how-we-help/)
-- [FAQs](/frequently-asked-questions/)
-- [Case Studies](/case-studies/)
-
-</div>
-<div>
-
-### About FunPro
-
-- [Our Story](/about-corporate-entertainment-hire/)
-- [Exhibition Stands](/games-for-exhibition-stands-to-hire/)
-- [Team Building](/events/team-building-entertainment/)
+- [Exhibitions](/events/exhibition-games/)
 - [Conferences](/conference-game-hire/)
-- [Family Fun Days](/events/family-fun-days/)
+- [Award Ceremonies](/events/company-award-ceremonies/)
+- [Team Building](/events/team-building-entertainment/)
+- [Christmas Parties](/events/christmas-entertainment/)
 
-</div>
-<div>
+
 
 ### Explore
 
 - [Get a Quote](/quote/)
+- [Coverage Areas](/locations/
+- [How it Works](/how-we-help/)
+- [Safety and Insurance](/safety-and-insurance/)
+- [FAQs](/frequently-asked-questions/)
+
+
+
+### About FunPro
+
+- [Get a Quote](/about-corporate-entertainment-hire/)
 - [Meet the Team](/team/)
-- [Coverage Areas](/locations/)
-- [Christmas Parties](/events/christmas-entertainment/)
 - [News](/news/)
+- [Case Studies](/case-studies/)
 - [Contact Us](/contact-fun-pro-uk/)
 
-</div>
