@@ -2518,6 +2518,11 @@ aritcle > .faqs-container {
   }
   #footer-email {
     grid-area: email;
+
+    &[data-decrypt-link][href^="#"] {
+      max-width: 184px;
+      overflow: hidden;
+    }
   }
   #footer-times {
     grid-area: times;
@@ -3212,6 +3217,11 @@ div.fun-pro-item {
   &:hover {
     color: #1b2845;
   }
+}
+
+.mn-email[data-decrypt-link][href^="#"] {
+  max-width: 130px;
+  overflow: hidden;
 }
 
 .mn-cta {

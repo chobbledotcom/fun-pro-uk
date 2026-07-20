@@ -138,6 +138,11 @@ body {
   }
 }
 
+.mn-email[data-decrypt-link][href^="#"] {
+  max-width: 130px;
+  overflow: hidden;
+}
+
 .mn-cta {
   background: #e53935;
   color: #fff;
