@@ -2,6 +2,8 @@
 name: Footer links
 ---
 
+<div>
+
 ### Find Your Fun
 
 - [Interactive Games](/categories/interactive-game-hire/)
@@ -10,7 +12,8 @@ name: Footer links
 - [Prize Games](/categories/prize-games/)
 - [Branded Games](/categories/branded-exhibition-games/)
 
-
+</div>
+<div>
 
 ### Your Event
 
@@ -20,7 +23,8 @@ name: Footer links
 - [Team Building](/events/team-building-entertainment/)
 - [Christmas Parties](/events/christmas-entertainment/)
 
-
+</div>
+<div>
 
 ### Explore
 
@@ -30,7 +34,8 @@ name: Footer links
 - [Safety and Insurance](/safety-and-insurance/)
 - [FAQs](/frequently-asked-questions/)
 
-
+</div>
+<div>
 
 ### About FunPro
 
@@ -39,4 +44,6 @@ name: Footer links
 - [News](/news/)
 - [Case Studies](/case-studies/)
 - [Contact Us](/contact-fun-pro-uk/)
+
+</div>
 
