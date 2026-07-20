@@ -2,7 +2,6 @@
 name: Footer links
 ---
 
-
 ### Find Your Fun
 
 - [Interactive Games](/categories/interactive-game-hire/)
@@ -26,7 +25,7 @@ name: Footer links
 ### Explore
 
 - [Get a Quote](/quote/)
-- [Coverage Areas](/locations/
+- [Coverage Areas](/locations/)
 - [How it Works](/how-we-help/)
 - [Safety and Insurance](/safety-and-insurance/)
 - [FAQs](/frequently-asked-questions/)
