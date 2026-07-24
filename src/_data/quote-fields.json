@@ -54,8 +54,15 @@
 					"note": "Select 'Other' if your event type is not listed"
 				},
 				{
+					"name": "delivery_area",
+					"type": "select",
+					"label": "Delivery area",
+					"required": true,
+					"note": "Delivery is priced for one day or multiple days based on your event dates"
+				},
+				{
 					"name": "event_location",
-					"label": "Location of event",
+					"label": "Event venue or address",
 					"placeholder": "eg Hilton Birmingham Metropole",
 					"required": true
 				}

@@ -11,7 +11,7 @@
  *   - field-builders.js     — non-item collections (pages, categories, …)
  *   - item-builders.js      — item collections (news, products, events, …)
  *   - collection-config.js  — dispatcher, view config, generateCollectionConfig
- *   - static-configs.js     — singleton file configs (site, meta, alt-tags)
+ *   - static-configs.js     — singleton file configs (delivery, site, meta, alt-tags)
  *   - components.js         — hoist `_componentName` markers to components map
  */
 
@@ -37,6 +37,7 @@ import {
 } from "#scripts/customise-cms/generator-helpers.js";
 import {
   getAltTagsConfig,
+  getDeliveryAreasConfig,
   getHomepageConfig,
   getMetaConfig,
   getSiteConfig,
@@ -130,6 +131,7 @@ export const generatePagesYaml = (config) => {
     ...collectionConfigs,
     ...customBlocksConfigs,
     ...(customHomePage ? [] : [getHomepageConfig(dataPath)]),
+    getDeliveryAreasConfig(dataPath),
     getSiteConfig(dataPath),
     getMetaConfig(dataPath),
     getAltTagsConfig(dataPath),

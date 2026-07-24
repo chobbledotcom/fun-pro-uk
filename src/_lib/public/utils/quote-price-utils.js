@@ -4,6 +4,10 @@
 import { getRadioValue } from "#public/cart/quote-steps.js";
 import { formatPrice, getCart } from "#public/utils/cart-utils.js";
 import {
+  formatDeliveryPrice,
+  getSelectedDelivery,
+} from "#public/utils/delivery-pricing.js";
+import {
   getPriceForDays,
   sanitizeItemName,
 } from "#public/utils/quote-pricing.js";
@@ -28,12 +32,13 @@ const formatItemName = (item) =>
 const formatItemPrice = (price) =>
   price === null ? "TBC" : formatPrice(price);
 
-const calculateTotal = (cart, days) => {
+const calculateTotal = (cart, days, delivery) => {
   const prices = map(getPriceForDays(days))(cart);
   if (prices.includes(null)) {
     return { total: 0, canCalculate: false };
   }
-  return { total: sum(prices), canCalculate: true };
+  const deliveryPrice = delivery === null ? 0 : delivery.price;
+  return { total: sum(prices) + deliveryPrice, canCalculate: true };
 };
 
 const formatHireLength = pluralize("day");
@@ -90,10 +95,22 @@ const createItemElement = (item, days) => {
   return template;
 };
 
-const populateItems = (container, cart, days) => {
+const createDeliveryElement = (delivery) => {
+  const template = getTemplate(IDS.QUOTE_PRICE_ITEM, document);
+  template.querySelector('[data-field="name"]').textContent =
+    `Delivery to ${delivery.name}`;
+  template.querySelector('[data-field="price"]').textContent =
+    formatDeliveryPrice(delivery.price);
+  return template;
+};
+
+const populateItems = (container, cart, days, delivery) => {
   container.innerHTML = "";
   for (const item of cart) {
     container.appendChild(createItemElement(item, days));
+  }
+  if (delivery !== null) {
+    container.appendChild(createDeliveryElement(delivery));
   }
 };
 
@@ -124,7 +141,8 @@ const renderQuotePrice = (container, days = 1) => {
   }
 
   const template = getTemplate(IDS.QUOTE_PRICE, document);
-  const { total, canCalculate } = calculateTotal(cart, days);
+  const delivery = getSelectedDelivery(days);
+  const { total, canCalculate } = calculateTotal(cart, days, delivery);
   const itemCount = countItems(cart);
 
   template.querySelector('[data-field="item-count"]').textContent =
@@ -136,7 +154,7 @@ const renderQuotePrice = (container, days = 1) => {
     : "TBC";
 
   const itemsContainer = template.querySelector('[data-field="items"]');
-  populateItems(itemsContainer, cart, days);
+  populateItems(itemsContainer, cart, days, delivery);
 
   const detailsContainer = template.querySelector('[data-field="details"]');
   const details = collectFieldDetails(getFormContainer());

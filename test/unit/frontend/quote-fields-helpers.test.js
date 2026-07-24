@@ -164,5 +164,29 @@ describe("quote-fields-helpers", () => {
 
       expect(firstHeading.fieldIndex).toBe(0);
     });
+
+    test("quote-fields.js builds delivery options from editable area data", async () => {
+      const quoteFieldsModule = await import("#data/quote-fields.js");
+      const quoteFields = quoteFieldsModule.default();
+      const deliveryField = quoteFields.sections[0].fields.find(
+        (field) => field.name === "delivery_area",
+      );
+
+      expect(deliveryField.options).toHaveLength(48);
+      expect(deliveryField.options[0]).toEqual({
+        value: "Banbury",
+        label: "Banbury - 23.3 miles",
+        sameDayPrice: 60,
+        multipleDayPrice: 120,
+      });
+      expect(
+        deliveryField.options.find(({ value }) => value === "Rugby"),
+      ).toEqual({
+        value: "Rugby",
+        label: "Rugby - 7.5 miles",
+        sameDayPrice: 0,
+        multipleDayPrice: 0,
+      });
+    });
   });
 });

@@ -100,12 +100,24 @@ describe("generatePagesYaml collections", () => {
     expect(yaml).not.toContain("name: snippets");
   });
 
-  test("always includes file-based configs (homepage, site, meta)", () => {
+  test("always includes file-based configs", () => {
     const yaml = generatePagesYaml(createTestConfig());
 
     expect(yaml).toContain("name: homepage");
+    expect(yaml).toContain("name: delivery-areas");
     expect(yaml).toContain("name: site");
     expect(yaml).toContain("name: meta");
+  });
+
+  test("includes editable delivery area fields", () => {
+    const yaml = generatePagesYaml(createTestConfig());
+    const section = getSection("delivery-areas")(yaml);
+
+    expect(section).toContain("path: src/_data/delivery-areas.json");
+    expect(section).toContain("name: areas");
+    expect(section).toContain("name: distance");
+    expect(section).toContain("name: sameDayPrice");
+    expect(section).toContain("name: multipleDayPrice");
   });
 
   test("excludes homepage when customHomePage is true", () => {
@@ -189,7 +201,6 @@ describe("generatePagesYaml reference fields", () => {
 
     expect(reviewsSection).not.toContain("collection: products");
   });
-
 });
 
 describe("generatePagesYaml visual editor", () => {

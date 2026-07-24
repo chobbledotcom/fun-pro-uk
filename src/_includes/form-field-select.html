@@ -7,7 +7,11 @@
   >
     <option value="" disabled selected>Select an option</option>
     {%- for option in field.options -%}
-      <option value="{{ option }}">{{ option }}</option>
+      <option
+        value="{% if option.value %}{{ option.value }}{% else %}{{ option }}{% endif %}"
+        {%- if option.sameDayPrice != nil %} data-same-day-price="{{ option.sameDayPrice }}"{% endif %}
+        {%- if option.multipleDayPrice != nil %} data-multiple-day-price="{{ option.multipleDayPrice }}"{% endif %}
+      >{% if option.label %}{{ option.label }}{% else %}{{ option }}{% endif %}</option>
     {%- endfor -%}
   </select>
   {%- include "form-field-note.html" -%}

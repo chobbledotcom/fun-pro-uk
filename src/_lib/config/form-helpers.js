@@ -3,6 +3,14 @@
  */
 
 /**
+ * @typedef {object} FormFieldOption
+ * @property {string} value
+ * @property {string} label
+ * @property {number} [sameDayPrice]
+ * @property {number} [multipleDayPrice]
+ */
+
+/**
  * @typedef {object} ContactFormField
  * @property {string} name - Field name (used as form input name)
  * @property {string} [label] - Human-readable label
@@ -10,7 +18,7 @@
  * @property {string} [placeholder]
  * @property {boolean} [required]
  * @property {number} [rows]
- * @property {string[]} [options] - Options for select/radio fields
+ * @property {(string | FormFieldOption)[]} [options] - Options for select/radio fields
  * @property {string} [note]
  * @property {string} [fieldClass]
  * @property {boolean} [half]

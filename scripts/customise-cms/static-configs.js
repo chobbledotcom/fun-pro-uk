@@ -2,7 +2,8 @@
  * Static singleton-file configs for the CMS.
  *
  * These aren't collections — they're single JSON files in the site's `_data`
- * directory (homepage settings, site metadata, schema.org meta, alt tags).
+ * directory (homepage settings, delivery areas, site metadata, schema.org
+ * meta, alt tags).
  * Each generator takes the resolved `dataPath` so the same function works for
  * templates with or without a `src/` folder.
  */
@@ -87,6 +88,44 @@ export const getHomepageConfig = (dataPath) => ({
       label: "Events",
       type: "object",
       fields: [{ name: "title", type: "string", label: "Title" }],
+    },
+  ],
+});
+
+/**
+ * Generate delivery area configuration
+ * @param {string} dataPath - Path to data directory
+ * @returns {CollectionConfig} Delivery area configuration
+ */
+export const getDeliveryAreasConfig = (dataPath) => ({
+  name: "delivery-areas",
+  label: "Delivery Areas",
+  type: "file",
+  path: `${dataPath}/delivery-areas.json`,
+  fields: [
+    {
+      ...createObjectListField("areas", "Delivery Areas", [
+        { name: "name", type: "string", label: "Area", required: true },
+        {
+          name: "distance",
+          type: "string",
+          label: "Distance (e.g. 23.3 miles)",
+          required: true,
+        },
+        {
+          name: "sameDayPrice",
+          type: "number",
+          label: "One-day delivery price (£)",
+          required: true,
+        },
+        {
+          name: "multipleDayPrice",
+          type: "number",
+          label: "Multiple-day delivery price (£)",
+          required: true,
+        },
+      ]),
+      required: true,
     },
   ],
 });

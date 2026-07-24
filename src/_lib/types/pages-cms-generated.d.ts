@@ -190,6 +190,20 @@ export interface PagesCMSEvent {
 }
 
 /**
+ * @typedef {Object} PagesCMSArea
+ * @property {string} name - Area
+ * @property {string} distance - Distance (e.g. 23.3 miles)
+ * @property {number} sameDayPrice - One-day delivery price (£)
+ * @property {number} multipleDayPrice - Multiple-day delivery price (£)
+ */
+export interface PagesCMSArea {
+  name: string;
+  distance: string;
+  sameDayPrice: number;
+  multipleDayPrice: number;
+}
+
+/**
  * @typedef {Object} PagesCMSOpeningTime
  * @property {string} day - Day
  * @property {string} hours - Hours

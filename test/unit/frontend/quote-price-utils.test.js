@@ -80,7 +80,7 @@ describe("quote-price-utils", () => {
       localStorage.setItem(CART_STORAGE_KEY, JSON.stringify(cart));
       document.body.innerHTML = `
         <script id="site-config" type="application/json">{"currency":"GBP"}</script>
-        <script class="quote-field-labels" type="application/json">{"name": "Your Name", "email": "Email", "phone": "Phone", "contact": "Preferred Contact", "event_type": "Event Type", "message": "Message"}</script>
+        <script class="quote-field-labels" type="application/json">{"name": "Your Name", "email": "Email", "phone": "Phone", "contact": "Preferred Contact", "event_type": "Event Type", "delivery_area": "Delivery Area", "message": "Message"}</script>
 
         ${templates}
 
@@ -218,6 +218,42 @@ describe("quote-price-utils", () => {
       updateQuotePrice(1);
       expect(document.querySelector('[data-field="total"]').textContent).toBe(
         "£50",
+      );
+    });
+
+    test("adds selected delivery to the quote and estimated total", async () => {
+      await setupDOM(
+        [ITEM_A_20()],
+        `<select id="delivery_area" name="delivery_area">
+          <option value="Banbury" data-same-day-price="60" data-multiple-day-price="120" selected>Banbury - 23.3 miles</option>
+        </select>`,
+      );
+      updateQuotePrice(1);
+
+      const items = document.querySelectorAll('[data-field="items"] > li');
+      expect(items).toHaveLength(2);
+      expect(items[1].querySelector('[data-field="name"]').textContent).toBe(
+        "Delivery to Banbury",
+      );
+      expect(items[1].querySelector('[data-field="price"]').textContent).toBe(
+        "£60",
+      );
+      expect(document.querySelector('[data-field="total"]').textContent).toBe(
+        "£80",
+      );
+    });
+
+    test("uses multiple-day delivery in the estimated total", async () => {
+      await setupDOM(
+        [cartItem({ hire_prices: { 3: "£100" } })],
+        `<select id="delivery_area" name="delivery_area">
+          <option value="Banbury" data-same-day-price="60" data-multiple-day-price="120" selected>Banbury - 23.3 miles</option>
+        </select>`,
+      );
+      updateQuotePrice(3);
+
+      expect(document.querySelector('[data-field="total"]').textContent).toBe(
+        "£220",
       );
     });
 
