@@ -115,7 +115,7 @@ Consider the social dynamics of your workplace. If certain departments or senior
 
 Modern Christmas parties often extend beyond the event itself through social media sharing. Position entertainment in visually appealing settings and ensure good lighting for photos and videos.
 
-Consider providing props, [branded games](/events/brand-activation) and backdrops, or themed decorations that encourage people to take pictures. These visual elements can enhance your company's social media presence whilst creating lasting memories for employees.
+Consider providing a [Christmas photo booth](https://www.funprouk.co.uk/news/christmas-party-photo-booth-hire-guide/) and props, branded games and backdrops, or themed decorations that encourage people to take pictures. These visual elements can enhance your company's social media presence whilst creating lasting memories for employees.
 
 Encourage sharing with company hashtags, but keep it optional. Not everyone wants their party photos on social media, so respect personal preferences whilst providing opportunities for those who enjoy sharing their experiences.
 
