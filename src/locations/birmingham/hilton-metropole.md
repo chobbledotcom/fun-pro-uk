@@ -13,31 +13,30 @@ categories:
 gallery:
   - /images/locations/Hilton v2.jpg
 faqs:
-  - question: Does Fun Pro hire out Edgbaston Stadium?
-    answer: No. Edgbaston is booked directly through the stadium's own events team.
-      Fun Pro supplies the games, arcade machines, and interactive entertainment
-      that go into the space you've booked.
-  - question: Which suites at Edgbaston do you supply games to?
-    answer: All of them, including the Banqueting Suite, the 1882 Suite, the Chair's
-      Lounge, the executive boxes and the outdoor Plaza. We'll recommend games
-      based on the room size, layout, and the style of your event.
-  - question: How far in advance should I book game hire for an Edgbaston event?
+  - question: Does Fun Pro hire out the Hilton Birmingham Metropole?
+    answer: No. The hotel is booked directly through its own conference and events
+      team. Fun Pro supplies the games, arcade machines, and interactive
+      entertainment that go into the suite you've booked.
+  - question: Which function rooms at the Metropole do you supply games to?
+    answer: All of them, including the Monarch Suite, Palace Suite, Kings Suite,
+      Westminster Suite, Warwick Suite and the smaller meeting rooms. We'll
+      recommend games based on the room size, layout, and the style of your
+      event.
+  - question: How far in advance should I book game hire for a Metropole event?
     answer: Two to four weeks is usually comfortable. For events in November and
-      December, or around major fixtures, it's worth booking earlier to secure
-      the games you want.
-  - question: Can you supply games for exhibitions at Edgbaston?
-    answer: Yes. Footfall-driving games like Grab A Grand, prize cranes and Ballnado
-      grabbers work particularly well for stand activations and larger industry
-      events.
+      December, or dates coinciding with major NEC shows, it's worth booking
+      earlier to secure the games you want.
+  - question: Can you supply games for exhibitions and product launches?
+    answer: Yes. Footfall-driving games like Grab A Grand, prize cranes, Ballnado
+      grabbers and prize wheels work particularly well for stand activations and
+      launches.
   - question: Do you handle setup and collection at the venue?
     answer: Yes. Delivery, setup, safety checks, and collection are all included.
       Your only job on the day is enjoying the event.
   - question: Are your games suitable for events with mixed ages and abilities?
     answer: Yes. We consider the mix of guests attending and can recommend games
       that everyone can join in with, regardless of age, ability, or comfort
-      level. Ready to chat through the games for your Edgbaston event? Get in
-      touch with our friendly team and we'll put together a quote based on your
-      suite, guest numbers, and event style.
+      level.
 ---
 # **Game Hire at Hilton Birmingham Metropole**
 
@@ -111,3 +110,7 @@ It's also worth thinking about the mix of guests attending and choosing games th
 Our base is in Coventry, a short run down the M6 and M42 to the NEC campus. Delivery, setup, and collection are all included in the quote we send you, so there are no surprise charges for logistics. On the day, our team will coordinate arrival and access with the hotel based on which suite you've booked and what time guests arrive. For large exhibitions and stand activations, we tend to arrive earlier to allow time for the layout to come together properly.
 
 If you'd like to see the kind of events we've supplied elsewhere, our ++[testimonials](https://www.funprouk.co.uk/testimonials/)++ page has feedback from corporate clients across the UK, and the safety and ++[insurance page](https://www.funprouk.co.uk/safety-and-insurance/)++ covers our public liability cover and equipment testing.
+
+## **Ready to chat through the games for your Hilton Birmingham Metropole event?**
+
+++[Get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ with our friendly team and we'll put together a ++[quote](https://www.funprouk.co.uk/quote/)++ based on your suite, guest numbers, and event style.
