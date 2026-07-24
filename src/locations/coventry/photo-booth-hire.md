@@ -87,7 +87,7 @@ A little planning ahead makes the day itself run more smoothly, and we're happy 
 
 Every booth we supply is PAT-tested, and we carry full ++[public liability insurance](https://www.funprouk.co.uk/safety-and-insurance/)++, which many venues will ask to see. 
 
-## **[Why Coventry businesses and hosts choose Fun Pro UK](https://www.funprouk.co.uk/locations/coventry/photo-booth-hire/)**
+## **Why Coventry businesses and hosts choose Fun Pro UK**
 
 Because we're based in Coventry, you get a supplier who knows the local venues and doesn't have far to travel. We've been family-run since 2009, we own all our equipment outright, and staffed ++[delivery](https://www.funprouk.co.uk/locations/)++, setup and collection come as standard with every booking, so you're never left to manage the kit yourself.
 
