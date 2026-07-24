@@ -87,7 +87,7 @@ Avoid making games feel mandatory or competitive to the point where people feel 
 
 ### Creating Shareable Moments
 
-People love to share fun experiences. Set up your space so it's easy to take photos and videos. This could be through photo booths, branded backdrops, or digital scoreboards that show off high scores and winners.
+People love to share fun experiences. Set up your space so it's easy to take photos and videos, whether that's with a [christmas party photo booth](https://www.funprouk.co.uk/news/christmas-party-photo-booth-hire-guide/) or a branded backdrop. This could be through photo booths, branded backdrops, or digital scoreboards that show off high scores and winners.
 
 The more visually appealing your setup is, the more likely people are to snap a picture and post it online. Bright colours, [clever branding](/events/brand-activation), or even themed props can go a long way in encouraging content creation.
 
