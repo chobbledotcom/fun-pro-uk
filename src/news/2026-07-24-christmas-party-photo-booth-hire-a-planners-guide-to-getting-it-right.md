@@ -47,12 +47,14 @@ faqs:
       alternative that fits.
 gallery:
   - /images/christmas-party-photo-booth.png
+subtitle: You've got the venue. You've got a date in December that took three
+  rounds of emails to agree. And somewhere on your list is the entertainment,
+  with a photo booth pencilled in because everyone said it would go down
+  well.  The question is whether it will actually land on the night, or whether
+  it will sit in the corner with a queue of four people and a prop box nobody
+  has touched.
 ---
 ![](/images/christmas-party-photo-booth.png)
-
-You've got the venue. You've got a date in December that took three rounds of emails to agree. And somewhere on your list is the entertainment, with a ++[photo booth](https://www.funprouk.co.uk/products/christmas-photo-booths/)++ pencilled in because everyone said it would go down well.
-
-The question is whether it will actually land on the night, or whether it will sit in the corner with a queue of four people and a prop box nobody has touched.
 
 A Christmas party photo booth is one of the few pieces of entertainment that works for a whole room rather than the confident half of it. But it works best when it has been planned around your venue and your guests, not simply added to the booking. This guide covers guest numbers, where to put it, props and branding, when to book, and what to do with the photos afterwards.
 
