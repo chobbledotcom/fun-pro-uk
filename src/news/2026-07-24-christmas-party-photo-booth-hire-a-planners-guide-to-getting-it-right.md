@@ -7,7 +7,7 @@ meta_description: Planning a Christmas party photo booth? Guest numbers, venue
   space, props, branding and booking timelines, from a UK corporate
   entertainment specialist.
 no_index: false
-permalink: christmas-party-photo-booth-hire-guide
+permalink: news/christmas-party-photo-booth-hire-guide
 faqs:
   - question: "How many people can use a Christmas photo booth at once? "
     answer: Our Christmas photo booth accommodates groups of one to eight, which
