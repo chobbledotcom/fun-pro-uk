@@ -1221,10 +1221,9 @@ content:
     filename: "{primary}.md"
     fields:
       - { name: title, type: string, label: Title }
-      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: subtitle, type: string, label: Role }
+      - { name: thumbnail, type: image, label: Profile Image }
       - { name: order, type: number, label: Order }
-      - { name: snippet, type: string, label: Role }
-      - { name: image, type: image, label: Profile Image }
       - { name: body, type: rich-text, label: Biography }
       - { name: permalink, type: string, label: Permalink }
       - { name: redirect_from, type: string, label: Redirect From, list: true }

@@ -8,8 +8,8 @@ layout: base
   {{ title | escape }}
 </h2>
 
-{%- if image -%}
-  {%- image image, "" -%}
+{%- if thumbnail -%}
+  {%- image thumbnail, "" -%}
 {%- endif -%}
 
 <div class="prose">{{ content }}</div>

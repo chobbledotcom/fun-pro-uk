@@ -107,7 +107,7 @@ function buildImageUrl(imageInput, { url }) {
  * @returns {SchemaOrgMeta} Schema.org metadata object
  */
 function buildBaseMeta(data) {
-  const imageSource = data.header_image || data.image;
+  const imageSource = data.header_image || data.image || data.thumbnail;
   const imageUrl = imageSource ? buildImageUrl(imageSource, data.site) : null;
 
   return {

@@ -2,9 +2,7 @@
 title: Christian
 subtitle: Sales Assistant/Admin
 order: 4
-snippet: Sales Assistant/Admin
 thumbnail: /images/team/christian-v2.jpg
-image: /images/team/christian-v2.jpg
 redirect_from:
   - /team/debbie/
 ---
