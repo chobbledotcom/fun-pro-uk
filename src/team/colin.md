@@ -4,6 +4,7 @@ subtitle: Managing Director
 image: /images/team/colin.jpg
 thumbnail: /images/team/colin.jpg
 order: 1
+snippet: Managing Director
 ---
 # Colin
 
