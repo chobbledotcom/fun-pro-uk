@@ -144,7 +144,7 @@ It's worth checking that your supplier handles printing and application in-house
 
 On event day, the supplier delivers the game to your venue, sets it up, and gives your team an operational handover so you know how to run it. If your team is going to be busy with sales conversations, you can usually book the supplier's staff to operate the game throughout the event as an additional service.
 
-Venue logistics matter more than people expect. The NEC, ExCeL London, Olympia and Manchester Central all have specific build-up schedules, loading bay access procedures and power arrangements. Suppliers who deliver to these venues regularly already know the details that can otherwise eat hours of your event day.
+Venue logistics matter more than people expect. The NEC, ExCeL London, Olympia and Manchester Central all have specific build-up schedules, loading bay access procedures and power arrangements, which is why [Manchester event game hire](https://www.funprouk.co.uk/locations/manchester/) is best arranged with a supplier who delivers there regularly. Suppliers who deliver to these venues regularly already know the details that can otherwise eat hours of your event day.
 
 After the event, the supplier returns to de-rig and collect. The branding is one-time-use vinyl, which means it gets removed after each hire, so the same game you've branded today will be branded for someone else's event next week.
 
