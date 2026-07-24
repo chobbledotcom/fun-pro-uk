@@ -4,6 +4,7 @@ subtitle: Sales Director
 thumbnail: /images/team/Liz V2.jpg
 image: /images/team/Liz V2.jpg
 order: 2
+snippet: Sales Director
 ---
 # Liz
 
