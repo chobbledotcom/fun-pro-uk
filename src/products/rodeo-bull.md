@@ -48,7 +48,7 @@ specs:
   - name: Equipment Size
     value: 4.3m x 4.3m
   - name: Suitability
-    value: Indoor only / Level surface
+    value: Indoor or Outdoors/ Level surface
   - name: Access
     value: Min. door width 0.6m
   - name: Guest Capacity
@@ -59,7 +59,7 @@ filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
   - name: Game Length
-    value: 15-20 minutes
+    value: 5 minutes
   - name: Power Required
     value: Mains power required
   - name: Player Count
