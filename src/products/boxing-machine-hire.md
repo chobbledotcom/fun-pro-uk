@@ -1,7 +1,7 @@
 ---
 title: Boxing Machine hire
 subtitle: Punching machine one player
-price: "625"
+price: £625
 order: 10
 categories:
   - src/categories/arcade-games.md
@@ -107,14 +107,14 @@ tabs:
       counts to measure your score.  
 
 
-      1. Hit the punch bag as hard as you can! 
+      1. Hit the punch bag as hard as you can!
 
-      2. The machine will then measure the force of your punch. 
+      2. The machine will then measure the force of your punch.
 
-      3. Watch as your score appears on the digital display. 
+      3. Watch as your score appears on the digital display.
 
       4. Challenge your friends, colleagues, and other guests to beat your
-      score! 
+      score!
 
   - title: Why It's A Crowd Favourite
     body: >-
