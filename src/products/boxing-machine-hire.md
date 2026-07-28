@@ -74,7 +74,7 @@ specs:
   - name: Space Required
     value: 3.8ft x 2.4ft	x 7.54ft
   - name: Power
-    value: 230v
+    value: Yes, 1 x Standard power suppy 230v plug socket
   - name: Setup time
     value: 5-20 minutes
   - name: Equipment Size
