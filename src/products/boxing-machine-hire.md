@@ -89,11 +89,54 @@ specs:
     value: 5-30 seconds
 tabs:
   - title: Why Boxing machine Hire?
-    body: Text
+    body: >-
+      If you are looking for a fun high energy attraction for your event look no
+      further! An arcade boxing machine is guaranteed to get your guests
+      talking, laughing and competing! From the First punch thrown, the punch
+      bag boxing arcade game is guaranteed to draw guests over.  
+
+
+      No experience is needed, just step up and throw your best punch! Whether
+      you're planning a corporate event, private party, exhibition, or festival,
+      our arcade boxing machine hire delivers competitive fun that guests won't
+      forget. Get in touch today for a free quote. 
   - title: How It Works
-    body: Text
+    body: >+
+      Think you have got the best throw? Step up to the game and throw your best
+      punch! Let the machine do the rest, and watch as the digital scoreboard
+      counts to measure your score.  
+
+
+      1. Hit the punch bag as hard as you can! 
+
+      2. The machine will then measure the force of your punch. 
+
+      3. Watch as your score appears on the digital display. 
+
+      4. Challenge your friends, colleagues, and other guests to beat your
+      score! 
+
   - title: Why It's A Crowd Favourite
-    body: Text
+    body: >-
+      The Boxing Machine hire is perfect for your guests to play as well as
+      becoming its own entertainment attraction for those who want to spectate!
+      Naturally it draws a crowd to either judge the punches thrown and to await
+      their turn! 
+
+
+      Watch as colleagues encourage each other and guests start chatting around
+      this game; friendly competition is spurred on to be the person scoring the
+      highest score! 
+
+
+      Whether it's a corporate event, exhibition, festival, or private party, an
+      arcade boxing machine is a proven crowd-puller that gets people talking,
+      laughing, and joining in. 
   - title: Delivery
-    body: text
+    body: We deliver our arcade boxing machine hire service to venues across the UK,
+      including London, Manchester, Birmingham, and other major cities. Our team
+      will deliver, set up, and test the boxing machine before your event
+      begins, ensuring it's ready for guests to enjoy. Once your event is over,
+      we'll return to collect the machine, providing a hassle-free boxing
+      machine hire experience from start to finish
 ---
