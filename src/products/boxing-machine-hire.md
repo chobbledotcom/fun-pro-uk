@@ -34,6 +34,7 @@ events:
   - src/events/team-building-entertainment.md
   - src/events/university-events.md
   - src/events/wedding-entertainment.md
+  - src/events/christmas-entertainment.md
 options:
   - name: 1 Day
     max_quantity: 10
