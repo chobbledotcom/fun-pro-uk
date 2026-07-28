@@ -1,6 +1,6 @@
 ---
 title: Boxing Machine hire
-subtitle: Punching machine one player
+subtitle: Punch bag machine one player
 price: £625
 order: 10
 categories:
@@ -36,16 +36,16 @@ events:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 0
+    unit_price: 625
   - name: 2 Days
     max_quantity: 10
-    unit_price: 0
+    unit_price: 925
   - name: 3 Days
     max_quantity: 10
-    unit_price: 0
+    unit_price: 1225
   - name: 7 Days
     max_quantity: 10
-    unit_price: 0
+    unit_price: 1725
 features:
   - Delivery and collection prices will apply
   - Public liability insurance included
@@ -139,4 +139,8 @@ tabs:
       begins, ensuring it's ready for guests to enjoy. Once your event is over,
       we'll return to collect the machine, providing a hassle-free boxing
       machine hire experience from start to finish
+meta_title: Boxing Punch bag Hire UK | Corporate Events | Fun Pro
+meta_description: Professional boxing punch bag machine hire with automatic
+  score tracking for corporate events, exhibitions and team building. Venue-safe
+  nationwide delivery.
 ---
