@@ -14,6 +14,7 @@ categories:
   - src/categories/interactive-game-hire.md
   - src/categories/pub-games.md
   - src/categories/weddings.md
+  - src/categories/christmas-game-hire.md
 events:
   - src/events/brand-activation.md
   - src/events/celebrations-and-parties.md
