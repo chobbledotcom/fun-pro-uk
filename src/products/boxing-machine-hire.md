@@ -143,4 +143,7 @@ meta_title: Boxing Punch bag Hire UK | Corporate Events | Fun Pro
 meta_description: Professional boxing punch bag machine hire with automatic
   score tracking for corporate events, exhibitions and team building. Venue-safe
   nationwide delivery.
+thumbnail: /images/products/Boxer/untitled-design-24-1.png
+gallery:
+  - /images/products/Boxer/untitled-design-24-1.png
 ---
