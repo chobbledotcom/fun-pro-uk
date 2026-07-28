@@ -61,7 +61,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 495
+    unit_price: 550
     days: 1
 redirect_from:
   - /category/corporate-entertainment/20/total-wipe-out/
