@@ -139,7 +139,7 @@ products:
   - product: src/products/8-lane-reindeer-racing.md
   - product: src/products/roll-and-bowl-reindeer-racing-game-hire.md
   - product: src/products/whack-an-elf.md
-  - {}
+  - product: src/products/reindeer-nosenado-christmas-ballnado-hire.md
 ---
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
