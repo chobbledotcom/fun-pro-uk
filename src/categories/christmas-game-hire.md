@@ -140,6 +140,7 @@ products:
   - product: src/products/candy-cane-megawire.md
   - product: src/products/candy-cane-snatch-it.md
   - product: src/products/reindeer-nosenado-christmas-ballnado-hire.md
+  - product: src/products/strike-a-snow-flake.md
 ---
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
