@@ -9,6 +9,10 @@ redirect_from:
   - "/category/christmas-game-hire/"
   - "/categories/christmas-games/"
   - "/category/christmas-games/"
+eleventyNavigation:
+  key: "Christmas Game Hire"
+  parent: "Entertainment hire"
+  order: 12
 faqs:
   - question: "How much space is required for Christmas game setup?"
     answer: "Space requirements vary by game. Our team will confirm exact specifications when you book."

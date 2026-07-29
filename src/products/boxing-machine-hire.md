@@ -39,15 +39,19 @@ options:
   - name: 1 Day
     max_quantity: 10
     unit_price: 625
+    days: 1
   - name: 2 Days
     max_quantity: 10
     unit_price: 925
+    days: 2
   - name: 3 Days
     max_quantity: 10
     unit_price: 1225
+    days: 3
   - name: 7 Days
     max_quantity: 10
     unit_price: 1725
+    days: 7
 features:
   - Delivery and collection prices will apply
   - Public liability insurance included
