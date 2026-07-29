@@ -136,6 +136,10 @@ products:
   - product: src/products/christmas-batak-lite.md
   - product: src/products/candy-cane-megawire.md
   - product: src/products/candy-cane-snatch-it.md
+  - product: src/products/8-lane-reindeer-racing.md
+  - product: src/products/roll-and-bowl-reindeer-racing-game-hire.md
+  - product: src/products/whack-an-elf.md
+  - {}
 ---
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
 
