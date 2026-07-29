@@ -130,4 +130,5 @@ gallery:
   - /images/products/corn-hole/FB_IMG_1764424151627.jpg
   - /images/products/corn-hole/FB_IMG_1764424154743.jpg
   - /images/products/corn-hole/FB_IMG_1764424158096.jpg
+price: £445
 ---
