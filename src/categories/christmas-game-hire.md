@@ -128,6 +128,9 @@ below_products: >-
   Transform your Christmas event into an engaging, memorable experience that
   your guests will talk about all year round.
 products:
+  - product: src/products/whack-an-elf.md
+  - product: src/products/roll-and-bowl-reindeer-racing-game-hire.md
+  - product: src/products/8-lane-reindeer-racing.md
   - product: src/products/christmas-roller-bowler.md
   - product: src/products/christmas-prize-crane.md
   - product: src/products/christmas-photo-booths.md
@@ -136,9 +139,6 @@ products:
   - product: src/products/christmas-batak-lite.md
   - product: src/products/candy-cane-megawire.md
   - product: src/products/candy-cane-snatch-it.md
-  - product: src/products/8-lane-reindeer-racing.md
-  - product: src/products/roll-and-bowl-reindeer-racing-game-hire.md
-  - product: src/products/whack-an-elf.md
   - product: src/products/reindeer-nosenado-christmas-ballnado-hire.md
 ---
 # Christmas Game Hire – Festive Entertainment for Corporate Events & Parties
