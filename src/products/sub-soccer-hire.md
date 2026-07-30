@@ -1,5 +1,5 @@
 ---
-title: Sub Soccer Hire
+title: LED Sub Soccer Hire
 subtitle: Two player sub soccer football game
 price: £450
 order: 11
