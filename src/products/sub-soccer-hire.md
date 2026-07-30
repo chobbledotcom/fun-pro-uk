@@ -91,7 +91,7 @@ specs:
   - name: Game Length
     value: 5-30 seconds
 tabs:
-  - title: Why Boxing machine Hire?
+  - title: Why Sub-Soccer Hire?
     body: >-
       LED Subsoccer hire is the perfect interactive attraction, giving guests
       the chance to compete while creating a buzz around your event. 
