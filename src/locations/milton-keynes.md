@@ -138,6 +138,7 @@ blocks:
     masonry: false
     filter:
       property: data.parentLocation
+      equals: milton-keynes
   - type: items-array
     dark: false
     items:
