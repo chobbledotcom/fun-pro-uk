@@ -39,7 +39,7 @@ The financial implications are equally significant. Choosing the wrong venue can
 
 The location of your venue plays a crucial role in determining who can attend your event and how they'll feel about the experience from the moment they receive the invitation. For corporate events where you're expecting attendees from across the UK, consider venues with excellent transport links to major cities.
 
-If you're planning a corporate event in the Midlands, [Coventry](https://www.funprouk.co.uk/locations/coventry/) offers some of the best-connected venues in the country, with the CBS Arena, Coombe Abbey and Warwickshire's countryside hotels all within easy reach of the M6 and M40.
+If you're planning a corporate event in the Midlands, Coventry offers some of the best-connected venues in the country, with the CBS Arena, Coombe Abbey and Warwickshire's countryside hotels all within easy reach of the M6 and M40. Head south on the M1 and Junction 14 brings you into Milton Keynes, where Stadium MK, Arena MK and the city's conference hotels sit around an hour from our base, making [game hire in Milton Keynes](https://www.funprouk.co.uk/locations/milton-keynes/) just as straightforward.
 
 ### Transport Links and Geographic Considerations
 
