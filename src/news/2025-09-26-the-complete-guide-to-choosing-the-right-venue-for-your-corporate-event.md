@@ -212,7 +212,7 @@ Consider ceiling height, floor surfaces, power requirements, and acoustics when 
 
 ### What are typical venue hire costs for corporate events in the UK?
 
-Costs vary significantly based on location, facilities, and time of year. London venues typically range from £500-£5,000+ per day, whilst regional venues might start from £200-£2,000 per day. Remember to budget for additional costs like catering, equipment, and any extra services that aren't included in the base hire fee.
+Costs vary significantly based on location, facilities, and time of year. London venues typically range from £500-£5,000+ per day, whilst regional venues might start from £200-£2,000 per day, so it can be worth budgeting for [London game hire](https://www.funprouk.co.uk/locations/london/) separately alongside the room rental. Remember to budget for additional costs like catering, equipment, and any extra services that aren't included in the base hire fee.
 
 ### Do I need public liability insurance for my corporate event?
 
