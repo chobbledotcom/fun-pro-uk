@@ -198,4 +198,8 @@ tabs:
       When the event ends, we'll come back to collect the shuffleboard, leaving
       your venue exactly as we found it. All equipment is PAT tested and
       maintained to professional standards.
+add_ons:
+  options:
+    - name: Branded Skirt
+      price: 295
 ---
