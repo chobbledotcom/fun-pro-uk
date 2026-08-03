@@ -202,4 +202,5 @@ add_ons:
   options:
     - name: Branded Skirt
       price: 295
+  intro: Optional Branding
 ---
