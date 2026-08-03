@@ -139,4 +139,8 @@ tabs:
       it's ready for guests to enjoy. Once your event is over, we'll return to
       collect the equipment, providing a hassle-free Subsoccer hire experience
       from start to finish.
+add_ons:
+  options:
+    - name: Branded Skirt
+      price: 295
 ---
