@@ -82,7 +82,7 @@ Use clever lighting to highlight specific features or products, use QR codes to 
 
 If there’s one trick that draws crowds every single time and sparks excitement at the same time, it’s [interactive games](/categories/interactive-game-hire).
 
-An interactive exhibition and the right games can create a lively atmosphere and give attendees a reason to stay longer at your stand. Anything from a simple challenge or a high tech setup can provide fun and memorable interactions.
+ An interactive exhibition and the right games, from  a [punch machine](https://www.funprouk.co.uk/products/boxing-machine-hire/) to reaction walls, can create a lively atmosphere and give attendees a reason to stay longer at your stand. Anything from a simple challenge or a high tech setup can provide fun and memorable interactions.
 
 Some interactive game hires to consider include:
 
