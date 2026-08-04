@@ -111,7 +111,7 @@ Reaction games like [Batak Lite](https://www.funprouk.co.uk/news/what-is-a-batak
 
 [Racing car simulators](https://www.funprouk.co.uk/products/racing-car-simulators/) work differently but achieve a similar outcome. The visual impact is high; a full cockpit setup with steering wheel, pedals, and LCD screen displaying the circuit is hard to walk past. Sessions run for set periods, which means players are on your stand for meaningful stretches of time. Lap times create natural competitive conversation, and watching colleagues race is genuinely entertaining for spectators. For audiences that skew competitive, technical, or simply enjoy an experience they wouldn't normally have access to, a racing simulator creates the kind of standout moment that makes your brand memorable in a hall full of sameness. You can hire between one and four simulators depending on stand size and throughput requirements.
 
-The common thread between these options is that they reward multiple attempts and create crowd energy. That energy is what gives your team permission to be present and conversational rather than hovering awkwardly waiting for someone to pick up a brochure.
+The common thread between these options, and the same reason [boxing machine hire](https://www.funprouk.co.uk/products/boxing-machine-hire/) draws a crowd on exhibition stands, is that they reward multiple attempts and create crowd energy. That energy is what gives your team permission to be present and conversational rather than hovering awkwardly waiting for someone to pick up a brochure.
 
 ### **For Brand Awareness and Memorability**
 
