@@ -249,6 +249,6 @@ gallery:
 add_ons:
   intro: "Branding Available "
   options:
-    - name: Full Branding
+    - name: Full Branding (Sides, Front, Top)
       price: 495
 ---
