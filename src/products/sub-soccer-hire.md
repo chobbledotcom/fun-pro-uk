@@ -174,4 +174,7 @@ add_ons:
   options:
     - name: Branded Skirt
       price: 295
+thumbnail: /images/products/Sub Soccer/2.jpg
+gallery:
+  - /images/products/Sub Soccer/2.jpg
 ---
