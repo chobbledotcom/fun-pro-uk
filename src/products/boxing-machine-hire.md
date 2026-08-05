@@ -248,9 +248,15 @@ gallery:
   - /images/products/Boxer/untitled-design-24-1.png
 add_ons:
   intro: |+
-    # Boxing Machine Branding and Customisation Options
+    ## Boxing Machine Branding and Customisation Options
 
   options:
     - name: Full Branding (Sides, Front, Top)
       price: 495
+    - name: Front Only
+      price: 295
+    - name: "Sides Only "
+      price: 195
+    - name: Top Only
+      price: 195
 ---
