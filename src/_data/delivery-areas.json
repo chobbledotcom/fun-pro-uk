@@ -145,6 +145,12 @@
       "multipleDayPrice": 290
     },
     {
+      "name": "Lake Distact",
+      "distance": "0",
+      "sameDayPrice": 350,
+      "multipleDayPrice": 525
+    },
+    {
       "name": "Leeds",
       "distance": "0",
       "sameDayPrice": 190,
