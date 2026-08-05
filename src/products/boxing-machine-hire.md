@@ -247,7 +247,10 @@ thumbnail: /images/products/Boxer/untitled-design-24-1.png
 gallery:
   - /images/products/Boxer/untitled-design-24-1.png
 add_ons:
-  intro: "Branding Available "
+  intro: |-
+    Ballnado Grabber Branding and Customisation Options
+
+    ===================================================
   options:
     - name: Full Branding (Sides, Front, Top)
       price: 495
