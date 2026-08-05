@@ -293,6 +293,12 @@
       "distance": "0",
       "sameDayPrice": 200,
       "multipleDayPrice": 300
+    },
+    {
+      "name": "NOT LISTED",
+      "distance": "0",
+      "sameDayPrice": 0,
+      "multipleDayPrice": 0
     }
   ]
 }
