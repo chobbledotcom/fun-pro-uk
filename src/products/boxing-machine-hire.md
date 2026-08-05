@@ -246,4 +246,9 @@ meta_description: Boxing machine hire for corporate events, exhibitions and
 thumbnail: /images/products/Boxer/untitled-design-24-1.png
 gallery:
   - /images/products/Boxer/untitled-design-24-1.png
+add_ons:
+  intro: "Branding Available "
+  options:
+    - name: Full Branding
+      price: 495
 ---
