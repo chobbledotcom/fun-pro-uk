@@ -196,4 +196,19 @@ faqs:
     answer: Requirements vary by setup. We'll discuss your venue when planning your
       event.
 thumbnail: /images/products/gold-cup-horse-racing/859e8607-9e4b-4c68-8eba-0b72fc38ad2e.jpg
+add_ons:
+  intro: >-
+    ## Gold Cup Horse Racing Branding & Customisation Options
+
+
+    Turn our Gold Cup Horse Racing game into a standout branded attraction with
+    our customisation options. Add your company logo, corporate colours, event
+    branding, or themed graphics to create a unique racing experience that
+    captures attention and keeps your brand front and centre throughout the
+    event.
+  options:
+    - name: Branded Skirt
+      price: 195
+    - name: "Branded Back Panel "
+      price: 195
 ---
