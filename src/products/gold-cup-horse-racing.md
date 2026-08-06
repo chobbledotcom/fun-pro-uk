@@ -206,6 +206,13 @@ add_ons:
     branding, or themed graphics to create a unique racing experience that
     captures attention and keeps your brand front and centre throughout the
     event.
+
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
   options:
     - name: Branded Skirt
       price: 195
