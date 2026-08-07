@@ -148,8 +148,8 @@ add_ons:
       price: 210
     - name: Fully Branded
       price: 495
-    - name: Branded Notes
-      price: 150
+    - name: Coloured sponge balls x100
+      price: 100
 tabs:
   - title: Why Ballnado Grabber?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
