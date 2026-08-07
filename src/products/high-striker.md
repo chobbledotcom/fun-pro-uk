@@ -106,7 +106,7 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Branding the High Strike
+    - name: Branding the High Striker
       price: 145
 tabs:
   - title: Why High Striker?
