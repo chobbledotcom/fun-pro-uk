@@ -128,6 +128,8 @@ add_ons:
       price: 150
     - name: Branded Top Header
       price: 75
+    - name: Full branding - plinth, game front and header
+      price: 470
 tabs:
   - title: Why The Vault?
     image: /images/products/the-vault/the-vault-8.jpg
