@@ -202,5 +202,17 @@ add_ons:
   options:
     - name: Branded Skirt
       price: 295
-  intro: Optional Branding
+  intro: >-
+    ## Shuffleboard Branding and Customisation Options
+
+
+    Make the shufflebaord custome for your event or company branding, use your
+    colours and logos to add a custom elemenet to our shuffleboard game
+
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
 ---
