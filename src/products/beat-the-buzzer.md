@@ -50,6 +50,8 @@ specs:
     value: 1.3m x 0.4m
   - name: Power
     value: 1 x Power Socket
+  - name: "Power usage "
+    value: 1.8watts
   - name: Setup time
     value: 15-20 minutes
   - name: Equipment Size
