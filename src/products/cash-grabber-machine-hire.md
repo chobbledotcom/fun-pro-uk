@@ -133,7 +133,7 @@ add_ons:
     - name: Header Branding panels
       price: 175
     - name: Fully Branded
-      price: 450
+      price: 480
     - name: Branded Notes
       price: 150
 tabs:
