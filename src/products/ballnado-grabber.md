@@ -145,7 +145,7 @@ add_ons:
     - name: Back full length panel branding
       price: 175
     - name: Header Branding panels
-      price: 210
+      price: 175
     - name: Fully Branded
       price: 495
     - name: Coloured sponge balls x100
