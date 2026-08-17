@@ -1,5 +1,6 @@
 @use "../variables" as *;
 @use "../mixins" as *;
+@use "../breakpoints" as breakpoint;
 
 // =============================================================================
 // SEARCH
@@ -89,19 +90,41 @@
     }
   }
 
+  // Stacked on phones so the thumbnail can go full-bleed without squeezing the
+  // title and excerpt; side-by-side from sm up where there is width to spare.
   a.search-result__link {
     display: flex;
-    gap: $space-md;
+    flex-direction: column;
+    gap: $space-sm;
     text-decoration: none;
     color: inherit;
+
+    @include breakpoint.up("sm") {
+      flex-direction: row;
+      // Centred so short excerpts sit level with the taller thumbnail rather
+      // than leaving dead space beneath them.
+      align-items: center;
+      gap: $space-md;
+    }
   }
 
   .search-result__image {
-    width: 120px;
-    height: 90px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    max-height: 200px; // caps the letterbox on wider phones/small tablets
     object-fit: cover;
     border-radius: $radius-sm;
     flex-shrink: 0;
+
+    @include breakpoint.up("sm") {
+      width: 180px;
+      aspect-ratio: 4 / 3;
+      max-height: none;
+    }
+
+    @include breakpoint.up("md") {
+      width: 240px;
+    }
   }
 
   .search-result__body {
