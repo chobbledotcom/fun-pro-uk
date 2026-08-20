@@ -177,10 +177,11 @@ tabs:
 
 
       Brands like Virgin Trains, Bristol Street Motors, and BT have trusted us
-      for their corporate events. For team building specifically, Batak creates
-      talking points that continue after the game ends. High scores become
-      office legends, and the shared experience of competing provides common
-      ground for colleagues who might not otherwise connect.
+      for their corporate events. For team building specifically,
+      [Batak](https://www.funprouk.co.uk/categories/batak/) creates talking
+      points that continue after the game ends. High scores become office
+      legends, and the shared experience of competing provides common ground for
+      colleagues who might not otherwise connect.
   - title: Delivery
     body: >-
       We deliver nationwide across the UK, including Exeter, Cardiff, Bristol,
