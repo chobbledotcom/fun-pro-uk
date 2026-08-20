@@ -1,17 +1,21 @@
 ---
-title: "Planning a Company Christmas Party? Here's How Games Can Break the Ice"
-subtitle: "The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering..."
+title: Planning a Company Christmas Party? Here's How Games Can Break the Ice
+subtitle: The Christmas party season is fast approaching, and if you're tasked
+  with organising your company's festive celebration, you're probably
+  wondering...
 date: 2025-06-27
-author: "team/liz.md"
-meta_title: "How Christmas Party Games Create Connection at Work"
-meta_description: "Planning a company Christmas party? Discover how interactive games break the ice, boost engagement, and turn your festive event into a memorable experience."
+author: team/liz.md
+meta_title: How Christmas Party Games Create Connection at Work
+meta_description: Planning a company Christmas party? Discover how interactive
+  games break the ice, boost engagement, and turn your festive event into a
+  memorable experience.
 redirect_from:
-  - "/news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/"
+  - /news/2025-06-27/planning-a-company-christmas-party-heres-how-games-can-break-the-ice/
 gallery:
-  - "/images/news/catch-us-if-you-can-games.jpg"
-thumbnail: "/images/news/catch-us-if-you-can-games.jpg"
+  - /images/news/catch-us-if-you-can-games.jpg
+thumbnail: /images/news/catch-us-if-you-can-games.jpg
+no_index: false
 ---
-
 ![](/images/news/catch-us-if-you-can-games.jpg)
 
 The Christmas party season is fast approaching, and if you're tasked with organising your company's festive celebration, you're probably wondering how to create an event that brings everyone together. While traditional Christmas parties often revolve around dinner and drinks, adding interactive [Christmas games](/events/christmas-entertainment) can transform your gathering from polite small talk into genuine fun and connection.
@@ -66,7 +70,7 @@ These games also serve as great backup options for when the main entertainment i
 
 ### Space and Venue Requirements
 
-Before committing to any Christmas party game hire, carefully measure your venue space. Games need room not just for the equipment itself, but for people to move around safely and comfortably.
+Before committing to any [Christmas party game hire](https://www.funprouk.co.uk/categories/christmas-game-hire/), carefully measure your venue space. Games need room not just for the equipment itself, but for people to move around safely and comfortably.
 
 Indoor venues often work best for Christmas parties, but make sure you have adequate ceiling height for activities like basketball hoops or throwing games. Also consider power requirements for electronic games and whether you'll need extension leads.
 
