@@ -56,7 +56,7 @@ A quick note before we start: "Batak" is a word with a few unrelated meanings, i
 
 ## **What is a Batak game?**
 
-A Batak game is an interactive reaction game built around an upright panel of illuminated targets. The idea is simple: targets light up one at a time, and the player hits each one as quickly as they can. As soon as one target is struck, the next lights up somewhere else on the board, so players are constantly moving, reaching, and reacting.
+A [Batak](https://www.funprouk.co.uk/categories/batak/) game is an interactive reaction game built around an upright panel of illuminated targets. The idea is simple: targets light up one at a time, and the player hits each one as quickly as they can. As soon as one target is struck, the next lights up somewhere else on the board, so players are constantly moving, reaching, and reacting.
 
 Each game runs for a set time, and the machine keeps score automatically, tracking how many targets a player manages to hit. That live scoring is a big part of the appeal. It turns a quick thirty or sixty seconds of effort into a number people genuinely want to beat, which is exactly why you will often see the same players queuing up for another go.
 
