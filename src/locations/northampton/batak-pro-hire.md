@@ -1,20 +1,22 @@
 ---
-title: "Batak Pro Hire"
-meta_title: "Batak Pro Hire Northampton | Exhibition Stand Games | Events"
-meta_description: "For the best in Batak Pro hire in Northampton, choose our professional team! Make an order for exhibition stands, trade shows, events and much more."
+title: Batak Pro Hire
+meta_title: Batak Pro Hire Northampton | Exhibition Stand Games | Events
+meta_description: For the best in Batak Pro hire in Northampton, choose our
+  professional team! Make an order for exhibition stands, trade shows, events
+  and much more.
 redirect_from:
-  - "/pages/batak-pro-hire-northampton/"
+  - /pages/batak-pro-hire-northampton/
 videos:
-  - id: "https://player.vimeo.com/video/858450355"
+  - id: https://player.vimeo.com/video/858450355
     title: Batak Pro
 thumbnail: /images/products/batak-pro/batak-pro-1.jpg
+venue: false
 ---
-
 # Batak Pro Hire Northampton
 
 The [Batak Pro hire Northampton](/products/batak-pro) from Fun Pro UK is a fantastic choice for your next corporate event or exhibition stand game in Northampton. The Batak Pro game is a speed reaction game that is sure to get your guests engaged and excited.
 
-Northampton is a lively city with a thriving business community, and incorporating a Batak Pro game into your event is a great way to attract attention and create a memorable experience. Fun Pro UK offers Batak Pro game hire in Northampton, allowing you to bring this exciting game to your exhibition stand or corporate event.
+Northampton is a lively city with a thriving business community, and incorporating a [Batak game](https://www.funprouk.co.uk/categories/batak/), whether Batak Pro or Batak Lite - into your event is a great way to attract attention and create a memorable experience. Fun Pro UK offers Batak Pro game hire in Northampton, allowing you to bring this exciting game to your exhibition stand or corporate event.
 
 The Batak Pro game is all about testing your speed, agility, and reaction time. It consists of a wall with a series of illuminated targets that light up randomly. Players have to quickly hit the targets as they light up, earning points for their speed and accuracy. It's a competitive and adrenaline-pumping game that will keep your guests entertained and on their toes.
 
@@ -29,6 +31,7 @@ By incorporating a Batak Pro game into your exhibition stand or corporate event 
 So, if you're looking to add a thrilling and competitive element to your exhibition stands or corporate events in Northampton, we highly recommend hiring a Batak Pro game from Fun Pro UK.
 
 ## Batak Pro Game Hire UK
+
 **Hire Price From £495 + vat**
 
 Delivered and installed on site by our trained team
@@ -37,7 +40,7 @@ Delivered and installed on site by our trained team
 
 In-house branding available. Printed, applied & removed after each event (one time use only).
 
-\*Delivery charges & minimum order value may apply.
+Delivery charges & minimum order value may apply.
 
 **Discounted rates** available for **Multiple Days & Additional items**
 
@@ -70,10 +73,13 @@ Please contact us to find out more.
 **This item cannot be carried up or down a flight of stairs. Lift requirements 0.6m Width x 2.4m Depth x 2.2m Height**
 
 ## Specification
+
 ## Product requirements
+
 ## Popular items:
 
-*   [Retro arcade machine](/products/retro-arcade-games)
-*   [Dance Machine](/products/dance-machine)
-*   [Electronic Basketball hoop](/products/electronic-basket-ball-hire)
-*   [Lights Out](/categories/interactive-game-hire)
+- [Retro arcade machine](/products/retro-arcade-games)
+- [Dance Machine](/products/dance-machine)
+- [Electronic Basketball hoop](/products/electronic-basket-ball-hire)
+- [Lights Out](/categories/interactive-game-hire)
+
