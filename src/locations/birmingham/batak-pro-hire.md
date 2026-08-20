@@ -1,17 +1,19 @@
 ---
-title: "Batak Pro Hire"
-meta_title: "Batak Pro Hire Birmingham | Interactive Event Games | Fun Pro UK"
-meta_description: "Hire a Batak Pro reaction game for your next corporate event in Birmingham.Custom branding available, professional delivery &amp; setup. Request a quote today."
+title: Batak Pro Hire
+meta_title: Batak Pro Hire Birmingham | Interactive Event Games
+meta_description: Hire a Batak Pro reaction game for your next corporate event
+  in Birmingham.Custom branding available, professional delivery &amp; setup.
+  Request a quote today.
 redirect_from:
-  - "/pages/batak-pro-hire-birmingham/"
-thumbnail: "/images/locations/fun-pro-batak-pro-game.jpg"
+  - /pages/batak-pro-hire-birmingham/
+thumbnail: /images/locations/fun-pro-batak-pro-game.jpg
+venue: false
 ---
-
 # Batak Pro – The Ultimate Interactive Game for Corporate & Private Events in Birmingham
 
 Are you planning a [corporate event](/events/office-entertainment), [exhibition](/events/exhibition-games), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
 
-At Fun Pro, one of our most popular games that people hire for their events are the iconic Batak games, Batak Pro and [Batak Lite](/products/batak-lite), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
+At Fun Pro, one of our most popular games that people hire for their events are the iconic [Batak games](https://www.funprouk.co.uk/categories/batak/), Batak Pro and [Batak Lite](/products/batak-lite), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
 
 As a premier provider of interactive entertainment and game hire in Birmingham, Fun Pro UK brings this world-class reaction game directly to your venue – complete with professional setup, branded customisation options, and expert support.
 
@@ -21,67 +23,47 @@ Batak Pro is the gold standard in reaction testing games, beloved by people of a
 
 This addictively simple concept creates natural and healthy competition as participants try to beat their colleagues' scores or claim the top spot on the leaderboard. The sleek, professional design makes it a perfect centrepiece for:
 
-*   Corporate events and [team-building](/events/team-building-entertainment) exercises
-    
-*   Exhibition stands to increase footfall
-    
-*   Product launches and promotional events
-    
-*   University freshers' fairs and recruitment drives
-    
-*   Community fetes and festivals
+- Corporate events and [team-building](/events/team-building-entertainment) exercises
+- Exhibition stands to increase footfall
+- Product launches and promotional events
+- University freshers' fairs and recruitment drives
+- Community fetes and festivals
 
 ## Why Hire Batak Pro for Your Next Event in Birmingham?
 
 Batak pro is a great addition to so many events, and here are just a few of the reasons our customers love this game:
 
-*   Increased engagement - Watch as guests naturally gather around this eye-catching reaction game
-    
-*   Inclusive for all - Suitable for all ages and abilities with no special skills required
-    
-*   Competitive fun - Creates friendly competition and breaks the ice at any event
-    
-*   Customisable branding - Showcase your company logo and messaging for maximum brand exposure
-    
-*   Premium, well-maintained equipment - Ensuring flawless performance throughout your event
+- Increased engagement - Watch as guests naturally gather around this eye-catching reaction game
+- Inclusive for all - Suitable for all ages and abilities with no special skills required
+- Competitive fun - Creates friendly competition and breaks the ice at any event
+- Customisable branding - Showcase your company logo and messaging for maximum brand exposure
+- Premium, well-maintained equipment - Ensuring flawless performance throughout your event
 
 ## What's Included in Batak Pro Hire Birmingham?
 
 Every Batak Pro hire package from Fun Pro UK includes:
 
-*   Delivery and collection throughout Birmingham\*
-    
-*   Professional setup and dismantling
-    
-*   Experienced game operator throughout your event\*
-    
-*   Digital leaderboard display
-    
-*   Customisable gameplay options
-    
-*   Optional branding and customisation services
+- Delivery and collection throughout Birmingham
+- Professional setup and dismantling
+- Experienced game operator throughout your event
+- Digital leaderboard display
+- Customisable gameplay options
+- Optional branding and customisation services
 
-**\*Delivery may incur additional costs.**
+**Delivery may incur additional costs.**
 
-**\*Game operator can be supplied for an additional fee.**
+**Game operator can be supplied for an additional fee.**
 
 ## Batak Pro Game Specifications
 
-*   Dimensions: H: 2m, W: 1.7m, D: 0.9m
-    
-*   Power requirements: Standard UK power socket
-    
-*   Space needed: W:2m, D:1.5m, H:2.10m
-    
-*   Setup time: Approximately 30 minutes
-    
-*   Indoor use only (must be placed on a level surface)
-    
-*   Weight: Approximately 45kg
-    
-*   Transport: Fits through standard doorways with a minimum width of 0.6m
-    
-*   Additional information: Can’t be carried up or down stairs; lift access required if moving between levels
+- Dimensions: H: 2m, W: 1.7m, D: 0.9m
+- Power requirements: Standard UK power socket
+- Space needed: W:2m, D:1.5m, H:2.10m
+- Setup time: Approximately 30 minutes
+- Indoor use only (must be placed on a level surface)
+- Weight: Approximately 45kg
+- Transport: Fits through standard doorways with a minimum width of 0.6m
+- Additional information: Can’t be carried up or down stairs; lift access required if moving between levels
 
 ## Branding Options & Pricing
 
@@ -93,7 +75,7 @@ You can choose to have your Batak Pro machine customised with your company brand
 
 Get in touch with us today to discuss your options for branding.
 
-**Hire **Price** From £495** \+ vat
+**Hire Price From £495**  vat
 
 Delivered and installed on site
 
@@ -107,14 +89,16 @@ available
 
 Printed, applied & removed after each event (One time use only)
 
-\*Delivery Charges & Minimum order value
+Delivery Charges & Minimum order value
 
 may apply
 
 #### Discounted rates available for Multiple Days & Additional items
+
 #### Please contact us to find out more
 
 #### For a quote please Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk) or Call: [0247 7220 701](tel:+442477220701)
+
 ## Frequently Asked Questions
 
 ### How much space does the Batak Pro require?
@@ -145,15 +129,11 @@ Our equipment undergoes rigorous maintenance checks before every event. In the u
 
 Our Batak Pro has been featured at events for prestigious brands including:
 
-*   Selfridges
-    
-*   NFU Mutual
-    
-*   Jaguar Land Rover
-    
-*   Amazon
-    
-*   The University of Warwick
+- Selfridges
+- NFU Mutual
+- Jaguar Land Rover
+- Amazon
+- The University of Warwick
 
 **Plus, many more.**
 
@@ -161,13 +141,10 @@ Our Batak Pro has been featured at events for prestigious brands including:
 
 Enhance your event with these complementary interactive games:
 
-*   [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire)
-    
-*   [Dance Machines](/products/dance-machine)
-    
-*   [Racing Car Simulators](/products/dance-machine)
-    
-*   [Retro Arcade Games](/products/retro-arcade-games)
+- [Strike-A-Light](/products/danger-zone-strike-a-light-game-hire)
+- [Dance Machines](/products/dance-machine)
+- [Racing Car Simulators](/products/dance-machine)
+- [Retro Arcade Games](/products/retro-arcade-games)
 
 Plus much more. Take a look at our full [range of products](/products) for corporate and private events here.
 
