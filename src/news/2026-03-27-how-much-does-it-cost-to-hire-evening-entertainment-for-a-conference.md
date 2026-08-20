@@ -68,7 +68,7 @@ A set of Giant Garden Games takes up a modest amount of space, sets up quickly, 
 
 This is something that often gets overlooked when budgeting for conference evenings, but it genuinely shapes which entertainment is appropriate. A relaxed post-conference networking reception calls for different games than a competitive team challenge night or a formal [awards dinner](https://www.funprouk.co.uk/events/company-award-ceremonies/) with entertainment between courses. 
 
-[Casino tables](https://www.funprouk.co.uk/products/casino-table-hire/), for example, bring a sophisticated, sociable atmosphere well suited to gala dinners and formal evening receptions. Fast-paced reaction games like the Batak Lite or Strike a Light are better suited to energetic evening social events where you want to create a competitive leaderboard and genuine crowd excitement.
+[Casino tables](https://www.funprouk.co.uk/products/casino-table-hire/), for example, bring a sophisticated, sociable atmosphere well suited to gala dinners and formal evening receptions. Fast-paced reaction games like [Batak](https://www.funprouk.co.uk/categories/batak/), including Batak Lite/Pro or Strike a Light are better suited to energetic evening social events where you want to create a competitive leaderboard and genuine crowd excitement.
 
 ### **Whether you need on-site staff**
 
