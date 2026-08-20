@@ -189,4 +189,31 @@ tabs:
       giving you complete peace of mind. Our team arrives with adequate time
       before your event to position and test everything, ensuring it's ready for
       your first guests.
+add_ons:
+  intro: >-
+    ## Roll & Baller Branding and Customisation Options
+
+
+    Turn Roll & Baller into a standout marketing tool with fully customised
+    branding. Add your company logo, corporate colours, or a bespoke event
+    design to create a unique experience that puts your brand front and centre.
+
+
+    Perfect for exhibitions, corporate events, brand activations, and
+    promotional campaigns, branded Roll & Baller helps create a memorable
+    experience for guests while increasing brand visibility.
+
+
+    ### Branding Prices From
+
+
+    **In-house branding available.** We print, apply, and remove the branding
+    after each event, ensuring your Roll & Baller looks professional and
+    on-brand every time.
+
+
+    **Please note:** Branding is produced for one-time use only.
+  options:
+    - name: Side Panels
+      price: 0
 ---
