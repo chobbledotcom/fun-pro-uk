@@ -214,6 +214,12 @@ add_ons:
 
     **Please note:** Branding is produced for one-time use only.
   options:
-    - name: Side Panels
-      price: 0
+    - name: Replacement Sticker top
+      price: 85
+    - name: "Branded header panel "
+      price: 48
+    - name: Branded base side panels x 2
+      price: 204
+    - name: Branded front base panel
+      price: 75
 ---
