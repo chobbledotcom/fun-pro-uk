@@ -1,19 +1,21 @@
 ---
-title: "Christmas Game Hire"
-meta_title: "Birmingham Christmas Game Hire | Festive Corporate Events"
-meta_description: "Book Christmas game hire in Birmingham for your next event. Interactive festive entertainment for corporate events &amp; parties. Get your free quote today."
+title: Christmas Game Hire
+meta_title: Birmingham Christmas Game Hire | Festive Corporate Events
+meta_description: Book Christmas game hire in Birmingham for your next event.
+  Interactive festive entertainment for corporate events &amp; parties. Get your
+  free quote today.
 redirect_from:
-  - "/pages/christmas-game-hire-birmingham/"
+  - /pages/christmas-game-hire-birmingham/
 thumbnail: /images/products/christmas-batak-pro/christmas-batak-pro-1.jpg
+venue: false
 ---
-
 # Christmas Game Hire – Birmingham's Premier Festive Entertainment Specialists
 
 Transform your Birmingham festive celebrations into extraordinary experiences with Fun Pro UK's trusted and professional [Christmas game hire](/events/christmas-entertainment) services. From exclusive corporate [Christmas parties](/news/planning-a-company-christmas-party-heres-how-games-can-break-the-ice) to expansive holiday trade shows, our festive-themed interactive entertainment creates unforgettable moments that captivate audiences and build lasting team connections during the Christmas season.
 
 ## Birmingham & West Midlands Christmas Game Hire & Locations
 
-While Birmingham is one of our key [delivery areas](/delivery-areas), we provide Christmas entertainment throughout the West Midlands and across the entire UK.
+While Birmingham is one of our key [delivery areas](/delivery-areas), we provide [Christmas entertainment](https://www.funprouk.co.uk/categories/christmas-game-hire/) throughout the West Midlands and across the entire UK.
 
 Our experienced team possesses a deep understanding of Birmingham's diverse event environment, from iconic venues like the [NEC Birmingham](/locations/birmingham/nec) to exclusive corporate facilities and academic institutions.
 
@@ -23,33 +25,26 @@ Whether you're arranging a festive celebration at the University of Birmingham, 
 
 Interactive Games:
 
-*   [Batak Lite](/products/batak-lite) & [Batak Pro](/products/batak-pro)
-    
-*   [Strike a Snowflake](/products/strike-a-snow-flake)
-    
-*   [Candy Cane Snatch It](/products/candy-cane-snatch-it)
-    
-*   [Candy Cane Megawire](/products/candy-cane-megawire)
+- [Batak Lite](/products/batak-lite) & [Batak Pro](/products/batak-pro)
+- [Strike a Snowflake](/products/strike-a-snow-flake)
+- [Candy Cane Snatch It](/products/candy-cane-snatch-it)
+- [Candy Cane Megawire](/products/candy-cane-megawire)
 
 Prize Games:
 
-*   [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire)
-    
-*   [Christmas Prize Crane](/products/christmas-prize-crane)
-    
-*   [Casino Table](/products/casino-table-hire)
+- [Reindeer Ballando](/products/reindeer-nosenado-christmas-ballnado-hire)
+- [Christmas Prize Crane](/products/christmas-prize-crane)
+- [Casino Table](/products/casino-table-hire)
 
 Racing Games:
 
-*   [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing)
-    
-*   [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire)
-    
-*   [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing)
+- [Scalextric Slot Car Racing](/products/scalextric-slot-car-racing)
+- [Roll n Bowl Reindeer Racing](/products/roll-and-bowl-reindeer-racing-game-hire)
+- [8 Lane Reindeer Racing](/products/8-lane-reindeer-racing)
 
 Photo & Entertainment Games:
 
-*   [Christmas Photo Booths](/products/christmas-photo-booths)
+- [Christmas Photo Booths](/products/christmas-photo-booths)
 
 ## What's Included in Christmas Game Hire?
 
@@ -57,17 +52,13 @@ We streamline the festive entertainment booking process, providing complete pack
 
 When you select Christmas games from Fun Pro UK, your package features:
 
-*   Local Birmingham delivery and collection by our skilled team\*
-    
-*   Professional installation and configuration by qualified technicians when required
-    
-*   Custom Christmas [branding solutions](/events/brand-activation) to highlight your corporate brand
-    
-*   Event day assistance available when needed
-    
-*   Adaptable hire periods to match your schedule
+- Local Birmingham delivery and collection by our skilled team
+- Professional installation and configuration by qualified technicians when required
+- Custom Christmas [branding solutions](/events/brand-activation) to highlight your corporate brand
+- Event day assistance available when needed
+- Adaptable hire periods to match your schedule
 
-\*Local delivery fees may apply based on location.
+Local delivery fees may apply based on location.
 
 ## Branding Options & Pricing
 
@@ -75,11 +66,9 @@ Convert your Christmas games into powerful marketing tools with our comprehensiv
 
 Christmas Branding Solutions:
 
-*   Custom festive backdrops
-    
-*   Branded game panels
-    
-*   Full colour logo application
+- Custom festive backdrops
+- Branded game panels
+- Full colour logo application
 
 Transform standard entertainment into unique branded Christmas experiences that strengthen your company identity well beyond when the event is over.
 
@@ -105,11 +94,9 @@ Most equipment works on standard UK mains power (13amp socket). Our technical sp
 
 Fun Pro UK proudly provides Christmas entertainment solutions for some of the UK's most prestigious brands, including:
 
-*   Boots
-    
-*   Amazon
-    
-*   Rolls-Royce
+- Boots
+- Amazon
+- Rolls-Royce
 
 And many more.
 
