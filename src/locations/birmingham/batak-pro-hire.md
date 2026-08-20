@@ -13,7 +13,7 @@ venue: false
 
 Are you planning a [corporate event](/events/office-entertainment), [exhibition](/events/exhibition-games), or private party in Birmingham? To set your event apart, the activities you plan are the things that really make all the difference.
 
-At Fun Pro, one of our most popular games that people hire for their events are the iconic [Batak games](https://www.funprouk.co.uk/categories/batak/), Batak Pro and [Batak Lite](/products/batak-lite), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
+At Fun Pro, one of our most popular games that people hire for their events are the iconic [Batak games](https://www.funprouk.co.uk/categories/batak/), [Batak Pro](https://www.funprouk.co.uk/products/batak-pro/) and [Batak Lite](/products/batak-lite), known for delivering unmatched engagement and competitive fun that will leave your guests talking long after the event ends.
 
 As a premier provider of interactive entertainment and game hire in Birmingham, Fun Pro UK brings this world-class reaction game directly to your venue – complete with professional setup, branded customisation options, and expert support.
 
