@@ -1,14 +1,16 @@
 ---
-meta_title: "How We Help | Event Game Hire for Every Occasion | Fun Pro UK"
-meta_description: "From corporate events and exhibitions to weddings and team building days, Fun Pro UK provides interactive game hire across the UK. Find out how we can help."
+meta_title: How We Help | Event Game Hire for Every Occasion
+meta_description: From corporate events and exhibitions to weddings and team
+  building days, Fun Pro UK provides interactive game hire across the UK. Find
+  out how we can help.
 layout: page
 redirect_from:
-  - "/pages/how-we-help/"
+  - /pages/how-we-help/
 eleventyNavigation:
-  key: "How We Help"
+  key: How We Help
   order: 2
+no_index: false
 ---
-
 # How We Help
 
 Fun Pro UK supplies interactive game and entertainment hire for events across the UK. We've been doing this since 2009, working with businesses, event organisers and individuals to provide equipment for corporate functions, exhibitions, weddings, parties and more.
@@ -35,7 +37,7 @@ Custom-branded games for product launches, experiential marketing campaigns and 
 
 ## Team Building
 
-Competitive and collaborative games for team building days. Equipment like [Batak](/products/batak-pro), [human table football](/products/human-table-football), [total wipeout](/products/total-wipe-out) and [inflatable assault courses](/products/inflatable-assault-courses) gets teams working together and competing in a way that a meeting room never will.
+Competitive and collaborative games for team building days. Equipment like [Batak](https://www.funprouk.co.uk/categories/batak/), [human table football](/products/human-table-football), [total wipeout](/products/total-wipe-out) and [inflatable assault courses](/products/inflatable-assault-courses) gets teams working together and competing in a way that a meeting room never will.
 
 [View team building options](/events/team-building-entertainment)
 
