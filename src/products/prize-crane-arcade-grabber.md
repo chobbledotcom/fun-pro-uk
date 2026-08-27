@@ -171,11 +171,8 @@ tabs:
 
 
       The cabinet features a simple white design to fit all brand or event
-      themes, with a front button and joystick. You can control it through
-      wireless credits, and there is internal lighting and fun music to attract
-      the attention of players. You can have the prize crane branded with a wrap
-      too. If you don't have small items, we can provide pre-filled capsules
-      containing a variety of small toys or mini plush teddies.
+      themes, with a front button and joystick.  You can have the prize crane
+      branded with a wrap too. 
   - title: Why It's A Crowd Favourite
     image: /images/products/prize-crane-arcade-grabber/prize-crane-arcade-grabber-16.jpg
     body: >-
