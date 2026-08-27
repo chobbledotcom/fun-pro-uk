@@ -42,18 +42,18 @@ features:
   - Public liability insurance included
   - Custom branding options available
 specs:
-  - name: Transport Flight case Dimensions
-    value: W=380mm x H=1230MM x D=1630
   - name: Players
     value: 1 players
+  - name: Transport Flight case Dimensions
+    value: W=380mm x H=1230MM x D=1630
   - name: Space Required
     value: 1.8m x 1.8m x 2.2m
+  - name: Equipment Size
+    value: 1m x 1.6m x 2m
   - name: Power
     value: 1 x Power Socket (950-1200W)
   - name: Setup time
     value: 30-60 minutes
-  - name: Equipment Size
-    value: 1m x 1.6m x 2m
   - name: Suitability
     value: Indoor only / Level surface
   - name: Access
