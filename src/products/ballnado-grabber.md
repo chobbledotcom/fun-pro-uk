@@ -42,6 +42,8 @@ features:
   - Public liability insurance included
   - Custom branding options available
 specs:
+  - name: Transport Flight case Dimensions
+    value: W=380mm x H=1230MM x D=1630
   - name: Players
     value: 1 players
   - name: Space Required
@@ -60,8 +62,6 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 15-20 minutes
-  - name: Transport Flight case Dimensions
-    value: W=380mm x H=1230MM x D=1630
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
