@@ -47,14 +47,17 @@ features:
 specs:
   - name: Players
     value: 1 player
+  - name: Transport Flight Case sizes
+    value: "CASE 1 - W=220MM x H=260MM x D=2120MM CASE 2 - W=440 x H=960MM x
+      D=1540MM "
   - name: "Space Required "
     value: 1.5m x 1.6m x 2.1m
+  - name: Equipment Size
+    value: 1.46m x 1.46m x 2.04m
   - name: Power
     value: 1 x Power Socket (5-8W)
   - name: Setup time
     value: 15-20 minutes
-  - name: Equipment Size
-    value: 1.46m x 1.46m x 2.04m
   - name: Suitability
     value: Indoor only / Level surface
   - name: Access
@@ -63,9 +66,6 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 30 Seconds
-  - name: Transport Flight Case sizes
-    value: "CASE 1 - W=220MM x H=260MM x D=2120MM CASE 2 - W=440 x H=960MM x
-      D=1540MM "
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
