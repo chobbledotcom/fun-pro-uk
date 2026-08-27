@@ -43,7 +43,7 @@ features:
   - Custom branding options available
 specs:
   - name: Players
-    value: 4-12 players
+    value: 1 players
   - name: Space Required
     value: 1.8m x 1.8m x 2.2m
   - name: Power
@@ -60,6 +60,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 15-20 minutes
+  - name: Transport Flight case Dimensions
+    value: W=380mm x H=1230MM x D=1630
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -68,7 +70,7 @@ filter_attributes:
   - name: Power Required
     value: Mains power required
   - name: Player Count
-    value: 4-12 players
+    value: 1 players
 options:
   - name: 1 Day
     max_quantity: 10
