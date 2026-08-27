@@ -45,6 +45,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: Continuous play
+  - name: Transport Flight Case sizes
+    value: W=1100MM x H=780MM x D=670MM
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
