@@ -78,7 +78,7 @@ A dedicated game host from the supplier can manage all of that, keeping the ener
 
 ### **Location and travel**
 
-Suppliers based centrally in the UK, such as Fun Pro, operating from Coventry are well placed to reach major conference and hotel venues [nationwide](https://www.funprouk.co.uk/locations/) without excessive travel surcharges. If your conference is taking place in London, Birmingham, Manchester or [Milton Keynes](https://www.funprouk.co.uk/locations/milton-keynes/), or at a dedicated conference centre, a Midlands-based supplier is often a practical and cost-effective choice. It's worth being upfront about your venue and any access or load-in restrictions when requesting a quote.
+Suppliers based centrally in the UK, such as Fun Pro, operating from Coventry are well placed to reach major conference and hotel venues [nationwide](https://www.funprouk.co.uk/locations/) without excessive travel surcharges. If your conference is taking place in London, Birmingham, Manchester or Milton Keynes, or at a dedicated conference centre, a Midlands-based supplier is often a practical and cost-effective choice. Northamptonshire venues sit closer still, which keeps [Northampton game hire](https://www.funprouk.co.uk/locations/northampton/) free of the distance surcharges that longer journeys can attract. It's worth being upfront about your venue and any access or load-in restrictions when requesting a quote.
 
 ### **The duration of the evening**
 
