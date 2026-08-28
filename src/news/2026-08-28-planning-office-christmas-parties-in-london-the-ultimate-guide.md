@@ -46,7 +46,7 @@ faqs:
       alcohol being the focus.
 gallery:
   - /images/christmas-party-games.png
-permalink: /news/planning-office-christmas-parties-in-london
+permalink: /news/planning-office-christmas-parties-in-london/
 ---
 ![](/images/christmas-party-games.png)
 
