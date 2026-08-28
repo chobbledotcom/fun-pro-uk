@@ -123,7 +123,7 @@ Why it works for corporate events: The Christmas playlist ties directly into the
 
 Selecting games isn't just about what sounds fun – it's about matching entertainment to your specific situation.
 
-Consider your venue. Space constraints determine what's practical. Games like the Roller Bowler work in compact spaces, whilst Reindeer Racing needs more room. All games require standard UK mains power, so check socket availability with your venue.
+Consider your venue. Space constraints determine what's practical. Games like the Roller Bowler work in compact spaces, a real advantage at [Christmas parties in London](https://www.funprouk.co.uk/news/planning-office-christmas-parties-in-london/) where period buildings and basement venues are common, whilst Reindeer Racing needs more room. All games require standard UK mains power, so check socket availability with your venue.
 
 Think about your guest mix. Balance high-energy options for extroverts with lower-pressure alternatives for those who prefer observing. A combination of competitive games and self-directed entertainment ensures everyone can participate comfortably.
 
