@@ -1,12 +1,14 @@
 ---
-title: "Corporate Event Hire"
-meta_title: "Corporate Event Hire Manchester | Professional Entertainment"
-meta_description: "Professional corporate event hire in Manchester. 15+ years experience providing interactive entertainment, team building activities &amp; branded solutions."
+title: Corporate Event Hire
+meta_title: Corporate Event Hire Manchester | Professional Entertainment
+meta_description: Professional corporate event hire in Manchester. 15+ years
+  experience providing interactive entertainment, team building activities &amp;
+  branded solutions.
 redirect_from:
-  - "/pages/corporate-events-manchester/"
+  - /pages/corporate-events-manchester/
 thumbnail: /images/products/air-hockey-table-hire/air-hockey-table-hire-1.jpg
+venue: false
 ---
-
 # Corporate Event Hire in Manchester: Professional Entertainment Solutions
 
 Planning a [corporate event](/events/office-entertainment) in Manchester? Whether you're organising a team building day, conference entertainment, or company celebration, choosing the right entertainment can make the difference between a memorable experience and a missed opportunity. As corporate event specialists with over 15 years of experience, we understand the unique challenges that Manchester businesses face when planning professional events.
@@ -99,7 +101,7 @@ Our packages include professional-grade equipment, delivery to your Manchester v
 
 ### How far in advance should we book corporate entertainment in Manchester?
 
-We recommend booking 6-8 weeks in advance for standard events, though we can often accommodate shorter timescales. Manchester's busy corporate calendar means popular dates fill quickly, particularly during conference season and the run-up to Christmas.
+We recommend booking 6-8 weeks in advance for standard events, though we can often accommodate shorter timescales. Manchester's busy corporate calendar means popular dates fill quickly, particularly during conference season and the run-up to [Christmas](https://www.funprouk.co.uk/categories/christmas-game-hire/).
 
 ### Do you provide staff to run the games at our Manchester event?
 
