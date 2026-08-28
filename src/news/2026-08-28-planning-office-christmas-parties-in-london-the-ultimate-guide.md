@@ -46,6 +46,7 @@ faqs:
       alcohol being the focus.
 gallery:
   - /images/christmas-party-games.png
+permalink: /news/planning-office-christmas-parties-in-london
 ---
 ![](/images/christmas-party-games.png)
 
@@ -120,19 +121,19 @@ An office, a warehouse or a hired blank venue puts everything in your hands: fur
 
 Working backwards from the date makes the whole thing manageable.
 
-### Eight to ten weeks before 
+### Eight to ten weeks before
 
 Confirm your venue, guest numbers and budget. Check availability with your suppliers, particularly for December Fridays and Saturdays.
 
-### Six to eight weeks before 
+### Six to eight weeks before
 
 Finalise your entertainment. If you want anything carrying your company ++[branding](https://www.funprouk.co.uk/categories/branded-exhibition-games/)++, artwork is needed at this point so it can go through our in house print workshop in time.
 
-### Four weeks before 
+### Four weeks before
 
 Confirm logistics. ++[Delivery](https://www.funprouk.co.uk/locations/)++ access, setup windows, power supply and any venue restrictions all need to be agreed now rather than on the day.
 
-### One week before 
+### One week before
 
 Agree final timings, including arrival, setup duration and collection. We typically arrive one to two hours before your guests do.
 
@@ -142,7 +143,7 @@ Venues and caterers will ask for final numbers earlier than you expect, often tw
 
 This is where London events differ most from the rest of the country, and where a small oversight causes a large problem on the day.
 
-### Loading and access 
+### Loading and access
 
 Many central London venues have restricted delivery windows, shared loading bays or no direct vehicle access at all. Ask before you book, not after.
 
@@ -150,27 +151,27 @@ Many central London venues have restricted delivery windows, shared loading bays
 
 Interactive equipment cannot be carried up or down flights of stairs. If your room is not on the ground floor, you need lift access, and the lift needs to fit the equipment.
 
-### Doorways and corridors 
+### Doorways and corridors
 
 Most of our games need a minimum door width of around 0.6m. Period buildings, converted townhouses and basement bars are where this becomes an issue.
 
-### Floor surface 
+### Floor surface
 
 Equipment needs a level indoor surface to run safely.
 
-### Power  
+### Power
 
 Most games run from a standard 13A socket. Older venues often have fewer accessible sockets than the floor plan suggests, so check early and ask your supplier about distribution and extension leads.
 
-### Noise 
+### Noise
 
 High energy games are excellent in a large room and a genuine problem next to a speech. Think about zoning the space so the two do not compete.
 
-### Driving in 
+### Driving in
 
 The Congestion Charge applies Monday to Friday from 7am to 6pm, and from midday to 6pm at weekends and on bank holidays, with ULEZ operating across Greater London around the clock. Check the current rates on the TfL website, as they change, and factor them in for anyone travelling by car.
 
-### Getting home 
+### Getting home
 
 Last trains, night tube coverage and cab availability on peak December nights are all worth checking before you fix an end time. It is one of the most common complaints after a London Christmas party, and one of the easiest to avoid.
 
@@ -195,8 +196,8 @@ Interactive entertainment tends to earn its place in the gaps: between arrival d
 
 ### Some of the festive games we carry
 
-- ++[Whack an Elf](https://www.funprouk.co.uk/products/whack-an-elf/)++ and ++[Strike a Snow Flake](https://www.funprouk.co.uk/products/strike-a-snow-flake/)++ are straightforward and welcoming for all ages and abilities.[](https://www.funprouk.co.uk/products/candy-cane-snatch-it/) 
-- ++[Candy Cane Snatch It](https://www.funprouk.co.uk/products/candy-cane-snatch-it/)++ and ++[Christmas Batak Lite](https://www.funprouk.co.uk/products/christmas-batak-lite/)++ suit short, sharp competition where people are mingling.[](https://www.funprouk.co.uk/products/8-lane-reindeer-racing/) 
+- ++[Whack an Elf](https://www.funprouk.co.uk/products/whack-an-elf/)++ and ++[Strike a Snow Flake](https://www.funprouk.co.uk/products/strike-a-snow-flake/)++ are straightforward and welcoming for all ages and abilities. 
+- ++[Candy Cane Snatch It](https://www.funprouk.co.uk/products/candy-cane-snatch-it/)++ and ++[Christmas Batak Lite](https://www.funprouk.co.uk/products/christmas-batak-lite/)++ suit short, sharp competition where people are mingling. 
 - ++[8 Lane Reindeer Racing](https://www.funprouk.co.uk/products/8-lane-reindeer-racing/)++ creates team against team moments for larger groups. 
 - A ++[Christmas Photo Booth](https://www.funprouk.co.uk/products/christmas-photo-booths/)++ gives everyone something to laugh about and a print to take home.
 - For more formal client facing evenings, ++[casino tables](https://www.funprouk.co.uk/products/casino-table-hire/)++ with a professional croupier complement the tone rather than dominating it. 
