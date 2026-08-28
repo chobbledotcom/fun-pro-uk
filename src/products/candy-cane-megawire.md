@@ -47,7 +47,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 445
     days: 1
   - name: 2 Days
     max_quantity: 10
