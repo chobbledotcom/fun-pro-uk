@@ -45,7 +45,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 293
+    unit_price: 445
     days: 1
 redirect_from:
   - /category/christmas-game-hire/113/christmas-corn-holes/
