@@ -131,7 +131,7 @@ Have backup entertainment ready in case popular activities become too busy or if
 
 ### Timing Your Booking
 
-[Christmas entertainment](/events/christmas-entertainment) gets booked quickly, especially for popular December dates. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
+Christmas entertainment gets booked quickly, especially for popular December dates, and [Christmas parties in London](https://www.funprouk.co.uk/news/planning-office-christmas-parties-in-london/) see their prime slots go earliest of all. Start your planning process early, ideally in September or October, to ensure you get your preferred dates and entertainment options.
 
 Weekend dates in December are particularly popular, so book these well in advance. Consider whether mid-week celebrations might offer better availability and pricing whilst still providing excellent entertainment value.
 
