@@ -55,7 +55,7 @@ blocks:
 
       For events where inclusivity is a priority, games like [Roll & Bowl](https://www.funprouk.co.uk/categories/roll-and-bowl/) and [Plinko](https://www.funprouk.co.uk/products/plinko-game-hire/) are worth considering. They're lower-intensity, straightforward for everyone to take part in, and work well for large groups cycling through activity stations across the day.
 
-      [Photo booths and magic mirrors](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors/) are a consistent choice for award ceremonies, Christmas parties, and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
+      [Photo booths and magic mirrors](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors/) are a consistent choice for award ceremonies, [Christmas parties](https://www.funprouk.co.uk/categories/christmas-game-hire/), and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
 
       For smaller group settings, networking evenings, or office entertainment, [pub games](https://www.funprouk.co.uk/categories/pub-games/) such as [shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/) create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
     horizontal: false
@@ -63,9 +63,6 @@ blocks:
   - type: items
     dark: false
     collection: venues
-    filter:
-      property: data.parentLocation
-      equals: bristol
     intro_content: |-
       ## Bristol Venues We Know Well
 
@@ -96,6 +93,9 @@ blocks:
       Fun Pro UK also delivers regularly to hotels, university venues — including the University of Bristol and UWE Bristol — office spaces, and outdoor event sites across the wider Bristol area and South West. If your venue isn't listed here, [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) and the team can advise on what's possible.
     horizontal: false
     masonry: false
+    filter:
+      property: data.parentLocation
+      equals: bristol
   - type: items-array
     dark: false
     items:
@@ -190,4 +190,5 @@ faqs:
       outdoors with appropriate weather cover and a suitable power supply. Let
       us know your event setup when you enquire and we'll advise on what works
       best.
+venue: false
 ---
