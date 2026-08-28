@@ -46,14 +46,16 @@ features:
 specs:
   - name: Players
     value: 1-4 players
+  - name: Transport Flight Case sizes
+    value: W=380mm x H=1220mm x L=1090mm
+  - name: Equipment Size
+    value: 1.0m x 1.6m x 2.0m
   - name: Space Required
     value: 1.8m x 1.8m x 2.2m
   - name: Power
     value: 1 x Power Socket (900W)
   - name: Setup time
     value: 30-60 minutes
-  - name: Equipment Size
-    value: 1.0m x 1.6m x 2.0m
   - name: Suitability
     value: Indoor only / Level surface
   - name: Access
