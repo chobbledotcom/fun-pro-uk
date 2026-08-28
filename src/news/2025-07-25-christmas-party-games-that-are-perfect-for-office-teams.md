@@ -103,7 +103,7 @@ Make sure there's adequate space around games for safe movement, and consider wh
 
 Christmas is the busiest time of year for party entertainment, so book your games well in advance. Many companies start their Christmas party planning in September or October to ensure they get their preferred dates and equipment.
 
-Popular games and peak dates (especially December weekends) get booked up quickly, so don't leave it until the last minute.
+Popular games and peak dates (especially December weekends) get booked up quickly, so don't leave it until the last minute, particularly for [office Christmas parties in London](https://www.funprouk.co.uk/news/planning-office-christmas-parties-in-london/) where thousands of companies are competing for the same handful of dates.
 
 ### Choosing the Right Supplier
 
