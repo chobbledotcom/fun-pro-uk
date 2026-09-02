@@ -217,5 +217,5 @@ add_ons:
     - name: Branded Skirt
       price: 195
     - name: "Branded Back Panel "
-      price: 295
+      price: 245
 ---
