@@ -3,7 +3,7 @@ title: Danger Zone Strike A Light Game Hire
 subtitle: Two-player light-up target striking game
 price: £495
 order: 11
-meta_title: Hire Strike A Light Game, Light Reaction Game Rental, Strike UK
+meta_title: Strike A Light Game Hire | Reaction Game Rental UK
 meta_description: Hire Our Danger Zone Strike A Light Game For Your Family Fun
   Days, Parties, Exhibitions Corporate Events ? UK Wide Delivery. Call Us Today.
   02477 220701
@@ -45,6 +45,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 30 seconds
+  - name: Transport Flight case Dimensions
+    value: W=370mm x H=1140mm x D=1180mm
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -183,13 +185,14 @@ faqs:
     answer: Mains power is required for the lighting and scoring systems.
 thumbnail: /images/IMG-20250407-WA0007.jpg
 add_ons:
-  intro: >-
+  intro: >+
     ### **Branded Strike a light Game hire**
 
 
     ### Create a visually striking and memorable brand identity for a
     Strike-a-Light game that attracts attention, drives engagement, and
     reinforces brand recall in busy exhibition environments.
+
   options:
     - name: "Full Branding to the front, Sides and playing field "
       price: 450
