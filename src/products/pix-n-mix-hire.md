@@ -114,7 +114,7 @@ add_ons:
     - name: Fully Branded
       price: 145
     - name: Branded Pic N Mix bags x 1000
-      price: 323
+      price: 325
 tabs:
   - title: Why Pix N Mix Hire?
     image: /images/products/pix-n-mix-hire/pix-n-mix-hire-8.jpg
