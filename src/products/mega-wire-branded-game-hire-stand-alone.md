@@ -53,6 +53,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: Continuous play
+  - name: Transport Flight case Dimensions
+    value: W=210mm x H=860mm x D=1250mm
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
@@ -201,18 +203,15 @@ tabs:
       time use only). Delivery charges and minimum order value may apply.
 faqs:
   - question: How many people can play Mega Wire at once?
-    answer:
-      The game accommodates 1-4 players taking turns. One player navigates the
+    answer: The game accommodates 1-4 players taking turns. One player navigates the
       wire at a time, creating focused moments whilst spectators watch the
       tension build.
   - question: Is Mega Wire suitable for all ages?
-    answer:
-      Yes, the steady-hand challenge suits ages 8 and above. Success depends
+    answer: Yes, the steady-hand challenge suits ages 8 and above. Success depends
       on patience and steadiness rather than strength or speed, making it
       accessible for everyone.
   - question: Can the game be branded?
-    answer:
-      Yes, this is our branded version designed for corporate events and brand
+    answer: Yes, this is our branded version designed for corporate events and brand
       activations. We can discuss branding options when you enquire.
   - question: What power do you need?
     answer: Mains power is required for the buzzer and any electronic elements.
