@@ -44,6 +44,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 15-20 minutes
+  - name: Transport Flight case Dimensions
+    value: W=210mm x H=740mm x D=1260mm
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
