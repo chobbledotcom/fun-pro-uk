@@ -47,7 +47,7 @@ specs:
   - name: Players
     value: Individual servings
   - name: Transport Flight Case sizes
-    value: W=810MM x D=1380MM X H=1210
+    value: W=810mm x H=1830mm x D=1210mm
   - name: Space Required
     value: 1.25m x 8.5m x 1.31m
   - name: Equipment Size
