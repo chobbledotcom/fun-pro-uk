@@ -49,7 +49,7 @@ specs:
   - name: Transport Flight case Dimensions
     value: W=1200MM x H=820MM x D=360MM
   - name: Space Required
-    value: W=400MM x D=1200MM x H=720MM
+    value: W=360mm x H=820MM x D=1200
   - name: Equipment Size
     value: W=1000MM x D=300MM x H=720MM
   - name: Power
