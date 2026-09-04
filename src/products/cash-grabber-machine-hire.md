@@ -73,6 +73,8 @@ filter_attributes:
     value: Mains power required
   - name: Player Count
     value: 1-4 players
+  - name: Transport Flight case Dimensions
+    value: Case 1 W=380mm x H=1230mm x D=1090mm Case 2 W=380mm x H=1220mm x D=1090mm
 options:
   - name: 1 Day
     max_quantity: 10
