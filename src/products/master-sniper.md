@@ -3,7 +3,7 @@ title: Master Sniper Hire
 subtitle: Interactive target shooting game with realistic rifle
 price: £1295
 order: 29
-meta_title: Master Sniper - Exhibition and Game Hire in Nationwide | Fun Pro UK
+meta_title: Master Sniper Hire | Shooting Exhibition & Game Hire UK
 meta_description: Master Sniper is one of the wide range of products available
   from Fun Pro UK events experts. Contact us today!
 categories:
@@ -52,6 +52,8 @@ specs:
     value: 20-200 guests
   - name: Game Length
     value: 1-20 minutes
+  - name: Transport Flight case Dimensions
+    value: Case 1 W=670mm x H=1580mm x D=2300mm Case 2 W=810mm x H=1040mm x D=1200mm
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
