@@ -30,7 +30,7 @@ specs:
   - name: Players
     value: 1-4 players
   - name: Transport Flight Case sizes
-    value: W=1100MM x H=780MM x D=670MM
+    value: W=1100mm x H=780mm x D=670mm
   - name: Space Required
     value: 0.55m x 0.55m
   - name: Equipment Size
