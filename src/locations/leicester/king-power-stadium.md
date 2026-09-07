@@ -7,6 +7,31 @@ meta_title: Game Hire at King Power Stadium, Leicester | Fun Pro
 meta_description: Interactive game hire for events at King Power Stadium,
   Leicester. Delivery, setup and collection included from Fun Pro's corporate
   event specialists.
+faqs:
+  - question: Does Fun Pro hire out King Power Stadium?
+    answer: No. Suites are booked directly through the stadium's conference and
+      events team. We supply the games that go into the space you've booked.
+  - question: Which suites do you supply games to?
+    answer: All the main ones, including Walkers Hall, the Keith Weller Lounge, the
+      Reception Lounge, the Premier Lounges, Champions Club, Rowley Suite, Banks
+      Lounge and The Gallery. The executive boxes seat 12 and are too small for
+      our equipment.
+  - question: Where's the best place to put games during a conference?
+    answer: Usually the Reception Lounge, since it sits between the two largest
+      suites and is where people gather at break times. Games there get used
+      without anyone needing to go looking for them.
+  - question: Can you work around a matchday?
+    answer: We work to whatever access the stadium confirms. Check your date against
+      the fixture list when you book the suite, and pass the load-in window to
+      us.
+  - question: How far in advance should I book?
+    answer: Four to six weeks in busy periods, around two weeks for simpler
+      bookings. Being half an hour away, we can sometimes accommodate shorter
+      notice, so it's worth asking.
+  - question: Can the games carry our branding?
+    answer: Yes. Most of our prize, grabber and reaction games can be wrapped with
+      your logo, designed and printed by our own team. Mention it at the quote
+      stage.
 ---
 # Game Hire at King Power Stadium, Leicester
 
@@ -69,31 +94,5 @@ On lead times, four to six weeks is comfortable for busy periods, particularly t
 Coventry to Filbert Way is about 25 miles down the M69, so we're often on site well ahead of schedule. Delivery, setup and collection are included in your ++[quote](https://www.funprouk.co.uk/quote/)++ rather than added on.
 
 Our team coordinates access with the events team based on your suite and timings, sets everything up, tests it, and stays with the games for the duration. Our ++[safety and insurance](https://www.funprouk.co.uk/safety-and-insurance/)++ page covers PAT testing and public liability cover, which the venue will want on file.
-
-## Frequently Asked Questions
-
-### Does Fun Pro hire out King Power Stadium?
-
-No. Suites are booked directly through the stadium's conference and events team. We supply the games that go into the space you've booked.
-
-### Which suites do you supply games to?
-
-All the main ones, including Walkers Hall, the Keith Weller Lounge, the Reception Lounge, the Premier Lounges, Champions Club, Rowley Suite, Banks Lounge and The Gallery. The executive boxes seat 12 and are too small for our equipment.
-
-### Where's the best place to put games during a conference?
-
-Usually the Reception Lounge, since it sits between the two largest suites and is where people gather at break times. Games there get used without anyone needing to go looking for them.
-
-### Can you work around a matchday?
-
-We work to whatever access the stadium confirms. Check your date against the fixture list when you book the suite, and pass the load-in window to us.
-
-### How far in advance should I book?
-
-Four to six weeks in busy periods, around two weeks for simpler bookings. Being half an hour away, we can sometimes accommodate shorter notice, so it's worth asking.
-
-### Can the games carry our branding?
-
-Yes. Most of our prize, grabber and reaction games can be wrapped with your logo, designed and printed by our own team. Mention it at the quote stage.
 
 Planning something at King Power Stadium? ++[Get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ with your suite, guest numbers and timings and we'll put a quote together.
