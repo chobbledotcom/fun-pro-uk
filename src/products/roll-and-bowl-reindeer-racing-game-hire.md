@@ -40,7 +40,7 @@ specs:
   - name: Transport Flight case Dimensions
     value: Case 1 W=550mm x H=12880mm x D=350mm Case 2 W=550mm x H=12880mm x D=350mm
       Case 3 W=550mm x H=12880mm x D=350mm Case 4 W=550mm x H=12880mm x D=350mm
-      Case 5 W=450mm x H=610mm x D=1700mm
+      Case 5 W=450mm x H=610mm x D=1700mm Case 6 W=320mm x H=320mm x D=630mm
 filter_attributes:
   - name: Guest Capacity
     value: 20-200 guests
