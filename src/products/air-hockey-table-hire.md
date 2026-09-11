@@ -192,4 +192,23 @@ tabs:
       of stairs. A lift is required with a minimum depth of 2200mm. Minimum door
       width is 0.6m. All equipment is PAT tested and maintained to professional
       standards, and delivery fees may apply depending on location.
+add_ons:
+  intro: >-
+    ## Air Hockey Table Branding and Customisation Options
+
+
+    Make the air hockey table a powerful marketing tool with full customisation
+    options, including your brand logo, corporate colours, or event-specific
+    designs. Personalising the game ensures a memorable experience for your
+    guests while reinforcing your brand presence.
+
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
+  options:
+    - name: Branded skirt
+      price: 295
 ---
