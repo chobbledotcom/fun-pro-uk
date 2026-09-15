@@ -149,6 +149,20 @@ below_products: >-
   [Browse our Christmas games](/categories/christmas-game-hire) to see the full
   range, or [contact us](/contact-fun-pro-uk) to discuss your Christmas event.
   We'll recommend games based on your event type, venue and guest numbers.
+products:
+  - product: src/products/whack-an-elf.md
+  - product: src/products/roll-and-bowl-reindeer-racing-game-hire.md
+  - product: src/products/8-lane-reindeer-racing.md
+  - product: src/products/christmas-roller-bowler.md
+  - product: src/products/christmas-prize-crane.md
+  - product: src/products/christmas-photo-booths.md
+  - product: src/products/christmas-corn-holes.md
+  - product: src/products/christmas-batak-pro.md
+  - product: src/products/christmas-batak-lite.md
+  - product: src/products/candy-cane-megawire.md
+  - product: src/products/candy-cane-snatch-it.md
+  - product: src/products/reindeer-nosenado-christmas-ballnado-hire.md
+  - product: src/products/strike-a-snow-flake.md
 ---
 # Planning Christmas Entertainment for Your Event
 
