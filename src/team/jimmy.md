@@ -1,8 +1,10 @@
 ---
 title: Val
-thumbnail: /images/team/jimi-3.jpg
+thumbnail: /images/team/vaz.jpg
 subtitle: Delivery and Installation Team
 order: 7
 snippet: Delivery and Installation team
 ---
-Jimmy is a key part of our Delivery and Installation team at Fun Pro UK, helping bring each setup to life from start to finish. He’s always on hand to make sure everything gets where it needs to be, right on time and ready to go. Known for his reliability and can-do attitude, Jimmy takes real pride in making sure every detail is just right. Whether he’s behind the wheel or setting up on site, he keeps things running smoothly and makes sure every installation is ready for a great experience.
+Valentin is a key member of our Delivery and Installation team at Fun Pro UK, helping bring every setup to life from start to finish. He plays an important role in making sure everything arrives where it needs to be, on time and ready to go.
+
+Known for his reliability, positive attitude and hands-on approach, Valentin takes real pride in making sure every detail is just right. Whether he’s out on the road or working on site, he helps keep everything running smoothly and ensures each installation is completed to a high standard, ready to create a great experience for our customers.
