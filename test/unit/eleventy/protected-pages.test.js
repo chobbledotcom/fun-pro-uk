@@ -102,6 +102,14 @@ describe("protected-pages", () => {
       expect(password).toBe("s3cret");
     });
 
+    test("normalises the environment password (trimmed, lowercased)", () => {
+      const password = withEnv(
+        { PROTECTED_PAGES_PASSWORD: "  FuNpRo_Docs  " },
+        () => resolvePagePassword(undefined, "page"),
+      );
+      expect(password).toBe("funpro_docs");
+    });
+
     test("prefers the passwordEnv front matter override", () => {
       const password = withEnv(
         { RAMS_PASSWORD: "rams s3cret" },

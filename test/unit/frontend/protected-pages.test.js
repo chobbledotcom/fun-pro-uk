@@ -6,6 +6,7 @@ import {
   encodePayload,
   encryptWithKey,
   getRandomBytes,
+  normalizePassword,
 } from "#utils/protected-crypto.js";
 
 // The happy-dom global registration may provide a crypto object without
@@ -40,7 +41,11 @@ let realCreateObjectURL = URL.createObjectURL;
 let clientLoaded = false;
 
 const buildEncryptedPayload = async () => {
-  const key = await deriveAesGcmKey(PASSWORD, SALT, ITERATIONS);
+  const key = await deriveAesGcmKey(
+    normalizePassword(PASSWORD),
+    SALT,
+    ITERATIONS,
+  );
   const { iv, ct } = await encryptWithKey(
     key,
     new TextEncoder().encode(SECRET_HTML),
@@ -55,7 +60,7 @@ const setupProtectedPage = async () => {
       <div class="protected-gate" data-protected-gate=""><h2>${LABELS.heading}</h2>
       <form data-protected-form="" data-error-label="${LABELS.error}">
         <label for="protected-page-password">${LABELS.label}</label>
-        <input id="protected-page-password" type="password" name="password" autocomplete="current-password" required>
+        <input id="protected-page-password" type="text" name="password" autocomplete="off" autocapitalize="none" spellcheck="false" required>
         <button type="submit" class="button" data-loading-label="${LABELS.loading}">${LABELS.submit}</button>
       </form></div>
       <script type="application/json" data-protected-payload="">${await buildEncryptedPayload()}</script>
@@ -86,7 +91,7 @@ const waitFor = async (predicate, timeoutMs = 3000) => {
 };
 
 const submitGate = async (article, passwordValue) => {
-  const input = article.querySelector("input[type='password']");
+  const input = article.querySelector("#protected-page-password");
   const button = article.querySelector("button[type='submit']");
   if (passwordValue !== null) input.value = passwordValue;
   button.disabled = false;
@@ -135,7 +140,11 @@ describe("protected-pages client", () => {
   test("the correct password decrypts content, assets and mail links", async () => {
     const article = document.querySelector("article#content");
     const assetBytes = new TextEncoder().encode("%PDF-stub");
-    const assetKey = await deriveAesGcmKey(PASSWORD, SALT, ITERATIONS);
+    const assetKey = await deriveAesGcmKey(
+      normalizePassword(PASSWORD),
+      SALT,
+      ITERATIONS,
+    );
     const { iv, ct } = await encryptWithKey(assetKey, assetBytes);
     const assetEncPayload = encodePayload({
       salt: SALT,
@@ -151,7 +160,9 @@ describe("protected-pages client", () => {
     };
     URL.createObjectURL = () => "blob:mock-decrypted";
 
-    await submitGate(article, PASSWORD);
+    // Typed with different case and padding: normalisation must make this
+    // match the build-time password.
+    await submitGate(article, `  ${PASSWORD.toUpperCase()}  `);
 
     const unlocked = await waitFor(
       () => article.querySelector("h1")?.textContent === "Confidential RAMS",

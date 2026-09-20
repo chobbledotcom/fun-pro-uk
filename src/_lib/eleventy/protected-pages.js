@@ -40,6 +40,7 @@ import {
   encodePayload,
   encryptWithKey,
   getRandomBytes,
+  normalizePassword,
   PBKDF2_ITERATIONS,
   SALT_BYTES,
 } from "#utils/protected-crypto.js";
@@ -92,13 +93,13 @@ export const resolvePagePassword = (passwordEnv, sourceDescription) => {
     );
   }
   const envName = passwordEnv || DEFAULT_PASSWORD_ENV;
-  const password = process.env[envName];
-  if (!password) {
+  const rawPassword = process.env[envName];
+  if (!rawPassword) {
     throw new Error(
       `${sourceDescription} is marked as password-protected but the ${envName} environment variable is not set at build time. Set it as a secret in your deploy workflow (e.g. a GitHub Actions repository secret) and rebuild.`,
     );
   }
-  return password;
+  return normalizePassword(rawPassword);
 };
 
 /**

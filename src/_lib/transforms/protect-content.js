@@ -86,9 +86,11 @@ const buildGateElement = (document, labels) => {
 
   const input = document.createElement("input");
   input.id = PASSWORD_INPUT_ID;
-  input.setAttribute("type", "password");
+  input.setAttribute("type", "text");
   input.setAttribute("name", "password");
-  input.setAttribute("autocomplete", "current-password");
+  input.setAttribute("autocomplete", "off");
+  input.setAttribute("autocapitalize", "none");
+  input.setAttribute("spellcheck", "false");
   input.required = true;
   form.appendChild(input);
 

@@ -13,6 +13,7 @@ import { encodeBase64 } from "#utils/aes-base64.js";
 import {
   decryptWithKey,
   deriveAesGcmKey,
+  normalizePassword,
   parsePayload,
 } from "#utils/protected-crypto.js";
 import { memoize } from "#toolkit/fp/memoize.js";
@@ -24,7 +25,7 @@ const GATE_SELECTOR = "[data-protected-gate]";
 const PAYLOAD_SELECTOR = "script[data-protected-payload]";
 const FORM_SELECTOR = "[data-protected-form]";
 const BUTTON_SELECTOR = "button[type='submit']";
-const INPUT_SELECTOR = "input[type='password']";
+const INPUT_SELECTOR = "#protected-page-password";
 const ASSET_SELECTOR = "a[data-protected-asset]";
 const ASSET_BASE_URL = "/protected-assets/";
 const STORAGE_KEY = "protected-pages-password";
@@ -105,7 +106,7 @@ const initProtectedPages = () => {
 
   form.addEventListener("submit", (event) => {
     event.preventDefault();
-    const password = input.value;
+    const password = normalizePassword(input.value);
     if (!password) return;
     button.disabled = true;
     button.textContent = loadingLabel;
@@ -120,7 +121,7 @@ const initProtectedPages = () => {
 
   const storedPassword = window.sessionStorage.getItem(STORAGE_KEY);
   if (storedPassword) {
-    unlock(article, storedPassword).catch(() => undefined);
+    unlock(article, normalizePassword(storedPassword)).catch(() => undefined);
   }
 };
 

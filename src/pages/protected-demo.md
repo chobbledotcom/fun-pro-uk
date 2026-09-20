@@ -15,7 +15,8 @@ browser decrypts it locally once the password is entered, so the
 original text and files never exist unprotected on the web server.
 
 Ask us for the document password, then unlock the page to open the
-sample file below:
+sample file below. The password box shows what you type and ignores
+capitalisation and extra spaces, so it isn't case sensitive:
 
 {% protectedAsset "demo.jpg", "Open the demo document (JPG)" %}
 

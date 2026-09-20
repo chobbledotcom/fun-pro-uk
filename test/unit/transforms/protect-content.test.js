@@ -82,7 +82,8 @@ describe("protect-content", () => {
       expect(html).toContain("data-protected-gate");
       expect(html).toContain("data-protected-form");
       expect(html).toContain(`data-error-label="${LABELS.error}"`);
-      expect(html).toContain('type="password"');
+      expect(html).toContain('type="text"');
+      expect(html).not.toContain('type="password"');
       expect(html).toContain("<h2>Staff area</h2>");
       expect(html).toContain(`data-loading-label="${LABELS.loading}"`);
       expect(html).toContain('<script type="application/json"');

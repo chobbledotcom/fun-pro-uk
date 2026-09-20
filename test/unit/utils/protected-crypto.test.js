@@ -7,6 +7,7 @@ import {
   encodePayload,
   encryptWithKey,
   getRandomBytes,
+  normalizePassword,
   parsePayload,
   IV_BYTES,
   PBKDF2_ITERATIONS,
@@ -124,5 +125,11 @@ describe("protected-crypto", () => {
     expect(PBKDF2_ITERATIONS).toBeGreaterThanOrEqual(600_000);
     expect(SALT_BYTES).toBe(16);
     expect(IV_BYTES).toBe(12);
+  });
+
+  test("normalizePassword trims and lowercases for case-insensitive entry", () => {
+    expect(normalizePassword("  FUNPRO_DOCS  ")).toBe("funpro_docs");
+    expect(normalizePassword("Open Sesame")).toBe("open sesame");
+    expect(normalizePassword("already-normal")).toBe("already-normal");
   });
 });

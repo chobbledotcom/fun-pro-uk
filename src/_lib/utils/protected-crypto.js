@@ -41,6 +41,16 @@ const getRandomBytes = (length) =>
   crypto.getRandomValues(new Uint8Array(length));
 
 /**
+ * Normalise a document password before key derivation so visitors don't
+ * fail on trailing spaces or capitalisation. Both the build (reading the
+ * secret from the environment) and the browser (the typed password) apply
+ * this, keeping the derived keys identical.
+ * @param {string} password
+ * @returns {string}
+ */
+const normalizePassword = (password) => password.trim().toLowerCase();
+
+/**
  * Derive an AES-GCM key from a password using PBKDF2-HMAC-SHA-256.
  * @param {string} password
  * @param {Uint8Array} salt
@@ -142,6 +152,7 @@ export {
   encodePayload,
   encryptWithKey,
   getRandomBytes,
+  normalizePassword,
   parsePayload,
   decryptWithKey,
 };
