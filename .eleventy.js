@@ -44,6 +44,7 @@ import { configureLayoutAliases } from "#eleventy/layout-aliases.js";
 import { configureLinkList } from "#eleventy/link-list.js";
 
 import { configureOpeningTimes } from "#eleventy/opening-times.js";
+import { configureProtectedPages } from "#eleventy/protected-pages.js";
 import { configureRecurringEvents } from "#eleventy/recurring-events.js";
 import { configureRemovePattern } from "#eleventy/remove-pattern.js";
 import { configureScreenshots } from "#eleventy/screenshots.js";
@@ -130,6 +131,7 @@ export default async function (eleventyConfig) {
   configureUnusedImages(eleventyConfig);
   configureVideo(eleventyConfig);
   configureWrapHashtags(eleventyConfig);
+  configureProtectedPages(eleventyConfig);
   configureJsBundler(eleventyConfig);
 
   return {

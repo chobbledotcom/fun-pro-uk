@@ -5,5 +5,12 @@
   "event_name": "Events",
   "event_permalink_dir": "events",
   "news_permalink_dir": "news",
-  "item_about_heading": "About"
+  "item_about_heading": "About",
+  "protected_pages": {
+    "heading": "Protected documents",
+    "label": "Password",
+    "submit": "Unlock",
+    "loading": "Unlocking…",
+    "error": "Incorrect password. Please try again, or contact us if you should have access."
+  }
 }

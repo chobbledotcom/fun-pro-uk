@@ -55,6 +55,11 @@ jobs:
             images-
 
       - name: Build with Bun
+        env:
+          # Password for password-protected pages (front matter `protected: true`).
+          # Set it as a repository secret; an empty/missing value fails the
+          # build rather than publishing protected pages in the clear.
+          PROTECTED_PAGES_PASSWORD: ${{ secrets.PROTECTED_PAGES_PASSWORD }}
         run: |
           bun install --frozen-lockfile
           bun scripts/eleventy-build.js

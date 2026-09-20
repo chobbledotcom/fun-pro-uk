@@ -2,8 +2,10 @@
  * Client-side AES-CTR decryption for obfuscated email links.
  *
  * At build time, mailto: links are encrypted and marked with
- * data-decrypt-link. This script decrypts them using the key
- * stored in the bundle script tag's data-decrypt-key attribute.
+ * data-decrypt-link. decryptMailLinks() restores them using the key
+ * stored in the bundle script tag's data-decrypt-key attribute. It runs on
+ * page load and is re-used by protected-pages.js after gated content is
+ * decrypted into the DOM.
  */
 import { onReady } from "#public/utils/on-ready.js";
 import {
@@ -15,7 +17,7 @@ import {
 
 /** @param {string} keyText @returns {Promise<CryptoKey>} */
 const importKey = (keyText) =>
-  window.crypto.subtle.importKey(
+  crypto.subtle.importKey(
     "raw",
     decodeBase64(keyText),
     { name: "AES-CTR" },
@@ -32,7 +34,7 @@ const decrypt = async (inputText, key) => {
   const counter = new Uint8Array(BLOCK_BYTES);
   counter.set(nonceBytes);
 
-  const plainBytes = await window.crypto.subtle.decrypt(
+  const plainBytes = await crypto.subtle.decrypt(
     {
       name: "AES-CTR",
       counter,
@@ -45,16 +47,20 @@ const decrypt = async (inputText, key) => {
   return new TextDecoder().decode(plainBytes);
 };
 
-onReady(async () => {
+/**
+ * Restore every obfuscated mailto: link under a root element.
+ * @param {ParentNode} root - Element (or document) to scan
+ * @returns {Promise<void>}
+ */
+const decryptMailLinks = async (root) => {
   const scriptTag = document.querySelector("script[data-decrypt-key]");
   if (!scriptTag) return;
 
   const keyText = scriptTag.getAttribute("data-decrypt-key");
   if (!keyText) return;
+  if (!globalThis.crypto?.subtle) return;
 
-  if (!("subtle" in window.crypto)) return;
-
-  const links = document.querySelectorAll("a[data-decrypt-link]");
+  const links = root.querySelectorAll("a[data-decrypt-link]");
   if (links.length === 0) return;
 
   const key = await importKey(keyText);
@@ -67,4 +73,8 @@ onReady(async () => {
     link.setAttribute("href", href);
     link.innerHTML = html;
   }
-});
+};
+
+export { decryptMailLinks };
+
+onReady(() => decryptMailLinks(document));

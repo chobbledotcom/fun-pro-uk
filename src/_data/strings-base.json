@@ -9,5 +9,12 @@
 	"location_permalink_dir": "locations",
 	"item_about_heading": "About",
 	"guide_name": "Guide",
-	"guide_permalink_dir": "guide"
+	"guide_permalink_dir": "guide",
+	"protected_pages": {
+		"heading": "Protected documents",
+		"label": "Password",
+		"submit": "Unlock",
+		"loading": "Unlocking…",
+		"error": "Incorrect password. Please try again, or contact us if you should have access."
+	}
 }
