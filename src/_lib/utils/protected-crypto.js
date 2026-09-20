@@ -20,7 +20,7 @@ import { decodeBase64, encodeBase64 } from "#utils/aes-base64.js";
 export const PBKDF2_ITERATIONS = 600_000; // OWASP-recommended count for PBKDF2-HMAC-SHA256
 export const SALT_BYTES = 16;
 export const IV_BYTES = 12;
-export const KEY_BITS = 256;
+const KEY_BITS = 256;
 const PAYLOAD_VERSION = 1;
 const KDF_ALGORITHM = "PBKDF2-SHA256";
 const CIPHER_ALGORITHM = "AES-GCM-256";
@@ -144,6 +144,4 @@ export {
   getRandomBytes,
   parsePayload,
   decryptWithKey,
-  IV_BYTES,
-  SALT_BYTES,
 };
