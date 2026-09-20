@@ -116,6 +116,10 @@ export const createProtectedTransform = ({ salt, iterations, labels }) => {
     deriveAesGcmKey(password, salt, iterations),
   );
 
+  /** @param {unknown} outputPath @returns {boolean} */
+  const isHtmlOutput = (outputPath) =>
+    typeof outputPath === "string" && outputPath.endsWith(".html");
+
   /**
    * Eleventy page transform; `this.inputPath` is set by Eleventy.
    * Front matter is re-read per page (not memoised) so `--serve` incremental
@@ -125,7 +129,7 @@ export const createProtectedTransform = ({ salt, iterations, labels }) => {
    * @this {{ inputPath: string }}
    */
   return async function protectPage(content, outputPath) {
-    if (!outputPath?.endsWith(".html") || !content) return content;
+    if (!isHtmlOutput(outputPath) || !content) return content;
     const { data: frontMatter } = matter(
       readFileSync(this.inputPath, "utf8"),
     );
