@@ -104,6 +104,9 @@ gallery:
   - /images/products/prize-crane-arcade-grabber/42f6d31e-494e-4816-afb6-37b5f4128f07.jpg
   - /images/products/prize-crane-arcade-grabber/586d6882-82b1-4b1f-975a-03be559a5c84.jpg
   - /images/products/prize-crane-arcade-grabber/b615a5b1-2612-4b9f-91bc-a3f07d095530.jpg
+  - /images/products/prize-crane-arcade-grabber/whatsapp-image-2026-05-19-at-181511d.jpeg
+  - /images/products/prize-crane-arcade-grabber/whatsapp-image-2026-05-13-at-172819.jpeg
+  - /images/products/prize-crane-arcade-grabber/img-20260304-wa0016.jpg
 add_ons:
   intro: >-
     ## Prize Crane Arcade Grabber Branding and Customisation Options
