@@ -11,10 +11,10 @@
 	"guide_name": "Guide",
 	"guide_permalink_dir": "guide",
 	"protected_pages": {
-		"heading": "Protected documents",
+		"heading": "Private documents",
 		"label": "Password",
 		"submit": "Unlock",
-		"loading": "Unlocking…",
-		"error": "Incorrect password. Please try again, or contact us if you should have access."
+		"loading": "Opening…",
+		"error": "That password isn't right. Please try again, or contact us if you should have access."
 	}
 }

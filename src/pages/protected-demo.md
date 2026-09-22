@@ -1,7 +1,7 @@
 ---
 title: "Protected Demo"
 meta_title: "Protected Documents (Demo)"
-meta_description: "A demo of the password-protected documents area. The content and files below are encrypted at build time and unlocked in the browser."
+meta_description: "A private demo page. Text and files here are locked with a password."
 layout: page
 protected: true
 no_index: true
@@ -9,19 +9,11 @@ protected_documents:
   - demo.jpg
 ---
 
-# Protected documents demo
+# Private documents
 
-Everything in this box is encrypted at build time with the site's
-document password. The server only ever stores the ciphertext — the
-browser decrypts it locally once the password is entered, so the
-original text and files never exist unprotected on the web server.
+This page is private. The files on it are locked with a password.
 
-Ask us for the document password, then unlock the page. The password
-box shows what you type and ignores capitalisation and extra spaces,
-so it isn't case sensitive.
+Type the password below to open them. You won't need to type it again
+on private pages.
 
-This page is edited through the CMS: the files listed below come from
-the "Protected documents" upload field and are encrypted automatically
-during the build. Anyone without the password sees only the prompt you
-are looking at right now, and search engines are asked to ignore this
-page entirely.
+Don't have the password? Please contact us.

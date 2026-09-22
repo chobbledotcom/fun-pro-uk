@@ -76,16 +76,11 @@ export const COMMON_FIELDS = {
   protected: {
     name: "protected",
     type: "boolean",
-    label: "Password-protect this page",
-  },
-  password_env: {
-    name: "passwordEnv",
-    type: "string",
-    label: "Password env var override (optional)",
+    label: "Private page (needs a password to view)",
   },
   protected_documents: {
     name: "protected_documents",
-    label: "Protected files (shown after unlock)",
+    label: "Hidden files (unlocked with the page password)",
     type: "file",
     list: true,
     options: { media: "protected" },

@@ -190,7 +190,6 @@ describe("generatePagesYaml feature flags", () => {
     const pagesSection = getSection("pages")(yaml);
 
     expect(pagesSection).toContain("name: protected");
-    expect(pagesSection).toContain("name: passwordEnv");
     expect(pagesSection).toContain("name: protected_documents");
     expect(pagesSection).toContain("media: protected");
   });
@@ -221,6 +220,7 @@ describe("generatePagesYaml feature flags", () => {
 
     expect(pagesSection).not.toContain("name: protected");
     expect(pagesSection).not.toContain("name: protected_documents");
+    expect(pagesSection).not.toContain("name: passwordEnv");
     expect(parsed.media.map((source) => source.name)).toEqual(["images"]);
   });
 });
