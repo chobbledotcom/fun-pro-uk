@@ -28,6 +28,7 @@ events:
   - src/events/summer-entertainment.md
   - src/events/team-building-entertainment.md
   - src/events/wedding-entertainment.md
+  - src/events/exhibition-games.md
 options:
   - name: 1 Day
     max_quantity: 10
