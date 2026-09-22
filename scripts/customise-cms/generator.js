@@ -126,6 +126,36 @@ export const generatePagesYaml = (config) => {
   const dataPath = getDataPath(hasSrcFolder);
   const imagesPath = hasSrcFolder ? "src/images" : "images";
 
+  /**
+   * Media sources: images are the default upload target; the "protected"
+   * source feeds the file field on password-protected pages. Files there
+   * are encrypted at build time and are never copied to the output as-is.
+   */
+  const media = [
+    {
+      name: "images",
+      label: "Images",
+      input: imagesPath,
+      output: "/images",
+      path: imagesPath,
+      categories: ["image"],
+      rename: true,
+    },
+    ...(config.features.protected_documents
+      ? [
+          {
+            name: "protected",
+            label: "Protected documents",
+            input: hasSrcFolder ? "src/protected-assets" : "protected-assets",
+            output: "/protected-assets",
+            path: hasSrcFolder ? "src/protected-assets" : "protected-assets",
+            categories: ["image", "document", "compressed"],
+            rename: true,
+          },
+        ]
+      : []),
+  ];
+
   // Build content array, conditionally including homepage
   const contentArray = [
     ...collectionConfigs,
@@ -142,13 +172,7 @@ export const generatePagesYaml = (config) => {
   const contentWithRefs = applyComponentRefs(contentArray);
 
   const pagesConfig = {
-    media: {
-      input: imagesPath,
-      output: "/images",
-      path: imagesPath,
-      categories: ["image"],
-      rename: true,
-    },
+    media,
     settings: {
       hide: true,
       content: {

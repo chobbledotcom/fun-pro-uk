@@ -73,6 +73,23 @@ export const COMMON_FIELDS = {
     label: "Venue page (show on parent location)",
   },
   no_index: { name: "no_index", type: "boolean", label: "Hide from listings" },
+  protected: {
+    name: "protected",
+    type: "boolean",
+    label: "Password-protect this page",
+  },
+  password_env: {
+    name: "passwordEnv",
+    type: "string",
+    label: "Password env var override (optional)",
+  },
+  protected_documents: {
+    name: "protected_documents",
+    label: "Protected files (shown after unlock)",
+    type: "file",
+    list: true,
+    options: { media: "protected" },
+  },
 };
 
 /**

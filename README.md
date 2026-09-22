@@ -38,3 +38,11 @@ Notes:
 - To protect pages with different passwords, set `passwordEnv: "OTHER_SECRET_NAME"` in the front matter and add that secret to the workflow. Document assets use the default `PROTECTED_PAGES_PASSWORD`, so they can be unlocked from any page using the default password.
 - The page's `<title>`/social preview stays public — keep it bland — and the page is marked `noindex` so search engines ignore it.
 - Limitations to keep in mind: visitors need a modern browser and JavaScript; the password derives the decryption key, so it's as strong as the password; and anybody who legitimately unlocks a file can share it.
+
+### Editing protected pages through the CMS
+
+The Pages CMS (`.pages.yml`) supports this out of the box:
+
+- Pages in the CMS gain a **"Password-protect this page"** toggle, an optional **password env override**, and a **"Protected files"** upload list (files go into `src/protected-assets/` via the named `protected` media source).
+- Any `protected_documents` entries are rendered automatically — as encrypted download links below the page text — so editors never have to touch the `{% protectedAsset %}` shortcode (that shortcode still works for hand-authored markdown).
+- The password is normalised (trimmed + lowercased) on both the build and in the browser, so typed capitalisation/spacing doesn't matter, and the gate input is a visible text field.

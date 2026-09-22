@@ -180,6 +180,49 @@ describe("generatePagesYaml feature flags", () => {
     expect(yaml).toContain("name: permalink");
     expect(yaml).toContain("name: redirect_from");
   });
+
+  test("pages include protected document fields when the feature is enabled", () => {
+    const yaml = generatePagesYaml(
+      createTestConfig({
+        features: { no_index: true, protected_documents: true },
+      }),
+    );
+    const pagesSection = getSection("pages")(yaml);
+
+    expect(pagesSection).toContain("name: protected");
+    expect(pagesSection).toContain("name: passwordEnv");
+    expect(pagesSection).toContain("name: protected_documents");
+    expect(pagesSection).toContain("media: protected");
+  });
+
+  test("protected pages get a named media source with document categories", () => {
+    const yaml = generatePagesYaml(
+      createTestConfig({ features: { protected_documents: true } }),
+    );
+    const parsed = YAML.parse(yaml);
+    const sources = parsed.media.map((source) => source.name);
+
+    expect(sources).toContain("images");
+    expect(sources).toContain("protected");
+    const protectedSource = parsed.media.find(
+      (source) => source.name === "protected",
+    );
+    expect(protectedSource.input).toBe("src/protected-assets");
+  });
+
+  test("protected document fields and media source are excluded when disabled", () => {
+    const yaml = generatePagesYaml(
+      createTestConfig({
+        features: { no_index: true, protected_documents: false },
+      }),
+    );
+    const pagesSection = getSection("pages")(yaml);
+    const parsed = YAML.parse(yaml);
+
+    expect(pagesSection).not.toContain("name: protected");
+    expect(pagesSection).not.toContain("name: protected_documents");
+    expect(parsed.media.map((source) => source.name)).toEqual(["images"]);
+  });
 });
 
 describe("generatePagesYaml reference fields", () => {

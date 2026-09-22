@@ -1,10 +1,22 @@
 media:
-  input: src/images
-  output: /images
-  path: src/images
-  categories:
-    - image
-  rename: true
+  - name: images
+    label: Images
+    input: src/images
+    output: /images
+    path: src/images
+    categories:
+      - image
+    rename: true
+  - name: protected
+    label: Protected documents
+    input: src/protected-assets
+    output: /protected-assets
+    path: src/protected-assets
+    categories:
+      - image
+      - document
+      - compressed
+    rename: true
 settings:
   hide: true
   content:
@@ -788,6 +800,9 @@ content:
           - { name: order, type: number }
       - { name: layout, type: string }
       - { name: no_index, type: boolean, label: Hide from listings }
+      - { name: protected, type: boolean, label: Password-protect this page }
+      - { name: passwordEnv, type: string, label: Password env var override (optional) }
+      - { name: protected_documents, label: Protected files (shown after unlock), type: file, list: true, options: { media: protected } }
       - { name: videos, component: videos }
       - name: blocks
         label: Content Blocks

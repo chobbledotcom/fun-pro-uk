@@ -6,4 +6,12 @@ layout: base
   {%- include "design-system/blocks.html", blocks: blocks -%}
 {%- endif -%}
 {{ content }}
+{%- if protected and protected_documents and protected_documents != empty -%}
+  <ul class="protected-documents">
+    {%- for doc in protected_documents -%}
+      {%- assign protected_doc_name = doc | split: "/" | last -%}
+      <li>{% protectedAsset protected_doc_name, protected_doc_name %}</li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
 {%- include "faq.html" -%}

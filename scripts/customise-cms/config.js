@@ -25,6 +25,7 @@ import { map, unique } from "#toolkit/fp/array.js";
  * @property {boolean} event_locations_and_dates - Enable locations and dates for events
  * @property {boolean} use_visual_editor - Use rich-text visual editor instead of markdown code editor
  * @property {boolean} no_index - Enable hiding pages/news from listings
+ * @property {boolean} protected_documents - Enable password-protected pages with encrypted document downloads
  * @property {boolean} parent_categories - Enable parent/child category hierarchy
  * @property {boolean} keywords - Enable search keywords on products and categories
  * @property {boolean} videos - Enable YouTube video embeds on pages
@@ -128,6 +129,7 @@ export const createDefaultConfig = () => ({
     event_locations_and_dates: true,
     use_visual_editor: false,
     no_index: true,
+    protected_documents: true,
     keywords: true,
     parent_categories: true,
     videos: true,
