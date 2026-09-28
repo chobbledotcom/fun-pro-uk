@@ -136,7 +136,7 @@ add_ons:
     event. (One time use only)
   options:
     - name: Front and side panels
-      price: 195
+      price: 245
     - name: 10 Branded Batons
       price: 150
 tabs:
