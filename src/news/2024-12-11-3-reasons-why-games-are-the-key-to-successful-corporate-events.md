@@ -41,7 +41,7 @@ Team building events are corporate events that are meant to bring colleagues tog
 
 And the good news is that there are plenty of games that encourage collaboration, camaraderie, and teamwork.
 
-Our interactive entertainment options bring a fun and relaxed twist to corporate events. Popular activities like Batak Pro, [Scalextric Slot Car Racing](/products), and [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone) are just a few examples of games that create friendly competition. There’s nothing quite like the sound of each team cheering on their players as they work together to reach high scores and celebrate victories.
+Our [interactive entertainment options](https://www.funprouk.co.uk/categories/interactive-game-hire/) bring a fun and relaxed twist to corporate events. Popular activities like Batak Pro, [Scalextric Slot Car Racing](/products), and [Mega Wire](/products/mega-wire-branded-game-hire-stand-alone) are just a few examples of games that create friendly competition. There’s nothing quite like the sound of each team cheering on their players as they work together to reach high scores and celebrate victories.
 
 These activities create natural opportunities for colleagues to step outside their usual workplace dynamics and connect on a different level.
 
