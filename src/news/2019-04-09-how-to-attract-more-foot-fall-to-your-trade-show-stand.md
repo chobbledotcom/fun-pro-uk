@@ -1,20 +1,22 @@
 ---
-title: "How To Attract More Foot Fall To Your Trade Show Stand"
-subtitle: "Arranging a new product launch in a car showroom or trade stand entertainment for an expo? Hiring interactive games will..."
+title: How To Attract More Foot Fall To Your Trade Show Stand
+subtitle: Arranging a new product launch in a car showroom or trade stand
+  entertainment for an expo? Hiring interactive games will...
 date: 2019-04-09
-author: "team/liz.md"
-meta_title: "Attract Foot Traffic To Your Trade Show | Fun Pro UK"
-meta_description: "How to attract more visitors to your trade show stand. Tips on using interactive games, branded activities and eye-catching displays."
+author: team/liz.md
+meta_title: Attract Foot Traffic To Your Trade Show | Fun Pro UK
+meta_description: How to attract more visitors to your trade show stand. Tips on
+  using interactive games, branded activities and eye-catching displays.
 redirect_from:
-  - "/news/2019-04-09/how-to-attract-more-foot-fall-to-your-trade-show-stand/"
+  - /news/2019-04-09/how-to-attract-more-foot-fall-to-your-trade-show-stand/
 gallery:
-  - "/images/news/busy-expo.jpg"
-thumbnail: "/images/news/busy-expo.jpg"
+  - /images/news/busy-expo.jpg
+thumbnail: /images/news/busy-expo.jpg
+no_index: false
 ---
-
 ## How To Attract More Foot Fall To Your Trade Show Stand
 
-Arranging a new product launch in a car showroom or trade stand entertainment for an expo? Hiring interactive games will increase footfall & attract new clients for your business.
+Arranging a new product launch in a car showroom or trade stand entertainment for an expo? Hiring [interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/) will increase footfall & attract new clients for your business.
 
 Walking around a busy Trade Show or Expo with a sea of stands trying to grab your attention isn't much fun, is it? It can be even worse if the exhibitors are staring at their phones and not engaging with passing potential clients. We know as we have been to many ourselves! Here are a few tips to remember when planning your stand:
 
@@ -22,10 +24,10 @@ Walking around a busy Trade Show or Expo with a sea of stands trying to grab you
 
 A worthy Trade Show Stand will have been planned and thought about well before the day. You need to think about:![busy expo stand](/images/news/busy-expo.jpg)
 
-*   How you can tell your story about your brand
-*   Ensure your name can be clearly seen
-*   Make your visitors feel at home - be welcoming and friendly
-*   Offer a memorable experience linked to your business
+- How you can tell your story about your brand
+- Ensure your name can be clearly seen
+- Make your visitors feel at home - be welcoming and friendly
+- Offer a memorable experience linked to your business
 
 **Why Not Stand Out from The Norm?**
 
