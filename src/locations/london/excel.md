@@ -1,13 +1,14 @@
 ---
-title: "ExCeL Game Hire"
+title: ExCeL Game Hire
 venue: true
-meta_title: "ExCeL London Exhibition Game Hire | Branded Entertainment"
-meta_description: "The ExCeL in London is one of the UK&#39;s top exhibition centres, and we&#39;re thrilled to be able to provide the best in branded entertainment to your stand!"
+meta_title: ExCeL London Exhibition Game Hire | Branded Entertainment
+meta_description: The ExCeL in London is one of the UK&#39;s top exhibition
+  centres, and we&#39;re thrilled to be able to provide the best in branded
+  entertainment to your stand!
 redirect_from:
-  - "/pages/excel-london/"
+  - /pages/excel-london/
 thumbnail: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-1.jpg
 ---
-
 # Excel London Game Hire
 
 The Excel London, is conveniently situated only ten minutes away from Canary Wharf and only twenty minutes from the City of London.
@@ -18,7 +19,7 @@ Fun Pro Uk are conveniently located to deliver directly to your stand at the Lon
 
 ## Which game hire for your event?
 
-With such a huge range of [interactive game hire]() for London and the surrounding areas it can be a task to choose which would be best for your event. This is where the fun experts at Fun Pro Uk can help. Our choice of game hire is designed to help increase footfall to your stand, maximising your potential and increasing opportunities for you to engage with new clients.
+With such a huge range of [interactive game hire](https://www.funprouk.co.uk/categories/interactive-game-hire/) for London and the surrounding areas it can be a task to choose which would be best for your event. This is where the fun experts at Fun Pro Uk can help. Our choice of game hire is designed to help increase footfall to your stand, maximising your potential and increasing opportunities for you to engage with new clients.
 
 Our most popular exhibition stand games to hire are Batax Pro, Strike a light, Crack the Code along with many others. Many games are 1 player games whereby a prize can be given for the winner at the end of your event.
 
