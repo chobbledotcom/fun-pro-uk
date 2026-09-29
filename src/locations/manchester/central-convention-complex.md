@@ -1,13 +1,14 @@
 ---
-title: "Central Convention Complex"
+title: Central Convention Complex
 venue: true
-meta_title: "Manchester Central Convention Complex | Exhibition Stand Hire"
-meta_description: "If you&#39;re showcasing at Manchester Central, choose Fun Pro UK for branded games and other exhibition hire favourites! Book your spot now with our experts."
+meta_title: Manchester Central Convention Complex
+meta_description: If you&#39;re showcasing at Manchester Central, choose Fun Pro
+  UK for branded games and other exhibition hire favourites! Book your spot now
+  with our experts.
 redirect_from:
-  - "/pages/manchester-central-convention-complex/"
-thumbnail: "/images/locations/1.jpg"
+  - /pages/manchester-central-convention-complex/
+thumbnail: /images/locations/1.jpg
 ---
-
 # Manchester Central Convention Complex
 
 If you are hosting an Event, Conference or Trade Show our **[Interactive Game Hire](/categories/exhibition-games)** at **Manchester G-Mex** Complex will ensure to increase footfall and marketing potential to your clients.
@@ -19,12 +20,14 @@ The [Manchester Central Convention Complex](https://www.manchestercentral.co.uk/
 The delivery team will arrive at a time to suite you and set up your chosen Trade Show game ready for your promotional event. Once your event has come to an end our friendly reliable team will return to break down the equipment leaving you with nothing to do!
 
 ## Game Hire
+
 Here at Fun Pro UK we supply a whole host of game hire to **Manchester** Central. Whether you are searching for a [Cash Grabber - Grab a grand/ Ball Nado game](/products/ballnado-grabber) as seen on the Crystal Maze television show. Or maybe you are thinking of increasing your footfall by hiring one of our Giant Buzz Wire games, our games are heaps of fun and guarantee to engage the crowd who will be well and truly flocking to your stand.
 
 ![Giant Buzz wire](/images/locations/1.jpg)
 
 ## Branded Game Hire
-**Branded game hire Manchester** is another option that we are able to supply for you. All of our interactive game hire will instantly stand out from the crowd and increase your marketing potential with your company logo brightly printed on the games for all to see.
+
+**Branded game hire Manchester** is another option that we are able to supply for you. All of our [interactive game](https://www.funprouk.co.uk/categories/interactive-game-hire/) hire will instantly stand out from the crowd and increase your marketing potential with your company logo brightly printed on the games for all to see.
 
 Contact us today to find out how we can help you. Tel: 0247 7220 701 or Email: [info@funprouk.co.uk](mailto:info@funprouk.co.uk)
 
