@@ -44,7 +44,7 @@ Don't forget about partners and children if they're invited. Family-friendly opt
 
 ![](/images/news/reindeer-roll-n-bowl.jpg)
 
-Modern interactive games are particularly popular at Christmas parties because they feel fresh and exciting. Racing simulators let colleagues compete in virtual motorsport, whilst dance machines get people moving and laughing together. These high-tech options often become the talking point of the entire evening.
+Modern [interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/) are particularly popular at Christmas parties because they feel fresh and exciting. Racing simulators let colleagues compete in virtual motorsport, whilst dance machines get people moving and laughing together. These high-tech options often become the talking point of the entire evening.
 
 Reaction games like [Reindeer Roll n Bowl](/products/roll-and-bowl-reindeer-racing-game-hire) are brilliant for creating short, sharp competitions that don't require long commitments. People can jump in and out as they please, making them perfect for parties where mingling is important.
 
