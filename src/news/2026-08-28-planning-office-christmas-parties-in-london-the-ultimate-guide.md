@@ -177,7 +177,7 @@ Last trains, night tube coverage and cab availability on peak December nights ar
 
 ## Making Sure Everyone Actually Enjoys It
 
-A London office is usually a mix of departments, ages, cultures and personalities who rarely interact during the working day. Plenty of office Christmas parties in London default to a format built around a bar and a set menu, which works well for some of those people and not at all for others.
+A London office is usually a mix of departments, ages, cultures and personalities who rarely interact during the working day. Plenty of office Christmas parties in London default to a format built around a bar and a set menu, which works well for some of those people and not at all for others, so it pays to look at a wider range of [work Christmas party ideas](https://www.funprouk.co.uk/news/its-never-too-early-to-think-about-christmas-parties/) before you commit.
 
 A few things are worth thinking about early:
 
