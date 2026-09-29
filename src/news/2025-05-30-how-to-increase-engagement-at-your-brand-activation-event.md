@@ -33,7 +33,7 @@ Engaged visitors are also more likely to stick around, share their experience on
 
 ![](/images/news/baylis-and-harding-game.jpg)
 
-One of the most effective ways to boost engagement is by using interactive games. Games create energy, spark conversations, and give people a reason to spend more time at your stand or space.
+One of the most effective ways to boost engagement is by using [interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/). Games create energy, spark conversations, and give people a reason to spend more time at your stand or space.
 
 Popular options include:
 
