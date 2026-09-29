@@ -74,7 +74,7 @@ If your office has a larger team, consider setting up game stations with differe
 
 ### How Far in Advance Should We Plan and Organise the Games?
 
-It’s always best to start planning your office Christmas party games as early as possible. Here’s a general timeline to follow:
+It's always best to start planning your office Christmas party games as early as possible, ideally as part of your wider [Christmas party planning](https://www.funprouk.co.uk/news/its-never-too-early-to-think-about-christmas-parties/). Here’s a general timeline to follow:
 
 - **2-3 months in advance:** Begin deciding on the games you’d like to include and take note of any customisation needs (such as branding). Start contacting game rental providers like Fun Pro UK to secure your games.
 - **1-2 months in advance:** Finalise your booking with Fun Pro UK and confirm the logistics of delivery and setup. You should also start gathering any additional materials you might need, such as prizes or props.
