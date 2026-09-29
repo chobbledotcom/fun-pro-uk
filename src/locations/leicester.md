@@ -20,12 +20,14 @@ blocks:
       around half an hour up the M69, and that proximity makes a practical
       difference: lower delivery costs, and the flexibility to respond quickly
       when event plans shift at short notice. Our Leicester event game hire
-      covers interactive games, photo booths and branded exhibition games. We
-      supply, deliver, set up and collect at your chosen venue across Leicester
-      and the wider East Midlands, from city centre hotels and the Cultural
-      Quarter to stadium conference suites, corporate offices and university
-      campuses. To be clear on how we work, we don't hire out venues; we bring
-      the entertainment to wherever your event is being held.
+      covers [interactive
+      games](https://www.funprouk.co.uk/categories/interactive-game-hire/),
+      photo booths and branded exhibition games. We supply, deliver, set up and
+      collect at your chosen venue across Leicester and the wider East Midlands,
+      from city centre hotels and the Cultural Quarter to stadium conference
+      suites, corporate offices and university campuses. To be clear on how we
+      work, we don't hire out venues; we bring the entertainment to wherever
+      your event is being held.
 
 
       Leicester gives us plenty to work with. The city has a deep base of
@@ -40,7 +42,6 @@ blocks:
       staff fun day, every booking includes delivery, setup, on-site support and
       collection as standard.
 
-        
   - type: items-array
     dark: false
     items:
@@ -60,15 +61,11 @@ blocks:
 
       Finally, for ++[exhibitions and brand activations](https://www.funprouk.co.uk/categories/branded-exhibition-games/)++, we handle full custom branding on games in-house. Design, print and application all happen under one roof, which keeps lead times and quality in our control rather than a third party's. If you're planning a larger corporate booking, our ++[Leicester corporate event hire](https://www.funprouk.co.uk/locations/leicester/corporate-event-hire/)++ page covers the corporate side in more depth.
 
-        
     horizontal: false
     masonry: false
   - type: items
     dark: false
     collection: venues
-    filter:
-      property: data.parentLocation
-      equals: leicester
     intro_content: >-
       ## **Leicester Venues We Know Well**
 
@@ -130,6 +127,9 @@ blocks:
       and we'll talk through what works in the space.
     horizontal: false
     masonry: false
+    filter:
+      property: data.parentLocation
+      equals: leicester
   - type: items-array
     dark: false
     items:
@@ -232,4 +232,5 @@ faqs:
       Leicestershire, including Loughborough, Hinckley, Market Harborough,
       Coalville and Melton Mowbray. If you're unsure whether we reach your
       location, just ask.
+venue: false
 ---
