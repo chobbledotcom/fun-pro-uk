@@ -52,7 +52,7 @@ subtitle: " If you have been to a trade show, a corporate fun day, or a busy
 
 But what actually is a Batak game, how does it work, and why does it draw such a reaction wherever it appears? This guide walks you through everything you need to know, from the gameplay and the science behind it to the practical things worth considering if you are thinking about bringing one to your own event.
 
-A quick note before we start: "Batak" is a word with a few unrelated meanings, including an Indonesian community and a traditional card game. In this guide, we are talking about the interactive reaction game, sometimes called a reaction wall or reaction trainer.
+A quick note before we start: "Batak" is a word with a few unrelated meanings, including an Indonesian community and a traditional card game. In this guide, we are talking about the [interactive reaction game](https://www.funprouk.co.uk/categories/interactive-game-hire/), sometimes called a reaction wall or reaction trainer.
 
 ## **What is a Batak game?**
 
