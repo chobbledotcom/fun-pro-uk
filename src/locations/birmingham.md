@@ -11,16 +11,18 @@ thumbnail: /images/locations/birmingham.png
 layout: location
 blocks:
   - type: markdown
+    dark: false
     content: >-
       # Event Game Hire in Birmingham
 
 
       Birmingham is one of the UK's busiest cities for [corporate
       events](https://www.funprouk.co.uk/events/corporate-events/), exhibitions,
-      and conferences, and Fun Pro delivers interactive game hire across the
-      city throughout the year. Based in Coventry, we're less than 30 minutes
-      from most Birmingham venues, which keeps logistics straightforward and
-      costs down. Every booking includes
+      and conferences, and Fun Pro delivers [interactive game
+      hire](https://www.funprouk.co.uk/categories/interactive-game-hire/) across
+      the city throughout the year. Based in Coventry, we're less than 30
+      minutes from most Birmingham venues, which keeps logistics straightforward
+      and costs down. Every booking includes
       [delivery](https://www.funprouk.co.uk/locations/), setup, and collection
       as standard, so there's one less thing on your plate when the day arrives.
 
@@ -33,6 +35,19 @@ blocks:
       experience the event. We're here to help you work out what that looks like
       for your specific audience and venue.
   - type: items-array
+    dark: false
+    items:
+      - locations/birmingham/batak-pro-hire.md
+      - locations/birmingham/batak-lite-hire.md
+      - locations/birmingham/ballnado-hire.md
+      - locations/birmingham/prize-crane-hire.md
+      - locations/birmingham/crack-the-code-hire.md
+      - locations/birmingham/magic-mirror-hire.md
+      - locations/birmingham/mega-wire-hire.md
+      - locations/birmingham/plinko-hire.md
+      - locations/birmingham/strike-a-light-danger-zone-hire.md
+      - locations/birmingham/roll-and-bowl-hire.md
+      - locations/birmingham/whack-a-mole-hire.md
     intro_content: |-
       ## Games We Deliver to Birmingham Events
 
@@ -49,23 +64,11 @@ blocks:
       [Photo booths and magic mirrors](https://www.funprouk.co.uk/categories/photo-booths-and-magic-mirrors) are a consistent choice for award ceremonies, Christmas parties, and branded events. They give guests something to gather around, produce content people actually want to share, and can be customised with your event branding.
 
       For smaller group settings, networking evenings, or office entertainment,[pub games](https://www.funprouk.co.uk/categories/pub-games/) such as [shuffleboard](https://www.funprouk.co.uk/products/shuffleboard-hire/) create a relaxed atmosphere that encourages conversation without requiring much physical effort or competitive instinct.
-    items:
-      - locations/birmingham/batak-pro-hire.md
-      - locations/birmingham/batak-lite-hire.md
-      - locations/birmingham/ballnado-hire.md
-      - locations/birmingham/prize-crane-hire.md
-      - locations/birmingham/crack-the-code-hire.md
-      - locations/birmingham/magic-mirror-hire.md
-      - locations/birmingham/mega-wire-hire.md
-      - locations/birmingham/plinko-hire.md
-      - locations/birmingham/strike-a-light-danger-zone-hire.md
-      - locations/birmingham/roll-and-bowl-hire.md
-      - locations/birmingham/whack-a-mole-hire.md
+    horizontal: false
+    masonry: false
   - type: items
+    dark: false
     collection: venues
-    filter:
-      property: data.parentLocation
-      equals: birmingham
     intro_content: |-
       ## Birmingham Venues We Know Well
 
@@ -86,7 +89,18 @@ blocks:
       ### Other Venues Across Birmingham
 
       Fun Pro UK also delivers regularly to hotels, offices, university venues, including Aston University, Birmingham City University, and the University of Birmingham, as well as outdoor event sites and community spaces across the wider West Midlands. If your venue isn't listed here, [get in touch](https://www.funprouk.co.uk/contact-fun-pro-uk/) and the team can advise on what's possible.
+    horizontal: false
+    masonry: false
+    filter:
+      property: data.parentLocation
+      equals: birmingham
   - type: items-array
+    dark: false
+    items:
+      - locations/birmingham/corporate-event-hire.md
+      - locations/birmingham/conference-and-event-hire.md
+      - locations/birmingham/christmas-game-hire.md
+      - locations/birmingham/brand-promotional-event-hire.md
     intro_content: >-
       ## Planning Game Hire for a Birmingham Corporate Event
 
@@ -129,12 +143,10 @@ blocks:
       company's presence at an exhibition or activation, and because we handle
       design and print in-house, you're dealing with one team from start to
       finish. Lead time is needed, so the sooner you raise it, the better.
-    items:
-      - locations/birmingham/corporate-event-hire.md
-      - locations/birmingham/conference-and-event-hire.md
-      - locations/birmingham/christmas-game-hire.md
-      - locations/birmingham/brand-promotional-event-hire.md
+    horizontal: false
+    masonry: false
   - type: section-header
+    dark: false
     intro: |-
       ## Why Birmingham Businesses Work with Fun Pro UK
 
@@ -178,4 +190,5 @@ faqs:
     answer: "Yes. As well as Birmingham city centre and the NEC, we regularly
       deliver to venues in Solihull, Wolverhampton, Dudley, Walsall, Sutton
       Coldfield, and throughout the West "
+venue: false
 ---
