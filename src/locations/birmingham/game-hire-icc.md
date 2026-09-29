@@ -1,13 +1,14 @@
 ---
-title: "ICC Game Hire"
+title: ICC Game Hire
 venue: true
-meta_title: "ICC Birmingham Exhibition Hire | Branded Games | Event Rentals"
-meta_description: "Are you showcasing your products and services at the ICC Birmingham? Choose us for branded exhibition stand entertainment! Huge range of activities."
+meta_title: ICC Birmingham Exhibition Hire | Branded Games
+meta_description: Are you showcasing your products and services at the ICC
+  Birmingham? Choose us for branded exhibition stand entertainment! Huge range
+  of activities.
 redirect_from:
-  - "/pages/game-hire-icc-birmingham/"
-thumbnail: "/images/locations/homepage-header.jpg"
+  - /pages/game-hire-icc-birmingham/
+thumbnail: /images/locations/homepage-header.jpg
 ---
-
 # ICC Birmingham
 
 ![Game Hire At The ICC](/images/locations/homepage-header.jpg)
@@ -18,7 +19,7 @@ With the ICC being situated within **Birmingham town centre**, our company who a
 
 The fun games provided by Fun Pro Uk are a fabulous addition to any [corporate event](/locations/birmingham/corporate-event-hire), trade show stalls or [exhibition stands]() along with award ceremonies for Birmingham and the surrounding area. You will be amazed that by bringing interactive games to your event stand that this will dramatically increase foot fall and enquiries to your business.
 
-When you engage with your new clients you will begin to build a brand new relationship. This is so important to build trust between you and a new client. To help break down initial contact barriers our interactive games such as Strike a Light or Crack the Code Game will entice your prospective clients to interact in a more relaxed fun environment offering a tremendous opportunity to sell your business.
+When you engage with your new clients you will begin to build a brand new relationship. This is so important to build trust between you and a new client. To help break down initial contact barriers our [interactive games](https://www.funprouk.co.uk/categories/interactive-game-hire/) such as Strike a Light or Crack the Code Game will entice your prospective clients to interact in a more relaxed fun environment offering a tremendous opportunity to sell your business.
 
 Fun Pro Uk have an array of games to hire for your stand at the ICC, Birmingham. Our fun experts will be on hand from start to finish - delivering your game hire ready for your event. Once your day is complete we will return to de-rig. Alternatively, out staff are available to remain and supervise the game for the duration of your event.
 
