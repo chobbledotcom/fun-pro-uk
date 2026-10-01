@@ -3,7 +3,7 @@ title: Leader Board Hire
 subtitle: Leaderboard add-on for competitive game hire
 price: £75
 order: 21
-meta_title: Leaderboard Hire | Competitive Interactive Games | Fun Pro UK
+meta_title: Leaderboard Hire | Interactive Games | Fun Pro UK
 meta_description: Hire a leader board to add that extra competitive element to
   your interactive games! Like all our products, leaderboards can be hired
   nationwide.
@@ -73,7 +73,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 75
+    unit_price: 90
     days: 1
 redirect_from:
   - /category/interactive-game-hire/30/leader-board/
@@ -108,8 +108,10 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Fully Branded Leader Board
+    - name: Single side branding - Magnetised side
       price: 135
+    - name: Double sided branding- only one side magnetise
+      price: 195
 tabs:
   - title: Why LEADER BOARD?
     image: /images/products/leader-board/leader-board-13.jpg
