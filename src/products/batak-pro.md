@@ -1,9 +1,9 @@
 ---
 title: Batak Pro Hire
 subtitle: Advanced reaction-speed target game
-price: £495
+price: £525
 order: 5
-meta_title: Batak Pro Game Hire | Corporate Engagement | Interactive Game
+meta_title: Batak Pro Game Hire | Corporate Games | Interactive Game
 meta_description: Hire Batak Pro for Corporate events, conferences &amp;
   parties. Engage guests with this high-energy reaction game. Book now for a
   fun, competitive experience!
@@ -139,10 +139,12 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Branded back panels
+    - name: Branded back panel
       price: 195
     - name: 12 x Branded Button Surrounds
       price: 175
+    - name: "Fully branded - back panel and 12 x button surrounds "
+      price: 370
 tabs:
   - title: Why Batak Pro?
     image: /images/products/batak-pro/batak-pro-14.jpg
