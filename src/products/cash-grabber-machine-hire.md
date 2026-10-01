@@ -136,9 +136,9 @@ add_ons:
       price: 175
     - name: Header Branding panels
       price: 175
-    - name: Fully Branded
+    - name: Fully Branded- Front half door panel, back full length panel, header panel
       price: 495
-    - name: Branded Notes
+    - name: 200 x branded notes
       price: 150
 tabs:
   - title: Why Cash Grabber Machine?
