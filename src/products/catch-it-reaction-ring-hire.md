@@ -136,9 +136,11 @@ add_ons:
     event. (One time use only)
   options:
     - name: Front and side panels
-      price: 245
+      price: 250
     - name: 10 Branded Batons
       price: 150
+    - name: Full branding (Front and side panels and catch it batons x 10)
+      price: 400
 tabs:
   - title: Why Catch it Reaction Ring Hire?
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg
