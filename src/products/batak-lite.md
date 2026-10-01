@@ -76,19 +76,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 445
+    unit_price: 492
     days: 1
   - name: 2 Day
     max_quantity: 10
-    unit_price: 745
+    unit_price: 795
     days: 2
   - name: 3 Day
     max_quantity: 10
-    unit_price: 945
+    unit_price: 995
     days: 3
   - name: 7 Day
     max_quantity: 10
-    unit_price: 1445
+    unit_price: 1495
     days: 7
 redirect_from:
   - /category/exhibition-games/61/batak-lite/
