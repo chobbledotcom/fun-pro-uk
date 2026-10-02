@@ -49,7 +49,7 @@ options:
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1725
+    unit_price: 1825
     days: 7
 features:
   - Delivery and collection prices will apply
@@ -251,12 +251,12 @@ add_ons:
     ## Boxing Machine Branding and Customisation Options
 
   options:
-    - name: Full Branding (Sides, Front, Top)
-      price: 495
     - name: Front Only
       price: 295
     - name: "Sides Only "
       price: 195
     - name: Top Only
       price: 195
+    - name: Full Branding - Front, Side and Top panel
+      price: 495
 ---
