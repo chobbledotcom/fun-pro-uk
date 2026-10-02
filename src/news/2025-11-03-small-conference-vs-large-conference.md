@@ -1,17 +1,20 @@
 ---
-title: "Small Conference vs. Large Conference"
-subtitle: "Are you planning a conference? One of the most important decisions you'll make is selecting the right entertainment to keep..."
+title: Small Conference vs. Large Conference
+subtitle: Are you planning a conference? One of the most important decisions
+  you'll make is selecting the right entertainment to keep...
 date: 2025-11-03
-author: "team/liz.md"
+author: team/liz.md
 meta_title: "Small vs Large Conference Game Hire: Expert Planning Guide"
-meta_description: "Learn how to choose the right interactive games for your conference size. Expert advice on space, budget, and engagement for 20-500+ attendees."
+meta_description: Learn how to choose the right interactive games for your
+  conference size. Expert advice on space, budget, and engagement for 20-500+
+  attendees.
 redirect_from:
-  - "/news/2025-11-03/small-conference-vs-large-conference/"
+  - /news/2025-11-03/small-conference-vs-large-conference/
 gallery:
-  - "/images/news/group-of-professional-people-celebrating.jpg"
-thumbnail: "/images/news/group-of-professional-people-celebrating.jpg"
+  - /images/news/group-of-professional-people-celebrating.jpg
+thumbnail: /images/news/group-of-professional-people-celebrating.jpg
+no_index: false
 ---
-
 ## Small Conference vs. Large Conference: How to Choose the Right Interactive Entertainment
 
 ![](/images/news/group-of-professional-people-celebrating.jpg)
@@ -114,13 +117,13 @@ Small conferences often work with tighter per-person budgets. When you're planni
 
 Large conferences can leverage economies of scale. Whilst your absolute entertainment budget is higher, the per-person cost often becomes more manageable as attendee numbers increase. This allows you to create the variety and impact that large conferences demand without the per-person costs becoming prohibitive.
 
-When planning your budget, consider what's included in the hire cost. With [Fun Pro](/about-corporate-entertainment-hire), delivery, professional setup, and collection\* are included as part of our [nationwide service](/delivery-areas). There are no surprise costs for installation or equipment testing. This comprehensive approach helps you budget accurately.
+When planning your budget, consider what's included in the hire cost. With [Fun Pro](/about-corporate-entertainment-hire), delivery, professional setup, and collection are included as part of our [nationwide service](/delivery-areas). There are no surprise costs for installation or equipment testing. This comprehensive approach helps you budget accurately.
 
 It's worth thinking about entertainment as an investment rather than simply a cost. Interactive games serve multiple purposes: they're ice-breakers, networking facilitators, energy boosters, and memory makers. When attendees leave your conference talking about their experiences, when they've made genuine connections with colleagues; that's the return on your entertainment investment.
 
 Early booking often provides advantages. Planning ahead gives you the best selection of games for your dates and allows time to discuss your specific requirements with our team.
 
-\* Delivery, setup and collection may incur additional costs depending on your location and the final cost will always be shared with you when providing a quote.
+ Delivery, setup and collection may incur additional costs depending on your location and the final cost will always be shared with you when providing a quote.
 
 ## Logistics and Setup: What Event Planners Need to Know
 
@@ -136,7 +139,7 @@ Power requirements for small conference setups are usually straightforward. Most
 
 ### Delivery and Setup for Large Conference Venues
 
-Large conference logistics require more extensive coordination, particularly at major venues like convention centres. These locations often have specific protocols for deliveries, loading bay access, and equipment installation that we navigate regularly.
+Large conference logistics require more extensive coordination, particularly at major venues like convention centres, or The King's Centre and the Kassam if you're booking [event game hire in Oxford](https://www.funprouk.co.uk/locations/oxford/). These locations often have specific protocols for deliveries, loading bay access, and equipment installation that we navigate regularly.
 
 Setup for large conferences typically requires extended time—often 3 to 4 hours for 6 to 10+ games, and sometimes day-before installation for very large events. This ensures everything's positioned correctly, tested thoroughly, and ready to create the impact you need.
 
@@ -165,18 +168,23 @@ Early planning gives you the best outcomes. Reach out 4 to 8 weeks before your c
 ## Frequently Asked Questions
 
 ### How many interactive games should I hire for a conference of 150 people?
+
 For a conference of 150 attendees, we typically recommend 4 to 6 interactive games. This provides variety without overcrowding your venue and ensures attendees don't face long waits. The exact number depends on your event duration; a 2-hour networking session needs fewer games than a full-day conference with multiple breaks.
 
 ### What's the minimum space requirement for conference game hire?
+
 Space requirements vary by game type. Compact games like reaction walls need approximately 2m x 2m, whilst racing simulators require around 3m x 3m including space for players and spectators. For small conferences, you can create excellent engagement with as little as 20 square metres dedicated to interactive entertainment. We always recommend sharing your floor plan with us so we can advise on the best layout.
 
 ### Do you deliver and set up equipment for conferences across the UK?
+
 Yes, Fun Pro provides [nationwide delivery](/delivery-areas), professional setup, and collection across the UK. With over 15 years of experience as corporate event specialists, we handle everything from our Coventry base to venues throughout England, Wales, and Scotland. Setup times are coordinated with your venue to ensure everything's ready before your attendees arrive.
 
 ### Are interactive games suitable for formal corporate conferences?
+
 Absolutely. Interactive games work brilliantly at formal conferences by providing natural ice-breakers and networking opportunities. They help colleagues see each other in a different light and create memorable moments that people discuss long after the event. We understand how to provide professional entertainment that enhances rather than detracts from your conference objectives.
 
 ### How far in advance should I book conference entertainment?
+
 For the best choice of games and guaranteed availability, we recommend booking 4 to 8 weeks before your conference. However, we can often accommodate bookings with shorter notice. Early planning gives you time to discuss your specific requirements with our team and ensures we can recommend the perfect mix of games for your conference size and goals.
 
 Can you cater for attendees with different abilities at conferences?
