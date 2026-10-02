@@ -76,7 +76,7 @@ options:
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 823
+    unit_price: 825
     days: 2
   - name: 3 Days
     max_quantity: 10
@@ -145,6 +145,8 @@ add_ons:
       price: 175
     - name: "Fully branded - back panel and 12 x button surrounds "
       price: 370
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Batak Pro?
     image: /images/products/batak-pro/batak-pro-14.jpg
