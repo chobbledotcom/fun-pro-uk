@@ -106,6 +106,10 @@ add_ons:
       price: 175
     - name: Branded Plinth
       price: 245
+    - name: Fully Branded - Top panel and plinth
+      price: 420
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Candy Cane Snatch it?
     image: /images/products/candy-cane-snatch-it/candy-cane-snatch-it-1.jpg
