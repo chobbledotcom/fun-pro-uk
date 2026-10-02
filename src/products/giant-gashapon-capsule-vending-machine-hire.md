@@ -50,7 +50,7 @@ options:
     days: 7
 add_ons:
   options:
-    - name: Text only logo - to Globe
+    - name: Text only logo on globe
       price: 195
     - name: Text only Logo on base x 2
       price: 295
