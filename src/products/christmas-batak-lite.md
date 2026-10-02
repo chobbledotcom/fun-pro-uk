@@ -105,6 +105,8 @@ add_ons:
       price: 125
     - name: "Fully branded - back panel and 8x button surrounds "
       price: 270
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Christmas Batak Lite?
     image: /images/products/christmas-batak-lite/christmas-batak-lite-12.jpg
