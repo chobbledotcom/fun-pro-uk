@@ -1,7 +1,7 @@
 ---
 title: Whack A Mole game hire
 subtitle: Classic arcade whack-a-mole target game
-price: £495
+price: £525
 order: 13
 meta_title: Whack A Mole Game Hire – Game Hire Service| Fun Pro UK
 meta_description: Whack A Mole Game Hire – Game Hire Service| Fun Pro UK is one
@@ -75,19 +75,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 495
+    unit_price: 525
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 825
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 995
+    unit_price: 1025
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1345
+    unit_price: 1525
     days: 7
 redirect_from:
   - /category/arcade-games/67/whack-a-mole-game-hire/
