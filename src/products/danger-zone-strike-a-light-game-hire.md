@@ -71,7 +71,7 @@ options:
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1346
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/arcade-games/63/danger-zone-strike-a-light-game-hire/
@@ -185,19 +185,23 @@ faqs:
     answer: Mains power is required for the lighting and scoring systems.
 thumbnail: /images/IMG-20250407-WA0007.jpg
 add_ons:
-  intro: >+
-    ### **Branded Strike a light Game hire**
+  intro: >
+    **Branded Strike a light Game hire**
 
 
-    ### Create a visually striking and memorable brand identity for a
+    *Create a visually striking and memorable brand identity for a
     Strike-a-Light game that attracts attention, drives engagement, and
-    reinforces brand recall in busy exhibition environments.
+    reinforces brand recall in busy exhibition environments.*
 
+
+    **Please note all branding is prouduced for one time use only**
   options:
-    - name: "Full Branding to the front, Sides and playing field "
-      price: 450
     - name: Playing field
       price: 185
     - name: Branded Plinth
       price: 275
+    - name: Full Branding - front, Sides and playing field panels
+      price: 450
+    - name: Add a single sided branded leader board
+      price: 135
 ---
