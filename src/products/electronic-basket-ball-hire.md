@@ -201,4 +201,23 @@ faqs:
   - question: Do you handle setup?
     answer: Yes, we handle delivery, setup, and collection. Setup takes
       approximately 15-20 minutes, and everything is included in the hire price.
+add_ons:
+  intro: >-
+    ## Basketball Table Branding and Customisation Options
+
+
+    Make the Basketball game a powerful marketing tool with full customisation
+    options, including your brand logo, corporate colours, or event-specific
+    designs. Personalising the game creates a memorable experience for guests
+    while boosting brand visibility and keeping your business at the heart of
+    the action.
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
+  options:
+    - name: Add a single sided branded leader board
+      price: 135
 ---
