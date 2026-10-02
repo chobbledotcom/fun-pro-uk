@@ -148,11 +148,13 @@ add_ons:
       price: 175
     - name: Header Branding panels
       price: 175
+    - name: Coloured sponge balls x100
+      price: 150
     - name: " Fully Branded- Front half door panel, back full length panel, header
         panel"
       price: 495
-    - name: Coloured sponge balls x100
-      price: 100
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Ballnado Grabber?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-1.jpg
