@@ -259,4 +259,6 @@ add_ons:
       price: 195
     - name: Full Branding - Front, Side and Top panel
       price: 495
+    - name: Add a single sided branded leader board
+      price: 135
 ---
