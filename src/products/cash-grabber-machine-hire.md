@@ -140,6 +140,8 @@ add_ons:
       price: 495
     - name: 200 x branded notes
       price: 150
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Cash Grabber Machine?
     image: /images/products/cash-grabber-machine-hire/cash-grabber-machine-hire-18.jpg
