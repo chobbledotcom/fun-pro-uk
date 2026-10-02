@@ -1,19 +1,45 @@
 ---
-title: "Protected Demo"
-meta_title: "Protected Documents (Demo)"
-meta_description: "A private demo page. Text and files here are locked with a password."
+title: Protected Demo
+meta_title: Protected Documents
+meta_description: A private demo page. Text and files here are locked with a password.
 layout: page
 protected: true
 no_index: true
 protected_documents:
   - demo.jpg
+eleventyNavigation:
+  order: 0
 ---
+# Event Safety & Compliance Documentation
 
-# Private documents
+This secure page has been created specifically for customers who have completed their booking with us and require access to our health, safety and compliance documentation.
 
-This page is private. The files on it are locked with a password.
+**Your password was shared with you upon completion of your booking form.** 
 
-Type the password below to open them. You won't need to type it again
-on private pages.
+If you do not have the password, or are unable to access this page, please contact the Fun Pro UK team and we will be happy to assist.
 
-Don't have the password? Please contact us.
+As part of our commitment to providing safe, professional and well-managed entertainment, we maintain a comprehensive range of health, safety and compliance documentation for the services and equipment we provide.
+
+This secure page contains the relevant documentation for your booking, including:
+
+### Public Liability Insurance
+
+Our current Public Liability Insurance Certificate is available below for your records.
+
+### Risk Assessments
+
+Our Risk Assessments identify potential hazards associated with our activities and equipment, together with the control measures we have in place to reduce and manage those risks.
+
+### Method Statements
+
+Our Method Statements outline how our activities and equipment will be delivered, operated and managed safely and in accordance with our established procedures.
+
+### PAT Testing Certificates
+
+Where applicable, Portable Appliance Testing (PAT) certificates are provided for relevant electrical equipment used as part of our services.
+
+### Important Information
+
+The documents provided on this page relate to Fun Pro UK and the services included within your booking. Please ensure that you refer to the most recent version of each document where multiple documents or certificates are provided.
+
+If you require any additional documentation, have a specific compliance requirement, or need information relating to a particular aspect of your booking, please contact our team and we will be happy to assist.
