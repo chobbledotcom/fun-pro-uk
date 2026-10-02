@@ -50,10 +50,10 @@ options:
     days: 7
 add_ons:
   options:
-    - name: "Full Wrap "
-      price: 495
-    - name: Branding with Logo
+    - name: Text only logo - to Globe
       price: 195
+    - name: Text only Logo on base x 2
+      price: 295
     - name: Add a Branded capsule Bin
       price: 195
   intro: >-
