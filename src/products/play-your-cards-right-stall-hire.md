@@ -1,9 +1,9 @@
 ---
 title: Play Your Cards Right Stall Hire
 subtitle: Classic higher-or-lower card game stall
-price: £450
+price: £495
 order: 71
-meta_title: Play Your Cards Right Stall Hire | Fun & Interactive Game for UK Event
+meta_title: Play Your Cards Right Stall Hire | Fairground game hire
 meta_description: Hire a Play Your Cards Right stall for your next event.
   Perfect for corporate events, fairs, and parties. Nationwide delivery &amp;
   setup available. Book today.
@@ -51,7 +51,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
