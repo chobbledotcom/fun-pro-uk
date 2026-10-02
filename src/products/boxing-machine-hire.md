@@ -247,9 +247,22 @@ thumbnail: /images/products/Boxer/untitled-design-24-1.png
 gallery:
   - /images/products/Boxer/untitled-design-24-1.png
 add_ons:
-  intro: |+
-    ## Boxing Machine Branding and Customisation Options
+  intro: >-
+    ## Boxing Machine Branding and Customisation Options
 
+
+    Make the Boxing Machine a powerful marketing tool with full customisation
+    options, including your brand logo, corporate colours, or event-specific
+    designs. Personalising the machine creates a memorable experience for guests
+    while boosting brand visibility and keeping your business at the heart of
+    the action.
+
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
   options:
     - name: Front Only
       price: 295
