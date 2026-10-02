@@ -103,8 +103,10 @@ add_ons:
       price: 110
     - name: Branded front panels
       price: 220
-    - name: Branded sides & front Panel
+    - name: Full Branding - Branded sides and front Panel
       price: 330
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Dance Machine?
     image: /images/products/dance-machine/dance-machine-6.jpg
