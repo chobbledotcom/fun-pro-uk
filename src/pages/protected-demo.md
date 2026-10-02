@@ -1,12 +1,13 @@
 ---
 title: Protected Demo
-meta_title: Protected Documents
-meta_description: A private demo page. Text and files here are locked with a password.
+meta_title: Event Safety & Compliance Documentation
+meta_description: Text and files here are locked with a password.
 layout: page
 protected: true
 no_index: true
 protected_documents:
   - demo.jpg
+  - /protected-assets/2026-air-hockey-risk-assessment.pdf
 eleventyNavigation:
   order: 0
 ---
