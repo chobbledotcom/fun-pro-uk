@@ -121,7 +121,7 @@ specs:
   - name: Game Length
     value: Continuous
   - name: Transport Flight case Dimensions
-    value: W=900mm x H=110mm x D=1860mm
+    value: W=900mm x H=1100mm x D=1860mm
 tabs:
   - title: Why Gashapon Capsule Machine | Fun Prize Dispenser for Events
     body: The Gashapon Dispenser is a fun, interactive capsule-toy machine that lets
