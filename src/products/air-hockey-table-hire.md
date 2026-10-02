@@ -211,4 +211,6 @@ add_ons:
   options:
     - name: Branded skirt
       price: 295
+    - name: Add a single sided branded leader board
+      price: 135
 ---
