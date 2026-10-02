@@ -1,7 +1,7 @@
 ---
 title: Candy Cane Megawire Hire
 subtitle: Festive steady-hand wire loop game
-price: £445
+price: £545
 order: 74
 meta_title: Hire Christmas Candy Cane Mega Wire | Fun Pro UK
 meta_description: Bring excitement to your Christmas event with the Candy Cane
@@ -49,19 +49,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 445
+    unit_price: 545
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 825
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 745
+    unit_price: 1025
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1525
     days: 7
 redirect_from:
   - /category/christmas-games/90/candy-cane-megawire/
@@ -98,8 +98,12 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Branded panel front and Back
+    - name: Branded panel - one side
       price: 145
+    - name: Branded Panel - double sided
+      price: 200
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Candy Cane Megawire?
     image: /images/products/candy-cane-megawire/candy-cane-megawire-3.jpg
