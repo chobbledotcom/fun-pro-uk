@@ -1,7 +1,7 @@
 ---
 title: Mega Wire Hire
 subtitle: Branded steady-hand wire loop game for exhibitions
-price: £450
+price: £495
 order: 15
 meta_title: Mega wire hire Uk
 meta_description: Contact fun pro UK today to book your next event.
@@ -67,19 +67,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 705
+    unit_price: 795
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 860
+    unit_price: 995
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1295
+    unit_price: 1495
     days: 7
 redirect_from:
   - /products/mega-wire/
@@ -114,8 +114,10 @@ add_ons:
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
   options:
-    - name: Branded panel front and Back
+    - name: "Branded base panel - one side "
       price: 145
+    - name: Branded base panel - double sided
+      price: 200
 tabs:
   - title: Why Mega Wire - Branded Game Hire (stand alone)?
     image: /images/products/mega-wire-branded-game-hire-stand-alone/mega-wire-branded-game-hire-stand-alone-11.jpg
