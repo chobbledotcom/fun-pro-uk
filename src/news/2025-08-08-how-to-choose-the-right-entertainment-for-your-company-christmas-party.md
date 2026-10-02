@@ -143,7 +143,7 @@ Look for entertainment hire companies with specific experience in corporate Chri
 
 Understand exactly what's included in your hire package. Professional services should include delivery, setup, operation support, and collection. Clarify what happens if equipment develops problems during your event.
 
-At Fun Pro UK, we provide nationwide delivery coverage including London, Manchester, Birmingham, [Leicester](https://www.funprouk.co.uk/locations/leicester/), and across the UK. Our experienced team handles everything from consultation to cleanup, ensuring your Christmas party entertainment runs smoothly.
+At Fun Pro UK, we provide nationwide delivery coverage including London, Manchester, Birmingham, Leicester, and across the UK, with [Oxford game hire](https://www.funprouk.co.uk/locations/oxford/) covering city centre Christmas party venues such as Oxford Town Hall. Our experienced team handles everything from consultation to cleanup, ensuring your Christmas party entertainment runs smoothly.
 
 Consider companies that offer [custom branding](/events/brand-activation) options for their entertainment. Branded games and activities can enhance your company's visibility whilst providing professional-looking entertainment that reflects well on your organisation.
 
