@@ -1,7 +1,7 @@
 ---
 title: Plinko Game Hire
 subtitle: Disc-drop peg board game with prize slots
-price: £395
+price: £450
 order: 25
 meta_title: Plinko Game Hire – Interactive Entertainment | Fun Pro UK
 meta_description: Plinko Game Hire – Interactive Entertainment | Fun Pro UK is
@@ -62,19 +62,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 450
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 645
+    unit_price: 725
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 825
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1345
     days: 7
 redirect_from:
   - /category/arcade-games/68/plinko-game-hire/
@@ -109,6 +109,8 @@ add_ons:
       price: 125
     - name: Branded Discs
       price: 50
+    - name: Full branding - Branded back panel and 5 x Branded Discs
+      price: 190
 tabs:
   - title: Why Plinko Game Hire?
     image: /images/products/plinko-game-hire/plinko-game-hire-9.jpg
