@@ -192,4 +192,7 @@ add_ons:
 
     In-house branding available. We print, apply, and remove them after each
     event. (One time use only)
+  options:
+    - name: Add a single sided branded leader board
+      price: 135
 ---
