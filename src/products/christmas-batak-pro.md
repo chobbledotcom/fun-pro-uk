@@ -1,7 +1,7 @@
 ---
 title: Christmas Batak Pro Hire
 subtitle: Festive-themed Batak Pro reaction game
-price: £545
+price: £595
 order: 80
 meta_title: Christmas Batak Pro Hire | Festive Games | Fun Pro UK
 meta_description: Christmas Batak Pro is one of the wide range of products
@@ -48,18 +48,6 @@ options:
     max_quantity: 10
     unit_price: 545
     days: 1
-  - name: 2 Days
-    max_quantity: 10
-    unit_price: 795
-    days: 2
-  - name: 3 Days
-    max_quantity: 10
-    unit_price: 995
-    days: 3
-  - name: 7 Days
-    max_quantity: 10
-    unit_price: 1495
-    days: 7
 redirect_from:
   - /category/christmas-game-hire/108/christmas-batak-pro/
 gallery:
@@ -171,4 +159,28 @@ tabs:
 videos:
   - id: https://player.vimeo.com/video/858450355
     title: Batak Pro
+add_ons:
+  intro: >-
+    **Batak Pro Branding and Customisation Options**
+
+
+    Make Batak Pro a powerful marketing tool with full customisation options,
+    including your brand logo, corporate colours, or event-specific designs.
+    Personalising the game ensures a memorable experience for your guests while
+    reinforcing your brand presence.
+
+
+    *Branding Prices From*
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
+  options:
+    - name: Branded back panel
+      price: 195
+    - name: 12 x Branded Button Surrounds
+      price: 175
+    - name: Fully branded - back panel and 12 x button surrounds
+      price: 270
+    - name: Add a single sided branded leader board
+      price: 135
 ---
