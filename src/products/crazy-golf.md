@@ -175,4 +175,21 @@ faqs:
     answer: Typically no, though some special features may require power. We'll
       confirm based on your configuration.
 thumbnail: /images/products/crazy-golf/Alibaba16298659_original (1).jpg
+add_ons:
+  intro: >
+    ## Crazy Golf Branding and Customisation Options
+
+
+    Make 9-Hole Crazy LED Golf a powerful marketing tool with full customisation
+    options, including your brand logo, corporate colours, or event-specific
+    designs. Personalising the course creates a memorable and engaging
+    experience for guests while boosting brand visibility and keeping your
+    business at the heart of the action.
+
+
+    ### Branding Prices From
+
+
+    In-house branding available. We print, apply, and remove them after each
+    event. (One time use only)
 ---
