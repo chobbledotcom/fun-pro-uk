@@ -1,6 +1,6 @@
 ---
 title: Batak Lite Hire
-subtitle: Reaction-speed target game with scoring
+subtitle: Reaction - speed target game with scoring
 price: £495
 order: 4
 meta_title: Batak Lite Game Hire | Interactive Game
@@ -76,7 +76,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 492
+    unit_price: 495
     days: 1
   - name: 2 Day
     max_quantity: 10
@@ -129,6 +129,8 @@ add_ons:
       price: 145
     - name: "Fully branded - back panel and 8x button surrounds "
       price: 320
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Batak Lite?
     body: >-
