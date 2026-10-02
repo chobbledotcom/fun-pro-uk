@@ -55,7 +55,7 @@ add_ons:
     - name: Text only Logo on base x 2
       price: 295
     - name: Full branding - Text only logo on globe x 1 and Text only Logo on base x 2
-      price: 290
+      price: 490
     - name: Add a Branded capsule Bin
       price: 195
   intro: >-
