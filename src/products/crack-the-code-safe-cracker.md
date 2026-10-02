@@ -1,7 +1,7 @@
 ---
 title: Crack The Code safe cracker Hire
 subtitle: Puzzle game where players crack a safe combination
-price: £450
+price: £495
 order: 24
 meta_title: Hire Crack The Code, Safecracker Code Game For Hire, UK
 meta_description: Hire our crack the code game and win a prize! This safe
@@ -59,19 +59,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 395
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 791
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 795
+    unit_price: 995
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1195
+    unit_price: 1495
     days: 7
 redirect_from:
   - /category/exhibition-games/37/crack-the-code-safe-cracker/
