@@ -141,6 +141,8 @@ add_ons:
       price: 150
     - name: Full branding - Front and side panels and catch it batons x 10
       price: 400
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Catch it Reaction Ring Hire?
     image: /images/products/catch-it-reaction-ring-hire/catch-it-reaction-ring-hire-10.jpg
