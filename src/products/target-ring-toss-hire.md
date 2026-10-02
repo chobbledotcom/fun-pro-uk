@@ -1,7 +1,7 @@
 ---
 title: Target Ring Toss Hire
 subtitle: Traditional fairground ring toss stall
-price: £450
+price: £495
 order: 69
 meta_title: Target Ring Toss Hire | Fun & Interactive Game for UK Events
 meta_description: Hire a Target Ring Toss game for your next event! Perfect for
@@ -67,7 +67,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/fun-fair-stalls/95/target-ring-toss-hire/
