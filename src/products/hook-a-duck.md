@@ -1,9 +1,9 @@
 ---
 title: Hook A Duck Hire
 subtitle: Traditional fairground duck-hooking stall
-price: £450
+price: £495
 order: 68
-meta_title: Hook A Duck - Exhibition and Game Hire in Nationwide | Fun Pro UK
+meta_title: Hook A Duck | Fairground game hire Fun Pro UK
 meta_description: Hook A Duck is one of the wide range of products available
   from Fun Pro UK events experts. Contact us today!
 categories:
@@ -57,7 +57,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/fun-fair-stalls/103/hook-a-duck/
