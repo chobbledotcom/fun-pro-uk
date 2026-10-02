@@ -1,7 +1,7 @@
 ---
 title: Gold Cup Horse Racing Hire
 subtitle: Mechanical horse racing game with rolling balls
-price: £450
+price: £495
 order: 41
 meta_title: Hire Gold Cup Horse Racing Game, Horse Racing Simulator Hire
 meta_description: Book the Gold Cup horse race simulator for your events,
@@ -71,19 +71,19 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
   - name: 2 Days
     max_quantity: 10
-    unit_price: 695
+    unit_price: 793
     days: 2
   - name: 3 Days
     max_quantity: 10
-    unit_price: 895
+    unit_price: 995
     days: 3
   - name: 7 Days
     max_quantity: 10
-    unit_price: 1295
+    unit_price: 1495
     days: 7
 redirect_from:
   - /category/arcade-games/29/gold-cup-horse-racing/
@@ -220,4 +220,6 @@ add_ons:
       price: 195
     - name: "Branded Back Panel "
       price: 245
+    - name: Full Branding - Branded Skirt and back Panel
+      price: 440
 ---
