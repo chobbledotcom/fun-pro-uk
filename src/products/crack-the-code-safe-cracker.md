@@ -118,7 +118,7 @@ add_ons:
   options:
     - name: Branded front panels
       price: 95
-    - name: Branded all sides
+    - name: Full Branding - Branded all sides
       price: 195
 tabs:
   - title: Why Crack The Code safe cracker?
