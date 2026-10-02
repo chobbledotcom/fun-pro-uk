@@ -148,7 +148,8 @@ add_ons:
       price: 175
     - name: Header Branding panels
       price: 175
-    - name: Fully Branded
+    - name: " Fully Branded- Front half door panel, back full length panel, header
+        panel"
       price: 495
     - name: Coloured sponge balls x100
       price: 100
