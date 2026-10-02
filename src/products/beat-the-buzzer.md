@@ -122,6 +122,8 @@ add_ons:
       price: 95
     - name: Full Branding - Sides of body and back panel
       price: 240
+    - name: Add a single sided branded leader board
+      price: 135
 tabs:
   - title: Why Beat The Buzzer?
     image: /images/products/beat-the-buzzer/beat-the-buzzer-4.jpg
