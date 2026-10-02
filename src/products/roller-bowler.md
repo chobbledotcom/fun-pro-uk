@@ -216,12 +216,11 @@ add_ons:
 
     **Please note:** Branding is produced for one-time use only.
   options:
-    - name: Replacement Sticker top
-      price: 85
-    - name: "Branded header panel "
-      price: 48
-    - name: Branded base side panels x 2
-      price: 204
-    - name: Branded front base panel
-      price: 75
+    - name: Playing Field and header panel
+      price: 175
+    - name: 2 sides of base panel and front panel
+      price: 275
+    - name: Full branding - Playing Field, header panel, 2 sides of base panel and
+        front panel
+      price: 450
 ---
