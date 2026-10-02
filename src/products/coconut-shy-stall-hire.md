@@ -51,7 +51,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 450
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/fun-fair-stalls/96/coconut-shy-stall-hire/
