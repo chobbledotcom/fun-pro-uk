@@ -192,7 +192,7 @@ tabs:
       packdown and collection, leaving you free to focus on your guests.
 faqs:
   - question: What does the Leader Board do?
-    answer: The Leader Board is a digital display that tracks and shows scores from
+    answer: The Leader Board is a display that you can track and shows scores from
       various games throughout your event. It creates ongoing competition and
       encourages repeat participation as guests compete for top positions.
   - question: Which games does it work with?
@@ -200,7 +200,8 @@ faqs:
       provide. We'll discuss compatible options and setup when you enquire about
       your event.
   - question: Does it need power?
-    answer: Yes, the Leader Board requires mains power for the digital display.
+    answer: No, No power required. This is a magnetic leader board, we provide 10 X
+      magnetic strips, a whiteboard pen and eraser!
   - question: Can prizes be awarded based on the Leader Board?
     answer: Absolutely. Many clients use the Leader Board to run event-wide
       competitions with prizes for top performers. It provides clear, visible
