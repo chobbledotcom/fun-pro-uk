@@ -30,4 +30,9 @@ const getCategoryOrder = (configOrder) =>
 const selectListItemFields = (configFields) =>
   resolveConfigList(configFields, DEFAULT_LIST_ITEM_FIELDS);
 
-export { getCategoryOrder, selectListItemFields };
+export {
+  DEFAULT_CATEGORY_ORDER,
+  DEFAULT_LIST_ITEM_FIELDS,
+  getCategoryOrder,
+  selectListItemFields,
+};

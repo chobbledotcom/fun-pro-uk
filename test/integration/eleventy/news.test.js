@@ -123,7 +123,9 @@ describe("news", () => {
       newsPostFile("with-author-image", "Post With Author and Image", {
         author: "jane-doe",
       }),
-      teamMember("jane-doe", "Jane Doe", { thumbnail: "placeholders/blue.svg" }),
+      teamMember("jane-doe", "Jane Doe", {
+        thumbnail: "placeholders/blue.svg",
+      }),
 
       // Post with author but no image
       newsPostFile("with-author-no-image", "Post With Author No Image", {

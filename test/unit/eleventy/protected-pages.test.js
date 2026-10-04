@@ -1,9 +1,9 @@
 import { describe, expect, test } from "bun:test";
-import { webcrypto } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import {
   buildProtectedAssetLink,
+  buildProtectedDocumentsHtml,
   configureProtectedPages,
   createAssetEncryptionHook,
   createProtectedTransform,
@@ -13,41 +13,29 @@ import {
   writeEncryptedAssets,
 } from "#eleventy/protected-pages.js";
 import {
+  PROTECTED_TEST_ITERATIONS,
+  PROTECTED_TEST_LABELS,
+  PROTECTED_TEST_SALT,
+} from "#test/protected-pages-fixtures.js";
+import {
   createMockEleventyConfig,
   createTempDir,
   expectAsyncThrows,
   withTempDirAsync,
   wrapHtml,
 } from "#test/test-utils.js";
-import {
-  decryptWithKey,
-  deriveAesGcmKey,
-  getRandomBytes,
-  parsePayload,
-} from "#utils/protected-crypto.js";
+import { decryptPayload, parsePayload } from "#utils/protected-crypto.js";
 
-if (!globalThis.crypto?.subtle) {
-  Object.defineProperty(globalThis, "crypto", {
-    value: webcrypto,
-    configurable: true,
-  });
-}
-
-const SALT = getRandomBytes(16);
-const ITERATIONS = 1000;
-const LABELS = {
-  heading: "Staff area",
-  label: "Password",
-  submit: "Open",
-  loading: "Opening…",
-  error: "Wrong password",
-};
+const SALT = PROTECTED_TEST_SALT;
+const ITERATIONS = PROTECTED_TEST_ITERATIONS;
+const LABELS = PROTECTED_TEST_LABELS;
 
 /**
  * Set environment variables for the duration of `run` (sync or async),
- * restoring the previous values afterwards without try/catch.
+ * restoring the previous values afterwards. Always returns a promise; sync
+ * callers are wrapped by the tests that consume the returned value.
  */
-const withEnv = (values, run) => {
+const withEnv = async (values, run) => {
   const keys = Object.keys(values);
   const previous = keys.map((key) => process.env[key]);
   for (const [key, value] of Object.entries(values)) {
@@ -64,16 +52,11 @@ const withEnv = (values, run) => {
     restore();
     return outcome;
   }
-  return outcome.then(
-    (value) => {
-      restore();
-      return value;
-    },
-    (error) => {
-      restore();
-      throw error;
-    },
-  );
+  try {
+    return await outcome;
+  } finally {
+    restore();
+  }
 };
 
 const writePage = (dir, frontMatter) => {
@@ -82,7 +65,29 @@ const writePage = (dir, frontMatter) => {
   return filePath;
 };
 
-const runTransform = (inputPath, content, env = {}) =>
+/** Create the src/protected-assets-like in/out folders used by asset tests. */
+const setupAssetDirs = (tempDir) => {
+  const assetsDir = path.join(tempDir, "in");
+  const outputDir = path.join(tempDir, "out");
+  mkdirSync(assetsDir);
+  mkdirSync(outputDir);
+  return { assetsDir, outputDir };
+};
+
+/** Assert writeEncryptedAssets rejects with an error matching `pattern`. */
+const expectAssetWriteError = async (assetsDir, outputDir, pattern) => {
+  const error = await expectAsyncThrows(() =>
+    writeEncryptedAssets({
+      assetsDir,
+      outputDir,
+      salt: SALT,
+      iterations: ITERATIONS,
+    }),
+  );
+  expect(error.message).toMatch(pattern);
+};
+
+const runProtectedTransform = (inputPath, content, env = {}) =>
   withEnv(env, async () => {
     const transform = createProtectedTransform({
       salt: SALT,
@@ -94,26 +99,25 @@ const runTransform = (inputPath, content, env = {}) =>
 
 describe("protected-pages", () => {
   describe("resolvePagePassword", () => {
-    test("reads the default environment variable", () => {
-      const password = withEnv(
+    test("reads the default environment variable", async () => {
+      const password = await withEnv(
         { PROTECTED_PAGES_PASSWORD: "s3cret" },
         () => resolvePagePassword(undefined, "page"),
       );
       expect(password).toBe("s3cret");
     });
 
-    test("normalises the environment password (trimmed, lowercased)", () => {
-      const password = withEnv(
-        { PROTECTED_PAGES_PASSWORD: "  FuNpRo_Docs  " },
+    test("normalises the environment password (trimmed, lowercased)", async () => {
+      const password = await withEnv(
+        { PROTECTED_PAGES_PASSWORD: "  FuNPro_Docs  " },
         () => resolvePagePassword(undefined, "page"),
       );
       expect(password).toBe("funpro_docs");
     });
 
-    test("prefers the passwordEnv front matter override", () => {
-      const password = withEnv(
-        { RAMS_PASSWORD: "rams s3cret" },
-        () => resolvePagePassword("RAMS_PASSWORD", "page"),
+    test("prefers the passwordEnv front matter override", async () => {
+      const password = await withEnv({ RAMS_PASSWORD: "rams s3cret" }, () =>
+        resolvePagePassword("RAMS_PASSWORD", "page"),
       );
       expect(password).toBe("rams s3cret");
     });
@@ -139,7 +143,7 @@ describe("protected-pages", () => {
         const content = wrapHtml(
           '<article id="content"><p>Plain page</p></article>',
         );
-        const result = await runTransform(inputPath, content, {
+        const result = await runProtectedTransform(inputPath, content, {
           PROTECTED_PAGES_PASSWORD: "s3cret",
         });
         expect(result).toBe(content);
@@ -152,7 +156,7 @@ describe("protected-pages", () => {
         const content = wrapHtml(
           '<article id="content"><h1>Site RAMS</h1><p>Confidential</p></article>',
         );
-        const result = await runTransform(inputPath, content, {
+        const result = await runProtectedTransform(inputPath, content, {
           PROTECTED_PAGES_PASSWORD: "s3cret",
         });
 
@@ -163,6 +167,24 @@ describe("protected-pages", () => {
       });
     });
 
+    test("renders protected_intro front matter on the gate", async () => {
+      await withTempDirAsync("protected-intro", async (dir) => {
+        const inputPath = writePage(
+          dir,
+          'protected: true\nprotected_intro: "Enter the password we sent you"',
+        );
+        const result = await runProtectedTransform(
+          inputPath,
+          wrapHtml('<article id="content"><p>Confidential</p></article>'),
+          { PROTECTED_PAGES_PASSWORD: "s3cret" },
+        );
+
+        expect(result).toContain("Enter the password we sent you");
+        expect(result).toContain("protected-intro");
+        expect(result).not.toContain("Confidential");
+      });
+    });
+
     test("fails fast when the page-specific password env is missing", async () => {
       await withTempDirAsync("protected-override", async (dir) => {
         const inputPath = writePage(
@@ -170,7 +192,7 @@ describe("protected-pages", () => {
           'protected: true\npasswordEnv: "RAMS_PASSWORD"',
         );
         const attempt = () =>
-          runTransform(
+          runProtectedTransform(
             inputPath,
             wrapHtml('<article id="content"><p>x</p></article>'),
             { PROTECTED_PAGES_PASSWORD: "default" },
@@ -250,6 +272,88 @@ describe("protected-pages", () => {
     });
   });
 
+  describe("buildProtectedDocumentsHtml", () => {
+    test("renders legacy string entries as a flat download list", () => {
+      const html = buildProtectedDocumentsHtml([
+        "demo.jpg",
+        "/protected-assets/2026-air-hockey-risk-assessment.pdf",
+      ]);
+
+      expect(html).toContain('<div class="protected-documents">');
+      expect(html).not.toContain("<h3>");
+      expect(html).toContain('data-protected-asset="demo.jpg"');
+      expect(html).toContain(
+        'data-protected-asset="2026-air-hockey-risk-assessment.pdf"',
+      );
+      expect(html).toContain(">demo.jpg</a>");
+    });
+
+    test("shows titles as link text and groups shared sections", () => {
+      const html = buildProtectedDocumentsHtml([
+        {
+          file: "/protected-assets/air-hockey-risk-assessment.pdf",
+          title: "Risk assessment",
+          section: "Air hockey",
+        },
+        {
+          file: "/protected-assets/air-hockey-pat.pdf",
+          title: "PAT testing certificate",
+          section: "Air hockey",
+        },
+        { file: "insurance.pdf", title: "Insurance certificate" },
+      ]);
+
+      expect(html.match(/<h3>/g)).toEqual(["<h3>"]);
+      expect(html).toContain("<h3>Air hockey</h3>");
+      expect(html).toContain(">Risk assessment</a>");
+      expect(html).toContain(">PAT testing certificate</a>");
+      expect(html).not.toContain("air-hockey-risk-assessment.pdf</a>");
+      expect(html).toContain(">Insurance certificate</a>");
+      expect(html.indexOf("Air hockey")).toBeLessThan(
+        html.indexOf("Insurance certificate"),
+      );
+    });
+
+    test("escapes section headings and titles", () => {
+      const html = buildProtectedDocumentsHtml([
+        { file: "a.pdf", title: "<b>&file</b>", section: "<i>Game</i>" },
+      ]);
+      expect(html).toContain("<h3>&lt;i&gt;Game&lt;/i&gt;</h3>");
+      expect(html).toContain("&lt;b&gt;&amp;file&lt;/b&gt;");
+    });
+
+    test("rejects entries without a usable file", () => {
+      const attempts = [
+        () => buildProtectedDocumentsHtml([{ title: "No file" }]),
+        () => buildProtectedDocumentsHtml([{ file: "" }]),
+        () => buildProtectedDocumentsHtml([{ file: 7, title: "x" }]),
+        () => buildProtectedDocumentsHtml([{ file: ".hidden.pdf" }]),
+        () => buildProtectedDocumentsHtml([{ file: "a\\b.pdf" }]),
+      ];
+      for (const attempt of attempts) {
+        expect(attempt).toThrow();
+      }
+    });
+
+    test("rejects non-string titles and sections", () => {
+      expect(() =>
+        buildProtectedDocumentsHtml([{ file: "a.pdf", title: 7 }]),
+      ).toThrow(/"title" must be text/);
+      expect(() =>
+        buildProtectedDocumentsHtml([{ file: "a.pdf", section: true }]),
+      ).toThrow(/"section" must be text/);
+    });
+
+    test("rejects input that is not a non-empty list", () => {
+      expect(() => buildProtectedDocumentsHtml("demo.jpg")).toThrow(
+        /protectedDocuments/,
+      );
+      expect(() => buildProtectedDocumentsHtml([])).toThrow(
+        /protectedDocuments/,
+      );
+    });
+  });
+
   describe("writeEncryptedAssets", () => {
     test("is a no-op when the assets directory does not exist", async () => {
       const count = await writeEncryptedAssets({
@@ -263,10 +367,7 @@ describe("protected-pages", () => {
 
     test("skips dotfiles like .gitkeep without needing a password", async () => {
       await withTempDirAsync("asset-dotfiles", async (tempDir) => {
-        const assetsDir = path.join(tempDir, "in");
-        const outputDir = path.join(tempDir, "out");
-        mkdirSync(assetsDir);
-        mkdirSync(outputDir);
+        const { assetsDir, outputDir } = setupAssetDirs(tempDir);
         writeFileSync(path.join(assetsDir, ".gitkeep"), "");
 
         const count = await writeEncryptedAssets({
@@ -285,10 +386,7 @@ describe("protected-pages", () => {
         { PROTECTED_PAGES_PASSWORD: "asset password" },
         async () => {
           await withTempDirAsync("assets-encrypt", async (tempDir) => {
-            const assetsDir = path.join(tempDir, "in");
-            const outputDir = path.join(tempDir, "out");
-            mkdirSync(assetsDir);
-            mkdirSync(outputDir);
+            const { assetsDir, outputDir } = setupAssetDirs(tempDir);
             const original = new TextEncoder().encode("RAMS document bytes");
             writeFileSync(path.join(assetsDir, "rams.pdf"), original);
 
@@ -303,12 +401,7 @@ describe("protected-pages", () => {
             const payload = parsePayload(
               readFileSync(path.join(outputDir, "rams.pdf.enc"), "utf8"),
             );
-            const key = await deriveAesGcmKey(
-              "asset password",
-              payload.salt,
-              payload.iterations,
-            );
-            const decrypted = await decryptWithKey(key, payload.iv, payload.ct);
+            const decrypted = await decryptPayload(payload, "asset password");
             expect(Array.from(decrypted)).toEqual(Array.from(original));
           });
         },
@@ -317,43 +410,27 @@ describe("protected-pages", () => {
 
     test("fails fast when the asset password environment variable is missing", async () => {
       await withTempDirAsync("assets-noenv", async (tempDir) => {
-        const assetsDir = path.join(tempDir, "in");
-        mkdirSync(assetsDir);
+        const { assetsDir, outputDir } = setupAssetDirs(tempDir);
         writeFileSync(path.join(assetsDir, "rams.pdf"), "bytes");
         delete process.env.PROTECTED_PAGES_PASSWORD;
 
-        const error = await expectAsyncThrows(() =>
-          writeEncryptedAssets({
-            assetsDir,
-            outputDir: path.join(tempDir, "out"),
-            salt: SALT,
-            iterations: ITERATIONS,
-          }),
+        await expectAssetWriteError(
+          assetsDir,
+          outputDir,
+          /PROTECTED_PAGES_PASSWORD/,
         );
-        expect(error.message).toMatch(/PROTECTED_PAGES_PASSWORD/);
       });
     });
 
     test("rejects subdirectories in the assets folder", async () => {
-      await withEnv(
-        { PROTECTED_PAGES_PASSWORD: "pw" },
-        async () => {
-          await withTempDirAsync("assets-subdir", async (tempDir) => {
-            const assetsDir = path.join(tempDir, "in");
-            mkdirSync(path.join(assetsDir, "nested"));
+      await withEnv({ PROTECTED_PAGES_PASSWORD: "pw" }, async () => {
+        await withTempDirAsync("assets-subdir", async (tempDir) => {
+          const { assetsDir, outputDir } = setupAssetDirs(tempDir);
+          mkdirSync(path.join(assetsDir, "nested"));
 
-            const error = await expectAsyncThrows(() =>
-              writeEncryptedAssets({
-                assetsDir,
-                outputDir: path.join(tempDir, "out"),
-                salt: SALT,
-                iterations: ITERATIONS,
-              }),
-            );
-            expect(error.message).toMatch(/subdirectories/);
-          });
-        },
-      );
+          await expectAssetWriteError(assetsDir, outputDir, /subdirectories/);
+        });
+      });
     });
   });
 
@@ -364,6 +441,15 @@ describe("protected-pages", () => {
 
       expect(Object.keys(mockConfig.transforms)).toContain("protectedPages");
       expect(Object.keys(mockConfig.shortcodes)).toContain("protectedAsset");
+      expect(Object.keys(mockConfig.shortcodes)).toContain(
+        "protectedDocuments",
+      );
+
+      const documents = mockConfig.shortcodes.protectedDocuments([
+        { file: "rams.pdf", title: "Download RAMS", section: "Safety" },
+      ]);
+      expect(documents).toContain("<h3>Safety</h3>");
+      expect(documents).toContain(">Download RAMS</a>");
       expect(typeof mockConfig.eventHandlers["eleventy.after"]).toBe(
         "function",
       );

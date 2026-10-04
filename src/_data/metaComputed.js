@@ -14,7 +14,9 @@ export default function () {
     ? `${siteData.url}/images/logo.png`
     : null;
 
-  const founders = metaData.organization?.founders || [];
+  const founders =
+    /** @type {{ founders?: { name: string }[] }} */ (metaData.organization)
+      ?.founders || [];
   const uniqueFounders = [
     ...new Map(founders.map((f) => [f.name, f])).values(),
   ];

@@ -329,19 +329,14 @@ import { configureImages } from "#media/image.js";
 
 ## Git Hooks
 
-Versioned hooks live in `.githooks/` (tracked in the repo, not `.git/hooks/`).
-Enable them in a fresh clone with:
+The devenv dev shell manages the commit-time hook via git-hooks.nix (prek):
+entering the shell installs/refreshes `.git/hooks/pre-commit`, which runs the
+full `bun run precommit` suite (install, lint, knip, typecheck, CPD, tests)
+before every commit. Shell entry itself skips the suite — the
+`devenv:git-hooks:run` task carries a status stub so opening a terminal never
+pays the suite cost.
 
-```bash
-git config core.hooksPath .githooks
-```
-
-| Hook | What it runs | Why |
-|------|--------------|-----|
-| `pre-commit` | `FAST_INACCURATE_BUILDS=1 bun run build` | Fast build check that aborts the commit if the site fails to build. `FAST_INACCURATE_BUILDS=1` skips slow work (real image processing, linkification) so it finishes in seconds while still catching template/data/import errors. |
-
-This is a lightweight build gate, **not** the full `bun run precommit` suite (lint
-+ typecheck + CPD + tests), which remains available to run manually.
+Run the same suite manually any time with `pc` (or `bun run precommit`).
 
 ---
 

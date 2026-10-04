@@ -2,12 +2,20 @@ import strings from "#data/strings.js";
 import { buildPermalink } from "#utils/slug-utils.js";
 
 /**
- * Look up a strings key by computed name.
- * Wraps bracket access on the typed strings object to satisfy strict typecheck.
- * @param {string} key
- * @returns {string}
+ * The merged strings object mixes flat labels with the nested
+ * protected_pages section, so bracket access is cast through unknown.
+ * @type {Record<string, string | undefined>}
  */
-const getString = (key) => /** @type {Record<string, string>} */ (strings)[key];
+const stringsByKey = /** @type {Record<string, string | undefined>} */ (
+  /** @type {unknown} */ (strings)
+);
+
+/**
+ * Look up a strings key by computed name.
+ * @param {string} key
+ * @returns {string | undefined}
+ */
+const getString = (key) => stringsByKey[key];
 
 /**
  * Factory for creating 11tydata.js exports with shared eleventyComputed shape.

@@ -90,7 +90,6 @@ describe("resolveDependencies", () => {
     expect(resolved).toContain("categories");
   });
 
-
   test("deduplicates when dependencies overlap with selections", () => {
     const resolved = resolveDependencies(["products", "categories"]);
 

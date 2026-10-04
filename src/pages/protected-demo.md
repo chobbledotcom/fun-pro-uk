@@ -5,9 +5,16 @@ meta_description: Text and files here are locked with a password.
 layout: page
 protected: true
 no_index: true
+protected_intro: |
+  This secure page holds the safety and compliance documents for your booking with Fun Pro UK.
+
+  Enter the password from your booking confirmation to unlock your documents.
 protected_documents:
-  - demo.jpg
-  - /protected-assets/2026-air-hockey-risk-assessment.pdf
+  - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
+    title: Risk assessment
+    section: Air hockey
+  - file: demo.jpg
+    title: Sample document
 eleventyNavigation:
   order: 0
 ---

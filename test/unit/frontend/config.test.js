@@ -49,6 +49,7 @@ describe("config", () => {
       "default_max_quantity",
       "search_collections",
       "linkify_urls",
+      "disable_liquid_cache",
     ];
     expect(Object.keys(DEFAULTS).sort()).toEqual(expectedKeys.sort());
   });

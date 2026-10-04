@@ -20,23 +20,23 @@
  * `PROTECTED_PAGES_PASSWORD: ${{ secrets.PROTECTED_PAGES_PASSWORD }}` in the
  * deploy workflow, and is intentionally never written to any file in _site.
  */
-import matter from "gray-matter";
+
 import {
   existsSync,
   mkdirSync,
-  readFileSync,
   readdirSync,
+  readFileSync,
   writeFileSync,
 } from "node:fs";
 import { dirname, join } from "node:path";
+import matter from "gray-matter";
 import strings from "#data/strings.js";
-import { memoize } from "#toolkit/fp/memoize.js";
+import { groupBy } from "#toolkit/fp/grouping.js";
 import { frozenSet } from "#toolkit/fp/set.js";
 import { injectGate, readGateStrings } from "#transforms/protect-content.js";
-import { ROOT_DIR, SRC_DIR } from "#lib/paths.js";
 import { loadDOM } from "#utils/lazy-dom.js";
 import {
-  deriveAesGcmKey,
+  deriveKeyCached,
   encodePayload,
   encryptWithKey,
   getRandomBytes,
@@ -107,16 +107,12 @@ export const resolvePagePassword = (passwordEnv, sourceDescription) => {
  * Must be registered after the htmlTransform so images/links are
  * processed before the content gets encrypted.
  * @param {object} options
- * @param {Uint8Array} options.salt - PBKDF2 salt shared by this build
+ * @param {Uint8Array<ArrayBuffer>} options.salt - PBKDF2 salt shared by this build
  * @param {number} options.iterations - PBKDF2 iteration count
  * @param {Record<string, string>} options.labels - Gate UI labels
  * @returns {(content: string, outputPath: string) => Promise<string>}
  */
 export const createProtectedTransform = ({ salt, iterations, labels }) => {
-  const deriveGateKey = memoize((password) =>
-    deriveAesGcmKey(password, salt, iterations),
-  );
-
   /** @param {unknown} outputPath @returns {boolean} */
   const isHtmlOutput = (outputPath) =>
     typeof outputPath === "string" && outputPath.endsWith(".html");
@@ -131,22 +127,21 @@ export const createProtectedTransform = ({ salt, iterations, labels }) => {
    */
   return async function protectPage(content, outputPath) {
     if (!isHtmlOutput(outputPath) || !content) return content;
-    const { data: frontMatter } = matter(
-      readFileSync(this.inputPath, "utf8"),
-    );
+    const { data: frontMatter } = matter(readFileSync(this.inputPath, "utf8"));
     if (frontMatter.protected !== true) return content;
 
     const password = resolvePagePassword(
       frontMatter.passwordEnv,
       `Protected page ${this.inputPath}`,
     );
-    const key = await deriveGateKey(password);
+    const key = await deriveKeyCached(password, salt, iterations);
     const dom = await loadDOM(content);
     await injectGate(dom.window.document, {
       key,
       salt,
       iterations,
       labels,
+      intro: frontMatter.protected_intro,
       inputPath: this.inputPath,
     });
     return dom.serialize();
@@ -160,7 +155,7 @@ export const createProtectedTransform = ({ salt, iterations, labels }) => {
  * @param {object} options
  * @param {string} options.assetsDir - Source directory (src/protected-assets)
  * @param {string} options.outputDir - Output directory (_site/protected-assets)
- * @param {Uint8Array} options.salt - PBKDF2 salt shared by this build
+ * @param {Uint8Array<ArrayBuffer>} options.salt - PBKDF2 salt shared by this build
  * @param {number} [options.iterations] - PBKDF2 iteration count (for tests)
  * @returns {Promise<number>} Number of encrypted files written
  */
@@ -187,7 +182,7 @@ export const writeEncryptedAssets = async ({
     undefined,
     `Protected assets in ${assetsDir}`,
   );
-  const key = await deriveAesGcmKey(password, salt, iterations);
+  const key = await deriveKeyCached(password, salt, iterations);
 
   for (const name of assetNames) {
     const assetPath = join(assetsDir, name);
@@ -263,30 +258,117 @@ export const buildProtectedAssetLink = (name, label) => {
 };
 
 /**
+ * Extract the plain file name from a `protected_documents` entry value;
+ * CMS uploads arrive as `/protected-assets/<name>` paths.
+ * @param {string} value
+ * @returns {string}
+ */
+const assetNameFromPath = (value) => value.split("/").pop();
+
+/**
+ * Read one optional string property off a `protected_documents` entry.
+ * @param {object} entry - Front matter entry with file/title/section keys
+ * @param {string} key - Property to read
+ * @param {string} sourceDescription - Entry description for error messages
+ * @returns {string} Trimmed value, or "" when absent
+ */
+const readEntryString = (entry, key, sourceDescription) => {
+  const value = entry[key];
+  if (typeof value === "undefined") return "";
+  if (typeof value !== "string") {
+    throw new Error(
+      `${sourceDescription}: "${key}" must be text, not ${typeof value}.`,
+    );
+  }
+  return value.trim();
+};
+
+/**
+ * Normalise one `protected_documents` entry: legacy entries are plain file
+ * names or media paths, while the CMS now writes objects carrying a `file`
+ * plus an optional display `title` and `section` heading.
+ * @param {unknown} entry - Front matter entry
+ * @returns {{ file: string, title: string, section: string }}
+ */
+const normaliseDocumentEntry = (entry) => {
+  if (typeof entry === "string") {
+    return { file: entry, title: "", section: "" };
+  }
+  if (typeof entry !== "object" || entry === null) {
+    throw new Error(
+      `protected_documents entries must be a file or an object with a "file" key, got ${JSON.stringify(entry)}.`,
+    );
+  }
+  const file = readEntryString(entry, "file", "protected_documents entry");
+  if (!file) {
+    throw new Error(
+      `protected_documents entries need a "file" key (the uploaded document), got ${JSON.stringify(entry)}.`,
+    );
+  }
+  return {
+    file,
+    title: readEntryString(entry, "title", "protected_documents entry"),
+    section: readEntryString(entry, "section", "protected_documents entry"),
+  };
+};
+
+/**
+ * Render the encrypted download list for a protected page's
+ * `protected_documents` front matter. Entries sharing a `section` value are
+ * grouped under one heading (e.g. a game or document type) in the order
+ * sections first appear; the `title` becomes the link text visitors see
+ * instead of the raw file name.
+ * @param {unknown} documents - `protected_documents` front matter value
+ * @returns {string}
+ */
+export const buildProtectedDocumentsHtml = (documents) => {
+  if (!Array.isArray(documents) || documents.length === 0) {
+    throw new Error(
+      "The protectedDocuments shortcode needs the protected_documents list, e.g. {% protectedDocuments protected_documents %}.",
+    );
+  }
+
+  const entries = documents.map((entry) => {
+    const { file, title, section } = normaliseDocumentEntry(entry);
+    const name = assetNameFromPath(file);
+    return {
+      section,
+      link: `<li>${buildProtectedAssetLink(name, title || name)}</li>`,
+    };
+  });
+
+  const body = [...groupBy(entries, (entry) => entry.section)]
+    .map(([section, groupEntries]) => {
+      const links = groupEntries.map(({ link }) => link).join("");
+      return `${section ? `<h3>${escapeHtml(section)}</h3>` : ""}<ul>${links}</ul>`;
+    })
+    .join("");
+  return `<div class="protected-documents">${body}</div>`;
+};
+
+/**
  * Create the post-build hook encrypting protected documents.
  * @param {object} options
  * @param {string} options.assetsDir - Source directory (src/protected-assets)
  * @param {string} options.outputDir - Output directory (_site/protected-assets)
- * @param {Uint8Array} options.salt - PBKDF2 salt shared by this build
+ * @param {Uint8Array<ArrayBuffer>} options.salt - PBKDF2 salt shared by this build
  * @param {number} options.iterations - PBKDF2 iteration count
  * @returns {() => Promise<number>} eleventy.after handler returning the file count
  */
-export const createAssetEncryptionHook = ({
-  assetsDir,
-  outputDir,
-  salt,
-  iterations,
-}) => () =>
-  writeEncryptedAssets({ assetsDir, outputDir, salt, iterations });
+export const createAssetEncryptionHook =
+  ({ assetsDir, outputDir, salt, iterations }) =>
+  () =>
+    writeEncryptedAssets({ assetsDir, outputDir, salt, iterations });
 
 /**
  * Register the password protection plugin: content transform, the
- * protectedAsset shortcode, and post-build document encryption.
+ * protectedAsset/protectedDocuments shortcodes, and post-build document
+ * encryption.
  * @param {import("@11ty/eleventy").UserConfig} eleventyConfig
  */
 export const configureProtectedPages = (eleventyConfig) => {
   const labels = readGateStrings(strings);
-  const salt = memoize(getRandomBytes)(SALT_BYTES);
+  const salt = getRandomBytes(SALT_BYTES);
   const iterations = PBKDF2_ITERATIONS;
 
   eleventyConfig.addTransform(
@@ -294,11 +376,19 @@ export const configureProtectedPages = (eleventyConfig) => {
     createProtectedTransform({ salt, iterations, labels }),
   );
   eleventyConfig.addShortcode("protectedAsset", buildProtectedAssetLink);
+  eleventyConfig.addShortcode(
+    "protectedDocuments",
+    buildProtectedDocumentsHtml,
+  );
   eleventyConfig.on(
     "eleventy.after",
     createAssetEncryptionHook({
-      assetsDir: join(SRC_DIR, PROTECTED_ASSETS_DIR),
-      outputDir: join(ROOT_DIR, "_site", PROTECTED_ASSETS_DIR),
+      // Resolved from the build's working directory (like the image
+      // pipeline) so embedded test sites build their own assets — or skip
+      // encryption entirely when they have no protected-assets folder —
+      // instead of encrypting this repository's documents.
+      assetsDir: join(process.cwd(), "src", PROTECTED_ASSETS_DIR),
+      outputDir: join(process.cwd(), "_site", PROTECTED_ASSETS_DIR),
       salt,
       iterations,
     }),

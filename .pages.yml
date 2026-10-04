@@ -800,8 +800,29 @@ content:
           - { name: order, type: number }
       - { name: layout, type: string }
       - { name: no_index, type: boolean, label: Hide from listings }
-      - { name: protected, type: boolean, label: Private page (needs a password to view) }
-      - { name: protected_documents, label: Hidden files (unlocked with the page password), type: file, list: true, options: { media: protected } }
+      - name: protected
+        type: boolean
+        label: Private page (needs a password to view)
+      - name: protected_intro
+        type: text
+        label: Password screen text (shown to everyone before unlocking)
+      - name: protected_documents
+        label: Hidden files (unlocked with the page password)
+        type: object
+        list: true
+        fields:
+          - name: file
+            type: file
+            label: File
+            required: true
+            options:
+              media: protected
+          - name: title
+            type: string
+            label: Display name (e.g. 'Risk assessment - Air hockey')
+          - name: section
+            type: string
+            label: Section heading (e.g. a game or document type)
       - { name: videos, component: videos }
       - name: blocks
         label: Content Blocks

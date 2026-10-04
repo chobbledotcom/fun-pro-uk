@@ -31,6 +31,7 @@ describe("eleventyComputed.thumbnail", () => {
     const result = eleventyComputed.thumbnail({
       tags: ["products"],
       page: pageAt("/products/test-product/"),
+      config: { placeholder_images: true },
     });
     expect(result).toMatch(PLACEHOLDER_PATH);
   });
@@ -45,7 +46,10 @@ describe("eleventyComputed.thumbnail", () => {
   });
 
   test("returns placeholder for items without any tags", () => {
-    const result = eleventyComputed.thumbnail({ page: pageAt("/page/") });
+    const result = eleventyComputed.thumbnail({
+      page: pageAt("/page/"),
+      config: { placeholder_images: true },
+    });
     expect(result).toMatch(PLACEHOLDER_PATH);
   });
 

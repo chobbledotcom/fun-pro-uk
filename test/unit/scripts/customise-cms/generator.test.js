@@ -190,8 +190,12 @@ describe("generatePagesYaml feature flags", () => {
     const pagesSection = getSection("pages")(yaml);
 
     expect(pagesSection).toContain("name: protected");
+    expect(pagesSection).toContain("name: protected_intro");
     expect(pagesSection).toContain("name: protected_documents");
     expect(pagesSection).toContain("media: protected");
+    expect(pagesSection).toContain("name: file");
+    expect(pagesSection).toContain("name: title");
+    expect(pagesSection).toContain("name: section");
   });
 
   test("protected pages get a named media source with document categories", () => {
@@ -221,6 +225,7 @@ describe("generatePagesYaml feature flags", () => {
     expect(pagesSection).not.toContain("name: protected");
     expect(pagesSection).not.toContain("name: protected_documents");
     expect(pagesSection).not.toContain("name: passwordEnv");
+    expect(pagesSection).not.toContain("name: protected_intro");
     expect(parsed.media.map((source) => source.name)).toEqual(["images"]);
   });
 });

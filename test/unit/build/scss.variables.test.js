@@ -60,8 +60,7 @@ const scssFiles = allScssFiles.filter(
 );
 
 const usedVariables = extractUsedVariables(scssFiles);
-const definedVariables = extractDefinedVariables(`${rootDir}/${STYLE_FILE}`);
-const allDefinedVariables = extractDefinedVariables(scssFiles);
+const definedVariables = extractDefinedVariables(scssFiles);
 const undefinedVariables = [...usedVariables]
   .filter((v) => !definedVariables.has(v) && !CONSUMED_VIA_JS.includes(v))
   .sort();
@@ -96,7 +95,7 @@ describe("scss.variables", () => {
         ...undefinedVariables.map((v) => `  - ${v}`),
         "",
         "To fix:",
-        "  1. Add them to :root in src/css/style.scss",
+        "  1. Add them to :root in the shared SCSS (src/css/theme.scss)",
         "  2. Replace with a standard variable (--color-text, --color-bg, etc.)",
         "  3. Add to CONSUMED_VIA_JS if used by JavaScript instead of CSS",
       ].join("\n");
@@ -109,7 +108,7 @@ describe("scss.variables", () => {
     // CONSUMED_VIA_JS variables should be DEFINED in some SCSS file
     // (just not used via var() - they're read by JavaScript)
     const undefinedJsVars = CONSUMED_VIA_JS.filter(
-      (v) => !allDefinedVariables.has(v),
+      (v) => !definedVariables.has(v),
     );
     if (undefinedJsVars.length > 0) {
       throw new Error(

@@ -24,6 +24,11 @@ jobs:
           bun-version: latest
 
       - name: Fast build
+        # Build check only, never deployed: a placeholder password satisfies
+        # the fail-fast protected-pages encryption gate without exposing the
+        # real PROTECTED_PAGES_PASSWORD secret to pull request runs.
+        env:
+          PROTECTED_PAGES_PASSWORD: ci-build-check
         run: |
           bun install --frozen-lockfile
           FAST_INACCURATE_BUILDS=1 bun scripts/eleventy-build.js

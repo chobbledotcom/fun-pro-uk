@@ -67,12 +67,16 @@ const populateForm = (days) => {
   }
 
   const delivery = getSelectedDelivery(days);
-  const cartLines = cart.map((item) => buildCartText(item, days));
-  const summaryItems = cart.map((item) => renderCheckoutItem(item, days));
-  if (delivery !== null) {
-    cartLines.push(buildDeliveryText(delivery));
-    summaryItems.push(renderDeliveryItem(delivery));
-  }
+  const deliveryLines = delivery === null ? [] : [buildDeliveryText(delivery)];
+  const deliveryItems = delivery === null ? [] : [renderDeliveryItem(delivery)];
+  const cartLines = [
+    ...cart.map((item) => buildCartText(item, days)),
+    ...deliveryLines,
+  ];
+  const summaryItems = [
+    ...cart.map((item) => renderCheckoutItem(item, days)),
+    ...deliveryItems,
+  ];
 
   cartItemsField.value = cartLines.join("\n");
   deliveryChargeField.value =

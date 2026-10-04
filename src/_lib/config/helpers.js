@@ -48,6 +48,7 @@ const DEFAULTS = frozenObject({
   default_max_quantity: 1,
   search_collections: ["products", "categories", "events", "news"],
   linkify_urls: true,
+  disable_liquid_cache: false,
 });
 
 const DEFAULT_PRODUCT_DATA = frozenObject({

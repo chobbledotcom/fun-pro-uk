@@ -3,6 +3,7 @@ import {
   buildSections,
   processQuoteFields,
 } from "#config/quote-fields-helpers.js";
+import deliveryAreas from "#data/delivery-areas.json" with { type: "json" };
 import { expectProp } from "#test/test-utils.js";
 
 // Simple field fixture factories
@@ -172,21 +173,23 @@ describe("quote-fields-helpers", () => {
         (field) => field.name === "delivery_area",
       );
 
-      expect(deliveryField.options).toHaveLength(48);
-      expect(deliveryField.options[0]).toEqual({
-        value: "Banbury",
-        label: "Banbury - 23.3 miles",
-        sameDayPrice: 60,
-        multipleDayPrice: 120,
-      });
-      expect(
-        deliveryField.options.find(({ value }) => value === "Rugby"),
-      ).toEqual({
-        value: "Rugby",
-        label: "Rugby - 7.5 miles",
-        sameDayPrice: 0,
-        multipleDayPrice: 0,
-      });
+      expect(deliveryField.options).toHaveLength(deliveryAreas.areas.length);
+      const [firstArea] = deliveryAreas.areas;
+      const firstOption = deliveryField.options[0];
+      expect(firstOption.value).toBe(firstArea.name);
+      expect(firstOption.sameDayPrice).toBe(firstArea.sameDayPrice);
+      expect(firstOption.multipleDayPrice).toBe(firstArea.multipleDayPrice);
+      expect(firstOption.label).toContain(firstArea.name);
+
+      const rugbyArea = deliveryAreas.areas.find(
+        ({ name }) => name === "Rugby",
+      );
+      const rugbyOption = deliveryField.options.find(
+        ({ value }) => value === "Rugby",
+      );
+      expect(rugbyOption.value).toBe(rugbyArea.name);
+      expect(rugbyOption.sameDayPrice).toBe(rugbyArea.sameDayPrice);
+      expect(rugbyOption.multipleDayPrice).toBe(rugbyArea.multipleDayPrice);
     });
   });
 });

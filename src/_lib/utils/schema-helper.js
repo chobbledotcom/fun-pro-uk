@@ -26,6 +26,7 @@ import { isExternalUrl } from "#utils/url-utils.js";
  * @typedef {Object} BasePageData
  * @property {string} [header_image] - Header image path
  * @property {string} [image] - Image path
+ * @property {string} [thumbnail] - Thumbnail image path
  * @property {SiteInfo} site - Site information
  * @property {PageInfo} page - Page information
  * @property {string} title - Page title (required - computed for pages, explicit for collections)

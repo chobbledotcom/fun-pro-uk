@@ -1,44 +1,45 @@
-import { describe, expect, test, afterAll } from "bun:test";
-import { webcrypto } from "node:crypto";
-import { encrypt, generateKeyText, decodeBase64 } from "#utils/aes-encrypt.js";
+import { afterAll, describe, expect, mock, test } from "bun:test";
+import { decodeBase64, encrypt, generateKeyText } from "#utils/aes-encrypt.js";
+
+// Mock notify.js to capture notification calls instead of DOM manipulation;
+// earlier test files replace this module for the whole run, so relying on the
+// real toast markup would be order-dependent. Allowlisted in
+// test/unit/code-quality/mock-module-usage.test.js.
+const mockShowNotification = mock();
+mock.module("#public/utils/notify.js", () => ({
+  showNotification: (...args) => mockShowNotification(...args),
+}));
+
+import {
+  PROTECTED_TEST_ITERATIONS,
+  PROTECTED_TEST_LABELS,
+  PROTECTED_TEST_SALT,
+} from "#test/protected-pages-fixtures.js";
 import {
   deriveAesGcmKey,
   encodePayload,
   encryptWithKey,
-  getRandomBytes,
   normalizePassword,
 } from "#utils/protected-crypto.js";
 
-// The happy-dom global registration may provide a crypto object without
-// subtle; password crypto needs the real WebCrypto implementation.
-if (!globalThis.crypto?.subtle) {
-  Object.defineProperty(globalThis, "crypto", {
-    value: webcrypto,
-    configurable: true,
-  });
-}
-
 const LABELS = {
-  heading: "Staff area",
-  label: "Password",
-  submit: "Open",
-  loading: "Opening…",
+  ...PROTECTED_TEST_LABELS,
   error: "Wrong password, try again",
 };
 const PASSWORD = "open sesame";
-const SALT = getRandomBytes(16);
-const ITERATIONS = 1000;
+const SALT = PROTECTED_TEST_SALT;
+const ITERATIONS = PROTECTED_TEST_ITERATIONS;
 const PAYLOAD_SELECTOR = "script[data-protected-payload]";
 const STORE_KEY = "protected-pages-password";
 
 const EMAIL_KEY_TEXT = generateKeyText();
 const EMAIL_KEY_BYTES = decodeBase64(EMAIL_KEY_TEXT);
 const MAILTO = "mailto:staff@funpro-uk.test";
-const SECRET_HTML = `<h1>Confidential RAMS</h1><a href="#${encrypt(MAILTO, EMAIL_KEY_BYTES)}" data-decrypt-link="">${encrypt("Staff contact", EMAIL_KEY_BYTES)}</a><a href="#protected-file" data-protected-asset="rams.pdf" data-protected-mime="application/pdf">Download RAMS</a>;
+const SECRET_HTML = `<h1>Confidential RAMS</h1><a href="#${encrypt(MAILTO, EMAIL_KEY_BYTES)}" data-decrypt-link="">${encrypt("Staff contact", EMAIL_KEY_BYTES)}</a><a href="#protected-file" data-protected-asset="rams.pdf" data-protected-mime="application/pdf">Download RAMS</a>`;
 
-let realFetch = globalThis.fetch;
-let realCreateObjectURL = URL.createObjectURL;
-let clientLoaded = false;
+const realFetch = globalThis.fetch;
+const realCreateObjectURL = URL.createObjectURL;
+let clientModulePromise = null;
 
 const buildEncryptedPayload = async () => {
   const key = await deriveAesGcmKey(
@@ -70,10 +71,10 @@ const setupProtectedPage = async () => {
 };
 
 const loadClient = async () => {
-  if (!clientLoaded) {
-    await import("#public/ui/protected-pages.js");
-    clientLoaded = true;
+  if (clientModulePromise === null) {
+    clientModulePromise = import("#public/ui/protected-pages.js");
   }
+  await clientModulePromise;
   // onReady inits immediately on readyState !== "loading"; this covers the
   // case where the registered window is still marked as loading.
   if (document.readyState === "loading") {
@@ -102,7 +103,7 @@ const submitGate = async (article, passwordValue) => {
 
 describe("protected-pages client", () => {
   test("a stored wrong password fails silently and keeps the gate", async () => {
-    window.sessionStorage.setItem(STORE_KEY, "nobody knows");
+    mockShowNotification.mockReset();
     const article = await setupProtectedPage();
     await loadClient();
 
@@ -112,6 +113,7 @@ describe("protected-pages client", () => {
     expect(gateKept).toBe(true);
     expect(article.querySelector(PAYLOAD_SELECTOR)).not.toBeNull();
     expect(article.textContent).not.toContain("Confidential RAMS");
+    expect(mockShowNotification).not.toHaveBeenCalled();
   });
 
   test("submitting an empty password reserves the gate until input", async () => {
@@ -123,16 +125,15 @@ describe("protected-pages client", () => {
   });
 
   test("a wrong typed password shows the error and keeps the gate", async () => {
+    mockShowNotification.mockReset();
     const article = document.querySelector("article#content");
     await submitGate(article, "definitely not it");
 
-    const toasted = await waitFor(() =>
-      Boolean(document.querySelector(".toast-notification")),
+    const notified = await waitFor(
+      () => mockShowNotification.mock.calls.length > 0,
     );
-    expect(toasted).toBe(true);
-    expect(document.querySelector(".toast-notification").textContent).toBe(
-      LABELS.error,
-    );
+    expect(notified).toBe(true);
+    expect(mockShowNotification).toHaveBeenCalledWith(LABELS.error);
     expect(article.querySelector("[data-protected-gate]")).not.toBeNull();
     expect(article.textContent).not.toContain("Confidential RAMS");
   });
@@ -172,9 +173,7 @@ describe("protected-pages client", () => {
     expect(article.querySelector("[data-protected-gate]")).toBeNull();
     expect(window.sessionStorage.getItem(STORE_KEY)).toBe(PASSWORD);
 
-    const assetLinked = await waitFor(
-      () => fetchedUrls.length > 0,
-    );
+    const assetLinked = await waitFor(() => fetchedUrls.length > 0);
     expect(assetLinked).toBe(true);
     const link = article.querySelector("a[data-protected-asset]");
     expect(fetchedUrls[0]).toBe("/protected-assets/rams.pdf.enc");
@@ -186,9 +185,9 @@ describe("protected-pages client", () => {
         MAILTO,
     );
     expect(mailRestored).toBe(true);
-    expect(
-      article.querySelector("a[data-decrypt-link]").textContent,
-    ).toBe("Staff contact");
+    expect(article.querySelector("a[data-decrypt-link]").textContent).toBe(
+      "Staff contact",
+    );
   });
 
   afterAll(() => {

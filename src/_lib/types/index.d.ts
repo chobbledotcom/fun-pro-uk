@@ -13,6 +13,7 @@ export type {
   ScreenshotConfig,
   CartMode,
   ProductMode,
+  RawSiteConfig,
   SiteConfig,
   SiteInfo,
 } from './config.d.ts';

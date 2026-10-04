@@ -1,18 +1,18 @@
 import { describe, expect, test } from "bun:test";
-import { formatDateInputsForSubmission } from "#public/ui/contact-form-submit.js";
+import { formatDateInputs } from "#public/ui/contact-form-submit.js";
 
 const setupForm = (innerHtml) => {
   document.body.innerHTML = `<form class="contact-form">${innerHtml}</form>`;
   return document.querySelector("form.contact-form");
 };
 
-describe("formatDateInputsForSubmission", () => {
+describe("formatDateInputs", () => {
   test("replaces date input value with formatted hidden field on submission", () => {
     const form = setupForm(
       '<input type="date" name="start_date" value="2026-05-07" />',
     );
 
-    formatDateInputsForSubmission(form);
+    formatDateInputs(form);
 
     const data = new FormData(form);
     expect(data.get("start_date")).toBe("7 May 2026");
@@ -24,7 +24,7 @@ describe("formatDateInputsForSubmission", () => {
       <input type="date" name="end_date" value="2026-05-09" />
     `);
 
-    formatDateInputsForSubmission(form);
+    formatDateInputs(form);
 
     const data = new FormData(form);
     expect(data.get("start_date")).toBe("7 May 2026");
@@ -32,11 +32,9 @@ describe("formatDateInputsForSubmission", () => {
   });
 
   test("leaves an empty date input out of the submission", () => {
-    const form = setupForm(
-      '<input type="date" name="start_date" value="" />',
-    );
+    const form = setupForm('<input type="date" name="start_date" value="" />');
 
-    formatDateInputsForSubmission(form);
+    formatDateInputs(form);
 
     const data = new FormData(form);
     expect(data.get("start_date")).toBe("");
@@ -49,7 +47,7 @@ describe("formatDateInputsForSubmission", () => {
       <input type="email" name="email" value="a@example.com" />
     `);
 
-    formatDateInputsForSubmission(form);
+    formatDateInputs(form);
 
     const data = new FormData(form);
     expect(data.get("name")).toBe("Alice");

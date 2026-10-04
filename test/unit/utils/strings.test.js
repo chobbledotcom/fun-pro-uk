@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import strings from "#data/strings.js";
+import siteStrings from "#data/strings.json" with { type: "json" };
 import baseStrings from "#data/strings-base.json" with { type: "json" };
 import {
   createExtractor,
@@ -19,11 +20,13 @@ describe("strings", () => {
   });
 
   test("Returns values from strings-base.json", () => {
+    // Keys the site has not overridden fall through to the base defaults
     expectObjectProps({
-      product_name: "Products",
-      location_name: "Locations",
-      event_name: "Events",
+      location_name: baseStrings.location_name,
+      event_name: baseStrings.event_name,
     })(strings);
+    // Site overrides take precedence over the base defaults
+    expect(strings.product_name).toBe(siteStrings.product_name);
   });
 
   test("Every strings.X usage in codebase has a default in strings-base.json", () => {

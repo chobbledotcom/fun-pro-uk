@@ -15,20 +15,23 @@ describe("search", () => {
       contentFile("pages", "about", "About Us", { permalink: "/about/" }),
     ];
 
-    await withTestSite({ files }, async (site) => {
-      const productDoc = await site.getDoc("products/widget/index.html");
-      expect(productDoc.querySelector("[data-pagefind-body]") !== null).toBe(
-        true,
-      );
+    await withTestSite(
+      { files, config: { search_collections: ["products", "categories"] } },
+      async (site) => {
+        const productDoc = await site.getDoc("products/widget/index.html");
+        expect(productDoc.querySelector("[data-pagefind-body]") !== null).toBe(
+          true,
+        );
 
-      const categoryDoc = await site.getDoc("categories/tools/index.html");
-      expect(categoryDoc.querySelector("[data-pagefind-body]") !== null).toBe(
-        true,
-      );
+        const categoryDoc = await site.getDoc("categories/tools/index.html");
+        expect(categoryDoc.querySelector("[data-pagefind-body]") !== null).toBe(
+          true,
+        );
 
-      const aboutDoc = await site.getDoc("about/index.html");
-      expect(aboutDoc.querySelector("[data-pagefind-body]")).toBe(null);
-    });
+        const aboutDoc = await site.getDoc("about/index.html");
+        expect(aboutDoc.querySelector("[data-pagefind-body]")).toBe(null);
+      },
+    );
   });
 
   test("search page renders with search-box and results container", async () => {

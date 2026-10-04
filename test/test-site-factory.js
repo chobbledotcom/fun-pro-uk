@@ -27,6 +27,52 @@ import { loadDOM } from "#utils/lazy-dom.js";
 
 const rootDir = ROOT_DIR;
 
+/**
+ * Partner logo paths from src/_data/brands.json, rendered by the
+ * brands-slider/brands-list includes. Derived from the data file so the
+ * copy list cannot drift when logos are added or renamed.
+ * @param {string} rootDir - Repository root
+ * @returns {string[]}
+ */
+const brandLogoImages = (rootDir) => {
+  const brands = JSON.parse(
+    fs.readFileSync(path.join(rootDir, "src/_data/brands.json"), "utf8"),
+  );
+  return brands.icons.map(({ path: logoPath }) =>
+    logoPath.replace(/^\/images\//, ""),
+  );
+};
+
+/**
+ * Images rendered by the shared header, footer and delivery includes on
+ * every page. The image transform processes any <img src="/images/...">, so
+ * a test site without these files fails its build with "Input file is
+ * missing". Keep in sync with src/mega-menu.html, src/_includes/header.html
+ * and src/_includes/delivery-how-it-works.html.
+ */
+const SHARED_TEMPLATE_IMAGES = [
+  "events/corporate-events.jpg",
+  "events/celebrations-and-parties.jpg",
+  "events/educational-and-community.jpg",
+  "products/retro-arcade-games/retro-arcade-games-1.jpg",
+  "products/prize-wheel/prize-wheel-1.jpg",
+  "products/shuffleboard-hire/shuffleboard-hire-1.jpg",
+  "products/cash-grabber-machine-hire/cash-grabber-machine-hire-5.jpg",
+  "products/batak-pro/batak-pro-6.jpg",
+  "products/roll-and-bowl-donkey-derby/roll-and-bowl-donkey-derby-5.jpg",
+  "products/hook-a-duck/hook-a-duck-1.jpg",
+  "products/ice-cream-van-hire/ice-cream-van-hire-1.jpg",
+  "products/christmas-grotto-1/christmas-grotto-1-1.jpg",
+  "products/christmas-photo-booths/christmas-photo-booths-1.jpg",
+  "products/magic-mirror/magic-mirror-3.jpg",
+  "products/inflatable-assault-courses/inflatable-assault-courses-1.jpg",
+  "home/about-us-right.png",
+  ...brandLogoImages(rootDir),
+  "locations/van.png",
+  "locations/machine-1.png",
+  "locations/machine-2.png",
+];
+
 // -----------------------------------------------------------------------------
 // Curried Path Utilities
 // -----------------------------------------------------------------------------
@@ -238,12 +284,11 @@ const createTestSite = async (options = {}) => {
           dest: img.dest,
         };
   const copyTestImages = (srcDir, images = []) => {
-    if (images.length === 0) return;
-
+    const allImages = unique([...SHARED_TEMPLATE_IMAGES, ...images]);
     const imagesDir = ensureDir(path.join(srcDir, "images"));
     const copyImage = copyToDir(imagesDir);
 
-    for (const { src, dest } of images.map(normalizeImageSpec)) {
+    for (const { src, dest } of allImages.map(normalizeImageSpec)) {
       copyImage(src, dest);
     }
   };

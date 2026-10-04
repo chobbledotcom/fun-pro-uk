@@ -88,7 +88,6 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
   "test/unit/code-quality/design-system-scoping.test.js",
   "test/unit/code-quality/duplicate-methods.test.js",
   "test/unit/test-runner-utils.test.js",
-  "test/unit/collections/missing-folders-lib.test.js",
   "test/unit/eleventy/layout-aliases.test.js",
   "test/unit/frontend/checkout.test.js",
   "test/unit/frontend/config.test.js",
@@ -96,6 +95,8 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
   "test/unit/transforms/images.test.js",
   "test/unit/toolkit/set.test.js",
   "test/unit/utils/block-docs.test.js",
+  // Fetch call recorder and module-load guard in the client decryption tests
+  "test/unit/frontend/protected-pages.test.js",
 
   // Frontend - Set used to track visible parallax elements for scroll updates
   "src/_lib/public/design-system.js:35",
@@ -111,6 +112,8 @@ const ALLOWED_MUTABLE_CONST = frozenSet([
 // Prefer functional patterns (map/filter/reduce) or const with immutable updates.
 // Only 'let moduleName = null;' is allowed for lazy loading without exceptions.
 const ALLOWED_LET = frozenSet([
+  // Mega-menu scroll handler keeps hide-on-scroll state between scroll events
+  "src/assets/mega-menu.js",
   // Test files with mutable state tracking
   "test/integration/eleventy/feed.test.js",
   "test/unit/frontend/hire-calculator.test.js",
@@ -142,6 +145,7 @@ const ALLOWED_SINGLE_USE_FUNCTIONS = frozenSet([
   "src/_lib/public/masonry.js", // Card type measurers split to stay under complexity limit
   "src/_lib/public/youtube-video.js", // State extraction split from message handler for complexity
   "src/_lib/public/ui/nav-dropdown.js", // DOM helpers extracted for complexity management
+  "src/_lib/public/ui/contact-form-submit.js", // maskDateInput extracted for clarity
   "src/_lib/media/image-external.js", // External wrapper styles helper
   "src/_lib/media/image-utils.js", // buildImgAttributes, buildPictureAttributes - helper functions for prepareImageAttributes
   "src/_lib/eleventy/file-utils.js", // Filter callbacks extracted for strict type safety
@@ -149,6 +153,10 @@ const ALLOWED_SINGLE_USE_FUNCTIONS = frozenSet([
   "src/_lib/eleventy/style-bundle.js", // Options parsing helpers for type safety
   "src/_lib/eleventy/link-list.js", // Helpers kept separate for clarity
   "src/_lib/eleventy/html-transform.js", // Transform helpers kept separate to manage complexity
+  "src/_lib/eleventy/protected-pages.js", // Gate markup builders and document entry helpers split for clarity
+  "src/_lib/transforms/protect-content.js", // Gate form/noindex/payload builders split for clarity
+  "src/_lib/public/ui/protected-pages.js", // initProtectedPages auto-called via onReady
+  "test/test-site-factory.js", // brandLogoImages derives the shared test image list
   "src/_lib/transforms/external-links.js", // attrTuple for TypeScript tuple inference
   "src/_lib/filters/category-product-filters.js", // Helpers split for function length and readability
   "src/_lib/filters/filter-ui.js", // UI builders split from buildUIWithLookup for function length
@@ -172,6 +180,7 @@ const ALLOWED_SINGLE_USE_FUNCTIONS = frozenSet([
   "test/unit/code-quality/comment-limits.test.js",
   "test/unit/code-quality/duplicate-methods.test.js",
   "test/unit/code-quality/html-in-js.test.js",
+  "test/unit/frontend/protected-pages.test.js", // decryption fixture builders
 ]);
 
 // ============================================
@@ -202,6 +211,36 @@ const ALLOWED_TEST_ONLY_EXPORTS = frozenSet([
   // Eleventy plugin helpers - internal functions tested directly
   "src/_lib/eleventy/opening-times.js:renderOpeningTimes",
   "src/_lib/eleventy/recurring-events.js:renderRecurringEvents",
+  "src/_lib/eleventy/protected-pages.js:resolvePagePassword",
+  "src/_lib/eleventy/protected-pages.js:writeEncryptedAssets",
+  "src/_lib/eleventy/protected-pages.js:mimeTypeForAsset",
+  "src/_lib/eleventy/protected-pages.js:isInlineMimeType",
+  "src/_lib/eleventy/protected-pages.js:createAssetEncryptionHook",
+
+  // Config defaults - exported so tests assert the template defaults
+  // rather than this site's configured overrides
+  "src/_lib/config/list-config.js:DEFAULT_CATEGORY_ORDER",
+  "src/_lib/config/list-config.js:DEFAULT_LIST_ITEM_FIELDS",
+
+  // FP toolkit utilities - used by code-quality scanners via relative import
+  "packages/js-toolkit/fp/grouping.js:buildReverseIndex",
+
+  // Collection helpers - tested for thumbnail fallback edge cases
+  "src/_lib/collections/products.js:addGallery",
+  "src/_lib/collections/locations.js:getVenues",
+
+  // DOM init functions - auto-called via onReady in production, but exported for unit tests
+  // (ES modules execute at import time before tests can set up DOM)
+  "src/_lib/public/ui/contact-form-submit.js:formatDateInputs",
+
+  // Crypto constants - tested directly for payload compatibility
+  "src/_lib/utils/protected-crypto.js:IV_BYTES",
+
+  // Crypto primitives - wrong-password/tamper rejection semantics are tested
+  // at the primitive level; production code goes through the wrapped
+  // deriveKeyCached/decryptPayload helpers
+  "src/_lib/utils/protected-crypto.js:deriveAesGcmKey",
+  "src/_lib/utils/protected-crypto.js:decryptWithKey",
 
   // Filter helpers - tested for icon path resolution
   "src/_lib/filters/spec-filters.js:resolveIconAssetPath",

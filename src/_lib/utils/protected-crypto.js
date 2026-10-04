@@ -15,6 +15,8 @@
  * crypto.subtle rejects — callers surface that to the visitor as
  * "incorrect password" instead of masking it.
  */
+
+import { memoize } from "#toolkit/fp/memoize.js";
 import { decodeBase64, encodeBase64 } from "#utils/aes-base64.js";
 
 export const PBKDF2_ITERATIONS = 600_000; // OWASP-recommended count for PBKDF2-HMAC-SHA256
@@ -36,7 +38,7 @@ const getSubtle = () => {
   return subtle;
 };
 
-/** @param {number} length @returns {Uint8Array} */
+/** @param {number} length @returns {Uint8Array<ArrayBuffer>} */
 const getRandomBytes = (length) =>
   crypto.getRandomValues(new Uint8Array(length));
 
@@ -53,7 +55,7 @@ const normalizePassword = (password) => password.trim().toLowerCase();
 /**
  * Derive an AES-GCM key from a password using PBKDF2-HMAC-SHA-256.
  * @param {string} password
- * @param {Uint8Array} salt
+ * @param {Uint8Array<ArrayBuffer>} salt
  * @param {number} iterations
  * @returns {Promise<CryptoKey>}
  */
@@ -77,8 +79,8 @@ const deriveAesGcmKey = async (password, salt, iterations) => {
 /**
  * Encrypt bytes with a derived AES-GCM key and a fresh random IV.
  * @param {CryptoKey} key
- * @param {Uint8Array} bytes
- * @returns {Promise<{iv: Uint8Array, ct: Uint8Array}>}
+ * @param {Uint8Array<ArrayBuffer>} bytes
+ * @returns {Promise<{iv: Uint8Array<ArrayBuffer>, ct: Uint8Array<ArrayBuffer>}>}
  */
 const encryptWithKey = async (key, bytes) => {
   const iv = getRandomBytes(IV_BYTES);
@@ -94,9 +96,9 @@ const encryptWithKey = async (key, bytes) => {
  * Decrypt bytes with a derived AES-GCM key. Rejects when the ciphertext
  * fails authentication (wrong password or tampered payload).
  * @param {CryptoKey} key
- * @param {Uint8Array} iv
- * @param {Uint8Array} ct
- * @returns {Promise<Uint8Array>}
+ * @param {Uint8Array<ArrayBuffer>} iv
+ * @param {Uint8Array<ArrayBuffer>} ct
+ * @returns {Promise<Uint8Array<ArrayBuffer>>}
  */
 const decryptWithKey = async (key, iv, ct) => {
   const decrypted = await getSubtle().decrypt({ name: "AES-GCM", iv }, key, ct);
@@ -104,9 +106,33 @@ const decryptWithKey = async (key, iv, ct) => {
 };
 
 /**
+ * Derive an AES-GCM key, memoised per (password, salt, iterations). Both
+ * consumers derive the same key repeatedly — the build for every protected
+ * page and asset, the browser for an unlocked page and its document links —
+ * and PBKDF2 at 600k iterations is expensive, so cache across calls.
+ */
+const deriveKeyCached = memoize(deriveAesGcmKey, {
+  // Uint8Array.toString() joins byte values, so args.join is a stable
+  // key per (password, salt bytes, iterations) without extra typing.
+  cacheKey: (args) => args.join("\u0000"),
+});
+
+/**
+ * Decrypt a parsed payload using the KDF parameters carried in the payload
+ * itself, so callers don't repeat the derive-then-decrypt dance.
+ * @param {{salt: Uint8Array<ArrayBuffer>, iterations: number, iv: Uint8Array<ArrayBuffer>, ct: Uint8Array<ArrayBuffer>}} payload
+ * @param {string} password
+ * @returns {Promise<Uint8Array<ArrayBuffer>>}
+ */
+const decryptPayload = async (payload, password) => {
+  const key = await deriveKeyCached(password, payload.salt, payload.iterations);
+  return decryptWithKey(key, payload.iv, payload.ct);
+};
+
+/**
  * Serialise an encrypted payload to the JSON wire format shared by
  * protected pages (embedded in a script tag) and protected assets (.enc files).
- * @param {{salt: Uint8Array, iterations: number, iv: Uint8Array, ct: Uint8Array}} payload
+ * @param {{salt: Uint8Array<ArrayBuffer>, iterations: number, iv: Uint8Array<ArrayBuffer>, ct: Uint8Array<ArrayBuffer>}} payload
  * @returns {string}
  */
 const encodePayload = ({ salt, iterations, iv, ct }) =>
@@ -124,7 +150,7 @@ const encodePayload = ({ salt, iterations, iv, ct }) =>
  * Parse and validate an encrypted payload (JSON text from a script tag,
  * a fetched .enc file, or a build-time serialised payload).
  * @param {string} jsonText
- * @returns {{salt: Uint8Array, iterations: number, iv: Uint8Array, ct: Uint8Array}}
+ * @returns {{salt: Uint8Array<ArrayBuffer>, iterations: number, iv: Uint8Array<ArrayBuffer>, ct: Uint8Array<ArrayBuffer>}}
  */
 const parsePayload = (jsonText) => {
   const raw = JSON.parse(jsonText);
@@ -137,7 +163,9 @@ const parsePayload = (jsonText) => {
     );
   }
   if (!Number.isInteger(raw.iterations) || raw.iterations < 1) {
-    throw new Error("Invalid protected payload: iterations must be a positive integer.");
+    throw new Error(
+      "Invalid protected payload: iterations must be a positive integer.",
+    );
   }
   return {
     salt: decodeBase64(raw.salt),
@@ -148,11 +176,13 @@ const parsePayload = (jsonText) => {
 };
 
 export {
+  decryptPayload,
+  decryptWithKey,
   deriveAesGcmKey,
+  deriveKeyCached,
   encodePayload,
   encryptWithKey,
   getRandomBytes,
   normalizePassword,
   parsePayload,
-  decryptWithKey,
 };

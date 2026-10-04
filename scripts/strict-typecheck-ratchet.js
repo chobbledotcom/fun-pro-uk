@@ -14,7 +14,7 @@ import { spawnSync } from "node:child_process";
 import { ROOT_DIR } from "#lib/paths.js";
 
 // Current baseline - lower this as you fix errors
-const CURRENT_ERROR_COUNT = 367;
+const CURRENT_ERROR_COUNT = 342;
 
 // Files that currently pass strict mode (must not regress)
 const STRICT_CLEAN_FILES = [
@@ -80,7 +80,6 @@ const STRICT_CLEAN_FILES = [
   "src/_lib/transforms/responsive-tables.js",
   "src/_lib/utils/canonical-url.js",
   "src/_lib/utils/console.js",
-  "src/_lib/utils/dietary-utils.js",
   "src/_lib/utils/dom-builder.js",
   "src/_lib/utils/format-price.js",
   "src/_lib/utils/lazy-dom.js",

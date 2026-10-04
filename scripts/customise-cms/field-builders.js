@@ -78,6 +78,7 @@ export const getCollectionFieldBuilders = (config, fields) => ({
       { name: "layout", type: "string" },
       config.features.no_index && COMMON_FIELDS.no_index,
       config.features.protected_documents && COMMON_FIELDS.protected,
+      config.features.protected_documents && COMMON_FIELDS.protected_intro,
       config.features.protected_documents && COMMON_FIELDS.protected_documents,
       config.features.videos && VIDEOS_FIELD,
       generateBlocksField(

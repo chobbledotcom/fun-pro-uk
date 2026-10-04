@@ -10,6 +10,7 @@
 		"src/_lib/public/youtube-video.js",
 		"src/_lib/public/masonry.js",
 		"bin/profile-report.js",
+		"scripts/missing-info-report.js",
 		"test/**/*.test.js",
 		"test/build-profiling.js",
 		"test/demo-precommit-errors.js",

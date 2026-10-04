@@ -10,9 +10,15 @@
 import fs from "node:fs";
 import path from "node:path";
 import matter from "gray-matter";
-import configData from "#data/config.json" with { type: "json" };
+import configJson from "#data/config.json" with { type: "json" };
 import site from "#data/site.json" with { type: "json" };
 import { PAGES_DIR } from "#lib/paths.js";
+
+// Raw per-site config: the template feature flags read below are optional
+// until a site sets them, which the inferred config.json type cannot express.
+const configData = /** @type {import("#lib/types").RawSiteConfig} */ (
+  configJson
+);
 
 const VALID_CART_MODES = ["stripe", "quote"];
 const VALID_PRODUCT_MODES = ["buy", "hire"];

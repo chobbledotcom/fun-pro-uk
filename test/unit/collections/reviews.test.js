@@ -135,16 +135,8 @@ describe("reviews", () => {
 
   test("Works with all supported fields", () => {
     const r = revs([
-      [
-        "Review 1",
-        "2024-01-01",
-        { products: ["product-a"], categories: [] },
-      ],
-      [
-        "Review 2",
-        "2024-01-02",
-        { products: [], categories: ["category-a"] },
-      ],
+      ["Review 1", "2024-01-01", { products: ["product-a"], categories: [] }],
+      ["Review 2", "2024-01-02", { products: [], categories: ["category-a"] }],
     ]);
 
     expect(getReviewsFor(r, "product-a", ["products"]).length).toBe(1);

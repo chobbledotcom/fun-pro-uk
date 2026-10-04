@@ -4,6 +4,11 @@ This is the website for **Fun Pro UK**, a nationwide corporate entertainment and
 
 Built by [Chobble](https://www.chobble.com).
 
+## Development
+
+- [devenv](https://devenv.sh) manages the dev shell: run `devenv shell` to get Bun, Biome, Vips and the site commands — `serve`, `build`, `test`, `profile`, `lint`, `screenshot`, `customise-cms`, `generate-pages-yml` and `pc`.
+- `pc` runs the full precommit suite (lint, knip, typecheck, CPD, tests); it also runs automatically on every commit via the devenv-managed git hook.
+
 ## Password-protected pages
 
 Some pages (risk assessments, RAMS, staff documents) are published encrypted: the content is encrypted at build time with AES-256-GCM using a password from a build-time secret, and visitors decrypt it in their own browser with the Web Crypto API. The plaintext **never exists on the web server**, and the original documents are never uploaded — only `.enc` payloads.
@@ -15,7 +20,10 @@ Some pages (risk assessments, RAMS, staff documents) are published encrypted: th
 
 ### Publishing a protected page
 
-Add `protected: true` to a page's front matter (e.g. `src/pages/rams.md`):
+Add `protected: true` to a page's front matter (e.g. `src/pages/rams.md`). Optional front matter:
+
+- `protected_intro` — markdown shown on the password screen *before* the page is unlocked. Keep it bland: it is public, unlike the encrypted content.
+- `protected_documents` — a list of uploaded documents rendered as encrypted download links below the page text. Each entry has a `file`, a friendly `title` (what visitors read instead of the file name) and an optional `section` heading to group files by game or document type.
 
 ```markdown
 ---
@@ -23,6 +31,15 @@ title: "Staff Documents"
 meta_title: "Staff Documents"
 layout: page
 protected: true
+protected_intro: |
+  Enter the password from your booking confirmation to view your documents.
+protected_documents:
+  - file: /protected-assets/air-hockey-risk-assessment.pdf
+    title: Risk assessment
+    section: Air hockey
+  - file: /protected-assets/air-hockey-pat-testing.pdf
+    title: PAT testing certificate
+    section: Air hockey
 ---
 
 # Staff documents
@@ -43,7 +60,7 @@ Notes:
 
 The Pages CMS (`.pages.yml`) supports this out of the box:
 
-- Pages in the CMS gain a **"Private page (needs a password to view)"** toggle and a **"Hidden files"** upload list (files go into `src/protected-assets/` via the named `protected` media source).
-- Any `protected_documents` entries are rendered automatically — as encrypted download links below the page text — so editors never have to touch the `{% protectedAsset %}` shortcode (that shortcode still works for hand-authored markdown).
+- Pages in the CMS gain a **"Private page (needs a password to view)"** toggle, a **"Password screen text"** textarea and a **"Hidden files"** upload list (files go into `src/protected-assets/` via the named `protected` media source).
+- Any `protected_documents` entries are rendered automatically — as encrypted download links below the page text — so editors never have to touch the `{% protectedAsset %}` shortcode (that shortcode still works for hand-authored markdown). Each uploaded file has a **Display name** (the link text visitors see) and a **Section heading** box; files sharing a section are grouped together under it.
 - The password is normalised (trimmed + lowercased) on both the build and in the browser, so typed capitalisation/spacing doesn't matter, and the gate input is a visible text field.
 - Pages that need a *different* password than the site-wide one: a developer adds `passwordEnv: "OTHER_SECRET_NAME"` to the front matter by hand and registers that secret in GitHub — kept out of the CMS on purpose so nobody types the real password into the repo.

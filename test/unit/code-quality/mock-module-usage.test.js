@@ -34,6 +34,7 @@ const ALLOWED_BARE_MOCK_MODULE = [
   "test/unit/frontend/checkout.test.js",
   "test/unit/frontend/ntfy.test.js",
   "test/unit/frontend/products-cache.test.js",
+  "test/unit/frontend/protected-pages.test.js",
 ];
 
 describe("mock-module-usage", () => {

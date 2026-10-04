@@ -295,7 +295,6 @@ const expectValidScriptTag = (result) => {
 };
 
 // Pre-built data array checkers
-const expectGalleries = expectDataArray("gallery");
 const expectResultTitles = expectDataArray("title");
 
 // ============================================
@@ -404,7 +403,6 @@ export {
   expectAsyncThrows,
   expectDataArray,
   expectErrorsInclude,
-  expectGalleries,
   // Assertions
   expectHtmlList,
   expectObjectProps,

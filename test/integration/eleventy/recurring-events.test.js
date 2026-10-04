@@ -191,7 +191,9 @@ describe("recurring-events", () => {
   /**
    * Create a test page that renders recurring events
    */
-  const eventsTestPage = (content = "{% recurring_events %}") => ({
+  const eventsTestPage = (
+    content = "<div data-recurring>{% recurring_events %}</div>",
+  ) => ({
     path: "pages/test.md",
     frontmatter: { title: "Test", layout: "page", permalink: "/test/" },
     content,
@@ -223,9 +225,10 @@ describe("recurring-events", () => {
         expect(html.includes("Community Center")).toBe(true);
         expect(!html.includes("One Time Event")).toBe(true);
         expect(!html.includes("/events/2024-03-15-")).toBe(true);
-        expect(doc.querySelectorAll("ul li a[href*='/events/']").length).toBe(
-          2,
-        );
+        expect(
+          doc.querySelectorAll("[data-recurring] ul li a[href*='/events/']")
+            .length,
+        ).toBe(2);
       },
     ));
 });

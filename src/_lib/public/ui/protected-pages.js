@@ -9,17 +9,15 @@
  * (a[data-protected-asset]) into viewable/downloadable blob URLs and
  * restores obfuscated mailto: links inside the decrypted content.
  */
-import { encodeBase64 } from "#utils/aes-base64.js";
+
+import { decryptMailLinks } from "#public/ui/decrypt-text.js";
+import { showNotification } from "#public/utils/notify.js";
+import { onReady } from "#public/utils/on-ready.js";
 import {
-  decryptWithKey,
-  deriveAesGcmKey,
+  decryptPayload,
   normalizePassword,
   parsePayload,
 } from "#utils/protected-crypto.js";
-import { memoize } from "#toolkit/fp/memoize.js";
-import { showNotification } from "#public/utils/notify.js";
-import { onReady } from "#public/utils/on-ready.js";
-import { decryptMailLinks } from "#public/ui/decrypt-text.js";
 
 const GATE_SELECTOR = "[data-protected-gate]";
 const PAYLOAD_SELECTOR = "script[data-protected-payload]";
@@ -29,16 +27,6 @@ const INPUT_SELECTOR = "#protected-page-password";
 const ASSET_SELECTOR = "a[data-protected-asset]";
 const ASSET_BASE_URL = "/protected-assets/";
 const STORAGE_KEY = "protected-pages-password";
-
-/** Memoised so the page payload and its document links derive the key once. */
-const getDerivedKey = memoize(
-  async (password, salt, iterations) =>
-    deriveAesGcmKey(password, salt, iterations),
-  {
-    cacheKey: ([password, salt, iterations]) =>
-      `${password}\u0000${encodeBase64(salt)}\u0000${iterations}`,
-  },
-);
 
 /**
  * Replace the gate with the decrypted content, remember the password so
@@ -54,9 +42,8 @@ const unlock = async (article, password) => {
     throw new Error("Protected page payload is missing.");
   }
   const payload = parsePayload(payloadScript.textContent);
-  const key = await getDerivedKey(password, payload.salt, payload.iterations);
   const html = new TextDecoder().decode(
-    await decryptWithKey(key, payload.iv, payload.ct),
+    await decryptPayload(payload, password),
   );
 
   article.innerHTML = html;
@@ -75,7 +62,7 @@ const unlock = async (article, password) => {
       throw new Error(`Protected asset ${name} could not be loaded.`);
     }
     const assetPayload = parsePayload(await response.text());
-    const bytes = await decryptWithKey(key, assetPayload.iv, assetPayload.ct);
+    const bytes = await decryptPayload(assetPayload, password);
     link.setAttribute(
       "href",
       URL.createObjectURL(new Blob([bytes], { type: mime })),

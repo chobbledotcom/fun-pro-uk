@@ -250,6 +250,10 @@ export const COMMON_STEPS = {
     name: "build",
     cmd: "bun",
     args: ["./node_modules/@11ty/eleventy/cmd.cjs", "--quiet"],
+    // Build check only, never deployed: a placeholder password satisfies the
+    // fail-fast protected-pages encryption gate without needing the real
+    // PROTECTED_PAGES_PASSWORD secret in the local environment.
+    env: { PROTECTED_PAGES_PASSWORD: "test-suite-build" },
   },
 };
 
@@ -280,6 +284,7 @@ export const coverageStep = (verbose) => ({
  * @returns {Object} Result with status and output
  */
 export function runStep(step, verbose) {
+  const { env: stepEnv = {} } = step;
   // Always capture stdout/stderr so we can extract errors for the summary
   // If verbose, we'll print the output after capturing it
   const result = spawnSync(step.cmd, step.args, {
@@ -287,6 +292,7 @@ export function runStep(step, verbose) {
     stdio: ["inherit", "pipe", "pipe"],
     env: {
       ...process.env,
+      ...stepEnv,
       VERBOSE: verbose ? "1" : "0",
     },
   });

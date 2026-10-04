@@ -2,7 +2,7 @@ import { formatPrice } from "#public/utils/cart-utils.js";
 
 const DELIVERY_AREA_SELECTOR = 'select[name="delivery_area"]';
 
-const getDeliveryPriceForDays = (days, option) => {
+const deliveryPrice = (days, option) => {
   const priceValue =
     days > 1 ? option.dataset.multipleDayPrice : option.dataset.sameDayPrice;
   const price = Number(priceValue);
@@ -26,7 +26,7 @@ const getSelectedDelivery = (days, root = document) => {
 
   return {
     name: option.value,
-    price: getDeliveryPriceForDays(days, option),
+    price: deliveryPrice(days, option),
   };
 };
 
@@ -38,7 +38,7 @@ const buildDeliveryText = (delivery) =>
 
 export {
   buildDeliveryText,
+  deliveryPrice,
   formatDeliveryPrice,
-  getDeliveryPriceForDays,
   getSelectedDelivery,
 };

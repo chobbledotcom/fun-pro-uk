@@ -1,8 +1,5 @@
 import { describe, expect, test } from "bun:test";
-import {
-  configureGuides,
-  guidesByCategory,
-} from "#collections/guides.js";
+import { configureGuides, guidesByCategory } from "#collections/guides.js";
 import {
   createMockEleventyConfig,
   expectResultTitles,
@@ -104,5 +101,4 @@ describe("guides", () => {
     expect(typeof mockConfig.filters.guidesByCategory).toBe("function");
     expect(mockConfig.filters.guidesByCategory).toBe(guidesByCategory);
   });
-
 });

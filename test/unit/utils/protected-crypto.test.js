@@ -2,15 +2,16 @@ import { describe, expect, test } from "bun:test";
 import { webcrypto } from "node:crypto";
 import { decodeBase64, encodeBase64 } from "#utils/aes-base64.js";
 import {
+  decryptPayload,
   decryptWithKey,
   deriveAesGcmKey,
   encodePayload,
   encryptWithKey,
   getRandomBytes,
-  normalizePassword,
-  parsePayload,
   IV_BYTES,
+  normalizePassword,
   PBKDF2_ITERATIONS,
+  parsePayload,
   SALT_BYTES,
 } from "#utils/protected-crypto.js";
 
@@ -38,20 +39,14 @@ describe("protected-crypto", () => {
   test("round-trips bytes through a password-derived key", async () => {
     const original = crypto.getRandomValues(new Uint8Array(64));
     const payload = await encryptRoundTrip("correct horse", original);
-    const key = await deriveAesGcmKey(
-      "correct horse",
-      payload.salt,
-      payload.iterations,
-    );
-    const decrypted = await decryptWithKey(key, payload.iv, payload.ct);
+    const decrypted = await decryptPayload(payload, "correct horse");
 
     expect(Array.from(decrypted)).toEqual(Array.from(original));
   });
 
   test("round-trips an empty payload", async () => {
     const payload = await encryptRoundTrip("pw", new Uint8Array(0));
-    const key = await deriveAesGcmKey("pw", payload.salt, payload.iterations);
-    const decrypted = await decryptWithKey(key, payload.iv, payload.ct);
+    const decrypted = await decryptPayload(payload, "pw");
     expect(decrypted.byteLength).toBe(0);
   });
 

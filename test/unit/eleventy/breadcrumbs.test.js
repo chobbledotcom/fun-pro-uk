@@ -305,5 +305,4 @@ describe("breadcrumbsFilter", () => {
       ).toThrow('Slug "widgets" not found');
     });
   });
-
 });

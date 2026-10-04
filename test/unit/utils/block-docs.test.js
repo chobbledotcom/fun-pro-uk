@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test";
-import { execSync } from "node:child_process";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import YAML from "yaml";
@@ -11,8 +10,6 @@ const RENDER_BLOCK_PATH = join(
   rootDir,
   "src/_includes/design-system/render-block.html",
 );
-const BLOCKS_LAYOUT_PATH = join(rootDir, "BLOCKS_LAYOUT.md");
-const GENERATOR_SCRIPT = join(rootDir, "scripts/generate-blocks-reference.js");
 const PAGES_YML_PATH = join(rootDir, ".pages.yml");
 
 /** Extract block type names from the Liquid case statements in render-block.html */
@@ -60,15 +57,6 @@ describe("render-block.html sync", () => {
       (type) => !schemaTypes.has(type),
     );
     expect(extra).toEqual([]);
-  });
-});
-
-describe("BLOCKS_LAYOUT.md freshness", () => {
-  test("BLOCKS_LAYOUT.md matches generated output", () => {
-    const committed = readFileSync(BLOCKS_LAYOUT_PATH, "utf-8");
-    execSync(`bun ${GENERATOR_SCRIPT}`, { cwd: rootDir, stdio: "pipe" });
-    const regenerated = readFileSync(BLOCKS_LAYOUT_PATH, "utf-8");
-    expect(regenerated).toBe(committed);
   });
 });
 

@@ -104,6 +104,45 @@ const generateCustomBlocksCollectionConfig = (name, config, fieldContext) => {
 };
 
 /**
+ * Media sources: images are the default upload target; the "protected"
+ * source feeds the file field on password-protected pages. Files there
+ * are encrypted at build time and are never copied to the output as-is.
+ * @param {CmsConfig} config - CMS configuration
+ * @param {boolean} hasSrcFolder - Whether the site uses a src/ folder
+ * @param {string} imagesPath - Upload path for the images source
+ * @returns {object[]} Media source definitions
+ */
+const buildMediaSources = (config, hasSrcFolder, imagesPath) => {
+  const protectedAssetsPath = hasSrcFolder
+    ? "src/protected-assets"
+    : "protected-assets";
+  return [
+    {
+      name: "images",
+      label: "Images",
+      input: imagesPath,
+      output: "/images",
+      path: imagesPath,
+      categories: ["image"],
+      rename: true,
+    },
+    ...(config.features.protected_documents
+      ? [
+          {
+            name: "protected",
+            label: "Protected documents",
+            input: protectedAssetsPath,
+            output: "/protected-assets",
+            path: protectedAssetsPath,
+            categories: ["image", "document", "compressed"],
+            rename: true,
+          },
+        ]
+      : []),
+  ];
+};
+
+/**
  * Generate complete .pages.yml configuration
  * @param {CmsConfig} config - CMS configuration
  * @returns {string} YAML string for .pages.yml
@@ -126,35 +165,7 @@ export const generatePagesYaml = (config) => {
   const dataPath = getDataPath(hasSrcFolder);
   const imagesPath = hasSrcFolder ? "src/images" : "images";
 
-  /**
-   * Media sources: images are the default upload target; the "protected"
-   * source feeds the file field on password-protected pages. Files there
-   * are encrypted at build time and are never copied to the output as-is.
-   */
-  const media = [
-    {
-      name: "images",
-      label: "Images",
-      input: imagesPath,
-      output: "/images",
-      path: imagesPath,
-      categories: ["image"],
-      rename: true,
-    },
-    ...(config.features.protected_documents
-      ? [
-          {
-            name: "protected",
-            label: "Protected documents",
-            input: hasSrcFolder ? "src/protected-assets" : "protected-assets",
-            output: "/protected-assets",
-            path: hasSrcFolder ? "src/protected-assets" : "protected-assets",
-            categories: ["image", "document", "compressed"],
-            rename: true,
-          },
-        ]
-      : []),
-  ];
+  const media = buildMediaSources(config, hasSrcFolder, imagesPath);
 
   // Build content array, conditionally including homepage
   const contentArray = [

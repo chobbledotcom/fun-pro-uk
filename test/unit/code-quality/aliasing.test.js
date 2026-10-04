@@ -207,6 +207,9 @@ const empty = null;`;
     const { violations } = analyzeWithAllowlist({
       findFn: findAliases,
       files: SRC_JS_FILES,
+      // idleLabel captures the button text before the loading state replaces
+      // it; the original cannot be re-read after submit.
+      allowlist: frozenSet(["src/_lib/public/ui/protected-pages.js"]),
     });
     assertNoViolations(violations, {
       singular: "alias",

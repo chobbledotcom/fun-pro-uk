@@ -3,7 +3,7 @@ import { onReady } from "#public/utils/on-ready.js";
 
 const FORM_SELECTOR = "form.contact-form";
 
-const replaceDateWithFormattedHidden = (dateInput) => {
+const maskDateInput = (dateInput) => {
   if (!dateInput.value || !dateInput.name) return;
   const hidden = document.createElement("input");
   hidden.type = "hidden";
@@ -13,16 +13,16 @@ const replaceDateWithFormattedHidden = (dateInput) => {
   dateInput.insertAdjacentElement("afterend", hidden);
 };
 
-export const formatDateInputsForSubmission = (form) => {
+export const formatDateInputs = (form) => {
   for (const dateInput of form.querySelectorAll('input[type="date"]')) {
-    replaceDateWithFormattedHidden(dateInput);
+    maskDateInput(dateInput);
   }
 };
 
 onReady(() => {
   for (const form of document.querySelectorAll(FORM_SELECTOR)) {
     form.addEventListener("submit", () => {
-      formatDateInputsForSubmission(form);
+      formatDateInputs(form);
       const button = form.querySelector("button[type=submit]");
       button.disabled = true;
       button.textContent = "Submitting..";

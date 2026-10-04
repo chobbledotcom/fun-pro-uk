@@ -78,12 +78,35 @@ export const COMMON_FIELDS = {
     type: "boolean",
     label: "Private page (needs a password to view)",
   },
+  protected_intro: {
+    name: "protected_intro",
+    type: "text",
+    label: "Password screen text (shown to everyone before unlocking)",
+  },
   protected_documents: {
     name: "protected_documents",
     label: "Hidden files (unlocked with the page password)",
-    type: "file",
+    type: "object",
     list: true,
-    options: { media: "protected" },
+    fields: [
+      {
+        name: "file",
+        type: "file",
+        label: "File",
+        required: true,
+        options: { media: "protected" },
+      },
+      {
+        name: "title",
+        type: "string",
+        label: "Display name (e.g. 'Risk assessment - Air hockey')",
+      },
+      {
+        name: "section",
+        type: "string",
+        label: "Section heading (e.g. a game or document type)",
+      },
+    ],
   },
 };
 

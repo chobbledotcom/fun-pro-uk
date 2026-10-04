@@ -51,7 +51,7 @@ const encodeBase64 = (bytes) =>
 /**
  * Decode custom base64 text to bytes.
  * @param {string} text
- * @returns {Uint8Array}
+ * @returns {Uint8Array<ArrayBuffer>}
  */
 const decodeBase64 = (text) => {
   const values = Array.from(text, (ch) => getValue(ch.charCodeAt(0)));

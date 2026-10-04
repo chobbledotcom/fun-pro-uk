@@ -20,6 +20,18 @@ export interface PagesCMSEleventyNavigation {
 }
 
 /**
+ * @typedef {Object} PagesCMSProtectedDocument
+ * @property {unknown} file - File
+ * @property {string} ?title - Display name (e.g. 'Risk assessment - Air hockey')
+ * @property {string} ?section - Section heading (e.g. a game or document type)
+ */
+export interface PagesCMSProtectedDocument {
+  file: unknown;
+  title?: string;
+  section?: string;
+}
+
+/**
  * @typedef {Object} PagesCMSVideo
  * @property {string} id - YouTube Video ID
  * @property {string} title - Title

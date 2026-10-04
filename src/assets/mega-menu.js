@@ -5,7 +5,7 @@
     const badge = nav.querySelector(".mn-badge");
 
     function cartHasItems() {
-      return badge && parseInt(badge.textContent, 10) > 0;
+      return badge && Number.parseInt(badge.textContent, 10) > 0;
     }
 
     if (location.hash) {
@@ -24,63 +24,70 @@
         ticking = true;
         requestAnimationFrame(() => {
           const y = scrollY;
-          nav.classList.toggle("nav-hidden", y > 0 && y > lastY && !cartHasItems());
+          nav.classList.toggle(
+            "nav-hidden",
+            y > 0 && y > lastY && !cartHasItems(),
+          );
           lastY = y;
           ticking = false;
         });
       },
-      { passive: true }
+      { passive: true },
     );
   }
 }
 
-/* ── Tablet: click-to-open dropdowns ── */
-/* First tap on a link with dropdown: opens dropdown.
-   Second tap (dropdown already open): follows the link.
-   Tapping outside: closes all. */
+/* Tablet: first tap on a dropdown link opens it, second tap follows it. */
 {
   const items = document.querySelectorAll(".mn-item[data-has-drop]");
-  const isTablet = () =>
-    window.innerWidth <= 1100 && window.innerWidth >= 769;
+  const isTablet = () => window.innerWidth <= 1100 && window.innerWidth >= 769;
   const isMobile = () => window.innerWidth < 769;
 
   function closeAll(except) {
-    items.forEach((item) => {
+    for (const item of items) {
       if (item !== except) item.classList.remove("is-open");
+    }
+  }
+
+  /** On mobile, only the search dropdown toggles; everything else is native. */
+  const toggleMobileDropdown = (item, e) => {
+    if (!item.querySelector(".mn-drop .mn-search")) return;
+    e.preventDefault();
+    closeAll(item);
+    item.classList.toggle("is-open");
+  };
+
+  /**
+   * First tap on a tablet opens the dropdown; a second tap on a real link
+   * follows it. Desktop is left to hover + native clicks.
+   */
+  const toggleTabletDropdown = (item, link, e) => {
+    if (!isTablet()) return; // desktop: let hover + native click work
+    const followsLink =
+      item.classList.contains("is-open") &&
+      link.tagName === "A" &&
+      link.getAttribute("href");
+    if (followsLink) return;
+
+    // first tap — open dropdown
+    e.preventDefault();
+    closeAll(item);
+    item.classList.toggle("is-open");
+  };
+
+  for (const item of items) {
+    const link = item.querySelector(":scope > a, :scope > button");
+    if (!link) continue;
+
+    link.addEventListener("click", (e) => {
+      if (isMobile()) {
+        toggleMobileDropdown(item, e);
+        return;
+      }
+      toggleTabletDropdown(item, link, e);
     });
   }
 
-  items.forEach((item) => {
-    const link = item.querySelector(":scope > a, :scope > button");
-    if (!link) return;
-
-    link.addEventListener("click", (e) => {
-      // On mobile, only handle search dropdown toggles
-      if (isMobile()) {
-        const hasDrop = item.querySelector(".mn-drop .mn-search");
-        if (!hasDrop) return;
-        e.preventDefault();
-        closeAll(item);
-        item.classList.toggle("is-open");
-        return;
-      }
-      if (!isTablet()) return; // desktop: let hover + native click work
-
-      if (item.classList.contains("is-open")) {
-        // already open — if it's a real link, let it navigate
-        if (link.tagName === "A" && link.getAttribute("href")) {
-          return; // follow the link
-        }
-      }
-
-      // first tap — open dropdown
-      e.preventDefault();
-      closeAll(item);
-      item.classList.toggle("is-open");
-    });
-  });
-
-  // close on outside click
   document.addEventListener("click", (e) => {
     if (!isTablet() && !isMobile()) return;
     if (!e.target.closest(".mn-item[data-has-drop]")) {
@@ -88,12 +95,9 @@
     }
   });
 
-  /* ── Desktop: hover-intent for search dropdown ──
-     Keeps the search dropdown open briefly when the mouse leaves
-     the .mn-item (e.g. passing over the Contact Us button on the
-     way to the search input). */
+  /* Desktop: keep the search dropdown open briefly after the mouse leaves. */
   const searchItem = document.querySelector(
-    ".mn-actions .mn-item[data-has-drop]"
+    ".mn-actions .mn-item[data-has-drop]",
   );
   if (searchItem) {
     let hideTimer = null;

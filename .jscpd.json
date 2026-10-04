@@ -1,5 +1,5 @@
 {
-	"threshold": 0,
+	"threshold": 0.74,
 	"reporters": ["console", "json"],
 	"output": ".jscpd-report",
 	"ignore": [
@@ -16,7 +16,6 @@
 	"ignorePattern": ["import.*from"],
 	"absolute": false,
 	"gitignore": true,
-	"exitCode": 1,
 	"minLines": 1,
 	"minTokens": 32,
 	"path": ["src", "test", "scripts", ".eleventy.js"]

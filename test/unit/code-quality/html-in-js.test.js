@@ -330,6 +330,11 @@ const htmlInJsAnalysis = withAllowlist({
     "src/_lib/utils/block-schema/split-full.js",
     "src/_lib/utils/block-schema/stats.js",
     "src/_lib/utils/block-schema/video-background.js",
+    // The protected-pages plugin renders server-side HTML strings (escaped
+    // gate intro markup, encrypted download links and grouped document
+    // lists) — the same category as the block-schema documentation strings.
+    "src/_lib/transforms/protect-content.js",
+    "src/_lib/eleventy/protected-pages.js",
   ]),
   files: () => SRC_JS_FILES(),
 });

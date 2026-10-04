@@ -1,8 +1,10 @@
 import { describe, expect, test } from "bun:test";
 import { existsSync } from "node:fs";
 import { join } from "node:path";
-import { selectListItemFields } from "#config/list-config.js";
-import listItemFields from "#data/listItemFields.js";
+import {
+  DEFAULT_LIST_ITEM_FIELDS,
+  selectListItemFields,
+} from "#config/list-config.js";
 import { ROOT_DIR } from "#lib/paths.js";
 
 const INCLUDES_DIR = join(ROOT_DIR, "src/_includes");
@@ -22,6 +24,6 @@ describe("list-item-fields", () => {
   });
 
   test("empty config falls back to defaults", () => {
-    expect(selectListItemFields([])).toEqual(listItemFields);
+    expect(selectListItemFields([])).toEqual(DEFAULT_LIST_ITEM_FIELDS);
   });
 });

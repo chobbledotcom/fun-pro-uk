@@ -1,34 +1,24 @@
 import { describe, expect, test } from "bun:test";
-import { webcrypto } from "node:crypto";
-import { injectGate, readGateStrings } from "#transforms/protect-content.js";
+import {
+  PROTECTED_TEST_ITERATIONS,
+  PROTECTED_TEST_LABELS,
+  PROTECTED_TEST_SALT,
+} from "#test/protected-pages-fixtures.js";
 import { wrapHtml } from "#test/test-utils.js";
+import { injectGate, readGateStrings } from "#transforms/protect-content.js";
 import { loadDOM } from "#utils/lazy-dom.js";
 import {
-  decryptWithKey,
+  decryptPayload,
   deriveAesGcmKey,
-  getRandomBytes,
   parsePayload,
 } from "#utils/protected-crypto.js";
 
-if (!globalThis.crypto?.subtle) {
-  Object.defineProperty(globalThis, "crypto", {
-    value: webcrypto,
-    configurable: true,
-  });
-}
-
-const LABELS = {
-  heading: "Staff area",
-  label: "Password",
-  submit: "Open",
-  loading: "Opening…",
-  error: "Wrong password",
-};
-const SALT = getRandomBytes(16);
-const ITERATIONS = 1000;
+const LABELS = PROTECTED_TEST_LABELS;
+const SALT = PROTECTED_TEST_SALT;
+const ITERATIONS = PROTECTED_TEST_ITERATIONS;
 const INPUT_PATH = "src/pages/rams.md";
 
-const protect = async (body, labels = LABELS) => {
+const protect = async (body, labels = LABELS, intro) => {
   const key = await deriveAesGcmKey("build password", SALT, ITERATIONS);
   const dom = await loadDOM(wrapHtml(body));
   await injectGate(dom.window.document, {
@@ -36,6 +26,7 @@ const protect = async (body, labels = LABELS) => {
     salt: SALT,
     iterations: ITERATIONS,
     labels,
+    intro,
     inputPath: INPUT_PATH,
   });
   return dom.serialize();
@@ -47,10 +38,7 @@ const decryptContent = async (gateHtml, password = "build password") => {
     dom.window.document.querySelector("script[data-protected-payload]")
       .textContent,
   );
-  const key = await deriveAesGcmKey(password, payload.salt, payload.iterations);
-  return new TextDecoder().decode(
-    await decryptWithKey(key, payload.iv, payload.ct),
-  );
+  return new TextDecoder().decode(await decryptPayload(payload, password));
 };
 
 describe("protect-content", () => {
@@ -101,9 +89,7 @@ describe("protect-content", () => {
 
     test("fails authentication for the wrong password", async () => {
       const attempt = decryptContent(
-        await protect(
-          '<article id="content"><h1>Secret RAMS</h1></article>',
-        ),
+        await protect('<article id="content"><h1>Secret RAMS</h1></article>'),
         "nope",
       );
       await expect(attempt).rejects.toThrow();
@@ -137,6 +123,65 @@ describe("protect-content", () => {
     test("throws when the page content is empty", async () => {
       const gate = protect('<article id="content"></article>');
       await expect(gate).rejects.toThrow(/content is empty/);
+    });
+  });
+
+  describe("injectGate with protected_intro", () => {
+    test("shows the intro on the gate before the password form", async () => {
+      const html = await protect(
+        '<article id="content"><p>Secret</p></article>',
+        LABELS,
+        "Enter the password from your booking confirmation.",
+      );
+
+      expect(html).toContain("Enter the password from your booking");
+      expect(html.indexOf("protected-intro")).toBeGreaterThan(
+        html.indexOf("<h2>Staff area</h2>"),
+      );
+      expect(html.indexOf("protected-intro")).toBeLessThan(
+        html.indexOf("data-protected-form"),
+      );
+    });
+
+    test("renders intro markdown without allowing raw HTML", async () => {
+      const html = await protect(
+        '<article id="content"><p>Secret</p></article>',
+        LABELS,
+        "Bring **your password**\n\n<script>alert(1)</script>",
+      );
+
+      expect(html).toContain("<strong>your password</strong>");
+      expect(html).not.toContain("<script>alert(1)</script>");
+      expect(html).toContain("&lt;script&gt;");
+    });
+
+    test("keeps the intro out of the encrypted payload", async () => {
+      const decrypted = await decryptContent(
+        await protect(
+          '<article id="content"><p>Secret</p></article>',
+          LABELS,
+          "Public intro text",
+        ),
+      );
+
+      expect(decrypted).toContain("<p>Secret</p>");
+      expect(decrypted).not.toContain("Public intro text");
+    });
+
+    test("skips the intro element when none is provided", async () => {
+      const html = await protect(
+        '<article id="content"><p>Secret</p></article>',
+      );
+      expect(html).not.toContain("protected-intro");
+    });
+
+    test("throws when the intro front matter is not text", async () => {
+      const gate = protect(
+        '<article id="content"><p>Secret</p></article>',
+        LABELS,
+        42,
+      );
+      await expect(gate).rejects.toThrow(/protected_intro/);
     });
   });
 });

@@ -53,6 +53,7 @@ export type SiteConfig = {
   has_products_filter: boolean;
   placeholder_images: boolean;
   enable_theme_switcher: boolean;
+  disable_liquid_cache: boolean;
   timezone: string;
   reviews_truncate_limit: number;
   rating_stars_uses_svg: boolean;
@@ -84,6 +85,19 @@ export type SiteConfig = {
 
   // Derived (computed from other config values)
   internal_link_suffix: string;
+};
+
+/**
+ * Raw config.json as authored per site. Every template feature flag is
+ * optional until a site sets it; defaults are applied by src/_data/config.js.
+ * JSON imports widen literals to strings, so the enum fields stay strings
+ * here — validated-config.js checks them against the valid values.
+ */
+export type RawSiteConfig = Partial<
+  Omit<SiteConfig, "cart_mode" | "product_mode">
+> & {
+  cart_mode?: string | null;
+  product_mode?: string | null;
 };
 
 /**
