@@ -29,29 +29,23 @@ eleventyNavigation:
   order: 0
 ---
 # Event Safety & Compliance Documentation
-
 As part of our commitment to providing safe, professional and well-managed entertainment, we maintain a comprehensive range of health, safety and compliance documentation for the services and equipment we provide.
 
 This secure page contains the relevant documentation for your booking, including:
 
 ### Public Liability Insurance
-
 Our current Public Liability Insurance Certificate is available below for your records.
 
 ### Risk Assessments
-
 Our Risk Assessments identify potential hazards associated with our activities and equipment, together with the control measures we have in place to reduce and manage those risks.
 
 ### Method Statements
-
 Our Method Statements outline how our activities and equipment will be delivered, operated and managed safely and in accordance with our established procedures.
 
 ### PAT Testing Certificates
-
 Where applicable, Portable Appliance Testing (PAT) certificates are provided for relevant electrical equipment used as part of our services.
 
 ### Important Information
-
 The documents provided on this page relate to Fun Pro UK and the services included within your booking. Please ensure that you refer to the most recent version of each document where multiple documents or certificates are provided.
 
 If you require any additional documentation, have a specific compliance requirement, or need information relating to a particular aspect of your booking, please contact our team and we will be happy to assist.
