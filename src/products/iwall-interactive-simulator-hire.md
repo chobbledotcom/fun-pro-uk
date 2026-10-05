@@ -215,7 +215,7 @@ tabs:
 blocks:
   - type: section-header
     dark: false
-    intro: |+
+    intro: |-
       ## Other Interactive Games
 
       Complete your event with our range of interactive entertainment:
@@ -229,4 +229,8 @@ blocks:
       ## Hire the iWall Interactive Simulator for Your Event
 
       Ready to bring the iWall Interactive Simulator to your next corporate event or celebration? ++[Contact Fun Pro UK today](https://www.funprouk.co.uk/contact-fun-pro-uk/)++ to check availability, discuss branding options, and receive a quote for hire across the UK.
+gallery:
+  - /images/iwall-interactive-game-hire-2.jpg
+  - /images/fun-pro-iwall-game-hire-1.jpg
+  - /images/iwall-game-hire-2.jpg
 ---
