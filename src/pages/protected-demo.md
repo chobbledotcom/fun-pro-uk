@@ -25,7 +25,6 @@ protected_documents:
     section: Air hockey
   - file: /protected-assets/2026-air-hockey-pat-1.pdf
     title: Air Hockey PAT
-    section: Air Hockey
 eleventyNavigation:
   order: 0
 ---
