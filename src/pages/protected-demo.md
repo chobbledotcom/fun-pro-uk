@@ -30,6 +30,10 @@ protected_documents:
     title: Air Hockey - PAT
 eleventyNavigation:
   order: 0
+faqs:
+  - question: I need a further document not listed here, what shall I do?
+    answer: Please contact the office team on 02477 220701, alternatively email us -
+      info@funprouk.co.uk
 ---
 # Event Safety & Compliance Documentation
 As part of our commitment to providing safe, professional and well-managed entertainment, we maintain a comprehensive range of health, safety and compliance documentation for the services and equipment we provide.
