@@ -46,6 +46,15 @@ protected_documents:
       Course/bouncy-castle-inflatables-safety-rules-1.pdf
     title: Assault Course - Inflatables Rules
     section: Assault Courses
+  - file: /protected-assets/Axe Throwing/2026-axe-throwing-risk-assessment.pdf
+    title: "Axe Throwing - Risk assessment "
+    section: "Axe Throwing Inflatable "
+  - file: /protected-assets/Axe Throwing/2026-inflatable-blowers-pat.pdf
+    title: Axe Throwing (Inflatable electrical blower) - PAT
+    section: "Axe Throwing Inflatable "
+  - file: /protected-assets/Axe Throwing/method-statement-for-twin-axe-throwing.pdf
+    title: Axe Throwing - Method Statement
+    section: "Axe Throwing Inflatable "
 eleventyNavigation:
   order: 0
 ---
