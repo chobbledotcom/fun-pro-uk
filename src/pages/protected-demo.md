@@ -20,15 +20,25 @@ protected_intro: >
   If you do not have the password, or are unable to access this page, please
   contact the Fun Pro UK team and we will be happy to assist.
 protected_documents:
-  - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
+  - file: /protected-assets/pli-insurance-2026-c39446-twimc.pdf
     title: Certificate
-    section: "** Public Liability, Product Liability and Employers Liability
-      Certificate **"
+    section: Public Liability, Product Liability and Employers Liability Certificate
   - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
     title: Air Hockey - Risk assessment
-    section: "** Air hockey **"
+    section: Air hockey
   - file: /protected-assets/2026-air-hockey-pat-1.pdf
     title: Air Hockey - PAT
+  - file: /protected-assets/method-statement-for-air-hockey.pdf
+    title: Air Hockey - Method Statement
+  - file: /protected-assets/2026-assault-course-risk-assessment.pdf
+    title: "Assault Course - Risk assessment "
+    section: Assault Courses
+  - file: /protected-assets/2026-inflatable-blowers-pat.pdf
+    title: Assault Course - PAT
+  - file: /protected-assets/method-statement-for-inflatable-assault-courses.pdf
+    title: Assault Course - Method Statement
+  - file: /protected-assets/bouncy-castle-inflatables-safety-rules-1.pdf
+    title: Assault Course - Inflatables Rules
 eleventyNavigation:
   order: 0
 ---
