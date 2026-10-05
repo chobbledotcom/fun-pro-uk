@@ -325,7 +325,6 @@ describe("protected-pages", () => {
     test("rejects entries without a usable file", () => {
       const attempts = [
         () => buildProtectedDocumentsHtml([{ title: "No file" }]),
-        () => buildProtectedDocumentsHtml([{ file: "" }]),
         () => buildProtectedDocumentsHtml([{ file: 7, title: "x" }]),
         () => buildProtectedDocumentsHtml([{ file: ".hidden.pdf" }]),
         () => buildProtectedDocumentsHtml([{ file: "a\\b.pdf" }]),
@@ -333,6 +332,23 @@ describe("protected-pages", () => {
       for (const attempt of attempts) {
         expect(attempt).toThrow();
       }
+    });
+
+    test("skips blank entries left behind by the CMS", () => {
+      const html = buildProtectedDocumentsHtml([
+        {},
+        { file: "" },
+        { file: "  " },
+        "",
+        "  ",
+        { file: "a.pdf", title: "Download" },
+      ]);
+      expect(html.match(/<li>/g)).toEqual(["<li>"]);
+      expect(html).toContain('data-protected-asset="a.pdf"');
+    });
+
+    test("renders nothing when every entry is blank", () => {
+      expect(buildProtectedDocumentsHtml([{}, "", { file: null }])).toBe("");
     });
 
     test("rejects non-string titles and sections", () => {

@@ -31,6 +31,7 @@ import {
 import { dirname, join } from "node:path";
 import matter from "gray-matter";
 import strings from "#data/strings.js";
+import { compact } from "#toolkit/fp/array.js";
 import { groupBy } from "#toolkit/fp/grouping.js";
 import { frozenSet } from "#toolkit/fp/set.js";
 import { injectGate, readGateStrings } from "#transforms/protect-content.js";
@@ -284,21 +285,41 @@ const readEntryString = (entry, key, sourceDescription) => {
 };
 
 /**
+ * Check whether an object entry carries no information at all. The CMS list
+ * widget leaves an empty item behind (e.g. `{}` or `{file: null}`) when an
+ * editor removes a document; such entries are skipped instead of failing
+ * the build.
+ * @param {object} entry - Front matter entry
+ * @returns {boolean} True when every value is absent or an empty string
+ */
+const isBlankDocumentEntry = (entry) =>
+  Object.values(entry).every(
+    (value) =>
+      value === null ||
+      value === undefined ||
+      (typeof value === "string" && value.trim() === ""),
+  );
+
+/**
  * Normalise one `protected_documents` entry: legacy entries are plain file
  * names or media paths, while the CMS now writes objects carrying a `file`
- * plus an optional display `title` and `section` heading.
+ * plus an optional display `title` and `section` heading. Entries with no
+ * information at all return null and are dropped by the caller; entries
+ * with content but no `file` still throw.
  * @param {unknown} entry - Front matter entry
- * @returns {{ file: string, title: string, section: string }}
+ * @returns {{ file: string, title: string, section: string } | null}
  */
 const normaliseDocumentEntry = (entry) => {
   if (typeof entry === "string") {
-    return { file: entry, title: "", section: "" };
+    const file = entry.trim();
+    return file ? { file, title: "", section: "" } : null;
   }
   if (typeof entry !== "object" || entry === null) {
     throw new Error(
       `protected_documents entries must be a file or an object with a "file" key, got ${JSON.stringify(entry)}.`,
     );
   }
+  if (isBlankDocumentEntry(entry)) return null;
   const file = readEntryString(entry, "file", "protected_documents entry");
   if (!file) {
     throw new Error(
@@ -317,7 +338,8 @@ const normaliseDocumentEntry = (entry) => {
  * `protected_documents` front matter. Entries sharing a `section` value are
  * grouped under one heading (e.g. a game or document type) in the order
  * sections first appear; the `title` becomes the link text visitors see
- * instead of the raw file name.
+ * instead of the raw file name. Blank entries left behind by the CMS are
+ * skipped, and the shortcode renders nothing when no documents remain.
  * @param {unknown} documents - `protected_documents` front matter value
  * @returns {string}
  */
@@ -328,8 +350,10 @@ export const buildProtectedDocumentsHtml = (documents) => {
     );
   }
 
-  const entries = documents.map((entry) => {
-    const { file, title, section } = normaliseDocumentEntry(entry);
+  const normalised = compact(documents.map(normaliseDocumentEntry));
+  if (normalised.length === 0) return "";
+
+  const entries = normalised.map(({ file, title, section }) => {
     const name = assetNameFromPath(file);
     return {
       section,
