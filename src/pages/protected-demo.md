@@ -21,6 +21,9 @@ protected_intro: >
   contact the Fun Pro UK team and we will be happy to assist.
 protected_documents:
   - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
+    title: Certificate
+    section: Public Liability, Product Liability and Employers Liability Certificate
+  - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
     title: Air Hockey - Risk assessment
     section: Air hockey
   - file: /protected-assets/2026-air-hockey-pat-1.pdf
