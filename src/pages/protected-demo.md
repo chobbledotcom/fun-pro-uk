@@ -28,17 +28,22 @@ protected_documents:
     section: Air hockey
   - file: /protected-assets/2026-air-hockey-pat-1.pdf
     title: Air Hockey - PAT
+    section: Air hockey
   - file: /protected-assets/method-statement-for-air-hockey.pdf
     title: Air Hockey - Method Statement
+    section: Air hockey
   - file: /protected-assets/2026-assault-course-risk-assessment.pdf
     title: "Assault Course - Risk assessment "
     section: Assault Courses
   - file: /protected-assets/2026-inflatable-blowers-pat.pdf
     title: Assault Course - PAT
+    section: Assault Courses
   - file: /protected-assets/method-statement-for-inflatable-assault-courses.pdf
     title: Assault Course - Method Statement
+    section: Assault Courses
   - file: /protected-assets/bouncy-castle-inflatables-safety-rules-1.pdf
     title: Assault Course - Inflatables Rules
+    section: Assault Courses
 eleventyNavigation:
   order: 0
 ---
