@@ -78,6 +78,7 @@ redirect_from:
   - /category/roll-and-bowl/101/8-lane-roll-and-bowl-donkey-derby/
 gallery:
   - /images/products/8-lane-roll-and-bowl-donkey-derby/8-lane-roll-and-bowl-donkey-derby-1.jpg
+  - /images/products/8-lane-roll-and-bowl-donkey-derby/neon-blueplayer-arcade-night.png
 add_ons:
   intro: >-
     ## 8 Lane Roll & Bowl Donkey Derby Branding and Customisation Options
@@ -197,4 +198,5 @@ faqs:
   - question: What space do you need?
     answer: The 8-lane format requires significant space. We'll discuss your venue
       when planning your event.
+thumbnail: /images/products/8-lane-roll-and-bowl-donkey-derby/neon-blueplayer-arcade-night.png
 ---
