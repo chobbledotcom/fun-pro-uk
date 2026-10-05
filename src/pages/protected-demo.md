@@ -22,10 +22,11 @@ protected_intro: >
 protected_documents:
   - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
     title: Certificate
-    section: Public Liability, Product Liability and Employers Liability Certificate
+    section: "### Public Liability, Product Liability and Employers Liability
+      Certificate"
   - file: /protected-assets/2026-air-hockey-risk-assessment.pdf
     title: Air Hockey - Risk assessment
-    section: Air hockey
+    section: "### Air hockey"
   - file: /protected-assets/2026-air-hockey-pat-1.pdf
     title: Air Hockey - PAT
 eleventyNavigation:
