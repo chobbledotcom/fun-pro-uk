@@ -31,7 +31,7 @@ protected_documents:
 eleventyNavigation:
   order: 0
 faqs:
-  - question: I need a further document not listed here, what shall I do?
+  - question: I need a further document not listed here, What shall I do?
     answer: Please contact the office team on 02477 220701, alternatively email us -
       info@funprouk.co.uk
 ---
