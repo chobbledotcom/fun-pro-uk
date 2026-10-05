@@ -11,7 +11,9 @@ protected_intro: >
   This secure library holds our health and safety documentation: risk
   assessments, method statements and PAT testing certificates.
 
+
   **Your password was shared with you upon completion of your booking.**
+
 
   If you do not have the password, or are unable to access the documents, please
   contact the Fun Pro UK team and we will be happy to assist.
