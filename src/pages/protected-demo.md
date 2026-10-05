@@ -30,29 +30,18 @@ protected_documents:
     title: Air Hockey - PAT
 eleventyNavigation:
   order: 0
-faqs:
-  - question: I need a further document not listed here, What shall I do?
-    answer: Please contact the office team on 02477 220701, alternatively email us -
-      info@funprouk.co.uk
 ---
-# Event Safety & Compliance Documentation
-As part of our commitment to providing safe, professional and well-managed entertainment, we maintain a comprehensive range of health, safety and compliance documentation for the services and equipment we provide.
+# Fun Pro UK – Health & Safety & Compliance
 
-This secure page contains the relevant documentation for your booking, including:
+At Fun Pro UK, safety and professionalism are at the heart of everything we do. We provide safe, professionally managed entertainment and equipment for events across the UK.
 
-### Public Liability Insurance
-Our current Public Liability Insurance Certificate is available below for your records.
+This secure page contains the key health and safety, insurance and compliance documents relating to our services, including:
 
-### Risk Assessments
-Our Risk Assessments identify potential hazards associated with our activities and equipment, together with the control measures we have in place to reduce and manage those risks.
+- Public Liability Insurance – Our current insurance certificate.
+- Risk Assessments – Covering potential hazards and the control measures we have in place
+- Method Statements – Explaining how our entertainment, activities and equipment are delivered safely
+- PAT Testing Certificates – Provided where applicable for relevant electrical equipment.
 
-### Method Statements
-Our Method Statements outline how our activities and equipment will be delivered, operated and managed safely and in accordance with our established procedures.
+Please ensure you refer to the most recent version of any document provided.
 
-### PAT Testing Certificates
-Where applicable, Portable Appliance Testing (PAT) certificates are provided for relevant electrical equipment used as part of our services.
-
-### Important Information
-The documents provided on this page relate to Fun Pro UK and the services included within your booking. Please ensure that you refer to the most recent version of each document where multiple documents or certificates are provided.
-
-If you require any additional documentation, have a specific compliance requirement, or need information relating to a particular aspect of your booking, please contact our team and we will be happy to assist.
+If you require additional event safety documentation, risk assessments or compliance information for your booking, please contact the Fun Pro UK team.
