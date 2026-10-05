@@ -35,7 +35,7 @@ const STORE_KEY = "protected-pages-password";
 const EMAIL_KEY_TEXT = generateKeyText();
 const EMAIL_KEY_BYTES = decodeBase64(EMAIL_KEY_TEXT);
 const MAILTO = "mailto:staff@funpro-uk.test";
-const SECRET_HTML = `<h1>Confidential RAMS</h1><a href="#${encrypt(MAILTO, EMAIL_KEY_BYTES)}" data-decrypt-link="">${encrypt("Staff contact", EMAIL_KEY_BYTES)}</a><a href="#protected-file" data-protected-asset="rams.pdf" data-protected-mime="application/pdf">Download RAMS</a>`;
+const SECRET_HTML = `<h1>Confidential RAMS</h1><a href="#${encrypt(MAILTO, EMAIL_KEY_BYTES)}" data-decrypt-link="">${encrypt("Staff contact", EMAIL_KEY_BYTES)}</a><a href="#protected-file" data-protected-asset="rams.pdf" data-protected-mime="application/pdf">Download RAMS</a><a href="#protected-file" data-protected-asset="Air Hockey/pat.pdf" data-protected-mime="application/pdf">Download PAT</a>`;
 
 const realFetch = globalThis.fetch;
 const realCreateObjectURL = URL.createObjectURL;
@@ -173,10 +173,11 @@ describe("protected-pages client", () => {
     expect(article.querySelector("[data-protected-gate]")).toBeNull();
     expect(window.sessionStorage.getItem(STORE_KEY)).toBe(PASSWORD);
 
-    const assetLinked = await waitFor(() => fetchedUrls.length > 0);
+    const assetLinked = await waitFor(() => fetchedUrls.length > 1);
     expect(assetLinked).toBe(true);
     const link = article.querySelector("a[data-protected-asset]");
-    expect(fetchedUrls[0]).toBe("/protected-assets/rams.pdf.enc");
+    expect(fetchedUrls).toContain("/protected-assets/rams.pdf.enc");
+    expect(fetchedUrls).toContain("/protected-assets/Air%20Hockey/pat.pdf.enc");
     expect(link.getAttribute("href")).toBe("blob:mock-decrypted");
 
     const mailRestored = await waitFor(

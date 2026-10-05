@@ -10,9 +10,10 @@
  * never exists on the web server.
  *
  * DOCUMENT ASSETS: files placed in src/protected-assets/ (PDFs,
- * spreadsheets, ...) are encrypted to _site/protected-assets/<name>.enc at
- * the end of the build, so the original files are never uploaded. Reference
- * them from a protected page with
+ * spreadsheets, ...) are encrypted to _site/protected-assets/<path>.enc at
+ * the end of the build (subdirectories are mirrored, e.g. CMS editors file
+ * documents under category folders like "Air Hockey/"), so the original
+ * files are never uploaded. Reference them from a protected page with
  * `{% protectedAsset "rams.pdf", "Download our RAMS (PDF)" %}`; the browser
  * decrypts the linked file with the password that unlocked the page.
  *
@@ -168,16 +169,26 @@ export const writeEncryptedAssets = async ({
 }) => {
   if (!existsSync(assetsDir)) return 0;
 
-  const assetNames = readdirSync(assetsDir, { withFileTypes: true })
-    .filter((entry) => !entry.name.startsWith("."))
-    .flatMap((entry) => {
-      if (entry.isFile()) return [entry.name];
-      throw new Error(
-        `Expected only plain files in ${assetsDir}, found "${entry.name}". Protected assets do not support subdirectories.`,
-      );
-    });
+  /**
+   * List every asset as a path relative to `assetsDir`, descending into
+   * subdirectories (CMS editors organise documents into category folders)
+   * and skipping dotfiles like .gitkeep.
+   * @param {string} dir - Directory currently being listed
+   * @param {string} prefix - Path accumulated so far, without trailing slash
+   * @returns {string[]} Relative asset paths, e.g. "Air Hockey/pat.pdf"
+   */
+  const listAssetFiles = (dir, prefix = "") =>
+    readdirSync(dir, { withFileTypes: true })
+      .filter((entry) => !entry.name.startsWith("."))
+      .flatMap((entry) => {
+        const relative = prefix ? `${prefix}/${entry.name}` : entry.name;
+        return entry.isFile()
+          ? [relative]
+          : listAssetFiles(join(dir, entry.name), relative);
+      });
 
-  if (assetNames.length === 0) return 0;
+  const assetPaths = listAssetFiles(assetsDir);
+  if (assetPaths.length === 0) return 0;
 
   const password = resolvePagePassword(
     undefined,
@@ -185,14 +196,16 @@ export const writeEncryptedAssets = async ({
   );
   const key = await deriveKeyCached(password, salt, iterations);
 
-  for (const name of assetNames) {
-    const assetPath = join(assetsDir, name);
-    const { iv, ct } = await encryptWithKey(key, readFileSync(assetPath));
-    const outputPath = join(outputDir, `${name}.enc`);
+  for (const relativePath of assetPaths) {
+    const { iv, ct } = await encryptWithKey(
+      key,
+      readFileSync(join(assetsDir, relativePath)),
+    );
+    const outputPath = join(outputDir, `${relativePath}.enc`);
     mkdirSync(dirname(outputPath), { recursive: true });
     writeFileSync(outputPath, encodePayload({ salt, iterations, iv, ct }));
   }
-  return assetNames.length;
+  return assetPaths.length;
 };
 
 /**
@@ -231,27 +244,38 @@ const escapeHtml = (value) =>
  * everything the client script needs to swap in a decrypted blob URL once
  * the page has been unlocked; non-inline-viewable file types carry a
  * download attribute so browsers offer to save them instead of wandering.
- * @param {string} name - File name inside src/protected-assets/
+ * @param {string} name - File path relative to src/protected-assets/
+ *   (subdirectories allowed, e.g. "Air Hockey/pat.pdf")
  * @param {string} [label] - Link text (defaults to the file name)
  * @returns {string}
  */
 export const buildProtectedAssetLink = (name, label) => {
   if (!name?.trim()) {
     throw new Error(
-      'The protectedAsset shortcode needs a file name from src/protected-assets/, e.g. {% protectedAsset "rams.pdf", "Download our RAMS (PDF)" %}.',
+      'The protectedAsset shortcode needs a file path from src/protected-assets/, e.g. {% protectedAsset "rams.pdf", "Download our RAMS (PDF)" %}.',
     );
   }
-  if (!/^[A-Za-z0-9][A-Za-z0-9._-]*$/.test(name) || name.includes("..")) {
+  const fileName = name.slice(name.lastIndexOf("/") + 1);
+  const isValidPath =
+    !name.startsWith("/") &&
+    !name.endsWith("/") &&
+    !name.includes("\\") &&
+    name
+      .split("/")
+      .every(
+        (segment) => segment.length > 0 && /^[A-Za-z0-9][^/\\]*$/.test(segment),
+      );
+  if (!isValidPath) {
     throw new Error(
-      `Protected asset name "${name}" must be a plain file name in src/${PROTECTED_ASSETS_DIR}/ (no directories or path tricks).`,
+      `Protected asset path "${name}" must be a file path relative to src/${PROTECTED_ASSETS_DIR}/ (subdirectories allowed; no leading slash, ".." segments, or backslashes).`,
     );
   }
   const mimeType = mimeTypeForAsset(name);
   const safeName = escapeHtml(name);
-  const safeLabel = escapeHtml(label || name);
+  const safeLabel = escapeHtml(label || fileName);
   const downloadAttribute = isInlineMimeType(mimeType)
     ? ""
-    : ` download="${safeName}"`;
+    : ` download="${escapeHtml(fileName)}"`;
   return (
     `<a href="#protected-file" data-protected-asset="${safeName}" ` +
     `data-protected-mime="${escapeHtml(mimeType)}"${downloadAttribute}>${safeLabel}</a>`
@@ -259,12 +283,18 @@ export const buildProtectedAssetLink = (name, label) => {
 };
 
 /**
- * Extract the plain file name from a `protected_documents` entry value;
- * CMS uploads arrive as `/protected-assets/<name>` paths.
+ * Extract the asset path relative to src/protected-assets/ from a
+ * `protected_documents` entry value; CMS uploads arrive as
+ * `/protected-assets/<name>` paths, optionally nested in subdirectories
+ * (e.g. `/protected-assets/Air Hockey/pat.pdf`), while legacy entries are
+ * plain file names.
  * @param {string} value
  * @returns {string}
  */
-const assetNameFromPath = (value) => value.split("/").pop();
+const assetNameFromPath = (value) => {
+  const cmsPrefix = `/${PROTECTED_ASSETS_DIR}/`;
+  return value.startsWith(cmsPrefix) ? value.slice(cmsPrefix.length) : value;
+};
 
 /**
  * Read one optional string property off a `protected_documents` entry.
@@ -353,13 +383,10 @@ export const buildProtectedDocumentsHtml = (documents) => {
   const normalised = compact(documents.map(normaliseDocumentEntry));
   if (normalised.length === 0) return "";
 
-  const entries = normalised.map(({ file, title, section }) => {
-    const name = assetNameFromPath(file);
-    return {
-      section,
-      link: `<li>${buildProtectedAssetLink(name, title || name)}</li>`,
-    };
-  });
+  const entries = normalised.map(({ file, title, section }) => ({
+    section,
+    link: `<li>${buildProtectedAssetLink(assetNameFromPath(file), title)}</li>`,
+  }));
 
   const body = [...groupBy(entries, (entry) => entry.section)]
     .map(([section, groupEntries]) => {

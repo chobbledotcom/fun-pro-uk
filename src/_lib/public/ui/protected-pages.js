@@ -57,7 +57,11 @@ const unlock = async (article, password) => {
   const hydrateAsset = async (link) => {
     const name = link.getAttribute("data-protected-asset");
     const mime = link.getAttribute("data-protected-mime");
-    const response = await fetch(`${ASSET_BASE_URL}${name}.enc`);
+    // Asset names may include subdirectories ("Air Hockey/pat.pdf");
+    // encode each segment so spaces and URL-significant characters in
+    // CMS-chosen folder names survive the request.
+    const encodedPath = name.split("/").map(encodeURIComponent).join("/");
+    const response = await fetch(`${ASSET_BASE_URL}${encodedPath}.enc`);
     if (!response.ok) {
       throw new Error(`Protected asset ${name} could not be loaded.`);
     }

@@ -74,19 +74,6 @@ const setupAssetDirs = (tempDir) => {
   return { assetsDir, outputDir };
 };
 
-/** Assert writeEncryptedAssets rejects with an error matching `pattern`. */
-const expectAssetWriteError = async (assetsDir, outputDir, pattern) => {
-  const error = await expectAsyncThrows(() =>
-    writeEncryptedAssets({
-      assetsDir,
-      outputDir,
-      salt: SALT,
-      iterations: ITERATIONS,
-    }),
-  );
-  expect(error.message).toMatch(pattern);
-};
-
 const runProtectedTransform = (inputPath, content, env = {}) =>
   withEnv(env, async () => {
     const transform = createProtectedTransform({
@@ -259,15 +246,25 @@ describe("protected-pages", () => {
       expect(() => buildProtectedAssetLink("")).toThrow(/protectedAsset/);
     });
 
-    test("rejects path traversal and directories", () => {
+    test("accepts subdirectory paths, downloading the base file name", () => {
+      const link = buildProtectedAssetLink("Air Hockey/notes.docx");
+      expect(link).toContain('data-protected-asset="Air Hockey/notes.docx"');
+      expect(link).toContain('download="notes.docx"');
+      expect(link).toContain(">notes.docx</a>");
+    });
+
+    test("rejects path traversal and absolute or hidden paths", () => {
       const attempts = [
         () => buildProtectedAssetLink("../secrets.pdf"),
-        () => buildProtectedAssetLink("dir/file.pdf"),
+        () => buildProtectedAssetLink("/protected-assets/rams.pdf"),
+        () => buildProtectedAssetLink("dir/../../secrets.pdf"),
         () => buildProtectedAssetLink("a\\b.pdf"),
         () => buildProtectedAssetLink(".hidden.pdf"),
+        () => buildProtectedAssetLink("Air Hockey//pat.pdf"),
+        () => buildProtectedAssetLink("Air Hockey/"),
       ];
       for (const attempt of attempts) {
-        expect(attempt).toThrow(/plain file name/);
+        expect(attempt).toThrow(/file path relative/);
       }
     });
   });
@@ -286,6 +283,21 @@ describe("protected-pages", () => {
         'data-protected-asset="2026-air-hockey-risk-assessment.pdf"',
       );
       expect(html).toContain(">demo.jpg</a>");
+    });
+
+    test("keeps CMS subdirectory paths in the generated links", () => {
+      const html = buildProtectedDocumentsHtml([
+        {
+          file: "/protected-assets/Air Hockey/2026-air-hockey-pat.pdf",
+          title: "Air Hockey - PAT",
+          section: "Air hockey",
+        },
+      ]);
+
+      expect(html).toContain(
+        'data-protected-asset="Air Hockey/2026-air-hockey-pat.pdf"',
+      );
+      expect(html).toContain(">Air Hockey - PAT</a>");
     });
 
     test("shows titles as link text and groups shared sections", () => {
@@ -430,21 +442,94 @@ describe("protected-pages", () => {
         writeFileSync(path.join(assetsDir, "rams.pdf"), "bytes");
         delete process.env.PROTECTED_PAGES_PASSWORD;
 
-        await expectAssetWriteError(
-          assetsDir,
-          outputDir,
-          /PROTECTED_PAGES_PASSWORD/,
+        const error = await expectAsyncThrows(() =>
+          writeEncryptedAssets({
+            assetsDir,
+            outputDir,
+            salt: SALT,
+            iterations: ITERATIONS,
+          }),
         );
+        expect(error.message).toMatch(/PROTECTED_PAGES_PASSWORD/);
       });
     });
 
-    test("rejects subdirectories in the assets folder", async () => {
+    test("mirrors subdirectories into nested .enc paths", async () => {
       await withEnv({ PROTECTED_PAGES_PASSWORD: "pw" }, async () => {
         await withTempDirAsync("assets-subdir", async (tempDir) => {
           const { assetsDir, outputDir } = setupAssetDirs(tempDir);
-          mkdirSync(path.join(assetsDir, "nested"));
+          const original = new TextEncoder().encode("Air hockey PAT bytes");
+          mkdirSync(path.join(assetsDir, "Air Hockey"));
+          mkdirSync(path.join(assetsDir, "Air Hockey", "2026"));
+          writeFileSync(
+            path.join(assetsDir, "Air Hockey", "2026", "pat.pdf"),
+            original,
+          );
 
-          await expectAssetWriteError(assetsDir, outputDir, /subdirectories/);
+          const count = await writeEncryptedAssets({
+            assetsDir,
+            outputDir,
+            salt: SALT,
+            iterations: ITERATIONS,
+          });
+          expect(count).toBe(1);
+
+          const payload = parsePayload(
+            readFileSync(
+              path.join(outputDir, "Air Hockey", "2026", "pat.pdf.enc"),
+              "utf8",
+            ),
+          );
+          const decrypted = await decryptPayload(payload, "pw");
+          expect(Array.from(decrypted)).toEqual(Array.from(original));
+        });
+      });
+    });
+
+    test("distinguishes same-named files in different subdirectories", async () => {
+      await withEnv({ PROTECTED_PAGES_PASSWORD: "pw" }, async () => {
+        await withTempDirAsync("assets-collision", async (tempDir) => {
+          const { assetsDir, outputDir } = setupAssetDirs(tempDir);
+          mkdirSync(path.join(assetsDir, "Assault Course"));
+          mkdirSync(path.join(assetsDir, "Axe Throwing"));
+          const assault = new TextEncoder().encode("assault course blowers");
+          const axe = new TextEncoder().encode("axe throwing blowers");
+          writeFileSync(
+            path.join(assetsDir, "Assault Course", "2026-blowers-pat.pdf"),
+            assault,
+          );
+          writeFileSync(
+            path.join(assetsDir, "Axe Throwing", "2026-blowers-pat.pdf"),
+            axe,
+          );
+
+          const count = await writeEncryptedAssets({
+            assetsDir,
+            outputDir,
+            salt: SALT,
+            iterations: ITERATIONS,
+          });
+          expect(count).toBe(2);
+
+          const decryptFile = async (relativePath) =>
+            Array.from(
+              await decryptPayload(
+                parsePayload(
+                  readFileSync(path.join(outputDir, relativePath), "utf8"),
+                ),
+                "pw",
+              ),
+            );
+          expect(
+            await decryptFile(
+              path.join("Assault Course", "2026-blowers-pat.pdf.enc"),
+            ),
+          ).toEqual(Array.from(assault));
+          expect(
+            await decryptFile(
+              path.join("Axe Throwing", "2026-blowers-pat.pdf.enc"),
+            ),
+          ).toEqual(Array.from(axe));
         });
       });
     });
