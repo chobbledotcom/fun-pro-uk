@@ -233,6 +233,7 @@ gallery:
   - /images/iwall-interactive-game-hire-2.jpg
   - /images/fun-pro-iwall-game-hire-1.jpg
   - /images/iwall-game-hire-2.jpg
+  - /images/products/Iwall/untitled-1.jpg
 order: 1
 categories:
   - src/categories/branded-exhibition-games.md
