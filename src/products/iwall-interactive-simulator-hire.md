@@ -1,7 +1,7 @@
 ---
 title: iWall Interactive Simulator Hire
 thumbnail: /images/iwall-interactive-game-hire.jpg
-price: "1295"
+price: £1295
 meta_title: iWall Interactive Simulator Hire | Fun Pro UK
 meta_description: Hire the iWall Interactive Simulator for corporate events,
   exhibitions and parties. Golf, ski, tennis, football and dance games with
@@ -27,9 +27,7 @@ faqs:
       hand out, lose or send flying into a stand. This makes the iWall a safer
       choice for busy exhibition floors, offices and family events.
   - question: Can the iWall be used outdoors?
-    answer: Yes, on a level hard surface, artificial grass or short grass in dry
-      weather. The screen and electrics must be kept under cover, such as a
-      gazebo or marquee, and a mains power supply needs to be within reach.
+    answer: No, Must be under cover at all times.
   - question: How long does the setup take?
     answer: Setup usually takes around 30 to 45 minutes, including positioning the
       unit, connecting power, calibrating the sensors and running test games. We
@@ -45,21 +43,23 @@ faqs:
       Early booking also gives our design team time to produce any branding you
       need.
 specs:
+  - name: "Player "
+    value: "2"
   - name: Equipment size
     value: Approx. 2.4m x 3.4m footprint x 1.9m height
   - name: Space required
-    value: Approx. 2.7m x 3.5m (football) up to 4.6m x 5.2m (tennis, golf and
-      dance), 2.3m height
+    value: Approx. 2.7m Width x 3.5m Depth x 2.3m Height
   - name: Electric requirements
     value: 1 x UK mains socket, 13A
   - name: Suitability
-    value: Indoor/Outdoor - Dry weather only. Level surface required. Screen must be
-      under cover outdoors
+    value: Indoor Only
   - name: Access
-    value: Requires at least a standard door frame width
+    value: Requires at least a standard door frame width 0.75m
   - name: Extra information
     value: Cannot be carried up or down flights of stairs. Lift required for upper
       floors. Maximum two players at a time
+  - name: Transport Flight case Dimensions
+    value: W=7.5m x D=1.96m x H=1.6m
 tabs:
   - title: What Is the iWall Interactive Simulator?
     image: /images/iwall-interactive-game-hire-1.jpg
@@ -233,4 +233,93 @@ gallery:
   - /images/iwall-interactive-game-hire-2.jpg
   - /images/fun-pro-iwall-game-hire-1.jpg
   - /images/iwall-game-hire-2.jpg
+order: 1
+categories:
+  - src/categories/branded-exhibition-games.md
+  - src/categories/exhibition-games.md
+  - src/categories/freshers-fair-games.md
+  - src/categories/corporate-entertainment.md
+  - src/categories/fun-days.md
+  - src/categories/interactive-game-hire.md
+  - src/categories/prize-games.md
+  - src/categories/pub-games.md
+  - src/categories/weddings.md
+  - src/categories/arcade-games.md
+events:
+  - src/events/celebrations-and-parties.md
+  - src/events/christmas-entertainment.md
+  - src/events/brand-activation.md
+  - src/events/college-entertainment.md
+  - src/events/company-award-ceremonies.md
+  - src/events/conference-idea.md
+  - src/events/educational-and-community.md
+  - src/events/corporate-events.md
+  - src/events/evening-entertainment.md
+  - src/events/exhibition-games.md
+  - src/events/family-fun-days.md
+  - src/events/fundraising-events.md
+  - src/events/office-entertainment.md
+  - src/events/summer-entertainment.md
+  - src/events/university-events.md
+  - src/events/wedding-entertainment.md
+options:
+  - name: 1 Day
+    max_quantity: 10
+    unit_price: 1295
+    days: 1
+  - name: 2 Days
+    max_quantity: 10
+    unit_price: 1943
+    days: 2
+  - name: Day 3
+    max_quantity: 10
+    unit_price: 2268
+    days: 3
+features:
+  - Delivery and collection prices will apply
+  - Public liability insurance included
+  - Custom branding options available
+filter_attributes:
+  - name: Guest Capacity
+    value: 20-200 guests
+  - name: Game Length
+    value: N/A
+  - name: Power Required
+    value: Mains power required
+  - name: Player Count
+    value: 2 player
+add_ons:
+  intro: >-
+    ## iWall Branding & Customisation Options
+
+
+    Turn the **iWall** into a powerful and engaging marketing tool with our
+    custom branding options. Add your company logo, corporate colours, campaign
+    artwork or event-specific graphics to create a fully personalised experience
+    that gets your brand noticed.
+
+
+    Perfect for exhibitions, corporate events, product launches, promotional
+    campaigns and branded activations, a customised iWall helps create a
+    memorable experience for guests while keeping your brand front and centre.
+
+
+    ### Branding Prices From
+
+
+    **In-house branding available.**
+
+
+    Our in-house print team can print, apply and remove your custom branding
+    before and after each event, ensuring your iWall is ready to make an impact.
+
+
+    **Branding is for one-time use only.**
+
+
+    Please contact us for a personalised branding quotation based on your
+    requirements.
+  options:
+    - name: "Branding to the front of the Game "
+      price: 495
 ---
