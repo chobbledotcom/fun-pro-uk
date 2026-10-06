@@ -323,4 +323,5 @@ add_ons:
   options:
     - name: "Branding to the front of the Game "
       price: 495
+subtitle: The Ultimate Interactive Wall Game
 ---
