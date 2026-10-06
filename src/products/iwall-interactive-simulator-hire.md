@@ -46,9 +46,9 @@ specs:
   - name: "Player "
     value: "2"
   - name: Equipment size
-    value: Approx. 2.4m x 3.4m footprint x 1.9m height
+    value: Approx. 2.4m x 3.5m footprint x 12.3m height
   - name: Space required
-    value: Approx. 2.7m Width x 3.5m Depth x 2.3m Height
+    value: Approx. 3m Width x 3.8m Depth x 2.3m Height
   - name: Electric requirements
     value: 1 x UK mains socket, 13A
   - name: Suitability
