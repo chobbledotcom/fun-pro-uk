@@ -50,7 +50,7 @@ filter_attributes:
 options:
   - name: 1 Day
     max_quantity: 10
-    unit_price: 497
+    unit_price: 495
     days: 1
 redirect_from:
   - /category/christmas-game-hire/12/christmas-photo-booths/
